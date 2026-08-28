@@ -1,177 +1,46 @@
 [
   {
-    "topic_label": "haryanvi_singer_ankit_baliyan_murder_cctv",
+    "topic_label": "nepal_flood_dead_body_jewelry_theft",
     "virality_score": 9,
-    "reason": "Chilling CCTV footage showing 18 rounds fired in 25 seconds at Haryanvi singer Ankit Baliyan has massive viral potential.",
+    "reason": "Disturbing viral video from Nepal floods showing people stealing jewelry from dead bodies has immense shock and outrage potential.",
     "region": "india",
-    "headline": "25 सेकेंड में 18 गोलियां मारीं, कार में बैठते ही अंकित बालियान को भून डाला, शामली के घर का CCTV सामने आया",
-    "source_summary": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV फुटेज सामने आया है. पुलिस के अनुसार चार हमलावरों ने 18 राउंड फायरिंग की, जिसमें एक गोली उनके सिर में लगी और उनकी मौके पर ही मौत हो गई.",
-    "source_url": "https://ndtv.in/india/ankit-baliyan-murder-video-cctv-footage-18-round-firing-shamli-shot-dead-haryanvi-singer-youtuber-bhari-court-mein-goli-maarenge-followers-11969157#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 28 Aug 2026 11:12:33 +0530",
-    "hook": "शामली में हरियाणवी सिंगर की दिनदहाड़े हत्या!",
-    "script_hi": "उत्तर प्रदेश के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का दहला देने वाला सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाकर उनकी हत्या कर दी। पुलिस के अनुसार चार हमलावरों ने ताबड़तोड़ फायरिंग की, जिसमें एक गोली सिर में लगने से उनकी मौके पर ही मौत हो गई।",
-    "tts_text_hi": "उत्तर प्रदेश के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का दहला देने वाला सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाकर उनकी हत्या कर दी। पुलिस के अनुसार चार हमलावरों ने ताबड़तोड़ फायरिंग की, जिसमें एक गोली सिर में लगने से उनकी मौके पर ही मौत हो गई।",
-    "title": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV",
-    "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।",
-    "hashtags": [
-      "ShamliNews",
-      "HaryanaSinger",
-      "CrimeNews",
-      "UttarPradesh",
-      "BreakingNews",
-      "CCTVFootage"
-    ],
-    "visual_queries": [
-      "India house exterior cctv camera",
-      "Indian city street car parked",
-      "India police investigation crime scene"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "India police investigation crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "crime scene police investigation india",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9739769/pexels-photo-9739769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India house exterior cctv camera",
-        "credit": "Boys in Bristol Photography",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30648753/pexels-photo-30648753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street car parked",
-        "credit": "thel0stkidd .",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13624160/pexels-photo-13624160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian man sitting in car",
-        "credit": "Mushtaq Hussain",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13709660/pexels-photo-13709660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cctv camera mounted on wall",
-        "credit": "rescriptt  rescriptt",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV security camera footage",
-        "credit": "Florian Süß",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV",
-        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "hashtags": [
-        "ShamliNews",
-        "HaryanaSinger",
-        "CrimeNews",
-        "UttarPradesh",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/haryanvi_singer_ankit_baliyan_murder_cctv.wav",
-    "audio_duration_sec": 21.5,
-    "video_path": "videos/haryanvi_singer_ankit_baliyan_murder_cctv.mp4",
-    "video_duration_sec": 29.46
-  },
-  {
-    "topic_label": "nepal_flood_body_earrings_theft",
-    "virality_score": 9,
-    "reason": "Shocking viral video from Nepal floods showing people stealing earrings from a dead victim's body sparks outrage and high engagement.",
-    "region": "india",
-    "headline": "नदी से महिला का शव निकाला और कान से बालियां नोंच ली... नेपाल बाढ़ का वीडियो वायरल, दो गिरफ्तार",
-    "source_summary": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है. नारायणी नदी में बहकर आई एक महिला के शव को दो लोग पहले बाल पकड़कर बाहर खींचते हैं और फिर उसके कानों से कथित तौर पर सोने की बालियां निकाल लेते हैं. अब पुलिस ने एक्शन लिया है.",
-    "source_url": "https://ndtv.in/world-news/nepal-flood-viral-video-shows-men-earrings-from-woman-dead-body-2-arrested-nepal-flash-flood-victims-corpse-gold-theft-police-action-11969640#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 28 Aug 2026 10:07:23 +0530",
-    "hook": "नेपाल बाढ़ से इंसानियत को शर्मसार करने वाला वीडियो वायरल!",
-    "script_hi": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आई एक महिला के शव के साथ दो लोगों ने घिनौनी हरकत की। आरोपियों ने शव के बाल खींचकर उसे बाहर निकाला और उसके कानों से सोने की बालियां नोंच लीं। वीडियो वायरल होने के बाद पुलिस ने दो लोगों को गिरफ्तार कर लिया है।",
-    "tts_text_hi": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आई एक महिला के शव के साथ दो लोगों ने घिनौनी हरकत की। आरोपियों ने शव के बाल खींचकर उसे बाहर निकाला और उसके कानों से सोने की बालियां नोंच लीं। वीडियो वायरल होने के बाद पुलिस ने दो लोगों को गिरफ्तार कर लिया है।",
-    "title": "नेपाल बाढ़: शव के कान से बालियां नोंचने का वीडियो वायरल, दो गिरफ्तार",
-    "caption": "नेपाल में बाढ़ के दौरान मानवता को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आए शव के साथ लूटपाट करने वाले दो आरोपियों को पुलिस ने गिरफ्तार कर लिया है।",
+    "headline": "नेपाल बाढ़ में इंसानियत शर्मसार, लाश से गहने चुराने का VIDEO वायरल",
+    "source_summary": "नेपाल में बाढ़ पीड़ितों के शवों से बालियां चुराने का एक वीडियो वायरल हुआ, जिसमें कुछ लोग एक महिला के शव से सोने की बालियां निकालते नजर आए. वीडियो सामने आते ही नेपाल पुलिस ने आरोपियों को गिरफ्तार कर लिया. यह घटना नेपाल की सबसे भयानक बाढ़ आपदा के बीच हुई है, जिसमें अब तक करीब 400 लोगों की मौत हो चुकी है.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-flood-dead-body-earrings-stolen-video-police-arrest-ntc-agkp-dskc-2631575-2026-08-28?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-28T09:51:42+05:30",
+    "hook": "नेपाल की बाढ़ में इंसानियत हुई शर्मसार!",
+    "script_hi": "नेपाल की भीषण बाढ़ आपदा में इंसानियत को शर्मसार करने वाला वीडियो सामने आया है। बाढ़ पीड़ितों के शवों से सोने की बालियां चुराते नजर आए आरोपियों को नेपाल पुलिस ने गिरफ्तार कर लिया है। इस आपदा में अब तक करीब चार सौ लोगों की मौत हो चुकी है।",
+    "tts_text_hi": "नेपाल की भीषण बाढ़ आपदा में इंसानियत को शर्मसार करने वाला वीडियो सामने आया है। बाढ़ पीड़ितों के शवों से सोने की बालियां चुराते नजर आए आरोपियों को नेपाल पुलिस ने गिरफ्तार कर लिया है। इस आपदा में अब तक करीब चार सौ लोगों की मौत हो चुकी है।",
+    "title": "नेपाल बाढ़ में लाश से गहने चुराने का वीडियो वायरल",
+    "caption": "नेपाल की भीषण बाढ़ के बीच शवों से गहने चुराने वाले गिरफ्तार। वीडियो हुआ था वायरल।",
     "hashtags": [
       "#NepalFlood",
       "#Shameful",
       "#ViralVideo",
       "#NepalNews",
-      "#CrimeNews",
       "#BreakingNews"
     ],
     "visual_queries": [
-      "flooded river Nepal",
-      "dead body recovery India",
-      "police arrest suspect India"
+      "Nepal flooded street",
+      "police arrest suspect India",
+      "flood disaster aftermath India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video showing a unique local incident involving a dead body, which generic stock B-roll cannot accurately represent and requires manual addition of the real footage or careful handling.",
+    "flag_reason": "The story centers on a specific viral video of the incident which generic stock footage cannot replace; manual review and insertion of the real footage are required.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "flooded river Nepal",
-        "credit": "Sabbir Bhuiyan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6841225/pexels-photo-6841225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "dead body recovery India",
-        "credit": "RDNE Stock project",
-        "duration_sec": 5
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
       },
       {
         "type": "image",
@@ -180,42 +49,248 @@
         "query": "police arrest suspect India",
         "credit": "Kindel Media",
         "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8011188/pexels-photo-8011188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flood disaster aftermath India",
+        "credit": "Amit Chowdhury",
+        "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "aryaveer_sehwag_under_19_selection",
+    "topic_label": "delhi_couple_isi_espionage_arrest",
     "virality_score": 8,
-    "reason": "Virender Sehwag's 18-year-old son Aryaveer getting selected for the India U-19 team is of high interest to cricket fans.",
+    "reason": "Busting of a cross-border ISI spy ring involving a Delhi couple using WhatsApp via Pakistani SIM cards has high national security interest.",
     "region": "india",
-    "headline": "माई बेबी... आर्यवीर सहवाग का भारतीय अंडर-19 टीम में हुआ चयन, मां आरती ने यूं लुटाया प्यार",
-    "source_summary": "18 साल के आर्यवीर सहवाग को भारत की अंडर-19 टीम में शामिल किया गया है। दाएं हाथ के बल्लेबाज आर्यवीर आरती और वीरेंद्र सहवाग के बेटे हैं।",
-    "source_url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/aarti-sehwag-congratulate-son-aaryavir-sehwag-selected-for-india-u19-team/articleshow/133583569.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 10:53:00 +0530",
-    "hook": "वीरेंद्र सहवाग के बेटे आर्यवीर का टीम इंडिया में धमाका!",
-    "script_hi": "वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग का भारत की अंडर-उन्नीस टीम में चयन हो गया है। अठारह साल के दाएं हाथ के बल्लेबाज आर्यवीर की इस उपलब्धि पर मां आरती सहवाग ने सोशल मीडिया पर प्यार लुटाया है। फैंस को उम्मीद है कि आर्यवीर अपने पिता की तरह मैदान पर चौके छक्कों की बरसात करेंगे।",
-    "tts_text_hi": "वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग का भारत की अंडर-उन्नीस टीम में चयन हो गया है। अठारह साल के दाएं हाथ के बल्लेबाज आर्यवीर की इस उपलब्धि पर मां आरती सहवाग ने सोशल मीडिया पर प्यार लुटाया है। फैंस को उम्मीद है कि आर्यवीर अपने पिता की तरह मैदान पर चौके छक्कों की बरसात करेंगे।",
-    "title": "आर्यवीर सहवाग का अंडर-उन्नीस टीम में चयन",
-    "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।",
+    "headline": "भारतीय SIM से पाक में WhatsApp! ISI के जासूसी मॉड्यूल का भंडाफोड़",
+    "source_summary": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की ISI से जुड़े एक जासूसी नेटवर्क का खुलासा किया है. इस मामले में दिल्ली-एनसीआर के रहने वाले पति पत्नी साहिल और समीरा को गिरफ्तार किया गया है. दोनों 2024 से सोशल मीडिया के जरिए पाकिस्तानी एजेंटों के संपर्क में थे. उन्होंने भारतीय सिम कार्ड खरीदकर दुबई के रास्ते पाकिस्तान भेजे, जिनसे व्हाट्सएप अकाउंट चलाकर संवेदनशील जानकारी जुटाई गई.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-isi-backed-pakistan-espionage-network-couple-arrested-ntc-agkp-rpti-2631567-2026-08-28?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-28T09:26:18+05:30",
+    "hook": "भारतीय सिम कार्ड से पाकिस्तान में चल रहा था व्हाट्सएप, आईएसआई के बड़े जासूसी नेटवर्क का पर्दाफाश!",
+    "script_hi": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की खुफिया एजेंसी आईएसआई से जुड़े एक जासूसी नेटवर्क का भंडाफोड़ किया है। इस मामले में दिल्ली एनसीआर के रहने वाले पति-पत्नी साहिल और समीरा को गिरफ्तार किया गया है। आरोपी वर्ष दो हजार चौबीस से सोशल मीडिया के जरिए पाकिस्तानी एजेंटों के संपर्क में थे। इन्होंने भारतीय सिम कार्ड खरीदकर दुबई के रास्ते पाकिस्तान भेजे, जिनका इस्तेमाल व्हाट्सएप अकाउंट चलाने और संवेदनशील जानकारी जुटाने के लिए किया जा रहा था।",
+    "tts_text_hi": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की खुफिया एजेंसी आईएसआई से जुड़े एक जासूसी नेटवर्क का भंडाफोड़ किया है। इस मामले में दिल्ली एनसीआर के रहने वाले पति-पत्नी साहिल और समीरा को गिरफ्तार किया गया है। आरोपी वर्ष दो हजार चौबीस से सोशल मीडिया के जरिए पाकिस्तानी एजेंटों के संपर्क में थे। इन्होंने भारतीय सिम कार्ड खरीदकर दुबई के रास्ते पाकिस्तान भेजे, जिनका इस्तेमाल व्हाट्सएप अकाउंट चलाने और संवेदनशील जानकारी जुटाने के लिए किया जा रहा था।",
+    "title": "भारतीय सिम से पाक में व्हाट्सएप! आईएसआई के जासूसी मॉड्यूल का भंडाफोड़",
+    "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की आईएसआई के लिए जासूसी करने वाले एक पति-पत्नी को गिरफ्तार किया है।",
     "hashtags": [
-      "VirenderSehwag",
-      "AryavirSehwag",
-      "TeamIndia",
-      "UnderNineteen",
-      "CricketNews",
-      "IndianCricket"
+      "#DelhiPolice",
+      "#ISI",
+      "#Espionage",
+      "#IndiaNews",
+      "#BreakingNews",
+      "#SpyNetwork"
     ],
     "visual_queries": [
-      "Virender Sehwag",
-      "Indian cricket stadium India",
-      "cricket bat and ball India"
+      "Delhi Police headquarters India",
+      "Indian SIM card mobile India",
+      "WhatsApp mobile application India",
+      "police investigation India"
     ],
-    "named_person": "Virender Sehwag",
-    "named_person_hi": "वीरेंद्र सहवाग",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35616896/pexels-photo-35616896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi Police headquarters India",
+        "credit": "Saksham Vikram",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18553075/pexels-photo-18553075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian SIM card mobile India",
+        "credit": "Rudra Gupta",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14765792/pexels-photo-14765792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "WhatsApp mobile application India",
+        "credit": "Dylann  Hendricks",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "भारतीय सिम से पाक में व्हाट्सएप! आईएसआई के जासूसी मॉड्यूल का भंडाफोड़",
+        "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की आईएसआई के लिए जासूसी करने वाले एक पति-पत्नी को गिरफ्तार किया है।\n\n##DelhiPolice ##ISI ##Espionage ##IndiaNews ##BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की आईएसआई के लिए जासूसी करने वाले एक पति-पत्नी को गिरफ्तार किया है।\n\n##DelhiPolice ##ISI ##Espionage ##IndiaNews ##BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की आईएसआई के लिए जासूसी करने वाले एक पति-पत्नी को गिरफ्तार किया है।\n\n##DelhiPolice ##ISI ##Espionage ##IndiaNews ##BreakingNews"
+      },
+      "hashtags": [
+        "#DelhiPolice",
+        "#ISI",
+        "#Espionage",
+        "#IndiaNews",
+        "#BreakingNews"
+      ]
+    },
+    "audio_path": "audio/delhi_couple_isi_espionage_arrest.wav",
+    "audio_duration_sec": 30.2,
+    "video_path": "videos/delhi_couple_isi_espionage_arrest.mp4",
+    "video_duration_sec": 38.26
+  },
+  {
+    "topic_label": "kanpur_training_aircraft_crash",
+    "virality_score": 7,
+    "reason": "Tragic training aircraft crash in Kanpur resulting in the death of two pilots is a compelling breaking news story.",
+    "region": "india",
+    "headline": "कानपुर के गंगा बैराज में ट्रेनिंग विमान क्रैश",
+    "source_summary": "उत्तर प्रदेश के कानपुर से एक बड़ी खबर सामने आ रही है. यहां के गंगा बैराज इलाके में गर्ग एविएशन का एक ट्रेनिंग विमान क्रैश हो गया है. इस दर्दनाक हादसे में विमान में सवार दोनों पायलटों की मौत हो गई है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/kanpur-plane-crash-garg-aviation-trainer-aircraft-crashes-killing-two-pilots-ytvd-2631166-2026-08-27?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-27T23:29:33+05:30",
+    "hook": "कानपुर में बड़ा विमान हादसा, ट्रेनिंग विमान क्रैश होने से दो पायलटों की मौत!",
+    "script_hi": "उत्तर प्रदेश के कानपुर में एक बड़ा विमान हादसा हुआ है। गंगा बैराज इलाके में गर्ग एविएशन का एक ट्रेनिंग विमान क्रैश हो गया। इस दर्दनाक हादसे में विमान में सवार दोनों पायलटों की मौत हो गई है। प्रशासन मौके पर मौजूद है और जांच जारी है।",
+    "tts_text_hi": "उत्तर प्रदेश के कानपुर में एक बड़ा विमान हादसा हुआ है। गंगा बैराज इलाके में गर्ग एविएशन का एक ट्रेनिंग विमान क्रैश हो गया। इस दर्दनाक हादसे में विमान में सवार दोनों पायलटों की मौत हो गई है। प्रशासन मौके पर मौजूद है और जांच जारी है।",
+    "title": "कानपुर में ट्रेनिंग विमान क्रैश, दो पायलटों की मौत",
+    "caption": "उत्तर प्रदेश के कानपुर में गंगा बैराज के पास एक ट्रेनिंग विमान क्रैश हो गया, जिससे दोनों पायलटों की दर्दनाक मौत हो गई।",
+    "hashtags": [
+      "Kanpur",
+      "PlaneCrash",
+      "UttarPradesh",
+      "BreakingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Kanpur city India",
+      "Ganga river India",
+      "airplane wreckage India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10963370/pexels-photo-10963370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kanpur city India",
+        "credit": "Ayush Gautam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38236787/pexels-photo-38236787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ganga river India",
+        "credit": "Bishal Pixels",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14512561/pexels-photo-14512561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "small airplane flying sky",
+        "credit": "Nici Gottstein",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कानपुर में ट्रेनिंग विमान क्रैश, दो पायलटों की मौत",
+        "caption": "उत्तर प्रदेश के कानपुर में गंगा बैराज के पास एक ट्रेनिंग विमान क्रैश हो गया, जिससे दोनों पायलटों की दर्दनाक मौत हो गई।\n\n#Kanpur #PlaneCrash #UttarPradesh #BreakingNews #HindiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के कानपुर में गंगा बैराज के पास एक ट्रेनिंग विमान क्रैश हो गया, जिससे दोनों पायलटों की दर्दनाक मौत हो गई।\n\n#Kanpur #PlaneCrash #UttarPradesh #BreakingNews #HindiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के कानपुर में गंगा बैराज के पास एक ट्रेनिंग विमान क्रैश हो गया, जिससे दोनों पायलटों की दर्दनाक मौत हो गई।\n\n#Kanpur #PlaneCrash #UttarPradesh #BreakingNews #HindiNews"
+      },
+      "hashtags": [
+        "Kanpur",
+        "PlaneCrash",
+        "UttarPradesh",
+        "BreakingNews",
+        "HindiNews"
+      ]
+    },
+    "audio_path": "audio/kanpur_training_aircraft_crash.wav",
+    "audio_duration_sec": 17.41,
+    "video_path": "videos/kanpur_training_aircraft_crash.mp4",
+    "video_duration_sec": 25.46
+  },
+  {
+    "topic_label": "judge_rules_against_pentagon_anthropic_ban",
+    "virality_score": 6,
+    "reason": "A US court ruling that the Trump administration illegally banned AI firm Anthropic is a major global tech development.",
+    "region": "global",
+    "headline": "Trump administration illegally retaliated against Anthropic, judge rules",
+    "source_summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
+    "hook": "एन्थ्रोपिक कंपनी के खिलाफ बड़ा फैसला!",
+    "script_hi": "अमेरिकी अदालत का बड़ा फैसला, ट्रंप प्रशासन ने एंथ्रोपिक कंपनी के खिलाफ गैरकानूनी तरीके से कार्रवाई की थी। इस एआई स्टार्टअप की अमेरिकी सेना द्वारा कृत्रिम बुद्धिमत्ता के इस्तेमाल को लेकर पेंटागन से तनातनी चल रही थी।",
+    "tts_text_hi": "अमेरिकी अदालत का बड़ा फैसला, ट्रंप प्रशासन ने एंथ्रोपिक कंपनी के खिलाफ गैरकानूनी तरीके से कार्रवाई की थी। इस एआई स्टार्टअप की अमेरिकी सेना द्वारा कृत्रिम बुद्धिमत्ता के इस्तेमाल को लेकर पेंटागन से तनातनी चल रही थी।",
+    "title": "ट्रंप प्रशासन पर अदालत का बड़ा फैसला",
+    "caption": "अमेरिकी अदालत ने माना कि ट्रंप प्रशासन ने एंथ्रोपिक के खिलाफ गैरकानूनी कार्रवाई की थी।",
+    "hashtags": [
+      "#Anthropic",
+      "#Trump",
+      "#Pentagon",
+      "#AINEWS",
+      "#USNews",
+      "#ArtificialIntelligence"
+    ],
+    "visual_queries": [
+      "US court building exterior",
+      "artificial intelligence technology concept",
+      "Pentagon building Washington DC",
+      "AI startup office interior"
+    ],
+    "named_person": "Donald Trump",
+    "named_person_hi": "डोनाल्ड ट्रंप",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -223,250 +298,72 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "वीरेंद्र सहवाग",
+        "text": "डोनाल्ड ट्रंप",
         "source": "fallback",
-        "query": "Virender Sehwag",
+        "query": "Donald Trump",
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31723744/pexels-photo-31723744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Virender Sehwag",
-        "credit": "Princeton dsouza",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10018211/pexels-photo-10018211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket bat and ball India",
-        "credit": "Simon Reza",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "आर्यवीर सहवाग का अंडर-उन्नीस टीम में चयन",
-        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
-      },
-      "hashtags": [
-        "VirenderSehwag",
-        "AryavirSehwag",
-        "TeamIndia",
-        "UnderNineteen",
-        "CricketNews"
-      ]
-    },
-    "audio_path": "audio/aryaveer_sehwag_under_19_selection.wav",
-    "audio_duration_sec": 21.51,
-    "video_path": "videos/aryaveer_sehwag_under_19_selection.mp4",
-    "video_duration_sec": 29.56
-  },
-  {
-    "topic_label": "yamaha_yzf_r2_launch",
-    "virality_score": 8,
-    "reason": "Launch of the stylish new Yamaha YZF-R2 supersport bike with strong youth appeal and affordable pricing.",
-    "region": "india",
-    "headline": "युवाओं के लिए आ गई धांसू मोटरसाइकल Yamaha YZF-R2, स्टाइलिश लुक और पावरहाउस, देखें कीमत-खासियत",
-    "source_summary": "<strong>Yamaha YZF R2 Launch Price Features</strong>: इंडिया यामाहा मोटर ने देश में अपनी सबसे फेमस आर-सीरीज मोटरसाइकल पोर्टफोलियो का विस्तार करते हुए सुपरस्पोर्ट बाइक यामाहा वाईजीएफ-आ2 को लॉन्च कर दिया है, जिसकी शुरुआती एक्स-शोरूम कीमत 2,30,500 रुपये है। आर-सीरीज की विरासत को आगे बढ़ाते हुए यह मॉडल भारतीय युवाओं को प्रीमियम और ईजी परफॉर्मेंस प्रदान करता है। इस बाइक की सबसे बड़ी खासियत इसका नया 204 सीसी लिक्विड-कूल्ड DOHC इंजन है, जो सेगमेंट-लीडिंग 26.5 पीएस की पावर और 19.1 न्यूटन मीटर का टॉर्क जेनरेट करता है। इसके अलावा इसमें सेगमेंट-फर्स्ट बाय-डायरेक्शनल क्विक शिफ्टर, हल्का 149 किलो का चेसिस, 37 एमएम USD फोर्क्स और 3 राइडिंग मोड्स जैसी आधुनिक तकनीक मिलती है। शानदार एयरोडायनैमिक डिजाइन और बेहतरीन परफॉर्मेंस का यह मेल राइडर्स के लिए एक रोमांचक और बैलेंस राइडिंग एक्सपीरियंस सुनिश्चित करता है।",
-    "source_url": "https://navbharattimes.indiatimes.com/auto/car-bikes/yamaha-yzf-r2-motorcycle-makes-global-debut-in-india-with-stylish-look-modern-features-and-powerful-engine-know-price/articleshow/133583828.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 10:44:00 +0530",
-    "hook": "युवाओं के लिए आ गई यामाहा की धांसू मोटरसाइकल!",
-    "script_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इसमें दो सौ चार सीसी का दमदार इंजन और आधुनिक फीचर्स दिए गए हैं।",
-    "tts_text_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इसमें दो सौ चार सीसी का दमदार इंजन और आधुनिक फीचर्स दिए गए हैं।",
-    "title": "Yamaha YZF-R2 Launched in India",
-    "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।",
-    "hashtags": [
-      "Yamaha",
-      "YamahaR2",
-      "BikeLaunch",
-      "SuperSport",
-      "AutoNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian motorcycle showroom India",
-      "sport bike riding India",
-      "motorcycle engine close up India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/38507489/16353012_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/29549360/12719951_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Indian motorcycle showroom India",
-        "credit": "Ankit Rainloure",
-        "source_duration_sec": 14,
+        "query": "Pentagon building Washington DC",
+        "credit": "Nika Navi",
+        "source_duration_sec": 13,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10920663/pexels-photo-10920663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17843099/pexels-photo-17843099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sport bike riding India",
-        "credit": "Nandu Vasudevan",
-        "duration_sec": 4.0
+        "query": "US court building exterior",
+        "credit": "Phung Touch",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37609825/pexels-photo-37609825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "motorcycle engine close up India",
-        "credit": "Hemant Bhardwaj",
-        "duration_sec": 4.0
+        "query": "artificial intelligence technology concept",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8532393/pexels-photo-8532393.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3778613/pexels-photo-3778613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sport motorcycle modern design",
-        "credit": "Abhinav Toppo",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10597280/pexels-photo-10597280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "young indian man riding bike",
-        "credit": "Anil  Sharma",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28051514/pexels-photo-28051514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "motorcycle showroom display india",
-        "credit": "PRATIK BRAHMBHATT",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31204475/pexels-photo-31204475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sports bike on highway",
-        "credit": "FBO Media",
-        "duration_sec": 4.0
+        "query": "AI startup office interior",
+        "credit": "Polina Zimmerman",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Yamaha YZF-R2 Launched in India",
-        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+        "title": "ट्रंप प्रशासन पर अदालत का बड़ा फैसला, एन्थ्रोपिक कंपनी के खिलाफ गैरकानूनी कार्रवाई साबित ⚖️",
+        "caption": "सीसीटीवी या सोशल मीडिया नहीं, अदालत के इस आदेश ने सबको चौंका दिया है। ट्रंप प्रशासन द्वारा एआई कंपनी एन्थ्रोपिक के खिलाफ की गई कार्रवाई को जज ने गैरकानूनी करार दिया है। टेक इंडस्ट्री में इस फैसले के बाद हलचल मच गई है। पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#Anthropic #TrumpAdministration #AI News #Court Ruling #Tech News"
       },
       "instagram": {
         "title": null,
-        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+        "caption": "ट्रंप प्रशासन पर अदालत का बड़ा फैसला! एआई कंपनी एन्थ्रोपिक के खिलाफ हुई कार्रवाई गैरकानूनी निकली। टेक और कानून की दुनिया में इस फैसले ने हलचल मचा दी है। शेयर करें इस बड़ी अपडेट को।\n\n#Anthropic #TrumpAdministration #AI News #Court Ruling #Tech News"
       },
       "facebook": {
         "title": null,
-        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+        "caption": "ट्रंप प्रशासन पर अदालत का बड़ा फैसला सामने आया है। अमेरिकी प्रशासन द्वारा एआई कंपनी एन्थ्रोपिक के खिलाफ की गई कार्रवाई को अदालत ने पूरी तरह से गैरकानूनी करार दिया है। इस चौंकाने वाले फैसले के बाद टेक जगत में बड़ी बहस छिड़ गई है। आपको क्या लगता है, क्या टेक कंपनियों पर इस तरह का दबाव डालना सही है? कमेंट में बताएं और वीडियो पूरा देखें।\n\n#Anthropic #TrumpAdministration #AI News #Court Ruling #Tech News"
       },
       "hashtags": [
-        "Yamaha",
-        "YamahaR2",
-        "BikeLaunch",
-        "SuperSport",
-        "AutoNews"
+        "Anthropic",
+        "TrumpAdministration",
+        "AI News",
+        "Court Ruling",
+        "Tech News"
       ]
     },
-    "audio_path": "audio/yamaha_yzf_r2_launch.wav",
-    "audio_duration_sec": 14.18,
-    "video_path": "videos/yamaha_yzf_r2_launch.mp4",
-    "video_duration_sec": 22.06
-  },
-  {
-    "topic_label": "delhi_couple_isi_espionage_arrest",
-    "virality_score": 8,
-    "reason": "High-profile Delhi couple arrested by Special Cell for spying for Pakistan's ISI using fake SIM cards via Dubai.",
-    "region": "india",
-    "headline": "पाकिस्तानी एजेंसी ISI के लिए जासूसी! साहिल-समीरा को पुलिस ने पकड़ा, SIM कार्ड-खुफिया जानकारी भेजने का आरोप",
-    "source_summary": "Delhi Police News: पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी के आरोप में स्पेशल ने एक कपल को पकड़ा है। उसका नाम साहिल और समीरा है। उन पर सिम कार्ड और खुफिया जानकारी भेजने का आरोप है।",
-    "source_url": "https://navbharattimes.indiatimes.com/india/delhi-police-special-cell-arrests-couple-isi-backed-pakistan-espionage-module-sent-sim-cards-info/articleshow/133583616.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 10:42:00 +0530",
-    "hook": "दिल्ली में आईएसआई के लिए जासूसी!",
-    "script_hi": "दिल्ली पुलिस ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में एक कपल को गिरफ्तार किया है। पकड़े गए आरोपियों के नाम साहिल और समीरा बताए जा रहे हैं। इन पर आरोप है कि ये भारत से सिम कार्ड और बेहद संवेदनशील खुफिया जानकारियां पाकिस्तान भेज रहे थे। पुलिस फिलहाल दोनों से पूछताछ कर रही है।",
-    "tts_text_hi": "दिल्ली पुलिस ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में एक कपल को गिरफ्तार किया है। पकड़े गए आरोपियों के नाम साहिल और समीरा बताए जा रहे हैं। इन पर आरोप है कि ये भारत से सिम कार्ड और बेहद संवेदनशील खुफिया जानकारियां पाकिस्तान भेज रहे थे। पुलिस फिलहाल दोनों से पूछताछ कर रही है।",
-    "title": "दिल्ली में आईएसआई के लिए जासूसी, साहिल और समीरा गिरफ्तार",
-    "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में साहिल और समीरा नाम के कपल को पकड़ा है।",
-    "hashtags": [
-      "DelhiPolice",
-      "ISI",
-      "Espionage",
-      "IndiaNews",
-      "CrimeNews",
-      "BreakingNews"
-    ],
-    "visual_queries": [
-      "Delhi Police station India",
-      "Indian police investigation India",
-      "secret documents India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "यह एक आपराधिक जासूसी का मामला है जिसमें विशिष्ट नाम और आरोप शामिल हैं, हालांकि आरोपी गिरफ्तार हो चुके हैं, फिर भी संवेदनशीलता के कारण मानव समीक्षा आवश्यक है।",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "police interrogation room India",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 18,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi Police station India",
-        "credit": "Frank van Dijk",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8371710/pexels-photo-8371710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "secret documents India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
+    "audio_path": "audio/judge_rules_against_pentagon_anthropic_ban.wav",
+    "audio_duration_sec": 15.45,
+    "video_path": "videos/judge_rules_against_pentagon_anthropic_ban.mp4",
+    "video_duration_sec": 23.42
   }
 ]

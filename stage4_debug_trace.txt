@@ -1,7 +1,6 @@
-ready_labels: ['aryaveer_sehwag_under_19_selection', 'haryanvi_singer_ankit_baliyan_murder_cctv', 'yamaha_yzf_r2_launch']
+ready_labels: ['delhi_couple_isi_espionage_arrest', 'judge_rules_against_pentagon_anthropic_ban', 'kanpur_training_aircraft_crash']
 
-haryanvi_singer_ankit_baliyan_murder_cctv: SUCCESS -> video_path=videos/haryanvi_singer_ankit_baliyan_murder_cctv.mp4 dur=29.456553
-nepal_flood_body_earrings_theft: SKIPPED (not in ready set)
-aryaveer_sehwag_under_19_selection: SUCCESS -> video_path=videos/aryaveer_sehwag_under_19_selection.mp4 dur=29.556553
-yamaha_yzf_r2_launch: SUCCESS -> video_path=videos/yamaha_yzf_r2_launch.mp4 dur=22.056553
-delhi_couple_isi_espionage_arrest: SKIPPED (not in ready set)
+nepal_flood_dead_body_jewelry_theft: SKIPPED (not in ready set)
+delhi_couple_isi_espionage_arrest: SUCCESS -> video_path=videos/delhi_couple_isi_espionage_arrest.mp4 dur=38.255215
+kanpur_training_aircraft_crash: SUCCESS -> video_path=videos/kanpur_training_aircraft_crash.mp4 dur=25.461224
+judge_rules_against_pentagon_anthropic_ban: SUCCESS -> video_path=videos/judge_rules_against_pentagon_anthropic_ban.mp4 dur=23.42322
