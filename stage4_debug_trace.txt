@@ -1,6 +1,7 @@
-ready_labels: ['delhi_couple_isi_espionage_arrest', 'judge_rules_against_pentagon_anthropic_ban', 'kanpur_training_aircraft_crash']
+ready_labels: ['china_humanoid_robot_breaks_record', 'kerala_16_yr_old_ai_ceo_father_salary', 'robot_vacuum_cleaner_cheating_case', 'yamaha_yzf_r2_launch_india']
 
-nepal_flood_dead_body_jewelry_theft: SKIPPED (not in ready set)
-delhi_couple_isi_espionage_arrest: SUCCESS -> video_path=videos/delhi_couple_isi_espionage_arrest.mp4 dur=38.255215
-kanpur_training_aircraft_crash: SUCCESS -> video_path=videos/kanpur_training_aircraft_crash.mp4 dur=25.461224
-judge_rules_against_pentagon_anthropic_ban: SUCCESS -> video_path=videos/judge_rules_against_pentagon_anthropic_ban.mp4 dur=23.42322
+kerala_16_yr_old_ai_ceo_father_salary: SUCCESS -> video_path=videos/kerala_16_yr_old_ai_ceo_father_salary.mp4 dur=27.110227
+robot_vacuum_cleaner_cheating_case: SUCCESS -> video_path=videos/robot_vacuum_cleaner_cheating_case.mp4 dur=30.289887
+makkah_clock_tower_lightning_strike: SKIPPED (not in ready set)
+yamaha_yzf_r2_launch_india: SUCCESS -> video_path=videos/yamaha_yzf_r2_launch_india.mp4 dur=34.62322
+china_humanoid_robot_breaks_record: SUCCESS -> video_path=videos/china_humanoid_robot_breaks_record.mp4 dur=26.877211
