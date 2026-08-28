@@ -1,0 +1,210 @@
+name: 1 - Fetch, Pick, Script, Assets, TTS & Render
+
+on:
+  workflow_dispatch:
+    inputs:
+      auto_approve:
+        description: 'Auto-approve non-flagged posts with assets (skip manual review)'
+        type: boolean
+        default: false
+      topic_limit:
+        description: 'Limit to N topics (e.g. 1 for a fast end-to-end test). Leave blank for normal 5-10.'
+        type: string
+        default: ''
+  # 9 runs/day, workflow START times shifted ~80min EARLIER than the actual
+  # target audience hours (7,9,11,13,15,17,19,21,23 IST) -- a full run was
+  # measured at 77 minutes start-to-finish (Aug 27 2026 run), and posts
+  # publish progressively during that window, not all at the end, so
+  # starting exactly AT the target hour would mean posts actually go out
+  # ~1hr+ after the intended peak. Starts: 5:40,7:40,9:40,11:40,13:40,
+  # 15:40,17:40,19:40,21:40 IST = 0:10,2:10,4:10,6:10,8:10,10:10,12:10,
+  # 14:10,16:10 UTC.
+  schedule:
+    - cron: '10 0,2,4,6,8,10,12,14,16 * * *'
+    - cron: '9 10 * * *'  # TEMPORARY diagnostic while repo is public -- remove once confirmed
+
+# Never run this workflow concurrently with itself or the test workflows --
+# concurrent runs pushing to the same files caused silent data loss.
+concurrency:
+  group: pipeline-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  pick-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install pipeline dependencies (incl. ffmpeg for asset verification)
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install requests
+
+      - name: Run pipeline (fetch, rank, script, assets)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          AUTO_APPROVE: ${{ github.event_name == 'schedule' && 'true' || inputs.auto_approve }}
+          TOPIC_LIMIT: ${{ github.event_name == 'schedule' && '8' || inputs.topic_limit }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/stage0_fetch_and_pick.py
+
+      - name: Install system audio library (needed by soundfile)
+        run: sudo apt-get update && sudo apt-get install -y libsndfile1
+
+      - name: Install TTS dependencies (CPU-only torch, smaller download)
+        run: |
+          pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers soundfile
+          pip install git+https://github.com/huggingface/parler-tts.git
+
+      - name: Run Stage 3 (self-hosted Hindi TTS)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/stage3_tts.py
+
+      - name: Commit posts_with_audio.json for diagnosis (metadata only, not audio files)
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f posts_with_audio.json ]; then
+            git add posts_with_audio.json
+            git commit -m "Auto-commit Stage 3 output metadata" || echo "nothing to commit"
+            for i in 1 2 3 4 5; do
+              git push && break
+              echo "Push attempt $i failed, pulling latest and retrying..."
+              git pull --rebase --autostash origin main
+              sleep $((i * 2))
+            done
+          fi
+
+      - name: Commit error log if Stage 3 failed
+        if: failure()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f stage3_error.txt ]; then
+            git add stage3_error.txt
+            git commit -m "Auto-commit Stage 3 error log for diagnosis"
+            for i in 1 2 3 4 5; do
+              git push && break
+              echo "Push attempt $i failed, pulling latest and retrying..."
+              git pull --rebase --autostash origin main
+              sleep $((i * 2))
+            done
+          fi
+
+      - name: Install ffmpeg + Devanagari font (needed for Hindi subtitle rendering)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-core fonts-noto-extra
+
+      - name: Verify ffmpeg is available
+        run: ffmpeg -version && ffprobe -version
+
+      - name: Run Stage 4 (render final videos)
+        run: python scripts/stage4_render.py
+
+      - name: Commit posts_with_video.json for diagnosis (metadata only, not video files)
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f posts_with_video.json ]; then
+            git add posts_with_video.json
+          fi
+          if [ -f stage4_debug_trace.txt ]; then
+            git add stage4_debug_trace.txt
+          fi
+          for f in stage4_error.txt stage4_per_post_errors.txt; do
+            if [ ! -f "$f" ] && git ls-files --error-unmatch "$f" > /dev/null 2>&1; then
+              git rm "$f"
+            fi
+          done
+          git commit -m "Auto-commit Stage 4 output metadata / clear stale errors" || echo "nothing to commit"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push attempt $i failed, pulling latest and retrying..."
+            git pull --rebase --autostash origin main
+            sleep $((i * 2))
+          done
+
+      - name: Commit error log if Stage 4 failed
+        if: failure()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f stage4_error.txt ]; then
+            git add stage4_error.txt
+            git commit -m "Auto-commit Stage 4 error log for diagnosis"
+            for i in 1 2 3 4 5; do
+              git push && break
+              git pull --rebase --autostash origin main
+              sleep $((i * 2))
+            done
+          fi
+          if [ -f stage4_per_post_errors.txt ]; then
+            git add stage4_per_post_errors.txt
+            git commit -m "Auto-commit Stage 4 per-post error log for diagnosis"
+            for i in 1 2 3 4 5; do
+              git push && break
+              git pull --rebase --autostash origin main
+              sleep $((i * 2))
+            done
+          fi
+
+      - name: Run Stage 5 (publish)
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          UPLOAD_POST_API_KEY: ${{ secrets.UPLOAD_POST_API_KEY }}
+          UPLOAD_POST_USER: ${{ secrets.UPLOAD_POST_USER }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_INSTAGRAM_ACCOUNT_ID: ${{ secrets.ZERNIO_INSTAGRAM_ACCOUNT_ID }}
+          ZERNIO_FACEBOOK_ACCOUNT_ID: ${{ secrets.ZERNIO_FACEBOOK_ACCOUNT_ID }}
+        run: python scripts/stage5_publish.py
+
+      - name: Commit posted_topics.json and publish results
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          git add posted_topics.json posts_published.json daily_post_count.json 2>/dev/null || true
+          git commit -m "Auto-commit Stage 5 publish results" || echo "nothing to commit"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push attempt $i failed, pulling latest and retrying..."
+            git pull --rebase --autostash origin main
+            sleep $((i * 2))
+          done
+
+      - name: Upload all outputs as downloadable artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-output
+          path: |
+            stage0_picked_topics.json
+            posts_ready.json
+            posts_with_assets.json
+            posts_with_audio.json
+            posts_with_video.json
+            audio/
+            videos/
+          retention-days: 7

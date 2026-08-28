@@ -1,0 +1,774 @@
+[
+  {
+    "topic_label": "nepal_flood_death_toll_163",
+    "virality_score": 9,
+    "reason": "Massive natural disaster with huge casualties and rising alert for UP-Bihar.",
+    "region": "india",
+    "headline": "नेपाल की बाढ़ में 163 मौतें, 750 से अधिक लोग लापता, UP-बिहार तक अलर्ट",
+    "source_summary": "Nepal Flood Live: नेपाल में भोटेकोशी नदी में अचानक आए तेज जलप्रवाह और बाढ़ के बाद यूपी और बिहार में भी अलर्ट जारी किया गया है. गंडक नदी के जलस्तर पर प्रशासन लगातार नजर रख रहा है. बता दें कि नेपाल में आई बाढ़ से मरने वालों का आंकड़ा 163 पहुंच गया है. 750 से अधिक लोग लापता हैं.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-flash-flood-live-updates-deaths-missing-rescue-balen-shah-uttar-pradesh-bihar-alert-ntc-amkr-2630788-2026-08-27?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-27T00:36:06+05:30",
+    "hook": "नेपाल की बाढ़ में एक सौ तरेसठ मौतें!",
+    "script_hi": "नेपाल की बाढ़ में एक सौ तरेसठ लोगों की मौत हो चुकी है, जबकि सात सौ पचास से अधिक लोग अभी भी लापता हैं। भोटेकोशी नदी में अचानक आए सैलाब के बाद उत्तर प्रदेश और बिहार में भी हाई अलर्ट जारी कर दिया गया है। प्रशासन गंडक नदी के बढ़ते जलस्तर पर लगातार नजर बनाए हुए है।",
+    "tts_text_hi": "नेपाल की बाढ़ में एक सौ तरेसठ लोगों की मौत हो चुकी है, जबकि सात सौ पचास से अधिक लोग अभी भी लापता हैं। भोटेकोशी नदी में अचानक आए सैलाब के बाद उत्तर प्रदेश और बिहार में भी हाई अलर्ट जारी कर दिया गया है। प्रशासन गंडक नदी के बढ़ते जलस्तर पर लगातार नजर बनाए हुए है।",
+    "title": "नेपाल बाढ़ में 163 मौतें, यूपी-बिहार अलर्ट",
+    "caption": "नेपाल में भोटेकोशी नदी की बाढ़ से भारी तबाही, यूपी और बिहार में भी प्रशासन सतर्क।",
+    "hashtags": [
+      "#NepalFlood",
+      "#BiharAlert",
+      "#UPAlert",
+      "#FloodUpdate",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "India flooded river bank",
+      "India disaster management team",
+      "India river bridge water"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India flooded river bank",
+        "credit": "Arto Suraj",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India disaster management team",
+        "credit": "vikesh zen",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4143599/pexels-photo-4143599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India river bridge water",
+        "credit": "Sanjeev Kumar",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28428673/pexels-photo-28428673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "South Asian flooding drone view",
+        "credit": "Raj Manohar",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14737175/pexels-photo-14737175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people crossing flooded street",
+        "credit": "Th2city Santana",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14192294/pexels-photo-14192294.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "swollen river monsoon season",
+        "credit": "GVN Santhosh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "emergency relief camp India",
+        "credit": "Arto Suraj",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "नेपाल बाढ़ में 163 मौतें, यूपी-बिहार अलर्ट",
+        "caption": "नेपाल में भोटेकोशी नदी की बाढ़ से भारी तबाही, यूपी और बिहार में भी प्रशासन सतर्क।\n\n##NepalFlood ##BiharAlert ##UPAlert ##FloodUpdate ##BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "नेपाल में भोटेकोशी नदी की बाढ़ से भारी तबाही, यूपी और बिहार में भी प्रशासन सतर्क।\n\n##NepalFlood ##BiharAlert ##UPAlert ##FloodUpdate ##BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "नेपाल में भोटेकोशी नदी की बाढ़ से भारी तबाही, यूपी और बिहार में भी प्रशासन सतर्क।\n\n##NepalFlood ##BiharAlert ##UPAlert ##FloodUpdate ##BreakingNews"
+      },
+      "hashtags": [
+        "#NepalFlood",
+        "#BiharAlert",
+        "#UPAlert",
+        "#FloodUpdate",
+        "#BreakingNews"
+      ]
+    },
+    "audio_path": "audio/nepal_flood_death_toll_163.wav",
+    "audio_duration_sec": 20.46,
+    "video_path": "videos/nepal_flood_death_toll_163.mp4",
+    "video_duration_sec": 28.5
+  },
+  {
+    "topic_label": "toxic_movie_box_office_record",
+    "virality_score": 9,
+    "reason": "Yash's film 'Toxic' breaks opening day records, massive entertainment news.",
+    "region": "india",
+    "headline": "Toxic Box Office Collection Day 1: यश की टॉक्सिक ने पहले दिन कमाए 140 करोड़, जवान और एनिमल को छोड़ा पीछे",
+    "source_summary": "Toxic Box Office Collection Day 1: यश की फिल्म ने पहले दिन की कमाई से ही शाहरुख खान और रणबीर सिंह की बड़ी फिल्मों के रिकॉर्ड को तोड़ दिया है. देखना होगा कि फिल्म को रिव्यूज आने के बाद कैसा रिस्पॉन्स मिलता है.",
+    "source_url": "https://ndtv.in/bollywood/toxic-box-office-collection-day-1-yash-movie-collects-140-crore-beats-jawan-and-animal-day-one-collection-11964244#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 27 Aug 2026 07:16:32 +0530",
+    "hook": "यश की फिल्म टॉक्सिक ने बॉक्स ऑफिस पर मचाया तहलका!",
+    "script_hi": "कन्नड़ सुपरस्टार यश की नई फिल्म टॉक्सिक ने पहले ही दिन कमाई के सभी रिकॉर्ड तोड़ दिए हैं। फिल्म ने पहले दिन एक सौ चालीस करोड़ रुपये का कारोबार किया है। इसके साथ ही इसने शाहरुख खान की जवान और रणबीर कपूर की एनिमल जैसी बड़ी फिल्मों को भी पीछे छोड़ दिया है। अब देखना यह है कि समीक्षकों के रिव्यूज आने के बाद फिल्म को दर्शकों का कैसा रिस्पॉन्स मिलता है।",
+    "tts_text_hi": "कन्नड़ सुपरस्टार यश की नई फिल्म टॉक्सिक ने पहले ही दिन कमाई के सभी रिकॉर्ड तोड़ दिए हैं। फिल्म ने पहले दिन एक सौ चालीस करोड़ रुपये का कारोबार किया है। इसके साथ ही इसने शाहरुख खान की जवान और रणबीर कपूर की एनिमल जैसी बड़ी फिल्मों को भी पीछे छोड़ दिया है। अब देखना यह है कि समीक्षकों के रिव्यूज आने के बाद फिल्म को दर्शकों का कैसा रिस्पॉन्स मिलता है।",
+    "title": "Toxic Box Office Collection Day 1: यश की टॉक्सिक ने पहले दिन कमाए 140 करोड़",
+    "caption": "यश की फिल्म टॉक्सिक ने बॉक्स ऑफिस पर पहले दिन धमाकेदार कमाई करते हुए कई बड़े रिकॉर्ड तोड़ दिए हैं।",
+    "hashtags": [
+      "ToxicMovie",
+      "Yash",
+      "BoxOffice",
+      "BollywoodNews",
+      "SouthCinema",
+      "MovieNews"
+    ],
+    "visual_queries": [
+      "Indian cinema hall exterior",
+      "crowded movie theatre India",
+      "Indian film celebration",
+      "celebrity red carpet India"
+    ],
+    "named_person": "Yash",
+    "named_person_hi": "यश",
+    "secondary_persons": [
+      "Shah Rukh Khan",
+      "Ranbir Kapoor"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "यश",
+        "source": "fallback",
+        "query": "Yash",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_585c6a5905.jpg",
+        "source": "wikimedia",
+        "query": "Shah Rukh Khan",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_62746f213c.jpg",
+        "source": "wikimedia",
+        "query": "Ranbir Kapoor",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8273630/pexels-photo-8273630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowded movie theatre India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36842411/pexels-photo-36842411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian film celebration",
+        "credit": "Vineeth Unni",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_62f9229fa7.jpg",
+        "source": "wikimedia_commons",
+        "query": "celebrity red carpet India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 29.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "140 करोड़! यश की 'Toxic' ने पहले दिन तोड़े सारे रिकॉर्ड 💥",
+        "caption": "यश की फिल्म 'Toxic' ने बॉक्स ऑफिस पर मचाया तहलका, पहले ही दिन कमाए 140 करोड़! 🤯\n\nइस दमदार शुरुआत के साथ यश ने 'जवान' और 'एनिमल' जैसी ब्लॉकबस्टर फिल्मों को भी पीछे छोड़ दिया है। फिल्म को लेकर दर्शकों में जबरदस्त क्रेज देखने को मिल रहा है।\n\nक्या आपने यह फिल्म देखी? हमें कमेंट में बताएं और पूरी कहानी जानने के लिए वीडियो पूरा देखें!\n\n#ToxicMovie #Yash #BoxOfficeCollection #BollywoodNews #ToxicBoxOffice"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "यश की फिल्म 'Toxic' ने बॉक्स ऑफिस पर मचाया तहलका, पहले ही दिन कमाए 140 करोड़! 🤯\n\nइस कमाई के साथ इसने 'जवान' और 'एनिमल' के रिकॉर्ड भी तोड़ दिए हैं।\n\nआपकी इस फिल्म पर क्या राय है? शेयर करें अपने दोस्तों के साथ! 🎬\n\n#ToxicMovie #Yash #BoxOfficeCollection #BollywoodNews #ToxicBoxOffice"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "यश की फिल्म 'Toxic' ने बॉक्स ऑफिस पर मचाया तहलका, पहले ही दिन कमाए 140 करोड़! 🤯\n\nरिलीज होते ही इस फिल्म ने कमाई के मामले में 'जवान' और 'एनिमल' जैसी बड़ी फिल्मों को भी पीछे छोड़ दिया है। सिनेमाघरों में दर्शकों की भारी भीड़ उमड़ पड़ी है।\n\nआपको क्या लगता है, क्या यह फिल्म आने वाले दिनों में सारे रिकॉर्ड तोड़ देगी? कमेंट करके जरूर बताएं।\n\n#ToxicMovie #Yash #BoxOfficeCollection #BollywoodNews #ToxicBoxOffice"
+      },
+      "hashtags": [
+        "ToxicMovie",
+        "Yash",
+        "BoxOfficeCollection",
+        "BollywoodNews",
+        "ToxicBoxOffice"
+      ]
+    },
+    "audio_path": "audio/toxic_movie_box_office_record.wav",
+    "audio_duration_sec": 25.52,
+    "video_path": "videos/toxic_movie_box_office_record.mp4",
+    "video_duration_sec": 33.56
+  },
+  {
+    "topic_label": "headlight_high_beam_new_rule",
+    "virality_score": 8,
+    "reason": "Relates to everyday vehicle owners, high public interest and safety.",
+    "region": "india",
+    "headline": "हाई-बीम से नहीं चौंधियाएंगी आंखें! हेडलाइट के लिए सरकार का नया नियम",
+    "source_summary": "Headlight Rule: सड़क परिवहन और राजमार्ग मंत्रालय ने वाहनों की हेडलाइट और रात में उनकी विजिबिलिटी से जुड़े नियमों में बड़े बदलाव का प्रस्ताव तैयार किया है. इस नए नियम के अनुसार हेडलाइट की इंटेंसिटी में बदलाव किया जाएगा. ताकि रात के समय लोगों को हाई-बीम से परेशानी न हो.",
+    "source_url": "https://www.aajtak.in/auto/news/story/headlight-high-beam-rules-india-april-2027-morth-proposal-auaw-dskc-2630270-2026-08-27?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-27T08:17:36+05:30",
+    "hook": "रात में हाई-बीम से परेशान हैं? सरकार का नया नियम बदलेगा हेडलाइट!",
+    "script_hi": "रात के सफर में हाई-बीम की तेज रोशनी से आंखें चौंधियाने की समस्या अब जल्द दूर होने वाली है। सड़क परिवहन और राजमार्ग मंत्रालय ने वाहनों की हेडलाइट और रात की विजिबिलिटी के नियमों में बड़े बदलाव का प्रस्ताव तैयार किया है। नए नियमों के तहत हेडलाइट की इंटेंसिटी यानी चमक में बदलाव किया जाएगा, जिससे रात में गाड़ी चलाना और सुरक्षित होगा।",
+    "tts_text_hi": "रात के सफर में हाई-बीम की तेज रोशनी से आंखें चौंधियाने की समस्या अब जल्द दूर होने वाली है। सड़क परिवहन और राजमार्ग मंत्रालय ने वाहनों की हेडलाइट और रात की विजिबिलिटी के नियमों में बड़े बदलाव का प्रस्ताव तैयार किया है। नए नियमों के तहत हेडलाइट की इंटेंसिटी यानी चमक में बदलाव किया जाएगा, जिससे रात में गाड़ी चलाना और सुरक्षित होगा।",
+    "title": "गाड़ियों की हेडलाइट पर सरकार का नया नियम",
+    "caption": "रात में हाई-बीम की परेशानी से मिलेगा छुटकारा, सरकार ने हेडलाइट नियमों में बदलाव का प्रस्ताव तैयार किया है।",
+    "hashtags": [
+      "HeadlightRule",
+      "CarHeadlight",
+      "RoadSafety",
+      "IndianRoads",
+      "MinistryOfRoadTransport",
+      "DrivingTips",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "car headlight night India",
+      "highway driving night India",
+      "traffic headlight glare India",
+      "Indian ministry building Delhi"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34793612/14751749_720_1280_59fps.mp4",
+        "source": "pexels",
+        "query": "traffic headlight glare India",
+        "credit": "Anshu Kumar",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17742241/pexels-photo-17742241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car headlight night India",
+        "credit": "Nigel Tensing",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "highway driving night India",
+        "credit": "Sourabh Narwade",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18347328/pexels-photo-18347328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian ministry building Delhi",
+        "credit": "Sahil Captures",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "गाड़ियों की हेडलाइट पर सरकार का नया नियम! 🚗 हाई-बीम से नहीं चौंधियाएंगी आंखें",
+        "caption": "रात में हाई-बीम से परेशान हैं? सरकार का नया नियम बदलेगा हेडलाइट! 🚨 अब रात में गाड़ी चलाना होगा आसान क्योंकि सरकार हेडलाइट्स के नियमों में बड़ा बदलाव करने जा रही है। इससे सामने से आ रहे वाहन की तेज रोशनी से आंखें नहीं चौंधियाएंगी। पूरी कहानी देखें और जानें क्या है ये नया नियम।\n\n#CarHeadlightRules #HighBeamProblem #IndianRoadSafety #CarCareTips #NewTrafficRules"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रात में हाई-बीम से परेशान हैं? सरकार का नया नियम बदलेगा हेडलाइट! 🚗✨\n\nअब सामने वाली गाड़ी की तेज रोशनी से आंखें नहीं चौंधियाएंगी। सरकार ने वाहन चालकों की परेशानी को देखते हुए हेडलाइट्स को लेकर नया नियम तैयार किया है। \n\nये बदलाव आपके सफर को कितना सुरक्षित बनाएगा? कमेंट में बताएं।\n\n#CarHeadlightRules #HighBeamProblem #IndianRoadSafety #CarCareTips #NewTrafficRules"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रात में हाई-बीम से परेशान हैं? सरकार का नया नियम बदलेगा हेडलाइट! 🚗💡\n\nअक्सर हाईवे या रात के सफर में सामने वाली गाड़ी की हाई-बीम लाइट आंखों को अंधा कर देती है, जिससे हादसे का खतरा बढ़ जाता है। इसी परेशानी को दूर करने के लिए सरकार अब गाड़ियों की हेडलाइट्स को लेकर नया और सख्त नियम लाने जा रही है। \n\nइससे रात का ड्राइविंग अनुभव पूरी तरह बदल जाएगा। पूरी खबर जानने के लिए वीडियो देखें।\n\n#CarHeadlightRules #HighBeamProblem #IndianRoadSafety #CarCareTips #NewTrafficRules"
+      },
+      "hashtags": [
+        "CarHeadlightRules",
+        "HighBeamProblem",
+        "IndianRoadSafety",
+        "CarCareTips",
+        "NewTrafficRules"
+      ]
+    },
+    "audio_path": "audio/headlight_high_beam_new_rule.wav",
+    "audio_duration_sec": 24.95,
+    "video_path": "videos/headlight_high_beam_new_rule.mp4",
+    "video_duration_sec": 33.01
+  },
+  {
+    "topic_label": "gay_dating_app_extortion_gang_jaipur",
+    "virality_score": 8,
+    "reason": "Bizarre and shocking crime syndicate using dating apps to trap victims.",
+    "region": "india",
+    "headline": "गे-डेटिंग ऐप पर दोस्ती करते थे, फिर मिलने बुलाते थे, पहुंचने पर कर देते थे कांड",
+    "source_summary": "पहले गे-डेटिंग ऐप पर दोस्ती करते थे, फिर कहते थे कि अब मिलने आइए. सामने वाला जब भरोसा करके मिलने पहुंचता, तो सुनसान जगह पर पूरा खेल बदल जाता था. आरोप है कि वहां मारपीट की जाती, सामान लूटा जाता और फिर ब्लैकमेलिंग शुरू हो जाती. जयपुर में ऐसे ही गैंग का पुलिस ने पर्दाफाश किया है.",
+    "source_url": "https://www.aajtak.in/rajasthan/story/jaipur-gay-dating-app-gang-busted-robbery-blackmailing-two-arrested-lcla-strc-2630820-2026-08-27?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-27T08:55:26+05:30",
+    "hook": "गे डेटिंग ऐप से होती थी दोस्ती, फिर शुरू होता था ब्लैकमेलिंग का खतरनाक खेल!",
+    "script_hi": "जयपुर पुलिस ने एक ऐसे गैंग का पर्दाफाश किया है जो गे डेटिंग ऐप के जरिए लोगों को फंसाता था। आरोपी ऐप पर दोस्ती कर मिलने बुलाते थे और सुनसान जगह पर ले जाकर मारपीट करते थे। पीड़ितों का सामान लूटने के बाद उन्हें ब्लैकमेल किया जाता था। पुलिस ने इस मामले में कार्रवाई करते हुए आरोपियों को गिरफ्तार किया है।",
+    "tts_text_hi": "जयपुर पुलिस ने एक ऐसे गैंग का पर्दाफाश किया है जो गे डेटिंग ऐप के जरिए लोगों को फंसाता था। आरोपी ऐप पर दोस्ती कर मिलने बुलाते थे और सुनसान जगह पर ले जाकर मारपीट करते थे। पीड़ितों का सामान लूटने के बाद उन्हें ब्लैकमेल किया जाता था। पुलिस ने इस मामले में कार्रवाई करते हुए आरोपियों को गिरफ्तार किया है।",
+    "title": "जयपुर में गे डेटिंग ऐप से ब्लैकमेल करने वाले गैंग का पर्दाफाश",
+    "caption": "जयपुर में गे डेटिंग ऐप के जरिए लोगों को फंसाने और ब्लैकमेल करने वाले गैंग का पुलिस ने खुलासा किया है।",
+    "hashtags": [
+      "JaipurPolice",
+      "CrimeNews",
+      "Jaipur",
+      "CyberCrime",
+      "RajasthanNews",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Jaipur police station India",
+      "mobile phone dating app India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11662759/pexels-photo-11662759.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Jaipur police station India",
+        "credit": "Madvortex",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6833565/pexels-photo-6833565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile phone dating app India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crime investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "criminal suspects arrested",
+        "credit": "Kindel Media",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11832470/pexels-photo-11832470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night city street India",
+        "credit": "Adhwaith Chandran",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8382443/pexels-photo-8382443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police interrogation room",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "डेटिंग ऐप पर दोस्ती, फिर मिलने बुलाकर लूट! जयपुर में बड़ा पर्दाफाश 🚨",
+        "caption": "गे डेटिंग ऐप से होती थी दोस्ती, फिर शुरू होता था ब्लैकमेलिंग का खतरनाक खेल! 🛑\n\nजयपुर पुलिस ने एक ऐसे शातिर गैंग का खुलासा किया है जो डेटिंग ऐप के जरिए लोगों को फंसाकर पहले अपने जाल में खींचता था और मिलने बुलाकर बड़ी वारदातों को अंजाम देता था। \n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#JaipurNews #CyberCrime #DatingAppFraud #CrimeNews #RajasthanPolice"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "गे डेटिंग ऐप से होती थी दोस्ती, फिर शुरू होता था ब्लैकमेलिंग का खतरनाक खेल! 🛑\n\nजयपुर में डेटिंग ऐप के बहाने बुलाकर लोगों को लूटने वाले गैंग का पर्दाफाश हुआ है। \n\nआपके साथ भी हो सकता है ऐसा, संभलकर रहें! वीडियो शेयर करके सबको सतर्क करें।\n\n#JaipurNews #CyberCrime #DatingAppFraud #CrimeNews #RajasthanPolice"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "गे डेटिंग ऐप से होती थी दोस्ती, फिर शुरू होता था ब्लैकमेलिंग का खतरनाक खेल! 🛑\n\nजयपुर पुलिस के हाथ एक ऐसा खतरनाक गैंग लगा है जो सोशल और डेटिंग ऐप्स का इस्तेमाल करके लोगों को फंसाता था। मिलने की जगह बुलाकर मारपीट, ब्लैकमेलिंग और लूटपाट करना इनका रोज का काम था। \n\nयह सनसनीखेज मामला सामने आने के बाद हर कोई हैरान है। वीडियो में देखें कैसे होता था इस काले खेल का पूरा पर्दाफाश।\n\n#JaipurNews #CyberCrime #DatingAppFraud #CrimeNews #RajasthanPolice"
+      },
+      "hashtags": [
+        "JaipurNews",
+        "CyberCrime",
+        "DatingAppFraud",
+        "CrimeNews",
+        "RajasthanPolice"
+      ]
+    },
+    "audio_path": "audio/gay_dating_app_extortion_gang_jaipur.wav",
+    "audio_duration_sec": 21.79,
+    "video_path": "videos/gay_dating_app_extortion_gang_jaipur.mp4",
+    "video_duration_sec": 29.85
+  },
+  {
+    "topic_label": "delhi_boy_defeats_magnus_carlsen",
+    "virality_score": 8,
+    "reason": "Inspiring achievement of a 15-year-old Indian boy defeating world chess champion.",
+    "region": "india",
+    "headline": "दिग्गज मैग्नस कार्लसन को चेस में हराया, घर आकर चुपचाप सो गया दिल्ली का लड़का",
+    "source_summary": "दिल्ली के 15 साल वंदन अलंकार सवाई ने ऑनलाइन शतरंज में दुनिया के नंबर-1 खिलाड़ी मैग्नस कार्लसन को हरा दिया। इस ऐतिहासिक जीत के बाद भी कोई जश्न मनाए बिना वह चुपचाप सो गए।",
+    "source_url": "https://navbharattimes.indiatimes.com/sports/other-sports/vandan-alankar-sawai-defeated-chess-great-magnus-carlsen/articleshow/133554077.cms",
+    "source_name": "Navbharat Times",
+    "published": "Thu, 27 Aug 2026 07:44:00 +0530",
+    "hook": "दुनिया के नंबर वन चेस खिलाड़ी को हराया दिल्ली के पंद्रह साल के लड़के ने!",
+    "script_hi": "दिल्ली के पंद्रह साल के वंदन अलंकार सवाई ने ऑनलाइन शतरंज में दुनिया के नंबर एक खिलाड़ी मैग्नस कार्लसन को हरा दिया। इस ऐतिहासिक जीत के बाद कोई जश्न मनाने के बजाय वह चुपचाप घर आए और सो गए।",
+    "tts_text_hi": "दिल्ली के पंद्रह साल के वंदन अलंकार सवाई ने ऑनलाइन शतरंज में दुनिया के नंबर एक खिलाड़ी मैग्नस कार्लसन को हरा दिया। इस ऐतिहासिक जीत के बाद कोई जश्न मनाने के बजाय वह चुपचाप घर आए और सो गए।",
+    "title": "दिल्ली के लड़के ने मैग्नस कार्लसन को हराया",
+    "caption": "दिल्ली के पंद्रह साल के वंदन अलंकार सवाई ने ऑनलाइन शतरंज में मैग्नस कार्लसन को हराया।",
+    "hashtags": [
+      "#Chess",
+      "#MagnusCarlsen",
+      "#DelhiNews",
+      "#ChessNews",
+      "#IndiaSports"
+    ],
+    "visual_queries": [
+      "chess board India",
+      "teenager playing chess India"
+    ],
+    "named_person": "Magnus Carlsen",
+    "named_person_hi": "मैग्नस कार्लसन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7131634/7131634-hd_720_1366_30fps.mp4",
+        "source": "pexels",
+        "query": "teenager sleeping bedroom",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "source_duration_sec": 30,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_71126759b5.jpg",
+        "source": "wikimedia",
+        "query": "Magnus Carlsen",
+        "credit": "Wikipedia",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36375614/pexels-photo-36375614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "chess board India",
+        "credit": "Srijit Mudi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7470676/pexels-photo-7470676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "boy sleeping in bedroom",
+        "credit": "Nothing Ahead",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7520848/pexels-photo-7520848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy child studying home",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6437866/pexels-photo-6437866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "boy using laptop room",
+        "credit": "Marta Wave",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14665484/pexels-photo-14665484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian youth bedroom night",
+        "credit": "Vishal Adhikari",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दुनिया के नंबर-1 मैग्नस कार्लसन को दिल्ली के लड़के ने हराया! 🤯",
+        "caption": "दुनिया के नंबर वन चेस खिलाड़ी को हराया दिल्ली के पंद्रह साल के लड़के ने! 🤯\n\nप्रणव ने वर्ल्ड चैंपियन मैग्नस कार्लसन को ऑनलाइन मैच में धूल चटा दी। इसके बाद उसने जो किया, वो और भी हैरान करने वाला था—जीत का जश्न मनाने की बजाय वह चुपचाप अपने बिस्तर पर जाकर सो गया।\n\nऐसी कमाल की जीत के बारे में आपका क्या कहना है? पूरी कहानी जानने के लिए वीडियो देखें।\n\n#MagnusCarlsen #ChessNews #DelhiBoy #ChessChampions #ViralNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दुनिया के नंबर वन चेस खिलाड़ी को हराया दिल्ली के पंद्रह साल के लड़के ने! 🤯\n\nमैग्नस कार्लसन को हराने के बाद इस युवा खिलाड़ी ने कोई जश्न नहीं मनाया, बल्कि चुपचाप जाकर सो गया।\n\nशस के इस ऐतिहासिक उलटफेर के बारे में आपका क्या सोचना है? कमेंट में बताएं और वीडियो शेयर करें! ♟️🇮🇳\n\n#MagnusCarlsen #ChessNews #DelhiBoy #ChessChampions #ViralNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दुनिया के नंबर वन चेस खिलाड़ी को हराया दिल्ली के पंद्रह साल के लड़के ने! 🤯\n\nजब दुनिया का सबसे बड़ा शतरंज खिलाड़ी सामने हो, तो अच्छे-अच्छों के पसीने छूट जाते हैं। लेकिन दिल्ली के इस युवा ने बिना किसी खौफ के मात दे दी। हैरान करने वाली बात यह रही कि इतनी बड़ी जीत के बाद वह कोई पार्टी करने के बजाय सीधे अपने कमरे में गया और चुपचाप सो गया।\n\nइस शांत और शानदार खिलाड़ी की ये कहानी आपको कैसी लगी? वीडियो पूरा जरूर देखें।\n\n#MagnusCarlsen #ChessNews #DelhiBoy #ChessChampions #ViralNews"
+      },
+      "hashtags": [
+        "MagnusCarlsen",
+        "ChessNews",
+        "DelhiBoy",
+        "ChessChampions",
+        "ViralNews"
+      ]
+    },
+    "audio_path": "audio/delhi_boy_defeats_magnus_carlsen.wav",
+    "audio_duration_sec": 15.24,
+    "video_path": "videos/delhi_boy_defeats_magnus_carlsen.mp4",
+    "video_duration_sec": 23.26
+  },
+  {
+    "topic_label": "kuno_cheetah_project_dogs_death",
+    "virality_score": 8,
+    "reason": "High-profile wildlife news concerning Osama bin Laden operation dog breed deaths in Kuno.",
+    "region": "india",
+    "headline": "ओसामा बिन लादेन को ढूंढने वाले खास ब्रीड के दो कुत्तों की मौत, प्रोजेक्ट चीता को बहुत बड़ा झटका",
+    "source_summary": "Kuno National Park: प्रोजेक्ट चीता की सुरक्षा के लिए तैनात बेल्जियम मालिनोइस नस्ल के दो विशेष कुत्तों (इलू और रूबी) की दर्दनाक मौत हो गई है। ओसामा बिन लादेन के खिलाफ ऑपरेशन में शामिल रहने वाले इस खास ब्रीड के दोनों डॉग्स की मौत कथित तौर पर हैंडलर्स की लापरवाही और हादसों के कारण हुई।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/sheopur/kuno-national-park-project-cheetah-belgium-malinois-dogs-breed-death-osama-bin-laden/articleshow/133554192.cms",
+    "source_name": "Navbharat Times",
+    "published": "Thu, 27 Aug 2026 08:48:00 +0530",
+    "hook": "ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की मौत!",
+    "script_hi": "कुनो नेशनल पार्क से एक बुरी खबर सामने आई है। प्रोजेक्ट चीता की सुरक्षा में तैनात बेल्जियम मालिनोइस नस्ल के दो विशेष कुत्तों इलू और रूबी की दर्दनाक मौत हो गई है। ये वही खास ब्रीड थी जिसने ओसामा बिन लादेन के खिलाफ ऑपरेशन में हिस्सा लिया था। शुरुआती रिपोर्ट के अनुसार इन दोनों डॉग्स की मौत हैंडलर्स की लापरवाही और हादसों के कारण हुई है, जो प्रोजेक्ट चीता के लिए एक बहुत बड़ा झटका है।",
+    "tts_text_hi": "कुनो नेशनल पार्क से एक बुरी खबर सामने आई है। प्रोजेक्ट चीता की सुरक्षा में तैनात बेल्जियम मालिनोइस नस्ल के दो विशेष कुत्तों इलू और रूबी की दर्दनाक मौत हो गई है। ये वही खास ब्रीड थी जिसने ओसामा बिन लादेन के खिलाफ ऑपरेशन में हिस्सा लिया था। शुरुआती रिपोर्ट के अनुसार इन दोनों डॉग्स की मौत हैंडलर्स की लापरवाही और हादसों के कारण हुई है, जो प्रोजेक्ट चीता के लिए एक बहुत बड़ा झटका है।",
+    "title": "कुनो नेशनल पार्क में ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की मौत",
+    "caption": "प्रोजेक्ट चीता की सुरक्षा में तैनात बेल्जियम मालिनोइस नस्ल के दो विशेष कुत्तों की मौत, ओसामा बिन लादेन ऑपरेशन में रहे थे शामिल।",
+    "hashtags": [
+      "KunoNationalPark",
+      "CheetahProject",
+      "BelgianMalinois",
+      "IndiaNews",
+      "Wildlife"
+    ],
+    "visual_queries": [
+      "Kuno National Park India forest",
+      "Belgian Malinois dog India",
+      "wildlife conservation India"
+    ],
+    "named_person": "Osama bin Laden",
+    "named_person_hi": "ओसामा बिन लादेन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_9e2adc73a9.jpg",
+        "source": "wikimedia",
+        "query": "Osama bin Laden",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15079537/pexels-photo-15079537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kuno National Park India forest",
+        "credit": "Shoyab Khan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10751446/pexels-photo-10751446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Belgian Malinois dog India",
+        "credit": "Fernando Trujillo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37327264/pexels-photo-37327264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wildlife conservation India",
+        "credit": "Jayesh Krishna Althi",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की मौत! 🐕 प्रोजेक्ट चीता को बड़ा झटका",
+        "caption": "ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की अचानक मौत! 🚨\n\nकुनो नेशनल पार्क में प्रोजेक्ट चीता से जुड़ी एक बुरी खबर सामने आई है। लादेन जैसे खतरनाक मिशनों में काम कर चुके इन खास बेल्जियन शेफर्ड श्वेत ने देश के वन्यजीव संरक्षण में बड़ा योगदान दिया था।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#KunoNationalPark #ProjectCheetah #OsamaBinLadenDogs #CheetahInIndia #WildlifeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की मौत! 🚨\n\nकुनो नेशनल पार्क में प्रोजेक्ट चीता को तगड़ा झटका लगा है। इन खास ट्रेंड कुत्तों ने कई बड़े मिशनों में अहम भूमिका निभाई थी।\n\nशेयर करें अगर आपको ये चौंकाने वाली खबर पहली बार पता चली।\n\n#KunoNationalPark #ProjectCheetah #OsamaBinLadenDogs #CheetahInIndia #WildlifeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ओसामा बिन लादेन को ढूंढने वाले खास कुत्तों की मौत से हर कोई हैरान है। 🐕\n\nमध्य प्रदेश के कुनो नेशनल पार्क में चल रहे प्रोजेक्ट चीता को यह एक बहुत बड़ा झटका माना जा रहा है। दुनिया के सबसे खतरनाक मिशनों का हिस्सा रहे इन खास बेल्जियन शेफर्ड नस्ल के कुत्तों ने वन्यजीव संरक्षण में कई अहम काम किए थे।\n\nपूरी जानकारी के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया दें।\n\n#KunoNationalPark #ProjectCheetah #OsamaBinLadenDogs #CheetahInIndia #WildlifeNews"
+      },
+      "hashtags": [
+        "KunoNationalPark",
+        "ProjectCheetah",
+        "OsamaBinLadenDogs",
+        "CheetahInIndia",
+        "WildlifeNews"
+      ]
+    },
+    "audio_path": "audio/kuno_cheetah_project_dogs_death.wav",
+    "audio_duration_sec": 25.98,
+    "video_path": "videos/kuno_cheetah_project_dogs_death.mp4",
+    "video_duration_sec": 33.89
+  },
+  {
+    "topic_label": "parrot_eggs_smuggler_south_africa_global",
+    "virality_score": 7,
+    "reason": "Bizarre global wildlife smuggling story involving homemade incubator.",
+    "region": "global",
+    "headline": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+    "source_summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+    "source_url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Wed, 26 Aug 2026 19:19:46 GMT",
+    "hook": "दक्षिण अफ्रीका के हवाई अड्डे पर पकड़े गए तस्कर के पास से तोते के अंडे बरामद!",
+    "script_hi": "दक्षिण अफ्रीका के जोहान्सबर्ग हवाई अड्डे पर एक पचास वर्षीय थाई तस्कर को गिरफ्तार किया गया है। आरोपी के पास हाथ के सामान में छिपाकर रखे गए तोते के अंडों से बच्चे निकल आए हैं, जिन्हें वह एक होममेड इनक्यूबेटर में ले जा रहा था।",
+    "tts_text_hi": "दक्षिण अफ्रीका के जोहान्सबर्ग हवाई अड्डे पर एक पचास वर्षीय थाई तस्कर को गिरफ्तार किया गया है। आरोपी के पास हाथ के सामान में छिपाकर रखे गए तोते के अंडों से बच्चे निकल आए हैं, जिन्हें वह एक होममेड इनक्यूबेटर में ले जा रहा था।",
+    "title": "तोते के अंडे हुए हैच",
+    "caption": "दक्षिण अफ्रीका के हवाई अड्डे पर तस्कर के पास मिले तोते के अंडों से बच्चे निकले।",
+    "hashtags": [
+      "ParrotEggs",
+      "WildlifeSmuggling",
+      "SouthAfrica",
+      "AnimalRescue",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "South African airport terminal",
+      "police arrest suspect handcuffs",
+      "wildlife smuggling investigation",
+      "parrot eggs in nest"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34650512/14686793_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "wildlife smuggling investigation",
+        "credit": "Doğan Alpaslan  Demir",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18765318/pexels-photo-18765318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "South African airport terminal",
+        "credit": "𝚗𝚊𝚛𝚍 𝚐𝚎𝚝",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest suspect handcuffs",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30308524/pexels-photo-30308524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "parrot eggs in nest",
+        "credit": "Mohammad Abir",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "तस्कर के पकड़े जाने के बाद बैग में अचानक निकले तोते के बच्चे! 🦜",
+        "caption": "दक्षिण अफ्रीका के हवाई अड्डे पर जब सुरक्षा कर्मियों ने पकड़ा तस्कर, तो बैग के अंदर का नजारा देख सभी हैरान रह गए। 🛃\n\nतस्कर के पास से बरामद तोते के अंडों से आखिरकार चूजे बाहर आ चुके हैं, जिसका वीडियो तेजी से वायरल हो रहा है। 🐣\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#ParrotEggs #WildlifeSmuggling #SouthAfricaAirport #ViralNews #AnimalRescue"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "तस्कर के बैग से निकले तोते के बच्चे! 🦜 दक्षिण अफ्रीका एयरपोर्ट पर पकड़े गए शख्स के पास से मिले अंडे आखिरकार हैच हो गए हैं। देखिए कैसे हुआ यह हैरान करने वाला खुलासा।\n\nपूरी खबर के लिए वीडियो देखें और शेयर करें! ✈️\n\n#ParrotEggs #WildlifeSmuggling #SouthAfricaAirport #ViralNews #AnimalRescue"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दक्षिण अफ्रीका के एक हवाई अड्डे पर जब अधिकारियों ने तस्कर का बैग खोला, तो उनके होश उड़ गए। 🛃\n\nइस बैग के अंदर तोते के अंडे छिपाए गए थे, जो अब सफलतापूर्वक हैच हो चुके हैं और अंडों से छोटे-छोटे चूजे बाहर आ गए हैं। वन्यजीव तस्करी से जुड़ा यह मामला सोशल मीडिया पर चर्चा का विषय बना हुआ है।\n\nपूरी कहानी जानने के लिए वीडियो देखें और शेयर जरूर करें। 🦜\n\n#ParrotEggs #WildlifeSmuggling #SouthAfricaAirport #ViralNews #AnimalRescue"
+      },
+      "hashtags": [
+        "ParrotEggs",
+        "WildlifeSmuggling",
+        "SouthAfricaAirport",
+        "ViralNews",
+        "AnimalRescue"
+      ]
+    },
+    "audio_path": "audio/parrot_eggs_smuggler_south_africa_global.wav",
+    "audio_duration_sec": 16.75,
+    "video_path": "videos/parrot_eggs_smuggler_south_africa_global.mp4",
+    "video_duration_sec": 24.81
+  }
+]

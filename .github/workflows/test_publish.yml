@@ -1,0 +1,65 @@
+name: TEST - Publish Only
+
+on:
+  workflow_dispatch:
+
+# Same concurrency group as the main pipeline -- ensures this can never run
+# at the same time as it, which was causing silent git push data loss.
+concurrency:
+  group: pipeline-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  test-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build test posts (one per platform)
+        run: python scripts/test_stage5_setup.py
+
+      - name: Run Stage 5 (publish to all 3 platforms)
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_INSTAGRAM_ACCOUNT_ID: ${{ secrets.ZERNIO_INSTAGRAM_ACCOUNT_ID }}
+          ZERNIO_FACEBOOK_ACCOUNT_ID: ${{ secrets.ZERNIO_FACEBOOK_ACCOUNT_ID }}
+        run: python scripts/stage5_publish.py
+
+      - name: Commit result for readable diagnosis
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f posts_published.json ]; then
+            git add posts_published.json
+            git commit -m "Test publish result" || echo "nothing to commit"
+            for i in 1 2 3 4 5; do
+              git push && break
+              echo "Push attempt $i failed, pulling latest and retrying..."
+              git pull --rebase --autostash origin main
+              sleep $((i * 2))
+            done
+          fi
+
+      - name: Upload result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-publish-result
+          path: posts_published.json
+          retention-days: 3

@@ -1,0 +1,59 @@
+name: TEST - Stage 4 Renderer Only
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: pipeline-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  test-render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg + Devanagari font
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-core fonts-noto-extra
+
+      - name: Build synthetic test input
+        run: python scripts/test_stage4_setup.py
+
+      - name: Run Stage 4 (render)
+        run: python scripts/stage4_render.py
+
+      - name: Commit diagnostic output
+        if: always()
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          if [ -f posts_with_video.json ]; then
+            git add posts_with_video.json
+          fi
+          if [ -f stage4_error.txt ]; then
+            git add stage4_error.txt
+          fi
+          if [ -f stage4_per_post_errors.txt ]; then
+            git add stage4_per_post_errors.txt
+          fi
+          git commit -m "Test render diagnostic output" || echo "nothing to commit"
+          git push || echo "push failed, continuing"
+
+      - name: Upload rendered video artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-render-output
+          path: |
+            videos/
+            posts_with_video.json
+          retention-days: 3
