@@ -1,7 +1,8 @@
-ready_labels: ['china_humanoid_robot_breaks_record', 'kerala_16_yr_old_ai_ceo_father_salary', 'robot_vacuum_cleaner_cheating_case', 'yamaha_yzf_r2_launch_india']
+ready_labels: ['bareilly_rakhi_event_stampede_death', 'chinese_humanoid_robot_breaks_record', 'india_us_javelin_anti_tank_deal', 'japan_fighter_jets_veer_guardian_exercise', 'kanpur_courtyard_cave_in_death', 'kota_sp_rakhi_special_children']
 
-kerala_16_yr_old_ai_ceo_father_salary: SUCCESS -> video_path=videos/kerala_16_yr_old_ai_ceo_father_salary.mp4 dur=27.110227
-robot_vacuum_cleaner_cheating_case: SUCCESS -> video_path=videos/robot_vacuum_cleaner_cheating_case.mp4 dur=30.289887
-makkah_clock_tower_lightning_strike: SKIPPED (not in ready set)
-yamaha_yzf_r2_launch_india: SUCCESS -> video_path=videos/yamaha_yzf_r2_launch_india.mp4 dur=34.62322
-china_humanoid_robot_breaks_record: SUCCESS -> video_path=videos/china_humanoid_robot_breaks_record.mp4 dur=26.877211
+chinese_humanoid_robot_breaks_record: SUCCESS -> video_path=videos/chinese_humanoid_robot_breaks_record.mp4 dur=19.22322
+india_us_javelin_anti_tank_deal: SUCCESS -> video_path=videos/india_us_javelin_anti_tank_deal.mp4 dur=29.292222
+bareilly_rakhi_event_stampede_death: SUCCESS -> video_path=videos/bareilly_rakhi_event_stampede_death.mp4 dur=26.32322
+kanpur_courtyard_cave_in_death: SUCCESS -> video_path=videos/kanpur_courtyard_cave_in_death.mp4 dur=25.989887
+japan_fighter_jets_veer_guardian_exercise: SUCCESS -> video_path=videos/japan_fighter_jets_veer_guardian_exercise.mp4 dur=22.589887
+kota_sp_rakhi_special_children: SUCCESS -> video_path=videos/kota_sp_rakhi_special_children.mp4 dur=31.289229
