@@ -1,7 +1,4 @@
-ready_labels: ['muskan_murder_accused_encounter_delhi', 'openai_chatgpt_ads_india_launch', 'praggnanandhaa_grand_chess_tour_win', 'trump_renames_lake_ontario_lake_america', 'womens_hockey_world_cup_germany_win']
+ready_labels: ['kerala_16_yr_old_ai_kid']
 
-muskan_murder_accused_encounter_delhi: SUCCESS -> video_path=videos/muskan_murder_accused_encounter_delhi.mp4 dur=30.02322
-praggnanandhaa_grand_chess_tour_win: SUCCESS -> video_path=videos/praggnanandhaa_grand_chess_tour_win.mp4 dur=33.489887
-womens_hockey_world_cup_germany_win: SUCCESS -> video_path=videos/womens_hockey_world_cup_germany_win.mp4 dur=24.439229
-openai_chatgpt_ads_india_launch: SUCCESS -> video_path=videos/openai_chatgpt_ads_india_launch.mp4 dur=32.032222
-trump_renames_lake_ontario_lake_america: SUCCESS -> video_path=videos/trump_renames_lake_ontario_lake_america.mp4 dur=33.518231
+kerala_16_yr_old_ai_kid: SUCCESS -> video_path=videos/kerala_16_yr_old_ai_kid.mp4 dur=33.611224
+indian_navy_samarthak_vessel: SKIPPED (not in ready set)
