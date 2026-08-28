@@ -1,4 +1,7 @@
-ready_labels: ['kerala_16_yr_old_ai_kid']
+ready_labels: ['aryaveer_sehwag_under_19_selection', 'haryanvi_singer_ankit_baliyan_murder_cctv', 'yamaha_yzf_r2_launch']
 
-kerala_16_yr_old_ai_kid: SUCCESS -> video_path=videos/kerala_16_yr_old_ai_kid.mp4 dur=33.611224
-indian_navy_samarthak_vessel: SKIPPED (not in ready set)
+haryanvi_singer_ankit_baliyan_murder_cctv: SUCCESS -> video_path=videos/haryanvi_singer_ankit_baliyan_murder_cctv.mp4 dur=29.456553
+nepal_flood_body_earrings_theft: SKIPPED (not in ready set)
+aryaveer_sehwag_under_19_selection: SUCCESS -> video_path=videos/aryaveer_sehwag_under_19_selection.mp4 dur=29.556553
+yamaha_yzf_r2_launch: SUCCESS -> video_path=videos/yamaha_yzf_r2_launch.mp4 dur=22.056553
+delhi_couple_isi_espionage_arrest: SKIPPED (not in ready set)

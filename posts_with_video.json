@@ -1,137 +1,31 @@
 [
   {
-    "topic_label": "kerala_16_yr_old_ai_kid",
-    "virality_score": 8,
-    "reason": "Inspiring story of a 16-year-old AI prodigy from Kerala who started learning at age 9 and now employs his father.",
+    "topic_label": "haryanvi_singer_ankit_baliyan_murder_cctv",
+    "virality_score": 9,
+    "reason": "Chilling CCTV footage showing 18 rounds fired in 25 seconds at Haryanvi singer Ankit Baliyan has massive viral potential.",
     "region": "india",
-    "headline": "पापा का 16 साल का ‘बॉस बेटा’, 9 साल में AI सीखकर बना इतना काबिल कि पिता को दे रहा हर महीने 2 लाख रुपये सैलरी",
-    "source_summary": "केरल के 16 साल के ‘राउल जॉन अजू’ की कहानी प्रेरणादायक है। उन्हें ‘एआई किड ऑफ इंडिया’ कहते हैं। राउल ने सिर्फ 9 साल की उम्र में एआई सीखना शुरू कर दिया था।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/ai-news/ai-kid-of-india-raul-john-aju-story-at-age-of-16-operating-his-ai-company-giving-2-lakh-salary-to-his-father/articleshow/133571373.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 06:24:00 +0530",
-    "hook": "नौ साल की उम्र में शुरू किया एआई सीखना, और आज पिता को दे रहा है हर महीने दो लाख रुपये सैलरी!",
-    "script_hi": "केरल के सोलह साल के राउल जॉन अजू ने साबित कर दिया है कि उम्र सिर्फ एक नंबर है। उन्हें इंडिया का एआई किड कहा जाता है। राउल ने मात्र नौ साल की उम्र में आर्टिफिशियल इंटेलिजेंस सीखना शुरू किया था, और आज वे इतने काबिल बन चुके हैं कि अपने पिता को हर महीने दो लाख रुपये सैलरी दे रहे हैं। राउल की यह प्रेरणादायक कहानी हर युवा के लिए एक मिसाल है।",
-    "tts_text_hi": "केरल के सोलह साल के राउल जॉन अजू ने साबित कर दिया है कि उम्र सिर्फ एक नंबर है। उन्हें इंडिया का एआई किड कहा जाता है। राउल ने मात्र नौ साल की उम्र में आर्टिफिशियल इंटेलिजेंस सीखना शुरू किया था, और आज वे इतने काबिल बन चुके हैं कि अपने पिता को हर महीने दो लाख रुपये सैलरी दे रहे हैं। राउल की यह प्रेरणादायक कहानी हर युवा के लिए एक मिसाल है।",
-    "title": "सोलह साल के टेक जीनियस ने पिता को दी दो लाख सैलरी",
-    "caption": "केरल के सोलह साल के राउल जॉन अजू ने नौ साल की उम्र में एआई सीखकर रच दिया इतिहास, पिता को दे रहे हैं हर महीने दो लाख रुपये सैलरी।",
-    "hashtags": [
-      "AI",
-      "TechNews",
-      "Kerala",
-      "Inspiration",
-      "Trending",
-      "News",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian teenager coding laptop India",
-      "artificial intelligence concept India",
-      "proud Indian father smiling",
-      "successful young entrepreneur India"
-    ],
-    "named_person": "Raul John Aju",
-    "named_person_hi": "राउल जॉन अजू",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "राउल जॉन अजू",
-        "source": "fallback",
-        "query": "Raul John Aju",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5184433/5184433-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "teenage tech prodigy India",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "artificial intelligence concept India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32077149/pexels-photo-32077149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "proud Indian father smiling",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10880531/pexels-photo-10880531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "successful young entrepreneur India",
-        "credit": "syed khaleel",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "9 साल की उम्र में सीखा AI, अब 16 साल की उम्र में पिता को दे रहा है ₹2 लाख सैलरी! 🤯",
-        "caption": "नौ साल की उम्र में शुरू किया एआई सीखना, और आज पिता को दे रहा है हर महीने दो लाख रुपये सैलरी! 🤯\n\nसولह साल के इस टेक जीनियस ने साबित कर दिया है कि उम्र सिर्फ एक नंबर है। कोडिंग और आर्टिफिशियल इंटेलिजेंस की ऐसी कमाल की समझ कि आज उसके पिता उसकी कंपनी में काम करते हैं।\n\nक्या आपके बच्चे की दिलचस्पी भी ऐसी तकनीक में है? कमेंट में बताएं! 👇\n\n#TechGenius #ArtificialIntelligence #SuccessStory #YoungAchiever #Inspiration"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नौ साल की उम्र में शुरू किया एआई सीखना, और आज पिता को दे रहा है हर महीने दो लाख रुपये सैलरी! 🤯\n\n16 साल के इस टेक जीनियस ने अपनी खुद की स्किल के दम पर ऐसा मुकाम हासिल किया है जो बड़ों-बड़ों के लिए सपना होता है। पिता को एम्प्लॉय बनाकर हर महीने ₹2 लाख सैलरी दे रहा है बेटा।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और शेयर करें! 🚀\n\n#TechGenius #ArtificialIntelligence #SuccessStory #YoungAchiever #Inspiration"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नौ साल की उम्र में शुरू किया एआई सीखना, और आज पिता को दे रहा है हर महीने दो लाख रुपये सैलरी! 🤯\n\nजिंदगी में आगे बढ़ने के लिए डिग्रियों की नहीं, बल्कि सही हुनर की जरूरत होती है। इस 16 साल के लड़के ने महज 9 साल की उम्र से आर्टिफिशियल इंटेलिजेंस सीखना शुरू कर दिया था। आज हालात ये हैं कि उसने जो काम शुरू किया, उसमें वो खुद 'बॉस' है और अपने पिता को हर महीने 2 लाख रुपये सैलरी देता है।\n\nऐसी काबिलियत पर आपका क्या कहना है? हमें कमेंट करके जरूर बताएं।\n\n#TechGenius #ArtificialIntelligence #SuccessStory #YoungAchiever #Inspiration"
-      },
-      "hashtags": [
-        "TechGenius",
-        "ArtificialIntelligence",
-        "SuccessStory",
-        "YoungAchiever",
-        "Inspiration"
-      ]
-    },
-    "audio_path": "audio/kerala_16_yr_old_ai_kid.wav",
-    "audio_duration_sec": 25.57,
-    "video_path": "videos/kerala_16_yr_old_ai_kid.mp4",
-    "video_duration_sec": 33.61
-  },
-  {
-    "topic_label": "indian_navy_samarthak_vessel",
-    "virality_score": 7,
-    "reason": "Indian Navy receives its first indigenous multi-purpose vessel 'Samarthak', boosting national defense capabilities.",
-    "region": "india",
-    "headline": "समुद्र में बढ़ेगी भारत की ताकत, नौसेना को मिला पहला स्वदेशी मल्टी-पर्पज पोत 'समर्थक'",
-    "source_summary": "भारतीय नौसेना 75 फीसदी से अधिक स्वदेशी सामग्री से बना यह जहाज निगरानी, गश्त, परीक्षण और आपदा राहत जैसे कई अहम अभियानों में महत्वपूर्ण भूमिका निभाएगा.",
-    "source_url": "https://ndtv.in/india/india-maritime-strength-set-grow-navy-receives-first-indigenous-multi-purpose-vessel-samarthak-11968715#publisher=newsstand",
+    "headline": "25 सेकेंड में 18 गोलियां मारीं, कार में बैठते ही अंकित बालियान को भून डाला, शामली के घर का CCTV सामने आया",
+    "source_summary": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV फुटेज सामने आया है. पुलिस के अनुसार चार हमलावरों ने 18 राउंड फायरिंग की, जिसमें एक गोली उनके सिर में लगी और उनकी मौके पर ही मौत हो गई.",
+    "source_url": "https://ndtv.in/india/ankit-baliyan-murder-video-cctv-footage-18-round-firing-shamli-shot-dead-haryanvi-singer-youtuber-bhari-court-mein-goli-maarenge-followers-11969157#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Thu, 27 Aug 2026 23:54:23 +0530",
-    "hook": "समुद्र में भारत की ताकत अब और ज्यादा बढ़ गई है!",
-    "script_hi": "समुद्र में भारत की ताकत बढ़ेगी, नौसेना को मिला पहला स्वदेशी मल्टी-पर्पज पोत समर्थक। भारतीय नौसेना के इस जहाज में पिचहत्तर प्रतिशत से अधिक स्वदेशी सामग्री का इस्तेमाल किया गया है। यह जहाज निगरानी, गश्त, परीक्षण और आपदा राहत जैसे कई अहम अभियानों में महत्वपूर्ण भूमिका निभाएगा।",
-    "tts_text_hi": "समुद्र में भारत की ताकत बढ़ेगी, नौसेना को मिला पहला स्वदेशी मल्टी-पर्पज पोत समर्थक। भारतीय नौसेना के इस जहाज में पिचहत्तर प्रतिशत से अधिक स्वदेशी सामग्री का इस्तेमाल किया गया है। यह जहाज निगरानी, गश्त, परीक्षण और आपदा राहत जैसे कई अहम अभियानों में महत्वपूर्ण भूमिका निभाएगा।",
-    "title": "भारतीय नौसेना को मिला स्वदेशी पोत समर्थक",
-    "caption": "समुद्र में भारत की ताकत और मजबूत, नौसेना को मिला पहला स्वदेशी मल्टी-पर्पज पोत 'समर्थक' जो कई अभियानों में निभाएगा अहम भूमिका।",
+    "published": "Fri, 28 Aug 2026 11:12:33 +0530",
+    "hook": "शामली में हरियाणवी सिंगर की दिनदहाड़े हत्या!",
+    "script_hi": "उत्तर प्रदेश के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का दहला देने वाला सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाकर उनकी हत्या कर दी। पुलिस के अनुसार चार हमलावरों ने ताबड़तोड़ फायरिंग की, जिसमें एक गोली सिर में लगने से उनकी मौके पर ही मौत हो गई।",
+    "tts_text_hi": "उत्तर प्रदेश के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का दहला देने वाला सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाकर उनकी हत्या कर दी। पुलिस के अनुसार चार हमलावरों ने ताबड़तोड़ फायरिंग की, जिसमें एक गोली सिर में लगने से उनकी मौके पर ही मौत हो गई।",
+    "title": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV",
+    "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।",
     "hashtags": [
-      "#IndianNavy",
-      "#Samarthak",
-      "#MakeInIndia",
-      "#IndianDefense",
-      "#NavyNews"
+      "ShamliNews",
+      "HaryanaSinger",
+      "CrimeNews",
+      "UttarPradesh",
+      "BreakingNews",
+      "CCTVFootage"
     ],
     "visual_queries": [
-      "Indian Navy warship sea India",
-      "Indian naval ship patrolling India",
-      "Indian defense technology India"
+      "India house exterior cctv camera",
+      "Indian city street car parked",
+      "India police investigation crime scene"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -142,24 +36,437 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/32186197/13725447_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian naval ship ocean",
-        "credit": "Jomin Thach",
-        "source_duration_sec": 19,
+        "query": "India police investigation crime scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "crime scene police investigation india",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11426074/pexels-photo-11426074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9739769/pexels-photo-9739769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian defense technology India",
-        "credit": "Kishore Illa",
+        "query": "India house exterior cctv camera",
+        "credit": "Boys in Bristol Photography",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30648753/pexels-photo-30648753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street car parked",
+        "credit": "thel0stkidd .",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13624160/pexels-photo-13624160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian man sitting in car",
+        "credit": "Mushtaq Hussain",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13709660/pexels-photo-13709660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cctv camera mounted on wall",
+        "credit": "rescriptt  rescriptt",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV security camera footage",
+        "credit": "Florian Süß",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का CCTV",
+        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या का सीसीटीवी फुटेज सामने आया है। बदमाशों ने कार में बैठते ही पच्चीस सेकंड में अठारह गोलियां बरसाईं।\n\n#ShamliNews #HaryanaSinger #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "hashtags": [
+        "ShamliNews",
+        "HaryanaSinger",
+        "CrimeNews",
+        "UttarPradesh",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/haryanvi_singer_ankit_baliyan_murder_cctv.wav",
+    "audio_duration_sec": 21.5,
+    "video_path": "videos/haryanvi_singer_ankit_baliyan_murder_cctv.mp4",
+    "video_duration_sec": 29.46
+  },
+  {
+    "topic_label": "nepal_flood_body_earrings_theft",
+    "virality_score": 9,
+    "reason": "Shocking viral video from Nepal floods showing people stealing earrings from a dead victim's body sparks outrage and high engagement.",
+    "region": "india",
+    "headline": "नदी से महिला का शव निकाला और कान से बालियां नोंच ली... नेपाल बाढ़ का वीडियो वायरल, दो गिरफ्तार",
+    "source_summary": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है. नारायणी नदी में बहकर आई एक महिला के शव को दो लोग पहले बाल पकड़कर बाहर खींचते हैं और फिर उसके कानों से कथित तौर पर सोने की बालियां निकाल लेते हैं. अब पुलिस ने एक्शन लिया है.",
+    "source_url": "https://ndtv.in/world-news/nepal-flood-viral-video-shows-men-earrings-from-woman-dead-body-2-arrested-nepal-flash-flood-victims-corpse-gold-theft-police-action-11969640#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 28 Aug 2026 10:07:23 +0530",
+    "hook": "नेपाल बाढ़ से इंसानियत को शर्मसार करने वाला वीडियो वायरल!",
+    "script_hi": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आई एक महिला के शव के साथ दो लोगों ने घिनौनी हरकत की। आरोपियों ने शव के बाल खींचकर उसे बाहर निकाला और उसके कानों से सोने की बालियां नोंच लीं। वीडियो वायरल होने के बाद पुलिस ने दो लोगों को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "नेपाल में आई भीषण बाढ़ के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आई एक महिला के शव के साथ दो लोगों ने घिनौनी हरकत की। आरोपियों ने शव के बाल खींचकर उसे बाहर निकाला और उसके कानों से सोने की बालियां नोंच लीं। वीडियो वायरल होने के बाद पुलिस ने दो लोगों को गिरफ्तार कर लिया है।",
+    "title": "नेपाल बाढ़: शव के कान से बालियां नोंचने का वीडियो वायरल, दो गिरफ्तार",
+    "caption": "नेपाल में बाढ़ के दौरान मानवता को शर्मसार करने वाली घटना सामने आई है। नारायणी नदी में बहकर आए शव के साथ लूटपाट करने वाले दो आरोपियों को पुलिस ने गिरफ्तार कर लिया है।",
+    "hashtags": [
+      "#NepalFlood",
+      "#Shameful",
+      "#ViralVideo",
+      "#NepalNews",
+      "#CrimeNews",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "flooded river Nepal",
+      "dead body recovery India",
+      "police arrest suspect India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story revolves around a specific viral video showing a unique local incident involving a dead body, which generic stock B-roll cannot accurately represent and requires manual addition of the real footage or careful handling.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded river Nepal",
+        "credit": "Sabbir Bhuiyan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6841225/pexels-photo-6841225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "dead body recovery India",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest suspect India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 11,
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "aryaveer_sehwag_under_19_selection",
+    "virality_score": 8,
+    "reason": "Virender Sehwag's 18-year-old son Aryaveer getting selected for the India U-19 team is of high interest to cricket fans.",
+    "region": "india",
+    "headline": "माई बेबी... आर्यवीर सहवाग का भारतीय अंडर-19 टीम में हुआ चयन, मां आरती ने यूं लुटाया प्यार",
+    "source_summary": "18 साल के आर्यवीर सहवाग को भारत की अंडर-19 टीम में शामिल किया गया है। दाएं हाथ के बल्लेबाज आर्यवीर आरती और वीरेंद्र सहवाग के बेटे हैं।",
+    "source_url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/aarti-sehwag-congratulate-son-aaryavir-sehwag-selected-for-india-u19-team/articleshow/133583569.cms",
+    "source_name": "Navbharat Times",
+    "published": "Fri, 28 Aug 2026 10:53:00 +0530",
+    "hook": "वीरेंद्र सहवाग के बेटे आर्यवीर का टीम इंडिया में धमाका!",
+    "script_hi": "वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग का भारत की अंडर-उन्नीस टीम में चयन हो गया है। अठारह साल के दाएं हाथ के बल्लेबाज आर्यवीर की इस उपलब्धि पर मां आरती सहवाग ने सोशल मीडिया पर प्यार लुटाया है। फैंस को उम्मीद है कि आर्यवीर अपने पिता की तरह मैदान पर चौके छक्कों की बरसात करेंगे।",
+    "tts_text_hi": "वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग का भारत की अंडर-उन्नीस टीम में चयन हो गया है। अठारह साल के दाएं हाथ के बल्लेबाज आर्यवीर की इस उपलब्धि पर मां आरती सहवाग ने सोशल मीडिया पर प्यार लुटाया है। फैंस को उम्मीद है कि आर्यवीर अपने पिता की तरह मैदान पर चौके छक्कों की बरसात करेंगे।",
+    "title": "आर्यवीर सहवाग का अंडर-उन्नीस टीम में चयन",
+    "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।",
+    "hashtags": [
+      "VirenderSehwag",
+      "AryavirSehwag",
+      "TeamIndia",
+      "UnderNineteen",
+      "CricketNews",
+      "IndianCricket"
+    ],
+    "visual_queries": [
+      "Virender Sehwag",
+      "Indian cricket stadium India",
+      "cricket bat and ball India"
+    ],
+    "named_person": "Virender Sehwag",
+    "named_person_hi": "वीरेंद्र सहवाग",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "वीरेंद्र सहवाग",
+        "source": "fallback",
+        "query": "Virender Sehwag",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723744/pexels-photo-31723744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Virender Sehwag",
+        "credit": "Princeton dsouza",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10018211/pexels-photo-10018211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket bat and ball India",
+        "credit": "Simon Reza",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "आर्यवीर सहवाग का अंडर-उन्नीस टीम में चयन",
+        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पूर्व भारतीय ओपनर वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग को भारत की अंडर-उन्नीस क्रिकेट टीम में चुना गया है।\n\n#VirenderSehwag #AryavirSehwag #TeamIndia #UnderNineteen #CricketNews"
+      },
+      "hashtags": [
+        "VirenderSehwag",
+        "AryavirSehwag",
+        "TeamIndia",
+        "UnderNineteen",
+        "CricketNews"
+      ]
+    },
+    "audio_path": "audio/aryaveer_sehwag_under_19_selection.wav",
+    "audio_duration_sec": 21.51,
+    "video_path": "videos/aryaveer_sehwag_under_19_selection.mp4",
+    "video_duration_sec": 29.56
+  },
+  {
+    "topic_label": "yamaha_yzf_r2_launch",
+    "virality_score": 8,
+    "reason": "Launch of the stylish new Yamaha YZF-R2 supersport bike with strong youth appeal and affordable pricing.",
+    "region": "india",
+    "headline": "युवाओं के लिए आ गई धांसू मोटरसाइकल Yamaha YZF-R2, स्टाइलिश लुक और पावरहाउस, देखें कीमत-खासियत",
+    "source_summary": "<strong>Yamaha YZF R2 Launch Price Features</strong>: इंडिया यामाहा मोटर ने देश में अपनी सबसे फेमस आर-सीरीज मोटरसाइकल पोर्टफोलियो का विस्तार करते हुए सुपरस्पोर्ट बाइक यामाहा वाईजीएफ-आ2 को लॉन्च कर दिया है, जिसकी शुरुआती एक्स-शोरूम कीमत 2,30,500 रुपये है। आर-सीरीज की विरासत को आगे बढ़ाते हुए यह मॉडल भारतीय युवाओं को प्रीमियम और ईजी परफॉर्मेंस प्रदान करता है। इस बाइक की सबसे बड़ी खासियत इसका नया 204 सीसी लिक्विड-कूल्ड DOHC इंजन है, जो सेगमेंट-लीडिंग 26.5 पीएस की पावर और 19.1 न्यूटन मीटर का टॉर्क जेनरेट करता है। इसके अलावा इसमें सेगमेंट-फर्स्ट बाय-डायरेक्शनल क्विक शिफ्टर, हल्का 149 किलो का चेसिस, 37 एमएम USD फोर्क्स और 3 राइडिंग मोड्स जैसी आधुनिक तकनीक मिलती है। शानदार एयरोडायनैमिक डिजाइन और बेहतरीन परफॉर्मेंस का यह मेल राइडर्स के लिए एक रोमांचक और बैलेंस राइडिंग एक्सपीरियंस सुनिश्चित करता है।",
+    "source_url": "https://navbharattimes.indiatimes.com/auto/car-bikes/yamaha-yzf-r2-motorcycle-makes-global-debut-in-india-with-stylish-look-modern-features-and-powerful-engine-know-price/articleshow/133583828.cms",
+    "source_name": "Navbharat Times",
+    "published": "Fri, 28 Aug 2026 10:44:00 +0530",
+    "hook": "युवाओं के लिए आ गई यामाहा की धांसू मोटरसाइकल!",
+    "script_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इसमें दो सौ चार सीसी का दमदार इंजन और आधुनिक फीचर्स दिए गए हैं।",
+    "tts_text_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इसमें दो सौ चार सीसी का दमदार इंजन और आधुनिक फीचर्स दिए गए हैं।",
+    "title": "Yamaha YZF-R2 Launched in India",
+    "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।",
+    "hashtags": [
+      "Yamaha",
+      "YamahaR2",
+      "BikeLaunch",
+      "SuperSport",
+      "AutoNews",
+      "India"
+    ],
+    "visual_queries": [
+      "Indian motorcycle showroom India",
+      "sport bike riding India",
+      "motorcycle engine close up India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38507489/16353012_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian motorcycle showroom India",
+        "credit": "Ankit Rainloure",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10920663/pexels-photo-10920663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sport bike riding India",
+        "credit": "Nandu Vasudevan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37609825/pexels-photo-37609825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "motorcycle engine close up India",
+        "credit": "Hemant Bhardwaj",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8532393/pexels-photo-8532393.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sport motorcycle modern design",
+        "credit": "Abhinav Toppo",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10597280/pexels-photo-10597280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "young indian man riding bike",
+        "credit": "Anil  Sharma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28051514/pexels-photo-28051514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "motorcycle showroom display india",
+        "credit": "PRATIK BRAHMBHATT",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31204475/pexels-photo-31204475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports bike on highway",
+        "credit": "FBO Media",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Yamaha YZF-R2 Launched in India",
+        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "भारत में लॉन्च हुई नई Yamaha YZF-R2 मोटरसाइकल, जानिए कीमत और फीचर्स।\n\n#Yamaha #YamahaR2 #BikeLaunch #SuperSport #AutoNews"
+      },
+      "hashtags": [
+        "Yamaha",
+        "YamahaR2",
+        "BikeLaunch",
+        "SuperSport",
+        "AutoNews"
+      ]
+    },
+    "audio_path": "audio/yamaha_yzf_r2_launch.wav",
+    "audio_duration_sec": 14.18,
+    "video_path": "videos/yamaha_yzf_r2_launch.mp4",
+    "video_duration_sec": 22.06
+  },
+  {
+    "topic_label": "delhi_couple_isi_espionage_arrest",
+    "virality_score": 8,
+    "reason": "High-profile Delhi couple arrested by Special Cell for spying for Pakistan's ISI using fake SIM cards via Dubai.",
+    "region": "india",
+    "headline": "पाकिस्तानी एजेंसी ISI के लिए जासूसी! साहिल-समीरा को पुलिस ने पकड़ा, SIM कार्ड-खुफिया जानकारी भेजने का आरोप",
+    "source_summary": "Delhi Police News: पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी के आरोप में स्पेशल ने एक कपल को पकड़ा है। उसका नाम साहिल और समीरा है। उन पर सिम कार्ड और खुफिया जानकारी भेजने का आरोप है।",
+    "source_url": "https://navbharattimes.indiatimes.com/india/delhi-police-special-cell-arrests-couple-isi-backed-pakistan-espionage-module-sent-sim-cards-info/articleshow/133583616.cms",
+    "source_name": "Navbharat Times",
+    "published": "Fri, 28 Aug 2026 10:42:00 +0530",
+    "hook": "दिल्ली में आईएसआई के लिए जासूसी!",
+    "script_hi": "दिल्ली पुलिस ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में एक कपल को गिरफ्तार किया है। पकड़े गए आरोपियों के नाम साहिल और समीरा बताए जा रहे हैं। इन पर आरोप है कि ये भारत से सिम कार्ड और बेहद संवेदनशील खुफिया जानकारियां पाकिस्तान भेज रहे थे। पुलिस फिलहाल दोनों से पूछताछ कर रही है।",
+    "tts_text_hi": "दिल्ली पुलिस ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में एक कपल को गिरफ्तार किया है। पकड़े गए आरोपियों के नाम साहिल और समीरा बताए जा रहे हैं। इन पर आरोप है कि ये भारत से सिम कार्ड और बेहद संवेदनशील खुफिया जानकारियां पाकिस्तान भेज रहे थे। पुलिस फिलहाल दोनों से पूछताछ कर रही है।",
+    "title": "दिल्ली में आईएसआई के लिए जासूसी, साहिल और समीरा गिरफ्तार",
+    "caption": "दिल्ली पुलिस की स्पेशल सेल ने पाकिस्तान की खुफिया एजेंसी आईएसआई के लिए जासूसी करने के आरोप में साहिल और समीरा नाम के कपल को पकड़ा है।",
+    "hashtags": [
+      "DelhiPolice",
+      "ISI",
+      "Espionage",
+      "IndiaNews",
+      "CrimeNews",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Delhi Police station India",
+      "Indian police investigation India",
+      "secret documents India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "यह एक आपराधिक जासूसी का मामला है जिसमें विशिष्ट नाम और आरोप शामिल हैं, हालांकि आरोपी गिरफ्तार हो चुके हैं, फिर भी संवेदनशीलता के कारण मानव समीक्षा आवश्यक है।",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "police interrogation room India",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi Police station India",
+        "credit": "Frank van Dijk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8371710/pexels-photo-8371710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "secret documents India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   }
 ]
