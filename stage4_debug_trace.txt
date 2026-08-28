@@ -1,8 +1,8 @@
-ready_labels: ['bareilly_rakhi_event_stampede_death', 'chinese_humanoid_robot_breaks_record', 'india_us_javelin_anti_tank_deal', 'japan_fighter_jets_veer_guardian_exercise', 'kanpur_courtyard_cave_in_death', 'kota_sp_rakhi_special_children']
+ready_labels: ['bilaspur_airport_flight_tyre_burst', 'chinese_humanoid_robot_breaks_record_global', 'disha_salian_death_case_high_court', 'india_us_javelin_missile_deal', 'kanda_express_onion_price_drop', 'uganda_king_oyo_death_global']
 
-chinese_humanoid_robot_breaks_record: SUCCESS -> video_path=videos/chinese_humanoid_robot_breaks_record.mp4 dur=19.22322
-india_us_javelin_anti_tank_deal: SUCCESS -> video_path=videos/india_us_javelin_anti_tank_deal.mp4 dur=29.292222
-bareilly_rakhi_event_stampede_death: SUCCESS -> video_path=videos/bareilly_rakhi_event_stampede_death.mp4 dur=26.32322
-kanpur_courtyard_cave_in_death: SUCCESS -> video_path=videos/kanpur_courtyard_cave_in_death.mp4 dur=25.989887
-japan_fighter_jets_veer_guardian_exercise: SUCCESS -> video_path=videos/japan_fighter_jets_veer_guardian_exercise.mp4 dur=22.589887
-kota_sp_rakhi_special_children: SUCCESS -> video_path=videos/kota_sp_rakhi_special_children.mp4 dur=31.289229
+india_us_javelin_missile_deal: SUCCESS -> video_path=videos/india_us_javelin_missile_deal.mp4 dur=28.02322
+chinese_humanoid_robot_breaks_record_global: SUCCESS -> video_path=videos/chinese_humanoid_robot_breaks_record_global.mp4 dur=21.856553
+disha_salian_death_case_high_court: SUCCESS -> video_path=videos/disha_salian_death_case_high_court.mp4 dur=28.156553
+kanda_express_onion_price_drop: SUCCESS -> video_path=videos/kanda_express_onion_price_drop.mp4 dur=22.442222
+bilaspur_airport_flight_tyre_burst: SUCCESS -> video_path=videos/bilaspur_airport_flight_tyre_burst.mp4 dur=32.989887
+uganda_king_oyo_death_global: SUCCESS -> video_path=videos/uganda_king_oyo_death_global.mp4 dur=18.681224
