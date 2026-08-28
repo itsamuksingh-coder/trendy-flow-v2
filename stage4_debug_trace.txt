@@ -1,7 +1,5 @@
-ready_labels: ['jio_platforms_sebi_nod_ipo', 'jknc_mp_aga_ruhullah_resignation', 'karnataka_teachers_suspended_rss_march', 'norway_king_harald_v_dies', 'riya_ahir_salman_connection_bigg_boss']
+ready_labels: ['isro_hawkeye_satellite_launch', 'tamil_nadu_cm_vijay_surprise_inspection', 'toxic_movie_box_office_drop']
 
-jio_platforms_sebi_nod_ipo: SUCCESS -> video_path=videos/jio_platforms_sebi_nod_ipo.mp4 dur=27.056553
-riya_ahir_salman_connection_bigg_boss: SUCCESS -> video_path=videos/riya_ahir_salman_connection_bigg_boss.mp4 dur=22.62322
-jknc_mp_aga_ruhullah_resignation: SUCCESS -> video_path=videos/jknc_mp_aga_ruhullah_resignation.mp4 dur=27.256553
-norway_king_harald_v_dies: SUCCESS -> video_path=videos/norway_king_harald_v_dies.mp4 dur=26.692222
-karnataka_teachers_suspended_rss_march: SUCCESS -> video_path=videos/karnataka_teachers_suspended_rss_march.mp4 dur=24.12322
+isro_hawkeye_satellite_launch: SUCCESS -> video_path=videos/isro_hawkeye_satellite_launch.mp4 dur=34.192222
+tamil_nadu_cm_vijay_surprise_inspection: SUCCESS -> video_path=videos/tamil_nadu_cm_vijay_surprise_inspection.mp4 dur=32.189887
+toxic_movie_box_office_drop: SUCCESS -> video_path=videos/toxic_movie_box_office_drop.mp4 dur=21.235215
