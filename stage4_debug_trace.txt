@@ -1,8 +1,7 @@
-ready_labels: ['bilaspur_airport_flight_tyre_burst', 'chinese_humanoid_robot_breaks_record_global', 'disha_salian_death_case_high_court', 'india_us_javelin_missile_deal', 'kanda_express_onion_price_drop', 'uganda_king_oyo_death_global']
+ready_labels: ['jio_platforms_sebi_nod_ipo', 'jknc_mp_aga_ruhullah_resignation', 'karnataka_teachers_suspended_rss_march', 'norway_king_harald_v_dies', 'riya_ahir_salman_connection_bigg_boss']
 
-india_us_javelin_missile_deal: SUCCESS -> video_path=videos/india_us_javelin_missile_deal.mp4 dur=28.02322
-chinese_humanoid_robot_breaks_record_global: SUCCESS -> video_path=videos/chinese_humanoid_robot_breaks_record_global.mp4 dur=21.856553
-disha_salian_death_case_high_court: SUCCESS -> video_path=videos/disha_salian_death_case_high_court.mp4 dur=28.156553
-kanda_express_onion_price_drop: SUCCESS -> video_path=videos/kanda_express_onion_price_drop.mp4 dur=22.442222
-bilaspur_airport_flight_tyre_burst: SUCCESS -> video_path=videos/bilaspur_airport_flight_tyre_burst.mp4 dur=32.989887
-uganda_king_oyo_death_global: SUCCESS -> video_path=videos/uganda_king_oyo_death_global.mp4 dur=18.681224
+jio_platforms_sebi_nod_ipo: SUCCESS -> video_path=videos/jio_platforms_sebi_nod_ipo.mp4 dur=27.056553
+riya_ahir_salman_connection_bigg_boss: SUCCESS -> video_path=videos/riya_ahir_salman_connection_bigg_boss.mp4 dur=22.62322
+jknc_mp_aga_ruhullah_resignation: SUCCESS -> video_path=videos/jknc_mp_aga_ruhullah_resignation.mp4 dur=27.256553
+norway_king_harald_v_dies: SUCCESS -> video_path=videos/norway_king_harald_v_dies.mp4 dur=26.692222
+karnataka_teachers_suspended_rss_march: SUCCESS -> video_path=videos/karnataka_teachers_suspended_rss_march.mp4 dur=24.12322
