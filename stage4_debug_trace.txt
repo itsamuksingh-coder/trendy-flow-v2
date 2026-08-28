@@ -1,5 +1,7 @@
-ready_labels: ['isro_hawkeye_satellite_launch', 'tamil_nadu_cm_vijay_surprise_inspection', 'toxic_movie_box_office_drop']
+ready_labels: ['cgst_officers_cbi_arrest_bribe', 'delhi_luxury_hotels_expired_sweets_brics', 'india_us_javelin_missile_deal_army', 'nepal_flash_flood_death_toll_587', 'redmi_17_5g_7900mah_battery_launch']
 
-isro_hawkeye_satellite_launch: SUCCESS -> video_path=videos/isro_hawkeye_satellite_launch.mp4 dur=34.192222
-tamil_nadu_cm_vijay_surprise_inspection: SUCCESS -> video_path=videos/tamil_nadu_cm_vijay_surprise_inspection.mp4 dur=32.189887
-toxic_movie_box_office_drop: SUCCESS -> video_path=videos/toxic_movie_box_office_drop.mp4 dur=21.235215
+nepal_flash_flood_death_toll_587: SUCCESS -> video_path=videos/nepal_flash_flood_death_toll_587.mp4 dur=33.52322
+cgst_officers_cbi_arrest_bribe: SUCCESS -> video_path=videos/cgst_officers_cbi_arrest_bribe.mp4 dur=31.707211
+india_us_javelin_missile_deal_army: SUCCESS -> video_path=videos/india_us_javelin_missile_deal_army.mp4 dur=28.956553
+delhi_luxury_hotels_expired_sweets_brics: SUCCESS -> video_path=videos/delhi_luxury_hotels_expired_sweets_brics.mp4 dur=33.489887
+redmi_17_5g_7900mah_battery_launch: SUCCESS -> video_path=videos/redmi_17_5g_7900mah_battery_launch.mp4 dur=28.32322
