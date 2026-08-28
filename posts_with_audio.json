@@ -1,103 +1,8 @@
 [
   {
-    "topic_label": "chinese_humanoid_robot_breaks_record",
-    "virality_score": 9,
-    "reason": "China's Tiangong Ultra humanoid robot ran 100m in 8.64 seconds, beating Usain Bolt's human world record.",
-    "region": "india",
-    "headline": "Faster Than Usain Bolt, Chinese Robot's 100-Metre Sprint Beats Humanity's Best",
-    "source_summary": "In its final and fastest run, China's Tiangong Ultra humanoid ran 100 m in 8.64 seconds, blazing past Bolt's 9.58-second human world record.",
-    "source_url": "https://www.ndtv.com/world-news/chinas-record-breaking-robot-shows-humans-may-not-be-fastest-for-long-11969910#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Fri, 28 Aug 2026 14:25:52 +0530",
-    "hook": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया!",
-    "script_hi": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव छह चार सेकंड में पूरी करके उसेन बोल्ट का नौ दशमलव पांच आठ सेकंड का रिकॉर्ड तोड़ दिया है।",
-    "tts_text_hi": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव छह चार सेकंड में पूरी करके उसेन बोल्ट का नौ दशमलव पांच आठ सेकंड का रिकॉर्ड तोड़ दिया है।",
-    "title": "चीनी रोबोट ने तोड़ा उसेन बोल्ट का रिकॉर्ड",
-    "caption": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ में उसेन बोल्ट का रिकॉर्ड पीछे छोड़ दिया है।",
-    "hashtags": [
-      "TechNews",
-      "Robotics",
-      "UsainBolt",
-      "ChinaTech",
-      "HumanoidRobot",
-      "WorldRecord"
-    ],
-    "visual_queries": [
-      "humanoid robot technology",
-      "running track stadium",
-      "futuristic robot laboratory"
-    ],
-    "named_person": "Usain Bolt",
-    "named_person_hi": "उसेन बोल्ट",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_9b7638ea60.jpg",
-        "source": "wikimedia",
-        "query": "Usain Bolt",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_06beff3ee1.jpg",
-        "source": "wikimedia_commons",
-        "query": "humanoid robot technology",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_028750241e.jpg",
-        "source": "wikimedia_commons",
-        "query": "running track stadium",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8438992/pexels-photo-8438992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic robot laboratory",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "उसेन बोल्ट से भी तेज भागा चीनी रोबोट! तोड़ा 100 मीटर का रिकॉर्ड 🤖⚡",
-        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nचीन के एक इंजीनियर ने ऐसा रोबोट तैयार किया है जिसने 100 मीटर की दौड़ में दुनिया के सबसे तेज धावक उसेन बोल्ट को भी पीछे छोड़ दिया। इसकी रफ्तार देख वैज्ञानिक भी हैरान हैं।\n\nक्या रोबोट्स आने वाले समय में इंसानों को हर खेल में हरा देंगे? कमेंट में बताएं और पूरी कहानी देखें।\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nचीन के रोबोट ने 100 मीटर स्प्रिंट में उसेन बोल्ट का रिकॉर्ड तोड़ दिया है। इसकी स्पीड देख अच्छे-अच्छे धावकों के होश उड़ जाएंगे। \n\nये वीडियो शेयर करके अपने दोस्तों को भी चौंकाएं और पूरी कहानी देखें! 👇\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nजिस रफ्तार को इंसान का छूना नामुमकिन माना जाता था, उसे अब एक मशीन ने कर दिखाया है। चीन में बने एक एडवांस रोबोट ने 100 मीटर की दौड़ में ओलंपिक चैंपियन उसेन बोल्ट के रिकॉर्ड को पीछे छोड़ दिया है। इस चौंकाने वाली तकनीक के बारे में पूरी जानकारी के लिए वीडियो पूरा देखें।\n\nआपको क्या लगता है, क्या रोबोट्स का जमाना इंसानों पर भारी पड़ेगा? नीचे कमेंट करके अपनी राय जरूर साझा करें।\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
-      },
-      "hashtags": [
-        "ChineseRobot",
-        "UsainBolt",
-        "TechNews",
-        "FutureTech",
-        "Robotics"
-      ]
-    },
-    "audio_path": "audio/chinese_humanoid_robot_breaks_record.wav",
-    "audio_duration_sec": 11.25
-  },
-  {
-    "topic_label": "india_us_javelin_anti_tank_deal",
+    "topic_label": "india_us_javelin_missile_deal",
     "virality_score": 8,
-    "reason": "India is finalizing a major 300 crore defense deal with the US for Javelin anti-tank missiles, boosting border defense.",
+    "reason": "India is buying US-made Javelin anti-tank missiles to boost defense capabilities against security threats.",
     "region": "india",
     "headline": "भारतीय सेना की बढ़ेगी ताकत, अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की!",
     "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/anti-tank-missile.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"भारतीय सेना की बढ़ेगी ताकत, अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की!\" /></figure>भारत अमेरिका से जेवलिन एंटी-टैंक गाइडेड मिसाइल खरीद रहा है. भारत में अमेरिका के राजदूत सर्जियो गोर ने बताया कि इससे नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और मजबूत हो सकता है.",
@@ -105,30 +10,46 @@
     "source_name": "TV9 Hindi",
     "published": "Fri, 28 Aug 2026 15:19:59 +0530",
     "hook": "भारतीय सेना की ताकत में होने जा रहा है बड़ा इजाफा!",
-    "script_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और अधिक मजबूत होगा।",
-    "tts_text_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और अधिक मजबूत होगा।",
-    "title": "भारतीय सेना को मिलेगी अमेरिका से जेवलिन मिसाइल",
+    "script_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और भी ज्यादा मजबूत होगा।",
+    "tts_text_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और भी ज्यादा मजबूत होगा।",
+    "title": "भारतीय सेना को मिलेगी जेवलिन मिसाइल",
     "caption": "भारतीय सेना की ताकत बढ़ाने के लिए अमेरिका से तीन सौ करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की हो गई है।",
     "hashtags": [
       "IndianArmy",
-      "DefenseDeal",
-      "USIndia",
       "JavelinMissile",
-      "MilitaryPower",
-      "NewsUpdates"
+      "IndiaUS",
+      "DefenseNews",
+      "IndianDefense",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "Indian army soldier India",
+      "Indian military soldier India",
       "anti tank missile test India",
       "US India flag diplomacy India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Sergio Gor",
+    "named_person_hi": "सर्जियो गोर",
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
+      {
+        "type": "text_card",
+        "text": "सर्जियो गोर",
+        "source": "fallback",
+        "query": "Sergio Gor",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/17502682/17502682-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "anti tank missile test India",
+        "credit": "Matthias Groeneveld",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/33506101/14251100_720_1280_30fps.mp4",
@@ -139,460 +60,106 @@
         "duration_sec": 6
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34054870/14443034_720_1280_120fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928391/pexels-photo-35928391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "military weapons stock footage",
-        "credit": "Gonzalo Garcia",
-        "source_duration_sec": 65,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_07a2784fb4.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian army soldier India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_ebf6e1ff90.jpg",
-        "source": "wikimedia_commons",
-        "query": "anti tank missile test India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6092075/pexels-photo-6092075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "military weapons supply",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_c5ad337c5e.jpg",
-        "source": "wikimedia_commons",
-        "query": "military weapons technology",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_6f33716da8.png",
-        "source": "wikimedia_commons",
-        "query": "army weapons and ammunition",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
+        "query": "Indian military soldier India",
+        "credit": "Max Drew",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 21.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "300 करोड़ की डील! भारतीय सेना को मिलेगी खतरनाक जेवलिन मिसाइल 🚀",
-        "caption": "दुश्मन के टैंक अब पल भर में होंगे खाक! अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल डील पक्की हो चुकी है। 🇮🇳\n\nइस खतरनाक हथियार के आने से भारतीय सीमा पर हमारी ताकत कई गुना बढ़ जाएगी। चीन और पाकिस्तान की हर नापाक हरकत का अब और भी कड़ा जवाब मिलेगा। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+        "title": "300 करोड़ की जेवलिन मिसाइल से बढ़ेगी सेना की ताकत 🇮🇳",
+        "caption": "चीन और पाकिस्तान की उड़ेगी नींद, जब भारत को मिलेगी ये अचूक मिसाइल! 🚀\n\nअमेरिका के साथ 300 करोड़ रुपये की जेवलिन एंटी-टैंक मिसाइल डील पक्की हो गई है। इससे भारतीय सेना की मारक क्षमता कई गुना बढ़ जाएगी।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#IndianArmy #JavelinMissile #DefenceDeal #IndiaUS #MilitaryPower"
       },
       "instagram": {
         "title": null,
-        "caption": "दुश्मन के टैंक अब एक वार में तबाह! 🎯 अमेरिका से 300 करोड़ की जेवलिन मिसाइल डील पक्की, जानिए कैसे बढ़ेगी भारतीय सेना की ताकत।\n\nइस डिफेंस डील से बॉर्डर पर भारत का पलड़ा और भारी हो जाएगा। वीडियो शेयर करके हर भारतीय तक यह गर्व की बात पहुंचाएं! 🇮🇳🔥\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+        "caption": "300 करोड़ की इस डील से थर-थर कांपेंगे दुश्मन! 🎯\n\nअमेरिका से जेवलिन एंटी-टैंक मिसाइल मिलने के बाद अब भारतीय जमीन पर दुश्मन का टैंक टिक नहीं पाएगा।\n\nक्या हमारी सेना को ऐसी और डील्स करनी चाहिए? शेयर करके अपनी राय दें।\n\n#IndianArmy #JavelinMissile #DefenceDeal #IndiaUS #MilitaryPower"
       },
       "facebook": {
         "title": null,
-        "caption": "दुश्मन के टैंकों की अब खैर नहीं! भारत और अमेरिका के बीच 300 करोड़ रुपये की जेवलिन एंटी-टैंक मिसाइल डील पर मुहर लग चुकी है। 🚀\n\nइस आधुनिक हथियार के बेड़े में शामिल होने से भारतीय थल सेना की मारक क्षमता अभेद्य हो जाएगी। सरहद पर हमारी सुरक्षा अब और भी ज्यादा मजबूत होने जा रही है। \n\nयह डिफेंस डील हमारे सैनिकों के लिए कितनी अहम है? कमेंट करके जरूर बताएं और वीडियो को लाइक व शेयर करें। 🇮🇳\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+        "caption": "दुष्मनों के टैंक अब सेकंडों में होंगे तबाह! 💥\n\nभारत और अमेरिका के बीच 300 करोड़ रुपये की जेवलिन एंटी-टैंक मिसाइल की डील पक्की हो गई है। इस खतरनाक हथियार के आने से बॉर्डर पर हमारी सेना की ताकत और ज्यादा मजबूत हो जाएगी।\n\nआपको क्या लगता है, रक्षा मामलों में भारत को कितना आत्मनिर्भर होना चाहिए? कमेंट में बताएं और वीडियो पूरा देखें।\n\n#IndianArmy #JavelinMissile #DefenceDeal #IndiaUS #MilitaryPower"
       },
       "hashtags": [
         "IndianArmy",
         "JavelinMissile",
-        "IndiaUSRelations",
         "DefenceDeal",
-        "IndianDefense"
+        "IndiaUS",
+        "MilitaryPower"
       ]
     },
-    "audio_path": "audio/india_us_javelin_anti_tank_deal.wav",
-    "audio_duration_sec": 21.23
+    "audio_path": "audio/india_us_javelin_missile_deal.wav",
+    "audio_duration_sec": 19.99
   },
   {
-    "topic_label": "bareilly_rakhi_event_stampede_death",
+    "topic_label": "chinese_humanoid_robot_breaks_record_global",
     "virality_score": 8,
-    "reason": "Tragic stampede at a political Raksha Bandhan gift distribution event in Bareilly results in a woman's death.",
+    "reason": "China's Tiangong Ultra humanoid robot broke Usain Bolt's 100-meter sprint record, gaining massive global attention.",
     "region": "india",
-    "headline": "'20k women promised gifts': 1 dead after 'stampede' at BJP mayor’s Rakhi event",
-    "source_summary": "A woman died and three others were injured during a Rakshabandhan event in Bareilly. The stampede occurred after a large crowd surged towards the stage. Organizers had invited approximately twenty thousand women to the event. Gifts and food were promised to all attendees, swelling the crowd. Police and civic officials have not yet issued a formal statement.",
-    "source_url": "https://timesofindia.indiatimes.com/city/bareilly/20k-women-promised-gifts-1-dead-3-injured-after-stampede-breaks-out-at-bjp-mayors-raksha-bandhan-event-in-bareilly/articleshow/133584190.cms",
-    "source_name": "Times of India - Top Stories",
-    "published": "Fri, 28 Aug 2026 11:24:32 +0530",
-    "hook": "बरेली में रक्षाबंधन के कार्यक्रम में मची भगदड़, एक महिला की मौत!",
-    "script_hi": "उत्तर प्रदेश के बरेली में भाजपा मेयर के रक्षाबंधन कार्यक्रम के दौरान भीषण भगदड़ मच गई। इस हादसे में एक महिला की मौत हो गई और तीन अन्य घायल हो गईं। कार्यक्रम में बीस हजार महिलाओं को उपहार देने का वादा किया गया था, जिसके बाद भारी भीड़ बेकाबू हो गई।",
-    "tts_text_hi": "उत्तर प्रदेश के बरेली में भाजपा मेयर के रक्षाबंधन कार्यक्रम के दौरान भीषण भगदड़ मच गई। इस हादसे में एक महिला की मौत हो गई और तीन अन्य घायल हो गईं। कार्यक्रम में बीस हजार महिलाओं को उपहार देने का वादा किया गया था, जिसके बाद भारी भीड़ बेकाबू हो गई।",
-    "title": "बरेली में रक्षाबंधन कार्यक्रम में भगदड़, एक महिला की मौत",
-    "caption": "उत्तर प्रदेश के बरेली में रक्षाबंधन के एक कार्यक्रम के दौरान भगदड़ मचने से एक महिला की मौत हो गई और तीन घायल हो गईं। बीस हजार महिलाओं को उपहार देने का वादा किया गया था।",
+    "headline": "Faster Than Usain Bolt, Chinese Robot's 100-Metre Sprint Beats Humanity's Best",
+    "source_summary": "In its final and fastest run, China's Tiangong Ultra humanoid ran 100 m in 8.64 seconds, blazing past Bolt's 9.58-second human world record.",
+    "source_url": "https://www.ndtv.com/world-news/chinas-record-breaking-robot-shows-humans-may-not-be-fastest-for-long-11969910#publisher=newsstand",
+    "source_name": "NDTV English - Top Stories",
+    "published": "Fri, 28 Aug 2026 14:25:52 +0530",
+    "hook": "इंसान का सबसे तेज़ रिकॉर्ड टूट गया!",
+    "script_hi": "चीन के टियांगोंग अल्ट्रा ह्यूमेनॉइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव चौंसठ सेकंड में पूरी कर ली। इसने उसेन बोल्ट के नौ दशमलव पाँच आठ सेकंड के विश्व रिकॉर्ड को पीछे छोड़ दिया।",
+    "tts_text_hi": "चीन के टियांगोंग अल्ट्रा ह्यूमेनॉइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव चौंसठ सेकंड में पूरी कर ली। इसने उसेन बोल्ट के नौ दशमलव पाँच आठ सेकंड के विश्व रिकॉर्ड को पीछे छोड़ दिया।",
+    "title": "चीनी रोबोट ने तोड़ा उसेन बोल्ट का रिकॉर्ड",
+    "caption": "चीन के रोबोट टियांगोंग अल्ट्रा ने सौ मीटर की दौड़ में उसेन बोल्ट का विश्व रिकॉर्ड तोड़ दिया।",
     "hashtags": [
-      "Bareilly",
-      "Stampede",
-      "Rakshabandhan",
-      "UttarPradesh",
-      "BreakingNews",
-      "IndiaNews"
+      "TechNews",
+      "Robotics",
+      "UsainBolt",
+      "China",
+      "WorldRecord",
+      "HumanoidRobot",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Indian city street crowd",
-      "crowd panic India",
-      "police investigation India"
+      "humanoid robot walking lab",
+      "running track empty",
+      "digital stopwatch timer"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39066327/16624318_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "crowd management India police",
-        "credit": "Abhishek  Shekhawat",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street crowd",
-        "credit": "Himanshu Singh",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38953147/pexels-photo-38953147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd panic India",
-        "credit": "Prashant  Mevada",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_55e633f10f.jpg",
-        "source": "wikimedia_commons",
-        "query": "police investigation India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_ba22942b0e.jpg",
-        "source": "wikimedia_commons",
-        "query": "crowd gathering India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087857/pexels-photo-39087857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian political rally",
-        "credit": "Satyam Pixels",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29580937/pexels-photo-29580937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police crowd control",
-        "credit": "Alireza Heidarpour",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बरेली में राखी कार्यक्रम में भगदड़, 1 महिला की मौत 💔",
-        "caption": "बरेली में राखी कार्यक्रम में मची भगदड़, एक महिला की मौत! 🚨\n\nबीजेपी मेयर की ओर से 20 हजार महिलाओं को मुफ्त गिफ्ट देने का वादा किया गया था। भीड़ इतनी बेकाबू हुई कि एक महिला की जान चली गई।\n\nपूरी कहानी वीडियो में देखें।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बरेली में राखी कार्यक्रम में मची भगदड़, एक महिला की मौत! 🚨\n\n20 हजार महिलाओं को गिफ्ट बांटने के लिए कार्यक्रम रखा गया था। भारी भीड़ के बीच हालात ऐसे बिगड़े कि एक महिला की जान चली गई।\n\nक्या भीड़ संभालने के लिए पर्याप्त इंतजाम नहीं थे? अपनी राय कमेंट में बताएं।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बरेली में रक्षाबंधन के एक कार्यक्रम में अचानक भगदड़ मचने से एक महिला की दर्दनाक मौत हो गई। 💔\n\nबीजेपी मेयर की तरफ से 20 हजार महिलाओं को गिफ्ट दिए जाने का वादा किया गया था, जिसके बाद वहां भारी भीड़ जुट गई थी। हालात इतने बेकाबू हुए कि यह बड़ा हादसा हो गया।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
-      },
-      "hashtags": [
-        "BareillyNews",
-        "RakshaBandhan",
-        "Stampede",
-        "UttarPradesh",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/bareilly_rakhi_event_stampede_death.wav",
-    "audio_duration_sec": 18.43
-  },
-  {
-    "topic_label": "kanpur_courtyard_cave_in_death",
-    "virality_score": 8,
-    "reason": "Shocking incident in Kanpur where a young girl carrying a Rakhi thali fell 22 feet into a sudden courtyard cave-in.",
-    "region": "india",
-    "headline": "राखी की थाली लेकर निकली यशी, अचानक धंस गया आंगन… 22 फीट गहरे गड्ढे में गिरकर मौत",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/kanpur-news-3.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"राखी की थाली लेकर निकली यशी, अचानक धंस गया आंगन… 22 फीट गहरे गड्ढे में गिरकर मौत\" /></figure>रक्षाबंधन के दिन कानपुर में घर के आंगन की जमीन अचानक धंसने से एक युवती करीब 20-22 फीट गहरे गड्ढे में गिर गई. कई घंटे चले रेस्क्यू ऑपरेशन के बाद युवती को बाहर निकाला गया, लेकिन उसकी जान नहीं बच सकी.",
-    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/kanpur-maharajpur-yashi-savita-borewell-accident-raksha-bandhan-ground-collapse-3892378.html",
-    "source_name": "TV9 Hindi",
-    "published": "Fri, 28 Aug 2026 15:47:59 +0530",
-    "hook": "रक्षाबंधन के दिन घर में पसरा मातम!",
-    "script_hi": "कानपुर में रक्षाबंधन के पावन पर्व पर एक बड़ा हादसा हो गया. राखी की थाली लेकर घर से निकली यशी का अचानक आंगन धंस गया. वह बाईस फीट गहरे गड्ढे में जा गिरी. कई घंटों के रेस्क्यू ऑपरेशन के बाद उसे बाहर निकाला गया, लेकिन उसकी जान नहीं बचाई जा सके.",
-    "tts_text_hi": "कानपुर में रक्षाबंधन के पावन पर्व पर एक बड़ा हादसा हो गया। राखी की थाली लेकर घर से निकली यशी का अचानक आंगन धंस गया। वह बाईस फीट गहरे गड्ढे में जा गिरी। कई घंटों के रेस्क्यू ऑपरेशन के बाद उसे बाहर निकाला गया, लेकिन उसकी जान नहीं बचाई जा सकी।",
-    "title": "कानपुर में रक्षाबंधन पर बड़ा हादसा, आंगन धंसने से युवती की मौत",
-    "caption": "रक्षाबंधन के दिन कानपुर में घर का आंगन धंसने से बाईस फीट गहरे गड्ढे में गिरी युवती, रेस्क्यू के बाद भी नहीं बची जान।",
-    "hashtags": [
-      "#KanpurNews",
-      "#RakshaBandhan",
-      "#Accident",
-      "#UttarPradesh",
-      "#BreakingNews"
-    ],
-    "visual_queries": [
-      "Indian residential street Kanpur",
-      "Indian house courtyard India",
-      "deep sinkhole street India",
-      "emergency rescue operation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Usain Bolt",
+    "named_person_hi": "उसेन बोल्ट",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35463015/15024653_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "residential street accident India",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10963370/pexels-photo-10963370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian residential street Kanpur",
-        "credit": "Ayush Gautam",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18364647/pexels-photo-18364647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian house courtyard India",
-        "credit": "Vishwanth PindiBoina",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency rescue operation India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "रक्षाबंधन की खुशी पलभर में मातम में बदली! 22 फीट गहरे गड्ढे में समाई बहन 😱",
-        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nकानपुर में राखी की थाली लेकर निकली 22 साल की यशी के साथ अचानक ऐसा हादसा हुआ कि देखने वालों की रूह कांप गई। घर का आंगन अचानक धंस गया और वो सीधे 22 फीट गहरे गड्ढे में जा गिरी।\n\nपूरी कहानी देखें और बताएं कि इस लापरवाही का जिम्मेदार कौन है?\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nराखी की थाली लेकर घर से निकली यशी को क्या पता था कि उसका आंगन ही उसकी कब्र बन जाएगा। कानपुर में अचानक जमीन धंसने से 22 फीट गहरे गड्ढे में गिरी युवती की दर्दनाक मौत हो गई।\n\nक्या ऐसे हादसों के लिए सिर्फ किस्मत जिम्मेदार है?\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nकानपुर से एक झकझोर देने वाली खबर सामने आई है। रक्षाबंधन के पावन पर्व पर राखी की थाली लेकर जा रही यशी के पैरों तले अचानक जमीन खिसक गई। घर का आंगन धंसने से वह सीधे 22 फीट गहरे गड्ढे में जा गिरी, जिससे उसकी मौके पर ही मौत हो गई। इस दर्दनाक हादसे ने पूरे परिवार को तोड़ कर रख दिया है।\n\nआपकी इस घटना पर क्या राय है, कमेंट में जरूर बताएं।\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
-      },
-      "hashtags": [
-        "kanpur",
-        "rakshabandhan",
-        "breakingnews",
-        "uttarpradesh",
-        "tragedy"
-      ]
-    },
-    "audio_path": "audio/kanpur_courtyard_cave_in_death.wav",
-    "audio_duration_sec": 18.04
-  },
-  {
-    "topic_label": "japan_fighter_jets_veer_guardian_exercise",
-    "virality_score": 8,
-    "reason": "Japanese F-2A fighter jets are heading to India for the first time to participate in the Veer Guardian exercise in Rajasthan.",
-    "region": "india",
-    "headline": "जापानी फाइटर जेट पहली बार आ रहे भारत, पाक सीमा पर गरजेंगे F-2A, अमेरिका देगा 'पेट्रोल पंप'",
-    "source_summary": "Veer Guardian 26 Air Exercise: जापान के फाइटर जेट F-2A पहली बार भारत आ रहे हैं। जापान के 3 लड़ाकू व‍िमान वीर गार्डियन अभ्‍यास में ह‍िस्‍सा लेंगे जो राजस्‍थान में होने जा रहा है। इस दौरान अमेरिकी वायुसेना रास्‍ते में अपने तेल टैंकर देगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/asian-countries/japan-jasdf-f-2a-fighter-jets-to-visit-india-for-first-time-for-veer-guardian-26-amid-china-threat/articleshow/133586714.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 13:28:00 +0530",
-    "hook": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत!",
-    "script_hi": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत। वीर गार्डियन अभ्यास में हिस्सा लेने राजस्थान आ रहे हैं जापान के तीन लड़ाकू विमान एफ टू ए। पाकिस्तान सीमा के पास गरजेंगे ये विमान और अमेरिकी वायुसेना रास्ते में देगी ईंधन।",
-    "tts_text_hi": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत। वीर गार्डियन अभ्यास में हिस्सा लेने राजस्थान आ रहे हैं जापान के तीन लड़ाकू विमान एफ टू ए। पाकिस्तान सीमा के पास गरजेंगे ये विमान और अमेरिकी वायुसेना रास्ते में देगी ईंधन।",
-    "title": "जापानी फाइटर जेट पहली बार आ रहे भारत",
-    "caption": "जापान के फाइटर जेट F-2A पहली बार भारत आ रहे हैं। राजस्थान में होने वाले वीर गार्डियन अभ्यास में हिस्सा लेंगे।",
-    "hashtags": [
-      "VeerGuardian",
-      "IndianAirForce",
-      "JapanAirSelfDefenseForce",
-      "RajasthanNews",
-      "F2A",
-      "DefenceNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Japanese fighter jet India",
-      "Rajasthan desert India",
-      "fighter jet formation India",
-      "aerial refueling tanker India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/12954782/12954782-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "fighter jets flying formation",
-        "credit": "Rachel Lustiva",
-        "source_duration_sec": 6,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30522971/pexels-photo-30522971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Rajasthan desert India",
-        "credit": "STORY  FINDER",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34676447/pexels-photo-34676447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fighter jet formation India",
-        "credit": "Ankit Rainloure",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/23230960/pexels-photo-23230960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "military jets flying formation",
-        "credit": "Afitab",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "जापानी फाइटर जेट पहली बार आ रहे भारत! पाक सीमा पर गरजेंगे F-2A 🛩️",
-        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nइतिहास में पहली बार जापान के घातक F-2A फाइटर जेट भारतीय आसमान में गरजने के लिए तैयार हैं। अमेरिका से मिलने वाले 'फ्लाइंग पेट्रोल पंप' यानी एरियल रिफ्यूलिंग के जरिए ये बिना रुके लंबी दूरी तय करेंगे।\n\nइस रणनीतिक कदम से ड्रैगन और पाकिस्तान की नींद उड़ना तय है। पूरी कहानी देखें वीडियो में और अपनी राय कमेंट करें!\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nजापान के खतरनाक F-2A फाइटर जेट अब भारतीय सीमा के पास गरजेंगे। अमेरिका की मदद से इन्हें हवा में ही ईंधन मिलेगा, जिससे इनकी ताकत कई गुना बढ़ गई है।\n\nक्या भारत और जापान की यह दोस्ती नया समीकरण बनाएगी? शेयर करें इस वीडियो को!\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nरक्षा क्षेत्र में एक बहुत बड़ा बदलाव देखने को मिल रहा है। जापान के घातक F-2A फाइटर जेट पहली बार भारतीय जमीन पर उतरने और अभ्यास करने आ रहे हैं। खास बात यह है कि अमेरिका इन्हें हवा में ही ईंधन देने की व्यवस्था कर रहा है, जिससे इनकी मारक क्षमता सीधे पाकिस्तान और चीन की सीमा तक असर दिखाएगी।\n\nयह कदम भारत की सामरिक स्थिति को कितना मजबूत करेगा? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
-      },
-      "hashtags": [
-        "JapaneseFighterJets",
-        "IndianAirForce",
-        "F2AFighterJet",
-        "IndiaJapanRelations",
-        "DefenseNews"
-      ]
-    },
-    "audio_path": "audio/japan_fighter_jets_veer_guardian_exercise.wav",
-    "audio_duration_sec": 14.58
-  },
-  {
-    "topic_label": "kota_sp_rakhi_special_children",
-    "virality_score": 7,
-    "reason": "Heartwarming Raksha Bandhan initiative in Kota where special needs children tied rakhis to the SP.",
-    "region": "india",
-    "headline": "कोटा में SP ने स्पेशल बच्चों से बंधवाई राखी, बांटी मिठाई",
-    "source_summary": "Rajasthan News: कोटा पुलिस का 'रक्षा का वचन' अभियान: 300 विशेष बच्चों ने एसपी तेजस्वनी गौतम को बांधी राखी, हर थाने में सांकेतिक भाषा जानने वाला पुलिसकर्मी होगा...",
-    "source_url": "https://www.aajtak.in/rajasthan/story/kota-sp-ties-rakhis-with-special-children-distributes-sweets-to-300-kids-lcln-strc-2631718-2026-08-28?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-28T15:27:43+05:30",
-    "hook": "कोटा पुलिस का अनोखा अंदाज!",
-    "script_hi": "राजस्थान के कोटा में पुलिस का एक मानवीय चेहरा सामने आया है। कोटा पुलिस के रक्षा का वचन अभियान के तहत तीन सौ विशेष बच्चों ने पुलिस अधीक्षक तेजस्वनी गौतम को राखी बांधी। इस दौरान बच्चों ने एसपी को मिठाई भी खिलाई। इस मौके पर कोटा पुलिस ने हर थाने में एक सांकेतिक भाषा जानने वाला पुलिसकर्मी तैनात करने का बड़ा फैसला लिया है।",
-    "tts_text_hi": "राजस्थान के कोटा में पुलिस का एक मानवीय चेहरा सामने आया है। कोटा पुलिस के रक्षा का वचन अभियान के तहत तीन सौ विशेष बच्चों ने पुलिस अधीक्षक तेजस्वनी गौतम को राखी बांधी। इस दौरान बच्चों ने एसपी को मिठाई भी खिलाई। इस मौके पर कोटा पुलिस ने हर थाने में एक सांकेतिक भाषा जानने वाला पुलिसकर्मी तैनात करने का बड़ा फैसला लिया है।",
-    "title": "कोटा में एसपी को विशेष बच्चों ने बांधी राखी",
-    "caption": "कोटा पुलिस के रक्षा का वचन अभियान के तहत विशेष बच्चों ने एसपी तेजस्वनी गौतम को राखी बांधी। हर थाने में अब सांकेतिक भाषा जानने वाला पुलिसकर्मी होगा तैनात।",
-    "hashtags": [
-      "KotaPolice",
-      "RajasthanNews",
-      "Rakshabandhan",
-      "GoodNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian police station building India",
-      "Indian disabled children celebration India",
-      "Indian police officer smiling India",
-      "Indian police uniform India"
-    ],
-    "named_person": "Tejaswini Gautam",
-    "named_person_hi": "तेजस्वनी गौतम",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "तेजस्वनी गौतम",
+        "text": "उसेन बोल्ट",
         "source": "fallback",
-        "query": "Tejaswini Gautam",
+        "query": "Usain Bolt",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police station building India",
-        "credit": "GOWTHAM AGM",
+        "query": "humanoid robot walking lab",
+        "credit": "Kindel Media",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14297040/pexels-photo-14297040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/2079612/pexels-photo-2079612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian disabled children celebration India",
-        "credit": "Soubhagya Maharana",
+        "query": "running track empty",
+        "credit": "Emre Can Acer",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police officer smiling India",
-        "credit": "Frank van Dijk",
+        "query": "digital stopwatch timer",
+        "credit": "KoolShooters",
         "duration_sec": 5
       }
     ],
@@ -601,26 +168,455 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कोटा पुलिस का अनोखा अंदाज! SP को खास बच्चों ने बांधी राखी 🥹",
-        "caption": "कोटा पुलिस का अनोखा अंदाज! खाकी का यह मानवीय चेहरा देखकर आपका दिल भी पिघल जाएगा। 🥹\n\nदीपावली और रक्षाबंधन से पहले कोटा में एसपी ने विशेष (स्पेशल) बच्चों के साथ त्योहार मनाया। बच्चों ने जब एसपी को राखी बांधी और मुंह मीठा कराया, तो वहां मौजूद हर शख्स की आंखें नम हो गईं। \n\nपूरी कहानी देखें और बताएं आपको यह पल कैसा लगा?\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+        "title": "उसेन बोल्ट से भी तेज़ भागा चीनी रोबोट! 🏃‍♂️🤖",
+        "caption": "इंसान का सबसे तेज़ रिकॉर्ड टूट गया! 🚨\n\nचीन के एक नए रोबोट ने 100 मीटर की दौड़ में ओलंपिक चैंपियंस को भी पीछे छोड़ दिया है। इसकी रफ़्तार देखकर वैज्ञानिकों के भी होश उड़ गए हैं।\n\nपूरी कहानी देखें और बताएं कि क्या आने वाले समय में मशीनें इंसानों को पूरी तरह हरा देंगी?\n\n#ChineseRobot #UsainBolt #TechNews #RobotSprint #FutureTech"
       },
       "instagram": {
         "title": null,
-        "caption": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी का यह मानवीय चेहरा देखकर आपका दिल भी पिघल जाएगा।\n\nविशेष बच्चों ने जब एसपी को राखी बांधी और जमकर खुशियां मनाईं, तो कोटा पुलिस ऑफिस का माहौल ही बदल गया। ऐसे पल सुकून देते हैं!\n\nवीडियो पूरा देखें और शेयर करें ❤️\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+        "caption": "इंसान का सबसे तेज़ रिकॉर्ड टूट गया! 🚨\n\nचीन के इस रोबोट की रफ़्तार ने उसेन बोल्ट को भी पीछे छोड़ दिया है। तकनीक की यह छलांग हैरान करने वाली है।\n\nक्या रोबोट्स का यह दौर इंसानों के लिए खतरा है? कॉमेंट में अपनी राय दें! 👇\n\n#ChineseRobot #UsainBolt #TechNews #RobotSprint #FutureTech"
       },
       "facebook": {
         "title": null,
-        "caption": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी की सख्ती के पीछे का यह रूप शायद ही आपने पहले कभी देखा होगा।\n\nकोटा में आज कुछ ऐसा हुआ जिसने सबका दिल जीत लिया। शहर के विशेष (स्पेशल) बच्चों ने एसपी ऑफिस पहुंचकर एसपी साहब को राखी बांधी और उन्हें मिठाइयां खिलाईं। पुलिसकर्मियों ने भी इन बच्चों के साथ जमकर त्योहार की खुशियां साझा कीं। \n\nयह वीडियो देखकर आपके चेहरे पर भी मुस्कान आ जाएगी। पूरी कहानी देखें और अपनी राय जरूर साझा करें!\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+        "caption": "इंसान का सबसे तेज़ रिकॉर्ड टूट गया! 🚨\n\nजिस रफ्तार का दावा आज तक दुनिया के सबसे धाकड़ धावक उसेन बोल्ट के नाम था, उसे अब एक चीनी रोबोट ने तोड़ दिया है। 100 मीटर की इस रेस में रोबोट की स्पीड देखकर हर कोई हैरान है।\n\nआपको क्या लगता है, क्या तकनीक अब इंसानों पर भारी पड़ने लगी है? पूरी कहानी वीडियो में देखें और अपनी राय शेयर करें।\n\n#ChineseRobot #UsainBolt #TechNews #RobotSprint #FutureTech"
       },
       "hashtags": [
-        "KotaPolice",
-        "RakshaBandhan",
-        "GoodNews",
-        "RajasthanPolice",
-        "Heartwarming"
+        "ChineseRobot",
+        "UsainBolt",
+        "TechNews",
+        "RobotSprint",
+        "FutureTech"
       ]
     },
-    "audio_path": "audio/kota_sp_rakhi_special_children.wav",
-    "audio_duration_sec": 23.24
+    "audio_path": "audio/chinese_humanoid_robot_breaks_record_global.wav",
+    "audio_duration_sec": 13.89
+  },
+  {
+    "topic_label": "disha_salian_death_case_high_court",
+    "virality_score": 8,
+    "reason": "The Bombay High Court questioned Mumbai police over the closure of Disha Salian's death inquiry.",
+    "region": "india",
+    "headline": "'14 फ्लोर से गिरी और सिर्फ दांत ही टूटे?', सुशांत की एक्स मैनेजर दिशा सालियान की मौत पर कोर्ट ने दागे सवाल",
+    "source_summary": "बॉम्बे हाई कोर्ट ने सुशांत सिंह राजपूत की पूर्व मैनेजर दिशा सालियन की मौत के मामले की जांच को लेकर लगातार दूसरे दिन महाराष्ट्र सरकार और मुंबई पुलिस को फटकार लगाई है। जांच में खामियों की ओर इशारा करते हुए कोर्ट ने सवाल उठाया कि 14वीं मंजिल से गिरने पर सिर्फ दांत ही कैसे टूट सकते हैं। कोर्ट ने दिशा के शरीर पर खून के धब्बे न मिलने और चोट के निशानों में अंतर पर भी ध्यान दिलाया।",
+    "source_url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/sushant-singh-rajput-ex-manager-disha-salian-death-case-court-questioned-how-a-fall-from-the-14th-floor-could-only-break-teeth/articleshow/133590224.cms",
+    "source_name": "Navbharat Times",
+    "published": "Fri, 28 Aug 2026 17:06:00 +0530",
+    "hook": "चौदहवीं मंजिल से गिरने पर क्या सिर्फ दांत टूटते हैं?",
+    "script_hi": "बॉम्बे हाई कोर्ट ने सुशांत सिंह राजपूत की पूर्व मैनेजर दिशा सालियन की मौत के मामले में महाराष्ट्र सरकार और मुंबई पुलिस से तीखे सवाल पूछे हैं। कोर्ट ने जांच में खामियों पर नाराजगी जताई और पूछा कि इतनी ऊंचाई से गिरने पर शरीर पर खून के धब्बे क्यों नहीं थे।",
+    "tts_text_hi": "बॉम्बे हाई कोर्ट ने सुशांत सिंह राजपूत की पूर्व मैनेजर दिशा सालियन की मौत के मामले में महाराष्ट्र सरकार और मुंबई पुलिस से तीखे सवाल पूछे हैं। कोर्ट ने जांच में खामियों पर नाराजगी जताई और पूछा कि चौदहवीं मंजिल से गिरने पर शरीर पर खून के धब्बे क्यों नहीं थे।",
+    "title": "दिशा सालियन मौत मामले में बॉम्बे हाई कोर्ट के कड़े सवाल",
+    "caption": "बॉम्बे हाई कोर्ट ने दिशा सालियन की मौत की जांच पर महाराष्ट्र सरकार और मुंबई पुलिस को लताड़ लगाई है।",
+    "hashtags": [
+      "#DishaSalian",
+      "#BombayHighCourt",
+      "#MumbaiPolice",
+      "#SushantSinghRajput",
+      "#MaharashtraNews",
+      "#HindiNews"
+    ],
+    "visual_queries": [
+      "Bombay High Court building India",
+      "Mumbai police officer India",
+      "courtroom legal hearing India"
+    ],
+    "named_person": "Disha Salian",
+    "named_person_hi": "दिशा सालियान",
+    "secondary_persons": [
+      "Sushant Singh Rajput"
+    ],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "दिशा सालियान",
+        "source": "fallback",
+        "query": "Disha Salian",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5637306/5637306-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "courtroom hearing India",
+        "credit": "Sora Shimazaki",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13232561/pexels-photo-13232561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Mumbai police officer India",
+        "credit": "Shivam Maurya",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "courtroom legal hearing India",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "14 फ्लोर से गिरने पर क्या सिर्फ दांत टूटते हैं? दिशा सालियान केस में बॉम्बे HC के तीखे सवाल 🚨",
+        "caption": "चौदहवीं मंजिल से गिरने पर क्या सिर्फ दांत टूटते हैं? बॉम्बे हाईकोर्ट ने दिशा सालियान की मौत के मामले में मुंबई पुलिस से यही तीखा सवाल पूछा है। अदालत ने केस डायरी और पोस्टमार्टम रिपोर्ट पर कई गंभीर शंकाएं जताई हैं।\n\nपूरी कहानी वीडियो में देखें।\n\n#DishaSalian #BombayHighCourt #MumbaiPolice #SushantSinghRajput #LatestNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चौदहवीं मंजिल से गिरने पर क्या सिर्फ दांत टूटते हैं? 😲\n\nदिशा सालियान मौत मामले में बॉम्बे हाईकोर्ट ने पुलिस से कड़े सवाल किए हैं। कोर्ट ने पूछा कि इतनी ऊंचाई से गिरने के बाद शरीर पर सिर्फ मामूली चोटें और टूटे हुए दांत कैसे मुमकिन हैं।\n\nक्या ये आत्महत्या थी या कुछ और? पूरी बात जानें और अपनी राय कमेंट में बताएं। 👇\n\n#DishaSalian #BombayHighCourt #MumbaiPolice #SushantSinghRajput #LatestNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "चौदहवीं मंजिल से गिरने पर क्या सिर्फ दांत टूटते हैं? 😲\n\nसुशांत सिंह राजपूत की एक्स मैनेजर दिशा सालियान की मौत के मामले में बॉम्बे हाईकोर्ट ने अब तक की जांच पर कड़े सवाल खड़े कर दिए हैं। कोर्ट ने पुलिस से पूछा है कि इतनी ऊंचाई से गिरने पर अगर मौत हुई, तो शरीर पर सिर्फ दांत टूटने के निशान और मामूली चोटें कैसे थीं?\n\nइस मामले में हर नया मोड़ एक बड़ा सवाल छोड़ जाता है। वीडियो पूरा देखें और समझें कि अदालत ने किन अहम पहलुओं पर नाराजगी जताई है।\n\n#DishaSalian #BombayHighCourt #MumbaiPolice #SushantSinghRajput #LatestNews"
+      },
+      "hashtags": [
+        "DishaSalian",
+        "BombayHighCourt",
+        "MumbaiPolice",
+        "SushantSinghRajput",
+        "LatestNews"
+      ]
+    },
+    "audio_path": "audio/disha_salian_death_case_high_court.wav",
+    "audio_duration_sec": 20.12
+  },
+  {
+    "topic_label": "kanda_express_onion_price_drop",
+    "virality_score": 7,
+    "reason": "The 'Kanda Express' arrived in Delhi with hundreds of tonnes of onions from Nashik to stabilize retail prices.",
+    "region": "india",
+    "headline": "'Kanda Express' with 453 tonnes of onion from Nashik reaches Delhi to help cool prices",
+    "source_summary": "The Centre currently holds about 1.21 lakh tonnes of onion as buffer stock under the Price Stabilisation Fund.",
+    "source_url": "https://www.hindustantimes.com/india-news/kanda-express-with-453-tonnes-of-onion-from-nashik-reaches-delhi-to-help-cool-prices-101787901865689.html",
+    "source_name": "Hindustan Times - India News",
+    "published": "Fri, 28 Aug 2026 12:59:46 +0530",
+    "hook": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस!",
+    "script_hi": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस! नासिक से चार सौ त्रेपन टन प्याज लेकर ट्रेन दिल्ली पहुंच गई है। केंद्र सरकार के पास बफर स्टॉक के रूप में एक लाख इक्कीस हजार टन प्याज मौजूद है।",
+    "tts_text_hi": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस! नासिक से चार सौ त्रेपन टन प्याज लेकर ट्रेन दिल्ली पहुंच गई है। केंद्र सरकार के पास बफर स्टॉक के रूप में एक लाख इक्कीस हजार टन प्याज मौजूद है।",
+    "title": "Kanda Express reaches Delhi with onion",
+    "caption": "महंगाई कम करने के लिए नासिक से चार सौ त्रेपन टन प्याज लेकर 'कांदा एक्सप्रेस' दिल्ली पहुंच गई है।",
+    "hashtags": [
+      "#KandaExpress",
+      "#OnionPrice",
+      "#DelhiNews",
+      "#Nashik",
+      "#Inflation",
+      "#IndianRailways",
+      "#NewsShorts"
+    ],
+    "visual_queries": [
+      "Indian freight train",
+      "onion pile India",
+      "Delhi railway station India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34922982/14793423_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "vegetable market India",
+        "credit": "Sanjay Sharma",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14903856/pexels-photo-14903856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian freight train",
+        "credit": "kuldip vyas",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35699716/pexels-photo-35699716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "onion pile India",
+        "credit": "Basit Manzoor",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38933556/pexels-photo-38933556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi railway station India",
+        "credit": "Muffled Coffee",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39206252/pexels-photo-39206252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "vegetable market India",
+        "credit": "Switabh Shrivastava",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "truck on highway India",
+        "credit": "Rana Muskan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32851822/pexels-photo-32851822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "agricultural warehouse India",
+        "credit": "Dptc India",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "453 टन प्याज लेकर दिल्ली पहुंची कांदा एक्सप्रेस! 🧅",
+        "caption": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस! 🧅\n\nनासिक से स्पेशल ट्रेन के जरिए 453 टन प्याज सीधे दिल्ली पहुंच चुका है, ताकि आसमान छूती कीमतों पर लगाम लगाई जा सके। आम आदमी की जेब पर पड़ रहा भारी बोझ अब कम होने की उम्मीद है।\n\nक्या इससे सच में प्याज के दाम कम होंगे? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#KandaExpress #OnionPrices #DelhiNews #InflationRelief #NashikOnions"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस! 🧅\n\nनासिक से 453 टन प्याज लेकर चली स्पेशल ट्रेन अब दिल्ली पहुंच चुकी है। बढ़ती कीमतों से परेशान जनता को इससे बड़ी राहत मिलने की उम्मीद है।\n\nक्या इस कदम से रसोई का बजट संभल पाएगा? वीडियो पूरा देखें और शेयर करें।\n\n#KandaExpress #OnionPrices #DelhiNews #InflationRelief #NashikOnions"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "महंगाई से राहत! दिल्ली पहुंची कांदा एक्सप्रेस! 🧅\n\nरसोई के बजट को बिगाड़ रहे प्याज के दामों को काबू करने के लिए नासिक से एक स्पेशल ट्रेन 453 टन प्याज लेकर दिल्ली पहुंच गई है। सरकार के इस कदम से क्या वाकई आम आदमी को राहत मिलेगी और कीमतें नीचे आएंगी?\n\nपूरी खबर देखिए और बताइए कि आपके इलाके में प्याज क्या भाव बिक रहा है।\n\n#KandaExpress #OnionPrices #DelhiNews #InflationRelief #NashikOnions"
+      },
+      "hashtags": [
+        "KandaExpress",
+        "OnionPrices",
+        "DelhiNews",
+        "InflationRelief",
+        "NashikOnions"
+      ]
+    },
+    "audio_path": "audio/kanda_express_onion_price_drop.wav",
+    "audio_duration_sec": 14.4
+  },
+  {
+    "topic_label": "bilaspur_airport_flight_tyre_burst",
+    "virality_score": 7,
+    "reason": "A major aviation disaster was averted as an Alliance Air flight tyre burst and caused a scare during landing at Bilaspur.",
+    "region": "india",
+    "headline": "दिल्ली से उड़े विमान का लैंडिंग के दौरान पहिया फटा, बिलासपुर एयरपोर्ट पर हादसा; 60 यात्रियों की सांसें अटकी",
+    "source_summary": "बिलासपुर के बिलासा देवी केवट एयरपोर्ट पर बड़ा विमान हादसा टल गया. दिल्ली से आई एलाइंस एयर की फ्लाइट का लैंडिंग के दौरान पहिया फट गया और आग लगने की सूचना से हड़कंप मच गया. विमान रनवे पर कुछ दूरी तक घिसटता रहा, लेकिन पायलट की सूझबूझ से उसे सुरक्षित रोक लिया.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/alliance-air-flight-wheel-burst-bilaspur-airport-aircraft-landing-incident-bilasa-devi-kevat-airport-11971046#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 28 Aug 2026 16:23:05 +0530",
+    "hook": "बिलासपुर एयरपोर्ट पर टला बड़ा विमान हादसा, दिल्ली से आई फ्लाइट का फटा पहिया!",
+    "script_hi": "दिल्ली से बिलासपुर आ रही एलाइंस एयर की उड़ान के साथ बड़ा हादसा होते-होते टल गया। लैंडिंग के दौरान विमान का पहिया फट गया और आग लगने की सूचना से हड़कंप मच गया। विमान रनवे पर कुछ दूरी तक घिसटता रहा, जिससे साठ यात्रियों की सांसें अटक गईं। गनीमत रही कि पायलट की सूझबूझ से विमान को सुरक्षित रोक लिया गया और सभी यात्री सुरक्षित हैं।",
+    "tts_text_hi": "दिल्ली से बिलासपुर आ रही एलाइंस एयर की उड़ान के साथ बड़ा हादसा होते-होते टल गया। लैंडिंग के दौरान विमान का पहिया फट गया और आग लगने की सूचना से हड़कंप मच गया। विमान रनवे पर कुछ दूरी तक घिसटता रहा, जिससे साठ यात्रियों की सांसें अटक गईं। गनीमत रही कि पायलट की सूझबूझ से विमान को सुरक्षित रोक लिया गया और सभी यात्री सुरक्षित हैं।",
+    "title": "बिलासपुर एयरपोर्ट पर विमान हादसा टला",
+    "caption": "दिल्ली से बिलासपुर पहुंचे विमान का लैंडिंग के दौरान पहिया फटा, पायलट की सूझबूझ से टला बड़ा हादसा। साठ यात्रियों की जान बची।",
+    "hashtags": [
+      "BilaspurAirport",
+      "AllianceAir",
+      "BreakingNews",
+      "IndiaNews",
+      "FlightIncident"
+    ],
+    "visual_queries": [
+      "commercial airplane landing India runway",
+      "airport runway India",
+      "fire engine safety India airport"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38652992/pexels-photo-38652992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane landing India runway",
+        "credit": "Karthick s",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38252702/pexels-photo-38252702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airport runway India",
+        "credit": "Saakshi Yadav",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane emergency landing runway",
+        "credit": "Juan  Hernández",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane emergency landing runway",
+        "credit": "Juan  Hernández",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16340999/pexels-photo-16340999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airport runway safety vehicle",
+        "credit": "Abdiel Hernandez Villegas",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38955646/pexels-photo-38955646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fire truck at airport",
+        "credit": "Ethan Gorosti",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29149927/pexels-photo-29149927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "passengers waiting at airport",
+        "credit": "kamanda X",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "60 यात्रियों की सांसें अटकीं! बिलासपुर में टला बड़ा विमान हादसा ✈️",
+        "caption": "60 यात्रियों की सांसें अटकीं जब बिलासपुर में विमान का पहिया फट गया! 🚨\n\nदिल्ली से आ रही फ्लाइट जैसे ही बिलासपुर एयरपोर्ट पर उतरी, लैंडिंग के वक्त अचानक उसका टायर फट गया। पायलट की सूझबूझ और सुरक्षा तंत्र की वजह से एक बड़ा हादसा टल गया और सभी यात्री सुरक्षित हैं।\n\nपूरी कहानी देखें और बताएं, ऐसी इमरजेंसी से निपटने के लिए एयरपोर्ट्स पर और क्या होना चाहिए?\n\n#BilaspurAirport #FlightEmergency #DelhiFlight #AviationNews #ChhattisgarhNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "60 यात्रियों की सांसें अटकीं जब बिलासपुर में विमान का पहिया फट गया! 🚨\n\nदिल्ली से आ रही फ्लाइट की लैंडिंग के दौरान अचानक टायर फट गया। गनीमत रही कि कोई अनहोनी नहीं हुई और सभी सुरक्षित हैं। \n\nवीडियो पूरा देखें और शेयर करें!\n\n#BilaspurAirport #FlightEmergency #DelhiFlight #AviationNews #ChhattisgarhNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली से बिलासपुर आ रहे एक विमान के साथ बड़ा हादसा होते-होते टल गया! 🚨 लैंडिंग के वक्त अचानक फ्लाइट का पहिया फट जाने से विमान में सवार सभी 60 यात्रियों की सांसें अटक गईं। \n\nपायलट की सतर्कता से सभी यात्री सुरक्षित हैं। इस हैरान करने वाली घटना का पूरा वीडियो देखिए और अपनी राय नीचे कमेंट में साझा करें।\n\n#BilaspurAirport #FlightEmergency #DelhiFlight #AviationNews #ChhattisgarhNews"
+      },
+      "hashtags": [
+        "BilaspurAirport",
+        "FlightEmergency",
+        "DelhiFlight",
+        "AviationNews",
+        "ChhattisgarhNews"
+      ]
+    },
+    "audio_path": "audio/bilaspur_airport_flight_tyre_burst.wav",
+    "audio_duration_sec": 25.03
+  },
+  {
+    "topic_label": "uganda_king_oyo_death_global",
+    "virality_score": 6,
+    "reason": "The world's youngest reigning traditional monarch, King Oyo of Uganda's Tooro kingdom, passed away at age 34.",
+    "region": "global",
+    "headline": "World's youngest reigning traditional monarch dies aged 34",
+    "source_summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Fri, 28 Aug 2026 11:13:24 GMT",
+    "hook": "दुनिया के सबसे युवा राजा का निधन!",
+    "script_hi": "युगांडा के तोरो साम्राज्य के राजा ओयो का चौंतीस वर्ष की आयु में निधन हो गया है। राजा ओयो ने मात्र तीन वर्ष की आयु में सिंहासन संभाला था।",
+    "tts_text_hi": "युगांडा के तोरो साम्राज्य के राजा ओयो का चौंतीस वर्ष की आयु में निधन हो गया है। राजा ओयो ने मात्र तीन वर्ष की आयु में सिंहासन संभाला था।",
+    "title": "युगांडा के सबसे युवा राजा ओयो का निधन",
+    "caption": "दुनिया के सबसे युवा पारंपरिक सम्राट रहे युगांडा के तोरो साम्राज्य के राजा ओयो का चौंतीस वर्ष की आयु में निधन हो गया है। उन्होंने महज तीन साल की उम्र में गद्दी संभाली थी।",
+    "hashtags": [
+      "#KingOyo",
+      "#Uganda",
+      "#TooroKingdom",
+      "#WorldNews",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "African king portrait",
+      "royal palace Africa",
+      "funeral mourning ceremony"
+    ],
+    "named_person": "King Oyo",
+    "named_person_hi": "राजा ओयो",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "राजा ओयो",
+        "source": "fallback",
+        "query": "King Oyo",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20038946/pexels-photo-20038946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "African king portrait",
+        "credit": "Ali  Drabo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33578925/pexels-photo-33578925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "royal palace Africa",
+        "credit": "Ahmed Salama",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7317920/pexels-photo-7317920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "funeral mourning ceremony",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दुनिया के सबसे युवा राजा का 34 साल की उम्र में निधन! 👑",
+        "caption": "सिर्फ 34 साल की उम्र में दुनिया के सबसे युवा पारंपरिक राजा ओयो का अचानक निधन हो गया है। युगांडा के इस युवा शासक ने बहुत कम उम्र में गद्दी संभाली थी और उनके जाने से देश में शोक की लहर दौड़ गई है।\n\nआखिर ऐसा क्या हुआ? पूरी कहानी जानने के लिए वीडियो पूरा देखें। 👇\n\n#KingOyo #Uganda #WorldNews #BreakingNews #Monarch"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "34 साल की उम्र में दुनिया के सबसे युवा राजा का निधन! 👑\n\nयुगांडा के राजा ओयो के अचानक दुनिया छोड़ने से हर कोई हैरान है। आखिर क्या थी वजह? वीडियो में देखें पूरी सच्चाई।\n\nअपनी राय कमेंट में बताएं।\n\n#KingOyo #Uganda #WorldNews #BreakingNews #Monarch"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दुनिया के सबसे युवा राजा का अचानक निधन! 👑\n\nयुगांडा के राजा ओयो सिर्फ 34 वर्ष के थे जब उनका निधन हो गया। इतनी कम उम्र में उन्होंने बड़ी जिम्मेदारियां संभाली थीं, और उनके इस तरह चले जाने से सभी स्तब्ध हैं।\n\nवीडियो देखकर जानिए क्या थी पूरी घटना।\n\n#KingOyo #Uganda #WorldNews #BreakingNews #Monarch"
+      },
+      "hashtags": [
+        "KingOyo",
+        "Uganda",
+        "WorldNews",
+        "BreakingNews",
+        "Monarch"
+      ]
+    },
+    "audio_path": "audio/uganda_king_oyo_death_global.wav",
+    "audio_duration_sec": 10.63
   }
 ]
