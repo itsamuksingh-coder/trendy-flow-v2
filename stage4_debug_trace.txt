@@ -1,9 +1,7 @@
-ready_labels: ['delhi_boy_defeats_magnus_carlsen', 'gay_dating_app_extortion_gang_jaipur', 'headlight_high_beam_new_rule', 'kuno_cheetah_project_dogs_death', 'nepal_flood_death_toll_163', 'parrot_eggs_smuggler_south_africa_global', 'toxic_movie_box_office_record']
+ready_labels: ['muskan_murder_accused_encounter_delhi', 'openai_chatgpt_ads_india_launch', 'praggnanandhaa_grand_chess_tour_win', 'trump_renames_lake_ontario_lake_america', 'womens_hockey_world_cup_germany_win']
 
-nepal_flood_death_toll_163: SUCCESS -> video_path=videos/nepal_flood_death_toll_163.mp4 dur=28.50322
-toxic_movie_box_office_record: SUCCESS -> video_path=videos/toxic_movie_box_office_record.mp4 dur=33.556553
-headlight_high_beam_new_rule: SUCCESS -> video_path=videos/headlight_high_beam_new_rule.mp4 dur=33.007211
-gay_dating_app_extortion_gang_jaipur: SUCCESS -> video_path=videos/gay_dating_app_extortion_gang_jaipur.mp4 dur=29.849229
-delhi_boy_defeats_magnus_carlsen: SUCCESS -> video_path=videos/delhi_boy_defeats_magnus_carlsen.mp4 dur=23.256553
-kuno_cheetah_project_dogs_death: SUCCESS -> video_path=videos/kuno_cheetah_project_dogs_death.mp4 dur=33.889887
-parrot_eggs_smuggler_south_africa_global: SUCCESS -> video_path=videos/parrot_eggs_smuggler_south_africa_global.mp4 dur=24.811224
+muskan_murder_accused_encounter_delhi: SUCCESS -> video_path=videos/muskan_murder_accused_encounter_delhi.mp4 dur=30.02322
+praggnanandhaa_grand_chess_tour_win: SUCCESS -> video_path=videos/praggnanandhaa_grand_chess_tour_win.mp4 dur=33.489887
+womens_hockey_world_cup_germany_win: SUCCESS -> video_path=videos/womens_hockey_world_cup_germany_win.mp4 dur=24.439229
+openai_chatgpt_ads_india_launch: SUCCESS -> video_path=videos/openai_chatgpt_ads_india_launch.mp4 dur=32.032222
+trump_renames_lake_ontario_lake_america: SUCCESS -> video_path=videos/trump_renames_lake_ontario_lake_america.mp4 dur=33.518231
