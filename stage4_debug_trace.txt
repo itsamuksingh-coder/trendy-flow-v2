@@ -1,5 +1,10 @@
-ready_labels: ['cgst_officers_cbi_arrest_bribe_raigad', 'gold_price_drop_3rd_consecutive_day', 'transgender_doctor_prachi_rathod_kbc']
+ready_labels: ['delhi_cng_price_hike_september_2026', 'ips_vivek_raj_singh_ncb_entry', 'isro_hawkeye_satellite_launch_september', 'jio_platforms_ipo_sebi_approval', 'nepal_flash_flood_death_toll_600', 'sonia_gandhi_memoir_penguin_row']
 
-transgender_doctor_prachi_rathod_kbc: SUCCESS -> video_path=videos/transgender_doctor_prachi_rathod_kbc.mp4 dur=36.92322
-cgst_officers_cbi_arrest_bribe_raigad: SUCCESS -> video_path=videos/cgst_officers_cbi_arrest_bribe_raigad.mp4 dur=35.747211
-gold_price_drop_3rd_consecutive_day: SUCCESS -> video_path=videos/gold_price_drop_3rd_consecutive_day.mp4 dur=27.556553
+nepal_flash_flood_death_toll_600: SUCCESS -> video_path=videos/nepal_flash_flood_death_toll_600.mp4 dur=34.689887
+delhi_cng_price_hike_september_2026: SUCCESS -> video_path=videos/delhi_cng_price_hike_september_2026.mp4 dur=31.777211
+delhi_couple_isi_espionage_sim_cards: SKIPPED (not in ready set)
+isro_hawkeye_satellite_launch_september: SUCCESS -> video_path=videos/isro_hawkeye_satellite_launch_september.mp4 dur=34.865215
+sonia_gandhi_memoir_penguin_row: SUCCESS -> video_path=videos/sonia_gandhi_memoir_penguin_row.mp4 dur=30.456553
+bijnor_man_burns_bike_after_wife_argument: SKIPPED (not in ready set)
+jio_platforms_ipo_sebi_approval: SUCCESS -> video_path=videos/jio_platforms_ipo_sebi_approval.mp4 dur=20.794218
+ips_vivek_raj_singh_ncb_entry: SUCCESS -> video_path=videos/ips_vivek_raj_singh_ncb_entry.mp4 dur=33.054218
