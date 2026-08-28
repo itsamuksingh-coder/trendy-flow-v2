@@ -1,881 +1,36 @@
 [
   {
-    "topic_label": "kerala_16_yr_old_ai_ceo_father_salary",
+    "topic_label": "chinese_humanoid_robot_breaks_record",
     "virality_score": 9,
-    "reason": "An inspiring viral story of a 16-year-old AI startup founder employing his father at a high salary.",
+    "reason": "China's Tiangong Ultra humanoid robot ran 100m in 8.64 seconds, beating Usain Bolt's human world record.",
     "region": "india",
-    "headline": "16 की उम्र... 12वीं में पढ़ते हैं, अपने पिता को देते हैं 2 लाख की सैलरी",
-    "source_summary": "केरला के 16 साल की उम्र के अजू आज एक एआई कंपनी के मालिक हैं और अपने पिता को एक कर्मचारी के तौर पर 2 लाख रुपये की सैलरी देते हैं. साथ ही वे 12वीं क्‍लास में भी पढ़ाई करते हैं.",
-    "source_url": "https://www.aajtak.in/business/news/story/meet-kerala-ai-prodigy-in-class-12-pays-his-father-rs-2-lakh-month-tutd-dskc-2631645-2026-08-28?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-28T13:00:20+05:30",
-    "hook": "सोलह साल की उम्र में एआई कंपनी के मालिक!",
-    "script_hi": "सोलह साल की उम्र में अजू ने अपनी एआई कंपनी खड़ी कर दी है। बारहवीं कक्षा में पढ़ने वाले अजू आज अपने पिता को अपनी ही कंपनी में दो लाख रुपये मासिक वेतन देते हैं। केरल के रहने वाले इस युवा उद्यमी ने साबित कर दिया है कि उम्र सफलता के आड़े नहीं आती।",
-    "tts_text_hi": "सोलह साल की उम्र में अजू ने अपनी एआई कंपनी खड़ी कर दी है। बारहवीं कक्षा में पढ़ने वाले अजू आज अपने पिता को अपनी ही कंपनी में दो लाख रुपये मासिक वेतन देते हैं। केरल के रहने वाले इस युवा उद्यमी ने साबित कर दिया है कि उम्र सफलता के आड़े नहीं आती।",
-    "title": "सोलह साल के एआई कंपनी मालिक",
-    "caption": "केरल के सोलह साल के अजू बारहवीं में पढ़ाई के साथ अपनी एआई कंपनी चला रहे हैं और पिता को दो लाख की सैलरी देते हैं।",
-    "hashtags": [
-      "ai",
-      "startup",
-      "kerala",
-      "success",
-      "news",
-      "trending"
-    ],
-    "visual_queries": [
-      "Indian teenage student studying India",
-      "modern office laptop India",
-      "proud Indian father son"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19091448/pexels-photo-19091448.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian teenage student studying India",
-        "credit": "PREM GS",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern office laptop India",
-        "credit": "Fahad Puthawala",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32652761/pexels-photo-32652761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "proud Indian father son",
-        "credit": "SAMPARK FILMS SAMPARKFILMS.COM",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4705622/pexels-photo-4705622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "teenage tech prodigy computer",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12911736/pexels-photo-12911736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "young entrepreneur office modern",
-        "credit": "Mizuno K",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8005653/pexels-photo-8005653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian teenager working laptop",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5725556/pexels-photo-5725556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "father and son business success",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "16 साल की उम्र में एआई कंपनी के मालिक! पिता को देते हैं 2 लाख की सैलरी 🚀",
-        "caption": "सोलह साल की उम्र में एआई कंपनी के मालिक! 🤯\n\nउम्र महज 16 साल और कक्षा 12 के छात्र, लेकिन कमाई ऐसी कि बड़े-बड़े सॉफ्टवेयर इंजीनियर भी हैरान रह जाएं। अपने दम पर खड़ी की गई इस कंपनी से यह किशोर अपने पिता को हर महीने 2 लाख रुपये सैलरी देता है।\n\nक्या आपने कभी इतनी कम उम्र में ऐसा कुछ होते देखा है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AIStartup #YoungEntrepreneur #Inspiration #TechNews #SuccessStory"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सोलह साल की उम्र में एआई कंपनी के मालिक! 🤯\n\n12वीं का छात्र और खुद की एआई कंपनी का फाउंडर। इतनी कम उम्र में यह लड़का अपने पिता को हर महीने 2 लाख रुपये की सैलरी देता है।\n\nइस शानदार कामयाबी के बारे में आपका क्या सोचना है? दोस्तों के साथ शेयर जरूर करें!\n\n#AIStartup #YoungEntrepreneur #Inspiration #TechNews #SuccessStory"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सोलह साल की उम्र में एआई कंपनी के मालिक! 🤯\n\nजब ज्यादातर बच्चे अपनी पढ़ाई और खेलकूद में व्यस्त रहते हैं, तब 12वीं में पढ़ने वाले इस 16 साल के किशोर ने अपनी खुद की एआई कंपनी खड़ी कर ली है। हैरानी की बात यह है कि वह अपनी इस कंपनी से कमाए पैसों से अपने पिता को हर महीने 2 लाख रुपये की सैलरी देता है।\n\nयह सफलता साबित करती है कि हुनर ​​को उम्र की कोई सीमा नहीं बांध सकती। आपको यह कहानी कैसी लगी, हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#AIStartup #YoungEntrepreneur #Inspiration #TechNews #SuccessStory"
-      },
-      "hashtags": [
-        "AIStartup",
-        "YoungEntrepreneur",
-        "Inspiration",
-        "TechNews",
-        "SuccessStory"
-      ]
-    },
-    "audio_path": "audio/kerala_16_yr_old_ai_ceo_father_salary.wav",
-    "audio_duration_sec": 19.05,
-    "video_path": "videos/kerala_16_yr_old_ai_ceo_father_salary.mp4",
-    "video_duration_sec": 27.11,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "aEoLBRevcBM",
-        "url": "https://youtube.com/shorts/aEoLBRevcBM",
-        "attempted_at": "2026-08-28T10:24:31.176856+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9161ffd142d3660ceb7191",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सोलह साल की उम्र में एआई कंपनी के मालिक! 🤯\n\nजब ज्यादातर बच्चे अपनी पढ़ाई और खेलकूद में व्यस्त रहते हैं, तब 12वीं में पढ़ने वाले इस 16 साल के किशोर ने अपनी खुद की एआई कंपनी खड़ी कर ली है। हैरानी की बात यह है कि वह अपनी इस कंपनी से कमाए पैसों से अपने पिता को हर महीने 2 लाख रुपये की सैलरी देता है।\n\nयह सफलता साबित करती है कि हुनर ​​को उम्र की कोई सीमा नहीं बांध सकती। आपको यह कहानी कैसी लगी, हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#AIStartup #YoungEntrepreneur #Inspiration #TechNews #SuccessStory",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787912700472_4ezi9de1_kerala_16_yr_old_ai_ceo_father_salary.mp4",
-                "_id": "6a9161ffd142d3660ceb7192"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:25:02.562Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "173a82ecc682d5411de2f5e66e9e970f",
-                "_id": "6a9161ffd142d3660ceb7193",
-                "platformPostId": "1379098854358646",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1379098854358646",
-                "publishedAt": "2026-08-28T10:25:09.684Z"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:25:02.562Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:25:03.673Z",
-            "updatedAt": "2026-08-28T10:25:09.858Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:25:04.003Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:25:10.039903+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9162217576b31d81823002",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सोलह साल की उम्र में एआई कंपनी के मालिक! 🤯\n\n12वीं का छात्र और खुद की एआई कंपनी का फाउंडर। इतनी कम उम्र में यह लड़का अपने पिता को हर महीने 2 लाख रुपये की सैलरी देता है।\n\nइस शानदार कामयाबी के बारे में आपका क्या सोचना है? दोस्तों के साथ शेयर जरूर करें!\n\n#AIStartup #YoungEntrepreneur #Inspiration #TechNews #SuccessStory",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787912735278_se41d1m7_kerala_16_yr_old_ai_ceo_father_salary.mp4",
-                "_id": "6a9162217576b31d81823003"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:25:36.416Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "63f684f9dc7653776e992f1b066a1bec",
-                "_id": "6a9162217576b31d81823004"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:25:36.416Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:25:37.173Z",
-            "updatedAt": "2026-08-28T10:25:39.160Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:25:37.281Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:25:39.621325+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "robot_vacuum_cleaner_cheating_case",
-    "virality_score": 9,
-    "reason": "Bizarre and highly viral international news story about a husband catching infidelity using a robot vacuum cleaner.",
-    "region": "india",
-    "headline": "पत्नी की बेवफाई पकड़ी, 15 लाख जीते…लेकिन एक गलती और पति महोदय को ही हो गई जेल!",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/robot-vacuum-cleaner-cheating-case-taiwan.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"पत्नी की बेवफाई पकड़ी, 15 लाख जीते…लेकिन एक गलती और पति महोदय को ही हो गई जेल!\" /></figure>ताइवान में रोबोट वैक्यूम क्लीनर से पत्नी की बेवफाई का सबूत जुटाकर 15 लाख का हर्जाना जीतने वाले पति को प्राइवेसी उल्लंघन के जुर्म में 5 महीने की जेल हो गई. पढ़ें पूरी रिपोर्ट.",
-    "source_url": "https://www.tv9hindi.com/trending/taiwan-man-catches-cheating-wife-using-robot-vacuum-gets-compensation-and-jail-3892124.html",
-    "source_name": "TV9 Hindi",
-    "published": "Fri, 28 Aug 2026 14:46:23 +0530",
-    "hook": "रोबोट वैक्यूम क्लीनर से पकड़ी पत्नी की बेवफाई, पंद्रह लाख जीते... लेकिन पति को क्यों हो गई जेल?",
-    "script_hi": "रोबोट वैक्यूम क्लीनर से पत्नी की बेवफाई का सबूत जुटाकर पंद्रह लाख रुपये का हर्जाना जीतने वाले पति को ताइवान में जेल हो गई है। शख्स ने पत्नी की गतिविधियों रिकॉर्ड करने के लिए वैक्यूम क्लीनर में कैमरा और रिकॉर्डिंग डिवाइस लगाई थी। कोर्ट ने इसे निजता का उल्लंघन मानते हुए पति को पांच महीने की जेल की सजा सुनाई है।",
-    "tts_text_hi": "रोबोट वैक्यूम क्लीनर से पत्नी की बेवफाई का सबूत जुटाकर पंद्रह लाख रुपये का हर्जाना जीतने वाले पति को ताइवान में जेल हो गई है। शख्स ने पत्नी की गतिविधियों रिकॉर्ड करने के लिए वैक्यूम क्लीनर में कैमरा और रिकॉर्डिंग डिवाइस लगाई थी। कोर्ट ने इसे निजता का उल्लंघन मानते हुए पति को पांच महीने की जेल की सजा सुनाई है।",
-    "title": "पत्नी की बेवफाई पकड़ी, पंद्रह लाख जीते... लेकिन पति को हो गई जेल!",
-    "caption": "ताइवान में रोबोट वैक्यूम क्लीनर से पत्नी की बेवफाई का सबूत जुटाकर पंद्रह लाख का हर्जाना जीतने वाले पति को प्राइवेसी उल्लंघन के जुर्म में पांच महीने की जेल हो गई।",
-    "hashtags": [
-      "TaiwanNews",
-      "RobotVacuum",
-      "ViralNews",
-      "AjabGajab",
-      "CrimeNews",
-      "Trending"
-    ],
-    "visual_queries": [
-      "robot vacuum cleaner indoor",
-      "courtroom judge hammer Taiwan",
-      "prison cell bars"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police station India investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7641409/pexels-photo-7641409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "robot vacuum cleaner indoor",
-        "credit": "MART  PRODUCTION",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "courtroom judge hammer Taiwan",
-        "credit": "Sora Shimazaki",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_f29641cf4f.jpg",
-        "source": "wikimedia_commons",
-        "query": "prison cell bars",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8560716/pexels-photo-8560716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry couple arguing home",
-        "credit": "Timur Weber",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "handcuffs arrest close up",
-        "credit": "Kindel Media",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_195700149a.jpg",
-        "source": "wikimedia_commons",
-        "query": "modern apartment living room",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "रोबोट वैक्यूम से खुला बेवफाई का राज, जीते 15 लाख... फिर पति क्यों गया जेल? 🤖",
-        "caption": "रोबोट वैक्यूम क्लीनर ने खोल दिया पत्नी के अफेयर का ऐसा राज कि पति ने अदालत में 15 लाख रुपये जीत लिए। 🧹\n\nलेकिन इसके बाद उसने एक ऐसी गलती कर दी कि जज ने उसे ही जेल भेज दिया। पूरी कहानी जानकर आप भी हैरान रह जाएंगे।\n\nपूरी कहानी देखें और बताएं कि क्या पति ने सही किया?\n\n#robotvacuum #viralnews #relationshipstories #ajabgajab #trendingnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "रोबोट वैक्यूम क्लीनर से खुला बेवफाई का राज, पंद्रह लाख जीते... पर पति को क्यों हो गई जेल? 🤯\n\nमशीन ने बेडरूम का ऐसा सच रिकॉर्ड किया कि पति मालामाल तो हो गया, लेकिन एक बड़ी गलती ने उसे सलाखों के पीछे पहुंचा दिया। \n\nपूरी कहानी वीडियो में देखें।\n\n#robotvacuum #viralnews #relationshipstories #ajabgajab #trendingnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "घर की सफाई करने वाले रोबोट वैक्यूम क्लीनर ने जब पत्नी की बेवफाई का राज खोला, तो पति ने कोर्ट में केस जीतकर 15 लाख रुपये तो झटक लिए। 💸\n\nलेकिन इसके बाद उसने गुस्से में आकर एक ऐसी गलती कर दी कि जज साहब ने उसे ही जेल की हवा खिला दी। क्या थी वो गलती और कैसे खुला ये अजीबोगरीब राज? \n\nपूरी कहानी वीडियो में देखें।\n\n#robotvacuum #viralnews #relationshipstories #ajabgajab #trendingnews"
-      },
-      "hashtags": [
-        "robotvacuum",
-        "viralnews",
-        "relationshipstories",
-        "ajabgajab",
-        "trendingnews"
-      ]
-    },
-    "audio_path": "audio/robot_vacuum_cleaner_cheating_case.wav",
-    "audio_duration_sec": 22.33,
-    "video_path": "videos/robot_vacuum_cleaner_cheating_case.mp4",
-    "video_duration_sec": 30.29,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "bbCCZN0CQTQ",
-        "url": "https://youtube.com/shorts/bbCCZN0CQTQ",
-        "attempted_at": "2026-08-28T10:30:11.633983+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a916349d9e404d0151f6788",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "घर की सफाई करने वाले रोबोट वैक्यूम क्लीनर ने जब पत्नी की बेवफाई का राज खोला, तो पति ने कोर्ट में केस जीतकर 15 लाख रुपये तो झटक लिए। 💸\n\nलेकिन इसके बाद उसने गुस्से में आकर एक ऐसी गलती कर दी कि जज साहब ने उसे ही जेल की हवा खिला दी। क्या थी वो गलती और कैसे खुला ये अजीबोगरीब राज? \n\nपूरी कहानी वीडियो में देखें।\n\n#robotvacuum #viralnews #relationshipstories #ajabgajab #trendingnews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787913031055_rn3q3gpj_robot_vacuum_cleaner_cheating_case.mp4",
-                "_id": "6a916349d9e404d0151f6789"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:30:32.695Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "8fe430c33968d2a483eaf8e6aa1e2fd4",
-                "_id": "6a916349d9e404d0151f678a",
-                "platformPostId": "1494742035675040",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1494742035675040",
-                "publishedAt": "2026-08-28T10:30:40.866Z"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:30:32.695Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:30:33.951Z",
-            "updatedAt": "2026-08-28T10:30:41.127Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:30:34.338Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:30:41.344536+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9163632666856e12c7b3cd",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "रोबोट वैक्यूम क्लीनर से खुला बेवफाई का राज, पंद्रह लाख जीते... पर पति को क्यों हो गई जेल? 🤯\n\nमशीन ने बेडरूम का ऐसा सच रिकॉर्ड किया कि पति मालामाल तो हो गया, लेकिन एक बड़ी गलती ने उसे सलाखों के पीछे पहुंचा दिया। \n\nपूरी कहानी वीडियो में देखें।\n\n#robotvacuum #viralnews #relationshipstories #ajabgajab #trendingnews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787913056625_upb2czjx_robot_vacuum_cleaner_cheating_case.mp4",
-                "_id": "6a9163632666856e12c7b3ce"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:30:58.787Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "18577d6fcdd588aacf23889004d9c847",
-                "_id": "6a9163632666856e12c7b3cf"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:30:58.787Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:30:59.991Z",
-            "updatedAt": "2026-08-28T10:31:01.944Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:31:00.101Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:31:02.420406+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "makkah_clock_tower_lightning_strike",
-    "virality_score": 8,
-    "reason": "Frequent lightning strikes on the Makkah Clock Tower capture public curiosity and high social media engagement.",
-    "region": "india",
-    "headline": "फिर मक्का क्लॉक टॉवर पर गिरी बिजली, ऐसा बार-बार क्यों होता है",
-    "source_summary": "सोशल मीडिया पर मक्का क्लॉक टॉवर पर बिजली गिरने का वीडियो तेजी से वायरल हो रहा है. हालांकि यह पहली बार नहीं है, जब इस मशहूर टॉवर पर बिजली गिरने का ऐसा नज़ारा कैमरे में कैद हुआ हो. पिछले कुछ सालों में भी ऐसे वीडियो सामने आ चुके हैं. ऐसे में सवाल उठता है कि आखिर मक्का के क्लॉक टॉवर पर बार-बार बिजली क्यों गिरती है?",
-    "source_url": "https://www.aajtak.in/trending/story/makkah-clock-tower-lightning-strike-viral-video-reason-explained-tstf-dskc-2631675-2026-08-28?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-28T14:35:57+05:30",
-    "hook": "मक्का के मशहूर क्लॉक टॉवर पर बार-बार क्यों गिरती है बिजली?",
-    "script_hi": "सोशल मीडिया पर मक्का के क्लॉक टॉवर पर बिजली गिरने का एक वीडियो तेजी से वायरल हो रहा है। यह पहली बार नहीं है जब इस प्रसिद्ध टॉवर पर बिजली गिरने का नज़ारा कैमरे में कैद हुआ हो, पिछले कुछ सालों में भी ऐसे कई वीडियो सामने आ चुके हैं। वैज्ञानिकों के अनुसार, क्लॉक टॉवर की अत्यधिक ऊंचाई और उसकी धातु की संरचना इसे बिजली को आकर्षित करने के लिए सबसे संवेदनशील बनाती है।",
-    "tts_text_hi": "सोशल मीडिया पर मक्का के क्लॉक टॉवर पर बिजली गिरने का एक वीडियो तेजी से वायरल हो रहा है। यह पहली बार नहीं है जब इस प्रसिद्ध टॉवर पर बिजली गिरने का नज़ारा कैमरे में कैद हुआ हो, पिछले कुछ सालों में भी ऐसे कई वीडियो सामने आ चुके हैं। वैज्ञानिकों के अनुसार, क्लॉक टॉवर की अत्यधिक ऊंचाई और उसकी धातु की संरचना इसे बिजली को आकर्षित करने के लिए सबसे संवेदनशील बनाती है।",
-    "title": "मक्का क्लॉक टॉवर पर बार-बार क्यों गिरती है बिजली?",
-    "caption": "सोशल मीडिया पर मक्का के क्लॉक टॉवर पर बिजली गिरने का वीडियो वायरल हो रहा है। जानिए इसके पीछे का वैज्ञानिक कारण।",
-    "hashtags": [
-      "Mecca",
-      "ClockTower",
-      "Lightning",
-      "ViralVideo",
-      "ScienceNews",
-      "SaudiArabia"
-    ],
-    "visual_queries": [
-      "Mecca clock tower night",
-      "lightning striking tall building",
-      "scientific lightning storm"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is entirely centered around a specific viral video of lightning striking the Mecca Clock Tower which requires the real footage rather than generic stock B-roll.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_b774c6591b.jpg",
-        "source": "wikimedia_commons",
-        "query": "Mecca clock tower night",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17246558/pexels-photo-17246558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "lightning striking tall building",
-        "credit": "Omar Luis",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17610011/pexels-photo-17610011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "scientific lightning storm",
-        "credit": "Xuân Thống Trần",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "yamaha_yzf_r2_launch_india",
-    "virality_score": 8,
-    "reason": "High interest among young automotive enthusiasts regarding the new Yamaha YZF-R2 sports bike launch in India.",
-    "region": "india",
-    "headline": "युवाओं के लिए आ गई धांसू मोटरसाइकल Yamaha YZF-R2, स्टाइलिश लुक और पावरहाउस, देखें कीमत-खासियत",
-    "source_summary": "<strong>Yamaha YZF R2 Launch Price Features</strong>: इंडिया यामाहा मोटर ने देश में अपनी सबसे फेमस आर-सीरीज मोटरसाइकल पोर्टफोलियो का विस्तार करते हुए सुपरस्पोर्ट बाइक यामाहा वाईजीएफ-आ2 को लॉन्च कर दिया है, जिसकी शुरुआती एक्स-शोरूम कीमत 2,30,500 रुपये है। आर-सीरीज की विरासत को आगे बढ़ाते हुए यह मॉडल भारतीय युवाओं को प्रीमियम और ईजी परफॉर्मेंस प्रदान करता है। इस बाइक की सबसे बड़ी खासियत इसका नया 204 सीसी लिक्विड-कूल्ड DOHC इंजन है, जो सेगमेंट-लीडिंग 26.5 पीएस की पावर और 19.1 न्यूटन मीटर का टॉर्क जेनरेट करता है। इसके अलावा इसमें सेगमेंट-फर्स्ट बाय-डायरेक्शनल क्विक शिफ्टर, हल्का 149 किलो का चेसिस, 37 एमएम USD फोर्क्स और 3 राइडिंग मोड्स जैसी आधुनिक तकनीक मिलती है। शानदार एयरोडायनैमिक डिजाइन और बेहतरीन परफॉर्मेंस का यह मेल राइडर्स के लिए एक रोमांचक और बैलेंस राइडिंग एक्सपीरियंस सुनिश्चित करता है।",
-    "source_url": "https://navbharattimes.indiatimes.com/auto/car-bikes/yamaha-yzf-r2-motorcycle-makes-global-debut-in-india-with-stylish-look-modern-features-and-powerful-engine-know-price/articleshow/133583828.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 28 Aug 2026 10:44:00 +0530",
-    "hook": "युवाओं के लिए आ गई यामाहा की धांसू मोटरसाइकल!",
-    "script_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो। इंडिया यामाहा मोटर ने देश में अपनी नई सुपरस्पोर्ट बाइक लॉन्च कर दी है, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इस बाइक में दो सौ चार सीसी का दमदार इंजन दिया गया है, जो छब्बीस दशमलव पांच पीएस की पावर देता है। इसमें आधुनिक फीचर्स के साथ शानदार एयरोडायनैमिक डिजाइन भी मिलता है।",
-    "tts_text_hi": "युवाओं के लिए आ गई धांसू मोटरसाइकल यामाहा वाईजीएफ आर दो। इंडिया यामाहा मोटर ने देश में अपनी नई सुपरस्पोर्ट बाइक लॉन्च कर दी है, जिसकी शुरुआती एक्स-शोरूम कीमत दो लाख तीस हजार पांच सौ रुपये है। इस बाइक में दो सौ चार सीसी का दमदार इंजन दिया गया है, जो छब्बीस दशमलव पांच पीएस की पावर देता है। इसमें आधुनिक फीचर्स के साथ शानदार एयरोडायनैमिक डिजाइन भी मिलता है।",
-    "title": "Yamaha YZF-R2 Launched in India",
-    "caption": "यामाहा ने भारत में लॉन्च की नई सुपरस्पोर्ट बाइक Yamaha YZF-R2, जानिए कीमत और फीचर्स।",
-    "hashtags": [
-      "Yamaha",
-      "YamahaR2",
-      "SuperSportBike",
-      "BikeLaunch",
-      "AutoNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian sports motorcycle showroom",
-      "Yamaha motorcycle engine India",
-      "modern motorcycle rider India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30445391/pexels-photo-30445391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian sports motorcycle showroom",
-        "credit": "Suhas Hanjar",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_fbaa6cac17.jpg",
-        "source": "wikimedia_commons",
-        "query": "Yamaha motorcycle engine India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27565420/pexels-photo-27565420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern motorcycle rider India",
-        "credit": "PRATIK BRAHMBHATT",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_b1f0bf4f03.jpg",
-        "source": "wikimedia_commons",
-        "query": "sporty motorcycle on Indian road",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10597280/pexels-photo-10597280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "young Indian man riding bike",
-        "credit": "Anil  Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28051514/pexels-photo-28051514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "motorcycle showroom display India",
-        "credit": "PRATIK BRAHMBHATT",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29283090/pexels-photo-29283090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stylish superbike studio shot",
-        "credit": "Shubham Tekawade",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Yamaha YZF-R2 हुई लॉन्च! कीमत और फीचर्स उड़ा देंगे होश 🏍️",
-        "caption": "यामाहा की इस नई बाइक ने मार्केट में आते ही मचा दी है हलचल! 🚨\n\nशानदार लुक और दमदार पावरहाउस इंजन के साथ Yamaha YZF-R2 आखिरकार भारत में आ चुकी है। कॉलेज जाने वाले युवाओं से लेकर बाइक लवर्स तक, हर कोई इसके डिज़ाइन पर फिदा हो रहा है।\n\nक्या आप भी इसे खरीदने का सोच रहे हैं? कमेंट में बताएं! पूरी कहानी देखें\n\n#YamahaR2 #YamahaBike #NewBikeLaunch #BikeLovers #AutoNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "यामाहा ने लॉन्च कर दी युवाओं की नई ड्रीम बाइक! 🔥\n\nस्टाइलिश लुक और जबरदस्त पावर के साथ आई Yamaha YZF-R2 सड़कों पर तहलका मचाने को तैयार है। इंजन से लेकर कीमत तक, जानें इस धांसू बाइक की हर एक खास बात।\n\nक्या यह आपकी अगली बाइक होगी? वीडियो पूरा देखें और अपने बाइकर दोस्तों के साथ शेयर करें 🏍️✨\n\n#YamahaR2 #YamahaBike #NewBikeLaunch #BikeLovers #AutoNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "यामाहा ने आखिरकार बाइक लवर्स का इंतज़ार खत्म कर दिया है! 🏍️✨\n\nयुवाओं के दिलों पर राज करने आ गई है नई Yamaha YZF-R2। इसका एग्रेसिव लुक और दमदार पावरहाउस इंजन सीधे टक्कर देने के लिए तैयार है। बाइक की कीमत क्या है और इसमें क्या-क्या फीचर्स दिए गए हैं, आइए जानते हैं इस वीडियो में।\n\nपूरी खबर देखिए और हमें बताइए कि आपको इसका डिज़ाइन कैसा लगा!\n\n#YamahaR2 #YamahaBike #NewBikeLaunch #BikeLovers #AutoNews"
-      },
-      "hashtags": [
-        "YamahaR2",
-        "YamahaBike",
-        "NewBikeLaunch",
-        "BikeLovers",
-        "AutoNews"
-      ]
-    },
-    "audio_path": "audio/yamaha_yzf_r2_launch_india.wav",
-    "audio_duration_sec": 26.64,
-    "video_path": "videos/yamaha_yzf_r2_launch_india.mp4",
-    "video_duration_sec": 34.62,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "13jq9PQlm6c",
-        "url": "https://youtube.com/shorts/13jq9PQlm6c",
-        "attempted_at": "2026-08-28T10:35:26.747648+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a91648769a86461c3377107",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "यामाहा ने आखिरकार बाइक लवर्स का इंतज़ार खत्म कर दिया है! 🏍️✨\n\nयुवाओं के दिलों पर राज करने आ गई है नई Yamaha YZF-R2। इसका एग्रेसिव लुक और दमदार पावरहाउस इंजन सीधे टक्कर देने के लिए तैयार है। बाइक की कीमत क्या है और इसमें क्या-क्या फीचर्स दिए गए हैं, आइए जानते हैं इस वीडियो में।\n\nपूरी खबर देखिए और हमें बताइए कि आपको इसका डिज़ाइन कैसा लगा!\n\n#YamahaR2 #YamahaBike #NewBikeLaunch #BikeLovers #AutoNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787913349043_9kr67yfl_yamaha_yzf_r2_launch_india.mp4",
-                "_id": "6a91648769a86461c3377108"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:35:50.352Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "bf7463172d8804da9d3f9d777b1f43df",
-                "_id": "6a91648769a86461c3377109",
-                "platformPostId": "1074011208652871",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1074011208652871",
-                "publishedAt": "2026-08-28T10:35:58.663Z"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:35:50.352Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:35:51.586Z",
-            "updatedAt": "2026-08-28T10:35:58.827Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:35:51.718Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:35:59.032394+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9164a369a86461c3377742",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "यामाहा ने लॉन्च कर दी युवाओं की नई ड्रीम बाइक! 🔥\n\nस्टाइलिश लुक और जबरदस्त पावर के साथ आई Yamaha YZF-R2 सड़कों पर तहलका मचाने को तैयार है। इंजन से लेकर कीमत तक, जानें इस धांसू बाइक की हर एक खास बात।\n\nक्या यह आपकी अगली बाइक होगी? वीडियो पूरा देखें और अपने बाइकर दोस्तों के साथ शेयर करें 🏍️✨\n\n#YamahaR2 #YamahaBike #NewBikeLaunch #BikeLovers #AutoNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1787913377271_qxmltbao_yamaha_yzf_r2_launch_india.mp4",
-                "_id": "6a9164a369a86461c3377743"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-28T10:36:18.523Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "71f353f02f5667828148ee03dc63f095",
-                "_id": "6a9164a369a86461c3377744"
-              }
-            ],
-            "scheduledFor": "2026-08-28T10:36:18.523Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:36:19.354Z",
-            "updatedAt": "2026-08-28T10:36:21.028Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:36:19.430Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-28T10:36:21.391738+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "china_humanoid_robot_breaks_record",
-    "virality_score": 8,
-    "reason": "Global tech marvel story where a Chinese humanoid robot reportedly beats Usain Bolt's 100m world record.",
-    "region": "india",
-    "headline": "China's Record-Breaking Robot Shows Humans May Not Be Fastest For Long",
+    "headline": "Faster Than Usain Bolt, Chinese Robot's 100-Metre Sprint Beats Humanity's Best",
     "source_summary": "In its final and fastest run, China's Tiangong Ultra humanoid ran 100 m in 8.64 seconds, blazing past Bolt's 9.58-second human world record.",
     "source_url": "https://www.ndtv.com/world-news/chinas-record-breaking-robot-shows-humans-may-not-be-fastest-for-long-11969910#publisher=newsstand",
     "source_name": "NDTV English - Top Stories",
-    "published": "Fri, 28 Aug 2026 13:18:35 +0530",
-    "hook": "इंसान का रिकॉर्ड टूटा! चीन के रोबोट ने तोड़े सारे रिकॉर्ड!",
-    "script_hi": "चीन के ह्युमनाइड रोबोट तियांगोंग अल्ट्रा ने सौ मीटर की दौड़ आठ दशमलव चौसठ सेकंड में पूरी कर ली है। इसने उसैन बोल्ट के नौ दशमलव अट्ठावन सेकंड के मानव विश्व रिकॉर्ड को पीछे छोड़ दिया है। इससे साबित होता है कि इंसान अब ज्यादा समय तक सबसे तेज नहीं रहने वाले।",
-    "tts_text_hi": "चीन के ह्युमनाइड रोबोट तियांगोंग अल्ट्रा ने सौ मीटर की दौड़ आठ दशमलव चौसठ सेकंड में पूरी कर ली है। इसने उसैन बोल्ट के नौ दशमलव अट्ठावन सेकंड के मानव विश्व रिकॉर्ड को पीछे छोड़ दिया है। इससे साबित होता है कि इंसान अब ज्यादा समय तक सबसे तेज नहीं रहने वाले।",
-    "title": "चीन के रोबोट ने तोड़ा उसैन बोल्ट का रिकॉर्ड",
-    "caption": "चीन के तियांगोंग अल्ट्रा रोबोट ने सौ मीटर दौड़ में उसैन बोल्ट का विश्व रिकॉर्ड तोड़ दिया है।",
+    "published": "Fri, 28 Aug 2026 14:25:52 +0530",
+    "hook": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया!",
+    "script_hi": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव छह चार सेकंड में पूरी करके उसेन बोल्ट का नौ दशमलव पांच आठ सेकंड का रिकॉर्ड तोड़ दिया है।",
+    "tts_text_hi": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ आठ दशमलव छह चार सेकंड में पूरी करके उसेन बोल्ट का नौ दशमलव पांच आठ सेकंड का रिकॉर्ड तोड़ दिया है।",
+    "title": "चीनी रोबोट ने तोड़ा उसेन बोल्ट का रिकॉर्ड",
+    "caption": "चीन के टियांगोंग अल्ट्रा ह्युमनाइड रोबोट ने सौ मीटर की दौड़ में उसेन बोल्ट का रिकॉर्ड पीछे छोड़ दिया है।",
     "hashtags": [
       "TechNews",
-      "Robot",
-      "China",
-      "WorldRecord",
+      "Robotics",
       "UsainBolt",
-      "ScienceNews"
+      "ChinaTech",
+      "HumanoidRobot",
+      "WorldRecord"
     ],
     "visual_queries": [
-      "humanoid robot laboratory",
-      "running robot technology",
-      "sprinter running track"
+      "humanoid robot technology",
+      "running track stadium",
+      "futuristic robot laboratory"
     ],
     "named_person": "Usain Bolt",
-    "named_person_hi": "उसैन बोल्ट",
+    "named_person_hi": "उसेन बोल्ट",
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -889,26 +44,26 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "humanoid robot laboratory",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/26804169/pexels-photo-26804169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "running robot technology",
-        "credit": "Gezer Amorim",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_ee83bd4025.png",
+        "url": "downloaded_assets/commons_06beff3ee1.jpg",
         "source": "wikimedia_commons",
-        "query": "sprinter running track",
+        "query": "humanoid robot technology",
         "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_028750241e.jpg",
+        "source": "wikimedia_commons",
+        "query": "running track stadium",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8438992/pexels-photo-8438992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic robot laboratory",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       }
     ],
@@ -917,35 +72,35 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "चीन के रोबोट ने तोड़ा उसैन बोल्ट का रिकॉर्ड! 🏃‍♂️🤖",
-        "caption": "इंसान का यह रिकॉर्ड टूटना तय था, लेकिन इतनी जल्दी? चीन के इस नए रोबोट ने दौड़ने के मामले में सबको पीछे छोड़ दिया है। ⚡\n\nअब तक इंसानी तेजी का लोहा माना जाता था, पर टेक्नोलॉजी ने खेल ही बदल दिया। क्या आने वाले वक्त में ओलिंपिक में रोबोट दौड़ेंगे? \n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#ChinaRobot #UsainBolt #FutureTech #Robotics #TechNews"
+        "title": "उसेन बोल्ट से भी तेज भागा चीनी रोबोट! तोड़ा 100 मीटर का रिकॉर्ड 🤖⚡",
+        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nचीन के एक इंजीनियर ने ऐसा रोबोट तैयार किया है जिसने 100 मीटर की दौड़ में दुनिया के सबसे तेज धावक उसेन बोल्ट को भी पीछे छोड़ दिया। इसकी रफ्तार देख वैज्ञानिक भी हैरान हैं।\n\nक्या रोबोट्स आने वाले समय में इंसानों को हर खेल में हरा देंगे? कमेंट में बताएं और पूरी कहानी देखें।\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
       },
       "instagram": {
         "title": null,
-        "caption": "इंसान का अहंकार टूटा या टेक्नोलॉजी की जीत? चीन के इस रोबोट की रफ्तार देख दुनिया हैरान है। 🏃‍♂️💨\n\nउसैन बोल्ट का रिकॉर्ड खतरे में है क्योंकि इस मशीन ने वो कर दिखाया जिसकी किसी को उम्मीद नहीं थी। \n\nक्या रोबोट्स इंसानों को हर क्षेत्र में पीछे छोड़ देंगे? शेयर करें इस वीडियो को।\n\n#ChinaRobot #UsainBolt #FutureTech #Robotics #TechNews"
+        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nचीन के रोबोट ने 100 मीटर स्प्रिंट में उसेन बोल्ट का रिकॉर्ड तोड़ दिया है। इसकी स्पीड देख अच्छे-अच्छे धावकों के होश उड़ जाएंगे। \n\nये वीडियो शेयर करके अपने दोस्तों को भी चौंकाएं और पूरी कहानी देखें! 👇\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
       },
       "facebook": {
         "title": null,
-        "caption": "दौड़ने में इंसानों का सबसे बड़ा रिकॉर्ड अब खतरे में है! चीन में एक ऐसा रोबोट तैयार हुआ है जिसकी रफ्तार देख अच्छे-अच्छे एथलीट हैरान रह जाएंगे। 🤖🔥\n\nसाइंस फिक्शन लगने वाली ये बात अब सच हो चुकी है। मशीनें सिर्फ दिमाग से नहीं, बल्कि शारीरिक ताकत और तेजी में भी आगे निकल रही हैं। \n\nआपको क्या लगता है, क्या रोबोट्स ओलिंपिक में भी इंसानों को टक्कर देंगे? कमेंट करके जरूर बताएं और पूरी कहानी देखें।\n\n#ChinaRobot #UsainBolt #FutureTech #Robotics #TechNews"
+        "caption": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nजिस रफ्तार को इंसान का छूना नामुमकिन माना जाता था, उसे अब एक मशीन ने कर दिखाया है। चीन में बने एक एडवांस रोबोट ने 100 मीटर की दौड़ में ओलंपिक चैंपियन उसेन बोल्ट के रिकॉर्ड को पीछे छोड़ दिया है। इस चौंकाने वाली तकनीक के बारे में पूरी जानकारी के लिए वीडियो पूरा देखें।\n\nआपको क्या लगता है, क्या रोबोट्स का जमाना इंसानों पर भारी पड़ेगा? नीचे कमेंट करके अपनी राय जरूर साझा करें।\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics"
       },
       "hashtags": [
-        "ChinaRobot",
+        "ChineseRobot",
         "UsainBolt",
+        "TechNews",
         "FutureTech",
-        "Robotics",
-        "TechNews"
+        "Robotics"
       ]
     },
-    "audio_path": "audio/china_humanoid_robot_breaks_record.wav",
-    "audio_duration_sec": 18.83,
-    "video_path": "videos/china_humanoid_robot_breaks_record.mp4",
-    "video_duration_sec": 26.88,
+    "audio_path": "audio/chinese_humanoid_robot_breaks_record.wav",
+    "audio_duration_sec": 11.25,
+    "video_path": "videos/chinese_humanoid_robot_breaks_record.mp4",
+    "video_duration_sec": 19.22,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "EnqPqncLBms",
-        "url": "https://youtube.com/shorts/EnqPqncLBms",
-        "attempted_at": "2026-08-28T10:39:38.918715+00:00"
+        "video_id": "2uWWG4nl1Bc",
+        "url": "https://youtube.com/shorts/2uWWG4nl1Bc",
+        "attempted_at": "2026-08-28T11:16:20.444859+00:00"
       },
       "facebook": {
         "success": true,
@@ -958,15 +113,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a91658b9314af05e2a6733e",
+            "_id": "6a916e1b5faaecf9dead9205",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दौड़ने में इंसानों का सबसे बड़ा रिकॉर्ड अब खतरे में है! चीन में एक ऐसा रोबोट तैयार हुआ है जिसकी रफ्तार देख अच्छे-अच्छे एथलीट हैरान रह जाएंगे। 🤖🔥\n\nसाइंस फिक्शन लगने वाली ये बात अब सच हो चुकी है। मशीनें सिर्फ दिमाग से नहीं, बल्कि शारीरिक ताकत और तेजी में भी आगे निकल रही हैं। \n\nआपको क्या लगता है, क्या रोबोट्स ओलिंपिक में भी इंसानों को टक्कर देंगे? कमेंट करके जरूर बताएं और पूरी कहानी देखें।\n\n#ChinaRobot #UsainBolt #FutureTech #Robotics #TechNews",
+            "content": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nजिस रफ्तार को इंसान का छूना नामुमकिन माना जाता था, उसे अब एक मशीन ने कर दिखाया है। चीन में बने एक एडवांस रोबोट ने 100 मीटर की दौड़ में ओलंपिक चैंपियन उसेन बोल्ट के रिकॉर्ड को पीछे छोड़ दिया है। इस चौंकाने वाली तकनीक के बारे में पूरी जानकारी के लिए वीडियो पूरा देखें।\n\nआपको क्या लगता है, क्या रोबोट्स का जमाना इंसानों पर भारी पड़ेगा? नीचे कमेंट करके अपनी राय जरूर साझा करें।\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1787913607557_8iz3do4s_china_humanoid_robot_breaks_record.mp4",
-                "_id": "6a91658b9314af05e2a6733f"
+                "url": "https://media.zernio.com/media/1787915799732_mr3o24ec_chinese_humanoid_robot_breaks_record.mp4",
+                "_id": "6a916e1b5faaecf9dead9206"
               }
             ],
             "platforms": [
@@ -983,17 +138,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-28T10:40:09.726Z",
+                "scheduledFor": "2026-08-28T11:16:41.892Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "9abd6e9e7c52f66d211b0c5c0d1bcf05",
-                "_id": "6a91658b9314af05e2a67340",
-                "platformPostId": "1074615985049086",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1074615985049086",
-                "publishedAt": "2026-08-28T10:40:16.561Z"
+                "contentHash": "dac05c47928c0ade99681acb6f4324f7",
+                "_id": "6a916e1b5faaecf9dead9207",
+                "platformPostId": "829444663519512",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=829444663519512",
+                "publishedAt": "2026-08-28T11:16:49.787Z"
               }
             ],
-            "scheduledFor": "2026-08-28T10:40:09.726Z",
+            "scheduledFor": "2026-08-28T11:16:41.892Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1005,14 +160,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:40:11.297Z",
-            "updatedAt": "2026-08-28T10:40:16.709Z",
+            "createdAt": "2026-08-28T11:16:43.194Z",
+            "updatedAt": "2026-08-28T11:16:50.124Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:40:11.528Z"
+            "publishingClaimedAt": "2026-08-28T11:16:43.425Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-28T10:40:16.927314+00:00"
+        "attempted_at": "2026-08-28T11:16:50.415271+00:00"
       },
       "instagram": {
         "success": true,
@@ -1025,15 +180,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9165ae0f20729356bffc4a",
+            "_id": "6a916e445faaecf9dead98a0",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "इंसान का अहंकार टूटा या टेक्नोलॉजी की जीत? चीन के इस रोबोट की रफ्तार देख दुनिया हैरान है। 🏃‍♂️💨\n\nउसैन बोल्ट का रिकॉर्ड खतरे में है क्योंकि इस मशीन ने वो कर दिखाया जिसकी किसी को उम्मीद नहीं थी। \n\nक्या रोबोट्स इंसानों को हर क्षेत्र में पीछे छोड़ देंगे? शेयर करें इस वीडियो को।\n\n#ChinaRobot #UsainBolt #FutureTech #Robotics #TechNews",
+            "content": "इंसानी दौड़ का सबसे बड़ा रिकॉर्ड टूट गया! 🤯\n\nचीन के रोबोट ने 100 मीटर स्प्रिंट में उसेन बोल्ट का रिकॉर्ड तोड़ दिया है। इसकी स्पीड देख अच्छे-अच्छे धावकों के होश उड़ जाएंगे। \n\nये वीडियो शेयर करके अपने दोस्तों को भी चौंकाएं और पूरी कहानी देखें! 👇\n\n#ChineseRobot #UsainBolt #TechNews #FutureTech #Robotics",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1787913644234_jo3hqg8o_china_humanoid_robot_breaks_record.mp4",
-                "_id": "6a9165ae0f20729356bffc4b"
+                "url": "https://media.zernio.com/media/1787915840688_m9wwb7dd_chinese_humanoid_robot_breaks_record.mp4",
+                "_id": "6a916e445faaecf9dead98a1"
               }
             ],
             "platforms": [
@@ -1050,14 +205,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-28T10:40:45.942Z",
+                "scheduledFor": "2026-08-28T11:17:23.168Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "a99db9d8e88b1ab2aee9dd506b68456c",
-                "_id": "6a9165ae0f20729356bffc4c"
+                "contentHash": "ba97a2e92a586425e486abcf9bee562d",
+                "_id": "6a916e445faaecf9dead98a2"
               }
             ],
-            "scheduledFor": "2026-08-28T10:40:45.942Z",
+            "scheduledFor": "2026-08-28T11:17:23.168Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1069,14 +224,1248 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-28T10:40:46.898Z",
-            "updatedAt": "2026-08-28T10:40:48.426Z",
+            "createdAt": "2026-08-28T11:17:24.514Z",
+            "updatedAt": "2026-08-28T11:17:26.942Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-28T10:40:46.993Z"
+            "publishingClaimedAt": "2026-08-28T11:17:24.663Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-28T10:40:48.881891+00:00"
+        "attempted_at": "2026-08-28T11:17:27.739040+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "india_us_javelin_anti_tank_deal",
+    "virality_score": 8,
+    "reason": "India is finalizing a major 300 crore defense deal with the US for Javelin anti-tank missiles, boosting border defense.",
+    "region": "india",
+    "headline": "भारतीय सेना की बढ़ेगी ताकत, अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की!",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/anti-tank-missile.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"भारतीय सेना की बढ़ेगी ताकत, अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की!\" /></figure>भारत अमेरिका से जेवलिन एंटी-टैंक गाइडेड मिसाइल खरीद रहा है. भारत में अमेरिका के राजदूत सर्जियो गोर ने बताया कि इससे नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और मजबूत हो सकता है.",
+    "source_url": "https://www.tv9hindi.com/india/india-seals-javelin-anti-tank-guided-missile-deal-with-us-3892340.html",
+    "source_name": "TV9 Hindi",
+    "published": "Fri, 28 Aug 2026 15:19:59 +0530",
+    "hook": "भारतीय सेना की ताकत में होने जा रहा है बड़ा इजाफा!",
+    "script_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और अधिक मजबूत होगा।",
+    "tts_text_hi": "भारतीय सेना की ताकत अब और बढ़ने वाली है। भारत ने अमेरिका से तीन सौ करोड़ रुपये की जेवलिन एंटी टैंक गाइडेड मिसाइल की डील पक्की कर ली है। भारत में अमेरिकी राजदूत सर्जियो गोर ने बताया कि इस समझौते से नई दिल्ली और वाशिंगटन के बीच रक्षा सहयोग और अधिक मजबूत होगा।",
+    "title": "भारतीय सेना को मिलेगी अमेरिका से जेवलिन मिसाइल",
+    "caption": "भारतीय सेना की ताकत बढ़ाने के लिए अमेरिका से तीन सौ करोड़ की जेवलिन एंटी-टैंक मिसाइल की डील पक्की हो गई है।",
+    "hashtags": [
+      "IndianArmy",
+      "DefenseDeal",
+      "USIndia",
+      "JavelinMissile",
+      "MilitaryPower",
+      "NewsUpdates"
+    ],
+    "visual_queries": [
+      "Indian army soldier India",
+      "anti tank missile test India",
+      "US India flag diplomacy India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/33506101/14251100_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "US India flag diplomacy India",
+        "credit": "Ananya Mandial",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34054870/14443034_720_1280_120fps.mp4",
+        "source": "pexels",
+        "query": "military weapons stock footage",
+        "credit": "Gonzalo Garcia",
+        "source_duration_sec": 65,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_07a2784fb4.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian army soldier India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_ebf6e1ff90.jpg",
+        "source": "wikimedia_commons",
+        "query": "anti tank missile test India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6092075/pexels-photo-6092075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "military weapons supply",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_c5ad337c5e.jpg",
+        "source": "wikimedia_commons",
+        "query": "military weapons technology",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_6f33716da8.png",
+        "source": "wikimedia_commons",
+        "query": "army weapons and ammunition",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "300 करोड़ की डील! भारतीय सेना को मिलेगी खतरनाक जेवलिन मिसाइल 🚀",
+        "caption": "दुश्मन के टैंक अब पल भर में होंगे खाक! अमेरिका से 300 करोड़ की जेवलिन एंटी-टैंक मिसाइल डील पक्की हो चुकी है। 🇮🇳\n\nइस खतरनाक हथियार के आने से भारतीय सीमा पर हमारी ताकत कई गुना बढ़ जाएगी। चीन और पाकिस्तान की हर नापाक हरकत का अब और भी कड़ा जवाब मिलेगा। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दुश्मन के टैंक अब एक वार में तबाह! 🎯 अमेरिका से 300 करोड़ की जेवलिन मिसाइल डील पक्की, जानिए कैसे बढ़ेगी भारतीय सेना की ताकत।\n\nइस डिफेंस डील से बॉर्डर पर भारत का पलड़ा और भारी हो जाएगा। वीडियो शेयर करके हर भारतीय तक यह गर्व की बात पहुंचाएं! 🇮🇳🔥\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दुश्मन के टैंकों की अब खैर नहीं! भारत और अमेरिका के बीच 300 करोड़ रुपये की जेवलिन एंटी-टैंक मिसाइल डील पर मुहर लग चुकी है। 🚀\n\nइस आधुनिक हथियार के बेड़े में शामिल होने से भारतीय थल सेना की मारक क्षमता अभेद्य हो जाएगी। सरहद पर हमारी सुरक्षा अब और भी ज्यादा मजबूत होने जा रही है। \n\nयह डिफेंस डील हमारे सैनिकों के लिए कितनी अहम है? कमेंट करके जरूर बताएं और वीडियो को लाइक व शेयर करें। 🇮🇳\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense"
+      },
+      "hashtags": [
+        "IndianArmy",
+        "JavelinMissile",
+        "IndiaUSRelations",
+        "DefenceDeal",
+        "IndianDefense"
+      ]
+    },
+    "audio_path": "audio/india_us_javelin_anti_tank_deal.wav",
+    "audio_duration_sec": 21.23,
+    "video_path": "videos/india_us_javelin_anti_tank_deal.mp4",
+    "video_duration_sec": 29.29,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "n_imEXbSpRA",
+        "url": "https://youtube.com/shorts/n_imEXbSpRA",
+        "attempted_at": "2026-08-28T11:22:42.496089+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a916fa28c1dbdf171d5b115",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दुश्मन के टैंकों की अब खैर नहीं! भारत और अमेरिका के बीच 300 करोड़ रुपये की जेवलिन एंटी-टैंक मिसाइल डील पर मुहर लग चुकी है। 🚀\n\nइस आधुनिक हथियार के बेड़े में शामिल होने से भारतीय थल सेना की मारक क्षमता अभेद्य हो जाएगी। सरहद पर हमारी सुरक्षा अब और भी ज्यादा मजबूत होने जा रही है। \n\nयह डिफेंस डील हमारे सैनिकों के लिए कितनी अहम है? कमेंट करके जरूर बताएं और वीडियो को लाइक व शेयर करें। 🇮🇳\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916191885_6fum76rc_india_us_javelin_anti_tank_deal.mp4",
+                "_id": "6a916fa28c1dbdf171d5b116"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:23:13.353Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a9617a7c6ac5d3c0e17bae8e7be1be65",
+                "_id": "6a916fa28c1dbdf171d5b117",
+                "platformPostId": "1376984427947337",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1376984427947337",
+                "publishedAt": "2026-08-28T11:23:25.582Z"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:23:13.353Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:23:14.183Z",
+            "updatedAt": "2026-08-28T11:23:25.704Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:23:14.322Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:23:25.898372+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a916fc9870aefa8ed196ca3",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दुश्मन के टैंक अब एक वार में तबाह! 🎯 अमेरिका से 300 करोड़ की जेवलिन मिसाइल डील पक्की, जानिए कैसे बढ़ेगी भारतीय सेना की ताकत।\n\nइस डिफेंस डील से बॉर्डर पर भारत का पलड़ा और भारी हो जाएगा। वीडियो शेयर करके हर भारतीय तक यह गर्व की बात पहुंचाएं! 🇮🇳🔥\n\n#IndianArmy #JavelinMissile #IndiaUSRelations #DefenceDeal #IndianDefense",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916230127_ncggk6fm_india_us_javelin_anti_tank_deal.mp4",
+                "_id": "6a916fc9870aefa8ed196ca4"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:23:52.460Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "55df9bbb347d2140caaba7737e9bcb50",
+                "_id": "6a916fc9870aefa8ed196ca5"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:23:52.460Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:23:53.437Z",
+            "updatedAt": "2026-08-28T11:23:55.071Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:23:53.557Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:23:55.474300+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "bareilly_rakhi_event_stampede_death",
+    "virality_score": 8,
+    "reason": "Tragic stampede at a political Raksha Bandhan gift distribution event in Bareilly results in a woman's death.",
+    "region": "india",
+    "headline": "'20k women promised gifts': 1 dead after 'stampede' at BJP mayor’s Rakhi event",
+    "source_summary": "A woman died and three others were injured during a Rakshabandhan event in Bareilly. The stampede occurred after a large crowd surged towards the stage. Organizers had invited approximately twenty thousand women to the event. Gifts and food were promised to all attendees, swelling the crowd. Police and civic officials have not yet issued a formal statement.",
+    "source_url": "https://timesofindia.indiatimes.com/city/bareilly/20k-women-promised-gifts-1-dead-3-injured-after-stampede-breaks-out-at-bjp-mayors-raksha-bandhan-event-in-bareilly/articleshow/133584190.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Fri, 28 Aug 2026 11:24:32 +0530",
+    "hook": "बरेली में रक्षाबंधन के कार्यक्रम में मची भगदड़, एक महिला की मौत!",
+    "script_hi": "उत्तर प्रदेश के बरेली में भाजपा मेयर के रक्षाबंधन कार्यक्रम के दौरान भीषण भगदड़ मच गई। इस हादसे में एक महिला की मौत हो गई और तीन अन्य घायल हो गईं। कार्यक्रम में बीस हजार महिलाओं को उपहार देने का वादा किया गया था, जिसके बाद भारी भीड़ बेकाबू हो गई।",
+    "tts_text_hi": "उत्तर प्रदेश के बरेली में भाजपा मेयर के रक्षाबंधन कार्यक्रम के दौरान भीषण भगदड़ मच गई। इस हादसे में एक महिला की मौत हो गई और तीन अन्य घायल हो गईं। कार्यक्रम में बीस हजार महिलाओं को उपहार देने का वादा किया गया था, जिसके बाद भारी भीड़ बेकाबू हो गई।",
+    "title": "बरेली में रक्षाबंधन कार्यक्रम में भगदड़, एक महिला की मौत",
+    "caption": "उत्तर प्रदेश के बरेली में रक्षाबंधन के एक कार्यक्रम के दौरान भगदड़ मचने से एक महिला की मौत हो गई और तीन घायल हो गईं। बीस हजार महिलाओं को उपहार देने का वादा किया गया था।",
+    "hashtags": [
+      "Bareilly",
+      "Stampede",
+      "Rakshabandhan",
+      "UttarPradesh",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian city street crowd",
+      "crowd panic India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39066327/16624318_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "crowd management India police",
+        "credit": "Abhishek  Shekhawat",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street crowd",
+        "credit": "Himanshu Singh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38953147/pexels-photo-38953147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd panic India",
+        "credit": "Prashant  Mevada",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_55e633f10f.jpg",
+        "source": "wikimedia_commons",
+        "query": "police investigation India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_ba22942b0e.jpg",
+        "source": "wikimedia_commons",
+        "query": "crowd gathering India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087857/pexels-photo-39087857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian political rally",
+        "credit": "Satyam Pixels",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29580937/pexels-photo-29580937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police crowd control",
+        "credit": "Alireza Heidarpour",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बरेली में राखी कार्यक्रम में भगदड़, 1 महिला की मौत 💔",
+        "caption": "बरेली में राखी कार्यक्रम में मची भगदड़, एक महिला की मौत! 🚨\n\nबीजेपी मेयर की ओर से 20 हजार महिलाओं को मुफ्त गिफ्ट देने का वादा किया गया था। भीड़ इतनी बेकाबू हुई कि एक महिला की जान चली गई।\n\nपूरी कहानी वीडियो में देखें।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "बरेली में राखी कार्यक्रम में मची भगदड़, एक महिला की मौत! 🚨\n\n20 हजार महिलाओं को गिफ्ट बांटने के लिए कार्यक्रम रखा गया था। भारी भीड़ के बीच हालात ऐसे बिगड़े कि एक महिला की जान चली गई।\n\nक्या भीड़ संभालने के लिए पर्याप्त इंतजाम नहीं थे? अपनी राय कमेंट में बताएं।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "बरेली में रक्षाबंधन के एक कार्यक्रम में अचानक भगदड़ मचने से एक महिला की दर्दनाक मौत हो गई। 💔\n\nबीजेपी मेयर की तरफ से 20 हजार महिलाओं को गिफ्ट दिए जाने का वादा किया गया था, जिसके बाद वहां भारी भीड़ जुट गई थी। हालात इतने बेकाबू हुए कि यह बड़ा हादसा हो गया।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews"
+      },
+      "hashtags": [
+        "BareillyNews",
+        "RakshaBandhan",
+        "Stampede",
+        "UttarPradesh",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/bareilly_rakhi_event_stampede_death.wav",
+    "audio_duration_sec": 18.43,
+    "video_path": "videos/bareilly_rakhi_event_stampede_death.mp4",
+    "video_duration_sec": 26.32,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "hJhHSwGfYek",
+        "url": "https://youtube.com/shorts/hJhHSwGfYek",
+        "attempted_at": "2026-08-28T11:27:22.202981+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9170b01dfc9af01ac732c5",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "बरेली में रक्षाबंधन के एक कार्यक्रम में अचानक भगदड़ मचने से एक महिला की दर्दनाक मौत हो गई। 💔\n\nबीजेपी मेयर की तरफ से 20 हजार महिलाओं को गिफ्ट दिए जाने का वादा किया गया था, जिसके बाद वहां भारी भीड़ जुट गई थी। हालात इतने बेकाबू हुए कि यह बड़ा हादसा हो गया।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916461488_dgfx6zp4_bareilly_rakhi_event_stampede_death.mp4",
+                "_id": "6a9170b01dfc9af01ac732c6"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:27:42.948Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "1bda4a45503151e7cec2ee6da7a6c90f",
+                "_id": "6a9170b01dfc9af01ac732c7",
+                "platformPostId": "2139566843274974",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2139566843274974",
+                "publishedAt": "2026-08-28T11:27:51.403Z"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:27:42.948Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:27:44.939Z",
+            "updatedAt": "2026-08-28T11:27:51.530Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:27:45.107Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:27:51.705132+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9170cc55eb4f4dc3416604",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "बरेली में राखी कार्यक्रम में मची भगदड़, एक महिला की मौत! 🚨\n\n20 हजार महिलाओं को गिफ्ट बांटने के लिए कार्यक्रम रखा गया था। भारी भीड़ के बीच हालात ऐसे बिगड़े कि एक महिला की जान चली गई।\n\nक्या भीड़ संभालने के लिए पर्याप्त इंतजाम नहीं थे? अपनी राय कमेंट में बताएं।\n\n#BareillyNews #RakshaBandhan #Stampede #UttarPradesh #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916490066_xs1rbru2_bareilly_rakhi_event_stampede_death.mp4",
+                "_id": "6a9170cc55eb4f4dc3416605"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:28:11.511Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "1a6bdb4e242d1d152adc65fff019a543",
+                "_id": "6a9170cc55eb4f4dc3416606"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:28:11.511Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:28:12.743Z",
+            "updatedAt": "2026-08-28T11:28:15.046Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:28:12.860Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:28:15.534136+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "kanpur_courtyard_cave_in_death",
+    "virality_score": 8,
+    "reason": "Shocking incident in Kanpur where a young girl carrying a Rakhi thali fell 22 feet into a sudden courtyard cave-in.",
+    "region": "india",
+    "headline": "राखी की थाली लेकर निकली यशी, अचानक धंस गया आंगन… 22 फीट गहरे गड्ढे में गिरकर मौत",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/kanpur-news-3.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"राखी की थाली लेकर निकली यशी, अचानक धंस गया आंगन… 22 फीट गहरे गड्ढे में गिरकर मौत\" /></figure>रक्षाबंधन के दिन कानपुर में घर के आंगन की जमीन अचानक धंसने से एक युवती करीब 20-22 फीट गहरे गड्ढे में गिर गई. कई घंटे चले रेस्क्यू ऑपरेशन के बाद युवती को बाहर निकाला गया, लेकिन उसकी जान नहीं बच सकी.",
+    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/kanpur-maharajpur-yashi-savita-borewell-accident-raksha-bandhan-ground-collapse-3892378.html",
+    "source_name": "TV9 Hindi",
+    "published": "Fri, 28 Aug 2026 15:47:59 +0530",
+    "hook": "रक्षाबंधन के दिन घर में पसरा मातम!",
+    "script_hi": "कानपुर में रक्षाबंधन के पावन पर्व पर एक बड़ा हादसा हो गया. राखी की थाली लेकर घर से निकली यशी का अचानक आंगन धंस गया. वह बाईस फीट गहरे गड्ढे में जा गिरी. कई घंटों के रेस्क्यू ऑपरेशन के बाद उसे बाहर निकाला गया, लेकिन उसकी जान नहीं बचाई जा सके.",
+    "tts_text_hi": "कानपुर में रक्षाबंधन के पावन पर्व पर एक बड़ा हादसा हो गया। राखी की थाली लेकर घर से निकली यशी का अचानक आंगन धंस गया। वह बाईस फीट गहरे गड्ढे में जा गिरी। कई घंटों के रेस्क्यू ऑपरेशन के बाद उसे बाहर निकाला गया, लेकिन उसकी जान नहीं बचाई जा सकी।",
+    "title": "कानपुर में रक्षाबंधन पर बड़ा हादसा, आंगन धंसने से युवती की मौत",
+    "caption": "रक्षाबंधन के दिन कानपुर में घर का आंगन धंसने से बाईस फीट गहरे गड्ढे में गिरी युवती, रेस्क्यू के बाद भी नहीं बची जान।",
+    "hashtags": [
+      "#KanpurNews",
+      "#RakshaBandhan",
+      "#Accident",
+      "#UttarPradesh",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "Indian residential street Kanpur",
+      "Indian house courtyard India",
+      "deep sinkhole street India",
+      "emergency rescue operation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35463015/15024653_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "residential street accident India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10963370/pexels-photo-10963370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian residential street Kanpur",
+        "credit": "Ayush Gautam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18364647/pexels-photo-18364647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian house courtyard India",
+        "credit": "Vishwanth PindiBoina",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "emergency rescue operation India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रक्षाबंधन की खुशी पलभर में मातम में बदली! 22 फीट गहरे गड्ढे में समाई बहन 😱",
+        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nकानपुर में राखी की थाली लेकर निकली 22 साल की यशी के साथ अचानक ऐसा हादसा हुआ कि देखने वालों की रूह कांप गई। घर का आंगन अचानक धंस गया और वो सीधे 22 फीट गहरे गड्ढे में जा गिरी।\n\nपूरी कहानी देखें और बताएं कि इस लापरवाही का जिम्मेदार कौन है?\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nराखी की थाली लेकर घर से निकली यशी को क्या पता था कि उसका आंगन ही उसकी कब्र बन जाएगा। कानपुर में अचानक जमीन धंसने से 22 फीट गहरे गड्ढे में गिरी युवती की दर्दनाक मौत हो गई।\n\nक्या ऐसे हादसों के लिए सिर्फ किस्मत जिम्मेदार है?\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nकानपुर से एक झकझोर देने वाली खबर सामने आई है। रक्षाबंधन के पावन पर्व पर राखी की थाली लेकर जा रही यशी के पैरों तले अचानक जमीन खिसक गई। घर का आंगन धंसने से वह सीधे 22 फीट गहरे गड्ढे में जा गिरी, जिससे उसकी मौके पर ही मौत हो गई। इस दर्दनाक हादसे ने पूरे परिवार को तोड़ कर रख दिया है।\n\nआपकी इस घटना पर क्या राय है, कमेंट में जरूर बताएं।\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy"
+      },
+      "hashtags": [
+        "kanpur",
+        "rakshabandhan",
+        "breakingnews",
+        "uttarpradesh",
+        "tragedy"
+      ]
+    },
+    "audio_path": "audio/kanpur_courtyard_cave_in_death.wav",
+    "audio_duration_sec": 18.04,
+    "video_path": "videos/kanpur_courtyard_cave_in_death.mp4",
+    "video_duration_sec": 25.99,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "cXOo4gxJpSA",
+        "url": "https://youtube.com/shorts/cXOo4gxJpSA",
+        "attempted_at": "2026-08-28T11:32:31.673939+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9171ead29072521132c066",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nकानपुर से एक झकझोर देने वाली खबर सामने आई है। रक्षाबंधन के पावन पर्व पर राखी की थाली लेकर जा रही यशी के पैरों तले अचानक जमीन खिसक गई। घर का आंगन धंसने से वह सीधे 22 फीट गहरे गड्ढे में जा गिरी, जिससे उसकी मौके पर ही मौत हो गई। इस दर्दनाक हादसे ने पूरे परिवार को तोड़ कर रख दिया है।\n\nआपकी इस घटना पर क्या राय है, कमेंट में जरूर बताएं।\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916774169_53hg8uf2_kanpur_courtyard_cave_in_death.mp4",
+                "_id": "6a9171ead29072521132c067"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:32:56.995Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "2749edf2bf87ca5bb2b1715769735b86",
+                "_id": "6a9171ead29072521132c068",
+                "platformPostId": "2536873703500762",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2536873703500762",
+                "publishedAt": "2026-08-28T11:33:04.341Z"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:32:56.995Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:32:58.216Z",
+            "updatedAt": "2026-08-28T11:33:04.500Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:32:58.335Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:33:04.700729+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a917204317ab6f270e69332",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रक्षाबंधन के दिन घर में पसरा मातम! 💔\n\nराखी की थाली लेकर घर से निकली यशी को क्या पता था कि उसका आंगन ही उसकी कब्र बन जाएगा। कानपुर में अचानक जमीन धंसने से 22 फीट गहरे गड्ढे में गिरी युवती की दर्दनाक मौत हो गई।\n\nक्या ऐसे हादसों के लिए सिर्फ किस्मत जिम्मेदार है?\n\n#kanpur #rakshabandhan #breakingnews #uttarpradesh #tragedy",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787916801917_5lws9tfp_kanpur_courtyard_cave_in_death.mp4",
+                "_id": "6a917204317ab6f270e69333"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:33:23.555Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "9c72c747ac0921913bc7ac76bf452aa3",
+                "_id": "6a917204317ab6f270e69334"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:33:23.555Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:33:24.445Z",
+            "updatedAt": "2026-08-28T11:33:26.358Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:33:24.585Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:33:26.742247+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "japan_fighter_jets_veer_guardian_exercise",
+    "virality_score": 8,
+    "reason": "Japanese F-2A fighter jets are heading to India for the first time to participate in the Veer Guardian exercise in Rajasthan.",
+    "region": "india",
+    "headline": "जापानी फाइटर जेट पहली बार आ रहे भारत, पाक सीमा पर गरजेंगे F-2A, अमेरिका देगा 'पेट्रोल पंप'",
+    "source_summary": "Veer Guardian 26 Air Exercise: जापान के फाइटर जेट F-2A पहली बार भारत आ रहे हैं। जापान के 3 लड़ाकू व‍िमान वीर गार्डियन अभ्‍यास में ह‍िस्‍सा लेंगे जो राजस्‍थान में होने जा रहा है। इस दौरान अमेरिकी वायुसेना रास्‍ते में अपने तेल टैंकर देगी।",
+    "source_url": "https://navbharattimes.indiatimes.com/world/asian-countries/japan-jasdf-f-2a-fighter-jets-to-visit-india-for-first-time-for-veer-guardian-26-amid-china-threat/articleshow/133586714.cms",
+    "source_name": "Navbharat Times",
+    "published": "Fri, 28 Aug 2026 13:28:00 +0530",
+    "hook": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत!",
+    "script_hi": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत। वीर गार्डियन अभ्यास में हिस्सा लेने राजस्थान आ रहे हैं जापान के तीन लड़ाकू विमान एफ टू ए। पाकिस्तान सीमा के पास गरजेंगे ये विमान और अमेरिकी वायुसेना रास्ते में देगी ईंधन।",
+    "tts_text_hi": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत। वीर गार्डियन अभ्यास में हिस्सा लेने राजस्थान आ रहे हैं जापान के तीन लड़ाकू विमान एफ टू ए। पाकिस्तान सीमा के पास गरजेंगे ये विमान और अमेरिकी वायुसेना रास्ते में देगी ईंधन।",
+    "title": "जापानी फाइटर जेट पहली बार आ रहे भारत",
+    "caption": "जापान के फाइटर जेट F-2A पहली बार भारत आ रहे हैं। राजस्थान में होने वाले वीर गार्डियन अभ्यास में हिस्सा लेंगे।",
+    "hashtags": [
+      "VeerGuardian",
+      "IndianAirForce",
+      "JapanAirSelfDefenseForce",
+      "RajasthanNews",
+      "F2A",
+      "DefenceNews",
+      "India"
+    ],
+    "visual_queries": [
+      "Japanese fighter jet India",
+      "Rajasthan desert India",
+      "fighter jet formation India",
+      "aerial refueling tanker India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12954782/12954782-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "fighter jets flying formation",
+        "credit": "Rachel Lustiva",
+        "source_duration_sec": 6,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30522971/pexels-photo-30522971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Rajasthan desert India",
+        "credit": "STORY  FINDER",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34676447/pexels-photo-34676447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fighter jet formation India",
+        "credit": "Ankit Rainloure",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/23230960/pexels-photo-23230960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "military jets flying formation",
+        "credit": "Afitab",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जापानी फाइटर जेट पहली बार आ रहे भारत! पाक सीमा पर गरजेंगे F-2A 🛩️",
+        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nइतिहास में पहली बार जापान के घातक F-2A फाइटर जेट भारतीय आसमान में गरजने के लिए तैयार हैं। अमेरिका से मिलने वाले 'फ्लाइंग पेट्रोल पंप' यानी एरियल रिफ्यूलिंग के जरिए ये बिना रुके लंबी दूरी तय करेंगे।\n\nइस रणनीतिक कदम से ड्रैगन और पाकिस्तान की नींद उड़ना तय है। पूरी कहानी देखें वीडियो में और अपनी राय कमेंट करें!\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nजापान के खतरनाक F-2A फाइटर जेट अब भारतीय सीमा के पास गरजेंगे। अमेरिका की मदद से इन्हें हवा में ही ईंधन मिलेगा, जिससे इनकी ताकत कई गुना बढ़ गई है।\n\nक्या भारत और जापान की यह दोस्ती नया समीकरण बनाएगी? शेयर करें इस वीडियो को!\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nरक्षा क्षेत्र में एक बहुत बड़ा बदलाव देखने को मिल रहा है। जापान के घातक F-2A फाइटर जेट पहली बार भारतीय जमीन पर उतरने और अभ्यास करने आ रहे हैं। खास बात यह है कि अमेरिका इन्हें हवा में ही ईंधन देने की व्यवस्था कर रहा है, जिससे इनकी मारक क्षमता सीधे पाकिस्तान और चीन की सीमा तक असर दिखाएगी।\n\nयह कदम भारत की सामरिक स्थिति को कितना मजबूत करेगा? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews"
+      },
+      "hashtags": [
+        "JapaneseFighterJets",
+        "IndianAirForce",
+        "F2AFighterJet",
+        "IndiaJapanRelations",
+        "DefenseNews"
+      ]
+    },
+    "audio_path": "audio/japan_fighter_jets_veer_guardian_exercise.wav",
+    "audio_duration_sec": 14.58,
+    "video_path": "videos/japan_fighter_jets_veer_guardian_exercise.mp4",
+    "video_duration_sec": 22.59,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "MwXEoWv1luU",
+        "url": "https://youtube.com/shorts/MwXEoWv1luU",
+        "attempted_at": "2026-08-28T11:38:10.723320+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9173388a2948e033ad2c36",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nरक्षा क्षेत्र में एक बहुत बड़ा बदलाव देखने को मिल रहा है। जापान के घातक F-2A फाइटर जेट पहली बार भारतीय जमीन पर उतरने और अभ्यास करने आ रहे हैं। खास बात यह है कि अमेरिका इन्हें हवा में ही ईंधन देने की व्यवस्था कर रहा है, जिससे इनकी मारक क्षमता सीधे पाकिस्तान और चीन की सीमा तक असर दिखाएगी।\n\nयह कदम भारत की सामरिक स्थिति को कितना मजबूत करेगा? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787917110077_sp709zg4_japan_fighter_jets_veer_guardian_exercise.mp4",
+                "_id": "6a9173388a2948e033ad2c37"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:38:32.066Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "7a257894025da1ce5caa4863a500592f",
+                "_id": "6a9173388a2948e033ad2c38",
+                "platformPostId": "1538805121349941",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1538805121349941",
+                "publishedAt": "2026-08-28T11:38:40.320Z"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:38:32.066Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:38:32.900Z",
+            "updatedAt": "2026-08-28T11:38:40.662Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:38:33.002Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:38:40.937300+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a917359cf0a9a40a0bfb4c4",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जापानी फाइटर जेट पहली बार आ रहे हैं भारत! 🛩️\n\nजापान के खतरनाक F-2A फाइटर जेट अब भारतीय सीमा के पास गरजेंगे। अमेरिका की मदद से इन्हें हवा में ही ईंधन मिलेगा, जिससे इनकी ताकत कई गुना बढ़ गई है।\n\nक्या भारत और जापान की यह दोस्ती नया समीकरण बनाएगी? शेयर करें इस वीडियो को!\n\n#JapaneseFighterJets #IndianAirForce #F2AFighterJet #IndiaJapanRelations #DefenseNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787917142114_refvpxy7_japan_fighter_jets_veer_guardian_exercise.mp4",
+                "_id": "6a917359cf0a9a40a0bfb4c5"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:39:04.067Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "9f1e3f101bcdccf371d2ea3483f95c6a",
+                "_id": "6a917359cf0a9a40a0bfb4c6"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:39:04.067Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:39:05.445Z",
+            "updatedAt": "2026-08-28T11:39:07.877Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:39:05.558Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:39:08.435927+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "kota_sp_rakhi_special_children",
+    "virality_score": 7,
+    "reason": "Heartwarming Raksha Bandhan initiative in Kota where special needs children tied rakhis to the SP.",
+    "region": "india",
+    "headline": "कोटा में SP ने स्पेशल बच्चों से बंधवाई राखी, बांटी मिठाई",
+    "source_summary": "Rajasthan News: कोटा पुलिस का 'रक्षा का वचन' अभियान: 300 विशेष बच्चों ने एसपी तेजस्वनी गौतम को बांधी राखी, हर थाने में सांकेतिक भाषा जानने वाला पुलिसकर्मी होगा...",
+    "source_url": "https://www.aajtak.in/rajasthan/story/kota-sp-ties-rakhis-with-special-children-distributes-sweets-to-300-kids-lcln-strc-2631718-2026-08-28?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-28T15:27:43+05:30",
+    "hook": "कोटा पुलिस का अनोखा अंदाज!",
+    "script_hi": "राजस्थान के कोटा में पुलिस का एक मानवीय चेहरा सामने आया है। कोटा पुलिस के रक्षा का वचन अभियान के तहत तीन सौ विशेष बच्चों ने पुलिस अधीक्षक तेजस्वनी गौतम को राखी बांधी। इस दौरान बच्चों ने एसपी को मिठाई भी खिलाई। इस मौके पर कोटा पुलिस ने हर थाने में एक सांकेतिक भाषा जानने वाला पुलिसकर्मी तैनात करने का बड़ा फैसला लिया है।",
+    "tts_text_hi": "राजस्थान के कोटा में पुलिस का एक मानवीय चेहरा सामने आया है। कोटा पुलिस के रक्षा का वचन अभियान के तहत तीन सौ विशेष बच्चों ने पुलिस अधीक्षक तेजस्वनी गौतम को राखी बांधी। इस दौरान बच्चों ने एसपी को मिठाई भी खिलाई। इस मौके पर कोटा पुलिस ने हर थाने में एक सांकेतिक भाषा जानने वाला पुलिसकर्मी तैनात करने का बड़ा फैसला लिया है।",
+    "title": "कोटा में एसपी को विशेष बच्चों ने बांधी राखी",
+    "caption": "कोटा पुलिस के रक्षा का वचन अभियान के तहत विशेष बच्चों ने एसपी तेजस्वनी गौतम को राखी बांधी। हर थाने में अब सांकेतिक भाषा जानने वाला पुलिसकर्मी होगा तैनात।",
+    "hashtags": [
+      "KotaPolice",
+      "RajasthanNews",
+      "Rakshabandhan",
+      "GoodNews",
+      "India"
+    ],
+    "visual_queries": [
+      "Indian police station building India",
+      "Indian disabled children celebration India",
+      "Indian police officer smiling India",
+      "Indian police uniform India"
+    ],
+    "named_person": "Tejaswini Gautam",
+    "named_person_hi": "तेजस्वनी गौतम",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "तेजस्वनी गौतम",
+        "source": "fallback",
+        "query": "Tejaswini Gautam",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14297040/pexels-photo-14297040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian disabled children celebration India",
+        "credit": "Soubhagya Maharana",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police officer smiling India",
+        "credit": "Frank van Dijk",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कोटा पुलिस का अनोखा अंदाज! SP को खास बच्चों ने बांधी राखी 🥹",
+        "caption": "कोटा पुलिस का अनोखा अंदाज! खाकी का यह मानवीय चेहरा देखकर आपका दिल भी पिघल जाएगा। 🥹\n\nदीपावली और रक्षाबंधन से पहले कोटा में एसपी ने विशेष (स्पेशल) बच्चों के साथ त्योहार मनाया। बच्चों ने जब एसपी को राखी बांधी और मुंह मीठा कराया, तो वहां मौजूद हर शख्स की आंखें नम हो गईं। \n\nपूरी कहानी देखें और बताएं आपको यह पल कैसा लगा?\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी का यह मानवीय चेहरा देखकर आपका दिल भी पिघल जाएगा।\n\nविशेष बच्चों ने जब एसपी को राखी बांधी और जमकर खुशियां मनाईं, तो कोटा पुलिस ऑफिस का माहौल ही बदल गया। ऐसे पल सुकून देते हैं!\n\nवीडियो पूरा देखें और शेयर करें ❤️\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी की सख्ती के पीछे का यह रूप शायद ही आपने पहले कभी देखा होगा।\n\nकोटा में आज कुछ ऐसा हुआ जिसने सबका दिल जीत लिया। शहर के विशेष (स्पेशल) बच्चों ने एसपी ऑफिस पहुंचकर एसपी साहब को राखी बांधी और उन्हें मिठाइयां खिलाईं। पुलिसकर्मियों ने भी इन बच्चों के साथ जमकर त्योहार की खुशियां साझा कीं। \n\nयह वीडियो देखकर आपके चेहरे पर भी मुस्कान आ जाएगी। पूरी कहानी देखें और अपनी राय जरूर साझा करें!\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming"
+      },
+      "hashtags": [
+        "KotaPolice",
+        "RakshaBandhan",
+        "GoodNews",
+        "RajasthanPolice",
+        "Heartwarming"
+      ]
+    },
+    "audio_path": "audio/kota_sp_rakhi_special_children.wav",
+    "audio_duration_sec": 23.24,
+    "video_path": "videos/kota_sp_rakhi_special_children.mp4",
+    "video_duration_sec": 31.29,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "yVHkKvkpSO0",
+        "url": "https://youtube.com/shorts/yVHkKvkpSO0",
+        "attempted_at": "2026-08-28T11:43:31.293427+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9174798847ab45659ac9a9",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी की सख्ती के पीछे का यह रूप शायद ही आपने पहले कभी देखा होगा।\n\nकोटा में आज कुछ ऐसा हुआ जिसने सबका दिल जीत लिया। शहर के विशेष (स्पेशल) बच्चों ने एसपी ऑफिस पहुंचकर एसपी साहब को राखी बांधी और उन्हें मिठाइयां खिलाईं। पुलिसकर्मियों ने भी इन बच्चों के साथ जमकर त्योहार की खुशियां साझा कीं। \n\nयह वीडियो देखकर आपके चेहरे पर भी मुस्कान आ जाएगी। पूरी कहानी देखें और अपनी राय जरूर साझा करें!\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787917430636_80yap4q9_kota_sp_rakhi_special_children.mp4",
+                "_id": "6a9174798847ab45659ac9aa"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFtFoYd&_nc_oc=AdqgLNU_TJkzXa13ZR22vIXFwqhdkIvmvECy7oPK9qF-1mbffItBJE8Bz_OEoGRMBWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=bZ8B_vk42tthAWeIYlQl8g&_nc_tpa=Q5bMBQLVPDIf0TtrDBACTImY4NgiqMJOqtkbhETndi3Ci1BZFIrOhgKqmI27KPhVG1OBON9hQXJENAT4&oh=00_AQHOvWqfTinbBM-0jhOc3qxZUuF0WVfZNAqeWLel66-qdQ&oe=6A96DF14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:43:52.297Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "0ddf61766ce879a2fa7aab08073a5e58",
+                "_id": "6a9174798847ab45659ac9ab",
+                "platformPostId": "1069741115639598",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1069741115639598",
+                "publishedAt": "2026-08-28T11:43:58.991Z"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:43:52.297Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:43:53.129Z",
+            "updatedAt": "2026-08-28T11:43:59.156Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:43:53.286Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:43:59.345094+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a91749d16be188d0b2e93bd",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "कोटा पुलिस का अनोखा अंदाज! 🥹 खाकी का यह मानवीय चेहरा देखकर आपका दिल भी पिघल जाएगा।\n\nविशेष बच्चों ने जब एसपी को राखी बांधी और जमकर खुशियां मनाईं, तो कोटा पुलिस ऑफिस का माहौल ही बदल गया। ऐसे पल सुकून देते हैं!\n\nवीडियो पूरा देखें और शेयर करें ❤️\n\n#KotaPolice #RakshaBandhan #GoodNews #RajasthanPolice #Heartwarming",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1787917466875_f8j0j0f8_kota_sp_rakhi_special_children.mp4",
+                "_id": "6a91749d16be188d0b2e93be"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Dar36bQBddkQ7kNvwHFrjni&_nc_oc=AdrZ6HRzGwA4_xi0ON0_8BInTYDquCf9iS_6dvXnCWi2wQPQbKDzKk4PGH_XzRUgRLc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_4tcyefB3pe5ir278Bc4g&_nc_tpa=Q5bMBQKsPWmA9-2U4J8_Y-j0cWPWXHI324L6UpVs-E-Src42C_8zWKDJA15wOqCvdQ1Gm_pbUGAdH1mDUw&oh=00_AQGfqpWQ5jrIFGTygFOvmlOOgTISCogNaJCLwjrV_GYl4w&oe=6A96D2BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-08-28T11:44:28.558Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "8eac00da31d2d9779d52400290611fdc",
+                "_id": "6a91749d16be188d0b2e93bf"
+              }
+            ],
+            "scheduledFor": "2026-08-28T11:44:28.558Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-08-28T11:44:29.542Z",
+            "updatedAt": "2026-08-28T11:44:31.371Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-08-28T11:44:29.644Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-08-28T11:44:31.812617+00:00"
       }
     }
   }
