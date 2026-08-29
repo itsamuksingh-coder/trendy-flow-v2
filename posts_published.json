@@ -1,253 +1,249 @@
 [
   {
-    "topic_label": "greater_noida_girl_murder_encounter",
-    "virality_score": 10,
-    "reason": "Highly emotional crime story with immediate swift justice (encounter) which always garners massive attention.",
-    "region": "india",
-    "headline": "6 साल की बच्ची की हत्या से सनसनी, पुलिस मुठभेड़ में आरोपी ढेर",
-    "source_summary": "ग्रेटर नोएडा में 6 वर्षीय बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया है. पुलिस के मुताबिक, आरोपी ने बच्ची को बहला-फुसलाकर कमरे में ले जाकर उसकी हत्या की थी. इसके बाद शव को बोरी में भरकर ठिकाने लगाने के लिए ले गया था. पुलिस की जांच के दौरान सामने आए CCTV फुटेज में आरोपी बोरी में बच्ची का शव ले जाते हुए दिखाई दिया था.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-6-year-old-girl-murder-haldoni-village-cctv-accused-lclcn-strc-2632323-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T15:48:28+05:30",
-    "hook": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या का आरोपी एनकाउंटर में ढेर हो गया है.",
-    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या के आरोपी को पुलिस ने एनकाउंटर में मार गिराया है। आरोपी ने मासूम को बहला-फुसलाकर उसकी जान ली थी। पुलिस को सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे मुठभेड़ में मार गिराया।",
-    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या के आरोपी को पुलिस ने एनकाउंटर में मार गिराया है। आरोपी ने मासूम को बहला-फुसलाकर उसकी जान ली थी। पुलिस को सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे मुठभेड़ में मार गिराया।",
-    "title": "ग्रेटर नोएडा: मासूम की हत्या का आरोपी एनकाउंटर में ढेर",
-    "caption": "ग्रेटर नोएडा में छह साल की बच्ची की निर्मम हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया है।",
-    "hashtags": [
-      "GreaterNoida",
-      "CrimeNews",
-      "Encounter",
-      "Justice",
-      "HindiNews",
-      "UttarPradesh"
-    ],
-    "visual_queries": [
-      "India police station exterior",
-      "CCTV surveillance camera footage",
-      "Indian police crime scene tape",
-      "Indian police officers patrol"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Story involves a minor victim and the specific viral CCTV footage mentioned in the summary, which requires manual inclusion of the actual news clip rather than generic stock footage.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV surveillance camera footage",
-        "credit": "Florian Süß",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officers patrol",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "chitrakoot_flood_record",
+    "topic_label": "chitrakoot_mandakini_flood",
     "virality_score": 9,
-    "reason": "Dramatic visual event involving a 23-year record-breaking flood in a significant location.",
+    "reason": "Dramatic visual event involving a major river breaching a 23-year record, highly relevant to local audience.",
     "region": "india",
-    "headline": "चित्रकूट में बाढ़ का भयावह नजारा, मंदाकिनी नदी ने तोड़ा 23 साल का रिकॉर्ड",
-    "source_summary": "चित्रकूट में मंदाकिनी नदी ने 23 साल का रिकॉर्ड तोड़ते हुए ऐसा रौद्र रूप दिखाया कि रामघाट से लेकर आसपास के इलाकों तक हाहाकार मच गया है. बाढ़ के तेज बहाव में पुल बह गया और दुकानें-मंदिर पानी में डूब गए हैं. कई लोग बाढ़ में फंस गए, जिन्हें हेलीकॉप्टर और नावों की मदद से सुरक्षित बाहर निकाला जा रहा है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/chitrakoot-mandakini-river-flood-23-year-record-broken-lclcn-strc-2632419-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T19:56:32+05:30",
-    "hook": "चित्रकूट में बाढ़ का हाहाकार, मंदाकिनी नदी का रौद्र रूप देख कांप उठे लोग!",
-    "script_hi": "चित्रकूट में मंदाकिनी नदी ने तेईस साल का रिकॉर्ड तोड़ दिया है। रामघाट से लेकर आसपास के इलाकों तक पानी ही पानी है। कई दुकानें और मंदिर डूब चुके हैं और एक पुल भी पानी के तेज बहाव में बह गया। फंसे हुए लोगों को निकालने के लिए हेलीकॉप्टर और नावों की मदद ली जा रही है।",
-    "tts_text_hi": "चित्रकूट में मंदाकिनी नदी ने तेईस साल का रिकॉर्ड तोड़ दिया है। रामघाट से लेकर आसपास के इलाकों तक पानी ही पानी है। कई दुकानें और मंदिर डूब चुके हैं और एक पुल भी पानी के तेज बहाव में बह गया। फंसे हुए लोगों को निकालने के लिए हेलीकॉप्टर और नावों की मदद ली जा रही है।",
-    "title": "चित्रकूट में मंदाकिनी नदी का तांडव",
-    "caption": "चित्रकूट में मंदाकिनी नदी ने तोड़ा तेईस साल का रिकॉर्ड, बाढ़ से जनजीवन प्रभावित। बचाव कार्य जारी।",
+    "headline": "चित्रकूट में मंदाकिनी का महाप्रलय! 135 मीटर पार जलस्तर, UP-MP का संपर्क कटा, हेलीकॉप्टर से शुरू हुआ रेस्क्यू",
+    "source_summary": "चित्रकूट में मंदाकिनी नदी ने विकराल रूप धारण कर लिया है. जलस्तर 135 मीटर के पार पहुंचने से बाढ़ जैसे हालात बन गए. यूपी और एमपी को जोड़ने वाले कई संपर्क मार्ग बंद कर दिए गए हैं, जबकि रामघाट समेत कई इलाके जलमग्न हैं. प्रशासन ने दो हेलीकॉप्टरों से हवाई सर्वे शुरू किया.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/chitrakoot-flood-news-mandakini-river-flood-up-mp-alert-chitrakoot-helicopter-rescue-operation-ramghat-disaster-11975412#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 19:45:27 +0530",
+    "hook": "चित्रकूट में मंदाकिनी नदी का रौद्र रूप! जलस्तर बढ़ने से उत्तर प्रदेश और मध्य प्रदेश का संपर्क टूटा।",
+    "script_hi": "चित्रकूट में मंदाकिनी नदी का जलस्तर एक सौ पैंतीस मीटर के पार पहुँच गया है। रामघाट सहित कई इलाके पूरी तरह जलमग्न हो चुके हैं। हालात इतने गंभीर हैं कि उत्तर प्रदेश और मध्य प्रदेश के बीच संपर्क कट गया है। प्रशासन ने राहत और बचाव कार्य के लिए दो हेलीकॉप्टर तैनात किए हैं, जो प्रभावित इलाकों का हवाई सर्वे कर रहे हैं।",
+    "tts_text_hi": "चित्रकूट में मंदाकिनी नदी का जलस्तर एक सौ पैंतीस मीटर के पार पहुँच गया है। रामघाट सहित कई इलाके पूरी तरह जलमग्न हो चुके हैं। हालात इतने गंभीर हैं कि उत्तर प्रदेश और मध्य प्रदेश के बीच संपर्क कट गया है। प्रशासन ने राहत और बचाव कार्य के लिए दो हेलीकॉप्टर तैनात किए हैं, जो प्रभावित इलाकों का हवाई सर्वे कर रहे हैं।",
+    "title": "चित्रकूट में बाढ़ का कहर",
+    "caption": "चित्रकूट में मंदाकिनी नदी का जलस्तर खतरे के निशान के पार, यूपी-एमपी संपर्क कटा।",
     "hashtags": [
       "Chitrakoot",
       "Flood",
-      "MandakiniRiver",
-      "UttarPradesh",
-      "FloodsInIndia",
-      "NaturalDisaster"
+      "Mandakini",
+      "UPNews",
+      "MPNews",
+      "WeatherUpdate",
+      "RescueOperation"
     ],
     "visual_queries": [
-      "flooded river banks India",
-      "submerged temple courtyard India",
-      "rescue boat operation India",
-      "helicopter emergency rescue India"
+      "flooded river India",
+      "submerged ghat India",
+      "broken road bridge India",
+      "rescue helicopter flying India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the Chitrakoot floods as generic stock photos will not accurately represent this specific, ongoing natural disaster event.",
+    "flag_reason": "Needs real footage of the specific Chitrakoot flood site as generic stock B-roll will not accurately represent this specific disaster event.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36888557/15626801_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "submerged ghat India",
+        "credit": "miheer tewari",
+        "source_duration_sec": 13,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "flooded river banks India",
+        "query": "flooded river India",
         "credit": "Arto Suraj",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28868121/pexels-photo-28868121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32603973/pexels-photo-32603973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "submerged temple courtyard India",
-        "credit": "Roman Saienko",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue boat operation India",
-        "credit": "Arto Suraj",
+        "query": "broken road bridge India",
+        "credit": "ADWAITH K P",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/35481821/pexels-photo-35481821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "helicopter emergency rescue India",
+        "query": "rescue helicopter flying India",
         "credit": "Yahya Gopalani",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "neeraj_chopra_injury_asian_games",
-    "virality_score": 9,
-    "reason": "Major sporting heartbreak involving India's 'Golden Boy' missing a key tournament.",
+    "topic_label": "noida_child_murder_encounter",
+    "virality_score": 8,
+    "reason": "A high-intensity crime case involving a child and a subsequent police encounter always trends quickly in news shorts.",
     "region": "india",
-    "headline": "&#039;गोल्डन बॉय&#039; का टूटा सपना! एशियन गेम्स में नहीं आएंगे नजर",
-    "source_summary": "भारत के स्टार जैवलिन थ्रोअर एथलीट नीरज चोपड़ा को लेकर एक बड़ी खबर सामने आ रही है. वह एशियन गेम्स 2026 से चोट के कारण बाहर हो गए हैं. उनके बाहर होने से भारत के पदकों की उम्मीदों को भी तगड़ा झटका लगा है.",
-    "source_url": "https://www.aajtak.in/sports/asian-games/story/javelin-throw-at-asian-games-2026-neeraj-chopra-out-for-rest-of-the-season-aksp-dskc-2632250-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T14:35:38+05:30",
-    "hook": "गोल्डन बॉय नीरज चोपड़ा का बड़ा झटका!",
-    "script_hi": "गोल्डन बॉय नीरज चोपड़ा का टूटा सपना! एशियन गेम्स दो हजार छब्बीस से हुए बाहर। चोट के कारण नहीं ले पाएंगे हिस्सा। भारत की पदकों की उम्मीदों को लगा बड़ा झटका।",
-    "tts_text_hi": "गोल्डन बॉय नीरज चोपड़ा का टूटा सपना! एशियन गेम्स दो हजार छब्बीस से हुए बाहर। चोट के कारण नहीं ले पाएंगे हिस्सा। भारत की पदकों की उम्मीदों को लगा बड़ा झटका।",
-    "title": "नीरज चोपड़ा एशियन गेम्स 2026 से बाहर",
-    "caption": "स्टार जैवलिन थ्रोअर नीरज चोपड़ा चोट के कारण एशियन गेम्स 2026 से बाहर हो गए हैं।",
+    "headline": "ग्रेटर नोएडा में 6 साल की बच्ची की हत्या करने वाला पुलिस मुठभेड़ में ढेर… अस्पताल ले जाते समय तोड़ा दम",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/up-news-1280-720-2026-08-29t191233.690.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"ग्रेटर नोएडा में 6 साल की बच्ची की हत्या करने वाला पुलिस मुठभेड़ में ढेर… अस्पताल ले जाते समय तोड़ा दम\" /></figure>ग्रेटर नोएडा में 7 वर्षीय बच्ची की दुष्कर्म के बाद हत्या के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया. घटना स्थल पर सबूत बरामदगी के दौरान आरोपी ने पुलिस हिरासत से भागने का प्रयास किया.",
+    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/greater-noida-child-murder-accused-killed-in-police-encounter-3893166.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sat, 29 Aug 2026 19:12:11 +0530",
+    "hook": "ग्रेटर नोएडा में मासूम बच्ची के कातिल का एनकाउंटर!",
+    "script_hi": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या और दरिंदगी के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया। पुलिस आरोपी को सबूत बरामद करने के लिए ले जा रही थी, तभी उसने भागने की कोशिश की। जवाबी कार्रवाई में आरोपी मारा गया।",
+    "tts_text_hi": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या और दरिंदगी के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया। पुलिस आरोपी को सबूत बरामद करने के लिए ले जा रही थी, तभी उसने पुलिस हिरासत से भागने की कोशिश की। जवाबी कार्रवाई में आरोपी मारा गया और अस्पताल ले जाते समय उसने दम तोड़ दिया।",
+    "title": "ग्रेटर नोएडा: मासूम की हत्यारे का एनकाउंटर",
+    "caption": "ग्रेटर नोएडा में बच्ची की हत्या करने वाले आरोपी का एनकाउंटर।",
     "hashtags": [
-      "NeerajChopra",
-      "AsianGames2026",
-      "JavelinThrow",
-      "IndiaSports",
+      "GreaterNoida",
+      "Encounter",
+      "CrimeNews",
+      "UttarPradesh",
+      "Justice",
       "BreakingNews"
     ],
     "visual_queries": [
-      "Indian athlete throwing javelin",
-      "injured athlete sad stadium",
-      "sports stadium India crowd"
+      "Greater Noida city buildings India",
+      "Indian police station investigation",
+      "Indian police barricade at night",
+      "ambulance sirens flashing India"
     ],
-    "named_person": "Neeraj Chopra",
-    "named_person_hi": "नीरज चोपड़ा",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves the rape and murder of a minor. While reporting on the perpetrator's death in an encounter is standard, the sensitivity of the victim's age requires careful handling to avoid exploiting the minor's identity.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian crime investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30407482/pexels-photo-30407482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Greater Noida city buildings India",
+        "credit": "Splendid Images",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15021113/pexels-photo-15021113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police barricade at night",
+        "credit": "Zeeshaan Shabbir",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "poco_x8_power_launch",
+    "virality_score": 7,
+    "reason": "Smartphone launches with record-breaking battery features are always highly engaging for the Indian youth demographic.",
+    "region": "india",
+    "headline": "सिंगल चार्ज में 3 दिन चलेगा फोन, भारत में लॉन्च डेट हुई कंफर्म",
+    "source_summary": "POCO X8 Power 5G भारत में 4 सितंबर को लॉन्च होने जा रहा है, जिसमें 10,000mAh की बैटरी मिलेगी. इसको लेकर खुद कंपनी ने दावा किया है कि सिंगल चार्जिंग में साढ़े तीन दिन का बैटरी बैकअप मिलेगा. यह बैटरी बैकअप कई लोगों के लिए यूजफुल साबित होगा.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/xiaomi-poco-x8-power-5g-10000mah-battery-phone-3-day-working-single-charge-ttecr-dskc-2632050-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T08:07:55+05:30",
+    "hook": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन!",
+    "script_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको एक्स आठ पावर पांच जी, चार सितंबर को भारत में लॉन्च होने जा रहा है। कंपनी का दावा है कि इसमें दस हजार एमएएच की बड़ी बैटरी मिलेगी, जो सिंगल चार्ज पर साढ़े तीन दिन तक चलेगी। है ना कमाल का फीचर?",
+    "tts_text_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको एक्स आठ पावर फाइव जी, चार सितंबर को भारत में लॉन्च होने जा रहा है। कंपनी का दावा है कि इसमें दस हजार एमएएच की बड़ी बैटरी मिलेगी, जो सिंगल चार्ज पर साढ़े तीन दिन तक चलेगी। है ना कमाल का फीचर?",
+    "title": "POCO X8 Power 5G लॉन्च डेट कंफर्म",
+    "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।",
+    "hashtags": [
+      "POCO",
+      "POCOX8Power",
+      "TechNewsIndia",
+      "SmartphoneLaunch",
+      "BatteryLife",
+      "NewPhone",
+      "HindiTech"
+    ],
+    "visual_queries": [
+      "person holding modern smartphone India",
+      "smartphone charging battery icon",
+      "high capacity battery technology",
+      "modern smartphone screen mockup India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "नीरज चोपड़ा",
-        "source": "fallback",
-        "query": "Neeraj Chopra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/12879363/12879363-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian athlete throwing javelin",
-        "credit": "Pexels User",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8820689/pexels-photo-8820689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16349340/pexels-photo-16349340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "professional athlete training",
-        "credit": "Andrius Šimkus",
+        "query": "person holding modern smartphone India",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3272280/pexels-photo-3272280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sports stadium India crowd",
-        "credit": "Ajay Parab",
+        "query": "smartphone charging battery icon",
+        "credit": "Szabó Viktor",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10104600/pexels-photo-10104600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high capacity battery technology",
+        "credit": "I'm Zion",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9164565/pexels-photo-9164565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern smartphone screen mockup India",
+        "credit": "Nandhu Kumar",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "नीरज चोपड़ा का टूटा सपना! एशियन गेम्स 2026 से बाहर 🚨",
-        "caption": "नीरज चोपड़ा का टूटा सपना! भारत के गोल्डन बॉय अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे।\n\nइंजरी और फिटनेस के चलते उन्होंने इस बड़े टूर्नामेंट से हटने का फैसला लिया है। फैंस के लिए यह वाकई एक बड़ा झटका है।\n\nक्या नीरज के बिना भारत एथलेटिक्स में अपना दबदबा कायम रख पाएगा? अपनी राय कमेंट में बताएं।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+        "title": "POCO X8 Power 5G लॉन्च डेट कंफर्म",
+        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
       },
       "instagram": {
         "title": null,
-        "caption": "नीरज चोपड़ा का टूटा सपना! 🚨 भारत के गोल्डन बॉय अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे।\n\nफिटनेस और इंजरी के कारण उन्होंने टूर्नामेंट से हटने का फैसला लिया है। फैंस के लिए यह किसी बड़े झटके से कम नहीं है। 💔\n\nक्या आपको लगता है यह फैसला सही है? कमेंट में बताएं।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
       },
       "facebook": {
         "title": null,
-        "caption": "नीरज चोपड़ा का टूटा सपना! भारत के गोल्डन बॉय को लेकर आई बड़ी खबर। नीरज चोपड़ा अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे। 🚨\n\nलगातार इंजरी और फिटनेस के चलते नीरज ने खुद को इस बड़े टूर्नामेंट से दूर रखने का फैसला किया है। गोल्ड मेडल की उम्मीद लगाए बैठे फैंस के लिए यह खबर काफी निराशाजनक है। 🏟️\n\nइस फैसले पर आपकी क्या राय है? क्या उन्हें आराम की जरूरत थी? कमेंट सेक्शन में अपनी बात लिखें।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
       },
       "hashtags": [
-        "NeerajChopra",
-        "AsianGames2026",
-        "GoldenBoy",
-        "Athletics",
-        "SportsNews"
+        "POCO",
+        "POCOX8Power",
+        "TechNewsIndia",
+        "SmartphoneLaunch",
+        "BatteryLife"
       ]
     },
-    "audio_path": "audio/neeraj_chopra_injury_asian_games.wav",
-    "audio_duration_sec": 11.69,
-    "video_path": "videos/neeraj_chopra_injury_asian_games.mp4",
-    "video_duration_sec": 19.75,
+    "audio_path": "audio/poco_x8_power_launch.wav",
+    "audio_duration_sec": 23.12,
+    "video_path": "videos/poco_x8_power_launch.mp4",
+    "video_duration_sec": 31.17,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "FwSe7m4K-nE",
-        "url": "https://youtube.com/shorts/FwSe7m4K-nE",
-        "attempted_at": "2026-08-29T15:25:12.135534+00:00"
+        "video_id": "2ARjb2RZMH0",
+        "url": "https://youtube.com/shorts/2ARjb2RZMH0",
+        "attempted_at": "2026-08-29T15:49:09.464095+00:00"
       },
       "facebook": {
         "success": true,
@@ -260,15 +256,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a92f9ecf8ddb91621d8e463",
+            "_id": "6a92ff9300ea15964042a3ac",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "नीरज चोपड़ा का टूटा सपना! भारत के गोल्डन बॉय को लेकर आई बड़ी खबर। नीरज चोपड़ा अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे। 🚨\n\nलगातार इंजरी और फिटनेस के चलते नीरज ने खुद को इस बड़े टूर्नामेंट से दूर रखने का फैसला किया है। गोल्ड मेडल की उम्मीद लगाए बैठे फैंस के लिए यह खबर काफी निराशाजनक है। 🏟️\n\nइस फैसले पर आपकी क्या राय है? क्या उन्हें आराम की जरूरत थी? कमेंट सेक्शन में अपनी बात लिखें।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews",
+            "content": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788017130364_ba1w4arw_neeraj_chopra_injury_asian_games.mp4",
-                "_id": "6a92f9ecf8ddb91621d8e464"
+                "url": "https://media.zernio.com/media/1788018576665_6mx6ikab_poco_x8_power_launch.mp4",
+                "_id": "6a92ff9300ea15964042a3ad"
               }
             ],
             "platforms": [
@@ -285,17 +281,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-29T15:25:31.911Z",
+                "scheduledFor": "2026-08-29T15:49:38.599Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "a71cb7c14e05dcbaabf97bd557337f2d",
-                "_id": "6a92f9ecf8ddb91621d8e465",
-                "platformPostId": "27694033843631041",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=27694033843631041",
-                "publishedAt": "2026-08-29T15:25:42.455Z"
+                "contentHash": "fc225a87e132ea342bf4a656543dd483",
+                "_id": "6a92ff9300ea15964042a3ae",
+                "platformPostId": "2191982158360534",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2191982158360534",
+                "publishedAt": "2026-08-29T15:49:44.745Z"
               }
             ],
-            "scheduledFor": "2026-08-29T15:25:31.911Z",
+            "scheduledFor": "2026-08-29T15:49:38.599Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -307,14 +303,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-29T15:25:32.721Z",
-            "updatedAt": "2026-08-29T15:25:42.621Z",
+            "createdAt": "2026-08-29T15:49:39.714Z",
+            "updatedAt": "2026-08-29T15:49:44.924Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-29T15:25:32.824Z"
+            "publishingClaimedAt": "2026-08-29T15:49:39.827Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-29T15:25:42.801868+00:00"
+        "attempted_at": "2026-08-29T15:49:45.145062+00:00"
       },
       "instagram": {
         "success": true,
@@ -327,15 +323,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a92fa15e2ca4d39b4648917",
+            "_id": "6a92ffb1de69b7c484c8b6b2",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "नीरज चोपड़ा का टूटा सपना! 🚨 भारत के गोल्डन बॉय अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे।\n\nफिटनेस और इंजरी के कारण उन्होंने टूर्नामेंट से हटने का फैसला लिया है। फैंस के लिए यह किसी बड़े झटके से कम नहीं है। 💔\n\nक्या आपको लगता है यह फैसला सही है? कमेंट में बताएं।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews",
+            "content": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788017171013_a5fzfpol_neeraj_chopra_injury_asian_games.mp4",
-                "_id": "6a92fa15e2ca4d39b4648918"
+                "url": "https://media.zernio.com/media/1788018605334_93fovs7v_poco_x8_power_launch.mp4",
+                "_id": "6a92ffb1de69b7c484c8b6b3"
               }
             ],
             "platforms": [
@@ -352,14 +348,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-29T15:26:12.057Z",
+                "scheduledFor": "2026-08-29T15:50:07.709Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "620c7df4609362fb611b843e658e210a",
-                "_id": "6a92fa15e2ca4d39b4648919"
+                "contentHash": "2d5937e2ab429851b3b2f0ed16f9690b",
+                "_id": "6a92ffb1de69b7c484c8b6b4"
               }
             ],
-            "scheduledFor": "2026-08-29T15:26:12.057Z",
+            "scheduledFor": "2026-08-29T15:50:07.709Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -371,181 +367,15 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-29T15:26:13.093Z",
-            "updatedAt": "2026-08-29T15:26:16.004Z",
+            "createdAt": "2026-08-29T15:50:09.642Z",
+            "updatedAt": "2026-08-29T15:50:12.289Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-29T15:26:13.185Z"
+            "publishingClaimedAt": "2026-08-29T15:50:10.049Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-29T15:26:16.402024+00:00"
+        "attempted_at": "2026-08-29T15:50:12.804763+00:00"
       }
     }
-  },
-  {
-    "topic_label": "nepal_flood_intl_aid",
-    "virality_score": 8,
-    "reason": "International collaboration story amidst a massive humanitarian tragedy in a neighboring country.",
-    "region": "india",
-    "headline": "बुरे वक्त में नेपाल की एक पुकार, मदद को साथ आ गए भारत और चीन",
-    "source_summary": "नेपाल में ग्लेशियर टूटने से आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है और 2400 से ज्यादा लोग लापता हैं. विदेश मंत्री शिशिर खनाल ने भारत, चीन समेत कई देशों की मदद के लिए आभार जताया और नेपाल द्वारा विदेशी मदद ठुकराने की खबरों को गलत बताया. भारत से 57 टन राहत सामग्री और तकनीकी टीम पहुंच चुकी है, वहीं चीन से भी सुरंग बचाव विशेषज्ञ भी पहुंच गए हैं.",
-    "source_url": "https://www.aajtak.in/world/story/nepal-flood-india-china-rescue-help-deaths-rescue-missionntc-agkp-rpti-2632420-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T20:20:03+05:30",
-    "hook": "नेपाल पर कुदरत का कहर, मदद के लिए आगे आए भारत और चीन!",
-    "script_hi": "नेपाल में ग्लेशियर टूटने से मची तबाही में अब तक छह सौ पचहत्तर लोगों की जान जा चुकी है और चौबीस सौ से ज्यादा लोग लापता हैं। इस मुश्किल घड़ी में भारत और चीन समेत कई देश मदद के लिए साथ आए हैं। विदेश मंत्री शिशिर खनाल ने साफ किया है कि विदेशी मदद ठुकराने की खबरें गलत हैं। भारत ने सत्तावन टन राहत सामग्री और तकनीकी टीम भेजी है, वहीं चीन से बचाव विशेषज्ञ भी पहुंच गए हैं।",
-    "tts_text_hi": "नेपाल में ग्लेशियर टूटने से मची तबाही में अब तक छह सौ पचहत्तर लोगों की जान जा चुकी है और चौबीस सौ से ज्यादा लोग लापता हैं। इस मुश्किल घड़ी में भारत और चीन समेत कई देश मदद के लिए साथ आए हैं। विदेश मंत्री शिशिर खनाल ने साफ किया है कि विदेशी मदद ठुकराने की खबरें गलत हैं। भारत ने सत्तावन टन राहत सामग्री और तकनीकी टीम भेजी है, वहीं चीन से बचाव विशेषज्ञ भी पहुंच गए हैं।",
-    "title": "नेपाल की मदद को आए भारत और चीन",
-    "caption": "नेपाल में ग्लेशियर हादसे के बाद भारत और चीन ने बढ़ाया मदद का हाथ।",
-    "hashtags": [
-      "Nepal",
-      "India",
-      "China",
-      "NepalFloods",
-      "InternationalAid",
-      "BreakingNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Himalayan glacier melting",
-      "flood disaster aftermath",
-      "India China relief operation",
-      "relief aid delivery",
-      "rescue team working"
-    ],
-    "named_person": "Shishir Khanal",
-    "named_person_hi": "शिशिर खनाल",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story refers to a specific, unique disaster event in Nepal. Generic stock footage cannot represent the specific incident, so the actual footage or images of this event need to be added manually.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "शिशिर खनाल",
-        "source": "fallback",
-        "query": "Shishir Khanal",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/19027381/19027381-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "flood disaster aftermath",
-        "credit": "Adem Albayrak",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8881125/pexels-photo-8881125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Himalayan glacier melting",
-        "credit": "Anna Galimova",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India China relief operation",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6646863/pexels-photo-6646863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "relief aid delivery",
-        "credit": "RDNE Stock project",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue team working",
-        "credit": "samimibirfotografci",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ev_showroom_fire_sekar",
-    "virality_score": 8,
-    "reason": "Visual spectacle of multiple expensive EVs burning; taps into safety debates regarding electric vehicles.",
-    "region": "india",
-    "headline": "राजस्थान: 2 इलेक्ट्रिक व्हीकल शोरूम में लगी भीषण आग, धूं-धूं कर जल गईं करोड़ों की गाड़ियां",
-    "source_summary": "सीकर में सर्किट हाउस के सामने दो बड़े इलेक्ट्रिक व्हीकल (EV) शोरूम में भीषण आग लग गई. दोनों शोरूम में खड़ी दर्जनों इलेक्ट्रिक स्कूटी, बाइक, ऑटो और ई-रिक्शा जलकर पूरी तरह खाक हो गए.",
-    "source_url": "https://ndtv.in/rajasthan-news/sikar-electric-vehicle-showroom-fire-bs-automobile-bachchan-motors-11974194#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 29 Aug 2026 13:26:49 +0530",
-    "hook": "राजस्थान के सीकर में इलेक्ट्रिक वाहनों के शोरूम में लगी भीषण आग!",
-    "script_hi": "राजस्थान के सीकर में एक दर्दनाक हादसा हुआ। सर्किट हाउस के पास दो बड़े इलेक्ट्रिक व्हीकल शोरूम में अचानक भीषण आग लग गई। आग इतनी भयावह थी कि शोरूम में रखी दर्जनों ई-स्कूटी, बाइक और ई-रिक्शा जलकर खाक हो गए। करोड़ों का नुकसान हुआ है। राहत और बचाव कार्य जारी है।",
-    "tts_text_hi": "राजस्थान के सीकर में एक दर्दनाक हादसा हुआ। सर्किट हाउस के पास दो बड़े इलेक्ट्रिक व्हीकल शोरूम में अचानक भीषण आग लग गई। आग इतनी भयावह थी कि शोरूम में रखी दर्जनों ई-स्कूटी, बाइक और ई-रिक्शा जलकर खाक हो गए। करोड़ों का नुकसान हुआ है। राहत और बचाव कार्य जारी है।",
-    "title": "सीकर में ईवी शोरूम में भीषण आग",
-    "caption": "सीकर में ईवी शोरूम में भीषण आग, करोड़ों की गाड़ियां जलकर खाक।",
-    "hashtags": [
-      "Rajasthan",
-      "Sikar",
-      "ElectricVehicle",
-      "FireAccident",
-      "NewsHindi",
-      "Shorts",
-      "India"
-    ],
-    "visual_queries": [
-      "burning building India",
-      "electric scooter showroom India",
-      "firefighters emergency India",
-      "charred vehicle remains India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific local incident involving a fire at a named location; generic B-roll will not show the actual scene, requiring manual footage insertion.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7154231/7154231-hd_720_1298_50fps.mp4",
-        "source": "pexels",
-        "query": "electric vehicle dealership",
-        "credit": "Antoni Shkraba",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32632490/pexels-photo-32632490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "burning building India",
-        "credit": "Mauricio  Krupka Buendia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fire accident emergency",
-        "credit": "Aleksandar Rasic",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "firefighters emergency India",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
   }
 ]
