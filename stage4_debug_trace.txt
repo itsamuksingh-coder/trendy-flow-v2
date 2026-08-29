@@ -1,7 +1,5 @@
-ready_labels: ['neeraj_chopra_injury_asian_games']
+ready_labels: ['poco_x8_power_launch']
 
-greater_noida_girl_murder_encounter: SKIPPED (not in ready set)
-chitrakoot_flood_record: SKIPPED (not in ready set)
-neeraj_chopra_injury_asian_games: SUCCESS -> video_path=videos/neeraj_chopra_injury_asian_games.mp4 dur=19.749229
-nepal_flood_intl_aid: SKIPPED (not in ready set)
-ev_showroom_fire_sekar: SKIPPED (not in ready set)
+chitrakoot_mandakini_flood: SKIPPED (not in ready set)
+noida_child_murder_encounter: SKIPPED (not in ready set)
+poco_x8_power_launch: SUCCESS -> video_path=videos/poco_x8_power_launch.mp4 dur=31.17322
