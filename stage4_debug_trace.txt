@@ -1,2 +1,8 @@
-ready_labels: []
+ready_labels: ['trump_venezuela_oil_deal']
 
+nepal_lake_burst_warning: SKIPPED (not in ready set)
+prayagraj_temple_collapse: SKIPPED (not in ready set)
+maharashtra_pregnant_woman_rescue: SKIPPED (not in ready set)
+delhi_road_cavein_electrocution: SKIPPED (not in ready set)
+india_nepal_rescue_team: SKIPPED (not in ready set)
+trump_venezuela_oil_deal: SUCCESS -> video_path=videos/trump_venezuela_oil_deal.mp4 dur=28.056553
