@@ -1,174 +1,407 @@
 [
   {
-    "topic_label": "chitrakoot_mandakini_flood",
-    "virality_score": 9,
-    "reason": "Dramatic visual event involving a major river breaching a 23-year record, highly relevant to local audience.",
+    "topic_label": "biryani_vessel_murder_couple",
+    "virality_score": 10,
+    "reason": "Extremely grisly and bizarre criminal case with high shock value and viral potential.",
     "region": "india",
-    "headline": "चित्रकूट में मंदाकिनी का महाप्रलय! 135 मीटर पार जलस्तर, UP-MP का संपर्क कटा, हेलीकॉप्टर से शुरू हुआ रेस्क्यू",
-    "source_summary": "चित्रकूट में मंदाकिनी नदी ने विकराल रूप धारण कर लिया है. जलस्तर 135 मीटर के पार पहुंचने से बाढ़ जैसे हालात बन गए. यूपी और एमपी को जोड़ने वाले कई संपर्क मार्ग बंद कर दिए गए हैं, जबकि रामघाट समेत कई इलाके जलमग्न हैं. प्रशासन ने दो हेलीकॉप्टरों से हवाई सर्वे शुरू किया.",
-    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/chitrakoot-flood-news-mandakini-river-flood-up-mp-alert-chitrakoot-helicopter-rescue-operation-ramghat-disaster-11975412#publisher=newsstand",
+    "headline": "महिला की हत्या कर शरीर के टुकड़े बिरयानी बर्तन में पकाए, आधा शव ट्रेन में मिला, आरोपी कपल मणिपुर से गिरफ्तार",
+    "source_summary": "कपल ने शरीर के कुछ हिस्सों को पकाने के बाद बाकी टुकड़ों को सूटकेस में रखकर ट्रेन से भेज दिया और खुद भागने की कोशिश की. मृतक महिला की पहचान हैथुल निशा के रूप में हुई है. वह तांबरम के पास एक प्राइवेट कंपनी में काम करती थी.",
+    "source_url": "https://ndtv.in/india/woman-murder-in-chennai-couple-cooked-her-body-parts-in-a-biryani-vessel-accused-arrested-in-manipur-11974988#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sat, 29 Aug 2026 19:45:27 +0530",
-    "hook": "चित्रकूट में मंदाकिनी नदी का रौद्र रूप! जलस्तर बढ़ने से उत्तर प्रदेश और मध्य प्रदेश का संपर्क टूटा।",
-    "script_hi": "चित्रकूट में मंदाकिनी नदी का जलस्तर एक सौ पैंतीस मीटर के पार पहुँच गया है। रामघाट सहित कई इलाके पूरी तरह जलमग्न हो चुके हैं। हालात इतने गंभीर हैं कि उत्तर प्रदेश और मध्य प्रदेश के बीच संपर्क कट गया है। प्रशासन ने राहत और बचाव कार्य के लिए दो हेलीकॉप्टर तैनात किए हैं, जो प्रभावित इलाकों का हवाई सर्वे कर रहे हैं।",
-    "tts_text_hi": "चित्रकूट में मंदाकिनी नदी का जलस्तर एक सौ पैंतीस मीटर के पार पहुँच गया है। रामघाट सहित कई इलाके पूरी तरह जलमग्न हो चुके हैं। हालात इतने गंभीर हैं कि उत्तर प्रदेश और मध्य प्रदेश के बीच संपर्क कट गया है। प्रशासन ने राहत और बचाव कार्य के लिए दो हेलीकॉप्टर तैनात किए हैं, जो प्रभावित इलाकों का हवाई सर्वे कर रहे हैं।",
-    "title": "चित्रकूट में बाढ़ का कहर",
-    "caption": "चित्रकूट में मंदाकिनी नदी का जलस्तर खतरे के निशान के पार, यूपी-एमपी संपर्क कटा।",
+    "published": "Sat, 29 Aug 2026 17:36:18 +0530",
+    "hook": "बिरयानी के बर्तन में इंसान के टुकड़े! रूह कंपा देने वाली वारदात ने पूरे देश को हिला दिया है।",
+    "script_hi": "चेन्नई के तांबरम में एक महिला हैथुल निशा की बेरहमी से हत्या कर दी गई। आरोप है कि एक कपल ने महिला को मार कर उसके शव के टुकड़े किए और उसे बिरयानी बनाने वाले बड़े बर्तन में पका दिया। बाकी बचे शव को सूटकेस में भरकर ट्रेन में छोड़ दिया गया। पुलिस ने आरोपी जोड़े को मणिपुर से गिरफ्तार कर लिया है।",
+    "tts_text_hi": "चेन्नई के तांबरम में एक महिला हैथुल निशा की बेरहमी से हत्या कर दी गई। आरोप है कि एक कपल ने महिला को मार कर उसके शव के टुकड़े किए और उसे बिरयानी बनाने वाले बड़े बर्तन में पका दिया। बाकी बचे शव को सूटकेस में भरकर ट्रेन में छोड़ दिया गया। पुलिस ने आरोपी जोड़े को मणिपुर से गिरफ्तार कर लिया है।",
+    "title": "चेन्नई हत्याकांड: शरीर के टुकड़े पकाए",
+    "caption": "चेन्नई में रोंगटे खड़े कर देने वाली वारदात, महिला की हत्या के बाद शव के टुकड़े बिरयानी के बर्तन में पकाए।",
     "hashtags": [
-      "Chitrakoot",
-      "Flood",
-      "Mandakini",
-      "UPNews",
-      "MPNews",
-      "WeatherUpdate",
-      "RescueOperation"
+      "ChennaiCrime",
+      "HorrorStory",
+      "CrimeNews",
+      "IndiaNews",
+      "JusticeForHathulNisha",
+      "ShockingNews",
+      "TamilNadu"
     ],
     "visual_queries": [
-      "flooded river India",
-      "submerged ghat India",
-      "broken road bridge India",
-      "rescue helicopter flying India"
+      "Chennai urban landscape India",
+      "cooking pot restaurant kitchen India",
+      "empty suitcase on train seat India",
+      "police handcuffs close up India",
+      "Manipur landscape India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the specific Chitrakoot flood site as generic stock B-roll will not accurately represent this specific disaster event.",
+    "flag_reason": "This is a heinous, specific criminal case involving gruesome details. While reporting is factual, the severity of the crime and the specific, highly localized nature of the incident (specific murder method) require sensitive handling to ensure compliance with community guidelines regarding graphic content.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37304883/pexels-photo-37304883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Chennai urban landscape India",
+        "credit": "ROHIT MAYON",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12436185/pexels-photo-12436185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cooking pot restaurant kitchen India",
+        "credit": "Rahul Sapra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/26886366/pexels-photo-26886366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty suitcase on train seat India",
+        "credit": "Ruben Reijgwart",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10475160/pexels-photo-10475160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police handcuffs close up India",
+        "credit": "Ron Lach",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38431673/pexels-photo-38431673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Manipur landscape India",
+        "credit": "Noor Zaman",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "indian_couple_nepal_flood_rescue",
+    "virality_score": 9,
+    "reason": "Dramatic personal story of survival in the Nepal floods with a high emotional hook.",
+    "region": "india",
+    "headline": "&#039;सामने दिख रही थी मौत, फिर हमने...&#039;, नेपाल बाढ़ में भारतीय-अमेरिकी जोड़े की ऐसे बची जान",
+    "source_summary": "भारतीय मूल के जोड़े अंजना राजा और पट्टाबिरामन वेंकटेसन नेपाल के रसुवा जिले में आई भीषण बाढ़ में बाल बाल बच गए. तिब्बत यात्रा के दौरान उनकी बस के पास पानी की विशाल दीवार आ गई, जिसे देखकर दोनों ने कूदकर 500 सीढ़ियां चढ़ीं और अपनी जान बचाई. रास्ते में उन्होंने पुलिस चौकी और घरों को बहते देखा. दोनों ने रात एक बकरी के बाड़े में गुजारी और अगले दिन हवाई मार्ग से सुरक्षित निकाले गए.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-flood-indian-origin-couple-survival-story-anjana-raja-ntc-agkp-dskc-2632391-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T21:08:02+05:30",
+    "hook": "नेपाल में मौत के मुंह से कैसे निकला भारतीय जोड़ा?",
+    "script_hi": "नेपाल में भीषण बाढ़ के बीच मौत को मात देकर लौटे भारतीय मूल के अंजना राजा और पट्टाबिरामन वेंकटेसन। रसुवा में यात्रा के दौरान बस के पास पानी की तेज लहरें आईं। दोनों ने पांच सौ सीढ़ियां चढ़कर जान बचाई। रात एक बकरी के बाड़े में बिताने के बाद, अगली सुबह उन्हें सुरक्षित निकाल लिया गया।",
+    "tts_text_hi": "नेपाल में भीषण बाढ़ के बीच मौत को मात देकर लौटे भारतीय मूल के अंजना राजा और पट्टाबिरामन वेंकटेसन। रसुवा में यात्रा के दौरान बस के पास पानी की तेज लहरें आईं। दोनों ने पांच सौ सीढ़ियां चढ़कर जान बचाई। रात एक बकरी के बाड़े में बिताने के बाद, अगली सुबह उन्हें सुरक्षित निकाल लिया गया।",
+    "title": "नेपाल बाढ़: बाल-बाल बचे भारतीय जोड़े की कहानी",
+    "caption": "नेपाल में आई भीषण बाढ़ से अपनी जान बचाकर सुरक्षित निकले भारतीय-अमेरिकी जोड़े की रोंगटे खड़े कर देने वाली कहानी।",
+    "hashtags": [
+      "NepalFlood",
+      "SurvivalStory",
+      "IndiaNews",
+      "BreakingNews",
+      "Rasuwa",
+      "IndianAmericans"
+    ],
+    "visual_queries": [
+      "rushing river water",
+      "steep stone stairs mountain",
+      "goat shed wooden structure",
+      "rescue helicopter aerial view"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on the specific, unique experience of the individuals involved. Generic stock footage of mountains or rivers cannot accurately represent their specific survival event; authentic photos or news footage of the couple or the specific location in Rasuwa should be used.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/36888557/15626801_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/28912663/12514128_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "submerged ghat India",
-        "credit": "miheer tewari",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flooded river India",
-        "credit": "Arto Suraj",
+        "query": "goat shed wooden structure",
+        "credit": "Diana ✨",
+        "source_duration_sec": 5,
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32603973/pexels-photo-32603973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38785283/pexels-photo-38785283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "broken road bridge India",
-        "credit": "ADWAITH K P",
+        "query": "rushing river water",
+        "credit": "Hany Nafady",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35481821/pexels-photo-35481821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30191424/pexels-photo-30191424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rescue helicopter flying India",
-        "credit": "Yahya Gopalani",
+        "query": "steep stone stairs mountain",
+        "credit": "Aleksandar Dragojević",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35015627/pexels-photo-35015627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue helicopter aerial view",
+        "credit": "Tasha_WhiteGold",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "noida_child_murder_encounter",
-    "virality_score": 8,
-    "reason": "A high-intensity crime case involving a child and a subsequent police encounter always trends quickly in news shorts.",
+    "topic_label": "greater_noida_child_murder_encounter",
+    "virality_score": 9,
+    "reason": "Combines a heinous crime with swift justice via police encounter, which drives high social media engagement.",
     "region": "india",
-    "headline": "ग्रेटर नोएडा में 6 साल की बच्ची की हत्या करने वाला पुलिस मुठभेड़ में ढेर… अस्पताल ले जाते समय तोड़ा दम",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/up-news-1280-720-2026-08-29t191233.690.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"ग्रेटर नोएडा में 6 साल की बच्ची की हत्या करने वाला पुलिस मुठभेड़ में ढेर… अस्पताल ले जाते समय तोड़ा दम\" /></figure>ग्रेटर नोएडा में 7 वर्षीय बच्ची की दुष्कर्म के बाद हत्या के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया. घटना स्थल पर सबूत बरामदगी के दौरान आरोपी ने पुलिस हिरासत से भागने का प्रयास किया.",
-    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/greater-noida-child-murder-accused-killed-in-police-encounter-3893166.html",
-    "source_name": "TV9 Hindi",
-    "published": "Sat, 29 Aug 2026 19:12:11 +0530",
-    "hook": "ग्रेटर नोएडा में मासूम बच्ची के कातिल का एनकाउंटर!",
-    "script_hi": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या और दरिंदगी के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया। पुलिस आरोपी को सबूत बरामद करने के लिए ले जा रही थी, तभी उसने भागने की कोशिश की। जवाबी कार्रवाई में आरोपी मारा गया।",
-    "tts_text_hi": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या और दरिंदगी के आरोपी बलराज को पुलिस ने मुठभेड़ में ढेर कर दिया। पुलिस आरोपी को सबूत बरामद करने के लिए ले जा रही थी, तभी उसने पुलिस हिरासत से भागने की कोशिश की। जवाबी कार्रवाई में आरोपी मारा गया और अस्पताल ले जाते समय उसने दम तोड़ दिया।",
-    "title": "ग्रेटर नोएडा: मासूम की हत्यारे का एनकाउंटर",
-    "caption": "ग्रेटर नोएडा में बच्ची की हत्या करने वाले आरोपी का एनकाउंटर।",
+    "headline": "6 साल की बच्ची की हत्या से सनसनी, पुलिस मुठभेड़ में आरोपी ढेर",
+    "source_summary": "ग्रेटर नोएडा में 6 वर्षीय बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया है. पुलिस के मुताबिक, आरोपी ने बच्ची को बहला-फुसलाकर कमरे में ले जाकर उसकी हत्या की थी. इसके बाद शव को बोरी में भरकर ठिकाने लगाने के लिए ले गया था. पुलिस की जांच के दौरान सामने आए CCTV फुटेज में आरोपी बोरी में बच्ची का शव ले जाते हुए दिखाई दिया था.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-6-year-old-girl-murder-haldoni-village-cctv-accused-lclcn-strc-2632323-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T15:48:28+05:30",
+    "hook": "ग्रेटर नोएडा में छह साल की मासूम की हत्या का आरोपी पुलिस मुठभेड़ में ढेर।",
+    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया है। सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था। अब पुलिस ने एनकाउंटर कर उसे मौत के घाट उतार दिया है।",
+    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया है। सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था। अब पुलिस ने एनकाउंटर कर उसे मौत के घाट उतार दिया है।",
+    "title": "ग्रेटर नोएडा हत्याकांड: आरोपी एनकाउंटर में ढेर",
+    "caption": "ग्रेटर नोएडा में मासूम की हत्या करने वाले आरोपी को पुलिस ने मुठभेड़ में मार गिराया।",
     "hashtags": [
       "GreaterNoida",
-      "Encounter",
       "CrimeNews",
-      "UttarPradesh",
+      "Encounter",
       "Justice",
-      "BreakingNews"
+      "HindiNews",
+      "NewsShorts"
     ],
     "visual_queries": [
-      "Greater Noida city buildings India",
-      "Indian police station investigation",
-      "Indian police barricade at night",
-      "ambulance sirens flashing India"
+      "police barricade India",
+      "CCTV camera recording",
+      "police car flashing lights India",
+      "justice scales icon"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves the rape and murder of a minor. While reporting on the perpetrator's death in an encounter is standard, the sensitivity of the victim's age requires careful handling to avoid exploiting the minor's identity.",
+    "flag_reason": "The story centers on a viral CCTV footage which is central to the reporting; generic B-roll would not suffice, so real footage needs to be sourced manually.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian crime investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30407482/pexels-photo-30407482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Greater Noida city buildings India",
-        "credit": "Splendid Images",
+        "query": "police barricade India",
+        "credit": "Sonika Agarwal",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15021113/pexels-photo-15021113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30554249/pexels-photo-30554249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police barricade at night",
-        "credit": "Zeeshaan Shabbir",
+        "query": "CCTV camera recording",
+        "credit": "Eray Karataş",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10543088/pexels-photo-10543088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police car flashing lights India",
+        "credit": "Gabriel Hohol",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32739872/pexels-photo-32739872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "justice scales icon",
+        "credit": "Özgür Karabulut",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "poco_x8_power_launch",
-    "virality_score": 7,
-    "reason": "Smartphone launches with record-breaking battery features are always highly engaging for the Indian youth demographic.",
+    "topic_label": "rakshabandhan_road_accident_faridabad",
+    "virality_score": 8,
+    "reason": "Highly tragic event on a festive day involving family, which hits home for a broad Indian audience.",
     "region": "india",
-    "headline": "सिंगल चार्ज में 3 दिन चलेगा फोन, भारत में लॉन्च डेट हुई कंफर्म",
-    "source_summary": "POCO X8 Power 5G भारत में 4 सितंबर को लॉन्च होने जा रहा है, जिसमें 10,000mAh की बैटरी मिलेगी. इसको लेकर खुद कंपनी ने दावा किया है कि सिंगल चार्जिंग में साढ़े तीन दिन का बैटरी बैकअप मिलेगा. यह बैटरी बैकअप कई लोगों के लिए यूजफुल साबित होगा.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/xiaomi-poco-x8-power-5g-10000mah-battery-phone-3-day-working-single-charge-ttecr-dskc-2632050-2026-08-29?utm_source=rssfeed",
+    "headline": "राखी बंधवाकर लौट रहे थे घर... भाइयों की दर्दनाक मौत, बहनें वेंटिलेटर पर",
+    "source_summary": "Faridabad News: फरीदाबाद के गुड़गांव-पाली रोड पर तेज रफ्तार फॉर्च्यूनर की टक्कर से राखी बंधवाकर लौट रहे दो सगे भाइयों की मौत, 2 बहनें गंभीर रूप से घायल. पुलिस आरोपी चालक की तलाश में जुटी...",
+    "source_url": "https://www.aajtak.in/india/haryana/story/faridabad-rakshabandhan-accident-fortuner-hits-family-two-brothers-dead-sisters-injured-lcln-strc-2632438-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-29T08:07:55+05:30",
-    "hook": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन!",
-    "script_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको एक्स आठ पावर पांच जी, चार सितंबर को भारत में लॉन्च होने जा रहा है। कंपनी का दावा है कि इसमें दस हजार एमएएच की बड़ी बैटरी मिलेगी, जो सिंगल चार्ज पर साढ़े तीन दिन तक चलेगी। है ना कमाल का फीचर?",
-    "tts_text_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको एक्स आठ पावर फाइव जी, चार सितंबर को भारत में लॉन्च होने जा रहा है। कंपनी का दावा है कि इसमें दस हजार एमएएच की बड़ी बैटरी मिलेगी, जो सिंगल चार्ज पर साढ़े तीन दिन तक चलेगी। है ना कमाल का फीचर?",
-    "title": "POCO X8 Power 5G लॉन्च डेट कंफर्म",
-    "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।",
+    "published": "2026-08-29T21:24:52+05:30",
+    "hook": "रक्षाबंधन की खुशियां मातम में बदलीं, फरीदाबाद में दर्दनाक सड़क हादसे में दो भाइयों की मौत।",
+    "script_hi": "रक्षाबंधन की खुशियां मातम में बदल गईं। फरीदाबाद के गुड़गांव-पाली रोड पर एक तेज रफ्तार फॉर्च्यूनर ने बाइक सवारों को कुचल दिया। इस हादसे में दो सगे भाइयों की मौके पर ही मौत हो गई, जबकि उनकी दो बहनें गंभीर रूप से घायल हैं। घायल बहनों को अस्पताल में वेंटिलेटर पर रखा गया है। आरोपी चालक मौके से फरार है और पुलिस उसकी तलाश कर रही है।",
+    "tts_text_hi": "रक्षाबंधन की खुशियां मातम में बदल गईं। फरीदाबाद के गुड़गांव-पाली रोड पर एक तेज रफ्तार फॉर्च्यूनर ने बाइक सवारों को कुचल दिया। इस हादसे में दो सगे भाइयों की मौके पर ही मौत हो गई, जबकि उनकी दो बहनें गंभीर रूप से घायल हैं। घायल बहनों को अस्पताल में वेंटिलेटर पर रखा गया है। आरोपी चालक मौके से फरार है और पुलिस उसकी तलाश कर रही है।",
+    "title": "फरीदाबाद: सड़क हादसे में दो भाइयों की मौत",
+    "caption": "फरीदाबाद में रक्षाबंधन के दिन हुआ भीषण सड़क हादसा, तेज रफ्तार फॉर्च्यूनर ने बाइक सवार परिवार को टक्कर मारी।",
     "hashtags": [
-      "POCO",
-      "POCOX8Power",
-      "TechNewsIndia",
-      "SmartphoneLaunch",
-      "BatteryLife",
-      "NewPhone",
-      "HindiTech"
+      "Faridabad",
+      "RoadAccident",
+      "RakshaBandhan",
+      "HaryanaNews",
+      "BreakingNews",
+      "SadNews"
     ],
     "visual_queries": [
-      "person holding modern smartphone India",
-      "smartphone charging battery icon",
-      "high capacity battery technology",
-      "modern smartphone screen mockup India"
+      "India highway traffic",
+      "damaged car wreckage",
+      "hospital ambulance India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves a specific local fatal accident on a named road; generic stock footage would misrepresent the scene of this particular incident.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37702876/pexels-photo-37702876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India highway traffic",
+        "credit": "Votso Sothu",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37507644/pexels-photo-37507644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "damaged car wreckage",
+        "credit": "Théo Cold",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital ambulance India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "cricket_pitch_roller_accident_gurugram",
+    "virality_score": 8,
+    "reason": "Shocking and unusual fatal accident at a sports academy that is visually compelling.",
+    "region": "india",
+    "headline": "खेल-खेल में चालू हुआ पिच रोलर, मासूम कुचला; क्रिकेट अकादमी में हादसा",
+    "source_summary": "Gurugram Cricket Academy Pitch Roller Accident: गुरुग्राम क्रिकेट अकादमी के मैदान में रोलर चलने के बाद उसे आगे-पीछे करने के दौरान संतुलन बिगड़ गया और आकाश उसके सामने गिर पड़ा. इसके बाद रोलर की चपेट में आने से वह गंभीर रूप से घायल हो गया. हादसे के बाद वहां मौजूद अन्य बच्चे डर के कारण भाग गए.",
+    "source_url": "https://www.aajtak.in/india/haryana/story/gurugram-cricket-academy-tragic-accident-while-playing-child-crushed-to-death-by-pitch-roller-lcln-strc-2632386-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T18:31:05+05:30",
+    "hook": "गुरुग्राम में क्रिकेट की पिच बनी मौत का मैदान!",
+    "script_hi": "गुरुग्राम की एक क्रिकेट अकादमी में बड़ा हादसा हुआ। खेल-खेल में पिच रोलर की चपेट में आने से एक मासूम गंभीर रूप से घायल हो गया। बताया जा रहा है कि रोलर का संतुलन बिगड़ने से वह बच्चे के ऊपर चढ़ गया। गनीमत रही कि उसे तुरंत अस्पताल ले जाया गया। पुलिस अब मामले की जांच कर रही है।",
+    "tts_text_hi": "गुरुग्राम की एक क्रिकेट अकादमी में बड़ा हादसा हुआ। खेल-खेल में पिच रोलर की चपेट में आने से एक मासूम गंभीर रूप से घायल हो गया। बताया जा रहा है कि रोलर का संतुलन बिगड़ने से वह बच्चे के ऊपर चढ़ गया। गनीमत रही कि उसे तुरंत अस्पताल ले जाया गया। पुलिस अब मामले की जांच कर रही है।",
+    "title": "गुरुग्राम क्रिकेट अकादमी में रोलर हादसा",
+    "caption": "गुरुग्राम की क्रिकेट अकादमी में बड़ा हादसा, पिच रोलर की चपेट में आया मासूम।",
+    "hashtags": [
+      "Gurugram",
+      "CricketAccident",
+      "NewsIndia",
+      "BreakingNews",
+      "CrimeNews"
+    ],
+    "visual_queries": [
+      "cricket pitch India",
+      "heavy iron road roller India",
+      "hospital entrance emergency India",
+      "Indian police station"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Needs real footage/photos of the specific incident location and the involved machinery, as generic stock footage would misrepresent this specific local news accident.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket pitch India",
+        "credit": "Sandeep Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5550245/pexels-photo-5550245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "heavy iron road roller India",
+        "credit": "Keith Lobo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital entrance emergency India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "unexpected_box_office_hit",
+    "virality_score": 7,
+    "reason": "Interesting case study of a film outperforming blockbusters with a unique success story.",
+    "region": "india",
+    "headline": "41 के हीरो, 25 की हीरोइन की रोमांटिक कॉमेडी बनी बॉक्स ऑफिस किंग, टॉक्सिक के हल्ले में भी 30 करोड़ में कमा ले गई 125 करोड़",
+    "source_summary": "Bethlehem Kudumba Unit Collection: टॉक्सिक (Toxic) के शोर के बीच उस फिल्म को मत भूलिएगा जिसने सिर्फ सात ने अंदर अपने बजट का लगभग 5 गुना वसूल लिया है. फिल्म का हीरो 41 का और हीरोइन 25 की है. दोनों की केमेस्ट्री गजब ढा रही है.",
+    "source_url": "https://ndtv.in/bollywood/25-year-old-heroine-41-year-old-hero-romantic-comedy-bethlehem-kudumba-unit-emerges-box-office-king-earns-150-crore-amidst-toxic-hype-11970511#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 20:40:33 +0530",
+    "hook": "टॉक्सिक के शोर के बीच, एक छोटी फिल्म ने मचाया बॉक्स ऑफिस पर बड़ा धमाका!",
+    "script_hi": "टॉक्सिक के शोर के बीच, एक ऐसी फिल्म जिसे नजरअंदाज करना नामुमकिन है। इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की यह रोमांटिक कॉमेडी बॉक्स ऑफिस की नई किंग बन चुकी है। फिल्म ने मात्र तीस करोड़ के बजट में एक सौ पच्चीस करोड़ की शानदार कमाई कर डाली है। सात दिनों के अंदर ही इस फिल्म ने अपनी लागत का लगभग पांच गुना वसूल लिया है। गजब की केमेस्ट्री और दमदार कहानी के दम पर, यह फिल्म दर्शकों के दिलों पर छा गई है।",
+    "tts_text_hi": "टॉक्सिक के शोर के बीच, एक ऐसी फिल्म जिसे नजरअंदाज करना नामुमकिन है। इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की यह रोमांटिक कॉमेडी बॉक्स ऑफिस की नई किंग बन चुकी है। फिल्म ने मात्र तीस करोड़ के बजट में एक सौ पच्चीस करोड़ की शानदार कमाई कर डाली है। सात दिनों के अंदर ही इस फिल्म ने अपनी लागत का लगभग पांच गुना वसूल लिया है। गजब की केमेस्ट्री और दमदार कहानी के दम पर, यह फिल्म दर्शकों के दिलों पर छा गई है।",
+    "title": "बॉक्स ऑफिस पर रोमांटिक कॉमेडी का धमाका",
+    "caption": "टॉक्सिक के शोर के बीच एक छोटी फिल्म ने रचा इतिहास! देखिए कैसे इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की जोड़ी ने बॉक्स ऑफिस पर जादू चलाया है।",
+    "hashtags": [
+      "BoxOffice",
+      "RomanticComedy",
+      "ToxicMovie",
+      "IndianCinema",
+      "Blockbuster",
+      "EntertainmentNews"
+    ],
+    "visual_queries": [
+      "Indian cinema theater screen",
+      "romantic couple laughing outdoors India",
+      "stacked Indian rupee currency",
+      "happy audience watching film India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -179,34 +412,34 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16349340/pexels-photo-16349340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18758034/pexels-photo-18758034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "person holding modern smartphone India",
+        "query": "Indian cinema theater screen",
+        "credit": "Kamil",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8607689/pexels-photo-8607689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "romantic couple laughing outdoors India",
+        "credit": "Chand  Naliyadhara",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8576783/pexels-photo-8576783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stacked Indian rupee currency",
         "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3272280/pexels-photo-3272280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7991186/pexels-photo-7991186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "smartphone charging battery icon",
-        "credit": "Szabó Viktor",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10104600/pexels-photo-10104600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high capacity battery technology",
-        "credit": "I'm Zion",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9164565/pexels-photo-9164565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern smartphone screen mockup India",
-        "credit": "Nandhu Kumar",
+        "query": "happy audience watching film India",
+        "credit": "Tima Miroshnichenko",
         "duration_sec": 5
       }
     ],
@@ -215,28 +448,226 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "POCO X8 Power 5G लॉन्च डेट कंफर्म",
-        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
+        "title": "बॉक्स ऑफिस पर रोमांटिक कॉमेडी का धमाका",
+        "caption": "टॉक्सिक के शोर के बीच एक छोटी फिल्म ने रचा इतिहास! देखिए कैसे इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की जोड़ी ने बॉक्स ऑफिस पर जादू चलाया है।\n\n#BoxOffice #RomanticComedy #ToxicMovie #IndianCinema #Blockbuster"
       },
       "instagram": {
         "title": null,
-        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
+        "caption": "टॉक्सिक के शोर के बीच एक छोटी फिल्म ने रचा इतिहास! देखिए कैसे इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की जोड़ी ने बॉक्स ऑफिस पर जादू चलाया है।\n\n#BoxOffice #RomanticComedy #ToxicMovie #IndianCinema #Blockbuster"
       },
       "facebook": {
         "title": null,
-        "caption": "पोको का नया धाकड़ फोन! एक चार्ज में चलेगा साढ़े तीन दिन।\n\n#POCO #POCOX8Power #TechNewsIndia #SmartphoneLaunch #BatteryLife"
+        "caption": "टॉक्सिक के शोर के बीच एक छोटी फिल्म ने रचा इतिहास! देखिए कैसे इकतालीस साल के हीरो और पच्चीस साल की हीरोइन की जोड़ी ने बॉक्स ऑफिस पर जादू चलाया है।\n\n#BoxOffice #RomanticComedy #ToxicMovie #IndianCinema #Blockbuster"
       },
       "hashtags": [
-        "POCO",
-        "POCOX8Power",
-        "TechNewsIndia",
-        "SmartphoneLaunch",
-        "BatteryLife"
+        "BoxOffice",
+        "RomanticComedy",
+        "ToxicMovie",
+        "IndianCinema",
+        "Blockbuster"
       ]
     },
-    "audio_path": "audio/poco_x8_power_launch.wav",
-    "audio_duration_sec": 23.12,
-    "video_path": "videos/poco_x8_power_launch.mp4",
-    "video_duration_sec": 31.17
+    "audio_path": "audio/unexpected_box_office_hit.wav",
+    "audio_duration_sec": 30.2,
+    "video_path": "videos/unexpected_box_office_hit.mp4",
+    "video_duration_sec": 38.26
+  },
+  {
+    "topic_label": "syria_doctor_facebook_scam",
+    "virality_score": 7,
+    "reason": "Relatable and cautionary tale about cyber-fraud, highly relevant for internet users.",
+    "region": "india",
+    "headline": "'सीरिया में युद्ध हो रहा है मुझे भारत आना है', महिला फेसबुक फ्रेंड ने इंदौर के डॉक्टर को फंसाया, ठग लिए ₹6 लाख",
+    "source_summary": "इंदौर में फेसबुक पर सीरिया की महिला डॉक्टर बनकर दोस्ती करने वाले साइबर ठगों ने एक डॉक्टर से 6.11 लाख रुपये की ठगी कर ली. युद्ध का हवाला देकर भारत आने और कस्टम में मेडिकल उपकरण फंसने की कहानी सुनाकर रकम ट्रांसफर कराई. मामले में साइबर फ्रॉड, फेसबुक फ्रेंडशिप स्कैम और ऑनलाइन ठगी की जांच शुरू हो गई है.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/facebook-friendship-scam-indore-doctor-online-fraud-syria-woman-cyber-crime-social-media-scam-rbi-11974783#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 16:31:24 +0530",
+    "hook": "फेसबुक पर सीरिया की महिला डॉक्टर से दोस्ती करना इंदौर के एक डॉक्टर को भारी पड़ गया!",
+    "script_hi": "फेसबुक पर सीरिया की एक महिला डॉक्टर से दोस्ती करना इंदौर के एक डॉक्टर को भारी पड़ गया। आरोपी ने खुद को डॉक्टर बताकर डॉक्टर से छह लाख ग्यारह हजार रुपये ठग लिए। ठग ने दावा किया कि वो युद्धग्रस्त सीरिया से भारत आना चाहती है और उसके मेडिकल उपकरण कस्टम में फंस गए हैं। झांसे में आए डॉक्टर ने रकम ट्रांसफर कर दी। पुलिस अब ऑनलाइन ठगी की जांच कर रही है।",
+    "tts_text_hi": "फेसबुक पर सीरिया की एक महिला डॉक्टर से दोस्ती करना इंदौर के एक डॉक्टर को भारी पड़ गया। आरोपी ने खुद को डॉक्टर बताकर डॉक्टर से छह लाख ग्यारह हजार रुपये ठग लिए। ठग ने दावा किया कि वो युद्धग्रस्त सीरिया से भारत आना चाहती है और उसके मेडिकल उपकरण कस्टम में फंस गए हैं। झांसे में आए डॉक्टर ने रकम ट्रांसफर कर दी। पुलिस अब ऑनलाइन ठगी की जांच कर रही है।",
+    "title": "फेसबुक फ्रेंडशिप स्कैम: इंदौर के डॉक्टर से 6 लाख की ठगी",
+    "caption": "फेसबुक पर सीरियाई महिला बनकर इंदौर के डॉक्टर को चूना लगाने वाले साइबर ठगों का पर्दाफाश।",
+    "hashtags": [
+      "IndoreNews",
+      "CyberCrime",
+      "CyberFraud",
+      "FacebookScam",
+      "CrimeNews",
+      "OnlineScam",
+      "LatestNews"
+    ],
+    "visual_queries": [
+      "man looking at smartphone screen India",
+      "India city street traffic Indore",
+      "medical stethoscope on desk India",
+      "police station building India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17553244/pexels-photo-17553244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "man looking at smartphone screen India",
+        "credit": "Iqbal farooz",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10247706/pexels-photo-10247706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India city street traffic Indore",
+        "credit": "Shyamansh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5407237/pexels-photo-5407237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical stethoscope on desk India",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police station building India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फेसबुक फ्रेंडशिप स्कैम: इंदौर के डॉक्टर से 6 लाख की ठगी",
+        "caption": "फेसबुक पर सीरियाई महिला बनकर इंदौर के डॉक्टर को चूना लगाने वाले साइबर ठगों का पर्दाफाश।\n\n#IndoreNews #CyberCrime #CyberFraud #FacebookScam #CrimeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "फेसबुक पर सीरियाई महिला बनकर इंदौर के डॉक्टर को चूना लगाने वाले साइबर ठगों का पर्दाफाश।\n\n#IndoreNews #CyberCrime #CyberFraud #FacebookScam #CrimeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "फेसबुक पर सीरियाई महिला बनकर इंदौर के डॉक्टर को चूना लगाने वाले साइबर ठगों का पर्दाफाश।\n\n#IndoreNews #CyberCrime #CyberFraud #FacebookScam #CrimeNews"
+      },
+      "hashtags": [
+        "IndoreNews",
+        "CyberCrime",
+        "CyberFraud",
+        "FacebookScam",
+        "CrimeNews"
+      ]
+    },
+    "audio_path": "audio/syria_doctor_facebook_scam.wav",
+    "audio_duration_sec": 26.16,
+    "video_path": "videos/syria_doctor_facebook_scam.mp4",
+    "video_duration_sec": 34.22
+  },
+  {
+    "topic_label": "mahindra_ev_baas_launch",
+    "virality_score": 7,
+    "reason": "Broadly relevant consumer news about affordable electric vehicle ownership.",
+    "region": "india",
+    "headline": "Mahindra ने बदल दिया खेल! अब बस इतने में मिलेगी SUV, बैटरी EMI 6,975 रुपये से शुरू",
+    "source_summary": "Mahindra BaaS Program: महिंद्रा का बड़ा ऐलान किया है. अब 11.45 लाख रुपये की शुरुआती कीमत पर आप इलेक्ट्रिक SUV खरीद सकते हैं. इसके साथ6,975 रुपये की EMI पर बैटरी भी मिल जाएगी.",
+    "source_url": "https://ndtv.in/auto/mahindra-baas-program-electric-origin-suv-price-be6-sporteq-xev9s-emi-details-11974447#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 14:50:27 +0530",
+    "hook": "महिंद्रा ने इलेक्ट्रिक गाड़ियों के बाजार में मचाया बड़ा धमाका!",
+    "script_hi": "महिंद्रा ने इलेक्ट्रिक गाड़ियों के बाजार में मचाया बड़ा धमाका! अब मात्र ग्यारह लाख पैंतालीस हजार रुपये की शुरुआती कीमत पर घर लाएं शानदार इलेक्ट्रिक एसयूवी। कंपनी ने पेश किया है खास बैटरी एज़ ए सर्विस प्रोग्राम, जिसके तहत बैटरी की ईएमआई मात्र छः हजार नौ सौ पचहत्तर रुपये से शुरू होगी।",
+    "tts_text_hi": "महिंद्रा ने इलेक्ट्रिक गाड़ियों के बाजार में मचाया बड़ा धमाका! अब मात्र ग्यारह लाख पैंतालीस हजार रुपये की शुरुआती कीमत पर घर लाएं शानदार इलेक्ट्रिक एसयूवी। कंपनी ने पेश किया है खास बैटरी एज़ ए सर्विस प्रोग्राम, जिसके तहत बैटरी की ईएमआई मात्र छः हजार नौ सौ पचहत्तर रुपये से शुरू होगी।",
+    "title": "Mahindra का बड़ा ऑफर",
+    "caption": "महिंद्रा की इलेक्ट्रिक SUV अब और भी सस्ती। जानिए नई स्कीम की डिटेल्स।",
+    "hashtags": [
+      "Mahindra",
+      "ElectricSUV",
+      "AutoNews",
+      "EVIndia",
+      "MahindraAuto",
+      "BudgetCar",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Modern Indian electric SUV",
+      "Electric vehicle charging station India",
+      "Happy family driving SUV India",
+      "Automotive showroom interior India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33027402/pexels-photo-33027402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Modern Indian electric SUV",
+        "credit": "Hyundai Motor Group",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24376862/pexels-photo-24376862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Electric vehicle charging station India",
+        "credit": "Elmir Jafarov",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37088160/pexels-photo-37088160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Happy family driving SUV India",
+        "credit": "Brijesh H",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38784208/pexels-photo-38784208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Automotive showroom interior India",
+        "credit": "Tejas JR",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Mahindra का बड़ा ऑफर",
+        "caption": "महिंद्रा की इलेक्ट्रिक SUV अब और भी सस्ती। जानिए नई स्कीम की डिटेल्स।\n\n#Mahindra #ElectricSUV #AutoNews #EVIndia #MahindraAuto"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महिंद्रा की इलेक्ट्रिक SUV अब और भी सस्ती। जानिए नई स्कीम की डिटेल्स।\n\n#Mahindra #ElectricSUV #AutoNews #EVIndia #MahindraAuto"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "महिंद्रा की इलेक्ट्रिक SUV अब और भी सस्ती। जानिए नई स्कीम की डिटेल्स।\n\n#Mahindra #ElectricSUV #AutoNews #EVIndia #MahindraAuto"
+      },
+      "hashtags": [
+        "Mahindra",
+        "ElectricSUV",
+        "AutoNews",
+        "EVIndia",
+        "MahindraAuto"
+      ]
+    },
+    "audio_path": "audio/mahindra_ev_baas_launch.wav",
+    "audio_duration_sec": 16.96,
+    "video_path": "videos/mahindra_ev_baas_launch.mp4",
+    "video_duration_sec": 24.96
   }
 ]

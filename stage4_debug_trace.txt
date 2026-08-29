@@ -1,5 +1,10 @@
-ready_labels: ['poco_x8_power_launch']
+ready_labels: ['mahindra_ev_baas_launch', 'syria_doctor_facebook_scam', 'unexpected_box_office_hit']
 
-chitrakoot_mandakini_flood: SKIPPED (not in ready set)
-noida_child_murder_encounter: SKIPPED (not in ready set)
-poco_x8_power_launch: SUCCESS -> video_path=videos/poco_x8_power_launch.mp4 dur=31.17322
+biryani_vessel_murder_couple: SKIPPED (not in ready set)
+indian_couple_nepal_flood_rescue: SKIPPED (not in ready set)
+greater_noida_child_murder_encounter: SKIPPED (not in ready set)
+rakshabandhan_road_accident_faridabad: SKIPPED (not in ready set)
+cricket_pitch_roller_accident_gurugram: SKIPPED (not in ready set)
+unexpected_box_office_hit: SUCCESS -> video_path=videos/unexpected_box_office_hit.mp4 dur=38.255215
+syria_doctor_facebook_scam: SUCCESS -> video_path=videos/syria_doctor_facebook_scam.mp4 dur=34.215215
+mahindra_ev_baas_launch: SUCCESS -> video_path=videos/mahindra_ev_baas_launch.mp4 dur=24.956553
