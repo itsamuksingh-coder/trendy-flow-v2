@@ -1,659 +1,412 @@
 [
   {
-    "topic_label": "greater_noida_girl_murder",
+    "topic_label": "greater_noida_girl_murder_encounter",
     "virality_score": 10,
-    "reason": "Brutal crime with immediate police action (encounter/justice) which historically performs exceptionally well in India.",
+    "reason": "Highly emotional crime story with immediate swift justice (encounter) which always garners massive attention.",
     "region": "india",
     "headline": "6 साल की बच्ची की हत्या से सनसनी, पुलिस मुठभेड़ में आरोपी ढेर",
     "source_summary": "ग्रेटर नोएडा में 6 वर्षीय बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया है. पुलिस के मुताबिक, आरोपी ने बच्ची को बहला-फुसलाकर कमरे में ले जाकर उसकी हत्या की थी. इसके बाद शव को बोरी में भरकर ठिकाने लगाने के लिए ले गया था. पुलिस की जांच के दौरान सामने आए CCTV फुटेज में आरोपी बोरी में बच्ची का शव ले जाते हुए दिखाई दिया था.",
     "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-6-year-old-girl-murder-haldoni-village-cctv-accused-lclcn-strc-2632323-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-29T15:48:28+05:30",
-    "hook": "ग्रेटर नोएडा में छह साल की मासूम की बेरहमी से हत्या के मामले में बड़ा अपडेट सामने आया है।",
-    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम की बेरहमी से हत्या के मामले में बड़ा अपडेट सामने आया है। पुलिस ने एनकाउंटर में आरोपी को ढेर कर दिया है। सीसीटीवी फुटेज में आरोपी बोरी में बच्ची का शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे घेर लिया। मुठभेड़ के दौरान पुलिस की गोली आरोपी को लगी और उसकी मौत हो गई।",
-    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम की बेरहमी से हत्या के मामले में बड़ा अपडेट सामने आया है। पुलिस ने एनकाउंटर में आरोपी को ढेर कर दिया है। सीसीटीवी फुटेज में आरोपी बोरी में बच्ची का शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे घेर लिया। मुठभेड़ के दौरान पुलिस की गोली आरोपी को लगी और उसकी मौत हो गई।",
-    "title": "ग्रेटर नोएडा: बच्ची की हत्या का आरोपी मुठभेड़ में ढेर",
-    "caption": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया। सीसीटीवी में आरोपी शव के साथ कैद हुआ था।",
+    "hook": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या का आरोपी एनकाउंटर में ढेर हो गया है.",
+    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या के आरोपी को पुलिस ने एनकाउंटर में मार गिराया है। आरोपी ने मासूम को बहला-फुसलाकर उसकी जान ली थी। पुलिस को सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे मुठभेड़ में मार गिराया।",
+    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या के आरोपी को पुलिस ने एनकाउंटर में मार गिराया है। आरोपी ने मासूम को बहला-फुसलाकर उसकी जान ली थी। पुलिस को सीसीटीवी फुटेज में आरोपी बोरी में शव ले जाते हुए दिखा था, जिसके बाद पुलिस ने उसे मुठभेड़ में मार गिराया।",
+    "title": "ग्रेटर नोएडा: मासूम की हत्या का आरोपी एनकाउंटर में ढेर",
+    "caption": "ग्रेटर नोएडा में छह साल की बच्ची की निर्मम हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया है।",
     "hashtags": [
       "GreaterNoida",
       "CrimeNews",
       "Encounter",
-      "JusticeForVictim",
-      "UPPolice",
-      "HindiNews"
+      "Justice",
+      "HindiNews",
+      "UttarPradesh"
     ],
     "visual_queries": [
-      "Greater Noida city street India",
-      "Police investigation crime scene India",
-      "CCTV camera surveillance footage",
-      "Indian police encounter operation"
+      "India police station exterior",
+      "CCTV surveillance camera footage",
+      "Indian police crime scene tape",
+      "Indian police officers patrol"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves a heinous crime against a minor and relies on specific CCTV evidence which is unavailable via generic stock; manual insertion of the relevant news clips is required.",
+    "flag_reason": "Story involves a minor victim and the specific viral CCTV footage mentioned in the summary, which requires manual inclusion of the actual news clip rather than generic stock footage.",
     "assets": [
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Police investigation crime scene India",
+        "query": "Indian police crime scene",
         "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30407482/pexels-photo-30407482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Greater Noida city street India",
-        "credit": "Splendid Images",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera surveillance footage",
-        "credit": "Florian Süß",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police encounter operation",
-        "credit": "Nishant Sharma",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "punjabi_influencer_murder",
-    "virality_score": 9,
-    "reason": "Highly emotional and tragic story about an influencer murder with clear investigative and justice-seeking angles.",
-    "region": "india",
-    "headline": "किडनैप किया, पीटा फिर जला दिया, जिंदगी की जंग हारी इन्फ्लुएंसर मंजीत कौर",
-    "source_summary": "चंडीगढ़ से अगवा किए जाने के लगभग दो महीने बाद पंजाबी सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की PGI चंडीगढ़ में इलाज के दौरान मौत हो गई. पुलिस ने 3 लोगों के खिलाफ FIR दर्ज की है.",
-    "source_url": "https://www.aajtak.in/entertainment/news/story/punjab-influencer-manjeet-kaur-dies-after-2-month-battle-assaulted-tied-to-tree-burned-tmovg-dskc-2632409-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T19:22:26+05:30",
-    "hook": "सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की दर्दनाक मौत, दो महीने पहले हुआ था अपहरण।",
-    "script_hi": "सोशल मीडिया इन्फ्लुएंसर मंजीत कौर अब हमारे बीच नहीं रहीं। चंडीगढ़ से अगवा किए जाने के करीब दो महीने बाद, पीजीआई चंडीगढ़ में इलाज के दौरान उन्होंने दम तोड़ दिया। आरोपियों ने मंजीत को न सिर्फ किडनैप किया, बल्कि बुरी तरह पीटा और जलाने की कोशिश भी की थी। पुलिस ने मामले में तीन लोगों के खिलाफ एफआईआर दर्ज की है।",
-    "tts_text_hi": "सोशल मीडिया इन्फ्लुएंसर मंजीत कौर अब हमारे बीच नहीं रहीं। चंडीगढ़ से अगवा किए जाने के करीब दो महीने बाद, पीजीआई चंडीगढ़ में इलाज के दौरान उन्होंने दम तोड़ दिया। आरोपियों ने मंजीत को न सिर्फ किडनैप किया, बल्कि बुरी तरह पीटा और जलाने की कोशिश भी की थी। पुलिस ने मामले में तीन लोगों के खिलाफ एफआईआर दर्ज की है।",
-    "title": "इन्फ्लुएंसर मंजीत कौर की मौत",
-    "caption": "सोशल मीडिया इन्फ्लुएंसर मंजीत कौर का निधन, चंडीगढ़ में हुआ था अपहरण।",
-    "hashtags": [
-      "ManjeetKaur",
-      "ChandigarhNews",
-      "JusticeForManjeet",
-      "CrimeNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "sad Indian woman portrait",
-      "Chandigarh city skyline India",
-      "Indian hospital building exterior",
-      "police investigation barrier India"
-    ],
-    "named_person": "Manjeet Kaur",
-    "named_person_hi": "मंजीत कौर",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific criminal case regarding an individual's death that requires the use of their actual photograph which is not available in generic stock libraries.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "मंजीत कौर",
-        "source": "fallback",
-        "query": "Manjeet Kaur",
-        "duration_sec": 4.0
-      },
-      {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation barrier India",
+        "query": "Indian police investigation",
         "credit": "cottonbro studio",
         "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36928042/pexels-photo-36928042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sad Indian woman portrait",
-        "credit": "Chandru Charlie",
+        "query": "CCTV surveillance camera footage",
+        "credit": "Florian Süß",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33059588/pexels-photo-33059588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Chandigarh city skyline India",
-        "credit": "Ananya Mandial",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian hospital building exterior",
-        "credit": "Uvesh Gogda",
+        "query": "Indian police officers patrol",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "cricket_academy_roller_accident",
+    "topic_label": "chitrakoot_flood_record",
     "virality_score": 9,
-    "reason": "Shocking and tragic accident in a relatable sports setting; high sympathy and alert factor.",
+    "reason": "Dramatic visual event involving a 23-year record-breaking flood in a significant location.",
     "region": "india",
-    "headline": "खेल-खेल में चालू हुआ पिच रोलर, मासूम कुचला; क्रिकेट अकादमी में हादसा",
-    "source_summary": "Gurugram Cricket Academy Pitch Roller Accident: गुरुग्राम क्रिकेट अकादमी के मैदान में रोलर चलने के बाद उसे आगे-पीछे करने के दौरान संतुलन बिगड़ गया और आकाश उसके सामने गिर पड़ा. इसके बाद रोलर की चपेट में आने से वह गंभीर रूप से घायल हो गया. हादसे के बाद वहां मौजूद अन्य बच्चे डर के कारण भाग गए.",
-    "source_url": "https://www.aajtak.in/india/haryana/story/gurugram-cricket-academy-tragic-accident-while-playing-child-crushed-to-death-by-pitch-roller-lcln-strc-2632386-2026-08-29?utm_source=rssfeed",
+    "headline": "चित्रकूट में बाढ़ का भयावह नजारा, मंदाकिनी नदी ने तोड़ा 23 साल का रिकॉर्ड",
+    "source_summary": "चित्रकूट में मंदाकिनी नदी ने 23 साल का रिकॉर्ड तोड़ते हुए ऐसा रौद्र रूप दिखाया कि रामघाट से लेकर आसपास के इलाकों तक हाहाकार मच गया है. बाढ़ के तेज बहाव में पुल बह गया और दुकानें-मंदिर पानी में डूब गए हैं. कई लोग बाढ़ में फंस गए, जिन्हें हेलीकॉप्टर और नावों की मदद से सुरक्षित बाहर निकाला जा रहा है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/chitrakoot-mandakini-river-flood-23-year-record-broken-lclcn-strc-2632419-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-29T18:31:05+05:30",
-    "hook": "गुरुग्राम में क्रिकेट अकादमी के मैदान में हुआ दिल दहला देने वाला हादसा।",
-    "script_hi": "गुरुग्राम की एक क्रिकेट अकादमी में खेल-खेल में बड़ा हादसा हो गया। पिच रोलर की चपेट में आने से एक मासूम गंभीर रूप से घायल हो गया। बताया जा रहा है कि रोलर का संतुलन बिगड़ने से बच्चा उसके सामने गिर गया। हादसे के बाद वहां अफरा-तफरी मच गई और डर के मारे बाकी बच्चे भाग खड़े हुए। फिलहाल पीड़ित का इलाज चल रहा है।",
-    "tts_text_hi": "गुरुग्राम की एक क्रिकेट अकादमी में खेल-खेल में बड़ा हादसा हो गया। पिच रोलर की चपेट में आने से एक मासूम गंभीर रूप से घायल हो गया। बताया जा रहा है कि रोलर का संतुलन बिगड़ने से बच्चा उसके सामने गिर गया। हादसे के बाद वहां अफरा-तफरी मच गई और डर के मारे बाकी बच्चे भाग खड़े हुए। फिलहाल पीड़ित का इलाज चल रहा है।",
-    "title": "गुरुग्राम क्रिकेट अकादमी में रोलर हादसा",
-    "caption": "गुरुग्राम में क्रिकेट अभ्यास के दौरान पिच रोलर की चपेट में आया मासूम, हालत गंभीर।",
+    "published": "2026-08-29T19:56:32+05:30",
+    "hook": "चित्रकूट में बाढ़ का हाहाकार, मंदाकिनी नदी का रौद्र रूप देख कांप उठे लोग!",
+    "script_hi": "चित्रकूट में मंदाकिनी नदी ने तेईस साल का रिकॉर्ड तोड़ दिया है। रामघाट से लेकर आसपास के इलाकों तक पानी ही पानी है। कई दुकानें और मंदिर डूब चुके हैं और एक पुल भी पानी के तेज बहाव में बह गया। फंसे हुए लोगों को निकालने के लिए हेलीकॉप्टर और नावों की मदद ली जा रही है।",
+    "tts_text_hi": "चित्रकूट में मंदाकिनी नदी ने तेईस साल का रिकॉर्ड तोड़ दिया है। रामघाट से लेकर आसपास के इलाकों तक पानी ही पानी है। कई दुकानें और मंदिर डूब चुके हैं और एक पुल भी पानी के तेज बहाव में बह गया। फंसे हुए लोगों को निकालने के लिए हेलीकॉप्टर और नावों की मदद ली जा रही है।",
+    "title": "चित्रकूट में मंदाकिनी नदी का तांडव",
+    "caption": "चित्रकूट में मंदाकिनी नदी ने तोड़ा तेईस साल का रिकॉर्ड, बाढ़ से जनजीवन प्रभावित। बचाव कार्य जारी।",
     "hashtags": [
-      "Gurugram",
-      "CricketAcademy",
-      "Accident",
-      "HaryanaNews",
-      "SadNews",
+      "Chitrakoot",
+      "Flood",
+      "MandakiniRiver",
+      "UttarPradesh",
+      "FloodsInIndia",
+      "NaturalDisaster"
+    ],
+    "visual_queries": [
+      "flooded river banks India",
+      "submerged temple courtyard India",
+      "rescue boat operation India",
+      "helicopter emergency rescue India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Needs real footage of the Chitrakoot floods as generic stock photos will not accurately represent this specific, ongoing natural disaster event.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded river banks India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28868121/pexels-photo-28868121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "submerged temple courtyard India",
+        "credit": "Roman Saienko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue boat operation India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35481821/pexels-photo-35481821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "helicopter emergency rescue India",
+        "credit": "Yahya Gopalani",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "neeraj_chopra_injury_asian_games",
+    "virality_score": 9,
+    "reason": "Major sporting heartbreak involving India's 'Golden Boy' missing a key tournament.",
+    "region": "india",
+    "headline": "&#039;गोल्डन बॉय&#039; का टूटा सपना! एशियन गेम्स में नहीं आएंगे नजर",
+    "source_summary": "भारत के स्टार जैवलिन थ्रोअर एथलीट नीरज चोपड़ा को लेकर एक बड़ी खबर सामने आ रही है. वह एशियन गेम्स 2026 से चोट के कारण बाहर हो गए हैं. उनके बाहर होने से भारत के पदकों की उम्मीदों को भी तगड़ा झटका लगा है.",
+    "source_url": "https://www.aajtak.in/sports/asian-games/story/javelin-throw-at-asian-games-2026-neeraj-chopra-out-for-rest-of-the-season-aksp-dskc-2632250-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T14:35:38+05:30",
+    "hook": "गोल्डन बॉय नीरज चोपड़ा का बड़ा झटका!",
+    "script_hi": "गोल्डन बॉय नीरज चोपड़ा का टूटा सपना! एशियन गेम्स दो हजार छब्बीस से हुए बाहर। चोट के कारण नहीं ले पाएंगे हिस्सा। भारत की पदकों की उम्मीदों को लगा बड़ा झटका।",
+    "tts_text_hi": "गोल्डन बॉय नीरज चोपड़ा का टूटा सपना! एशियन गेम्स दो हजार छब्बीस से हुए बाहर। चोट के कारण नहीं ले पाएंगे हिस्सा। भारत की पदकों की उम्मीदों को लगा बड़ा झटका।",
+    "title": "नीरज चोपड़ा एशियन गेम्स 2026 से बाहर",
+    "caption": "स्टार जैवलिन थ्रोअर नीरज चोपड़ा चोट के कारण एशियन गेम्स 2026 से बाहर हो गए हैं।",
+    "hashtags": [
+      "NeerajChopra",
+      "AsianGames2026",
+      "JavelinThrow",
+      "IndiaSports",
       "BreakingNews"
     ],
     "visual_queries": [
-      "Indian cricket pitch",
-      "heavy iron field roller",
-      "crying child silhouette",
-      "hospital ambulance India"
+      "Indian athlete throwing javelin",
+      "injured athlete sad stadium",
+      "sports stadium India crowd"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Neeraj Chopra",
+    "named_person_hi": "नीरज चोपड़ा",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a serious incident with a minor and refers to specific event footage/details that need careful handling. No generic stock footage of a roller accident exists; manual review is required to ensure sensitive content compliance.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket pitch",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
+        "type": "text_card",
+        "text": "नीरज चोपड़ा",
+        "source": "fallback",
+        "query": "Neeraj Chopra",
+        "duration_sec": 4.0
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37144635/pexels-photo-37144635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket practice grounds",
-        "credit": "Imtiaz Ahmed",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17628624/pexels-photo-17628624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket practice field",
-        "credit": "B M  Rauf",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital ambulance India",
-        "credit": "Chauhan Dixant",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "snake_hospital_ot",
-    "virality_score": 9,
-    "reason": "Bizarre, viral-friendly story of a snake found in a hospital operation theater; high shock value.",
-    "region": "india",
-    "headline": "चूहे का पीछा करते करते ऑपरेशन थिएटर में पहुंचा सांप, ट्यूबलाइट में फंसा",
-    "source_summary": "Snake in Hospital Operation Theater: सांप चूहे का पीछा करते हुए अस्पताल परिसर तक पहुंच गया था. भोजन की तलाश में घूमते-घूमते वह ऑपरेशन थिएटर के पास लगी ट्यूबलाइट के फ्रेम में जा फंसा. जैसे ही डॉक्टरों और स्वास्थ्यकर्मियों की नजर सांप पर पड़ी, अस्पताल में दहशत फैल गई.",
-    "source_url": "https://www.aajtak.in/india/jharkhand/story/dhanbad-patients-and-doctors-panic-as-snake-enters-topchanchi-health-centre-lcln-strc-2632380-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T18:16:10+05:30",
-    "hook": "अस्पताल के ऑपरेशन थिएटर में घुसा खतरनाक सांप!",
-    "script_hi": "अस्पताल के ऑपरेशन थिएटर में घुसा खतरनाक सांप! एक चूहे का पीछा करते हुए सांप सीधे अस्पताल की छत पर लगी ट्यूबलाइट के अंदर जा घुसा। जब डॉक्टरों और मरीजों की नजर उस पर पड़ी, तो अस्पताल में हड़कंप मच गया। फिलहाल सांप को सुरक्षित बाहर निकालने के लिए रेस्क्यू ऑपरेशन जारी है।",
-    "tts_text_hi": "अस्पताल के ऑपरेशन थिएटर में घुसा खतरनाक सांप! एक चूहे का पीछा करते हुए सांप सीधे अस्पताल की छत पर लगी ट्यूबलाइट के अंदर जा घुसा। जब डॉक्टरों और मरीजों की नजर उस पर पड़ी, तो अस्पताल में हड़कंप मच गया। फिलहाल सांप को सुरक्षित बाहर निकालने के लिए रेस्क्यू ऑपरेशन जारी है।",
-    "title": "अस्पताल के ऑपरेशन थिएटर में घुसा सांप",
-    "caption": "अस्पताल में सांप मिलने से मची दहशत, डॉक्टरों ने देखी ऐसी हालत",
-    "hashtags": [
-      "snake",
-      "hospital",
-      "news",
-      "viral",
-      "india",
-      "shocking"
-    ],
-    "visual_queries": [
-      "Indian hospital corridor",
-      "snake in building",
-      "frightened medical staff",
-      "snake rescue operation"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral-style event involving a snake inside a hospital operation theater; generic stock footage cannot accurately depict this specific incident.",
-    "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/29241126/12618417_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/12879363/12879363-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Indian hospital corridor",
-        "credit": "SN.CHE",
-        "source_duration_sec": 9,
+        "query": "Indian athlete throwing javelin",
+        "credit": "Pexels User",
+        "source_duration_sec": 8,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18120741/pexels-photo-18120741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8820689/pexels-photo-8820689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "snake in building",
-        "credit": "Viktoriia Kondratiuk",
+        "query": "professional athlete training",
+        "credit": "Andrius Šimkus",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6627824/pexels-photo-6627824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "frightened medical staff",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38390072/pexels-photo-38390072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "snake rescue operation",
-        "credit": "Juan Moccagatta",
+        "query": "sports stadium India crowd",
+        "credit": "Ajay Parab",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "नीरज चोपड़ा का टूटा सपना! एशियन गेम्स 2026 से बाहर 🚨",
+        "caption": "नीरज चोपड़ा का टूटा सपना! भारत के गोल्डन बॉय अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे।\n\nइंजरी और फिटनेस के चलते उन्होंने इस बड़े टूर्नामेंट से हटने का फैसला लिया है। फैंस के लिए यह वाकई एक बड़ा झटका है।\n\nक्या नीरज के बिना भारत एथलेटिक्स में अपना दबदबा कायम रख पाएगा? अपनी राय कमेंट में बताएं।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "नीरज चोपड़ा का टूटा सपना! 🚨 भारत के गोल्डन बॉय अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे।\n\nफिटनेस और इंजरी के कारण उन्होंने टूर्नामेंट से हटने का फैसला लिया है। फैंस के लिए यह किसी बड़े झटके से कम नहीं है। 💔\n\nक्या आपको लगता है यह फैसला सही है? कमेंट में बताएं।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "नीरज चोपड़ा का टूटा सपना! भारत के गोल्डन बॉय को लेकर आई बड़ी खबर। नीरज चोपड़ा अब 2026 के एशियन गेम्स में खेलते नजर नहीं आएंगे। 🚨\n\nलगातार इंजरी और फिटनेस के चलते नीरज ने खुद को इस बड़े टूर्नामेंट से दूर रखने का फैसला किया है। गोल्ड मेडल की उम्मीद लगाए बैठे फैंस के लिए यह खबर काफी निराशाजनक है। 🏟️\n\nइस फैसले पर आपकी क्या राय है? क्या उन्हें आराम की जरूरत थी? कमेंट सेक्शन में अपनी बात लिखें।\n\n#NeerajChopra #AsianGames2026 #GoldenBoy #Athletics #SportsNews"
+      },
+      "hashtags": [
+        "NeerajChopra",
+        "AsianGames2026",
+        "GoldenBoy",
+        "Athletics",
+        "SportsNews"
+      ]
+    },
+    "audio_path": "audio/neeraj_chopra_injury_asian_games.wav",
+    "audio_duration_sec": 11.69,
+    "video_path": "videos/neeraj_chopra_injury_asian_games.mp4",
+    "video_duration_sec": 19.75
   },
   {
-    "topic_label": "the_great_khali_accident",
+    "topic_label": "nepal_flood_intl_aid",
     "virality_score": 8,
-    "reason": "Celebrity-involved accident with a positive outcome (miracle escape) ensures high engagement.",
+    "reason": "International collaboration story amidst a massive humanitarian tragedy in a neighboring country.",
     "region": "india",
-    "headline": "रेसलर खली का हुआ एक्सीडेंट, पंजाब से सोनीपत जाते वक्त हादसा",
-    "source_summary": "पानीपत टोल प्लाजा के पास द ग्रेट खली की गाड़ी दुर्घटनाग्रस्त हो गई. खली पंजाब से सोनीपत जा रहे थे. हादसे में वे बाल-बाल बच गए. उन्हें कोई गंभीर चोट नहीं आई है.",
-    "source_url": "https://www.aajtak.in/india/haryana/story/great-khali-car-accident-panipat-toll-plaza-safe-wwe-star-ntc-aktw-rptc-2632413-2026-08-29?utm_source=rssfeed",
+    "headline": "बुरे वक्त में नेपाल की एक पुकार, मदद को साथ आ गए भारत और चीन",
+    "source_summary": "नेपाल में ग्लेशियर टूटने से आई भीषण बाढ़ में अब तक 675 लोगों की मौत हो चुकी है और 2400 से ज्यादा लोग लापता हैं. विदेश मंत्री शिशिर खनाल ने भारत, चीन समेत कई देशों की मदद के लिए आभार जताया और नेपाल द्वारा विदेशी मदद ठुकराने की खबरों को गलत बताया. भारत से 57 टन राहत सामग्री और तकनीकी टीम पहुंच चुकी है, वहीं चीन से भी सुरंग बचाव विशेषज्ञ भी पहुंच गए हैं.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-flood-india-china-rescue-help-deaths-rescue-missionntc-agkp-rpti-2632420-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-29T19:27:26+05:30",
-    "hook": "द ग्रेट खली का हुआ एक्सीडेंट!",
-    "script_hi": "द ग्रेट खली का हुआ भयानक एक्सीडेंट! रेसलर खली पंजाब से सोनीपत जा रहे थे, तभी पानीपत टोल प्लाजा के पास उनकी गाड़ी दुर्घटनाग्रस्त हो गई। गनीमत यह रही कि वे बाल-बाल बच गए और उन्हें कोई गंभीर चोट नहीं आई है। खली फिलहाल सुरक्षित हैं।",
-    "tts_text_hi": "द ग्रेट खली का हुआ भयानक एक्सीडेंट! रेसलर खली पंजाब से सोनीपत जा रहे थे, तभी पानीपत टोल प्लाजा के पास उनकी गाड़ी दुर्घटनाग्रस्त हो गई। गनीमत यह रही कि वे बाल-बाल बच गए और उन्हें कोई गंभीर चोट नहीं आई है। खली फिलहाल सुरक्षित हैं।",
-    "title": "द ग्रेट खली का एक्सीडेंट",
-    "caption": "रेसलर खली सड़क हादसे में बाल-बाल बचे। पानीपत टोल प्लाजा के पास हुआ हादसा।",
+    "published": "2026-08-29T20:20:03+05:30",
+    "hook": "नेपाल पर कुदरत का कहर, मदद के लिए आगे आए भारत और चीन!",
+    "script_hi": "नेपाल में ग्लेशियर टूटने से मची तबाही में अब तक छह सौ पचहत्तर लोगों की जान जा चुकी है और चौबीस सौ से ज्यादा लोग लापता हैं। इस मुश्किल घड़ी में भारत और चीन समेत कई देश मदद के लिए साथ आए हैं। विदेश मंत्री शिशिर खनाल ने साफ किया है कि विदेशी मदद ठुकराने की खबरें गलत हैं। भारत ने सत्तावन टन राहत सामग्री और तकनीकी टीम भेजी है, वहीं चीन से बचाव विशेषज्ञ भी पहुंच गए हैं।",
+    "tts_text_hi": "नेपाल में ग्लेशियर टूटने से मची तबाही में अब तक छह सौ पचहत्तर लोगों की जान जा चुकी है और चौबीस सौ से ज्यादा लोग लापता हैं। इस मुश्किल घड़ी में भारत और चीन समेत कई देश मदद के लिए साथ आए हैं। विदेश मंत्री शिशिर खनाल ने साफ किया है कि विदेशी मदद ठुकराने की खबरें गलत हैं। भारत ने सत्तावन टन राहत सामग्री और तकनीकी टीम भेजी है, वहीं चीन से बचाव विशेषज्ञ भी पहुंच गए हैं।",
+    "title": "नेपाल की मदद को आए भारत और चीन",
+    "caption": "नेपाल में ग्लेशियर हादसे के बाद भारत और चीन ने बढ़ाया मदद का हाथ।",
     "hashtags": [
-      "TheGreatKhali",
-      "Khali",
-      "Accident",
-      "Panipat",
-      "HindiNews",
+      "Nepal",
+      "India",
+      "China",
+      "NepalFloods",
+      "InternationalAid",
       "BreakingNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian professional wrestler",
-      "damaged car on Indian highway",
-      "Panipat highway India",
-      "man looking relieved India"
-    ],
-    "named_person": "The Great Khali",
-    "named_person_hi": "द ग्रेट खली",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific celebrity vehicle accident; generic stock imagery will not represent the actual vehicle or event accurately.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "द ग्रेट खली",
-        "source": "fallback",
-        "query": "The Great Khali",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33531980/pexels-photo-33531980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian professional wrestler",
-        "credit": "Sunil Kumar YG",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5403208/pexels-photo-5403208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "highway car accident",
-        "credit": "El Jundi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Panipat highway India",
-        "credit": "Rana Muskan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "everest_hing_ban",
-    "virality_score": 8,
-    "reason": "Essential household item health warning regarding a major brand; directly impacts all home viewers.",
-    "region": "india",
-    "headline": "Everest की हींग पर बैन, गरम मसाले और चिकन मसाले में भी मिली गड़बड़",
-    "source_summary": "FSSAI ने एवरेस्ट और लालजी गोधू ब्रांड के कम्पाउंडेड हींग की बिक्री पर रोक लगा दी है क्योंकि जांच में यह मानकों से काफी नीचे पाया गया. शिकायत के बाद हुई जांच में दोनों कंपनियों के हींग में असली हींग की मात्रा तय सीमा से 30 से 40 प्रतिशत कम मिली, जबकि लालजी गोधू की असली हींग में स्टार्च की मात्रा भी तय सीमा से कई गुना ज्यादा पाई गई.",
-    "source_url": "https://www.aajtak.in/india/news/story/everest-laljee-godhoo-hing-fssai-sale-ban-substandard-quality-ntc-agkp-rpti-2632369-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T17:40:28+05:30",
-    "hook": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है?",
-    "script_hi": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है? एफएसएसएआई यानी भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ने एवरेस्ट और लालजी गोधू ब्रांड की हींग पर बड़ा एक्शन लिया है। जांच में इन ब्रांड्स की हींग मानकों के अनुरूप नहीं पाई गई। असली हींग की मात्रा तय सीमा से तीस से चालीस प्रतिशत तक कम मिली है। लालजी गोधू की हींग में स्टार्च की मात्रा भी सीमा से कई गुना ज्यादा थी। अब इन दोनों कंपनियों की हींग की बिक्री पर रोक लगा दी गई है।",
-    "tts_text_hi": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है? एफएसएसएआई यानी भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ने एवरेस्ट और लालजी गोधू ब्रांड की हींग पर बड़ा एक्शन लिया है। जांच में इन ब्रांड्स की हींग मानकों के अनुरूप नहीं पाई गई। असली हींग की मात्रा तय सीमा से तीस से चालीस प्रतिशत तक कम मिली है। लालजी गोधू की हींग में स्टार्च की मात्रा भी सीमा से कई गुना ज्यादा थी। अब इन दोनों कंपनियों की हींग की बिक्री पर रोक लगा दी गई है।",
-    "title": "Everest और लालजी गोधू की हींग पर बैन",
-    "caption": "FSSAI ने एवरेस्ट और लालजी गोधू ब्रांड के हींग पर लगाई रोक, जांच में पाई गई बड़ी गड़बड़।",
-    "hashtags": [
-      "EverestSpices",
-      "FSSAI",
-      "FoodSafety",
-      "IndiaNews",
-      "HealthAlert",
       "HindiNews"
     ],
     "visual_queries": [
-      "Indian kitchen spice jars",
-      "FSSAI office India",
-      "Indian groceries shop",
-      "food testing laboratory India"
+      "Himalayan glacier melting",
+      "flood disaster aftermath",
+      "India China relief operation",
+      "relief aid delivery",
+      "rescue team working"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Shishir Khanal",
+    "named_person_hi": "शिशिर खनाल",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story refers to a specific, unique disaster event in Nepal. Generic stock footage cannot represent the specific incident, so the actual footage or images of this event need to be added manually.",
     "assets": [
       {
+        "type": "text_card",
+        "text": "शिशिर खनाल",
+        "source": "fallback",
+        "query": "Shishir Khanal",
+        "duration_sec": 4.0
+      },
+      {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/9346214/9346214-hd_720_1280_24fps.mp4",
+        "url": "https://videos.pexels.com/video-files/19027381/19027381-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indian groceries shop",
-        "credit": "Anna Pou",
-        "source_duration_sec": 10,
+        "query": "flood disaster aftermath",
+        "credit": "Adem Albayrak",
+        "source_duration_sec": 14,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6996094/pexels-photo-6996094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8881125/pexels-photo-8881125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian kitchen spice jars",
-        "credit": "Pavel Danilyuk",
+        "query": "Himalayan glacier melting",
+        "credit": "Anna Galimova",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "FSSAI office India",
-        "credit": "Jansher Chakkittammal",
+        "query": "India China relief operation",
+        "credit": "Arto Suraj",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9243559/pexels-photo-9243559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6646863/pexels-photo-6646863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "food testing laboratory India",
-        "credit": "Mikhail Nilov",
+        "query": "relief aid delivery",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue team working",
+        "credit": "samimibirfotografci",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Everest की हींग पर बैन: असली या मिलावटी? 🚫",
-        "caption": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है? \n\nमशहूर मसाला ब्रांड Everest और लालजी गोधू की हींग लैब टेस्ट में फेल हो गई है। रिपोर्ट में इसमें भारी मिलावट की पुष्टि हुई है। गरम और चिकन मसाले में भी गड़बड़ी मिली है। \n\nसावधान रहें और अपने किचन में रखे इन पैकेट्स को तुरंत चेक करें। क्या आपने हाल ही में ये मसाले खरीदे थे?\n\n#EverestMasala #FoodSafety #FoodAdulteration #HealthAlert #KitchenTips"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है? ⚠️\n\nEverest और लालजी गोधू की हींग लैब टेस्ट में फेल हो गई है। सिर्फ हींग ही नहीं, बल्कि गरम और चिकन मसाले में भी गड़बड़ी पाई गई है। \n\nअपने परिवार की सेहत के लिए ये वीडियो अभी शेयर करें और चेक करें क्या आपके घर में भी ये मसाले हैं।\n\n#EverestMasala #FoodSafety #FoodAdulteration #HealthAlert #KitchenTips"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या आप जो हींग अपने खाने में इस्तेमाल कर रहे हैं, वो असली है? \n\nमशहूर मसाला कंपनी Everest एक बार फिर विवादों में है। सरकारी लैब रिपोर्ट में ब्रांड की हींग में मिलावट पाई गई है। इसके अलावा, चिकन और गरम मसाले के सैंपल भी फेल हो गए हैं। \n\nमिलावट का ये खेल आपकी सेहत पर भारी पड़ सकता है। इस वीडियो को देखें और अपनी रसोई में रखे इन मसालों के पैकेट को एक बार जरूर चेक कर लें। क्या आपके घर में भी यही ब्रांड इस्तेमाल होता है?\n\n#EverestMasala #FoodSafety #FoodAdulteration #HealthAlert #KitchenTips"
-      },
-      "hashtags": [
-        "EverestMasala",
-        "FoodSafety",
-        "FoodAdulteration",
-        "HealthAlert",
-        "KitchenTips"
-      ]
-    },
-    "audio_path": "audio/everest_hing_ban.wav",
-    "audio_duration_sec": 29.09,
-    "video_path": "videos/everest_hing_ban.mp4",
-    "video_duration_sec": 37.12
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "china_roller_coaster_scare",
+    "topic_label": "ev_showroom_fire_sekar",
     "virality_score": 8,
-    "reason": "Visually arresting and high-adrenaline global content showing a terrifying amusement park ride.",
+    "reason": "Visual spectacle of multiple expensive EVs burning; taps into safety debates regarding electric vehicles.",
     "region": "india",
-    "headline": "कभी आगे, कभी पीछे घूमी सीट...चीन की राइड देख कांप गई रूह!",
-    "source_summary": "चीन के एक पार्क में रोलर कोस्टर पर बैठे दो युवकों का वीडियो वायरल है. राइड की खास बात यह है कि इसकी सीटें ट्रैक से अलग होकर हवा में अलग-अलग दिशा में घूमती हैं, जिससे दोनों युवक पूरी राइड के दौरान चीखते रहे.",
-    "source_url": "https://www.aajtak.in/trending/story/china-dinoconda-roller-coaster-ride-viral-video-men-scream-tstf-dskc-2632383-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T18:40:07+05:30",
-    "hook": "चीन के इस रोलर कोस्टर को देखकर आपकी रूह कांप जाएगी!",
-    "script_hi": "चीन के एक पार्क में वायरल हो रहे इस वीडियो ने लोगों के होश उड़ा दिए हैं। यहाँ मौजूद रोलर कोस्टर की सीटें ट्रैक से अलग होकर हवा में अजीब तरह से घूमती हैं। जैसे ही राइड शुरू होती है, ये सीटें कभी आगे तो कभी पीछे मुड़ती हैं। हवा में झूलती इन सीटों को देखकर किसी का भी दिल दहल जाए। राइड में बैठे दो युवक पूरी यात्रा के दौरान डर के मारे चीखते नजर आए। क्या आप ऐसी खतरनाक राइड में बैठने की हिम्मत जुटा पाएंगे?",
-    "tts_text_hi": "चीन के एक पार्क में वायरल हो रहे इस वीडियो ने लोगों के होश उड़ा दिए हैं। यहाँ मौजूद रोलर कोस्टर की सीटें ट्रैक से अलग होकर हवा में अजीब तरह से घूमती हैं। जैसे ही राइड शुरू होती है, ये सीटें कभी आगे तो कभी पीछे मुड़ती हैं। हवा में झूलती इन सीटों को देखकर किसी का भी दिल दहल जाए। राइड में बैठे दो युवक पूरी यात्रा के दौरान डर के मारे चीखते नजर आए। क्या आप ऐसी खतरनाक राइड में बैठने की हिम्मत जुटा पाएंगे?",
-    "title": "चीन में डरावना रोलर कोस्टर वीडियो",
-    "caption": "चीन के एक पार्क में रोलर कोस्टर का वायरल वीडियो, जिसे देख हर कोई दंग रह गया।",
+    "headline": "राजस्थान: 2 इलेक्ट्रिक व्हीकल शोरूम में लगी भीषण आग, धूं-धूं कर जल गईं करोड़ों की गाड़ियां",
+    "source_summary": "सीकर में सर्किट हाउस के सामने दो बड़े इलेक्ट्रिक व्हीकल (EV) शोरूम में भीषण आग लग गई. दोनों शोरूम में खड़ी दर्जनों इलेक्ट्रिक स्कूटी, बाइक, ऑटो और ई-रिक्शा जलकर पूरी तरह खाक हो गए.",
+    "source_url": "https://ndtv.in/rajasthan-news/sikar-electric-vehicle-showroom-fire-bs-automobile-bachchan-motors-11974194#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 13:26:49 +0530",
+    "hook": "राजस्थान के सीकर में इलेक्ट्रिक वाहनों के शोरूम में लगी भीषण आग!",
+    "script_hi": "राजस्थान के सीकर में एक दर्दनाक हादसा हुआ। सर्किट हाउस के पास दो बड़े इलेक्ट्रिक व्हीकल शोरूम में अचानक भीषण आग लग गई। आग इतनी भयावह थी कि शोरूम में रखी दर्जनों ई-स्कूटी, बाइक और ई-रिक्शा जलकर खाक हो गए। करोड़ों का नुकसान हुआ है। राहत और बचाव कार्य जारी है।",
+    "tts_text_hi": "राजस्थान के सीकर में एक दर्दनाक हादसा हुआ। सर्किट हाउस के पास दो बड़े इलेक्ट्रिक व्हीकल शोरूम में अचानक भीषण आग लग गई। आग इतनी भयावह थी कि शोरूम में रखी दर्जनों ई-स्कूटी, बाइक और ई-रिक्शा जलकर खाक हो गए। करोड़ों का नुकसान हुआ है। राहत और बचाव कार्य जारी है।",
+    "title": "सीकर में ईवी शोरूम में भीषण आग",
+    "caption": "सीकर में ईवी शोरूम में भीषण आग, करोड़ों की गाड़ियां जलकर खाक।",
     "hashtags": [
-      "China",
-      "RollerCoaster",
-      "ViralVideo",
-      "Adventure",
-      "ThemePark",
-      "Trending",
-      "अजीबोगरीब"
+      "Rajasthan",
+      "Sikar",
+      "ElectricVehicle",
+      "FireAccident",
+      "NewsHindi",
+      "Shorts",
+      "India"
     ],
     "visual_queries": [
-      "amusement park roller coaster",
-      "scary roller coaster track",
-      "people screaming on ride",
-      "spinning roller coaster seat",
-      "extreme thrill ride"
+      "burning building India",
+      "electric scooter showroom India",
+      "firefighters emergency India",
+      "charred vehicle remains India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story is entirely based on a specific viral video which cannot be represented by generic stock footage; requires manual insertion of the original video clip.",
+    "flag_reason": "The story is about a specific local incident involving a fire at a named location; generic B-roll will not show the actual scene, requiring manual footage insertion.",
     "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30109956/pexels-photo-30109956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "amusement park roller coaster",
-        "credit": "Tony Rojas",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3888315/pexels-photo-3888315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "scary roller coaster track",
-        "credit": "Dana Sredojevic",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18403869/pexels-photo-18403869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "spinning roller coaster seat",
-        "credit": "Elina Volkova",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27444824/pexels-photo-27444824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "extreme thrill ride",
-        "credit": "Çağrı KANMAZ",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "toxic_movie_box_office",
-    "virality_score": 7,
-    "reason": "Pop culture update on a massive box office record breaking event; strong visual potential.",
-    "region": "india",
-    "headline": "टॉक्सिक ने हिंदी में 100 करोड़ कमाए, राजामौली का तोड़ा रिकॉर्ड",
-    "source_summary": "यश की फिल्म टॉक्सिक ने खराब वर्ड ऑफ माउथ के बावजूद, चार दिनों में बॉक्स ऑफिस पर धांसू कमाई कर डाली है. हिंदी में कमाई का आंकड़ा 100 करोड़ पार जा चुका है, और यश ने उसी के साथ एस.एस. राजामौली को भी पीछे छोड़ दिया है.",
-    "source_url": "https://www.aajtak.in/entertainment/south-movies/story/yash-toxic-collects-100-crore-net-hindi-box-office-collection-third-biggest-south-movie-tmovj-dskc-2632388-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T18:56:02+05:30",
-    "hook": "यश की फिल्म टॉक्सिक ने रचा इतिहास, तोड़ दिया राजामौली का बड़ा रिकॉर्ड!",
-    "script_hi": "यश की फिल्म टॉक्सिक बॉक्स ऑफिस पर धमाका कर रही है। खराब रिव्यूज के बावजूद फिल्म ने हिंदी में सौ करोड़ का आंकड़ा पार कर लिया है। इसी के साथ यश ने एस.एस. राजामौली का रिकॉर्ड तोड़कर सबको हैरान कर दिया है। मात्र चार दिनों में फिल्म ने यह बड़ी कामयाबी हासिल की है।",
-    "tts_text_hi": "यश की फिल्म टॉक्सिक बॉक्स ऑफिस पर धमाका कर रही है। खराब रिव्यूज के बावजूद फिल्म ने हिंदी में सौ करोड़ का आंकड़ा पार कर लिया है। इसी के साथ यश ने एस.एस. राजामौली का रिकॉर्ड तोड़कर सबको हैरान कर दिया है। मात्र चार दिनों में फिल्म ने यह बड़ी कामयाबी हासिल की है।",
-    "title": "टॉक्सिक की बंपर कमाई",
-    "caption": "यश की फिल्म टॉक्सिक ने हिंदी बॉक्स ऑफिस पर सौ करोड़ का आंकड़ा पार करते हुए राजामौली का रिकॉर्ड तोड़ दिया है।",
-    "hashtags": [
-      "Yash",
-      "ToxicMovie",
-      "BoxOffice",
-      "HindiCinema",
-      "SSRajamouli",
-      "RecordBreak",
-      "EntertainmentNews"
-    ],
-    "visual_queries": [
-      "Indian cinema film set",
-      "crowded Indian cinema theater",
-      "film projector light",
-      "film celebration crowd India"
-    ],
-    "named_person": "Yash",
-    "named_person_hi": "यश",
-    "secondary_persons": [
-      "S. S. Rajamouli"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "यश",
-        "source": "fallback",
-        "query": "Yash",
-        "duration_sec": 4.0
-      },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7233647/7233647-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/7154231/7154231-hd_720_1298_50fps.mp4",
         "source": "pexels",
-        "query": "crowded Indian cinema theater",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 18,
+        "query": "electric vehicle dealership",
+        "credit": "Antoni Shkraba",
+        "source_duration_sec": 13,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31361935/pexels-photo-31361935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32632490/pexels-photo-32632490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cinema film set",
-        "credit": "Mehul",
+        "query": "burning building India",
+        "credit": "Mauricio  Krupka Buendia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17397813/pexels-photo-17397813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "film projector light",
-        "credit": "UMUT   🆁🅰🆆",
+        "query": "fire accident emergency",
+        "credit": "Aleksandar Rasic",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cinema crowd",
-        "credit": "Keith Lobo",
+        "query": "firefighters emergency India",
+        "credit": "vikesh zen",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Toxic ने तोड़ा राजामौली का रिकॉर्ड, 100 करोड़ पार! 🎬🔥",
-        "caption": "यश की फिल्म टॉक्सिक ने रचा इतिहास, तोड़ दिया राजामौली का बड़ा रिकॉर्ड!\n\nहिंदी वर्जन में फिल्म ने महज कुछ ही दिनों में 100 करोड़ का आंकड़ा छू लिया है। साउथ स्टार यश का जलवा बॉक्स ऑफिस पर इस कदर कायम है कि बड़े-बड़े दिग्गजों की फिल्में भी पीछे छूट गई हैं।\n\nक्या आपने टॉक्सिक देख ली? अपनी राय कमेंट में बताएं।\n\n#ToxicMovie #YashBoss #BoxOfficeIndia #SSRajamouli #SouthCinema"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "यश की फिल्म टॉक्सिक ने रचा इतिहास, तोड़ दिया राजामौली का बड़ा रिकॉर्ड! 🔥\n\nहिंदी वर्जन में फिल्म ने 100 करोड़ की कमाई का आंकड़ा पार कर लिया है। यश का स्टारडम इस वक्त बॉक्स ऑफिस पर पूरी तरह हावी है। क्या आपने ये फिल्म देखी? कमेंट में बताएं! 👇🎬\n\n#ToxicMovie #YashBoss #BoxOfficeIndia #SSRajamouli #SouthCinema"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "यश की फिल्म टॉक्सिक ने रचा इतिहास, तोड़ दिया राजामौली का बड़ा रिकॉर्ड! 🔥\n\nहिंदी वर्जन में फिल्म की बंपर कमाई का सिलसिला जारी है और इसने 100 करोड़ रुपये का जादुई आंकड़ा पार कर लिया है। यश का जादू दर्शकों के सिर चढ़कर बोल रहा है, जिससे बड़े-बड़े डायरेक्टर और उनकी फिल्मों के पुराने रिकॉर्ड भी खतरे में पड़ गए हैं। \n\nक्या टॉक्सिक इस साल की सबसे बड़ी फिल्म साबित होगी? अपनी राय नीचे कमेंट्स में जरूर लिखें।\n\n#ToxicMovie #YashBoss #BoxOfficeIndia #SSRajamouli #SouthCinema"
-      },
-      "hashtags": [
-        "ToxicMovie",
-        "YashBoss",
-        "BoxOfficeIndia",
-        "SSRajamouli",
-        "SouthCinema"
-      ]
-    },
-    "audio_path": "audio/toxic_movie_box_office.wav",
-    "audio_duration_sec": 19.14,
-    "video_path": "videos/toxic_movie_box_office.mp4",
-    "video_duration_sec": 27.19
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "pending_review"
   }
 ]

@@ -1,10 +1,7 @@
-ready_labels: ['everest_hing_ban', 'toxic_movie_box_office']
+ready_labels: ['neeraj_chopra_injury_asian_games']
 
-greater_noida_girl_murder: SKIPPED (not in ready set)
-punjabi_influencer_murder: SKIPPED (not in ready set)
-cricket_academy_roller_accident: SKIPPED (not in ready set)
-snake_hospital_ot: SKIPPED (not in ready set)
-the_great_khali_accident: SKIPPED (not in ready set)
-everest_hing_ban: SUCCESS -> video_path=videos/everest_hing_ban.mp4 dur=37.12322
-china_roller_coaster_scare: SKIPPED (not in ready set)
-toxic_movie_box_office: SUCCESS -> video_path=videos/toxic_movie_box_office.mp4 dur=27.189887
+greater_noida_girl_murder_encounter: SKIPPED (not in ready set)
+chitrakoot_flood_record: SKIPPED (not in ready set)
+neeraj_chopra_injury_asian_games: SUCCESS -> video_path=videos/neeraj_chopra_injury_asian_games.mp4 dur=19.749229
+nepal_flood_intl_aid: SKIPPED (not in ready set)
+ev_showroom_fire_sekar: SKIPPED (not in ready set)
