@@ -1,256 +1,34 @@
 [
   {
-    "topic_label": "laser_mosquito_killer_tech",
-    "virality_score": 9,
-    "reason": "Highly innovative, satisfying visual potential, and solves a universal problem for Indian households.",
+    "topic_label": "neeraj_chopra_asian_games_injury",
+    "virality_score": 10,
+    "reason": "Top-tier Indian athlete (Neeraj Chopra) out of a major tournament (Asian Games) is a massive, high-interest breaking news story.",
     "region": "india",
-    "headline": "इंसानों के सबसे बड़े किलर मच्छर, अब आई ऐसी मशीन जो बिन आवाज, बिन केमिकल हर सेकंड में मारेगी 30",
-    "source_summary": "दुनियाभर में इंसानों के सबसे ज्यादा मौतों के लिए जिम्मेदार मच्छरों से निपटने के लिए अब मॉस्किटो कॉइल और स्प्रे की जरूरत नहीं पड़ेगी. दरअसल, फोटोन मैट्रिक्स लैप एक अनोखी लेजर गन लेकर आया है, जो उड़ते हुए मच्छरों को पलक झपकते ही भस्म कर देती है. जानिए इसकी कीमत, फीचर्स और सुरक्षा से जुड़े नियम.",
-    "source_url": "https://ndtv.in/utility-news/photon-matrix-smart-mosquito-killer-device-photon-matrix-mosquito-laser-price-11973807#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 29 Aug 2026 11:00:27 +0530",
-    "hook": "मच्छरों का अब होगा खात्मा, वो भी बिना किसी केमिकल के!",
-    "script_hi": "मच्छरों के आतंक से परेशान हैं? अब कॉइल और स्प्रे की छुट्टी होने वाली है। फोटोन मैट्रिक्स लैप लेकर आया है एक अनोखी लेजर गन। यह मशीन उड़ते हुए मच्छरों को पलक झपकते ही भस्म कर देती है। बिना किसी आवाज और बिना किसी केमिकल के, यह हर सेकंड में तीस मच्छरों का काम तमाम करने में सक्षम है। क्या यह तकनीक वाकई सुरक्षित है और क्या है इसकी कीमत? जानिए पूरी खबर।",
-    "tts_text_hi": "मच्छरों के आतंक से परेशान हैं? अब कॉइल और स्प्रे की छुट्टी होने वाली है। फोटोन मैट्रिक्स लैप लेकर आया है एक अनोखी लेजर गन। यह मशीन उड़ते हुए मच्छरों को पलक झपकते ही भस्म कर देती है। बिना किसी आवाज और बिना किसी केमिकल के, यह हर सेकंड में तीस मच्छरों का काम तमाम करने में सक्षम है। क्या यह तकनीक वाकई सुरक्षित है और क्या है इसकी कीमत? जानिए पूरी खबर।",
-    "title": "मच्छरों का काल बनी लेजर गन",
-    "caption": "मच्छरों से मिलेगा छुटकारा, अब बिना केमिकल की लेजर गन से होगा मच्छरों का खात्मा।",
-    "hashtags": [
-      "MosquitoKiller",
-      "TechnologyNews",
-      "Innovation",
-      "LaserGun",
-      "Science",
-      "HealthTips",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "flying mosquito macro shot",
-      "futuristic laser technology device",
-      "laboratory research setting",
-      "modern house interior"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story discusses a specific new product (Photon Matrix Lap laser gun) for which generic stock imagery might be misleading; it requires the actual product visuals to be added manually.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8108094/pexels-photo-8108094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic laser technology device",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9243559/pexels-photo-9243559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "laboratory research setting",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20771872/pexels-photo-20771872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern house interior",
-        "credit": "Алан Албегов",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ssb_jawan_43km_run_rakhi",
-    "virality_score": 9,
-    "reason": "Emotionally resonant story of a soldier running 43km to reach home for Rakshabandhan is perfect for viral engagement.",
-    "region": "india",
-    "headline": "न गाड़ी, न बाइक… बहनों से राखी बंधवाने 43 KM दौड़ा SSB का जवान, रात के अंधेरे में ऐसे पहुंचा घर",
-    "source_summary": "आजमगढ़ जिले में सशस्त्र सीमा बल (SSB) में दिल्ली में कोच के पद पर तैनात 40 साल के पहलवान दीपक सिंह ने रक्षाबंधन पर अपनी दो बहनों को ऐसी सरप्राइज दी, जिसे वे जिंदगी भर नहीं भुला पाएंगी। दीपक ने 43 किलोमीटर बिना रुके दौड़ लगाई।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/azamgarh/ssb-jawan-ran-43-kilometers-to-get-a-rakhi-tied-by-his-sisters/articleshow/133607096.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sat, 29 Aug 2026 13:13:00 +0530",
-    "hook": "राखी के लिए तैंतालीस किलोमीटर की दौड़, एसएसबी जवान का यह जज्बा देख दंग रह जाएंगे आप!",
-    "script_hi": "राखी के लिए तैंतालीस किलोमीटर की दौड़। एसएसबी जवान का यह जज्बा देख दंग रह जाएंगे आप। आजमगढ़ में तैनात पहलवान दीपक सिंह ने अपनी बहनों को दिया ऐसा सरप्राइज जो वे कभी नहीं भूलेंगी। दिल्ली में कोच के पद पर तैनात दीपक ने बिना रुके तैंतालीस किलोमीटर की लंबी दूरी तय की। रात के अंधेरे में घर पहुंचे भाई को देख बहनों की आंखें भर आईं। भाई-बहन के अटूट प्यार की ये मिसाल सोशल मीडिया पर खूब वायरल हो रही है।",
-    "tts_text_hi": "राखी के लिए तैंतालीस किलोमीटर की दौड़। एसएसबी जवान का यह जज्बा देख दंग रह जाएंगे आप। आजमगढ़ में तैनात पहलवान दीपक सिंह ने अपनी बहनों को दिया ऐसा सरप्राइज जो वे कभी नहीं भूलेंगी। दिल्ली में कोच के पद पर तैनात दीपक ने बिना रुके तैंतालीस किलोमीटर की लंबी दूरी तय की। रात के अंधेरे में घर पहुंचे भाई को देख बहनों की आंखें भर आईं। भाई-बहन के अटूट प्यार की ये मिसाल सोशल मीडिया पर खूब वायरल हो रही है।",
-    "title": "रक्षाबंधन पर एसएसबी जवान की अनोखी दौड़",
-    "caption": "बहनों से राखी बंधवाने के लिए तैंतालीस किलोमीटर दौड़कर घर पहुंचे एसएसबी जवान दीपक सिंह।",
-    "hashtags": [
-      "RakshaBandhan",
-      "SSB",
-      "Azamgarh",
-      "BrotherSisterLove",
-      "ViralVideo",
-      "Inspiration",
-      "IndianArmy",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "Indian soldier running on road",
-      "Indian night highway landscape",
-      "Indian brother and sister celebrating",
-      "Indian family emotional reunion"
-    ],
-    "named_person": "Deepak Singh",
-    "named_person_hi": "दीपक सिंह",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral-style event involving an individual's personal journey; while generic B-roll is provided, the actual footage of the individual or the specific event would be better for the user experience.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "दीपक सिंह",
-        "source": "fallback",
-        "query": "Deepak Singh",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29138762/pexels-photo-29138762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian long distance runner",
-        "credit": "pedro furtado",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17742241/pexels-photo-17742241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian night highway landscape",
-        "credit": "Nigel Tensing",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38482703/pexels-photo-38482703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian brother and sister celebrating",
-        "credit": "Jomon Kollannoor",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7686258/pexels-photo-7686258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian family emotional reunion",
-        "credit": "RDNE Stock project",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ather_konarc_ev_launch",
-    "virality_score": 8,
-    "reason": "New budget EV scooter launch with 200km range is highly relevant for cost-conscious Indian audience.",
-    "region": "india",
-    "headline": "₹99,999 शुरुआती कीमत और 200 KM रेंज के साथ लॉन्च हुआ Ather Konarc इलेक्ट्रिक स्कूटर, मेटल बॉडी के साथ मिलेंगी ये खूबियां",
-    "source_summary": "<b>Ather Konarc Electric Scooter: </b>एथर एनर्जी ने भारत में अपना नया इलेक्ट्रिक स्कूटर एथर कोनार्क लॉन्च कर दिया है। इसकी शुरुआती कीमत ₹99,999 रखी गई है और यह 200 किलोमीटर तक की रेंज के साथ आता है। इस इलेक्ट्रिक स्कूटर में मेटल बॉडी दी गई है, जिससे यह काफी मजबूत हो जाता है। रोजाना के इस्तेमाल के लिए यह एक काफी अच्छा इलेक्ट्रिक स्कूटर है।",
-    "source_url": "https://navbharattimes.indiatimes.com/auto/ev/ather-konarc-electric-scooter-launched-at-rs-99999-with-upto-200-km-range/articleshow/133606977.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sat, 29 Aug 2026 13:05:00 +0530",
-    "hook": "क्या आप नया इलेक्ट्रिक स्कूटर खरीदने की सोच रहे हैं?",
-    "script_hi": "एथर एनर्जी ने अपना नया इलेक्ट्रिक स्कूटर एथर कोनार्क लॉन्च कर दिया है। इसकी शुरुआती कीमत निन्यानवे हजार नौ सौ निन्यानवे रुपये है। यह स्कूटर दो सौ किलोमीटर तक की धाकड़ रेंज के साथ आता है। इसकी सबसे बड़ी खासियत इसकी मजबूत मेटल बॉडी है, जो इसे रोजमर्रा के इस्तेमाल के लिए बेस्ट बनाती है।",
-    "tts_text_hi": "एथर एनर्जी ने अपना नया इलेक्ट्रिक स्कूटर एथर कोनार्क लॉन्च कर दिया है। इसकी शुरुआती कीमत निन्यानवे हजार नौ सौ निन्यानवे रुपये है। यह स्कूटर दो सौ किलोमीटर तक की धाकड़ रेंज के साथ आता है। इसकी सबसे बड़ी खासियत इसकी मजबूत मेटल बॉडी है, जो इसे रोजमर्रा के इस्तेमाल के लिए बेस्ट बनाती है।",
-    "title": "Ather Konarc इलेक्ट्रिक स्कूटर लॉन्च",
-    "caption": "एथर एनर्जी का नया धाकड़ इलेक्ट्रिक स्कूटर कोनार्क लॉन्च, जानिए कीमत और रेंज",
-    "hashtags": [
-      "AtherEnergy",
-      "AtherKonarc",
-      "ElectricScooter",
-      "EVIndia",
-      "NewLaunch",
-      "ElectricVehicle"
-    ],
-    "visual_queries": [
-      "modern electric scooter India",
-      "Indian city street traffic",
-      "electric vehicle dashboard display",
-      "metal frame manufacturing industrial"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story highlights a newly launched specific product model 'Ather Konarc'; generic stock footage of electric scooters will not represent the actual vehicle design correctly and needs manual replacement with official product imagery.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12199796/pexels-photo-12199796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern electric scooter India",
-        "credit": "Kazam  Charging Station",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18887175/pexels-photo-18887175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street traffic",
-        "credit": "Mustang Dinesh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18977349/pexels-photo-18977349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "electric vehicle dashboard display",
-        "credit": "Vladimir Srajber",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35319386/pexels-photo-35319386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "metal frame manufacturing industrial",
-        "credit": "Tobias Schwenk",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "poco_x8_power_10000mah_battery",
-    "virality_score": 8,
-    "reason": "A 10,000mAh battery in a smartphone is a massive spec USP that generates high curiosity among tech-savvy viewers.",
-    "region": "india",
-    "headline": "सिंगल चार्ज में 3 दिन चलेगा फोन, भारत में लॉन्च डेट हुई कंफर्म",
-    "source_summary": "POCO X8 Power 5G भारत में 4 सितंबर को लॉन्च होने जा रहा है, जिसमें 10,000mAh की बैटरी मिलेगी. इसको लेकर खुद कंपनी ने दावा किया है कि सिंगल चार्जिंग में साढ़े तीन दिन का बैटरी बैकअप मिलेगा. यह बैटरी बैकअप कई लोगों के लिए यूजफुल साबित होगा.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/xiaomi-poco-x8-power-5g-10000mah-battery-phone-3-day-working-single-charge-ttecr-dskc-2632050-2026-08-29?utm_source=rssfeed",
+    "headline": "&#039;गोल्डन बॉय&#039; का टूटा सपना! एशियन गेम्स में नहीं आएंगे नजर",
+    "source_summary": "भारत के स्टार जैवलिन थ्रोअर एथलीट नीरज चोपड़ा को लेकर एक बड़ी खबर सामने आ रही है. वह एशियन गेम्स 2026 से चोट के कारण बाहर हो गए हैं. उनके बाहर होने से भारत के पदकों की उम्मीदों को भी तगड़ा झटका लगा है.",
+    "source_url": "https://www.aajtak.in/sports/asian-games/story/javelin-throw-at-asian-games-2026-neeraj-chopra-out-for-rest-of-the-season-aksp-dskc-2632250-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-29T08:07:55+05:30",
-    "hook": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन!",
-    "script_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको अपना नया एक्स आठ पावर फाइव जी भारत में चार सितंबर को लॉन्च करने जा रहा है। कंपनी का दावा है कि इसकी दस हजार एमएएच की बड़ी बैटरी एक बार चार्ज करने पर साढ़े तीन दिन तक चलेगी। यह फोन उन लोगों के लिए बेहतरीन साबित होगा जो अक्सर सफर में रहते हैं।",
-    "tts_text_hi": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! पोको अपना नया एक्स आठ पावर फाइव जी भारत में चार सितंबर को लॉन्च करने जा रहा है। कंपनी का दावा है कि इसकी दस हजार एमएएच की बड़ी बैटरी एक बार चार्ज करने पर साढ़े तीन दिन तक चलेगी। यह फोन उन लोगों के लिए बेहतरीन साबित होगा जो अक्सर सफर में रहते हैं।",
-    "title": "POCO X8 Power 5G: तीन दिन चलेगी बैटरी",
-    "caption": "पोको का नया स्मार्टफोन जो चलेगा साढ़े तीन दिन! #POCO #POCOX8Power #SmartphoneLaunch #TechNewsIndia #NewPhone #GadgetUpdate",
+    "published": "2026-08-29T14:35:38+05:30",
+    "hook": "गोल्डन बॉय नीरज चोपड़ा का एशियन गेम्स में खेलने का सपना टूटा!",
+    "script_hi": "भारत के गोल्डन बॉय नीरज चोपड़ा एशियन गेम्स दो हजार छब्बीस से बाहर हो गए हैं। चोट के कारण वे इस बड़े टूर्नामेंट में हिस्सा नहीं ले पाएंगे। यह खबर भारतीय खेलों और उनके फैंस के लिए बहुत बड़ा झटका है।",
+    "tts_text_hi": "भारत के गोल्डन बॉय नीरज चोपड़ा एशियन गेम्स दो हजार छब्बीस से बाहर हो गए हैं। चोट के कारण वे इस बड़े टूर्नामेंट में हिस्सा नहीं ले पाएंगे। यह खबर भारतीय खेलों और उनके फैंस के लिए बहुत बड़ा झटका है।",
+    "title": "एशियन गेम्स से बाहर हुए नीरज चोपड़ा",
+    "caption": "नीरज चोपड़ा चोट के कारण एशियन गेम्स 2026 से बाहर, फैंस के लिए बुरी खबर।",
     "hashtags": [
-      "#POCO",
-      "#POCOX8Power",
-      "#SmartphoneLaunch",
-      "#TechNewsIndia",
-      "#NewPhone",
-      "#GadgetUpdate"
+      "NeerajChopra",
+      "AsianGames2026",
+      "JavelinThrow",
+      "TeamIndia",
+      "SportsNews",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "modern smartphone screen India",
-      "POCO smartphone logo branding",
-      "charging cable battery icon",
-      "traveler using smartphone India"
+      "Indian athlete throwing javelin",
+      "injured athlete training stadium",
+      "sad Indian sports fan"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Neeraj Chopra",
+    "named_person_hi": "नीरज चोपड़ा",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -258,34 +36,34 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33835031/pexels-photo-33835031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern smartphone screen India",
-        "credit": "Sharath G.",
+        "url": "downloaded_assets/person_1c36e799c8.jpg",
+        "source": "wikimedia",
+        "query": "Neeraj Chopra",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16781212/pexels-photo-16781212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "POCO smartphone logo branding",
-        "credit": "khezez  | خزاز",
+        "url": "downloaded_assets/commons_7406ead8a3.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian athlete throwing javelin",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5208772/pexels-photo-5208772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9517940/pexels-photo-9517940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "charging cable battery icon",
-        "credit": "https://kaboompics.com/",
+        "query": "injured athlete training stadium",
+        "credit": "Anastasia  Shuraeva",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19244393/pexels-photo-19244393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10516108/pexels-photo-10516108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "traveler using smartphone India",
-        "credit": "Bilal Khan",
+        "query": "track and field stadium",
+        "credit": "Gary Chan",
         "duration_sec": 5
       }
     ],
@@ -294,148 +72,378 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "POCO X8 Power: सिंगल चार्ज में 3 दिन चलेगा फोन! 🔋",
-        "caption": "क्या आपका फोन भी दिन में दो बार चार्ज करना पड़ता है? अब टेंशन खत्म, क्योंकि पोको एक ऐसा स्मार्टफोन ला रहा है जो सिंगल चार्ज में पूरे 3 दिन चलेगा। \n\nकंपनी ने भारत में इसकी लॉन्च डेट भी कंफर्म कर दी है। क्या आप इतने लंबे बैटरी बैकअप के लिए तैयार हैं? पूरी डिटेल के लिए वीडियो देखें।\n\n#POCOX8Power #SmartphoneLaunch #BatteryLife #TechNewsIndia #PocoIndia"
+        "title": "एशियन गेम्स से बाहर हुए नीरज चोपड़ा! 🚨 खेल फैंस के लिए बड़ा झटका",
+        "caption": "गोल्डन बॉय नीरज चोपड़ा का एशियन गेम्स में खेलने का सपना टूटा! \n\nजेवलिन थ्रो के स्टार नीरज चोपड़ा के बाहर होने की खबर ने हर किसी को हैरान कर दिया है। इंजरी और फिटनेस कारणों से उन्होंने यह बड़ा फैसला लिया है। \n\nक्या बिना नीरज के भारत गोल्ड मेडल बचा पाएगा? कमेंट्स में अपनी राय दें।\n\n#NeerajChopra #AsianGames2023 #JavelinThrow #IndianAthletics #SportsNews"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या आपका फोन भी बार-बार डिस्चार्ज हो जाता है? अब टेंशन खत्म, क्योंकि आ रहा है पोको का नया दमदार स्मार्टफोन! \n\nएक बार चार्ज करो और 3 दिन तक भूल जाओ। कंपनी ने भारत में इसके लॉन्च की तारीख साफ कर दी है। अपने उस दोस्त को टैग करें जिसे हमेशा चार्जर की तलाश रहती है! 📱⚡\n\n#POCOX8Power #SmartphoneLaunch #BatteryLife #TechNewsIndia #PocoIndia"
+        "caption": "गोल्डन बॉय नीरज चोपड़ा का एशियन गेम्स में खेलने का सपना टूटा! 🚨\n\nजेवलिन थ्रो के स्टार एथलीट ने फिटनेस कारणों के चलते नाम वापस ले लिया है। इस बड़े टूर्नामेंट से बाहर होना नीरज के फैंस के लिए एक बड़ा झटका है। \n\nक्या बिना नीरज के भारत का गोल्ड मेडल पक्का है? अपनी राय कमेंट में बताएं। 👇\n\n#NeerajChopra #AsianGames2023 #JavelinThrow #IndianAthletics #SportsNews"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या आपका फोन भी दिन में दो बार डिस्चार्ज हो जाता है? बार-बार चार्जर ढूंढने की मजबूरी अब खत्म होने वाली है। \n\nपोको एक ऐसा स्मार्टफोन लॉन्च कर रहा है जो सिंगल चार्ज में पूरे 3 दिन तक चल सकता है। भारत में इसकी लॉन्च डेट भी सामने आ चुकी है। क्या आप भी इस फोन का इंतज़ार कर रहे हैं? कमेंट्स में बताएं। 🔋🚀\n\n#POCOX8Power #SmartphoneLaunch #BatteryLife #TechNewsIndia #PocoIndia"
+        "caption": "गोल्डन बॉय नीरज चोपड़ा का एशियन गेम्स में खेलने का सपना टूटा! \n\nजेवलिन थ्रो में भारत की सबसे बड़ी उम्मीद नीरज चोपड़ा इस बार एशियन गेम्स का हिस्सा नहीं होंगे। चोट और फिटनेस की चिंताओं के चलते उन्होंने इस बार बाहर रहने का कड़ा फैसला लिया है। \n\nफैंस के लिए यह किसी बड़े झटके से कम नहीं है, क्योंकि हर कोई उन्हें ट्रैक पर देखने का इंतजार कर रहा था। आप इस खबर पर क्या सोचते हैं? नीचे कमेंट बॉक्स में अपनी बात रखें।\n\n#NeerajChopra #AsianGames2023 #JavelinThrow #IndianAthletics #SportsNews"
       },
       "hashtags": [
-        "POCOX8Power",
-        "SmartphoneLaunch",
-        "BatteryLife",
-        "TechNewsIndia",
-        "PocoIndia"
+        "NeerajChopra",
+        "AsianGames2023",
+        "JavelinThrow",
+        "IndianAthletics",
+        "SportsNews"
       ]
     },
-    "audio_path": "audio/poco_x8_power_10000mah_battery.wav",
-    "audio_duration_sec": 28.34
+    "audio_path": "audio/neeraj_chopra_asian_games_injury.wav",
+    "audio_duration_sec": 15.36
   },
   {
-    "topic_label": "girl_saves_money_buys_land",
-    "virality_score": 8,
-    "reason": "Inspirational personal finance stories of extreme savings have a strong track record of high viewership on Shorts.",
+    "topic_label": "nepal_flood_dead_bodies_india",
+    "virality_score": 9,
+    "reason": "Highly visual and emotional impact of dead bodies arriving in Indian rivers from the Nepal floods.",
     "region": "india",
-    "headline": "न कार, न फोन...9 साल की बचत से युवती ने खरीदी जमीन, लोग दंग",
-    "source_summary": "उत्तर प्रदेश की रहने वाली एक युवती ने बताया कि उसने सालों तक पैसे बचाए और बाद में उस बचत से जमीन का एक प्लॉट खरीदा. अब उस लड़की की सेविंग और समझदारी की तारीफ हो रही है.",
-    "source_url": "https://www.aajtak.in/trending/story/up-woman-saves-money-for-9-years-in-piggy-bank-buys-land-tstf-dskc-2632228-2026-08-29?utm_source=rssfeed",
+    "headline": "नेपाल से बहकर भारत की नदियों में आ रहीं लाशें... झकझोरती हैं ये तस्वीरें",
+    "source_summary": "नेपाल की भीषण बाढ़ के बाद नारायणी नदी में शव बहकर भारत पहुंच रहे हैं. महराजगंज में चार शव मिले हैं, जबकि नेपाल के नवलपरासी पूर्व में अब तक 158 शव बरामद किए जा चुके हैं.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/nepal-flood-bodies-found-narayani-river-up-maharajganj-india-ntc-dhrj-rpti-2632273-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-29T13:48:17+05:30",
-    "hook": "नौ साल की बचत और एक बड़ा सपना पूरा!",
-    "script_hi": "नौ साल की बचत, न कोई कार और न ही कोई नया फोन। उत्तर प्रदेश की एक युवती ने अपनी मेहनत की कमाई से जमीन का एक प्लॉट खरीदा है। सोशल मीडिया पर उनकी इस समझदारी की जमकर तारीफ हो रही है।",
-    "tts_text_hi": "नौ साल की बचत, न कोई कार और न ही कोई नया फोन। उत्तर प्रदेश की एक युवती ने अपनी मेहनत की कमाई से जमीन का एक प्लॉट खरीदा है। सोशल मीडिया पर उनकी इस समझदारी की जमकर तारीफ हो रही है।",
-    "title": "युवती की नौ साल की बचत",
-    "caption": "नौ साल की बचत से युवती ने खरीदा जमीन का प्लॉट, लोग कर रहे तारीफ।",
+    "published": "2026-08-29T15:01:52+05:30",
+    "hook": "नेपाल की बाढ़ का खौफनाक मंजर, भारत की नदियों में बहकर आ रहीं लाशें!",
+    "script_hi": "नेपाल में आई भीषण बाढ़ ने तबाही मचा दी है। नारायणी नदी के रास्ते शव अब भारत पहुंच रहे हैं। महराजगंज में चार शव बरामद हुए हैं, जबकि नेपाल के नवलपरासी पूर्व में अब तक एक सौ अट्ठावन शव मिल चुके हैं। ये तस्वीरें दिल दहला देने वाली हैं।",
+    "tts_text_hi": "नेपाल में आई भीषण बाढ़ ने तबाही मचा दी है। नारायणी नदी के रास्ते शव अब भारत पहुंच रहे हैं। महराजगंज में चार शव बरामद हुए हैं, जबकि नेपाल के नवलपरासी पूर्व में अब तक एक सौ अट्ठावन शव मिल चुके हैं। ये तस्वीरें दिल दहला देने वाली हैं।",
+    "title": "नेपाल बाढ़: भारत की नदियों में बहकर आए शव",
+    "caption": "नेपाल की भीषण बाढ़ के बाद नारायणी नदी के जरिए शवों का भारत तक पहुंचना चिंता का विषय बना हुआ है। महराजगंज में प्रशासन अलर्ट पर है।",
     "hashtags": [
-      "Saving",
-      "Inspiration",
-      "UttarPradesh",
-      "Viral",
-      "FinancialPlanning",
-      "SuccessStory",
-      "India"
+      "NepalFlood",
+      "Maharajganj",
+      "NarayaniRiver",
+      "BreakingNews",
+      "IndiaNews",
+      "NaturalDisaster"
     ],
     "visual_queries": [
-      "young woman holding piggy bank India",
-      "empty shopping cart mall India",
-      "land plot field India",
-      "happy woman looking at property document India"
+      "flooded river landscape Nepal",
+      "Narayani river flowing India",
+      "Indian police rescue operation",
+      "devastation after flood scenery"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves the recovery of human bodies, which requires sensitive imagery management; generic stock footage may not accurately or respectfully represent the specific ongoing humanitarian situation in Maharajganj.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/8725791/8725791-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6520230/6520230-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "happy woman looking at property document India",
-        "credit": "Kampus Production",
-        "source_duration_sec": 7,
+        "query": "Indian police rescue operation",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 18,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10540867/pexels-photo-10540867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "empty shopping cart mall India",
-        "credit": "Super  Straho",
-        "duration_sec": 4.0
+        "query": "flooded river landscape Nepal",
+        "credit": "Sabbir Bhuiyan",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37384648/pexels-photo-37384648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7485613/pexels-photo-7485613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "land plot field India",
-        "credit": "Ruyat Supriazi",
-        "duration_sec": 4.0
+        "query": "Narayani river flowing India",
+        "credit": "Sajal  Devnath",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5900188/pexels-photo-5900188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18940341/pexels-photo-18940341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "woman counting cash",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 4.0
+        "query": "devastation after flood scenery",
+        "credit": "akın  akdağ",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "robot_vacuum_cheating_case_reversal",
+    "virality_score": 9,
+    "reason": "A bizarre story about a robot vacuum uncovering a cheating affair leading to an ironic jail sentence for the husband.",
+    "region": "india",
+    "headline": "रोबोट वैक्यूम क्लीनर ने पकड़ा पत्नी का अफेयर, लेकिन पति को मिली सजा",
+    "source_summary": "रोबोट वैक्यूम क्लीनर में लगे कैमरे और ऑडियो सिस्टम से पति को पत्नी की चीटिंग का लगा. फिर उसने कोर्ट में केस किया और मुकदमा भी जीत लिया. उसके बाद बाजी ऐसी पलटी की उल्टा पति को जेल जाने की नौबत आ गई.",
+    "source_url": "https://www.aajtak.in/trending/story/taiwan-husband-jailed-robot-vacuum-records-wife-affair-tstsd-dskc-2632269-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T14:59:55+05:30",
+    "hook": "रोबोट वैक्यूम क्लीनर ने खोला पत्नी के अफेयर का राज़, लेकिन बाजी ऐसी पलटी कि जेल चला गया पति!",
+    "script_hi": "रोबोट वैक्यूम क्लीनर ने पकड़ा पत्नी का अफेयर, लेकिन पति को ही भुगतनी पड़ी बड़ी सज़ा। एक शख्स ने अपने घर में लगे वैक्यूम क्लीनर के कैमरे से पत्नी की सच्चाई जानी। मामला कोर्ट पहुँचा, पति ने केस जीता लेकिन सबूत जुटाने के तरीके पर कोर्ट ने सवाल उठा दिए। निजता के उल्लंघन में पति पर ही कानूनी शिकंजा कस गया और नौबत जेल जाने तक आ गई।",
+    "tts_text_hi": "रोबोट वैक्यूम क्लीनर ने पकड़ा पत्नी का अफेयर, लेकिन पति को ही भुगतनी पड़ी बड़ी सज़ा। एक शख्स ने अपने घर में लगे वैक्यूम क्लीनर के कैमरे से पत्नी की सच्चाई जानी। मामला कोर्ट पहुँचा, पति ने केस जीता लेकिन सबूत जुटाने के तरीके पर कोर्ट ने सवाल उठा दिए। निजता के उल्लंघन में पति पर ही कानूनी शिकंजा कस गया और नौबत जेल जाने तक आ गई।",
+    "title": "रोबोट वैक्यूम क्लीनर का सच और पति की जेल",
+    "caption": "टेक्नोलॉजी का इस्तेमाल या निजता का उल्लंघन? रोबोट वैक्यूम क्लीनर के चक्कर में फंसा पति।",
+    "hashtags": [
+      "TechNews",
+      "ViralNews",
+      "RobotVacuum",
+      "PrivacyMatters",
+      "CyberLaw",
+      "HindiNews",
+      "Shorts"
+    ],
+    "visual_queries": [
+      "robot vacuum cleaner on floor",
+      "modern home interior living room",
+      "judge gavel in courtroom",
+      "legal documents on wooden table",
+      "man looking worried holding head"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on specific details of a viral/anecdotal incident involving privacy laws; generic stock footage may not accurately depict the legal nuance of this specific case.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7924511/7924511-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "man looking worried holding head",
+        "credit": "Nicola Barts",
+        "source_duration_sec": 10,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6289041/pexels-photo-6289041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8566434/pexels-photo-8566434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bank savings concept",
-        "credit": "Monstera Production",
-        "duration_sec": 4.0
+        "query": "robot vacuum cleaner on floor",
+        "credit": "Kindel Media",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8919511/pexels-photo-8919511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20418771/pexels-photo-20418771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "investment financial planning",
-        "credit": "Leeloo The First",
-        "duration_sec": 4.0
+        "query": "modern home interior living room",
+        "credit": "Sandeep Lasar",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17366071/pexels-photo-17366071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077422/pexels-photo-6077422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rural India landscape",
-        "credit": "aboodi vesakaran",
-        "duration_sec": 4.0
+        "query": "judge gavel in courtroom",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9870232/pexels-photo-9870232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "legal documents on wooden table",
+        "credit": "Ron Lach",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "mahindra_baas_ev_launch",
+    "virality_score": 8,
+    "reason": "A major disruption in the Indian EV market with a new financing model that lowers the barrier to ownership for millions.",
+    "region": "india",
+    "headline": "Mahindra ने बदल दिया खेल! अब बस इतने में मिलेगी SUV, बैटरी EMI 6,975 रुपये से शुरू",
+    "source_summary": "Mahindra BaaS Program: महिंद्रा का बड़ा ऐलान किया है. अब 11.45 लाख रुपये की शुरुआती कीमत पर आप इलेक्ट्रिक SUV खरीद सकते हैं. इसके साथ6,975 रुपये की EMI पर बैटरी भी मिल जाएगी.",
+    "source_url": "https://ndtv.in/auto/mahindra-baas-program-electric-origin-suv-price-be6-sporteq-xev9s-emi-details-11974447#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 14:50:27 +0530",
+    "hook": "क्या आप भी इलेक्ट्रिक कार खरीदने का सपना देख रहे हैं? महिंद्रा ने आपके लिए गेम बदल दिया है!",
+    "script_hi": "महिंद्रा ने इलेक्ट्रिक एसयूवी को अब और भी किफायती बना दिया है। नई स्कीम के तहत आप ग्यारह लाख पैंतालीस हजार रुपये की शुरुआती कीमत पर इलेक्ट्रिक एसयूवी घर ला सकते हैं। इतना ही नहीं, बैटरी के लिए आपको मात्र छह हजार नौ सौ पचहत्तर रुपये की ईएमआई देनी होगी।",
+    "tts_text_hi": "महिंद्रा ने इलेक्ट्रिक एसयूवी को अब और भी किफायती बना दिया है। नई स्कीम के तहत आप ग्यारह लाख पैंतालीस हजार रुपये की शुरुआती कीमत पर इलेक्ट्रिक एसयूवी घर ला सकते हैं। इतना ही नहीं, बैटरी के लिए आपको मात्र छह हजार नौ सौ पचहत्तर रुपये की ईएमआई देनी होगी।",
+    "title": "Mahindra का बड़ा धमाका, सस्ती हुई इलेक्ट्रिक SUV",
+    "caption": "महिंद्रा ने पेश किया नया बैटरी एज ए सर्विस प्रोग्राम, अब इलेक्ट्रिक कार लेना हुआ बेहद आसान।",
+    "hashtags": [
+      "Mahindra",
+      "ElectricSUV",
+      "ElectricCarIndia",
+      "AutoNews",
+      "MahindraBaaS",
+      "EVIndia",
+      "CarNewsHindi"
+    ],
+    "visual_queries": [
+      "Mahindra electric SUV India",
+      "modern Indian car showroom",
+      "Indian family buying car",
+      "digital tablet financial chart India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern Indian car showroom",
+        "credit": "Akshay Shende",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33027402/pexels-photo-33027402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern electric suv",
+        "credit": "Hyundai Motor Group",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6476590/pexels-photo-6476590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital tablet financial chart India",
+        "credit": "Mikael Blomkvist",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18247838/pexels-photo-18247838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern Indian city traffic",
+        "credit": "Ritam Pandit",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24376862/pexels-photo-24376862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "electric vehicle charging station",
+        "credit": "Elmir Jafarov",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9345617/pexels-photo-9345617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy family shopping India",
+        "credit": "Anna Pou",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6969809/pexels-photo-6969809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital banking mobile app",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 4.3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "9 साल की बचत से खरीदी जमीन! युवती की कामयाबी ने सबको चौंकाया 🏠",
-        "caption": "नौ साल की बचत और एक बड़ा सपना पूरा! \n\nबिना किसी दिखावे, न कार खरीदी और न ही महंगे फोन का मोह किया। एक युवती ने लगातार 9 सालों तक पाई-पाई जोड़कर अपनी खुद की जमीन खरीद ली। \n\nइस बचत की कहानी ने सोशल मीडिया पर लोगों को दंग कर दिया है। क्या आप भी ऐसे किसी लक्ष्य के लिए बचत कर रहे हैं? कमेंट में बताएं।\n\n#savinggoals #inspiration #financialdiscipline #successstory #investing"
+        "title": "Mahindra का बड़ा धमाका, सस्ती हुई इलेक्ट्रिक SUV",
+        "caption": "महिंद्रा ने पेश किया नया बैटरी एज ए सर्विस प्रोग्राम, अब इलेक्ट्रिक कार लेना हुआ बेहद आसान।\n\n#Mahindra #ElectricSUV #ElectricCarIndia #AutoNews #MahindraBaaS"
       },
       "instagram": {
         "title": null,
-        "caption": "नौ साल की बचत और एक बड़ा सपना पूरा! ✨\n\nन कार, न महंगे फोन... युवती ने सिर्फ अपनी सेविंग्स के दम पर जमीन खरीद ली। सोशल मीडिया पर लोग इस अनुशासन की तारीफ कर रहे हैं। \n\nक्या आप भी बचत करके कुछ बड़ा हासिल करना चाहते हैं? अपनी राय बताएं! 💰🏠\n\n#savinggoals #inspiration #financialdiscipline #successstory #investing"
+        "caption": "महिंद्रा ने पेश किया नया बैटरी एज ए सर्विस प्रोग्राम, अब इलेक्ट्रिक कार लेना हुआ बेहद आसान।\n\n#Mahindra #ElectricSUV #ElectricCarIndia #AutoNews #MahindraBaaS"
       },
       "facebook": {
         "title": null,
-        "caption": "नौ साल की बचत और एक बड़ा सपना पूरा! \n\nआज के दौर में जहां दिखावे की होड़ मची है, वहीं एक युवती ने मिसाल पेश की है। न कार खरीदी, न नया फोन लिया और न ही फालतू खर्च किए। 9 साल तक अपनी कमाई को एक-एक करके जोड़ा और आखिरकार खुद की जमीन का सपना सच कर दिखाया। \n\nउनकी यह सादगी और मेहनत आज हर किसी के लिए प्रेरणा है। आप अपनी बचत को लेकर कितने गंभीर हैं? कमेंट में अपनी राय जरूर साझा करें।\n\n#savinggoals #inspiration #financialdiscipline #successstory #investing"
+        "caption": "महिंद्रा ने पेश किया नया बैटरी एज ए सर्विस प्रोग्राम, अब इलेक्ट्रिक कार लेना हुआ बेहद आसान।\n\n#Mahindra #ElectricSUV #ElectricCarIndia #AutoNews #MahindraBaaS"
       },
       "hashtags": [
-        "savinggoals",
-        "inspiration",
-        "financialdiscipline",
-        "successstory",
-        "investing"
+        "Mahindra",
+        "ElectricSUV",
+        "ElectricCarIndia",
+        "AutoNews",
+        "MahindraBaaS"
       ]
     },
-    "audio_path": "audio/girl_saves_money_buys_land.wav",
-    "audio_duration_sec": 14.38
+    "audio_path": "audio/mahindra_baas_ev_launch.wav",
+    "audio_duration_sec": 19.78
+  },
+  {
+    "topic_label": "hospital_anesthesia_overdose_death",
+    "virality_score": 7,
+    "reason": "A tragic medical negligence story with high public outcry potential, involving a mother and child.",
+    "region": "india",
+    "headline": "'ये लोग मुझे मार डालेंगे...' चीखती रही प्रसूता, कुछ देर बाद अस्‍पताल में जच्चा-बच्चा की मौत",
+    "source_summary": "गांधी मेमोरियल अस्पताल में हुई जच्चा-बच्चा की मौत के बाद नर्सिंग स्टाफ को निलंबित कर दिया गया है. आशंका जताई जा रही है कि एनेस्थीसिया का ओवरडोज देने से दोनों की मौत हुई है. शव का पीएम कराने के बाद मामले की जांच की जा रही है.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/rewa-hospital-mother-child-death-viral-video-nursing-staff-suspended-11973559#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 09:25:39 +0530",
+    "hook": "अस्पताल में चीखती रही महिला, और फिर हो गई अनहोनी!",
+    "script_hi": "अस्पताल में चीखती रही प्रसूता कि ये लोग मुझे मार डालेंगे, लेकिन कुछ देर बाद जच्चा और बच्चा दोनों की मौत हो गई। गांधी मेमोरियल अस्पताल में हुई इस घटना से हड़कंप मच गया है। आरोप है कि एनेस्थीसिया के ओवरडोज से यह जान गई है। नर्सिंग स्टाफ को निलंबित कर दिया गया है और अब मामले की जांच की जा रही है।",
+    "tts_text_hi": "अस्पताल में चीखती रही प्रसूता कि ये लोग मुझे मार डालेंगे, लेकिन कुछ देर बाद जच्चा और बच्चा दोनों की मौत हो गई। गांधी मेमोरियल अस्पताल में हुई इस घटना से हड़कंप मच गया है। आरोप है कि एनेस्थीसिया के ओवरडोज से यह जान गई है। नर्सिंग स्टाफ को निलंबित कर दिया गया है और अब मामले की जांच की जा रही है।",
+    "title": "गांधी मेमोरियल अस्पताल में जच्चा-बच्चा की मौत",
+    "caption": "अस्पताल की लापरवाही या एनेस्थीसिया का ओवरडोज? गांधी मेमोरियल अस्पताल में जच्चा-बच्चा की मौत के बाद नर्सिंग स्टाफ सस्पेंड।",
+    "hashtags": [
+      "HospitalNegligence",
+      "MedicalCare",
+      "GandhiMemorialHospital",
+      "LatestNews",
+      "Investigation",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian hospital corridor",
+      "Indian medical staff",
+      "Hospital bed emergency",
+      "Police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "This report involves a specific, sensitive local incident of alleged medical negligence at Gandhi Memorial Hospital which requires authentic local footage or reporting verification rather than generic stock B-roll to be accurately represented.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36595248/pexels-photo-36595248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian hospital corridor",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32254525/pexels-photo-32254525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian medical staff",
+        "credit": "Daniil Kondrashin",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hospital bed emergency",
+        "credit": "Maxx Sas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
   }
 ]
