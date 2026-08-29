@@ -1,7 +1,10 @@
-ready_labels: ['mahindra_baas_ev_launch', 'neeraj_chopra_asian_games_injury']
+ready_labels: ['ather_konarc_scooter_launch', 'bihar_board_fail_label_removal', 'festive_flight_price_hike', 'sticker_solar_panel_tech']
 
-neeraj_chopra_asian_games_injury: SUCCESS -> video_path=videos/neeraj_chopra_asian_games_injury.mp4 dur=23.356553
-nepal_flood_dead_bodies_india: SKIPPED (not in ready set)
-robot_vacuum_cheating_case_reversal: SKIPPED (not in ready set)
-mahindra_baas_ev_launch: SUCCESS -> video_path=videos/mahindra_baas_ev_launch.mp4 dur=27.829229
-hospital_anesthesia_overdose_death: SKIPPED (not in ready set)
+nepal_flood_body_recovery: SKIPPED (not in ready set)
+laser_mosquito_killer_tech: SKIPPED (not in ready set)
+bihar_board_fail_label_removal: SUCCESS -> video_path=videos/bihar_board_fail_label_removal.mp4 dur=29.87322
+shark_attack_survivor: SKIPPED (not in ready set)
+mumbai_ganesh_chaturthi_tirupati_theme: SKIPPED (not in ready set)
+sticker_solar_panel_tech: SUCCESS -> video_path=videos/sticker_solar_panel_tech.mp4 dur=33.756553
+ather_konarc_scooter_launch: SUCCESS -> video_path=videos/ather_konarc_scooter_launch.mp4 dur=28.289887
+festive_flight_price_hike: SUCCESS -> video_path=videos/festive_flight_price_hike.mp4 dur=26.48322
