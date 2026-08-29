@@ -1,6 +1,7 @@
-ready_labels: []
+ready_labels: ['everest_heeng_ban', 'poco_x8_power_10000mah']
 
-nepal_97_year_old_rescue: SKIPPED (not in ready set)
-nepal_bank_safe_loot: SKIPPED (not in ready set)
-noida_child_murder_cctv: SKIPPED (not in ready set)
-gopalganj_septic_tank_deaths: SKIPPED (not in ready set)
+mumbai_biryani_murder_case: SKIPPED (not in ready set)
+nepal_flood_safe_theft: SKIPPED (not in ready set)
+nepal_flood_97yr_old_rescue: SKIPPED (not in ready set)
+everest_heeng_ban: SUCCESS -> video_path=videos/everest_heeng_ban.mp4 dur=29.966213
+poco_x8_power_10000mah: SUCCESS -> video_path=videos/poco_x8_power_10000mah.mp4 dur=35.817211
