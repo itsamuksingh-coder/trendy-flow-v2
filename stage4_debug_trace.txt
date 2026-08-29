@@ -1,8 +1,7 @@
-ready_labels: ['trump_venezuela_oil_deal']
+ready_labels: ['delhi_cng_price_hike']
 
-nepal_lake_burst_warning: SKIPPED (not in ready set)
+nepal_china_flood_warning: SKIPPED (not in ready set)
 prayagraj_temple_collapse: SKIPPED (not in ready set)
-maharashtra_pregnant_woman_rescue: SKIPPED (not in ready set)
-delhi_road_cavein_electrocution: SKIPPED (not in ready set)
-india_nepal_rescue_team: SKIPPED (not in ready set)
-trump_venezuela_oil_deal: SUCCESS -> video_path=videos/trump_venezuela_oil_deal.mp4 dur=28.056553
+ankit_baliyan_murder_case: SKIPPED (not in ready set)
+delhi_cng_price_hike: SUCCESS -> video_path=videos/delhi_cng_price_hike.mp4 dur=30.848231
+kerala_cm_convoy_protest: SKIPPED (not in ready set)
