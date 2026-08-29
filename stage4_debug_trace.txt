@@ -1,3 +1,5 @@
-ready_labels: ['us_venezuela_oil_deal_trump']
+ready_labels: ['haryanvi_singer_ankit_baliyan_murder_shooters', 'jhansi_403_crore_cyber_fraud_arrest']
 
-us_venezuela_oil_deal_trump: SUCCESS -> video_path=videos/us_venezuela_oil_deal_trump.mp4 dur=22.071224
+haryanvi_singer_ankit_baliyan_murder_shooters: SUCCESS -> video_path=videos/haryanvi_singer_ankit_baliyan_murder_shooters.mp4 dur=24.156553
+delhi_cng_price_hike_september: SKIPPED (not in ready set)
+jhansi_403_crore_cyber_fraud_arrest: SUCCESS -> video_path=videos/jhansi_403_crore_cyber_fraud_arrest.mp4 dur=22.95322
