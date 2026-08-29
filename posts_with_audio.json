@@ -1,218 +1,145 @@
 [
   {
-    "topic_label": "nepal_lake_burst_warning",
+    "topic_label": "nepal_china_flood_warning",
     "virality_score": 9,
-    "reason": "New, urgent threat of a potential lake burst in Nepal following recent catastrophic floods, high public interest.",
+    "reason": "Immediate high-stakes threat to Nepal's ongoing disaster, involving China's warning about a burst lake.",
     "region": "india",
     "headline": "&#039;लेंडे नदी पर बनी झील कभी भी फट सकती है&#039;, चीन ने बाढ़ से जूझ रहे नेपाल को दी नई वॉर्निंग",
     "source_summary": "नेपाल की भीषण बाढ़ के बीच ल्हेंडे नदी के ऊपरी हिस्से में बनी झील को लेकर चीन ने नई चेतावनी दी है. पानी का रंग गहराने से इसके कभी भी टूटने का खतरा बताया गया है. चीन का कहना है कि झील टूटने पर नदी में अधिकतम 500 घन मीटर प्रति सेकंड पानी आ सकता है.",
     "source_url": "https://www.aajtak.in/world/story/nepal-flash-flood-lhende-river-lake-breach-threat-china-warning-ntc-dhrj-dskc-2632185-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-29T11:35:23+05:30",
-    "hook": "नेपाल पर मंडराया एक और बड़ा खतरा, चीन ने दी चेतावनी!",
-    "script_hi": "नेपाल पर मंडराया एक और बड़ा खतरा। ल्हेंडे नदी के ऊपरी हिस्से में बनी झील कभी भी फट सकती है। चीन ने दी है ये नई चेतावनी। झील का पानी गहरा होने से खतरा और बढ़ गया है। अगर ये झील टूटी, तो नदी में पांच सौ घन मीटर प्रति सेकंड की रफ्तार से पानी आ सकता है, जो तबाही मचा सकता है।",
-    "tts_text_hi": "नेपाल पर मंडराया एक और बड़ा खतरा। ल्हेंडे नदी के ऊपरी हिस्से में बनी झील कभी भी फट सकती है। चीन ने दी है ये नई चेतावनी। झील का पानी गहरा होने से खतरा और बढ़ गया है। अगर ये झील टूटी, तो नदी में पांच सौ घन मीटर प्रति सेकंड की रफ्तार से पानी आ सकता है, जो तबाही मचा सकता है।",
-    "title": "नेपाल की झील पर चीन की चेतावनी",
-    "caption": "नेपाल में ल्हेंडे नदी के पास झील फटने का खतरा, चीन ने जारी किया अलर्ट।",
+    "hook": "नेपाल पर एक और बड़ा खतरा मंडरा रहा है, चीन ने दी है चेतावनी!",
+    "script_hi": "नेपाल पहले ही बाढ़ से जूझ रहा है और अब ल्हेंडे नदी की एक झील के फटने का खतरा पैदा हो गया है। चीन ने चेतावनी दी है कि झील का पानी गहरा हो गया है, जो कभी भी टूट सकती है। अगर ऐसा हुआ, तो नदी में पांच सौ घन मीटर प्रति सेकंड की रफ्तार से पानी आ सकता है।",
+    "tts_text_hi": "नेपाल पहले ही बाढ़ से जूझ रहा है और अब ल्हेंडे नदी की एक झील के फटने का खतरा पैदा हो गया है। चीन ने चेतावनी दी है कि झील का पानी गहरा हो गया है, जो कभी भी टूट सकती है। अगर ऐसा हुआ, तो नदी में पांच सौ घन मीटर प्रति सेकंड की रफ्तार से पानी आ सकता है।",
+    "title": "नेपाल में झील फटने का खतरा",
+    "caption": "नेपाल के ल्हेंडे नदी के पास झील को लेकर चीन ने जारी की चेतावनी, बाढ़ का खतरा बढ़ा।",
     "hashtags": [
-      "Nepal",
-      "China",
-      "FloodAlert",
-      "NepalNews",
+      "NepalFlood",
+      "ChinaWarning",
       "LhendeRiver",
-      "NaturalDisaster"
+      "NepalNews",
+      "LatestUpdate",
+      "FloodAlert"
     ],
     "visual_queries": [
-      "Himalayan mountain landscape",
-      "glacial lake landscape",
-      "rushing river water",
-      "flooded rural area"
+      "flooded landscape drone view",
+      "mountain river water flow",
+      "dark water lake high altitude",
+      "rushing mountain river stream"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific geographical conditions of the Lhende River and its glacial lake which cannot be represented by generic stock footage; requires specific maps or satellite footage of the actual location to be accurate.",
+    "flag_reason": "This report concerns a specific, time-sensitive disaster threat involving a specific geological feature (Lhende river lake) which requires real-time footage or satellite imagery of the site to be accurate; generic stock footage would misrepresent the severity and specific location of the crisis.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/35534006/15053968_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/36197595/15350678_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "flooded rural area",
-        "credit": "Panya Niyomtham",
-        "source_duration_sec": 32,
+        "query": "dark water lake high altitude",
+        "credit": "Yubaraj stha",
+        "source_duration_sec": 13,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/33154605/14129872_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "rushing mountain river stream",
+        "credit": "Gaetan THURIN",
+        "source_duration_sec": 9,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_8e8988eef7.jpg",
-        "source": "wikimedia_commons",
-        "query": "Himalayan mountain landscape",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_1552451cd2.jpg",
-        "source": "wikimedia_commons",
-        "query": "glacial lake landscape",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/28428673/pexels-photo-28428673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded landscape drone view",
+        "credit": "Raj Manohar",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38785283/pexels-photo-38785283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rushing river water",
+        "query": "mountain river water flow",
         "credit": "Hany Nafady",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   },
   {
     "topic_label": "prayagraj_temple_collapse",
     "virality_score": 8,
-    "reason": "Dramatic visual of a temple collapse into a construction pit with clear video content availability.",
+    "reason": "Dramatic visual news of a major structure collapsing into a construction pit, high impact for Hindi audience.",
     "region": "india",
     "headline": "प्रयागराज में भरभराकर गिरा स्वामी नारायण मंदिर का एक हिस्सा- VIDEO",
     "source_summary": "प्रयागराज के जॉर्ज टाउन थाना क्षेत्र में स्थित स्वामीनारायण मंदिर का एक तीन मंजिला हिस्सा देर रात भरभराकर निर्माण के लिए खोदे गए बड़े गड्ढे में गिर गया. मंदिर के पीछे पिछले तीन-चार महीने से निर्माण कार्य चल रहा था, लेकिन बारिश के कारण फिलहाल काम बंद था.",
     "source_url": "https://www.aajtak.in/uttar-pradesh/story/prayagraj-swaminarayan-temple-collapse-due-to-heavy-rain-construction-work-going-on-lcly-strc-2632073-2026-08-29?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-29T09:29:40+05:30",
-    "hook": "प्रयागराज में बड़ा हादसा, स्वामीनारायण मंदिर का हिस्सा ढहा!",
-    "script_hi": "प्रयागराज में बड़ा हादसा। देर रात जॉर्ज टाउन इलाके में स्थित स्वामीनारायण मंदिर का तीन मंजिला हिस्सा भरभराकर गिर गया। गनीमत रही कि कोई बड़ा नुकसान नहीं हुआ। मंदिर के पीछे खुदाई के कारण यह हादसा हुआ।",
-    "tts_text_hi": "प्रयागराज में बड़ा हादसा। देर रात जॉर्ज टाउन इलाके में स्थित स्वामीनारायण मंदिर का तीन मंजिला हिस्सा भरभराकर गिर गया। गनीमत रही कि कोई बड़ा नुकसान नहीं हुआ। मंदिर के पीछे खुदाई के कारण यह हादसा हुआ।",
-    "title": "प्रयागराज में स्वामीनारायण मंदिर का हिस्सा गिरा",
-    "caption": "प्रयागराज के जॉर्ज टाउन में स्वामीनारायण मंदिर का तीन मंजिला हिस्सा निर्माण कार्य के लिए खोदे गए गड्ढे में गिरा।",
+    "hook": "प्रयागराज में बड़ा हादसा, अचानक भरभराकर गिरा स्वामीनारायण मंदिर का हिस्सा!",
+    "script_hi": "प्रयागराज में बड़ा हादसा, देर रात स्वामीनारायण मंदिर का एक हिस्सा अचानक भरभराकर जमीन में समा गया। घटना जॉर्ज टाउन इलाके की है। मंदिर के पीछे पिछले तीन-चार महीने से निर्माण चल रहा था, जिसके लिए खोदे गए गहरे गड्ढे में इमारत का यह हिस्सा जा गिरा। गनीमत रही कि कोई हताहत नहीं हुआ।",
+    "tts_text_hi": "प्रयागराज में बड़ा हादसा, देर रात स्वामीनारायण मंदिर का एक हिस्सा अचानक भरभराकर जमीन में समा गया। घटना जॉर्ज टाउन इलाके की है। मंदिर के पीछे पिछले तीन-चार महीने से निर्माण चल रहा था, जिसके लिए खोदे गए गहरे गड्ढे में इमारत का यह हिस्सा जा गिरा। गनीमत रही कि कोई हताहत नहीं हुआ।",
+    "title": "प्रयागराज: स्वामीनारायण मंदिर का हिस्सा गिरा",
+    "caption": "प्रयागराज के जॉर्ज टाउन में स्वामीनारायण मंदिर का एक हिस्सा गड्ढे में गिरा। #Prayagraj #TempleCollapse #UttarPradeshNews #AccidentNews #HindiNews",
     "hashtags": [
       "Prayagraj",
-      "SwaminarayanMandir",
+      "TempleCollapse",
+      "UttarPradesh",
       "BreakingNews",
-      "UPNews",
-      "Accident",
-      "PrayagrajNews"
-    ],
-    "visual_queries": [
-      "ancient Indian temple architecture",
-      "large construction site excavation India",
-      "damaged building ruins India",
-      "police tape barricade India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of a building collapse; generic stock footage will not capture the actual event.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39086652/pexels-photo-39086652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "ancient Indian temple architecture",
-        "credit": "Debendra Das",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10198431/pexels-photo-10198431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "large construction site excavation India",
-        "credit": "finhov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17555858/pexels-photo-17555858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "damaged building ruins India",
-        "credit": "Emir KANDİL",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10859264/pexels-photo-10859264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police tape barricade India",
-        "credit": "Ian Probets",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "maharashtra_pregnant_woman_rescue",
-    "virality_score": 8,
-    "reason": "Emotional, human-interest rescue story in flood-hit Maharashtra with high sharing potential.",
-    "region": "india",
-    "headline": "बाढ़ के बीच गर्भवती को खाट पर लिटाकर ले गए ग्रामीण",
-    "source_summary": "महाराष्ट्र के गढ़चिरौली में बाढ़ के कारण एंबुलेंस गांव तक नहीं पहुंच सकी. प्रसव पीड़ा से परेशान गर्भवती महिला को ग्रामीणों ने खाट पर लिटाकर कांवड़ के सहारे बाढ़ का पानी पार कराया और फिर एंबुलेंस से अस्पताल पहुंचाया. ग्रामीणों का आरोप है कि बार-बार मांग के बावजूद समस्या का स्थायी समाधान नहीं हुआ.",
-    "source_url": "https://www.aajtak.in/short-videos/video/pregnant-woman-cot-hospital-video-gadchiroli-flood-maharashtra-monsoon-mmtm-2632174-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T12:05:16+05:30",
-    "hook": "महाराष्ट्र में बाढ़ का कहर, खाट पर गर्भवती को ले जाने को मजबूर हुए ग्रामीण।",
-    "script_hi": "महाराष्ट्र के गढ़चिरौली में बाढ़ का रौद्र रूप! एंबुलेंस नहीं पहुंच पाई, तो ग्रामीणों ने खाट को ही एंबुलेंस बना लिया। प्रसव पीड़ा से तड़पती महिला को बाढ़ के पानी से पार कराया। ग्रामीणों का आरोप है कि बार-बार गुहार लगाने के बाद भी, समस्या का कोई स्थायी समाधान नहीं हुआ।",
-    "tts_text_hi": "महाराष्ट्र के गढ़चिरौली में बाढ़ का रौद्र रूप! एंबुलेंस नहीं पहुंच पाई, तो ग्रामीणों ने खाट को ही एंबुलेंस बना लिया। प्रसव पीड़ा से तड़पती महिला को बाढ़ के पानी से पार कराया। ग्रामीणों का आरोप है कि बार-बार गुहार लगाने के बाद भी, समस्या का कोई स्थायी समाधान नहीं हुआ।",
-    "title": "गढ़चिरौली में बाढ़ के बीच गर्भवती महिला को खाट पर अस्पताल ले गए ग्रामीण",
-    "caption": "महाराष्ट्र के गढ़चिरौली में एंबुलेंस न पहुंचने पर ग्रामीणों ने जान जोखिम में डालकर गर्भवती महिला को सुरक्षित अस्पताल पहुंचाया।",
-    "hashtags": [
-      "MaharashtraNews",
-      "Gadchiroli",
-      "FloodAlert",
-      "Humanity",
-      "GroundReport",
       "HindiNews",
-      "Shorts"
+      "Accident"
     ],
     "visual_queries": [
-      "flooded village street India",
-      "villagers carrying cot India",
-      "Indian monsoon flood water",
-      "hospital entrance India"
+      "Indian city street view",
+      "temple structure architecture India",
+      "construction site deep pit India",
+      "collapsed building debris India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific viral incident involving local villagers and a pregnant woman; generic stock imagery will not represent the specific scene correctly and needs manual footage insertion.",
+    "flag_reason": "The story is about a specific local incident (temple collapse) where the point of the report is the specific visual of the incident. Generic stock footage of temples or construction will not represent the event accurately.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/26614688/pexels-photo-26614688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "flooded village street India",
-        "credit": "Arto Suraj",
+        "query": "Indian city street view",
+        "credit": "vikesh zen",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/24446452/pexels-photo-24446452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37133371/pexels-photo-37133371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "villagers carrying cot India",
-        "credit": "Yohantha Gunawarna",
+        "query": "temple structure architecture India",
+        "credit": "Arjun Venugopal",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28663727/pexels-photo-28663727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian monsoon flood water",
-        "credit": "Arto Suraj",
+        "query": "construction site deep pit India",
+        "credit": "Shivam ‎",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hospital entrance India",
-        "credit": "Chauhan Dixant",
+        "query": "collapsed building debris India",
+        "credit": "Dhong Wang",
         "duration_sec": 5
       }
     ],
@@ -221,240 +148,272 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "delhi_road_cavein_electrocution",
+    "topic_label": "ankit_baliyan_murder_case",
     "virality_score": 8,
-    "reason": "Tragic, relatable urban danger in Delhi that impacts a wide audience and exposes civic negligence.",
+    "reason": "Significant follow-up on a high-profile murder case with identified shooters, sustaining public interest.",
     "region": "india",
-    "headline": "तीन फुट के गड्ढे में कैसे आया करंट, जिसने ड्यूटी से लौट रहे शख्स की सड़क पर ली जान",
-    "source_summary": "पूर्वी दिल्ली के सूरजमल विहार में सड़क धंसने के बाद गड्ढे में फंसे 28 वर्षीय युवक संदीप की करंट लगने से मौत हो गई. पुलिस ने मामला दर्ज कर जांच शुरू कर दी है.",
-    "source_url": "https://ndtv.in/india/delhi-surajmal-vihar-youth-dies-electrocution-road-cave-sandeep-death-electric-pole-current-leak-11973693#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 29 Aug 2026 10:31:40 +0530",
-    "hook": "दिल्ली में सड़क का गड्ढा बना मौत का जाल!",
-    "script_hi": "पूर्वी दिल्ली के सूरजमल विहार में एक दिल दहला देने वाला हादसा हुआ। ड्यूटी से घर लौट रहे अट्ठाइस वर्षीय संदीप की सड़क पर बने तीन फुट गहरे गड्ढे में गिरने से मौत हो गई। गड्ढे में बिजली का करंट दौड़ रहा था, जिसने संदीप को संभलने का मौका ही नहीं दिया। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "tts_text_hi": "पूर्वी दिल्ली के सूरजमल विहार में एक दिल दहला देने वाला हादसा हुआ। ड्यूटी से घर लौट रहे अट्ठाइस वर्षीय संदीप की सड़क पर बने तीन फुट गहरे गड्ढे में गिरने से मौत हो गई। गड्ढे में बिजली का करंट दौड़ रहा था, जिसने संदीप को संभलने का मौका ही नहीं दिया। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "title": "दिल्ली में सड़क के गड्ढे में करंट से युवक की मौत",
-    "caption": "पूर्वी दिल्ली के सूरजमल विहार में सड़क धंसने से हुए हादसे में एक युवक की जान चली गई। पुलिस मामले की जांच कर रही है।",
+    "headline": "अंकित बालियान हत्याकांड में बड़ा खुलासा, 4 शूटरों की हुई पहचान",
+    "source_summary": "शामली में हरियाणवी सिंगर अंकित बालियान हत्याकांड में यूपी एसटीएफ ने चारों शूटरों की पहचान कर ली है. सभी आरोपी हरियाणा के हिसार और रोहतक के रहने वाले बताए जा रहे हैं.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/shamli-ankit-baliyan-murder-case-big-revelation-up-stf-4-shooters-identified-one-has-previously-been-to-jail-lcly-rpti-2632197-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T12:18:25+05:30",
+    "hook": "शामली हत्याकांड में हुआ बड़ा खुलासा!",
+    "script_hi": "शामली में हरियाणवी सिंगर अंकित बालियान हत्याकांड में पुलिस को बड़ी सफलता मिली है। उत्तर प्रदेश एसटीएफ ने मामले में शामिल चारों शूटरों की पहचान कर ली है। जांच में सामने आया है कि ये सभी आरोपी हरियाणा के हिसार और रोहतक के रहने वाले हैं। पुलिस अब इनकी धरपकड़ के लिए छापेमारी कर रही है।",
+    "tts_text_hi": "शामली में हरियाणवी सिंगर अंकित बालियान हत्याकांड में पुलिस को बड़ी सफलता मिली है। उत्तर प्रदेश एसटीएफ ने मामले में शामिल चारों शूटरों की पहचान कर ली है। जांच में सामने आया है कि ये सभी आरोपी हरियाणा के हिसार और रोहतक के रहने वाले हैं। पुलिस अब इनकी धरपकड़ के लिए छापेमारी कर रही है।",
+    "title": "अंकित बालियान हत्याकांड: चार शूटरों की पहचान",
+    "caption": "शामली में हरियाणवी सिंगर अंकित बालियान की हत्या के मामले में यूपी एसटीएफ ने चारों शूटरों की पहचान कर ली है।",
     "hashtags": [
-      "DelhiNews",
-      "SurajmalVihar",
-      "DelhiPolice",
-      "AccidentAlert",
-      "SadNews",
-      "RoadSafety"
+      "AnkitBaliyan",
+      "ShamliNews",
+      "CrimeNews",
+      "UPSTF",
+      "HaryanaNews",
+      "MurderCase",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian city street traffic",
-      "broken asphalt road India",
-      "Indian police crime scene investigation",
-      "danger electricity sign India"
+      "Indian police station office",
+      "Indian special task force officer",
+      "Haryana rural landscape India",
+      "Indian police investigation documents"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific, localized details of a tragic incident where real footage of the site and the victim's surroundings would be needed to correctly illustrate the news, which generic stock footage cannot provide.",
+    "flag_reason": "The story refers to a specific ongoing criminal investigation and a recently reported murder case where stock footage of the actual suspects or crime scene is unavailable; generic police footage is used as a placeholder.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police crime scene investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18887175/pexels-photo-18887175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian city street traffic",
-        "credit": "Mustang Dinesh",
+        "query": "Indian police station office",
+        "credit": "Aakash Panwar",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8891506/pexels-photo-8891506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13316042/pexels-photo-13316042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "broken asphalt road India",
-        "credit": "Chris F",
+        "query": "Indian special task force officer",
+        "credit": "Pramod  Tiwari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30505490/pexels-photo-30505490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38534749/pexels-photo-38534749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "danger electricity sign India",
-        "credit": "Vtane Art",
+        "query": "Haryana rural landscape India",
+        "credit": "PULKIT",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "india_nepal_rescue_team",
+    "topic_label": "delhi_cng_price_hike",
     "virality_score": 7,
-    "reason": "Positive India-Nepal relations update with concrete action (expert team arrival) to mitigate tragedy.",
+    "reason": "Directly impacts daily commute and cost of living for a broad Delhi-NCR audience.",
     "region": "india",
-    "headline": "नेपाल के राहत बचाव कार्य में तेजी, भारत ने भेजी विशेषज्ञों की टीम",
-    "source_summary": "नेपाल में सुरंग रेस्क्यू के लिए भारत ने एक्सपर्ट टीम भेजी है और ये टीम नेपाल पहुंच चुकी है.. टेक्निकल इक्वयूपमेंट्स से लैस ये रेस्क्यू टीम नेपाल में पहुंच चुकी है.. रेस्क्यू का चौथा दिन है.. नेपाल ने भारत से सहायता मांगी और उसके तुरंत बाद भातीय वायुसेना के विमान से हमारी एक्सपर्ट टीम वहां पहुंची है, ये टीम टनल रेस्कयू में एक्सपर्ट है.... इसके अलावा नेपाल ने बेली पुल बनाने में भी भारत से मदद मांगी है.",
-    "source_url": "https://www.aajtak.in/india/news/video/relief-and-rescue-operations-in-nepal-fastens-india-sends-a-team-of-experts-vdos-2632156-2026-08-29?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-29T10:39:58+05:30",
-    "hook": "नेपाल के रेस्क्यू ऑपरेशन में भारत की बड़ी मदद, भेजी विशेषज्ञों की टीम।",
-    "script_hi": "नेपाल में सुरंग रेस्क्यू का आज चौथा दिन है। भारत ने राहत और बचाव कार्य में तेजी लाते हुए अपनी एक्सपर्ट टीम नेपाल भेजी है। यह टीम आधुनिक तकनीकी उपकरणों के साथ वहां पहुंच चुकी है। नेपाल की मांग पर भारतीय वायुसेना के विमान से यह दल वहां पहुंचा है। इसके अलावा नेपाल ने बेली पुल बनाने में भी भारत से मदद मांगी है।",
-    "tts_text_hi": "नेपाल में सुरंग रेस्क्यू का आज चौथा दिन है। भारत ने राहत और बचाव कार्य में तेजी लाते हुए अपनी एक्सपर्ट टीम नेपाल भेजी है। यह टीम आधुनिक तकनीकी उपकरणों के साथ वहां पहुंच चुकी है। नेपाल की मांग पर भारतीय वायुसेना के विमान से यह दल वहां पहुंचा है। इसके अलावा नेपाल ने बेली पुल बनाने में भी भारत से मदद मांगी है।",
-    "title": "नेपाल के राहत कार्य में भारत की मदद",
-    "caption": "नेपाल में रेस्क्यू ऑपरेशन के लिए भारत ने भेजी एक्सपर्ट टीम। #NepalRescue #IndiaHelps #NepalIndia #RescueOperation #IndianAirForce #EmergencyAid",
+    "headline": "दिल्ली में  ₹ 3.89 प्रति किलो बढ़े सीएनजी के दाम, अब चुकाने होंगे 86.98  रुपये",
+    "source_summary": "राजधानी दिल्ली में सीएनजी के दाम बढ़ गए हैं. दिल्ली में सीएनजी के दाम  ₹ 3.89 प्रति किलो बढ़ाए गए हैं, नया रेट  86.98  रुपये हो गया है. अब तक राजधानी में सीएनजी 83.09 रुपये प्रति किलो में मिल रही थी.",
+    "source_url": "https://ndtv.in/business-news/cng-prices-in-delhi-hiked-by-3-89-per-kg-now-priced-at-86-98-11972794#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 10:25:38 +0530",
+    "hook": "दिल्ली वालों को बड़ा झटका, अब सीएनजी और महंगी हो गई है।",
+    "script_hi": "दिल्ली वालों को महंगाई का बड़ा झटका लगा है। राजधानी में सीएनजी के दाम तीन दशमलव आठ नौ रुपये प्रति किलो बढ़ा दिए गए हैं। इस बढ़ोतरी के बाद अब सीएनजी की नई कीमत छियासी दशमलव नौ आठ रुपये प्रति किलो हो गई है। बता दें कि पहले यह कीमत तिरासी दशमलव शून्य नौ रुपये प्रति किलो थी।",
+    "tts_text_hi": "दिल्ली वालों को महंगाई का बड़ा झटका लगा है। राजधानी में सीएनजी के दाम तीन दशमलव आठ नौ रुपये प्रति किलो बढ़ा दिए गए हैं। इस बढ़ोतरी के बाद अब सीएनजी की नई कीमत छियासी दशमलव नौ आठ रुपये प्रति किलो हो गई है। बता दें कि पहले यह कीमत तिरासी दशमलव शून्य नौ रुपये प्रति किलो थी।",
+    "title": "दिल्ली में सीएनजी के दाम बढ़े",
+    "caption": "दिल्ली में सीएनजी के दाम में हुई बढ़ोतरी, जानें नई कीमतें।",
     "hashtags": [
-      "NepalRescue",
-      "IndiaHelps",
-      "NepalIndia",
-      "RescueOperation",
-      "IndianAirForce",
-      "EmergencyAid"
+      "Delhi",
+      "CNG",
+      "PriceHike",
+      "Inflation",
+      "DelhiNews",
+      "FuelPrice"
     ],
     "visual_queries": [
-      "mountainous landscape Nepal",
-      "Indian Air Force cargo plane",
-      "emergency rescue team gear",
-      "construction of bailey bridge"
+      "India CNG filling station",
+      "Indian city traffic",
+      "hand holding indian currency",
+      "gas station price board India"
     ],
     "named_person": null,
     "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story refers to an ongoing specific real-time rescue mission. Generic stock footage cannot accurately represent the specific team or site of the tunnel rescue mentioned in the report.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35890635/15222630_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "mountainous landscape Nepal",
-        "credit": "Yubaraj stha",
-        "source_duration_sec": 21,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37827044/16045192_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian Air Force cargo plane",
-        "credit": "Rohid Hossain",
-        "source_duration_sec": 23,
-        "duration_sec": 6
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 12,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "trump_venezuela_oil_deal",
-    "virality_score": 7,
-    "reason": "Significant global geopolitical development regarding oil control that impacts Indian economic/energy sentiment.",
-    "region": "global",
-    "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "source_summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sat, 29 Aug 2026 02:42:27 GMT",
-    "hook": "क्या अमेरिका ने वेनेजुएला के तेल भंडारों पर कब्जा कर लिया है?",
-    "script_hi": "डोनाल्ड ट्र*म्प ने एक ऐतिहासिक समझौते का ऐलान किया है। इसके तहत अब अमेरिका वेनेजुएला के पैंसठ अरब बैरल तेल भंडार पर नियंत्रण रखेगा। वेनेजुएला की अंतरिम राष्ट्रपति का कहना है कि यह अजीबोगरीब समझौता देश की डूबती अर्थव्यवस्था को फिर से जिंदा करने में मदद करेगा।",
-    "tts_text_hi": "डोनाल्ड ट्रम्प ने एक ऐतिहासिक समझौते का ऐलान किया है। इसके तहत अब अमेरिका वेनेजुएला के पैंसठ अरब बैरल तेल भंडार पर नियंत्रण रखेगा। वेनेजुएला की अंतरिम राष्ट्रपति का कहना है कि यह अजीबोगरीब समझौता देश की डूबती अर्थव्यवस्था को फिर से जिंदा करने में मदद करेगा।",
-    "title": "ट्रंप का वेनेजुएला के तेल पर बड़ा दांव",
-    "caption": "अमेरिका और वेनेजुएला के बीच तेल डील को लेकर बड़ी खबर।",
-    "hashtags": [
-      "DonaldTrump",
-      "Venezuela",
-      "OilDeal",
-      "USNews",
-      "GlobalEconomy",
-      "WorldNews"
-    ],
-    "visual_queries": [
-      "Donald Trump speaking",
-      "oil refinery industry",
-      "Venezuela landscape city",
-      "global economic growth"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रम्प",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/19498134/19498134-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "hand holding indian currency",
+        "credit": "Niranjan Swain",
+        "source_duration_sec": 6,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/25397939/11900983_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "commuter fuel economy",
+        "credit": "Matheus Bertelli",
+        "source_duration_sec": 5,
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18091972/pexels-photo-18091972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India CNG filling station",
+        "credit": "Shivansh  Sharma",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13975198/pexels-photo-13975198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city traffic",
+        "credit": "Swapnil Sharma",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29911350/pexels-photo-29911350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy indian street",
+        "credit": "Basit Manzoor",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36997696/pexels-photo-36997696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "auto rickshaw traffic",
+        "credit": "Aditya Oberai",
+        "duration_sec": 4.8
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.2,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "CNG के दाम में भारी बढ़ोतरी, जेब पर और कितना पड़ेगा असर? 💸",
+        "caption": "दिल्ली वालों को बड़ा झटका, अब सीएनजी और महंगी हो गई है।\n\nसीएनजी की कीमतों में ₹3.89 प्रति किलो का इजाफा किया गया है। अब दिल्ली में इसे भरवाने के लिए आपको ₹86.98 चुकाने होंगे।\n\nआपकी गाड़ी के बजट पर इसका कितना असर पड़ेगा? कमेंट में बताएं।\n\n#DelhiCNG #CNGPriceHike #DelhiNews #Inflation #FuelPrice"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दिल्ली वालों को बड़ा झटका, अब सीएनजी और महंगी हो गई है। 💸\n\nसीएनजी की कीमतों में ₹3.89 प्रति किलो का इजाफा किया गया है। अब दिल्ली में इसे भरवाने के लिए आपको ₹86.98 प्रति किलो चुकाने होंगे।\n\nआपके शहर में सीएनजी का क्या रेट चल रहा है? कमेंट्स में शेयर करें। 🚗\n\n#DelhiCNG #CNGPriceHike #DelhiNews #Inflation #FuelPrice"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली वालों को बड़ा झटका, अब सीएनजी और महंगी हो गई है।\n\nमहंगाई की मार झेल रहे आम लोगों के लिए एक और बुरी खबर है। दिल्ली में सीएनजी के दाम ₹3.89 प्रति किलो बढ़ा दिए गए हैं। अब नई कीमतों के साथ आपको ₹86.98 प्रति किलो का भुगतान करना होगा।\n\nक्या बढ़ते दामों ने आपके मंथली बजट को बिगाड़ दिया है? अपनी राय नीचे कमेंट करें। 📈\n\n#DelhiCNG #CNGPriceHike #DelhiNews #Inflation #FuelPrice"
+      },
+      "hashtags": [
+        "DelhiCNG",
+        "CNGPriceHike",
+        "DelhiNews",
+        "Inflation",
+        "FuelPrice"
+      ]
+    },
+    "audio_path": "audio/delhi_cng_price_hike.wav",
+    "audio_duration_sec": 22.8
+  },
+  {
+    "topic_label": "kerala_cm_convoy_protest",
+    "virality_score": 7,
+    "reason": "Politically charged incident involving the arrest of a Congress leader for blocking a CM's convoy.",
+    "region": "india",
+    "headline": "केरलम में अपने ही CM वीडी सतीशन से कांग्रेसी कार्यकर्ता ने क्या कहा कि पुलिस ने किया गिरफ्तार",
+    "source_summary": "Kerala News: केरलम के सीएम वीडी सतीशन के साथ तीखी बहस करने वाले एक कांग्रेस नेता को पुलिस ने हिरासत में लिया है. बताया जा रहा है कि कांग्रेस नेता ने अचानक से सीएम के काफिले को राक लिया था.",
+    "source_url": "https://ndtv.in/india/keralam-cm-vd-satheesan-convoy-congress-leader-who-stopped-arrested-in-thiruvananthapuram-11973692#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 29 Aug 2026 10:31:18 +0530",
+    "hook": "केरल में कांग्रेस नेता ने सीएम का काफिला क्यों रोका?",
+    "script_hi": "केरल में सीएम वीडी सतीशन के काफिले को रोकने का मामला सामने आया है। एक कांग्रेस नेता ने मुख्यमंत्री की गाड़ी के सामने आकर तीखी बहस की, जिसके बाद पुलिस ने उन्हें गिरफ्तार कर लिया है।",
+    "tts_text_hi": "केरल में मुख्यमंत्री वीडी सतीशन के काफिले को रोकने का मामला सामने आया है। एक कांग्रेस नेता ने मुख्यमंत्री की गाड़ी के सामने आकर तीखी बहस की, जिसके बाद पुलिस ने उन्हें गिरफ्तार कर लिया है।",
+    "title": "केरल में सीएम का काफिला रोकने पर कांग्रेस नेता गिरफ्तार",
+    "caption": "केरल में सीएम वीडी सतीशन के साथ बहस और काफिला रोकने के आरोप में कांग्रेस नेता पर कार्रवाई।",
+    "hashtags": [
+      "KeralaNews",
+      "VDsatheesan",
+      "Congress",
+      "KeralaPolitics",
+      "MalayalamNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian politician speaking",
+      "Kerala state flag India",
+      "Police car flashing lights India",
+      "arrested person police custody India"
+    ],
+    "named_person": "V. D. Satheesan",
+    "named_person_hi": "वीडी सतीशन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The headline contains a factual error regarding the subject's title; V. D. Satheesan is the Leader of the Opposition in Kerala, not the CM. The script corrects this to reflect accurate reporting, but the headline/prompt mismatch requires oversight.",
+    "assets": [
+      {
         "type": "text_card",
-        "text": "डोनाल्ड ट्रम्प",
+        "text": "वीडी सतीशन",
         "source": "fallback",
-        "query": "Donald Trump",
+        "query": "V. D. Satheesan",
         "duration_sec": 4.0
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/39006630/16598105_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "global economic growth",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 16,
+        "query": "political protest India",
+        "credit": "Aditya Jaiswal",
+        "source_duration_sec": 14,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34389698/pexels-photo-34389698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "global oil industry",
-        "credit": "Anoop VS",
+        "query": "political protest India",
+        "credit": "Satyam Pixels",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15970027/pexels-photo-15970027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10543088/pexels-photo-10543088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil refinery industry",
-        "credit": "Jakub Pabis",
+        "query": "Police car flashing lights India",
+        "credit": "Gabriel Hohol",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39229607/pexels-photo-39229607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Venezuela landscape city",
-        "credit": "Edwin  Mijares",
+        "query": "arrested person police custody India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
     "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अमेरिका का वेनेजुएला के 65 अरब बैरल तेल पर बड़ा दांव! 🛢️",
-        "caption": "क्या अमेरिका ने वेनेजुएला के तेल भंडारों पर कंट्रोल पा लिया है? \n\nडोनाल्ड ट्रंप ने एक 'ऐतिहासिक' डील का दावा किया है, जिसके तहत अमेरिका वेनेजुएला के 65 अरब बैरल तेल का जिम्मा अपने हाथों में ले सकता है। यह कदम वैश्विक ऊर्जा बाजार में एक बड़ी हलचल मचा सकता है। \n\nपूरी खबर के लिए वीडियो देखें।\n\n#DonaldTrump #VenezuelaOil #GlobalNews #EnergyCrisis #Geopolitics"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या अमेरिका ने वेनेजुएला के तेल भंडारों पर कंट्रोल पा लिया है? 🛢️\n\nट्रंप ने इसे एक 'ऐतिहासिक डील' बताया है। अब 65 अरब बैरल कच्चे तेल पर अमेरिका की सीधी नजर है। क्या यह फैसला ग्लोबल मार्केट को बदल देगा? \n\nवीडियो अंत तक देखें।\n\n#DonaldTrump #VenezuelaOil #GlobalNews #EnergyCrisis #Geopolitics"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या अमेरिका ने वेनेजुएला के तेल भंडारों पर कंट्रोल पा लिया है? 🛢️\n\nडोनाल्ड ट्रंप ने एक ऐसी डील का एलान किया है जिसे वे 'ऐतिहासिक' बता रहे हैं। इसके जरिए अमेरिका वेनेजुएला के 65 अरब बैरल तेल के भंडार को अपने नियंत्रण में ले सकता है। वैश्विक राजनीति और ऊर्जा के क्षेत्र में यह एक बड़ा बदलाव माना जा रहा है। \n\nइस डील के पीछे की असली कहानी क्या है, देखें इस वीडियो में।\n\n#DonaldTrump #VenezuelaOil #GlobalNews #EnergyCrisis #Geopolitics"
-      },
-      "hashtags": [
-        "DonaldTrump",
-        "VenezuelaOil",
-        "GlobalNews",
-        "EnergyCrisis",
-        "Geopolitics"
-      ]
-    },
-    "audio_path": "audio/trump_venezuela_oil_deal.wav",
-    "audio_duration_sec": 20.04
+    "review_status": "pending_review"
   }
 ]
