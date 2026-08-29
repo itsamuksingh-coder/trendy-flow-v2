@@ -1,40 +1,36 @@
 [
   {
-    "topic_label": "trump_venezuela_oil_control_deal",
+    "topic_label": "us_venezuela_oil_deal_trump",
     "virality_score": 9,
-    "reason": "Donald Trump claims control over 65 billion barrels of Venezuelan oil in a historic deal.",
+    "reason": "Donald Trump announces massive US control over Venezuela's 65 billion oil barrels, a top global economic story.",
     "region": "india",
-    "headline": "'Biggest oil deal in world history': Trump announces US control of 65bn barrels in Venezuela",
-    "source_summary": "Trump said the deal was negotiated by Secretary of State Marco Rubio, Defence Secretary Pete Hegseth and Venezuela's interim President Delcy Rodriguez. He announced the agreement in a social media post. The announcement comes almost nine months after the US military, acting on Trump's orders, carried out an operation to capture Venezuela's President Nicolás Maduro. Maduro was taken to the US to face federal charges related to narcoterrorism, drug trafficking.",
-    "source_url": "https://timesofindia.indiatimes.com/world/us/biggest-deal-in-history-trump-says-us-to-control-65-billion-barrels-of-venezuela-oil/articleshow/133601750.cms",
-    "source_name": "Times of India - Top Stories",
-    "published": "Sat, 29 Aug 2026 04:52:33 +0530",
-    "hook": "दुनिया की सबसे बड़ी तेल डील का ऐलान!",
-    "script_hi": "डोनाल्ड ट्रंप ने वेनेजुएला के पैंसठ अरब बैरल तेल पर अमेरिकी नियंत्रण का ऐलान किया है। ट्रंप के मुताबिक इस डील को मार्को रुबियो और पीट हेगसेथ ने तय किया है। यह कदम वेनेजुएला के राष्ट्रपति निकोलस मादुरो को अमेरिकी हिरासत में लेने के नौ महीने बाद उठाया गया है।",
-    "tts_text_hi": "डोनाल्ड ट्रंप ने वेनेजुएला के पैंसठ अरब बैरल तेल पर अमेरिकी नियंत्रण का ऐलान किया है। ट्रंप के मुताबिक इस डील को मार्को रुबियो और पीट हेगसेथ ने तय किया है। यह कदम वेनेजुएला के राष्ट्रपति निकोलस मादुरो को अमेरिकी हिरासत में लेने के नौ महीने बाद उठाया गया है।",
-    "title": "US Control Over Venezuela Oil",
-    "caption": "डोनाल्ड ट्रंप ने किया दुनिया की सबसे बड़ी तेल डील का ऐलान, वेनेजुएला के तेल पर अमेरिका का नियंत्रण।",
+    "headline": "वेनेजुएला के 65 बिलियन बैरल तेल पर कंट्रोल, ट्रंप बोले- हमने दुनिया की सबसे बड़ी डील कर डाली",
+    "source_summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने शनिवार को सोशल मीडिया पोस्ट के जरिए जानकारी दी कि अमेरिका ने वेनेजुएला के साथ अब तक की सबसे बड़ी तेल डील की है. उनका दावा है कि इस फैसले के बाद वेनेजुएला के लगभग 65 अरब बैरल तेल भंडार पर अमेरिका का नियंत्रण रहेगा.",
+    "source_url": "https://www.aajtak.in/world/story/us-president-donald-trump-venezuela-sixty-five-barrel-oil-deal-ntc-acwi-dskc-2632043-2026-08-29?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-29T07:38:16+05:30",
+    "hook": "वेनेजुएला के तेल पर अमेरिका का कब्जा!",
+    "script_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अमेरिका ने वेनेजुएला के साथ अब तक की सबसे बड़ी तेल डील कर ली है। इस समझौते के तहत वेनेजुएला के पैंसठ अरब बैरल तेल भंडार पर अमेरिका का नियंत्रण रहेगा।",
+    "tts_text_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अमेरिका ने वेनेजुएला के साथ अब तक की सबसे बड़ी तेल डील कर ली है। इस समझौते के तहत वेनेजुएला के पैंसठ अरब बैरल तेल भंडार पर अमेरिका का नियंत्रण रहेगा।",
+    "title": "वेनेजुएला के तेल पर अमेरिका का नियंत्रण",
+    "caption": "डोनाल्ड ट्रंप ने किया बड़ा ऐलान, वेनेजुएला के तेल भंडार पर अमेरिका का रहेगा कंट्रोल।",
     "hashtags": [
       "DonaldTrump",
-      "Venezuela",
-      "OilDeal",
+      "VenezuelaOil",
       "USNews",
+      "OilDeal",
       "WorldNews",
       "BreakingNews"
     ],
     "visual_queries": [
-      "White House Washington DC",
-      "oil refinery industry",
-      "US military operation"
+      "white house exterior washington",
+      "oil refinery industry plant",
+      "venezuela flag oil barrels"
     ],
     "named_person": "Donald Trump",
     "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [
-      "Marco Rubio",
-      "Pete Hegseth",
-      "Nicolas Maduro"
-    ],
-    "est_duration_sec": 28.0,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -48,202 +44,26 @@
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_3ae74b2490.jpg",
-        "source": "wikimedia",
-        "query": "Marco Rubio",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_487f14214a.jpg",
-        "source": "wikimedia",
-        "query": "Pete Hegseth",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_28e60ee6a3.jpg",
-        "source": "wikimedia_commons",
-        "query": "White House Washington DC",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_1434c74d94.jpg",
-        "source": "wikimedia_commons",
-        "query": "oil refinery industry",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10044305/pexels-photo-10044305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32194038/pexels-photo-32194038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US military operation",
-        "credit": "Javier Leal",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "US Control Over Venezuela Oil",
-        "caption": "डोनाल्ड ट्रंप ने किया दुनिया की सबसे बड़ी तेल डील का ऐलान, वेनेजुएला के तेल पर अमेरिका का नियंत्रण।\n\n#DonaldTrump #Venezuela #OilDeal #USNews #WorldNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "डोनाल्ड ट्रंप ने किया दुनिया की सबसे बड़ी तेल डील का ऐलान, वेनेजुएला के तेल पर अमेरिका का नियंत्रण।\n\n#DonaldTrump #Venezuela #OilDeal #USNews #WorldNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "डोनाल्ड ट्रंप ने किया दुनिया की सबसे बड़ी तेल डील का ऐलान, वेनेजुएला के तेल पर अमेरिका का नियंत्रण।\n\n#DonaldTrump #Venezuela #OilDeal #USNews #WorldNews"
-      },
-      "hashtags": [
-        "DonaldTrump",
-        "Venezuela",
-        "OilDeal",
-        "USNews",
-        "WorldNews"
-      ]
-    },
-    "audio_path": "audio/trump_venezuela_oil_control_deal.wav",
-    "audio_duration_sec": 19.33,
-    "video_path": "videos/trump_venezuela_oil_control_deal.mp4",
-    "video_duration_sec": 27.39
-  },
-  {
-    "topic_label": "delhi_pothole_electrocution_death",
-    "virality_score": 8,
-    "reason": "Shocking civic negligence case in Delhi where a youth fell into a pothole and died of electrocution.",
-    "region": "india",
-    "headline": "दिल्ली में सड़क पार करते हुए गड्ढे में गिरा युवक, करंट लगने से मौत, CCTV फुटेज की जांच जारी",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/delhi-crime-news.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"दिल्ली में सड़क पार करते हुए गड्ढे में गिरा युवक, करंट लगने से मौत, CCTV फुटेज की जांच जारी\" /></figure>पुलिस ने कहा कि प्रारंभिक जांच में नगर निकाय एजेंसियों की कथित लापरवाही का संकेत मिला है. उन्होंने कहा कि घटनास्थल के आसपास लगे सीसीटीवी कैमरों की फुटेज की भी जांच की जा रही है.",
-    "source_url": "https://www.tv9hindi.com/state/delhi-ncr/youth-falls-into-pit-while-crossing-road-dies-of-electrocution-3892667.html",
-    "source_name": "TV9 Hindi",
-    "published": "Sat, 29 Aug 2026 02:13:14 +0530",
-    "hook": "दिल्ली में सड़क पार करते वक्त एक युवक खुले गड्ढे में जा गिरा!",
-    "script_hi": "दिल्ली में सड़क पार करते वक्त एक युवक खुले गड्ढे में जा गिरा और करंट लगने से उसकी दर्दनाक मौत हो गई। पुलिस ने प्रारंभिक जांच में नगर निकाय एजेंसियों की लापरवाही का संकेत दिया है। घटनास्थल के आसपास लगे सीसीटीवी कैमरों की फुटेज खंगाली जा रही है।",
-    "tts_text_hi": "दिल्ली में सड़क पार करते वक्त एक युवक खुले गड्ढे में जा गिरा और करंट लगने से उसकी दर्दनाक मौत हो गई। पुलिस ने प्रारंभिक जांच में नगर निकाय एजेंसियों की लापरवाही का संकेत दिया है। घटनास्थल के आसपास लगे सीसीटीवी कैमरों की फुटेज खंगाली जा रही है।",
-    "title": "दिल्ली में गड्ढे में गिरने से युवक की मौत",
-    "caption": "दिल्ली में सड़क पार करते समय गड्ढे में गिरे युवक की करंट लगने से मौत, सीसीटीवी फुटेज की जांच जारी।",
-    "hashtags": [
-      "DelhiNews",
-      "DelhiPolice",
-      "Accident",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India street pothole",
-      "Delhi street India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9963248/pexels-photo-9963248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India street pothole",
-        "credit": "Plato Terentev",
+        "query": "white house exterior washington",
+        "credit": "Ramaz Bluashvili",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15970026/pexels-photo-15970026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi street India",
-        "credit": "Roman Saienko",
+        "query": "oil refinery industry plant",
+        "credit": "Jakub Pabis",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15730185/pexels-photo-15730185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "fda_officer_forced_expired_biscuits_maharashtra",
-    "virality_score": 8,
-    "reason": "Viral and dramatic incident where angry crowds forced an FDA officer to eat expired biscuits over bribery allegations.",
-    "region": "india",
-    "headline": "महाराष्ट्र: एक्सपायरी खाना खाने से बिगड़ी बच्चे की हालत, गुस्साई भीड़ ने FDA अधिकारी से की बदसलूकी",
-    "source_summary": "एक्सपायरी डेट का खाद्य सामान बेचने और रिश्वत लेकर कार्रवाई न करने के आरोप में लोगों ने FDA अधिकारी का घेराव किया और उसे जबरन बिस्किट खिला दिया.",
-    "source_url": "https://ndtv.in/maharashtra-news/maharashtra-child-falls-ill-after-consuming-expired-food-angry-crowd-misbehaves-with-fda-official-11972838#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 28 Aug 2026 23:57:58 +0530",
-    "hook": "महाराष्ट्र में एक्सपायरी खाना खाने से बच्चे की बिगड़ी तबीयत!",
-    "script_hi": "महाराष्ट्र में एक्सपायरी खाना खाने से एक बच्चे की तबीयत बिगड़ गई। गुस्से में आए लोगों ने एफडीए अधिकारी का घेराव किया। आरोप है कि अधिकारी रिश्वत लेकर कार्रवाई नहीं कर रहा था। भीड़ ने गुस्से में अधिकारी को जबरन एक्सपायरी बिस्किट भी खिला दिया।",
-    "tts_text_hi": "महाराष्ट्र में एक्सपायरी खाना खाने से एक बच्चे की तबीयत बिगड़ गई। गुस्से में आए लोगों ने एफडीए अधिकारी का घेराव किया। आरोप है कि अधिकारी रिश्वत लेकर कार्रवाई नहीं कर रहा था। भीड़ ने गुस्से में अधिकारी को जबरन एक्सपायरी बिस्किट भी खिला दिया।",
-    "title": "महाराष्ट्र: एक्सपायरी खाना खाने से बिगड़ी बच्चे की हालत, गुस्साई भीड़ ने FDA अधिकारी से की बदसलूकी",
-    "caption": "महाराष्ट्र में एक्सपायरी फूड खाने से बच्चे की तबियत बिगड़ने पर लोगों का फूटा गुस्सा, एफडीए अधिकारी को घेरा और खिलाए एक्सपायरी बिस्किट।",
-    "hashtags": [
-      "MaharashtraNews",
-      "FDAIndia",
-      "ExpiredFood",
-      "PublicOutrage",
-      "LocalNews"
-    ],
-    "visual_queries": [
-      "Indian angry crowd protest",
-      "Indian food safety officer",
-      "expired biscuits package India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 27,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8899000/pexels-photo-8899000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian angry crowd protest",
-        "credit": "Lara Jameson",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27786480/pexels-photo-27786480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian food safety officer",
-        "credit": "Kewal Nagda",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28942361/pexels-photo-28942361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "expired biscuits package India",
-        "credit": "siddharth vyas",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
+        "query": "venezuela flag oil barrels",
+        "credit": "Alimurat Üral",
         "duration_sec": 5
       }
     ],
@@ -252,28 +72,28 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "महाराष्ट्र: एक्सपायरी खाना खाने से बिगड़ी बच्चे की हालत, गुस्साई भीड़ ने FDA अधिकारी से की बदसलूकी",
-        "caption": "महाराष्ट्र में एक्सपायरी फूड खाने से बच्चे की तबियत बिगड़ने पर लोगों का फूटा गुस्सा, एफडीए अधिकारी को घेरा और खिलाए एक्सपायरी बिस्किट।\n\n#MaharashtraNews #FDAIndia #ExpiredFood #PublicOutrage #LocalNews"
+        "title": "वेनेजुएला के तेल पर अमेरिका का नियंत्रण",
+        "caption": "डोनाल्ड ट्रंप ने किया बड़ा ऐलान, वेनेजुएला के तेल भंडार पर अमेरिका का रहेगा कंट्रोल।\n\n#DonaldTrump #VenezuelaOil #USNews #OilDeal #WorldNews"
       },
       "instagram": {
         "title": null,
-        "caption": "महाराष्ट्र में एक्सपायरी फूड खाने से बच्चे की तबियत बिगड़ने पर लोगों का फूटा गुस्सा, एफडीए अधिकारी को घेरा और खिलाए एक्सपायरी बिस्किट।\n\n#MaharashtraNews #FDAIndia #ExpiredFood #PublicOutrage #LocalNews"
+        "caption": "डोनाल्ड ट्रंप ने किया बड़ा ऐलान, वेनेजुएला के तेल भंडार पर अमेरिका का रहेगा कंट्रोल।\n\n#DonaldTrump #VenezuelaOil #USNews #OilDeal #WorldNews"
       },
       "facebook": {
         "title": null,
-        "caption": "महाराष्ट्र में एक्सपायरी फूड खाने से बच्चे की तबियत बिगड़ने पर लोगों का फूटा गुस्सा, एफडीए अधिकारी को घेरा और खिलाए एक्सपायरी बिस्किट।\n\n#MaharashtraNews #FDAIndia #ExpiredFood #PublicOutrage #LocalNews"
+        "caption": "डोनाल्ड ट्रंप ने किया बड़ा ऐलान, वेनेजुएला के तेल भंडार पर अमेरिका का रहेगा कंट्रोल।\n\n#DonaldTrump #VenezuelaOil #USNews #OilDeal #WorldNews"
       },
       "hashtags": [
-        "MaharashtraNews",
-        "FDAIndia",
-        "ExpiredFood",
-        "PublicOutrage",
-        "LocalNews"
+        "DonaldTrump",
+        "VenezuelaOil",
+        "USNews",
+        "OilDeal",
+        "WorldNews"
       ]
     },
-    "audio_path": "audio/fda_officer_forced_expired_biscuits_maharashtra.wav",
-    "audio_duration_sec": 17.36,
-    "video_path": "videos/fda_officer_forced_expired_biscuits_maharashtra.mp4",
-    "video_duration_sec": 25.41
+    "audio_path": "audio/us_venezuela_oil_deal_trump.wav",
+    "audio_duration_sec": 14.02,
+    "video_path": "videos/us_venezuela_oil_deal_trump.mp4",
+    "video_duration_sec": 22.07
   }
 ]
