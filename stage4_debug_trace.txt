@@ -1,7 +1,10 @@
-ready_labels: ['everest_heeng_ban', 'poco_x8_power_10000mah']
+ready_labels: ['everest_hing_ban', 'toxic_movie_box_office']
 
-mumbai_biryani_murder_case: SKIPPED (not in ready set)
-nepal_flood_safe_theft: SKIPPED (not in ready set)
-nepal_flood_97yr_old_rescue: SKIPPED (not in ready set)
-everest_heeng_ban: SUCCESS -> video_path=videos/everest_heeng_ban.mp4 dur=29.966213
-poco_x8_power_10000mah: SUCCESS -> video_path=videos/poco_x8_power_10000mah.mp4 dur=35.817211
+greater_noida_girl_murder: SKIPPED (not in ready set)
+punjabi_influencer_murder: SKIPPED (not in ready set)
+cricket_academy_roller_accident: SKIPPED (not in ready set)
+snake_hospital_ot: SKIPPED (not in ready set)
+the_great_khali_accident: SKIPPED (not in ready set)
+everest_hing_ban: SUCCESS -> video_path=videos/everest_hing_ban.mp4 dur=37.12322
+china_roller_coaster_scare: SKIPPED (not in ready set)
+toxic_movie_box_office: SUCCESS -> video_path=videos/toxic_movie_box_office.mp4 dur=27.189887
