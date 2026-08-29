@@ -1,2 +1,5 @@
-ready_labels: []
+ready_labels: ['fda_officer_forced_expired_biscuits_maharashtra', 'trump_venezuela_oil_control_deal']
 
+trump_venezuela_oil_control_deal: SUCCESS -> video_path=videos/trump_venezuela_oil_control_deal.mp4 dur=27.388231
+delhi_pothole_electrocution_death: SKIPPED (not in ready set)
+fda_officer_forced_expired_biscuits_maharashtra: SUCCESS -> video_path=videos/fda_officer_forced_expired_biscuits_maharashtra.mp4 dur=25.414218
