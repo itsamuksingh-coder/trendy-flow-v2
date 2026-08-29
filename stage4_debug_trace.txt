@@ -1,7 +1,7 @@
-ready_labels: []
+ready_labels: ['girl_saves_money_buys_land', 'poco_x8_power_10000mah_battery']
 
 laser_mosquito_killer_tech: SKIPPED (not in ready set)
-gorakhpur_train_money_rain: SKIPPED (not in ready set)
-ather_konarc_scooter_launch: SKIPPED (not in ready set)
 ssb_jawan_43km_run_rakhi: SKIPPED (not in ready set)
-sticker_solar_panel_tech: SKIPPED (not in ready set)
+ather_konarc_ev_launch: SKIPPED (not in ready set)
+poco_x8_power_10000mah_battery: SUCCESS -> video_path=videos/poco_x8_power_10000mah_battery.mp4 dur=36.289887
+girl_saves_money_buys_land: SUCCESS -> video_path=videos/girl_saves_money_buys_land.mp4 dur=22.442222
