@@ -1,77 +1,603 @@
 [
   {
-    "topic_label": "nepal_flood_surviving_house_video",
+    "topic_label": "faridabad_rakhi_fortuner_accident",
     "virality_score": 9,
-    "reason": "Dramatic visual of a single house surviving a massive flood, highly shareable content.",
+    "reason": "Tragic accident where a speeding Fortuner killed 3 siblings returning from Rakhi has massive emotional and viral appeal.",
     "region": "india",
-    "headline": "चारों तरफ तबाही, फिर भी बचा अकेला घर... फंसे परिवार का रेस्क्यू Video",
-    "source_summary": "नेपाल में विनाशकारी फ्लैश फ्लड के बीच एक हरे रंग का घर मजबूती से खड़ा रहा, जबकि आसपास सब कुछ बाढ़ के तेज बहाव में बहता नजर आया.अब उस घर से जुड़ा वीडियो सामने आया.",
-    "source_url": "https://www.aajtak.in/trending/story/nepal-green-house-flood-family-rescue-viral-video-survives-flash-flood-tstf-dskc-2632772-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T17:23:44+05:30",
-    "hook": "नेपाल की बाढ़ में तबाही के बीच, एक अकेला घर कैसे बच गया?",
-    "script_hi": "नेपाल में विनाशकारी बाढ़ के बीच एक ऐसा नज़ारा दिखा जिसने सबको हैरान कर दिया। चारों तरफ पानी का तेज़ बहाव था, सब कुछ बह गया, लेकिन यह हरा घर मजबूती से खड़ा रहा। अब इस रेस्क्यू का वीडियो सामने आया है।",
-    "tts_text_hi": "नेपाल में विनाशकारी बाढ़ के बीच एक ऐसा नज़ारा दिखा जिसने सबको हैरान कर दिया। चारों तरफ पानी का तेज़ बहाव था, सब कुछ बह गया, लेकिन यह हरा घर मजबूती से खड़ा रहा। अब इस रेस्क्यू का वीडियो सामने आया है।",
-    "title": "नेपाल में बाढ़ के बीच बचा अकेला घर",
-    "caption": "नेपाल में विनाशकारी फ्लैश फ्लड के बीच एक हरे रंग का घर मजबूती से खड़ा रहा, जबकि आसपास सब कुछ बाढ़ के तेज बहाव में बहता नजर आया।",
+    "headline": "Speeding Fortuner Kills 3 Siblings In Faridabad. They Had Met For Rakhi",
+    "source_summary": "Raksha Bandhan turned into a nightmare for a family in Faridabad, where a joyous reunion between four siblings ended in tragedy within hours.",
+    "source_url": "https://www.ndtv.com/india-news/speeding-fortuner-kills-3-siblings-in-faridabad-they-had-met-for-rakhi-11977546#publisher=newsstand",
+    "source_name": "NDTV English - Top Stories",
+    "published": "Sun, 30 Aug 2026 13:53:10 +0530",
+    "hook": "फरीदाबाद में रक्षाबंधन की खुशियां मातम में बदल गईं!",
+    "script_hi": "हरियाणा के फरीदाबाद में रक्षाबंधन के दिन एक तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों की जान ले ली। चारों भाई-बहन राखी के पावन पर्व पर मिले थे, लेकिन कुछ ही घंटों में यह खुशी बड़े हादसे में बदल गई।",
+    "tts_text_hi": "हरियाणा के फरीदाबाद में रक्षाबंधन के दिन एक तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों की जान ले ली। चारों भाई-बहन राखी के पावन पर्व पर मिले थे, लेकिन कुछ ही घंटों में यह खुशी बड़े हादसे में बदल गई।",
+    "title": "Faridabad Speeding Fortuner Accident",
+    "caption": "फरीदाबाद में रक्षाबंधन के दिन तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों को कुचला, परिवार में छाया मातम।",
     "hashtags": [
-      "NepalFlood",
-      "ViralVideo",
-      "FlashFlood",
-      "RescueOperation",
-      "NatureFury",
-      "NepalNews",
+      "Faridabad",
+      "Accident",
+      "RakshaBandhan",
+      "HaryanaNews",
       "BreakingNews"
     ],
     "visual_queries": [
-      "devastating flash flood landscape",
-      "destroyed houses debris flood",
-      "green house standing amidst flood",
-      "rescue operation boat flood"
+      "Haryana highway road India",
+      "damaged luxury car India",
+      "mourning family India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34182526/14490269_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "damaged luxury car India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476418/10476418-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation road india",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 17,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5837545/pexels-photo-5837545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Haryana highway road India",
+        "credit": "Shantanu Goyal",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35625315/pexels-photo-35625315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mourning family India",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37702876/pexels-photo-37702876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy indian highway traffic",
+        "credit": "Votso Sothu",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37380392/pexels-photo-37380392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian family festival celebration",
+        "credit": "Krishna Kids  Photography",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17742241/pexels-photo-17742241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian highway traffic at night",
+        "credit": "Nigel Tensing",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Faridabad Speeding Fortuner Accident",
+        "caption": "फरीदाबाद में रक्षाबंधन के दिन तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों को कुचला, परिवार में छाया मातम।\n\n#Faridabad #Accident #RakshaBandhan #HaryanaNews #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "फरीदाबाद में रक्षाबंधन के दिन तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों को कुचला, परिवार में छाया मातम।\n\n#Faridabad #Accident #RakshaBandhan #HaryanaNews #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "फरीदाबाद में रक्षाबंधन के दिन तेज रफ्तार फॉर्च्यूनर कार ने तीन भाई-बहनों को कुचला, परिवार में छाया मातम।\n\n#Faridabad #Accident #RakshaBandhan #HaryanaNews #BreakingNews"
+      },
+      "hashtags": [
+        "Faridabad",
+        "Accident",
+        "RakshaBandhan",
+        "HaryanaNews",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/faridabad_rakhi_fortuner_accident.wav",
+    "audio_duration_sec": 13.94,
+    "video_path": "videos/faridabad_rakhi_fortuner_accident.mp4",
+    "video_duration_sec": 21.96
+  },
+  {
+    "topic_label": "ias_divya_mittal_resignation",
+    "virality_score": 8,
+    "reason": "High-profile resignation of 13-year veteran IAS officer Divya Mittal has sparked intense political and administrative debate.",
+    "region": "india",
+    "headline": "&#039;मैं मूर्ख थी जो सोचा था कि...&#039;, IAS दिव्या मित्तल का भावुक पोस्ट",
+    "source_summary": "UP IAS Resignation News: देवरिया की पूर्व डीएम आईएएस दिव्या मित्तल ने 13 साल की नौकरी के बाद इस्तीफा दिया. अखिलेश यादव ने योगी सरकार पर ईमानदार अफसरों पर दबाव बनाने का आरोप लगाया.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/up-ias-divya-mittal-resigns-ex-deoria-dm-quits-civil-services-emotional-post-lcln-dskc-2632784-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T17:51:08+05:30",
+    "hook": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने इस्तीफा दे दिया है!",
+    "script_hi": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने तेरह साल की नौकरी के बाद अपने पद से इस्तीफा दे दिया है। देवरिया की पूर्व जिलाधिकारी दिव्या मित्तल ने एक भावुक सोशल मीडिया पोस्ट में लिखा कि मैं मूर्ख थी जो सोचा था कि...। इस इस्तीफे के बाद सियासी गलियारों में हलचल मच गई है। समाजवादी पार्टी के प्रमुख अखिलेश यादव ने योगी आदित्यनाथ सरकार पर ईमानदार अधिकारियों पर दबाव बनाने का गंभीर आरोप लगाया है।",
+    "tts_text_hi": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने तेरह साल की नौकरी के बाद अपने पद से इस्तीफा दे दिया है। देवरिया की पूर्व जिलाधिकारी दिव्या मित्तल ने एक भावुक सोशल मीडिया पोस्ट में लिखा कि मैं मूर्ख थी जो सोचा था कि। इस इस्तीफे के बाद सियासी गलियारों में हलचल मच गई है। समाजवादी पार्टी के प्रमुख अखिलेश यादव ने योगी आदित्यनाथ सरकार पर ईमानदार अधिकारियों पर दबाव बनाने का गंभीर आरोप लगाया है।",
+    "title": "IAS Divya Mittal Resignation: पूर्व डीएम दिव्या मित्तल के इस्तीफे पर सियासी बवाल",
+    "caption": "यूपी की चर्चित आईएएस अधिकारी दिव्या मित्तल के तेरह साल की सेवा के बाद दिए गए इस्तीफे ने सियासी भूचाल ला दिया है। अखिलेश यादव ने सरकार पर गंभीर आरोप लगाए हैं।",
+    "hashtags": [
+      "IASDivyaMittal",
+      "UPNews",
+      "AkhileshYadav",
+      "YogiAdityanath",
+      "BreakingNews",
+      "Deoria"
+    ],
+    "visual_queries": [
+      "Indian administrative office building India",
+      "Lucknow government building India",
+      "Uttar Pradesh politics protest India"
+    ],
+    "named_person": "Divya Mittal",
+    "named_person_hi": "दिव्या मित्तल",
+    "secondary_persons": [
+      "Akhilesh Yadav"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "दिव्या मित्तल",
+        "source": "fallback",
+        "query": "Divya Mittal",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian administrative office building India",
+        "credit": "Nishant Malik",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38305333/pexels-photo-38305333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Lucknow government building India",
+        "credit": "momentsbymanan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh politics protest India",
+        "credit": "Satyam Pixels",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "आईएएस दिव्या मित्तल का इस्तीफा! 'मैं मूर्ख थी जो...' वायरल पोस्ट 🚨",
+        "caption": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने इस्तीफा दे दिया है! 🚨\n\nपूर्व डीएम दिव्या मित्तल के इस फैसले के बाद सियासी गलियारों में हलचल मच गई है। उन्होंने सोशल मीडिया पर एक बेहद भावुक पोस्ट लिखकर अपनी भड़ास निकाली है, जो अब तेजी से वायरल हो रहा है।\n\nआखिर किस बात से आहत होकर उन्होंने यह कदम उठाया? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DivyaMittal #IASDivyaMittal #UPSCNews #IASResignation #UPNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने अचानक इस्तीफा दे दिया है! 🚨\n\n'मैं मूर्ख थी जो...' लिखकर उन्होंने एक ऐसा भावुक पोस्ट शेयर किया है जिसने हर किसी को हैरान कर दिया है। इस बड़े फैसले के पीछे की पूरी सच्चाई क्या है?\n\nपूरी कहानी वीडियो में देखें। शेयर करें और ऐसे ही अपडेट्स के लिए फॉलो करें!\n\n#DivyaMittal #IASDivyaMittal #UPSCNews #IASResignation #UPNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश की चर्चित आईएएस अधिकारी दिव्या मित्तल ने इस्तीफा दे दिया है! 🚨\n\n'मैं मूर्ख थी जो...' - पूर्व डीएम दिव्या मित्तल का यह भावुक पोस्ट सामने आते ही सियासी गलियारों में बवाल मच गया है। प्रशासनिक महकमे में हलचल मचा देने वाले इस इस्तीफे के पीछे की असली वजह क्या है, ये हर कोई जानना चाहता है।\n\nवीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#DivyaMittal #IASDivyaMittal #UPSCNews #IASResignation #UPNews"
+      },
+      "hashtags": [
+        "DivyaMittal",
+        "IASDivyaMittal",
+        "UPSCNews",
+        "IASResignation",
+        "UPNews"
+      ]
+    },
+    "audio_path": "audio/ias_divya_mittal_resignation.wav",
+    "audio_duration_sec": 30.14,
+    "video_path": "videos/ias_divya_mittal_resignation.mp4",
+    "video_duration_sec": 38.19
+  },
+  {
+    "topic_label": "september_2026_rule_changes_lpg_car",
+    "virality_score": 8,
+    "reason": "Important consumer news detailing price hikes for LPG, cars, and milk starting September 1 directly impacts every household.",
+    "region": "india",
+    "headline": "1 सितंबर से बदलेंगे ये नियम, LPG से कार और दूध तक महंगा",
+    "source_summary": "1 सितंबर 2026 से LPG की कीमत, e-KYC, कारों के दाम, मुंबई में दूध की कीमत और एयरपोर्ट इमिग्रेशन से जुड़े नियमों में बदलाव होंगे. जानिए इन बदलावों का आपकी जेब और रोजमर्रा की जिंदगी पर क्या असर पड़ेगा. जानें आप अब बजट को लेकर क्या कुछ प्लान कर सकते हैं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/1-september-rule-change-lpg-car-milk-airport-rules-explained-mmtm-2632656-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T14:10:13+05:30",
+    "hook": "एक सितंबर से आपकी जेब पर पड़ने वाला है बड़ा असर!",
+    "script_hi": "एक सितंबर दो हजार छब्बीस से कई बड़े नियम बदलने वाले हैं। एलपीजी सिलेंडर की कीमत से लेकर कारों के दाम और मुंबई में दूध तक सब महंगा होने जा रहा है। इसके अलावा एयरपोर्ट इमिग्रेशन और ई केवायसी से जुड़े नियमों में भी बदलाव होगा। इन बदलावों से आपके रोजमर्रा के खर्च और बजट पर सीधा असर पड़ेगा। समय रहते अपनी प्लानिंग कर लें ताकि महंगाई से झटका न लगे।",
+    "tts_text_hi": "एक सितंबर दो हजार छब्बीस से कई बड़े नियम बदलने वाले हैं। एलपीजी सिलेंडर की कीमत से लेकर कारों के दाम और मुंबई में दूध तक सब महंगा होने जा रहा है। इसके अलावा एयरपोर्ट इमिग्रेशन और ई केवायसी से जुड़े नियमों में भी बदलाव होगा। इन बदलावों से आपके रोजमर्रा के खर्च और बजट पर सीधा असर पड़ेगा। समय रहते अपनी प्लानिंग कर लें ताकि महंगाई से झटका न लगे।",
+    "title": "एक सितंबर से बदलेंगे नियम, एलपीजी से कार और दूध तक महंगा",
+    "caption": "एक सितंबर दो हजार छब्बीस से एलपीजी, कार, दूध और इमिग्रेशन नियमों में बदलाव। जानिए आपकी जेब पर इसका क्या असर होगा।",
+    "hashtags": [
+      "NewRules",
+      "InflationIndia",
+      "LPGPrice",
+      "MumbaiNews",
+      "SeptemberFirst",
+      "IndianEconomy",
+      "Budget2026"
+    ],
+    "visual_queries": [
+      "Indian LPG gas cylinder India",
+      "car showroom India",
+      "Mumbai street India",
+      "airport immigration counter India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11181242/pexels-photo-11181242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian LPG gas cylinder India",
+        "credit": "saikat ghosh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car showroom India",
+        "credit": "Akshay Shende",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Mumbai street India",
+        "credit": "Rizwan Sayyed",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian currency cash money",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "1 सितंबर से महंगे होंगे LPG, कार और दूध! आपकी जेब पर कितना असर? 🚨",
+        "caption": "सीसीटीवी या ब्रेकिंग नहीं, असली झटका आपकी रसोई को लगने वाला है! 🛑\n\n1 सितंबर से रसोई गैस सिलेंडर के दाम से लेकर कार और दूध तक सब कुछ महंगा होने जा रहा है। आम आदमी के बजट पर इसका सीधा असर पड़ना तय है।\n\nपूरी लिस्ट देखें और जानें आपकी जेब पर कितना बोझ बढ़ेगा।\n\n#LPGPriceHike #CarPrice #MilkPrice #September1 #Budget2024"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "1 सितंबर से आपकी जेब पर पड़ने वाला है बड़ा असर! 💸\n\nएलपीजी सिलेंडर से लेकर कार और दूध तक की कीमतें बदलने वाली हैं। इस बदलाव से आपका मासिक बजट कितना बिगड़ेगा?\n\nपूरी कहानी देखें और शेयर करें ताकि सबको पता चले।\n\n#LPGPriceHike #CarPrice #MilkPrice #September1 #Budget2024"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एक सितंबर से आपकी जेब पर पड़ने वाला है बड़ा असर! 📉\n\nन सिर्फ रसोई गैस बल्कि कार और दूध जैसी रोजमर्रा की चीजें भी अब महंगी होने जा रही हैं। महीने की पहली तारीख से लागू होने वाले इन नए बदलावों का आपकी सेविंग्स पर क्या असर होगा, पूरी बात जानिए इस वीडियो में।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ भी शेयर करें।\n\n#LPGPriceHike #CarPrice #MilkPrice #September1 #Budget2024"
+      },
+      "hashtags": [
+        "LPGPriceHike",
+        "CarPrice",
+        "MilkPrice",
+        "September1",
+        "Budget2024"
+      ]
+    },
+    "audio_path": "audio/september_2026_rule_changes_lpg_car.wav",
+    "audio_duration_sec": 25.91,
+    "video_path": "videos/september_2026_rule_changes_lpg_car.mp4",
+    "video_duration_sec": 33.89
+  },
+  {
+    "topic_label": "pm_modi_uzbekistan_supreme_honor",
+    "virality_score": 8,
+    "reason": "PM Modi receiving Uzbekistan's highest state honor along with a major long-term uranium supply deal is a major national milestone.",
+    "region": "india",
+    "headline": "PM मोदी को उज्बेकिस्तान का सर्वोच्च सम्मान, यूरेनियम सप्लाई पर भी बनी बात",
+    "source_summary": "पीएम मोदी इस समय उज्बेकिस्तान दौरे पर हैं. रविवार को उन्होंने राष्ट्रपति शावकत मिर्जियोयेव के साथ द्विपक्षीय बातचीत की. इस बातचीत में पीएम मोदी ने दोनों देशों के बीच सहयोग बढ़ाने से लेकर कई बड़े ऐलान किए हैं. पीएम को उज्बेकिस्तान का सर्वोच्च सम्मान भी दिया गया है.",
+    "source_url": "https://www.aajtak.in/world/story/prime-minister-narendra-modi-uzbekistan-president-shavkat-mirziyoyev-bilateral-meeting-ntc-acwi-dskc-2632669-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T14:32:06+05:30",
+    "hook": "पीएम मोदी को मिला उज्बेकिस्तान का सर्वोच्च सम्मान!",
+    "script_hi": "प्रधानमंत्री नरेंद्र मोदी को उज्बेकिस्तान के सर्वोच्च सम्मान से नवाजा गया है। रविवार को उज्बेकिस्तान के राष्ट्रपति शावकत मिर्जियोयेव के साथ उनकी द्विपक्षीय बातचीत हुई। इस दौरान दोनों देशों के बीच सहयोग बढ़ाने और यूरेनियम सप्लाई समेत कई बड़े मुद्दों पर अहम फैसले लिए गए।",
+    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी को उज्बेकिस्तान के सर्वोच्च सम्मान से नवाजा गया है। रविवार को उज्बेकिस्तान के राष्ट्रपति शावकत मिर्जियोयेव के साथ उनकी द्विपक्षीय बातचीत हुई। इस दौरान दोनों देशों के बीच सहयोग बढ़ाने और यूरेनियम सप्लाई समेत कई बड़े मुद्दों पर अहम फैसले लिए गए।",
+    "title": "PM मोदी को उज्बेकिस्तान का सर्वोच्च सम्मान",
+    "caption": "प्रधानमंत्री नरेंद्र मोदी को उज्बेकिस्तान के सर्वोच्च सम्मान से सम्मानित किया गया है। राष्ट्रपति शावकत मिर्जियोयेव के साथ बैठक में कई अहम समझौते हुए।",
+    "hashtags": [
+      "#NarendraModi",
+      "#Uzbekistan",
+      "#PMModi",
+      "#IndianDiplomacy",
+      "#NewsUpdates"
+    ],
+    "visual_queries": [
+      "Indian official meeting India",
+      "Uzbekistan government building India",
+      "diplomatic handshake India"
+    ],
+    "named_person": "Narendra Modi",
+    "named_person_hi": "नरेंद्र मोदी",
+    "secondary_persons": [
+      "Shavkat Mirziyoyev"
+    ],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "नरेंद्र मोदी",
+        "source": "fallback",
+        "query": "Narendra Modi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13282261/pexels-photo-13282261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian official meeting India",
+        "credit": "Devansh Bose",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12127782/pexels-photo-12127782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uzbekistan government building India",
+        "credit": "Jakhongir  Eshnazarov",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8112186/pexels-photo-8112186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "prime minister meeting handshake",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "diplomatic meeting leaders",
+        "credit": "August de Richelieu",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3183125/pexels-photo-3183125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "global business meeting",
+        "credit": "fauxels",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 29.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पीएम मोदी को उज्बेकिस्तान का सर्वोच्च सम्मान! 🎖️ जानिए क्या हुई बड़ी डील",
+        "caption": "उज्बेकिस्तान ने पीएम मोदी को अपने सर्वोच्च राष्ट्रीय सम्मान से नवाजा है। 🇮🇿 इसके साथ ही दोनों देशों के बीच अहम यूरेनियम सप्लाई और सामरिक मुद्दों पर बड़ी बात हुई है, जिससे भारत की ऊर्जा सुरक्षा को और मजबूती मिलेगी।\n\nआपको क्या लगता है, इस डील से भारत को कितना फायदा होगा? कमेंट में बताएं और पूरी कहानी देखें।\n\n#PMModi #Uzbekistan #IndianDiplomacy #UraniumDeal #ModiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उज्बेकिस्तान ने पीएम मोदी को दिया अपना सर्वोच्च सम्मान! 🎖️ साथ ही यूरेनियम सप्लाई को लेकर हुई ऐसी डील, जो भारत के लिए बेहद अहम है। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और ऐसे ही अपडेट्स के लिए शेयर करें।\n\n#PMModi #Uzbekistan #IndianDiplomacy #UraniumDeal #ModiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पीएम मोदी के नाम एक और बड़ा अंतरराष्ट्रीय सम्मान जुड़ गया है! उज्बेकिस्तान ने उन्हें अपने सर्वोच्च राष्ट्रीय सम्मान से सम्मानित किया है। इस दौरान दोनों देशों के बीच यूरेनियम सप्लाई और कई अहम रणनीतिक समझौतों पर भी मुहर लगी है।\n\nआपकी इस बड़ी कूटनीतिक सफलता पर क्या राय है? हमें कमेंट करके जरूर बताएं।\n\n#PMModi #Uzbekistan #IndianDiplomacy #UraniumDeal #ModiNews"
+      },
+      "hashtags": [
+        "PMModi",
+        "Uzbekistan",
+        "IndianDiplomacy",
+        "UraniumDeal",
+        "ModiNews"
+      ]
+    },
+    "audio_path": "audio/pm_modi_uzbekistan_supreme_honor.wav",
+    "audio_duration_sec": 20.24,
+    "video_path": "videos/pm_modi_uzbekistan_supreme_honor.mp4",
+    "video_duration_sec": 28.16
+  },
+  {
+    "topic_label": "indigo_flight_family_eating_thepla",
+    "virality_score": 7,
+    "reason": "Viral video of an Indian family turning an Indiago flight into a local 'dhaba' by eating thepla triggers widespread online debate on civic sense.",
+    "region": "india",
+    "headline": "इंडिगो फ्लाइट में फैमिली ने खोला 'ढाबा'! Video देख भड़के लोग बोले- इन्हें बैन कर दो",
+    "source_summary": "Indian family eating thepla on flight: इंडिगो फ्लाइट में ढोकला-थेपला बांटते और खाते भारतीय परिवार का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है. 30 हजार फीट पर खुली इस 'देसी रसोई' ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है.",
+    "source_url": "https://ndtv.in/zara-hatke/indigo-flight-viral-video-indian-family-thepla-dhokla-feast-civic-sense-debate-11977884#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 15:38:09 +0530",
+    "hook": "इंडिगो फ्लाइट में खुला देसी ढाबा! तीस हजार फीट की ऊंचाई पर थेपला पार्टी का वीडियो वायरल।",
+    "script_hi": "इंडिगो की उड़ान में एक भारतीय परिवार ने सीट पर ही ढोकला और थेपला बांटना शुरू कर दिया। तीस हजार फीट की ऊंचाई पर खुली इस देसी रसोई का वीडियो सोशल मीडिया पर वायरल हो गया है। लोग सिविक सेंस पर बहस कर रहे हैं। कुछ इसे अपनापन बता रहे हैं, तो कुछ पाबंदी की मांग कर रहे हैं।",
+    "tts_text_hi": "इंडिगो की उड़ान में एक भारतीय परिवार ने सीट पर ही ढोकला और थेपला बांटना शुरू कर दिया। तीस हजार फीट की ऊंचाई पर खुली इस देसी रसोई का वीडियो सोशल मीडिया पर वायरल हो गया है। लोग सिविक सेंस पर बहस कर रहे हैं। कुछ इसे अपनापन बता रहे हैं, तो कुछ पाबंदी की मांग कर रहे हैं।",
+    "title": "इंडिगो फ्लाइट में परिवार ने खोला ढाबा, वीडियो वायरल",
+    "caption": "इंडिगो फ्लाइट में ढोकला और थेपला खाने का वीडियो वायरल, सोशल मीडिया पर छिड़ी बहस।",
+    "hashtags": [
+      "IndigoFligth",
+      "ViralVideo",
+      "Thepla",
+      "DesiJugaad",
+      "SocialMedia",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "Indigo airplane interior India",
+      "Indian family eating food India",
+      "airplane passenger window view India",
+      "social media smartphone screen India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific viral video footage of a unique incident which cannot be represented by generic stock footage.",
+    "flag_reason": "The story centers on a specific viral video that requires the actual real footage, which generic stock B-roll cannot replace.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30962832/13236695_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "destroyed houses debris flood",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18940341/pexels-photo-18940341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38865291/pexels-photo-38865291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "devastating flash flood landscape",
-        "credit": "akın  akdağ",
+        "query": "Indigo airplane interior India",
+        "credit": "Karthick s",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32442294/pexels-photo-32442294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9345665/pexels-photo-9345665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "green house standing amidst flood",
-        "credit": "Anoop VS",
+        "query": "Indian family eating food India",
+        "credit": "Anna Pou",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19673505/pexels-photo-19673505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rescue operation boat flood",
-        "credit": "Arto Suraj",
+        "query": "airplane passenger window view India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "social media smartphone screen India",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
+  },
+  {
+    "topic_label": "trump_venezuela_oil_control_deal_global",
+    "virality_score": 7,
+    "reason": "Donald Trump announcing a historic deal for the US to control 65 billion barrels of Venezuelan oil is a major global geopolitical story.",
+    "region": "global",
+    "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "source_summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sun, 30 Aug 2026 04:01:02 GMT",
+    "hook": "अमेरिका को मिला वेनेजुएला का भारी कच्चा तेल!",
+    "script_hi": "अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप ने वेनेजुएला के साथ एक ऐतिहासिक समझौते की घोषणा की है। इसके तहत अमेरिका के नियंत्रण में पैंसठ अरब बैरल तेल आएगा। वेनेजुएला की अंतरिम राष्ट्रपति का कहना है कि इस अनोखे समझौते से उनके देश की अर्थव्यवस्था को पुनर्जीवित करने में मदद मिलेगी।",
+    "tts_text_hi": "अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप ने वेनेजुएला के साथ एक ऐतिहासिक समझौते की घोषणा की है। इसके तहत अमेरिका के नियंत्रण में पैंसठ अरब बैरल तेल आएगा। वेनेजुएला की अंतरिम राष्ट्रपति का कहना है कि इस अनोखे समझौते से उनके देश की अर्थव्यवस्था को पुनर्जीवित करने में मदद मिलेगी।",
+    "title": "अमेरिका और वेनेजुएला के बीच ऐतिहासिक तेल समझौता",
+    "caption": "डॉनल्ड ट्रंप ने वेनेजुएला के साथ पैंसठ अरब बैरल तेल नियंत्रण को लेकर ऐतिहासिक समझौते का किया ऐलान।",
+    "hashtags": [
+      "DonaldTrump",
+      "Venezuela",
+      "OilDeal",
+      "USA",
+      "WorldNews",
+      "Economy"
+    ],
+    "visual_queries": [
+      "US flag and oil refinery",
+      "Venezuelan oil field barrels",
+      "global economy stock market"
+    ],
+    "named_person": "Donald Trump",
+    "named_person_hi": "डॉनल्ड ट्रंप",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "डॉनल्ड ट्रंप",
+        "source": "fallback",
+        "query": "Donald Trump",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15970027/pexels-photo-15970027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US flag and oil refinery",
+        "credit": "Jakub Pabis",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15730185/pexels-photo-15730185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Venezuelan oil field barrels",
+        "credit": "Alimurat Üral",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3806756/pexels-photo-3806756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "global economy stock market",
+        "credit": "Markus Spiske",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अमेरिका के हाथ लगा वेनेजुएला का 65 अरब बैरल कच्चा तेल! 🛢️",
+        "caption": "अमेरिका को मिला वेनेजुएला का भारी कच्चा तेल! 🛢️\n\nडोनाल्ड ट्रंप ने वेनेजुएला के साथ इस डील को 'ऐतिहासिक' बताया है। इस समझौते के बाद अब अमेरिकी नियंत्रण में आ गया है 65 अरब बैरल कच्चा तेल, जिससे वैश्विक ऊर्जा बाजार में बड़ा बदलाव तय माना जा रहा है।\n\nपूरी कहानी वीडियो में देखें।\n\n#USVenezuelaOil #DonaldTrump #OilDeal #GlobalNews #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अमेरिका को मिला वेनेजुएला का भारी कच्चा तेल! 🛢️\n\n65 अरब बैरल तेल पर नियंत्रण का यह सौदा ग्लोबल मार्केट की तस्वीर बदल देगा। ट्रंप ने इसे इतिहास का सबसे बड़ा समझौता बताया है।\n\nआपकी इस डील पर क्या राय है? कमेंट में बताएं।\n\n#USVenezuelaOil #DonaldTrump #OilDeal #GlobalNews #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अमेरिका को मिला वेनेजुएला का भारी कच्चा तेल! 🛢️\n\nडोनाल्ड ट्रंप ने एक ऐसा ऐतिहासिक समझौता किया है जिसके बाद अमेरिका के नियंत्रण में 65 अरब बैरल कच्चा तेल आ गया है। अंतरराष्ट्रीय राजनीति और बाजार में इस डील के मायने बहुत बड़े हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#USVenezuelaOil #DonaldTrump #OilDeal #GlobalNews #BreakingNews"
+      },
+      "hashtags": [
+        "USVenezuelaOil",
+        "DonaldTrump",
+        "OilDeal",
+        "GlobalNews",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/trump_venezuela_oil_control_deal_global.wav",
+    "audio_duration_sec": 17.31,
+    "video_path": "videos/trump_venezuela_oil_control_deal_global.mp4",
+    "video_duration_sec": 25.37
   }
 ]

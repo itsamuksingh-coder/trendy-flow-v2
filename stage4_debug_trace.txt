@@ -1,3 +1,8 @@
-ready_labels: []
+ready_labels: ['faridabad_rakhi_fortuner_accident', 'ias_divya_mittal_resignation', 'pm_modi_uzbekistan_supreme_honor', 'september_2026_rule_changes_lpg_car', 'trump_venezuela_oil_control_deal_global']
 
-nepal_flood_surviving_house_video: SKIPPED (not in ready set)
+faridabad_rakhi_fortuner_accident: SUCCESS -> video_path=videos/faridabad_rakhi_fortuner_accident.mp4 dur=21.956553
+ias_divya_mittal_resignation: SUCCESS -> video_path=videos/ias_divya_mittal_resignation.mp4 dur=38.185215
+september_2026_rule_changes_lpg_car: SUCCESS -> video_path=videos/september_2026_rule_changes_lpg_car.mp4 dur=33.889887
+pm_modi_uzbekistan_supreme_honor: SUCCESS -> video_path=videos/pm_modi_uzbekistan_supreme_honor.mp4 dur=28.156553
+indigo_flight_family_eating_thepla: SKIPPED (not in ready set)
+trump_venezuela_oil_control_deal_global: SUCCESS -> video_path=videos/trump_venezuela_oil_control_deal_global.mp4 dur=25.368231
