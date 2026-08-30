@@ -1,192 +1,316 @@
 [
   {
-    "topic_label": "nepal_teacher_saves_1643_kids",
-    "virality_score": 10,
-    "reason": "An incredibly inspiring and viral human-interest story about a teacher saving over 1,600 children during a disaster.",
+    "topic_label": "nepal_teacher_saves_students",
+    "virality_score": 9,
+    "reason": "Highly emotional and heroic story of a teacher saving 1643 kids during the Nepal disaster.",
     "region": "india",
     "headline": "महा-जलप्रलय सामने था, स्कूल में 1643 बच्चे... नेपाली शिक्षक ने ऐसे बचाई सबकी जान",
     "source_summary": "नेपाल में एक स्कूल प्रिंसिपल ने बाढ़ का पानी स्कूल की ओर बढ़ने की चेतावनी मिलते ही 1,643 बच्चों को सुरक्षित बाहर निकाल लिया. उनका यह समय पर लिया फैसला सैकड़ों लोगों की जान लेने वाली आपदा के बीच बड़ी मिसाल बन गया.",
     "source_url": "https://www.aajtak.in/world/story/nepal-flash-flood-rajendra-dawadi-school-children-rescue-nuwakot-ntc-dhrj-dskc-2632590-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-30T12:08:47+05:30",
-    "hook": "एक हजार छह सौ तैंतालीस बच्चों की जान दांव पर थी, और फिर हुआ एक चमत्कार!",
-    "script_hi": "नेपाल में महा-जलप्रलय का खतरा मंडरा रहा था, स्कूल में एक हजार छह सौ तैंतालीस बच्चे फंस गए थे। ऐसे में प्रिंसिपल ने दिखाई सूझबूझ और समय रहते सभी को सुरक्षित बाहर निकाल लिया। उनकी यह बहादुरी अब पूरे देश में मिसाल बन गई है।",
-    "tts_text_hi": "नेपाल में महा-जलप्रलय का खतरा मंडरा रहा था, स्कूल में एक हजार छह सौ तैंतालीस बच्चे फंस गए थे। ऐसे में प्रिंसिपल ने दिखाई सूझबूझ और समय रहते सभी को सुरक्षित बाहर निकाल लिया। उनकी यह बहादुरी अब पूरे देश में मिसाल बन गई है।",
+    "hook": "नेपाल में एक स्कूल प्रिंसिपल की सूझबूझ से सोलह सौ से ज्यादा बच्चों की जान बची!",
+    "script_hi": "नेपाल में महा-जलप्रलय के बीच एक स्कूल में एक हजार छह सौ तैंतालीस बच्चे फंसे थे। प्रिंसिपल ने सही समय पर फैसला लिया और सभी बच्चों को सुरक्षित बाहर निकाल लिया। उनकी बहादुरी अब चर्चा का विषय बनी हुई है।",
+    "tts_text_hi": "नेपाल में महा-जलप्रलय के बीच एक स्कूल में एक हजार छह सौ तैंतालीस बच्चे फंसे थे। प्रिंसिपल ने सही समय पर फैसला लिया और सभी बच्चों को सुरक्षित बाहर निकाल लिया। उनकी बहादुरी अब चर्चा का विषय बनी हुई है।",
     "title": "नेपाल में स्कूल प्रिंसिपल की बहादुरी",
-    "caption": "नेपाल में बाढ़ के बीच प्रिंसिपल की सूझबूझ से बची १६४३ बच्चों की जान।",
+    "caption": "नेपाल में बाढ़ के दौरान स्कूल प्रिंसिपल ने दिखाई हिम्मत, बचाई 1643 बच्चों की जान।",
     "hashtags": [
-      "Nepal",
-      "Floods",
-      "HeroTeacher",
+      "NepalFlood",
+      "Hero",
       "Inspiration",
-      "NepalNews",
-      "Bravery"
+      "NewsHindi",
+      "RealHero"
     ],
     "visual_queries": [
-      "heavy rain storm landscape",
-      "students walking school hallway",
-      "teacher helping children escape",
-      "safety rescue operation"
+      "flood water rising",
+      "school building exterior",
+      "crowded school classroom",
+      "evacuation rescue operation"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific heroic event involving a school principal and 1643 students; generic stock imagery will not represent the specific school or the individuals involved, requiring manual addition of the actual footage or images if available.",
+    "flag_reason": "Needs real images/footage of the specific school or incident to avoid generic misrepresentation of the event.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/12101458/12101458-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/30894672/13208928_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "heavy rain storm landscape",
-        "credit": "Peggy Anke",
-        "source_duration_sec": 36,
+        "query": "flooding disaster rescue",
+        "credit": "Djimmer Koster",
+        "source_duration_sec": 13,
         "duration_sec": 6
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6996797/6996797-hd_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14992078/pexels-photo-14992078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "teacher helping children escape",
-        "credit": "Artem Podrez",
-        "source_duration_sec": 12,
-        "duration_sec": 6
+        "query": "crowded school classroom",
+        "credit": "Bengi  River",
+        "duration_sec": 5
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29094817/12571081_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14776558/pexels-photo-14776558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "safety rescue operation",
-        "credit": "Fahrettin Turgut",
-        "source_duration_sec": 12,
-        "duration_sec": 6
+        "query": "evacuation rescue operation",
+        "credit": "Quang Nguyen Vinh",
+        "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 18,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "ladakh_army_helicopter_rescue",
-    "virality_score": 10,
-    "reason": "Visual, high-stakes military rescue operation at 18,600 feet; perfect for short-form video formats.",
+    "topic_label": "indian_army_high_altitude_rescue",
+    "virality_score": 9,
+    "reason": "Breathtaking visual of a helicopter rescue at 18,600 feet; shows extreme military bravery.",
     "region": "india",
     "headline": "VIDEO: 18,600 फीट की ऊंचाई और हवा में एक पहिये पर टिका हेलिकॉप्टर, लद्दाख में सेना का सांसें थाम देने वाला रेस्क्यू ऑपरेशन",
     "source_summary": "Indian Army Nun Kun Rescue video: 18,600 फीट की बर्फीली ऊंचाई, ढलती रोशनी और खड़ी ढलान पर हवा में सिर्फ एक स्किड पर टिका हेलिकॉप्टर. देखें कैसे भारतीय फौज ने एविएशन की सारी सीमाएं पार कर बचाई एक मरीज की जिंदगी.",
     "source_url": "https://ndtv.in/india/video-indian-army-aviation-daring-rescue-nun-kun-ladakh-18600-feet-balancing-on-one-skid-11976814#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Sun, 30 Aug 2026 09:02:47 +0530",
-    "hook": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात देती भारतीय सेना की जांबाजी!",
-    "script_hi": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना ने एक ऐसा रेस्क्यू ऑपरेशन किया जिसे देखकर किसी की भी सांसें थम जाएं। अठारह हजार छह सौ फीट की ऊंचाई पर एक मरीज को बचाने के लिए सेना के पायलट ने हेलिकॉप्टर को केवल एक पहिये पर हवा में टिकाए रखा। नुन कुन की खड़ी ढलान और खतरनाक मौसम के बावजूद भारतीय जांबाजों ने एविएशन की सारी सीमाएं पार कर लीं। यह वीडियो भारतीय सेना के साहस और कुशलता का एक और बेमिसाल उदाहरण है।",
-    "tts_text_hi": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना ने एक ऐसा रेस्क्यू ऑपरेशन किया जिसे देखकर किसी की भी सांसें थम जाएं। अठारह हजार छह सौ फीट की ऊंचाई पर एक मरीज को बचाने के लिए सेना के पायलट ने हेलिकॉप्टर को केवल एक स्किड पर हवा में टिकाए रखा। नुन कुन की खड़ी ढलान और खतरनाक मौसम के बावजूद भारतीय जांबाजों ने एविएशन की सारी सीमाएं पार कर लीं। यह वीडियो भारतीय सेना के साहस और कुशलता का एक और बेमिसाल उदाहरण है।",
-    "title": "लद्दाख में सेना का जांबाज रेस्क्यू",
-    "caption": "18,600 फीट की ऊंचाई पर भारतीय सेना का साहसी रेस्क्यू ऑपरेशन। #IndianArmy #Ladakh #RescueMission #Bravery #IndianAirForce #MountainRescue",
+    "hook": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात देने वाला यह रेस्क्यू ऑपरेशन देखकर आप दंग रह जाएंगे!",
+    "script_hi": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना ने एक असंभव मिशन को मुमकिन कर दिखाया। अठारह हजार छह सौ फीट की ऊंचाई पर, नुम-कुन में सेना के हेलिकॉप्टर ने खड़ी ढलान पर सिर्फ एक स्किड टिकाकर एक मरीज की जान बचाई। यह साहस और एविएशन कौशल का बेहतरीन उदाहरण है।",
+    "tts_text_hi": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात देने वाला यह रेस्क्यू ऑपरेशन देखकर आप दंग रह जाएंगे। लद्दाख की बर्फीली चोटियों पर भारतीय सेना ने एक असंभव मिशन को मुमकिन कर दिखाया। नुम-कुन में सेना के हेलिकॉप्टर ने खड़ी ढलान पर सिर्फ एक स्किड टिकाकर एक मरीज की जान बचाई। यह साहस और एविएशन कौशल का बेहतरीन उदाहरण है।",
+    "title": "भारतीय सेना का लद्दाख में साहसी रेस्क्यू",
+    "caption": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना का जांबाज रेस्क्यू मिशन।",
     "hashtags": [
       "IndianArmy",
       "Ladakh",
       "RescueMission",
       "Bravery",
       "IndianAirForce",
-      "MountainRescue",
-      "SaluteToSoldiers"
+      "NewsIndia",
+      "HelicopterRescue"
     ],
     "visual_queries": [
-      "snowy mountain peaks Ladakh India",
-      "military helicopter in flight India",
-      "helicopter landing on steep mountain slope India",
-      "Indian soldiers performing rescue operation"
+      "snowy mountain range India",
+      "Indian Army helicopter flying",
+      "mountain rescue mission India",
+      "helicopter landing on snowy peak India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral rescue video from Ladakh; generic stock footage of helicopters or mountains will not capture the unique, mission-critical event described. Actual footage needs to be added manually.",
+    "flag_reason": "The story relies on a specific viral video of a high-altitude rescue that requires manual insertion of the original footage, as generic stock footage would not accurately represent this event.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/30328363/13000330_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/37511157/15892120_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "high altitude helicopter mountain",
-        "credit": "Zenia Diamond",
-        "source_duration_sec": 5,
+        "query": "Indian Army helicopter flying",
+        "credit": "Pavan Sai .D",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7861519/pexels-photo-7861519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "snowy mountain range India",
+        "credit": "Anuj Yadav",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15157851/pexels-photo-15157851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13074482/pexels-photo-13074482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "snowy mountain peaks Ladakh India",
-        "credit": "Bibhukalyan Acharya",
+        "query": "helicopter landing on snowy peak India",
+        "credit": "Nicholas Ang",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "nepal_97_year_old_survivor",
+    "virality_score": 9,
+    "reason": "An incredible 'warrior' survival story of a 97-year-old woman found after 4 days under rubble.",
+    "region": "india",
+    "headline": "नेपाल में 97 साल की गुना माया ने मौत को दी मात! मलबे से 'योद्धा' की तरह निकलीं बाहर",
+    "source_summary": "पुलिस और नेपाली सेना को गुना माया बोहरा को मलबे से बाहर निकालने में करीब चार घंटे का समय लग गया. गुना माया बोहारा के भतीजे का बेटा दीपक बोहरा भी बचाव कार्य में मदद करने के लिए काठमांडू से आया था.",
+    "source_url": "https://ndtv.in/india/97-year-old-guna-maya-bohara-emerged-from-rubble-like-a-warrior-became-face-of-nepal-floods-11976890#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 09:35:28 +0530",
+    "hook": "सत्तानवे साल की बुजुर्ग महिला ने मौत को मात दी!",
+    "script_hi": "सत्तानवे साल की गुना माया ने मौत को मात दे दी है। नेपाल में मलबे के नीचे दबी इस बुजुर्ग महिला को चार घंटे की कड़ी मशक्कत के बाद सुरक्षित बाहर निकाला गया। एक योद्धा की तरह संघर्ष कर उनकी जान बचाई गई।",
+    "tts_text_hi": "सत्तानवे साल की गुना माया ने मौत को मात दे दी है। नेपाल में मलबे के नीचे दबी इस बुजुर्ग महिला को चार घंटे की कड़ी मशक्कत के बाद सुरक्षित बाहर निकाला गया। एक योद्धा की तरह संघर्ष कर उनकी जान बचाई गई।",
+    "title": "नेपाल में 97 साल की महिला ने मौत को हराया",
+    "caption": "नेपाल में सत्तानवे साल की गुना माया ने मलबे में चार घंटे दबे रहने के बाद मौत को मात दी।",
+    "hashtags": [
+      "Nepal",
+      "SurvivalStory",
+      "Inspiration",
+      "NewsHindi",
+      "GunaMaya",
+      "NepalNews"
+    ],
+    "visual_queries": [
+      "Nepal mountain landscape",
+      "debris pile after disaster",
+      "rescue team working together",
+      "elderly woman smiling portrait"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Story relies on specific rescue footage of Guna Maya which cannot be replaced by generic stock photos.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35890635/15222630_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Nepal mountain landscape",
+        "credit": "Yubaraj stha",
+        "source_duration_sec": 21,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "debris pile after disaster",
+        "credit": "akın  akdağ",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 11,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ladakh_helicopter_rescue_visuals",
+    "virality_score": 8,
+    "reason": "Another angle on the incredible high-altitude rescue, perfect for short-form visual storytelling.",
+    "region": "india",
+    "headline": "वीडियो: 18600 फीट पर पायलटों का साहस, नुन-कुन की पहाड़ी पर सेना के हेलीकॉप्टर ने एक स्किड टिकाकर मरीज को बचाया",
+    "source_summary": "वीडियो: 18600 फीट पर पायलटों का साहस, नुन-कुन की पहाड़ी पर सेना के हेलीकॉप्टर ने एक स्किड टिकाकर मरीज को बचाया----Indian Army Aviation Pilots Conduct High-Altitude Rescue at 18,600 Feet Near Nun Kun",
+    "source_url": "https://www.amarujala.com/india-news/indian-army-aviation-pilots-conduct-high-altitude-rescue-at-18-600-feet-near-nun-kun-2026-08-30",
+    "source_name": "Amar Ujala",
+    "published": "Sun, 30 Aug 2026 11:38:37 +0530",
+    "hook": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात दे दी भारतीय सेना के जांबाजों ने।",
+    "script_hi": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात दे दी भारतीय सेना के जांबाजों ने। लद्दाख की नुन-कुन की दुर्गम पहाड़ियों में सेना के पायलटों ने साहस की मिसाल पेश की है। एक मरीज को बचाने के लिए हेलीकॉप्टर का केवल एक स्किड पहाड़ पर टिकाया गया, ताकि मरीज को सुरक्षित एयरलिफ्ट किया जा सके। मौसम और ऊंचाई की तमाम चुनौतियों के बावजूद, सेना के जांबाज पायलटों ने ये साहसी रेस्क्यू मिशन पूरा किया। सलाम है इन वीरों को।",
+    "tts_text_hi": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात दे दी भारतीय सेना के जांबाजों ने। लद्दाख की नुन-कुन की दुर्गम पहाड़ियों में सेना के पायलटों ने साहस की मिसाल पेश की है। एक मरीज को बचाने के लिए हेलीकॉप्टर का केवल एक स्किड पहाड़ पर टिकाया गया, ताकि मरीज को सुरक्षित एयरलिफ्ट किया जा सके। मौसम और ऊंचाई की तमाम चुनौतियों के बावजूद, सेना के जांबाज पायलटों ने ये साहसी रेस्क्यू मिशन पूरा किया। सलाम है इन वीरों को।",
+    "title": "सेना का जांबाज रेस्क्यू मिशन",
+    "caption": "लद्दाख की नुन-कुन पहाड़ियों में भारतीय सेना के पायलटों का अदम्य साहस। 18600 फीट की ऊंचाई पर एक स्किड टिकाकर बचाई मरीज की जान।",
+    "hashtags": [
+      "IndianArmy",
+      "Ladakh",
+      "RescueMission",
+      "IndianAirForce",
+      "Bravery",
+      "NunKun",
+      "Heroes",
+      "IndianMilitary"
+    ],
+    "visual_queries": [
+      "Indian Army helicopter in mountains",
+      "high altitude snowy mountain peaks India",
+      "military helicopter rescue operation India",
+      "Indian army pilots cockpit view",
+      "mountain rescue mission landscape India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral rescue video; generic stock B-roll of helicopters cannot illustrate this specific real-world event accurately. Needs manual insertion of the actual rescue footage.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/17530731/17530731-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "mountain rescue mission landscape India",
+        "credit": "João  Pavese",
+        "source_duration_sec": 27,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31701734/pexels-photo-31701734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high altitude snowy mountain peaks India",
+        "credit": "Saksham Soni",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17624293/pexels-photo-17624293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19635885/pexels-photo-19635885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "military helicopter in flight India",
-        "credit": "Karolis Samuolis",
+        "query": "military helicopter rescue operation India",
+        "credit": "Yahya Gopalani",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17650352/pexels-photo-17650352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3850910/pexels-photo-3850910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "helicopter landing on steep mountain slope India",
-        "credit": "Imad Clicks",
+        "query": "Indian army pilots cockpit view",
+        "credit": "Ricky Esquivel",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "manipur_suitcase_body_discovery",
-    "virality_score": 9,
-    "reason": "High-shock value crime story involving a gruesome discovery in a train suitcase, likely to trend.",
+    "topic_label": "chennai_suitcase_murder",
+    "virality_score": 8,
+    "reason": "Shocking true-crime case with a grisly discovery in a train, guaranteed high viewer engagement.",
     "region": "india",
     "headline": "ट्रेन में रखे सूटकेस में पैक थी महिला... अब मणिपुर से पकड़ा गया आरोपी",
     "source_summary": "तमिलनाडु एक्सप्रेस आगरा कैंट स्टेशन पहुंची थी. ट्रेन के एक डिब्बे में रखा लाल रंग का सूटकेस यात्रियों के लिए परेशानी की वजह बन रहा था. उसमें से तेज बदबू आ रही थी. पुलिस ने सूटकेस खोला तो अंदर महिला के शव के टुकड़े मिले. सिर गायब था. जांच की कड़ियां जब पीछे की तरफ जोड़ी गईं तो कहानी चेन्नई के गुडुवांचेरी तक पहुंची. अब मुख्य आरोपी मणिपुर से गिरफ्तार कर लिया गया है.",
     "source_url": "https://www.aajtak.in/india/news/story/womans-body-parts-found-packed-in-suitcase-train-agra-key-accused-arrested-lcla-rptc-2632608-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-30T13:00:36+05:30",
-    "hook": "ट्रेन के सूटकेस में मिली लाश, देशभर में सनसनी!",
-    "script_hi": "ट्रेन के अंदर रखे एक लाल सूटकेस से आ रही बदबू ने आगरा कैंट स्टेशन पर खलबली मचा दी। जब पुलिस ने सूटकेस खोला तो अंदर एक महिला का शव टुकड़ों में मिला। सिर गायब था। जांच आगे बढ़ी तो पता चला कि यह खौफनाक वारदात चेन्नई से जुड़ी है। अब इस हत्याकांड के मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है।",
-    "tts_text_hi": "ट्रेन के अंदर रखे एक लाल सूटकेस से आ रही बदबू ने आगरा कैंट स्टेशन पर खलबली मचा दी। जब पुलिस ने सूटकेस खोला तो अंदर एक महिला का शव टुकड़ों में मिला। सिर गायब था। जांच आगे बढ़ी तो पता चला कि यह खौफनाक वारदात चेन्नई से जुड़ी है। अब इस हत्याकांड के मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है।",
-    "title": "ट्रेन सूटकेस हत्याकांड का आरोपी गिरफ्तार",
-    "caption": "आगरा कैंट स्टेशन पर ट्रेन के सूटकेस में मिली महिला की लाश, मुख्य आरोपी मणिपुर से गिरफ्तार।",
+    "hook": "ट्रेन के सूटकेस में मिली लाश, खुला खौफनाक राज!",
+    "script_hi": "आगरा कैंट स्टेशन पर खड़ी तमिलनाडु एक्सप्रेस में एक लावारिस लाल सूटकेस से आ रही बदबू ने सबको हिला दिया। पुलिस ने जब सूटकेस खोला तो अंदर एक महिला का शव टुकड़ों में मिला। सिर गायब था। जांच के तार चेन्नई से होते हुए मणिपुर तक जुड़े और आखिरकार मुख्य आरोपी गिरफ्तार कर लिया गया है।",
+    "tts_text_hi": "आगरा कैंट स्टेशन पर खड़ी तमिलनाडु एक्सप्रेस में एक लावारिस लाल सूटकेस से आ रही बदबू ने सबको हिला दिया। पुलिस ने जब सूटकेस खोला तो अंदर एक महिला का शव टुकड़ों में मिला। सिर गायब था। जांच के तार चेन्नई से होते हुए मणिपुर तक जुड़े और आखिरकार मुख्य आरोपी गिरफ्तार कर लिया गया है।",
+    "title": "ट्रेन में सूटकेस से मिली लाश, मणिपुर से आरोपी गिरफ्तार",
+    "caption": "आगरा कैंट स्टेशन पर तमिलनाडु एक्सप्रेस के सूटकेस में मिली महिला की लाश, मणिपुर से हुआ आरोपी गिरफ्तार।",
     "hashtags": [
       "CrimeNews",
       "Agra",
       "TamilNaduExpress",
-      "MurderCase",
       "Manipur",
-      "IndianPolice",
-      "CrimeAlert",
+      "CrimeInvestigation",
+      "HindiNews",
       "BreakingNews"
     ],
     "visual_queries": [
       "Indian railway station platform",
-      "red suitcase luggage",
-      "Indian police investigating crime scene",
-      "India police handcuffs arrest"
+      "red suitcase on train seat",
+      "police investigation forensic team India",
+      "map of India highlighting Manipur",
+      "arrested suspect handcuffs police"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific, widely reported violent crime incident; stock footage will be generic and cannot replace actual crime scene or investigation photos.",
+    "flag_reason": "The story refers to a specific, gruesome ongoing criminal investigation involving a dismembered body, which requires careful handling of imagery to avoid violating safety policies regarding gore or sensitive graphic content.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/35064156/14853174_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indian police investigating crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "Indian railway station",
+        "credit": "VIKRAM GUPTA",
+        "source_duration_sec": 14,
         "duration_sec": 6
       },
       {
@@ -199,353 +323,185 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36931056/pexels-photo-36931056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "red suitcase luggage",
-        "credit": "Beyza Emişen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
         "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India police handcuffs arrest",
+        "query": "arrested suspect handcuffs police",
         "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "noida_child_murder_encounter",
-    "virality_score": 9,
-    "reason": "Combination of child crime and police encounter justice, which consistently performs well on news shorts.",
-    "region": "india",
-    "headline": "6 साल की बच्ची की हत्या, मुठभेड़ में आरोपी ढेर",
-    "source_summary": "ग्रेटर नोएडा में 6 साल की बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया. CCTV में आरोपी बोरी ले जाते दिखा था. पुलिस ने बच्ची का शव बरामद कर पोस्टमार्टम कराया है और मामले की जांच जारी है. वीडियो में जानें क्या है पूरा मामला.",
-    "source_url": "https://www.aajtak.in/short-videos/video/greater-noida-6-year-old-girl-murder-accused-killed-police-encounter-details-mmtm-2632602-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:49:17+05:30",
-    "hook": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी का एनकाउंटर!",
-    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या का आरोपी पुलिस मुठभेड़ में ढेर हो गया है। सीसीटी*वी में आरोपी मासूम का शव बोरी में ले जाते हुए दिखा था। पुलिस ने बच्ची का शव बरामद कर पोस्टमार्टम के लिए भेज दिया है और मामले की जांच जारी है।",
-    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या का आरोपी पुलिस मुठभेड़ में ढेर हो गया है। सीसीटीवी में आरोपी मासूम का शव बोरी में ले जाते हुए दिखा था। पुलिस ने बच्ची का शव बरामद कर पोस्टमार्टम के लिए भेज दिया है और मामले की जांच जारी है।",
-    "title": "ग्रेटर नोएडा में बच्ची के हत्यारे का एनकाउंटर",
-    "caption": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी को पुलिस ने मुठभेड़ में मार गिराया।",
-    "hashtags": [
-      "GreaterNoida",
-      "CrimeNews",
-      "Encounter",
-      "Justice",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "police crime scene investigation India",
-      "CCTV camera footage India",
-      "police officer holding gun India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific CCTV footage showing the crime; generic stock footage of police/CCTV will not illustrate the actual event described.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera footage India",
-        "credit": "Florian Süß",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13282264/pexels-photo-13282264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police officer holding gun India",
-        "credit": "Devansh Bose",
-        "duration_sec": 5
-      }
-    ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "manjeet_kaur_death_case",
-    "virality_score": 9,
-    "reason": "The tragic death of a social media influencer after being set on fire is a highly emotional and widely discussed case.",
+    "topic_label": "nagpur_wine_shop_theft",
+    "virality_score": 7,
+    "reason": "Bizarre CCTV footage of thieves ignoring liquor to steal cash, high curiosity value.",
     "region": "india",
-    "headline": "पंजाब में पेड़ से बांधकर जिंदा जलाई गई मंजीत कौर का पुलिस ने बयान तक नहीं लिया? मां ने क्या बताया",
-    "source_summary": "मंजीत कौर 28 साल की थीं और सोशल मीडिया इन्फ्लुएंसर थीं इंस्टाग्राम पर उनके करीब 1.46 लाख फॉलोअर थे और यूट्यूब पर लगभग 4000 सब्सक्राइबर्स थे.",
-    "source_url": "https://ndtv.in/india/manjeet-kaur-punjabi-influencer-mother-serious-allegation-on-police-11977324#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 12:57:10 +0530",
-    "hook": "पंजाब में एक सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की दर्दनाक मौत ने पूरे देश को झकझोर कर रख दिया है।",
-    "script_hi": "पंजाब में सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की निर्मम हत्या का मामला सामने आया है। अट्ठाईस साल की मंजीत को पेड़ से बांधकर जिंदा जला दिया गया। आरोप है कि पुलिस ने पीड़िता का बयान तक दर्ज नहीं किया। मां का दावा है कि मंजीत के इंस्टाग्राम पर एक लाख छियालीस हजार से ज्यादा फॉलोअर्स थे, लेकिन न्याय के लिए उन्हें दर-दर भटकना पड़ रहा है। क्या कानून सिर्फ कागजों पर है?",
-    "tts_text_hi": "पंजाब में सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की निर्मम हत्या का मामला सामने आया है। अट्ठाईस साल की मंजीत को पेड़ से बांधकर जिंदा जला दिया गया। आरोप है कि पुलिस ने पीड़िता का बयान तक दर्ज नहीं किया। मां का दावा है कि मंजीत के इंस्टाग्राम पर एक लाख छियालीस हजार से ज्यादा फॉलोअर्स थे, लेकिन न्याय के लिए उन्हें दर-दर भटकना पड़ रहा है। क्या कानून सिर्फ कागजों पर है?",
-    "title": "पंजाब में सोशल मीडिया इन्फ्लुएंसर की जिंदा जलाकर हत्या",
-    "caption": "पंजाब में एक सोशल मीडिया इन्फ्लुएंसर मंजीत कौर की निर्मम हत्या और पुलिस की लापरवाही के गंभीर आरोप।",
+    "headline": "नागपुर: शटर उठाकर वाइन शॉप में घुसा चोर, ₹60 हजार उड़ाए",
+    "source_summary": "नागपुर की एक वाइन शॉप में तीन चोर घुसे, लेकिन शराब की बोतलों को हाथ नहीं लगाया. एक चोर शटर के नीचे से अंदर पहुंचा और कैश ड्रॉअर से करीब 60 हजार रुपये निकालकर फरार हो गया. पूरी वारदात CCTV में कैद हुई. वीडियो में जानें क्या है पूरा मामला.",
+    "source_url": "https://www.aajtak.in/short-videos/video/wine-shop-theft-3-thieves-steal-cash-instead-of-alcohol-cctv-nagpur-police-case-mmtm-2632599-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T12:28:00+05:30",
+    "hook": "नागपुर में अनोखी चोरी, शराब की दुकान में घुसे चोर लेकिन बोतलें नहीं छुईं!",
+    "script_hi": "नागपुर की एक वाइन शॉप में तीन चोरों ने धावा बोला। हैरान करने वाली बात ये है कि चोरों ने शराब की एक भी बोतल को हाथ नहीं लगाया। एक चोर शटर के नीचे से अंदर घुसा और गल्ले से साठ हजार रुपये कैश लेकर फरार हो गया। पूरी वारदात सीसीटीवी में कैद हो गई है।",
+    "tts_text_hi": "नागपुर की एक वाइन शॉप में तीन चोरों ने धावा बोला। हैरान करने वाली बात ये है कि चोरों ने शराब की एक भी बोतल को हाथ नहीं लगाया। एक चोर शटर के नीचे से अंदर घुसा और गल्ले से साठ हजार रुपये कैश लेकर फरार हो गया। पूरी वारदात सीसीटीवी में कैद हो गई है।",
+    "title": "नागपुर में वाइन शॉप से साठ हजार की चोरी",
+    "caption": "नागपुर में चोरों का अनोखा कारनामा, शराब नहीं कैश पर हाथ साफ किया।",
     "hashtags": [
-      "PunjabNews",
-      "ManjeetKaur",
-      "JusticeForManjeet",
+      "Nagpur",
       "CrimeNews",
-      "SocialMediaInfluencer",
-      "IndiaCrime"
+      "HindiNews",
+      "CCTV",
+      "Maharashtra",
+      "Theft"
     ],
     "visual_queries": [
-      "sad Indian woman crying",
-      "Indian police station exterior",
-      "mobile phone social media profile",
-      "yellow police tape India",
-      "protest sign India"
+      "Indian liquor shop exterior",
+      "CCTV camera recording screen",
+      "Indian currency cash notes",
+      "Police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This is a sensitive, ongoing criminal case involving allegations of severe violence and police negligence against a named victim. It requires careful editorial oversight to ensure accuracy and avoid defamation or sensationalism.",
+    "flag_reason": "The story centers on a specific viral CCTV clip of a crime that cannot be represented by generic stock footage; the actual security footage is required.",
     "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38281680/pexels-photo-38281680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian woman portrait",
-        "credit": "Ashutosh Kumar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/1682385/pexels-photo-1682385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station exterior",
-        "credit": "Jacoby Clarke",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20080678/pexels-photo-20080678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile phone social media profile",
-        "credit": "Leila Abboud",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "yellow police tape India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "protest sign India",
-        "credit": "Rahul Sapra",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "rajat_dalal_parking_clash",
-    "virality_score": 8,
-    "reason": "A viral influencer controversy involving a physical altercation that will appeal to the digital-native audience.",
-    "region": "india",
-    "headline": "45 मिनट इंतजार के बाद थार से ठोकी कार, यूट्यूबर का पार्किंग कलेश!",
-    "source_summary": "रजत दलाल के साथ पार्किंग को लेकर विवाद हो गया. उन्होंने अपनी गाड़ी से एक दूसरी गाड़ी को टक्कर मारकर साइड किया, ताकि वो बाहर निकल सकें. इसका वीडियो भी काफी वायरल हो रहा है.",
-    "source_url": "https://www.aajtak.in/entertainment/ott/story/bigg-boss-fame-rajat-dalal-car-blocked-parking-thar-hits-another-car-video-tmovj-dskc-2632611-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:46:03+05:30",
-    "hook": "यूट्यूबर रजत दलाल का पार्किंग में बवाल, गाड़ी से दूसरी कार को मारी टक्कर!",
-    "script_hi": "यूट्यूबर रजत दलाल का एक वीडियो सोशल मीडिया पर वायरल हो रहा है। पार्किंग में रास्ता न मिलने पर उन्होंने अपनी थार गाड़ी से दूसरी कार को जोर से टक्कर मारी और उसे रास्ते से हटा दिया। प्रत्यक्षदर्शियों के मुताबिक, वे पैंतालीस मिनट से इंतजार कर रहे थे। इस घटना का वीडियो अब इंटरनेट पर चर्चा का विषय बना हुआ है।",
-    "tts_text_hi": "यूट्यूबर रजत दलाल का एक वीडियो सोशल मीडिया पर वायरल हो रहा है। पार्किंग में रास्ता न मिलने पर उन्होंने अपनी थार गाड़ी से दूसरी कार को जोर से टक्कर मारी और उसे रास्ते से हटा दिया। प्रत्यक्षदर्शियों के मुताबिक, वे पैंतालीस मिनट से इंतजार कर रहे थे। इस घटना का वीडियो अब इंटरनेट पर चर्चा का विषय बना हुआ है।",
-    "title": "रजत दलाल का पार्किंग विवाद",
-    "caption": "यूट्यूबर रजत दलाल का पार्किंग को लेकर विवाद, थार से दूसरी गाड़ी को मारी टक्कर।",
-    "hashtags": [
-      "RajatDalal",
-      "ViralVideo",
-      "ParkingFight",
-      "Thar",
-      "Trending",
-      "NewsIndia"
-    ],
-    "visual_queries": [
-      "Indian parking lot",
-      "modern Indian SUV",
-      "traffic jam India",
-      "smartphone recording video"
-    ],
-    "named_person": "Rajat Dalal",
-    "named_person_hi": "रजत दलाल",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a physical incident which generic stock footage cannot accurately represent; the actual footage needs to be inserted manually.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "रजत दलाल",
-        "source": "fallback",
-        "query": "Rajat Dalal",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34264630/pexels-photo-34264630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian parking lot",
-        "credit": "shubh gupta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350506/pexels-photo-29350506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern Indian SUV",
-        "credit": "Trilok",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36997696/pexels-photo-36997696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "traffic jam India",
-        "credit": "Aditya Oberai",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17133308/pexels-photo-17133308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone recording video",
-        "credit": "Tahir Osman",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "hapur_acid_attack_sisters",
-    "virality_score": 8,
-    "reason": "High-stakes crime news involving domestic violence; tragic and highly engaging for local audiences.",
-    "region": "india",
-    "headline": "शादी टूटी तो दीवार फांदकर घर में घुसा युवक, सो रही दो बहनों पर फेंका एसिड",
-    "source_summary": "शादी का रिश्ता टूटा तो नाराज युवक ने खौफनाक कदम उठा लिया. हापुड़ में देर रात एक युवक पर आरोप है कि वह दीवार फांदकर घर में घुसा और सो रही दो सगी बहनों पर तेजाब फेंककर फरार हो गया. दोनों बहनें गंभीर रूप से झुलस गईं और उन्हें मेरठ मेडिकल कॉलेज में भर्ती कराया गया है. पुलिस ने नामजद आरोपी को हिरासत में लेकर पूछताछ शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/hapur-acid-attack-man-throws-acid-two-sisters-marriage-proposal-called-off-lcla-strc-2632588-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:22:54+05:30",
-    "hook": "हापुड़ में रिश्तों का खौफनाक अंत, शादी टूटी तो बहनों पर फेंका एसिड।",
-    "script_hi": "हापुड़ में एक दिल दहला देने वाली घटना सामने आई है। शादी का रिश्ता टूटने से नाराज एक युवक ने देर रात दीवार फांदकर दो सगी बहनों पर ए*सिड फेंक दिया। दोनों पीड़ित बहनें गंभीर रूप से झुलस गई हैं जिन्हें इलाज के लिए मेरठ मेडिकल कॉलेज में भर्ती कराया गया है। पुलिस ने आरोपी को हिरासत में ले लिया है और मामले की जांच जारी है।",
-    "tts_text_hi": "हापुड़ में एक दिल दहला देने वाली घटना सामने आई है। शादी का रिश्ता टूटने से नाराज एक युवक ने देर रात दीवार फांदकर दो सगी बहनों पर एसिड फेंक दिया। दोनों पीड़ित बहनें गंभीर रूप से झुलस गई हैं जिन्हें इलाज के लिए मेरठ मेडिकल कॉलेज में भर्ती कराया गया है। पुलिस ने आरोपी को हिरासत में ले लिया है और मामले की जांच जारी है।",
-    "title": "हापुड़ में दो बहनों पर एसिड अटैक",
-    "caption": "यूपी के हापुड़ में शादी टूटने के बाद युवक ने दो सगी बहनों पर किया एसिड हमला, आरोपी हिरासत में।",
-    "hashtags": [
-      "HapurNews",
-      "AcidAttack",
-      "CrimeNews",
-      "UttarPradesh",
-      "LatestNews",
-      "JusticeForVictims"
-    ],
-    "visual_queries": [
-      "Indian police station exterior",
-      "Indian hospital corridor",
-      "police investigation India",
-      "fearful mood dark background"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific violent crime incident in Hapur; generic stock imagery will not reflect the actual crime scene or individuals involved, requiring careful visual selection to ensure accurate and sensitive reporting.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29241126/12618417_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian hospital corridor",
-        "credit": "SN.CHE",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
+        "query": "Police investigation India",
         "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481284/pexels-photo-10481284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime investigation scene",
-        "credit": "cottonbro studio",
+        "query": "burglary cctv footage",
+        "credit": "Florian Süß",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5496860/pexels-photo-5496860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8139402/pexels-photo-8139402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fearful mood dark background",
-        "credit": "Pranavsinh suratia",
+        "query": "Indian currency cash notes",
+        "credit": "DEV ROY",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "kyiv_weapons_depot_strike_global",
+    "virality_score": 7,
+    "reason": "Significant global event; massive explosions after a strike on a major ammunition depot.",
+    "region": "global",
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "source_summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+    "hook": "यूक्रेन के कीव में बड़ा धमाका, हथियारों के गोदाम पर हमले से मची तबाही।",
+    "script_hi": "यूक्रेन के कीव में एक हथियार डिपो पर हुए हमले में कम से कम सैंतीस लोगों की मौत हो गई है। रिहायशी इलाके के पास हथियारों के जखीरे को लेकर अब एक बड़ी जांच शुरू की गई है। सैंकड़ों लोगों को सुरक्षित स्थानों पर पहुंचाया गया है।",
+    "tts_text_hi": "यूक्रेन के कीव में एक हथियार डिपो पर हुए हमले में कम से कम सैंतीस लोगों की मौत हो गई है। रिहायशी इलाके के पास हथियारों के जखीरे को लेकर अब एक बड़ी जांच शुरू की गई है। सैंकड़ों लोगों को सुरक्षित स्थानों पर पहुंचाया गया है।",
+    "title": "कीव में हथियार डिपो पर हमला",
+    "caption": "यूक्रेन की राजधानी कीव में हथियार डिपो पर हुए हमले के बाद जांच शुरू हो गई है।",
+    "hashtags": [
+      "Ukraine",
+      "Kyiv",
+      "BreakingNews",
+      "InternationalNews",
+      "WorldNews",
+      "UkraineWar"
+    ],
+    "visual_queries": [
+      "smoke rising from city skyline",
+      "emergency rescue vehicles sirens",
+      "ruined building rubble pile",
+      "evacuation crowd walking street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on specific footage of a weapons depot incident and the destruction in Kyiv which generic stock footage cannot accurately represent.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20163172/pexels-photo-20163172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smoke rising from city skyline",
+        "credit": "Jill Qin",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7586386/pexels-photo-7586386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "emergency rescue vehicles sirens",
+        "credit": "Roman Ska",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ruined building rubble pile",
+        "credit": "akın  akdağ",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31778051/pexels-photo-31778051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "military conflict aftermath",
+        "credit": "Алесь Усцінаў",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "us_venezuela_oil_deal",
-    "virality_score": 6,
-    "reason": "A significant global economic development involving oil reserves, adds necessary variety for a global audience.",
+    "topic_label": "smartphone_battery_saver_tips",
+    "virality_score": 7,
+    "reason": "High-utility 'life hack' content that always performs well with a mass Indian audience.",
     "region": "india",
-    "headline": "Explainer: 65 अरब बैरल तेल और 100 साल की डील! अमेरिका-वेनेजुएला में क्या हुआ?",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/usa-vs-venezuela.jpeg\" class=\"attachment-large size-large wp-post-image\" alt=\"Explainer: 65 अरब बैरल तेल और 100 साल की डील! अमेरिका-वेनेजुएला में क्या हुआ?\" /></figure>अमेरिका और वेनेजुएला के बीच हुई नई तेल डील के तहत अमेरिका को वेनेजुएला के करीब 65 अरब बैरल तेल भंडार वाले 17 प्रमुख तेल क्षेत्रों में बड़ा नियंत्रण मिलने की बात कही गई है.",
-    "source_url": "https://www.tv9hindi.com/business/65-billion-barrels-oil-and-100-year-deal-what-happened-between-us-and-venezuela-3893579.html",
-    "source_name": "TV9 Hindi",
-    "published": "Sun, 30 Aug 2026 12:05:36 +0530",
-    "hook": "अमेरिका और वेनेजुएला के बीच हुई सौ साल की तेल डील, क्या बदल जाएगा पूरी दुनिया का खेल?",
-    "script_hi": "अमेरिका और वेनेजुएला के बीच हुई नई तेल डील ने पूरी दुनिया को चौंका दिया है। इस समझौते के तहत अमेरिका को वेनेजुएला के पैंसठ अरब बैरल तेल भंडार वाले सत्तरह प्रमुख क्षेत्रों पर बड़ा नियंत्रण मिलने की उम्मीद है। यह डील करीब सौ साल के लिए बताई जा रही है, जो वैश्विक ऊर्जा बाजार में बड़ा बदलाव ला सकती है।",
-    "tts_text_hi": "अमेरिका और वेनेजुएला के बीच हुई नई तेल डील ने पूरी दुनिया को चौंका दिया है। इस समझौते के तहत अमेरिका को वेनेजुएला के पैंसठ अरब बैरल तेल भंडार वाले सत्तरह प्रमुख क्षेत्रों पर बड़ा नियंत्रण मिलने की उम्मीद है। यह डील करीब सौ साल के लिए बताई जा रही है, जो वैश्विक ऊर्जा बाजार में बड़ा बदलाव ला सकती है।",
-    "title": "अमेरिका-वेनेजुएला तेल डील",
-    "caption": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।",
+    "headline": "कम खर्च होगा मोबाइल डेटा और बैटरी, बस फोन की सेटिंग्स में करें ये मामूली बदलाव",
+    "source_summary": "बैकग्राउंड ऐप्स को बार-बार बंद करने से बैटरी बचने के बजाय अक्सर ज्यादा खर्च होती है, लेकिन बैकग्राउंड में ऐप्स के खुद-ब-खुद रिफ्रेश होने से डेटा और बैटरी दोनों ही खर्च  होती है। आप फोन की सेटिंग्स में जाकर कुछ बदलाव करके बचा सकते हैं।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/tips-tricks/how-to-save-battery-and-mobile-data-by-changing-in-background-app-refresh-settings/articleshow/133383786.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 30 Aug 2026 13:04:00 +0530",
+    "hook": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं?",
+    "script_hi": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? रुकिए, इससे बैटरी बचने के बजाय और जल्दी खत्म होती है। अगर आप मोबाइल डेटा और बैटरी बचाना चाहते हैं, तो फोन की सेटिंग्स में जाकर बैकग्राउंड ऐप रिफ्रेश को बंद कर दें। इससे ऐप्स खुद-ब-खुद अपडेट नहीं होंगे और आपका फोन चलेगा लंबे समय तक। ऐसे ही टेक टिप्स के लिए जुड़े रहें।",
+    "tts_text_hi": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? रुकिए, इससे बैटरी बचने के बजाय और जल्दी खत्म होती है। अगर आप मोबाइल डेटा और बैटरी बचाना चाहते हैं, तो फोन की सेटिंग्स में जाकर बैकग्राउंड ऐप रिफ्रेश को बंद कर दें। इससे ऐप्स खुद-ब-खुद अपडेट नहीं होंगे और आपका फोन चलेगा लंबे समय तक। ऐसे ही टेक टिप्स के लिए जुड़े रहें।",
+    "title": "स्मार्टफोन की बैटरी बचाने के आसान टिप्स",
+    "caption": "फोन की बैटरी और डेटा बचाने के लिए अपनाएं ये आसान सेटिंग्स। #TechTips #SmartphoneHacks #BatterySaving #MobileData #AndroidTips #iPhoneTips #TechNewsIndia",
     "hashtags": [
-      "USA",
-      "Venezuela",
-      "OilDeal",
-      "EnergyNews",
-      "GlobalEconomy",
-      "OilReserves",
-      "InternationalRelations"
+      "TechTips",
+      "SmartphoneHacks",
+      "BatterySaving",
+      "MobileData",
+      "AndroidTips",
+      "iPhoneTips",
+      "TechNewsIndia"
     ],
     "visual_queries": [
-      "oil refinery industrial",
-      "oil drilling rig site",
-      "global map geopolitical"
+      "person holding smartphone India",
+      "smartphone battery icon",
+      "mobile settings menu",
+      "person using smartphone smiling"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -556,97 +512,72 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/5760014/5760014-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/13929582/13929582-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "oil refinery industrial",
-        "credit": "Kamlesh Panchal",
-        "source_duration_sec": 1,
-        "duration_sec": 1
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8828764/8828764-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "global map geopolitical",
-        "credit": "Lara Jameson",
-        "source_duration_sec": 12,
+        "query": "person using smartphone smiling",
+        "credit": "Mizuno K",
+        "source_duration_sec": 10,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34389698/pexels-photo-34389698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16349340/pexels-photo-16349340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "global oil industry",
-        "credit": "Anoop VS",
-        "duration_sec": 4.6
+        "query": "person holding smartphone India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7392237/pexels-photo-7392237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crude oil extraction",
-        "credit": "Yuri Shkoda",
-        "duration_sec": 4.6
+        "query": "smartphone battery icon",
+        "credit": "Prashant Singh",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13801510/pexels-photo-13801510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15760170/pexels-photo-15760170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international business handshake",
-        "credit": "Mizuno K",
-        "duration_sec": 4.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36695207/pexels-photo-36695207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "global energy trade",
-        "credit": "Leon Wang",
-        "duration_sec": 4.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15970027/pexels-photo-15970027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "oil industry infrastructure",
-        "credit": "Jakub Pabis",
-        "duration_sec": 4.6
+        "query": "mobile settings menu",
+        "credit": "Lisa Fotios",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका-वेनेजुएला तेल डील",
-        "caption": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।\n\n#USA #Venezuela #OilDeal #EnergyNews #GlobalEconomy"
+        "title": "फोन का डेटा और बैटरी बचाने के 3 सीक्रेट तरीके 🔋",
+        "caption": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? ये आदत आपकी बैटरी को बचाने के बजाय और तेज़ी से खत्म कर रही है।\n\nअसल में फोन की सेटिंग्स में कुछ छोटे बदलाव करके आप डेटा और बैटरी दोनों की खपत कम कर सकते हैं। ये ट्रिक्स बेहद आसान हैं और हर एंड्रॉइड/आईफोन यूजर को जाननी चाहिए।\n\nवीडियो को पूरा देखें और अभी अपनी सेटिंग्स चेक करें!\n\n#smartphonehacks #batterysaver #techtips #phonetips #androidtricks"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।\n\n#USA #Venezuela #OilDeal #EnergyNews #GlobalEconomy"
+        "caption": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? 📱 \n\nये आदत आपकी बैटरी को बचाने के बजाय और तेज़ी से खत्म कर रही है। फोन की सेटिंग्स में छुपे कुछ आसान बदलाव करके आप डेटा और बैटरी लाइफ बढ़ा सकते हैं। \n\nइसे अभी सेव करें ताकि अगली बार सेटिंग भूल न जाएं! ⚡\n\n#smartphonehacks #batterysaver #techtips #phonetips #androidtricks"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।\n\n#USA #Venezuela #OilDeal #EnergyNews #GlobalEconomy"
+        "caption": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? शायद आपको लगता होगा कि इससे बैटरी बच रही है, लेकिन सच कुछ और है। \n\nहमने फोन की सेटिंग्स में वो मामूली बदलाव बताए हैं जो वास्तव में आपका डेटा और बैटरी बचाएंगे। ये टिप्स आपके रोजमर्रा के इस्तेमाल में काफी काम आएंगे। \n\nवीडियो देखें और अपने दोस्तों के साथ भी शेयर करें ताकि उनकी बैटरी भी लंबे समय तक चले। 🔋\n\n#smartphonehacks #batterysaver #techtips #phonetips #androidtricks"
       },
       "hashtags": [
-        "USA",
-        "Venezuela",
-        "OilDeal",
-        "EnergyNews",
-        "GlobalEconomy"
+        "smartphonehacks",
+        "batterysaver",
+        "techtips",
+        "phonetips",
+        "androidtricks"
       ]
     },
-    "audio_path": "audio/us_venezuela_oil_deal.wav",
-    "audio_duration_sec": 22.62,
-    "video_path": "videos/us_venezuela_oil_deal.mp4",
-    "video_duration_sec": 30.66,
+    "audio_path": "audio/smartphone_battery_saver_tips.wav",
+    "audio_duration_sec": 24.59,
+    "video_path": "videos/smartphone_battery_saver_tips.mp4",
+    "video_duration_sec": 32.56,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "88pEZF-PKZs",
-        "url": "https://youtube.com/shorts/88pEZF-PKZs",
-        "attempted_at": "2026-08-30T07:49:05.403130+00:00"
+        "video_id": "ZQZc4vUF9EU",
+        "url": "https://youtube.com/shorts/ZQZc4vUF9EU",
+        "attempted_at": "2026-08-30T08:24:45.323921+00:00"
       },
       "facebook": {
         "success": true,
@@ -659,15 +590,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a93e08bce3cddf06ba2c3d5",
+            "_id": "6a93e8e0824a0cf41accb2ff",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।\n\n#USA #Venezuela #OilDeal #EnergyNews #GlobalEconomy",
+            "content": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? शायद आपको लगता होगा कि इससे बैटरी बच रही है, लेकिन सच कुछ और है। \n\nहमने फोन की सेटिंग्स में वो मामूली बदलाव बताए हैं जो वास्तव में आपका डेटा और बैटरी बचाएंगे। ये टिप्स आपके रोजमर्रा के इस्तेमाल में काफी काम आएंगे। \n\nवीडियो देखें और अपने दोस्तों के साथ भी शेयर करें ताकि उनकी बैटरी भी लंबे समय तक चले। 🔋\n\n#smartphonehacks #batterysaver #techtips #phonetips #androidtricks",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788076169615_djr6ree4_us_venezuela_oil_deal.mp4",
-                "_id": "6a93e08bce3cddf06ba2c3d6"
+                "url": "https://media.zernio.com/media/1788078300489_7bmqjhd7_smartphone_battery_saver_tips.mp4",
+                "_id": "6a93e8e0824a0cf41accb300"
               }
             ],
             "platforms": [
@@ -684,17 +615,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-30T07:49:30.800Z",
+                "scheduledFor": "2026-08-30T08:25:02.128Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "43e07aa25f13ffd3c108da345011495d",
-                "_id": "6a93e08bce3cddf06ba2c3d7",
-                "platformPostId": "1068709239191639",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1068709239191639",
-                "publishedAt": "2026-08-30T07:49:38.297Z"
+                "contentHash": "06e69805b5791f9c55f3586a5394c113",
+                "_id": "6a93e8e0824a0cf41accb301",
+                "platformPostId": "28312821211684714",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=28312821211684714",
+                "publishedAt": "2026-08-30T08:25:11.164Z"
               }
             ],
-            "scheduledFor": "2026-08-30T07:49:30.800Z",
+            "scheduledFor": "2026-08-30T08:25:02.128Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -706,14 +637,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-30T07:49:31.938Z",
-            "updatedAt": "2026-08-30T07:49:38.396Z",
+            "createdAt": "2026-08-30T08:25:04.905Z",
+            "updatedAt": "2026-08-30T08:25:11.301Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-30T07:49:32.082Z"
+            "publishingClaimedAt": "2026-08-30T08:25:05.368Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-30T07:49:38.597638+00:00"
+        "attempted_at": "2026-08-30T08:25:11.461469+00:00"
       },
       "instagram": {
         "success": true,
@@ -726,15 +657,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a93e0aef2b0244fa839d28f",
+            "_id": "6a93e9006805065fc0514bd8",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और वेनेजुएला के बीच हुई बड़ी तेल डील का पूरा गणित समझें।\n\n#USA #Venezuela #OilDeal #EnergyNews #GlobalEconomy",
+            "content": "क्या आप भी बार-बार बैकग्राउंड ऐप्स बंद करते हैं? 📱 \n\nये आदत आपकी बैटरी को बचाने के बजाय और तेज़ी से खत्म कर रही है। फोन की सेटिंग्स में छुपे कुछ आसान बदलाव करके आप डेटा और बैटरी लाइफ बढ़ा सकते हैं। \n\nइसे अभी सेव करें ताकि अगली बार सेटिंग भूल न जाएं! ⚡\n\n#smartphonehacks #batterysaver #techtips #phonetips #androidtricks",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788076204877_gz3un3t5_us_venezuela_oil_deal.mp4",
-                "_id": "6a93e0aef2b0244fa839d290"
+                "url": "https://media.zernio.com/media/1788078334641_3fyilbs0_smartphone_battery_saver_tips.mp4",
+                "_id": "6a93e9006805065fc0514bd9"
               }
             ],
             "platforms": [
@@ -751,14 +682,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-08-30T07:50:06.142Z",
+                "scheduledFor": "2026-08-30T08:25:35.833Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "3a50fe0b94dd7300a7abc110104f1f86",
-                "_id": "6a93e0aef2b0244fa839d291"
+                "contentHash": "c909be8a1d82a041334cc431c8d930a4",
+                "_id": "6a93e9006805065fc0514bda"
               }
             ],
-            "scheduledFor": "2026-08-30T07:50:06.142Z",
+            "scheduledFor": "2026-08-30T08:25:35.833Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -770,14 +701,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-08-30T07:50:06.874Z",
-            "updatedAt": "2026-08-30T07:50:08.668Z",
+            "createdAt": "2026-08-30T08:25:36.875Z",
+            "updatedAt": "2026-08-30T08:25:39.109Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-08-30T07:50:07.021Z"
+            "publishingClaimedAt": "2026-08-30T08:25:37.004Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-08-30T07:50:09.510935+00:00"
+        "attempted_at": "2026-08-30T08:25:39.655946+00:00"
       }
     }
   }
