@@ -1,7 +1,9 @@
-ready_labels: ['pm_modi_krishna_seshadri_interview']
+ready_labels: ['prayagraj_sangam_flood']
 
-greater_noida_rape_murder_encounter: SKIPPED (not in ready set)
-agra_train_suitcase_murder_case: SKIPPED (not in ready set)
-ladakh_army_helicopter_rescue: SKIPPED (not in ready set)
-nepal_flood_survivor_rescue: SKIPPED (not in ready set)
-pm_modi_krishna_seshadri_interview: SUCCESS -> video_path=videos/pm_modi_krishna_seshadri_interview.mp4 dur=30.756553
+army_helicopter_rescue_ladakh: SKIPPED (not in ready set)
+nepal_flood_house_strength: SKIPPED (not in ready set)
+indore_road_rage_killing: SKIPPED (not in ready set)
+kyiv_warehouse_strike: SKIPPED (not in ready set)
+prayagraj_sangam_flood: SUCCESS -> video_path=videos/prayagraj_sangam_flood.mp4 dur=31.777211
+hapur_acid_attack: SKIPPED (not in ready set)
+google_maps_killer_dogs: SKIPPED (not in ready set)
