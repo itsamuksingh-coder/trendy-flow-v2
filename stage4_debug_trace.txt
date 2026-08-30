@@ -1,7 +1,5 @@
-ready_labels: ['jaipur_neet_pg_exam_cancelled', 'punjab_mamdot_firing_murder']
+ready_labels: ['india_russia_s400_tech_transfer']
 
-greater_noida_rape_murder_accused_encounter: SKIPPED (not in ready set)
-indigo_flight_family_eating_food_viral: SKIPPED (not in ready set)
-jaipur_neet_pg_exam_cancelled: SUCCESS -> video_path=videos/jaipur_neet_pg_exam_cancelled.mp4 dur=19.456553
-punjab_mamdot_firing_murder: SUCCESS -> video_path=videos/punjab_mamdot_firing_murder.mp4 dur=34.63322
-swiss_rave_party_shooting_zurich_global: SKIPPED (not in ready set)
+india_russia_s400_tech_transfer: SUCCESS -> video_path=videos/india_russia_s400_tech_transfer.mp4 dur=30.987211
+family_eating_thepla_on_indigo_flight: SKIPPED (not in ready set)
+patna_toxic_liquor_death_suspicion: SKIPPED (not in ready set)
