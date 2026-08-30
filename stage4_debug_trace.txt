@@ -1,9 +1,7 @@
-ready_labels: ['mumbai_airport_gold_smuggling_dust', 'nepal_flash_flood_death_toll_734', 'pm_modi_uzbekistan_upi_launch']
+ready_labels: ['india_post_drone_delivery_initiative', 'nasa_roman_space_telescope_launch', 'swiss_rave_party_shooting_zurich', 'train_suitcase_murder_manipur_arrest']
 
-pm_modi_uzbekistan_upi_launch: SUCCESS -> video_path=videos/pm_modi_uzbekistan_upi_launch.mp4 dur=34.689887
+train_suitcase_murder_manipur_arrest: SUCCESS -> video_path=videos/train_suitcase_murder_manipur_arrest.mp4 dur=25.484218
+nasa_roman_space_telescope_launch: SUCCESS -> video_path=videos/nasa_roman_space_telescope_launch.mp4 dur=26.970227
 indigo_flight_family_eating_food_viral: SKIPPED (not in ready set)
-lucknow_hindu_leader_dhirendra_murder: SKIPPED (not in ready set)
-mumbai_airport_gold_smuggling_dust: SUCCESS -> video_path=videos/mumbai_airport_gold_smuggling_dust.mp4 dur=32.389887
-nepal_flash_flood_death_toll_734: SUCCESS -> video_path=videos/nepal_flash_flood_death_toll_734.mp4 dur=29.176213
-nasa_roman_space_telescope_launch: SKIPPED (not in ready set)
-nagpur_wine_shop_theft_cash_only: SKIPPED (not in ready set)
+swiss_rave_party_shooting_zurich: SUCCESS -> video_path=videos/swiss_rave_party_shooting_zurich.mp4 dur=21.789887
+india_post_drone_delivery_initiative: SUCCESS -> video_path=videos/india_post_drone_delivery_initiative.mp4 dur=24.625215
