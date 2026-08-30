@@ -1,8 +1,8 @@
 [
   {
-    "topic_label": "army_helicopter_rescue_ladakh",
+    "topic_label": "indian_army_ladakh_helicopter_rescue",
     "virality_score": 10,
-    "reason": "Incredible, high-stakes military rescue footage at 18,600 feet; inherently viral content.",
+    "reason": "Stunning visual footage of an Indian Army helicopter rescue on a narrow mountain ledge is highly shareable.",
     "region": "india",
     "headline": "VIDEO: 18,600 फीट की ऊंचाई और हवा में एक पहिये पर टिका हेलिकॉप्टर, लद्दाख में सेना का सांसें थाम देने वाला रेस्क्यू ऑपरेशन",
     "source_summary": "Indian Army Nun Kun Rescue video: 18,600 फीट की बर्फीली ऊंचाई, ढलती रोशनी और खड़ी ढलान पर हवा में सिर्फ एक स्किड पर टिका हेलिकॉप्टर. देखें कैसे भारतीय फौज ने एविएशन की सारी सीमाएं पार कर बचाई एक मरीज की जिंदगी.",
@@ -10,63 +10,63 @@
     "source_name": "NDTV Hindi",
     "published": "Sun, 30 Aug 2026 09:02:47 +0530",
     "hook": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात देती भारतीय सेना की जांबाजी!",
-    "script_hi": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना का एक जांबाज रेस्क्यू ऑपरेशन सामने आया है। अठारह हजार छह सौ फीट की ऊंचाई पर, जहां हवा भी कम है, हेलिकॉप्टर सिर्फ एक पहिये के सहारे टिका रहा। इस बेहद कठिन हालात में पायलट ने अपनी जान जोखिम में डालकर एक मरीज की जान बचाई। एविएशन इतिहास के इस साहसी पल को देखकर हर कोई हैरान है।",
-    "tts_text_hi": "लद्दाख की बर्फीली चोटियों पर भारतीय सेना का एक जांबाज रेस्क्यू ऑपरेशन सामने आया है। अठारह हजार छह सौ फीट की ऊंचाई पर, जहां हवा भी कम है, हेलिकॉप्टर सिर्फ एक पहिये के सहारे टिका रहा। इस बेहद कठिन हालात में पायलट ने अपनी जान जोखिम में डालकर एक मरीज की जान बचाई। एविएशन इतिहास के इस साहसी पल को देखकर हर कोई हैरान है।",
-    "title": "लद्दाख में भारतीय सेना का जांबाज रेस्क्यू",
-    "caption": "लद्दाख में अठारह हजार छह सौ फीट की ऊंचाई पर भारतीय सेना का साहसी रेस्क्यू ऑपरेशन।",
+    "script_hi": "अठारह हजार छह सौ फीट की ऊंचाई, बर्फीली हवाएं और खड़ी ढलान! लद्दाख के नन कुन इलाके में भारतीय सेना के पायलटों ने वो कर दिखाया जिसे देखकर दुनिया दंग है। हवा में केवल एक स्किड पर हेलिकॉप्टर को टिकाकर जवानों ने एक मरीज की जान बचाई। एविएशन के इतिहास में यह साहस भरी मिसाल हमेशा याद रखी जाएगी। सलाम है भारतीय फौज के जज्बे को!",
+    "tts_text_hi": "अठारह हजार छह सौ फीट की ऊंचाई, बर्फीली हवाएं और खड़ी ढलान! लद्दाख के नन कुन इलाके में भारतीय सेना के पायलटों ने वो कर दिखाया जिसे देखकर दुनिया दंग है। हवा में केवल एक स्किड पर हेलिकॉप्टर को टिकाकर जवानों ने एक मरीज की जान बचाई। एविएशन के इतिहास में यह साहस भरी मिसाल हमेशा याद रखी जाएगी। सलाम है भारतीय फौज के जज्बे को!",
+    "title": "लद्दाख में भारतीय सेना का साहसी रेस्क्यू",
+    "caption": "लद्दाख की पहाड़ियों में भारतीय सेना के जांबाज पायलटों ने 18,600 फीट की ऊंचाई पर एक मरीज की जान बचाकर अदम्य साहस का परिचय दिया।",
     "hashtags": [
       "IndianArmy",
       "Ladakh",
       "RescueOperation",
-      "Bravery",
       "IndianAirForce",
-      "HelicopterRescue",
-      "SaluteToArmy"
+      "Bravery",
+      "ProudIndia",
+      "MilitaryLife"
     ],
     "visual_queries": [
-      "snowy mountain range India",
+      "snowy mountains Ladakh India",
       "Indian Army helicopter flying",
-      "high altitude mountain peak India",
-      "mountain rescue mission India"
+      "rescue mission mountains India",
+      "Indian Army soldiers salute"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of a helicopter rescue that requires the actual footage to be added manually, as generic B-roll would fail to show the specific feat described.",
+    "flag_reason": "The story is centered on a specific viral video of a rescue operation which requires the actual footage to be manually inserted; generic stock footage would misrepresent this specific event.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/29904835/12836460_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/37511157/15892120_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "high altitude mountain rescue",
-        "credit": "Juan Castelblanco",
-        "source_duration_sec": 31,
+        "query": "Indian Army helicopter flying",
+        "credit": "Pavan Sai .D",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7861519/pexels-photo-7861519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12094539/pexels-photo-12094539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "snowy mountain range India",
-        "credit": "Anuj Yadav",
+        "query": "snowy mountains Ladakh India",
+        "credit": "Alka Jha",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32261655/pexels-photo-32261655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20747979/pexels-photo-20747979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "high altitude mountain peak India",
-        "credit": "urtimud.89",
+        "query": "rescue mission mountains India",
+        "credit": "Wanderwithhidayat",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18746394/pexels-photo-18746394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13316041/pexels-photo-13316041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian army helicopter",
-        "credit": "Dilara Hazıroğlu",
+        "query": "Indian Army soldiers salute",
+        "credit": "Pramod  Tiwari",
         "duration_sec": 5
       }
     ],
@@ -75,134 +75,146 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "nepal_flood_house_strength",
+    "topic_label": "nepal_flood_survivor_97yo",
     "virality_score": 9,
-    "reason": "Strong visual storytelling potential about a single house surviving a major disaster, highly shareable.",
+    "reason": "A 97-year-old survivor pulled from rubble after 4 days in Nepal is an incredibly powerful, heartwarming human interest story.",
     "region": "india",
-    "headline": "नेपाल के उस घर की कहानी, जिसे विकराल लहरें भी नहीं डिगा पाईं",
-    "source_summary": "नेपाल की विनाशकारी फ्लैश फ्लड के बीच एक हरे रंग का घर तेज लहरों और आसपास मची तबाही के बावजूद मजबूती से खड़ा रहा. अब इस वीडियो को देखकर लोग घर की मजबूती पर हैरान हैं. आइये जानते हैं इस घर की कहानी.",
-    "source_url": "https://www.aajtak.in/trending/story/nepal-flood-green-house-survives-flash-flood-viral-video-family-safe-tstf-dskc-2632642-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T13:45:46+05:30",
-    "hook": "नेपाल में आई तबाही के बीच एक घर ऐसा भी था, जिसे विकराल लहरें भी नहीं हिला पाईं।",
-    "script_hi": "नेपाल में आई तबाही के बीच एक घर ऐसा भी था, जिसे विकराल लहरें भी नहीं हिला पाईं। फ्लैश फ्लड के खौफनाक मंजर के बीच यह हरा घर मजबूती से खड़ा रहा। इस वीडियो ने लोगों को हैरान कर दिया है। आखिर कैसे ये घर इतना मजबूत बना?",
-    "tts_text_hi": "नेपाल में आई तबाही के बीच एक घर ऐसा भी था, जिसे विकराल लहरें भी नहीं हिला पाईं। फ्लैश फ्लड के खौफनाक मंजर के बीच यह हरा घर मजबूती से खड़ा रहा। इस वीडियो ने लोगों को हैरान कर दिया है। आखिर कैसे ये घर इतना मजबूत बना?",
-    "title": "नेपाल फ्लैश फ्लड में अडिग खड़ा रहा घर",
-    "caption": "नेपाल में आई विनाशकारी बाढ़ के बीच एक घर का वीडियो वायरल, लहरों के बावजूद घर खड़ा रहा मजबूत।",
+    "headline": "नेपाल में 97 साल की गुना माया ने मौत को दी मात! मलबे से 'योद्धा' की तरह निकलीं बाहर",
+    "source_summary": "पुलिस और नेपाली सेना को गुना माया बोहरा को मलबे से बाहर निकालने में करीब चार घंटे का समय लग गया. गुना माया बोहारा के भतीजे का बेटा दीपक बोहरा भी बचाव कार्य में मदद करने के लिए काठमांडू से आया था.",
+    "source_url": "https://ndtv.in/india/97-year-old-guna-maya-bohara-emerged-from-rubble-like-a-warrior-became-face-of-nepal-floods-11976890#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 09:35:28 +0530",
+    "hook": "सत्तानवे साल की बुजुर्ग महिला ने मौत के जबड़ों से वापसी की है!",
+    "script_hi": "नेपाल में सत्तानवे साल की गुना माया बोहरा ने चमत्कारिक रूप से मौत को मात दे दी। मलबे के नीचे दबी होने के बावजूद, वह चार घंटे तक संघर्ष करती रहीं। अंततः, नेपाली सेना और पुलिस ने उन्हें सुरक्षित बाहर निकाला। राहत की बात यह है कि वह अब सुरक्षित हैं। उनके भतीजे दीपक बोहरा भी बचाव कार्य में मदद के लिए काठमांडू से पहुंचे थे। इस 'योद्धा' दादी के जज्बे को सब सलाम कर रहे हैं।",
+    "tts_text_hi": "नेपाल में सत्तानवे साल की गुना माया बोहरा ने चमत्कारिक रूप से मौत को मात दे दी। मलबे के नीचे दबी होने के बावजूद, वह चार घंटे तक संघर्ष करती रहीं। अंततः, नेपाली सेना और पुलिस ने उन्हें सुरक्षित बाहर निकाला। राहत की बात यह है कि वह अब सुरक्षित हैं। उनके भतीजे दीपक बोहरा भी बचाव कार्य में मदद के लिए काठमांडू से पहुंचे थे। इस योद्धा दादी के जज्बे को सब सलाम कर रहे हैं।",
+    "title": "नेपाल: मलबे से सुरक्षित निकलीं 97 साल की महिला",
+    "caption": "नेपाल में 97 साल की गुना माया बोहरा ने मलबे से बाहर निकलकर दिखाया अद्भुत साहस।",
     "hashtags": [
-      "NepalFlood",
-      "ViralVideo",
-      "NepalNews",
-      "NatureFury",
-      "StrongBuilding"
+      "Nepal",
+      "SurvivalStory",
+      "Inspiration",
+      "RescueOperation",
+      "GoodNews",
+      "Kathmandu"
     ],
     "visual_queries": [
-      "raging flood water",
-      "damaged landscape Nepal",
-      "house standing strong during flood"
+      "Nepal landscape mountain",
+      "rescue operation rubble",
+      "Nepalese army soldier",
+      "elderly woman portrait",
+      "family reunion hug"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story is entirely based on a specific viral video of a house; generic stock footage will not capture this unique visual instance.",
+    "flag_reason": "Needs real footage of the specific rescue incident as generic stock imagery will not capture the unique nature of this survival story.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11023987/pexels-photo-11023987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29094817/12571081_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "raging flood water",
-        "credit": "Jonathan Cooper",
+        "query": "earthquake disaster rescue",
+        "credit": "Fahrettin Turgut",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37159519/pexels-photo-37159519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Nepal landscape mountain",
+        "credit": "Chhabiraj Adhikari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25490318/pexels-photo-25490318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33451094/pexels-photo-33451094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "damaged landscape Nepal",
-        "credit": "Abdul Kayum",
+        "query": "Nepalese army soldier",
+        "credit": "Rajat Sahu",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32442294/pexels-photo-32442294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18715039/pexels-photo-18715039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "house standing strong during flood",
-        "credit": "Anoop VS",
+        "query": "elderly woman portrait",
+        "credit": "Matosuky",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "indore_road_rage_killing",
+    "topic_label": "power_line_electric_arc_safety",
     "virality_score": 9,
-    "reason": "Terrifying road-rage incident captured on CCTV, perfect for viral short-form crime reporting.",
+    "reason": "Visually striking content using a tube light to demonstrate invisible high-voltage dangers is highly educational and viral.",
     "region": "india",
-    "headline": "कार में गर्लफ्रेंड थी, गेटकीपर ने एंट्री नहीं दी... इंसल्ट लगी तो किया कांड!",
-    "source_summary": "कहानी इंदौर की एक सोसाइटी की है... कार में गर्लफ्रेंड बैठी थी, सामने टाउनशिप का गेट था और गेट पर चौकीदार... चौकीदार ने एंट्री नहीं दी तो बहस होने लगी. युवक को लगा कि उसकी इंसल्ट हो गई है. वो कार लेकर चला गया. कुछ देर बाद वही कार वापस आई और चौकीदार को कुचल दिया. इस कहानी पहले हादसा समझा जा रहा था, लेकिन अब मामला हत्या में बदल चुका है.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/girlfriend-in-car-watchman-denied-entry-insult-led-to-murder-in-indore-couple-story-lcla-strc-2632668-2026-08-30?utm_source=rssfeed",
+    "headline": "पावर लाइन से रहें दूर! 99% लोग नहीं जानते इसका खतरा",
+    "source_summary": "हाई वोल्टेज पावर लाइन के नीचे खड़ा होना कितना खतरनाक हो सकता है? सोशल मीडिया के एक वीडियो में ट्यूब लाइट के जरिए इसका असर दिखाया गया. जानिए कैसे बन सकता है इलेक्ट्रिक आर्क और क्यों जरूरी है दूरी.",
+    "source_url": "https://www.aajtak.in/technology/tech-tips-and-tricks-/story/high-voltage-power-line-danger-electric-arc-safety-tips-prym-dskc-2632674-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T14:41:47+05:30",
-    "hook": "इंदौर में मामूली बहस पर हुई एक खौफनाक हत्या!",
-    "script_hi": "इंदौर की एक सोसाइटी में एक गेटकीपर के साथ हुई बेरहमी। कार में अपनी गर्लफ्रेंड के साथ आए युवक को जब चौकीदार ने एंट्री नहीं दी, तो बात बहस तक पहुँच गई। अपनी बेइज्जती का बदला लेने के लिए युवक ने जो किया, वह सीसीटीवी में कैद हो गया। पहले इसे हादसा समझा गया, लेकिन अब यह हत्या का मामला दर्ज कर लिया गया है। पुलिस ने आरोपी को गिरफ्तार कर लिया है।",
-    "tts_text_hi": "इंदौर की एक सोसाइटी में एक गेटकीपर के साथ हुई बेरहमी। कार में अपनी गर्लफ्रेंड के साथ आए युवक को जब चौकीदार ने एंट्री नहीं दी, तो बात बहस तक पहुँच गई। अपनी बेइज्जती का बदला लेने के लिए युवक ने जो किया, वह सीसीटीवी में कैद हो गया। पहले इसे हादसा समझा गया, लेकिन अब यह हत्या का मामला दर्ज कर लिया गया है। पुलिस ने आरोपी को गिरफ्तार कर लिया है।",
-    "title": "इंदौर: गेटकीपर की कार से कुचलकर हत्या",
-    "caption": "इंदौर में एंट्री न मिलने पर युवक ने गेटकीपर को कार से कुचला। सीसीटीवी फुटेज से खुला हत्या का राज।",
+    "published": "2026-08-30T15:05:55+05:30",
+    "hook": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना?",
+    "script_hi": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना? हाल ही में सोशल मीडिया पर एक वीडियो वायरल हुआ जिसमें ट्यूब लाइट के जरिए खतरनाक इलेक्ट्रिक आर्क का असर दिखाया गया। पावर लाइन के चुंबकीय क्षेत्र की वजह से बिना तार के भी ट्यूब लाइट जल उठी। यह संकेत है कि आपके आसपास खतरनाक बिजली का करंट दौड़ रहा है। ऐसी जगहों से हमेशा दूर रहें, क्योंकि एक छोटी सी चूक आपकी जान ले सकती है। सुरक्षा के लिए इन लाइनों से उचित दूरी बनाए रखना ही एकमात्र उपाय है।",
+    "tts_text_hi": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना? हाल ही में सोशल मीडिया पर एक वीडियो वायरल हुआ जिसमें ट्यूब लाइट के जरिए खतरनाक इलेक्ट्रिक आर्क का असर दिखाया गया। पावर लाइन के चुंबकीय क्षेत्र की वजह से बिना तार के भी ट्यूब लाइट जल उठी। यह संकेत है कि आपके आसपास खतरनाक बिजली का करंट दौड़ रहा है। ऐसी जगहों से हमेशा दूर रहें, क्योंकि एक छोटी सी चूक आपकी जान ले सकती है। सुरक्षा के लिए इन लाइनों से उचित दूरी बनाए रखना ही एकमात्र उपाय है।",
+    "title": "पावर लाइन से रहें सावधान!",
+    "caption": "हाई वोल्टेज पावर लाइन के पास जाने की गलती न करें, देखिए ये वीडियो।",
     "hashtags": [
-      "IndoreNews",
-      "CrimeNews",
-      "MadhyaPradesh",
-      "BreakingNews",
-      "HindiNews",
-      "CrimeAlert"
+      "ElectricitySafety",
+      "HighVoltage",
+      "SafetyFirst",
+      "ScienceFacts",
+      "Alert",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian residential society gate",
-      "Indian security guard standing",
-      "CCTV camera recording",
-      "police investigation scene India"
+      "high voltage power lines India",
+      "glowing fluorescent tube light night",
+      "electrical safety hazard warning",
+      "danger sign electricity India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific CCTV footage of the incident which is not available in generic stock libraries; requires manual insertion of the real video clip.",
+    "flag_reason": "The story centers on a specific viral video of a tube light experiment that requires the actual footage to be manually added; generic stock footage does not illustrate the specific scientific phenomenon described.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30058092/pexels-photo-30058092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37737876/pexels-photo-37737876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential society gate",
-        "credit": "grayom .",
+        "query": "high voltage power lines India",
+        "credit": "Imran Creatives",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34954627/pexels-photo-34954627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3220850/pexels-photo-3220850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian security guard standing",
-        "credit": "the Amritdev",
+        "query": "glowing fluorescent tube light night",
+        "credit": "David Geib",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30554249/pexels-photo-30554249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "CCTV camera recording",
-        "credit": "Eray Karataş",
+        "query": "high voltage transmission line",
+        "credit": "Doğan Alpaslan  Demir",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5790891/pexels-photo-5790891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30505490/pexels-photo-30505490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential security guard",
-        "credit": "Pavan Satpute",
+        "query": "danger sign electricity India",
+        "credit": "Vtane Art",
         "duration_sec": 5
       }
     ],
@@ -211,464 +223,290 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kyiv_warehouse_strike",
+    "topic_label": "indore_parking_rage_killing",
     "virality_score": 9,
-    "reason": "Significant, high-impact global breaking news regarding the deadliest attack of the year, suitable for a global context.",
+    "reason": "A horrific crime motivated by petty parking rage is a relatable and widely discussed societal issue.",
     "region": "india",
-    "headline": "Russian Strike On Ukraine's Kyiv That Killed 37 Was 'Deadliest Attack Of War' This Year",
-    "source_summary": "A Russian drone struck a warehouse west of Kyiv that Ukrainian officials say was storing shells, mines and other ammunition, sparking massive explosions and fires that swept through dozens of nearby homes and buildings and killing 37 people.",
-    "source_url": "https://www.ndtv.com/world-news/russian-strike-on-ukraines-kyiv-that-killed-37-was-deadliest-attack-of-war-this-year-11976854#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 30 Aug 2026 09:20:19 +0530",
-    "hook": "यूक्रेन पर रूस का अब तक का सबसे घातक हमला!",
-    "script_hi": "यूक्रेन की राजधानी कीव में रूस का भीषण हमला। इस हमले में सैंतीस लोगों की मौत हो गई है। यह इस साल का अब तक का सबसे घातक हमला बताया जा रहा है। रूस ने कीव के पश्चिम में एक वेयरहाउस को निशाना बनाया। धमाका इतना जोरदार था कि आसपास के दर्जनों घर तबाह हो गए।",
-    "tts_text_hi": "यूक्रेन की राजधानी कीव में रूस का भीषण हमला। इस हमले में सैंतीस लोगों की मौत हो गई है। यह इस साल का अब तक का सबसे घातक हमला बताया जा रहा है। रूस ने कीव के पश्चिम में एक वेयरहाउस को निशाना बनाया। धमाका इतना जोरदार था कि आसपास के दर्जनों घर तबाह हो गए।",
-    "title": "कीव में रूस का घातक हमला",
-    "caption": "यूक्रेन की राजधानी कीव में रूसी हमले से मची तबाही, सैंतीस लोगों की मौत।",
+    "headline": "कार में गर्लफ्रेंड थी, गेटकीपर ने एंट्री नहीं दी... इंसल्ट लगी तो किया कांड!",
+    "source_summary": "कहानी इंदौर की एक सोसाइटी की है... कार में गर्लफ्रेंड बैठी थी, सामने टाउनशिप का गेट था और गेट पर चौकीदार... चौकीदार ने एंट्री नहीं दी तो बहस होने लगी. युवक को लगा कि उसकी इंसल्ट हो गई है. वो कार लेकर चला गया. कुछ देर बाद वही कार वापस आई और चौकीदार को कुचल दिया. इस कहानी पहले हादसा समझा जा रहा था, लेकिन अब मामला हत्या में बदल चुका है.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/girlfriend-in-car-watchman-denied-entry-insult-led-to-murder-in-indore-couple-story-lcla-strc-2632668-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T14:41:47+05:30",
+    "hook": "इंदौर में मामूली बहस ने ले ली चौकीदार की जान!",
+    "script_hi": "इंदौर की एक सोसाइटी में चौकीदार ने कार को एंट्री नहीं दी, तो युवक ने उसे कुचल दिया। पहले इसे हादसा समझा गया, लेकिन सीसीटीवी से सच सामने आया।",
+    "tts_text_hi": "इंदौर की एक सोसाइटी में चौकीदार ने कार को एंट्री नहीं दी, तो युवक ने उसे कुचल दिया। पहले इसे हादसा समझा गया, लेकिन सीसीटीवी से सच सामने आया है। मामला अब हत्या का बन चुका है।",
+    "title": "इंदौर: एंट्री न मिलने पर चौकीदार को कार से कुचला",
+    "caption": "इंदौर में गेटकीपर की बेरहमी से हत्या, कार से कुचला।",
     "hashtags": [
-      "UkraineWar",
-      "Kyiv",
-      "RussiaUkraine",
+      "IndoreCrime",
+      "CrimeNews",
+      "Shocking",
+      "HindiNews",
       "BreakingNews",
-      "WorldNews"
+      "Indore"
     ],
     "visual_queries": [
-      "smoke rising from destroyed city buildings",
-      "emergency rescue vehicles at fire scene",
-      "devastated residential houses after attack",
-      "crater and rubble in urban area"
+      "residential township gate India",
+      "security guard standing India",
+      "car driving on street India",
+      "police investigation scene India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story refers to a specific, unique recent attack with significant casualties; generic B-roll of smoke or rubble cannot authentically represent the specific location or scale of this event without risking misinformation.",
+    "flag_reason": "The story relies on specific CCTV footage of the incident to prove the murder, which needs to be added manually as generic stock footage cannot depict this specific crime.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39181391/16671703_720_1280_24fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17691628/pexels-photo-17691628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "smoke rising from destroyed city buildings",
-        "credit": "Mytho Digital",
-        "source_duration_sec": 6,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/32145206/13705534_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "war zone destruction",
-        "credit": "Yasemin Gül",
-        "source_duration_sec": 7,
-        "duration_sec": 6
+        "query": "residential township gate India",
+        "credit": "Praylin Jerish",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15678414/pexels-photo-15678414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34954627/pexels-photo-34954627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crater and rubble in urban area",
-        "credit": "Alimurat Üral",
+        "query": "security guard standing India",
+        "credit": "the Amritdev",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12704352/pexels-photo-12704352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car driving on street India",
+        "credit": "Tauseef Khaliq",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation scene India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 17,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "prayagraj_sangam_flood",
-    "virality_score": 8,
-    "reason": "Dramatic visuals of the iconic Sangam site submerged will capture immediate attention and emotional response.",
+    "topic_label": "agra_train_suitcase_murder_solved",
+    "virality_score": 9,
+    "reason": "The resolution of the grisly train suitcase murder mystery is a compelling, high-stakes crime narrative.",
     "region": "india",
-    "headline": "प्रयागराज में डूबा संगम, चित्रकूट में बहा पुल का रास्ता",
-    "source_summary": "उत्तर भारत में भारी बारिश से गंगा-यमुना, मंदाकिनी और तमसा समेत कई नदियां उफान पर हैं. प्रयागराज का संगम जलमग्न है, चित्रकूट में पुल की एप्रोच रोड बह गई और सतना में SDRF ने बाढ़ में फंसे लोगों को सुरक्षित निकाला. सेना के दो हेलीकॉप्टर भी राहत-बचाव अभियान में लगाए गए.",
-    "source_url": "https://www.aajtak.in/short-videos/video/north-india-flood-rain-ganga-yamuna-mandakini-tamsa-water-level-rises-above-mmtm-2632581-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:17:10+05:30",
-    "hook": "उत्तर भारत में बाढ़ का कहर, नदियां उफान पर और कई इलाके जलमग्न!",
-    "script_hi": "उत्तर भारत में भारी बारिश ने तबाही मचा दी है। प्रयागराज में संगम जलमग्न हो चुका है, तो वहीं चित्रकूट में पुल का रास्ता बह गया है। सतना में एसडीआरएफ की टीम ने फंसे हुए लोगों को सुरक्षित बाहर निकाला है। राहत और बचाव कार्य के लिए सेना के दो हेलीकॉप्टर भी तैनात किए गए हैं।",
-    "tts_text_hi": "उत्तर भारत में भारी बारिश ने तबाही मचा दी है। प्रयागराज में संगम जलमग्न हो चुका है, तो वहीं चित्रकूट में पुल का रास्ता बह गया है। सतना में एस डी आर एफ की टीम ने फंसे हुए लोगों को सुरक्षित बाहर निकाला है। राहत और बचाव कार्य के लिए सेना के दो हेलीकॉप्टर भी तैनात किए गए हैं।",
-    "title": "उत्तर भारत में भारी बारिश और बाढ़ का अलर्ट",
-    "caption": "भारी बारिश के चलते प्रयागराज से लेकर चित्रकूट तक जनजीवन अस्त-व्यस्त।",
+    "headline": "ट्रेन में मिले लाल सूटकेस में महिला के कटे सिर का रहस्य सुलझा, हत्या का आरोपी दंपति मणिपुर से गिरफ्तार",
+    "source_summary": "आगरा स्टेशन पर 5 अगस्त को तमिलनाडु एक्सप्रेस में एक लावारिस लाल सूटकेस मिला था। यात्रियों की शिकायत के बाद जब जीआरपी ने सूटकेस को खोला तो उसमें एक महिला का कटा हुआ सिर मिला। इसके बाद से तमिलनाडु पुलिस इस हत्याकांड की कड़ियां जोड़ रही थी। 24 दिन तक जांच के बाद पुलिस ने मणिपुर से हत्या के आरोपी दंपति को गिरफ्तार किया है।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/couple-arrested-from-jiribam-manipur-for-packing-a-woman-severed-head-in-a-suitcase-and-placing-it-on-the-tamil-nadu-express/articleshow/133626898.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 30 Aug 2026 15:09:00 +0530",
+    "hook": "आगरा ट्रेन हत्याकांड: लाल सूटकेस में महिला का सिर मिलने का रहस्य सुलझा!",
+    "script_hi": "आगरा स्टेशन पर तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का खौफनाक रहस्य सुलझ गया है। पांच अगस्त को मिले इस सूटकेस में महिला का कटा हुआ सिर मिला था। चौबीस दिनों की लंबी जांच के बाद, पुलिस ने इस हत्याकांड के मुख्य आरोपी दंपति को मणिपुर से गिरफ्तार कर लिया है।",
+    "tts_text_hi": "आगरा स्टेशन पर तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का खौफनाक रहस्य सुलझ गया है। पांच अगस्त को मिले इस सूटकेस में महिला का कटा हुआ सिर मिला था। चौबीस दिनों की लंबी जांच के बाद, पुलिस ने इस हत्याकांड के मुख्य आरोपी दंपति को मणिपुर से गिरफ्तार कर लिया है।",
+    "title": "आगरा ट्रेन हत्याकांड: आरोपी दंपति मणिपुर से गिरफ्तार",
+    "caption": "आगरा ट्रेन हत्याकांड: पांच अगस्त को तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का रहस्य सुलझा, आरोपी दंपति गिरफ्तार।",
     "hashtags": [
-      "FloodAlert",
-      "Prayagraj",
-      "Chitrakoot",
-      "HeavyRain",
-      "IndiaNews",
-      "WeatherUpdate"
+      "AgraNews",
+      "CrimeNews",
+      "TamilNaduExpress",
+      "BreakingNews",
+      "Investigation",
+      "HindiNews",
+      "ManipurPolice",
+      "CrimeUpdate"
     ],
     "visual_queries": [
-      "flooded river banks India",
-      "submerged temple ghat India",
-      "damaged bridge approach road India",
-      "SDRF rescue team boat India",
-      "military helicopter rescue operation India"
+      "Indian railway station platform",
+      "police investigation forensic India",
+      "Indian police officers working",
+      "Manipur landscape India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story mentions a specific criminal incident involving a gruesome discovery; generic stock footage is being used to illustrate the context of the investigation, which may need manual replacement with official footage if available.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "flooded river banks India",
-        "credit": "Arto Suraj",
+        "query": "Indian railway station platform",
+        "credit": "Satvik Pandurangi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19272025/pexels-photo-19272025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "submerged temple ghat India",
-        "credit": "Tanmoy Pal",
+        "query": "police investigation forensic India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14080046/pexels-photo-14080046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "damaged bridge approach road India",
-        "credit": "Ravi Kant",
+        "query": "Indian police officers working",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38431673/pexels-photo-38431673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "SDRF rescue team boat India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19635885/pexels-photo-19635885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "military helicopter rescue operation India",
-        "credit": "Yahya Gopalani",
+        "query": "Manipur landscape India",
+        "credit": "Noor Zaman",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "प्रयागराज में डूबा संगम: उत्तर भारत में तबाही मचा रही बारिश! 🌧️",
-        "caption": "प्रयागराज में डूबा संगम, चित्रकूट में सड़कों का नामोनिशान मिट गया। उत्तर भारत में बाढ़ का कहर बढ़ता जा रहा है, नदियां खतरे के निशान के ऊपर बह रही हैं। कई इलाकों का संपर्क पूरी तरह कट चुका है। क्या आपके इलाके में भी बारिश का असर दिख रहा है? कमेंट में बताएं।\n\n#PrayagrajFlood #NorthIndiaRains #WeatherAlert #Chitrakoot #FloodUpdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "प्रयागराज में डूबा संगम, चित्रकूट में सड़कों का नामोनिशान मिट गया। 🌊 उत्तर भारत में भारी बारिश से नदियां उफान पर हैं और कई शहर जलमग्न हो चुके हैं। हालात वाकई चिंताजनक हैं। सुरक्षित रहें।\n\n#PrayagrajFlood #NorthIndiaRains #WeatherAlert #Chitrakoot #FloodUpdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "प्रयागराज में डूबा संगम और चित्रकूट में बहा पुल का रास्ता! उत्तर भारत के कई जिलों में भारी बारिश के बाद बाढ़ जैसे हालात बन गए हैं। तस्वीरें और वीडियो रोंगटे खड़े करने वाले हैं। क्या आपने अभी तक अपने शहर का हाल देखा? नीचे अपनी जगह का नाम बताएं।\n\n#PrayagrajFlood #NorthIndiaRains #WeatherAlert #Chitrakoot #FloodUpdate"
-      },
-      "hashtags": [
-        "PrayagrajFlood",
-        "NorthIndiaRains",
-        "WeatherAlert",
-        "Chitrakoot",
-        "FloodUpdate"
-      ]
-    },
-    "audio_path": "audio/prayagraj_sangam_flood.wav",
-    "audio_duration_sec": 23.73,
-    "video_path": "videos/prayagraj_sangam_flood.mp4",
-    "video_duration_sec": 31.78,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "19HT9JbRZa8",
-        "url": "https://youtube.com/shorts/19HT9JbRZa8",
-        "attempted_at": "2026-08-30T09:41:16.219446+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a93fad0213e0d854d37f589",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "प्रयागराज में डूबा संगम और चित्रकूट में बहा पुल का रास्ता! उत्तर भारत के कई जिलों में भारी बारिश के बाद बाढ़ जैसे हालात बन गए हैं। तस्वीरें और वीडियो रोंगटे खड़े करने वाले हैं। क्या आपने अभी तक अपने शहर का हाल देखा? नीचे अपनी जगह का नाम बताएं।\n\n#PrayagrajFlood #NorthIndiaRains #WeatherAlert #Chitrakoot #FloodUpdate",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788082894389_sfyq7yyh_prayagraj_sangam_flood.mp4",
-                "_id": "6a93fad0213e0d854d37f58a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=12BsFli3dkYQ7kNvwFem0Qv&_nc_oc=AdpHYXXdUREARRC6lBLXd5aWZuSgAE34lly_Udk0PHk0GiZYL-6uDqeSv-KU5Crz9uU&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=F4NLVbAnQrU9s1cMEya69A&_nc_tpa=Q5bMBQKfnNYgPzsh2b-1K522mKdPfRXuD2L-sOPrdb_hRVEOn9PchSs0IT8k7U2xHtUe5lKVGigm_pcF&oh=00_AQLq_fUQFlVIf8s1A5DqMhxxknG1Dn58RMyBIjMTYXUnHQ&oe=6A998214",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-30T09:41:35.468Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "25b64b67c64b4ad53bc4a499a319a891",
-                "_id": "6a93fad0213e0d854d37f58b",
-                "platformPostId": "2276824396487695",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2276824396487695",
-                "publishedAt": "2026-08-30T09:41:42.729Z"
-              }
-            ],
-            "scheduledFor": "2026-08-30T09:41:35.468Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-30T09:41:36.701Z",
-            "updatedAt": "2026-08-30T09:41:42.832Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-30T09:41:36.809Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-30T09:41:43.023242+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a93faecb692050ce3b502d6",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "प्रयागराज में डूबा संगम, चित्रकूट में सड़कों का नामोनिशान मिट गया। 🌊 उत्तर भारत में भारी बारिश से नदियां उफान पर हैं और कई शहर जलमग्न हो चुके हैं। हालात वाकई चिंताजनक हैं। सुरक्षित रहें।\n\n#PrayagrajFlood #NorthIndiaRains #WeatherAlert #Chitrakoot #FloodUpdate",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788082922295_dum0z7ut_prayagraj_sangam_flood.mp4",
-                "_id": "6a93faecb692050ce3b502d7"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwEtWysp&_nc_oc=AdrUl1z5u9I92Rjho9vn5L5kFz4ThMRNsEtrZDNkzAzfWSsYoyfo57qDblljTZi91MY&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rqA4x6Pt4Td1qtPaxjZRYg&_nc_tpa=Q5bMBQJn69gE8cC1wDoP3Vt4WsZnGM-SItKXsu02-82Pj7u0OFpRkqv5U02PiwQblMba6cpngV28tSzOFQ&oh=00_AQJpjLBAc0fCLnZLn8ok0xv2GbpdCQHvow1w9-Lk7fSH5A&oe=6A9975BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-08-30T09:42:03.299Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "cdc90bf0a212a7f7ef58ee74badce7a6",
-                "_id": "6a93faecb692050ce3b502d8"
-              }
-            ],
-            "scheduledFor": "2026-08-30T09:42:03.299Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-08-30T09:42:04.024Z",
-            "updatedAt": "2026-08-30T09:42:05.461Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-08-30T09:42:04.097Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-08-30T09:42:06.049936+00:00"
-      }
-    }
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "hapur_acid_attack",
+    "topic_label": "bhopal_police_bike_chase_accident",
     "virality_score": 8,
-    "reason": "High-tension crime story that creates strong public outrage and engagement due to the shocking nature of the event.",
+    "reason": "Public outrage against police conduct after a child was injured in a high-speed chase creates strong viewer engagement.",
     "region": "india",
-    "headline": "शादी टूटी तो दीवार फांदकर घर में घुसा युवक, सो रही दो बहनों पर फेंका एसिड",
-    "source_summary": "शादी का रिश्ता टूटा तो नाराज युवक ने खौफनाक कदम उठा लिया. हापुड़ में देर रात एक युवक पर आरोप है कि वह दीवार फांदकर घर में घुसा और सो रही दो सगी बहनों पर तेजाब फेंककर फरार हो गया. दोनों बहनें गंभीर रूप से झुलस गईं और उन्हें मेरठ मेडिकल कॉलेज में भर्ती कराया गया है. पुलिस ने नामजद आरोपी को हिरासत में लेकर पूछताछ शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/hapur-acid-attack-man-throws-acid-two-sisters-marriage-proposal-called-off-lcla-strc-2632588-2026-08-30?utm_source=rssfeed",
+    "headline": "बदमाश का पीछा कर रहे थे पुलिसवाले, बाइक की टक्कर से बच्ची घायल",
+    "source_summary": "राजधानी भोपाल के हबीबगंज थाना क्षेत्र में बदमाश का पीछा कर रहे पुलिसकर्मियों की बाइक की चपेट में 8 साल की बच्ची आ गई. हादसे में बच्ची सड़क पर गिर गई और उसके सिर में गंभीर चोट आई है. घटना के बाद मौके पर मौजूद लोगों ने दोनों पुलिसकर्मियों को रोक लिया और जमकर हंगामा किया. बाद में डायल 100 की टीम के पहुंचने पर मामला शांत हुआ.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/bhopal-police-bike-chasing-accused-hits-8-year-old-girl-head-injury-lcla-strc-2632703-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:22:54+05:30",
-    "hook": "हापुड़ में एकतरफा प्यार का खौफनाक अंजाम सामने आया है।",
-    "script_hi": "हापुड़ में एकतरफा प्यार का खौफनाक अंजाम सामने आया है। शादी टूटने से नाराज एक युवक ने दीवार फांदकर घर में घुसकर सो रही दो सगी बहनों पर ए*िड फेंक दिया। दोनों पीड़ित बहनें गंभीर रूप से झुलस गई हैं, जिन्हें इलाज के लिए मेरठ मेडिकल कॉलेज में भर्ती कराया गया है। पुलिस ने आरोपी को हिरासत में ले लिया है और आगे की पूछताछ जारी है।",
-    "tts_text_hi": "हापुड़ में एकतरफा प्यार का खौफनाक अंजाम सामने आया है। शादी टूटने से नाराज एक युवक ने दीवार फांदकर घर में घुसकर सो रही दो सगी बहनों पर एसिड फेंक दिया। दोनों पीड़ित बहनें गंभीर रूप से झुलस गई हैं, जिन्हें इलाज के लिए मेरठ मेडिकल कॉलेज में भर्ती कराया गया है। पुलिस ने आरोपी को हिरासत में ले लिया है और आगे की पूछताछ जारी है।",
-    "title": "हापुड़ में दो बहनों पर एसिड अटैक",
-    "caption": "हापुड़ में शादी का रिश्ता टूटने से नाराज युवक ने सो रही दो बहनों पर एसिड फेंक दिया, दोनों गंभीर रूप से घायल।",
+    "published": "2026-08-30T15:18:03+05:30",
+    "hook": "भोपाल में पुलिस की बाइक से टकराई आठ साल की बच्ची, बड़ा हंगामा!",
+    "script_hi": "भोपाल के हबीबगंज में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक से एक आठ साल की बच्ची टकरा गई। हादसे में बच्ची के सिर में गंभीर चोट आई है। घटना के बाद स्थानीय लोगों ने पुलिसकर्मियों को घेर लिया और खूब हंगामा किया। बाद में डायल एक सौ की टीम ने मौके पर पहुँचकर मामला शांत कराया।",
+    "tts_text_hi": "भोपाल के हबीबगंज में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक से एक आठ साल की बच्ची टकरा गई। हादसे में बच्ची के सिर में गंभीर चोट आई है। घटना के बाद स्थानीय लोगों ने पुलिसकर्मियों को घेर लिया और खूब हंगामा किया। बाद में डायल एक सौ की टीम ने मौके पर पहुँचकर मामला शांत कराया।",
+    "title": "भोपाल: पुलिस बाइक की टक्कर से बच्ची घायल",
+    "caption": "भोपाल के हबीबगंज थाना क्षेत्र में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक की चपेट में आने से एक आठ साल की बच्ची घायल हो गई।",
     "hashtags": [
-      "HapurNews",
+      "BhopalNews",
+      "MadhyaPradesh",
+      "PoliceAccident",
+      "Habibganj",
+      "BhopalCrime",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Indian police motorcycle patrol",
+      "Indian city street crowd",
+      "Indian police emergency vehicle",
+      "Hospital entrance India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves a specific local incident where the visuals would require real, non-stock footage of the actual street and scene for authenticity; generic stock footage might misrepresent the specific accident site.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35040035/14843138_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian street crowd",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 8,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13268079/pexels-photo-13268079.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police motorcycle patrol",
+        "credit": "Madvortex",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street crowd",
+        "credit": "Himanshu Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hospital entrance India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "nepal_flood_theft_arrests",
+    "virality_score": 8,
+    "reason": "Shocking news about people stealing bank cash from flood debris is a high-emotion, viral-worthy story.",
+    "region": "india",
+    "headline": "Nepal Flood के बीच शर्मनाक वारदात! नदी में बहकर आए बैंक सेफ से निकाले 92 लाख, 29 गिरफ्तार, शवों से भी हुई चोरी",
+    "source_summary": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाले कई मामले सामने आ रहे हैं। धादिंग जिले में बाढ़ के पानी के साथ बहकर आए एक बैंक सेफ को तोड़कर रकम निकालने के आरोप में 29 लोगों को",
+    "source_url": "https://hindi.oneindia.com/news/international/nepal-floods-bank-safe-theft-92-lakh-29-arrested-1638523.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Sat, 29 Aug 2026 18:38:06 +0530",
+    "hook": "नेपाल में बाढ़ के बीच मानवता शर्मसार, बहकर आए बैंक सेफ से लूटे बावन लाख रुपये!",
+    "script_hi": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। धादिंग जिले में बाढ़ के पानी में बहकर एक बैंक सेफ आ गया, जिसे लोगों ने तोड़कर बानवे लाख रुपये निकाल लिए। पुलिस ने कार्रवाई करते हुए उन्नतीस लोगों को गिरफ्तार किया है। हद तो तब हो गई जब बाढ़ के दौरान शवों के साथ भी लूटपाट की खबरें सामने आई हैं।",
+    "tts_text_hi": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। धादिंग जिले में बाढ़ के पानी में बहकर एक बैंक सेफ आ गया, जिसे लोगों ने तोड़कर बानवे लाख रुपये निकाल लिए। पुलिस ने कार्रवाई करते हुए उन्नतीस लोगों को गिरफ्तार किया है। हद तो तब हो गई जब बाढ़ के दौरान शवों के साथ भी लूटपाट की खबरें सामने आई हैं।",
+    "title": "नेपाल बाढ़ में बैंक सेफ लूटा",
+    "caption": "नेपाल में बाढ़ के बीच बैंक सेफ से बावन लाख की लूट, उन्नतीस गिरफ्तार।",
+    "hashtags": [
+      "NepalFlood",
+      "NepalNews",
+      "Shameful",
       "CrimeNews",
-      "UttarPradesh",
-      "AcidAttack",
-      "HindiNews",
+      "Dhadhing",
       "LatestUpdate"
     ],
     "visual_queries": [
-      "Indian police station exterior",
-      "hospital building facade India",
-      "crime scene investigation India"
+      "flooded river Nepal",
+      "bank safe damaged",
+      "police arrest suspects",
+      "devastation aftermath landscape"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves a violent crime (acid attack) requiring careful handling of the sensitive nature of the incident and ensuring appropriate visuals as per community guidelines.",
+    "flag_reason": "The story involves specific reported criminal incidents (looting of a bank safe and corpses) during a disaster; the visual footage of the specific safe or the suspects is not available in generic stock libraries and would require specific news footage to illustrate accurately.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481284/pexels-photo-10481284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime investigation scene",
-        "credit": "cottonbro studio",
+        "query": "flooded river Nepal",
+        "credit": "Sabbir Bhuiyan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
+        "query": "police arrest suspects",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "devastation aftermath landscape",
+        "credit": "akın  akdağ",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "google_maps_killer_dogs",
-    "virality_score": 7,
-    "reason": "Odd and eerie content involving tech and local danger that usually performs well on short-form platforms.",
-    "region": "india",
-    "headline": "गूगल मैप पर दिखे खूंखार कुत्ते, बुजुर्ग की मौत के बाद चर्चा में तस्वीर",
-    "source_summary": "गूगल मैप पर कभी- कभी ऐसे दृश्य कैद हो जाते हैं, जो दिल- दहलाने वाले होते हैं. ऐसे ही कुछ खूंखार कुत्तों की गूगल मैप पर दिखाई दे रही तस्वीर चर्चा में है. क्योंकि, जहां ये कुत्ते दिखाई दे रहे हैं. अभी दो दिन पहले वहीं एक शख्स की मौत कुत्तों के एक झुंड ने नोंच- नोंचकर कर दी.",
-    "source_url": "https://www.aajtak.in/trending/story/google-maps-dogs-illinois-deadly-attack-james-gibson-tstsd-dskc-2632659-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T14:13:22+05:30",
-    "hook": "गूगल मैप की एक तस्वीर ने मचाया हड़कंप!",
-    "script_hi": "गूगल मैप पर कैद हुई खूंखार कुत्तों की ये तस्वीरें सोशल मीडिया पर चर्चा का विषय बनी हुई हैं। असल में, इन तस्वीरों के पीछे की सच्चाई रोंगटे खड़े कर देने वाली है। बताया जा रहा है कि जहां ये कुत्ते दिखाई दे रहे हैं, वहीं दो दिन पहले कुत्तों के एक झुंड ने एक बुजुर्ग पर जानलेवा हमला कर दिया। हमले में बुजुर्ग की दर्दनाक मौत हो गई।",
-    "tts_text_hi": "गूगल मैप पर कैद हुई खूंखार कुत्तों की ये तस्वीरें सोशल मीडिया पर चर्चा का विषय बनी हुई हैं। असल में, इन तस्वीरों के पीछे की सच्चाई रोंगटे खड़े कर देने वाली है। बताया जा रहा है कि जहां ये कुत्ते दिखाई दे रहे हैं, वहीं दो दिन पहले कुत्तों के एक झुंड ने एक बुजुर्ग पर जानलेवा हमला कर दिया। हमले में बुजुर्ग की दर्दनाक मौत हो गई।",
-    "title": "गूगल मैप पर कुत्तों की तस्वीर वायरल",
-    "caption": "गूगल मैप पर दिखे खूंखार कुत्ते, बुजुर्ग की मौत के बाद चर्चा में तस्वीर।",
-    "hashtags": [
-      "GoogleMaps",
-      "ViralNews",
-      "DogAttack",
-      "Shocking",
-      "IndiaNews",
-      "Trending"
-    ],
-    "visual_queries": [
-      "Google Maps interface on smartphone",
-      "street view India suburban area",
-      "stray dogs pack India road",
-      "police investigation scene India",
-      "mournful atmosphere city street"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific, allegedly viral screenshots of a location on Google Maps related to a local incident; generic stock footage of dogs or maps is insufficient to convey the story's specific claims, requiring the actual viral image to be overlaid manually.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/4546853/4546853-hd_720_1280_50fps.mp4",
-        "source": "pexels",
-        "query": "Google Maps interface on smartphone",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 4,
-        "duration_sec": 4
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29050834/12557959_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "mournful atmosphere city street",
-        "credit": "Hafize  Balcı",
-        "source_duration_sec": 6,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30058409/pexels-photo-30058409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "street view India suburban area",
-        "credit": "grayom .",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6571217/pexels-photo-6571217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stray dogs pack India road",
-        "credit": "Anil Chandran",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12661995/pexels-photo-12661995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stray dogs street",
-        "credit": "Nesrin Öztürk",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "timeline_covered_sec": 15,
     "review_status": "pending_review"
   }
 ]
