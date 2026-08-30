@@ -1,254 +1,76 @@
 [
   {
-    "topic_label": "mohan_bhagwat_nyc_speech",
+    "topic_label": "nepal_flood_new_alert",
     "virality_score": 9,
-    "reason": "RSS Chief's remarks on Muslims and Indian diversity at Madison Square Garden are highly viral and politically sensitive.",
+    "reason": "Continues coverage of a major ongoing regional disaster, high visual potential with new urgency.",
     "region": "india",
-    "headline": "भारत के DNA में एकता और विविधता, मैडिसन स्क्वायर में बोले RSS चीफ मोहन भागवत",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/mohan-bhagwat-in-us.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"भारत के DNA में एकता और विविधता, मैडिसन स्क्वायर में बोले RSS चीफ मोहन भागवत\" /></figure>RSS प्रमुख ने कहा कि भारत का काम दुनिया को भी विविधता में एकता का एहसास कराना है. उन्होंने कहा, भारत को उम्मीद है कि विदेशों में रहने वाले भारतीय उन मूल्यों को बनाए रखेंगे जो भारत ने उन्हें सिखाए हैं.",
-    "source_url": "https://www.tv9hindi.com/world/unity-and-diversity-are-in-india-dna-says-mohan-bhagwat-at-madison-square-3893380.html",
-    "source_name": "TV9 Hindi",
-    "published": "Sun, 30 Aug 2026 02:52:15 +0530",
-    "hook": "अमेरिका की धरती पर गूंजा भारत का गौरव, मोहन भागवत ने कही ये बड़ी बात!",
-    "script_hi": "अमेरिका के मैडिसन स्क्वायर में आरएसएस प्रमुख मोहन भागवत ने भारतीय मूल के लोगों को संबोधित किया। उन्होंने कहा कि भारत के डीएनए में ही एकता और विविधता है और हमें इसे पूरी दुनिया में फैलाना है।",
-    "tts_text_hi": "अमेरिका के मैडिसन स्क्वायर में आरएसएस प्रमुख मोहन भागवत ने भारतीय मूल के लोगों को संबोधित किया। उन्होंने कहा कि भारत के डीएनए में ही एकता और विविधता है और हमें इसे पूरी दुनिया में फैलाना है।",
-    "title": "मैडिसन स्क्वायर में बोले मोहन भागवत",
-    "caption": "आरएसएस प्रमुख मोहन भागवत ने अमेरिका में भारतीय संस्कृति और मूल्यों पर दी बड़ी बात।",
-    "hashtags": [
-      "MohanBhagwat",
-      "RSS",
-      "USA",
-      "MadisonSquareGarden",
-      "IndianDiaspora",
-      "India",
-      "UnityInDiversity",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "Madison Square Garden New York",
-      "Indian American people crowd",
-      "unity in diversity concept",
-      "Indian flag fluttering"
-    ],
-    "named_person": "Mohan Bhagwat",
-    "named_person_hi": "मोहन भागवत",
-    "secondary_persons": [],
-    "est_duration_sec": 25,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "मोहन भागवत",
-        "source": "fallback",
-        "query": "Mohan Bhagwat",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7078513/pexels-photo-7078513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Madison Square Garden New York",
-        "credit": "Laura Tancredi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15856553/pexels-photo-15856553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian American people crowd",
-        "credit": "Chalta Phirta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19228682/pexels-photo-19228682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "unity in diversity concept",
-        "credit": "Ann H",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/21852333/pexels-photo-21852333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian flag fluttering",
-        "credit": "Tubai Garai",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मैडिसन स्क्वायर में बोले मोहन भागवत",
-        "caption": "आरएसएस प्रमुख मोहन भागवत ने अमेरिका में भारतीय संस्कृति और मूल्यों पर दी बड़ी बात।\n\n#MohanBhagwat #RSS #USA #MadisonSquareGarden #IndianDiaspora"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "आरएसएस प्रमुख मोहन भागवत ने अमेरिका में भारतीय संस्कृति और मूल्यों पर दी बड़ी बात।\n\n#MohanBhagwat #RSS #USA #MadisonSquareGarden #IndianDiaspora"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "आरएसएस प्रमुख मोहन भागवत ने अमेरिका में भारतीय संस्कृति और मूल्यों पर दी बड़ी बात।\n\n#MohanBhagwat #RSS #USA #MadisonSquareGarden #IndianDiaspora"
-      },
-      "hashtags": [
-        "MohanBhagwat",
-        "RSS",
-        "USA",
-        "MadisonSquareGarden",
-        "IndianDiaspora"
-      ]
-    },
-    "audio_path": "audio/mohan_bhagwat_nyc_speech.wav",
-    "audio_duration_sec": 14.51
-  },
-  {
-    "topic_label": "nepal_flood_indians_missing",
-    "virality_score": 9,
-    "reason": "High emotional impact story involving hundreds of missing Indians in a major international natural disaster.",
-    "region": "india",
-    "headline": "नेपाल बाढ़ में अभी भी 275 से ज्यादा भारतीय लापता, 108 को बचाया गया",
-    "source_summary": "नेपाल-तिब्बत सीमा पर आई भीषण बाढ़ के बाद 275 से ज्यादा भारतीय अभी भी लापता हैं, जबकि 108 भारतीयों को बचाया गया है. करीब 900 भारतीय चीन की तरफ सुरक्षित हैं.",
-    "source_url": "https://www.aajtak.in/india/news/story/nepal-flash-floods-indians-missing-rescued-iaf-relief-jaishankar-ntc-apdy-dskc-2632478-2026-08-30?utm_source=rssfeed",
+    "headline": "भोटेकोशी का फिर बढ़ रहा जलस्तर, नेपाल में नई आपदा की आहट!",
+    "source_summary": "Nepal Flood Live Updates: नेपाल में भोटेकोशी नदी का बहाव बढ़ने की आवाज सुनाई देने के बाद रसुवा, नुवाकोट और धादिंग में लोगों को सतर्क रहने को कहा गया है. बाढ़ में अब तक 675 लोगों की मौत हो चुकी है, जबकि 2,400 से ज्यादा लापता हैं.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-floods-indians-missing-rescue-operation-death-toll-ntc-apdy-2632481-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T03:28:08+05:30",
-    "hook": "नेपाल सीमा पर कुदरत का कहर! दो सौ पचहत्तर से ज्यादा भारतीय लापता हैं।",
-    "script_hi": "नेपाल-तिब्बत सीमा पर आई भीषण बाढ़ ने तबाही मचा दी है। आंकड़ों के मुताबिक, दो सौ पचहत्तर से ज्यादा भारतीय अभी भी लापता बताए जा रहे हैं। राहत और बचाव कार्य लगातार जारी है, जिसके तहत अब तक एक सौ आठ लोगों को सुरक्षित निकाल लिया गया है। वहीं, लगभग नौ सौ भारतीय चीन की ओर सुरक्षित स्थान पर पहुंच गए हैं। प्रशासन लगातार हालात पर नजर बनाए हुए है।",
-    "tts_text_hi": "नेपाल-तिब्बत सीमा पर आई भीषण बाढ़ ने तबाही मचा दी है। आंकड़ों के मुताबिक, दो सौ पचहत्तर से ज्यादा भारतीय अभी भी लापता बताए जा रहे हैं। राहत और बचाव कार्य लगातार जारी है, जिसके तहत अब तक एक सौ आठ लोगों को सुरक्षित निकाल लिया गया है। वहीं, लगभग नौ सौ भारतीय चीन की ओर सुरक्षित स्थान पर पहुंच गए हैं। प्रशासन लगातार हालात पर नजर बनाए हुए है।",
-    "title": "नेपाल सीमा पर बाढ़ से संकट",
-    "caption": "नेपाल-तिब्बत सीमा पर बाढ़ का तांडव, 275 से ज्यादा भारतीय लापता। बचाव कार्य जारी।",
+    "published": "2026-08-30T05:20:00+05:30",
+    "hook": "नेपाल में फिर गहराया बाढ़ का संकट, भोटेकोशी नदी का जलस्तर एक बार फिर बढ़ने लगा है!",
+    "script_hi": "नेपाल में फिर गहराया बाढ़ का संकट! भोटेकोशी नदी का जलस्तर एक बार फिर बढ़ने लगा है। रसुवा, नुवाकोट और धादिंग के निवासियों के लिए अलर्ट जारी किया गया है। अब तक छह सौ पचहत्तर लोगों की मौत हो चुकी है, जबकि दो हजार चार सौ से ज्यादा लोग लापता हैं।",
+    "tts_text_hi": "नेपाल में फिर गहराया बाढ़ का संकट! भोटेकोशी नदी का जलस्तर एक बार फिर बढ़ने लगा है। रसुवा, नुवाकोट और धादिंग के निवासियों के लिए अलर्ट जारी किया गया है। अब तक छह सौ पचहत्तर लोगों की मौत हो चुकी है, जबकि दो हजार चार सौ से ज्यादा लोग लापता हैं।",
+    "title": "नेपाल में भोटेकोशी नदी का बढ़ा खतरा",
+    "caption": "नेपाल में भोटेकोशी नदी का जलस्तर बढ़ने से अलर्ट जारी, आपदा का तांडव जारी।",
     "hashtags": [
+      "Nepal",
       "NepalFlood",
-      "BreakingNews",
-      "RescueOperation",
+      "BhoteKoshi",
+      "DisasterAlert",
       "NepalNews",
-      "India",
-      "NaturalDisaster"
+      "FloodUpdate"
     ],
     "visual_queries": [
-      "devastating flood India region",
-      "rescue helicopter searching",
-      "people being rescued",
-      "mountain landscape India China border"
+      "rushing river water Nepal",
+      "flooded rural landscape Nepal",
+      "emergency evacuation alert",
+      "devastated village aftermath"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves specific casualties and ongoing rescue operations in a cross-border region; requires real footage/updates of the incident rather than generic stock imagery.",
+    "flag_reason": "The story involves significant casualties and requires specific real footage of the current flood situation in Nepal to be accurate; generic stock imagery would be misleading.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6520227/6520227-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "devastating flood India region",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16264341/pexels-photo-16264341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue helicopter searching",
-        "credit": "Jarod Barton",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6520058/pexels-photo-6520058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people being rescued",
+        "query": "emergency evacuation alert",
         "credit": "RDNE Stock project",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37920864/pexels-photo-37920864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rushing river water Nepal",
+        "credit": "JACKEY",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38833361/pexels-photo-38833361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19069374/pexels-photo-19069374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "mountain landscape India China border",
-        "credit": "mayank dixit",
+        "query": "flooded rural landscape Nepal",
+        "credit": "Adem Albayrak",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31778051/pexels-photo-31778051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "devastated village aftermath",
+        "credit": "Алесь Усцінаў",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "greater_noida_child_murder_encounter",
-    "virality_score": 9,
-    "reason": "Horrific crime followed by a quick police encounter is a staple viral format for Hindi news.",
-    "region": "india",
-    "headline": "नोएडा में 6 साल की बच्ची का रेप और कत्ल करने वाला चंद घंटों में ढेर, बोरी में भर ले गया था शव",
-    "source_summary": "ग्रेटर नोएडा में  6 साल की मासूम बच्ची की हत्या कर दी गई थी. हल्दौनी गांव में बच्ची के लापता होने के बाद पुलिस ने शव बरामद किया था. अब पुलिस ने इस मामले के कुछ घंटे बाद ही आरोपी को एनकाउंटर में ढेर कर दिया है.",
-    "source_url": "https://ndtv.in/uttar-pradesh-news/greater-noida-accused-who-murdered-an-innocent-6-year-old-girl-shot-dead-by-up-police-in-an-encounter-within-hours-11975167#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 29 Aug 2026 19:08:45 +0530",
-    "hook": "नोएडा में छह साल की मासूम बच्ची के साथ दरिंदगी और हत्या के आरोपी का एनकाउंटर!",
-    "script_hi": "नोएडा के हल्दौनी गांव में छह साल की बच्ची की रेप के बाद निर्मम हत्या। आरोपी बोरी में शव ले जाते हुए दिखा। घटना के चंद घंटों के अंदर ही पुलिस ने आरोपी को एनकाउंटर में ढेर कर दिया।",
-    "tts_text_hi": "नोएडा के हल्दौनी गांव में छह साल की बच्ची की रेप के बाद निर्मम हत्या। आरोपी बच्ची का शव बोरी में भरकर ले गया था। घटना के चंद घंटों के अंदर ही पुलिस ने आरोपी को एनकाउंटर में ढेर कर दिया है।",
-    "title": "नोएडा में बच्ची की हत्या के आरोपी का एनकाउंटर",
-    "caption": "नोएडा के हल्दौनी गांव में छह साल की बच्ची की हत्या करने वाले आरोपी का पुलिस ने एनकाउंटर कर दिया है।",
-    "hashtags": [
-      "GreaterNoida",
-      "NoidaNews",
-      "Encounter",
-      "Justice",
-      "CrimeNews",
-      "UPPolice",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian police barricade at crime scene",
-      "Indian village street residential",
-      "Indian police officers standing",
-      "Indian police siren lights"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves the victimization of a minor and a specific recent criminal incident requiring sensitive handling of facts.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10859264/pexels-photo-10859264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police barricade at crime scene",
-        "credit": "Ian Probets",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10538901/pexels-photo-10538901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village street residential",
-        "credit": "Umer Nazir",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officers standing",
-        "credit": "Devansh Bose",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38910526/pexels-photo-38910526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police siren lights",
-        "credit": "Anderson Alves",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   }
 ]
