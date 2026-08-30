@@ -1,453 +1,77 @@
 [
   {
-    "topic_label": "noida_child_murder_encounter",
+    "topic_label": "nepal_flood_surviving_house_video",
     "virality_score": 9,
-    "reason": "High emotional impact, crime story involving a child and an encounter killing, typical viral news category.",
+    "reason": "Dramatic visual of a single house surviving a massive flood, highly shareable content.",
     "region": "india",
-    "headline": "6 साल की बच्ची की हत्या, मुठभेड़ में आरोपी ढेर",
-    "source_summary": "ग्रेटर नोएडा में 6 साल की बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया. CCTV में आरोपी बोरी ले जाते दिखा था. पुलिस ने बच्ची का शव बरामद कर पोस्टमार्टम कराया है और मामले की जांच जारी है. वीडियो में जानें क्या है पूरा मामला.",
-    "source_url": "https://www.aajtak.in/short-videos/video/greater-noida-6-year-old-girl-murder-accused-killed-police-encounter-details-mmtm-2632602-2026-08-30?utm_source=rssfeed",
+    "headline": "चारों तरफ तबाही, फिर भी बचा अकेला घर... फंसे परिवार का रेस्क्यू Video",
+    "source_summary": "नेपाल में विनाशकारी फ्लैश फ्लड के बीच एक हरे रंग का घर मजबूती से खड़ा रहा, जबकि आसपास सब कुछ बाढ़ के तेज बहाव में बहता नजर आया.अब उस घर से जुड़ा वीडियो सामने आया.",
+    "source_url": "https://www.aajtak.in/trending/story/nepal-green-house-flood-family-rescue-viral-video-survives-flash-flood-tstf-dskc-2632772-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:49:17+05:30",
-    "hook": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी का एनकाउंटर!",
-    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी का एनकाउंटर हो गया है। पुलिस ने मुठभेड़ में उसे ढेर कर दिया। आरोपी सीसीटीवी में एक बोरी ले जाते हुए कैद हुआ था। पुलिस ने शव बरामद कर पोस्टमार्टम के लिए भेजा है और जांच जारी है।",
-    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम की हत्या के आरोपी का एनकाउंटर हो गया है। पुलिस ने मुठभेड़ में उसे ढेर कर दिया। आरोपी सीसीटीवी में एक बोरी ले जाते हुए कैद हुआ था। पुलिस ने शव बरामद कर पोस्टमार्टम के लिए भेजा है और जांच जारी है।",
-    "title": "ग्रेटर नोएडा में मासूम की हत्या का आरोपी मुठभेड़ में ढेर",
-    "caption": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या के आरोपी का एनकाउंटर, पुलिस ने मुठभेड़ में मार गिराया।",
+    "published": "2026-08-30T17:23:44+05:30",
+    "hook": "नेपाल की बाढ़ में तबाही के बीच, एक अकेला घर कैसे बच गया?",
+    "script_hi": "नेपाल में विनाशकारी बाढ़ के बीच एक ऐसा नज़ारा दिखा जिसने सबको हैरान कर दिया। चारों तरफ पानी का तेज़ बहाव था, सब कुछ बह गया, लेकिन यह हरा घर मजबूती से खड़ा रहा। अब इस रेस्क्यू का वीडियो सामने आया है।",
+    "tts_text_hi": "नेपाल में विनाशकारी बाढ़ के बीच एक ऐसा नज़ारा दिखा जिसने सबको हैरान कर दिया। चारों तरफ पानी का तेज़ बहाव था, सब कुछ बह गया, लेकिन यह हरा घर मजबूती से खड़ा रहा। अब इस रेस्क्यू का वीडियो सामने आया है।",
+    "title": "नेपाल में बाढ़ के बीच बचा अकेला घर",
+    "caption": "नेपाल में विनाशकारी फ्लैश फ्लड के बीच एक हरे रंग का घर मजबूती से खड़ा रहा, जबकि आसपास सब कुछ बाढ़ के तेज बहाव में बहता नजर आया।",
     "hashtags": [
-      "GreaterNoida",
-      "CrimeNews",
-      "Encounter",
-      "JusticeForVictim",
-      "HindiNews",
-      "UttarPradesh"
-    ],
-    "visual_queries": [
-      "Indian police station interior",
-      "Police barricade India crime scene",
-      "CCTV camera surveillance footage",
-      "Forensic investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves the death of a minor and a specific viral-style event (CCTV evidence), requiring manual verification of sensitive content and proper footage handling.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Police barricade India crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 23,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera surveillance footage",
-        "credit": "Florian Süß",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Forensic investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "cobra_toilet_seat_gurugram",
-    "virality_score": 8,
-    "reason": "Bizarre, visually compelling, and relatable fear factor (snakes in toilets) ensures high engagement.",
-    "region": "india",
-    "headline": "टॉयलेट सीट के नीचे छिपा 6 फीट लंबा कोबरा, फुंकार सुन मचा हड़कंप-VIDEO",
-    "source_summary": "गुरुग्राम के गाड़ौली कलां में एक घर के बाथरूम की टॉयलेट सीट के नीचे करीब 6 फीट लंबा स्पेक्टेकल्ड कोबरा छिपा मिला. सीट के भीतर से लगातार फुंकार सुनकर परिवार दहशत में था. सूचना पर पहुंचे वन्यजीव संरक्षण कर्मी अनिल गंडास ने टॉयलेट सीट तोड़कर सांप को सुरक्षित बाहर निकाला. बढ़ते शहरीकरण के बीच रिहायशी इलाकों में सांपों के बढ़ते मामलों ने चिंता बढ़ाई है.",
-    "source_url": "https://www.aajtak.in/india/haryana/story/gurugram-toilet-seat-6-feet-spectacled-cobra-rescue-video-lclcn-strc-2632758-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T16:35:09+05:30",
-    "hook": "टॉयलेट सीट के अंदर छिपा था छह फीट लंबा कोबरा, सुनकर उड़ जाएंगे आपके होश!",
-    "script_hi": "गुरुग्राम के गाड़ौली कलां में एक घर के बाथरूम में उस वक्त हड़कंप मच गया, जब टॉयलेट सीट के नीचे से अजीब सी आवाजें आने लगीं। जांच की तो सीट के अंदर करीब छह फीट लंबा स्पेक्टेकल्ड कोबरा छिपा हुआ था। परिवार की सूचना पर वन्यजीव कर्मी अनिल गंडास मौके पर पहुंचे और कड़ी मशक्कत के बाद टॉयलेट सीट को तोड़कर सांप को सुरक्षित बाहर निकाला। रिहायशी इलाकों में सांपों के आने की बढ़ती घटनाओं ने लोगों की चिंता बढ़ा दी है।",
-    "tts_text_hi": "गुरुग्राम के गाड़ौली कलां में एक घर के बाथरूम में उस वक्त हड़कंप मच गया, जब टॉयलेट सीट के नीचे से अजीब सी आवाजें आने लगीं। जांच की तो सीट के अंदर करीब छह फीट लंबा स्पेक्टेकल्ड कोबरा छिपा हुआ था। परिवार की सूचना पर वन्यजीव कर्मी अनिल गंडास मौके पर पहुंचे और कड़ी मशक्कत के बाद टॉयलेट सीट को तोड़कर सांप को सुरक्षित बाहर निकाला। रिहायशी इलाकों में सांपों के आने की बढ़ती घटनाओं ने लोगों की चिंता बढ़ा दी है।",
-    "title": "गुरुग्राम में टॉयलेट सीट के नीचे मिला कोबरा",
-    "caption": "गुरुग्राम के गाड़ौली कलां में घर की टॉयलेट सीट से निकला छह फीट लंबा कोबरा, वन्यजीव कर्मी ने किया रेस्क्यू।",
-    "hashtags": [
-      "Gurugram",
-      "SnakeRescue",
+      "NepalFlood",
       "ViralVideo",
-      "Wildlife",
-      "HaryanaNews",
-      "Cobra"
+      "FlashFlood",
+      "RescueOperation",
+      "NatureFury",
+      "NepalNews",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "Indian residential house bathroom",
-      "Indian snake rescue equipment",
-      "Spectacled cobra India",
-      "Indian wildlife rescue worker"
+      "devastating flash flood landscape",
+      "destroyed houses debris flood",
+      "green house standing amidst flood",
+      "rescue operation boat flood"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral-style incident where the actual footage of the snake removal is the key visual component; stock footage would not represent this specific event accurately.",
+    "flag_reason": "The story relies on specific viral video footage of a unique incident which cannot be represented by generic stock footage.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10231672/10231672-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/30962832/13236695_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "snake in house",
-        "credit": "Peggy Anke",
-        "source_duration_sec": 35,
+        "query": "destroyed houses debris flood",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 30,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8146201/pexels-photo-8146201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18940341/pexels-photo-18940341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential house bathroom",
-        "credit": "Max Vakhtbovych",
+        "query": "devastating flash flood landscape",
+        "credit": "akın  akdağ",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e9369c6ef2.jpg",
-        "source": "wikimedia_commons",
-        "query": "Spectacled cobra India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/32442294/pexels-photo-32442294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "green house standing amidst flood",
+        "credit": "Anoop VS",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_23d2696b9a.jpg",
-        "source": "wikimedia_commons",
-        "query": "snake in house",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue operation boat flood",
+        "credit": "Arto Suraj",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "sweeper_owns_fortuner",
-    "virality_score": 8,
-    "reason": "Inspiring, viral-friendly story of a humble profession person owning a luxury vehicle.",
-    "region": "india",
-    "headline": "कभी ₹50 की दिहाड़ी, आज Fortuner से झाड़ू लगाने जाता है ये सफाई कर्मी",
-    "source_summary": "Sweeper Fortuner viral Video: जिस गाड़ी को लोग अक्सर रुतबे और पैसे की निशानी मानते हैं, उसी से उतरकर सेसप्पा शहर की सफाई के काम में लग जाते हैं. आपको इस कहानी तक भले ही फॉर्च्यूनर खींच कर लाई हो, लेकिन असल बात वो जिंदगी है, जो इस आदमी ने पीछे छोड़कर यहां तक का सफर तय किया है.",
-    "source_url": "https://www.aajtak.in/auto/news/story/civic-worker-toyota-fortuner-safai-karmchari-sesappa-karnataka-viral-video-auaw-dskc-2632517-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T09:01:21+05:30",
-    "hook": "क्या आपने कभी फॉर्च्यूनर से झाड़ू लगाने वाले को देखा है?",
-    "script_hi": "क्या आपने कभी फॉर्च्यूनर से झाड़ू लगाने वाले को देखा है? यह कहानी है एक ऐसे सफाई कर्मी की जिसकी मेहनत ने बदल दी है पूरी तस्वीर। कभी पचास रुपये की दिहाड़ी कमाने वाले इस व्यक्ति के पास आज अपनी फॉर्च्यूनर गाड़ी है। सोशल मीडिया पर इनका वीडियो वायरल हो रहा है, जो हमें सिखाता है कि कोई भी काम छोटा या बड़ा नहीं होता।",
-    "tts_text_hi": "क्या आपने कभी फॉर्च्यूनर से झाड़ू लगाने वाले को देखा है? यह कहानी है एक ऐसे सफाई कर्मी की जिसकी मेहनत ने बदल दी है पूरी तस्वीर। कभी पचास रुपये की दिहाड़ी कमाने वाले इस व्यक्ति के पास आज अपनी फॉर्च्यूनर गाड़ी है। सोशल मीडिया पर इनका वीडियो वायरल हो रहा है, जो हमें सिखाता है कि कोई भी काम छोटा या बड़ा नहीं होता।",
-    "title": "फॉर्च्यूनर से झाड़ू लगाने वाला वायरल सफाई कर्मी",
-    "caption": "मेहनत की कोई सीमा नहीं होती! मिलिए उस शख्स से जो फॉर्च्यूनर गाड़ी से उतरकर सफाई का काम करते हैं।",
-    "hashtags": [
-      "ViralVideo",
-      "Inspiration",
-      "HardWork",
-      "India",
-      "Motivation",
-      "Sweeper",
-      "Fortuner"
-    ],
-    "visual_queries": [
-      "luxury SUV car parked India",
-      "Indian streets cleaner working",
-      "hardworking man smiling India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video that requires the actual footage to be authentic; generic stock imagery will not convey the unique nature of this incident.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12937789/pexels-photo-12937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury SUV car parked India",
-        "credit": "Ruhit Ramzan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19854628/pexels-photo-19854628.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian streets cleaner working",
-        "credit": "Rohit Sharma",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28928626/pexels-photo-28928626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hardworking man smiling India",
-        "credit": "Anurag Jamwal",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "indigo_flight_picnic",
-    "virality_score": 7,
-    "reason": "Social media debate on civic sense vs. cultural quirks in public spaces, always generates comments.",
-    "region": "india",
-    "headline": "इंडिगो फ्लाइट में फैमिली ने खोला 'ढाबा'! Video देख भड़के लोग बोले- इन्हें बैन कर दो",
-    "source_summary": "Indian family eating thepla on flight: इंडिगो फ्लाइट में ढोकला-थेपला बांटते और खाते भारतीय परिवार का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है. 30 हजार फीट पर खुली इस 'देसी रसोई' ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है.",
-    "source_url": "https://ndtv.in/zara-hatke/indigo-flight-viral-video-indian-family-thepla-dhokla-feast-civic-sense-debate-11977884#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 15:38:09 +0530",
-    "hook": "क्या आसमान में खाना खाना सही है?",
-    "script_hi": "क्या तीस हजार फीट की ऊंचाई पर फ्लाइट के अंदर खाना बांटना सही है? इंडिगो फ्लाइट का एक वीडियो वायरल हो रहा है जिसमें एक परिवार ढोकला और थेपला बांटता नजर आ रहा है। लोग भड़क गए हैं और सोशल मीडिया पर बहस छिड़ गई है। कुछ लोग इसे 'सिविक सेंस' की कमी बता रहे हैं, तो कुछ इसे अपनापन। क्या आप ऐसे व्यवहार को सही मानते हैं? अपनी राय कमेंट में बताएं।",
-    "tts_text_hi": "क्या तीस हजार फीट की ऊंचाई पर फ्लाइट के अंदर खाना बांटना सही है? इंडिगो फ्लाइट का एक वीडियो वायरल हो रहा है जिसमें एक परिवार ढोकला और थेपला बांटता नजर आ रहा है। लोग भड़क गए हैं और सोशल मीडिया पर बहस छिड़ गई है। कुछ लोग इसे सिविक सेंस की कमी बता रहे हैं, तो कुछ इसे अपनापन। क्या आप ऐसे व्यवहार को सही मानते हैं? अपनी राय कमेंट में बताएं।",
-    "title": "इंडिगो फ्लाइट में ढोकला-थेपला पार्टी",
-    "caption": "फ्लाइट में ढोकला-थेपला खाने पर छिड़ी बहस! वायरल वीडियो पर क्या है आपकी राय? #Indigo #ViralVideo #TravelEtiquette #IndianAirlines #SocialMediaDebate",
-    "hashtags": [
-      "Indigo",
-      "ViralVideo",
-      "TravelEtiquette",
-      "IndianAirlines",
-      "SocialMediaDebate",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "airplane cabin interior India",
-      "passengers sitting in airplane India",
-      "group of people talking India",
-      "social media smartphone screen",
-      "confused passenger face India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video that requires the actual footage to be relevant; generic stock footage would misrepresent the specific incident.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19673505/pexels-photo-19673505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane cabin interior India",
-        "credit": "Rohit Sharma",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "passengers sitting in airplane India",
-        "credit": "Pew Nguyen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_25778af334.jpg",
-        "source": "wikimedia_commons",
-        "query": "group of people talking India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_bba08689a1.jpg",
-        "source": "wikimedia_commons",
-        "query": "social media smartphone screen",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16928842/pexels-photo-16928842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "confused passenger face India",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "faridabad_rakhi_accident",
-    "virality_score": 7,
-    "reason": "Deeply tragic story involving Raksha Bandhan theme; high emotional relevance for the Indian audience.",
-    "region": "india",
-    "headline": "Speeding Fortuner Kills 3 Siblings In Faridabad. They Had Met For Rakhi",
-    "source_summary": "Raksha Bandhan turned into a nightmare for a family in Faridabad, where a joyous reunion between four siblings ended in tragedy within hours.",
-    "source_url": "https://www.ndtv.com/india-news/speeding-fortuner-kills-3-siblings-in-faridabad-they-had-met-for-rakhi-11977546#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 30 Aug 2026 13:53:10 +0530",
-    "hook": "फरीदाबाद में रक्षाबंधन की खुशियां मातम में बदलीं।",
-    "script_hi": "रक्षाबंधन के मौके पर फरीदाबाद में एक दिल दहला देने वाला हादसा हुआ। तीन सगे भाई-बहनों की तेज रफ्तार फॉर्च्यूनर की चपेट में आने से दर्दनाक मौत हो गई। ये चारों भाई-बहन राखी मनाने के लिए इकट्ठा हुए थे, लेकिन चंद घंटों में ही घर की खुशियां मातम में बदल गईं। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "tts_text_hi": "रक्षाबंधन के मौके पर फरीदाबाद में एक दिल दहला देने वाला हादसा हुआ। तीन सगे भाई-बहनों की तेज रफ्तार फॉर्च्यूनर की चपेट में आने से दर्दनाक मौत हो गई। ये चारों भाई-बहन राखी मनाने के लिए इकट्ठा हुए थे, लेकिन चंद घंटों में ही घर की खुशियां मातम में बदल गईं। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "title": "फरीदाबाद में सड़क हादसा",
-    "caption": "फरीदाबाद में रक्षाबंधन के दिन तीन भाई-बहनों की सड़क हादसे में मौत।",
-    "hashtags": [
-      "Faridabad",
-      "RoadAccident",
-      "RakshaBandhan",
-      "NewsUpdate",
-      "India",
-      "CrimeNews"
-    ],
-    "visual_queries": [
-      "Indian traffic road scene",
-      "faridabad city street",
-      "police investigation india",
-      "grieving family sadness"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Specific local news report involving a tragic fatal accident; requires actual footage or photos of the specific site/incident rather than generic stock footage.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation india",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34110863/pexels-photo-34110863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian traffic road scene",
-        "credit": "Jinshu Pulpatta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_6f73edde79.jpg",
-        "source": "wikimedia_commons",
-        "query": "faridabad city street",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7317714/pexels-photo-7317714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "grieving family sadness",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "trump_ecstasy_pills_red_alert",
-    "virality_score": 6,
-    "reason": "Global curiosity factor; unique story linking a famous political figure to drug warnings.",
-    "region": "global",
-    "headline": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-    "source_summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sat, 29 Aug 2026 08:48:34 GMT",
-    "hook": "क्या आप जानते हैं कि डच हेल्थ इंस्टीट्यूट ने ट्रंप के चेहरे वाली गोलियों को लेकर रेड अलर्ट जारी किया है?",
-    "script_hi": "क्या आप जानते हैं कि डच हेल्थ इंस्टीट्यूट ने ट्रंप के चेहरे वाली एक्सटसी गोलियों को लेकर रेड अलर्ट जारी किया है? इन गोलियों का असर देरी से होता है, जिससे ओवरडोज का खतरा काफी बढ़ जाता है। सेहत के लिए यह बेहद खतरनाक है।",
-    "tts_text_hi": "क्या आप जानते हैं कि डच हेल्थ इंस्टीट्यूट ने ट्रंप के चेहरे वाली एक्सटसी गोलियों को लेकर रेड अलर्ट जारी किया है? इन गोलियों का असर देरी से होता है, जिससे ओवरडोज का खतरा काफी बढ़ जाता है। सेहत के लिए यह बेहद खतरनाक है।",
-    "title": "ट्रंप के चेहरे वाली गोलियों पर रेड अलर्ट",
-    "caption": "डच हेल्थ इंस्टीट्यूट की चेतावनी, ट्रंप के चेहरे वाली एक्सटसी गोलियों से ओवरडोज का खतरा।",
-    "hashtags": [
-      "HealthAlert",
-      "DonaldTrump",
-      "Netherlands",
-      "Ecstasy",
-      "DrugWarning",
-      "InternationalNews"
-    ],
-    "visual_queries": [
-      "medical laboratory equipment",
-      "warning sign symbol",
-      "pills on table",
-      "doctor holding clipboard"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific, recognizable shape (Trump-shaped pills) which generic stock footage cannot accurately represent; manual insertion of the relevant images is required to avoid misrepresentation.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_3b30cd2138.jpg",
-        "source": "wikimedia",
-        "query": "Donald Trump",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_7e5b93ec62.jpg",
-        "source": "wikimedia_commons",
-        "query": "medical laboratory equipment",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_1337f2a577.jpg",
-        "source": "wikimedia_commons",
-        "query": "warning sign symbol",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_5504dcfe75.jpg",
-        "source": "wikimedia_commons",
-        "query": "pills on table",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7578813/pexels-photo-7578813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "doctor holding clipboard",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
     "review_status": "pending_review"
   }
 ]
