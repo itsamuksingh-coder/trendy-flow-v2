@@ -1,5 +1,8 @@
-ready_labels: ['india_russia_s400_tech_transfer']
+ready_labels: ['ias_divya_mittal_resignation_reasons', 'india_post_drone_delivery_launch', 'india_russia_s400_tech_transfer_production', 'swiss_rave_party_shooting_zurich_global']
 
-india_russia_s400_tech_transfer: SUCCESS -> video_path=videos/india_russia_s400_tech_transfer.mp4 dur=30.987211
-family_eating_thepla_on_indigo_flight: SKIPPED (not in ready set)
-patna_toxic_liquor_death_suspicion: SKIPPED (not in ready set)
+india_russia_s400_tech_transfer_production: SUCCESS -> video_path=videos/india_russia_s400_tech_transfer_production.mp4 dur=23.255215
+greater_noida_girl_murder_encounter: SKIPPED (not in ready set)
+ias_divya_mittal_resignation_reasons: SUCCESS -> video_path=videos/ias_divya_mittal_resignation_reasons.mp4 dur=22.589887
+indigo_flight_family_eating_food_viral_video: SKIPPED (not in ready set)
+india_post_drone_delivery_launch: SUCCESS -> video_path=videos/india_post_drone_delivery_launch.mp4 dur=24.589887
+swiss_rave_party_shooting_zurich_global: SUCCESS -> video_path=videos/swiss_rave_party_shooting_zurich_global.mp4 dur=26.689887
