@@ -1,283 +1,32 @@
 [
   {
-    "topic_label": "pm_modi_uzbekistan_upi_launch",
+    "topic_label": "train_suitcase_murder_manipur_arrest",
     "virality_score": 9,
-    "reason": "PM Modi's visit to Uzbekistan bringing Indian UPI and 11 historic agreements has massive national interest.",
+    "reason": "Horrific dismembered woman's body found in a train suitcase solved with an arrest in Manipur.",
     "region": "india",
-    "headline": "अब उज्बेकिस्तान में भी चलेगा भारतीय UPI, PM मोदी के दौरे में 11 ऐतिहासिक समझौते, डिटेल जानें",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी के उज्बेकिस्तान दौरे पर दोनों देशों के बीच 11 प्रमुख समझौतों पर हस्ताक्षर हुए हैं। इन समझौतों के तहत भारत-उज्बेकिस्तान के बीच व्यापक रणनीतिक साझेदारी पर सहमति बनी है। इसके अलावा उज्बेकिस्तान में अब भारतीय यूपीआई भी चलेगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/asian-countries/indian-upi-to-launch-in-uzbekistan-11-agreements-signed-with-uranium-deal-during-pm-modi-visit/articleshow/133629647.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 30 Aug 2026 18:23:00 +0530",
-    "hook": "उज्बेकिस्तान में भी अब चलेगा भारतीय यूपीआई!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी के उज्बेकिस्तान दौरे पर दोनों देशों के बीच ग्यारह ऐतिहासिक समझौतों पर हस्ताक्षर हुए हैं। इन समझौतों के तहत भारत और उज्बेकिस्तान के बीच व्यापक रणनीतिक साझेदारी पर सहमति बनी है। सबसे बड़ी खबर यह है कि अब उज्बेकिस्तान में भी भारतीय यूपीआई सेवा का उपयोग किया जा सकेगा जिससे डिजिटल भुगतान को बढ़ावा मिलेगा।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी के उज्बेकिस्तान दौरे पर दोनों देशों के बीच ग्यारह ऐतिहासिक समझौतों पर हस्ताक्षर हुए हैं। इन समझौतों के तहत भारत और उज्बेकिस्तान के बीच व्यापक रणनीतिक साझेदारी पर सहमति बनी है। सबसे बड़ी खबर यह है कि अब उज्बेकिस्तान में भी भारतीय यूपीआई सेवा का उपयोग किया जा सकेगा जिससे डिजिटल भुगतान को बढ़ावा मिलेगा।",
-    "title": "उज्बेकिस्तान में चलेगा भारतीय यूपीआई, पीएम मोदी के दौरे पर हुए समझौते",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी के उज्बेकिस्तान दौरे पर दोनों देशों के बीच ग्यारह ऐतिहासिक समझौतों पर हस्ताक्षर हुए हैं, जिसमें भारतीय यूपीआई का विस्तार भी शामिल है।",
-    "hashtags": [
-      "UPI",
-      "NarendraModi",
-      "Uzbekistan",
-      "India",
-      "DigitalIndia",
-      "News"
-    ],
-    "visual_queries": [
-      "Indian Prime Minister meeting foreign leader",
-      "India Uzbekistan diplomatic handshake",
-      "smartphone digital payment India",
-      "modern city skyline Tashkent"
-    ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_b358b4a556.jpg",
-        "source": "wikimedia",
-        "query": "Narendra Modi",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3183148/pexels-photo-3183148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "international handshake meeting",
-        "credit": "fauxels",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8112186/pexels-photo-8112186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India Uzbekistan diplomatic handshake",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone digital payment India",
-        "credit": "SHVETS production",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11014630/pexels-photo-11014630.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern city skyline Tashkent",
-        "credit": "Anna Romanova",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अब उज्बेकिस्तान में भी चलेगा भारतीय UPI! 🇮🇳",
-        "caption": "उज्बेकिस्तान में भी अब चलेगा भारतीय यूपीआई! 🇮🇳\n\nप्रधानमंत्री नरेंद्र मोदी के इस दौरे पर दोनों देशों के बीच कुल 11 ऐतिहासिक समझौते हुए हैं। इससे व्यापार और यात्रा दोनों बेहद आसान होने वाले हैं।\n\nपूरी कहानी देखें और बताएं कि यूपीआई का ग्लोबल होना कितना बड़ा कदम है?\n\n#UPI #PMModi #Uzbekistan #IndianEconomy #DigitalIndia"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "उज्बेकिस्तान में भी अब चलेगा भारतीय यूपीआई! 🇮🇳\n\nPM मोदी के इस दौरे पर हुए 11 बड़े समझौते। अब विदेश में पेमेंट करना होगा और भी ज्यादा आसान।\n\nये बदलाव आपको कैसा लगा? कमेंट में जरूर बताएं। 💬\n\n#UPI #PMModi #Uzbekistan #IndianEconomy #DigitalIndia"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "उज्बेकिस्तान में भी अब चलेगा भारतीय यूपीआई! 🇮🇳\n\nप्रधानमंत्री नरेंद्र मोदी के हालिया दौरे पर भारत और उज्बेकिस्तान के बीच 11 ऐतिहासिक समझौते हुए हैं। इनमें डिजिटल पेमेंट को बढ़ावा देने का बड़ा फैसला भी शामिल है, जिससे दोनों देशों के नागरिकों को सीधा फायदा मिलेगा।\n\nआपकी इस पर क्या राय है, हमें लिखकर बताएं।\n\n#UPI #PMModi #Uzbekistan #IndianEconomy #DigitalIndia"
-      },
-      "hashtags": [
-        "UPI",
-        "PMModi",
-        "Uzbekistan",
-        "IndianEconomy",
-        "DigitalIndia"
-      ]
-    },
-    "audio_path": "audio/pm_modi_uzbekistan_upi_launch.wav",
-    "audio_duration_sec": 26.66
-  },
-  {
-    "topic_label": "indigo_flight_family_eating_food_viral",
-    "virality_score": 9,
-    "reason": "Viral video of an Indian family turning an IndiGo flight into a 'desi dhaba' sparks massive social media debate.",
-    "region": "india",
-    "headline": "इंडिगो फ्लाइट में फैमिली ने खोला 'ढाबा'! Video देख भड़के लोग बोले- इन्हें बैन कर दो",
-    "source_summary": "Indian family eating thepla on flight: इंडिगो फ्लाइट में ढोकला-थेपला बांटते और खाते भारतीय परिवार का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है. 30 हजार फीट पर खुली इस 'देसी रसोई' ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है.",
-    "source_url": "https://ndtv.in/zara-hatke/indigo-flight-viral-video-indian-family-thepla-dhokla-feast-civic-sense-debate-11977884#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 15:38:09 +0530",
-    "hook": "फ्लाइट में खुला देसी ढाबा! तीस हजार फीट ऊपर थेपला खाते परिवार का वीडियो वायरल।",
-    "script_hi": "फ्लाइट में खुला देसी ढाबा! तीस हजार फीट ऊपर थेपला खाते परिवार का वीडियो वायरल। इंडिगो की एक उड़ान में एक भारतीय परिवार का ढोकला और थेपला निकालते और खाते हुए वीडियो इंटरनेट पर तेजी से वायरल हो रहा है। इस देसी रसोई ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है। जहां कुछ लोग इसे संस्कृति से जोड़ रहे हैं, वहीं कई लोग इसे अनुचित मानकर बैन करने की मांग कर रहे हैं।",
-    "tts_text_hi": "फ्लाइट में खुला देसी ढाबा! तीस हजार फीट ऊपर थेपला खाते परिवार का वीडियो वायरल। इंडिगो की एक उड़ान में एक भारतीय परिवार का ढोकला और थेपला निकालते और खाते हुए वीडियो इंटरनेट पर तेजी से वायरल हो रहा है। इस देसी रसोई ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है। जहां कुछ लोग इसे संस्कृति से जोड़ रहे हैं, वहीं कई लोग इसे अनुचित मानकर बैन करने की मांग कर रहे हैं।",
-    "title": "फ्लाइट में खुला देसी ढाबा! थेपला खाने पर सोशल मीडिया बंटा",
-    "caption": "इंडिगो फ्लाइट में ढोकला और थेपला खाने का वीडियो वायरल, सोशल मीडिया पर छिड़ी बहस।",
-    "hashtags": [
-      "#IndigoFlight",
-      "#ViralVideo",
-      "#Thepla",
-      "#DesiJugaad",
-      "#SocialMediaDebate",
-      "#IndianAviation",
-      "#NewsShorts"
-    ],
-    "visual_queries": [
-      "commercial airplane cabin interior India",
-      "Indian family traveling airplane India",
-      "Indian snacks dhokla thepla food India",
-      "smartphone screen showing social media India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story's core point relies on a specific viral video clip of the family eating on the plane, which generic stock B-roll cannot replicate.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12692959/pexels-photo-12692959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airplane cabin interior India",
-        "credit": "Pew Nguyen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36684345/pexels-photo-36684345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian family traveling airplane India",
-        "credit": "Jayesh Jagtap",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34968009/pexels-photo-34968009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian snacks dhokla thepla food India",
-        "credit": "Mahmut Yılmaz",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone screen showing social media India",
-        "credit": "ready made",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "lucknow_hindu_leader_dhirendra_murder",
-    "virality_score": 8,
-    "reason": "High-profile political leader murder in Lucknow inside a Fortuner car creates major shockwaves.",
-    "region": "india",
-    "headline": "लखनऊ में हिंदूवादी नेता की गोली मारकर हत्या, शव नहर में फेंका",
-    "source_summary": "लखनऊ के दुबग्गा थाना क्षेत्र में हिंदूवादी नेता धीरेंद्र प्रताप सिंह की गोली मारकर हत्या कर दी गई. आरोप है कि उन्हें उनकी ही फॉर्च्यूनर में गोली मारी गई और शव नहर में फेंक दिया गया. धीरेंद्र पीजीआई इलाके में रह रहे थे और मूल रूप से उन्नाव के रहने वाले थे. पुलिस को जमीन की रंजिश में हत्या का शक है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/lucknow-hindu-activist-leader-dhirendra-pratap-singh-murder-lclcn-rpti-2632797-2026-08-30?utm_source=rssfeed",
+    "headline": "ट्रेन में रखे सूटकेस में पैक थी महिला... अब मणिपुर से पकड़ा गया आरोपी",
+    "source_summary": "तमिलनाडु एक्सप्रेस आगरा कैंट स्टेशन पहुंची थी. ट्रेन के एक डिब्बे में रखा लाल रंग का सूटकेस यात्रियों के लिए परेशानी की वजह बन रहा था. उसमें से तेज बदबू आ रही थी. पुलिस ने सूटकेस खोला तो अंदर महिला के शव के टुकड़े मिले. सिर गायब था. जांच की कड़ियां जब पीछे की तरफ जोड़ी गईं तो कहानी चेन्नई के गुडुवांचेरी तक पहुंची. अब मुख्य आरोपी मणिपुर से गिरफ्तार कर लिया गया है.",
+    "source_url": "https://www.aajtak.in/india/news/story/womans-body-parts-found-packed-in-suitcase-train-agra-key-accused-arrested-lcla-rptc-2632608-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T18:31:00+05:30",
-    "hook": "लखनऊ में सनसनीखेज वारदात! हिंदूवादी नेता की गोली मारकर हत्या, शव नहर में फेंका!",
-    "script_hi": "लखनऊ के दुबग्गा थाना क्षेत्र में हिंदूवादी नेता धीरेंद्र प्रताप सिंह की गोली मारकर हत्या कर दी गई. आरोप है कि उन्हें उनकी ही फॉर्च्यूनर गाड़ी में गोली मारी गई और शव नहर में फेंक दिया गया. धीरेंद्र पीजीआई इलाके में रह रहे थे और मूल रूप से उन्नाव के रहने वाले थे. पुलिस को जमीन की रंजिश में इस हत्या का शक है.",
-    "tts_text_hi": "लखनऊ के दुबग्गा थाना क्षेत्र में हिंदूवादी नेता धीरेंद्र प्रताप सिंह की गोली मारकर हत्या कर दी गई. आरोप है कि उन्हें उनकी ही फॉर्च्यूनर गाड़ी में गोली मारी गई और शव नहर में फेंक दिया गया. धीरेंद्र पीजीआई इलाके में रह रहे थे और मूल रूप से उन्नाव के रहने वाले थे. पुलिस को जमीन की रंजिश में इस हत्या का शक है.",
-    "title": "लखनऊ में हिंदूवादी नेता की गोली मारकर हत्या",
-    "caption": "लखनऊ के दुबग्गा थाना क्षेत्र में हिंदूवादी नेता धीरेंद्र प्रताप सिंह की गोली मारकर हत्या, शव नहर में फेंका। जमीन की रंजिश का शक।",
+    "published": "2026-08-30T13:00:36+05:30",
+    "hook": "ट्रेन के सूटकेस में मिली महिला की लाश, हिला देने वाला सच आया सामने!",
+    "script_hi": "तमिलनाडु एक्सप्रेस के एक सूटकेस से महिला का कटा शव मिलने से सनसनी फैल गई। ट्रेन के आगरा कैंट स्टेशन पहुंचने पर बदबू के बाद पुलिस ने सूटकेस खोला। जांच के तार चेन्नई के गुडुवांचेरी से जुड़े और अब मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है।",
+    "tts_text_hi": "तमिलनाडु एक्सप्रेस के एक सूटकेस से महिला का कटा शव मिलने से सनसनी फैल गई। ट्रेन के आगरा कैंट स्टेशन पहुंचने पर बदबू के बाद पुलिस ने सूटकेस खोला। जांच के तार चेन्नई के गुडुवांचेरी से जुड़े और अब मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है.",
+    "title": "ट्रेन के सूटकेस में महिला का शव, मणिपुर से आरोपी गिरफ्तार",
+    "caption": "तमिलनाडु एक्सप्रेस के सूटकेस से मिला महिला का शव, आरोपी मणिपुर से गिरफ्तार।",
     "hashtags": [
-      "LucknowNews",
-      "CrimeNews",
-      "UttarPradesh",
-      "BreakingNews",
-      "HindiNews",
-      "LucknowPolice"
+      "#AgraNews",
+      "#TamilNaduExpress",
+      "#CrimeNews",
+      "#ManipurPolice",
+      "#IndiaCrime",
+      "#BreakingNews"
     ],
     "visual_queries": [
-      "Lucknow street India",
+      "Indian railway station platform",
+      "red suitcase India",
       "police investigation India",
-      "canal water India",
-      "police station India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a murder case and an ongoing police investigation with unproven allegations of property dispute; flagged for standard news safety review.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33798559/pexels-photo-33798559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Lucknow street India",
-        "credit": "momentsbymanan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8217531/pexels-photo-8217531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "canal water India",
-        "credit": "Chandan Suman 🇮🇳",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "mumbai_airport_gold_smuggling_dust",
-    "virality_score": 8,
-    "reason": "Massive gold dust smuggling bust worth 10.75 crores at Mumbai airport is visually striking and engaging.",
-    "region": "india",
-    "headline": "मुंबई एयरपोर्ट पर सोने की तस्करी का बड़ा खुलासा, ₹10.75 करोड़ का सोना जब्त, DRI की 'ऑपरेशन मिडनाइट गोल्ड स्ट्राइक'",
-    "source_summary": "राजस्व खुफिया निदेशालय (डीआरआई) की मुंबई जोनल यूनिट ने तस्करी के एक नेटवर्क का भंडाफोड़ किया है। यूनिट ने कार्रवाई के दौरान मुंबई एयरपोर्ट से 6.859 किलोग्राम 24 कैरेट सोने की धूल बरामद की गई जिसकी कीमत करीब 10.75 करोड़ रुपये बताई जा रही है। इस मामले में छह लोगों को गिरफ्तार किया गया है।",
-    "source_url": "https://navbharattimes.indiatimes.com/metro/mumbai/crime/dri-operation-midnight-gold-strike-at-mumbai-airport-gold-smuggling-busted-gold-worth-10-crore-75-thousand-seized/articleshow/133630141.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 30 Aug 2026 18:54:00 +0530",
-    "hook": "मुंबई एयरपोर्ट पर सोने की तस्करी का बहुत बड़ा खुलासा हुआ है!",
-    "script_hi": "मुंबई एयरपोर्ट पर राजस्व खुफिया निदेशालय ने ऑपरेशन मिडनाइट गोल्ड स्ट्राइक के तहत बड़ी कार्रवाई की है। डीआरआई ने एयरपोर्ट से छह दशमलव आठ पाँच नौ किलोग्राम सोने की धूल बरामद की है, जिसकी कीमत दस दशमलव सात पाँच करोड़ रुपये बताई जा रही है। इस मामले में छह लोगों को गिरफ्तार किया गया है और तस्करी के एक बड़े नेटवर्क का भंडाफोड़ हुआ है।",
-    "tts_text_hi": "मुंबई एयरपोर्ट पर राजस्व खुफिया निदेशालय ने ऑपरेशन मिडनाइट गोल्ड स्ट्राइक के तहत बड़ी कार्रवाई की है। डीआरआई ने एयरपोर्ट से छह दशमलव आठ पाँच नौ किलोग्राम सोने की धूल बरामद की है, जिसकी कीमत दस दशमलव सात पाँच करोड़ रुपये बताई जा रही है। इस मामले में छह लोगों को गिरफ्तार किया गया है और तस्करी के एक बड़े नेटवर्क का भंडाफोड़ हुआ है।",
-    "title": "मुंबई एयरपोर्ट पर दस करोड़ का सोना जब्त",
-    "caption": "मुंबई एयरपोर्ट पर डीआरआई की बड़ी कार्रवाई, दस करोड़ से ज्यादा का सोना जब्त और छह गिरफ्तार।",
-    "hashtags": [
-      "MumbaiAirport",
-      "GoldSmuggling",
-      "DRI",
-      "MumbaiNews",
-      "CrimeNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Mumbai airport terminal India",
-      "Indian customs officer investigation",
-      "confiscated gold India",
-      "police arrest suspect India"
+      "map of India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -290,33 +39,33 @@
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian customs officer investigation",
+        "query": "police investigation India",
         "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15055913/pexels-photo-15055913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai airport terminal India",
-        "credit": "Parth Gajera",
+        "query": "Indian railway station platform",
+        "credit": "Satvik Pandurangi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32096882/pexels-photo-32096882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36931056/pexels-photo-36931056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "confiscated gold India",
-        "credit": "Fahad Puthawala",
+        "query": "red suitcase India",
+        "credit": "Beyza Emişen",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8828354/pexels-photo-8828354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police arrest suspect India",
-        "credit": "Kindel Media",
+        "query": "map of India",
+        "credit": "Lara Jameson",
         "duration_sec": 5
       }
     ],
@@ -325,286 +74,412 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "₹10.75 करोड़ का सोना जब्त! मुंबई एयरपोर्ट पर DRI का बड़ा खुलासा ✈️💰",
-        "caption": "DRI ने मुंबई एयरपोर्ट पर ऐसा खेल पकड़ा कि अफसरों के भी होश उड़ गए। 😱\n\n'ऑपरेशन मिडनाइट गोल्ड स्ट्राइक' के तहत कार्रवाई करते हुए टीम ने 10 करोड़ से ज्यादा का अवैध सोना बरामद किया है। तस्करों ने छुपाने के लिए जो तरीका अपनाया, वो हैरान करने वाला है।\n\nपूरी कहानी देखें और बताएं, तस्करी रोकने के लिए जांच और कितनी कड़ी होनी चाहिए?\n\n#MumbaiAirport #GoldSmuggling #DRI #MidnightGoldStrike #MumbaiNews"
+        "title": "ट्रेन के सूटकेस में मिली महिला की लाश, मणिपुर से आरोपी गिरफ्तार 🚨",
+        "caption": "ट्रेन के सूटकेस में मिली महिला की लाश, हिला देने वाला सच आया सामने! 🧳\n\nट्रेन के लावारिस सूटकेस से एक महिला का शव मिलने से हड़कंप मच गया था। पुलिस ने इस खौफनाक मामले की तह तक जाते हुए आखिरकार मणिपुर से मुख्य आरोपी को दबोच लिया है।\n\nआखिर क्या है इस खौफनाक वारदात के पीछे की असली वजह? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#manipur #crime #traincrime #indianrailways #breakingnews"
       },
       "instagram": {
         "title": null,
-        "caption": "₹10.75 करोड़ का सोना जब्त! मुंबई एयरपोर्ट पर DRI के 'ऑपरेशन मिडनाइट गोल्ड स्ट्राइक' ने चौंकाया। 🚨\n\nगुप्त सूचना के आधार पर हुई इस कार्रवाई में तस्करों के नापाक मंसूबों पर पानी फेर दिया गया। सोने को छिपाने का ऐसा तरीका देखकर अफसर भी हैरान रह गए।\n\nपूरा मामला जानने के लिए वीडियो अंत तक देखें।\n\n#MumbaiAirport #GoldSmuggling #DRI #MidnightGoldStrike #MumbaiNews"
+        "caption": "ट्रेन के सूटकेस में मिली महिला की लाश, हिला देने वाला सच आया सामने! 🧳\n\nलावारिस सूटकेस के भीतर से निकली महिला की लाश ने हर किसी को सन्न कर दिया था। पुलिस ने ताबड़तोड़ कार्रवाई करते हुए मणिपुर से आरोपी को गिरफ्तार कर लिया है।\n\nयह खौफनाक सच आपको हैरान कर देगा। वीडियो को शेयर जरूर करें ताकि सच सबको पता चले।\n\n#manipur #crime #traincrime #indianrailways #breakingnews"
       },
       "facebook": {
         "title": null,
-        "caption": "मुंबई एयरपोर्ट पर सोने की तस्करी का ऐसा पर्दाफाश हुआ है जिसने सबको चौंका दिया है। 🚨\n\nDRI ने 'ऑपरेशन मिडनाइट गोल्ड स्ट्राइक' के तहत कार्रवाई करते हुए ₹10.75 करोड़ का सोना जब्त किया है। एयरपोर्ट पर सुरक्षा और चेकिंग को चकमा देने के लिए तस्करों ने जो पैंतरा अपनाया, उसका खुलासा हैरान करने वाला है। \n\nक्या एयरलाइंस और एयरपोर्ट की सुरक्षा में अभी और चूक बाकी है? अपनी राय कमेंट में बताएं और पूरी कहानी देखें।\n\n#MumbaiAirport #GoldSmuggling #DRI #MidnightGoldStrike #MumbaiNews"
+        "caption": "ट्रेन के सूटकेस में मिली महिला की लाश, हिला देने वाला सच आया सामने! 🧳\n\nचलती ट्रेन में एक लावारिस सूटकेस से जब महिला का शव बरामद हुआ, तो पुलिस के भी होश उड़ गए। इस ब्लाइंड मर्डर केस को सुलझाने के लिए पुलिस ने कई कड़ियां जोड़ीं और आखिरकार आरोपी को मणिपुर से धर दबोचा।\n\nइंसानियत को झकझोर देने वाली इस घटना के पीछे की पूरी सच्चाई क्या है? वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#manipur #crime #traincrime #indianrailways #breakingnews"
       },
       "hashtags": [
-        "MumbaiAirport",
-        "GoldSmuggling",
-        "DRI",
-        "MidnightGoldStrike",
-        "MumbaiNews"
+        "manipur",
+        "crime",
+        "traincrime",
+        "indianrailways",
+        "breakingnews"
       ]
     },
-    "audio_path": "audio/mumbai_airport_gold_smuggling_dust.wav",
-    "audio_duration_sec": 24.43
-  },
-  {
-    "topic_label": "nepal_flash_flood_death_toll_734",
-    "virality_score": 8,
-    "reason": "Continuous updates on the catastrophic Nepal floods with death tolls crossing 700 maintain high viewer urgency.",
-    "region": "india",
-    "headline": "Nepal Flash Flood LIVE Updates: नेपाल में बाढ़ से अब तक 734 लोगों की मौत,  2498 लापता",
-    "source_summary": "Nepal Flash Flood LIVE Updates: बाढ़ से दबे इलाकों में बचाव कार्य शनिवार को चौथे दिन भी जारी रहा. लोगों के रेस्क्यू के लिए भारत की ओर से नेपाल में अलग-अलग टीमें भेजी गई हैं.",
-    "source_url": "https://ndtv.in/india/nepal-flash-floods-live-updates-people-missing-rescue-operations-underway-11976633#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 17:22:21 +0530",
-    "hook": "नेपाल में बाढ़ और मलबे से हाहाकार!",
-    "script_hi": "नेपाल में बाढ़ और मलबे के तांडव से अब तक सात सौ चौंतीस लोगों की मौत हो चुकी है, जबकि दो हजार चार सौ अट्ठानवे लोग अभी भी लापता हैं। संकट की इस घड़ी में भारत की ओर से नेपाल में बचाव और राहत टीमें भेजी गई हैं। प्रभावित इलाकों में खोज और बचाव अभियान चौथे दिन भी युद्धस्तर पर जारी है।",
-    "tts_text_hi": "नेपाल में बाढ़ और मलबे के तांडव से अब तक सात सौ चौंतीस लोगों की मौत हो चुकी है, जबकि दो हजार चार सौ अट्ठानवे लोग अभी भी लापता हैं। संकट की इस घड़ी में भारत की ओर से नेपाल में बचाव और राहत टीमें भेजी गई हैं। प्रभावित इलाकों में खोज और बचाव अभियान चौथे दिन भी युद्धस्तर पर जारी है।",
-    "title": "Nepal Floods: नेपाल में बाढ़ से भारी तबाही",
-    "caption": "नेपाल में बाढ़ और मलबे की चपेट में आने से सात सौ चौंतीस लोगों की मौत, भारत ने भेजी राहत टीमें।",
-    "hashtags": [
-      "NepalFloods",
-      "NepalNews",
-      "DisasterUpdate",
-      "BreakingNews",
-      "IndiaNepal",
-      "FlashFlood"
-    ],
-    "visual_queries": [
-      "India flooded street",
-      "Indian rescue team",
-      "flood disaster relief India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/18025511/18025511-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "aerial drone river flood",
-        "credit": "Swastik Arora",
-        "source_duration_sec": 95,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/19117474/19117474-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "muddy flood water street",
-        "credit": "sabir salam",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/14109231/14109231-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "people walking flooded road",
-        "credit": "As hik",
-        "source_duration_sec": 49,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "disaster rescue operation",
-        "credit": "samimibirfotografci",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9424560/pexels-photo-9424560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian rescue team",
-        "credit": "Roman Apaza",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flood disaster relief India",
-        "credit": "Arto Suraj",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9424560/pexels-photo-9424560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue operation disaster",
-        "credit": "Roman Apaza",
-        "duration_sec": 3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "नेपाल में बाढ़ और मलबे से हाहाकार! 734 मौतें, 2498 लापता 🇳🇵",
-        "caption": "नेपाल में बाढ़ और मलबे ने ऐसा तांडव मचाया कि आंकड़े देखकर हर कोई सन्न रह गया।\n\nअब तक 734 लोगों की जान जा चुकी है और 24985 लोग लापता बताए जा रहे हैं। राहत और बचाव कार्य जारी हैं लेकिन तबाही का दायरा बहुत बड़ा है। 🌧️\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#NepalFloods #NepalNews #FlashFlood #NaturalDisaster #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नेपाल में बाढ़ और मलबे से हाहाकार! 🚨 आंकड़े डराने वाले हैं।\n\n734 मौतें और 2490 से ज्यादा लोग अभी भी लापता। कुदरत का ये रूप देखकर हर कोई हैरान है। \n\nवीडियो पूरा देखें और शेयर करें।\n\n#NepalFloods #NepalNews #FlashFlood #NaturalDisaster #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नेपाल से आ रही तस्वीरें दिल दहला देने वाली हैं। बाढ़ और मलबे के इस भयानक तांडव में अब तक 734 लोगों की जान जा चुकी है, जबकि 2498 लोग अभी भी लापता हैं। 🌊\n\nप्रशासन की टीमें जुटी हुई हैं, लेकिन हालात बेहद गंभीर बने हुए हैं। पूरी खबर के लिए वीडियो अंत तक देखें।\n\n#NepalFloods #NepalNews #FlashFlood #NaturalDisaster #BreakingNews"
-      },
-      "hashtags": [
-        "NepalFloods",
-        "NepalNews",
-        "FlashFlood",
-        "NaturalDisaster",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/nepal_flash_flood_death_toll_734.wav",
-    "audio_duration_sec": 21.13
+    "audio_path": "audio/train_suitcase_murder_manipur_arrest.wav",
+    "audio_duration_sec": 17.44
   },
   {
     "topic_label": "nasa_roman_space_telescope_launch",
     "virality_score": 8,
-    "reason": "NASA launching a new space telescope to search for dark matter and new worlds is a major global science story.",
+    "reason": "NASA successfully launched a new space telescope to search for distant planets and dark matter.",
     "region": "india",
     "headline": "NASA अंतरिक्ष में खोजेगा &#039;दूसरी दुनिया&#039;, लॉन्च किया स्पेस टेलीस्कोप",
     "source_summary": "NASA ने Nancy Grace Roman Space Telescope को फ्लोरिडा के कैनेडी स्पेस सेंटर से सफलतापूर्वक लॉन्च किया है. यह टेलीस्कोप पृथ्वी से 15 लाख किलोमीटर दूर Sun-Earth Lagrange Point-2 (L2) पर स्थापित किया जाएगा, जहां से यह ब्रह्मांड के बड़े हिस्से का सर्वे करेगा.",
     "source_url": "https://www.aajtak.in/science/story/nasa-nancy-grace-roman-space-telescope-launch-cosmic-survey-l2-orbit-ntcpvp-dskc-2632812-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-30T19:27:24+05:30",
-    "hook": "नासा ने अंतरिक्ष में दूसरी दुनिया की तलाश के लिए एक नया स्पेस टेलीस्कोप लॉन्च कर दिया है!",
-    "script_hi": "नासा ने नैंसी ग्रेस रोमन स्पेस टेलीस्कोप को फ्लोरिडा के कैनेडी स्पेस सेंटर से सफलतापूर्वक लॉन्च किया है। यह टेलीस्कोप पृथ्वी से पंद्रह लाख किलोमीटर दूर स्थित लाग्रेंज पॉइंट दो पर स्थापित किया जाएगा, जहाँ से यह ब्रह्मांड के बड़े रहस्यों से पर्दा उठाएगा।",
-    "tts_text_hi": "नासा ने नैंसी ग्रेस रोमन स्पेस टेलीस्कोप को फ्लोरिडा के कैनेडी स्पेस सेंटर से सफलतापूर्वक लॉन्च किया है। यह टेलीस्कोप पृथ्वी से पंद्रह लाख किलोमीटर दूर स्थित लाग्रेंज पॉइंट दो पर स्थापित किया जाएगा, जहाँ से यह ब्रह्मांड के बड़े रहस्यों से पर्दा उठाएगा।",
-    "title": "NASA Launches New Space Telescope",
-    "caption": "नासा ने अंतरिक्ष में दूसरी दुनिया की खोज के लिए लॉन्च किया नया स्पेस टेलीस्कोप।",
+    "hook": "नासा ने अंतरिक्ष में खोज निकाली दूसरी दुनिया!",
+    "script_hi": "नासा ने नैंसी ग्रेस रोमन स्पेस टेलीस्कोप को फ्लोरिडा के कैनेडी स्पेस सेंटर से सफलतापूर्वक लॉन्च कर दिया है। यह टेलीस्कोप पृथ्वी से पंद्रह लाख किलोमीटर दूर सूर्य और पृथ्वी के लैग्रेंज पॉइंट दो पर स्थापित किया जाएगा, जहां से यह ब्रह्मांड के बड़े हिस्से का सर्वे करेगा।",
+    "tts_text_hi": "नासा ने नैंसी ग्रेस रोमन स्पेस टेलीस्कोप को फ्लोरिडा के कैनेडी स्पेस सेंटर से सफलतापूर्वक लॉन्च कर दिया है। यह टेलीस्कोप पृथ्वी से पंद्रह लाख किलोमीटर दूर सूर्य और पृथ्वी के लैग्रेंज पॉइंट दो पर स्थापित किया जाएगा, जहां से यह ब्रह्मांड के बड़े हिस्से का सर्वे करेगा।",
+    "title": "NASA Launches Nancy Grace Roman Space Telescope",
+    "caption": "नासा ने अंतरिक्ष में नई दुनिया की खोज के लिए लॉन्च किया एडवांस्ड स्पेस टेलीस्कोप।",
     "hashtags": [
       "NASA",
-      "Space",
-      "ScienceNews",
       "SpaceTelescope",
-      "Universe",
-      "TechNews",
-      "Astronomy"
+      "ScienceNews",
+      "SpaceDiscovery",
+      "HindiNews",
+      "TechNews"
     ],
     "visual_queries": [
-      "NASA rocket launch pad",
-      "space telescope in orbit",
-      "deep space stars universe"
+      "NASA space rocket launch",
+      "advanced space telescope India",
+      "deep space stars galaxy India",
+      "universe astronomy research India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11479934/pexels-photo-11479934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/14618955/14618955-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "NASA rocket launch pad",
-        "credit": "Blue Arauz",
-        "duration_sec": 5
+        "query": "advanced space telescope India",
+        "credit": "Zelch Csaba",
+        "source_duration_sec": 8,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11479855/pexels-photo-11479855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "space telescope in orbit",
-        "credit": "Allan Carvalho",
+        "query": "NASA space rocket launch",
+        "credit": "Blue Arauz",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/17954395/pexels-photo-17954395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "deep space stars universe",
+        "query": "deep space stars galaxy India",
         "credit": "Ademir Mattos",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9510159/pexels-photo-9510159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "universe astronomy research India",
+        "credit": "Emilio Garcia",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "नासा ने अंतरिक्ष में खोज निकाली दूसरी दुनिया! 🚀",
+        "caption": "नासा ने अंतरिक्ष में खोज निकाली दूसरी दुनिया! 🌌\n\nवैज्ञानिकों ने ब्रह्मांड के रहस्यों से पर्दा उठाने के लिए एक नया स्पेस टेलीस्कोप लॉन्च किया है, जो ऐसी जगहों की तलाश करेगा जहाँ जीवन संभव हो सकता है।\n\nपूरी कहानी देखें और जानें क्या है इस मिशन का सच।\n\n#NASA #SpaceNews #SpaceTelescope #Universe #ScienceNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "नासा ने अंतरिक्ष में खोज निकाली दूसरी दुनिया! 🌌\n\nब्रह्मांड के सबसे बड़े रहस्यों को सुलझाने के लिए नासा ने एक नया शक्तिशाली स्पेस टेलीस्कोप लॉन्च कर दिया है। क्या यहाँ सच में एलियन लाइफ मिल सकती है?\n\nवीडियो पूरा देखें और शेयर करें अपने दोस्तों के साथ!\n\n#NASA #SpaceNews #SpaceTelescope #Universe #ScienceNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "नासा ने अंतरिक्ष में खोज निकाली दूसरी दुनिया! 🚀\n\nइंसानियत की तलाश अब अंतरिक्ष के उस छोर तक पहुँच गई है जहाँ कभी पहुँचने की कल्पना भी नहीं की गई थी। नासा का यह नया टेलीस्कोप ब्रह्मांड के अनसुने रहस्यों से पर्दा उठाएगा।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#NASA #SpaceNews #SpaceTelescope #Universe #ScienceNews"
+      },
+      "hashtags": [
+        "NASA",
+        "SpaceNews",
+        "SpaceTelescope",
+        "Universe",
+        "ScienceNews"
+      ]
+    },
+    "audio_path": "audio/nasa_roman_space_telescope_launch.wav",
+    "audio_duration_sec": 18.91
   },
   {
-    "topic_label": "nagpur_wine_shop_theft_cash_only",
-    "virality_score": 7,
-    "reason": "Quirky CCTV crime story where thieves broke into a wine shop but ignored liquor to steal only cash.",
+    "topic_label": "indigo_flight_family_eating_food_viral",
+    "virality_score": 8,
+    "reason": "Viral video shows an Indian family eating home-cooked food inside an IndiGo flight, sparking a massive civic sense debate.",
     "region": "india",
-    "headline": "नागपुर: शटर उठाकर वाइन शॉप में घुसा चोर, ₹60 हजार उड़ाए",
-    "source_summary": "नागपुर की एक वाइन शॉप में तीन चोर घुसे, लेकिन शराब की बोतलों को हाथ नहीं लगाया. एक चोर शटर के नीचे से अंदर पहुंचा और कैश ड्रॉअर से करीब 60 हजार रुपये निकालकर फरार हो गया. पूरी वारदात CCTV में कैद हुई. वीडियो में जानें क्या है पूरा मामला.",
-    "source_url": "https://www.aajtak.in/short-videos/video/wine-shop-theft-3-thieves-steal-cash-instead-of-alcohol-cctv-nagpur-police-case-mmtm-2632599-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T12:28:00+05:30",
-    "hook": "नागपुर में वाइन शॉप से चोरी, चोर ने शराब को हाथ तक नहीं लगाया!",
-    "script_hi": "नागपुर में चोरी का एक अनोखा मामला सामने आया है, जहां चोर वाइन शॉप के अंदर घुसे लेकिन शराब की बोतलों को हाथ भी नहीं लगाया। एक चोर शटर उठाकर अंदर गया और कैश ड्रॉअर से करीब साठ हजार रुपये चुराकर फरार हो गया। पूरी वारदात सीसीटीवी में कैद हो गई है, जिसकी जांच पुलिस कर रही है।",
-    "tts_text_hi": "नागपुर में चोरी का एक अनोखा मामला सामने आया है, जहां चोर वाइन शॉप के अंदर घुसे लेकिन शराब की बोतलों को हाथ भी नहीं लगाया। एक चोर शटर उठाकर अंदर गया और कैश ड्रॉअर से करीब साठ हजार रुपये चुराकर फरार हो गया। पूरी वारदात सीसीटीवी में कैद हो गई है, जिसकी जांच पुलिस कर रही है।",
-    "title": "नागपुर में वाइन शॉप से चोरी, साठ हजार रुपये लेकर भागे चोर",
-    "caption": "नागपुर की एक वाइन शॉप में चोरी का अजीब मामला, शराब छोड़ कैश लेकर भागे चोर। पूरी घटना सीसीटीवी में कैद। #Nagpur #CrimeNews #IndiaNews",
+    "headline": "इंडिगो फ्लाइट में फैमिली ने खोला 'ढाबा'! Video देख भड़के लोग बोले- इन्हें बैन कर दो",
+    "source_summary": "Indian family eating thepla on flight: इंडिगो फ्लाइट में ढोकला-थेपला बांटते और खाते भारतीय परिवार का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है. 30 हजार फीट पर खुली इस 'देसी रसोई' ने सोशल मीडिया को सिविक सेंस और अपनेपन की तीखी बहस में बांट दिया है.",
+    "source_url": "https://ndtv.in/zara-hatke/indigo-flight-viral-video-indian-family-thepla-dhokla-feast-civic-sense-debate-11977884#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 15:38:09 +0530",
+    "hook": "क्या फ्लाइट में खाना खाना गैरकानूनी है या सिर्फ संस्कार?",
+    "script_hi": "इंडिगो की एक उड़ान में परिवार द्वारा थेपला और ढोकला खाने का वीडियो वायरल हो रहा है। तीस हजार फीट की ऊंचाई पर इस देसी अंदाज ने सोशल मीडिया पर बहस छेड़ दी है। कुछ लोग इसे सिविक सेंस की कमी बता रहे हैं, तो कुछ इसे अपनेपन का नाम दे रहे हैं। इस वीडियो पर आपकी क्या राय है?",
+    "tts_text_hi": "इंडिगो की एक उड़ान में परिवार द्वारा थेपला और ढोकला खाने का वीडियो वायरल हो रहा है। तीस हजार फीट की ऊंचाई पर इस देसी अंदाज ने सोशल मीडिया पर बहस छेड़ दी है। कुछ लोग इसे सिविक सेंस की कमी बता रहे हैं, तो कुछ इसे अपनेपन का नाम दे रहे हैं। इस वीडियो पर आपकी क्या राय है?",
+    "title": "इंडिगो फ्लाइट में परिवार ने खोला ढाबा, वीडियो वायरल",
+    "caption": "इंडिगो फ्लाइट में ढोकला-थेपला खाने का वीडियो वायरल, सोशल मीडिया पर छिड़ी बहस।",
     "hashtags": [
-      "Nagpur",
-      "CrimeNews",
-      "IndiaNews",
-      "Chori",
-      "Maharashtra",
-      "CCTV"
+      "#IndigoFligt",
+      "#ViralVideo",
+      "#SocialMedia",
+      "#DesiFood",
+      "#NewsShorts"
     ],
     "visual_queries": [
-      "Nagpur city street India",
-      "wine shop storefront India",
-      "security camera indoor India",
-      "Indian police investigation"
+      "commercial airplane interior India",
+      "Indian family traveling airplane",
+      "Indian snacks food packet",
+      "social media smartphone screen"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific CCTV video footage of the incident which generic stock footage cannot replace.",
+    "flag_reason": "The story relies on a specific viral video which generic stock footage cannot replace; real image or video clip needs to be added manually.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7033629/7033629-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian snacks food packet",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38410501/16310018_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "social media smartphone screen",
+        "credit": "Hamim Rony",
+        "source_duration_sec": 21,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36023562/pexels-photo-36023562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane interior India",
+        "credit": "Leonard Richards",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36684345/pexels-photo-36684345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian family traveling airplane",
+        "credit": "Jayesh Jagtap",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "swiss_rave_party_shooting_zurich",
+    "virality_score": 8,
+    "reason": "A shooting at a techno rave near Zurich leaves a 22-year-old dead and five injured.",
+    "region": "global",
+    "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+    "source_summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sun, 30 Aug 2026 12:44:08 GMT",
+    "hook": "स्विट्जरलैंड के एक रेव पार्टी में ताबड़तोड़ फायरिंग!",
+    "script_hi": "स्विट्जरलैंड के ज्यूरिख के पास एक टेक्सनो इवेंट में गोलीबारी की घटना हुई है। इस हमले में बाईस साल की एक युवती की मौत हो गई है जबकि पांच अन्य लोग घायल हो गए हैं। पुलिस हमलावर की तलाश में जुटी है।",
+    "tts_text_hi": "स्विट्जरलैंड के ज्यूरिख के पास एक टेक्सनो इवेंट में गोलीबारी की घटना हुई है। इस हमले में बाईस साल की एक युवती की मौत हो गई है जबकि पांच अन्य लोग घायल हो गए हैं। पुलिस हमलावर की तलाश में जुटी है।",
+    "title": "Swiss Rave Shooting Kills Woman",
+    "caption": "स्विट्जरलैंड में रेव पार्टी के दौरान फायरिंग, एक महिला की मौत और पांच घायल।",
+    "hashtags": [
+      "Switzerland",
+      "Zurich",
+      "Shooting",
+      "BreakingNews",
+      "WorldNews",
+      "CrimeNews"
+    ],
+    "visual_queries": [
+      "Switzerland city street",
+      "police investigation crime scene",
+      "ambulance emergency vehicle"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28242856/pexels-photo-28242856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34855491/pexels-photo-34855491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Nagpur city street India",
-        "credit": "Pratik  Patil",
-        "duration_sec": 5
+        "query": "Switzerland city street",
+        "credit": "Diogo Digital Art",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36748765/pexels-photo-36748765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "wine shop storefront India",
-        "credit": "Mert Tuncer",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "security camera indoor India",
-        "credit": "Rakesh Teja",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police investigation",
+        "query": "police investigation crime scene",
         "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6753471/pexels-photo-6753471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance emergency vehicle",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "Srujan J.",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32935630/pexels-photo-32935630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd at music festival",
+        "credit": "Alari Tammsalu",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20902711/pexels-photo-20902711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance flashing lights",
+        "credit": "Mauricio  Krupka Buendia",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5880087/pexels-photo-5880087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night city street police",
+        "credit": "Erik Mclean",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "स्विट्जरलैंड की रेव पार्टी में खूनी खेल! 22 साल की लड़की की मौत 🚨",
+        "caption": "स्विट्जरलैंड के एक रेव पार्टी में ताबड़तोड़ फायरिंग! 🚨\n\nचलती पार्टी में अचानक गोलियों की गूंज से भगदड़ मच गई। इस अंधाधुंध गोलीबारी में 22 साल की एक युवती की मौत हो गई और पांच अन्य लोग गंभीर रूप से घायल हो गए। हमलावर की तलाश में पुलिस का बड़ा सर्च ऑपरेशन जारी है।\n\nआखिर इस हमले के पीछे की वजह क्या थी? पूरी कहानी देखें।\n\n#SwissRaveShooting #SwitzerlandNews #InternationalNews #BreakingNews #CrimeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "स्विट्जरलैंड के एक रेव पार्टी में ताबड़तोड़ फायरिंग! 🚨\n\nमौज-मस्ती से भरी पार्टी अचानक श्मशान जैसी बन गई। अंधाधुंध गोलियां बरसाकर एक 22 साल की लड़की की जान ले ली गई और 5 लोग जिंदगी और मौत के बीच जूझ रहे हैं। पुलिस अब भी कातिल की तलाश में है।\n\nक्या आपसी रंजिश थी या कुछ और? कमेंट में अपनी राय बताएं।\n\n#SwissRaveShooting #SwitzerlandNews #InternationalNews #BreakingNews #CrimeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "स्विट्जरलैंड के एक रेव पार्टी में ताबड़तोड़ फायरिंग! 🚨\n\nशांति और सुरक्षा के लिए मशहूर स्विट्जरलैंड में एक म्यूजिक पार्टी उस वक्त जंग का मैदान बन गई जब अचानक गोलियां बरसने लगीं। इस खौफनाक हमले में 22 साल की एक युवती की मौके पर ही मौत हो गई, जबकि पांच अन्य लोग गंभीर रूप से घायल हैं। \n\nघटना के बाद से हमलावर फरार है और पुलिस चप्पे-चप्पे पर उसकी तलाश कर रही है। आखिर इतनी बड़ी वारदात को किसने और क्यों अंजाम दिया? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#SwissRaveShooting #SwitzerlandNews #InternationalNews #BreakingNews #CrimeNews"
+      },
+      "hashtags": [
+        "SwissRaveShooting",
+        "SwitzerlandNews",
+        "InternationalNews",
+        "BreakingNews",
+        "CrimeNews"
+      ]
+    },
+    "audio_path": "audio/swiss_rave_party_shooting_zurich.wav",
+    "audio_duration_sec": 13.75
+  },
+  {
+    "topic_label": "india_post_drone_delivery_initiative",
+    "virality_score": 7,
+    "reason": "Indian Post begins delivering parcels via drones, marking a major technological shift.",
+    "region": "india",
+    "headline": "भारतीय डाक विभाग की नई पहल, डाकिया अब साइकिल या बाइक से नहीं...सीधे आसमान के रास्ते पहुंचाएगा चिट्ठी और पार्सल",
+    "source_summary": "भारतीय डाक विभाग ने अब टेक्निक का हाथ थामते हुए ड्रोन के जरिए डाक (पार्सल) डिलीवरी की शुरुआत की है. असम में ड्रोन रूट की टेस्टिंग के साथ-साथ हिमाचल प्रदेश में स्काई एयर मोबिलिटी की मदद से 110 रूट तय किए जा रहे हैं.",
+    "source_url": "https://ndtv.in/zara-hatke/india-post-launches-drone-mail-delivery-services-in-assam-and-himachal-pradesh-11978413#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 18:33:26 +0530",
+    "hook": "अब आसमान से आएगी आपकी चिट्ठी और पार्सल!",
+    "script_hi": "भारतीय डाक विभाग ने अब टेक्निक का हाथ थामते हुए ड्रोन के जरिए डाक डिलीवरी की शुरुआत कर दी है। असम में ड्रोन रूट की टेस्टिंग के साथ-साथ हिमाचल प्रदेश में स्काई एयर मोबिलिटी की मदद से एक सौ दस रूट तय किए जा रहे हैं।",
+    "tts_text_hi": "भारतीय डाक विभाग ने अब टेक्निक का हाथ थामते हुए ड्रोन के जरिए डाक डिलीवरी की शुरुआत कर दी है। असम में ड्रोन रूट की टेस्टिंग के साथ-साथ हिमाचल प्रदेश में स्काई एयर मोबिलिटी की मदद से एक सौ दस रूट तय किए जा रहे हैं।",
+    "title": "ड्रोन के जरिए होगी डाक डिलीवरी",
+    "caption": "भारतीय डाक विभाग ने असम और हिमाचल प्रदेश में ड्रोन के जरिए पार्सल डिलीवरी की शुरुआत की है।",
+    "hashtags": [
+      "#IndianPost",
+      "#DroneDelivery",
+      "#Assam",
+      "#HimachalPradesh",
+      "#TechNews",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "delivery drone flying India",
+      "Assam landscape India",
+      "Himachal Pradesh mountains India",
+      "postal service India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10351241/pexels-photo-10351241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "delivery drone flying India",
+        "credit": "Syed Qaarif Andrabi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38431673/pexels-photo-38431673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Assam landscape India",
+        "credit": "Noor Zaman",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36268613/pexels-photo-36268613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Himachal Pradesh mountains India",
+        "credit": "Ajay Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5308805/pexels-photo-5308805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "postal service India",
+        "credit": "Visk Clicks",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
-    "review_status": "pending_review"
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अब आसमान से आएगी आपकी चिट्ठी! ड्रोन से होगी डिलीवरी 🚁",
+        "caption": "अब आसमान से आएगी आपकी चिट्ठी और पार्सल! 🚁 भारतीय डाक विभाग ने एक क्रांतिकारी कदम उठाते हुए डिलीवरी के पुराने तरीकों को पीछे छोड़ दिया है। अब साइकिल या बाइक की जगह ड्रोन के जरिए सीधे आपके घर सामान पहुंचेगा। क्या आपके शहर में भी शुरू हुई है यह सुविधा? कमेंट में बताएं और पूरी कहानी देखें।\n\n#IndianPost #DroneDelivery #TechnologyNews #PostOffice #ViralNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अब आसमान से आएगी आपकी चिट्ठी और पार्सल! 🚁 डाक विभाग का यह नया रूप देखकर चौंक जाएंगे आप। साइकिल-बाइक को छोड़ अब ड्रोन पहुंचाएंगे पार्सल। सेव करें यह वीडियो और दोस्तों के साथ शेयर करें!\n\n#IndianPost #DroneDelivery #TechnologyNews #PostOffice #ViralNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अब आसमान से आएगी आपकी चिट्ठी और पार्सल! 🚁\n\nभारतीय डाक विभाग ने डिलीवरी का तरीका पूरी तरह बदल दिया है। अब तंग गलियों और जाम से पार पाते हुए डाकिया साइकिल या बाइक से नहीं, बल्कि सीधे आसमान के रास्ते ड्रोन से आपका जरूरी सामान पहुंचाएगा। टेक्नोलॉजी का यह इस्तेमाल वाकई हैरान करने वाला है।\n\nआपको क्या लगता है, यह बदलाव कितना असरदार होगा? अपनी राय जरूर साझा करें।\n\n#IndianPost #DroneDelivery #TechnologyNews #PostOffice #ViralNews"
+      },
+      "hashtags": [
+        "IndianPost",
+        "DroneDelivery",
+        "TechnologyNews",
+        "PostOffice",
+        "ViralNews"
+      ]
+    },
+    "audio_path": "audio/india_post_drone_delivery_initiative.wav",
+    "audio_duration_sec": 16.57
   }
 ]
