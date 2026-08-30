@@ -1,338 +1,116 @@
 [
   {
-    "topic_label": "indian_army_ladakh_helicopter_rescue",
-    "virality_score": 10,
-    "reason": "Stunning visual footage of an Indian Army helicopter rescue on a narrow mountain ledge is highly shareable.",
-    "region": "india",
-    "headline": "VIDEO: 18,600 फीट की ऊंचाई और हवा में एक पहिये पर टिका हेलिकॉप्टर, लद्दाख में सेना का सांसें थाम देने वाला रेस्क्यू ऑपरेशन",
-    "source_summary": "Indian Army Nun Kun Rescue video: 18,600 फीट की बर्फीली ऊंचाई, ढलती रोशनी और खड़ी ढलान पर हवा में सिर्फ एक स्किड पर टिका हेलिकॉप्टर. देखें कैसे भारतीय फौज ने एविएशन की सारी सीमाएं पार कर बचाई एक मरीज की जिंदगी.",
-    "source_url": "https://ndtv.in/india/video-indian-army-aviation-daring-rescue-nun-kun-ladakh-18600-feet-balancing-on-one-skid-11976814#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 09:02:47 +0530",
-    "hook": "अठारह हजार छह सौ फीट की ऊंचाई पर मौत को मात देती भारतीय सेना की जांबाजी!",
-    "script_hi": "अठारह हजार छह सौ फीट की ऊंचाई, बर्फीली हवाएं और खड़ी ढलान! लद्दाख के नन कुन इलाके में भारतीय सेना के पायलटों ने वो कर दिखाया जिसे देखकर दुनिया दंग है। हवा में केवल एक स्किड पर हेलिकॉप्टर को टिकाकर जवानों ने एक मरीज की जान बचाई। एविएशन के इतिहास में यह साहस भरी मिसाल हमेशा याद रखी जाएगी। सलाम है भारतीय फौज के जज्बे को!",
-    "tts_text_hi": "अठारह हजार छह सौ फीट की ऊंचाई, बर्फीली हवाएं और खड़ी ढलान! लद्दाख के नन कुन इलाके में भारतीय सेना के पायलटों ने वो कर दिखाया जिसे देखकर दुनिया दंग है। हवा में केवल एक स्किड पर हेलिकॉप्टर को टिकाकर जवानों ने एक मरीज की जान बचाई। एविएशन के इतिहास में यह साहस भरी मिसाल हमेशा याद रखी जाएगी। सलाम है भारतीय फौज के जज्बे को!",
-    "title": "लद्दाख में भारतीय सेना का साहसी रेस्क्यू",
-    "caption": "लद्दाख की पहाड़ियों में भारतीय सेना के जांबाज पायलटों ने 18,600 फीट की ऊंचाई पर एक मरीज की जान बचाकर अदम्य साहस का परिचय दिया।",
-    "hashtags": [
-      "IndianArmy",
-      "Ladakh",
-      "RescueOperation",
-      "IndianAirForce",
-      "Bravery",
-      "ProudIndia",
-      "MilitaryLife"
-    ],
-    "visual_queries": [
-      "snowy mountains Ladakh India",
-      "Indian Army helicopter flying",
-      "rescue mission mountains India",
-      "Indian Army soldiers salute"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is centered on a specific viral video of a rescue operation which requires the actual footage to be manually inserted; generic stock footage would misrepresent this specific event.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37511157/15892120_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian Army helicopter flying",
-        "credit": "Pavan Sai .D",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12094539/pexels-photo-12094539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "snowy mountains Ladakh India",
-        "credit": "Alka Jha",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20747979/pexels-photo-20747979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue mission mountains India",
-        "credit": "Wanderwithhidayat",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13316041/pexels-photo-13316041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian Army soldiers salute",
-        "credit": "Pramod  Tiwari",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "nepal_flood_survivor_97yo",
+    "topic_label": "greater_noida_rape_murder_encounter",
     "virality_score": 9,
-    "reason": "A 97-year-old survivor pulled from rubble after 4 days in Nepal is an incredibly powerful, heartwarming human interest story.",
+    "reason": "High-profile crime case involving a police encounter, extremely high engagement potential in India.",
     "region": "india",
-    "headline": "नेपाल में 97 साल की गुना माया ने मौत को दी मात! मलबे से 'योद्धा' की तरह निकलीं बाहर",
-    "source_summary": "पुलिस और नेपाली सेना को गुना माया बोहरा को मलबे से बाहर निकालने में करीब चार घंटे का समय लग गया. गुना माया बोहारा के भतीजे का बेटा दीपक बोहरा भी बचाव कार्य में मदद करने के लिए काठमांडू से आया था.",
-    "source_url": "https://ndtv.in/india/97-year-old-guna-maya-bohara-emerged-from-rubble-like-a-warrior-became-face-of-nepal-floods-11976890#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 30 Aug 2026 09:35:28 +0530",
-    "hook": "सत्तानवे साल की बुजुर्ग महिला ने मौत के जबड़ों से वापसी की है!",
-    "script_hi": "नेपाल में सत्तानवे साल की गुना माया बोहरा ने चमत्कारिक रूप से मौत को मात दे दी। मलबे के नीचे दबी होने के बावजूद, वह चार घंटे तक संघर्ष करती रहीं। अंततः, नेपाली सेना और पुलिस ने उन्हें सुरक्षित बाहर निकाला। राहत की बात यह है कि वह अब सुरक्षित हैं। उनके भतीजे दीपक बोहरा भी बचाव कार्य में मदद के लिए काठमांडू से पहुंचे थे। इस 'योद्धा' दादी के जज्बे को सब सलाम कर रहे हैं।",
-    "tts_text_hi": "नेपाल में सत्तानवे साल की गुना माया बोहरा ने चमत्कारिक रूप से मौत को मात दे दी। मलबे के नीचे दबी होने के बावजूद, वह चार घंटे तक संघर्ष करती रहीं। अंततः, नेपाली सेना और पुलिस ने उन्हें सुरक्षित बाहर निकाला। राहत की बात यह है कि वह अब सुरक्षित हैं। उनके भतीजे दीपक बोहरा भी बचाव कार्य में मदद के लिए काठमांडू से पहुंचे थे। इस योद्धा दादी के जज्बे को सब सलाम कर रहे हैं।",
-    "title": "नेपाल: मलबे से सुरक्षित निकलीं 97 साल की महिला",
-    "caption": "नेपाल में 97 साल की गुना माया बोहरा ने मलबे से बाहर निकलकर दिखाया अद्भुत साहस।",
-    "hashtags": [
-      "Nepal",
-      "SurvivalStory",
-      "Inspiration",
-      "RescueOperation",
-      "GoodNews",
-      "Kathmandu"
-    ],
-    "visual_queries": [
-      "Nepal landscape mountain",
-      "rescue operation rubble",
-      "Nepalese army soldier",
-      "elderly woman portrait",
-      "family reunion hug"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the specific rescue incident as generic stock imagery will not capture the unique nature of this survival story.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29094817/12571081_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "earthquake disaster rescue",
-        "credit": "Fahrettin Turgut",
-        "source_duration_sec": 12,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37159519/pexels-photo-37159519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Nepal landscape mountain",
-        "credit": "Chhabiraj Adhikari",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33451094/pexels-photo-33451094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Nepalese army soldier",
-        "credit": "Rajat Sahu",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18715039/pexels-photo-18715039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "elderly woman portrait",
-        "credit": "Matosuky",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "power_line_electric_arc_safety",
-    "virality_score": 9,
-    "reason": "Visually striking content using a tube light to demonstrate invisible high-voltage dangers is highly educational and viral.",
-    "region": "india",
-    "headline": "पावर लाइन से रहें दूर! 99% लोग नहीं जानते इसका खतरा",
-    "source_summary": "हाई वोल्टेज पावर लाइन के नीचे खड़ा होना कितना खतरनाक हो सकता है? सोशल मीडिया के एक वीडियो में ट्यूब लाइट के जरिए इसका असर दिखाया गया. जानिए कैसे बन सकता है इलेक्ट्रिक आर्क और क्यों जरूरी है दूरी.",
-    "source_url": "https://www.aajtak.in/technology/tech-tips-and-tricks-/story/high-voltage-power-line-danger-electric-arc-safety-tips-prym-dskc-2632674-2026-08-30?utm_source=rssfeed",
+    "headline": "6 साल की बच्ची की हत्या, मुठभेड़ में आरोपी ढेर",
+    "source_summary": "ग्रेटर नोएडा में 6 साल की बच्ची की हत्या के मामले में पुलिस ने आरोपी को मुठभेड़ में मार गिराया. CCTV में आरोपी बोरी ले जाते दिखा था. पुलिस ने बच्ची का शव बरामद कर पोस्टमार्टम कराया है और मामले की जांच जारी है. वीडियो में जानें क्या है पूरा मामला.",
+    "source_url": "https://www.aajtak.in/short-videos/video/greater-noida-6-year-old-girl-murder-accused-killed-police-encounter-details-mmtm-2632602-2026-08-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-30T15:05:55+05:30",
-    "hook": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना?",
-    "script_hi": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना? हाल ही में सोशल मीडिया पर एक वीडियो वायरल हुआ जिसमें ट्यूब लाइट के जरिए खतरनाक इलेक्ट्रिक आर्क का असर दिखाया गया। पावर लाइन के चुंबकीय क्षेत्र की वजह से बिना तार के भी ट्यूब लाइट जल उठी। यह संकेत है कि आपके आसपास खतरनाक बिजली का करंट दौड़ रहा है। ऐसी जगहों से हमेशा दूर रहें, क्योंकि एक छोटी सी चूक आपकी जान ले सकती है। सुरक्षा के लिए इन लाइनों से उचित दूरी बनाए रखना ही एकमात्र उपाय है।",
-    "tts_text_hi": "क्या आप जानते हैं कि हाई वोल्टेज पावर लाइन के नीचे खड़े होने का मतलब है मौत को दावत देना? हाल ही में सोशल मीडिया पर एक वीडियो वायरल हुआ जिसमें ट्यूब लाइट के जरिए खतरनाक इलेक्ट्रिक आर्क का असर दिखाया गया। पावर लाइन के चुंबकीय क्षेत्र की वजह से बिना तार के भी ट्यूब लाइट जल उठी। यह संकेत है कि आपके आसपास खतरनाक बिजली का करंट दौड़ रहा है। ऐसी जगहों से हमेशा दूर रहें, क्योंकि एक छोटी सी चूक आपकी जान ले सकती है। सुरक्षा के लिए इन लाइनों से उचित दूरी बनाए रखना ही एकमात्र उपाय है।",
-    "title": "पावर लाइन से रहें सावधान!",
-    "caption": "हाई वोल्टेज पावर लाइन के पास जाने की गलती न करें, देखिए ये वीडियो।",
+    "published": "2026-08-30T12:49:17+05:30",
+    "hook": "ग्रेटर नोएडा में छह साल की मासूम बच्ची के साथ हुई दरिंदगी, पुलिस एनकाउंटर में आरोपी ढेर!",
+    "script_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या का आरोपी पुलिस मुठभेड़ में मारा गया। सीसीटीवी में आरोपी बच्ची का शव बोरी में ले जाते हुए दिखा था। पुलिस ने शव बरामद कर लिया है। पोस्टमार्टम रिपोर्ट का इंतज़ार है और आगे की जांच जारी है।",
+    "tts_text_hi": "ग्रेटर नोएडा में छह साल की मासूम बच्ची की हत्या का आरोपी पुलिस मुठभेड़ में मारा गया। सीसीटीवी में आरोपी बच्ची का शव बोरी में ले जाते हुए दिखा था। पुलिस ने शव बरामद कर लिया है। पोस्टमार्टम रिपोर्ट का इंतज़ार है और आगे की जांच जारी है।",
+    "title": "ग्रेटर नोएडा: बच्ची की हत्या के आरोपी का एनकाउंटर",
+    "caption": "ग्रेटर नोएडा में छह साल की बच्ची की हत्या का आरोपी पुलिस मुठभेड़ में ढेर।",
     "hashtags": [
-      "ElectricitySafety",
-      "HighVoltage",
-      "SafetyFirst",
-      "ScienceFacts",
-      "Alert",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "high voltage power lines India",
-      "glowing fluorescent tube light night",
-      "electrical safety hazard warning",
-      "danger sign electricity India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of a tube light experiment that requires the actual footage to be manually added; generic stock footage does not illustrate the specific scientific phenomenon described.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37737876/pexels-photo-37737876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high voltage power lines India",
-        "credit": "Imran Creatives",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3220850/pexels-photo-3220850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "glowing fluorescent tube light night",
-        "credit": "David Geib",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high voltage transmission line",
-        "credit": "Doğan Alpaslan  Demir",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30505490/pexels-photo-30505490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "danger sign electricity India",
-        "credit": "Vtane Art",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "indore_parking_rage_killing",
-    "virality_score": 9,
-    "reason": "A horrific crime motivated by petty parking rage is a relatable and widely discussed societal issue.",
-    "region": "india",
-    "headline": "कार में गर्लफ्रेंड थी, गेटकीपर ने एंट्री नहीं दी... इंसल्ट लगी तो किया कांड!",
-    "source_summary": "कहानी इंदौर की एक सोसाइटी की है... कार में गर्लफ्रेंड बैठी थी, सामने टाउनशिप का गेट था और गेट पर चौकीदार... चौकीदार ने एंट्री नहीं दी तो बहस होने लगी. युवक को लगा कि उसकी इंसल्ट हो गई है. वो कार लेकर चला गया. कुछ देर बाद वही कार वापस आई और चौकीदार को कुचल दिया. इस कहानी पहले हादसा समझा जा रहा था, लेकिन अब मामला हत्या में बदल चुका है.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/girlfriend-in-car-watchman-denied-entry-insult-led-to-murder-in-indore-couple-story-lcla-strc-2632668-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T14:41:47+05:30",
-    "hook": "इंदौर में मामूली बहस ने ले ली चौकीदार की जान!",
-    "script_hi": "इंदौर की एक सोसाइटी में चौकीदार ने कार को एंट्री नहीं दी, तो युवक ने उसे कुचल दिया। पहले इसे हादसा समझा गया, लेकिन सीसीटीवी से सच सामने आया।",
-    "tts_text_hi": "इंदौर की एक सोसाइटी में चौकीदार ने कार को एंट्री नहीं दी, तो युवक ने उसे कुचल दिया। पहले इसे हादसा समझा गया, लेकिन सीसीटीवी से सच सामने आया है। मामला अब हत्या का बन चुका है।",
-    "title": "इंदौर: एंट्री न मिलने पर चौकीदार को कार से कुचला",
-    "caption": "इंदौर में गेटकीपर की बेरहमी से हत्या, कार से कुचला।",
-    "hashtags": [
-      "IndoreCrime",
+      "GreaterNoida",
       "CrimeNews",
-      "Shocking",
+      "PoliceEncounter",
+      "JusticeForVictim",
       "HindiNews",
-      "BreakingNews",
-      "Indore"
+      "UttarPradesh"
     ],
     "visual_queries": [
-      "residential township gate India",
-      "security guard standing India",
-      "car driving on street India",
-      "police investigation scene India"
+      "police barricade India",
+      "CCTV surveillance footage",
+      "Indian police crime scene"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific CCTV footage of the incident to prove the murder, which needs to be added manually as generic stock footage cannot depict this specific crime.",
+    "flag_reason": "The story involves a minor victim of a violent crime. While the reporting is factual, the sensitivity regarding the victim's identity and the nature of the crime requires manual oversight to ensure compliance with safety guidelines.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17691628/pexels-photo-17691628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "residential township gate India",
-        "credit": "Praylin Jerish",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34954627/pexels-photo-34954627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "security guard standing India",
-        "credit": "the Amritdev",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12704352/pexels-photo-12704352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car driving on street India",
-        "credit": "Tauseef Khaliq",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation scene India",
+        "query": "Indian police crime scene",
         "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police barricade India",
+        "credit": "Sonika Agarwal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV surveillance footage",
+        "credit": "Florian Süß",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "agra_train_suitcase_murder_solved",
+    "topic_label": "suitcase_dismemberment_murder_solve",
     "virality_score": 9,
-    "reason": "The resolution of the grisly train suitcase murder mystery is a compelling, high-stakes crime narrative.",
+    "reason": "Gruesome crime case with a dramatic 'cold case' resolution that captivates true-crime audiences.",
     "region": "india",
-    "headline": "ट्रेन में मिले लाल सूटकेस में महिला के कटे सिर का रहस्य सुलझा, हत्या का आरोपी दंपति मणिपुर से गिरफ्तार",
-    "source_summary": "आगरा स्टेशन पर 5 अगस्त को तमिलनाडु एक्सप्रेस में एक लावारिस लाल सूटकेस मिला था। यात्रियों की शिकायत के बाद जब जीआरपी ने सूटकेस को खोला तो उसमें एक महिला का कटा हुआ सिर मिला। इसके बाद से तमिलनाडु पुलिस इस हत्याकांड की कड़ियां जोड़ रही थी। 24 दिन तक जांच के बाद पुलिस ने मणिपुर से हत्या के आरोपी दंपति को गिरफ्तार किया है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/couple-arrested-from-jiribam-manipur-for-packing-a-woman-severed-head-in-a-suitcase-and-placing-it-on-the-tamil-nadu-express/articleshow/133626898.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 30 Aug 2026 15:09:00 +0530",
-    "hook": "आगरा ट्रेन हत्याकांड: लाल सूटकेस में महिला का सिर मिलने का रहस्य सुलझा!",
-    "script_hi": "आगरा स्टेशन पर तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का खौफनाक रहस्य सुलझ गया है। पांच अगस्त को मिले इस सूटकेस में महिला का कटा हुआ सिर मिला था। चौबीस दिनों की लंबी जांच के बाद, पुलिस ने इस हत्याकांड के मुख्य आरोपी दंपति को मणिपुर से गिरफ्तार कर लिया है।",
-    "tts_text_hi": "आगरा स्टेशन पर तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का खौफनाक रहस्य सुलझ गया है। पांच अगस्त को मिले इस सूटकेस में महिला का कटा हुआ सिर मिला था। चौबीस दिनों की लंबी जांच के बाद, पुलिस ने इस हत्याकांड के मुख्य आरोपी दंपति को मणिपुर से गिरफ्तार कर लिया है।",
-    "title": "आगरा ट्रेन हत्याकांड: आरोपी दंपति मणिपुर से गिरफ्तार",
-    "caption": "आगरा ट्रेन हत्याकांड: पांच अगस्त को तमिलनाडु एक्सप्रेस में मिले लाल सूटकेस का रहस्य सुलझा, आरोपी दंपति गिरफ्तार।",
+    "headline": "ट्रेन में रखे सूटकेस में पैक थी महिला... अब मणिपुर से पकड़ा गया आरोपी",
+    "source_summary": "तमिलनाडु एक्सप्रेस आगरा कैंट स्टेशन पहुंची थी. ट्रेन के एक डिब्बे में रखा लाल रंग का सूटकेस यात्रियों के लिए परेशानी की वजह बन रहा था. उसमें से तेज बदबू आ रही थी. पुलिस ने सूटकेस खोला तो अंदर महिला के शव के टुकड़े मिले. सिर गायब था. जांच की कड़ियां जब पीछे की तरफ जोड़ी गईं तो कहानी चेन्नई के गुडुवांचेरी तक पहुंची. अब मुख्य आरोपी मणिपुर से गिरफ्तार कर लिया गया है.",
+    "source_url": "https://www.aajtak.in/india/news/story/womans-body-parts-found-packed-in-suitcase-train-agra-key-accused-arrested-lcla-rptc-2632608-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T13:00:36+05:30",
+    "hook": "ट्रेन के सूटकेस में मिली लाश, देशभर में मचा हड़कंप!",
+    "script_hi": "ट्रेन में रखा एक लावारिस सूटकेस, जिससे आ रही थी बदबू। आगरा कैंट स्टेशन पर जब पुलिस ने इसे खोला, तो अंदर एक महिला के शव के टुकड़े मिले। हत्या का ये मामला चेन्नई से लेकर मणिपुर तक फैल गया। पुलिस की लंबी जांच के बाद, मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है।",
+    "tts_text_hi": "ट्रेन में रखा एक लावारिस सूटकेस, जिससे आ रही थी बदबू। आगरा कैंट स्टेशन पर जब पुलिस ने इसे खोला, तो अंदर एक महिला के शव के टुकड़े मिले। हत्या का ये मामला चेन्नई से लेकर मणिपुर तक फैल गया। पुलिस की लंबी जांच के बाद, मुख्य आरोपी को मणिपुर से गिरफ्तार कर लिया गया है।",
+    "title": "ट्रेन सूटकेस मर्डर केस का आरोपी गिरफ्तार",
+    "caption": "तमिलनाडु एक्सप्रेस ट्रेन सूटकेस मर्डर केस में मुख्य आरोपी मणिपुर से गिरफ्तार। आगरा कैंट स्टेशन पर मिले थे महिला के शव के टुकड़े।",
     "hashtags": [
-      "AgraNews",
       "CrimeNews",
+      "AgraNews",
+      "Manipur",
       "TamilNaduExpress",
-      "BreakingNews",
-      "Investigation",
+      "CrimeInvestigation",
       "HindiNews",
-      "ManipurPolice",
-      "CrimeUpdate"
+      "Update"
     ],
     "visual_queries": [
       "Indian railway station platform",
-      "police investigation forensic India",
-      "Indian police officers working",
-      "Manipur landscape India"
+      "red travel suitcase in India",
+      "Indian police investigating crime scene",
+      "Map of India highlighting Manipur",
+      "handcuffed criminal hands India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story mentions a specific criminal incident involving a gruesome discovery; generic stock footage is being used to illustrate the context of the investigation, which may need manual replacement with official footage if available.",
+    "flag_reason": "The story relies on specific evidence items (the red suitcase) found at the scene which requires actual footage or photos of the evidence for authenticity rather than generic stock.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigating crime scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -343,100 +121,18 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36931056/pexels-photo-36931056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation forensic India",
-        "credit": "cottonbro studio",
+        "query": "red travel suitcase in India",
+        "credit": "Beyza Emişen",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police officers working",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38431673/pexels-photo-38431673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Manipur landscape India",
-        "credit": "Noor Zaman",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bhopal_police_bike_chase_accident",
-    "virality_score": 8,
-    "reason": "Public outrage against police conduct after a child was injured in a high-speed chase creates strong viewer engagement.",
-    "region": "india",
-    "headline": "बदमाश का पीछा कर रहे थे पुलिसवाले, बाइक की टक्कर से बच्ची घायल",
-    "source_summary": "राजधानी भोपाल के हबीबगंज थाना क्षेत्र में बदमाश का पीछा कर रहे पुलिसकर्मियों की बाइक की चपेट में 8 साल की बच्ची आ गई. हादसे में बच्ची सड़क पर गिर गई और उसके सिर में गंभीर चोट आई है. घटना के बाद मौके पर मौजूद लोगों ने दोनों पुलिसकर्मियों को रोक लिया और जमकर हंगामा किया. बाद में डायल 100 की टीम के पहुंचने पर मामला शांत हुआ.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/bhopal-police-bike-chasing-accused-hits-8-year-old-girl-head-injury-lcla-strc-2632703-2026-08-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-30T15:18:03+05:30",
-    "hook": "भोपाल में पुलिस की बाइक से टकराई आठ साल की बच्ची, बड़ा हंगामा!",
-    "script_hi": "भोपाल के हबीबगंज में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक से एक आठ साल की बच्ची टकरा गई। हादसे में बच्ची के सिर में गंभीर चोट आई है। घटना के बाद स्थानीय लोगों ने पुलिसकर्मियों को घेर लिया और खूब हंगामा किया। बाद में डायल एक सौ की टीम ने मौके पर पहुँचकर मामला शांत कराया।",
-    "tts_text_hi": "भोपाल के हबीबगंज में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक से एक आठ साल की बच्ची टकरा गई। हादसे में बच्ची के सिर में गंभीर चोट आई है। घटना के बाद स्थानीय लोगों ने पुलिसकर्मियों को घेर लिया और खूब हंगामा किया। बाद में डायल एक सौ की टीम ने मौके पर पहुँचकर मामला शांत कराया।",
-    "title": "भोपाल: पुलिस बाइक की टक्कर से बच्ची घायल",
-    "caption": "भोपाल के हबीबगंज थाना क्षेत्र में बदमाशों का पीछा कर रहे पुलिसकर्मियों की बाइक की चपेट में आने से एक आठ साल की बच्ची घायल हो गई।",
-    "hashtags": [
-      "BhopalNews",
-      "MadhyaPradesh",
-      "PoliceAccident",
-      "Habibganj",
-      "BhopalCrime",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Indian police motorcycle patrol",
-      "Indian city street crowd",
-      "Indian police emergency vehicle",
-      "Hospital entrance India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific local incident where the visuals would require real, non-stock footage of the actual street and scene for authenticity; generic stock footage might misrepresent the specific accident site.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35040035/14843138_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian street crowd",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13268079/pexels-photo-13268079.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police motorcycle patrol",
-        "credit": "Madvortex",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street crowd",
-        "credit": "Himanshu Singh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hospital entrance India",
-        "credit": "Chauhan Dixant",
+        "query": "handcuffed criminal hands India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
@@ -445,68 +141,404 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "nepal_flood_theft_arrests",
+    "topic_label": "rakhi_tragedy_faridabad_accident",
     "virality_score": 8,
-    "reason": "Shocking news about people stealing bank cash from flood debris is a high-emotion, viral-worthy story.",
+    "reason": "Deeply emotional story involving a tragic accident during a festival, high relatability and sympathy.",
     "region": "india",
-    "headline": "Nepal Flood के बीच शर्मनाक वारदात! नदी में बहकर आए बैंक सेफ से निकाले 92 लाख, 29 गिरफ्तार, शवों से भी हुई चोरी",
-    "source_summary": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाले कई मामले सामने आ रहे हैं। धादिंग जिले में बाढ़ के पानी के साथ बहकर आए एक बैंक सेफ को तोड़कर रकम निकालने के आरोप में 29 लोगों को",
-    "source_url": "https://hindi.oneindia.com/news/international/nepal-floods-bank-safe-theft-92-lakh-29-arrested-1638523.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Sat, 29 Aug 2026 18:38:06 +0530",
-    "hook": "नेपाल में बाढ़ के बीच मानवता शर्मसार, बहकर आए बैंक सेफ से लूटे बावन लाख रुपये!",
-    "script_hi": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। धादिंग जिले में बाढ़ के पानी में बहकर एक बैंक सेफ आ गया, जिसे लोगों ने तोड़कर बानवे लाख रुपये निकाल लिए। पुलिस ने कार्रवाई करते हुए उन्नतीस लोगों को गिरफ्तार किया है। हद तो तब हो गई जब बाढ़ के दौरान शवों के साथ भी लूटपाट की खबरें सामने आई हैं।",
-    "tts_text_hi": "नेपाल में बाढ़ की तबाही के बीच इंसानियत को शर्मसार करने वाली घटना सामने आई है। धादिंग जिले में बाढ़ के पानी में बहकर एक बैंक सेफ आ गया, जिसे लोगों ने तोड़कर बानवे लाख रुपये निकाल लिए। पुलिस ने कार्रवाई करते हुए उन्नतीस लोगों को गिरफ्तार किया है। हद तो तब हो गई जब बाढ़ के दौरान शवों के साथ भी लूटपाट की खबरें सामने आई हैं।",
-    "title": "नेपाल बाढ़ में बैंक सेफ लूटा",
-    "caption": "नेपाल में बाढ़ के बीच बैंक सेफ से बावन लाख की लूट, उन्नतीस गिरफ्तार।",
+    "headline": "बड़ी हसरतों से मिले और फिर जिंदगी भर का गम दे गया हादसा; तीन भाई-बहनों की रक्षाबंधन पर हादसे में मौत; एक बचा",
+    "source_summary": "फरीदाबाद में रक्षाबंधन मनाकर लौट रहे 4 भाई-बहन को तेज रफ्तार फॉर्च्यूनर ने बस स्टैंड पर टक्कर मार दी. तीन की मौत हो गई और एक युवती का इलाज चल रहा है.",
+    "source_url": "https://ndtv.in/haryana/haryana-faridabad-rakhi-festival-turns-mourning-4-siblings-accident-death-injured-eye-witness-tells-story-11977755#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 30 Aug 2026 15:13:26 +0530",
+    "hook": "रक्षाबंधन की खुशियां मातम में बदलीं, फरीदाबाद में एक दर्दनाक हादसे ने तीन भाई-बहनों की जान ले ली।",
+    "script_hi": "फरीदाबाद में रक्षाबंधन मनाकर लौट रहे चार भाई-बहनों को एक तेज रफ्तार फॉर्च्यूनर गाड़ी ने बस स्टैंड पर टक्कर मार दी। इस भीषण हादसे में तीन भाई-बहनों की मौके पर ही दर्दनाक मौत हो गई। एक युवती अभी भी अस्पताल में जिंदगी और मौत के बीच जूझ रही है। त्यौहार का दिन परिवार के लिए जिंदगी भर का गम दे गया।",
+    "tts_text_hi": "फरीदाबाद में रक्षाबंधन मनाकर लौट रहे चार भाई-बहनों को एक तेज रफ्तार फॉर्च्यूनर गाड़ी ने बस स्टैंड पर टक्कर मार दी। इस भीषण हादसे में तीन भाई-बहनों की मौके पर ही दर्दनाक मौत हो गई। एक युवती अभी भी अस्पताल में जिंदगी और मौत के बीच जूझ रही है। त्यौहार का दिन परिवार के लिए जिंदगी भर का गम दे गया।",
+    "title": "फरीदाबाद: रक्षाबंधन पर सड़क हादसे में तीन भाई-बहनों की मौत",
+    "caption": "फरीदाबाद में रक्षाबंधन की खुशियां मातम में बदलीं, तेज रफ्तार फॉर्च्यूनर ने चार भाई-बहनों को कुचला। #Faridabad #RoadAccident #RakshaBandhan #HaryanaNews #Tragedy #IndiaNews",
     "hashtags": [
-      "NepalFlood",
-      "NepalNews",
-      "Shameful",
-      "CrimeNews",
-      "Dhadhing",
-      "LatestUpdate"
+      "#फरीदाबाद",
+      "#सड़कहादसा",
+      "#रक्षाबंधन",
+      "#हरियाणा",
+      "#हादसा",
+      "#FaridabadNews",
+      "#India"
     ],
     "visual_queries": [
-      "flooded river Nepal",
-      "bank safe damaged",
-      "police arrest suspects",
-      "devastation aftermath landscape"
+      "India bus stand scene",
+      "police investigation India",
+      "hospital entrance India",
+      "grieving atmosphere India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves specific reported criminal incidents (looting of a bank safe and corpses) during a disaster; the visual footage of the specific safe or the suspects is not available in generic stock libraries and would require specific news footage to illustrate accurately.",
+    "flag_reason": "The story centers on a specific local traffic accident involving a specific vehicle (Fortuner) at a bus stand; generic stock footage cannot represent this specific incident and would be misleading.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13082129/pexels-photo-13082129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "flooded river Nepal",
-        "credit": "Sabbir Bhuiyan",
+        "query": "India bus stand scene",
+        "credit": "Thangpu Paite",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police arrest suspects",
-        "credit": "Kindel Media",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "devastation aftermath landscape",
-        "credit": "akın  akdağ",
+        "query": "hospital entrance India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17149617/pexels-photo-17149617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "grieving atmosphere India",
+        "credit": "sagar sintan",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "indore_parking_rage_murder",
+    "virality_score": 8,
+    "reason": "Shocking road-rage incident involving a security guard, clear visual story from CCTV.",
+    "region": "india",
+    "headline": "कार में गर्लफ्रेंड थी, गेटकीपर ने एंट्री नहीं दी... इंसल्ट लगी तो किया कांड!",
+    "source_summary": "कहानी इंदौर की एक सोसाइटी की है... कार में गर्लफ्रेंड बैठी थी, सामने टाउनशिप का गेट था और गेट पर चौकीदार... चौकीदार ने एंट्री नहीं दी तो बहस होने लगी. युवक को लगा कि उसकी इंसल्ट हो गई है. वो कार लेकर चला गया. कुछ देर बाद वही कार वापस आई और चौकीदार को कुचल दिया. इस कहानी पहले हादसा समझा जा रहा था, लेकिन अब मामला हत्या में बदल चुका है.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/girlfriend-in-car-watchman-denied-entry-insult-led-to-murder-in-indore-couple-story-lcla-strc-2632668-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T14:41:47+05:30",
+    "hook": "इंदौर में गेटकीपर की मौत का मामला अब हत्या बन गया है!",
+    "script_hi": "इंदौर की एक सोसाइटी में चौकीदार को कार से कुचलने का मामला सामने आया है। कार सवार युवक अपनी गर्लफ्रेंड के साथ था, लेकिन गेटकीपर ने उसे एंट्री देने से मना कर दिया। युवक को अपनी इंसल्ट महसूस हुई और वो वहां से चला गया, लेकिन कुछ देर बाद वापस आकर उसने चौकीदार पर कार चढ़ा दी। शुरुआत में इसे हादसा समझा गया, लेकिन अब सीसीटीवी फुटेज से यह हत्या का केस साबित हो चुका है।",
+    "tts_text_hi": "इंदौर की एक सोसाइटी में चौकीदार को कार से कुचलने का मामला सामने आया है। कार सवार युवक अपनी गर्लफ्रेंड के साथ था, लेकिन गेटकीपर ने उसे एंट्री देने से मना कर दिया। युवक को अपनी इंसल्ट महसूस हुई और वो वहां से चला गया, लेकिन कुछ देर बाद वापस आकर उसने चौकीदार पर कार चढ़ा दी। शुरुआत में इसे हादसा समझा गया, लेकिन अब सीसीटीवी फुटेज से यह हत्या का केस साबित हो चुका है।",
+    "title": "इंदौर में चौकीदार की हत्या",
+    "caption": "इंदौर में कार सवार युवक ने गेटकीपर को कुचला। शुरुआत में हादसा लगने वाला मामला अब हत्या में बदला।",
+    "hashtags": [
+      "IndoreNews",
+      "CrimeNews",
+      "IndiaCrime",
+      "Justice",
+      "ShockingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "residential building gate India",
+      "security guard station India",
+      "car driving away fast India",
+      "police investigation scene India",
+      "cctv camera recording footage"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on specific CCTV footage of the crime to establish the transition from accident to murder; this requires the actual video evidence to be manually inserted as generic stock footage will not represent the specific incident accurately.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38101666/pexels-photo-38101666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "residential building gate India",
+        "credit": "Pranav nav",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928391/pexels-photo-35928391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "security guard station India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36569106/pexels-photo-36569106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car driving away fast India",
+        "credit": "Soumalya Halder",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation scene India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30554249/pexels-photo-30554249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cctv camera recording footage",
+        "credit": "Eray Karataş",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "manjeet_kaur_death_case",
+    "virality_score": 7,
+    "reason": "Social media influencer tragedy with a complex and harrowing backstory, high viral interest.",
+    "region": "india",
+    "headline": "Manjeet Kaur Death Case: प्रेग्नेंट थी जिंदा जलाई गई इन्फ्लुएंसर मनजीत कौर, लिव-इन पार्टनर ने दी दर्दनाक मौत!",
+    "source_summary": "Manjeet Kaur Death Case: चंडीगढ़ में गंभीर हमले का शिकार हुई सोशल मीडिया इन्फ्लुएंसर मनजीत कौर की 54 दिन बाद मौत हो गई। शनिवार को उन्होंने चंडीगढ़ के अस्पताल में इलाज के दौरान दम तोड़ दिया। पुलिस के मुताबिक, मनजीत करीब",
+    "source_url": "https://hindi.oneindia.com/news/india/manjeet-kaur-burnt-alive-was-pregnant-dies-after-54-days-chandigarh-1638783.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Sun, 30 Aug 2026 11:10:13 +0530",
+    "hook": "सोशल मीडिया इन्फ्लुएंसर मनजीत कौर की दर्दनाक मौत, लिव-इन पार्टनर पर लगा हत्या का आरोप।",
+    "script_hi": "सोशल मीडिया इन्फ्लुएंसर मनजीत कौर अब हमारे बीच नहीं रहीं। चंडीगढ़ में जिंदा जलाई गई मनजीत ने चौवन दिन तक मौत से जंग लड़ी, लेकिन शनिवार को अस्पताल में उन्होंने दम तोड़ दिया। मनजीत गर्भवती थीं और उन पर हमले का आरोप उनके लिव-इन पार्टनर पर है। पुलिस ने आरोपी को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "सोशल मीडिया इन्फ्लुएंसर मनजीत कौर अब हमारे बीच नहीं रहीं। चंडीगढ़ में जिंदा जलाई गई मनजीत ने चौवन दिन तक मौत से जंग लड़ी, लेकिन शनिवार को अस्पताल में उन्होंने दम तोड़ दिया। मनजीत गर्भवती थीं और उन पर हमले का आरोप उनके लिव-इन पार्टनर पर है। पुलिस ने आरोपी को गिरफ्तार कर लिया है।",
+    "title": "इन्फ्लुएंसर मनजीत कौर की दर्दनाक मौत",
+    "caption": "चंडीगढ़ में सोशल मीडिया इन्फ्लुएंसर मनजीत कौर की चौवन दिन बाद मौत। लिव-इन पार्टनर पर था हमले का आरोप।",
+    "hashtags": [
+      "ManjeetKaur",
+      "ChandigarhCrime",
+      "JusticeForManjeet",
+      "CrimeNews",
+      "HindiNews",
+      "InfluencerNews"
+    ],
+    "visual_queries": [
+      "Indian hospital exterior",
+      "crying woman silhouette",
+      "police barrier India",
+      "Indian city street"
+    ],
+    "named_person": "Manjeet Kaur",
+    "named_person_hi": "मनजीत कौर",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Case involving the death of a named individual through a violent crime; requires careful editorial handling of the sensitive nature of the incident.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "मनजीत कौर",
+        "source": "fallback",
+        "query": "Manjeet Kaur",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7274802/7274802-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "crying woman silhouette",
+        "credit": "https://kaboompics.com/",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35407932/15001963_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "police barrier India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481284/pexels-photo-10481284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crime investigation scene",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street",
+        "credit": "Umang & Meet",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ankit_baliyan_murder_justice_plea",
+    "virality_score": 7,
+    "reason": "Follow-up to a high-profile musician murder case, keeping audience interest on justice/investigation.",
+    "region": "india",
+    "headline": "अंकित बालियान मर्डर केस में पत्नी ने CM योगी से की अपील",
+    "source_summary": "हरियाणवी सिंगर और यूट्यूबर अंकित बालियान की हत्या के पांच दिन बाद भी आरोपियों की गिरफ्तारी नहीं हुई है. परिवार ने पुलिस-प्रशासन पर कार्रवाई में देरी का आरोप लगाया है. अंकित की पत्नी ने CM योगी आदित्यनाथ से जल्द न्याय और आरोपियों की गिरफ्तारी की मांग की है. वीडियो में जानें मामला.",
+    "source_url": "https://www.aajtak.in/short-videos/video/ankit-baliyan-murder-case-wife-appeals-cm-yogi-for-justice-up-police-investigation-mmtm-2632712-2026-08-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-30T16:10:38+05:30",
+    "hook": "अंकित बालियान मर्डर केस में बड़ा अपडेट! पत्नी ने योगी आदित्यनाथ से मांगी मदद।",
+    "script_hi": "हरियाणवी सिंगर अंकित बालियान की हत्या के पांच दिन बीत चुके हैं, लेकिन आरोपी अभी भी बाहर हैं। परिवार का आरोप है कि पुलिस कार्रवाई में सुस्ती बरत रही है। अब अंकित की पत्नी ने मुख्यमंत्री योगी आदित्यनाथ से न्याय की गुहार लगाई है।",
+    "tts_text_hi": "हरियाणवी सिंगर अंकित बालियान की हत्या के पांच दिन बीत चुके हैं, लेकिन आरोपी अभी भी बाहर हैं। परिवार का आरोप है कि पुलिस कार्रवाई में सुस्ती बरत रही है। अब अंकित की पत्नी ने मुख्यमंत्री योगी आदित्यनाथ से न्याय की गुहार लगाई है।",
+    "title": "अंकित बालियान मर्डर केस में पत्नी की गुहार",
+    "caption": "हरियाणवी सिंगर अंकित बालियान की हत्या के बाद परिवार का न्याय के लिए प्रदर्शन जारी।",
+    "hashtags": [
+      "AnkitBaliyan",
+      "JusticeForAnkit",
+      "HaryanaNews",
+      "YogiAdityanath",
+      "CrimeNews",
+      "UpNews"
+    ],
+    "visual_queries": [
+      "grieving family India",
+      "Indian police investigation",
+      "Uttar Pradesh government building",
+      "protest sign demanding justice"
+    ],
+    "named_person": "Yogi Adityanath",
+    "named_person_hi": "योगी आदित्यनाथ",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific criminal case involving a public figure/victim where the video must show the specific person or family context provided in the news media; generic stock images will be misleading.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "योगी आदित्यनाथ",
+        "source": "fallback",
+        "query": "Yogi Adityanath",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11125104/pexels-photo-11125104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "grieving family India",
+        "credit": "PRIYA MISHRA",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38305333/pexels-photo-38305333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh government building",
+        "credit": "momentsbymanan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4646777/pexels-photo-4646777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "protest sign demanding justice",
+        "credit": "Mathias Reding",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "india_nepal_flood_relief_flight",
+    "virality_score": 6,
+    "reason": "Broad audience relevance, humanitarian angle with India's active international role in disaster relief.",
+    "region": "india",
+    "headline": "India sends 4th relief flight to flood-hit Nepal; 108 Indian nationals rescued, 275 still missing",
+    "source_summary": "Jaishankar said a fourth Indian Air Force flight carrying 11 tonnes of emergency assistance had been sent to Kathmandu.",
+    "source_url": "https://www.hindustantimes.com/india-news/india-sends-4th-relief-flight-to-flood-hit-nepal-108-indian-nationals-rescued-275-still-missing-101788054303186.html",
+    "source_name": "Hindustan Times - India News",
+    "published": "Sun, 30 Aug 2026 08:31:51 +0530",
+    "hook": "नेपाल में बाढ़ का कहर, भारत का बड़ा रेस्क्यू ऑपरेशन जारी!",
+    "script_hi": "नेपाल में बाढ़ से मची तबाही के बीच भारत का राहत कार्य तेज हो गया है। भारतीय वायुसेना का चौथा विमान ग्यारह टन जरूरी सामान लेकर काठमांडू पहुंचा है। अब तक एक सौ आठ भारतीय नागरिकों को सुरक्षित निकाला जा चुका है, जबकि दो सौ पचहत्तर लोग अभी भी लापता बताए जा रहे हैं। विदेश मंत्री एस जयशंकर ने कहा कि भारत हर संभव मदद के लिए प्रतिबद्ध है।",
+    "tts_text_hi": "नेपाल में बाढ़ से मची तबाही के बीच भारत का राहत कार्य तेज हो गया है। भारतीय वायुसेना का चौथा विमान ग्यारह टन जरूरी सामान लेकर काठमांडू पहुंचा है। अब तक एक सौ आठ भारतीय नागरिकों को सुरक्षित निकाला जा चुका है, जबकि दो सौ पचहत्तर लोग अभी भी लापता बताए जा रहे हैं। विदेश मंत्री एस जयशंकर ने कहा कि भारत हर संभव मदद के लिए प्रतिबद्ध है।",
+    "title": "नेपाल बाढ़: भारत का राहत मिशन जारी",
+    "caption": "नेपाल में बाढ़ पीड़ितों की मदद के लिए भारत का चौथा विमान काठमांडू पहुंचा।",
+    "hashtags": [
+      "NepalFloods",
+      "IndiaNepal",
+      "RescueOperation",
+      "Jaishankar",
+      "IndianAirForce",
+      "Kathmandu",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "Indian Air Force cargo plane flight",
+      "Nepal flood damage aerial view",
+      "Emergency relief supplies aid",
+      "Indian diplomat portrait"
+    ],
+    "named_person": "Subrahmanyam Jaishankar",
+    "named_person_hi": "एस जयशंकर",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Specific ongoing international relief operation requires real footage of the specific relief flights and current flood conditions in Kathmandu which generic stock photos cannot accurately represent.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "एस जयशंकर",
+        "source": "fallback",
+        "query": "Subrahmanyam Jaishankar",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/37827044/16045192_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian Air Force cargo plane flight",
+        "credit": "Rohid Hossain",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28428673/pexels-photo-28428673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Nepal flood damage aerial view",
+        "credit": "Raj Manohar",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6646863/pexels-photo-6646863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Emergency relief supplies aid",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13549269/pexels-photo-13549269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian diplomat portrait",
+        "credit": "Aesthos AR. Photography",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
     "review_status": "pending_review"
   }
 ]
