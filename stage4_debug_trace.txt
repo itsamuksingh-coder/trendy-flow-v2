@@ -1,10 +1,5 @@
-ready_labels: ['mahindra_ev_baas_launch', 'syria_doctor_facebook_scam', 'unexpected_box_office_hit']
+ready_labels: ['mohan_bhagwat_nyc_speech']
 
-biryani_vessel_murder_couple: SKIPPED (not in ready set)
-indian_couple_nepal_flood_rescue: SKIPPED (not in ready set)
+mohan_bhagwat_nyc_speech: SUCCESS -> video_path=videos/mohan_bhagwat_nyc_speech.mp4 dur=22.558231
+nepal_flood_indians_missing: SKIPPED (not in ready set)
 greater_noida_child_murder_encounter: SKIPPED (not in ready set)
-rakshabandhan_road_accident_faridabad: SKIPPED (not in ready set)
-cricket_pitch_roller_accident_gurugram: SKIPPED (not in ready set)
-unexpected_box_office_hit: SUCCESS -> video_path=videos/unexpected_box_office_hit.mp4 dur=38.255215
-syria_doctor_facebook_scam: SUCCESS -> video_path=videos/syria_doctor_facebook_scam.mp4 dur=34.215215
-mahindra_ev_baas_launch: SUCCESS -> video_path=videos/mahindra_ev_baas_launch.mp4 dur=24.956553
