@@ -1,5 +1,3 @@
-ready_labels: ['mohan_bhagwat_nyc_speech']
+ready_labels: []
 
-mohan_bhagwat_nyc_speech: SUCCESS -> video_path=videos/mohan_bhagwat_nyc_speech.mp4 dur=22.558231
-nepal_flood_indians_missing: SKIPPED (not in ready set)
-greater_noida_child_murder_encounter: SKIPPED (not in ready set)
+nepal_flood_new_alert: SKIPPED (not in ready set)
