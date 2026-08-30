@@ -1,7 +1,7 @@
-ready_labels: ['india_post_drone_delivery_initiative', 'nasa_roman_space_telescope_launch', 'swiss_rave_party_shooting_zurich', 'train_suitcase_murder_manipur_arrest']
+ready_labels: ['jaipur_neet_pg_exam_cancelled', 'punjab_mamdot_firing_murder']
 
-train_suitcase_murder_manipur_arrest: SUCCESS -> video_path=videos/train_suitcase_murder_manipur_arrest.mp4 dur=25.484218
-nasa_roman_space_telescope_launch: SUCCESS -> video_path=videos/nasa_roman_space_telescope_launch.mp4 dur=26.970227
+greater_noida_rape_murder_accused_encounter: SKIPPED (not in ready set)
 indigo_flight_family_eating_food_viral: SKIPPED (not in ready set)
-swiss_rave_party_shooting_zurich: SUCCESS -> video_path=videos/swiss_rave_party_shooting_zurich.mp4 dur=21.789887
-india_post_drone_delivery_initiative: SUCCESS -> video_path=videos/india_post_drone_delivery_initiative.mp4 dur=24.625215
+jaipur_neet_pg_exam_cancelled: SUCCESS -> video_path=videos/jaipur_neet_pg_exam_cancelled.mp4 dur=19.456553
+punjab_mamdot_firing_murder: SUCCESS -> video_path=videos/punjab_mamdot_firing_murder.mp4 dur=34.63322
+swiss_rave_party_shooting_zurich_global: SKIPPED (not in ready set)
