@@ -1,7 +1,7 @@
-ready_labels: []
+ready_labels: ['pm_modi_krishna_seshadri_interview']
 
 greater_noida_rape_murder_encounter: SKIPPED (not in ready set)
-ladakh_army_rescue_helicopter: SKIPPED (not in ready set)
-nepal_flood_school_hero: SKIPPED (not in ready set)
-sweeper_fortuner_viral: SKIPPED (not in ready set)
-javagal_srinath_metro_travel: SKIPPED (not in ready set)
+agra_train_suitcase_murder_case: SKIPPED (not in ready set)
+ladakh_army_helicopter_rescue: SKIPPED (not in ready set)
+nepal_flood_survivor_rescue: SKIPPED (not in ready set)
+pm_modi_krishna_seshadri_interview: SUCCESS -> video_path=videos/pm_modi_krishna_seshadri_interview.mp4 dur=30.756553
