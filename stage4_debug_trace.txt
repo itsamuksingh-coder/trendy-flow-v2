@@ -1,8 +1,7 @@
-ready_labels: ['mohan_bhagwat_madison_square_speech', 'mumbai_woman_phone_run_over_boy', 'un_climate_chief_hindu_kush_warning']
+ready_labels: ['chitrakoot_mandakini_flood_tulsidas_statue', 'jaipur_neet_pg_exam_blackout_protest', 'us_iran_conflict_larak_island_strike']
 
-sweeper_arriving_in_fortuner_viral: SKIPPED (not in ready set)
-mumbai_woman_phone_run_over_boy: SUCCESS -> video_path=videos/mumbai_woman_phone_run_over_boy.mp4 dur=28.089887
-indigo_flight_family_eating_food_viral: SKIPPED (not in ready set)
-un_climate_chief_hindu_kush_warning: SUCCESS -> video_path=videos/un_climate_chief_hindu_kush_warning.mp4 dur=32.659229
-mohan_bhagwat_madison_square_speech: SUCCESS -> video_path=videos/mohan_bhagwat_madison_square_speech.mp4 dur=32.72322
-greater_noida_yamuna_expressway_accident: SKIPPED (not in ready set)
+rajat_dalal_thar_road_rage: SKIPPED (not in ready set)
+indigo_flight_family_eating_thepla: SKIPPED (not in ready set)
+jaipur_neet_pg_exam_blackout_protest: SUCCESS -> video_path=videos/jaipur_neet_pg_exam_blackout_protest.mp4 dur=28.62322
+us_iran_conflict_larak_island_strike: SUCCESS -> video_path=videos/us_iran_conflict_larak_island_strike.mp4 dur=25.356553
+chitrakoot_mandakini_flood_tulsidas_statue: SUCCESS -> video_path=videos/chitrakoot_mandakini_flood_tulsidas_statue.mp4 dur=28.789887
