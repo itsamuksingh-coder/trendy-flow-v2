@@ -1,8 +1,8 @@
 [
   {
-    "topic_label": "greater_noida_sleeper_bus_gangrape",
+    "topic_label": "greater_noida_moving_bus_gang_rape",
     "virality_score": 9,
-    "reason": "Highly shocking and viral crime story involving a minor girl on a moving bus.",
+    "reason": "Highly shocking and viral crime story involving a minor on a moving bus with nationwide outrage.",
     "region": "india",
     "headline": "ग्रेटर नोएडा से कश्मीरी गेट तक 47 किलोमीटर तक चलती बस में नाबालिग से दरिंदगी, ड्राइवर-कंडक्टर गिरफ्तार",
     "source_summary": "पुलिस ने बस के ड्राइवर कुलदीप और कंडक्टर संदीप को गिरफ्तार कर लिया है. पीड़िता उत्तर प्रदेश के मैनपुरी जिले की रहने वाली और 11वीं क्लास में पढ़ती है.",
@@ -10,198 +10,87 @@
     "source_name": "NDTV Hindi",
     "published": "Mon, 31 Aug 2026 12:05:10 +0530",
     "hook": "चलती बस में नाबालिग से दरिंदगी!",
-    "script_hi": "ग्रेटर नोएडा से कश्मीरी गेट तक सैंतालीस किलोमीटर तक चलती बस में एक नाबालिग के साथ दरिंदगी का मामला सामने आया है। पुलिस ने आरोपी ड्राइवर कुलदीप और कंडक्टर संदीप को गिरफ्तार कर लिया है। पीड़िता उत्तर प्रदेश के मैनपुरी जिले की रहने वाली है और ग्यारहवीं कक्षा में पढ़ती है।",
-    "tts_text_hi": "ग्रेटर नोएडा से कश्मीरी गेट तक सैंतालीस किलोमीटर तक चलती बस में एक नाबालिग के साथ दरिंदगी का मामला सामने आया है। पुलिस ने आरोपी ड्राइवर कुलदीप और कंडक्टर संदीप को गिरफ्तार कर लिया है। पीड़िता उत्तर प्रदेश के मैनपुरी जिले की रहने वाली है और ग्यारहवीं कक्षा में पढ़ती है।",
-    "title": "चलती बस में नाबालिग से दरिंदगी",
-    "caption": "ग्रेटर नोएडा से कश्मीरी गेट के बीच चलती बस में नाबालिग से दरिंदगी। ड्राइवर और कंडक्टर गिरफ्तार।",
+    "script_hi": "ग्रेटर नोएडा से कश्मीरी गेट तक सैंतालीस किलोमीटर तक चलती बस में नाबालिग से दरिंदगी हुई है। पुलिस ने बस के ड्राइवर कुलदीप और कंडक्टर संदीप को गिरफ्तार कर लिया है। पीड़िता उत्तर प्रदेश के मैनपुरी जिले की रहने वाली है और ग्यारहवीं कक्षा में पढ़ती है।",
+    "tts_text_hi": "ग्रेटर नोएडा से कश्मीरी गेट तक सैंतालीस किलोमीटर तक चलती बस में नाबालिग से दरिंदगी हुई है। पुलिस ने बस के ड्राइवर कुलदीप और कंडक्टर संदीप को गिरफ्तार कर लिया है। पीड़िता उत्तर प्रदेश के मैनपुरी जिले की रहने वाली है और ग्यारहवीं कक्षा में पढ़ती है।",
+    "title": "ग्रेटर नोएडा से कश्मीरी गेट बस में दरिंदगी",
+    "caption": "ग्रेटर नोएडा से कश्मीरी गेट तक सैंतालीस किलोमीटर तक चलती बस में नाबालिग से दरिंदगी का मामला सामने आया है। पुलिस ने ड्राइवर और कंडक्टर को गिरफ्तार कर लिया है।",
     "hashtags": [
       "GreaterNoida",
       "DelhiNews",
       "CrimeNews",
-      "UttarPradesh",
-      "BreakingNews",
-      "HindiNews"
+      "UPPolice",
+      "KashmereGate",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Indian police station exterior",
-      "police investigation India"
+      "police station India",
+      "Indian police investigation",
+      "bus interior India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of sexual exploitation/abuse, requiring careful handling.",
+    "flag_reason": "Content involves a minor as a victim of sexual exploitation/abuse, requiring manual review for sensitivity and protection.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
+        "query": "Indian police investigation",
         "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police patrol India",
+        "query": "police station India",
         "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38485963/pexels-photo-38485963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bus interior India",
+        "credit": "Niraj Yadav",
         "duration_sec": 5
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 11,
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "ankit_baliyan_murder_shooters_encounter",
-    "virality_score": 9,
-    "reason": "Major update on the high-profile Haryanvi singer murder case with police encounter of shooters.",
-    "region": "india",
-    "headline": "हरियाणवी सिंगर अंकित बालियान के दो हत्यारे पुलिस मुठभेड़ में ढेर, शामली में सुबह-सुबह यूपी पुलिस का बड़ा एक्शन",
-    "source_summary": "हरियाणवी सिंगर अंकित बालियान की हत्या में शामिल दो संदिग्ध बदमाशों को यूपी पुलिस ने मुठभेड़ में मार गिराया है. यह कार्रवाई सोमवार सुबह-सुबह शामली में हुई.",
-    "source_url": "https://ndtv.in/uttar-pradesh-news/haryanvi-singer-ankit-balyan-shooter-sumit-and-mohit-died-during-police-encounter-in-shamli-11979836#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 31 Aug 2026 11:57:10 +0530",
-    "hook": "हरियाणवी सिंगर अंकित बालियान के हत्यारे ढेर!",
-    "script_hi": "हरियाणवी सिंगर अंकित बालियान हत्याकांड में यूपी पुलिस ने बड़ा एक्शन लिया है। सोमवार सुबह शामली में हुई पुलिस मुठभेड़ में सिंगर के दो हत्यारे मारे गए।",
-    "tts_text_hi": "हरियाणवी सिंगर अंकित बालियान हत्याकांड में उत्तर प्रदेश पुलिस ने बड़ा एक्शन लिया है। सोमवार सुबह शामली में हुई पुलिस मुठभेड़ में सिंगर के दो हत्यारे मारे गए।",
-    "title": "हरियाणवी सिंगर अंकित बालियान के हत्यारे पुलिस मुठभेड़ में ढेर",
-    "caption": "हरियाणवी सिंगर अंकित बालियान की हत्या में शामिल दो संदिग्ध बदमाशों को यूपी पुलिस ने शामली में मुठभेड़ के दौरान ढेर कर दिया है।",
-    "hashtags": [
-      "#AnkitBaliyan",
-      "#UPPolice",
-      "#ShamliEncounter",
-      "#HaryanaSinger",
-      "#BreakingNews",
-      "#UttarPradesh"
-    ],
-    "visual_queries": [
-      "Indian police station building",
-      "UP police officers India",
-      "Shamli city street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7714315/7714315-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "UP police officers India",
-        "credit": "Kindel Media",
-        "source_duration_sec": 19,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "crime scene india",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station building",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802056/pexels-photo-17802056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Shamli city street India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police encounter india",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police operation india",
-        "credit": "Nishant Sharma",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481245/pexels-photo-10481245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gunfight crime investigation",
-        "credit": "cottonbro studio",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "हरियाणवी सिंगर अंकित बालियान के हत्यारे पुलिस मुठभेड़ में ढेर",
-        "caption": "हरियाणवी सिंगर अंकित बालियान की हत्या में शामिल दो संदिग्ध बदमाशों को यूपी पुलिस ने शामली में मुठभेड़ के दौरान ढेर कर दिया है।\n\n##AnkitBaliyan ##UPPolice ##ShamliEncounter ##HaryanaSinger ##BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "हरियाणवी सिंगर अंकित बालियान की हत्या में शामिल दो संदिग्ध बदमाशों को यूपी पुलिस ने शामली में मुठभेड़ के दौरान ढेर कर दिया है।\n\n##AnkitBaliyan ##UPPolice ##ShamliEncounter ##HaryanaSinger ##BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "हरियाणवी सिंगर अंकित बालियान की हत्या में शामिल दो संदिग्ध बदमाशों को यूपी पुलिस ने शामली में मुठभेड़ के दौरान ढेर कर दिया है।\n\n##AnkitBaliyan ##UPPolice ##ShamliEncounter ##HaryanaSinger ##BreakingNews"
-      },
-      "hashtags": [
-        "#AnkitBaliyan",
-        "#UPPolice",
-        "#ShamliEncounter",
-        "#HaryanaSinger",
-        "#BreakingNews"
-      ]
-    },
-    "audio_path": "audio/ankit_baliyan_murder_shooters_encounter.wav",
-    "audio_duration_sec": 11.4
-  },
-  {
-    "topic_label": "india_q1_gdp_growth_7_8_percent",
+    "topic_label": "kaushambi_firecracker_factory_blast",
     "virality_score": 8,
-    "reason": "Strong positive economic news with India's Q1 GDP growth hitting 7.8% amidst global tensions.",
+    "reason": "Major tragic accident with high death toll and dramatic visuals from UP.",
     "region": "india",
-    "headline": "जीडीपी: वित्त वर्ष 2027 की पहली तिमाही में अर्थव्यवस्था में 7.8 फीसदी की वृद्धि दर, राजकोषीय घाटा भी हुआ कम",
-    "source_summary": "भारत की अर्थव्यवस्था ने वित्त वर्ष 2027 की पहली तिमाही में 7.8 फीसदी की मजबूत वृद्धि दर्ज की है। अप्रैल-जुलाई के दौरान राजकोषीय घाटा भी घटकर 26.8 फीसदी पर आ गया, जो सरकार के वित्तीय प्रबंधन में सुधार का संकेत है।",
-    "source_url": "https://www.amarujala.com/business/business-diary/indian-economy-grows-7-8-in-q1-fy27-fiscal-deficit-narrows-2026-08-31",
+    "headline": "कौशाम्बी: पटाखा फैक्टरी में भीषण आग, धमाकों से दहला मनौरी बाजार, नौ की मौत, कई की हालत बेहद नाजुक",
+    "source_summary": "पिपरी थाना क्षेत्र के मनौरी बाजार में सोमवार दोपहर करीब 12 बजे एक पटाखा फैक्टरी में अचानक आग लगने से हड़कंप मच गया। आग लगते ही फैक्टरी में रखे पटाखों में एक के बाद एक तेज धमाके होने लगे।",
+    "source_url": "https://www.amarujala.com/uttar-pradesh/kaushambi/kaushambi-massive-fire-at-firecracker-factory-manauri-market-shaken-by-explosions-2026-08-31",
     "source_name": "Amar Ujala",
-    "published": "Mon, 31 Aug 2026 04:18:57 +0530",
-    "hook": "भारतीय अर्थव्यवस्था के मोर्चे पर बड़ी खुशखबरी!",
-    "script_hi": "भारतीय अर्थव्यवस्था ने वित्त वर्ष दो हज़ार सत्ताईस की पहली तिमाही में सात दशमलव आठ फीसदी की मजबूत वृद्धि दर दर्ज की है। इसके साथ ही अप्रैल से जुलाई के दौरान राजकोषीय घाटा भी घटकर छब्बीस दशमलव आठ फीसदी पर आ गया है, जो देश के मजबूत वित्तीय प्रबंधन को दर्शाता है।",
-    "tts_text_hi": "भारतीय अर्थव्यवस्था ने वित्त वर्ष दो हज़ार सत्ताईस की पहली तिमाही में सात दशमलव आठ फीसदी की मजबूत वृद्धि दर दर्ज की है। इसके साथ ही अप्रैल से जुलाई के दौरान राजकोषीय घाटा भी घटकर छब्बीस दशमलव आठ फीसदी पर आ गया है, जो देश के मजबूत वित्तीय प्रबंधन को दर्शाता है।",
-    "title": "भारतीय अर्थव्यवस्था में मजबूत वृद्धि",
-    "caption": "वित्त वर्ष 2027 की पहली तिमाही में भारत की जीडीपी वृद्धि दर 7.8% रही, राजकोषीय घाटे में भी आई कमी।",
+    "published": "Mon, 31 Aug 2026 05:39:26 +0530",
+    "hook": "कौशाम्बी में पटाखा फैक्टरी में भीषण आग, धमाकों से दहला बाजार!",
+    "script_hi": "उत्तर प्रदेश के कौशाम्बी में एक पटाखा फैक्टरी में भीषण आग लगने से नौ लोगों की मौत हो गई और कई लोग गंभीर रूप से घायल हैं। यह हादसा पिपरी थाना क्षेत्र के मनौरी बाजार में हुआ, जहां दोपहर के वक्त अचानक आग भड़क उठी। आग लगते ही फैक्टरी में रखे पटाखों में एक के बाद एक कई तेज धमाके हुए, जिससे पूरे इलाके में हड़कंप मच गया। घायलों को अस्पताल में भर्ती कराया गया है।",
+    "tts_text_hi": "उत्तर प्रदेश के कौशाम्बी में एक पटाखा फैक्टरी में भीषण आग लगने से नौ लोगों की मौत हो गई और कई लोग गंभीर रूप से घायल हैं। यह हादसा पिपरी थाना क्षेत्र के मनौरी बाजार में हुआ, जहां दोपहर के वक्त अचानक आग भड़क उठी। आग लगते ही फैक्टरी में रखे पटाखों में एक के बाद एक कई तेज धमाके हुए, जिससे पूरे इलाके में हड़कंप मच गया। घायलों को अस्पताल में भर्ती कराया गया है।",
+    "title": "कौशाम्बी पटाखा फैक्टरी अग्निकांड",
+    "caption": "कौशाम्बी के मनौरी बाजार में पटाखा फैक्टरी में भीषण आग और धमाके, नौ की मौत। #Kaushambi #FireAccident #BreakingNews #UttarPradesh",
     "hashtags": [
-      "GDP",
-      "IndianEconomy",
-      "FinanceNews",
-      "India",
-      "Economy"
+      "Kaushambi",
+      "FireAccident",
+      "BreakingNews",
+      "UttarPradesh",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Indian stock market growth India",
-      "Indian parliament building New Delhi",
-      "financial growth graph India"
+      "fire disaster India",
+      "smoke rising building India",
+      "police ambulance India",
+      "hospital emergency India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -211,143 +100,151 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7579943/7579943-hd_720_1366_25fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian stock market trading floor",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 19,
-        "duration_sec": 6
+        "query": "fire disaster India",
+        "credit": "vikesh zen",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14907355/pexels-photo-14907355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37730082/pexels-photo-37730082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian stock market growth India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.0
+        "query": "smoke rising building India",
+        "credit": "Muneeb Najar",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "financial growth graph India",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian stock market trading",
-        "credit": "Vito Goričan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "business growth charts concept",
-        "credit": "Atlantic Ambience",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8139402/pexels-photo-8139402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian rupee currency notes",
-        "credit": "DEV ROY",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern corporate office India",
-        "credit": "Jansher Chakkittammal",
-        "duration_sec": 4.0
+        "query": "hospital emergency India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "7.8% ग्रोथ और घटा घाटा: भारतीय अर्थव्यवस्था के लिए आई बड़ी खुशखबरी 📈",
-        "caption": "7.8% की जोरदार रफ्तार! 📈 वित्त वर्ष 2027 की पहली तिमाही में देश की अर्थव्यवस्था ने उम्मीद से कहीं बेहतर प्रदर्शन किया है। सिर्फ जीडीपी ही नहीं, बल्कि राजकोषीय घाटे के मोर्चे पर भी राहत भरी खबर सामने आई है।\n\nआखिर इस तरक्की के पीछे कौन से बड़े कारण हैं? पूरी कहानी देखें।\n\n#IndianEconomy #GDPGrowth #FinanceNews #BusinessNewsHindi #IndianEconomy2027"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "7.8% की रिकॉर्ड ग्रोथ रेट! 🇮🇳 वित्त वर्ष 2027 की पहली तिमाही में भारतीय अर्थव्यवस्था के आंकड़े देख विशेषज्ञों के चेहरे भी खिल गए हैं। राहत की बात यह है कि इस दौरान राजकोषीय घाटा भी कम हुआ है।\n\nदेश की इस आर्थिक छलांग के बारे में आपका क्या सोचना है? कमेंट में बताएं और शेयर करें।\n\n#IndianEconomy #GDPGrowth #FinanceNews #BusinessNewsHindi #IndianEconomy2027"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "भारतीय अर्थव्यवस्था के मोर्चे पर एक बहुत ही शानदार खबर सामने आई है। वित्त वर्ष 2027 की पहली तिमाही में देश की जीडीपी ग्रोथ रेट बढ़कर 7.8 फीसदी पर पहुंच गई है। 🚀\n\nमहत्वपूर्ण बात यह है कि इस मजबूत रफ्तार के साथ-साथ राजकोषीय घाटे में भी कमी दर्ज की गई है, जो देश की वित्तीय सेहत के लिए बेहद सकारात्मक संकेत है।\n\nवीडियो में देखिए इसके पूरे आंकड़े और जानिए क्या कहते हैं एक्सपर्ट्स।\n\n#IndianEconomy #GDPGrowth #FinanceNews #BusinessNewsHindi #IndianEconomy2027"
-      },
-      "hashtags": [
-        "IndianEconomy",
-        "GDPGrowth",
-        "FinanceNews",
-        "BusinessNewsHindi",
-        "IndianEconomy2027"
-      ]
-    },
-    "audio_path": "audio/india_q1_gdp_growth_7_8_percent.wav",
-    "audio_duration_sec": 20.4
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "us_iran_larak_island_strait_of_hormuz_strike",
+    "topic_label": "maharashtra_47_yr_old_mother_barefoot_marathon",
     "virality_score": 8,
-    "reason": "Major global escalation with US strikes on Iran's Larak Island affecting oil prices and markets.",
-    "region": "global",
-    "headline": "US and Iran trade strikes for first time in weeks",
-    "source_summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Mon, 31 Aug 2026 08:34:25 GMT",
-    "hook": "अमेरिका और ईरान के बीच फिर भड़की हिंसा!",
-    "script_hi": "अमेरिका और ईरान के बीच हफ्तों बाद फिर सैन्य टकराव हुआ है। होर्मुज जलडमरूमध्य के लारक द्वीप पर हुए इस अमेरिकी हमले में दो लोगों की मौत हो गई और दो अन्य घायल हो गए। जुलाई के अंत के बाद यह पहला ज्ञात अमेरिकी हमला है जिससे तनाव बढ़ गया है।",
-    "tts_text_hi": "अमेरिका और ईरान के बीच हफ्तों बाद फिर सैन्य टकराव हुआ है। होर्मुज जलडमरूमध्य के लारक द्वीप पर हुए इस अमेरिकी हमले में दो लोगों की मौत हो गई और दो अन्य घायल हो गए। जुलाई के अंत के बाद यह पहला ज्ञात अमेरिकी हमला है जिससे तनाव बढ़ गया है।",
-    "title": "US and Iran trade strikes near Strait of Hormuz",
-    "caption": "अमेरिका और ईरान के बीच हफ्तों बाद फिर भड़की हिंसा, होर्मुज जलडमरूमध्य के लारक द्वीप पर अमेरिकी हमले में दो लोगों की मौत।",
+    "reason": "Inspirational and emotional viral story of an impoverished mother running a marathon barefoot for her daughters.",
+    "region": "india",
+    "headline": "बेटियों के लिए नंगे पैर दौड़ी मां, 47 की उम्र में जीती मैराथन",
+    "source_summary": "महाराष्ट्र की 47 वर्षीय रमाबाई रणवीर ने बेटियों के बेहतर भविष्य के लिए संघर्ष करते हुए मैराथन में शानदार जीत हासिल की. साधारण साड़ी और चप्पलों के साथ दौड़ में उतरीं रमाबाई ने चप्पलें उतारकर नंगे पैर दौड़ लगाई और युवा धावकों को पीछे छोड़ दिया. अंबाजोगाई में खाना बनाने का काम करने वाली रमाबाई ने 3000 रुपये का पहला पुरस्कार जीता. उनकी मेहनत और जिद ने पूरे इलाके को प्रेरित किया.",
+    "source_url": "https://www.aajtak.in/short-videos/video/maharashtra-mother-ramabai-ranveer-wins-marathon-barefoot-while-working-as-cook-to-support-daughters-education-dreams-mmta-2633382-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T17:38:09+05:30",
+    "hook": "सैंतालीस साल की उम्र में नंगे पैर दौड़कर माँ ने जीत ली मैराथन!",
+    "script_hi": "महाराष्ट्र में सैंतालीस साल की रमाबाई रणवीर ने बेटियों के भविष्य के लिए संघर्ष करते हुए मैराथन में शानदार जीत हासिल की है। साधारण साड़ी और चप्पलों में दौड़ने उतरीं रमाबाई ने चप्पलें उतारकर नंगे पैर दौड़ लगाई और युवा धावकों को पीछे छोड़ दिया। अंबाजोगाई में खाना बनाने का काम करने वाली रमाबाई ने तीन हजार रुपये का पहला पुरस्कार अपने नाम किया है। उनकी इस मेहनत और जिद ने पूरे इलाके को प्रेरित किया है।",
+    "tts_text_hi": "महाराष्ट्र में सैंतालीस साल की रमाबाई रणवीर ने बेटियों के भविष्य के लिए संघर्ष करते हुए मैराथन में शानदार जीत हासिल की है। साधारण साड़ी और चप्पलों में दौड़ने उतरीं रमाबाई ने चप्पलें उतारकर नंगे पैर दौड़ लगाई और युवा धावकों को पीछे छोड़ दिया। अंबाजोगाई में खाना बनाने का काम करने वाली रमाबाई ने तीन हजार रुपये का पहला पुरस्कार अपने नाम किया है। उनकी इस मेहनत और जिद ने पूरे इलाके को प्रेरित किया है।",
+    "title": "बेटी के लिए नंगे पैर दौड़ी माँ, जीता मैराथन",
+    "caption": "महाराष्ट्र की सैंतालीस वर्षीय रमाबाई ने साबित कर दिया कि हौसलों के आगे उम्र और परिस्थितियां मायने नहीं रखतीं।",
     "hashtags": [
-      "USIran",
-      "StraitOfHormuz",
-      "BreakingNews",
-      "WorldNews",
-      "MiddleEast"
+      "#Marathon",
+      "#Inspiration",
+      "#Mother",
+      "#Maharashtra",
+      "#NewsIndia",
+      "#Running"
     ],
     "visual_queries": [
-      "US military warship ocean",
-      "Strait of Hormuz aerial view",
-      "Middle East military conflict"
+      "Indian woman running marathon",
+      "rural Indian mother smiling India",
+      "Indian village celebration India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13753320/pexels-photo-13753320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38011335/pexels-photo-38011335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US military warship ocean",
-        "credit": "Ben Libby",
-        "duration_sec": 5
+        "query": "Indian woman running marathon",
+        "credit": "CRISTIAN CAMILO  ESTRADA",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36359516/pexels-photo-36359516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7135161/pexels-photo-7135161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Middle East military conflict",
-        "credit": "Saifee Art",
-        "duration_sec": 5
+        "query": "rural Indian mother smiling India",
+        "credit": "Sunil Johnson",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29147812/pexels-photo-29147812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village celebration India",
+        "credit": "Jayesh Jagtap",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18233500/pexels-photo-18233500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "barefoot running outdoors",
+        "credit": "Dhenny Napitupulu",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32648867/pexels-photo-32648867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mature Indian woman working",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11959546/pexels-photo-11959546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village running race",
+        "credit": "Ragu Raja",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6293199/pexels-photo-6293199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mature woman running outdoors",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बेटी के लिए नंगे पैर दौड़ी माँ, जीता मैराथन",
+        "caption": "महाराष्ट्र की सैंतालीस वर्षीय रमाबाई ने साबित कर दिया कि हौसलों के आगे उम्र और परिस्थितियां मायने नहीं रखतीं।\n\n##Marathon ##Inspiration ##Mother ##Maharashtra ##NewsIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महाराष्ट्र की सैंतालीस वर्षीय रमाबाई ने साबित कर दिया कि हौसलों के आगे उम्र और परिस्थितियां मायने नहीं रखतीं।\n\n##Marathon ##Inspiration ##Mother ##Maharashtra ##NewsIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "महाराष्ट्र की सैंतालीस वर्षीय रमाबाई ने साबित कर दिया कि हौसलों के आगे उम्र और परिस्थितियां मायने नहीं रखतीं।\n\n##Marathon ##Inspiration ##Mother ##Maharashtra ##NewsIndia"
+      },
+      "hashtags": [
+        "#Marathon",
+        "#Inspiration",
+        "#Mother",
+        "#Maharashtra",
+        "#NewsIndia"
+      ]
+    },
+    "audio_path": "audio/maharashtra_47_yr_old_mother_barefoot_marathon.wav",
+    "audio_duration_sec": 28.61
   }
 ]
