@@ -1,8 +1,8 @@
-ready_labels: ['ias_divya_mittal_resignation_reasons', 'india_post_drone_delivery_launch', 'india_russia_s400_tech_transfer_production', 'swiss_rave_party_shooting_zurich_global']
+ready_labels: ['mohan_bhagwat_madison_square_speech', 'mumbai_woman_phone_run_over_boy', 'un_climate_chief_hindu_kush_warning']
 
-india_russia_s400_tech_transfer_production: SUCCESS -> video_path=videos/india_russia_s400_tech_transfer_production.mp4 dur=23.255215
-greater_noida_girl_murder_encounter: SKIPPED (not in ready set)
-ias_divya_mittal_resignation_reasons: SUCCESS -> video_path=videos/ias_divya_mittal_resignation_reasons.mp4 dur=22.589887
-indigo_flight_family_eating_food_viral_video: SKIPPED (not in ready set)
-india_post_drone_delivery_launch: SUCCESS -> video_path=videos/india_post_drone_delivery_launch.mp4 dur=24.589887
-swiss_rave_party_shooting_zurich_global: SUCCESS -> video_path=videos/swiss_rave_party_shooting_zurich_global.mp4 dur=26.689887
+sweeper_arriving_in_fortuner_viral: SKIPPED (not in ready set)
+mumbai_woman_phone_run_over_boy: SUCCESS -> video_path=videos/mumbai_woman_phone_run_over_boy.mp4 dur=28.089887
+indigo_flight_family_eating_food_viral: SKIPPED (not in ready set)
+un_climate_chief_hindu_kush_warning: SUCCESS -> video_path=videos/un_climate_chief_hindu_kush_warning.mp4 dur=32.659229
+mohan_bhagwat_madison_square_speech: SUCCESS -> video_path=videos/mohan_bhagwat_madison_square_speech.mp4 dur=32.72322
+greater_noida_yamuna_expressway_accident: SKIPPED (not in ready set)
