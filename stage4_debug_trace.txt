@@ -1,5 +1,9 @@
-ready_labels: ['maharashtra_47_yr_old_mother_barefoot_marathon']
+ready_labels: ['delhi_sir_voter_list_47_lakh_names_dropped', 'iran_president_appeals_pm_modi_end_war', 'jammu_chinese_manjha_retired_subedar_death', 'kaushambi_firecracker_factory_blast_11_dead']
 
-greater_noida_moving_bus_gang_rape: SKIPPED (not in ready set)
-kaushambi_firecracker_factory_blast: SKIPPED (not in ready set)
-maharashtra_47_yr_old_mother_barefoot_marathon: SUCCESS -> video_path=videos/maharashtra_47_yr_old_mother_barefoot_marathon.mp4 dur=36.489887
+air_india_dammam_delhi_bomb_scare_divert: SKIPPED (not in ready set)
+kaushambi_firecracker_factory_blast_11_dead: SUCCESS -> video_path=videos/kaushambi_firecracker_factory_blast_11_dead.mp4 dur=30.356553
+delhi_mumbai_expressway_mercedes_container_crash: SKIPPED (not in ready set)
+delhi_sir_voter_list_47_lakh_names_dropped: SUCCESS -> video_path=videos/delhi_sir_voter_list_47_lakh_names_dropped.mp4 dur=38.189887
+jammu_chinese_manjha_retired_subedar_death: SUCCESS -> video_path=videos/jammu_chinese_manjha_retired_subedar_death.mp4 dur=25.12322
+iran_president_appeals_pm_modi_end_war: SUCCESS -> video_path=videos/iran_president_appeals_pm_modi_end_war.mp4 dur=26.956553
+phonepe_offline_upi_feature_phone: SKIPPED (not in ready set)
