@@ -1,8 +1,7 @@
-ready_labels: ['ankit_baliyan_murder_shooters_encounter_up', 'kaushambi_firecracker_warehouse_blast', 'the_great_khali_car_accident_panipat', 'us_iran_larak_island_strike_global']
+ready_labels: ['china_mosquito_killer_machine_gadget', 'nepal_flood_bank_gold_recovery', 'tata_javelin_missile_deal_india', 'us_iran_strait_of_hormuz_strike_global']
 
-delhi_noida_sleeper_bus_gang_rape: SKIPPED (not in ready set)
-delhi_playschool_3_year_old_abuse: SKIPPED (not in ready set)
-the_great_khali_car_accident_panipat: SUCCESS -> video_path=videos/the_great_khali_car_accident_panipat.mp4 dur=30.175215
-ankit_baliyan_murder_shooters_encounter_up: SUCCESS -> video_path=videos/ankit_baliyan_murder_shooters_encounter_up.mp4 dur=26.556553
-kaushambi_firecracker_warehouse_blast: SUCCESS -> video_path=videos/kaushambi_firecracker_warehouse_blast.mp4 dur=26.689887
-us_iran_larak_island_strike_global: SUCCESS -> video_path=videos/us_iran_larak_island_strike_global.mp4 dur=26.924218
+nepal_flood_bank_gold_recovery: SUCCESS -> video_path=videos/nepal_flood_bank_gold_recovery.mp4 dur=31.889887
+noida_sleeper_bus_minor_gangrape: SKIPPED (not in ready set)
+tata_javelin_missile_deal_india: SUCCESS -> video_path=videos/tata_javelin_missile_deal_india.mp4 dur=30.058231
+us_iran_strait_of_hormuz_strike_global: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_strike_global.mp4 dur=23.836213
+china_mosquito_killer_machine_gadget: SUCCESS -> video_path=videos/china_mosquito_killer_machine_gadget.mp4 dur=25.289887
