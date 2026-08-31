@@ -1,7 +1,6 @@
-ready_labels: ['china_mosquito_killer_machine_gadget', 'nepal_flood_bank_gold_recovery', 'tata_javelin_missile_deal_india', 'us_iran_strait_of_hormuz_strike_global']
+ready_labels: ['ankit_baliyan_murder_shooters_encounter', 'india_q1_gdp_growth_7_8_percent']
 
-nepal_flood_bank_gold_recovery: SUCCESS -> video_path=videos/nepal_flood_bank_gold_recovery.mp4 dur=31.889887
-noida_sleeper_bus_minor_gangrape: SKIPPED (not in ready set)
-tata_javelin_missile_deal_india: SUCCESS -> video_path=videos/tata_javelin_missile_deal_india.mp4 dur=30.058231
-us_iran_strait_of_hormuz_strike_global: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_strike_global.mp4 dur=23.836213
-china_mosquito_killer_machine_gadget: SUCCESS -> video_path=videos/china_mosquito_killer_machine_gadget.mp4 dur=25.289887
+greater_noida_sleeper_bus_gangrape: SKIPPED (not in ready set)
+ankit_baliyan_murder_shooters_encounter: SUCCESS -> video_path=videos/ankit_baliyan_murder_shooters_encounter.mp4 dur=19.389887
+india_q1_gdp_growth_7_8_percent: SUCCESS -> video_path=videos/india_q1_gdp_growth_7_8_percent.mp4 dur=28.456553
+us_iran_larak_island_strait_of_hormuz_strike: SKIPPED (not in ready set)
