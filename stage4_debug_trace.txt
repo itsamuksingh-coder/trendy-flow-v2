@@ -1,7 +1,8 @@
-ready_labels: ['alka_lambas_father_house_burglary', 'madras_hc_former_judge_missing_nepal_floods', 'nepal_flash_flood_death_toll_788', 'sukesh_chandrasekhar_supreme_court_judge_threat_sentencing']
+ready_labels: ['nasa_roman_space_telescope_launch_global', 'odisha_snake_bite_revenge_hospital', 'shamli_ankit_baliyan_murder_encounter', 'vaibhav_suryavanshi_duleep_trophy_knock']
 
-nepal_flash_flood_death_toll_788: SUCCESS -> video_path=videos/nepal_flash_flood_death_toll_788.mp4 dur=25.889887
-ram_mandir_4_crore_check_bounce_3_rupees: SKIPPED (not in ready set)
-alka_lambas_father_house_burglary: SUCCESS -> video_path=videos/alka_lambas_father_house_burglary.mp4 dur=34.72322
-sukesh_chandrasekhar_supreme_court_judge_threat_sentencing: SUCCESS -> video_path=videos/sukesh_chandrasekhar_supreme_court_judge_threat_sentencing.mp4 dur=30.356553
-madras_hc_former_judge_missing_nepal_floods: SUCCESS -> video_path=videos/madras_hc_former_judge_missing_nepal_floods.mp4 dur=38.12322
+greater_noida_sleeper_bus_gang_rape: SKIPPED (not in ready set)
+gorakhpur_girl_water_tank_rescue: SKIPPED (not in ready set)
+shamli_ankit_baliyan_murder_encounter: SUCCESS -> video_path=videos/shamli_ankit_baliyan_murder_encounter.mp4 dur=31.089887
+odisha_snake_bite_revenge_hospital: SUCCESS -> video_path=videos/odisha_snake_bite_revenge_hospital.mp4 dur=34.424218
+nasa_roman_space_telescope_launch_global: SUCCESS -> video_path=videos/nasa_roman_space_telescope_launch_global.mp4 dur=29.62322
+vaibhav_suryavanshi_duleep_trophy_knock: SUCCESS -> video_path=videos/vaibhav_suryavanshi_duleep_trophy_knock.mp4 dur=35.689887
