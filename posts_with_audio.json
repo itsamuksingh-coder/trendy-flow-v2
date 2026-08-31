@@ -2,44 +2,68 @@
   {
     "topic_label": "lionel_messi_international_football_retirement",
     "virality_score": 10,
-    "reason": "Global football icon Lionel Messi announces retirement from international football.",
-    "region": "global",
-    "headline": "Messi retires from international football",
-    "source_summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-    "source_url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+    "reason": "Global football icon Lionel Messi announces retirement from international football after World Cup loss.",
+    "region": "india",
+    "headline": "मेसी ने इंटरनेशनल फुटबॉल से लिया संन्यास, अर्जेंटीना के लिए नहीं खेलेंगे",
+    "source_summary": "दुनिया के सबसे महान फुटबॉलरों में शुमार लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के बेहद रोमांचक फाइनल मुकाबले में स्पेन के हाथों मिली 1-0 की हार के साथ ही मेसी के अर्जेंटीना करियर का अंत हो गया.",
+    "source_url": "https://www.aajtak.in/sports/football/story/lionel-messi-retires-from-international-football-aksp-dskc-2633502-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T20:51:16+05:30",
     "hook": "लियोनेल मेसी ने इंटरनेशनल फुटबॉल को कहा अलविदा!",
-    "script_hi": "फुटबॉल जगत को एक बड़ा झटका लगा है। अर्जेंटीना के महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास की घोषणा कर दी है। मेसी ने कहा कि यह फैसला उनके लिए बेहद दर्दनाक था, लेकिन उन्हें समझ आ गया है कि अब सही समय आ गया है।",
-    "tts_text_hi": "फुटबॉल जगत को एक बड़ा झटका लगा है। अर्जेंटीना के महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास की घोषणा कर दी है। मेसी ने कहा कि यह फैसला उनके लिए बेहद दर्दनाक था, लेकिन उन्हें समझ आ गया है कि अब सही समय आ गया है।",
-    "title": "Lionel Messi retires from international football",
-    "caption": "अर्जेंटीना के महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है।",
+    "script_hi": "फुटबॉल जगत से आई एक बहुत बड़ी खबर. महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के रोमांचक फाइनल में स्पेन के हाथों एक-शून्य से हार के बाद, उनके अर्जेंटीना के लिए खेलने के सफर का अंत हो गया है.",
+    "tts_text_hi": "फुटबॉल जगत से आई एक बहुत बड़ी खबर. महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के रोमांचक फाइनल में स्पेन के हाथों एक-शून्य से हार के बाद, उनके अर्जेंटीना के लिए खेलने के सफर का अंत हो गया है.",
+    "title": "लियोनेल मेसी का इंटरनेशनल फुटबॉल से संन्यास",
+    "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।",
     "hashtags": [
-      "#LionelMessi",
-      "#Football",
-      "#Argentina",
-      "#SportsNews",
-      "#BreakingNews"
+      "LionelMessi",
+      "ArgentinaFootball",
+      "FootballNews",
+      "MessiRetirement",
+      "WorldCup"
     ],
     "visual_queries": [
-      "sad football player",
-      "soccer stadium empty",
-      "argentina flag stadium"
+      "football stadium Argentina",
+      "sad football player India"
     ],
     "named_person": "Lionel Messi",
     "named_person_hi": "लियोनेल मेसी",
     "secondary_persons": [],
-    "est_duration_sec": 27.0,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38282744/16256165_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "sad soccer player",
+        "credit": "Bibek Adhikari Chhetri",
+        "source_duration_sec": 17,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "downloaded_assets/person_d74f9fa962.jpg",
         "source": "wikimedia",
         "query": "Lionel Messi",
         "credit": "Wikipedia",
-        "duration_sec": 5
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24205283/pexels-photo-24205283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "football stadium Argentina",
+        "credit": "Luis Muñoz",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30158894/pexels-photo-30158894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sad football player India",
+        "credit": "Mohd Atir",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
@@ -47,127 +71,188 @@
         "source": "pexels",
         "query": "sad football player",
         "credit": "Alfredo Dacosta",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_a664079e56.jpg",
-        "source": "wikimedia_commons",
-        "query": "soccer stadium empty",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
+        "url": "https://images.pexels.com/photos/7991905/pexels-photo-7991905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "athlete crying defeat",
+        "credit": "Annushka  Ahuja",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e9a69c78a8.jpg",
-        "source": "wikimedia_commons",
-        "query": "argentina flag stadium",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
+        "url": "https://images.pexels.com/photos/38728253/pexels-photo-38728253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "professional soccer match",
+        "credit": "Mateo Franciosi",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "लियोनेल मेसी ने इंटरनेशनल फुटबॉल को कहा अलविदा! 🐐⚽",
-        "caption": "सपनों का सफर हुआ खत्म या शुरुआत? लियोनेल मेसी के इस अचानक फैसले ने पूरी दुनिया के फुटबॉल फैंस को सन्न कर दिया है। 🇦🇷💔\n\nआखिर क्यों लिया मेसी ने यह बड़ा कदम? \n\nपूरी कहानी देखें।\n\n#LionelMessi #MessiRetirement #FootballNews #Argentina #Soccer"
+        "title": "लियोनेल मेसी का इंटरनेशनल फुटबॉल से संन्यास",
+        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
       },
       "instagram": {
         "title": null,
-        "caption": "फुटबॉल का एक युग खत्म! 🐐 लियोनेल मेसी के इस ऐतिहासिक फैसले ने पूरी दुनिया को हैरान कर दिया है। 💔\n\nजानें इसके पीछे की पूरी वजह। पूरी कहानी देखें और शेयर करें!\n\n#LionelMessi #MessiRetirement #FootballNews #Argentina #Soccer"
+        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
       },
       "facebook": {
         "title": null,
-        "caption": "फुटबॉल के मैदान का सबसे चमकता सितारा अब इंटरनेशनल जर्सी में कभी नजर नहीं आएगा। लियोनेल मेसी का यह चौंकाने वाला फैसला हर खेल प्रेमी के दिल को तोड़ गया है। 🇦🇷⚽\n\nआखिर किन हालातों में मेसी को लेना पड़ा यह फैसला? जानिए पूरी कहानी हमारे साथ।\n\n#LionelMessi #MessiRetirement #FootballNews #Argentina #Soccer"
+        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
       },
       "hashtags": [
         "LionelMessi",
-        "MessiRetirement",
+        "ArgentinaFootball",
         "FootballNews",
-        "Argentina",
-        "Soccer"
+        "MessiRetirement",
+        "WorldCup"
       ]
     },
     "audio_path": "audio/lionel_messi_international_football_retirement.wav",
-    "audio_duration_sec": 16.17
+    "audio_duration_sec": 18.37
   },
   {
-    "topic_label": "pm_modi_putin_bishkek_sco_meeting",
+    "topic_label": "greater_noida_sleeper_bus_gang_rape",
     "virality_score": 9,
-    "reason": "PM Modi meets Vladimir Putin at the SCO summit in Bishkek, discussing key global issues.",
+    "reason": "Horrific 47km moving sleeper bus gang-rape in Greater Noida sparking national outrage and Nirbhaya comparisons.",
     "region": "india",
-    "headline": "&#039;अंतहीन युद्ध से युद्ध के अंत की ओर बढ़ें&#039;, बिश्केक में पुतिन से मिलकर बोले मोदी",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी और रूसी राष्ट्रपति व्लादिमीर पुतिन ने बिश्केक में शंघाई सहयोग संगठन (SCO) शिखर सम्मेलन से पहले आधे घंटे से अधिक समय तक बैठक की। दोनों नेताओं ने द्विपक्षीय संबंधों, व्यापार, आर्थिक सहयोग, यूक्रेन युद्ध और क्षेत्रीय कनेक्टिविटी जैसे महत्वपूर्ण मुद्दों पर चर्चा की.",
-    "source_url": "https://www.aajtak.in/world/story/modi-putin-bishkek-sco-summit-india-russia-relations-ukraine-war-economic-cooperation-ntcpvp-dskc-2633497-2026-08-31?utm_source=rssfeed",
+    "headline": "स्लीपर बस में नाबालिग छात्रा के साथ दरिंदगी की कहानी, याद आई दिल्ली की निर्भया",
+    "source_summary": "ग्रेटर नोएडा के परी चौक से दिल्ली के कश्मीरी गेट के बीच चलती बस में एक नाबालिग लड़की से गैंगरेप का आरोप है. करीब 47 KM तक बस चलती रही. उसमें लड़की के साथ रेप होता रहा. लेकिन कहीं भी बस की चेकिंग नहीं हुई. पढ़ें इस मामले की पूरी कहानी.",
+    "source_url": "https://www.aajtak.in/crime/big-crime/story/greater-noida-delhi-bus-gangrape-minor-pari-chowk-kashmiri-gate-pvzs-rpti-2633496-2026-08-31?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-31T20:41:51+05:30",
-    "hook": "रूस-यूक्रेन युद्ध पर प्रधानमंत्री मोदी का बड़ा बयान!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी और रूसी राष्ट्रपति व्लादिमीर पुतिन ने बिश्केक में शंघाई सहयोग संगठन शिखर सम्मेलन से पहले महत्वपूर्ण बैठक की। दोनों नेताओं ने आधे घंटे से अधिक समय तक चर्चा की और अंतहीन युद्ध से युद्ध के अंत की ओर बढ़ने का आह्वान किया।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी और रूसी राष्ट्रपति व्लादिमीर पुतिन ने बिश्केक में शंघाई सहयोग संगठन शिखर सम्मेलन से पहले महत्वपूर्ण बैठक की। दोनों नेताओं ने आधे घंटे से अधिक समय तक चर्चा की और अंतहीन युद्ध से युद्ध के अंत की ओर बढ़ने का आह्वान किया।",
-    "title": "बिश्केक में पुतिन से मिले पीएम मोदी",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी और रूसी राष्ट्रपति व्लादिमीर पुतिन ने बिश्केक में शंघाई सहयोग संगठन शिखर सम्मेलन से पहले बैठक की।",
+    "published": "2026-08-31T20:46:30+05:30",
+    "hook": "चलती बस में दरिंदगी! दिल्ली जैसी खौफनाक वारदात ने फिर दहलाया दिल।",
+    "script_hi": "Greater Noida के Pari Chowk से Delhi के Kashmiri Gate के बीच चलती स्लीपर बस में एक नाबालिग छात्रा के साथ गैंगरेप की दर्दनाक घटना सामने आई है। आरोप है कि सैंतालीस किलोमीटर तक बस चलती रही औरवान्छित लोग वारदात को अंजाम देते रहे, लेकिन कहीं भी बस की चेकिंग नहीं हुई। इस खौफनाक घटना ने दिल्ली की निर्भया की यादें ताजा कर दी हैं।",
+    "tts_text_hi": "ग्रेटर नोएडा के परी चौक से दिल्ली के कश्मीरी गेट के बीच चलती स्लीपर बस में एक नाबालिग छात्रा के साथ गैंगरेप की दर्दनाक घटना सामने आई है। आरोप है कि सैंतालीस किलोमीटर तक बस चलती रही और लोग वारदात को अंजाम देते रहे, लेकिन कहीं भी बस की चेकिंग नहीं हुई। इस खौफनाक घटना ने दिल्ली की निर्भया की यादें ताजा कर दी हैं।",
+    "title": "Greater Noida Bus Gangrape",
+    "caption": "ग्रेटर नोएडा से दिल्ली जाने वाली स्लीपर बस में नाबालिग छात्रा के साथ चलती बस में गैंगरेप का सनसनीखेज मामला सामने आया है। सैंतालीस किलोमीटर तक बस चलती रही लेकिन पुलिस चेकिंग नहीं हुई।",
     "hashtags": [
-      "NarendraModi",
-      "VladimirPutin",
-      "SCOSummit",
-      "IndiaRussia",
-      "Bishkek",
-      "UkraineWar"
+      "GreaterNoida",
+      "DelhiCrime",
+      "BusGangrape",
+      "NirbhayaCase",
+      "IndiaNews",
+      "CrimeNews"
     ],
     "visual_queries": [
-      "SCO summit meeting India",
-      "Bishkek Kyrgyzstan cityscape India",
-      "world leaders handshake India"
+      "Indian highway night bus India",
+      "police checkpoint India road",
+      "police investigation India street"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [
-      "Vladimir Putin"
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Content involves a minor as a victim of sexual exploitation/abuse.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13033459/pexels-photo-13033459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian highway night bus India",
+        "credit": "ÀniL",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12492185/pexels-photo-12492185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police patrol India night",
+        "credit": "Josue Fuentes",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India street",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
     ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "nepal_flood_bank_50_crore_gold_recovery",
+    "virality_score": 9,
+    "reason": "Stunning visuals and report of recovering 50 crore worth of gold from a flood-submerged bank in Nepal.",
+    "region": "india",
+    "headline": "नेपाल बाढ़ डूबा बैंक तो 50 करोड़ का सोना निकला",
+    "source_summary": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली-ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब 8 घंटे चले राहत अभियान में बैंक से लगभग 50 करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद, चांदी और अन्य कीमती सामान सुरक्षित बरामद किया गया।",
+    "source_url": "https://www.aajtak.in/short-videos/video/nepal-flood-bhotekoshi-river-disaster-50-crore-gold-recovered-from-bank-silver-cash-nuwakot-trishuli-mmtc-2633173-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T13:38:08+05:30",
+    "hook": "नेपाल की बाढ़ में डूबा बैंक, अंदर से निकला पचास करोड़ का सोना!",
+    "script_hi": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब आठ घंटे चले राहत अभियान में बैंक से लगभग पचास करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद और अन्य कीमती सामान सुरक्षित बरामद कर लिया गया।",
+    "tts_text_hi": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब आठ घंटे चले राहत अभियान में बैंक से लगभग पचास करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद और अन्य कीमती सामान सुरक्षित बरामद कर लिया गया।",
+    "title": "नेपाल बाढ़: डूबे हुए बैंक से निकला पचास करोड़ का सोना",
+    "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।",
+    "hashtags": [
+      "NepalFlood",
+      "GoldRecovery",
+      "BreakingNews",
+      "NepalNews",
+      "FloodUpdate"
+    ],
+    "visual_queries": [
+      "Bhote Koshi river flood Nepal",
+      "bank building flooded water India",
+      "bank vault gold rescue operation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "downloaded_assets/person_b358b4a556.jpg",
-        "source": "wikimedia",
-        "query": "Narendra Modi",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_df946c243d.jpg",
-        "source": "wikimedia",
-        "query": "Vladimir Putin",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_c1949a44c8.jpg",
-        "source": "wikimedia_commons",
-        "query": "SCO summit meeting India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12716236/pexels-photo-12716236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18322777/pexels-photo-18322777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Bishkek Kyrgyzstan cityscape India",
-        "credit": "Erlan Shatmanov",
+        "query": "Bhote Koshi river flood Nepal",
+        "credit": "Nishant Rana",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33984560/pexels-photo-33984560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international diplomatic meeting",
-        "credit": "Sayed Masoumi",
+        "query": "bank building flooded water India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/25913209/pexels-photo-25913209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bank vault gold rescue operation India",
+        "credit": "Orhan Pergel",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27398545/pexels-photo-27398545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "muddy flood disaster aftermath",
+        "credit": "Emmanuel ( Super Manny)  Rodriguez",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13970482/pexels-photo-13970482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bank building exterior india",
+        "credit": "Saikat  Das",
         "duration_sec": 5
       }
     ],
@@ -176,319 +261,90 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पुतिन से मिलकर पीएम मोदी ने रूस-यूक्रेन युद्ध पर क्या कहा? 🇷🇺🇺🇦",
-        "caption": "रूस-यूक्रेन युद्ध पर प्रधानमंत्री मोदी का बड़ा बयान! 🇮🇳\n\nबिश्केक में रूसी राष्ट्रपति पुतिन से मुलाकात के दौरान पीएम मोदी ने कहा कि अब वक्त 'अंतहीन युद्ध' से 'युद्ध के अंत' की तरफ बढ़ने का है। भारत ने एक बार फिर शांति की वकालत की है।\n\nआपको क्या लगता है, क्या भारत इस जंग को रोकने में अहम भूमिका निभा सकता है? कमेंट में बताएं।\n\n#PMModi #VladimirPutin #RussiaUkraineWar #Bishkek #GlobalPeace"
+        "title": "नेपाल बाढ़: डूबे हुए बैंक से निकला पचास करोड़ का सोना",
+        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
       },
       "instagram": {
         "title": null,
-        "caption": "रूस-यूक्रेन युद्ध पर प्रधानमंत्री मोदी का बड़ा बयान! ⚡\n\nबिश्केक में पुतिन से आमने-सामने की मुलाकात में पीएम मोदी ने साफ कहा कि अब दुनिया को अंतहीन युद्ध से युद्ध के अंत की ओर बढ़ना चाहिए। शांति की ये बात कितनी असरदार साबित होगी?\n\nपूरी बात जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PMModi #VladimirPutin #RussiaUkraineWar #Bishkek #GlobalPeace"
+        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
       },
       "facebook": {
         "title": null,
-        "caption": "रूस-यूक्रेन युद्ध पर प्रधानमंत्री मोदी का बड़ा बयान! 🇷🇺🇺🇦\n\nबिश्केक में रूसी राष्ट्रपति व्लादिमीर पुतिन से मुलाकात के दौरान पीएम मोदी ने एक बहुत बड़ा संदेश दिया है। उन्होंने कहा कि समय आ गया है जब हमें 'अंतहीन युद्ध' के रास्ते को छोड़कर 'युद्ध के अंत' की दिशा में आगे बढ़ना चाहिए। भारत की इस कूटनीति पर आपकी क्या राय है?\n\nअपनी राय कमेंट में साझा करें और वीडियो पूरा देखें।\n\n#PMModi #VladimirPutin #RussiaUkraineWar #Bishkek #GlobalPeace"
+        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
       },
       "hashtags": [
-        "PMModi",
-        "VladimirPutin",
-        "RussiaUkraineWar",
-        "Bishkek",
-        "GlobalPeace"
+        "NepalFlood",
+        "GoldRecovery",
+        "BreakingNews",
+        "NepalNews",
+        "FloodUpdate"
       ]
     },
-    "audio_path": "audio/pm_modi_putin_bishkek_sco_meeting.wav",
-    "audio_duration_sec": 18.9
+    "audio_path": "audio/nepal_flood_bank_50_crore_gold_recovery.wav",
+    "audio_duration_sec": 24.36
   },
   {
-    "topic_label": "greater_noida_sleeper_bus_gang_rape",
-    "virality_score": 9,
-    "reason": "Horrific gang-rape of a minor on a moving sleeper bus between Greater Noida and Delhi sparks massive outrage.",
+    "topic_label": "phonepe_offline_upi_123pay_launch",
+    "virality_score": 7,
+    "reason": "High utility tech news about PhonePe launching offline UPI payments for millions of feature phone users.",
     "region": "india",
-    "headline": "स्लीपर बस में नाबालिग छात्रा के साथ दरिंदगी, याद आई निर्भया",
-    "source_summary": "ग्रेटर नोएडा के परी चौक से दिल्ली के कश्मीरी गेट के बीच चलती बस में एक नाबालिग लड़की से गैंगरेप का आरोप है. करीब 47 KM तक बस चलती रही. उसमें लड़की के साथ रेप होता रहा. लेकिन कहीं भी बस की चेकिंग नहीं हुई. पढ़ें इस मामले की पूरी कहानी.",
-    "source_url": "https://www.aajtak.in/crime/big-crime/story/greater-noida-delhi-bus-gangrape-minor-pari-chowk-kashmiri-gate-pvzs-rpti-2633496-2026-08-31?utm_source=rssfeed",
+    "headline": "बिना इंटरनेट होगा UPI पेमेंट! PhonePe ने लॉन्च किया 123Pay",
+    "source_summary": "स्मार्टफोन और इंटरनेट के बिना UPI पेमेंट करना अब आसान है. PhonePe ने फीचर फोन यूजर्स के लिए 123UPI सर्विस लॉन्च की है, जिससे बिना इंटरनेट पैसे भेजने, रिसीव करने और बैंक बैलेंस चेक करने जैसी सुविधाएं मिलेंगी.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/phonepe-123upi-upi-payments-without-internet-feature-phone-prym-dskc-2633471-2026-08-31?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-31T20:46:30+05:30",
-    "hook": "चलती बस में दरिंदगी, याद आया निर्भया कांड!",
-    "script_hi": "ग्रेटर नोएडा में एक नाबालिग छात्रा के साथ चलती स्लीपर बस में घिनौना अपराध हुआ है। परी चौक से कश्मीरी गेट के बीच करीब सैंतालीस किलोमीटर तक बस चलती रही औरवान्दों में हैवानियत होती रही, लेकिन किसी ने चेकिंग नहीं की।",
-    "tts_text_hi": "ग्रेटर नोएडा में एक नाबालिग छात्रा के साथ चलती स्लीपर बस में घिनौना अपराध हुआ है। परी चौक से कश्मीरी गेट के बीच करीब सैंतालीस किलोमीटर तक बस चलती रही और वाहन में हैवानियत होती रही, लेकिन किसी ने चेकिंग नहीं की।",
-    "title": "Greater Noida Bus Gangrape Case",
-    "script_caption": "ग्रेटर नोएडा में चलती बस में नाबालिग से दरिंदगी, सैंतालीस किलोमीटर तक होता रहा अत्याचार।",
+    "published": "2026-08-31T19:55:04+05:30",
+    "hook": "बिना इंटरनेट के अब होगा यूपीआई पेमेंट!",
+    "script_hi": "बिना इंटरनेट और स्मार्टफोन के अब यूपीआई पेमेंट करना हुआ बेहद आसान। फोनपे ने फीचर फोन यूजर्स के लिए वन टू थ्री पे सर्विस भारत में लॉन्च कर दी है। इस नई सुविधा की मदद से बिना इंटरनेट पैसे भेजना, पैसे रिसीव करना और बैंक बैलेंस चेक करना मुमकिन होगा।",
+    "tts_text_hi": "बिना इंटरनेट और स्मार्टफोन के अब यूपीआई पेमेंट करना हुआ बेहद आसान। फोनपे ने फीचर फोन यूजर्स के लिए वन टू थ्री पे सर्विस भारत में लॉन्च कर दी है। इस नई सुविधा की मदद से बिना इंटरनेट पैसे भेजना, पैसे रिसीव करना और बैंक बैलेंस चेक करना मुमकिन होगा।",
+    "title": "बिना इंटरनेट होगा UPI पेमेंट",
+    "caption": "बिना इंटरनेट और स्मार्टफोन के अब फीचर फोन से भी होगा UPI पेमेंट, PhonePe ने लॉन्च की नई सर्विस।",
     "hashtags": [
-      "GreaterNoida",
-      "CrimeNews",
-      "IndiaNews",
-      "Shameful",
-      "JusticeForVictims"
+      "PhonePe",
+      "UPI",
+      "TechNews",
+      "DigitalIndia",
+      "Banking"
     ],
     "visual_queries": [
-      "Greater Noida highway India",
-      "sleeper bus exterior India",
-      "police investigation India"
+      "Indian feature phone screen",
+      "man using mobile phone India",
+      "digital payment India shopping"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor victim of sexual assault/exploitation, requiring careful handling to ensure privacy and sensitivity.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/27366958/12126149_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/36717013/15561775_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "sleeper bus exterior India",
-        "credit": "Naisal MM",
-        "source_duration_sec": 31,
+        "query": "Indian feature phone screen",
+        "credit": "Mahadi Hassan Molla",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_ecb05cf290.jpg",
-        "source": "wikimedia_commons",
-        "query": "Greater Noida highway India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/18453078/pexels-photo-18453078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "man using mobile phone India",
+        "credit": "Iqbal farooz",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_55e633f10f.jpg",
-        "source": "wikimedia_commons",
-        "query": "police investigation India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/6994295/pexels-photo-6994295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital payment India shopping",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
     "timeline_covered_sec": 16,
     "review_status": "pending_review"
-  },
-  {
-    "topic_label": "kaushambi_firecracker_factory_blast",
-    "virality_score": 8,
-    "reason": "Massive explosion at a firecracker factory in Kaushambi claims 11 lives, causing widespread shock.",
-    "region": "india",
-    "headline": "कौशांबी में पटाखा गोदाम में भीषण धमाका, 11 की मौत, कई घायल",
-    "source_summary": "प्रयागराज के पूरामुफ्ती थाना क्षेत्र स्थित मोहम्मदपुर गांव में एक पटाखा फैक्ट्री में अचानक भीषण विस्फोट हो गया. धमाका इतना जोरदार था कि आसपास के कई मकान भी इसकी चपेट में आ गए और 11 लोगों की मौत हो गई.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/massive-explosion-at-firecracker-warehouse-in-prayagraj-kaushambi-border-village-causes-panic-lclam-strc-2633147-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T13:10:36+05:30",
-    "hook": "उत्तर प्रदेश के कौशांबी में बड़ा धमाका!",
-    "script_hi": "उत्तर प्रदेश के कौशांबी में एक पटाखा गोदाम में भीषण विस्फोट हुआ। इस भयानक हादसे में ग्यारह लोगों की मौत हो गई और कई लोग गंभीर रूप से घायल हो गए। धमाका इतना जोरदार था कि आसपास के कई मकान भी इसकी चपेट में आ गए। राहत और बचाव कार्य जारी है।",
-    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में एक पटाखा गोदाम में भीषण विस्फोट हुआ। इस भयानक हादसे में ग्यारह लोगों की मौत हो गई और कई लोग गंभीर रूप से घायल हो गए। धमाका इतना जोरदार था कि आसपास के कई मकान भी इसकी चपेट में आ गए। राहत और बचाव कार्य जारी है।",
-    "title": "कौशांबी में पटाखा गोदाम में भीषण धमाका",
-    "caption": "उत्तर प्रदेश के कौशांबी में पटाखा फैक्ट्री में हुए भीषण विस्फोट में ग्यारह लोगों की मौत, कई मकान क्षतिग्रस्त।",
-    "hashtags": [
-      "KaushambiBlast",
-      "BreakingNews",
-      "UttarPradesh",
-      "Accident",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "fireworks factory India",
-      "damaged building ruins India",
-      "rescue operation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14154965/pexels-photo-14154965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fireworks factory India",
-        "credit": "Soubhagya Maharana",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_5010e9b6cc.jpg",
-        "source": "wikimedia_commons",
-        "query": "damaged building ruins India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue operation India",
-        "credit": "Arto Suraj",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "industrial disaster aftermath",
-        "credit": "akın  akdağ",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_fb6304e341.jpg",
-        "source": "wikimedia_commons",
-        "query": "emergency rescue team india",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "collapsed building rubble",
-        "credit": "Dhong Wang",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38841752/pexels-photo-38841752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smoke rising from explosion",
-        "credit": "Karol Tomsia",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "कौशांबी के पटाखा गोदाम में भीषण धमाका, 11 की मौत 💥",
-        "caption": "उत्तर प्रदेश के कौशांबी में बड़ा धमाका! 🚨\n\nएक अवैध पटाखा गोदाम में हुए भीषण विस्फोट से 11 लोगों की दर्दनाक मौत हो गई और कई लोग गंभीर रूप से घायल हैं। राहत और बचाव कार्य जारी है।\n\nपूरी कहानी वीडियो में देखें।\n\n#KaushambiBlast #UPNews #BreakingNews #FirecrackerFactory #KaushambiNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "उत्तर प्रदेश के कौशांबी में बड़ा धमाका! 🚨\n\nपटाखा गोदाम में हुए इस भयानक हादसे में 11 लोगों की जान चली गई। प्रशासन मौके पर मौजूद है।\n\nपूरी खबर के लिए वीडियो पूरा देखें और अपनों को सतर्क करें।\n\n#KaushambiBlast #UPNews #BreakingNews #FirecrackerFactory #KaushambiNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "उत्तर प्रदेश के कौशांबी में बड़ा धमाका! 🚨\n\nजिले के एक अवैध पटाखा गोदाम में अचानक हुए भीषण विस्फोट से 11 लोगों की मौके पर ही मौत हो गई, जबकि कई अन्य गंभीर रूप से घायल बताए जा रहे हैं। धमाका इतना तेज था कि आसपास के इलाकों में भी दहशत फैल गई।\n\nप्रशासन और पुलिस की टीमें राहत और बचाव कार्य में जुटी हैं। पूरी कहानी वीडियो में देखें।\n\n#KaushambiBlast #UPNews #BreakingNews #FirecrackerFactory #KaushambiNews"
-      },
-      "hashtags": [
-        "KaushambiBlast",
-        "UPNews",
-        "BreakingNews",
-        "FirecrackerFactory",
-        "KaushambiNews"
-      ]
-    },
-    "audio_path": "audio/kaushambi_firecracker_factory_blast.wav",
-    "audio_duration_sec": 18.56
-  },
-  {
-    "topic_label": "delhi_voter_list_47_lakh_names_dropped",
-    "virality_score": 8,
-    "reason": "Major electoral revision in Delhi drops nearly 47.7 million names from the draft voter list.",
-    "region": "india",
-    "headline": "Delhi SIR में  47.7 लाख वोटरों के कट गए नाम, जानिए घर बैठे कैसे चेक करें अपना वोट",
-    "source_summary": "दिल्ली के मुख्य निर्वाचन अधिकारी (CEO) ने स्पेशल इंटेंसिव रिवीजन (SIR) के बाद नई ड्राफ्ट वोटर लिस्ट सोमवार को जारी कर दी. राजधानी के करीब 1.45 करोड़ मतदाताओं में से 47.7 लाख लोगों के नाम इस शुरुआती सूची से बाहर हो गए हैं. जानिए, वोटर लिस्ट में नाम चेक करने के 3 आसान तरीके और 30 सितंबर तक फॉर्म 6 भरकर नाम वापस जुड़वाने की पूरी प्रक्रिया.",
-    "source_url": "https://ndtv.in/utility-news/delhi-sir-election-commission-releases-draft-voter-list-2026-45-lakhs-names-missing-check-your-name-online-11982185#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 31 Aug 2026 17:41:56 +0530",
-    "hook": "दिल्ली में सैंतालीस लाख से ज्यादा वोटरों के नाम कटे!",
-    "script_hi": "दिल्ली में स्पेशल इंटेंसिव रिवीजन के बाद नई ड्राफ्ट वोटर लिस्ट जारी कर दी गई है। राजधानी के लगभग एक करोड़ पैंतालीस लाख मतदाताओं में से सैंतालीस लाख सत्तर हजार लोगों के नाम इस शुरुआती सूची से बाहर हो गए हैं। आप तीस सितंबर तक फॉर्म छह भरकर अपना नाम वापस जुड़वा सकते हैं। घर बैठे वोटर लिस्ट में नाम चेक करने के तीन आसान तरीके हैं।",
-    "tts_text_hi": "दिल्ली में स्पेशल इंटेंसिव रिवीजन के बाद नई ड्राफ्ट वोटर लिस्ट जारी कर दी गई है। राजधानी के लगभग एक करोड़ पैंतालीस लाख मतदाताओं में से सैंतालीस लाख सत्तर हजार लोगों के नाम इस शुरुआती सूची से बाहर हो गए हैं। आप तीस सितंबर तक फॉर्म छह भरकर अपना नाम वापस जुड़वा सकते हैं। घर बैठे वोटर लिस्ट में नाम चेक करने के तीन आसान तरीके हैं।",
-    "title": "Delhi Voter List Update: सैंतालीस लाख वोटरों के नाम कटे",
-    "caption": "दिल्ली में वोटर लिस्ट से कटे सैंतालीस लाख से ज्यादा नाम, जानिए कैसे चेक करें अपना नाम और जुड़वाने की प्रक्रिया।",
-    "hashtags": [
-      "DelhiNews",
-      "VoterList",
-      "ElectionCommission",
-      "DelhiSIR",
-      "NewsUpdates"
-    ],
-    "visual_queries": [
-      "Delhi India election office",
-      "Indian voter list document",
-      "India citizen checking smartphone"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35112206/14875273_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Delhi India election office",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17784874/pexels-photo-17784874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India citizen checking smartphone",
-        "credit": "Iqbal farooz",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7652513/pexels-photo-7652513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person looking at smartphone",
-        "credit": "Thirdman",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5301697/pexels-photo-5301697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person checking smartphone",
-        "credit": "Armin  Rimoldi",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4964774/pexels-photo-4964774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people checking document india",
-        "credit": "Ketut Subiyanto",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9800606/pexels-photo-9800606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person using laptop india",
-        "credit": "jagan jijo",
-        "duration_sec": 4.8
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दिल्ली में 47.7 लाख वोटरों के नाम कटे! क्या लिस्ट से गायब है आपका नाम? 🗳️",
-        "caption": "दिल्ली में सैंतालीस लाख से ज्यादा वोटरों के नाम वोटर लिस्ट से गायब हो गए हैं। 😱\n\nइतनी बड़ी संख्या में नाम कटने से हर तरफ हड़कंप मच गया है। अगर आपको भी शक है, तो घर बैठे सिर्फ दो मिनट में चेक कर सकते हैं कि आपकी वोट लिस्ट में है या नहीं।\n\nपूरी प्रक्रिया जानिए और अभी चेक करें। 🔍\n\n#DelhiVoterList #DelhiNews #VoterID #ElectionCommission #DelhiSIR"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दिल्ली में सैंतालीस लाख से ज्यादा वोटरों के नाम कटे! 🚨\n\nइतनी बड़ी संख्या में नाम हटने से लोग हैरान हैं। क्या आपका भी नाम इस लिस्ट से गायब तो नहीं? घर बैठे आसानी से चेक करने का पूरा तरीका यहां देखिए।\n\nवीडियो को अपने दोस्तों और परिवार के साथ जरूर शेयर करें ताकि किसी का वोट न छूटे। 📲\n\n#DelhiVoterList #DelhiNews #VoterID #ElectionCommission #DelhiSIR"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दिल्ली में सैंतालीस लाख से ज्यादा वोटरों के नाम वोटर लिस्ट से गायब हो चुके हैं। 📉\n\nचुनाव से ठीक पहले इतनी बड़ी संख्या में नाम कटना एक बड़ा सवाल खड़ा करता है। क्या आपका या आपके परिवार का नाम भी इस फेरबदल में कट गया है? घर बैठे मोबाइल से ही तुरंत चेक करने का सही तरीका देखिए।\n\nपूरी जानकारी के लिए वीडियो पूरा देखें और कमेंट में बताएं कि आपको इस पर क्या लगता है। 💬\n\n#DelhiVoterList #DelhiNews #VoterID #ElectionCommission #DelhiSIR"
-      },
-      "hashtags": [
-        "DelhiVoterList",
-        "DelhiNews",
-        "VoterID",
-        "ElectionCommission",
-        "DelhiSIR"
-      ]
-    },
-    "audio_path": "audio/delhi_voter_list_47_lakh_names_dropped.wav",
-    "audio_duration_sec": 25.48
   }
 ]
