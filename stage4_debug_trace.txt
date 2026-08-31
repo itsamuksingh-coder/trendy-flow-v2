@@ -1,4 +1,7 @@
-ready_labels: ['pm_modi_putin_bishkek_meeting']
+ready_labels: ['delhi_voter_list_47_lakh_names_dropped', 'kaushambi_firecracker_factory_blast', 'lionel_messi_international_football_retirement', 'pm_modi_putin_bishkek_sco_meeting']
 
-noida_sleeper_bus_gangrape: SKIPPED (not in ready set)
-pm_modi_putin_bishkek_meeting: SUCCESS -> video_path=videos/pm_modi_putin_bishkek_meeting.mp4 dur=24.256553
+lionel_messi_international_football_retirement: SUCCESS -> video_path=videos/lionel_messi_international_football_retirement.mp4 dur=24.156553
+pm_modi_putin_bishkek_sco_meeting: SUCCESS -> video_path=videos/pm_modi_putin_bishkek_sco_meeting.mp4 dur=26.856553
+greater_noida_sleeper_bus_gang_rape: SKIPPED (not in ready set)
+kaushambi_firecracker_factory_blast: SUCCESS -> video_path=videos/kaushambi_firecracker_factory_blast.mp4 dur=26.456553
+delhi_voter_list_47_lakh_names_dropped: SUCCESS -> video_path=videos/delhi_voter_list_47_lakh_names_dropped.mp4 dur=33.456553
