@@ -1,6 +1,7 @@
-ready_labels: ['haryanvi_singer_ankit_baliyan_murder_encounter_shamli', 'mumbai_woman_phone_suv_run_over_boy', 'wb_border_25_crore_gold_seizure']
+ready_labels: ['alka_lambas_father_house_burglary', 'madras_hc_former_judge_missing_nepal_floods', 'nepal_flash_flood_death_toll_788', 'sukesh_chandrasekhar_supreme_court_judge_threat_sentencing']
 
-haryanvi_singer_ankit_baliyan_murder_encounter_shamli: SUCCESS -> video_path=videos/haryanvi_singer_ankit_baliyan_murder_encounter_shamli.mp4 dur=33.556553
-wb_border_25_crore_gold_seizure: SUCCESS -> video_path=videos/wb_border_25_crore_gold_seizure.mp4 dur=30.156553
-mumbai_woman_phone_suv_run_over_boy: SUCCESS -> video_path=videos/mumbai_woman_phone_suv_run_over_boy.mp4 dur=30.42322
-ram_mandir_4_crore_check_bounce: SKIPPED (not in ready set)
+nepal_flash_flood_death_toll_788: SUCCESS -> video_path=videos/nepal_flash_flood_death_toll_788.mp4 dur=25.889887
+ram_mandir_4_crore_check_bounce_3_rupees: SKIPPED (not in ready set)
+alka_lambas_father_house_burglary: SUCCESS -> video_path=videos/alka_lambas_father_house_burglary.mp4 dur=34.72322
+sukesh_chandrasekhar_supreme_court_judge_threat_sentencing: SUCCESS -> video_path=videos/sukesh_chandrasekhar_supreme_court_judge_threat_sentencing.mp4 dur=30.356553
+madras_hc_former_judge_missing_nepal_floods: SUCCESS -> video_path=videos/madras_hc_former_judge_missing_nepal_floods.mp4 dur=38.12322
