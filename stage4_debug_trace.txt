@@ -1,7 +1,7 @@
-ready_labels: ['chitrakoot_mandakini_flood_tulsidas_statue', 'jaipur_neet_pg_exam_blackout_protest', 'us_iran_conflict_larak_island_strike']
+ready_labels: ['haryanvi_singer_ankit_baliyan_murder_encounter', 'sco_summit_bishkek_modi_putin_jinping', 'vaibhav_suryavanshi_doulp_trophy_drd']
 
-rajat_dalal_thar_road_rage: SKIPPED (not in ready set)
-indigo_flight_family_eating_thepla: SKIPPED (not in ready set)
-jaipur_neet_pg_exam_blackout_protest: SUCCESS -> video_path=videos/jaipur_neet_pg_exam_blackout_protest.mp4 dur=28.62322
-us_iran_conflict_larak_island_strike: SUCCESS -> video_path=videos/us_iran_conflict_larak_island_strike.mp4 dur=25.356553
-chitrakoot_mandakini_flood_tulsidas_statue: SUCCESS -> video_path=videos/chitrakoot_mandakini_flood_tulsidas_statue.mp4 dur=28.789887
+haryanvi_singer_ankit_baliyan_murder_encounter: SUCCESS -> video_path=videos/haryanvi_singer_ankit_baliyan_murder_encounter.mp4 dur=32.752222
+rahul_gandhi_haldwani_purification_fir: SKIPPED (not in ready set)
+sco_summit_bishkek_modi_putin_jinping: SUCCESS -> video_path=videos/sco_summit_bishkek_modi_putin_jinping.mp4 dur=27.189887
+bhopal_honor_killing_interfaith_marriage: SKIPPED (not in ready set)
+vaibhav_suryavanshi_doulp_trophy_drd: SUCCESS -> video_path=videos/vaibhav_suryavanshi_doulp_trophy_drd.mp4 dur=24.741224
