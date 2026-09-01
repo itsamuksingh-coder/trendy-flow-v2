@@ -1,5 +1,8 @@
-ready_labels: ['mumbai_cng_png_price_hike', 'russian_army_indians_casualty_update']
+ready_labels: ['janmashtami_2026_rare_confluence', 'lionel_messi_retirement', 'mirzapur_movie_hype', 'vande_bharat_surat_udaipur']
 
-russian_army_indians_casualty_update: SUCCESS -> video_path=videos/russian_army_indians_casualty_update.mp4 dur=24.356553
-air_india_express_bomb_threat_emergency_landing: SKIPPED (not in ready set)
-mumbai_cng_png_price_hike: SUCCESS -> video_path=videos/mumbai_cng_png_price_hike.mp4 dur=33.089887
+delhi_bus_gangrape_case: SKIPPED (not in ready set)
+kaushambi_firecracker_blast: SKIPPED (not in ready set)
+lionel_messi_retirement: SUCCESS -> video_path=videos/lionel_messi_retirement.mp4 dur=21.722222
+janmashtami_2026_rare_confluence: SUCCESS -> video_path=videos/janmashtami_2026_rare_confluence.mp4 dur=22.556553
+mirzapur_movie_hype: SUCCESS -> video_path=videos/mirzapur_movie_hype.mp4 dur=21.62322
+vande_bharat_surat_udaipur: SUCCESS -> video_path=videos/vande_bharat_surat_udaipur.mp4 dur=23.42322
