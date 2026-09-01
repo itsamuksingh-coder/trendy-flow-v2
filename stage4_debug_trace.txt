@@ -1,8 +1,9 @@
-ready_labels: ['badshah_isha_rikhi_divorce_5_months', 'mamata_banerjee_niece_bristy_mukherjee_suicide', 'pm_modi_7_8_percent_gdp_swadeshi_appeal', 'robot_vacuum_cleaner_extramarital_affair_espionage', 'sco_summit_pakistan_pm_cropped_photo_controversy']
+ready_labels: ['air_india_express_bomb_threat_ahmedabad', 'ias_divya_mittal_resignation_emotional_villagers', 'india_t20_squad_sanju_samson_return', 'mumbai_car_hit_and_run_8_yr_old_boy', 'pakistan_sco_photo_crop_controversy', 'sarnath_unesco_world_heritage_site_india', 'sikar_tourism_beats_jaipur_rajasthan']
 
-pm_modi_7_8_percent_gdp_swadeshi_appeal: SUCCESS -> video_path=videos/pm_modi_7_8_percent_gdp_swadeshi_appeal.mp4 dur=28.156553
-greater_noida_delhi_moving_bus_gangrape: SKIPPED (not in ready set)
-mamata_banerjee_niece_bristy_mukherjee_suicide: SUCCESS -> video_path=videos/mamata_banerjee_niece_bristy_mukherjee_suicide.mp4 dur=21.026213
-robot_vacuum_cleaner_extramarital_affair_espionage: SUCCESS -> video_path=videos/robot_vacuum_cleaner_extramarital_affair_espionage.mp4 dur=36.02322
-sco_summit_pakistan_pm_cropped_photo_controversy: SUCCESS -> video_path=videos/sco_summit_pakistan_pm_cropped_photo_controversy.mp4 dur=30.500227
-badshah_isha_rikhi_divorce_5_months: SUCCESS -> video_path=videos/badshah_isha_rikhi_divorce_5_months.mp4 dur=27.189887
+india_t20_squad_sanju_samson_return: SUCCESS -> video_path=videos/india_t20_squad_sanju_samson_return.mp4 dur=30.989887
+pakistan_sco_photo_crop_controversy: SUCCESS -> video_path=videos/pakistan_sco_photo_crop_controversy.mp4 dur=20.051224
+ias_divya_mittal_resignation_emotional_villagers: SUCCESS -> video_path=videos/ias_divya_mittal_resignation_emotional_villagers.mp4 dur=27.458231
+mumbai_car_hit_and_run_8_yr_old_boy: SUCCESS -> video_path=videos/mumbai_car_hit_and_run_8_yr_old_boy.mp4 dur=36.630227
+air_india_express_bomb_threat_ahmedabad: SUCCESS -> video_path=videos/air_india_express_bomb_threat_ahmedabad.mp4 dur=25.356553
+sikar_tourism_beats_jaipur_rajasthan: SUCCESS -> video_path=videos/sikar_tourism_beats_jaipur_rajasthan.mp4 dur=26.204218
+sarnath_unesco_world_heritage_site_india: SUCCESS -> video_path=videos/sarnath_unesco_world_heritage_site_india.mp4 dur=32.450227
