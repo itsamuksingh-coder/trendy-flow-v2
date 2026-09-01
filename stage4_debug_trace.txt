@@ -1,9 +1,8 @@
-ready_labels: ['modi_jinping_putin_sco_meeting', 'neet_protest_fir_quashed', 'onion_price_relief_delhi']
+ready_labels: ['badshah_isha_rikhi_divorce_5_months', 'mamata_banerjee_niece_bristy_mukherjee_suicide', 'pm_modi_7_8_percent_gdp_swadeshi_appeal', 'robot_vacuum_cleaner_extramarital_affair_espionage', 'sco_summit_pakistan_pm_cropped_photo_controversy']
 
-neet_protest_fir_quashed: SUCCESS -> video_path=videos/neet_protest_fir_quashed.mp4 dur=26.989887
-mumbai_hit_and_run_boy: SKIPPED (not in ready set)
-mamata_banerjee_niece_death: SKIPPED (not in ready set)
-school_kids_dangerous_pillar_climb: SKIPPED (not in ready set)
-tupac_shakur_murder_conviction: SKIPPED (not in ready set)
-onion_price_relief_delhi: SUCCESS -> video_path=videos/onion_price_relief_delhi.mp4 dur=30.689887
-modi_jinping_putin_sco_meeting: SUCCESS -> video_path=videos/modi_jinping_putin_sco_meeting.mp4 dur=33.056553
+pm_modi_7_8_percent_gdp_swadeshi_appeal: SUCCESS -> video_path=videos/pm_modi_7_8_percent_gdp_swadeshi_appeal.mp4 dur=28.156553
+greater_noida_delhi_moving_bus_gangrape: SKIPPED (not in ready set)
+mamata_banerjee_niece_bristy_mukherjee_suicide: SUCCESS -> video_path=videos/mamata_banerjee_niece_bristy_mukherjee_suicide.mp4 dur=21.026213
+robot_vacuum_cleaner_extramarital_affair_espionage: SUCCESS -> video_path=videos/robot_vacuum_cleaner_extramarital_affair_espionage.mp4 dur=36.02322
+sco_summit_pakistan_pm_cropped_photo_controversy: SUCCESS -> video_path=videos/sco_summit_pakistan_pm_cropped_photo_controversy.mp4 dur=30.500227
+badshah_isha_rikhi_divorce_5_months: SUCCESS -> video_path=videos/badshah_isha_rikhi_divorce_5_months.mp4 dur=27.189887
