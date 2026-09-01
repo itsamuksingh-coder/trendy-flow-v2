@@ -1,494 +1,391 @@
 [
   {
-    "topic_label": "delhi_bus_gangrape_case",
-    "virality_score": 10,
-    "reason": "Highly sensitive and recent crime story with high public outrage and emotional impact.",
-    "region": "india",
-    "headline": "दिल्ली नाबालिग गैंगरेप केस: रोते हुए बोली आरोपी की मां- &#039;मेरा बेटा...&#039;",
-    "source_summary": "दिल्ली-NCR में नाबालिग लड़की से कथित गैंगरेप के मामले में गिरफ्तार बस चालक कुलदीप की मां ने अपने बेटे को निर्दोष बताया है. वहीं, पुलिस के मुताबिक 4 अगस्त की रात चलती स्लीपर बस में ड्राइवर कुलदीप और कंडक्टर संदीप ने 16 साल की लड़की से रेप किया था.",
-    "source_url": "https://www.aajtak.in/india/news/story/delhi-bus-rape-accused-driver-kuldeep-mother-claims-innocence-ntc-apdy-dskc-2633593-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T06:06:45+05:30",
-    "hook": "दिल्ली गैंगरेप केस में आरोपी की मां का बड़ा बयान सामने आया है।",
-    "script_hi": "दिल्ली में नाबालिग के साथ हुए गैंगरेप मामले ने पूरे देश को हिलाकर रख दिया है। अब इस केस में आरोपी बस ड्राइवर कुलदीप की मां का बयान आया है। उन्होंने अपने बेटे को बेगुनाह बताया है। पुलिस के मुताबिक चार अगस्त की रात एक चलती स्लीपर बस में ड्राइवर कुलदीप और कंडक्टर संदीप ने सोलह साल की लड़की के साथ दरिंदगी की थी।",
-    "tts_text_hi": "दिल्ली में नाबालिग के साथ हुए गैंगरेप मामले ने पूरे देश को हिलाकर रख दिया है। अब इस केस में आरोपी बस ड्राइवर कुलदीप की मां का बयान आया है। उन्होंने अपने बेटे को बेगुनाह बताया है। पुलिस के मुताबिक चार अगस्त की रात एक चलती स्लीपर बस में ड्राइवर कुलदीप और कंडक्टर संदीप ने सोलह साल की लड़की के साथ दरिंदगी की थी।",
-    "title": "दिल्ली गैंगरेप केस: आरोपी की मां का बयान",
-    "caption": "दिल्ली में नाबालिग से गैंगरेप मामले में आरोपी की मां ने दी सफाई। पुलिस ने दो आरोपियों को किया है गिरफ्तार।",
-    "hashtags": [
-      "DelhiNews",
-      "CrimeNews",
-      "JusticeForMinor",
-      "DelhiPolice",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "India court building exterior",
-      "India police station entrance",
-      "Indian bus on highway",
-      "grieving woman silhouette"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of a crime, requires careful handling to avoid exploitation.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_7547e1b420.png",
-        "source": "wikimedia_commons",
-        "query": "India court building exterior",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street",
-        "credit": "Umang & Meet",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_a3fa1356dd.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian bus on highway",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8861577/pexels-photo-8861577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "grieving woman silhouette",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "kaushambi_firecracker_blast",
+    "topic_label": "pnb_fake_currency_saharanpur",
     "virality_score": 9,
-    "reason": "Dramatic incident with a high death toll and visual appeal regarding the bulldozer action.",
+    "reason": "High shock value and financial impact; massive scale of fake notes in a national bank vault.",
     "region": "india",
-    "headline": "कौशांबी पटाखा फैक्ट्री में 11 मौतें... आरोपी के गोदाम पर चला बुलडोजर",
-    "source_summary": "Kaushambi Blast Case: कौशांबी पटाखा फैक्ट्री ब्लास्ट के बाद प्रशासन का बड़ा बुलडोजर एक्शन, मुख्य आरोपी मोहम्मद आदिल के गोदाम पर चला बुलडोजर. हादसे में 11 लोगों की मौत और 5 घायल हैं. CM योगी ने मृतकों के परिजनों को 2-2 लाख और घायलों को 50-50 हजार रुपये की सहायता का ऐलान किया है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kaushambi-firecracker-blast-case-bulldozer-action-against-main-accused-mohammad-adil-warehouse-lcln-strc-2633536-2026-08-31?utm_source=rssfeed",
+    "headline": "इस बैंक में नकली नोटों का पहाड़! 4.36 लाख गायब, 4 अफसर सस्पेंड",
+    "source_summary": "सहारनपुर के घंटाघर स्थिति पीएनबी बैंक की करेंसी चेस्ट में ऑडिट के दौरान 7.40 करोड़ रुपये की कथित जाली करेंसी मिलने और 4.36 लाख रुपये की कैश शॉर्टेज से हड़कंप मच गया है. मामले में नोडल अधिकारी अरुण कुमार चौबे की शिकायत पर बैंक के चार कर्मचारियों के खिलाफ एफआईआर दर्ज की गई है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/pnb-fake-currency-saharanpur-branch-bank-audit-missing-huse-cash-lclam-strc-2633642-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-31T22:13:22+05:30",
-    "hook": "कौशांबी में पटाखा फैक्ट्री धमाके के बाद आरोपी पर योगी सरकार का कड़ा एक्शन",
-    "script_hi": "कौशांबी पटाखा फैक्ट्री ब्लास्ट में ग्यारह लोगों की मौत के बाद आरोपी मोहम्मद आदिल के गोदाम पर बुलडोजर चला दिया गया है। मुख्यमंत्री योगी आदित्यनाथ ने मृतकों के परिजनों को दो-दो लाख और घायलों को पचास-पचास हजार रुपये की सहायता देने का ऐलान किया है। हादसे में पांच लोग घायल भी हुए हैं जिनका इलाज चल रहा है।",
-    "tts_text_hi": "कौशांबी पटाखा फैक्ट्री ब्लास्ट में ग्यारह लोगों की मौत के बाद आरोपी मोहम्मद आदिल के गोदाम पर बुलडोजर चला दिया गया है। मुख्यमंत्री योगी आदित्यनाथ ने मृतकों के परिजनों को दो-दो लाख और घायलों को पचास-पचास हजार रुपये की सहायता देने का ऐलान किया है। हादसे में पांच लोग घायल भी हुए हैं जिनका इलाज चल रहा है।",
-    "title": "कौशांबी ब्लास्ट: आरोपी के गोदाम पर चला बुलडोजर",
-    "caption": "कौशांबी पटाखा फैक्ट्री हादसे के बाद प्रशासन का सख्त एक्शन, मुख्य आरोपी के गोदाम को किया गया ध्वस्त।",
+    "published": "2026-09-01T08:56:03+05:30",
+    "hook": "बैंक में नकली नोटों का अंबार! सहारनपुर पीएनबी में बड़ा घोटाला सामने आया है।",
+    "script_hi": "सहारनपुर के घंटाघर स्थित पीएनबी बैंक की करेंसी चेस्ट में सात करोड़ चालीस लाख रुपये के नकली नोट मिले हैं। साथ ही चार लाख छत्तीस हजार रुपये की नकदी भी गायब है। इस मामले में चार अधिकारियों को सस्पेंड कर उनके खिलाफ एफआईआर दर्ज की गई है।",
+    "tts_text_hi": "सहारनपुर के घंटाघर स्थित पंजाब नेशनल बैंक की करेंसी चेस्ट में सात करोड़ चालीस लाख रुपये के नकली नोट मिले हैं। साथ ही चार लाख छत्तीस हजार रुपये की नकदी भी गायब पाई गई है। ऑडिट के दौरान हुए इस खुलासे से हड़कंप मच गया है। मामले में नोडल अधिकारी की शिकायत पर बैंक के चार कर्मचारियों के खिलाफ एफआईआर दर्ज की गई है और उन्हें सस्पेंड कर दिया गया है।",
+    "title": "सहारनपुर पीएनबी में नकली नोटों का खेल",
+    "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।",
     "hashtags": [
-      "Kaushambi",
-      "Blast",
-      "YogiAdityanath",
-      "BulldozerAction",
-      "News",
-      "UttarPradesh",
+      "Saharanpur",
+      "PNB",
+      "FakeCurrency",
+      "BankingFraud",
+      "HindiNews",
       "CrimeNews"
     ],
     "visual_queries": [
-      "smoke rising from explosion site India",
-      "demolition bulldozer at work India",
-      "Yogi Adityanath India",
-      "hospital medical treatment India"
+      "Indian bank branch interior",
+      "Indian currency notes stack",
+      "Police investigation India",
+      "Official document stamp"
     ],
-    "named_person": "Yogi Adityanath",
-    "named_person_hi": "योगी आदित्यनाथ",
+    "named_person": "Arun Kumar Chaubey",
+    "named_person_hi": "अरुण कुमार चौबे",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the specific Kaushambi blast site and the actual bulldozer operation; generic stock footage would misrepresent the specific incident.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "योगी आदित्यनाथ",
+        "text": "अरुण कुमार चौबे",
         "source": "fallback",
-        "query": "Yogi Adityanath",
+        "query": "Arun Kumar Chaubey",
         "duration_sec": 4.0
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "demolition bulldozer at work India",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 32,
+        "query": "Police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32632486/pexels-photo-32632486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12685323/pexels-photo-12685323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "smoke rising from explosion site India",
-        "credit": "Mauricio  Krupka Buendia",
+        "query": "Indian bank branch interior",
+        "credit": "Kübra Aydın",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35332792/pexels-photo-35332792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8576783/pexels-photo-8576783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "demolition heavy machinery",
-        "credit": "Szcze hoo",
+        "query": "Indian currency notes stack",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31499386/pexels-photo-31499386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6358834/pexels-photo-6358834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hospital medical treatment India",
-        "credit": "Adarsh Mp",
+        "query": "Official document stamp",
+        "credit": "Anna Tarazevich",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
     "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सहारनपुर पीएनबी में नकली नोटों का खेल",
+        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
+      },
+      "hashtags": [
+        "Saharanpur",
+        "PNB",
+        "FakeCurrency",
+        "BankingFraud",
+        "HindiNews"
+      ]
+    },
+    "audio_path": "audio/pnb_fake_currency_saharanpur.wav",
+    "audio_duration_sec": 26.71,
+    "video_path": "videos/pnb_fake_currency_saharanpur.mp4",
+    "video_duration_sec": 34.77
+  },
+  {
+    "topic_label": "delhi_bus_gangrape",
+    "virality_score": 9,
+    "reason": "Extremely high public outrage and emotional weight; critical news that demands attention.",
+    "region": "india",
+    "headline": "दिल्ली फिर शर्मसार, स्लीपर बस में छात्रा से गैंगरेप",
+    "source_summary": "देश की राजधानी दिल्ली से एक बेहद ही दिल दहला देने वाली और शर्मसार कर देने वाली वारदात सामने आई है. दिल्ली के कश्मीरी गेट जैसे व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर 16 साल की एक नाबालिग छात्रा के साथ सामूहिक दुष्कर्म यानी गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/delhi-gang-rape-case-on-moving-bus-driver-and-conductor-arrested-vdot-ytvd-2633266-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T23:12:03+05:30",
+    "hook": "दिल्ली के कश्मीरी गेट में एक नाबालिग छात्रा के साथ हैवानियत की हदें पार हो गईं।",
+    "script_hi": "दिल्ली फिर शर्मसार हुई है। कश्मीरी गेट इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ स*क्सुअल असॉल्ट और गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
+    "tts_text_hi": "दिल्ली फिर शर्मसार हुई है। कश्मीरी गेट इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ सेक्सुअल असॉल्ट और गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
+    "title": "दिल्ली के कश्मीरी गेट में नाबालिग से गैंगरेप",
+    "caption": "दिल्ली के कश्मीरी गेट में नाबालिग छात्रा के साथ स्लीपर बस में गैंगरेप की शर्मनाक घटना, पुलिस ने शुरू की जांच।",
+    "hashtags": [
+      "DelhiCrime",
+      "DelhiNews",
+      "KashmereGate",
+      "JusticeForMinor",
+      "CrimeAgainstWomen",
+      "LatestNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "India police investigation scene",
+      "Delhi city street view",
+      "bus parked on Indian road",
+      "grief mood concept"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves a minor as a victim of sexual abuse, which requires careful handling according to safety guidelines.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police investigation scene",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi city street view",
+        "credit": "Roman Saienko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37841463/pexels-photo-37841463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bus parked on Indian road",
+        "credit": "Abhishek  Royal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11930016/pexels-photo-11930016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi street night",
+        "credit": "Kuldeep Rajora",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "lionel_messi_retirement",
-    "virality_score": 9,
-    "reason": "Global sporting icon announcing retirement is a massive news event with worldwide interest.",
+    "topic_label": "kaushambi_firecracker_factory_blast_encounter",
+    "virality_score": 8,
+    "reason": "Combines a tragic disaster with a dramatic police encounter of the primary accused; strong visual potential.",
     "region": "india",
-    "headline": "मेसी का वर्ल्ड कप फाइनल में हार के बाद बड़ा फैसला",
-    "source_summary": "लियोनेल मेसी ने अर्जेंटीना की राष्ट्रीय टीम से अंतरराष्ट्रीय फुटबॉल को अलविदा कहने का ऐलान किया है. भावुक सोशल मीडिया पोस्ट में उन्होंने बताया कि विश्व कप फाइनल में स्पेन से हार के बाद ही उनके मन में यह फैसला आया था. पिता के निधन के बाद उनका निर्णय और मजबूत हो गया. मेसी ने प्रशंसकों, परिवार, कोच और साथियों का शुक्रिया अदा किया और कहा कि टीम को बाहर से समर्थन देंगे.",
-    "source_url": "https://www.aajtak.in/short-videos/video/lionel-messi-announces-international-retirement-after-world-cup-final-defeat-and-father-loss-in-emotional-post-mmta-2633519-2026-08-31?utm_source=rssfeed",
+    "headline": "भागेगा तो बचेगा नहीं! 11 मौतों के जिम्मेदार का पुलिस ने किया हाफ एनकाउंटर",
+    "source_summary": "यूपी के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले के मुख्य आरोपी नौशाद अली को पुलिस ने एनकाउंटर के बाद गिरफ्तार कर लिया है. पुलिस के मुताबिक, मुठभेड़ में नौशाद अली के पैर में गोली लगी, जिसके बाद उसे घायल हालत में अस्पताल भेजा गया.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kaushambi-firecracker-factory-blast-main-accused-naushad-ali-encounter-up-police-ntc-agkp-rpti-2633617-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-31T22:08:04+05:30",
-    "hook": "लियोनेल मेसी का फुटबॉल से संन्यास, फैंस को लगा बड़ा झटका!",
-    "script_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल को अलविदा कह दिया है। विश्व कप फाइनल में स्पेन से हार और पिता के निधन के बाद उन्होंने यह भावुक फैसला लिया है। मेसी ने कहा कि अब वह टीम का बाहर से समर्थन करेंगे।",
-    "tts_text_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल को अलविदा कह दिया है। विश्व कप फाइनल में स्पेन से हार और पिता के निधन के बाद उन्होंने यह भावुक फैसला लिया है। मेसी ने कहा कि अब वह टीम का बाहर से समर्थन करेंगे।",
-    "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास",
-    "caption": "अर्जेंटीना के दिग्गज खिलाड़ी लियोनेल मेसी ने लिया अंतरराष्ट्रीय फुटबॉल से संन्यास का बड़ा फैसला।",
+    "published": "2026-09-01T08:04:05+05:30",
+    "hook": "उत्तर प्रदेश के कौशांबी में ग्यारह लोगों की जान लेने वाले मुख्य आरोपी नौशाद अली का हुआ एनकाउंटर।",
+    "script_hi": "उत्तर प्रदेश के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले में पुलिस ने बड़ी कार्रवाई की है। हादसे में ग्यारह लोगों की जान लेने के मुख्य आरोपी नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार कर लिया। एनकाउंटर के दौरान नौशाद के पैर में गोली लगी है, जिसके बाद उसे अस्पताल में भर्ती कराया गया।",
+    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले में पुलिस ने बड़ी कार्रवाई की है। हादसे में ग्यारह लोगों की जान लेने के मुख्य आरोपी नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार कर लिया। एनकाउंटर के दौरान नौशाद के पैर में गोली लगी है, जिसके बाद उसे अस्पताल में भर्ती कराया गया।",
+    "title": "कौशांबी पटाखा फैक्ट्री विस्फोट का मुख्य आरोपी गिरफ्तार",
+    "caption": "कौशांबी में पटाखा फैक्ट्री हादसे के आरोपी का एनकाउंटर, पुलिस ने मुख्य आरोपी नौशाद अली को किया गिरफ्तार।",
     "hashtags": [
-      "LionelMessi",
-      "Football",
-      "Argentina",
-      "Retirement",
-      "SportsNews",
-      "Messi",
-      "FIFA",
+      "Kaushambi",
+      "UttarPradesh",
+      "Encounter",
+      "CrimeNews",
+      "BreakingNews",
+      "UPPolice"
+    ],
+    "visual_queries": [
+      "Indian police investigation site",
+      "Indian police officers standing",
+      "Hospital building exterior India",
+      "Indian police car with siren"
+    ],
+    "named_person": "Naushad Ali",
+    "named_person_hi": "नौशाद अली",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific criminal encounter incident in Kaushambi; generic B-roll will not accurately represent the specific event footage required for news credibility.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "नौशाद अली",
+        "source": "fallback",
+        "query": "Naushad Ali",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police barricade",
+        "credit": "Sonika Agarwal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police officers standing",
+        "credit": "Devansh Bose",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hospital building exterior India",
+        "credit": "Uvesh Gogda",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38910526/pexels-photo-38910526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police car with siren",
+        "credit": "Anderson Alves",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "badshah_isha_rikhi_divorce",
+    "virality_score": 8,
+    "reason": "High celebrity interest and entertainment value; quick impact on mass social media consumption.",
+    "region": "india",
+    "headline": "5 महीने में टूटी बादशाह की दूसरी शादी, तलाक का किया ऐलान",
+    "source_summary": "Badshah And Isha Rikhi Divorce: सिंगर और रैपर बादशाह ने पत्नी ईशा रिखी संग तलाक का ऐलान कर दिया है. बादशाह और ईशा ने सोशल मीडिया पोस्ट के जरिए बताया है कि वो दोनों आपसी सहमति से एक दूसरे से अलग हो रहे हैं.",
+    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/badshah-announced-divorce-from-second-wife-isha-rikhi-5-months-after-secret-marriage-emotional-post-tmovf-dskc-2633612-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T08:00:46+05:30",
+    "hook": "मशहूर रैपर बादशाह का रिश्ता टूटा, पत्नी ईशा रिखी से अलग हुए!",
+    "script_hi": "मशहूर रैपर बादशाह और ईशा रिखी का पांच महीने में ही रिश्ता खत्म हो गया है। दोनों ने सोशल मीडिया पर तलाक का ऐलान कर दिया है। बताया जा रहा है कि आपसी सहमति से दोनों ने अलग होने का फैसला लिया है।",
+    "tts_text_hi": "मशहूर रैपर बादशाह और ईशा रिखी का पांच महीने में ही रिश्ता खत्म हो गया है। दोनों ने सोशल मीडिया पर तलाक का ऐलान कर दिया है। बताया जा रहा है कि आपसी सहमति से दोनों ने अलग होने का फैसला लिया है।",
+    "title": "बादशाह और ईशा रिखी का तलाक",
+    "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।",
+    "hashtags": [
+      "Badshah",
+      "IshaRikhi",
+      "BollywoodNews",
+      "Divorce",
+      "CelebrityUpdate",
       "HindiNews"
     ],
     "visual_queries": [
-      "professional football player match",
-      "sad emotional stadium atmosphere",
-      "football team crying",
-      "argentine flag football stadium"
+      "Indian celebrity singer portrait",
+      "Social media phone notification",
+      "Sad couple walking away"
     ],
-    "named_person": "Lionel Messi",
-    "named_person_hi": "लियोनेल मेसी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
+    "named_person": "Badshah",
+    "named_person_hi": "बादशाह",
+    "secondary_persons": [
+      "Isha Rikhi"
+    ],
+    "est_duration_sec": 25,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "लियोनेल मेसी",
+        "text": "बादशाह",
         "source": "fallback",
-        "query": "Lionel Messi",
+        "query": "Badshah",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10349041/10349041-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "professional football player",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6537096/6537096-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "sad professional athlete",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10347873/pexels-photo-10347873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35868474/pexels-photo-35868474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "disappointed football player",
-        "credit": "Марина  Шишкина",
+        "query": "Indian celebrity singer portrait",
+        "credit": "The Capturist",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32228982/pexels-photo-32228982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/21792119/pexels-photo-21792119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sad football player",
-        "credit": "Alfredo Dacosta",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास! ⚽️😱",
-        "caption": "लियोनेल मेसी का फुटबॉल से संन्यास, फैंस को लगा बड़ा झटका! \n\nविश्व कप फाइनल की हार के बाद मेसी ने अपने भविष्य को लेकर ये बड़ा ऐलान कर दिया है। उनके इस फैसले ने खेल की दुनिया को पूरी तरह बदल दिया है। \n\nक्या मेसी का ये फैसला सही है? अपनी राय कमेंट्स में बताएं।\n\n#LionelMessi #MessiRetirement #FootballNews #FIFAWorldCup #SportsUpdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लियोनेल मेसी का फुटबॉल से संन्यास, फैंस को लगा बड़ा झटका! 💔\n\nवर्ल्ड कप फाइनल के बाद मेसी ने इंटरनेशनल फुटबॉल को अलविदा कह दिया है। एक युग का अंत हो गया। \n\nइस खबर पर आपका क्या रिएक्शन है? कमेंट्स में जरूर लिखें। 👇\n\n#LionelMessi #MessiRetirement #FootballNews #FIFAWorldCup #SportsUpdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "लियोनेल मेसी का फुटबॉल से संन्यास, फैंस को लगा बड़ा झटका! \n\nवर्ल्ड कप फाइनल की हार ने सबको चौंकाया ही था, लेकिन अब मेसी ने अंतरराष्ट्रीय फुटबॉल छोड़ने का ऐलान कर दिया है। एक महान खिलाड़ी का सफर ऐसे खत्म होगा, किसी ने नहीं सोचा था। \n\nक्या आप मेसी को दोबारा खेलते देखना चाहते हैं? अपनी राय दें।\n\n#LionelMessi #MessiRetirement #FootballNews #FIFAWorldCup #SportsUpdate"
-      },
-      "hashtags": [
-        "LionelMessi",
-        "MessiRetirement",
-        "FootballNews",
-        "FIFAWorldCup",
-        "SportsUpdate"
-      ]
-    },
-    "audio_path": "audio/lionel_messi_retirement.wav",
-    "audio_duration_sec": 13.68,
-    "video_path": "videos/lionel_messi_retirement.mp4",
-    "video_duration_sec": 21.72
-  },
-  {
-    "topic_label": "janmashtami_2026_rare_confluence",
-    "virality_score": 8,
-    "reason": "Broad audience relevance for religious festival and an auspicious planetary alignment.",
-    "region": "india",
-    "headline": "4 या 5 अगस्त, कब है जन्माष्टमी? ये है लड्डू गोपाल का पूजन मुहूर्त",
-    "source_summary": "Krishna Janmashtami 2026: साल 2026 की श्रीकृष्ण जन्माष्टमी अत्यंत खास होने जा रही है. 4 सितंबर, शुक्रवार को भाद्रपद कृष्ण अष्टमी तिथि और रोहिणी नक्षत्र का ऐसा दुर्लभ संयोग बन रहा है जो करीब 15 साल बाद देखने को मिल रहा है. तो आइए जानते हैं कि क्या रहने वाला है कृष्ण जन्माष्टमी पर पूजन का मुहूर्त.",
-    "source_url": "https://www.aajtak.in/religion/news/story/krishna-janmashtami-4-september-2026-rohini-nakshatra-rare-yog-15-years-nishita-pujan-timings-tvisg-dskc-2633296-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T06:41:35+05:30",
-    "hook": "क्या आप जानते हैं इस साल जन्माष्टमी कब है?",
-    "script_hi": "साल दो हजार छब्बीस की श्रीकृष्ण जन्माष्टमी बेहद खास है। चार सितंबर, शुक्रवार को भाद्रपद कृष्ण अष्टमी और रोहिणी नक्षत्र का दुर्लभ संयोग पंद्रह साल बाद बन रहा है। जानिए पूजन का सही मुहूर्त।",
-    "tts_text_hi": "साल दो हजार छब्बीस की श्रीकृष्ण जन्माष्टमी बेहद खास है। चार सितंबर, शुक्रवार को भाद्रपद कृष्ण अष्टमी और रोहिणी नक्षत्र का दुर्लभ संयोग पंद्रह साल बाद बन रहा है। जानिए पूजन का सही मुहूर्त।",
-    "title": "Janmashtami 2026 Date and Muhurat",
-    "caption": "साल 2026 में जन्माष्टमी का दुर्लभ संयोग, जानिए कब करें पूजा।",
-    "hashtags": [
-      "Janmashtami2026",
-      "KrishnaJanmashtami",
-      "LadooGopal",
-      "FestivalIndia",
-      "Astrology",
-      "Krishna",
-      "JanmashtamiMuhurat"
-    ],
-    "visual_queries": [
-      "Indian Hindu temple",
-      "statue of Lord Krishna India",
-      "night sky with moon India",
-      "puja diya and flowers India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian Hindu temple",
-        "credit": "Nalam Team",
+        "query": "Social media phone notification",
+        "credit": "Image Hunter",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18382817/pexels-photo-18382817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6669872/pexels-photo-6669872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "statue of Lord Krishna India",
-        "credit": "Soubhagya Maharana",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/134928/pexels-photo-134928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night sky with moon India",
-        "credit": "Faiyaz Salim",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8887189/pexels-photo-8887189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "puja diya and flowers India",
-        "credit": "Lara Jameson",
+        "query": "Sad couple walking away",
+        "credit": "RDNE Stock project",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "4 या 5 अगस्त? जन्माष्टमी की सही तारीख और मुहूर्त 🕉️",
-        "caption": "4 या 5 अगस्त? जन्माष्टमी की सही तारीख को लेकर अभी भी कन्फ्यूजन है क्या? 🕉️\n\nपंचांग के अनुसार इस साल लड्डू गोपाल का जन्मदिन किस दिन मनाया जाएगा और पूजा का शुभ मुहूर्त क्या है, ये पूरी जानकारी वीडियो में देखें।\n\nअपनी फैमिली के साथ इसे शेयर करें ताकि सबको सही जानकारी मिल सके।\n\n#Janmashtami2026 #KrishnaJanmashtami #LadooGopal #JanmashtamiMuhurat #HinduFestival"
+        "title": "बादशाह और ईशा रिखी का तलाक",
+        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
       },
       "instagram": {
         "title": null,
-        "caption": "4 या 5 अगस्त? जन्माष्टमी की सही तारीख को लेकर अभी भी कन्फ्यूजन है क्या? 🕉️\n\nइस साल लड्डू गोपाल का जन्मदिन कब मनाएं और पूजा का सही मुहूर्त क्या है? पूरी डिटेल इस वीडियो में है। \n\nइसे सेव कर लें ताकि पूजा के समय काम आए। 🙏\n\n#Janmashtami2026 #KrishnaJanmashtami #LadooGopal #JanmashtamiMuhurat #HinduFestival"
+        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
       },
       "facebook": {
         "title": null,
-        "caption": "4 या 5 अगस्त? जन्माष्टमी की सही तारीख को लेकर कन्फ्यूजन है? 🕉️\n\nहर साल की तरह इस बार भी तारीखों को लेकर उलझन बनी हुई है। लेकिन पंचांग और ग्रहों की स्थिति के अनुसार लड्डू गोपाल की पूजा का सही दिन और शुभ मुहूर्त क्या है, ये हमने इस वीडियो में साफ कर दिया है। \n\nवीडियो देखें और अपनी पूजा की तैयारी अभी से शुरू करें। अपने दोस्तों और परिवार के साथ इसे जरूर शेयर करें। 🙏\n\n#Janmashtami2026 #KrishnaJanmashtami #LadooGopal #JanmashtamiMuhurat #HinduFestival"
+        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
       },
       "hashtags": [
-        "Janmashtami2026",
-        "KrishnaJanmashtami",
-        "LadooGopal",
-        "JanmashtamiMuhurat",
-        "HinduFestival"
-      ]
-    },
-    "audio_path": "audio/janmashtami_2026_rare_confluence.wav",
-    "audio_duration_sec": 14.5,
-    "video_path": "videos/janmashtami_2026_rare_confluence.mp4",
-    "video_duration_sec": 22.56
-  },
-  {
-    "topic_label": "mirzapur_movie_hype",
-    "virality_score": 8,
-    "reason": "Massive youth audience for the Mirzapur franchise; ticket price controversy adds buzz.",
-    "region": "india",
-    "headline": "&#039;मिर्जापुर द मूवी&#039; के टिकट 1800 रुपये तक, पहले दिन होगा भौकाल!",
-    "source_summary": "मिर्जापुर द मूवी का भौकाल बड़े पर्दे पर बड़ी जोर से मचने वाला है. फिल्म की टिकट कई जगहों पर काफी नोट की गई हैं. अनुमान है कि ये ओपनिंग डे पर बंपर कमाई करने वाली है.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-the-movie-advance-booking-ticket-price-opening-day-prediction-tmovj-dskc-2633555-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T07:03:57+05:30",
-    "hook": "मिर्जापुर का भौकाल अब सीधे बड़े पर्दे पर!",
-    "script_hi": "मिर्जापुर द मूवी का इंतज़ार खत्म होने वाला है! खबरों के मुताबिक कई शहरों में फिल्म की टिकटें अठारह सौ रुपये तक पहुंच गई हैं। ओपनिंग डे पर ही फिल्म से बंपर कमाई की उम्मीद जताई जा रही है।",
-    "tts_text_hi": "मिर्जापुर द मूवी का इंतज़ार खत्म होने वाला है! खबरों के मुताबिक कई शहरों में फिल्म की टिकटें अठारह सौ रुपये तक पहुंच गई हैं। ओपनिंग डे पर ही फिल्म से बंपर कमाई की उम्मीद जताई जा रही है।",
-    "title": "मिर्जापुर फिल्म की टिकटें हुईं महंगी",
-    "caption": "मिर्जापुर द मूवी की रिलीज को लेकर फैंस में जबरदस्त उत्साह, टिकट की कीमतें आसमान छू रही हैं।",
-    "hashtags": [
-      "MirzapurTheMovie",
-      "Mirzapur",
-      "Bollywood",
-      "GudduBhaiya",
-      "KaleenBhaiya",
-      "EntertainmentNews",
-      "Cinema"
-    ],
-    "visual_queries": [
-      "crowded Indian cinema theater",
-      "Indian movie ticket counter",
-      "excited audience in India",
-      "Indian film promotional poster"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27083862/pexels-photo-27083862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "excited audience in India",
-        "credit": "Suhit Panchal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded indian cinema",
-        "credit": "Keith Lobo",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cinema crowd",
-        "credit": "Keith Lobo",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37668084/pexels-photo-37668084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded ticket booking counter",
-        "credit": "Devesh Chander",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मिर्जापुर द मूवी: टिकट की कीमत 1800 रुपये तक! 🎬",
-        "caption": "मिर्जापुर का भौकाल अब सीधे बड़े पर्दे पर! \n\nगुड्डू भैया की वापसी का इंतज़ार कर रहे फैन्स को बड़ा झटका लग सकता है। फिल्म की टिकटें 1800 रुपये तक पहुंच गई हैं, फिर भी एडवांस बुकिंग में जबरदस्त उछाल देखा जा रहा है। \n\nक्या आप इतने महंगे टिकट खरीदकर फिल्म देखेंगे? कमेंट में बताएं।\n\n#MirzapurTheMovie #GudduBhaiya #Mirzapur #BollywoodNews #OTTtoCinema"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मिर्जापुर का भौकाल अब सीधे बड़े पर्दे पर! 🔫\n\nगुड्डू भैया की वापसी का इंतज़ार महंगा हो गया है। फिल्म की टिकटें 1800 रुपये तक पहुंच गई हैं, फिर भी एडवांस बुकिंग में जबरदस्त उछाल है। \n\nक्या आप सिनेमाघर जाकर 'मिर्जापुर' देखेंगे? अपनी राय नीचे लिखें!\n\n#MirzapurTheMovie #GudduBhaiya #Mirzapur #BollywoodNews #OTTtoCinema"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मिर्जापुर का भौकाल अब सीधे बड़े पर्दे पर! \n\nमिर्जापुर फिल्म को लेकर फैंस में जबरदस्त क्रेज है, लेकिन टिकटों की कीमत ने सबको चौंका दिया है। कुछ जगहों पर दाम 1800 रुपये तक जा पहुंचे हैं। \n\nइतने महंगे टिकट के बाद भी थिएटर्स फुल होने की उम्मीद है। क्या आपको लगता है कि फिल्म के लिए इतनी कीमत वसूल है? अपनी बात कमेंट में शेयर करें। 🍿\n\n#MirzapurTheMovie #GudduBhaiya #Mirzapur #BollywoodNews #OTTtoCinema"
-      },
-      "hashtags": [
-        "MirzapurTheMovie",
-        "GudduBhaiya",
-        "Mirzapur",
+        "Badshah",
+        "IshaRikhi",
         "BollywoodNews",
-        "OTTtoCinema"
+        "Divorce",
+        "CelebrityUpdate"
       ]
     },
-    "audio_path": "audio/mirzapur_movie_hype.wav",
-    "audio_duration_sec": 13.61,
-    "video_path": "videos/mirzapur_movie_hype.mp4",
-    "video_duration_sec": 21.62
+    "audio_path": "audio/badshah_isha_rikhi_divorce.wav",
+    "audio_duration_sec": 15.7,
+    "video_path": "videos/badshah_isha_rikhi_divorce.mp4",
+    "video_duration_sec": 23.74
   },
   {
-    "topic_label": "vande_bharat_surat_udaipur",
+    "topic_label": "mumbai_milk_price_hike",
     "virality_score": 7,
-    "reason": "Infrastructure and connectivity news usually performs well due to local pride and travel benefits.",
+    "reason": "Direct impact on the common person's daily budget; inflation news always resonates with a broad audience.",
     "region": "india",
-    "headline": "सूरत को मिली पहली वंदे भारत, उदयपुर का सफर अब सिर्फ इतने घंटे में होगा तय",
-    "source_summary": "सूरत और उदयपुर के बीच हफ्ते में छह दिन नई वंदे भारत एक्सप्रेस चलेगी. यह ट्रेन सूरत से उदयपुर की दूरी 7.30 घंटे में तय करेगी और इससे दक्षिण गुजरात के यात्रियों, पर्यटकों और व्यापारियों को फायदा होगा.",
-    "source_url": "https://www.aajtak.in/india/news/story/surat-udaipur-vande-bharat-express-train-schedule-timings-route-ntc-apdy-rptc-2633589-2026-09-01?utm_source=rssfeed",
+    "headline": "मुंबई में दूध के दाम 9 रुपये बढ़े, तबेले का दूध हुआ 100 के पार",
+    "source_summary": "मुंबई में 1 सितंबर 2026 से तबेले के दूध के दाम 9 रुपये प्रति लीटर बढ़ा दिए गए हैं. उत्पादकों का कहना है कि पशु आहार, चारा, खली और डेयरी मवेशियों की बढ़ती कीमतों ने लागत बढ़ा दी, जिसका असर अब घरों के बजट पर पड़ेगा.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/mumbai-milk-price-hike-tukaram-mundhe-action-milk-producer-tabele-wala-doodh-ntc-mnrd-smsr-dskc-2633641-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-01T03:58:50+05:30",
-    "hook": "सूरत और उदयपुर के बीच अब सफर होगा सुपरफास्ट!",
-    "script_hi": "सूरत से उदयपुर के लिए पहली वंदे भारत एक्सप्रेस शुरू हो गई है। अब सात दशमलव तीन शून्य घंटे में आप अपना सफर पूरा कर सकेंगे। यह ट्रेन हफ्ते में छह दिन चलेगी, जिससे दक्षिण गुजरात के यात्रियों और व्यापारियों को बड़ी राहत मिलेगी।",
-    "tts_text_hi": "सूरत से उदयपुर के लिए पहली वंदे भारत एक्सप्रेस शुरू हो गई है। अब सात दशमलव तीन शून्य घंटे में आप अपना सफर पूरा कर सकेंगे। यह ट्रेन हफ्ते में छह दिन चलेगी, जिससे दक्षिण गुजरात के यात्रियों और व्यापारियों को बड़ी राहत मिलेगी।",
-    "title": "सूरत-उदयपुर वंदे भारत एक्सप्रेस",
-    "caption": "सूरत को मिली पहली वंदे भारत एक्सप्रेस, अब उदयपुर का सफर होगा आसान।",
+    "published": "2026-09-01T08:54:54+05:30",
+    "hook": "मुंबई में दूध हुआ महंगा, अब हर लीटर पर आपको देने होंगे ज्यादा पैसे।",
+    "script_hi": "मुंबई में दूध की कीमतें बढ़ गई हैं। पहली सितंबर दो हजार छब्बीस से तबेले के दूध के दाम नौ रुपये प्रति लीटर महंगे हो गए हैं। अब तबेले का दूध सौ रुपये के पार पहुंच गया है। पशु आहार और चारे की बढ़ती कीमतों का असर सीधे आम जनता की जेब पर पड़ा है।",
+    "tts_text_hi": "मुंबई में दूध की कीमतें बढ़ गई हैं। पहली सितंबर दो हजार छब्बीस से तबेले के दूध के दाम नौ रुपये प्रति लीटर महंगे हो गए हैं। अब तबेले का दूध सौ रुपये के पार पहुंच गया है। पशु आहार और चारे की बढ़ती कीमतों का असर सीधे आम जनता की जेब पर पड़ा है।",
+    "title": "मुंबई में दूध हुआ महंगा",
+    "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।",
     "hashtags": [
-      "VandeBharat",
-      "Surat",
-      "Udaipur",
-      "IndianRailways",
-      "Gujarat",
-      "TravelNews",
-      "NewTrain"
+      "Mumbai",
+      "MilkPriceHike",
+      "Inflation",
+      "MumbaiNews",
+      "Maharashtra",
+      "DailyBudget",
+      "Mahangai"
     ],
     "visual_queries": [
-      "Vande Bharat Express train India",
-      "Surat railway station platform India",
-      "Udaipur city landscape India",
-      "Indian train passengers inside carriage"
+      "Mumbai city skyline India",
+      "Indian milk delivery person",
+      "Indian cow shed cattle",
+      "Indian woman household budget shopping"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -498,66 +395,230 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/31577887/13457629_720_1558_30fps.mp4",
-        "source": "pexels",
-        "query": "Vande Bharat Express train India",
-        "credit": "Sahil Mishra",
-        "source_duration_sec": 50,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/21802142/pexels-photo-21802142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Surat railway station platform India",
-        "credit": "Shivam Kanwala",
+        "query": "Mumbai city skyline India",
+        "credit": "Deepak Bhandari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15534251/pexels-photo-15534251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33136705/pexels-photo-33136705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Udaipur city landscape India",
-        "credit": "Stijn Dijkstra",
+        "query": "Indian milk delivery person",
+        "credit": "Shraddha Sarkar",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11333373/pexels-photo-11333373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30583333/pexels-photo-30583333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian train passengers inside carriage",
-        "credit": "Tushank Gupta",
+        "query": "Indian cow shed cattle",
+        "credit": "capture everything",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5900162/pexels-photo-5900162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian woman household budget shopping",
+        "credit": "https://kaboompics.com/",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सूरत से उदयपुर का सफर अब बस कुछ घंटों में! 🚄✨",
-        "caption": "अब सूरत से उदयपुर के बीच का सफर होगा सुपरफास्ट! \n\nवंदे भारत एक्सप्रेस के शुरू होने से यात्रियों का घंटों का समय बचेगा। अब आप कम समय में अपनी मंजिल तक पहुँच सकेंगे। इस नई ट्रेन की सुविधा से जुड़ी पूरी जानकारी के लिए वीडियो देखें।\n\nक्या आप इस रूट पर यात्रा करने की योजना बना रहे हैं? हमें कमेंट में बताएं।\n\n#SuratUdaipur #VandeBharatExpress #IndianRailways #TrainTravel #GujaratToRajasthan"
+        "title": "मुंबई में दूध हुआ महंगा",
+        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
       },
       "instagram": {
         "title": null,
-        "caption": "सूरत और उदयपुर के बीच अब सफर होगा सुपरफास्ट! 🚄\n\nवंदे भारत एक्सप्रेस की नई सुविधा से अब घंटों का सफर सिमट गया है। अब आप कम समय में अपनी मंजिल तक पहुँच सकेंगे। \n\nपूरी खबर के लिए वीडियो अंत तक देखें। क्या आप इस रूट पर घूमने का प्लान बना रहे हैं? कमेंट करें! ✨\n\n#SuratUdaipur #VandeBharatExpress #IndianRailways #TrainTravel #GujaratToRajasthan"
+        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
       },
       "facebook": {
         "title": null,
-        "caption": "सूरत और उदयपुर के बीच अब सफर होगा सुपरफास्ट! 🚄\n\nवंदे भारत एक्सप्रेस की नई शुरुआत से उन यात्रियों को बड़ी राहत मिली है जो अक्सर इन दो शहरों के बीच सफर करते हैं। ट्रेन की स्पीड और सुविधाओं के कारण घंटों का सफर अब बहुत कम समय में पूरा हो जाएगा। \n\nयह बदलाव आपकी यात्रा को कितना आसान बनाएगा? पूरा वीडियो देखें और अपनी राय साझा करें।\n\n#SuratUdaipur #VandeBharatExpress #IndianRailways #TrainTravel #GujaratToRajasthan"
+        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
       },
       "hashtags": [
-        "SuratUdaipur",
-        "VandeBharatExpress",
-        "IndianRailways",
-        "TrainTravel",
-        "GujaratToRajasthan"
+        "Mumbai",
+        "MilkPriceHike",
+        "Inflation",
+        "MumbaiNews",
+        "Maharashtra"
       ]
     },
-    "audio_path": "audio/vande_bharat_surat_udaipur.wav",
-    "audio_duration_sec": 15.43,
-    "video_path": "videos/vande_bharat_surat_udaipur.mp4",
-    "video_duration_sec": 23.42
+    "audio_path": "audio/mumbai_milk_price_hike.wav",
+    "audio_duration_sec": 18.6,
+    "video_path": "videos/mumbai_milk_price_hike.mp4",
+    "video_duration_sec": 26.56
+  },
+  {
+    "topic_label": "us_iran_drone_strike_hormuz",
+    "virality_score": 7,
+    "reason": "Significant global conflict escalation with direct implications for oil prices; serious news.",
+    "region": "india",
+    "headline": "ईरान-US में नई जंग! होर्मुज पर MQ-9 ड्रोन तबाह, UAE पर भी अटैक",
+    "source_summary": "ईरान ने होर्मुज के ऊपर अमेरिकी एमक्यू-9 ड्रोन गिराने और यूएई के अल मिनहाद बेस पर अमेरिकी ठिकानों को दर्जनों विस्फोटक ड्रोन से निशाना बनाने का दावा किया. तेहरान ने इसे लारक द्वीप पर अमेरिकी हमले का जवाब बताया, जबकि राष्ट्रपति मसूद पेजेशकियन ने कहा कि ईरान जंग नहीं चाहता, लेकिन किसी भी आक्रामकता का निर्णायक जवाब देगा.",
+    "source_url": "https://www.aajtak.in/world/story/iran-america-war-hormuz-strait-mq9-drone-uae-attack-ntc-mnrd-smsr-dskc-2632997-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T10:32:02+05:30",
+    "hook": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है!",
+    "script_hi": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है! ईरान ने दावा किया है कि उसने होर्मुज के ऊपर अमेरिकी एमक्यू-नौ ड्रोन को मार गिराया है। साथ ही, संयुक्त अरब अमीरात के अल मिनहाद बेस पर भी दर्जनों विस्फोटक ड्रोन से हमला करने का दावा किया गया है। ईरान का कहना है कि यह लारक द्वीप पर हुए हमले का जवाब है। हालांकि, राष्ट्रपति मसूद पेजेशकियन ने कहा है कि ईरान जंग नहीं चाहता, लेकिन अपनी सुरक्षा के लिए हर आक्रामकता का निर्णायक जवाब देगा।",
+    "tts_text_hi": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है! ईरान ने दावा किया है कि उसने होर्मुज के ऊपर अमेरिकी एमक्यू-नौ ड्रोन को मार गिराया है। साथ ही, संयुक्त अरब अमीरात के अल मिनहाद बेस पर भी दर्जनों विस्फोटक ड्रोन से हमला करने का दावा किया गया है। ईरान का कहना है कि यह लारक द्वीप पर हुए हमले का जवाब है। हालांकि, राष्ट्रपति मसूद पेजेशकियन ने कहा है कि ईरान जंग नहीं चाहता, लेकिन अपनी सुरक्षा के लिए हर आक्रामकता का निर्णायक जवाब देगा।",
+    "title": "ईरान-अमेरिका के बीच बढ़ा तनाव",
+    "caption": "ईरान ने अमेरिकी ड्रोन गिराने और यूएई में हमले का दावा किया।",
+    "hashtags": [
+      "Iran",
+      "USA",
+      "MiddleEast",
+      "Conflict",
+      "News",
+      "GlobalAffairs",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "military drone flight",
+      "strait of Hormuz aerial view",
+      "modern air base facility",
+      "Middle East military radar",
+      "middle east geopolitical map"
+    ],
+    "named_person": "Masoud Pezeshkian",
+    "named_person_hi": "मसूद पेजेशकियन",
+    "secondary_persons": [],
+    "est_duration_sec": 30,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves ongoing geopolitical conflict and potential military escalation between nations, requiring sensitivity check.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "मसूद पेजेशकियन",
+        "source": "fallback",
+        "query": "Masoud Pezeshkian",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28763497/pexels-photo-28763497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "military drone flight",
+        "credit": "Barış  Karagöz",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18883601/pexels-photo-18883601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "strait of Hormuz aerial view",
+        "credit": "Hafize  Balcı",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 14.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "corporate_leaders_resignation_trend",
+    "virality_score": 6,
+    "reason": "Interesting trend regarding high-profile departures from major Indian conglomerates, relevant to the business-minded demographic.",
+    "region": "india",
+    "headline": "Tata Sons, HDFC Bank से लेकर Godrej तक….क्यों अपनी कुर्सी छोड़ रहे हैं दिग्गज कंपनियों के ‘कैप्टन’?",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/top-boss.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"Tata Sons, HDFC Bank से लेकर Godrej तक….क्यों अपनी कुर्सी छोड़ रहे हैं दिग्गज कंपनियों के ‘कैप्टन’?\" /></figure>साल 2026 इंडिया इंक के लिए उथल-पुथल भरा रहा. टाटा संस, HDFC बैंक से लेकर एयर इंडिया तक के टॉप लीडर्स ने पद छोड़ दिए हैं. वहीं कई बड़े नाम अपना सुरक्षित करियर छोड़कर AI सेक्टर की तरफ कदम बढ़ा रहे हैं.",
+    "source_url": "https://www.tv9hindi.com/business/india-inc-top-ceo-resignations-tata-hdfc-air-india-2026-3894860.html",
+    "source_name": "TV9 Hindi",
+    "published": "Tue, 01 Sep 2026 07:00:06 +0530",
+    "hook": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं?",
+    "script_hi": "वर्ष दो हजार छब्बीस भारत के कॉर्पोरेट जगत के लिए काफी उथल-पुथल भरा रहा है। टाटा संस, एचडीएफसी बैंक और एयर इंडिया जैसी बड़ी कंपनियों के दिग्गज कैप्टन अपना पद छोड़ चुके हैं। आखिर क्या है इसके पीछे की वजह? कई बड़े लीडर्स अब अपना सुरक्षित करियर छोड़कर एआई यानी आर्टिफिशियल इंटेलिजेंस के उभरते सेक्टर में कदम रख रहे हैं। बिजनेस जगत का ये बदलाव काफी चौंकाने वाला है।",
+    "tts_text_hi": "वर्ष दो हजार छब्बीस भारत के कॉर्पोरेट जगत के लिए काफी उथल-पुथल भरा रहा है। टाटा संस, एचडीएफसी बैंक और एयर इंडिया जैसी बड़ी कंपनियों के दिग्गज कैप्टन अपना पद छोड़ चुके हैं। आखिर क्या है इसके पीछे की वजह? कई बड़े लीडर्स अब अपना सुरक्षित करियर छोड़कर एआई यानी आर्टिफिशियल इंटेलिजेंस के उभरते सेक्टर में कदम रख रहे हैं। बिजनेस जगत का ये बदलाव काफी चौंकाने वाला है।",
+    "title": "दिग्गज कंपनियों के बॉस क्यों छोड़ रहे हैं कुर्सी?",
+    "caption": "टाटा और HDFC बैंक समेत कई बड़ी कंपनियों में बदलाव का दौर, क्या है वजह?",
+    "hashtags": [
+      "CorporateIndia",
+      "Tata",
+      "HDFC",
+      "BusinessNews",
+      "ArtificialIntelligence",
+      "Leadership",
+      "IndiaInc"
+    ],
+    "visual_queries": [
+      "modern corporate office India",
+      "Indian business executive portrait",
+      "futuristic artificial intelligence technology",
+      "people working office India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern corporate office India",
+        "credit": "Jansher Chakkittammal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7580763/pexels-photo-7580763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian business executive portrait",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8386437/pexels-photo-8386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic artificial intelligence technology",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people working office India",
+        "credit": "Fahad Puthawala",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "टाटा और गोदरेज के बॉस आखिर कुर्सी क्यों छोड़ रहे हैं? 🤔",
+        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? \n\nदेश की सबसे बड़ी कंपनियों में अचानक बड़े बदलाव देखने को मिल रहे हैं। पुराने और भरोसेमंद चेहरों का हटना सिर्फ एक संयोग नहीं, बल्कि इसके पीछे एक बड़ी कॉर्पोरेट रणनीति है। \n\nक्या यह कंपनियों का भविष्य बदलने की तैयारी है या कुछ और? पूरी सच्चाई वीडियो में समझें।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? 🧐 \n\nबड़े कॉर्पोरेट घरानों में टॉप लेवल पर हो रहे बदलावों ने हर किसी को हैरान कर दिया है। क्या यह कोई सोची-समझी रणनीति है या फिर पावर ट्रांसफर का नया दौर? \n\nदेखें ये वीडियो और समझें कि भारत के कॉर्पोरेट जगत में आखिर चल क्या रहा है।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? \n\nदेश की टॉप कंपनियों के लीडरशिप में अचानक मची यह हलचल सिर्फ एक बदलाव नहीं, बल्कि एक नए दौर की आहट है। सालों से इन कंपनियों को संभालने वाले दिग्गजों का अचानक पद छोड़ना कई बड़े सवाल खड़े करता है। \n\nआखिर क्या है इन इस्तीफों के पीछे की असल वजह? क्या इससे आम निवेशक या मार्केट पर असर पड़ेगा? पूरी कहानी जानने के लिए वीडियो देखें।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+      },
+      "hashtags": [
+        "TataSons",
+        "HDFCBank",
+        "Godrej",
+        "CorporateNews",
+        "BusinessUpdates"
+      ]
+    },
+    "audio_path": "audio/corporate_leaders_resignation_trend.wav",
+    "audio_duration_sec": 28.93,
+    "video_path": "videos/corporate_leaders_resignation_trend.mp4",
+    "video_duration_sec": 36.96
   }
 ]

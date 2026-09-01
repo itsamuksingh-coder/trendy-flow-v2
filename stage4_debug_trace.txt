@@ -1,8 +1,9 @@
-ready_labels: ['janmashtami_2026_rare_confluence', 'lionel_messi_retirement', 'mirzapur_movie_hype', 'vande_bharat_surat_udaipur']
+ready_labels: ['badshah_isha_rikhi_divorce', 'corporate_leaders_resignation_trend', 'mumbai_milk_price_hike', 'pnb_fake_currency_saharanpur']
 
-delhi_bus_gangrape_case: SKIPPED (not in ready set)
-kaushambi_firecracker_blast: SKIPPED (not in ready set)
-lionel_messi_retirement: SUCCESS -> video_path=videos/lionel_messi_retirement.mp4 dur=21.722222
-janmashtami_2026_rare_confluence: SUCCESS -> video_path=videos/janmashtami_2026_rare_confluence.mp4 dur=22.556553
-mirzapur_movie_hype: SUCCESS -> video_path=videos/mirzapur_movie_hype.mp4 dur=21.62322
-vande_bharat_surat_udaipur: SUCCESS -> video_path=videos/vande_bharat_surat_udaipur.mp4 dur=23.42322
+pnb_fake_currency_saharanpur: SUCCESS -> video_path=videos/pnb_fake_currency_saharanpur.mp4 dur=34.772222
+delhi_bus_gangrape: SKIPPED (not in ready set)
+kaushambi_firecracker_factory_blast_encounter: SKIPPED (not in ready set)
+badshah_isha_rikhi_divorce: SUCCESS -> video_path=videos/badshah_isha_rikhi_divorce.mp4 dur=23.74322
+mumbai_milk_price_hike: SUCCESS -> video_path=videos/mumbai_milk_price_hike.mp4 dur=26.556553
+us_iran_drone_strike_hormuz: SKIPPED (not in ready set)
+corporate_leaders_resignation_trend: SUCCESS -> video_path=videos/corporate_leaders_resignation_trend.mp4 dur=36.956553
