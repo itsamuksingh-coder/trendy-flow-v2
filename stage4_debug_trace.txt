@@ -1,8 +1,9 @@
-ready_labels: ['maruti_suzuki_share_crash']
+ready_labels: ['modi_jinping_putin_sco_meeting', 'neet_protest_fir_quashed', 'onion_price_relief_delhi']
 
+neet_protest_fir_quashed: SUCCESS -> video_path=videos/neet_protest_fir_quashed.mp4 dur=26.989887
+mumbai_hit_and_run_boy: SKIPPED (not in ready set)
 mamata_banerjee_niece_death: SKIPPED (not in ready set)
-noida_bus_gangrape: SKIPPED (not in ready set)
-kaushambi_firecracker_blast_encounter: SKIPPED (not in ready set)
-pakistan_sco_photo_tampering: SKIPPED (not in ready set)
-tupac_shakur_murder_verdict: SKIPPED (not in ready set)
-maruti_suzuki_share_crash: SUCCESS -> video_path=videos/maruti_suzuki_share_crash.mp4 dur=26.204218
+school_kids_dangerous_pillar_climb: SKIPPED (not in ready set)
+tupac_shakur_murder_conviction: SKIPPED (not in ready set)
+onion_price_relief_delhi: SUCCESS -> video_path=videos/onion_price_relief_delhi.mp4 dur=30.689887
+modi_jinping_putin_sco_meeting: SUCCESS -> video_path=videos/modi_jinping_putin_sco_meeting.mp4 dur=33.056553
