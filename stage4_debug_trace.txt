@@ -1,8 +1,10 @@
-ready_labels: ['hardik_pandya_injury', 'mumbai_inflation_spikes']
+ready_labels: ['akhilesh_yadav_dog_controversy', 'indigo_flight_engine_failure_goa', 'mumbai_auto_taxi_fare_hike', 'mumbai_inflation_cng_taxi_fare', 'tim_cook_steps_down_apple', 'vaibhav_suryavanshi_duleep_trophy']
 
-delhi_bus_gangrape: SKIPPED (not in ready set)
-mumbai_inflation_spikes: SUCCESS -> video_path=videos/mumbai_inflation_spikes.mp4 dur=38.255215
-us_iran_conflict_escalation: SKIPPED (not in ready set)
-hardik_pandya_injury: SUCCESS -> video_path=videos/hardik_pandya_injury.mp4 dur=26.156553
-kaushambi_factory_blast_encounter: SKIPPED (not in ready set)
-pakistan_driverless_car_fail: SKIPPED (not in ready set)
+himachal_flash_flood_rescue_dupatta: SKIPPED (not in ready set)
+mumbai_inflation_cng_taxi_fare: SUCCESS -> video_path=videos/mumbai_inflation_cng_taxi_fare.mp4 dur=37.164218
+tim_cook_steps_down_apple: SUCCESS -> video_path=videos/tim_cook_steps_down_apple.mp4 dur=24.989887
+akhilesh_yadav_dog_controversy: SUCCESS -> video_path=videos/akhilesh_yadav_dog_controversy.mp4 dur=38.189887
+kaushambi_firecracker_blast_action: SKIPPED (not in ready set)
+indigo_flight_engine_failure_goa: SUCCESS -> video_path=videos/indigo_flight_engine_failure_goa.mp4 dur=26.274218
+mumbai_auto_taxi_fare_hike: SUCCESS -> video_path=videos/mumbai_auto_taxi_fare_hike.mp4 dur=21.089887
+vaibhav_suryavanshi_duleep_trophy: SUCCESS -> video_path=videos/vaibhav_suryavanshi_duleep_trophy.mp4 dur=22.756553
