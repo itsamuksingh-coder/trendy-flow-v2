@@ -1,8 +1,8 @@
-ready_labels: ['new_bullet_train_india', 'september_price_hikes']
+ready_labels: ['maruti_suzuki_share_crash']
 
+mamata_banerjee_niece_death: SKIPPED (not in ready set)
 noida_bus_gangrape: SKIPPED (not in ready set)
-september_price_hikes: SUCCESS -> video_path=videos/september_price_hikes.mp4 dur=28.689887
-modi_xi_putin_sco: SKIPPED (not in ready set)
-kaushambi_factory_blast: SKIPPED (not in ready set)
-indian_killed_kyiv_strike: SKIPPED (not in ready set)
-new_bullet_train_india: SUCCESS -> video_path=videos/new_bullet_train_india.mp4 dur=30.12322
+kaushambi_firecracker_blast_encounter: SKIPPED (not in ready set)
+pakistan_sco_photo_tampering: SKIPPED (not in ready set)
+tupac_shakur_murder_verdict: SKIPPED (not in ready set)
+maruti_suzuki_share_crash: SUCCESS -> video_path=videos/maruti_suzuki_share_crash.mp4 dur=26.204218
