@@ -1,61 +1,304 @@
 [
   {
-    "topic_label": "delhi_sleeper_bus_minor_gangrape",
+    "topic_label": "russian_army_indians_casualty_update",
     "virality_score": 9,
-    "reason": "Horrific gang-rape of a minor in a moving sleeper bus from Greater Noida to Delhi sparks immense outrage.",
+    "reason": "Government reveals 51 Indians died out of 227 trapped in the Russian army, creating serious national concern.",
     "region": "india",
-    "headline": "दिल्ली फिर शर्मसार, स्लीपर बस में छात्रा से गैंगरेप",
-    "source_summary": "देश की राजधानी दिल्ली से एक बेहद ही दिल दहला देने वाली और शर्मसार कर देने वाली वारदात सामने आई है. दिल्ली के कश्मीरी गेट जैसे व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर 16 साल की एक नाबालिग छात्रा के साथ सामूहिक दुष्कर्म यानी गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/delhi-gang-rape-case-on-moving-bus-driver-and-conductor-arrested-vdot-ytvd-2633266-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T23:12:03+05:30",
-    "hook": "दिल्ली के कश्मीरी गेट इलाके में दिल दहला देने वाली वारदात!",
-    "script_hi": "दिल्ली फिर शर्मसार हुई है. कश्मीरी गेट के व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है. पुलिस मामले की जांच में जुटी है.",
-    "tts_text_hi": "दिल्ली फिर शर्मसार हुई है. कश्मीरी गेट के व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है. पुलिस मामले की जांच में जुटी है.",
-    "title": "दिल्ली के कश्मीरी गेट में छात्रा से गैंगरेप",
-    "caption": "दिल्ली के कश्मीरी गेट इलाके में स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की वारदात सामने आई है।",
+    "headline": "रूसी सेना में शामिल 227 भारतीयों में से 51 की मौत, 139 की हुई छुट्टी… सरकार ने दी जानकारी",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/vikram-misri-.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"रूसी सेना में शामिल 227 भारतीयों में से 51 की मौत, 139 की हुई छुट्टी… सरकार ने दी जानकारी\" /></figure>विदेश सचिव विक्रम मिसरी ने बताया कि रूसी सेना में 227 भारतीय नागरिकों की भर्ती हुई थी, जिनमें से 139 को सेवामुक्त कर दिया गया है और वो भारत लौट रहे हैं. वहीं 51 नागरिकों की इस जंग में मौत हो गई है.",
+    "source_url": "https://www.tv9hindi.com/india/227-indians-in-russian-army-139-released-51-dead-in-ukraine-war-foreign-secretary-vikram-misri-3895102.html",
+    "source_name": "TV9 Hindi",
+    "published": "Tue, 01 Sep 2026 07:11:48 +0530",
+    "hook": "रूसी सेना में शामिल भारतीयों के साथ हुआ बड़ा हादसा!",
+    "script_hi": "रूसी सेना में शामिल दो सौ सत्ताईस भारतीयों में से इक्यावन की मौत हो गई है, जबकि एक सौ उनतालीस को सेवामुक्त कर दिया गया है। विदेश सचिव विक्रम मिसरी ने यह जानकारी दी है कि बाकी भारतीयों को भी वापस लाने के प्रयास जारी हैं।",
+    "tts_text_hi": "रूसी सेना में शामिल दो सौ सत्ताईस भारतीयों में से इक्यावन की मौत हो गई है, जबकि एक सौ उनतालीस को सेवामुक्त कर दिया गया है। विदेश सचिव विक्रम मिसरी ने यह जानकारी दी है कि बाकी भारतीयों को भी वापस लाने के प्रयास जारी हैं।",
+    "title": "रूसी सेना में शामिल भारतीयों पर बड़ा अपडेट",
+    "caption": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।",
     "hashtags": [
-      "DelhiNews",
-      "CrimeNews",
-      "KashmereGate",
-      "DelhiPolice",
-      "BreakingNews",
-      "IndiaNews"
+      "Russia",
+      "India",
+      "VikramMisri",
+      "News",
+      "IndianArmy",
+      "ForeignNews"
     ],
     "visual_queries": [
-      "Delhi city street India",
-      "bus parked street India",
-      "police investigation India"
+      "Russian military uniform India",
+      "Indian Ministry of External Affairs India",
+      "Moscow street India",
+      "airplane landing India"
+    ],
+    "named_person": "Vikram Misri",
+    "named_person_hi": "विक्रम मिसरी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "विक्रम मिसरी",
+        "source": "fallback",
+        "query": "Vikram Misri",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928391/pexels-photo-35928391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Russian military uniform India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39296815/pexels-photo-39296815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian Ministry of External Affairs India",
+        "credit": "omerovic cetinkaya",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8412311/pexels-photo-8412311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Moscow street India",
+        "credit": "Andrey Belavin",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38865292/pexels-photo-38865292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane landing India",
+        "credit": "Karthick s",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रूसी सेना में शामिल भारतीयों पर बड़ा अपडेट",
+        "caption": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।\n\n#Russia #India #VikramMisri #News #IndianArmy"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।\n\n#Russia #India #VikramMisri #News #IndianArmy"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।\n\n#Russia #India #VikramMisri #News #IndianArmy"
+      },
+      "hashtags": [
+        "Russia",
+        "India",
+        "VikramMisri",
+        "News",
+        "IndianArmy"
+      ]
+    },
+    "audio_path": "audio/russian_army_indians_casualty_update.wav",
+    "audio_duration_sec": 16.34,
+    "video_path": "videos/russian_army_indians_casualty_update.mp4",
+    "video_duration_sec": 24.36,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "Fk0dxJFcIoA",
+        "url": "https://youtube.com/shorts/Fk0dxJFcIoA",
+        "attempted_at": "2026-09-01T02:10:42.606065+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9634337a132256992c22fe",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।\n\n#Russia #India #VikramMisri #News #IndianArmy",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788228657742_5v1a4xzm_russian_army_indians_casualty_update.mp4",
+                "_id": "6a9634337a132256992c22ff"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwFUEmy9&_nc_oc=AdpD4W9hoHs44a6LhqFVdeJRe9977DT7W5fFJd6uuNjM08vQkVNkzlz0s9EzF7RbL9E&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=8sJw9xbEIZDaAlS8CV73sQ&_nc_tpa=Q5bMBQJf244gucSJdI3w7hIcO7VwiAgLRSvWCOsaUhYVN70jaIcNKetFYLJF6BIVOhygNgZgPaageZOi&oh=00_AQK7v-nYTQNC45rYxavU3oN6taKi0uVhay8LVyGgCQxEhQ&oe=6A9AD394",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T02:10:58.717Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "88ff9a2674fec4900af205da019aa7f3",
+                "_id": "6a9634337a132256992c2300",
+                "platformPostId": "1015405444832266",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1015405444832266",
+                "publishedAt": "2026-09-01T02:11:05.380Z"
+              }
+            ],
+            "scheduledFor": "2026-09-01T02:10:58.717Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T02:10:59.676Z",
+            "updatedAt": "2026-09-01T02:11:06.348Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T02:10:59.860Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T02:11:06.561992+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a96344fe0f09e2a9828189a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "विदेश सचिव विक्रम मिसरी ने रूसी सेना में शामिल भारतीयों को लेकर बड़ा खुलासा किया है।\n\n#Russia #India #VikramMisri #News #IndianArmy",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788228685674_73ma1nio_russian_army_indians_casualty_update.mp4",
+                "_id": "6a96344fe0f09e2a9828189b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwESUkgk&_nc_oc=AdpBFd6Jo4T_5suofTx_0OlBJh8n21lfeT-LNyk3TxTBzWDmb8EQJ10ZiUCxTFNkToc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5tM6ZcNauKMplKP9RveJZw&_nc_tpa=Q5bMBQJ8sbbQa5K4cWsETuTCLkV7L-eglQpJmIGZWhqOYEDzpDFncdL9j1faMAAaLW0Iec6nZxIrlzPAwA&oh=00_AQKLh9m0c4WNFbUbf51cGjcYooIquRStyD8ojvX2oKh9qw&oe=6A9AC73B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T02:11:26.587Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "cd85913d8c1057efb8222afd4a27a134",
+                "_id": "6a96344fe0f09e2a9828189c"
+              }
+            ],
+            "scheduledFor": "2026-09-01T02:11:26.587Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T02:11:27.396Z",
+            "updatedAt": "2026-09-01T02:11:30.046Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T02:11:27.497Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T02:11:30.395541+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "air_india_express_bomb_threat_emergency_landing",
+    "virality_score": 8,
+    "reason": "Air India Express flight from Saudi Arabia makes an emergency landing in Ahmedabad following a bomb threat.",
+    "region": "india",
+    "headline": "Air India Express Bomb: फ्लाइट के टॉयलेट में 'बम'? अहमदाबाद में इमरजेंसी लैंडिंग-32 यात्रियों की सांसें अटकी",
+    "source_summary": "Air India Express Bomb Threat: सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। विमान में उस वक्त 32 यात्री सवार थे। धमकी मिलने के बाद पायलटों ने",
+    "source_url": "https://hindi.oneindia.com/news/india/air-india-express-bomb-threat-emergency-landing-in-ahmedabad-after-bomb-note-found-on-toilet-tissue-1639745.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Mon, 31 Aug 2026 20:10:16 +0530",
+    "hook": "फ्लाइट के टॉयलेट में बम की धमकी से मचा हड़कंप!",
+    "script_hi": "सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। विमान में बत्तीस यात्री सवार थे। धमकी मिलते ही पायलट ने अहमदाबाद में इमरजेंसी लैंडिंग कराई, जिससे यात्रियों की सांसें अटक गईं।",
+    "tts_text_hi": "सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। विमान में बत्तीस यात्री सवार थे। धमकी मिलते ही पायलट ने अहमदाबाद में इमरजेंसी लैंडिंग कराई, जिससे यात्रियों की सांसें अटक गईं।",
+    "title": "Air India Express Bomb Threat: अहमदाबाद में इमरजेंसी लैंडिंग",
+    "caption": "सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी के बाद अहमदाबाद में इमरजेंसी लैंडिंग कराई गई।",
+    "hashtags": [
+      "#AirIndiaExpress",
+      "#BombThreat",
+      "#Ahmedabad",
+      "#EmergencyLanding",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Air India Express airplane India",
+      "Ahmedabad airport runway India",
+      "security check airport India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27.0,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of sexual abuse/exploitation, requiring manual review for safety and sensitivity guidelines.",
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi city street India",
-        "credit": "Roman Saienko",
+        "query": "Air India Express airplane India",
+        "credit": "shyam mishra",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37381426/pexels-photo-37381426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7701595/pexels-photo-7701595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bus parked street India",
-        "credit": "Muhammad  Furqan",
+        "query": "Ahmedabad airport runway India",
+        "credit": "THE JD Darshan Solanki",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35635297/pexels-photo-35635297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
+        "query": "security check airport India",
+        "credit": "Nothing Ahead",
         "duration_sec": 5
       }
     ],
@@ -64,74 +307,241 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "jyotiraditya_scindia_tobacco_pledge_bank",
+    "topic_label": "mumbai_cng_png_price_hike",
     "virality_score": 8,
-    "reason": "Viral video of Union Minister Jyotiraditya Scindia demanding a youth quit tobacco before assisting with a bank branch.",
+    "reason": "CNG and PNG prices increase in Mumbai starting today, directly impacting daily commuters and household budgets.",
     "region": "india",
-    "headline": "युवक ने मांगा बैंक तो सिंधिया बोले- पहले छोड़ो तंबाकू, फिर दिलवाऊंगा बैंक; मंच से दिलवाई शपथ",
-    "source_summary": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज देखने को मिला. राष्ट्रीयकृत बैंक की मांग करने वाले युवक से सिंधिया ने पहले तंबाकू छोड़ने की शपथ दिलाई, फिर बैंक सुविधा दिलाने का भरोसा दिया. नशा मुक्ति का संदेश देने वाला यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है.",
-    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/jyotiraditya-scindia-viral-video-shivpuri-news-nationalized-bank-branch-tobacco-free-nasha-mukti-11983907#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 31 Aug 2026 23:23:50 +0530",
-    "hook": "तंबाकू छोड़ो, तभी मिलेगा बैंक!",
-    "script_hi": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज सामने आया है। एक युवक ने राष्ट्रीयकृत बैंक की मांग की, तो सिंधिया ने शर्त रखी कि पहले तंबाकू छोड़ो, तब बैंक दिलवाऊंगा। मंच से ही युवक को शपथ भी दिलाई गई, जिसका यह वीडियो सोशल मीडिया पर वायरल हो रहा है।",
-    "tts_text_hi": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज सामने आया है। एक युवक ने राष्ट्रीयकृत बैंक की मांग की, तो सिंधिया ने शर्त रखी कि पहले तंबाकू छोड़ो, तब बैंक दिलवाऊंगा। मंच से ही युवक को शपथ भी दिलाई गई, जिसका यह वीडियो सोशल मीडिया पर वायरल हो रहा है।",
-    "title": "सिंधिया ने युवक से कहा- तंबाकू छोड़ो, बैंक दिलाऊंगा",
-    "caption": "मध्य प्रदेश के शिवपुरी में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने एक युवक को बैंक दिलाने से पहले तंबाकू छोड़ने की शपथ दिलाई।",
+    "headline": "मुंबई में CNG-PNG के साथ ऑटो-टैक्सी भी महंगी, आज से लागू हुईं नई दरें",
+    "source_summary": "CNG-PNG price hike in Mumbai: मुंबई में आज से महानगर गैस ने सीएनजी के दाम 2 रुपये प्रति किलो और घरेलू पीएनजी के दाम 1 रुपये प्रति एससीएम बढ़ा दिए हैं. नई सीएनजी कीमत 88 रुपये प्रति किलो हो गई है. कंपनी ने पश्चिम एशिया के तनाव और बढ़ी हुई इनपुट लागत को इसकी वजह बताया. साथ ही मुंबई महानगर क्षेत्र में ऑटो और टैक्सी का किराया भी बढ़ा दिया गया है.",
+    "source_url": "https://www.aajtak.in/world/story/mumbai-cng-png-auto-taxi-fare-hike-ntc-agkp-dskc-2633597-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T06:43:18+05:30",
+    "hook": "मुंबई में आज से सीएनजी, पीएनजी और ऑटो-टैक्सी का सफर महंगा हो गया है!",
+    "script_hi": "मुंबई में आज से महानगर गैस ने सीएनजी के दाम दो रुपये प्रति किलो और घरेलू पीएनजी के दाम एक रुपये प्रति एससीएम बढ़ा दिए हैं। नई सीएनजी कीमत अट्ठासी रुपये प्रति किलो हो गई है। पश्चिम एशिया के तनाव और बढ़ी हुई लागत के कारण मुंबई महानगर क्षेत्र में ऑटो और टैक्सी का किराया भी बढ़ा दिया गया है। नई दरें आज से लागू हो गई हैं।",
+    "tts_text_hi": "मुंबई में आज से महानगर गैस ने सीएनजी के दाम दो रुपये प्रति किलो और घरेलू पीएनजी के दाम एक रुपये प्रति एससीएम बढ़ा दिए हैं। नई सीएनजी कीमत अट्ठासी रुपये प्रति किलो हो गई है। पश्चिम एशिया के तनाव और बढ़ी हुई लागत के कारण मुंबई महानगर क्षेत्र में ऑटो और टैक्सी का किराया भी बढ़ा दिया गया है। नई दरें आज से लागू हो गई हैं।",
+    "title": "Mumbai CNG PNG Price Hike",
+    "caption": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।",
     "hashtags": [
-      "JyotiradityaScindia",
-      "Shivpuri",
-      "MadhyaPradesh",
-      "ViralVideo",
-      "AntiTobacco",
-      "NewsUpdate"
+      "Mumbai",
+      "CNGPriceHike",
+      "PNG",
+      "MumbaiNews",
+      "AutoTaxiFare",
+      "Inflation",
+      "India"
     ],
     "visual_queries": [
-      "Indian politician speaking crowd India",
-      "Indian man taking oath India",
-      "tobacco control awareness India"
+      "Mumbai street traffic India",
+      "CNG gas station India",
+      "Indian auto rickshaw Mumbai",
+      "Mahanagar Gas office building India"
     ],
-    "named_person": "Jyotiraditya Scindia",
-    "named_person_hi": "ज्योतिरादित्य सिंधिया",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video that requires the real actual footage rather than generic stock B-roll to be fully accurate.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "ज्योतिरादित्य सिंधिया",
-        "source": "fallback",
-        "query": "Jyotiraditya Scindia",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35868474/pexels-photo-35868474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19764951/pexels-photo-19764951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian politician speaking crowd India",
-        "credit": "The Capturist",
+        "query": "Mumbai street traffic India",
+        "credit": "Keith Lobo",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5973471/pexels-photo-5973471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/22702595/pexels-photo-22702595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian man taking oath India",
-        "credit": "Jahnvi Verma",
+        "query": "CNG gas station India",
+        "credit": "lair arce",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28704279/pexels-photo-28704279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16928842/pexels-photo-16928842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "tobacco control awareness India",
-        "credit": "Owen.outdoors",
+        "query": "Indian auto rickshaw Mumbai",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Mahanagar Gas office building India",
+        "credit": "Jibin Yesudasan",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "pending_review"
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Mumbai CNG PNG Price Hike",
+        "caption": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।\n\n#Mumbai #CNGPriceHike #PNG #MumbaiNews #AutoTaxiFare"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।\n\n#Mumbai #CNGPriceHike #PNG #MumbaiNews #AutoTaxiFare"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।\n\n#Mumbai #CNGPriceHike #PNG #MumbaiNews #AutoTaxiFare"
+      },
+      "hashtags": [
+        "Mumbai",
+        "CNGPriceHike",
+        "PNG",
+        "MumbaiNews",
+        "AutoTaxiFare"
+      ]
+    },
+    "audio_path": "audio/mumbai_cng_png_price_hike.wav",
+    "audio_duration_sec": 25.1,
+    "video_path": "videos/mumbai_cng_png_price_hike.mp4",
+    "video_duration_sec": 33.09,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "EekMNRrLqlk",
+        "url": "https://youtube.com/shorts/EekMNRrLqlk",
+        "attempted_at": "2026-09-01T02:17:13.569546+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9635c0555da3a2383f7e54",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।\n\n#Mumbai #CNGPriceHike #PNG #MumbaiNews #AutoTaxiFare",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788229053780_x8grugub_mumbai_cng_png_price_hike.mp4",
+                "_id": "6a9635c0555da3a2383f7e55"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwFUEmy9&_nc_oc=AdpD4W9hoHs44a6LhqFVdeJRe9977DT7W5fFJd6uuNjM08vQkVNkzlz0s9EzF7RbL9E&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=8sJw9xbEIZDaAlS8CV73sQ&_nc_tpa=Q5bMBQJf244gucSJdI3w7hIcO7VwiAgLRSvWCOsaUhYVN70jaIcNKetFYLJF6BIVOhygNgZgPaageZOi&oh=00_AQK7v-nYTQNC45rYxavU3oN6taKi0uVhay8LVyGgCQxEhQ&oe=6A9AD394",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T02:17:34.999Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "516c2f9760a2f375d85737bfb718953c",
+                "_id": "6a9635c0555da3a2383f7e56",
+                "platformPostId": "1075637798201487",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1075637798201487",
+                "publishedAt": "2026-09-01T02:17:45.679Z"
+              }
+            ],
+            "scheduledFor": "2026-09-01T02:17:34.999Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T02:17:36.279Z",
+            "updatedAt": "2026-09-01T02:17:45.833Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T02:17:36.559Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T02:17:46.007633+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9635e60ec8ed4adde9f06e",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "मुंबई में सीएनजी, पीएनजी और ऑटो-टैक्सी के बढ़े दाम, आज से लागू हुई नई दरें।\n\n#Mumbai #CNGPriceHike #PNG #MumbaiNews #AutoTaxiFare",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788229092198_0vyshg28_mumbai_cng_png_price_hike.mp4",
+                "_id": "6a9635e60ec8ed4adde9f06f"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwESUkgk&_nc_oc=AdpBFd6Jo4T_5suofTx_0OlBJh8n21lfeT-LNyk3TxTBzWDmb8EQJ10ZiUCxTFNkToc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5tM6ZcNauKMplKP9RveJZw&_nc_tpa=Q5bMBQJ8sbbQa5K4cWsETuTCLkV7L-eglQpJmIGZWhqOYEDzpDFncdL9j1faMAAaLW0Iec6nZxIrlzPAwA&oh=00_AQKLh9m0c4WNFbUbf51cGjcYooIquRStyD8ojvX2oKh9qw&oe=6A9AC73B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T02:18:13.060Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "949f23b91b13a730e434dd0d46a23e08",
+                "_id": "6a9635e60ec8ed4adde9f070"
+              }
+            ],
+            "scheduledFor": "2026-09-01T02:18:13.060Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T02:18:14.644Z",
+            "updatedAt": "2026-09-01T02:18:16.664Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T02:18:14.745Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T02:18:16.946501+00:00"
+      }
+    }
   }
 ]
