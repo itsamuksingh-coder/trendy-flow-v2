@@ -1,180 +1,60 @@
 [
   {
-    "topic_label": "lionel_messi_international_football_retirement",
-    "virality_score": 10,
-    "reason": "Global football icon Lionel Messi announces retirement from international football after World Cup loss.",
-    "region": "india",
-    "headline": "मेसी ने इंटरनेशनल फुटबॉल से लिया संन्यास, अर्जेंटीना के लिए नहीं खेलेंगे",
-    "source_summary": "दुनिया के सबसे महान फुटबॉलरों में शुमार लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के बेहद रोमांचक फाइनल मुकाबले में स्पेन के हाथों मिली 1-0 की हार के साथ ही मेसी के अर्जेंटीना करियर का अंत हो गया.",
-    "source_url": "https://www.aajtak.in/sports/football/story/lionel-messi-retires-from-international-football-aksp-dskc-2633502-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T20:51:16+05:30",
-    "hook": "लियोनेल मेसी ने इंटरनेशनल फुटबॉल को कहा अलविदा!",
-    "script_hi": "फुटबॉल जगत से आई एक बहुत बड़ी खबर. महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के रोमांचक फाइनल में स्पेन के हाथों एक-शून्य से हार के बाद, उनके अर्जेंटीना के लिए खेलने के सफर का अंत हो गया है.",
-    "tts_text_hi": "फुटबॉल जगत से आई एक बहुत बड़ी खबर. महान खिलाड़ी लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास का ऐलान कर दिया है. जुलाई में हुए वर्ल्ड कप के रोमांचक फाइनल में स्पेन के हाथों एक-शून्य से हार के बाद, उनके अर्जेंटीना के लिए खेलने के सफर का अंत हो गया है.",
-    "title": "लियोनेल मेसी का इंटरनेशनल फुटबॉल से संन्यास",
-    "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।",
-    "hashtags": [
-      "LionelMessi",
-      "ArgentinaFootball",
-      "FootballNews",
-      "MessiRetirement",
-      "WorldCup"
-    ],
-    "visual_queries": [
-      "football stadium Argentina",
-      "sad football player India"
-    ],
-    "named_person": "Lionel Messi",
-    "named_person_hi": "लियोनेल मेसी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/38282744/16256165_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "sad soccer player",
-        "credit": "Bibek Adhikari Chhetri",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_d74f9fa962.jpg",
-        "source": "wikimedia",
-        "query": "Lionel Messi",
-        "credit": "Wikipedia",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24205283/pexels-photo-24205283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "football stadium Argentina",
-        "credit": "Luis Muñoz",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30158894/pexels-photo-30158894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sad football player India",
-        "credit": "Mohd Atir",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32228982/pexels-photo-32228982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sad football player",
-        "credit": "Alfredo Dacosta",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7991905/pexels-photo-7991905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "athlete crying defeat",
-        "credit": "Annushka  Ahuja",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38728253/pexels-photo-38728253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "professional soccer match",
-        "credit": "Mateo Franciosi",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "लियोनेल मेसी का इंटरनेशनल फुटबॉल से संन्यास",
-        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "महान फुटबॉलर लियोनेल मेसी ने इंटरनेशनल फुटबॉल से संन्यास ले लिया है। वर्ल्ड कप फाइनल में हार के साथ उनके अर्जेंटीना करियर का अंत हो गया।\n\n#LionelMessi #ArgentinaFootball #FootballNews #MessiRetirement #WorldCup"
-      },
-      "hashtags": [
-        "LionelMessi",
-        "ArgentinaFootball",
-        "FootballNews",
-        "MessiRetirement",
-        "WorldCup"
-      ]
-    },
-    "audio_path": "audio/lionel_messi_international_football_retirement.wav",
-    "audio_duration_sec": 18.37,
-    "video_path": "videos/lionel_messi_international_football_retirement.mp4",
-    "video_duration_sec": 26.29
-  },
-  {
-    "topic_label": "greater_noida_sleeper_bus_gang_rape",
+    "topic_label": "delhi_sleeper_bus_minor_gangrape",
     "virality_score": 9,
-    "reason": "Horrific 47km moving sleeper bus gang-rape in Greater Noida sparking national outrage and Nirbhaya comparisons.",
+    "reason": "Horrific gang-rape of a minor in a moving sleeper bus from Greater Noida to Delhi sparks immense outrage.",
     "region": "india",
-    "headline": "स्लीपर बस में नाबालिग छात्रा के साथ दरिंदगी की कहानी, याद आई दिल्ली की निर्भया",
-    "source_summary": "ग्रेटर नोएडा के परी चौक से दिल्ली के कश्मीरी गेट के बीच चलती बस में एक नाबालिग लड़की से गैंगरेप का आरोप है. करीब 47 KM तक बस चलती रही. उसमें लड़की के साथ रेप होता रहा. लेकिन कहीं भी बस की चेकिंग नहीं हुई. पढ़ें इस मामले की पूरी कहानी.",
-    "source_url": "https://www.aajtak.in/crime/big-crime/story/greater-noida-delhi-bus-gangrape-minor-pari-chowk-kashmiri-gate-pvzs-rpti-2633496-2026-08-31?utm_source=rssfeed",
+    "headline": "दिल्ली फिर शर्मसार, स्लीपर बस में छात्रा से गैंगरेप",
+    "source_summary": "देश की राजधानी दिल्ली से एक बेहद ही दिल दहला देने वाली और शर्मसार कर देने वाली वारदात सामने आई है. दिल्ली के कश्मीरी गेट जैसे व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर 16 साल की एक नाबालिग छात्रा के साथ सामूहिक दुष्कर्म यानी गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/delhi-gang-rape-case-on-moving-bus-driver-and-conductor-arrested-vdot-ytvd-2633266-2026-08-31?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-08-31T20:46:30+05:30",
-    "hook": "चलती बस में दरिंदगी! दिल्ली जैसी खौफनाक वारदात ने फिर दहलाया दिल।",
-    "script_hi": "Greater Noida के Pari Chowk से Delhi के Kashmiri Gate के बीच चलती स्लीपर बस में एक नाबालिग छात्रा के साथ गैंगरेप की दर्दनाक घटना सामने आई है। आरोप है कि सैंतालीस किलोमीटर तक बस चलती रही औरवान्छित लोग वारदात को अंजाम देते रहे, लेकिन कहीं भी बस की चेकिंग नहीं हुई। इस खौफनाक घटना ने दिल्ली की निर्भया की यादें ताजा कर दी हैं।",
-    "tts_text_hi": "ग्रेटर नोएडा के परी चौक से दिल्ली के कश्मीरी गेट के बीच चलती स्लीपर बस में एक नाबालिग छात्रा के साथ गैंगरेप की दर्दनाक घटना सामने आई है। आरोप है कि सैंतालीस किलोमीटर तक बस चलती रही और लोग वारदात को अंजाम देते रहे, लेकिन कहीं भी बस की चेकिंग नहीं हुई। इस खौफनाक घटना ने दिल्ली की निर्भया की यादें ताजा कर दी हैं।",
-    "title": "Greater Noida Bus Gangrape",
-    "caption": "ग्रेटर नोएडा से दिल्ली जाने वाली स्लीपर बस में नाबालिग छात्रा के साथ चलती बस में गैंगरेप का सनसनीखेज मामला सामने आया है। सैंतालीस किलोमीटर तक बस चलती रही लेकिन पुलिस चेकिंग नहीं हुई।",
+    "published": "2026-08-31T23:12:03+05:30",
+    "hook": "दिल्ली के कश्मीरी गेट इलाके में दिल दहला देने वाली वारदात!",
+    "script_hi": "दिल्ली फिर शर्मसार हुई है. कश्मीरी गेट के व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है. पुलिस मामले की जांच में जुटी है.",
+    "tts_text_hi": "दिल्ली फिर शर्मसार हुई है. कश्मीरी गेट के व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है. पुलिस मामले की जांच में जुटी है.",
+    "title": "दिल्ली के कश्मीरी गेट में छात्रा से गैंगरेप",
+    "caption": "दिल्ली के कश्मीरी गेट इलाके में स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ गैंगरेप की वारदात सामने आई है।",
     "hashtags": [
-      "GreaterNoida",
-      "DelhiCrime",
-      "BusGangrape",
-      "NirbhayaCase",
-      "IndiaNews",
-      "CrimeNews"
+      "DelhiNews",
+      "CrimeNews",
+      "KashmereGate",
+      "DelhiPolice",
+      "BreakingNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian highway night bus India",
-      "police checkpoint India road",
-      "police investigation India street"
+      "Delhi city street India",
+      "bus parked street India",
+      "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 27.0,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of sexual exploitation/abuse.",
+    "flag_reason": "Content involves a minor as a victim of sexual abuse/exploitation, requiring manual review for safety and sensitivity guidelines.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13033459/pexels-photo-13033459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian highway night bus India",
-        "credit": "ÀniL",
+        "query": "Delhi city street India",
+        "credit": "Roman Saienko",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12492185/pexels-photo-12492185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37381426/pexels-photo-37381426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police patrol India night",
-        "credit": "Josue Fuentes",
+        "query": "bus parked street India",
+        "credit": "Muhammad  Furqan",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation India street",
+        "query": "police investigation India",
         "credit": "cottonbro studio",
         "duration_sec": 5
       }
@@ -184,171 +64,74 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "nepal_flood_bank_50_crore_gold_recovery",
-    "virality_score": 9,
-    "reason": "Stunning visuals and report of recovering 50 crore worth of gold from a flood-submerged bank in Nepal.",
+    "topic_label": "jyotiraditya_scindia_tobacco_pledge_bank",
+    "virality_score": 8,
+    "reason": "Viral video of Union Minister Jyotiraditya Scindia demanding a youth quit tobacco before assisting with a bank branch.",
     "region": "india",
-    "headline": "नेपाल बाढ़ डूबा बैंक तो 50 करोड़ का सोना निकला",
-    "source_summary": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली-ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब 8 घंटे चले राहत अभियान में बैंक से लगभग 50 करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद, चांदी और अन्य कीमती सामान सुरक्षित बरामद किया गया।",
-    "source_url": "https://www.aajtak.in/short-videos/video/nepal-flood-bhotekoshi-river-disaster-50-crore-gold-recovered-from-bank-silver-cash-nuwakot-trishuli-mmtc-2633173-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T13:38:08+05:30",
-    "hook": "नेपाल की बाढ़ में डूबा बैंक, अंदर से निकला पचास करोड़ का सोना!",
-    "script_hi": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब आठ घंटे चले राहत अभियान में बैंक से लगभग पचास करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद और अन्य कीमती सामान सुरक्षित बरामद कर लिया गया।",
-    "tts_text_hi": "नेपाल के नुवाकोट जिले में भोटेकोशी नदी की भीषण बाढ़ से कृषि विकास बैंक की त्रिशूली ढुंगे शाखा पानी और मलबे में डूब गई। हालात सामान्य होने के बाद करीब आठ घंटे चले राहत अभियान में बैंक से लगभग पचास करोड़ नेपाली रुपये मूल्य का सोना, डेढ़ करोड़ रुपये नकद और अन्य कीमती सामान सुरक्षित बरामद कर लिया गया।",
-    "title": "नेपाल बाढ़: डूबे हुए बैंक से निकला पचास करोड़ का सोना",
-    "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।",
+    "headline": "युवक ने मांगा बैंक तो सिंधिया बोले- पहले छोड़ो तंबाकू, फिर दिलवाऊंगा बैंक; मंच से दिलवाई शपथ",
+    "source_summary": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज देखने को मिला. राष्ट्रीयकृत बैंक की मांग करने वाले युवक से सिंधिया ने पहले तंबाकू छोड़ने की शपथ दिलाई, फिर बैंक सुविधा दिलाने का भरोसा दिया. नशा मुक्ति का संदेश देने वाला यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/jyotiraditya-scindia-viral-video-shivpuri-news-nationalized-bank-branch-tobacco-free-nasha-mukti-11983907#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 31 Aug 2026 23:23:50 +0530",
+    "hook": "तंबाकू छोड़ो, तभी मिलेगा बैंक!",
+    "script_hi": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज सामने आया है। एक युवक ने राष्ट्रीयकृत बैंक की मांग की, तो सिंधिया ने शर्त रखी कि पहले तंबाकू छोड़ो, तब बैंक दिलवाऊंगा। मंच से ही युवक को शपथ भी दिलाई गई, जिसका यह वीडियो सोशल मीडिया पर वायरल हो रहा है।",
+    "tts_text_hi": "शिवपुरी के पिछोर में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का अनोखा अंदाज सामने आया है। एक युवक ने राष्ट्रीयकृत बैंक की मांग की, तो सिंधिया ने शर्त रखी कि पहले तंबाकू छोड़ो, तब बैंक दिलवाऊंगा। मंच से ही युवक को शपथ भी दिलाई गई, जिसका यह वीडियो सोशल मीडिया पर वायरल हो रहा है।",
+    "title": "सिंधिया ने युवक से कहा- तंबाकू छोड़ो, बैंक दिलाऊंगा",
+    "caption": "मध्य प्रदेश के शिवपुरी में केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने एक युवक को बैंक दिलाने से पहले तंबाकू छोड़ने की शपथ दिलाई।",
     "hashtags": [
-      "NepalFlood",
-      "GoldRecovery",
-      "BreakingNews",
-      "NepalNews",
-      "FloodUpdate"
+      "JyotiradityaScindia",
+      "Shivpuri",
+      "MadhyaPradesh",
+      "ViralVideo",
+      "AntiTobacco",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Bhote Koshi river flood Nepal",
-      "bank building flooded water India",
-      "bank vault gold rescue operation India"
+      "Indian politician speaking crowd India",
+      "Indian man taking oath India",
+      "tobacco control awareness India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Jyotiraditya Scindia",
+    "named_person_hi": "ज्योतिरादित्य सिंधिया",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video that requires the real actual footage rather than generic stock B-roll to be fully accurate.",
     "assets": [
       {
+        "type": "text_card",
+        "text": "ज्योतिरादित्य सिंधिया",
+        "source": "fallback",
+        "query": "Jyotiraditya Scindia",
+        "duration_sec": 4.0
+      },
+      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18322777/pexels-photo-18322777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35868474/pexels-photo-35868474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Bhote Koshi river flood Nepal",
-        "credit": "Nishant Rana",
+        "query": "Indian politician speaking crowd India",
+        "credit": "The Capturist",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5973471/pexels-photo-5973471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bank building flooded water India",
-        "credit": "Arto Suraj",
+        "query": "Indian man taking oath India",
+        "credit": "Jahnvi Verma",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25913209/pexels-photo-25913209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28704279/pexels-photo-28704279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bank vault gold rescue operation India",
-        "credit": "Orhan Pergel",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27398545/pexels-photo-27398545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "muddy flood disaster aftermath",
-        "credit": "Emmanuel ( Super Manny)  Rodriguez",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13970482/pexels-photo-13970482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "bank building exterior india",
-        "credit": "Saikat  Das",
+        "query": "tobacco control awareness India",
+        "credit": "Owen.outdoors",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "नेपाल बाढ़: डूबे हुए बैंक से निकला पचास करोड़ का सोना",
-        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नेपाल के नुवाकोट में बाढ़ से डूबे बैंक से सुरक्षित निकाला गया पचास करोड़ का सोना और नकदी।\n\n#NepalFlood #GoldRecovery #BreakingNews #NepalNews #FloodUpdate"
-      },
-      "hashtags": [
-        "NepalFlood",
-        "GoldRecovery",
-        "BreakingNews",
-        "NepalNews",
-        "FloodUpdate"
-      ]
-    },
-    "audio_path": "audio/nepal_flood_bank_50_crore_gold_recovery.wav",
-    "audio_duration_sec": 24.36,
-    "video_path": "videos/nepal_flood_bank_50_crore_gold_recovery.mp4",
-    "video_duration_sec": 32.36
-  },
-  {
-    "topic_label": "phonepe_offline_upi_123pay_launch",
-    "virality_score": 7,
-    "reason": "High utility tech news about PhonePe launching offline UPI payments for millions of feature phone users.",
-    "region": "india",
-    "headline": "बिना इंटरनेट होगा UPI पेमेंट! PhonePe ने लॉन्च किया 123Pay",
-    "source_summary": "स्मार्टफोन और इंटरनेट के बिना UPI पेमेंट करना अब आसान है. PhonePe ने फीचर फोन यूजर्स के लिए 123UPI सर्विस लॉन्च की है, जिससे बिना इंटरनेट पैसे भेजने, रिसीव करने और बैंक बैलेंस चेक करने जैसी सुविधाएं मिलेंगी.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/phonepe-123upi-upi-payments-without-internet-feature-phone-prym-dskc-2633471-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T19:55:04+05:30",
-    "hook": "बिना इंटरनेट के अब होगा यूपीआई पेमेंट!",
-    "script_hi": "बिना इंटरनेट और स्मार्टफोन के अब यूपीआई पेमेंट करना हुआ बेहद आसान। फोनपे ने फीचर फोन यूजर्स के लिए वन टू थ्री पे सर्विस भारत में लॉन्च कर दी है। इस नई सुविधा की मदद से बिना इंटरनेट पैसे भेजना, पैसे रिसीव करना और बैंक बैलेंस चेक करना मुमकिन होगा।",
-    "tts_text_hi": "बिना इंटरनेट और स्मार्टफोन के अब यूपीआई पेमेंट करना हुआ बेहद आसान। फोनपे ने फीचर फोन यूजर्स के लिए वन टू थ्री पे सर्विस भारत में लॉन्च कर दी है। इस नई सुविधा की मदद से बिना इंटरनेट पैसे भेजना, पैसे रिसीव करना और बैंक बैलेंस चेक करना मुमकिन होगा।",
-    "title": "बिना इंटरनेट होगा UPI पेमेंट",
-    "caption": "बिना इंटरनेट और स्मार्टफोन के अब फीचर फोन से भी होगा UPI पेमेंट, PhonePe ने लॉन्च की नई सर्विस।",
-    "hashtags": [
-      "PhonePe",
-      "UPI",
-      "TechNews",
-      "DigitalIndia",
-      "Banking"
-    ],
-    "visual_queries": [
-      "Indian feature phone screen",
-      "man using mobile phone India",
-      "digital payment India shopping"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36717013/15561775_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian feature phone screen",
-        "credit": "Mahadi Hassan Molla",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18453078/pexels-photo-18453078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "man using mobile phone India",
-        "credit": "Iqbal farooz",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6994295/pexels-photo-6994295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "digital payment India shopping",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "pending_review"
   }
 ]
