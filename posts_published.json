@@ -2,1066 +2,761 @@
   {
     "topic_label": "delhi_bus_gangrape",
     "virality_score": 10,
-    "reason": "Highly sensitive and shocking crime case involving a minor, triggering immediate and widespread national outrage.",
+    "reason": "Highly sensitive and shocking news story involving public safety; significant national interest.",
     "region": "india",
     "headline": "दिल्ली फिर शर्मसार, स्लीपर बस में छात्रा से गैंगरेप",
     "source_summary": "देश की राजधानी दिल्ली से एक बेहद ही दिल दहला देने वाली और शर्मसार कर देने वाली वारदात सामने आई है. दिल्ली के कश्मीरी गेट जैसे व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर 16 साल की एक नाबालिग छात्रा के साथ सामूहिक दुष्कर्म यानी गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है.",
     "source_url": "https://www.aajtak.in/short-videos/video/delhi-gang-rape-case-on-moving-bus-driver-and-conductor-arrested-vdot-ytvd-2633266-2026-08-31?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-31T23:12:03+05:30",
-    "hook": "दिल्ली में फिर दरिंदगी, स्लीपर बस में नाबालिग से गैंगरेप!",
-    "script_hi": "दिल्ली फिर हुई शर्मसार! कश्मीरी गेट के पास खड़ी स्लीपर बस में सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। देश की राजधानी में महिलाओं की सुरक्षा पर उठे बड़े सवाल।",
-    "tts_text_hi": "दिल्ली फिर हुई शर्मसार। कश्मीरी गेट के पास खड़ी स्लीपर बस में सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। देश की राजधानी में महिलाओं की सुरक्षा पर उठे बड़े सवाल।",
-    "title": "दिल्ली में नाबालिग छात्रा से गैंगरेप",
-    "caption": "दिल्ली के कश्मीरी गेट इलाके में स्लीपर बस के अंदर नाबालिग छात्रा के साथ सामूहिक दुष्कर्म की शर्मनाक घटना सामने आई है।",
+    "hook": "दिल्ली में फिर दरिंदगी, सरेआम स्लीपर बस में नाबालिग से गैंगरेप!",
+    "script_hi": "दिल्ली फिर हुई शर्मसार। कश्मीरी गेट जैसे व्यस्त इलाके में, एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। इस घिनौनी वारदात ने सुरक्षा व्यवस्था पर बड़े सवाल खड़े कर दिए हैं।",
+    "tts_text_hi": "दिल्ली फिर हुई शर्मसार। कश्मीरी गेट जैसे व्यस्त इलाके में, एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। इस घिनौनी वारदात ने सुरक्षा व्यवस्था पर बड़े सवाल खड़े कर दिए हैं।",
+    "title": "दिल्ली के कश्मीरी गेट में छात्रा से गैंगरेप",
+    "caption": "दिल्ली के कश्मीरी गेट इलाके में स्लीपर बस के अंदर नाबालिग छात्रा से गैंगरेप की घटना ने सबको झकझोर कर रख दिया है।",
     "hashtags": [
-      "DelhiCrime",
+      "Delhi",
+      "KashmereGate",
+      "CrimeNews",
       "JusticeForVictim",
-      "DelhiNews",
-      "SafetyFirst",
-      "BreakingNews",
-      "HindiNews"
+      "DelhiPolice",
+      "ShockingNews",
+      "Safety"
     ],
     "visual_queries": [
-      "busy Kashmiri Gate street India",
-      "nighttime sleeper bus exterior India",
+      "India city street traffic",
+      "Indian sleeper bus parked",
       "police investigation scene India",
-      "upset worried crowd India"
+      "sadness and injustice mood"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of a serious crime, requiring sensitive handling to ensure no identifying information is disclosed that could harm the victim.",
+    "flag_reason": "Contains a report involving a minor victim; requires sensitive handling per guidelines.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34759748/14736150_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20548184/pexels-photo-20548184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "nighttime sleeper bus exterior India",
-        "credit": "Raaj Ugar",
-        "source_duration_sec": 5,
+        "query": "India city street traffic",
+        "credit": "Prabhakar Prajapati",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18089520/pexels-photo-18089520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11930016/pexels-photo-11930016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "upset worried crowd India",
-        "credit": "Manish Jangid",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pnb_saharanpur_fake_currency",
-    "virality_score": 9,
-    "reason": "Massive banking scandal involving crores in fake currency has immediate public interest and high shock value.",
-    "region": "india",
-    "headline": "पंजाब नेशनल बैंक में बड़ा फर्जीवाड़ा, 17 करोड़ के असली नोट बदलकर नकली रख दिए, 3 अफसर सस्‍पेंड",
-    "source_summary": "Saharanpur PNB Money Scam: पंजाब नेशनल बैंक के मनी वॉल्‍ड में असली की जगह नकली नोट देखकर बैंक अफसरों के होश उड़ गए। एसआईटी पूरे मामले की जांच कर रही है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/saharanpur/punjab-national-bank-money-walt-duplicate-currency-officer-suspend/articleshow/133667205.cms",
-    "source_name": "Navbharat Times",
-    "published": "Tue, 01 Sep 2026 09:15:00 +0530",
-    "hook": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला सामने आया है!",
-    "script_hi": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला। बैंक के मनी वॉ*ल्ट में असली नोटों की जगह नकली नोट पाए गए। तीन अफसर सस्पेंड, एसआईटी जांच में जुटी।",
-    "tts_text_hi": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला सामने आया है। सहारनपुर में बैंक के मनी वॉल्ट में जब अधिकारियों ने पड़ताल की, तो उनके होश उड़ गए। वहां असली नोटों की जगह नकली नोट रखे हुए थे। मामले की गंभीरता को देखते हुए तीन अधिकारियों को सस्पेंड कर दिया गया है और अब एसआईटी इस पूरे फर्जीवाड़े की जांच कर रही है।",
-    "title": "PNB में सत्तरह करोड़ का फर्जीवाड़ा",
-    "caption": "पंजाब नेशनल बैंक के सहारनपुर ब्रांच में सत्तरह करोड़ के असली नोट बदलकर नकली नोट रखने का मामला सामने आया है।",
-    "hashtags": [
-      "PNBScam",
-      "SaharanpurNews",
-      "BankingFraud",
-      "BreakingNews",
-      "HindiNews",
-      "CyberCrime"
-    ],
-    "visual_queries": [
-      "Punjab National Bank India logo",
-      "bank vault interior India",
-      "Indian police investigation team",
-      "handcuffs on table India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story mentions a specific financial crime incident at a named bank branch; specific news report footage is required to accurately represent this event, as generic stock footage would not show the actual location or authorities involved.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6282146/6282146-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "bank currency vault",
-        "credit": "Monstera Production",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19920920/pexels-photo-19920920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "bank vault interior India",
-        "credit": "Berna",
+        "query": "Delhi street night",
+        "credit": "Kuldeep Rajora",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12685323/pexels-photo-12685323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30555889/pexels-photo-30555889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian bank interior",
-        "credit": "Kübra Aydın",
+        "query": "Delhi city street life",
+        "credit": "8Percent Media",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6077555/pexels-photo-6077555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6908042/pexels-photo-6908042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "handcuffs on table India",
-        "credit": "KATRIN  BOLOVTSOVA",
+        "query": "sadness and injustice mood",
+        "credit": "Meruyert Gonullu",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kaushambi_factory_blast_encounter",
+    "topic_label": "mumbai_inflation_spikes",
     "virality_score": 9,
-    "reason": "High-impact crime story involving a major firecracker factory blast and a swift police encounter of the prime suspect.",
+    "reason": "Direct impact on urban daily life with multiple cost-of-living increases in Mumbai; high audience relevance.",
     "region": "india",
-    "headline": "भागेगा तो बचेगा नहीं! 11 मौतों के जिम्मेदार का पुलिस ने किया हाफ एनकाउंटर",
-    "source_summary": "यूपी के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले के मुख्य आरोपी नौशाद अली को पुलिस ने एनकाउंटर के बाद गिरफ्तार कर लिया है. पुलिस के मुताबिक, मुठभेड़ में नौशाद अली के पैर में गोली लगी, जिसके बाद उसे घायल हालत में अस्पताल भेजा गया.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kaushambi-firecracker-factory-blast-main-accused-naushad-ali-encounter-up-police-ntc-agkp-rpti-2633617-2026-09-01?utm_source=rssfeed",
+    "headline": "मुंबई में महंगाई वाला &#039;मंगलवार&#039;... चाय से रात के सफर तक सब हुआ महंगा!",
+    "source_summary": "Mumbai Inflation: मुंबई में आज से तीन तरह की महंगाई एक साथ लागू हुई है. महानगर गैस ने सीएनजी 2 रुपये और पीएनजी 1 रुपये प्रति यूनिट महंगी कर दी है, जिससे सीएनजी अब 88 रुपये प्रति किलो हो गई है. वजह पश्चिम एशिया का तनाव और महंगा आयात बताई गई है. साथ ही ऑटो का न्यूनतम किराया 27 रुपये और टैक्सी का 33 रुपये कर दिया गया है, जो 18 महीने बाद बढ़ा है. इसके अलावा तबेले का दूध 9 रुपये बढ़कर 102 रुपये प्रति लीटर हो गया है.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/mumbai-cng-png-milk-auto-taxi-fare-hike-september-1-inflation-ntc-agkp-dskc-2633709-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-01T08:04:05+05:30",
-    "hook": "यूपी के कौशांबी में पटाखा फैक्ट्री धमाके का मुख्य आरोपी अब पुलिस की गिरफ्त में है।",
-    "script_hi": "यूपी के कौशांबी में ग्यारह मौतों के जिम्मेदार नौशाद अली का हुआ एनकाउंटर। पुलिस ने मुठभेड़ के बाद मुख्य आरोपी को पैर में गोली मारकर गिरफ्तार किया है। आरोपी को घायल हालत में अस्पताल भेजा गया है।",
-    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में ग्यारह मौतों के जिम्मेदार नौशाद अली का हुआ एनकाउंटर। पुलिस ने मुठभेड़ के बाद मुख्य आरोपी को पैर में गोली मारकर गिरफ्तार किया है। आरोपी को घायल हालत में अस्पताल भेजा गया है।",
-    "title": "नौशाद अली का एनकाउंटर",
-    "caption": "कौशांबी पटाखा फैक्ट्री विस्फोट मामले के आरोपी नौशाद अली का एनकाउंटर, पुलिस ने किया गिरफ्तार।",
+    "published": "2026-09-01T10:07:39+05:30",
+    "hook": "मुंबई वालों पर महंगाई की दोहरी मार, आज से सीएनजी, दूध और ऑटो-टैक्सी का सफर हुआ महंगा!",
+    "script_hi": "मुंबई वालों पर महंगाई की दोहरी मार, आज से सीएनजी, दूध और ऑटो-टैक्सी का सफर हुआ महंगा! महानगरीय गैस ने सीएनजी दो रुपये और पीएनजी एक रुपये प्रति यूनिट महंगी कर दी है, जिससे सीएनजी अब अठासी रुपये प्रति किलो है। इसके साथ ही अठारह महीने बाद ऑटो का किराया सत्ताईस रुपये और टैक्सी का तैंतीस रुपये हो गया है। यही नहीं, तबेले का दूध भी नौ रुपये महंगा होकर एक सौ दो रुपये प्रति लीटर पर पहुंच गया है। सरकार इसे पश्चिम एशिया में तनाव और महंगे आयात का असर बता रही है।",
+    "tts_text_hi": "मुंबई वालों पर महंगाई की दोहरी मार, आज से सीएनजी, दूध और ऑटो-टैक्सी का सफर हुआ महंगा! महानगरीय गैस ने सीएनजी दो रुपये और पीएनजी एक रुपये प्रति यूनिट महंगी कर दी है, जिससे सीएनजी अब अठासी रुपये प्रति किलो है। इसके साथ ही अठारह महीने बाद ऑटो का किराया सत्ताईस रुपये और टैक्सी का तैंतीस रुपये हो गया है। यही नहीं, तबेले का दूध भी नौ रुपये महंगा होकर एक सौ दो रुपये प्रति लीटर पर पहुंच गया है। सरकार इसे पश्चिम एशिया में तनाव और महंगे आयात का असर बता रही है।",
+    "title": "मुंबई में महंगाई की मार",
+    "caption": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।",
     "hashtags": [
-      "Kaushambi",
-      "UPPolice",
-      "Encounter",
-      "CrimeNews",
-      "UttarPradesh",
-      "HindiNews"
+      "MumbaiInflation",
+      "MumbaiNews",
+      "CNGPriceHike",
+      "Mehangai",
+      "MumbaiAuto",
+      "MumbaiDiaries"
     ],
     "visual_queries": [
-      "Indian police station building",
-      "Indian police crime scene investigation",
-      "hospital emergency ward India"
+      "Mumbai city traffic India",
+      "CNG filling station India",
+      "auto rickshaw Mumbai India",
+      "milk glass pouring India"
     ],
-    "named_person": "Naushad Ali",
-    "named_person_hi": "नौशाद अली",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13975198/pexels-photo-13975198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Mumbai city traffic India",
+        "credit": "Swapnil Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18091972/pexels-photo-18091972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CNG filling station India",
+        "credit": "Shivansh  Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16928842/pexels-photo-16928842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "auto rickshaw Mumbai India",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34324342/pexels-photo-34324342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "milk glass pouring India",
+        "credit": "Jinshu Pulpatta",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "मुंबई में महंगाई की मार",
+        "caption": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।\n\n#MumbaiInflation #MumbaiNews #CNGPriceHike #Mehangai #MumbaiAuto"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।\n\n#MumbaiInflation #MumbaiNews #CNGPriceHike #Mehangai #MumbaiAuto"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।\n\n#MumbaiInflation #MumbaiNews #CNGPriceHike #Mehangai #MumbaiAuto"
+      },
+      "hashtags": [
+        "MumbaiInflation",
+        "MumbaiNews",
+        "CNGPriceHike",
+        "Mehangai",
+        "MumbaiAuto"
+      ]
+    },
+    "audio_path": "audio/mumbai_inflation_spikes.wav",
+    "audio_duration_sec": 30.2,
+    "video_path": "videos/mumbai_inflation_spikes.mp4",
+    "video_duration_sec": 38.26,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "5RZuINPxSZU",
+        "url": "https://youtube.com/shorts/5RZuINPxSZU",
+        "attempted_at": "2026-09-01T05:38:05.657029+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9664daa84e9eed879ea31b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।\n\n#MumbaiInflation #MumbaiNews #CNGPriceHike #Mehangai #MumbaiAuto",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788241111864_rm30xt69_mumbai_inflation_spikes.mp4",
+                "_id": "6a9664daa84e9eed879ea31c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T05:38:32.786Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "dd08477d73e31474d0f7e43fe99b9255",
+                "_id": "6a9664daa84e9eed879ea31d",
+                "platformPostId": "2003318297017761",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2003318297017761",
+                "publishedAt": "2026-09-01T05:38:39.331Z"
+              }
+            ],
+            "scheduledFor": "2026-09-01T05:38:32.786Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T05:38:34.062Z",
+            "updatedAt": "2026-09-01T05:38:39.474Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T05:38:34.296Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T05:38:39.644550+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9664fc057f0371bf790f68",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "मुंबई में सीएनजी, दूध और ऑटो-टैक्सी के दाम बढ़े, आम जनता की जेब पर बढ़ा बोझ।\n\n#MumbaiInflation #MumbaiNews #CNGPriceHike #Mehangai #MumbaiAuto",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788241146847_ufh0qnp0_mumbai_inflation_spikes.mp4",
+                "_id": "6a9664fc057f0371bf790f69"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T05:39:07.873Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "0a0ce3e57e1ca99e5c51aa8df8bcace0",
+                "_id": "6a9664fc057f0371bf790f6a"
+              }
+            ],
+            "scheduledFor": "2026-09-01T05:39:07.873Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T05:39:08.719Z",
+            "updatedAt": "2026-09-01T05:39:11.044Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T05:39:08.793Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T05:39:11.411554+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "us_iran_conflict_escalation",
+    "virality_score": 9,
+    "reason": "Major global geopolitical conflict affecting fuel prices and India; high stakes and visual impact.",
+    "region": "india",
+    "headline": "अमेरिका का ईरान पर अटैक, देखें IRGC का पलटवार",
+    "source_summary": "अमेरिका और ईरान के बीच एक बार फिर से टकराव बढ़ गया है. अमेरिका ने समुद्री खदानें बिछाने के खतरे का हवाला देते हुए ईरान के लाराक द्वीप पर स्थित सैन्य ठिकानों को निशाना बनाया. इस अमेरिकी कार्रवाई के जवाब में ईरान भी पीछे नहीं हटा. IRGC ने जवाबी कार्रवाई करते हुए जॉर्डन में स्थित अमेरिकी सैन्य ठिकानों पर ताबड़तोड़ बैलिस्टिक मिसाइलें दागीं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/us-iran-war-attacks-larak-island-irgc-strikes-american-airbase-in-jordan-vdot-ytvd-2633110-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T23:19:01+05:30",
+    "hook": "अमेरिका और ईरान के बीच फिर छिड़ी जंग!",
+    "script_hi": "अमेरिका और ईरान के बीच तनाव चरम पर है। अमेरिका ने ईरान के लाराक द्वीप पर सैन्य ठिकानों को निशाना बनाया। इसके जवाब में ईरान के आईआरजीसी ने जॉर्डन स्थित अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलें दागीं।",
+    "tts_text_hi": "अमेरिका और ईरान के बीच तनाव चरम पर है। अमेरिका ने ईरान के लाराक द्वीप पर सैन्य ठिकानों को निशाना बनाया। इसके जवाब में ईरान के आईआरजीसी ने जॉर्डन स्थित अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलें दागीं।",
+    "title": "अमेरिका-ईरान के बीच बढ़ा तनाव",
+    "caption": "अमेरिका और ईरान के बीच फिर से सैन्य टकराव तेज हो गया है, दोनों देशों ने एक-दूसरे के सैन्य ठिकानों को निशाना बनाया है।",
+    "hashtags": [
+      "USIran",
+      "BreakingNews",
+      "MiddleEastTension",
+      "IRGC",
+      "WarUpdate",
+      "InternationalNews"
+    ],
+    "visual_queries": [
+      "US military aircraft",
+      "Larak Island landscape",
+      "Middle East military base",
+      "ballistic missile launch"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific ongoing criminal investigation and an encounter of a named individual; requires verification of official police reports regarding the suspect's status.",
+    "flag_reason": "Needs real footage of the specific military strike locations and aftermath mentioned in the report; generic stock footage would misrepresent this specific geopolitical escalation.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2665153/pexels-photo-2665153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US military aircraft",
+        "credit": "Cristian Benavides",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31616350/pexels-photo-31616350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Larak Island landscape",
+        "credit": "Abdullah Baskaya",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37924617/pexels-photo-37924617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Middle East military base",
+        "credit": "Natalya Rostun",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13128608/pexels-photo-13128608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ballistic missile launch",
+        "credit": "Shuaizhi Tian",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "hardik_pandya_injury",
+    "virality_score": 8,
+    "reason": "Hardik Pandya is a major celebrity cricketer; his fitness is a massive talking point for Indian sports fans.",
+    "region": "india",
+    "headline": "हार्दिक पंड्या फिर चोटिल, टीम इंडिया में वापसी पर लगा ब्रेक!",
+    "source_summary": "हार्दिक पंड्या की इंटरनेशनल क्रिकेट में वापसी एक बार फिर टल सकती है. BCCI सेंटर ऑफ एक्सीलेंस में ट्रेनिंग के दौरान उनके पैर में हल्की चोट लगी है. इसके बाद उन्हें बॉलिंग रोकने की सलाह दी गई है. 13 सितंबर से अफगानिस्तान के खिलाफ होने वाली T20I सीरीज के लिए उनकी फिटनेस अब बड़ा सवाल बन गई है.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/hardik-pandya-injury-coe-bcci-team-india-comeback-afghanistan-series-tspok-dskc-2633738-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T10:25:55+05:30",
+    "hook": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर!",
+    "script_hi": "हार्दिक पंड्या की टीम इंडिया में वापसी पर लगा ब्रेक। बीसीसीआई सेंटर ऑफ एक्सीलेंस में ट्रेनिंग के दौरान उनके पैर में चोट लगी है। उन्हें गेंदबाजी रोकने की सलाह दी गई है। तेरह सितंबर से अफगानिस्तान के खिलाफ होने वाली सीरीज के लिए उनकी फिटनेस अब बड़ा सवाल बनी है।",
+    "tts_text_hi": "हार्दिक पंड्या की टीम इंडिया में वापसी पर लगा ब्रेक। बीसीसीआई सेंटर ऑफ एक्सीलेंस में ट्रेनिंग के दौरान उनके पैर में चोट लगी है। उन्हें गेंदबाजी रोकने की सलाह दी गई है। तेरह सितंबर से अफगानिस्तान के खिलाफ होने वाली सीरीज के लिए उनकी फिटनेस अब बड़ा सवाल बनी है।",
+    "title": "हार्दिक पंड्या फिर चोटिल",
+    "caption": "क्या हार्दिक पंड्या अफगानिस्तान सीरीज से बाहर होंगे? बीसीसीआई के सेंटर ऑफ एक्सीलेंस में चोट के बाद वापसी पर संशय।",
+    "hashtags": [
+      "HardikPandya",
+      "TeamIndia",
+      "CricketNews",
+      "BCCI",
+      "CricketUpdate",
+      "InjuryUpdate"
+    ],
+    "visual_queries": [
+      "Indian cricket stadium",
+      "cricket practice session India",
+      "injured athlete sitting",
+      "Indian cricket board logo"
+    ],
+    "named_person": "Hardik Pandya",
+    "named_person_hi": "हार्दिक पंड्या",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "नौशाद अली",
+        "text": "हार्दिक पंड्या",
         "source": "fallback",
-        "query": "Naushad Ali",
+        "query": "Hardik Pandya",
         "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9559761/pexels-photo-9559761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket player practice",
+        "credit": "Steward Masweneng",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20015824/pexels-photo-20015824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket practice session India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7339493/pexels-photo-7339493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "injured athlete sitting",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "हार्दिक पंड्या फिर चोटिल, टीम इंडिया में वापसी पर लगा ब्रेक! 🏏",
+        "caption": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर! \n\nलंबे समय बाद अपनी फिटनेस पर काम कर रहे हार्दिक को दोबारा चोट लग गई है। इस झटके के बाद अब उनके मैदान पर लौटने की उम्मीदों को बड़ा धक्का लगा है।\n\nक्या हार्दिक को अब वर्कलोड मैनेजमेंट पर और ज्यादा ध्यान देना चाहिए? अपनी राय कमेंट में बताएं।\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #SportsUpdate"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर! 🚨\n\nफिटनेस का सफर एक बार फिर रुक गया है। मैदान पर वापसी का इंतज़ार कर रहे फैंस के लिए यह बड़ा झटका है। \n\nक्या उन्हें अब अपनी फिटनेस पर और सख्त होने की जरूरत है?\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #SportsUpdate"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर! \n\nटीम इंडिया में वापसी की राह देख रहे हार्दिक पंड्या एक बार फिर इंजरी का शिकार हो गए हैं। उनकी फिटनेस को लेकर ये नया अपडेट खेल प्रेमियों के लिए किसी बड़े झटके से कम नहीं है। \n\nक्या आपको लगता है कि अब हार्दिक की टीम में जगह खतरे में है? कमेंट करके अपनी बात रखें।\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #SportsUpdate"
+      },
+      "hashtags": [
+        "HardikPandya",
+        "TeamIndia",
+        "CricketNews",
+        "IndianCricket",
+        "SportsUpdate"
+      ]
+    },
+    "audio_path": "audio/hardik_pandya_injury.wav",
+    "audio_duration_sec": 18.1,
+    "video_path": "videos/hardik_pandya_injury.mp4",
+    "video_duration_sec": 26.16,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "7IVXluR1Hf4",
+        "url": "https://youtube.com/shorts/7IVXluR1Hf4",
+        "attempted_at": "2026-09-01T05:43:52.659483+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9666312b8b7fd6b0c3bcc2",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर! \n\nटीम इंडिया में वापसी की राह देख रहे हार्दिक पंड्या एक बार फिर इंजरी का शिकार हो गए हैं। उनकी फिटनेस को लेकर ये नया अपडेट खेल प्रेमियों के लिए किसी बड़े झटके से कम नहीं है। \n\nक्या आपको लगता है कि अब हार्दिक की टीम में जगह खतरे में है? कमेंट करके अपनी बात रखें।\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #SportsUpdate",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788241455905_udgud6k1_hardik_pandya_injury.mp4",
+                "_id": "6a9666312b8b7fd6b0c3bcc3"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T05:44:16.862Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "ea12102ea4845f7a4eeea395d6eb1d28",
+                "_id": "6a9666312b8b7fd6b0c3bcc4",
+                "platformPostId": "1106043062084855",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1106043062084855",
+                "publishedAt": "2026-09-01T05:44:23.240Z"
+              }
+            ],
+            "scheduledFor": "2026-09-01T05:44:16.862Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T05:44:17.676Z",
+            "updatedAt": "2026-09-01T05:44:23.415Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T05:44:17.797Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T05:44:23.677069+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a96665235612ce9c28d5793",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "हार्दिक पंड्या के फैंस के लिए बुरी खबर, फिर से चोटिल हुए टीम इंडिया के स्टार ऑलराउंडर! 🚨\n\nफिटनेस का सफर एक बार फिर रुक गया है। मैदान पर वापसी का इंतज़ार कर रहे फैंस के लिए यह बड़ा झटका है। \n\nक्या उन्हें अब अपनी फिटनेस पर और सख्त होने की जरूरत है?\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #SportsUpdate",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788241488826_e9z0hhj6_hardik_pandya_injury.mp4",
+                "_id": "6a96665235612ce9c28d5794"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-01T05:44:49.684Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "b240c9fb6b6e52f24d03a160c8d17be2",
+                "_id": "6a96665235612ce9c28d5795"
+              }
+            ],
+            "scheduledFor": "2026-09-01T05:44:49.684Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-01T05:44:50.323Z",
+            "updatedAt": "2026-09-01T05:44:52.114Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-01T05:44:50.414Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-01T05:44:52.521749+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "kaushambi_factory_blast_encounter",
+    "virality_score": 8,
+    "reason": "Combines a tragic disaster with high-impact police action (encounter/bulldozer); visually dramatic.",
+    "region": "india",
+    "headline": "कौशांबी में फैक्ट्री धमाके में एक्शन, मुख्य आरोपी आदिल का एनकाउंटर",
+    "source_summary": "कौशांबी में पटाखा फैक्ट्री में हुई धमाके की, जिसमें 11 मौतों के बाद प्रशासन ने बड़ा एक्शन लिया है. देर रात मामले के मुख्य आरोपी मोहम्मद आदिल के गोदाम पर बुलडोजर चलाकर उसे ध्वस्त कर दिया गया. वहीं इस मामले में पुलिस ने शबाना और साइना को हिरासत में लिया है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/video/action-taken-following-factory-blast-in-kaushambi-main-accused-adil-shot-in-encounter-vdos-2633656-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T09:25:49+05:30",
+    "hook": "कौशांबी में पटाखा फैक्ट्री धमाके के बाद पुलिस का बड़ा एक्शन!",
+    "script_hi": "कौशांबी में पटाखा फैक्ट्री धमाके के बाद प्रशासन सख्त। मुख्य आरोपी आदिल का एनकाउंटर और गोदाम पर चला बुलडोजर। ग्यारह मौतों के मामले में शबाना और साइना हिरासत में।",
+    "tts_text_hi": "कौशांबी में पटाखा फैक्ट्री धमाके के बाद प्रशासन सख्त हो गया है। इस हादसे में ग्यारह लोगों की मौत के बाद मुख्य आरोपी मोहम्मद आदिल के गोदाम पर बुलडोजर चलाकर उसे ध्वस्त कर दिया गया है। वहीं पुलिस ने मामले में शबाना और साइना नाम की दो महिलाओं को हिरासत में लिया है।",
+    "title": "कौशांबी पटाखा फैक्ट्री धमाके पर बड़ी कार्रवाई",
+    "caption": "कौशांबी फैक्ट्री धमाके के मुख्य आरोपी पर प्रशासन का बुलडोजर एक्शन।",
+    "hashtags": [
+      "Kaushambi",
+      "Blast",
+      "UpNews",
+      "Action",
+      "Bulldozer",
+      "LatestNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "fireworks factory ruins India",
+      "demolition bulldozer India site",
+      "Indian police investigation scene"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story refers to a specific local incident/crime scene that requires manual addition of the real event footage as generic stock footage would misrepresent the specific tragedy.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "demolition bulldozer India site",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 32,
+        "duration_sec": 6
       },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian police crime scene investigation",
+        "query": "Indian police investigation scene",
         "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27896110/pexels-photo-27896110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police station building",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital emergency ward India",
-        "credit": "Juan Moccagatta",
+        "query": "fireworks factory ruins India",
+        "credit": "Monoswita Palchowdhury",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "asset_count": 3,
+    "timeline_covered_sec": 17,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "messi_retirement",
-    "virality_score": 9,
-    "reason": "Global sporting icon Lionel Messi retiring is massive news for Indian football fans.",
+    "topic_label": "pakistan_driverless_car_fail",
+    "virality_score": 7,
+    "reason": "Viral-worthy 'fail' video content that is lighthearted and highly shareable.",
     "region": "india",
-    "headline": "मेसी का वर्ल्ड कप फाइनल में हार के बाद बड़ा फैसला",
-    "source_summary": "लियोनेल मेसी ने अर्जेंटीना की राष्ट्रीय टीम से अंतरराष्ट्रीय फुटबॉल को अलविदा कहने का ऐलान किया है. भावुक सोशल मीडिया पोस्ट में उन्होंने बताया कि विश्व कप फाइनल में स्पेन से हार के बाद ही उनके मन में यह फैसला आया था. पिता के निधन के बाद उनका निर्णय और मजबूत हो गया. मेसी ने प्रशंसकों, परिवार, कोच और साथियों का शुक्रिया अदा किया और कहा कि टीम को बाहर से समर्थन देंगे.",
-    "source_url": "https://www.aajtak.in/short-videos/video/lionel-messi-announces-international-retirement-after-world-cup-final-defeat-and-father-loss-in-emotional-post-mmta-2633519-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T22:08:04+05:30",
-    "hook": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का चौंकाने वाला ऐलान कर दिया है!",
-    "script_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का ऐलान कर दिया है। वर्ल्ड कप फाइनल में स्पेन के हाथों मिली हार के बाद मेसी ने यह बड़ा फैसला लिया। उन्होंने सोशल मीडिया पर भावुक पोस्ट साझा करते हुए कहा कि पिता के निधन के बाद यह निर्णय और मजबूत हो गया। मेसी अब अर्जेंटीना की टीम को एक प्रशंसक की तरह बाहर से समर्थन देंगे।",
-    "tts_text_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का ऐलान कर दिया है। वर्ल्ड कप फाइनल में स्पेन के हाथों मिली हार के बाद मेसी ने यह बड़ा फैसला लिया। उन्होंने सोशल मीडिया पर भावुक पोस्ट साझा करते हुए कहा कि पिता के निधन के बाद यह निर्णय और मजबूत हो गया। मेसी अब अर्जेंटीना की टीम को एक प्रशंसक की तरह बाहर से समर्थन देंगे।",
-    "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास",
-    "caption": "लियोनेल मेसी का बड़ा फैसला, अंतरराष्ट्रीय फुटबॉल को कहा अलविदा।",
+    "headline": "भाईजान, पाकिस्तान का टैलेंट देखा? ड्राइवरलेस कार में मुल्क की तारीफ किए पड़ा था बंदा, इतने में ठोकी पुलिस वैन",
+    "source_summary": "पाकिस्तान में टैलेंट की कमी नहीं है! यही कहते हुए बंदा अपनी ड्राइवरलेस और कथित इलेक्ट्रिक कार में ड्राइविंग सीट के बगल बैठा होता है। तभी उसकी कार अपना कंट्रोल खो देती है और सड़क के किनारे खड़ी पाकिस्तानी पुलिस की वैन को ठोक देती है। यह लम्हा इतना मजेदार होता है कि देखने वाले यूजर्स भी अपनी हंसी नहीं रोक पाते। कई लोग इसमें क्रिकेट भी ले आते हैं।",
+    "source_url": "https://navbharattimes.indiatimes.com/viral/trending/as-man-hails-pakistani-talent-is-driverless-car-clash-with-police-van-people-says-babar-azam-trying-to-be-kohli/articleshow/133668532.cms",
+    "source_name": "Navbharat Times",
+    "published": "Tue, 01 Sep 2026 10:27:00 +0530",
+    "hook": "पाकिस्तान में टैलेंट के नाम पर बड़ा खेल हो गया!",
+    "script_hi": "पाकिस्तान में एक बंदा अपनी ड्राइवरलेस इलेक्ट्रिक कार में टैलेंट दिखा रहा था। जनाब गाड़ी में बगल वाली सीट पर बैठे थे और गाड़ी की तारीफों के पुल बांध रहे थे, तभी गाड़ी बेकाबू होकर पुलिस की वैन से जा टकराई। यह वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है और लोग मजे ले रहे हैं।",
+    "tts_text_hi": "पाकिस्तान में एक बंदा अपनी ड्राइवरलेस इलेक्ट्रिक कार में टैलेंट दिखा रहा था। जनाब गाड़ी में बगल वाली सीट पर बैठे थे और गाड़ी की तारीफों के पुल बांध रहे थे, तभी गाड़ी बेकाबू होकर सड़क किनारे खड़ी पाकिस्तानी पुलिस की वैन से जा टकराई। यह वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है और लोग इस पर जमकर मजे ले रहे हैं।",
+    "title": "पाकिस्तान में टैलेंट दिखाने के चक्कर में ठुक गई पुलिस वैन",
+    "caption": "पाकिस्तान में एक शख्स का ड्राइवरलेस कार में टैलेंट दिखाना भारी पड़ गया। गाड़ी सीधे पुलिस वैन से टकरा गई।",
     "hashtags": [
-      "LionelMessi",
-      "Argentina",
-      "FootballNews",
-      "Retirement",
-      "MessiFans",
-      "WorldCupFinal",
-      "SportsNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Lionel Messi playing soccer",
-      "sad soccer player on field",
-      "Argentina football stadium crowd",
-      "Messi waving to fans"
-    ],
-    "named_person": "Lionel Messi",
-    "named_person_hi": "लियोनेल मेसी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "लियोनेल मेसी",
-        "source": "fallback",
-        "query": "Lionel Messi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6537096/6537096-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "sad professional athlete",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32228982/pexels-photo-32228982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sad soccer player on field",
-        "credit": "Alfredo Dacosta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24205283/pexels-photo-24205283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Argentina football stadium crowd",
-        "credit": "Luis Muñoz",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास! ⚽️😱",
-        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! \n\nवर्ल्ड कप फाइनल के तुरंत बाद मेसी के इस फैसले ने पूरी दुनिया के फुटबॉल फैंस को हैरान कर दिया है। आखिर मेसी ने खेल के सबसे बड़े मंच से संन्यास लेने का इतना बड़ा कदम क्यों उठाया?\n\nपूरी कहानी देखें और अपनी राय कमेंट्स में बताएं।\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! 😱\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी ने सोचा भी नहीं था। आखिर क्या वजह रही इस बड़े कदम के पीछे? पूरी सच्चाई वीडियो में देखिए। 👇\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! ⚽️\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी के लिए भी उम्मीद से बाहर था। हर कोई जानना चाहता है कि आखिर फुटबॉल के इस जादूगर ने अचानक अपने करियर के सबसे बड़े पड़ाव पर यह निर्णय क्यों लिया। \n\nआप मेसी के इस फैसले के बारे में क्या सोचते हैं? कमेंट में अपनी राय जरूर लिखें।\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
-      },
-      "hashtags": [
-        "LionelMessi",
-        "MessiRetirement",
-        "FootballNews",
-        "WorldCupFinal",
-        "SportsUpdates"
-      ]
-    },
-    "audio_path": "audio/messi_retirement.wav",
-    "audio_duration_sec": 24.13,
-    "video_path": "videos/messi_retirement.mp4",
-    "video_duration_sec": 32.16,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "x-zLtdu2cYM",
-        "url": "https://youtube.com/shorts/x-zLtdu2cYM",
-        "attempted_at": "2026-09-01T04:55:45.553830+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965aeafaa03b811939f820",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! ⚽️\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी के लिए भी उम्मीद से बाहर था। हर कोई जानना चाहता है कि आखिर फुटबॉल के इस जादूगर ने अचानक अपने करियर के सबसे बड़े पड़ाव पर यह निर्णय क्यों लिया। \n\nआप मेसी के इस फैसले के बारे में क्या सोचते हैं? कमेंट में अपनी राय जरूर लिखें।\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788238567780_3sejutbp_messi_retirement.mp4",
-                "_id": "6a965aeafaa03b811939f821"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T04:56:09.180Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "820c739752c1daf3dd5cb4217f0e1bfc",
-                "_id": "6a965aeafaa03b811939f822",
-                "platformPostId": "1713415463289544",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1713415463289544",
-                "publishedAt": "2026-09-01T04:56:17.185Z"
-              }
-            ],
-            "scheduledFor": "2026-09-01T04:56:09.180Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T04:56:10.610Z",
-            "updatedAt": "2026-09-01T04:56:17.373Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T04:56:10.761Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T04:56:17.617400+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965b13fcfd261ed5015240",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! 😱\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी ने सोचा भी नहीं था। आखिर क्या वजह रही इस बड़े कदम के पीछे? पूरी सच्चाई वीडियो में देखिए। 👇\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788238607912_fs1cnkz9_messi_retirement.mp4",
-                "_id": "6a965b13fcfd261ed5015241"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T04:56:49.627Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "329d079ec180c453b8c85ee5ec563f23",
-                "_id": "6a965b13fcfd261ed5015242"
-              }
-            ],
-            "scheduledFor": "2026-09-01T04:56:49.627Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T04:56:51.322Z",
-            "updatedAt": "2026-09-01T04:56:53.344Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T04:56:51.482Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T04:56:53.913600+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "nepal_flood_gold_recovery",
-    "virality_score": 8,
-    "reason": "Incredible survival and recovery footage of gold and cash from flood debris in Nepal is visually compelling.",
-    "region": "india",
-    "headline": "नेपाल की बाढ़ में बह गया था बैंक! अब मलबे की खुदाई में निकला 50 करोड़ का सोना और 1.5 करोड़ कैश, Video वायरल",
-    "source_summary": "Nepal Flood Gold Rescue: नेपाल में पिछले पांच दिनों से जारी भीषण बाढ़ और भूस्खलन ने बड़े पैमाने पर तबाही मचाई है। रसुवा की भोटेकोशी नदी में आई विनाशकारी बाढ़ के बीच राहत और बचाव अभियान युद्धस्तर पर जारी है। इसी",
-    "source_url": "https://hindi.oneindia.com/news/international/nepal-flood-bank-gold-cash-rescue-50-crore-gold-1-5-crore-cash-agriculture-development-bank-1639439.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Mon, 31 Aug 2026 15:28:02 +0530",
-    "hook": "नेपाल की बाढ़ में बह गया था बैंक, अब मलबे से निकला खजाना!",
-    "script_hi": "नेपाल में भीषण बाढ़ और भूस्खलन ने भारी तबाही मचाई है। रसुवा की भोटेकोशी नदी में एक बैंक बह गया था। राहत और बचाव कार्य के दौरान मलबे की खुदाई में पचास करोड़ का सोना और डेढ़ करोड़ की नकदी बरामद हुई है। इस घटना का वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है।",
-    "tts_text_hi": "नेपाल में भीषण बाढ़ और भूस्खलन ने भारी तबाही मचाई है। रसुवा की भोटेकोशी नदी में एक बैंक बह गया था। राहत और बचाव कार्य के दौरान मलबे की खुदाई में पचास करोड़ का सोना और डेढ़ करोड़ की नकदी बरामद हुई है। इस घटना का वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है।",
-    "title": "नेपाल बाढ़: मलबे से निकला बैंक का खजाना",
-    "caption": "नेपाल की भोटेकोशी नदी में आई बाढ़ के बाद मलबे से निकला बैंक का सोना और कैश।",
-    "hashtags": [
-      "NepalFlood",
-      "NepalNews",
+      "Pakistan",
       "ViralVideo",
-      "RescueOperation",
-      "FloodUpdate",
-      "HindiNews"
+      "Funny",
+      "CarAccident",
+      "Fail",
+      "PakistanNews"
     ],
     "visual_queries": [
-      "Nepal flood aftermath",
-      "Bhote Koshi river landscape",
-      "rescue workers working",
-      "gold jewelry recovered",
-      "currency notes pile"
+      "man sitting passenger seat",
+      "generic electric car driving",
+      "police van parked street",
+      "car crash accident site"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video of a recovery event that requires the actual footage to be included, as generic B-roll would not represent the unique nature of this specific discovery.",
+    "flag_reason": "The story centers on a specific viral video clip which requires the actual footage to be meaningful; generic stock B-roll would misrepresent this specific event.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/26616014/11974687_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "river flood destruction",
-        "credit": "Sattya P Joshi",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8855209/8855209-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "gold jewelry recovered",
-        "credit": "Lara Jameson",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32946018/pexels-photo-32946018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/2553410/pexels-photo-2553410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Nepal flood aftermath",
-        "credit": "Sabbir Bhuiyan",
+        "query": "careless car driving",
+        "credit": "Guilherme Rossi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9799734/pexels-photo-9799734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rescue workers working",
-        "credit": "samimibirfotografci",
+        "query": "generic electric car driving",
+        "credit": "Kindel Media",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38408903/pexels-photo-38408903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11817245/pexels-photo-11817245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "currency notes pile",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 27,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "air_india_bomb_threat",
-    "virality_score": 8,
-    "reason": "Bomb threats on commercial flights are high-stakes, anxiety-inducing stories with broad engagement potential.",
-    "region": "india",
-    "headline": "Air India Express Bomb: फ्लाइट के टॉयलेट में 'बम'? अहमदाबाद में इमरजेंसी लैंडिंग-32 यात्रियों की सांसें अटकी",
-    "source_summary": "Air India Express Bomb Threat: सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। विमान में उस वक्त 32 यात्री सवार थे। धमकी मिलने के बाद पायलटों ने",
-    "source_url": "https://hindi.oneindia.com/news/india/air-india-express-bomb-threat-emergency-landing-in-ahmedabad-after-bomb-note-found-on-toilet-tissue-1639745.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Mon, 31 Aug 2026 20:10:16 +0530",
-    "hook": "एयर इंडिया की फ्लाइट में बम की धमकी, मची अफरा-तफरी!",
-    "script_hi": "एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। दम्माम से दिल्ली आ रही फ्लाइट के टॉयलेट में एक नोट मिला। विमान में बत्तीस यात्री सवार थे। पायलट ने तुरंत अहमदाबाद हवाई अड्डे पर इमरजेंसी लैंडिंग की।",
-    "tts_text_hi": "एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। दम्माम से दिल्ली आ रही फ्लाइट के टॉयलेट में एक नोट मिला। विमान में बत्तीस यात्री सवार थे। पायलट ने तुरंत अहमदाबाद हवाई अड्डे पर इमरजेंसी लैंडिंग की।",
-    "title": "Air India Express Bomb Threat in Ahmedabad",
-    "caption": "सऊदी अरब से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी, अहमदाबाद में इमरजेंसी लैंडिंग।",
-    "hashtags": [
-      "AirIndia",
-      "BombThreat",
-      "Ahmedabad",
-      "EmergencyLanding",
-      "FlightSafety",
-      "LatestNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Air India Express aircraft exterior",
-      "airplane toilet interior cabin",
-      "Ahmedabad airport runway India",
-      "emergency vehicle at airport India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story mentions a specific incident involving a bomb threat and an emergency landing; actual footage of the aircraft or the specific scene is needed to avoid generic stock B-roll misrepresentation.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35160902/14894517_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Air India Express aircraft exterior",
-        "credit": "Jomin Thach",
-        "source_duration_sec": 23,
-        "duration_sec": 6
-      }
-    ],
-    "asset_count": 1,
-    "timeline_covered_sec": 6,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "iphone_18_launch_september",
-    "virality_score": 7,
-    "reason": "Tech launch cycles, especially iPhone, are evergreen viral content for tech-savvy Indian audiences.",
-    "region": "india",
-    "headline": "सितंबर में मचने वाला है स्मार्टफोन का धमाल, आईफोन 18 सीरीज से लेकर रेडमी-पोको तक होंगे लॉन्च",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/smartphone-launch-september-2026.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"सितंबर में मचने वाला है स्मार्टफोन का धमाल, आईफोन 18 सीरीज से लेकर रेडमी-पोको तक होंगे लॉन्च\" /></figure>सितंबर में कई दमदार स्मार्टफोन बाजार में दस्तक देने वाले हैं. आईफोन 18 प्रो सीरीज से लेकर रेडमी 17 5जी और पोको एफ9 सीरीज तक, कई नए फोन चर्चा में हैं.",
-    "source_url": "https://www.tv9hindi.com/technology/september-2026-smartphone-launches-iphone-18-pro-redmi-17-5g-poco-f9-and-more-3894685.html",
-    "source_name": "TV9 Hindi",
-    "published": "Tue, 01 Sep 2026 07:30:25 +0530",
-    "hook": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है!",
-    "script_hi": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है। इस महीने बाजार में एक से बढ़कर एक स्मार्टफोन्स की एंट्री होने जा रही है। सबसे ज्यादा चर्चा में है आईफोन अठारह प्रो सीरीज, जिसका सबको बेसब्री से इंतजार है। इसके अलावा रेडमी सत्रह पांच-जी और पोको एफ नौ सीरीज के नए स्मार्टफोन्स भी लॉन्च किए जाएंगे। अगर आप नया फोन लेने की सोच रहे हैं, तो रुकिए, क्योंकि आने वाले दिनों में मार्केट में काफी हलचल देखने को मिलेगी।",
-    "tts_text_hi": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है। इस महीने बाजार में एक से बढ़कर एक स्मार्टफोन्स की एंट्री होने जा रही है। सबसे ज्यादा चर्चा में है आईफोन अठारह प्रो सीरीज, जिसका सबको बेसब्री से इंतजार है। इसके अलावा रेडमी सत्रह पांच-जी और पोको एफ नौ सीरीज के नए स्मार्टफोन्स भी लॉन्च किए जाएंगे। अगर आप नया फोन लेने की सोच रहे हैं, तो रुकिए, क्योंकि आने वाले दिनों में मार्केट में काफी हलचल देखने को मिलेगी।",
-    "title": "सितंबर में स्मार्टफोन की धूम",
-    "caption": "सितंबर में आने वाले हैं ये धमाकेदार स्मार्टफोन! क्या आप इनमें से कोई फोन खरीदने का प्लान कर रहे हैं?",
-    "hashtags": [
-      "SmartphoneLaunch",
-      "TechNews",
-      "iPhone18",
-      "Redmi17",
-      "PocoF9",
-      "GadgetUpdate",
-      "TechHindi"
-    ],
-    "visual_queries": [
-      "new smartphone display",
-      "futuristic mobile phone",
-      "smartphone store India",
-      "tech retail display"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7822022/7822022-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "new smartphone display",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18831090/pexels-photo-18831090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "latest smartphone launch",
-        "credit": "Ejov Igor",
+        "query": "police van parked street",
+        "credit": "Marina Ryazantseva",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18023554/pexels-photo-18023554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10102313/pexels-photo-10102313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "smartphone store India",
-        "credit": "THEMRSINGH",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/25809243/pexels-photo-25809243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "tech retail display",
-        "credit": "Matheus Bertelli",
+        "query": "car crash accident site",
+        "credit": "Nikita Nikitin",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये! 📱",
-        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये!\n\nअगले 30 दिनों में बाजार में स्मार्टफोन की सुनामी आने वाली है। iPhone 16 सीरीज के अलावा रेडमी और पोको के कई धांसू बजट फोन्स लॉन्च होने वाले हैं।\n\nक्या आप नया फोन खरीदने का प्लान कर रहे हैं? कमेंट में बताएं। 👇\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये! 📱\n\nअगले 30 दिनों में बाजार में स्मार्टफोन की सुनामी आने वाली है। iPhone 16 सीरीज से लेकर रेडमी और पोको के कई धांसू बजट फोन्स लॉन्च के लिए तैयार हैं। \n\nखरीदने से पहले यह वीडियो जरूर देख लें। 🚀\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये!\n\nअगले 30 दिनों में स्मार्टफोन की दुनिया में जबरदस्त हलचल होने वाली है। Apple की नई iPhone 16 सीरीज से लेकर रेडमी और पोको के कई किफायती और पावरफुल फोन्स मार्केट में दस्तक देंगे।\n\nअगर आप अभी नया फोन लेने का मन बना रहे हैं, तो कुछ दिन का इंतज़ार आपको एक बेहतर डील दिला सकता है। पूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
-      },
-      "hashtags": [
-        "smartphone",
-        "iphone16",
-        "techupdates",
-        "newlaunch",
-        "gadgets"
-      ]
-    },
-    "audio_path": "audio/iphone_18_launch_september.wav",
-    "audio_duration_sec": 29.41,
-    "video_path": "videos/iphone_18_launch_september.mp4",
-    "video_duration_sec": 35.72,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "mslvzhOPlgQ",
-        "url": "https://youtube.com/shorts/mslvzhOPlgQ",
-        "attempted_at": "2026-09-01T05:00:12.010189+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965c070be19a965aed5138",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये!\n\nअगले 30 दिनों में स्मार्टफोन की दुनिया में जबरदस्त हलचल होने वाली है। Apple की नई iPhone 16 सीरीज से लेकर रेडमी और पोको के कई किफायती और पावरफुल फोन्स मार्केट में दस्तक देंगे।\n\nअगर आप अभी नया फोन लेने का मन बना रहे हैं, तो कुछ दिन का इंतज़ार आपको एक बेहतर डील दिला सकता है। पूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788238851865_3hzu9ryu_iphone_18_launch_september.mp4",
-                "_id": "6a965c070be19a965aed5139"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T05:00:53.408Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "6a792fbc30d972c6a6c07ed6937971ce",
-                "_id": "6a965c070be19a965aed513a",
-                "platformPostId": "1380527506906552",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1380527506906552",
-                "publishedAt": "2026-09-01T05:01:01.685Z"
-              }
-            ],
-            "scheduledFor": "2026-09-01T05:00:53.408Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T05:00:55.222Z",
-            "updatedAt": "2026-09-01T05:01:01.863Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T05:00:55.457Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T05:01:02.090592+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965c2ecbc1c2b0ab688ec2",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये! 📱\n\nअगले 30 दिनों में बाजार में स्मार्टफोन की सुनामी आने वाली है। iPhone 16 सीरीज से लेकर रेडमी और पोको के कई धांसू बजट फोन्स लॉन्च के लिए तैयार हैं। \n\nखरीदने से पहले यह वीडियो जरूर देख लें। 🚀\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788238890296_r269gb6c_iphone_18_launch_september.mp4",
-                "_id": "6a965c2ecbc1c2b0ab688ec3"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T05:01:31.999Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "c3f1908b88de8fd868de8f59c71383bc",
-                "_id": "6a965c2ecbc1c2b0ab688ec4"
-              }
-            ],
-            "scheduledFor": "2026-09-01T05:01:31.999Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T05:01:34.639Z",
-            "updatedAt": "2026-09-01T05:01:36.795Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T05:01:34.792Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T05:01:37.269192+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "cursor_ai_spacex_deal",
-    "virality_score": 7,
-    "reason": "Indian-origin founders achieving a massive startup acquisition is a point of national pride and interest.",
-    "region": "india",
-    "headline": "25-yr-old Indian-origin founder's AI startup Cursor acquired by SpaceX in $60B deal",
-    "source_summary": "Aman Sanger co-founded Anysphere, known for its innovative Cursor application. SpaceX's recent acquisition of Anysphere for $60 billion propels its founders into billionaire status. Cursor revolutionizes developer productivity by seamlessly integrating AI into coding environments, aligning perfectly with Elon Musk's ambitions in artificial intelligence. This strategic deal signifies a pivotal moment in the evolution of software development towards AI-enhanced coding techniques.",
-    "source_url": "https://timesofindia.indiatimes.com/life-style/people/meet-aman-sanger-the-25-year-old-indian-origin-entrepreneur-whose-ai-startup-cursor-is-being-acquired-by-elon-musks-spacex-for-60-billion-from-coding-at-14-and-mit-to-a-potential-2-7-billion-fortune/articleshow/133666397.cms",
-    "source_name": "Times of India - Top Stories",
-    "published": "Tue, 01 Sep 2026 08:16:20 +0530",
-    "hook": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, साठ अरब डॉलर में खरीदी एआई स्टार्टअप!",
-    "script_hi": "एलन मस्क की कंपनी स्पेसएक्स ने साठ अरब डॉलर की एक बड़ी डील में कर्सर नाम के एआई स्टार्टअप को खरीद लिया है। इस स्टार्टअप के को-फाउंडर पच्चीस वर्षीय भारतीय मूल के अमन संगर हैं। कर्सर एक ऐसा टूल है जो कोडिंग को आसान बनाता है। मस्क की नजर अब एआई के जरिए सॉफ्टवेयर डेवलपमेंट में क्रांति लाने पर है।",
-    "tts_text_hi": "एलन मस्क की कंपनी स्पेसएक्स ने साठ अरब डॉलर की एक बड़ी डील में कर्सर नाम के एआई स्टार्टअप को खरीद लिया है। इस स्टार्टअप के को-फाउंडर पच्चीस वर्षीय भारतीय मूल के अमन संगर हैं। कर्सर एक ऐसा टूल है जो कोडिंग को आसान बनाता है। मस्क की नजर अब एआई के जरिए सॉफ्टवेयर डेवलपमेंट में क्रांति लाने पर है।",
-    "title": "SpaceX ने खरीदा AI स्टार्टअप Cursor",
-    "caption": "SpaceX का बड़ा कदम! साठ अरब डॉलर में खरीदा भारतीय मूल के अमन संगर का स्टार्टअप।",
-    "hashtags": [
-      "SpaceX",
-      "ElonMusk",
-      "Cursor",
-      "AI",
-      "StartupNews",
-      "TechNews",
-      "IndianSuccess"
-    ],
-    "visual_queries": [
-      "Elon Musk portrait",
-      "modern software code on screen",
-      "office building interior",
-      "artificial intelligence digital brain"
-    ],
-    "named_person": "Elon Musk",
-    "named_person_hi": "एलन मस्क",
-    "secondary_persons": [
-      "Aman Sanger"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "एलन मस्क",
-        "source": "fallback",
-        "query": "Elon Musk",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7652208/7652208-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "office building interior",
-        "credit": "Kindel Media",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "software developer office",
-        "credit": "Mizuno K",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern software code on screen",
-        "credit": "Daniil Komov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "artificial intelligence digital brain",
-        "credit": "Subhasish Baidya",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "एलन मस्क का बड़ा दांव: 60 अरब डॉलर में खरीदा ये AI स्टार्टअप! 🚀",
-        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप!\n\nभारतीय मूल के 25 साल के युवा की कंपनी 'कर्सर' (Cursor) को एलन मस्क ने एक ऐतिहासिक डील में खरीद लिया है। यह सौदा एआई की दुनिया में अब तक के सबसे बड़े बदलावों में से एक माना जा रहा है।\n\nक्या एआई के भविष्य के लिए यह डील गेम चेंजर साबित होगी? अपनी राय कमेंट में बताएं।\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप! 💸\n\nभारतीय मूल के 25 साल के फाउंडर का कमाल, दुनिया की सबसे बड़ी डील में से एक। एआई के मैदान में मस्क अब क्या करने वाले हैं? पूरी कहानी देखिए। 🚀🤖\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप!\n\nभारतीय मूल के सिर्फ 25 साल के एक युवा की कंपनी 'कर्सर' अब एलन मस्क की हो गई है। इतने बड़े स्तर पर हुई यह डील टेक जगत में चर्चा का विषय बनी हुई है। आखिर मस्क ने इस एआई स्टार्टअप को ही क्यों चुना?\n\nक्या एआई के बढ़ते प्रभाव को देखते हुए यह फैसला सही है? कमेंट में अपनी बात रखें।\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
-      },
-      "hashtags": [
-        "ElonMusk",
-        "SpaceX",
-        "CursorAI",
-        "ArtificialIntelligence",
-        "TechNews"
-      ]
-    },
-    "audio_path": "audio/cursor_ai_spacex_deal.wav",
-    "audio_duration_sec": 22.0,
-    "video_path": "videos/cursor_ai_spacex_deal.mp4",
-    "video_duration_sec": 30.02,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "6DkXUuNGzbc",
-        "url": "https://youtube.com/shorts/6DkXUuNGzbc",
-        "attempted_at": "2026-09-01T05:07:34.246777+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965db2cbbe61ca76f87739",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप!\n\nभारतीय मूल के सिर्फ 25 साल के एक युवा की कंपनी 'कर्सर' अब एलन मस्क की हो गई है। इतने बड़े स्तर पर हुई यह डील टेक जगत में चर्चा का विषय बनी हुई है। आखिर मस्क ने इस एआई स्टार्टअप को ही क्यों चुना?\n\nक्या एआई के बढ़ते प्रभाव को देखते हुए यह फैसला सही है? कमेंट में अपनी बात रखें।\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788239279619_ypa6q7dc_cursor_ai_spacex_deal.mp4",
-                "_id": "6a965db2cbbe61ca76f8773a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T05:08:00.924Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "378dc5e161864e96aa5e15cfca11843a",
-                "_id": "6a965db2cbbe61ca76f8773b",
-                "platformPostId": "1594282022246771",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1594282022246771",
-                "publishedAt": "2026-09-01T05:08:09.181Z"
-              }
-            ],
-            "scheduledFor": "2026-09-01T05:08:00.924Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T05:08:02.101Z",
-            "updatedAt": "2026-09-01T05:08:09.386Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T05:08:02.201Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T05:08:09.672859+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a965dd60e038115baf21af6",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप! 💸\n\nभारतीय मूल के 25 साल के फाउंडर का कमाल, दुनिया की सबसे बड़ी डील में से एक। एआई के मैदान में मस्क अब क्या करने वाले हैं? पूरी कहानी देखिए। 🚀🤖\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788239315891_o2cc93vn_cursor_ai_spacex_deal.mp4",
-                "_id": "6a965dd60e038115baf21af7"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T05:08:37.395Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "f99765f47e7746c4176acbdb9f6eaabd",
-                "_id": "6a965dd60e038115baf21af8"
-              }
-            ],
-            "scheduledFor": "2026-09-01T05:08:37.395Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T05:08:38.446Z",
-            "updatedAt": "2026-09-01T05:08:40.496Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T05:08:38.541Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T05:08:40.826253+00:00"
-      }
-    }
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
   }
 ]
