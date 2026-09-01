@@ -1,357 +1,265 @@
 [
   {
-    "topic_label": "noida_bus_gangrape",
-    "virality_score": 10,
-    "reason": "Highly shocking and heinous crime with massive public outrage potential, reminiscent of the Nirbhaya case.",
+    "topic_label": "mamata_banerjee_niece_death",
+    "virality_score": 9,
+    "reason": "High-profile political family tragedy involving a sudden suspicious death.",
     "region": "india",
-    "headline": "द‍िल्ली-NCR में 47km दौड़ती रही बस, ड्राइवर-कंडक्टर करते रहे गैंगरेप",
-    "source_summary": "एक बार फिर द‍िल्ली-NCR में निर्भया जैसी दरिंदगी की गई है. इस बार ग्रेटर नोएडा से बस में चढ़ी एक नाबालिग लड़की से गैंगरेप किया गया है. हैरानी की बात ये है कि ग्रेटर नोएडा के परी चौक से कश्मीरी गेट तक बस चली और इस दौरान लड़की के साथ दरिंदगी हुई, लेकिन दोनों राज्यों की पुलिस को कानों कान खबर नहीं लगी.",
-    "source_url": "https://www.aajtak.in/india/delhi/video/minor-girl-was-gang-raped-on-running-sleeper-bus-from-greater-noida-to-delhi-kashmere-gate-vdoj-2633862-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T13:26:04+05:30",
-    "hook": "ग्रेटर नोएडा में निर्भया जैसी दरिंदगी, चलती बस में नाबालिग से गैंगरेप!",
-    "script_hi": "ग्रेटर नोएडा में फिर एक बार इंसानियत शर्मसार हुई है। परी चौक से चली एक बस में सवार नाबालिग लड़की के साथ ड्राइवर और कंडक्टर ने मिलकर स*क्सुअल असॉल्ट यानी गैंगरेप किया। हैरान करने वाली बात ये है कि यह बस ग्रेटर नोएडा से दिल्ली के कश्मीरी गेट तक सैंतालीस किलोमीटर का सफर तय करती रही, लेकिन पुलिस को भनक तक नहीं लगी। आरोपियों ने चलती बस में इस वारदात को अंजाम दिया। अब इस घटना के बाद से पूरे इलाके में आक्रोश है और पुलिस की सुरक्षा व्यवस्था पर गंभीर सवाल खड़े हो रहे हैं।",
-    "tts_text_hi": "ग्रेटर नोएडा में फिर एक बार इंसानियत शर्मसार हुई है। परी चौक से चली एक बस में सवार नाबालिग लड़की के साथ ड्राइवर और कंडक्टर ने मिलकर सेक्सुअल असॉल्ट यानी गैंगरेप किया। हैरान करने वाली बात ये है कि यह बस ग्रेटर नोएडा से दिल्ली के कश्मीरी गेट तक सैंतालीस किलोमीटर का सफर तय करती रही, लेकिन पुलिस को भनक तक नहीं लगी। आरोपियों ने चलती बस में इस वारदात को अंजाम दिया। अब इस घटना के बाद से पूरे इलाके में आक्रोश है और पुलिस की सुरक्षा व्यवस्था पर गंभीर सवाल खड़े हो रहे हैं।",
-    "title": "ग्रेटर नोएडा में चलती बस में नाबालिग से गैंगरेप",
-    "caption": "दिल्ली-एनसीआर में एक बार फिर निर्भया जैसी खौफनाक वारदात सामने आई है। ग्रेटर नोएडा से कश्मीरी गेट तक बस में नाबालिग से दरिंदगी की गई।",
+    "headline": "बंगाल: ममता बनर्जी की भतीजी ने की खुदकुशी, घर से लटका हुआ शव बरामद",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/mamata-banerjee.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"बंगाल: ममता बनर्जी की भतीजी ने की खुदकुशी, घर से लटका हुआ शव बरामद\" /></figure>पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी की भतीजी वृष्टि मुखर्जी ने आत्महत्या कर ली है. रामपुरहाट स्थित उनके घर में उनका शव फंदे से लटका हुआ मिला है.",
+    "source_url": "https://www.tv9hindi.com/india/bengal-former-cm-mamata-banerjee-niece-found-hanging-at-home-rampurhat-birbhum-3895554.html",
+    "source_name": "TV9 Hindi",
+    "published": "Tue, 01 Sep 2026 15:00:35 +0530",
+    "hook": "पश्चिम बंगाल से एक दुखद खबर सामने आई है। मुख्यमंत्री ममता बनर्जी की भतीजी ने अपनी जान दे दी है।",
+    "script_hi": "पश्चिम बंगाल से एक दुखद खबर सामने आई है। मुख्यमंत्री ममता बनर्जी की भतीजी वृष्टि मुखर्जी ने आत्महत्या कर ली है। उनका शव रामपुरहाट स्थित उनके घर में फंदे से लटका हुआ पाया गया। पुलिस अब पूरे मामले की जांच कर रही है।",
+    "tts_text_hi": "पश्चिम बंगाल से एक दुखद खबर सामने आई है। मुख्यमंत्री ममता बनर्जी की भतीजी वृष्टि मुखर्जी ने आत्महत्या कर ली है। उनका शव रामपुरहाट स्थित उनके घर में फंदे से लटका हुआ पाया गया। पुलिस अब पूरे मामले की जांच कर रही है।",
+    "title": "ममता बनर्जी की भतीजी ने की आत्महत्या",
+    "caption": "पश्चिम बंगाल में मुख्यमंत्री ममता बनर्जी की भतीजी वृष्टि मुखर्जी का शव उनके घर में बरामद हुआ है।",
     "hashtags": [
-      "GreaterNoida",
-      "DelhiNCR",
-      "CrimeNews",
-      "Justice",
-      "HindiNews",
+      "WestBengal",
+      "MamataBanerjee",
       "BreakingNews",
-      "Safety"
+      "Rampurhat",
+      "LatestNews",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian police station exterior",
-      "Indian passenger bus on highway",
-      "Police investigation tape India",
-      "Distressed Indian city street night",
-      "Angry crowd protesting India"
+      "West Bengal India map silhouette",
+      "mourning atmosphere India",
+      "police investigation scene India",
+      "police tape barrier India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Mamata Banerjee",
+    "named_person_hi": "ममता बनर्जी",
     "secondary_persons": [],
-    "est_duration_sec": 30,
+    "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of sexual violence and needs careful handling to avoid exploitation or identification.",
+    "flag_reason": "The story involves the death of a named individual; images of the specific location or the deceased should not be generated by stock imagery and require manual handling.",
     "assets": [
+      {
+        "type": "text_card",
+        "text": "ममता बनर्जी",
+        "source": "fallback",
+        "query": "Mamata Banerjee",
+        "duration_sec": 4.0
+      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Police investigation tape India",
+        "query": "police tape at crime scene",
         "credit": "cottonbro studio",
         "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33895617/pexels-photo-33895617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian passenger bus on highway",
-        "credit": "GOWTHAM AGM",
+        "query": "police investigation tape",
+        "credit": "Srujan J.",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11930016/pexels-photo-11930016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35625315/pexels-photo-35625315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Distressed Indian city street night",
-        "credit": "Kuldeep Rajora",
+        "query": "mourning atmosphere India",
+        "credit": "Abhishek Mishra",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Angry crowd protesting India",
-        "credit": "Satyam Pixels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "september_price_hikes",
+    "topic_label": "noida_bus_gangrape",
     "virality_score": 9,
-    "reason": "Direct impact on the common man's wallet (milk, gas, auto fares) creates immediate high engagement and utility.",
+    "reason": "Extremely sensitive and shocking crime story with high public outcry potential.",
     "region": "india",
-    "headline": "New Rules: 1 सितंबर से जेब पर सीधा हमला! दूध, सिलेंडर के दाम बढ़े, कार खरीदना भी महंगा, लागू हुए 5 बड़े नियम",
-    "source_summary": "1 September 2026 New Rules: सितंबर की शुरुआत आम लोगों के लिए राहत वाली नहीं है। 1 सितंबर 2026 से कई बड़े बदलाव लागू हो गए हैं। कमर्शियल गैस सिलेंडर के दाम बढ़े हैं। मुंबई में थोक दूध महंगा हुआ है।",
-    "source_url": "https://hindi.oneindia.com/news/business/5-big-rule-changes-from-1-september-2026-lpg-price-milk-rate-car-hike-e-kyc-1639999.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Tue, 01 Sep 2026 08:22:47 +0530",
-    "hook": "एक सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है।",
-    "script_hi": "एक सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। कमर्शियल गैस सिलेंडर के दाम बढ़ गए हैं, वहीं मुंबई में थोक दूध भी महंगा हो गया है। कार खरीदना भी अब महंगा हो गया है और कुल पांच बड़े नियम आज से लागू हो गए हैं।",
-    "tts_text_hi": "एक सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। कमर्शियल गैस सिलेंडर के दाम बढ़ गए हैं, वहीं मुंबई में थोक दूध भी महंगा हो गया है। कार खरीदना भी अब महंगा हो गया है और कुल पांच बड़े नियम आज से लागू हो गए हैं।",
-    "title": "1 सितंबर से बदले बड़े नियम",
-    "caption": "सितंबर महीने की शुरुआत में आम जनता पर महंगाई की मार, जानिए क्या-क्या हुआ महंगा।",
+    "headline": "द‍िल्ली-NCR में 47km दौड़ती रही बस, ड्राइवर-कंडक्टर करते रहे गैंगरेप",
+    "source_summary": "एक बार फिर द‍िल्ली-NCR में निर्भया जैसी दरिंदगी की गई है. इस बार ग्रेटर नोएडा से बस में चढ़ी एक नाबालिग लड़की से गैंगरेप किया गया है. हैरानी की बात ये है कि ग्रेटर नोएडा के परी चौक से कश्मीरी गेट तक बस चली और इस दौरान लड़की के साथ दरिंदगी हुई, लेकिन दोनों राज्यों की पुलिस को कानों कान खबर नहीं लगी.",
+    "source_url": "https://www.aajtak.in/india/delhi/video/minor-girl-was-gang-raped-on-running-sleeper-bus-from-greater-noida-to-delhi-kashmere-gate-vdoj-2633862-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T13:26:04+05:30",
+    "hook": "ग्रेटर नोएडा से दिल्ली तक चलती बस में नाबालिग के साथ हैवानियत!",
+    "script_hi": "ग्रेटर नोएडा से दिल्ली के बीच चलती बस में एक नाबालिग के साथ गैंगरेप का मामला सामने आया है। परी चौक से कश्मीरी गेट तक बस सैंतालीस किलोमीटर का सफर तय करती रही और इस बीच ड्राइवर और कंडक्टर दरिंदगी करते रहे। पुलिस को इसकी भनक तक नहीं लगी। अब इस मामले ने निर्भया कांड की यादें ताजा कर दी हैं।",
+    "tts_text_hi": "ग्रेटर नोएडा से दिल्ली के बीच चलती बस में एक नाबालिग के साथ गैंगरेप का मामला सामने आया है। परी चौक से कश्मीरी गेट तक बस सैंतालीस किलोमीटर का सफर तय करती रही और इस बीच ड्राइवर और कंडक्टर दरिंदगी करते रहे। पुलिस को इसकी भनक तक नहीं लगी। अब इस मामले ने निर्भया कांड की यादें ताजा कर दी हैं।",
+    "title": "दिल्ली-एनसीआर में चलती बस में नाबालिग से गैंगरेप",
+    "caption": "ग्रेटर नोएडा से कश्मीरी गेट के बीच चलती बस में नाबालिग के साथ शर्मनाक घटना।",
     "hashtags": [
-      "Inflation",
-      "NewRules",
-      "IndiaNews",
-      "SeptemberUpdate",
-      "CostOfLiving",
-      "Economy"
+      "GreaterNoida",
+      "DelhiCrime",
+      "JusticeForMinor",
+      "NCRNews",
+      "CrimeReport",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian money wallet",
-      "commercial gas cylinder India",
-      "Indian milk bottles market",
-      "new car showroom India"
+      "empty bus interior India",
+      "Greater Noida city street India",
+      "Delhi Kashmiri Gate area",
+      "police patrol car India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "Content involving the sexual exploitation of a minor.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5951723/pexels-photo-5951723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15595485/pexels-photo-15595485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian money wallet",
-        "credit": "Arina Krasnikova",
+        "query": "empty bus interior India",
+        "credit": "Pramod  Tiwari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29848733/pexels-photo-29848733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30407482/pexels-photo-30407482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial gas cylinder India",
-        "credit": "Marina Zvada",
+        "query": "Greater Noida city street India",
+        "credit": "Splendid Images",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/27575175/pexels-photo-27575175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19907302/pexels-photo-19907302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian milk bottles market",
-        "credit": "Tram Huyen",
+        "query": "Delhi Kashmiri Gate area",
+        "credit": "Ranjeet  Chauhan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13268079/pexels-photo-13268079.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "new car showroom India",
-        "credit": "Akshay Shende",
+        "query": "police patrol car India",
+        "credit": "Madvortex",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "1 सितंबर से आपकी जेब पर सीधा हमला! महंगाई का बड़ा झटका 🚨",
-        "caption": "1 सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है।\n\nआज से दूध और सिलेंडर के दाम बढ़ गए हैं, वहीं नई कार खरीदना भी अब पहले से काफी महंगा हो गया है। कुल 5 बड़े नियमों में बदलाव हुआ है जो सीधे आपके बजट पर असर डालेंगे।\n\nपूरी खबर देखें और जानें कि अब आपका कितना खर्चा बढ़ने वाला है।\n\n#inflation #newrules #budget #gasprice #consumerrights"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "1 सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। 💸\n\nआज से दूध, सिलेंडर और कारों के दाम बढ़ गए हैं। कुल 5 बड़े बदलाव लागू हुए हैं जिनका सीधा असर आपके घर के बजट पर पड़ेगा। \n\nक्या आपकी जेब पर भी असर पड़ा? कमेंट में बताएं।\n\n#inflation #newrules #budget #gasprice #consumerrights"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "1 सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। 📉\n\nदूध से लेकर रसोई गैस सिलेंडर तक के दाम बढ़ गए हैं और अगर आप गाड़ी लेने का प्लान बना रहे थे, तो अब वो भी महंगा हो गया है। सरकार की तरफ से आज से 5 बड़े नियम लागू कर दिए गए हैं।\n\nये बदलाव आपके मासिक बजट को कितना बिगाड़ेंगे? वीडियो में समझिए पूरी गणित।\n\n#inflation #newrules #budget #gasprice #consumerrights"
-      },
-      "hashtags": [
-        "inflation",
-        "newrules",
-        "budget",
-        "gasprice",
-        "consumerrights"
-      ]
-    },
-    "audio_path": "audio/september_price_hikes.wav",
-    "audio_duration_sec": 20.71,
-    "video_path": "videos/september_price_hikes.mp4",
-    "video_duration_sec": 28.69,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "q9RpiIqeXzM",
-        "url": "https://youtube.com/shorts/q9RpiIqeXzM",
-        "attempted_at": "2026-09-01T09:41:47.961517+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a969df12e436d961118d865",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "1 सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। 📉\n\nदूध से लेकर रसोई गैस सिलेंडर तक के दाम बढ़ गए हैं और अगर आप गाड़ी लेने का प्लान बना रहे थे, तो अब वो भी महंगा हो गया है। सरकार की तरफ से आज से 5 बड़े नियम लागू कर दिए गए हैं।\n\nये बदलाव आपके मासिक बजट को कितना बिगाड़ेंगे? वीडियो में समझिए पूरी गणित।\n\n#inflation #newrules #budget #gasprice #consumerrights",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788255727132_zg2zrmpc_september_price_hikes.mp4",
-                "_id": "6a969df12e436d961118d866"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T09:42:08.098Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "10af0349c655a905650a5a965245ff2e",
-                "_id": "6a969df12e436d961118d867",
-                "platformPostId": "1088496460435376",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1088496460435376",
-                "publishedAt": "2026-09-01T09:42:15.316Z"
-              }
-            ],
-            "scheduledFor": "2026-09-01T09:42:08.098Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T09:42:09.132Z",
-            "updatedAt": "2026-09-01T09:42:15.443Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T09:42:09.299Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T09:42:15.644318+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a969e08a9254bc2d5ac6fc3",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "1 सितंबर से आपकी जेब पर सीधा हमला, महीने की शुरुआत में ही महंगाई का तगड़ा झटका लगा है। 💸\n\nआज से दूध, सिलेंडर और कारों के दाम बढ़ गए हैं। कुल 5 बड़े बदलाव लागू हुए हैं जिनका सीधा असर आपके घर के बजट पर पड़ेगा। \n\nक्या आपकी जेब पर भी असर पड़ा? कमेंट में बताएं।\n\n#inflation #newrules #budget #gasprice #consumerrights",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788255750794_802hlsra_september_price_hikes.mp4",
-                "_id": "6a969e08a9254bc2d5ac6fc4"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-01T09:42:31.908Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "4ed951bccb1d0c87676f8f26df7c0763",
-                "_id": "6a969e08a9254bc2d5ac6fc5"
-              }
-            ],
-            "scheduledFor": "2026-09-01T09:42:31.908Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-01T09:42:32.798Z",
-            "updatedAt": "2026-09-01T09:42:34.678Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-01T09:42:32.883Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-01T09:42:34.941888+00:00"
-      }
-    }
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "modi_xi_putin_sco",
+    "topic_label": "kaushambi_firecracker_blast_encounter",
     "virality_score": 8,
-    "reason": "Geopolitical visual of world leaders shaking hands while Pakistan's PM is sidelined is perfect for short-form news.",
+    "reason": "Action-oriented news involving a major explosion aftermath and subsequent police encounter.",
     "region": "india",
-    "headline": "SCO में PM मोदी-जिनपिंग-पुतिन का हैंडशेक, साइलेंट गुजरे शहबाज",
-    "source_summary": "किर्गिस्तान के बिश्केक में एससीओ शिखर सम्मेलन के दौरान प्रधानमंत्री नरेंद्र मोदी की चीन के राष्ट्रपति शी जिनपिंग और रूस के राष्ट्रपति व्लादिमीर पुतिन से मुलाकात का एक वीडियो चर्चा में है. तीनों नेता एक साथ नजर आए, जबकि इसी दौरान पाकिस्तान के प्रधानमंत्री शहबाज शरीफ चुपचाप अपने स्थान की ओर बढ़ते दिखाई दिए.",
-    "source_url": "https://www.aajtak.in/world/story/pm-modi-xi-jinping-vladimir-putin-handshake-shahbaz-shareef-sco-summit-ntc-mnrd-smsr-dskc-2633823-2026-09-01?utm_source=rssfeed",
+    "headline": "भागेगा तो बचेगा नहीं! 11 मौतों के जिम्मेदार का पुलिस ने किया हाफ एनकाउंटर",
+    "source_summary": "यूपी के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले के मुख्य आरोपी नौशाद अली को पुलिस ने एनकाउंटर के बाद गिरफ्तार कर लिया है. पुलिस के मुताबिक, मुठभेड़ में नौशाद अली के पैर में गोली लगी, जिसके बाद उसे घायल हालत में अस्पताल भेजा गया.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kaushambi-firecracker-factory-blast-main-accused-naushad-ali-encounter-up-police-ntc-agkp-rpti-2633617-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-01T13:17:22+05:30",
-    "hook": "एससीओ शिखर सम्मेलन की एक तस्वीर ने मचाया हंगामा!",
-    "script_hi": "किर्गिस्तान के बिश्केक में एससीओ शिखर सम्मेलन के दौरान प्रधानमंत्री नरेंद्र मोदी, शी जिनपिंग और व्लादिमीर पुतिन की मुलाकात चर्चा में है। एक तरफ जहाँ ये तीनों नेता साथ नजर आए, वहीं दूसरी ओर पाकिस्तान के प्रधानमंत्री शहबाज शरीफ बिल्कुल चुपचाप अपने स्थान की ओर बढ़ते दिखे।",
-    "tts_text_hi": "किर्गिस्तान के बिश्केक में एससीओ शिखर सम्मेलन के दौरान प्रधानमंत्री नरेंद्र मोदी, शी जिनपिंग और व्लादिमीर पुतिन की मुलाकात चर्चा में है। एक तरफ जहाँ ये तीनों नेता साथ नजर आए, वहीं दूसरी ओर पाकिस्तान के प्रधानमंत्री शहबाज शरीफ बिल्कुल चुपचाप अपने स्थान की ओर बढ़ते दिखे।",
-    "title": "एससीओ शिखर सम्मेलन में मोदी-पुतिन-जिनपिंग की मुलाकात",
-    "caption": "एससीओ समिट में विश्व नेताओं का जमावड़ा, पीएम मोदी की मौजूदगी चर्चा का विषय।",
+    "published": "2026-09-01T08:04:05+05:30",
+    "hook": "उत्तर प्रदेश के कौशांबी में ग्यारह लोगों की जान लेने वाले मुख्य आरोपी नौशाद अली का हुआ पुलिस एनकाउंटर!",
+    "script_hi": "उत्तर प्रदेश के कौशांबी में ग्यारह लोगों की जान लेने वाले मुख्य आरोपी नौशाद अली का हुआ पुलिस एनकाउंटर। पटाखा फैक्ट्री विस्फोट मामले में फरार चल रहे नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार किया है। पुलिस की जवाबी कार्रवाई में नौशाद अली के पैर में गोली लगी है, जिसके बाद उसे इलाज के लिए अस्पताल भेजा गया है।",
+    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में ग्यारह लोगों की जान लेने वाले मुख्य आरोपी नौशाद अली का हुआ पुलिस एनकाउंटर। पटाखा फैक्ट्री विस्फोट मामले में फरार चल रहे नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार किया है। पुलिस की जवाबी कार्रवाई में नौशाद अली के पैर में गोली लगी है, जिसके बाद उसे इलाज के लिए अस्पताल भेजा गया है।",
+    "title": "कौशांबी पटाखा फैक्ट्री विस्फोट का आरोपी गिरफ्तार",
+    "caption": "कौशांबी में पटाखा फैक्ट्री धमाके के मुख्य आरोपी नौशाद अली का पुलिस ने एनकाउंटर कर दिया है।",
     "hashtags": [
-      "PMModi",
-      "SCOSummit",
-      "Bishkek",
-      "XiJinping",
-      "VladimirPutin",
-      "ShahbazSharif",
-      "GlobalPolitics",
-      "India"
+      "Kaushambi",
+      "UPPolice",
+      "Encounter",
+      "CrimeNews",
+      "BreakingNews",
+      "UttarPradesh"
     ],
     "visual_queries": [
-      "international conference hall India",
-      "world leaders handshake meeting",
-      "diplomatic summit meeting room"
+      "Indian police crime scene investigation",
+      "Indian hospital emergency ward",
+      "police barricade India"
+    ],
+    "named_person": "Naushad Ali",
+    "named_person_hi": "नौशाद अली",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves a specific, named individual involved in a recent criminal event (encounter), which requires careful journalistic vetting and potential manual addition of specific images if available.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "नौशाद अली",
+        "source": "fallback",
+        "query": "Naushad Ali",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police crime scene investigation",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian hospital emergency ward",
+        "credit": "Maxx Sas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police barricade India",
+        "credit": "Sonika Agarwal",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pakistan_sco_photo_tampering",
+    "virality_score": 7,
+    "reason": "Cringe-worthy political stunt by Pakistan involving photo editing that serves as strong visual content.",
+    "region": "india",
+    "headline": "पाकिस्तान की एक और ओछी हरकत, SCO के ग्रुप फोटो से हटाई PM नरेंद्र मोदी की तस्वीर",
+    "source_summary": "पाकिस्तान के पीएमओ ने इस ग्रुप फोटो से भारतीय पीएम नरेंद्र मोदी की तस्वीर ही हटा दी. पाकिस्तानी पीएमओ ने संपादित तस्वीर शेयर की है और उसे ही एक्स पर अपलोड किया है.",
+    "source_url": "https://ndtv.in/india/pakistan-pmo-cropped-pm-narendra-modi-image-from-sco-summit-group-photo-11986271#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 01 Sep 2026 14:32:11 +0530",
+    "hook": "पाकिस्तान की शर्मनाक हरकत! SCO शिखर सम्मेलन की फोटो से पीएम मोदी को किया गायब।",
+    "script_hi": "पाकिस्तान ने एक बार फिर अपनी ओछी मानसिकता दिखाई है। शंघाई सहयोग संगठन यानी एस.सी.ओ. के ग्रुप फोटो से पीएम नरेंद्र मोदी की तस्वीर को एडिट करके हटा दिया गया। पाकिस्तानी प्रधानमंत्री कार्यालय ने इस छेड़छाड़ की गई तस्वीर को सोशल मीडिया प्लेटफॉर्म एक्स पर शेयर किया है, जिस पर अब भारी बवाल मच गया है।",
+    "tts_text_hi": "पाकिस्तान ने एक बार फिर अपनी ओछी मानसिकता दिखाई है। शंघाई सहयोग संगठन यानी एस.सी.ओ. के ग्रुप फोटो से पीएम नरेंद्र मोदी की तस्वीर को एडिट करके हटा दिया गया। पाकिस्तानी प्रधानमंत्री कार्यालय ने इस छेड़छाड़ की गई तस्वीर को सोशल मीडिया प्लेटफॉर्म एक्स पर शेयर किया है, जिस पर अब भारी बवाल मच गया है।",
+    "title": "SCO फोटो विवाद: पाकिस्तान ने पीएम मोदी को किया गायब",
+    "caption": "पाकिस्तान ने SCO समिट की ग्रुप फोटो से पीएम मोदी को क्रॉप करके हटा दिया।",
+    "hashtags": [
+      "Pakistan",
+      "PMModi",
+      "SCOSummit",
+      "BreakingNews",
+      "India",
+      "Politics",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Pakistani government office building",
+      "digital editing software screen",
+      "social media app logo",
+      "international diplomacy meeting hall"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [
-      "Xi Jinping",
-      "Vladimir Putin",
-      "Shehbaz Sharif"
-    ],
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific video footage of a summit meeting that generic stock B-roll cannot accurately depict; specific event footage needs to be added manually.",
+    "flag_reason": "The story relies on a specific edited image shared by the Pakistan PMO; generic stock footage cannot replace the actual visual evidence required for this news story.",
     "assets": [
       {
         "type": "text_card",
@@ -361,165 +269,102 @@
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37149925/pexels-photo-37149925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6115066/6115066-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "international conference hall India",
-        "credit": "Mst Haspia  Akter",
-        "duration_sec": 5
+        "query": "social media app logo",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 24,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8730270/pexels-photo-8730270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11553189/pexels-photo-11553189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "world leaders handshake meeting",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5103610/pexels-photo-5103610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "diplomatic summit meeting room",
-        "credit": "Kien Tran",
+        "query": "digital editing software screen",
+        "credit": "Juan Gomez",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 3,
+    "timeline_covered_sec": 15.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kaushambi_factory_blast",
-    "virality_score": 8,
-    "reason": "Visual impact of a major industrial disaster combined with high casualty count makes for high-urgency content.",
-    "region": "india",
-    "headline": "11 dead after massive blast in firecracker factory in UP's Kaushambi, rescue ops on",
-    "source_summary": "The explosion occurred near the Manori power house and caused extensive damage to the factory and nearby structures.",
-    "source_url": "https://www.hindustantimes.com/india-news/massive-blast-in-firecracker-factory-in-up-kaushambi-deaths-injuries-rescue-operations-101788186788619.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Mon, 31 Aug 2026 20:09:29 +0530",
-    "hook": "उत्तर प्रदेश के कौशांबी में एक बड़ा धमाका!",
-    "script_hi": "उत्तर प्रदेश के कौशांबी में एक पटाखे की फैक्ट्री में भीषण धमाका हुआ है। इस दर्दनाक हादसे में ग्यारह लोगों की मौत हो गई है। धमाका मनोरी पावर हाउस के पास हुआ, जिससे फैक्ट्री और आसपास की इमारतों को काफी नुकसान पहुंचा है। फिलहाल मौके पर राहत और बचाव का काम जारी है।",
-    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में एक पटाखे की फैक्ट्री में भीषण धमाका हुआ है। इस दर्दनाक हादसे में ग्यारह लोगों की मौत हो गई है। धमाका मनोरी पावर हाउस के पास हुआ, जिससे फैक्ट्री और आसपास की इमारतों को काफी नुकसान पहुंचा है। फिलहाल मौके पर राहत और बचाव का काम जारी है।",
-    "title": "Kaushambi Firecracker Factory Blast",
-    "caption": "उत्तर प्रदेश के कौशांबी में पटाखे की फैक्ट्री में धमाका, ग्यारह लोगों की मौत।",
+    "topic_label": "tupac_shakur_murder_verdict",
+    "virality_score": 7,
+    "reason": "Global interest in the resolution of one of music history's most famous unsolved murder cases.",
+    "region": "global",
+    "headline": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+    "source_summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Tue, 01 Sep 2026 07:02:58 GMT",
+    "hook": "हिप-हॉप जगत की सबसे बड़ी अनसुलझी पहेली का अंत हो गया है।",
+    "script_hi": "हिप-हॉप जगत की सबसे बड़ी अनसुलझी पहेली का अंत हो गया है। रैपर टुपैक शकूर की हत्या के तीन दशक बाद, डुआने कीफ डी डेविस को दोषी करार दिया गया है। उन्नीस सौ छियानवे में हुई इस वारदात ने पूरी दुनिया को हिला दिया था। अब आखिरकार इंसाफ की जीत हुई है।",
+    "tts_text_hi": "हिप-हॉप जगत की सबसे बड़ी अनसुलझी पहेली का अंत हो गया है। रैपर टुपैक शकूर की हत्या के तीन दशक बाद, डुआने कीफ डी डेविस को दोषी करार दिया गया है। उन्नीस सौ छियानवे में हुई इस वारदात ने पूरी दुनिया को हिला दिया था। अब आखिरकार इंसाफ की जीत हुई है।",
+    "title": "टुपैक शकूर हत्याकांड में डुआने डेविस दोषी",
+    "caption": "रैपर टुपैक शकूर की हत्या के 30 साल बाद आया फैसला। डुआने 'कीफ डी' डेविस दोषी करार।",
     "hashtags": [
-      "Kaushambi",
-      "UttarPradesh",
-      "BreakingNews",
-      "Accident",
-      "India",
-      "NewsUpdate"
+      "TupacShakur",
+      "JusticeForTupac",
+      "HipHopNews",
+      "CrimeNews",
+      "USNews",
+      "MusicHistory"
     ],
     "visual_queries": [
-      "smoke rising from explosion India",
-      "emergency rescue vehicles India",
-      "collapsed building debris India"
+      "hip hop concert stage",
+      "vintage microphone studio",
+      "courtroom gavel judge",
+      "police investigation scene"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
+    "named_person": "Tupac Shakur",
+    "named_person_hi": "टुपैक शकूर",
+    "secondary_persons": [
+      "Duane Davis"
+    ],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This is a breaking news event where specific local site footage is required to accurately represent the factory blast scene, as generic stock imagery will not suffice.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12883473/pexels-photo-12883473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smoke rising from explosion India",
-        "credit": "Nandhu Kumar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "collapsed building debris India",
-        "credit": "Dhong Wang",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "indian_killed_kyiv_strike",
-    "virality_score": 8,
-    "reason": "The death of an Indian national in a global war zone provides significant emotional and national interest.",
-    "region": "india",
-    "headline": "Indian Among 12 Killed In Russian Attack On Kyiv, Says Ukraine's Zelensky",
-    "source_summary": "The Ukrainian leader alleged that Russia's strikes were calculated \"to destroy lives as much as possible --and it succeeds only when air defence resources are insufficient.\"",
-    "source_url": "https://www.ndtv.com/world-news/indian-among-12-killed-in-russian-attack-on-kyiv-says-ukraines-zelensky-11985931#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Tue, 01 Sep 2026 13:18:04 +0530",
-    "hook": "यूक्रेन पर रूस का घातक हमला, एक भारतीय की मौत!",
-    "script_hi": "यूक्रेन पर रूस के एक घातक हमले में बारह लोगों की जान चली गई है। मरने वालों में एक भारतीय नागरिक भी शामिल है। राष्ट्रपति वोलोडिमिर जेलेंस्की ने इसका दावा किया है। जेलेंस्की ने कहा कि रूस ने जानबूझकर यह हमला किया ताकि ज्यादा से ज्यादा नुकसान हो सके। उनका कहना है कि हवाई सुरक्षा की कमी के कारण रूस अपने इन मंसूबों में कामयाब हो रहा है।",
-    "tts_text_hi": "यूक्रेन पर रूस के एक घातक हमले में बारह लोगों की जान चली गई है। मरने वालों में एक भारतीय नागरिक भी शामिल है। राष्ट्रपति वोलोडिमिर जेलेंस्की ने इसका दावा किया है। जेलेंस्की ने कहा कि रूस ने जानबूझकर यह हमला किया ताकि ज्यादा से ज्यादा नुकसान हो सके। उनका कहना है कि हवाई सुरक्षा की कमी के कारण रूस अपने इन मंसूबों में कामयाब हो रहा है।",
-    "title": "यूक्रेन हमले में भारतीय की मौत",
-    "caption": "यूक्रेन-रूस युद्ध में एक भारतीय की मौत से हड़कंप, जेलेंस्की ने रूस पर साधा निशाना।",
-    "hashtags": [
-      "UkraineWar",
-      "RussiaUkraine",
-      "BreakingNews",
-      "India",
-      "Zelensky",
-      "InternationalNews",
-      "LatestUpdate"
-    ],
-    "visual_queries": [
-      "Kyiv city smoke",
-      "Ukrainian damaged building",
-      "European parliament official",
-      "Anti aircraft missile system",
-      "War destruction ruins"
-    ],
-    "named_person": "Volodymyr Zelenskyy",
-    "named_person_hi": "वोलोडिमिर जेलेंस्की",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves specific casualties from a recent international conflict where unique, non-generic footage or verified imagery of the site is critical for the news report; generic stock B-roll is insufficient.",
+    "flag_reason": "Needs real footage of the trial and historical photos of Tupac Shakur from archives; generic stock footage is insufficient.",
     "assets": [
       {
         "type": "text_card",
-        "text": "वोलोडिमिर जेलेंस्की",
+        "text": "टुपैक शकूर",
         "source": "fallback",
-        "query": "Volodymyr Zelenskyy",
+        "query": "Tupac Shakur",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38383328/pexels-photo-38383328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12262184/pexels-photo-12262184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Kyiv city smoke",
-        "credit": "Алесь Усцінаў",
+        "query": "hip hop concert stage",
+        "credit": "Deybson Mallony",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29870959/pexels-photo-29870959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11402036/pexels-photo-11402036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Ukrainian damaged building",
-        "credit": "Алесь Усцінаў",
+        "query": "vintage microphone studio",
+        "credit": "Niall Dennehy",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38298900/pexels-photo-38298900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077422/pexels-photo-6077422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "European parliament official",
-        "credit": "MetaX Studios",
+        "query": "courtroom gavel judge",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10932512/pexels-photo-10932512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "war zone aftermath",
-        "credit": "ali Saleh",
+        "query": "police investigation scene",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
@@ -528,116 +373,109 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "new_bullet_train_india",
-    "virality_score": 7,
-    "reason": "Progress/development news regarding major infrastructure always attracts high interest from a broad Indian audience.",
+    "topic_label": "maruti_suzuki_share_crash",
+    "virality_score": 6,
+    "reason": "Direct financial impact on common investors and broad market relevance.",
     "region": "india",
-    "headline": "12 घंटे का सफर 4.5 घंटे में, 6 शहर होंगे कनेक्ट! नए बुलेट ट्रेन पर बड़ा अपडेट",
-    "source_summary": "रेलवे मंत्री अश्विनी वैष्णव ने मुंबई-अहमदाबाद हाई स्पीड रेल कॉरिडोर के बाद देश के अगले बुलेट ट्रेन प्रोजेक्ट का अपडेट दिया है. करीब 1,170 किलोमीटर लंबे इस कॉरिडोर से 12 घंटे का सफर सिर्फ 4.5 घंटे में पूरा होगा और कई शहर कनेक्ट होंगे.",
-    "source_url": "https://www.aajtak.in/business/utility/story/delhi-patna-bullet-train-corridor-travel-time-update-dskc-2633925-2026-09-01?utm_source=rssfeed",
+    "headline": "सेल्स 10% गिरते ही Suzuki का शेयर 4% टूटा, बना Nifty का टॉप लूजर",
+    "source_summary": "ऑटो सेक्टर के अगस्त के सेल्स आंकड़ों के बाद 1 सितंबर को शेयर बाजार में अलग-अलग कंपनियों के शेयरों में मिला-जुला असर दिखा. मारुति सुजुकी का शेयर 4% से ज्यादा टूटकर निफ्टी का टॉप लूजर बन गया. अगस्त में कंपनी की कुल बिक्री जुलाई के रिकॉर्ड स्तर से करीब 10% घटकर 2.19 लाख यूनिट रही.",
+    "source_url": "https://www.aajtak.in/business/news/story/maruti-suzuki-share-falls-after-august-sales-drop-becomes-nifty-top-looser-dpmx-smsr-dskc-2633962-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-01T14:13:35+05:30",
-    "hook": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में!",
-    "script_hi": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! रेल मंत्री अश्विनी वैष्णव ने देश के अगले बुलेट ट्रेन प्रोजेक्ट पर बड़ा अपडेट दिया है। यह एक हज़ार एक सौ सत्तर किलोमीटर लंबा कॉरिडोर होगा, जो छह बड़े शहरों को आपस में जोड़ेगा। मुंबई-अहमदाबाद के बाद अब देश में बुलेट ट्रेन का विस्तार तेज़ी से हो रहा है।",
-    "tts_text_hi": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! रेल मंत्री अश्विनी वैष्णव ने देश के अगले बुलेट ट्रेन प्रोजेक्ट पर बड़ा अपडेट दिया है। यह एक हज़ार एक सौ सत्तर किलोमीटर लंबा कॉरिडोर होगा, जो छह बड़े शहरों को आपस में जोड़ेगा। मुंबई-अहमदाबाद के बाद अब देश में बुलेट ट्रेन का विस्तार तेज़ी से हो रहा है।",
-    "title": "बुलेट ट्रेन का नया कॉरिडोर",
-    "caption": "रेल मंत्री अश्विनी वैष्णव ने दी बुलेट ट्रेन प्रोजेक्ट की जानकारी।",
+    "published": "2026-09-01T14:53:12+05:30",
+    "hook": "मारुति सुजुकी के निवेशकों को तगड़ा झटका लगा है!",
+    "script_hi": "मारुति सुजुकी के निवेशकों को तगड़ा झटका लगा है! कंपनी की सेल्स में दस प्रतिशत की गिरावट आई, जिसके बाद शेयर चार प्रतिशत से ज्यादा टूट गया। यह शेयर बाजार में निफ्टी का टॉप लूजर बन गया है। अगस्त महीने में कुल बिक्री दो लाख उन्नीस हजार यूनिट रही।",
+    "tts_text_hi": "मारुति सुजुकी के निवेशकों को तगड़ा झटका लगा है! कंपनी की सेल्स में दस प्रतिशत की गिरावट आई, जिसके बाद शेयर चार प्रतिशत से ज्यादा टूट गया। यह शेयर बाजार में निफ्टी का टॉप लूजर बन गया है। अगस्त महीने में कुल बिक्री दो लाख उन्नीस हजार यूनिट रही।",
+    "title": "Suzuki शेयर में बड़ी गिरावट",
+    "caption": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।",
     "hashtags": [
-      "BulletTrain",
-      "IndianRailways",
-      "AshwiniVaishnaw",
-      "Infrastructure",
-      "NewIndia",
-      "RailwayUpdate",
-      "TrainTravel"
+      "MarutiSuzuki",
+      "StockMarket",
+      "Nifty",
+      "BusinessNews",
+      "ShareMarket",
+      "IndiaEconomy",
+      "AutoSector"
     ],
     "visual_queries": [
-      "modern Indian bullet train interior",
-      "Indian railway station platform crowded",
-      "high speed train tracks India",
-      "Indian city skyline aerial view"
+      "Indian stock market ticker",
+      "Maruti Suzuki car showroom India",
+      "Red stock market graph India",
+      "Car manufacturing plant India"
     ],
-    "named_person": "Ashwini Vaishnaw",
-    "named_person_hi": "अश्विनी वैष्णव",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "अश्विनी वैष्णव",
-        "source": "fallback",
-        "query": "Ashwini Vaishnaw",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/27666759/pexels-photo-27666759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern Indian bullet train interior",
-        "credit": "Hugo Sykes",
+        "query": "Indian stock market ticker",
+        "credit": "Alex Luna",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31597514/pexels-photo-31597514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30703628/pexels-photo-30703628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian railway station platform crowded",
-        "credit": "Nawab Alam",
+        "query": "Maruti Suzuki car showroom India",
+        "credit": "Janmesh Shah",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7826627/pexels-photo-7826627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7108043/pexels-photo-7108043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "high speed train tracks India",
-        "credit": "Raj Vishwakarma",
+        "query": "Red stock market graph India",
+        "credit": "Tiger Lily",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36171603/pexels-photo-36171603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian city skyline aerial view",
-        "credit": "Subham Mitra",
+        "query": "Car manufacturing plant India",
+        "credit": "Tom Fisk",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "12 घंटे का सफर अब 4.5 घंटे में! बुलेट ट्रेन पर बड़ा अपडेट 🚄",
-        "caption": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! \n\nदेश के 6 बड़े शहरों को जोड़ने वाले नए बुलेट ट्रेन कॉरिडोर का प्लान तैयार है। यह रूट न सिर्फ समय बचाएगा बल्कि कनेक्टिविटी की तस्वीर भी बदल देगा। \n\nआपके शहर से होकर गुजरेगी क्या यह ट्रेन? कमेंट में बताएं।\n\n#bullettrain #indianrailways #infrastructure #travelupdate #vande Bharat"
+        "title": "Suzuki शेयर में बड़ी गिरावट",
+        "caption": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।\n\n#MarutiSuzuki #StockMarket #Nifty #BusinessNews #ShareMarket"
       },
       "instagram": {
         "title": null,
-        "caption": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! 🚄\n\n6 शहरों को जोड़ने वाले नए बुलेट ट्रेन कॉरिडोर का अपडेट आ गया है। इस रूट के बनने से सफर की पूरी परिभाषा बदल जाएगी।\n\nक्या आपको लगता है बुलेट ट्रेन से सफर करना किफायती होगा? अपनी राय नीचे लिखें।\n\n#bullettrain #indianrailways #infrastructure #travelupdate #vande Bharat"
+        "caption": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।\n\n#MarutiSuzuki #StockMarket #Nifty #BusinessNews #ShareMarket"
       },
       "facebook": {
         "title": null,
-        "caption": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! \n\nबुलेट ट्रेन को लेकर सरकार की नई योजना ने रफ्तार पकड़ ली है। यह कॉरिडोर देश के 6 बड़े शहरों को एक-दूसरे से सीधे जोड़ने वाला है, जिससे घंटों का सफर मिनटों में तय होगा। \n\nक्या यह प्रोजेक्ट आपके शहर तक पहुंचेगा? पूरा अपडेट इस वीडियो में देखें और अपनी राय कमेंट में साझा करें।\n\n#bullettrain #indianrailways #infrastructure #travelupdate #vande Bharat"
+        "caption": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।\n\n#MarutiSuzuki #StockMarket #Nifty #BusinessNews #ShareMarket"
       },
       "hashtags": [
-        "bullettrain",
-        "indianrailways",
-        "infrastructure",
-        "travelupdate",
-        "vande Bharat"
+        "MarutiSuzuki",
+        "StockMarket",
+        "Nifty",
+        "BusinessNews",
+        "ShareMarket"
       ]
     },
-    "audio_path": "audio/new_bullet_train_india.wav",
-    "audio_duration_sec": 22.12,
-    "video_path": "videos/new_bullet_train_india.mp4",
-    "video_duration_sec": 30.12,
+    "audio_path": "audio/maruti_suzuki_share_crash.wav",
+    "audio_duration_sec": 18.16,
+    "video_path": "videos/maruti_suzuki_share_crash.mp4",
+    "video_duration_sec": 26.2,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "SJh6FlAUB0s",
-        "url": "https://youtube.com/shorts/SJh6FlAUB0s",
-        "attempted_at": "2026-09-01T09:46:29.394278+00:00"
+        "video_id": "xG0ufo31uZg",
+        "url": "https://youtube.com/shorts/xG0ufo31uZg",
+        "attempted_at": "2026-09-01T09:59:20.853269+00:00"
       },
       "facebook": {
         "success": true,
@@ -650,15 +488,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a969f0b229e0ea60b08b927",
+            "_id": "6a96a21025d61a5b22bbaa92",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! \n\nबुलेट ट्रेन को लेकर सरकार की नई योजना ने रफ्तार पकड़ ली है। यह कॉरिडोर देश के 6 बड़े शहरों को एक-दूसरे से सीधे जोड़ने वाला है, जिससे घंटों का सफर मिनटों में तय होगा। \n\nक्या यह प्रोजेक्ट आपके शहर तक पहुंचेगा? पूरा अपडेट इस वीडियो में देखें और अपनी राय कमेंट में साझा करें।\n\n#bullettrain #indianrailways #infrastructure #travelupdate #vande Bharat",
+            "content": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।\n\n#MarutiSuzuki #StockMarket #Nifty #BusinessNews #ShareMarket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788256004664_s5xyfkhl_new_bullet_train_india.mp4",
-                "_id": "6a969f0b229e0ea60b08b928"
+                "url": "https://media.zernio.com/media/1788256782150_ynm8tarr_maruti_suzuki_share_crash.mp4",
+                "_id": "6a96a21025d61a5b22bbaa93"
               }
             ],
             "platforms": [
@@ -675,17 +513,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-01T09:46:49.745Z",
+                "scheduledFor": "2026-09-01T09:59:43.172Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "ecf2aacd2a031c85667dc87f2cbf2ad0",
-                "_id": "6a969f0b229e0ea60b08b929",
-                "platformPostId": "1446083764006612",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1446083764006612",
-                "publishedAt": "2026-09-01T09:46:58.808Z"
+                "contentHash": "e9ecd9f7c09ec96e1f7107c32713ec2b",
+                "_id": "6a96a21025d61a5b22bbaa94",
+                "platformPostId": "2247547399433619",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2247547399433619",
+                "publishedAt": "2026-09-01T09:59:53.565Z"
               }
             ],
-            "scheduledFor": "2026-09-01T09:46:49.745Z",
+            "scheduledFor": "2026-09-01T09:59:43.172Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -697,14 +535,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-01T09:46:51.411Z",
-            "updatedAt": "2026-09-01T09:46:58.952Z",
+            "createdAt": "2026-09-01T09:59:44.821Z",
+            "updatedAt": "2026-09-01T09:59:53.830Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-01T09:46:51.718Z"
+            "publishingClaimedAt": "2026-09-01T09:59:45.269Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-01T09:46:59.126690+00:00"
+        "attempted_at": "2026-09-01T09:59:54.016679+00:00"
       },
       "instagram": {
         "success": true,
@@ -717,15 +555,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a969f303ec2473f7452ddc2",
+            "_id": "6a96a22d261588e4c60edc86",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "बारह घंटे का सफर अब सिर्फ साढ़े चार घंटे में! 🚄\n\n6 शहरों को जोड़ने वाले नए बुलेट ट्रेन कॉरिडोर का अपडेट आ गया है। इस रूट के बनने से सफर की पूरी परिभाषा बदल जाएगी।\n\nक्या आपको लगता है बुलेट ट्रेन से सफर करना किफायती होगा? अपनी राय नीचे लिखें।\n\n#bullettrain #indianrailways #infrastructure #travelupdate #vande Bharat",
+            "content": "मारुति सुजुकी के शेयरों में भारी गिरावट, निफ्टी का बना टॉप लूजर।\n\n#MarutiSuzuki #StockMarket #Nifty #BusinessNews #ShareMarket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788256046281_5d66919e_new_bullet_train_india.mp4",
-                "_id": "6a969f303ec2473f7452ddc3"
+                "url": "https://media.zernio.com/media/1788256809244_4zeolvqc_maruti_suzuki_share_crash.mp4",
+                "_id": "6a96a22d261588e4c60edc87"
               }
             ],
             "platforms": [
@@ -742,14 +580,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-01T09:47:27.451Z",
+                "scheduledFor": "2026-09-01T10:00:10.469Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "cffa3e5ff4ee4e1ca707bda46317b10b",
-                "_id": "6a969f303ec2473f7452ddc4"
+                "contentHash": "05bbdb0e6d4d47f0fde597db1d171b07",
+                "_id": "6a96a22d261588e4c60edc88"
               }
             ],
-            "scheduledFor": "2026-09-01T09:47:27.451Z",
+            "scheduledFor": "2026-09-01T10:00:10.469Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -761,14 +599,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-01T09:47:28.862Z",
-            "updatedAt": "2026-09-01T09:47:30.793Z",
+            "createdAt": "2026-09-01T10:00:13.395Z",
+            "updatedAt": "2026-09-01T10:00:16.034Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-01T09:47:28.969Z"
+            "publishingClaimedAt": "2026-09-01T10:00:13.752Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-01T09:47:31.106948+00:00"
+        "attempted_at": "2026-09-01T10:00:16.810987+00:00"
       }
     }
   }
