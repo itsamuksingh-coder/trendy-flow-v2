@@ -1,7 +1,4 @@
-ready_labels: ['delhi_free_solar_panel_scheme', 'india_us_javelin_missile_deal_explainer', 'sarnath_unesco_world_heritage_site']
+ready_labels: ['indigo_flight_engine_failure_goa_delhi']
 
-sarnath_unesco_world_heritage_site: SUCCESS -> video_path=videos/sarnath_unesco_world_heritage_site.mp4 dur=33.147211
-noida_father_kills_son_dispute: SKIPPED (not in ready set)
-delhi_free_solar_panel_scheme: SUCCESS -> video_path=videos/delhi_free_solar_panel_scheme.mp4 dur=24.156553
-india_us_javelin_missile_deal_explainer: SUCCESS -> video_path=videos/india_us_javelin_missile_deal_explainer.mp4 dur=28.52322
-hardoi_teacher_student_death_dispute: SKIPPED (not in ready set)
+isro_eos_05_geo_imaging_satellite_launch: SKIPPED (not in ready set)
+indigo_flight_engine_failure_goa_delhi: SUCCESS -> video_path=videos/indigo_flight_engine_failure_goa_delhi.mp4 dur=32.54322
