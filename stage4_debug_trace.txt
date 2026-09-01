@@ -1,10 +1,8 @@
-ready_labels: ['messi_football_retirement', 'modi_gdp_growth_swadeshi_appeal', 'pm_modi_sco_terrorism_speech', 'september_inflation_hike', 'tim_cook_steps_down']
+ready_labels: ['new_bullet_train_india', 'september_price_hikes']
 
-delhi_bus_gangrape: SKIPPED (not in ready set)
-pm_modi_sco_summit_handshake: SKIPPED (not in ready set)
-september_inflation_hike: SUCCESS -> video_path=videos/september_inflation_hike.mp4 dur=21.456553
-tim_cook_steps_down: SUCCESS -> video_path=videos/tim_cook_steps_down.mp4 dur=26.924218
-messi_football_retirement: SUCCESS -> video_path=videos/messi_football_retirement.mp4 dur=28.82322
-pm_modi_sco_terrorism_speech: SUCCESS -> video_path=videos/pm_modi_sco_terrorism_speech.mp4 dur=27.179229
-modi_gdp_growth_swadeshi_appeal: SUCCESS -> video_path=videos/modi_gdp_growth_swadeshi_appeal.mp4 dur=20.189887
-chhattisgarh_ganja_seizure: SKIPPED (not in ready set)
+noida_bus_gangrape: SKIPPED (not in ready set)
+september_price_hikes: SUCCESS -> video_path=videos/september_price_hikes.mp4 dur=28.689887
+modi_xi_putin_sco: SKIPPED (not in ready set)
+kaushambi_factory_blast: SKIPPED (not in ready set)
+indian_killed_kyiv_strike: SKIPPED (not in ready set)
+new_bullet_train_india: SUCCESS -> video_path=videos/new_bullet_train_india.mp4 dur=30.12322
