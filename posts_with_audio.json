@@ -1,217 +1,170 @@
 [
   {
-    "topic_label": "pnb_fake_currency_saharanpur",
-    "virality_score": 9,
-    "reason": "High shock value and financial impact; massive scale of fake notes in a national bank vault.",
-    "region": "india",
-    "headline": "इस बैंक में नकली नोटों का पहाड़! 4.36 लाख गायब, 4 अफसर सस्पेंड",
-    "source_summary": "सहारनपुर के घंटाघर स्थिति पीएनबी बैंक की करेंसी चेस्ट में ऑडिट के दौरान 7.40 करोड़ रुपये की कथित जाली करेंसी मिलने और 4.36 लाख रुपये की कैश शॉर्टेज से हड़कंप मच गया है. मामले में नोडल अधिकारी अरुण कुमार चौबे की शिकायत पर बैंक के चार कर्मचारियों के खिलाफ एफआईआर दर्ज की गई है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/pnb-fake-currency-saharanpur-branch-bank-audit-missing-huse-cash-lclam-strc-2633642-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T08:56:03+05:30",
-    "hook": "बैंक में नकली नोटों का अंबार! सहारनपुर पीएनबी में बड़ा घोटाला सामने आया है।",
-    "script_hi": "सहारनपुर के घंटाघर स्थित पीएनबी बैंक की करेंसी चेस्ट में सात करोड़ चालीस लाख रुपये के नकली नोट मिले हैं। साथ ही चार लाख छत्तीस हजार रुपये की नकदी भी गायब है। इस मामले में चार अधिकारियों को सस्पेंड कर उनके खिलाफ एफआईआर दर्ज की गई है।",
-    "tts_text_hi": "सहारनपुर के घंटाघर स्थित पंजाब नेशनल बैंक की करेंसी चेस्ट में सात करोड़ चालीस लाख रुपये के नकली नोट मिले हैं। साथ ही चार लाख छत्तीस हजार रुपये की नकदी भी गायब पाई गई है। ऑडिट के दौरान हुए इस खुलासे से हड़कंप मच गया है। मामले में नोडल अधिकारी की शिकायत पर बैंक के चार कर्मचारियों के खिलाफ एफआईआर दर्ज की गई है और उन्हें सस्पेंड कर दिया गया है।",
-    "title": "सहारनपुर पीएनबी में नकली नोटों का खेल",
-    "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।",
-    "hashtags": [
-      "Saharanpur",
-      "PNB",
-      "FakeCurrency",
-      "BankingFraud",
-      "HindiNews",
-      "CrimeNews"
-    ],
-    "visual_queries": [
-      "Indian bank branch interior",
-      "Indian currency notes stack",
-      "Police investigation India",
-      "Official document stamp"
-    ],
-    "named_person": "Arun Kumar Chaubey",
-    "named_person_hi": "अरुण कुमार चौबे",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "अरुण कुमार चौबे",
-        "source": "fallback",
-        "query": "Arun Kumar Chaubey",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12685323/pexels-photo-12685323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian bank branch interior",
-        "credit": "Kübra Aydın",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8576783/pexels-photo-8576783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian currency notes stack",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6358834/pexels-photo-6358834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Official document stamp",
-        "credit": "Anna Tarazevich",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सहारनपुर पीएनबी में नकली नोटों का खेल",
-        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सहारनपुर के पीएनबी बैंक में करोड़ों के नकली नोट और लाखों की कैश शॉर्टेज का मामला सामने आया है। चार अधिकारी सस्पेंड।\n\n#Saharanpur #PNB #FakeCurrency #BankingFraud #HindiNews"
-      },
-      "hashtags": [
-        "Saharanpur",
-        "PNB",
-        "FakeCurrency",
-        "BankingFraud",
-        "HindiNews"
-      ]
-    },
-    "audio_path": "audio/pnb_fake_currency_saharanpur.wav",
-    "audio_duration_sec": 26.71
-  },
-  {
     "topic_label": "delhi_bus_gangrape",
-    "virality_score": 9,
-    "reason": "Extremely high public outrage and emotional weight; critical news that demands attention.",
+    "virality_score": 10,
+    "reason": "Highly sensitive and shocking crime case involving a minor, triggering immediate and widespread national outrage.",
     "region": "india",
     "headline": "दिल्ली फिर शर्मसार, स्लीपर बस में छात्रा से गैंगरेप",
     "source_summary": "देश की राजधानी दिल्ली से एक बेहद ही दिल दहला देने वाली और शर्मसार कर देने वाली वारदात सामने आई है. दिल्ली के कश्मीरी गेट जैसे व्यस्त इलाके में खड़ी एक स्लीपर बस के अंदर 16 साल की एक नाबालिग छात्रा के साथ सामूहिक दुष्कर्म यानी गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है.",
     "source_url": "https://www.aajtak.in/short-videos/video/delhi-gang-rape-case-on-moving-bus-driver-and-conductor-arrested-vdot-ytvd-2633266-2026-08-31?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-08-31T23:12:03+05:30",
-    "hook": "दिल्ली के कश्मीरी गेट में एक नाबालिग छात्रा के साथ हैवानियत की हदें पार हो गईं।",
-    "script_hi": "दिल्ली फिर शर्मसार हुई है। कश्मीरी गेट इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ स*क्सुअल असॉल्ट और गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "tts_text_hi": "दिल्ली फिर शर्मसार हुई है। कश्मीरी गेट इलाके में खड़ी एक स्लीपर बस के अंदर सोलह साल की नाबालिग छात्रा के साथ सेक्सुअल असॉल्ट और गैंगरेप की घिनौनी वारदात को अंजाम दिया गया है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "title": "दिल्ली के कश्मीरी गेट में नाबालिग से गैंगरेप",
-    "caption": "दिल्ली के कश्मीरी गेट में नाबालिग छात्रा के साथ स्लीपर बस में गैंगरेप की शर्मनाक घटना, पुलिस ने शुरू की जांच।",
+    "hook": "दिल्ली में फिर दरिंदगी, स्लीपर बस में नाबालिग से गैंगरेप!",
+    "script_hi": "दिल्ली फिर हुई शर्मसार! कश्मीरी गेट के पास खड़ी स्लीपर बस में सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। देश की राजधानी में महिलाओं की सुरक्षा पर उठे बड़े सवाल।",
+    "tts_text_hi": "दिल्ली फिर हुई शर्मसार। कश्मीरी गेट के पास खड़ी स्लीपर बस में सोलह साल की नाबालिग छात्रा के साथ हुआ गैंगरेप। देश की राजधानी में महिलाओं की सुरक्षा पर उठे बड़े सवाल।",
+    "title": "दिल्ली में नाबालिग छात्रा से गैंगरेप",
+    "caption": "दिल्ली के कश्मीरी गेट इलाके में स्लीपर बस के अंदर नाबालिग छात्रा के साथ सामूहिक दुष्कर्म की शर्मनाक घटना सामने आई है।",
     "hashtags": [
       "DelhiCrime",
+      "JusticeForVictim",
       "DelhiNews",
-      "KashmereGate",
-      "JusticeForMinor",
-      "CrimeAgainstWomen",
-      "LatestNews",
-      "IndiaNews"
+      "SafetyFirst",
+      "BreakingNews",
+      "HindiNews"
     ],
     "visual_queries": [
-      "India police investigation scene",
-      "Delhi city street view",
-      "bus parked on Indian road",
-      "grief mood concept"
+      "busy Kashmiri Gate street India",
+      "nighttime sleeper bus exterior India",
+      "police investigation scene India",
+      "upset worried crowd India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves a minor as a victim of sexual abuse, which requires careful handling according to safety guidelines.",
+    "flag_reason": "Content involves a minor as a victim of a serious crime, requiring sensitive handling to ensure no identifying information is disclosed that could harm the victim.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34759748/14736150_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "India police investigation scene",
-        "credit": "cottonbro studio",
+        "query": "nighttime sleeper bus exterior India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 5,
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18089520/pexels-photo-18089520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi city street view",
-        "credit": "Roman Saienko",
+        "query": "upset worried crowd India",
+        "credit": "Manish Jangid",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pnb_saharanpur_fake_currency",
+    "virality_score": 9,
+    "reason": "Massive banking scandal involving crores in fake currency has immediate public interest and high shock value.",
+    "region": "india",
+    "headline": "पंजाब नेशनल बैंक में बड़ा फर्जीवाड़ा, 17 करोड़ के असली नोट बदलकर नकली रख दिए, 3 अफसर सस्‍पेंड",
+    "source_summary": "Saharanpur PNB Money Scam: पंजाब नेशनल बैंक के मनी वॉल्‍ड में असली की जगह नकली नोट देखकर बैंक अफसरों के होश उड़ गए। एसआईटी पूरे मामले की जांच कर रही है।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/saharanpur/punjab-national-bank-money-walt-duplicate-currency-officer-suspend/articleshow/133667205.cms",
+    "source_name": "Navbharat Times",
+    "published": "Tue, 01 Sep 2026 09:15:00 +0530",
+    "hook": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला सामने आया है!",
+    "script_hi": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला। बैंक के मनी वॉ*ल्ट में असली नोटों की जगह नकली नोट पाए गए। तीन अफसर सस्पेंड, एसआईटी जांच में जुटी।",
+    "tts_text_hi": "पंजाब नेशनल बैंक में सत्तरह करोड़ का बड़ा घोटाला सामने आया है। सहारनपुर में बैंक के मनी वॉल्ट में जब अधिकारियों ने पड़ताल की, तो उनके होश उड़ गए। वहां असली नोटों की जगह नकली नोट रखे हुए थे। मामले की गंभीरता को देखते हुए तीन अधिकारियों को सस्पेंड कर दिया गया है और अब एसआईटी इस पूरे फर्जीवाड़े की जांच कर रही है।",
+    "title": "PNB में सत्तरह करोड़ का फर्जीवाड़ा",
+    "caption": "पंजाब नेशनल बैंक के सहारनपुर ब्रांच में सत्तरह करोड़ के असली नोट बदलकर नकली नोट रखने का मामला सामने आया है।",
+    "hashtags": [
+      "PNBScam",
+      "SaharanpurNews",
+      "BankingFraud",
+      "BreakingNews",
+      "HindiNews",
+      "CyberCrime"
+    ],
+    "visual_queries": [
+      "Punjab National Bank India logo",
+      "bank vault interior India",
+      "Indian police investigation team",
+      "handcuffs on table India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story mentions a specific financial crime incident at a named bank branch; specific news report footage is required to accurately represent this event, as generic stock footage would not show the actual location or authorities involved.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6282146/6282146-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "bank currency vault",
+        "credit": "Monstera Production",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19920920/pexels-photo-19920920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bank vault interior India",
+        "credit": "Berna",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37841463/pexels-photo-37841463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12685323/pexels-photo-12685323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bus parked on Indian road",
-        "credit": "Abhishek  Royal",
+        "query": "Indian bank interior",
+        "credit": "Kübra Aydın",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11930016/pexels-photo-11930016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077555/pexels-photo-6077555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi street night",
-        "credit": "Kuldeep Rajora",
+        "query": "handcuffs on table India",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kaushambi_firecracker_factory_blast_encounter",
-    "virality_score": 8,
-    "reason": "Combines a tragic disaster with a dramatic police encounter of the primary accused; strong visual potential.",
+    "topic_label": "kaushambi_factory_blast_encounter",
+    "virality_score": 9,
+    "reason": "High-impact crime story involving a major firecracker factory blast and a swift police encounter of the prime suspect.",
     "region": "india",
     "headline": "भागेगा तो बचेगा नहीं! 11 मौतों के जिम्मेदार का पुलिस ने किया हाफ एनकाउंटर",
     "source_summary": "यूपी के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले के मुख्य आरोपी नौशाद अली को पुलिस ने एनकाउंटर के बाद गिरफ्तार कर लिया है. पुलिस के मुताबिक, मुठभेड़ में नौशाद अली के पैर में गोली लगी, जिसके बाद उसे घायल हालत में अस्पताल भेजा गया.",
     "source_url": "https://www.aajtak.in/uttar-pradesh/story/kaushambi-firecracker-factory-blast-main-accused-naushad-ali-encounter-up-police-ntc-agkp-rpti-2633617-2026-09-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-01T08:04:05+05:30",
-    "hook": "उत्तर प्रदेश के कौशांबी में ग्यारह लोगों की जान लेने वाले मुख्य आरोपी नौशाद अली का हुआ एनकाउंटर।",
-    "script_hi": "उत्तर प्रदेश के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले में पुलिस ने बड़ी कार्रवाई की है। हादसे में ग्यारह लोगों की जान लेने के मुख्य आरोपी नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार कर लिया। एनकाउंटर के दौरान नौशाद के पैर में गोली लगी है, जिसके बाद उसे अस्पताल में भर्ती कराया गया।",
-    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में पटाखा फैक्ट्री विस्फोट मामले में पुलिस ने बड़ी कार्रवाई की है। हादसे में ग्यारह लोगों की जान लेने के मुख्य आरोपी नौशाद अली को पुलिस ने मुठभेड़ के बाद गिरफ्तार कर लिया। एनकाउंटर के दौरान नौशाद के पैर में गोली लगी है, जिसके बाद उसे अस्पताल में भर्ती कराया गया।",
-    "title": "कौशांबी पटाखा फैक्ट्री विस्फोट का मुख्य आरोपी गिरफ्तार",
-    "caption": "कौशांबी में पटाखा फैक्ट्री हादसे के आरोपी का एनकाउंटर, पुलिस ने मुख्य आरोपी नौशाद अली को किया गिरफ्तार।",
+    "hook": "यूपी के कौशांबी में पटाखा फैक्ट्री धमाके का मुख्य आरोपी अब पुलिस की गिरफ्त में है।",
+    "script_hi": "यूपी के कौशांबी में ग्यारह मौतों के जिम्मेदार नौशाद अली का हुआ एनकाउंटर। पुलिस ने मुठभेड़ के बाद मुख्य आरोपी को पैर में गोली मारकर गिरफ्तार किया है। आरोपी को घायल हालत में अस्पताल भेजा गया है।",
+    "tts_text_hi": "उत्तर प्रदेश के कौशांबी में ग्यारह मौतों के जिम्मेदार नौशाद अली का हुआ एनकाउंटर। पुलिस ने मुठभेड़ के बाद मुख्य आरोपी को पैर में गोली मारकर गिरफ्तार किया है। आरोपी को घायल हालत में अस्पताल भेजा गया है।",
+    "title": "नौशाद अली का एनकाउंटर",
+    "caption": "कौशांबी पटाखा फैक्ट्री विस्फोट मामले के आरोपी नौशाद अली का एनकाउंटर, पुलिस ने किया गिरफ्तार।",
     "hashtags": [
       "Kaushambi",
-      "UttarPradesh",
+      "UPPolice",
       "Encounter",
       "CrimeNews",
-      "BreakingNews",
-      "UPPolice"
+      "UttarPradesh",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian police investigation site",
-      "Indian police officers standing",
-      "Hospital building exterior India",
-      "Indian police car with siren"
+      "Indian police station building",
+      "Indian police crime scene investigation",
+      "hospital emergency ward India"
     ],
     "named_person": "Naushad Ali",
     "named_person_hi": "नौशाद अली",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific criminal encounter incident in Kaushambi; generic B-roll will not accurately represent the specific event footage required for news credibility.",
+    "flag_reason": "The story involves a specific ongoing criminal investigation and an encounter of a named individual; requires verification of official police reports regarding the suspect's status.",
     "assets": [
       {
         "type": "text_card",
@@ -221,330 +174,297 @@
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian police barricade",
-        "credit": "Sonika Agarwal",
+        "query": "Indian police crime scene investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police officers standing",
-        "credit": "Devansh Bose",
+        "query": "hospital emergency ward India",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "messi_retirement",
+    "virality_score": 9,
+    "reason": "Global sporting icon Lionel Messi retiring is massive news for Indian football fans.",
+    "region": "india",
+    "headline": "मेसी का वर्ल्ड कप फाइनल में हार के बाद बड़ा फैसला",
+    "source_summary": "लियोनेल मेसी ने अर्जेंटीना की राष्ट्रीय टीम से अंतरराष्ट्रीय फुटबॉल को अलविदा कहने का ऐलान किया है. भावुक सोशल मीडिया पोस्ट में उन्होंने बताया कि विश्व कप फाइनल में स्पेन से हार के बाद ही उनके मन में यह फैसला आया था. पिता के निधन के बाद उनका निर्णय और मजबूत हो गया. मेसी ने प्रशंसकों, परिवार, कोच और साथियों का शुक्रिया अदा किया और कहा कि टीम को बाहर से समर्थन देंगे.",
+    "source_url": "https://www.aajtak.in/short-videos/video/lionel-messi-announces-international-retirement-after-world-cup-final-defeat-and-father-loss-in-emotional-post-mmta-2633519-2026-08-31?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-08-31T22:08:04+05:30",
+    "hook": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का चौंकाने वाला ऐलान कर दिया है!",
+    "script_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का ऐलान कर दिया है। वर्ल्ड कप फाइनल में स्पेन के हाथों मिली हार के बाद मेसी ने यह बड़ा फैसला लिया। उन्होंने सोशल मीडिया पर भावुक पोस्ट साझा करते हुए कहा कि पिता के निधन के बाद यह निर्णय और मजबूत हो गया। मेसी अब अर्जेंटीना की टीम को एक प्रशंसक की तरह बाहर से समर्थन देंगे।",
+    "tts_text_hi": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से संन्यास का ऐलान कर दिया है। वर्ल्ड कप फाइनल में स्पेन के हाथों मिली हार के बाद मेसी ने यह बड़ा फैसला लिया। उन्होंने सोशल मीडिया पर भावुक पोस्ट साझा करते हुए कहा कि पिता के निधन के बाद यह निर्णय और मजबूत हो गया। मेसी अब अर्जेंटीना की टीम को एक प्रशंसक की तरह बाहर से समर्थन देंगे।",
+    "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास",
+    "caption": "लियोनेल मेसी का बड़ा फैसला, अंतरराष्ट्रीय फुटबॉल को कहा अलविदा।",
+    "hashtags": [
+      "LionelMessi",
+      "Argentina",
+      "FootballNews",
+      "Retirement",
+      "MessiFans",
+      "WorldCupFinal",
+      "SportsNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Lionel Messi playing soccer",
+      "sad soccer player on field",
+      "Argentina football stadium crowd",
+      "Messi waving to fans"
+    ],
+    "named_person": "Lionel Messi",
+    "named_person_hi": "लियोनेल मेसी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "लियोनेल मेसी",
+        "source": "fallback",
+        "query": "Lionel Messi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6537096/6537096-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "sad professional athlete",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32228982/pexels-photo-32228982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sad soccer player on field",
+        "credit": "Alfredo Dacosta",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/24205283/pexels-photo-24205283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Hospital building exterior India",
-        "credit": "Uvesh Gogda",
+        "query": "Argentina football stadium crowd",
+        "credit": "Luis Muñoz",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "मेसी का अंतरराष्ट्रीय फुटबॉल से संन्यास! ⚽️😱",
+        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! \n\nवर्ल्ड कप फाइनल के तुरंत बाद मेसी के इस फैसले ने पूरी दुनिया के फुटबॉल फैंस को हैरान कर दिया है। आखिर मेसी ने खेल के सबसे बड़े मंच से संन्यास लेने का इतना बड़ा कदम क्यों उठाया?\n\nपूरी कहानी देखें और अपनी राय कमेंट्स में बताएं।\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! 😱\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी ने सोचा भी नहीं था। आखिर क्या वजह रही इस बड़े कदम के पीछे? पूरी सच्चाई वीडियो में देखिए। 👇\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "लियोनेल मेसी ने अंतरराष्ट्रीय फुटबॉल से अचानक संन्यास का ऐलान कर सबको चौंका दिया है! ⚽️\n\nवर्ल्ड कप फाइनल के बाद मेसी का यह फैसला किसी के लिए भी उम्मीद से बाहर था। हर कोई जानना चाहता है कि आखिर फुटबॉल के इस जादूगर ने अचानक अपने करियर के सबसे बड़े पड़ाव पर यह निर्णय क्यों लिया। \n\nआप मेसी के इस फैसले के बारे में क्या सोचते हैं? कमेंट में अपनी राय जरूर लिखें।\n\n#LionelMessi #MessiRetirement #FootballNews #WorldCupFinal #SportsUpdates"
+      },
+      "hashtags": [
+        "LionelMessi",
+        "MessiRetirement",
+        "FootballNews",
+        "WorldCupFinal",
+        "SportsUpdates"
+      ]
+    },
+    "audio_path": "audio/messi_retirement.wav",
+    "audio_duration_sec": 24.13
+  },
+  {
+    "topic_label": "nepal_flood_gold_recovery",
+    "virality_score": 8,
+    "reason": "Incredible survival and recovery footage of gold and cash from flood debris in Nepal is visually compelling.",
+    "region": "india",
+    "headline": "नेपाल की बाढ़ में बह गया था बैंक! अब मलबे की खुदाई में निकला 50 करोड़ का सोना और 1.5 करोड़ कैश, Video वायरल",
+    "source_summary": "Nepal Flood Gold Rescue: नेपाल में पिछले पांच दिनों से जारी भीषण बाढ़ और भूस्खलन ने बड़े पैमाने पर तबाही मचाई है। रसुवा की भोटेकोशी नदी में आई विनाशकारी बाढ़ के बीच राहत और बचाव अभियान युद्धस्तर पर जारी है। इसी",
+    "source_url": "https://hindi.oneindia.com/news/international/nepal-flood-bank-gold-cash-rescue-50-crore-gold-1-5-crore-cash-agriculture-development-bank-1639439.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Mon, 31 Aug 2026 15:28:02 +0530",
+    "hook": "नेपाल की बाढ़ में बह गया था बैंक, अब मलबे से निकला खजाना!",
+    "script_hi": "नेपाल में भीषण बाढ़ और भूस्खलन ने भारी तबाही मचाई है। रसुवा की भोटेकोशी नदी में एक बैंक बह गया था। राहत और बचाव कार्य के दौरान मलबे की खुदाई में पचास करोड़ का सोना और डेढ़ करोड़ की नकदी बरामद हुई है। इस घटना का वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है।",
+    "tts_text_hi": "नेपाल में भीषण बाढ़ और भूस्खलन ने भारी तबाही मचाई है। रसुवा की भोटेकोशी नदी में एक बैंक बह गया था। राहत और बचाव कार्य के दौरान मलबे की खुदाई में पचास करोड़ का सोना और डेढ़ करोड़ की नकदी बरामद हुई है। इस घटना का वीडियो सोशल मीडिया पर जमकर वायरल हो रहा है।",
+    "title": "नेपाल बाढ़: मलबे से निकला बैंक का खजाना",
+    "caption": "नेपाल की भोटेकोशी नदी में आई बाढ़ के बाद मलबे से निकला बैंक का सोना और कैश।",
+    "hashtags": [
+      "NepalFlood",
+      "NepalNews",
+      "ViralVideo",
+      "RescueOperation",
+      "FloodUpdate",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Nepal flood aftermath",
+      "Bhote Koshi river landscape",
+      "rescue workers working",
+      "gold jewelry recovered",
+      "currency notes pile"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story revolves around a specific viral video of a recovery event that requires the actual footage to be included, as generic B-roll would not represent the unique nature of this specific discovery.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/26616014/11974687_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "river flood destruction",
+        "credit": "Sattya P Joshi",
+        "source_duration_sec": 30,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8855209/8855209-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "gold jewelry recovered",
+        "credit": "Lara Jameson",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32946018/pexels-photo-32946018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Nepal flood aftermath",
+        "credit": "Sabbir Bhuiyan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38910526/pexels-photo-38910526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police car with siren",
-        "credit": "Anderson Alves",
+        "query": "rescue workers working",
+        "credit": "samimibirfotografci",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38408903/pexels-photo-38408903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "currency notes pile",
+        "credit": "vikesh zen",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
-    "timeline_covered_sec": 24.0,
+    "timeline_covered_sec": 27,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "badshah_isha_rikhi_divorce",
+    "topic_label": "air_india_bomb_threat",
     "virality_score": 8,
-    "reason": "High celebrity interest and entertainment value; quick impact on mass social media consumption.",
+    "reason": "Bomb threats on commercial flights are high-stakes, anxiety-inducing stories with broad engagement potential.",
     "region": "india",
-    "headline": "5 महीने में टूटी बादशाह की दूसरी शादी, तलाक का किया ऐलान",
-    "source_summary": "Badshah And Isha Rikhi Divorce: सिंगर और रैपर बादशाह ने पत्नी ईशा रिखी संग तलाक का ऐलान कर दिया है. बादशाह और ईशा ने सोशल मीडिया पोस्ट के जरिए बताया है कि वो दोनों आपसी सहमति से एक दूसरे से अलग हो रहे हैं.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/badshah-announced-divorce-from-second-wife-isha-rikhi-5-months-after-secret-marriage-emotional-post-tmovf-dskc-2633612-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T08:00:46+05:30",
-    "hook": "मशहूर रैपर बादशाह का रिश्ता टूटा, पत्नी ईशा रिखी से अलग हुए!",
-    "script_hi": "मशहूर रैपर बादशाह और ईशा रिखी का पांच महीने में ही रिश्ता खत्म हो गया है। दोनों ने सोशल मीडिया पर तलाक का ऐलान कर दिया है। बताया जा रहा है कि आपसी सहमति से दोनों ने अलग होने का फैसला लिया है।",
-    "tts_text_hi": "मशहूर रैपर बादशाह और ईशा रिखी का पांच महीने में ही रिश्ता खत्म हो गया है। दोनों ने सोशल मीडिया पर तलाक का ऐलान कर दिया है। बताया जा रहा है कि आपसी सहमति से दोनों ने अलग होने का फैसला लिया है।",
-    "title": "बादशाह और ईशा रिखी का तलाक",
-    "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।",
+    "headline": "Air India Express Bomb: फ्लाइट के टॉयलेट में 'बम'? अहमदाबाद में इमरजेंसी लैंडिंग-32 यात्रियों की सांसें अटकी",
+    "source_summary": "Air India Express Bomb Threat: सऊदी अरब के दम्माम से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। विमान में उस वक्त 32 यात्री सवार थे। धमकी मिलने के बाद पायलटों ने",
+    "source_url": "https://hindi.oneindia.com/news/india/air-india-express-bomb-threat-emergency-landing-in-ahmedabad-after-bomb-note-found-on-toilet-tissue-1639745.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Mon, 31 Aug 2026 20:10:16 +0530",
+    "hook": "एयर इंडिया की फ्लाइट में बम की धमकी, मची अफरा-तफरी!",
+    "script_hi": "एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। दम्माम से दिल्ली आ रही फ्लाइट के टॉयलेट में एक नोट मिला। विमान में बत्तीस यात्री सवार थे। पायलट ने तुरंत अहमदाबाद हवाई अड्डे पर इमरजेंसी लैंडिंग की।",
+    "tts_text_hi": "एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी मिलने से हड़कंप मच गया। दम्माम से दिल्ली आ रही फ्लाइट के टॉयलेट में एक नोट मिला। विमान में बत्तीस यात्री सवार थे। पायलट ने तुरंत अहमदाबाद हवाई अड्डे पर इमरजेंसी लैंडिंग की।",
+    "title": "Air India Express Bomb Threat in Ahmedabad",
+    "caption": "सऊदी अरब से दिल्ली आ रही एयर इंडिया एक्सप्रेस की फ्लाइट में बम की धमकी, अहमदाबाद में इमरजेंसी लैंडिंग।",
     "hashtags": [
-      "Badshah",
-      "IshaRikhi",
-      "BollywoodNews",
-      "Divorce",
-      "CelebrityUpdate",
-      "HindiNews"
+      "AirIndia",
+      "BombThreat",
+      "Ahmedabad",
+      "EmergencyLanding",
+      "FlightSafety",
+      "LatestNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian celebrity singer portrait",
-      "Social media phone notification",
-      "Sad couple walking away"
-    ],
-    "named_person": "Badshah",
-    "named_person_hi": "बादशाह",
-    "secondary_persons": [
-      "Isha Rikhi"
-    ],
-    "est_duration_sec": 25,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "बादशाह",
-        "source": "fallback",
-        "query": "Badshah",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35868474/pexels-photo-35868474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian celebrity singer portrait",
-        "credit": "The Capturist",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/21792119/pexels-photo-21792119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Social media phone notification",
-        "credit": "Image Hunter",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6669872/pexels-photo-6669872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Sad couple walking away",
-        "credit": "RDNE Stock project",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बादशाह और ईशा रिखी का तलाक",
-        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रैपर बादशाह और ईशा रिखी ने आपसी सहमति से अलग होने का ऐलान किया।\n\n#Badshah #IshaRikhi #BollywoodNews #Divorce #CelebrityUpdate"
-      },
-      "hashtags": [
-        "Badshah",
-        "IshaRikhi",
-        "BollywoodNews",
-        "Divorce",
-        "CelebrityUpdate"
-      ]
-    },
-    "audio_path": "audio/badshah_isha_rikhi_divorce.wav",
-    "audio_duration_sec": 15.7
-  },
-  {
-    "topic_label": "mumbai_milk_price_hike",
-    "virality_score": 7,
-    "reason": "Direct impact on the common person's daily budget; inflation news always resonates with a broad audience.",
-    "region": "india",
-    "headline": "मुंबई में दूध के दाम 9 रुपये बढ़े, तबेले का दूध हुआ 100 के पार",
-    "source_summary": "मुंबई में 1 सितंबर 2026 से तबेले के दूध के दाम 9 रुपये प्रति लीटर बढ़ा दिए गए हैं. उत्पादकों का कहना है कि पशु आहार, चारा, खली और डेयरी मवेशियों की बढ़ती कीमतों ने लागत बढ़ा दी, जिसका असर अब घरों के बजट पर पड़ेगा.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/story/mumbai-milk-price-hike-tukaram-mundhe-action-milk-producer-tabele-wala-doodh-ntc-mnrd-smsr-dskc-2633641-2026-09-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-01T08:54:54+05:30",
-    "hook": "मुंबई में दूध हुआ महंगा, अब हर लीटर पर आपको देने होंगे ज्यादा पैसे।",
-    "script_hi": "मुंबई में दूध की कीमतें बढ़ गई हैं। पहली सितंबर दो हजार छब्बीस से तबेले के दूध के दाम नौ रुपये प्रति लीटर महंगे हो गए हैं। अब तबेले का दूध सौ रुपये के पार पहुंच गया है। पशु आहार और चारे की बढ़ती कीमतों का असर सीधे आम जनता की जेब पर पड़ा है।",
-    "tts_text_hi": "मुंबई में दूध की कीमतें बढ़ गई हैं। पहली सितंबर दो हजार छब्बीस से तबेले के दूध के दाम नौ रुपये प्रति लीटर महंगे हो गए हैं। अब तबेले का दूध सौ रुपये के पार पहुंच गया है। पशु आहार और चारे की बढ़ती कीमतों का असर सीधे आम जनता की जेब पर पड़ा है।",
-    "title": "मुंबई में दूध हुआ महंगा",
-    "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।",
-    "hashtags": [
-      "Mumbai",
-      "MilkPriceHike",
-      "Inflation",
-      "MumbaiNews",
-      "Maharashtra",
-      "DailyBudget",
-      "Mahangai"
-    ],
-    "visual_queries": [
-      "Mumbai city skyline India",
-      "Indian milk delivery person",
-      "Indian cow shed cattle",
-      "Indian woman household budget shopping"
+      "Air India Express aircraft exterior",
+      "airplane toilet interior cabin",
+      "Ahmedabad airport runway India",
+      "emergency vehicle at airport India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai city skyline India",
-        "credit": "Deepak Bhandari",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33136705/pexels-photo-33136705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian milk delivery person",
-        "credit": "Shraddha Sarkar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30583333/pexels-photo-30583333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cow shed cattle",
-        "credit": "capture everything",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5900162/pexels-photo-5900162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian woman household budget shopping",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मुंबई में दूध हुआ महंगा",
-        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मुंबई में दूध की कीमतों में भारी उछाल, एक सितंबर से तबेले का दूध हुआ सौ रुपये के पार।\n\n#Mumbai #MilkPriceHike #Inflation #MumbaiNews #Maharashtra"
-      },
-      "hashtags": [
-        "Mumbai",
-        "MilkPriceHike",
-        "Inflation",
-        "MumbaiNews",
-        "Maharashtra"
-      ]
-    },
-    "audio_path": "audio/mumbai_milk_price_hike.wav",
-    "audio_duration_sec": 18.6
-  },
-  {
-    "topic_label": "us_iran_drone_strike_hormuz",
-    "virality_score": 7,
-    "reason": "Significant global conflict escalation with direct implications for oil prices; serious news.",
-    "region": "india",
-    "headline": "ईरान-US में नई जंग! होर्मुज पर MQ-9 ड्रोन तबाह, UAE पर भी अटैक",
-    "source_summary": "ईरान ने होर्मुज के ऊपर अमेरिकी एमक्यू-9 ड्रोन गिराने और यूएई के अल मिनहाद बेस पर अमेरिकी ठिकानों को दर्जनों विस्फोटक ड्रोन से निशाना बनाने का दावा किया. तेहरान ने इसे लारक द्वीप पर अमेरिकी हमले का जवाब बताया, जबकि राष्ट्रपति मसूद पेजेशकियन ने कहा कि ईरान जंग नहीं चाहता, लेकिन किसी भी आक्रामकता का निर्णायक जवाब देगा.",
-    "source_url": "https://www.aajtak.in/world/story/iran-america-war-hormuz-strait-mq9-drone-uae-attack-ntc-mnrd-smsr-dskc-2632997-2026-08-31?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-08-31T10:32:02+05:30",
-    "hook": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है!",
-    "script_hi": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है! ईरान ने दावा किया है कि उसने होर्मुज के ऊपर अमेरिकी एमक्यू-नौ ड्रोन को मार गिराया है। साथ ही, संयुक्त अरब अमीरात के अल मिनहाद बेस पर भी दर्जनों विस्फोटक ड्रोन से हमला करने का दावा किया गया है। ईरान का कहना है कि यह लारक द्वीप पर हुए हमले का जवाब है। हालांकि, राष्ट्रपति मसूद पेजेशकियन ने कहा है कि ईरान जंग नहीं चाहता, लेकिन अपनी सुरक्षा के लिए हर आक्रामकता का निर्णायक जवाब देगा।",
-    "tts_text_hi": "ईरान और अमेरिका के बीच फिर से तनाव बढ़ गया है! ईरान ने दावा किया है कि उसने होर्मुज के ऊपर अमेरिकी एमक्यू-नौ ड्रोन को मार गिराया है। साथ ही, संयुक्त अरब अमीरात के अल मिनहाद बेस पर भी दर्जनों विस्फोटक ड्रोन से हमला करने का दावा किया गया है। ईरान का कहना है कि यह लारक द्वीप पर हुए हमले का जवाब है। हालांकि, राष्ट्रपति मसूद पेजेशकियन ने कहा है कि ईरान जंग नहीं चाहता, लेकिन अपनी सुरक्षा के लिए हर आक्रामकता का निर्णायक जवाब देगा।",
-    "title": "ईरान-अमेरिका के बीच बढ़ा तनाव",
-    "caption": "ईरान ने अमेरिकी ड्रोन गिराने और यूएई में हमले का दावा किया।",
-    "hashtags": [
-      "Iran",
-      "USA",
-      "MiddleEast",
-      "Conflict",
-      "News",
-      "GlobalAffairs",
-      "BreakingNews"
-    ],
-    "visual_queries": [
-      "military drone flight",
-      "strait of Hormuz aerial view",
-      "modern air base facility",
-      "Middle East military radar",
-      "middle east geopolitical map"
-    ],
-    "named_person": "Masoud Pezeshkian",
-    "named_person_hi": "मसूद पेजेशकियन",
-    "secondary_persons": [],
-    "est_duration_sec": 30,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves ongoing geopolitical conflict and potential military escalation between nations, requiring sensitivity check.",
+    "flag_reason": "The story mentions a specific incident involving a bomb threat and an emergency landing; actual footage of the aircraft or the specific scene is needed to avoid generic stock B-roll misrepresentation.",
     "assets": [
       {
-        "type": "text_card",
-        "text": "मसूद पेजेशकियन",
-        "source": "fallback",
-        "query": "Masoud Pezeshkian",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28763497/pexels-photo-28763497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35160902/14894517_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "military drone flight",
-        "credit": "Barış  Karagöz",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18883601/pexels-photo-18883601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "strait of Hormuz aerial view",
-        "credit": "Hafize  Balcı",
-        "duration_sec": 5
+        "query": "Air India Express aircraft exterior",
+        "credit": "Jomin Thach",
+        "source_duration_sec": 23,
+        "duration_sec": 6
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
+    "asset_count": 1,
+    "timeline_covered_sec": 6,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "corporate_leaders_resignation_trend",
-    "virality_score": 6,
-    "reason": "Interesting trend regarding high-profile departures from major Indian conglomerates, relevant to the business-minded demographic.",
+    "topic_label": "iphone_18_launch_september",
+    "virality_score": 7,
+    "reason": "Tech launch cycles, especially iPhone, are evergreen viral content for tech-savvy Indian audiences.",
     "region": "india",
-    "headline": "Tata Sons, HDFC Bank से लेकर Godrej तक….क्यों अपनी कुर्सी छोड़ रहे हैं दिग्गज कंपनियों के ‘कैप्टन’?",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/top-boss.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"Tata Sons, HDFC Bank से लेकर Godrej तक….क्यों अपनी कुर्सी छोड़ रहे हैं दिग्गज कंपनियों के ‘कैप्टन’?\" /></figure>साल 2026 इंडिया इंक के लिए उथल-पुथल भरा रहा. टाटा संस, HDFC बैंक से लेकर एयर इंडिया तक के टॉप लीडर्स ने पद छोड़ दिए हैं. वहीं कई बड़े नाम अपना सुरक्षित करियर छोड़कर AI सेक्टर की तरफ कदम बढ़ा रहे हैं.",
-    "source_url": "https://www.tv9hindi.com/business/india-inc-top-ceo-resignations-tata-hdfc-air-india-2026-3894860.html",
+    "headline": "सितंबर में मचने वाला है स्मार्टफोन का धमाल, आईफोन 18 सीरीज से लेकर रेडमी-पोको तक होंगे लॉन्च",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/08/smartphone-launch-september-2026.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"सितंबर में मचने वाला है स्मार्टफोन का धमाल, आईफोन 18 सीरीज से लेकर रेडमी-पोको तक होंगे लॉन्च\" /></figure>सितंबर में कई दमदार स्मार्टफोन बाजार में दस्तक देने वाले हैं. आईफोन 18 प्रो सीरीज से लेकर रेडमी 17 5जी और पोको एफ9 सीरीज तक, कई नए फोन चर्चा में हैं.",
+    "source_url": "https://www.tv9hindi.com/technology/september-2026-smartphone-launches-iphone-18-pro-redmi-17-5g-poco-f9-and-more-3894685.html",
     "source_name": "TV9 Hindi",
-    "published": "Tue, 01 Sep 2026 07:00:06 +0530",
-    "hook": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं?",
-    "script_hi": "वर्ष दो हजार छब्बीस भारत के कॉर्पोरेट जगत के लिए काफी उथल-पुथल भरा रहा है। टाटा संस, एचडीएफसी बैंक और एयर इंडिया जैसी बड़ी कंपनियों के दिग्गज कैप्टन अपना पद छोड़ चुके हैं। आखिर क्या है इसके पीछे की वजह? कई बड़े लीडर्स अब अपना सुरक्षित करियर छोड़कर एआई यानी आर्टिफिशियल इंटेलिजेंस के उभरते सेक्टर में कदम रख रहे हैं। बिजनेस जगत का ये बदलाव काफी चौंकाने वाला है।",
-    "tts_text_hi": "वर्ष दो हजार छब्बीस भारत के कॉर्पोरेट जगत के लिए काफी उथल-पुथल भरा रहा है। टाटा संस, एचडीएफसी बैंक और एयर इंडिया जैसी बड़ी कंपनियों के दिग्गज कैप्टन अपना पद छोड़ चुके हैं। आखिर क्या है इसके पीछे की वजह? कई बड़े लीडर्स अब अपना सुरक्षित करियर छोड़कर एआई यानी आर्टिफिशियल इंटेलिजेंस के उभरते सेक्टर में कदम रख रहे हैं। बिजनेस जगत का ये बदलाव काफी चौंकाने वाला है।",
-    "title": "दिग्गज कंपनियों के बॉस क्यों छोड़ रहे हैं कुर्सी?",
-    "caption": "टाटा और HDFC बैंक समेत कई बड़ी कंपनियों में बदलाव का दौर, क्या है वजह?",
+    "published": "Tue, 01 Sep 2026 07:30:25 +0530",
+    "hook": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है!",
+    "script_hi": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है। इस महीने बाजार में एक से बढ़कर एक स्मार्टफोन्स की एंट्री होने जा रही है। सबसे ज्यादा चर्चा में है आईफोन अठारह प्रो सीरीज, जिसका सबको बेसब्री से इंतजार है। इसके अलावा रेडमी सत्रह पांच-जी और पोको एफ नौ सीरीज के नए स्मार्टफोन्स भी लॉन्च किए जाएंगे। अगर आप नया फोन लेने की सोच रहे हैं, तो रुकिए, क्योंकि आने वाले दिनों में मार्केट में काफी हलचल देखने को मिलेगी।",
+    "tts_text_hi": "सितंबर का महीना स्मार्टफोन प्रेमियों के लिए बेहद खास होने वाला है। इस महीने बाजार में एक से बढ़कर एक स्मार्टफोन्स की एंट्री होने जा रही है। सबसे ज्यादा चर्चा में है आईफोन अठारह प्रो सीरीज, जिसका सबको बेसब्री से इंतजार है। इसके अलावा रेडमी सत्रह पांच-जी और पोको एफ नौ सीरीज के नए स्मार्टफोन्स भी लॉन्च किए जाएंगे। अगर आप नया फोन लेने की सोच रहे हैं, तो रुकिए, क्योंकि आने वाले दिनों में मार्केट में काफी हलचल देखने को मिलेगी।",
+    "title": "सितंबर में स्मार्टफोन की धूम",
+    "caption": "सितंबर में आने वाले हैं ये धमाकेदार स्मार्टफोन! क्या आप इनमें से कोई फोन खरीदने का प्लान कर रहे हैं?",
     "hashtags": [
-      "CorporateIndia",
-      "Tata",
-      "HDFC",
-      "BusinessNews",
-      "ArtificialIntelligence",
-      "Leadership",
-      "IndiaInc"
+      "SmartphoneLaunch",
+      "TechNews",
+      "iPhone18",
+      "Redmi17",
+      "PocoF9",
+      "GadgetUpdate",
+      "TechHindi"
     ],
     "visual_queries": [
-      "modern corporate office India",
-      "Indian business executive portrait",
-      "futuristic artificial intelligence technology",
-      "people working office India"
+      "new smartphone display",
+      "futuristic mobile phone",
+      "smartphone store India",
+      "tech retail display"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -554,63 +474,171 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7822022/7822022-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "modern corporate office India",
-        "credit": "Jansher Chakkittammal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7580763/pexels-photo-7580763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian business executive portrait",
+        "query": "new smartphone display",
         "credit": "RDNE Stock project",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18831090/pexels-photo-18831090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "latest smartphone launch",
+        "credit": "Ejov Igor",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8386437/pexels-photo-8386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18023554/pexels-photo-18023554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "futuristic artificial intelligence technology",
-        "credit": "Tara Winstead",
+        "query": "smartphone store India",
+        "credit": "THEMRSINGH",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/25809243/pexels-photo-25809243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "people working office India",
-        "credit": "Fahad Puthawala",
+        "query": "tech retail display",
+        "credit": "Matheus Bertelli",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "टाटा और गोदरेज के बॉस आखिर कुर्सी क्यों छोड़ रहे हैं? 🤔",
-        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? \n\nदेश की सबसे बड़ी कंपनियों में अचानक बड़े बदलाव देखने को मिल रहे हैं। पुराने और भरोसेमंद चेहरों का हटना सिर्फ एक संयोग नहीं, बल्कि इसके पीछे एक बड़ी कॉर्पोरेट रणनीति है। \n\nक्या यह कंपनियों का भविष्य बदलने की तैयारी है या कुछ और? पूरी सच्चाई वीडियो में समझें।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+        "title": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये! 📱",
+        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये!\n\nअगले 30 दिनों में बाजार में स्मार्टफोन की सुनामी आने वाली है। iPhone 16 सीरीज के अलावा रेडमी और पोको के कई धांसू बजट फोन्स लॉन्च होने वाले हैं।\n\nक्या आप नया फोन खरीदने का प्लान कर रहे हैं? कमेंट में बताएं। 👇\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
       },
       "instagram": {
         "title": null,
-        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? 🧐 \n\nबड़े कॉर्पोरेट घरानों में टॉप लेवल पर हो रहे बदलावों ने हर किसी को हैरान कर दिया है। क्या यह कोई सोची-समझी रणनीति है या फिर पावर ट्रांसफर का नया दौर? \n\nदेखें ये वीडियो और समझें कि भारत के कॉर्पोरेट जगत में आखिर चल क्या रहा है।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये! 📱\n\nअगले 30 दिनों में बाजार में स्मार्टफोन की सुनामी आने वाली है। iPhone 16 सीरीज से लेकर रेडमी और पोको के कई धांसू बजट फोन्स लॉन्च के लिए तैयार हैं। \n\nखरीदने से पहले यह वीडियो जरूर देख लें। 🚀\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
       },
       "facebook": {
         "title": null,
-        "caption": "टाटा, एचडीएफसी और गोदरेज जैसी दिग्गज कंपनियों के बॉस आखिर अपनी कुर्सी क्यों छोड़ रहे हैं? \n\nदेश की टॉप कंपनियों के लीडरशिप में अचानक मची यह हलचल सिर्फ एक बदलाव नहीं, बल्कि एक नए दौर की आहट है। सालों से इन कंपनियों को संभालने वाले दिग्गजों का अचानक पद छोड़ना कई बड़े सवाल खड़े करता है। \n\nआखिर क्या है इन इस्तीफों के पीछे की असल वजह? क्या इससे आम निवेशक या मार्केट पर असर पड़ेगा? पूरी कहानी जानने के लिए वीडियो देखें।\n\n#TataSons #HDFCBank #Godrej #CorporateNews #BusinessUpdates"
+        "caption": "सितंबर में फोन लेने की सोच रहे हैं? रुक जाइये!\n\nअगले 30 दिनों में स्मार्टफोन की दुनिया में जबरदस्त हलचल होने वाली है। Apple की नई iPhone 16 सीरीज से लेकर रेडमी और पोको के कई किफायती और पावरफुल फोन्स मार्केट में दस्तक देंगे।\n\nअगर आप अभी नया फोन लेने का मन बना रहे हैं, तो कुछ दिन का इंतज़ार आपको एक बेहतर डील दिला सकता है। पूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#smartphone #iphone16 #techupdates #newlaunch #gadgets"
       },
       "hashtags": [
-        "TataSons",
-        "HDFCBank",
-        "Godrej",
-        "CorporateNews",
-        "BusinessUpdates"
+        "smartphone",
+        "iphone16",
+        "techupdates",
+        "newlaunch",
+        "gadgets"
       ]
     },
-    "audio_path": "audio/corporate_leaders_resignation_trend.wav",
-    "audio_duration_sec": 28.93
+    "audio_path": "audio/iphone_18_launch_september.wav",
+    "audio_duration_sec": 29.41
+  },
+  {
+    "topic_label": "cursor_ai_spacex_deal",
+    "virality_score": 7,
+    "reason": "Indian-origin founders achieving a massive startup acquisition is a point of national pride and interest.",
+    "region": "india",
+    "headline": "25-yr-old Indian-origin founder's AI startup Cursor acquired by SpaceX in $60B deal",
+    "source_summary": "Aman Sanger co-founded Anysphere, known for its innovative Cursor application. SpaceX's recent acquisition of Anysphere for $60 billion propels its founders into billionaire status. Cursor revolutionizes developer productivity by seamlessly integrating AI into coding environments, aligning perfectly with Elon Musk's ambitions in artificial intelligence. This strategic deal signifies a pivotal moment in the evolution of software development towards AI-enhanced coding techniques.",
+    "source_url": "https://timesofindia.indiatimes.com/life-style/people/meet-aman-sanger-the-25-year-old-indian-origin-entrepreneur-whose-ai-startup-cursor-is-being-acquired-by-elon-musks-spacex-for-60-billion-from-coding-at-14-and-mit-to-a-potential-2-7-billion-fortune/articleshow/133666397.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Tue, 01 Sep 2026 08:16:20 +0530",
+    "hook": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, साठ अरब डॉलर में खरीदी एआई स्टार्टअप!",
+    "script_hi": "एलन मस्क की कंपनी स्पेसएक्स ने साठ अरब डॉलर की एक बड़ी डील में कर्सर नाम के एआई स्टार्टअप को खरीद लिया है। इस स्टार्टअप के को-फाउंडर पच्चीस वर्षीय भारतीय मूल के अमन संगर हैं। कर्सर एक ऐसा टूल है जो कोडिंग को आसान बनाता है। मस्क की नजर अब एआई के जरिए सॉफ्टवेयर डेवलपमेंट में क्रांति लाने पर है।",
+    "tts_text_hi": "एलन मस्क की कंपनी स्पेसएक्स ने साठ अरब डॉलर की एक बड़ी डील में कर्सर नाम के एआई स्टार्टअप को खरीद लिया है। इस स्टार्टअप के को-फाउंडर पच्चीस वर्षीय भारतीय मूल के अमन संगर हैं। कर्सर एक ऐसा टूल है जो कोडिंग को आसान बनाता है। मस्क की नजर अब एआई के जरिए सॉफ्टवेयर डेवलपमेंट में क्रांति लाने पर है।",
+    "title": "SpaceX ने खरीदा AI स्टार्टअप Cursor",
+    "caption": "SpaceX का बड़ा कदम! साठ अरब डॉलर में खरीदा भारतीय मूल के अमन संगर का स्टार्टअप।",
+    "hashtags": [
+      "SpaceX",
+      "ElonMusk",
+      "Cursor",
+      "AI",
+      "StartupNews",
+      "TechNews",
+      "IndianSuccess"
+    ],
+    "visual_queries": [
+      "Elon Musk portrait",
+      "modern software code on screen",
+      "office building interior",
+      "artificial intelligence digital brain"
+    ],
+    "named_person": "Elon Musk",
+    "named_person_hi": "एलन मस्क",
+    "secondary_persons": [
+      "Aman Sanger"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "एलन मस्क",
+        "source": "fallback",
+        "query": "Elon Musk",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7652208/7652208-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "office building interior",
+        "credit": "Kindel Media",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "software developer office",
+        "credit": "Mizuno K",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern software code on screen",
+        "credit": "Daniil Komov",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence digital brain",
+        "credit": "Subhasish Baidya",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एलन मस्क का बड़ा दांव: 60 अरब डॉलर में खरीदा ये AI स्टार्टअप! 🚀",
+        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप!\n\nभारतीय मूल के 25 साल के युवा की कंपनी 'कर्सर' (Cursor) को एलन मस्क ने एक ऐतिहासिक डील में खरीद लिया है। यह सौदा एआई की दुनिया में अब तक के सबसे बड़े बदलावों में से एक माना जा रहा है।\n\nक्या एआई के भविष्य के लिए यह डील गेम चेंजर साबित होगी? अपनी राय कमेंट में बताएं।\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप! 💸\n\nभारतीय मूल के 25 साल के फाउंडर का कमाल, दुनिया की सबसे बड़ी डील में से एक। एआई के मैदान में मस्क अब क्या करने वाले हैं? पूरी कहानी देखिए। 🚀🤖\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एलन मस्क की स्पेसएक्स ने किया बड़ा धमाका, 60 अरब डॉलर में खरीदी एआई स्टार्टअप!\n\nभारतीय मूल के सिर्फ 25 साल के एक युवा की कंपनी 'कर्सर' अब एलन मस्क की हो गई है। इतने बड़े स्तर पर हुई यह डील टेक जगत में चर्चा का विषय बनी हुई है। आखिर मस्क ने इस एआई स्टार्टअप को ही क्यों चुना?\n\nक्या एआई के बढ़ते प्रभाव को देखते हुए यह फैसला सही है? कमेंट में अपनी बात रखें।\n\n#ElonMusk #SpaceX #CursorAI #ArtificialIntelligence #TechNews"
+      },
+      "hashtags": [
+        "ElonMusk",
+        "SpaceX",
+        "CursorAI",
+        "ArtificialIntelligence",
+        "TechNews"
+      ]
+    },
+    "audio_path": "audio/cursor_ai_spacex_deal.wav",
+    "audio_duration_sec": 22.0
   }
 ]
