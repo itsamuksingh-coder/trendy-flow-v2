@@ -1,5 +1,7 @@
-ready_labels: ['chirag_paswan_death_threat']
+ready_labels: ['delhi_free_solar_panel_scheme', 'india_us_javelin_missile_deal_explainer', 'sarnath_unesco_world_heritage_site']
 
-greater_noida_delhi_bus_gangrape: SKIPPED (not in ready set)
-nepal_flash_flood_death_toll_1003: SKIPPED (not in ready set)
-chirag_paswan_death_threat: SUCCESS -> video_path=videos/chirag_paswan_death_threat.mp4 dur=27.388231
+sarnath_unesco_world_heritage_site: SUCCESS -> video_path=videos/sarnath_unesco_world_heritage_site.mp4 dur=33.147211
+noida_father_kills_son_dispute: SKIPPED (not in ready set)
+delhi_free_solar_panel_scheme: SUCCESS -> video_path=videos/delhi_free_solar_panel_scheme.mp4 dur=24.156553
+india_us_javelin_missile_deal_explainer: SUCCESS -> video_path=videos/india_us_javelin_missile_deal_explainer.mp4 dur=28.52322
+hardoi_teacher_student_death_dispute: SKIPPED (not in ready set)
