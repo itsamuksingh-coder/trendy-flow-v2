@@ -1,4 +1,5 @@
-ready_labels: []
+ready_labels: ['mumbai_cng_png_price_hike', 'russian_army_indians_casualty_update']
 
-delhi_sleeper_bus_minor_gangrape: SKIPPED (not in ready set)
-jyotiraditya_scindia_tobacco_pledge_bank: SKIPPED (not in ready set)
+russian_army_indians_casualty_update: SUCCESS -> video_path=videos/russian_army_indians_casualty_update.mp4 dur=24.356553
+air_india_express_bomb_threat_emergency_landing: SKIPPED (not in ready set)
+mumbai_cng_png_price_hike: SUCCESS -> video_path=videos/mumbai_cng_png_price_hike.mp4 dur=33.089887
