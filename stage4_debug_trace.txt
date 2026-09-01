@@ -1,10 +1,8 @@
-ready_labels: ['cursor_ai_spacex_deal', 'iphone_18_launch_september', 'messi_retirement']
+ready_labels: ['hardik_pandya_injury', 'mumbai_inflation_spikes']
 
 delhi_bus_gangrape: SKIPPED (not in ready set)
-pnb_saharanpur_fake_currency: SKIPPED (not in ready set)
+mumbai_inflation_spikes: SUCCESS -> video_path=videos/mumbai_inflation_spikes.mp4 dur=38.255215
+us_iran_conflict_escalation: SKIPPED (not in ready set)
+hardik_pandya_injury: SUCCESS -> video_path=videos/hardik_pandya_injury.mp4 dur=26.156553
 kaushambi_factory_blast_encounter: SKIPPED (not in ready set)
-messi_retirement: SUCCESS -> video_path=videos/messi_retirement.mp4 dur=32.156553
-nepal_flood_gold_recovery: SKIPPED (not in ready set)
-air_india_bomb_threat: SKIPPED (not in ready set)
-iphone_18_launch_september: SUCCESS -> video_path=videos/iphone_18_launch_september.mp4 dur=35.72322
-cursor_ai_spacex_deal: SUCCESS -> video_path=videos/cursor_ai_spacex_deal.mp4 dur=30.02322
+pakistan_driverless_car_fail: SKIPPED (not in ready set)
