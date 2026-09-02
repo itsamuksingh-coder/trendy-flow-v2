@@ -1,4 +1,9 @@
-ready_labels: ['indigo_flight_engine_failure_goa_delhi']
+ready_labels: ['gold_medalist_athlete_selling_vegetables', 'india_afghanistan_t20_squad_sanju_return', 'india_russia_five_s400_purchase', 'isro_eos05_satellite_launch', 'palwal_kmp_expressway_accident_pilgrims', 'ram_mandir_trust_ceo_appointment', 'us_iran_missile_drone_conflict_escalation']
 
-isro_eos_05_geo_imaging_satellite_launch: SKIPPED (not in ready set)
-indigo_flight_engine_failure_goa_delhi: SUCCESS -> video_path=videos/indigo_flight_engine_failure_goa_delhi.mp4 dur=32.54322
+us_iran_missile_drone_conflict_escalation: SUCCESS -> video_path=videos/us_iran_missile_drone_conflict_escalation.mp4 dur=29.524218
+gold_medalist_athlete_selling_vegetables: SUCCESS -> video_path=videos/gold_medalist_athlete_selling_vegetables.mp4 dur=29.92322
+india_russia_five_s400_purchase: SUCCESS -> video_path=videos/india_russia_five_s400_purchase.mp4 dur=27.656553
+ram_mandir_trust_ceo_appointment: SUCCESS -> video_path=videos/ram_mandir_trust_ceo_appointment.mp4 dur=25.670227
+isro_eos05_satellite_launch: SUCCESS -> video_path=videos/isro_eos05_satellite_launch.mp4 dur=27.889887
+india_afghanistan_t20_squad_sanju_return: SUCCESS -> video_path=videos/india_afghanistan_t20_squad_sanju_return.mp4 dur=35.42322
+palwal_kmp_expressway_accident_pilgrims: SUCCESS -> video_path=videos/palwal_kmp_expressway_accident_pilgrims.mp4 dur=29.356553
