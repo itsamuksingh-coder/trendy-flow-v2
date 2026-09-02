@@ -1,8 +1,9 @@
-ready_labels: ['indian_researchers_heat_to_electricity_semiconductor', 'rohani_rakesh_khanna_murder_arrest', 'sheikh_hasina_return_bangladesh_exclusive', 'tim_cook_steps_down_apple_ceo_john_ternus', 'us_iran_conflict_escalation_middle_east']
+ready_labels: ['faridabad_student_suicide_teacher_allegation', 'germany_blames_russia_leipzig_drone_attack', 'gold_silver_price_sharp_drop', 'nhai_mandatory_ai_smart_machines_highways', 'rohini_rakesh_khanna_murder_niece_lover', 'sanwaliya_seth_silver_tomato_offering', 'stock_market_crash_us_iran_war']
 
-us_iran_conflict_escalation_middle_east: SUCCESS -> video_path=videos/us_iran_conflict_escalation_middle_east.mp4 dur=35.724218
-hapur_rss_leader_tractor_murder_mining_mafia: SKIPPED (not in ready set)
-sheikh_hasina_return_bangladesh_exclusive: SUCCESS -> video_path=videos/sheikh_hasina_return_bangladesh_exclusive.mp4 dur=29.589887
-rohani_rakesh_khanna_murder_arrest: SUCCESS -> video_path=videos/rohani_rakesh_khanna_murder_arrest.mp4 dur=37.628231
-tim_cook_steps_down_apple_ceo_john_ternus: SUCCESS -> video_path=videos/tim_cook_steps_down_apple_ceo_john_ternus.mp4 dur=25.484218
-indian_researchers_heat_to_electricity_semiconductor: SUCCESS -> video_path=videos/indian_researchers_heat_to_electricity_semiconductor.mp4 dur=34.62322
+stock_market_crash_us_iran_war: SUCCESS -> video_path=videos/stock_market_crash_us_iran_war.mp4 dur=27.489887
+faridabad_student_suicide_teacher_allegation: SUCCESS -> video_path=videos/faridabad_student_suicide_teacher_allegation.mp4 dur=26.02322
+rohini_rakesh_khanna_murder_niece_lover: SUCCESS -> video_path=videos/rohini_rakesh_khanna_murder_niece_lover.mp4 dur=30.289887
+gold_silver_price_sharp_drop: SUCCESS -> video_path=videos/gold_silver_price_sharp_drop.mp4 dur=23.580227
+sanwaliya_seth_silver_tomato_offering: SUCCESS -> video_path=videos/sanwaliya_seth_silver_tomato_offering.mp4 dur=30.656553
+nhai_mandatory_ai_smart_machines_highways: SUCCESS -> video_path=videos/nhai_mandatory_ai_smart_machines_highways.mp4 dur=28.131224
+germany_blames_russia_leipzig_drone_attack: SUCCESS -> video_path=videos/germany_blames_russia_leipzig_drone_attack.mp4 dur=19.22322
