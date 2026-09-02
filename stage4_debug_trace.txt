@@ -1,5 +1,5 @@
-ready_labels: ['delhi_patna_lucknow_bullet_train', 'faridabad_school_student_suicide_biryani', 'maternity_leave_demotion_compensation_hc']
+ready_labels: ['egypt_red_sea_bus_crash_fatalities', 'screen_time_red_eyes_health_warning', 'vivo_t5_5g_7050mah_battery_launch']
 
-delhi_patna_lucknow_bullet_train: SUCCESS -> video_path=videos/delhi_patna_lucknow_bullet_train.mp4 dur=33.089887
-faridabad_school_student_suicide_biryani: SUCCESS -> video_path=videos/faridabad_school_student_suicide_biryani.mp4 dur=30.02322
-maternity_leave_demotion_compensation_hc: SUCCESS -> video_path=videos/maternity_leave_demotion_compensation_hc.mp4 dur=32.82322
+vivo_t5_5g_7050mah_battery_launch: SUCCESS -> video_path=videos/vivo_t5_5g_7050mah_battery_launch.mp4 dur=31.196213
+screen_time_red_eyes_health_warning: SUCCESS -> video_path=videos/screen_time_red_eyes_health_warning.mp4 dur=28.735215
+egypt_red_sea_bus_crash_fatalities: SUCCESS -> video_path=videos/egypt_red_sea_bus_crash_fatalities.mp4 dur=30.407211
