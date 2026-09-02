@@ -1,92 +1,35 @@
 [
   {
-    "topic_label": "isro_eos_05_geo_imaging_satellite_launch",
+    "topic_label": "us_iran_missile_drone_conflict_escalation",
     "virality_score": 9,
-    "reason": "ISRO's new high-tech geo-imaging satellite launch to monitor borders with China and Pakistan is a high-interest science story.",
+    "reason": "Intensifying US-Iran military strikes and direct threats from Donald Trump hold massive global and domestic news interest.",
     "region": "india",
-    "headline": "हर आधे घंटे में पूरे भारत की तस्वीर, चीन-पाक की हरकत पर पैनी नजर... ये 'तीसरी आंख' है बेहद खास",
-    "source_summary": "ISRO Geo-Imaging Satellite: ISRO 4 सितंबर को GSLV-F17 रॉकेट के जरिए EOS-05 सैटेलाइट लॉन्च करने जा रहा है. यह भारत का पहला जियो-इमेजिंग सैटेलाइट होगा. इसकी खासियत जानिए.",
-    "source_url": "https://ndtv.in/india/isro-to-launch-india-first-geo-imaging-satellite-eos-05-on-september-4-boosting-real-time-surveillance-11988507#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 01 Sep 2026 21:23:00 +0530",
-    "hook": "हर आधे घंटे में पूरे भारत की हाई-रिज़ॉल्यूशन तस्वीर!",
-    "script_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन चार सितंबर को जी.एस.एल.वी. डैश एफ. सत्रह रॉकेट के जरिए ई.ओ.एस. डैश शून्य पांच सैटेलाइट लॉन्च करने जा रहा है। यह भारत का पहला जियो-इमेजिंग सैटेलाइट होगा, जो हर आधे घंटे में पूरे देश की तस्वीर लेगा और चीन-पाकिस्तान की हरकतों पर पैनी नजर रखेगा।",
-    "tts_text_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन चार सितंबर को जी.एस.एल.वी. डैश एफ. सत्रह रॉकेट के जरिए ई.ओ.एस. डैश शून्य पांच सैटेलाइट लॉन्च करने जा रहा है। यह भारत का पहला जियो-इमेजिंग सैटेलाइट होगा, जो हर आधे घंटे में पूरे देश की तस्वीर लेगा और चीन-पाकिस्तान की हरकतों पर पैनी नजर रखेगा।",
-    "title": "ISRO Launching EOS-05 Satellite",
-    "caption": "ISRO जल्द लॉन्च करने जा रहा है भारत का पहला जियो-इमेजिंग सैटेलाइट EOS-05, जानिए इसकी बड़ी खासियतें।",
+    "headline": "अमेरिकी हमलों के बीच ईरान की जवाबी कार्रवाई, मिसाइलों और ड्रोन से किया हमला",
+    "source_summary": "अमेरिकी हमलों के बीच ईरान ने मिसाइलों और ड्रोन के जरिए जवाबी कार्रवाई शुरू कर दी है. IRGC ने अमेरिका पर नागरिक इलाकों समेत कई जगहों पर अंधाधुंध हमले करने का आरोप लगाया है. वहीं, ट्रंप ने ईरान को चेतावनी देते हुए कहा कि जवाबी कार्रवाई पर अमेरिका और गंभीर हमला करेगा.",
+    "source_url": "https://www.aajtak.in/world/story/us-iran-conflict-iranian-missile-drone-counter-attack-ntc-apdy-dskc-2634293-2026-09-02?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-02T01:43:56+05:30",
+    "hook": "अमेरिका और ईरान के बीच युद्ध जैसे हालात!",
+    "script_hi": "अमेरिकी हमलों के बीच ईरान ने मिसाइलों और ड्रोनों से जवाबी कार्रवाई शुरू कर दी है। ईरानी रिवॉल्यूशनरी गार्ड कॉर्प्स ने अमेरिका पर नागरिक इलाकों में अंधाधुंध हमले करने का आरोप लगाया है। वहीं डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि यदि उसने जवाबी कार्रवाई जारी रखी तो अमेरिका और भी गंभीर हमला करेगा।",
+    "tts_text_hi": "अमेरिकी हमलों के बीच ईरान ने मिसाइलों और ड्रोनों से जवाबी कार्रवाई शुरू कर दी है। ईरानी रिवॉल्यूशनरी गार्ड कॉर्प्स ने अमेरिका पर नागरिक इलाकों में अंधाधुंध हमले करने का आरोप लगाया है। वहीं डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि यदि उसने जवाबी कार्रवाई जारी रखी तो अमेरिका और भी गंभीर हमला करेगा।",
+    "title": "अमेरिका और ईरान में बढ़ा तनाव",
+    "caption": "अमेरिकी हमलों के बाद ईरान की जवाबी कार्रवाई, डोनाल्ड ट्रंप ने दी कड़ी चेतावनी।",
     "hashtags": [
-      "ISRO",
-      "EOS05",
-      "SpaceNews",
-      "IndianSpaceResearch",
-      "GSLV",
-      "TechNewsIndia"
+      "Iran",
+      "USA",
+      "MiddleEast",
+      "DonaldTrump",
+      "BreakingNews",
+      "WorldNews"
     ],
     "visual_queries": [
-      "ISRO rocket launch India",
-      "satellite in space India",
-      "control room monitoring India"
+      "military missile launch",
+      "drone flight sky",
+      "military commander briefing",
+      "donald trump speech"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28760985/pexels-photo-28760985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "satellite control room india",
-        "credit": "Alejandro De Roa",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39071423/pexels-photo-39071423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "control room monitoring India",
-        "credit": "Caleb Oquendo",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "indigo_flight_engine_failure_goa_delhi",
-    "virality_score": 8,
-    "reason": "A harrowing mid-air engine failure on a packed flight from Goa to Delhi has immense immediate public engagement potential.",
-    "region": "india",
-    "headline": "गोवा से दिल्ली आने वाली इंडिगो की फ्लाइट 229 यात्रियों के लिए बनी हॉरर फ्लाइट, एक इंजन हुआ फेल, झटके देता हुआ उड़ रहा था प्लेन",
-    "source_summary": "गोवा से दिल्ली आ रही इंडिगो की फ्लाइट (6E-2102) में उड़ान के तुरंत बाद एक इंजन फेल हो जाने से 229 यात्रियों की सांसें अटक गईं और प्लेन हवा में हिचकोले खाने लगा।",
-    "source_url": "https://navbharattimes.indiatimes.com/india/indigo-goa-delhi-flight-emergency-landing-at-manohar-international-airport-due-to-engine-failure/articleshow/133685239.cms",
-    "source_name": "Navbharat Times",
-    "published": "Tue, 01 Sep 2026 21:05:00 +0530",
-    "hook": "गोया से दिल्ली आ रही इंडिगो फ्लाइट बनी हॉरर फ्लाइट!",
-    "script_hi": "गोवा से दिल्ली आ रही इंडिगो की उड़ान संख्या छह ई इक्कीस सौ दो के यात्रियों के लिए सफर डरावना साबित हुआ। उड़ान भरने के तुरंत बाद विमान का एक इंजन फेल हो गया, जिससे प्लेन हवा में हिचकोले खाने लगा और दो सौ उन्नतीस यात्रियों की सांसें अटक गईं। गनीमत रही कि पायलट ने स्थिति को संभाला और विमान को सुरक्षित वापस उतारा।",
-    "tts_text_hi": "गोवा से दिल्ली आ रही इंडिगो की उड़ान संख्या छह ई इक्कीस सौ दो के यात्रियों के लिए सफर डरावना साबित हुआ। उड़ान भरने के तुरंत बाद विमान का एक इंजन फेल हो गया, जिससे प्लेन हवा में हिचकोले खाने लगा और दो सौ उन्नतीस यात्रियों की सांसें अटक गईं। गनीमत रही कि पायलट ने स्थिति को संभाला और विमान को सुरक्षित वापस उतारा।",
-    "title": "गोवा से दिल्ली आ रही इंडिगो फ्लाइट का इंजन फेल, हवा में हिचकोले खाता रहा विमान",
-    "caption": "गोवा से दिल्ली आ रही इंडिगो की फ्लाइट में उड़ान के तुरंत बाद एक इंजन फेल हो गया, जिससे यात्रियों में हड़कंप मच गया।",
-    "hashtags": [
-      "#IndigoFlight",
-      "#GoaToDelhi",
-      "#BreakingNews",
-      "#FlightEmergency",
-      "#IndiaNews",
-      "#AviationSafety"
-    ],
-    "visual_queries": [
-      "Goa airport runway India",
-      "Indigo passenger airplane India",
-      "airplane engine failure in sky",
-      "panicked passengers inside plane India",
-      "safe airplane landing India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Donald Trump",
+    "named_person_hi": "डोनाल्ड ट्रंप",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -94,80 +37,72 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/27532361/12161254_720_1280_55fps.mp4",
+        "url": "https://videos.pexels.com/video-files/37994826/16123474_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indigo passenger airplane India",
-        "credit": "Dilip Giri",
-        "source_duration_sec": 16,
+        "query": "middle east conflict footage",
+        "credit": "Shuttercraftsman",
+        "source_duration_sec": 29,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38652992/pexels-photo-38652992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Goa airport runway India",
-        "credit": "Karthick s",
+        "url": "downloaded_assets/person_ba1b76895c.jpg",
+        "source": "wikimedia",
+        "query": "Donald Trump",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13779629/pexels-photo-13779629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17146818/pexels-photo-17146818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airplane engine failure in sky",
-        "credit": "chickenbunny",
+        "query": "drone flight sky",
+        "credit": "Pedro Freitas",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13794463/pexels-photo-13794463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32564008/pexels-photo-32564008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "panicked passengers inside plane India",
-        "credit": "Ricardo Oliveira",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38865292/pexels-photo-38865292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "safe airplane landing India",
-        "credit": "Karthick s",
+        "query": "donald trump speech",
+        "credit": "Beth Fitzpatrick",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "गोवा से दिल्ली आ रही इंडिगो फ्लाइट का इंजन फेल, हवा में हिचकोले खाता रहा विमान ✈️",
-        "caption": "229 यात्रियों की सांसें अटक गईं जब हवा में अचानक विमान का एक इंजन बंद हो गया। 😱\n\nगोवा से दिल्ली आ रही इंडिगो की फ्लाइट 6E 2300 के इस खौफनाक सफर में प्लेन लगातार झटके खाता रहा और पायलट को इमरजेंसी लैंडिंग करनी पड़ी। \n\nपूरी कहानी देखें और बताएं, ऐसी स्थिति में आपकी क्या प्रतिक्रिया होती? ✈️\n\n#IndigoFlight #GoaToDelhi #FlightEmergency #AviationNews #BreakingNews"
+        "title": "अमेरिका-ईरान जंग तय! मिसाइलों और ड्रोन से ताबड़तोड़ हमला 🚨",
+        "caption": "अमेरिका और ईरान के बीच युद्ध जैसे हालात! ⚠️\n\nअमेरिकी हमलों का जवाब देते हुए ईरान ने अब सीधा मिसाइलों और ड्रोन से पलटवार किया है। दोनों देशों के बीच बढ़ता यह तनाव मिडिल ईस्ट में किसी बड़े खतरे का संकेत दे रहा है।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#USIranTension #MiddleEastCrisis #AmericaIranWar #WorldNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "229 यात्रियों के लिए हॉरर फ्लाइट बन गई ये यात्रा! 😱\n\nहवा में एक इंजन फेल होने के बाद गोवा से दिल्ली आ रहा इंडिगो का विमान लगातार झटके खाता रहा। पायलट ने सूझबूझ से जान बचाई। \n\nपूरा वीडियो देखें। ✈️👇\n\n#IndigoFlight #GoaToDelhi #FlightEmergency #AviationNews #BreakingNews"
+        "caption": "अमेरिका और ईरान के बीच युद्ध जैसे हालात! ⚠️ अमेरिकी हमलों के बीच ईरान ने मिसाइलों और ड्रोन्स से बड़ा पलटवार किया है।\n\nमिडिल ईस्ट में भड़की इस आग ने दुनिया की टेंशन बढ़ा दी है। क्या यह किसी बड़ी जंग की शुरुआत है?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#USIranTension #MiddleEastCrisis #AmericaIranWar #WorldNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "गोवा से दिल्ली आ रही इंडिगो की फ्लाइट में बैठे 229 यात्रियों के लिए वो कुछ मिनट किसी डरावने सपने जैसे थे। 😱\n\nअचानक एक इंजन फेल हो गया और विमान हवा में हिचकोले खाने लगा। केबिन में चीख-पुकार मच गई थी। पायलट की मुस्तैदी से विमान को सुरक्षित उतारा गया, वरना बड़ा हादसा हो सकता था।\n\nपूरी कहानी वीडियो में देखें और शेयर करें। ✈️\n\n#IndigoFlight #GoaToDelhi #FlightEmergency #AviationNews #BreakingNews"
+        "caption": "अमेरिका और ईरान के बीच अब सीधे तौर पर युद्ध जैसे हालात बन चुके हैं! 🚨 अमेरिकी हमलों के बाद ईरान ने भी चुप बैठने के बजाय मिसाइलों और ड्रोन्स से जबरदस्त जवाबी कार्रवाई की है।\n\nइस खतरनाक escalation से पूरी दुनिया की निगाहें इस पर टिक गई हैं। क्या यह संघर्ष एक बड़े विश्व युद्ध की तरफ बढ़ रहा है? जानिए पूरी सच्चाई इस वीडियो में।\n\nपूरी कहानी देखें और अपनी राय हमारे साथ शेयर करें।\n\n#USIranTension #MiddleEastCrisis #AmericaIranWar #WorldNews #BreakingNews"
       },
       "hashtags": [
-        "IndigoFlight",
-        "GoaToDelhi",
-        "FlightEmergency",
-        "AviationNews",
+        "USIranTension",
+        "MiddleEastCrisis",
+        "AmericaIranWar",
+        "WorldNews",
         "BreakingNews"
       ]
     },
-    "audio_path": "audio/indigo_flight_engine_failure_goa_delhi.wav",
-    "audio_duration_sec": 24.5,
-    "video_path": "videos/indigo_flight_engine_failure_goa_delhi.mp4",
-    "video_duration_sec": 32.54,
+    "audio_path": "audio/us_iran_missile_drone_conflict_escalation.wav",
+    "audio_duration_sec": 21.47,
+    "video_path": "videos/us_iran_missile_drone_conflict_escalation.mp4",
+    "video_duration_sec": 29.52,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "UpyYsNrTsCQ",
-        "url": "https://youtube.com/shorts/UpyYsNrTsCQ",
-        "attempted_at": "2026-09-01T16:51:27.296820+00:00"
+        "video_id": "HkyNlntds9A",
+        "url": "https://youtube.com/shorts/HkyNlntds9A",
+        "attempted_at": "2026-09-02T01:20:42.293167+00:00"
       },
       "facebook": {
         "success": true,
@@ -180,15 +115,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9702a5f5a8f7cbe91f2920",
+            "_id": "6a977a0203c5a2dd45b529be",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "गोवा से दिल्ली आ रही इंडिगो की फ्लाइट में बैठे 229 यात्रियों के लिए वो कुछ मिनट किसी डरावने सपने जैसे थे। 😱\n\nअचानक एक इंजन फेल हो गया और विमान हवा में हिचकोले खाने लगा। केबिन में चीख-पुकार मच गई थी। पायलट की मुस्तैदी से विमान को सुरक्षित उतारा गया, वरना बड़ा हादसा हो सकता था।\n\nपूरी कहानी वीडियो में देखें और शेयर करें। ✈️\n\n#IndigoFlight #GoaToDelhi #FlightEmergency #AviationNews #BreakingNews",
+            "content": "अमेरिका और ईरान के बीच अब सीधे तौर पर युद्ध जैसे हालात बन चुके हैं! 🚨 अमेरिकी हमलों के बाद ईरान ने भी चुप बैठने के बजाय मिसाइलों और ड्रोन्स से जबरदस्त जवाबी कार्रवाई की है।\n\nइस खतरनाक escalation से पूरी दुनिया की निगाहें इस पर टिक गई हैं। क्या यह संघर्ष एक बड़े विश्व युद्ध की तरफ बढ़ रहा है? जानिए पूरी सच्चाई इस वीडियो में।\n\nपूरी कहानी देखें और अपनी राय हमारे साथ शेयर करें।\n\n#USIranTension #MiddleEastCrisis #AmericaIranWar #WorldNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788281503562_n24peo7h_indigo_flight_engine_failure_goa_delhi.mp4",
-                "_id": "6a9702a5f5a8f7cbe91f2921"
+                "url": "https://media.zernio.com/media/1788312063537_lnyhkimw_us_iran_missile_drone_conflict_escalation.mp4",
+                "_id": "6a977a0203c5a2dd45b529bf"
               }
             ],
             "platforms": [
@@ -205,17 +140,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-01T16:51:45.632Z",
+                "scheduledFor": "2026-09-02T01:21:05.853Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "c15dc71becba605c8d510246fe0f186e",
-                "_id": "6a9702a5f5a8f7cbe91f2922",
-                "platformPostId": "3699490660183079",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=3699490660183079",
-                "publishedAt": "2026-09-01T16:51:59.059Z"
+                "contentHash": "2e747429ac0dcf473cad461b13ce4067",
+                "_id": "6a977a0203c5a2dd45b529c0",
+                "platformPostId": "1871607373816041",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1871607373816041",
+                "publishedAt": "2026-09-02T01:21:12.934Z"
               }
             ],
-            "scheduledFor": "2026-09-01T16:51:45.632Z",
+            "scheduledFor": "2026-09-02T01:21:05.853Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -227,14 +162,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-01T16:51:49.028Z",
-            "updatedAt": "2026-09-01T16:51:59.783Z",
+            "createdAt": "2026-09-02T01:21:06.937Z",
+            "updatedAt": "2026-09-02T01:21:13.183Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-01T16:51:51.094Z"
+            "publishingClaimedAt": "2026-09-02T01:21:07.120Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-01T16:52:00.581792+00:00"
+        "attempted_at": "2026-09-02T01:21:13.739679+00:00"
       },
       "instagram": {
         "success": true,
@@ -247,15 +182,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9702c8d71644c15eca944d",
+            "_id": "6a977a1d03c5a2dd45b5364b",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "229 यात्रियों के लिए हॉरर फ्लाइट बन गई ये यात्रा! 😱\n\nहवा में एक इंजन फेल होने के बाद गोवा से दिल्ली आ रहा इंडिगो का विमान लगातार झटके खाता रहा। पायलट ने सूझबूझ से जान बचाई। \n\nपूरा वीडियो देखें। ✈️👇\n\n#IndigoFlight #GoaToDelhi #FlightEmergency #AviationNews #BreakingNews",
+            "content": "अमेरिका और ईरान के बीच युद्ध जैसे हालात! ⚠️ अमेरिकी हमलों के बीच ईरान ने मिसाइलों और ड्रोन्स से बड़ा पलटवार किया है।\n\nमिडिल ईस्ट में भड़की इस आग ने दुनिया की टेंशन बढ़ा दी है। क्या यह किसी बड़ी जंग की शुरुआत है?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#USIranTension #MiddleEastCrisis #AmericaIranWar #WorldNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788281541934_vttqqtre_indigo_flight_engine_failure_goa_delhi.mp4",
-                "_id": "6a9702c8d71644c15eca944e"
+                "url": "https://media.zernio.com/media/1788312091001_osqd820h_us_iran_missile_drone_conflict_escalation.mp4",
+                "_id": "6a977a1d03c5a2dd45b5364c"
               }
             ],
             "platforms": [
@@ -272,14 +207,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-01T16:52:23.410Z",
+                "scheduledFor": "2026-09-02T01:21:32.237Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0e5729fcd6d023ec6940b5e254c55056",
-                "_id": "6a9702c8d71644c15eca944f"
+                "contentHash": "47b9963a4a6696f46559a80f46f2443c",
+                "_id": "6a977a1d03c5a2dd45b5364d"
               }
             ],
-            "scheduledFor": "2026-09-01T16:52:23.410Z",
+            "scheduledFor": "2026-09-02T01:21:32.237Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -291,14 +226,1498 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-01T16:52:24.945Z",
-            "updatedAt": "2026-09-01T16:52:27.490Z",
+            "createdAt": "2026-09-02T01:21:33.173Z",
+            "updatedAt": "2026-09-02T01:21:35.569Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-01T16:52:25.253Z"
+            "publishingClaimedAt": "2026-09-02T01:21:33.307Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-01T16:52:27.785306+00:00"
+        "attempted_at": "2026-09-02T01:21:36.115219+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gold_medalist_athlete_selling_vegetables",
+    "virality_score": 9,
+    "reason": "Heartbreaking story of an international throwball gold medalist forced to sell vegetables in Ranchi has high emotional viral potential.",
+    "region": "india",
+    "headline": "कर्ज लेकर देश को दिलाया 'गोल्ड', अब चुकाने के लिए बेच रहे सब्जी; CM हेमंत सोरेन ने खेल विभाग को दिया निर्देश",
+    "source_summary": "Throwball player Amardeep Kumar- अंतरराष्ट्रीय थ्रोबॉल खिलाड़ी अमरदीप कुमार रांची के अरगोड़ा चौक पर सब्जी बेच रहे हैं। भारत के लिए गोल्ड मेडल जीतने वाले अमरदीप की इस हाल की जानकारी मिलने के बाद मुख्यमंत्री हेमंत सोरेन ने खेल विभाग को उचित कार्रवाई का निर्देश दिया है।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/jharkhand/ranchi/won-gold-for-country-by-taking-out-loan-now-selling-vegetables-cm-hemant-soren-issues-instructions-to-sports-department/articleshow/133689489.cms",
+    "source_name": "Navbharat Times",
+    "published": "Wed, 02 Sep 2026 00:00:00 +0530",
+    "hook": "देश के लिए गोल्ड मेडल जीतने वाला खिलाड़ी, आज पेट भरने के लिए बेच रहा है सब्जी!",
+    "script_hi": "झारखंड के रांची में देश के लिए अंतरराष्ट्रीय थ्रोबॉल प्रतियोगिता में गोल्ड मेडल जीतने वाले अमरदीप कुमार आज सब्जी बेचने को मजबूर हैं। अमरदीप ने कर्ज लेकर देश के लिए पदक जीता था। मुख्यमंत्री हेमंत सोरेन ने इस मामले का संज्ञान लेते हुए खेल विभाग को उचित कार्रवाई का निर्देश दिया है।",
+    "tts_text_hi": "झारखंड के रांची में देश के लिए अंतरराष्ट्रीय थ्रोबॉल प्रतियोगिता में गोल्ड मेडल जीतने वाले अमरदीप कुमार आज सब्जी बेचने को मजबूर हैं। अमरदीप ने कर्ज लेकर देश के लिए पदक जीता था। मुख्यमंत्री हेमंत सोरेन ने इस मामले का संज्ञान लेते हुए खेल विभाग को उचित कार्रवाई का निर्देश दिया है।",
+    "title": "गोल्ड मेडल विजेता की लाचारी",
+    "caption": "देश के लिए गोल्ड मेडल जीतने वाले खिलाड़ी अमरदीप कुमार आज सब्जी बेचने को मजबूर हैं। मुख्यमंत्री हेमंत सोरेन ने दिए जांच के निर्देश।",
+    "hashtags": [
+      "#JharkhandNews",
+      "#Ranchi",
+      "#GoldMedalist",
+      "#HemantSoren",
+      "#SportsNews",
+      "#India"
+    ],
+    "visual_queries": [
+      "Indian vegetable market street",
+      "sports medal India",
+      "government office building India"
+    ],
+    "named_person": "Hemant Soren",
+    "named_person_hi": "हेमंत सोरेन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "हेमंत सोरेन",
+        "source": "fallback",
+        "query": "Hemant Soren",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "government office building India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16747112/pexels-photo-16747112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian vegetable market street",
+        "credit": "Stijn Dijkstra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6345334/pexels-photo-6345334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports medal India",
+        "credit": "https://kaboompics.com/",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "गोल्ड मेडल विजेता अब बेच रहा सब्जी! CM सोरेन ने लिया एक्शन 🏅",
+        "caption": "देश के लिए गोल्ड मेडल जीतने वाला खिलाड़ी आज पेट भरने के लिए सब्जी बेचने को मजबूर है 🥇\n\nझारखंड के इस खिलाड़ी की लाचारी सामने आने के बाद अब सीएम हेमंत सोरेन ने खेल विभाग को मदद के निर्देश दिए हैं।\n\nपूरी कहानी देखें और अपनी राय दें 👇\n\n#HemantSoren #JharkhandNews #GoldMedalist #IndianSports #ViralNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "देश के लिए गोल्ड मेडल जीतने वाला खिलाड़ी आज पेट भरने के लिए सब्जी बेचने को मजबूर है 🥇\n\nकभी देश का सिर गर्व से ऊंचा करने वाले इस एथलीट की यह हालत झकझोर देने वाली है। मामला सामने आने के बाद सीएम हेमंत सोरेन ने खेल विभाग को तुरंत निर्देश दिए हैं। क्या ऐसे खिलाड़ियों का भविष्य सुरक्षित नहीं होना चाहिए?\n\n#HemantSoren #JharkhandNews #GoldMedalist #IndianSports #ViralNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जिस खिलाड़ी ने देश को गोल्ड मेडल दिलाया, आज वह दो वक्त की रोटी के लिए सब्जी बेचने को मजबूर है 🥇\n\nयह कहानी सिर्फ एक खिलाड़ी की लाचारी की नहीं, बल्कि सिस्टम पर कई सवाल खड़े करती है। जब यह मामला झारखंड के सीएम हेमंत सोरेन तक पहुंचा, तो उन्होंने तुरंत खेल विभाग को कड़े निर्देश दिए हैं। देखिए इस वीडियो में पूरी बात।\n\n#HemantSoren #JharkhandNews #GoldMedalist #IndianSports #ViralNews"
+      },
+      "hashtags": [
+        "HemantSoren",
+        "JharkhandNews",
+        "GoldMedalist",
+        "IndianSports",
+        "ViralNews"
+      ]
+    },
+    "audio_path": "audio/gold_medalist_athlete_selling_vegetables.wav",
+    "audio_duration_sec": 21.9,
+    "video_path": "videos/gold_medalist_athlete_selling_vegetables.mp4",
+    "video_duration_sec": 29.92,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "8HuOcvs8D3E",
+        "url": "https://youtube.com/shorts/8HuOcvs8D3E",
+        "attempted_at": "2026-09-02T01:26:13.897726+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977b4dedaf8b730134e3fd",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जिस खिलाड़ी ने देश को गोल्ड मेडल दिलाया, आज वह दो वक्त की रोटी के लिए सब्जी बेचने को मजबूर है 🥇\n\nयह कहानी सिर्फ एक खिलाड़ी की लाचारी की नहीं, बल्कि सिस्टम पर कई सवाल खड़े करती है। जब यह मामला झारखंड के सीएम हेमंत सोरेन तक पहुंचा, तो उन्होंने तुरंत खेल विभाग को कड़े निर्देश दिए हैं। देखिए इस वीडियो में पूरी बात।\n\n#HemantSoren #JharkhandNews #GoldMedalist #IndianSports #ViralNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788312395199_b4fzk7bq_gold_medalist_athlete_selling_vegetables.mp4",
+                "_id": "6a977b4dedaf8b730134e3fe"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:26:36.455Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "7608d6b8cb24c35f81c7aa101a0b4de4",
+                "_id": "6a977b4dedaf8b730134e3ff",
+                "platformPostId": "1385382859805803",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1385382859805803",
+                "publishedAt": "2026-09-02T01:26:44.727Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:26:36.455Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:26:37.768Z",
+            "updatedAt": "2026-09-02T01:26:44.841Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:26:37.898Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:26:45.021278+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977b75ba45a810a15c0129",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "देश के लिए गोल्ड मेडल जीतने वाला खिलाड़ी आज पेट भरने के लिए सब्जी बेचने को मजबूर है 🥇\n\nकभी देश का सिर गर्व से ऊंचा करने वाले इस एथलीट की यह हालत झकझोर देने वाली है। मामला सामने आने के बाद सीएम हेमंत सोरेन ने खेल विभाग को तुरंत निर्देश दिए हैं। क्या ऐसे खिलाड़ियों का भविष्य सुरक्षित नहीं होना चाहिए?\n\n#HemantSoren #JharkhandNews #GoldMedalist #IndianSports #ViralNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788312435261_lmug2i0t_gold_medalist_athlete_selling_vegetables.mp4",
+                "_id": "6a977b75ba45a810a15c012a"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:27:16.791Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "a750b5fb84cca5c65f94af64f2648b3c",
+                "_id": "6a977b75ba45a810a15c012b"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:27:16.791Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:27:17.994Z",
+            "updatedAt": "2026-09-02T01:27:19.890Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:27:18.086Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:27:20.240964+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "india_russia_five_s400_purchase",
+    "virality_score": 8,
+    "reason": "India acquiring 5 additional S-400 air defense systems to boost border security is a high-impact national defense story.",
+    "region": "india",
+    "headline": "भारत खरीदेगा 5 नए S-400, पाक-चीन सीम पर और मजबूत होगी सुरक्षा, दुश्मन के ड्रोन-मिसाइल का करेगा खात्मा",
+    "source_summary": "ऑपरेशन सिंदूर में S-400 की ताकत पूरी दुनिया ने देखी. अब भारत अपने एयर डिफेंस नेटवर्क को और मजबूत करने की तैयारी में है. इसके लिए भारत रूस से 5 और S-400 स्क्वाड्रन खरीदेगा.",
+    "source_url": "https://ndtv.in/india/india-plans-to-double-s-400-air-defence-fleet-after-operation-sindoor-success-russia-submits-proposal-for-5-more-squadrons-11988955#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 01 Sep 2026 22:55:40 +0530",
+    "hook": "भारत अब रूस से खरीदेगा पांच नए एस चार सौ एयर डिफेंस सिस्टम!",
+    "script_hi": "भारत अब रूस से पांच नए एस चार सौ एयर डिफेंस सिस्टम खरीदने की तैयारी में है। ऑपरेशन सिंदूर में इसकी ताकत पूरी दुनिया देख चुकी है। इससे पाकिस्तान और चीन की सीमा पर भारत की सुरक्षा और मजबूत होगी। यह सिस्टम दुश्मन के ड्रोन और मिसाइल हमलों का पूरी तरह खात्मा कर देगा।",
+    "tts_text_hi": "भारत अब रूस से पांच नए एस चार सौ एयर डिफेंस सिस्टम खरीदने की तैयारी में है। ऑपरेशन सिंदूर में इसकी ताकत पूरी दुनिया देख चुकी है। इससे पाकिस्तान और चीन की सीमा पर भारत की सुरक्षा और मजबूत होगी। यह सिस्टम दुश्मन के ड्रोन और मिसाइल हमलों का पूरी तरह खात्मा कर देगा।",
+    "title": "भारत खरीदेगा पांच नए एस-400 एयर डिफेंस सिस्टम",
+    "caption": "भारत अपनी वायु रक्षा को और मजबूत करने के लिए रूस से पांच नए S-400 स्क्वाड्रन खरीदेगा।",
+    "hashtags": [
+      "IndiaDefense",
+      "S400",
+      "IndianArmy",
+      "ModiGovernment",
+      "NewsUpdates",
+      "DefenseNews"
+    ],
+    "visual_queries": [
+      "Indian military radar system India",
+      "Russian military equipment India",
+      "Indian border security India",
+      "missile defense system India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/17502682/17502682-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "military defense system",
+        "credit": "Matthias Groeneveld",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Russian military equipment India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928397/pexels-photo-35928397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian border security India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13128608/pexels-photo-13128608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "missile defense system India",
+        "credit": "Shuaizhi Tian",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "भारत को मिलेगा S-400 का महाकवच! चीन-पाक सीमा पर बढ़ेगी ताकत 🇮🇳",
+        "caption": "चीन और पाकिस्तान की सीमा पर अब परिंदा भी पर नहीं मार पाएगा! 🚨\n\nभारत रूस से पांच और नए S-400 एयर डिफेंस सिस्टम खरीदने की तैयारी कर रहा है। यह आधुनिक शील्ड हवा में ही दुश्मन के हर ड्रोन और मिसाइल को पलक झपकते खात्मा कर देगी।\n\nक्या हमारी ये तैयारी पड़ोसी देशों को सबक सिखाने के लिए काफी है? अपनी राय कमेंट में बताएं और पूरी कहानी देखें।\n\n#S400AirDefense #IndianArmy #IndiaDefense #RussianDeals #Geopolitics"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चीन-पाक बॉर्डर पर अब परिंदा भी नहीं मार पाएगा पर! 🚨\n\nभारत सरकार रूस से पांच नए S-400 एयर डिफेंस सिस्टम खरीदने जा रही है। दुश्मन का हर ड्रोन और मिसाइल अब हवा में ही राख हो जाएगा।\n\nइस डिफेंस डील पर आपकी क्या राय है? दोस्तों के साथ शेयर करें और पूरी कहानी देखें।\n\n#S400AirDefense #IndianArmy #IndiaDefense #RussianDeals #Geopolitics"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दुश्मन की हर मिसाइल और ड्रोन अब हवा में ही नेस्तनाबूद हो जाएगा! 🚨\n\nभारत अब रूस से पांच और नए S-400 एयर डिफेंस सिस्टम खरीदने की तैयारी में जुट गया है। इस खतरनाक महाकवच के मिलने से चीन और पाकिस्तान की सीमाओं पर हमारी सुरक्षा कई गुना ज्यादा मजबूत हो जाएगी।\n\nआपको क्या लगता है, हमारी सैन्य ताकत में ये इजाफा कितना जरूरी था? कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#S400AirDefense #IndianArmy #IndiaDefense #RussianDeals #Geopolitics"
+      },
+      "hashtags": [
+        "S400AirDefense",
+        "IndianArmy",
+        "IndiaDefense",
+        "RussianDeals",
+        "Geopolitics"
+      ]
+    },
+    "audio_path": "audio/india_russia_five_s400_purchase.wav",
+    "audio_duration_sec": 19.68,
+    "video_path": "videos/india_russia_five_s400_purchase.mp4",
+    "video_duration_sec": 27.66,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "BNlwuqp3gHI",
+        "url": "https://youtube.com/shorts/BNlwuqp3gHI",
+        "attempted_at": "2026-09-02T01:31:12.252457+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977c7eaf47eaeef98dc6fa",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दुश्मन की हर मिसाइल और ड्रोन अब हवा में ही नेस्तनाबूद हो जाएगा! 🚨\n\nभारत अब रूस से पांच और नए S-400 एयर डिफेंस सिस्टम खरीदने की तैयारी में जुट गया है। इस खतरनाक महाकवच के मिलने से चीन और पाकिस्तान की सीमाओं पर हमारी सुरक्षा कई गुना ज्यादा मजबूत हो जाएगी।\n\nआपको क्या लगता है, हमारी सैन्य ताकत में ये इजाफा कितना जरूरी था? कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#S400AirDefense #IndianArmy #IndiaDefense #RussianDeals #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788312700587_e4dkqet4_india_russia_five_s400_purchase.mp4",
+                "_id": "6a977c7eaf47eaeef98dc6fb"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:31:42.106Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "35b5fbfe9f632942038afcd55f51b8a0",
+                "_id": "6a977c7eaf47eaeef98dc6fc",
+                "platformPostId": "28223617697258013",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=28223617697258013",
+                "publishedAt": "2026-09-02T01:31:49.564Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:31:42.106Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:31:42.903Z",
+            "updatedAt": "2026-09-02T01:31:49.879Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:31:43.062Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:31:50.102231+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977c9ba7d5b56812e6f28d",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चीन-पाक बॉर्डर पर अब परिंदा भी नहीं मार पाएगा पर! 🚨\n\nभारत सरकार रूस से पांच नए S-400 एयर डिफेंस सिस्टम खरीदने जा रही है। दुश्मन का हर ड्रोन और मिसाइल अब हवा में ही राख हो जाएगा।\n\nइस डिफेंस डील पर आपकी क्या राय है? दोस्तों के साथ शेयर करें और पूरी कहानी देखें।\n\n#S400AirDefense #IndianArmy #IndiaDefense #RussianDeals #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788312727390_06pa42me_india_russia_five_s400_purchase.mp4",
+                "_id": "6a977c9ba7d5b56812e6f28e"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:32:10.656Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "87b2f0e31462b68210aa35ad40dfa8ca",
+                "_id": "6a977c9ba7d5b56812e6f28f"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:32:10.656Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:32:11.684Z",
+            "updatedAt": "2026-09-02T01:32:13.414Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:32:11.790Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:32:13.764793+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "ram_mandir_trust_ceo_appointment",
+    "virality_score": 8,
+    "reason": "Ram Mandir Trust meeting to finalize its first CEO and key administrative posts carries major religious and national significance.",
+    "region": "india",
+    "headline": "राम मंदिर ट्रस्ट की आज अहम बैठक, CEO समेत कई बड़े पदों पर लगेगी मुहर!",
+    "source_summary": "अयोध्या में राम मंदिर ट्रस्ट की बुधवार को अहम बैठक होगी. इसमें ट्रस्ट के पहले CEO के नाम पर फैसला हो सकता है. सर्च कमेटी ने तीन नाम ट्रस्ट को सौंप दिए हैं. इसके अलावा, महासचिव समेत कई अहम पदों पर भी निर्णय लिया जा सकता है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ayodhya-ram-mandir-trust-meeting-september-2-new-ceo-selection-ntc-dhrj-rpti-2634239-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T22:17:59+05:30",
+    "hook": "अयोध्या में राम मंदिर ट्रस्ट की आज होने जा रही है सबसे बड़ी बैठक!",
+    "script_hi": "अयोध्या में राम मंदिर ट्रस्ट की आज अहम बैठक होने जा रही है, जिसमें ट्रस्ट के पहले सी-ई-ओ के नाम पर बड़ा फैसला हो सकता है। सर्च कमेटी ने तीन नाम ट्रस्ट को सौंप दिए हैं। इसके अलावा महासचिव समेत कई अहम पदों पर भी मुहर लग सकती है।",
+    "tts_text_hi": "अयोध्या में राम मंदिर ट्रस्ट की आज अहम बैठक होने जा रही है, जिसमें ट्रस्ट के पहले सी-ई-ओ के नाम पर बड़ा फैसला हो सकता है। सर्च कमेटी ने तीन नाम ट्रस्ट को सौंप दिए हैं। इसके अलावा महासचिव समेत कई अहम पदों पर भी मुहर लग सकती है।",
+    "title": "राम मंदिर ट्रस्ट की आज अहम बैठक",
+    "caption": "अयोध्या में राम मंदिर ट्रस्ट की बुधवार को अहम बैठक, मिल सकता है पहला CEO।",
+    "hashtags": [
+      "#RamMandir",
+      "#Ayodhya",
+      "#RamMandirTrust",
+      "#NewsUpdates",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Ram Mandir Ayodhya India",
+      "Indian temple committee meeting",
+      "Ayodhya city India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35019696/14834905_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian temple committee meeting",
+        "credit": "Tanay kundu",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36478002/pexels-photo-36478002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ram Mandir Ayodhya India",
+        "credit": "Ansh Yati",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36478001/pexels-photo-36478001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ayodhya city India",
+        "credit": "Ansh Yati",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8828964/pexels-photo-8828964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian religious trust meeting",
+        "credit": "Mushtaq Hussain",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18887175/pexels-photo-18887175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy Indian city street view",
+        "credit": "Mustang Dinesh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1583244/pexels-photo-1583244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "temple management committee India",
+        "credit": "Mayur Rawte",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20059024/pexels-photo-20059024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "historic Indian monument drone shot",
+        "credit": "Arjun  Prajapati",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "राम मंदिर ट्रस्ट की आज सबसे बड़ी बैठक! CEO समेत कई बड़े पदों पर फैसला 🚨",
+        "caption": "अयोध्या में राम मंदिर ट्रस्ट की आज होने जा रही है सबसे बड़ी बैठक! 🏛️\n\nमंदिर निर्माण से जुड़े कई अहम मुद्दों के साथ आज CEO समेत कई बड़े पदों पर मुहर लगने वाली है। इस बैठक में लिए जाने वाले फैसले बेहद खास हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#RamMandir #Ayodhya #RamMandirTrust #AyodhyaNews #RamMandirUpdates"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अयोध्या में राम मंदिर ट्रस्ट की आज होने जा रही है सबसे बड़ी बैठक! 🚨\n\nCEO और कई बड़े पदों पर आज बड़ा फैसला लिया जाएगा। देखिए वीडियो में पूरी खबर।\n\nक्या लगता है, किसे मिलेगी बड़ी जिम्मेदारी? कमेंट करें! 👇\n\n#RamMandir #Ayodhya #RamMandirTrust #AyodhyaNews #RamMandirUpdates"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अयोध्या से आ रही बड़ी खबर! राम मंदिर ट्रस्ट की आज एक बेहद अहम बैठक होने जा रही है। 🛕\n\nइस बैठक में मंदिर की व्यवस्थाओं को लेकर CEO समेत कई बड़े पदों पर आधिकारिक मुहर लगेगी। कौन संभालेगा कमान? आइए जानते हैं इस वीडियो में पूरी डिटेल।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#RamMandir #Ayodhya #RamMandirTrust #AyodhyaNews #RamMandirUpdates"
+      },
+      "hashtags": [
+        "RamMandir",
+        "Ayodhya",
+        "RamMandirTrust",
+        "AyodhyaNews",
+        "RamMandirUpdates"
+      ]
+    },
+    "audio_path": "audio/ram_mandir_trust_ceo_appointment.wav",
+    "audio_duration_sec": 17.62,
+    "video_path": "videos/ram_mandir_trust_ceo_appointment.mp4",
+    "video_duration_sec": 25.67,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "-mt8i88DO-c",
+        "url": "https://youtube.com/shorts/-mt8i88DO-c",
+        "attempted_at": "2026-09-02T01:37:40.998435+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977df6cbddb8b8b0ba07a8",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अयोध्या से आ रही बड़ी खबर! राम मंदिर ट्रस्ट की आज एक बेहद अहम बैठक होने जा रही है। 🛕\n\nइस बैठक में मंदिर की व्यवस्थाओं को लेकर CEO समेत कई बड़े पदों पर आधिकारिक मुहर लगेगी। कौन संभालेगा कमान? आइए जानते हैं इस वीडियो में पूरी डिटेल।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#RamMandir #Ayodhya #RamMandirTrust #AyodhyaNews #RamMandirUpdates",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313076378_3cl1smp6_ram_mandir_trust_ceo_appointment.mp4",
+                "_id": "6a977df6cbddb8b8b0ba07a9"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:37:57.738Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "addd72c72762382fd5c9f5221ebb779a",
+                "_id": "6a977df6cbddb8b8b0ba07aa",
+                "platformPostId": "926766756645341",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=926766756645341",
+                "publishedAt": "2026-09-02T01:38:05.946Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:37:57.738Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:37:58.583Z",
+            "updatedAt": "2026-09-02T01:38:06.122Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:37:58.704Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:38:06.352540+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977e180bf25c7caecf2c7d",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अयोध्या में राम मंदिर ट्रस्ट की आज होने जा रही है सबसे बड़ी बैठक! 🚨\n\nCEO और कई बड़े पदों पर आज बड़ा फैसला लिया जाएगा। देखिए वीडियो में पूरी खबर।\n\nक्या लगता है, किसे मिलेगी बड़ी जिम्मेदारी? कमेंट करें! 👇\n\n#RamMandir #Ayodhya #RamMandirTrust #AyodhyaNews #RamMandirUpdates",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313109622_mob5f7dc_ram_mandir_trust_ceo_appointment.mp4",
+                "_id": "6a977e180bf25c7caecf2c7e"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:38:31.345Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "a5c08587dc4246a758b707cceeb25ef1",
+                "_id": "6a977e180bf25c7caecf2c7f"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:38:31.345Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:38:32.358Z",
+            "updatedAt": "2026-09-02T01:38:34.113Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:38:32.437Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:38:34.500833+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "isro_eos05_satellite_launch",
+    "virality_score": 8,
+    "reason": "ISRO's upcoming launch of the EOS-05 geo-imaging satellite to monitor borders is a strong national pride and tech story.",
+    "region": "india",
+    "headline": "इसरो 4 को लॉन्च करेगा GSLV-F17, चीन-PAK बॉर्डर पर रखेगा नजर",
+    "source_summary": "अंतरिक्ष में तैनात होगी भारत की नई आंख 36 हजार KM ऊपर से इसरो का EOS-05 देश के बड़े हिस्से पर नजर रखेगा. चक्रवात, बाढ़, जंगल की आग और सीमा से जुड़ी गतिविधियों की निगरानी में भी यह सैटेलाइट मदद करेगा.",
+    "source_url": "https://www.aajtak.in/science/story/isro-gslv-f17-launch-eos-05-36-thousand-km-border-monitoring-dskc-2634064-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T16:40:26+05:30",
+    "hook": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख!",
+    "script_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन चार तारीख को जीएलएसवी-एफ सत्रह लॉन्च करने जा रहा है। छत्तीस हजार किलोमीटर ऊपर से ईओएस-छह सैटेलाइट देश की सीमाओं पर पैनी नजर रखेगा। यह सैटेलाइट चक्रवात, बाढ़ और जंगल की आग की निगरानी में भी मदद करेगा।",
+    "tts_text_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन चार तारीख को जीएलएसवी-एफ सत्रह लॉन्च करने जा रहा है। छत्तीस हजार किलोमीटर ऊपर से ईओएस-छह सैटेलाइट देश की सीमाओं पर पैनी नजर रखेगा। यह सैटेलाइट चक्रवात, बाढ़ और जंगल की आग की निगरानी में भी मदद करेगा।",
+    "title": "ISRO to launch GSLV-F17 and EOS-05 satellite",
+    "caption": "ISRO space mission update: GSLV-F17 and EOS-05 satellite launch to monitor borders and natural disasters from space.",
+    "hashtags": [
+      "ISRO",
+      "GSLVF17",
+      "EOS05",
+      "SpaceNews",
+      "IndiaSpace",
+      "ISROMission",
+      "NewsShorts"
+    ],
+    "visual_queries": [
+      "ISRO rocket launch India",
+      "satellite in space India",
+      "Indian border security area",
+      "flooded disaster area India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "satellite in space earth orbit",
+        "credit": "Allan Carvalho",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10782852/pexels-photo-10782852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "satellite in space India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928391/pexels-photo-35928391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian border security area",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded disaster area India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अंतरिक्ष में तैनात होगी भारत की नई आंख! इसरो GSLV-F17 से कसेगा चीन-पाक बॉर्डर पर शिकंजा 🛰️",
+        "caption": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख! 🛰️\n\nचीन और पाकिस्तान की हर नापाक हरकत पर नजर रखने के लिए इसरो जल्द ही GSLV-F17 रॉकेट लॉन्च करने वाला है। यह अत्याधुनिक सैटेलाइट बॉर्डर की सुरक्षा को और ज्यादा मजबूत करेगी।\n\nआखिर क्या है इस मिशन की खूबी? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#ISRO #GSLVF17 #IndianSpaceResearch #DefenceUpdate #SpaceMission"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख! 🛰️\n\nचीन-पाक बॉर्डर पर अब परिंदा भी पर नहीं मार सकेगा क्योंकि इसरो अंतरिक्ष में भेजने जा रहा है अपना नया जांबाज सैटेलाइट। \n\nपूरी कहानी देखें और शेयर करें!\n\n#ISRO #GSLVF17 #IndianSpaceResearch #DefenceUpdate #SpaceMission"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख! 🛰️\n\nभारत अपनी सुरक्षा को और ज्यादा अभेद्य बनाने की तैयारी में जुट गया है। इसरो जल्द ही GSLV-F17 लॉन्च करने वाला है, जो सीधे चीन और पाकिस्तान की हरकतों पर आसमान से पैनी नजर रखेगा।\n\nदेखिए इस मिशन से जुड़ी पूरी जानकारी और वीडियो।\n\n#ISRO #GSLVF17 #IndianSpaceResearch #DefenceUpdate #SpaceMission"
+      },
+      "hashtags": [
+        "ISRO",
+        "GSLVF17",
+        "IndianSpaceResearch",
+        "DefenceUpdate",
+        "SpaceMission"
+      ]
+    },
+    "audio_path": "audio/isro_eos05_satellite_launch.wav",
+    "audio_duration_sec": 19.85,
+    "video_path": "videos/isro_eos05_satellite_launch.mp4",
+    "video_duration_sec": 27.89,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "4nQ-GxdK4QA",
+        "url": "https://youtube.com/shorts/4nQ-GxdK4QA",
+        "attempted_at": "2026-09-02T01:44:07.221409+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977f86d9598d71cf3c3d07",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख! 🛰️\n\nभारत अपनी सुरक्षा को और ज्यादा अभेद्य बनाने की तैयारी में जुट गया है। इसरो जल्द ही GSLV-F17 लॉन्च करने वाला है, जो सीधे चीन और पाकिस्तान की हरकतों पर आसमान से पैनी नजर रखेगा।\n\nदेखिए इस मिशन से जुड़ी पूरी जानकारी और वीडियो।\n\n#ISRO #GSLVF17 #IndianSpaceResearch #DefenceUpdate #SpaceMission",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313476626_j9dnhr71_isro_eos05_satellite_launch.mp4",
+                "_id": "6a977f86d9598d71cf3c3d08"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:44:37.715Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "6c44c1a03b5520fea9e41e7098da70a5",
+                "_id": "6a977f86d9598d71cf3c3d09",
+                "platformPostId": "1094431906456689",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1094431906456689",
+                "publishedAt": "2026-09-02T01:44:49.484Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:44:37.715Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:44:38.700Z",
+            "updatedAt": "2026-09-02T01:44:49.645Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:44:38.950Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:44:49.830591+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a977fa6daf48da8abf45659",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अंतरिक्ष में तैनात होने जा रही है भारत की नई आंख! 🛰️\n\nचीन-पाक बॉर्डर पर अब परिंदा भी पर नहीं मार सकेगा क्योंकि इसरो अंतरिक्ष में भेजने जा रहा है अपना नया जांबाज सैटेलाइट। \n\nपूरी कहानी देखें और शेयर करें!\n\n#ISRO #GSLVF17 #IndianSpaceResearch #DefenceUpdate #SpaceMission",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313508157_zuz2m40a_isro_eos05_satellite_launch.mp4",
+                "_id": "6a977fa6daf48da8abf4565a"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:45:09.317Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "8efba9fdbbeda849dbd63ec9ecd67f10",
+                "_id": "6a977fa6daf48da8abf4565b"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:45:09.317Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:45:10.418Z",
+            "updatedAt": "2026-09-02T01:45:12.145Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:45:10.507Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:45:12.590195+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "india_afghanistan_t20_squad_sanju_return",
+    "virality_score": 8,
+    "reason": "Team India announcement for the Afghanistan T20 series featuring Sanju Samson's return has huge cricket fan engagement.",
+    "region": "india",
+    "headline": "AFG सीरीज के लिए टीम इंडिया का ऐलान, संजू की वापसी, रिंकू बाहर",
+    "source_summary": "अफगानिस्तान के खिलाफ 13 सितंबर से शुरू होने वाली 3 मैचों की टी20 सीरीज के लिए टीम इंडिया का ऐलान हो गया है. श्रेयस अय्यर कप्तान और तिलक वर्मा उपकप्तान होंगे. संजू सैमसन की टीम में वापसी हुई है. बुमराह, हर्षित, वॉशिंगटन और नीतीश का चयन फिटनेस टेस्ट पास करने की शर्त पर हुआ है. रिंकू सिंह समेत 8 खिलाड़ी बाहर हैं.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/india-vs-afghanistan-t20i-series-2026-team-india-squad-sanju-rinku-tspok-dskc-2634112-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T17:43:08+05:30",
+    "hook": "टीम इंडिया का ऐलान, संजू सैमसन की वापसी!",
+    "script_hi": "अफगानिस्तान के खिलाफ तेरह सितंबर से शुरू होने वाली तीन मैचों की टी-बीस सीरीज के लिए टीम इंडिया का ऐलान हो गया है। श्रेयस अय्यर कप्तान और तिलक वर्मा उपकप्तान होंगे। संजू सैमसन की टीम में वापसी हुई है। जसप्रीत बुमराह, हर्षित राणा, वॉशिंगटन सुंदर और नीतीश रेड्डी का चयन फिटनेस टेस्ट पास करने की शर्त पर हुआ है, जबकि रिंकू सिंह समेत आठ खिलाड़ी बाहर कर दिए गए हैं।",
+    "tts_text_hi": "अफगानिस्तान के खिलाफ तेरह सितंबर से शुरू होने वाली तीन मैचों की टी-बीस सीरीज के लिए टीम इंडिया का ऐलान हो गया है। श्रेयस अय्यर कप्तान और तिलक वर्मा उपकप्तान होंगे। संजू सैमसन की टीम में वापसी हुई है। जसप्रीत बुमराह, हर्षित राणा, वॉशिंगटन सुंदर और नीतीश रेड्डी का चयन फिटनेस टेस्ट पास करने की शर्त पर हुआ है, जबकि रिंकू सिंह समेत आठ खिलाड़ी बाहर कर दिए गए हैं।",
+    "title": "AFG सीरीज के लिए टीम इंडिया का ऐलान",
+    "caption": "अफगानिस्तान के खिलाफ सीरीज के लिए टीम इंडिया घोषित, श्रेयस अय्यर कप्तान बने।",
+    "hashtags": [
+      "TeamIndia",
+      "CricketNews",
+      "SanjuSamson",
+      "ShreyasIyer",
+      "IndVsAfg",
+      "BCCI",
+      "Cricket"
+    ],
+    "visual_queries": [
+      "Indian cricket team India",
+      "cricket captain India",
+      "wicketkeeper batsman India",
+      "cricket stadium India"
+    ],
+    "named_person": "Shreyas Iyer",
+    "named_person_hi": "श्रेयस अय्यर",
+    "secondary_persons": [
+      "Sanju Samson",
+      "Jasprit Bumrah"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "श्रेयस अय्यर",
+        "source": "fallback",
+        "query": "Shreyas Iyer",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36088031/15304811_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cricket captain India",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket team India",
+        "credit": "Umang & Meet",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wicketkeeper batsman India",
+        "credit": "Sandeep Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "संजू सैमसन की टीम में वापसी, रिंकू सिंह बाहर! 🚨 AFG सीरीज के लिए टीम इंडिया का ऐलान",
+        "caption": "संजू सैमसन की टीम में वापसी, लेकिन रिंकू सिंह का पत्ता साफ! 🚨 अफगानिस्तान सीरीज के लिए बीसीसीआई ने टीम इंडिया का ऐलान कर दिया है। इस स्क्वाड में कई बड़े बदलाव देखने को मिले हैं, जिससे फैंस भी हैरान हैं। \n\nपूरी टीम और चयनकर्ताओं के इस फैसले पर आपकी क्या राय है? कमेंट में बताएं।\n\n#TeamIndia #SanjuSamson #RinkuSingh #IndVsAfg #BCCI"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "संजू सैमसन की टीम में वापसी, लेकिन रिंकू सिंह बाहर! 🚨 \n\nअफगानिस्तान सीरीज के लिए टीम इंडिया का नया स्क्वाड सामने आ गया है। इस चौंकाने वाले चयन ने सोशल मीडिया पर बहस छेड़ दी है। \n\nआपको क्या लगता है, क्या यह सही फैसला है? वीडियो पूरा देखें और दोस्तों के साथ शेयर करें!\n\n#TeamIndia #SanjuSamson #RinkuSingh #IndVsAfg #BCCI"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "संजू सैमसन की टीम में वापसी, लेकिन रिंकू सिंह बाहर! 🚨 \n\nअफगानिस्तान के खिलाफ होने वाली आगामी सीरीज के लिए बीसीसीआई ने आखिरकार टीम इंडिया का ऐलान कर दिया है। इस बार टीम में कुछ ऐसे बदलाव किए गए हैं जिसकी किसी को उम्मीद नहीं थी, खासकर रिंकू सिंह का बाहर होना चर्चा का विषय बन गया है। \n\nपूरी कहानी वीडियो में देखें और हमें बताएं कि इस स्क्वाड से किसे फायदा और किसे नुकसान हुआ है।\n\n#TeamIndia #SanjuSamson #RinkuSingh #IndVsAfg #BCCI"
+      },
+      "hashtags": [
+        "TeamIndia",
+        "SanjuSamson",
+        "RinkuSingh",
+        "IndVsAfg",
+        "BCCI"
+      ]
+    },
+    "audio_path": "audio/india_afghanistan_t20_squad_sanju_return.wav",
+    "audio_duration_sec": 27.46,
+    "video_path": "videos/india_afghanistan_t20_squad_sanju_return.mp4",
+    "video_duration_sec": 35.42,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "Au8MH9kVpCw",
+        "url": "https://youtube.com/shorts/Au8MH9kVpCw",
+        "attempted_at": "2026-09-02T01:50:46.519661+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97810bcd6ee5d7b467d04b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "संजू सैमसन की टीम में वापसी, लेकिन रिंकू सिंह बाहर! 🚨 \n\nअफगानिस्तान के खिलाफ होने वाली आगामी सीरीज के लिए बीसीसीआई ने आखिरकार टीम इंडिया का ऐलान कर दिया है। इस बार टीम में कुछ ऐसे बदलाव किए गए हैं जिसकी किसी को उम्मीद नहीं थी, खासकर रिंकू सिंह का बाहर होना चर्चा का विषय बन गया है। \n\nपूरी कहानी वीडियो में देखें और हमें बताएं कि इस स्क्वाड से किसे फायदा और किसे नुकसान हुआ है।\n\n#TeamIndia #SanjuSamson #RinkuSingh #IndVsAfg #BCCI",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313864795_bqfrtukw_india_afghanistan_t20_squad_sanju_return.mp4",
+                "_id": "6a97810bcd6ee5d7b467d04c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:51:06.262Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "5f536167f89b062f4174b38fb116ecd7",
+                "_id": "6a97810bcd6ee5d7b467d04d",
+                "platformPostId": "1391667182319983",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1391667182319983",
+                "publishedAt": "2026-09-02T01:51:15.717Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:51:06.262Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:51:07.268Z",
+            "updatedAt": "2026-09-02T01:51:15.857Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:51:07.445Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:51:16.082769+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9781346cda5a1311ee65fc",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "संजू सैमसन की टीम में वापसी, लेकिन रिंकू सिंह बाहर! 🚨 \n\nअफगानिस्तान सीरीज के लिए टीम इंडिया का नया स्क्वाड सामने आ गया है। इस चौंकाने वाले चयन ने सोशल मीडिया पर बहस छेड़ दी है। \n\nआपको क्या लगता है, क्या यह सही फैसला है? वीडियो पूरा देखें और दोस्तों के साथ शेयर करें!\n\n#TeamIndia #SanjuSamson #RinkuSingh #IndVsAfg #BCCI",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788313905292_3r751ul1_india_afghanistan_t20_squad_sanju_return.mp4",
+                "_id": "6a9781346cda5a1311ee65fd"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:51:47.118Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "f67fab28abb326f6a4fc8bdba3363cad",
+                "_id": "6a9781346cda5a1311ee65fe"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:51:47.118Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:51:48.082Z",
+            "updatedAt": "2026-09-02T01:51:50.183Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:51:48.177Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:51:50.585210+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "palwal_kmp_expressway_accident_pilgrims",
+    "virality_score": 8,
+    "reason": "Tragic accident on KMP expressway resulting in the deaths of six pilgrims returning from GogaMedi has wide regional impact.",
+    "region": "india",
+    "headline": "पलवल में KMP एक्सप्रेसवे पर हादसा, 6 श्रद्धालुओं की मौत",
+    "source_summary": "हरियाणा के पलवल में KMP एक्सप्रेसवे पर तेज रफ्तार पिकअप सड़क किनारे खड़े ट्राले से टकरा गई। हादसे में मैनपुरी के 6 श्रद्धालुओं की मौत और 9 लोग घायल हो गए। सभी गोगामेड़ी मंदिर से दर्शन कर लौट रहे थे।",
+    "source_url": "https://www.aajtak.in/short-videos/video/haryana-palwal-road-accident-kmp-expressway-accident-yadupur-village-mainpuri-gogamedi-temple-pickup-truck-mmtc-2633973-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T15:02:54+05:30",
+    "hook": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर भीषण सड़क हादसा!",
+    "script_hi": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर एक तेज रफ्तार पिकअप सड़क किनारे खड़े ट्राले से जा टकराई। इस दर्दनाक हादसे में उत्तर प्रदेश के मैनपुरी के छह श्रद्धालुओं की मौत हो गई और नौ लोग गंभीर रूप से घायल हो गए। सभी लोग गोगामेड़ी मंदिर से दर्शन कर वापस लौट रहे थे। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर एक तेज रफ्तार पिकअप सड़क किनारे खड़े ट्राले से जा टकराई। इस दर्दनाक हादसे में उत्तर प्रदेश के मैनपुरी के छह श्रद्धालुओं की मौत हो गई और नौ लोग गंभीर रूप से घायल हो गए। सभी लोग गोगामेड़ी मंदिर से दर्शन कर वापस लौट रहे थे। पुलिस मामले की जांच कर रही है।",
+    "title": "पलवल में केएमपी एक्सप्रेसवे पर हादसा, छह श्रद्धालुओं की मौत",
+    "caption": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर दर्दनाक सड़क हादसा, गोगामेड़ी से लौट रहे छह श्रद्धालुओं की मौत। #Palwal #HaryanaNews #Accident #KMPExpressway",
+    "hashtags": [
+      "Palwal",
+      "HaryanaNews",
+      "Accident",
+      "KMPExpressway",
+      "RoadAccident",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "highway road India",
+      "police investigation India",
+      "ambulance emergency India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35492066/15035726_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "highway traffic accident India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12130675/12130675-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "ambulance lights flashing night",
+        "credit": "Altaf Shah",
+        "source_duration_sec": 29,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38065657/pexels-photo-38065657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "highway road India",
+        "credit": "Hb  zee",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance emergency India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36296468/pexels-photo-36296468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "damaged truck on road",
+        "credit": "Peter Dyllong",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14794312/pexels-photo-14794312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night road transport India",
+        "credit": "Chandan Suman 🇮🇳",
+        "duration_sec": 3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पलवल KMP एक्सप्रेसवे पर बड़ा हादसा: 6 श्रद्धालुओं की दर्दनाक मौत 🚨",
+        "caption": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर हुए भीषण हादसे ने सबको झकझोर कर रख दिया है। 💔\n\nसड़क किनारे खड़े एक वाहन में तेज रफ्तार गाड़ी ने टक्कर मार दी, जिससे गाड़ी में सवार 6 श्रद्धालुओं की मौके पर ही मौत हो गई। सभी लोग धार्मिक यात्रा से लौट रहे थे।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#PalwalAccident #KMPExpressway #HaryanaNews #RoadSafety #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर भीषण सड़क हादसा! 🚨\n\nधार्मिक यात्रा से लौट रहे श्रद्धालुओं की गाड़ी अनियंत्रित होकर हादसे का शिकार हो गई, जिसमें 6 लोगों की जान चली गई। 💔\n\nक्या एक्सप्रेसवे पर गाड़ियां खड़ी करना हादसों को न्योता देना है? अपनी राय शेयर करें।\n\n#PalwalAccident #KMPExpressway #HaryanaNews #RoadSafety #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर एक दर्दनाक हादसा हुआ है जिसने सबको झकझोर दिया है। 🚨\n\nयहाँ तेज रफ्तार का कहर उस वक्त देखने को मिला जब एक खड़े वाहन से गाड़ी की जबरदस्त टक्कर हो गई। इस भयानक हादसे में 6 श्रद्धालुओं की मौके पर ही मौत हो गई, जो अपनी यात्रा पूरी कर वापस लौट रहे थे।\n\nप्रशासन लगातार अपील करता है लेकिन ऐसे हादसे थमने का नाम नहीं ले रहे। इस दुखद घटना पर आपकी क्या राय है, कमेंट में जरूर बताएं।\n\n#PalwalAccident #KMPExpressway #HaryanaNews #RoadSafety #BreakingNews"
+      },
+      "hashtags": [
+        "PalwalAccident",
+        "KMPExpressway",
+        "HaryanaNews",
+        "RoadSafety",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/palwal_kmp_expressway_accident_pilgrims.wav",
+    "audio_duration_sec": 21.36,
+    "video_path": "videos/palwal_kmp_expressway_accident_pilgrims.mp4",
+    "video_duration_sec": 29.36,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "-Lfiw_ZTbFI",
+        "url": "https://youtube.com/shorts/-Lfiw_ZTbFI",
+        "attempted_at": "2026-09-02T01:56:19.303308+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9782597ca180f455b3e42f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर एक दर्दनाक हादसा हुआ है जिसने सबको झकझोर दिया है। 🚨\n\nयहाँ तेज रफ्तार का कहर उस वक्त देखने को मिला जब एक खड़े वाहन से गाड़ी की जबरदस्त टक्कर हो गई। इस भयानक हादसे में 6 श्रद्धालुओं की मौके पर ही मौत हो गई, जो अपनी यात्रा पूरी कर वापस लौट रहे थे।\n\nप्रशासन लगातार अपील करता है लेकिन ऐसे हादसे थमने का नाम नहीं ले रहे। इस दुखद घटना पर आपकी क्या राय है, कमेंट में जरूर बताएं।\n\n#PalwalAccident #KMPExpressway #HaryanaNews #RoadSafety #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788314198579_fkoqhzj0_palwal_kmp_expressway_accident_pilgrims.mp4",
+                "_id": "6a9782597ca180f455b3e430"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:56:40.088Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "189702cf4dea4a4306c99ff80ad23345",
+                "_id": "6a9782597ca180f455b3e431",
+                "platformPostId": "1101778002285193",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1101778002285193",
+                "publishedAt": "2026-09-02T01:56:51.172Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:56:40.088Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:56:41.149Z",
+            "updatedAt": "2026-09-02T01:56:51.314Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:56:41.355Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:56:51.616872+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97827e7ca180f455b3f025",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "हरियाणा के पलवल में केएमपी एक्सप्रेसवे पर भीषण सड़क हादसा! 🚨\n\nधार्मिक यात्रा से लौट रहे श्रद्धालुओं की गाड़ी अनियंत्रित होकर हादसे का शिकार हो गई, जिसमें 6 लोगों की जान चली गई। 💔\n\nक्या एक्सप्रेसवे पर गाड़ियां खड़ी करना हादसों को न्योता देना है? अपनी राय शेयर करें।\n\n#PalwalAccident #KMPExpressway #HaryanaNews #RoadSafety #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788314234790_8rmbb4xw_palwal_kmp_expressway_accident_pilgrims.mp4",
+                "_id": "6a97827e7ca180f455b3f026"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T01:57:16.906Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "f94814fa3ed05842c83f469bfd2c48e0",
+                "_id": "6a97827e7ca180f455b3f027"
+              }
+            ],
+            "scheduledFor": "2026-09-02T01:57:16.906Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T01:57:18.102Z",
+            "updatedAt": "2026-09-02T01:57:20.335Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T01:57:18.184Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T01:57:21.578984+00:00"
       }
     }
   }
