@@ -1,6 +1,7 @@
-ready_labels: ['chennai_agra_red_suitcase_murder_mystery', 'india_host_womens_champions_trophy_2027', 'ram_mandir_first_ceo_appointment']
+ready_labels: ['bihar_fake_poisonous_alcohol_murder_plot', 'disha_salian_death_case_cbi_probe_hc', 'egypt_red_sea_bus_crash_fatalities_global', 'pakistan_sco_photo_crop_controversy_modi', 'ram_mandir_first_ceo_air_marshal_jitendra_mishra']
 
-india_host_womens_champions_trophy_2027: SUCCESS -> video_path=videos/india_host_womens_champions_trophy_2027.mp4 dur=19.62322
-ballia_girl_one_leg_school_viral_video: SKIPPED (not in ready set)
-ram_mandir_first_ceo_appointment: SUCCESS -> video_path=videos/ram_mandir_first_ceo_appointment.mp4 dur=31.856553
-chennai_agra_red_suitcase_murder_mystery: SUCCESS -> video_path=videos/chennai_agra_red_suitcase_murder_mystery.mp4 dur=27.667211
+ram_mandir_first_ceo_air_marshal_jitendra_mishra: SUCCESS -> video_path=videos/ram_mandir_first_ceo_air_marshal_jitendra_mishra.mp4 dur=30.989887
+disha_salian_death_case_cbi_probe_hc: SUCCESS -> video_path=videos/disha_salian_death_case_cbi_probe_hc.mp4 dur=21.072222
+pakistan_sco_photo_crop_controversy_modi: SUCCESS -> video_path=videos/pakistan_sco_photo_crop_controversy_modi.mp4 dur=26.789887
+bihar_fake_poisonous_alcohol_murder_plot: SUCCESS -> video_path=videos/bihar_fake_poisonous_alcohol_murder_plot.mp4 dur=30.012222
+egypt_red_sea_bus_crash_fatalities_global: SUCCESS -> video_path=videos/egypt_red_sea_bus_crash_fatalities_global.mp4 dur=23.510227
