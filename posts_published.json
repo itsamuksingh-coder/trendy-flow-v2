@@ -1,630 +1,331 @@
 [
   {
-    "topic_label": "us_iran_conflict_escalation_middle_east",
+    "topic_label": "stock_market_crash_us_iran_war",
     "virality_score": 9,
-    "reason": "Major global escalation with direct missile strikes across multiple Middle Eastern countries, drawing high viewer interest.",
+    "reason": "Major stock market crash triggered by US-Iran tensions heavily impacts retail investors.",
     "region": "india",
-    "headline": "US-ईरान फिर भिड़े, कुवैत-बहरीन से जॉर्डन तक 4 देश दहल उठे",
-    "source_summary": "US-Iran War Updates: अमेरिका और ईरान के बीच एक महीने की खामोशी के बाद जंग फिर शुरू हो गई है. अमेरिका ने होर्मुज के पास IRGC के ठिकानों पर हमला किया, जिसके जवाब में ईरान ने जॉर्डन के प्रिंस हसन एयरबेस और मरीन बेस पर मिसाइलें दागीं, बहरीन में ड्रोन हमला किया और कुवैत में भी हमले हुए. जॉर्डन ने 13 में से 10 मिसाइलें रोकीं. IRGC के बड़ी संख्या में अमेरिकी सैनिक मारने के दावे को अमेरिका ने झूठा बताया.",
-    "source_url": "https://www.aajtak.in/world/story/iran-us-war-jordan-bahrain-middle-east-tensions-trump-vs-khamenei-ntc-agkp-dskc-2634297-2026-09-02?utm_source=rssfeed",
+    "headline": "फिर वॉर मोड में ट्रंप, खुलते ही सेंसेक्स 700 अंक टूटा, बड़े शेयरों का हाल-बेहाल",
+    "source_summary": "Stock Market Crash: शेयर बाजार में बुधवार को खुलने के साथ ही भगदड़ मची नजर आई. अमेरिका से आई एक खबर के बाद सेंसेक्स-निफ्टी में बड़ी गिरावट देखने को मिली है. बॉम्बे BSE Sensex तो ओपनिंग के साथ ही 700 अंक का गोता लगा गया.",
+    "source_url": "https://www.aajtak.in/business/news/story/stock-market-crash-amid-donald-trump-hormuz-control-claim-crude-price-surge-asian-market-down-tutc-dskc-2634366-2026-09-02?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-02T07:02:10+05:30",
-    "hook": "अमेरिका और ईरान के बीच फिर भड़की जंग, चार देश दहल उठे!",
-    "script_hi": "अमेरिका और ईरान के बीच एक महीने की खामोशी के बाद जंग फिर शुरू हो गई है। अमेरिका ने होर्मुज के पास आईआरजीसी के ठिकानों पर हमला किया, जिसके जवाब में ईरान ने जॉर्डन के प्रिंस हसन एयरबेस पर मिसाइलें दागीं। बहरीन और कुवैत में भी हमले हुए हैं। जॉर्डन ने तेरह में से दस मिसाइलें हवा में ही रोक लीं। उधर, आईआरजीसी ने भारी अमेरिकी नुकसान का दावा किया है, जिसे अमेरिका ने खारिज कर दिया है।",
-    "tts_text_hi": "अमेरिका और ईरान के बीच एक महीने की खामोशी के बाद जंग फिर शुरू हो गई है। अमेरिका ने होर्मुज के पास आईआरजीसी के ठिकानों पर हमला किया, जिसके जवाब में ईरान ने जॉर्डन के प्रिंस हसन एयरबेस पर मिसाइलें दागीं। बहरीन और कुवैत में भी हमले हुए हैं। जॉर्डन ने तेरह में से दस मिसाइलें हवा में ही रोक लीं। उधर, आईआरजीसी ने भारी अमेरिकी नुकसान का दावा किया है, जिसे अमेरिका ने खारिज कर दिया है।",
-    "title": "US-Iran Conflict Escalates",
-    "caption": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।",
+    "published": "2026-09-02T09:28:07+05:30",
+    "hook": "शेयर बाजार में हाहाकार, सेंसेक्स खुलते ही सात सौ अंक टूटा!",
+    "script_hi": "शेयर बाजार में बुधवार को खुलने के साथ ही भगदड़ मची नजर आई। अमेरिका से आई एक खबर के बाद सेंसेक्स और निफ्टी में बड़ी गिरावट देखने को मिली है। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स तो ओपनिंग के साथ ही सात सौ अंक का गोता लगा गया, जिससे निवेशकों में हड़कंप मच गया है।",
+    "tts_text_hi": "शेयर बाजार में बुधवार को खुलने के साथ ही भगदड़ मची नजर आई। अमेरिका से आई एक खबर के बाद सेंसेक्स और निफ्टी में बड़ी गिरावट देखने को मिली है। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स तो ओपनिंग के साथ ही सात सौ अंक का गोता लगा गया, जिससे निवेशकों में हड़कंप मच गया है।",
+    "title": "Stock Market Crash: सेंसेक्स में भारी गिरावट, खुलते ही टूटा बाजार",
+    "caption": "शेयर बाजार में बुधवार को भारी गिरावट दर्ज की गई। सेंसेक्स खुलते ही सात सौ अंक से ज्यादा टूट गया, जिससे निवेशकों को बड़ा झटका लगा है।",
     "hashtags": [
-      "USIran",
-      "MiddleEastWar",
-      "BreakingNews",
-      "WorldNews",
-      "IranAttack",
-      "USMilitary"
+      "#StockMarket",
+      "#Sensex",
+      "#ShareMarket",
+      "#BusinessNews",
+      "#MarketCrash",
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "military strait of hormuz",
-      "jordan military airbase",
-      "bahrain city skyline",
-      "missile defense system"
+      "Indian stock market building India",
+      "Bombay Stock Exchange building India",
+      "downward stock chart India",
+      "worried investor watching screen India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Donald Trump",
+    "named_person_hi": "डोनाल्ड ट्रंप",
     "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_28de60dcd6.png",
-        "source": "wikimedia_commons",
-        "query": "Middle East conflict map",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_b79d94a790.jpg",
-        "source": "wikimedia_commons",
-        "query": "jordan military airbase",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4111447/pexels-photo-4111447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "bahrain city skyline",
-        "credit": "Ejaz Waris",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36359516/pexels-photo-36359516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Middle East military conflict",
-        "credit": "Saifee Art",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "US-Iran Conflict Escalates",
-        "caption": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।\n\n#USIran #MiddleEastWar #BreakingNews #WorldNews #IranAttack"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।\n\n#USIran #MiddleEastWar #BreakingNews #WorldNews #IranAttack"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।\n\n#USIran #MiddleEastWar #BreakingNews #WorldNews #IranAttack"
-      },
-      "hashtags": [
-        "USIran",
-        "MiddleEastWar",
-        "BreakingNews",
-        "WorldNews",
-        "IranAttack"
-      ]
-    },
-    "audio_path": "audio/us_iran_conflict_escalation_middle_east.wav",
-    "audio_duration_sec": 27.67,
-    "video_path": "videos/us_iran_conflict_escalation_middle_east.mp4",
-    "video_duration_sec": 35.72,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "5ujZXPgh3_M",
-        "url": "https://youtube.com/shorts/5ujZXPgh3_M",
-        "attempted_at": "2026-09-02T04:09:25.313914+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a192fa46a1e7cbc56d93",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।\n\n#USIran #MiddleEastWar #BreakingNews #WorldNews #IranAttack",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788322191480_rjzq44ew_us_iran_conflict_escalation_middle_east.mp4",
-                "_id": "6a97a192fa46a1e7cbc56d94"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:09:52.444Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "eb417960eabd43e02566798267c5cd54",
-                "_id": "6a97a192fa46a1e7cbc56d95",
-                "platformPostId": "1090354060110888",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1090354060110888",
-                "publishedAt": "2026-09-02T04:10:01.462Z"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:09:52.444Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:09:54.121Z",
-            "updatedAt": "2026-09-02T04:10:02.081Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:09:54.241Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:10:02.779241+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a1aeb4f972dd5cb44b92",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "अमेरिका और ईरान के बीच जंग फिर तेज, जॉर्डन से कुवैत तक हमले।\n\n#USIran #MiddleEastWar #BreakingNews #WorldNews #IranAttack",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788322220918_s7ezbfyl_us_iran_conflict_escalation_middle_east.mp4",
-                "_id": "6a97a1aeb4f972dd5cb44b93"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:10:21.818Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "d200cc50b1a39605fb19864e7f1c575a",
-                "_id": "6a97a1aeb4f972dd5cb44b94"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:10:21.818Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:10:22.840Z",
-            "updatedAt": "2026-09-02T04:10:24.760Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:10:22.950Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:10:25.216351+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "hapur_rss_leader_tractor_murder_mining_mafia",
-    "virality_score": 9,
-    "reason": "Shocking and brutal daylight murder of an RSS leader by suspected mining mafia, driving massive regional and national outrage.",
-    "region": "india",
-    "headline": "हापुड़ में RSS नेता को ट्रैक्टर-ट्रॉली से रौंदा... 30 मीटर तक घसीटा, खनन माफिया पर हत्या का आरोप",
-    "source_summary": "परिजनों ने खनन माफिया पर पुरानी रंजिश के चलते जानबूझकर ट्रैक्टर चढ़ाकर हत्या करने का गंभीर आरोप लगाया है.",
-    "source_url": "https://ndtv.in/india/hapur-rss-leader-satish-crushed-to-death-by-tractor-trolley-11989853#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Wed, 02 Sep 2026 07:13:31 +0530",
-    "hook": "उत्तर प्रदेश के हापुड़ में आर एस एस नेता की दर्दनाक हत्या!",
-    "script_hi": "उत्तर प्रदेश के हापुड़ में आर एस एस के जिला प्रचार प्रमुख यशपाल को ट्रैक्टर-ट्रॉली से कुचलकर मारने का मामला सामने आया है। आरोप है कि खनन माफिया ने तीस मीटर तक घसीटकर उनकी हत्या की। परिजनों ने पुरानी रंजिश के तहत इस वारदात को अंजाम देने का गंभीर आरोप लगाया है। पुलिस मामले की जांच में जुटी है।",
-    "tts_text_hi": "उत्तर प्रदेश के हापुड़ में आर एस एस के जिला प्रचार प्रमुख यशपाल को ट्रैक्टर-ट्रॉली से कुचलकर मारने का मामला सामने आया है। आरोप है कि खनन माफिया ने तीस मीटर तक घसीटकर उनकी हत्या की। परिजनों ने पुरानी रंजिश के तहत इस वारदात को अंजाम देने का गंभीर आरोप लगाया है। पुलिस मामले की जांच में जुटी है।",
-    "title": "हापुड़ में RSS नेता की ट्रैक्टर से कुचलकर हत्या",
-    "caption": "हापुड़ में आर एस एस नेता यशपाल की ट्रैक्टर-ट्रॉली से रौंदकर हत्या, खनन माफिया पर लगा गंभीर आरोप।",
-    "hashtags": [
-      "HapurNews",
-      "RSS",
-      "UttarPradesh",
-      "CrimeNews",
-      "BreakingNews"
-    ],
-    "visual_queries": [
-      "Indian police station building",
-      "India tractor transport",
-      "India protest crowd"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": true,
-    "flag_reason": "Unproven criminal allegation of murder against specific named or implied parties (mining mafia) before conviction; requires manual review.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station building",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16924480/pexels-photo-16924480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India tractor transport",
-        "credit": "Ankit Bhattacharjee",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India protest crowd",
-        "credit": "Satyam Pixels",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "sheikh_hasina_return_bangladesh_exclusive",
-    "virality_score": 9,
-    "reason": "Explosive political statement from former Bangladesh PM Sheikh Hasina vowing to return to her country despite opposition.",
-    "region": "india",
-    "headline": "'बांग्लादेश में मारे जा रहे मेरे लोग, मुझे लौटना ही होगा', शेख हसीना का तारिक रहमान पर हमला, झुकने से किया इनकार",
-    "source_summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने BNP सरकार के प्रत्यर्पण की मांग पर सवाल उठाया और तारिक रहमान के भगोड़े दिनों की याद दिलाई। हसीना ने कहा कि बांग्लादेश में उनके लोग मारे जा रहे हैं।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/bangladesh/sheikh-hasina-vows-to-return-bangladesh-alleges-tarique-rahman-bnp-to-torture-awami-league/articleshow/133695561.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 02 Sep 2026 08:20:00 +0530",
-    "hook": "बांग्लादेश लौटूंगी! शेख हसीना का तारिक रहमान पर बड़ा हमला!",
-    "script_hi": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने बड़ा बयान देते हुए कहा है कि वह अपने देश ज़रूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाते हुए तारिक रहमान के भगोड़े दिनों की याद दिलाई और कहा कि बांग्लादेश में उनके लोग मारे जा रहे हैं, और वह झुकने से इनकार करती हैं।",
-    "tts_text_hi": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने बड़ा बयान देते हुए कहा है कि वह अपने देश ज़रूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाते हुए तारिक रहमान के भगोड़े दिनों की याद दिलाई और कहा कि बांग्लादेश में उनके लोग मारे जा रहे हैं, और वह झुकने से इनकार करती हैं।",
-    "title": "शेख हसीना का तारिक रहमान पर हमला",
-    "caption": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।",
-    "hashtags": [
-      "SheikhHasina",
-      "BangladeshNews",
-      "TariqueRahman",
-      "BNP",
-      "BreakingNews"
-    ],
-    "visual_queries": [
-      "Bangladesh flag political protest",
-      "courtroom extradition hearing documents",
-      "angry political speech crowd"
-    ],
-    "named_person": "Sheikh Hasina",
-    "named_person_hi": "शेख हसीना",
-    "secondary_persons": [
-      "Tarique Rahman"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "शेख हसीना",
-        "source": "fallback",
-        "query": "Sheikh Hasina",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32304403/pexels-photo-32304403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bangladesh flag political protest",
-        "credit": "Monirul  Islam",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "courtroom extradition hearing documents",
-        "credit": "KATRIN  BOLOVTSOVA",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8899000/pexels-photo-8899000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry political speech crowd",
-        "credit": "Lara Jameson",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शेख हसीना का तारिक रहमान पर हमला",
-        "caption": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।\n\n#SheikhHasina #BangladeshNews #TariqueRahman #BNP #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।\n\n#SheikhHasina #BangladeshNews #TariqueRahman #BNP #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।\n\n#SheikhHasina #BangladeshNews #TariqueRahman #BNP #BreakingNews"
-      },
-      "hashtags": [
-        "SheikhHasina",
-        "BangladeshNews",
-        "TariqueRahman",
-        "BNP",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/sheikh_hasina_return_bangladesh_exclusive.wav",
-    "audio_duration_sec": 21.66,
-    "video_path": "videos/sheikh_hasina_return_bangladesh_exclusive.mp4",
-    "video_duration_sec": 29.59,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "QZJKZNuyb7k",
-        "url": "https://youtube.com/shorts/QZJKZNuyb7k",
-        "attempted_at": "2026-09-02T04:15:34.765387+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a304b27f2b379b02bb05",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।\n\n#SheikhHasina #BangladeshNews #TariqueRahman #BNP #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788322561039_acb5w2um_sheikh_hasina_return_bangladesh_exclusive.mp4",
-                "_id": "6a97a304b27f2b379b02bb06"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:16:01.951Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "2d609187150fd3e28712efe41d2661bb",
-                "_id": "6a97a304b27f2b379b02bb07",
-                "platformPostId": "2544438746055946",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2544438746055946",
-                "publishedAt": "2026-09-02T04:16:13.326Z"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:16:01.951Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:16:04.261Z",
-            "updatedAt": "2026-09-02T04:16:13.590Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:16:04.487Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:16:13.762082+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a321a99c6a6dc483bd89",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने कहा है कि वह अपने देश जरूर लौटेंगी। उन्होंने बीएनपी सरकार के प्रत्यर्पण की मांग पर सवाल उठाया।\n\n#SheikhHasina #BangladeshNews #TariqueRahman #BNP #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788322591937_9rln0i7b_sheikh_hasina_return_bangladesh_exclusive.mp4",
-                "_id": "6a97a321a99c6a6dc483bd8a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:16:32.810Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "1f5fae2434c1fc784c4f2eb9083c83bf",
-                "_id": "6a97a321a99c6a6dc483bd8b"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:16:32.810Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:16:33.848Z",
-            "updatedAt": "2026-09-02T04:16:35.651Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:16:33.933Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:16:36.065058+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "rohani_rakesh_khanna_murder_arrest",
-    "virality_score": 8,
-    "reason": "Gripping crime story with a dramatic conspiracy angle involving a relative and her gym-owner boyfriend.",
-    "region": "india",
-    "headline": "नीचे सिमरन और प्रेमी दे रहे थे पहरा, ऊपर हो रहा था मौसा का कत्ल… दिल्ली के सनसनीखेज कांड का खुलासा",
-    "source_summary": "रोहिणी सेक्टर 3 में बुजुर्ग राकेश खन्ना हत्याकांड में पुलिस ने सिमरन, चिराग, पारस और हिमांशु को गिरफ्तार किया है. सिमरन राकेश खन्ना के साले की बेटी है और हिमांशु उसका प्रेमी है, जो जिम का मालिक है. सिमरन ने घर का सेंट्रल लॉक खुलवाया, जिसके बाद चिराग और पारस ने हत्या को अंजाम दिया, जबकि सिमरन और हिमांशु बाहर खड़े होकर निगरानी करते रहे. राकेश खन्ना ने हाल ही में 80 लाख का फ्लैट बेचकर सोना खरीदा था, जिसे चुराने के लिए यह साजिश रची गई थी.",
-    "source_url": "https://www.aajtak.in/crime/story/rohini-rakesh-khanna-murder-relative-simran-gym-owner-boyfriend-ntc-agkp-dskc-2634327-2026-09-02?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-02T08:22:51+05:30",
-    "hook": "दिल्ली के रोहिणी में सनसनीखेज वारदात! मौसा के कत्ल की खौफनाक साजिश का पर्दाफाश!",
-    "script_hi": "दिल्ली के रोहिणी सेक्टर तीन में बुजुर्ग राकेश खन्ना हत्याकांड में पुलिस ने चार आरोपियों को गिरफ्तार किया है। मास्टरमाइंड मृत राकेश की साले की बेटी सिमरन और उसका जिम मालिक प्रेमी हिमांशु निकले। अस्सी लाख का फ्लैट बेचकर खरीदा गया सोना चुराने के लिए इस खौफनाक वारदात को अंजाम दिया गया। घर का ताला खुलवाने के बाद चिराग और पारस ने हत्या की, जबकि सिमरन और हिमांशु बाहर पहरा दे रहे थे।",
-    "tts_text_hi": "दिल्ली के रोहिणी सेक्टर तीन में बुजुर्ग राकेश खन्ना हत्याकांड में पुलिस ने चार आरोपियों को गिरफ्तार किया है। मास्टरमाइंड मृत राकेश की साले की बेटी सिमरन और उसका जिम मालिक प्रेमी हिमांशु निकले। अस्सी लाख का फ्लैट बेचकर खरीदा गया सोना चुराने के लिए इस खौफनाक वारदात को अंजाम दिया गया। घर का ताला खुलवाने के बाद चिराग और पारस ने हत्या की, जबकि सिमरन और हिमांशु बाहर पहरा दे रहे थे।",
-    "title": "दिल्ली के रोहिणी में बुजुर्ग राकेश खन्ना हत्याकांड का खुलासा",
-    "caption": "दिल्ली के रोहिणी में संपत्ति और सोने के लालच में भतीजी ने प्रेमी के साथ मिलकर मौसा राकेश खन्ना की हत्या की साजिश रची। पुलिस ने चार आरोपियों को किया गिरफ्तार।",
-    "hashtags": [
-      "DelhiCrime",
-      "RohiniMurder",
-      "DelhiPolice",
-      "CrimeNews",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Delhi police station India",
-      "crime scene investigation India",
-      "gold jewelry lock box India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "police interrogation room India",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 18,
+        "query": "stock market crash India",
+        "credit": "Monstera Production",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "downloaded_assets/person_ba1b76895c.jpg",
+        "source": "wikimedia",
+        "query": "Donald Trump",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi police station India",
-        "credit": "Frank van Dijk",
+        "query": "downward stock chart India",
+        "credit": "Vito Goričan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39076662/pexels-photo-39076662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "worried investor watching screen India",
+        "credit": "NEW VISION PRODUCTION",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सेंसेक्स खुलते ही 700 अंक धड़ाम! ट्रंप के वॉर मोड में आते ही निवेशकों डूबे पैसे",
+        "caption": "सेंसेक्स खुलते ही सात सौ अंक टूटा! 📉\n\nडोनाल्ड ट्रंप के फिर से वॉर मोड में आते ही भारतीय शेयर बाजार में हाहाकार मच गया है। दिग्गज कंपनियों के शेयरों का हाल बेहद बुरा है और निवेशकों की गाढ़ी कमाई पलभर में डूब गई।\n\nक्या आपकी पोर्टफोलियो पर भी इसका असर पड़ा है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#ShareMarket #SensexCrash #StockMarketIndia #DonaldTrump #BusinessNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सेंसेक्स खुलते ही सात सौ अंक टूटा! 📉 ट्रंप के वॉर मोड में आते ही मार्केट में भूचाल आ गया है। बड़े-बड़े शेयरों का हाल बेहाल है और निवेशकों को तगड़ा झटका लगा है।\n\nक्या आने वाले दिनों में बाजार और गिरेगा या संभलेगा? अपने दोस्तों के साथ शेयर करें जो ट्रेडिंग करते हैं।\n\n#ShareMarket #SensexCrash #StockMarketIndia #DonaldTrump #BusinessNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "शेयर बाजार में जबरदस्त हाहाकार मच गया है, सेंसेक्स खुलते ही सात सौ अंक धड़ाम हो गया! 📉\n\nडोनाल्ड ट्रंप के एक बार फिर वॉर मोड में आने का सीधा असर ग्लोबल मार्केट के साथ भारतीय बाजार पर भी साफ दिखाई दे रहा है। दिग्गज कंपनियों के शेयरों में भारी बिकवाली से निवेशकों के करोड़ों रुपये डूब चुके हैं।\n\nआपकी इस गिरावट पर क्या राय है? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#ShareMarket #SensexCrash #StockMarketIndia #DonaldTrump #BusinessNews"
+      },
+      "hashtags": [
+        "ShareMarket",
+        "SensexCrash",
+        "StockMarketIndia",
+        "DonaldTrump",
+        "BusinessNews"
+      ]
+    },
+    "audio_path": "audio/stock_market_crash_us_iran_war.wav",
+    "audio_duration_sec": 19.48,
+    "video_path": "videos/stock_market_crash_us_iran_war.mp4",
+    "video_duration_sec": 27.49,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "pk6BCGDkC6E",
+        "url": "https://youtube.com/shorts/pk6BCGDkC6E",
+        "attempted_at": "2026-09-02T05:04:16.013374+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97ae66d6dfcd3ac8594fdf",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "शेयर बाजार में जबरदस्त हाहाकार मच गया है, सेंसेक्स खुलते ही सात सौ अंक धड़ाम हो गया! 📉\n\nडोनाल्ड ट्रंप के एक बार फिर वॉर मोड में आने का सीधा असर ग्लोबल मार्केट के साथ भारतीय बाजार पर भी साफ दिखाई दे रहा है। दिग्गज कंपनियों के शेयरों में भारी बिकवाली से निवेशकों के करोड़ों रुपये डूब चुके हैं।\n\nआपकी इस गिरावट पर क्या राय है? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#ShareMarket #SensexCrash #StockMarketIndia #DonaldTrump #BusinessNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788325476185_susxpayh_stock_market_crash_us_iran_war.mp4",
+                "_id": "6a97ae66d6dfcd3ac8594fe0"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:04:37.683Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "f7b303913170ad0c3e64fca3a000f417",
+                "_id": "6a97ae66d6dfcd3ac8594fe1",
+                "platformPostId": "1462577119034108",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1462577119034108",
+                "publishedAt": "2026-09-02T05:04:45.666Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:04:37.683Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:04:38.687Z",
+            "updatedAt": "2026-09-02T05:04:45.848Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:04:38.829Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:04:46.118978+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97ae88e14d14447f7d942f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सेंसेक्स खुलते ही सात सौ अंक टूटा! 📉 ट्रंप के वॉर मोड में आते ही मार्केट में भूचाल आ गया है। बड़े-बड़े शेयरों का हाल बेहाल है और निवेशकों को तगड़ा झटका लगा है।\n\nक्या आने वाले दिनों में बाजार और गिरेगा या संभलेगा? अपने दोस्तों के साथ शेयर करें जो ट्रेडिंग करते हैं।\n\n#ShareMarket #SensexCrash #StockMarketIndia #DonaldTrump #BusinessNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788325510350_wd80bakf_stock_market_crash_us_iran_war.mp4",
+                "_id": "6a97ae88e14d14447f7d9430"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:05:11.520Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "96026a1f4ae9f2b9d737c6f170d880fb",
+                "_id": "6a97ae88e14d14447f7d9431"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:05:11.520Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:05:12.607Z",
+            "updatedAt": "2026-09-02T05:05:14.806Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:05:12.696Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:05:15.218757+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "faridabad_student_suicide_teacher_allegation",
+    "virality_score": 9,
+    "reason": "Emotional and tragic school incident involving student suicide allegations against a teacher.",
+    "region": "india",
+    "headline": "फरीदाबाद में 11वीं की छात्रा ने स्कूल की छत से लगाई छलांग, मौत पर बोले परिजन- टीचर ने 4 घंटे धूप में खड़े रखा",
+    "source_summary": "घटना के बाद परिजनों का आरोप है कि स्कूल में बिरयानी खाने को लेकर कुछ छात्राओं के बीच विवाद हुआ था. पुलिस मामले की जांच में जुटी है. जितेंद्र की रिपोर्ट",
+    "source_url": "https://ndtv.in/haryana/faridabad-11th-grade-student-jumped-third-floor-her-family-accused-teacher-at-school-11987795#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 01 Sep 2026 18:59:20 +0530",
+    "hook": "फरीदाबाद में ग्यारहवीं की छात्रा ने स्कूल की छत से कूदकर दी जान!",
+    "script_hi": "फरीदाबाद में ग्यारहवीं की छात्रा ने स्कूल की छत से छलांग लगा दी, जिससे उसकी मौत हो गई। परिजनों का आरोप है कि टीचर ने उसे चार घंटे तक धूप में खड़ा रखा था। स्कूल में बिरयानी खाने को लेकर कुछ छात्राओं में विवाद हुआ था। पुलिस मामले की जांच में जुटी है।",
+    "tts_text_hi": "फरीदाबाद में ग्यारहवीं की छात्रा ने स्कूल की छत से छलांग लगा दी, जिससे उसकी मौत हो गई। परिजनों का आरोप है कि टीचर ने उसे चार घंटे तक धूप में खड़ा रखा था। स्कूल में बिरयानी खाने को लेकर कुछ छात्राओं में विवाद हुआ था। पुलिस मामले की जांच में जुटी है।",
+    "title": "फरीदाबाद में छात्रा की मौत",
+    "caption": "फरीदाबाद के एक स्कूल में ग्यारहवीं की छात्रा ने छत से कूदकर जान दे दी। परिजनों ने टीचर पर गंभीर आरोप लगाए हैं।",
+    "hashtags": [
+      "Faridabad",
+      "HaryanaNews",
+      "SchoolIncident",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "India school building exterior",
+      "Indian police investigation India",
+      "grieving family India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation scene India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35293956/pexels-photo-35293956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India school building exterior",
+        "credit": "Vaibhav Patil",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
+        "query": "Indian police investigation India",
         "credit": "cottonbro studio",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32077588/pexels-photo-32077588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11125104/pexels-photo-11125104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "gold jewelry lock box India",
-        "credit": "Fahad Puthawala",
+        "query": "grieving family India",
+        "credit": "PRIYA MISHRA",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28304970/pexels-photo-28304970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35293956/pexels-photo-35293956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "urban apartment exterior India",
-        "credit": "Shrinidhi Holla",
+        "query": "school building exterior India",
+        "credit": "Vaibhav Patil",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6739935/pexels-photo-6739935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7929276/pexels-photo-7929276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fitness gym owner portrait",
+        "query": "sad Indian school students",
         "credit": "Mikhail Nilov",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/21149754/pexels-photo-21149754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35625315/pexels-photo-35625315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "night street vigil India",
-        "credit": "Avishkar Darjee",
+        "query": "mourning family India",
+        "credit": "Abhishek Mishra",
         "duration_sec": 4.0
       }
     ],
@@ -633,35 +334,35 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सीसीटीवी में कैद हुआ खौफनाक सच! नीचे प्रेमी दे रहा था पहरा, ऊपर हो रहा था मौसा का कत्ल 🚨",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nदिल्ली के रोहिणी में हुए राकेश खन्ना हत्याकांड का पर्दाफाश हो गया है। सिमरन और उसके प्रेमी ने मिलकर ऐसी खौफनाक साजिश रची जिसे जानकर आपके रोंगटे खड़े हो जाएंगे। नीचे दोनों पहरा दे रहे थे और ऊपर वारदात को अंजाम दिया जा रहा था।\n\nपूरी कहानी देखें और बताएं, अपनों से ऐसा धोखा कैसे कोई दे सकता है?\n\n#RohiniMurderMystery #DelhiCrime #CrimeNews #DelhiPolice #ShockingNews"
+        "title": "फरीदाबाद: स्कूल की छत से कूदी 11वीं की छात्रा, टीचर पर लगे गंभीर आरोप 🚨",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nफरीदाबाद के एक स्कूल में 11वीं की छात्रा ने छत से कूदकर जान दे दी। परिजनों का आरोप है कि एक टीचर ने उसे 4 घंटे तक तेज धूप में खड़ा रखा था, जिससे तनाव में आकर उसने यह खौफनाक कदम उठाया। \n\nक्या स्कूल प्रशासन इस पर जवाब देगा? पूरी कहानी वीडियो में देखें।\n\n#FaridabadNews #SchoolTragedy #StudentDeath #HaryanaNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nनीचे सिमरन और प्रेमी दे रहे थे पहरा, ऊपर हो रहा था मौसा का कत्ल। दिल्ली के रोहिणी से सामने आए इस सनसनीखेज हत्याकांड की पूरी सच्चाई चौंकाने वाली है। \n\nपूरी कहानी वीडियो में देखें।\n\n#RohiniMurderMystery #DelhiCrime #CrimeNews #DelhiPolice #ShockingNews"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nफरीदाबाद में 11वीं की छात्रा की स्कूल की छत से कूदकर मौत। परिजनों का आरोप है कि टीचर ने उसे 4 घंटे धूप में खड़ा रखा था। \n\nपूरी खबर के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#FaridabadNews #SchoolTragedy #StudentDeath #HaryanaNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nदिल्ली के रोहिणी में हुए एक अंधे कत्ल का ऐसा खुलासा हुआ है जिस पर यकीन करना मुश्किल है। नीचे सिमरन और उसका प्रेमी बाहर पहरा दे रहे थे, जबकि अंदर उनके ही मौसा राकेश खन्ना की हत्या की जा रही थी। पुलिस ने जब राज खोले तो हर कोई सन्न रह गया। \n\nपूरी कहानी देखें और अपनी राय दें।\n\n#RohiniMurderMystery #DelhiCrime #CrimeNews #DelhiPolice #ShockingNews"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nफरीदाबाद से एक दिल दहला देने वाली घटना सामने आई है, जहाँ 11वीं कक्षा की एक छात्रा ने स्कूल की छत से छलांग लगाकर जान दे दी। इस दर्दनाक हादसे के बाद परिजनों ने स्कूल के एक टीचर पर गंभीर आरोप लगाए हैं, उनका कहना है कि सजा के तौर पर बच्ची को 4 घंटे तक तेज धूप में खड़ा रखा गया था। \n\nआखिर उस पर ऐसा क्या दबाव था? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#FaridabadNews #SchoolTragedy #StudentDeath #HaryanaNews #BreakingNews"
       },
       "hashtags": [
-        "RohiniMurderMystery",
-        "DelhiCrime",
-        "CrimeNews",
-        "DelhiPolice",
-        "ShockingNews"
+        "FaridabadNews",
+        "SchoolTragedy",
+        "StudentDeath",
+        "HaryanaNews",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/rohani_rakesh_khanna_murder_arrest.wav",
-    "audio_duration_sec": 29.57,
-    "video_path": "videos/rohani_rakesh_khanna_murder_arrest.mp4",
-    "video_duration_sec": 37.63,
+    "audio_path": "audio/faridabad_student_suicide_teacher_allegation.wav",
+    "audio_duration_sec": 18.03,
+    "video_path": "videos/faridabad_student_suicide_teacher_allegation.mp4",
+    "video_duration_sec": 26.02,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "n5pXUgNtwlo",
-        "url": "https://youtube.com/shorts/n5pXUgNtwlo",
-        "attempted_at": "2026-09-02T04:20:04.107952+00:00"
+        "video_id": "BiQ0Zpg3Npk",
+        "url": "https://youtube.com/shorts/BiQ0Zpg3Npk",
+        "attempted_at": "2026-09-02T05:09:08.067251+00:00"
       },
       "facebook": {
         "success": true,
@@ -674,15 +375,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97a40fb0a839ec47b91b1e",
+            "_id": "6a97af8da5711e75bc9fb8c4",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nदिल्ली के रोहिणी में हुए एक अंधे कत्ल का ऐसा खुलासा हुआ है जिस पर यकीन करना मुश्किल है। नीचे सिमरन और उसका प्रेमी बाहर पहरा दे रहे थे, जबकि अंदर उनके ही मौसा राकेश खन्ना की हत्या की जा रही थी। पुलिस ने जब राज खोले तो हर कोई सन्न रह गया। \n\nपूरी कहानी देखें और अपनी राय दें।\n\n#RohiniMurderMystery #DelhiCrime #CrimeNews #DelhiPolice #ShockingNews",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nफरीदाबाद से एक दिल दहला देने वाली घटना सामने आई है, जहाँ 11वीं कक्षा की एक छात्रा ने स्कूल की छत से छलांग लगाकर जान दे दी। इस दर्दनाक हादसे के बाद परिजनों ने स्कूल के एक टीचर पर गंभीर आरोप लगाए हैं, उनका कहना है कि सजा के तौर पर बच्ची को 4 घंटे तक तेज धूप में खड़ा रखा गया था। \n\nआखिर उस पर ऐसा क्या दबाव था? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#FaridabadNews #SchoolTragedy #StudentDeath #HaryanaNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788322829340_sjid2u3h_rohani_rakesh_khanna_murder_arrest.mp4",
-                "_id": "6a97a40fb0a839ec47b91b1f"
+                "url": "https://media.zernio.com/media/1788325771327_w2sio7x6_faridabad_student_suicide_teacher_allegation.mp4",
+                "_id": "6a97af8da5711e75bc9fb8c5"
               }
             ],
             "platforms": [
@@ -694,22 +395,22 @@
                   "platform": "facebook",
                   "displayName": "Ssd News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
                   "username": "lets.quote.up"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T04:20:31.073Z",
+                "scheduledFor": "2026-09-02T05:09:32.798Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "f3b2af03b3b5af8ba720b489d000e5d3",
-                "_id": "6a97a40fb0a839ec47b91b20",
-                "platformPostId": "2287443975352829",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2287443975352829",
-                "publishedAt": "2026-09-02T04:20:39.181Z"
+                "contentHash": "2120bbcf2b5c395bc747c936f62bd341",
+                "_id": "6a97af8da5711e75bc9fb8c6",
+                "platformPostId": "28359682693627120",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=28359682693627120",
+                "publishedAt": "2026-09-02T05:09:39.204Z"
               }
             ],
-            "scheduledFor": "2026-09-02T04:20:31.073Z",
+            "scheduledFor": "2026-09-02T05:09:32.798Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -721,14 +422,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:20:31.842Z",
-            "updatedAt": "2026-09-02T04:20:39.315Z",
+            "createdAt": "2026-09-02T05:09:33.631Z",
+            "updatedAt": "2026-09-02T05:09:39.662Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:20:32.053Z"
+            "publishingClaimedAt": "2026-09-02T05:09:33.701Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T04:20:39.526999+00:00"
+        "attempted_at": "2026-09-02T05:09:40.229303+00:00"
       },
       "instagram": {
         "success": true,
@@ -741,15 +442,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97a42e1e4e80550beec54f",
+            "_id": "6a97afa50f9cc1865e342475",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nनीचे सिमरन और प्रेमी दे रहे थे पहरा, ऊपर हो रहा था मौसा का कत्ल। दिल्ली के रोहिणी से सामने आए इस सनसनीखेज हत्याकांड की पूरी सच्चाई चौंकाने वाली है। \n\nपूरी कहानी वीडियो में देखें।\n\n#RohiniMurderMystery #DelhiCrime #CrimeNews #DelhiPolice #ShockingNews",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nफरीदाबाद में 11वीं की छात्रा की स्कूल की छत से कूदकर मौत। परिजनों का आरोप है कि टीचर ने उसे 4 घंटे धूप में खड़ा रखा था। \n\nपूरी खबर के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#FaridabadNews #SchoolTragedy #StudentDeath #HaryanaNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788322859726_hijwxtpd_rohani_rakesh_khanna_murder_arrest.mp4",
-                "_id": "6a97a42e1e4e80550beec550"
+                "url": "https://media.zernio.com/media/1788325795384_zloflkiv_faridabad_student_suicide_teacher_allegation.mp4",
+                "_id": "6a97afa50f9cc1865e342476"
               }
             ],
             "platforms": [
@@ -761,19 +462,19 @@
                   "profileId": "6a8efb7ab8c42db6c3e1415e",
                   "displayName": "SSD News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
                   "username": "ssdnewsdaily"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T04:21:00.969Z",
+                "scheduledFor": "2026-09-02T05:09:56.853Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "61402d5e62752b1ceea86c7ed835e8c1",
-                "_id": "6a97a42e1e4e80550beec551"
+                "contentHash": "5cb10ae0d4593695e269b902764f57d8",
+                "_id": "6a97afa50f9cc1865e342477"
               }
             ],
-            "scheduledFor": "2026-09-02T04:21:00.969Z",
+            "scheduledFor": "2026-09-02T05:09:56.853Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -785,284 +486,44 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:21:02.068Z",
-            "updatedAt": "2026-09-02T04:21:04.366Z",
+            "createdAt": "2026-09-02T05:09:57.923Z",
+            "updatedAt": "2026-09-02T05:09:59.846Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:21:02.177Z"
+            "publishingClaimedAt": "2026-09-02T05:09:58.006Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T04:21:04.791154+00:00"
+        "attempted_at": "2026-09-02T05:10:00.162931+00:00"
       }
     }
   },
   {
-    "topic_label": "tim_cook_steps_down_apple_ceo_john_ternus",
+    "topic_label": "rohini_rakesh_khanna_murder_niece_lover",
     "virality_score": 8,
-    "reason": "Massive global tech news as Tim Cook steps down and Apple transitions leadership to John Ternus alongside new iPhone announcements.",
+    "reason": "Gripping crime story involving a niece and her gym owner lover plotting a murder for money.",
     "region": "india",
-    "headline": "आज से Apple में बड़ा बदलाव, टिम कुक की जगह संभालेंगे जॉन टेर्नस",
-    "source_summary": "1 सितंबर से Apple कंपनी में एक बड़ा बदलाव होने जा रहा है. अब Tim Cook अपना CEO का पद छोड़ने जा रहे हैं और उनकी जगह ये पोस्ट जॉन टेर्नेस पोस्ट संभालेंगे. साथ ही ऐपल इस महीने iPhone 18 Pro और iPhone Fold Ultra को लॉन्च करने जा रहे हैं.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/tim-cook-no-longer-apple-ceo-john-ternus-takes-over-2026-ttecr-dskc-2633793-2026-09-01?utm_source=rssfeed",
+    "headline": "मौसी को मेला दिखाने भेजा, प्रेमी संग मौसा का कत्ल! 80 लाख का लालच",
+    "source_summary": "रोहिणी सेक्टर 3 में बुजुर्ग राकेश खन्ना हत्याकांड में पुलिस ने सिमरन, चिराग, पारस और हिमांशु को गिरफ्तार किया है. सिमरन राकेश खन्ना के साले की बेटी है और हिमांशु उसका प्रेमी है, जो जिम का मालिक है. सिमरन ने घर का सेंट्रल लॉक खुलवाया, जिसके बाद चिराग और पारस ने हत्या को अंजाम दिया, जबकि सिमरन और हिमांशु बाहर खड़े होकर निगरानी करते रहे. राकेश खन्ना ने हाल ही में 80 लाख का फ्लैट बेचकर सोना खरीदा था, जिसे चुराने के लिए यह साजिश रची गई थी.",
+    "source_url": "https://www.aajtak.in/crime/story/rohini-rakesh-khanna-murder-relative-simran-gym-owner-boyfriend-ntc-agkp-dskc-2634327-2026-09-02?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-01T11:45:46+05:30",
-    "hook": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव!",
-    "script_hi": "एक सितंबर से ऐपल कंपनी में बड़ा बदलाव होने जा रहा है। टिम कुक अपने सीईओ का पद छोड़ रहे हैं और उनकी जगह जॉन टेर्नस यह पद संभालेंगे। साथ ही ऐपल इस महीने आईफोन अठारह प्रो और आईफोन फोल्ड अल्ट्रा लॉन्च करने जा रहा है।",
-    "tts_text_hi": "एक सितंबर से ऐपल कंपनी में बड़ा बदलाव होने जा रहा है। टिम कुक अपने सीईओ का पद छोड़ रहे हैं और उनकी जगह जॉन टेर्नस यह पद संभालेंगे। साथ ही ऐपल इस महीने आईफोन अठारह प्रो और आईफोन फोल्ड अल्ट्रा लॉन्च करने जा रहा है।",
-    "title": "ऐपल में बड़ा बदलाव, टिम कुक की जगह लेंगे जॉन टेर्नस",
-    "caption": "ऐपल कंपनी में एक सितंबर से बड़ा बदलाव होने जा रहा है। टिम कुक सीईओ का पद छोड़ेंगे और जॉन टेर्नस नया पद संभालेंगे। इस महीने नए आईफोन भी लॉन्च होंगे।",
+    "published": "2026-09-02T08:22:51+05:30",
+    "hook": "अस्सी लाख के लालच में मौसा का कत्ल!",
+    "script_hi": "दिल्ली के रोहिणी सेक्टर तीन में एक बुजुर्ग राकेश खन्ना की हत्या का सनसनीखेज खुलासा हुआ है। पुलिस ने सिमरन और उसके प्रेमी हिमांशु समेत चार लोगों को गिरफ्तार किया है। सिमरन मृतक के साले की बेटी है। अस्सी लाख रुपये का फ्लैट बेचकर खरीदे गए सोने को चुराने के लिए इस खौफनाक साजिश को अंजाम दिया गया था।",
+    "tts_text_hi": "दिल्ली के रोहिणी सेक्टर तीन में एक बुजुर्ग राकेश खन्ना की हत्या का सनसनीखेज खुलासा हुआ है। पुलिस ने सिमरन और उसके प्रेमी हिमांशु समेत चार लोगों को गिरफ्तार किया है। सिमरन मृतक के साले की बेटी है। अस्सी लाख रुपये का फ्लैट बेचकर खरीदे गए सोने को चुराने के लिए इस खौफनाक साजिश को अंजाम दिया गया था।",
+    "title": "रोहिणी मर्डर केस का खुलासा",
+    "caption": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।",
     "hashtags": [
-      "Apple",
-      "TimCook",
-      "JohnTernus",
-      "iPhone18Pro",
-      "TechNews",
-      "AppleNews",
-      "HindiNews"
+      "RohiniMurder",
+      "DelhiPolice",
+      "CrimeNews",
+      "DelhiNews",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Apple corporate logo",
-      "technology office interior",
-      "new smartphone launch"
-    ],
-    "named_person": "Tim Cook",
-    "named_person_hi": "टिम कुक",
-    "secondary_persons": [
-      "John Ternus"
-    ],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "टिम कुक",
-        "source": "fallback",
-        "query": "Tim Cook",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8347239/8347239-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "technology office interior",
-        "credit": "Kampus Production",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14656602/pexels-photo-14656602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple corporate logo",
-        "credit": "Filip Rankovic Grobgaard",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6962088/pexels-photo-6962088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "new smartphone launch",
-        "credit": "Eva Bronzini",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ऐपल में टिम कुक का दौर खत्म! जानिए कौन हैं नए बॉस जॉन टेर्नस 📱",
-        "caption": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव! 🚨\n\nआखिरकार टिम कुक के बाद अब ऐपल की कमान संभालने जा रहे हैं जॉन टेर्नस। कंपनी के इस ऐतिहासिक फेरबदल से टेक जगत में हलचल मच गई है।\n\nआपको क्या लगता है, क्या जॉन टेर्नस ऐपल को नई ऊंचाइयों पर ले जा पाएंगे? कमेंट में अपनी राय बताएं और पूरी कहानी देखें।\n\n#Apple #TimCook #JohnTernus #TechNews #AppleNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव! 🚨\n\nटिम कुक के हटने के बाद अब जॉन टेर्नस संभालेंगे टेक জায়ंट ऐपल की कमान। स्टीव जॉब्स के बाद से कंपनी में यह सबसे बड़ा फैसला माना जा रहा है।\n\nक्या यह बदलाव आईफोन और ऐपल के भविष्य को बदल देगा? शेयर करें अपने दोस्तों के साथ! 📲\n\n#Apple #TimCook #JohnTernus #TechNews #AppleNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव! 🚨\n\nटेक इंडस्ट्री की सबसे बड़ी खबर सामने आ रही है। लंबे समय से ऐपल का चेहरा रहे टिम कुक की जगह अब जॉन टेर्नस लेने वाले हैं। कंपनी के इस बड़े फैसले से पूरी दुनिया के टेक लवर्स हैरान हैं।\n\nआखिर कौन हैं जॉन टेर्नस और क्यों सौंपी गई है उन्हें इतनी बड़ी जिम्मेदारी? पूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय नीचे कमेंट करें। 👇\n\n#Apple #TimCook #JohnTernus #TechNews #AppleNews"
-      },
-      "hashtags": [
-        "Apple",
-        "TimCook",
-        "JohnTernus",
-        "TechNews",
-        "AppleNews"
-      ]
-    },
-    "audio_path": "audio/tim_cook_steps_down_apple_ceo_john_ternus.wav",
-    "audio_duration_sec": 17.44,
-    "video_path": "videos/tim_cook_steps_down_apple_ceo_john_ternus.mp4",
-    "video_duration_sec": 25.48,
-    "publish_results": {
-      "youtube": {
-        "success": true,
-        "video_id": "xmlNPBMJNqg",
-        "url": "https://youtube.com/shorts/xmlNPBMJNqg",
-        "attempted_at": "2026-09-02T04:24:26.479230+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a50ca982ee9347130a4c",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव! 🚨\n\nटेक इंडस्ट्री की सबसे बड़ी खबर सामने आ रही है। लंबे समय से ऐपल का चेहरा रहे टिम कुक की जगह अब जॉन टेर्नस लेने वाले हैं। कंपनी के इस बड़े फैसले से पूरी दुनिया के टेक लवर्स हैरान हैं।\n\nआखिर कौन हैं जॉन टेर्नस और क्यों सौंपी गई है उन्हें इतनी बड़ी जिम्मेदारी? पूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय नीचे कमेंट करें। 👇\n\n#Apple #TimCook #JohnTernus #TechNews #AppleNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788323082754_juqwm6ry_tim_cook_steps_down_apple_ceo_john_ternus.mp4",
-                "_id": "6a97a50ca982ee9347130a4d"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:24:43.870Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "bddbca77733c50c68f529a766ae90cfa",
-                "_id": "6a97a50ca982ee9347130a4e",
-                "platformPostId": "4346535688944417",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=4346535688944417",
-                "publishedAt": "2026-09-02T04:24:51.810Z"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:24:43.870Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:24:44.706Z",
-            "updatedAt": "2026-09-02T04:24:51.978Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:24:45.166Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:24:52.157535+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a97a528d1683999a5c7c36d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ऐपल में होने जा रहा है सबसे बड़ा बदलाव! 🚨\n\nटिम कुक के हटने के बाद अब जॉन टेर्नस संभालेंगे टेक জায়ंट ऐपल की कमान। स्टीव जॉब्स के बाद से कंपनी में यह सबसे बड़ा फैसला माना जा रहा है।\n\nक्या यह बदलाव आईफोन और ऐपल के भविष्य को बदल देगा? शेयर करें अपने दोस्तों के साथ! 📲\n\n#Apple #TimCook #JohnTernus #TechNews #AppleNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788323110375_88fdffwo_tim_cook_steps_down_apple_ceo_john_ternus.mp4",
-                "_id": "6a97a528d1683999a5c7c36e"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-02T04:25:11.685Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "734f70298f018da3018036dc7b320ddb",
-                "_id": "6a97a528d1683999a5c7c36f"
-              }
-            ],
-            "scheduledFor": "2026-09-02T04:25:11.685Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:25:12.634Z",
-            "updatedAt": "2026-09-02T04:25:14.768Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:25:12.778Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-02T04:25:15.088171+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "indian_researchers_heat_to_electricity_semiconductor",
-    "virality_score": 8,
-    "reason": "Incredible scientific breakthrough by Indian researchers discovering a semiconductor that generates 1000x more power from heat.",
-    "region": "india",
-    "headline": "भारतीय रिसर्चर्स ने खोजी तकनीक, गर्मी से बिजली बनाने के लिए ढूंढा अनोखा मटीरियल जो देगा 1000 गुना ज्यादा पावर, पेटेंट फाइल",
-    "source_summary": "भारतीय रिसर्चर्स ने ऐसा अनोखा सेमीकंडक्टर खोज निकाला है, जिसने फिजिक्स के नियमो को बदल कर रख दिया है। इस मटीरियल की खासियत है कि यह गर्मी का इस्तेमाल करके किसी आप सेमीकंडक्टर के मुकाबले करीब 1,000 गुना ज्यादा बिजली पैदा कर सकता है। अभी तक माना जाता था कि इतनी ज्यादा बिजली सिर्फ तरल पदार्थों से ही बन सकती है, किसी ठोस क्रिस्टल से नहीं। भारतीय रिसर्चर्स की इस खोज से भविष्य में गर्मी से भरपूर बिजली बनाने और बेहद संवेदनशील सेंसर्स तैयार करने का रास्ता साफ हो गया है।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/indian-researchers-discover-thermoelectric-semiconductor-convert-waste-heat-electricity-breakthrough-technology-patent/articleshow/133674289.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 02 Sep 2026 07:45:00 +0530",
-    "hook": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल!",
-    "script_hi": "भारतीय रिसर्चर्स ने एक ऐसा अनोखा सेमीकंडक्टर खोज लिया है जो फिजिक्स के नियम बदल देगा। यह मटीरियल गर्मी से सामान्य सेमीकंडक्टर के मुकाबले एक हजार गुना ज्यादा बिजली पैदा कर सकता है। अभी तक इतनी बिजली सिर्फ तरल पदार्थों से बनती थी। इस खोज से भविष्य में गर्मी से भरपूर बिजली बनाने और संवेदनशील सेंसर्स तैयार करने का रास्ता साफ हो गया है।",
-    "tts_text_hi": "भारतीय रिसर्चर्स ने एक ऐसा अनोखा सेमीकंडक्टर खोज लिया है जो फिजिक्स के नियम बदल देगा। यह मटीरियल गर्मी से सामान्य सेमीकंडक्टर के मुकाबले एक हजार गुना ज्यादा बिजली पैदा कर सकता है। अभी तक इतनी बिजली सिर्फ तरल पदार्थों से बनती थी। इस खोज से भविष्य में गर्मी से भरपूर बिजली बनाने और संवेदनशील सेंसर्स तैयार करने का रास्ता साफ हो गया है।",
-    "title": "भारतीय रिसर्चर्स का कमाल: गर्मी से बनेगी एक हजार गुना ज्यादा बिजली",
-    "caption": "भारतीय रिसर्चर्स ने खोजा अनोखा सेमीकंडक्टर मटीरियल, गर्मी से बनेगी एक हजार गुना ज्यादा बिजली। जानिए इस बड़ी खोज के बारे में।",
-    "hashtags": [
-      "IndianScience",
-      "TechNews",
-      "Invention",
-      "Electricity",
-      "Research",
-      "ScienceNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian science laboratory research",
-      "advanced semiconductor chip India",
-      "renewable energy generation India"
+      "police station India",
+      "gold jewelry India",
+      "Delhi street India",
+      "investigation crime scene India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -1073,95 +534,71 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3735711/pexels-photo-3735711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian science laboratory research",
-        "credit": "Polina Tankilevitch",
-        "duration_sec": 4.3
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38770168/pexels-photo-38770168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32780784/pexels-photo-32780784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "advanced semiconductor chip India",
-        "credit": "Mariano Di Luch",
-        "duration_sec": 4.3
+        "query": "gold jewelry India",
+        "credit": "M Kamran Arvi",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35602907/pexels-photo-35602907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "renewable energy generation India",
-        "credit": "Arjun Venugopal",
-        "duration_sec": 4.3
+        "query": "Delhi street India",
+        "credit": "Roman Saienko",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern technology laboratory",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6477216/pexels-photo-6477216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "electronic circuit board macro",
-        "credit": "Sergei Starostin",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4021783/pexels-photo-4021783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "scientific research abstract",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9404662/pexels-photo-9404662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic glowing energy",
-        "credit": "Elina Emurlaeva",
-        "duration_sec": 4.3
+        "query": "investigation crime scene India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "गर्मी से बनेगी 1000 गुना ज्यादा बिजली! भारतीय रिसर्चर्स का बड़ा कमाल ⚡",
-        "caption": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल!\n\nआईआईटी और देश के वैज्ञानिकों ने एक ऐसा अनोखा मटीरियल ढूंढ निकाला है जो बेकार जाने वाली गर्मी से सामान्य से 1000 गुना अधिक बिजली पैदा कर सकता है। इसका पेटेंट भी फाइल हो चुका है।\n\nपूरी कहानी वीडियो में देखें और बताएं, टेक्नोलॉजी के क्षेत्र में भारत की यह सफलता देश को कहां ले जाएगी?\n\n#IndianResearchers #ScienceNews #PowerGeneration #TechNewsHindi #MadeInIndia"
+        "title": "रोहिणी मर्डर केस का खुलासा",
+        "caption": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।\n\n#RohiniMurder #DelhiPolice #CrimeNews #DelhiNews #NewsUpdate"
       },
       "instagram": {
         "title": null,
-        "caption": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल! 🌡️⚡\n\nबेकार जाने वाली गर्मी से अब बनेगी बंपर पावर। वैज्ञानिकों ने ढूंढ निकाला है ऐसा अनोखा मटीरियल, जिसका पेटेंट भी हो चुका है फाइल।\n\nक्या लगता है, बिजली संकट से निपटने में यह खोज कितनी मददगार होगी? कॉमेंट में बताएं।\n\n#IndianResearchers #ScienceNews #PowerGeneration #TechNewsHindi #MadeInIndia"
+        "caption": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।\n\n#RohiniMurder #DelhiPolice #CrimeNews #DelhiNews #NewsUpdate"
       },
       "facebook": {
         "title": null,
-        "caption": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल! 🇮🇳🔥\n\nहमारे देश के रिसर्चर्स ने टेक्नोलॉजी की दुनिया में एक और बड़ा इतिहास रच दिया है। उन्होंने एक ऐसा अनोखा मटीरियल खोज निकाला है जो वेस्ट हीट यानी बेकार जाने वाली गर्मी से 1000 गुना ज्यादा पावर जेनरेट कर सकता है। इस शानदार तकनीक का पेटेंट भी फाइल कर दिया गया है।\n\nवीडियो पूरा देखें और समझें कि कैसे यह खोज आने वाले दिनों में ऊर्जा की तस्वीर बदल सकती है।\n\n#IndianResearchers #ScienceNews #PowerGeneration #TechNewsHindi #MadeInIndia"
+        "caption": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।\n\n#RohiniMurder #DelhiPolice #CrimeNews #DelhiNews #NewsUpdate"
       },
       "hashtags": [
-        "IndianResearchers",
-        "ScienceNews",
-        "PowerGeneration",
-        "TechNewsHindi",
-        "MadeInIndia"
+        "RohiniMurder",
+        "DelhiPolice",
+        "CrimeNews",
+        "DelhiNews",
+        "NewsUpdate"
       ]
     },
-    "audio_path": "audio/indian_researchers_heat_to_electricity_semiconductor.wav",
-    "audio_duration_sec": 26.73,
-    "video_path": "videos/indian_researchers_heat_to_electricity_semiconductor.mp4",
-    "video_duration_sec": 34.62,
+    "audio_path": "audio/rohini_rakesh_khanna_murder_niece_lover.wav",
+    "audio_duration_sec": 22.31,
+    "video_path": "videos/rohini_rakesh_khanna_murder_niece_lover.mp4",
+    "video_duration_sec": 30.29,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "FxJ7sQVp9rY",
-        "url": "https://youtube.com/shorts/FxJ7sQVp9rY",
-        "attempted_at": "2026-09-02T04:29:50.871741+00:00"
+        "video_id": "1mrM3ED8X20",
+        "url": "https://youtube.com/shorts/1mrM3ED8X20",
+        "attempted_at": "2026-09-02T05:15:17.445548+00:00"
       },
       "facebook": {
         "success": true,
@@ -1174,15 +611,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97a657643604b5a668783b",
+            "_id": "6a97b1032ec3d4f8a2e05a02",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल! 🇮🇳🔥\n\nहमारे देश के रिसर्चर्स ने टेक्नोलॉजी की दुनिया में एक और बड़ा इतिहास रच दिया है। उन्होंने एक ऐसा अनोखा मटीरियल खोज निकाला है जो वेस्ट हीट यानी बेकार जाने वाली गर्मी से 1000 गुना ज्यादा पावर जेनरेट कर सकता है। इस शानदार तकनीक का पेटेंट भी फाइल कर दिया गया है।\n\nवीडियो पूरा देखें और समझें कि कैसे यह खोज आने वाले दिनों में ऊर्जा की तस्वीर बदल सकती है।\n\n#IndianResearchers #ScienceNews #PowerGeneration #TechNewsHindi #MadeInIndia",
+            "content": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।\n\n#RohiniMurder #DelhiPolice #CrimeNews #DelhiNews #NewsUpdate",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788323412825_cp9np0un_indian_researchers_heat_to_electricity_semiconductor.mp4",
-                "_id": "6a97a657643604b5a668783c"
+                "url": "https://media.zernio.com/media/1788326144728_o3b6o78l_rohini_rakesh_khanna_murder_niece_lover.mp4",
+                "_id": "6a97b1032ec3d4f8a2e05a03"
               }
             ],
             "platforms": [
@@ -1194,22 +631,22 @@
                   "platform": "facebook",
                   "displayName": "Ssd News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwHi7eQi&_nc_oc=AdqJIoivgHrt9WHhEJBwJd8nznIZEXX9XCT5859oF0lhCGc63BuIZlCnBNXRhiS-2vg&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=ycK92QTqxIoXmVk9OJuufA&_nc_tpa=Q5bMBQIFy4zcmkIjNrikVGSpgBTJv94lwceU5vs3kKSFJILstxUF4WPGWIpXbxqwvtrS8iks8B9CxRs_&oh=00_AQIZ2eHuhTa6UfGnmDuAXrpDn190L1UQyApbQMcftS4YlQ&oe=6A9C2514",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
                   "username": "lets.quote.up"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T04:30:14.272Z",
+                "scheduledFor": "2026-09-02T05:15:46.216Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "a1f140b2d1359a40b911ed2a33db7f5b",
-                "_id": "6a97a657643604b5a668783d",
-                "platformPostId": "905647112277835",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=905647112277835",
-                "publishedAt": "2026-09-02T04:30:21.666Z"
+                "contentHash": "2ff85b3e1e920185afd730e308e31397",
+                "_id": "6a97b1032ec3d4f8a2e05a04",
+                "platformPostId": "2475057346322166",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2475057346322166",
+                "publishedAt": "2026-09-02T05:15:52.734Z"
               }
             ],
-            "scheduledFor": "2026-09-02T04:30:14.272Z",
+            "scheduledFor": "2026-09-02T05:15:46.216Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1221,14 +658,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:30:15.716Z",
-            "updatedAt": "2026-09-02T04:30:22.555Z",
+            "createdAt": "2026-09-02T05:15:47.446Z",
+            "updatedAt": "2026-09-02T05:15:52.834Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:30:16.103Z"
+            "publishingClaimedAt": "2026-09-02T05:15:47.616Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T04:30:24.096505+00:00"
+        "attempted_at": "2026-09-02T05:15:53.024570+00:00"
       },
       "instagram": {
         "success": true,
@@ -1241,15 +678,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97a67b1bdbb4bddba32cf0",
+            "_id": "6a97b11bbf2fb35ae4ebf355",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "गर्मी से बनेगी एक हजार गुना ज्यादा बिजली! भारतीय रिसर्चर्स ने खोजा चमत्कारी मटीरियल! 🌡️⚡\n\nबेकार जाने वाली गर्मी से अब बनेगी बंपर पावर। वैज्ञानिकों ने ढूंढ निकाला है ऐसा अनोखा मटीरियल, जिसका पेटेंट भी हो चुका है फाइल।\n\nक्या लगता है, बिजली संकट से निपटने में यह खोज कितनी मददगार होगी? कॉमेंट में बताएं।\n\n#IndianResearchers #ScienceNews #PowerGeneration #TechNewsHindi #MadeInIndia",
+            "content": "दिल्ली के रोहिणी में अस्सी लाख के सोने के लालच में बुजुर्ग की हत्या, भतीजी और उसके प्रेमी समेत चार गिरफ्तार।\n\n#RohiniMurder #DelhiPolice #CrimeNews #DelhiNews #NewsUpdate",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788323449239_v8qo61jm_indian_researchers_heat_to_electricity_semiconductor.mp4",
-                "_id": "6a97a67b1bdbb4bddba32cf1"
+                "url": "https://media.zernio.com/media/1788326168231_s1i8l8f7_rohini_rakesh_khanna_murder_niece_lover.mp4",
+                "_id": "6a97b11bbf2fb35ae4ebf356"
               }
             ],
             "platforms": [
@@ -1261,19 +698,19 @@
                   "profileId": "6a8efb7ab8c42db6c3e1415e",
                   "displayName": "SSD News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=01oZ1QLa7RgQ7kNvwHnz82x&_nc_oc=Adq1KcSnNG8RelYjXF7ZXRrWNg3SXFWu8ahthoLWzOzbdKjxtBwBz-4w8dYoVfiip9A&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vxCBRKo9byEEkBmX1h1xmg&_nc_tpa=Q5bMBQKOaX421BgvO0qSFlKg4QxAAGnQdN60zzocnkUkAx-gE7R5X1O3lYcCHhIrbaRHCk0xZKqOioVOIQ&oh=00_AQIotOJPlVqolnjkO41DaVGm2be0KBM5QGzVl23WbttlDA&oe=6A9C18BB",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
                   "username": "ssdnewsdaily"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T04:30:50.019Z",
+                "scheduledFor": "2026-09-02T05:16:09.913Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "4dac72cd4e9d35d274ca4d0ac68a339d",
-                "_id": "6a97a67b1bdbb4bddba32cf2"
+                "contentHash": "f90c66410a07b95f3809e69775bbd31e",
+                "_id": "6a97b11bbf2fb35ae4ebf357"
               }
             ],
-            "scheduledFor": "2026-09-02T04:30:50.019Z",
+            "scheduledFor": "2026-09-02T05:16:09.913Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1285,14 +722,1016 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T04:30:51.122Z",
-            "updatedAt": "2026-09-02T04:30:53.046Z",
+            "createdAt": "2026-09-02T05:16:11.231Z",
+            "updatedAt": "2026-09-02T05:16:12.859Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T04:30:51.309Z"
+            "publishingClaimedAt": "2026-09-02T05:16:11.333Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T04:30:53.371737+00:00"
+        "attempted_at": "2026-09-02T05:16:13.334617+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gold_silver_price_sharp_drop",
+    "virality_score": 8,
+    "reason": "Massive price drop in gold and silver directly catches the attention of a wide consumer base.",
+    "region": "india",
+    "headline": "सोना ₹2,000 टूटा, चांदी में ₹3,500 की गिरावट, गिरते-गिरते कितनी रह गई है कीमत?",
+    "source_summary": "Gold Silver Price, 2 September 2026: सोने और चांदी की कीमत में भारी गिरावट देखने को मिल रही है। एमसीएक्स पर शुरुआती कारोबार में सोना 2,000 रुपये से ज्यादा सस्ता हो गया जबकि चांदी की कीमत में 3,500 रुपये से ज्यादा गिरावट आई है। अब क्या रह गई है कीमत?",
+    "source_url": "https://navbharattimes.indiatimes.com/business/commodity/gold-silver-price-fall-today-in-mcx-as-crude-rises-know-latest-rate-on-2-september-2026/articleshow/133696921.cms",
+    "source_name": "Navbharat Times",
+    "published": "Wed, 02 Sep 2026 09:46:00 +0530",
+    "hook": "सोना दो हजार और चांदी साढ़े तीन हजार रुपये टूटी!",
+    "script_hi": "भारतीय बाजार में सोने और चांदी की कीमतों में भारी गिरावट दर्ज की गई है। एमसीएक्स पर शुरुआती कारोबार में सोना दो हजार रुपये से ज्यादा सस्ता हो गया, जबकि चांदी की कीमत में तीन हजार पांच सौ रुपये से अधिक की गिरावट आई है।",
+    "tts_text_hi": "भारतीय बाजार में सोने और चांदी की कीमतों में भारी गिरावट दर्ज की गई है। एमसीएक्स पर शुरुआती कारोबार में सोना दो हजार रुपये से ज्यादा सस्ता हो गया, जबकि चांदी की कीमत में तीन हजार पांच सौ रुपये से अधिक की गिरावट आई है।",
+    "title": "सोना-चांदी में भारी गिरावट",
+    "caption": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।",
+    "hashtags": [
+      "#GoldPrice",
+      "#SilverPrice",
+      "#GoldRateIndia",
+      "#SilverRate",
+      "#MarketCrash",
+      "#BusinessNews",
+      "#Gold"
+    ],
+    "visual_queries": [
+      "Indian gold jewelry shop India",
+      "silver bars India market"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37121157/pexels-photo-37121157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian gold jewelry shop India",
+        "credit": "sajhad",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33539242/pexels-photo-33539242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "precious metals market",
+        "credit": "3D Render",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian stock market trading",
+        "credit": "Vito Goričan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8886925/pexels-photo-8886925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "jewelry store India",
+        "credit": "Lara Jameson",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6534328/pexels-photo-6534328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian currency and coins",
+        "credit": "Debraj Chanda",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7652513/pexels-photo-7652513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person looking at smartphone",
+        "credit": "Thirdman",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सोना-चांदी में भारी गिरावट",
+        "caption": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।\n\n##GoldPrice ##SilverPrice ##GoldRateIndia ##SilverRate ##MarketCrash"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।\n\n##GoldPrice ##SilverPrice ##GoldRateIndia ##SilverRate ##MarketCrash"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।\n\n##GoldPrice ##SilverPrice ##GoldRateIndia ##SilverRate ##MarketCrash"
+      },
+      "hashtags": [
+        "#GoldPrice",
+        "#SilverPrice",
+        "#GoldRateIndia",
+        "#SilverRate",
+        "#MarketCrash"
+      ]
+    },
+    "audio_path": "audio/gold_silver_price_sharp_drop.wav",
+    "audio_duration_sec": 15.53,
+    "video_path": "videos/gold_silver_price_sharp_drop.mp4",
+    "video_duration_sec": 23.58,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "vUDt2NQ3EJk",
+        "url": "https://youtube.com/shorts/vUDt2NQ3EJk",
+        "attempted_at": "2026-09-02T05:21:05.374849+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b25f4e349d44d66d2995",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।\n\n##GoldPrice ##SilverPrice ##GoldRateIndia ##SilverRate ##MarketCrash",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788326491815_uk5uk5em_gold_silver_price_sharp_drop.mp4",
+                "_id": "6a97b25f4e349d44d66d2996"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:21:33.997Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "ff398b8fe9655a5e9fea8325706b4181",
+                "_id": "6a97b25f4e349d44d66d2997",
+                "platformPostId": "1080404647661492",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1080404647661492",
+                "publishedAt": "2026-09-02T05:21:40.812Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:21:33.997Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:21:35.426Z",
+            "updatedAt": "2026-09-02T05:21:40.926Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:21:35.695Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:21:41.126237+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b28629c0a9946da380cd",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "भारतीय सर्राफा बाजार में सोने और चांदी के दामों में आई बड़ी गिरावट, जानिए ताजा कीमतें।\n\n##GoldPrice ##SilverPrice ##GoldRateIndia ##SilverRate ##MarketCrash",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788326531354_9co5qubd_gold_silver_price_sharp_drop.mp4",
+                "_id": "6a97b28629c0a9946da380ce"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:22:12.741Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "e6a3e2a6c512887e168a6a98f07057f4",
+                "_id": "6a97b28629c0a9946da380cf"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:22:12.741Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:22:14.157Z",
+            "updatedAt": "2026-09-02T05:22:15.918Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:22:14.267Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:22:16.380527+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "sanwaliya_seth_silver_tomato_offering",
+    "virality_score": 8,
+    "reason": "Unique and viral devotional offering of a 250g silver tomato by a farmer.",
+    "region": "india",
+    "headline": "सांवलिया सेठ को तोहफे में पाव भर 'चांदी का टमाटर', 30 लाख की बंपर कमाई पर किसान ने दिल से दिखाई आस्था",
+    "source_summary": "Sanwaliya Seth Temple Silver Tomato: चित्तौड़गढ़ के सांवलिया सेठ मंदिर में आस्था का एक अनोखा रंग देखने को मिला। भीलवाड़ा के एक किसान ने करीब 250 ग्राम वजनी चांदी का टमाटर सांवलिया जी के चरणों में चढ़ा दिया। चांदी के ट्रैक्टर, पेट्रोल पंप के बाद अब इस चांदी के टमाटर की खूब चर्चा है।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/rajasthan/chittorgarh/sanwaliya-seth-temple-farmer-offers-silver-tomato-chittorgarh-news-update/articleshow/133696402.cms",
+    "source_name": "Navbharat Times",
+    "published": "Wed, 02 Sep 2026 09:06:00 +0530",
+    "hook": "सांवलिया सेठ के दरबार में चढ़ा चांदी का टमाटर!",
+    "script_hi": "चित्तौड़गढ़ के प्रसिद्ध सांवलिया सेठ मंदिर में आस्था का अनोखा रूप देखने को मिला। भीलवाड़ा के एक किसान ने तीस लाख रुपये की बंपर कमाई होने पर करीब ढाई सौ ग्राम वजनी चांदी का टमाटर भगवान के चरणों में अर्पित किया है। चांदी के ट्रैक्टर और पेट्रोल पंप के बाद अब इस चांदी के टमाटर की इलाके में जमकर चर्चा हो रही है।",
+    "tts_text_hi": "चित्तौड़गढ़ के प्रसिद्ध सांवलिया सेठ मंदिर में आस्था का अनोखा रूप देखने को मिला। भीलवाड़ा के एक किसान ने तीस लाख रुपये की बंपर कमाई होने पर करीब ढाई सौ ग्राम वजनी चांदी का टमाटर भगवान के चरणों में अर्पित किया है। चांदी के ट्रैक्टर और पेट्रोल पंप के बाद अब इस चांदी के टमाटर की इलाके में जमकर चर्चा हो रही है।",
+    "title": "सांवलिया सेठ को चढ़ा चांदी का टमाटर",
+    "caption": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।",
+    "hashtags": [
+      "SanwaliyaSeth",
+      "Chittorgarh",
+      "RajasthanNews",
+      "ViralNews",
+      "Mandir",
+      "Kisan",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "hindu temple India",
+      "farmer in field India",
+      "silver item India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hindu temple India",
+        "credit": "Nalam Team",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29039800/pexels-photo-29039800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "farmer in field India",
+        "credit": "Alex Jaison",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37213587/pexels-photo-37213587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "silver item India",
+        "credit": "Faheema  Farooque",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32961808/pexels-photo-32961808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "farmer holding vegetables India",
+        "credit": "Karan Kumar",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34346225/pexels-photo-34346225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "temple donation box India",
+        "credit": "Roynaldi Fredynan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31970888/pexels-photo-31970888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "shiny silver metal object",
+        "credit": "Sonny Sixteen",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39206252/pexels-photo-39206252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "agricultural market India",
+        "credit": "Switabh Shrivastava",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सांवलिया सेठ को चढ़ा चांदी का टमाटर",
+        "caption": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।\n\n#SanwaliyaSeth #Chittorgarh #RajasthanNews #ViralNews #Mandir"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।\n\n#SanwaliyaSeth #Chittorgarh #RajasthanNews #ViralNews #Mandir"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।\n\n#SanwaliyaSeth #Chittorgarh #RajasthanNews #ViralNews #Mandir"
+      },
+      "hashtags": [
+        "SanwaliyaSeth",
+        "Chittorgarh",
+        "RajasthanNews",
+        "ViralNews",
+        "Mandir"
+      ]
+    },
+    "audio_path": "audio/sanwaliya_seth_silver_tomato_offering.wav",
+    "audio_duration_sec": 22.67,
+    "video_path": "videos/sanwaliya_seth_silver_tomato_offering.mp4",
+    "video_duration_sec": 30.66,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "bW_HoJ3O1UE",
+        "url": "https://youtube.com/shorts/bW_HoJ3O1UE",
+        "attempted_at": "2026-09-02T05:27:29.826925+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b3d57886cc67d4d74df8",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।\n\n#SanwaliyaSeth #Chittorgarh #RajasthanNews #ViralNews #Mandir",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788326867097_no00h7a9_sanwaliya_seth_silver_tomato_offering.mp4",
+                "_id": "6a97b3d57886cc67d4d74df9"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:27:48.346Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "96e629617f23d6daf357984cbbe697df",
+                "_id": "6a97b3d57886cc67d4d74dfa",
+                "platformPostId": "2122310205306104",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2122310205306104",
+                "publishedAt": "2026-09-02T05:27:56.713Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:27:48.346Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:27:49.231Z",
+            "updatedAt": "2026-09-02T05:27:56.806Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:27:49.323Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:27:56.995237+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b3f7b6b67952d8f51996",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चित्तौड़गढ़ के सांवलिया सेठ मंदिर में किसान ने चढ़ाया चांदी का टमाटर, वीडियो देखें।\n\n#SanwaliyaSeth #Chittorgarh #RajasthanNews #ViralNews #Mandir",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788326901154_5ooxfde9_sanwaliya_seth_silver_tomato_offering.mp4",
+                "_id": "6a97b3f7b6b67952d8f51997"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:28:22.507Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "377a53bd0d63bd42915d9248332c93d9",
+                "_id": "6a97b3f7b6b67952d8f51998"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:28:22.507Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:28:23.172Z",
+            "updatedAt": "2026-09-02T05:28:25.515Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:28:23.242Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:28:25.916677+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "nhai_mandatory_ai_smart_machines_highways",
+    "virality_score": 7,
+    "reason": "Innovative national policy update using AI and smart machines for highway construction.",
+    "region": "india",
+    "headline": "AI की मदद से बनेंगे हाईवे, NHAI ने स्मार्ट मशीनें की जरूरी",
+    "source_summary": "हाईवे निर्माण में अब AI और स्मार्ट मशीनों का होगा बड़ा रोल, NHAI ने 20 किलोमीटर से लंबे और 500 करोड़ रुपये से ज्यादा वाले प्रोजेक्ट्स में स्मार्ट मशीनों से काम करना जरूरी किया.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/nhai-ai-smart-machines-highway-construction-prym-dskc-2634110-2026-09-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-01T17:55:27+05:30",
+    "hook": "क्या अब आर्टिफिशियल इंटेलिजेंस बनाएगा हमारे देश के हाईवे?",
+    "script_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण ने बड़े प्रोजेक्ट्स के लिए बड़ा फैसला लिया है. अब बीस किलोमीटर से लंबे और पांच सौ करोड़ रुपये से ज्यादा के प्रोजेक्ट्स में ए आई और स्मार्ट मशीनों का इस्तेमाल अनिवार्य कर दिया गया है. इससे सड़क निर्माण में तेजी आएगी और गुणवत्ता भी बेहतर होगी.",
+    "tts_text_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण ने बड़े प्रोजेक्ट्स के लिए बड़ा फैसला लिया है। अब बीस किलोमीटर से लंबे और पांच सौ करोड़ रुपये से ज्यादा के प्रोजेक्ट्स में ए आई और स्मार्ट मशीनों का इस्तेमाल अनिवार्य कर दिया गया है। इससे सड़क निर्माण में तेजी आएगी और गुणवत्ता भी बेहतर होगी।",
+    "title": "NHAI का बड़ा फैसला, अब AI से बनेंगे देश के हाईवे",
+    "caption": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।",
+    "hashtags": [
+      "#NHAI",
+      "#IndianHighways",
+      "#ArtificialIntelligence",
+      "#SmartInfrastructure",
+      "#RoadConstruction",
+      "#"
+    ],
+    "visual_queries": [
+      "Indian highway construction site",
+      "modern heavy machinery India",
+      "artificial intelligence technology India",
+      "smart highway infrastructure India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35340753/pexels-photo-35340753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian highway construction site",
+        "credit": "Yg pixel",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29502206/pexels-photo-29502206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern heavy machinery India",
+        "credit": "Action Construction  Equipment Ltd. - ACE",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8386437/pexels-photo-8386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence technology India",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38501760/pexels-photo-38501760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smart highway infrastructure India",
+        "credit": "Sathish Kumar",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "NHAI का बड़ा फैसला, अब AI से बनेंगे देश के हाईवे",
+        "caption": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।\n\n##NHAI ##IndianHighways ##ArtificialIntelligence ##SmartInfrastructure ##RoadConstruction"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।\n\n##NHAI ##IndianHighways ##ArtificialIntelligence ##SmartInfrastructure ##RoadConstruction"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।\n\n##NHAI ##IndianHighways ##ArtificialIntelligence ##SmartInfrastructure ##RoadConstruction"
+      },
+      "hashtags": [
+        "#NHAI",
+        "#IndianHighways",
+        "#ArtificialIntelligence",
+        "#SmartInfrastructure",
+        "#RoadConstruction"
+      ]
+    },
+    "audio_path": "audio/nhai_mandatory_ai_smart_machines_highways.wav",
+    "audio_duration_sec": 20.09,
+    "video_path": "videos/nhai_mandatory_ai_smart_machines_highways.mp4",
+    "video_duration_sec": 28.13,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "KaxTFG8raJY",
+        "url": "https://youtube.com/shorts/KaxTFG8raJY",
+        "attempted_at": "2026-09-02T05:33:17.034819+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b52fe00c17f58671a586",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।\n\n##NHAI ##IndianHighways ##ArtificialIntelligence ##SmartInfrastructure ##RoadConstruction",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788327212315_u64j54dm_nhai_mandatory_ai_smart_machines_highways.mp4",
+                "_id": "6a97b52fe00c17f58671a587"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:33:34.641Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "90da87905fd7ea08a93db4d0d9bb2e19",
+                "_id": "6a97b52fe00c17f58671a588",
+                "platformPostId": "4433042373690635",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=4433042373690635",
+                "publishedAt": "2026-09-02T05:33:43.406Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:33:34.641Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:33:35.834Z",
+            "updatedAt": "2026-09-02T05:33:44.166Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:33:35.973Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:33:44.793941+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b559eab47ed2ac574225",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सड़क निर्माण को तेज और बेहतर बनाने के लिए एन एच ए आई ने उठाया बड़ा कदम। अब बड़े प्रोजेक्ट्स में स्मार्ट मशीनों का होगा इस्तेमाल।\n\n##NHAI ##IndianHighways ##ArtificialIntelligence ##SmartInfrastructure ##RoadConstruction",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788327254948_yz7c5fnf_nhai_mandatory_ai_smart_machines_highways.mp4",
+                "_id": "6a97b559eab47ed2ac574226"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:34:16.341Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "8b99c7f1fc2090ac2891013cf33480a1",
+                "_id": "6a97b559eab47ed2ac574227"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:34:16.341Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:34:17.253Z",
+            "updatedAt": "2026-09-02T05:34:19.749Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:34:17.726Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:34:20.027339+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "germany_blames_russia_leipzig_drone_attack",
+    "virality_score": 7,
+    "reason": "High-profile international security development regarding a drone attack on a German airport.",
+    "region": "global",
+    "headline": "Germany says Russia behind Leipzig airport drone attack",
+    "source_summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Wed, 02 Sep 2026 01:59:54 GMT",
+    "hook": "जर्मनी ने लगाया रूस पर बड़ा आरोप!",
+    "script_hi": "जर्मनी ने कहा है कि लिपजिग एयरपोर्ट पर हुए ड्रोन हमले के पीछे रूस का हाथ था। चार अगस्त को यूक्रेनी कार्गो विमानों के पास एक विस्फोटक से लदा ड्रोन मिला था।",
+    "tts_text_hi": "जर्मनी ने कहा है कि लिपजिग एयरपोर्ट पर हुए ड्रोन हमले के पीछे रूस का हाथ था। चार अगस्त को यूक्रेनी कार्गो विमानों के पास एक विस्फोटक से लदा ड्रोन मिला था।",
+    "title": "Germany blames Russia for Leipzig airport drone attack",
+    "caption": "जर्मनी का बड़ा दावा, लिपजिग एयरपोर्ट ड्रोन हमले के पीछे रूस का हाथ।",
+    "hashtags": [
+      "Germany",
+      "Russia",
+      "LeipzigAirport",
+      "DroneAttack",
+      "WorldNews",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Germany airport terminal",
+      "military drone explosive",
+      "cargo airplane tarmac"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9279429/pexels-photo-9279429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Germany airport terminal",
+        "credit": "Michel Rothstein",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33824580/pexels-photo-33824580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo airplane tarmac",
+        "credit": "Jonathan Borba",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30488712/pexels-photo-30488712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial cargo airport",
+        "credit": "Mariya Eskina",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27299956/pexels-photo-27299956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "security guard patrol",
+        "credit": "Kenneth Surillo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/997134/pexels-photo-997134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "drone flying outdoors",
+        "credit": "Peter Fazekas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation scene",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जर्मनी के एयरपोर्ट पर ड्रोन हमला: मॉस्को पर सीधा आरोप! 🇩🇪🇷🇺",
+        "caption": "जर्मनी ने लगाया रूस पर बड़ा आरोप! 🇩🇪\n\nलीज्पिक एयरपोर्ट पर हुए रहस्यमयी ड्रोन हमले के पीछे सीधे तौर पर रूस का हाथ होने की बात सामने आई है। इस खुलासे के बाद यूरोप में तनाव काफी बढ़ गया है।\n\nपूरी कहानी देखें और समझें इस नए geopolitical संकट की असली वजह।\n\n#GermanyRussia #LeipzigAirport #DroneAttack #WorldNews #Geopolitics"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "जर्मनी ने लगाया रूस पर बड़ा आरोप! 🇩🇪\n\nलीज्पिक एयरपोर्ट पर हुए ड्रोन हमले ने यूरोप की नींद उड़ा दी है। जर्मनी का दावा है कि इसके पीछे सीधे तौर पर रूस का हाथ है। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#GermanyRussia #LeipzigAirport #DroneAttack #WorldNews #Geopolitics"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जर्मनी ने लगाया रूस पर बड़ा आरोप! 🇩🇪\n\nलीज्पिक एयरपोर्ट पर हुए ड्रोन हमले के मामले में जर्मनी ने चौंकाने वाला दावा किया है। उनका कहना है कि इस खतरनाक हमले के पीछे रूस का हाथ है, जिसने अब अंतरराष्ट्रीय राजनीति में एक नया भूचाल ला दिया है। \n\nपूरा मामला जानने के लिए वीडियो अंत तक देखें।\n\n#GermanyRussia #LeipzigAirport #DroneAttack #WorldNews #Geopolitics"
+      },
+      "hashtags": [
+        "GermanyRussia",
+        "LeipzigAirport",
+        "DroneAttack",
+        "WorldNews",
+        "Geopolitics"
+      ]
+    },
+    "audio_path": "audio/germany_blames_russia_leipzig_drone_attack.wav",
+    "audio_duration_sec": 11.34,
+    "video_path": "videos/germany_blames_russia_leipzig_drone_attack.mp4",
+    "video_duration_sec": 19.22,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "wnvW6yPEgyU",
+        "url": "https://youtube.com/shorts/wnvW6yPEgyU",
+        "attempted_at": "2026-09-02T05:39:02.888012+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b69725e98c5a0909891f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जर्मनी ने लगाया रूस पर बड़ा आरोप! 🇩🇪\n\nलीज्पिक एयरपोर्ट पर हुए ड्रोन हमले के मामले में जर्मनी ने चौंकाने वाला दावा किया है। उनका कहना है कि इस खतरनाक हमले के पीछे रूस का हाथ है, जिसने अब अंतरराष्ट्रीय राजनीति में एक नया भूचाल ला दिया है। \n\nपूरा मामला जानने के लिए वीडियो अंत तक देखें।\n\n#GermanyRussia #LeipzigAirport #DroneAttack #WorldNews #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788327573099_l58orgh2_germany_blames_russia_leipzig_drone_attack.mp4",
+                "_id": "6a97b69725e98c5a09098920"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:39:34.489Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "274e904d0b721ad5a0c4c894867d5430",
+                "_id": "6a97b69725e98c5a09098921",
+                "platformPostId": "1083383747523186",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1083383747523186",
+                "publishedAt": "2026-09-02T05:39:43.926Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:39:34.489Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:39:35.640Z",
+            "updatedAt": "2026-09-02T05:39:44.196Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:39:35.809Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:39:44.425140+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97b6b763819e1b91a29886",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जर्मनी ने लगाया रूस पर बड़ा आरोप! 🇩🇪\n\nलीज्पिक एयरपोर्ट पर हुए ड्रोन हमले ने यूरोप की नींद उड़ा दी है। जर्मनी का दावा है कि इसके पीछे सीधे तौर पर रूस का हाथ है। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#GermanyRussia #LeipzigAirport #DroneAttack #WorldNews #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788327604633_ffsnarv3_germany_blames_russia_leipzig_drone_attack.mp4",
+                "_id": "6a97b6b763819e1b91a29887"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T05:40:05.922Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "c4f33d45f9d67ca0ffd5983d8edc9125",
+                "_id": "6a97b6b763819e1b91a29888"
+              }
+            ],
+            "scheduledFor": "2026-09-02T05:40:05.922Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T05:40:07.449Z",
+            "updatedAt": "2026-09-02T05:40:09.378Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T05:40:07.530Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T05:40:09.724984+00:00"
       }
     }
   }
