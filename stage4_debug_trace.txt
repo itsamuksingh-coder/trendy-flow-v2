@@ -1,7 +1,9 @@
-ready_labels: ['gold_silver_price_sharp_crash_september', 'nhai_toll_plaza_fake_software_ed_raid', 'us_iran_oil_tanker_missile_strikes_escalation']
+ready_labels: ['delhi_patna_bullet_train_corridor', 'disha_salian_death_cbi_probe_bombay_hc', 'faridabad_school_girl_suicide_biryani', 'man_cooks_girlfriends_body_parts', 'nahargarh_biological_park_tiger_attack', 'nhai_toll_fake_software_ed_raids', 'us_strikes_iran_oil_tankers_escalation']
 
-disha_salian_death_cbi_probe_court: SKIPPED (not in ready set)
-pnb_sahalpur_fake_currency_17_crore: SKIPPED (not in ready set)
-gold_silver_price_sharp_crash_september: SUCCESS -> video_path=videos/gold_silver_price_sharp_crash_september.mp4 dur=27.71322
-us_iran_oil_tanker_missile_strikes_escalation: SUCCESS -> video_path=videos/us_iran_oil_tanker_missile_strikes_escalation.mp4 dur=26.947211
-nhai_toll_plaza_fake_software_ed_raid: SUCCESS -> video_path=videos/nhai_toll_plaza_fake_software_ed_raid.mp4 dur=29.571224
+disha_salian_death_cbi_probe_bombay_hc: SUCCESS -> video_path=videos/disha_salian_death_cbi_probe_bombay_hc.mp4 dur=22.62322
+faridabad_school_girl_suicide_biryani: SUCCESS -> video_path=videos/faridabad_school_girl_suicide_biryani.mp4 dur=38.255215
+man_cooks_girlfriends_body_parts: SUCCESS -> video_path=videos/man_cooks_girlfriends_body_parts.mp4 dur=35.887211
+us_strikes_iran_oil_tankers_escalation: SUCCESS -> video_path=videos/us_strikes_iran_oil_tankers_escalation.mp4 dur=27.319229
+delhi_patna_bullet_train_corridor: SUCCESS -> video_path=videos/delhi_patna_bullet_train_corridor.mp4 dur=35.02322
+nhai_toll_fake_software_ed_raids: SUCCESS -> video_path=videos/nhai_toll_fake_software_ed_raids.mp4 dur=23.510227
+nahargarh_biological_park_tiger_attack: SUCCESS -> video_path=videos/nahargarh_biological_park_tiger_attack.mp4 dur=21.789887
