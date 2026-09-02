@@ -1,33 +1,31 @@
 [
   {
-    "topic_label": "disha_salian_death_cbi_probe_court",
+    "topic_label": "disha_salian_death_cbi_probe_bombay_hc",
     "virality_score": 9,
-    "reason": "High-profile Sushant Singh Rajput manager case gets a major twist with Bombay HC ordering a CBI probe.",
+    "reason": "Bombay HC orders CBI probe into Sushant Singh's ex-manager Disha Salian's death case.",
     "region": "india",
-    "headline": "दिशा सालियान केस में बड़ा ट्विस्ट, CBI करेगी जांच; कोर्ट का आदेश",
-    "source_summary": "सुशांत सिंह राजपूत की मैनेजर रहीं दिशा सालियान के केस में कोर्ट ने CBI जांच के आदेश दिए हैं. मुंबई क्षेत्र के वरिष्ठ CBI अधिकारी को जांच की जिम्मेदारी मिलेगी और याचिकाकर्ता का बयान दर्ज कर FIR की प्रक्रिया आगे बढ़ेगी.",
+    "headline": "दिशा सालियान केस में बड़ा ट्विस्ट, CBI करेगी जांच, कोर्ट ने दिए अहम आदेश",
+    "source_summary": "सुशांत सिंह राजपूत की मैनेजर रहीं दिशा सालियान के केस में बॉम्बे हाईकोर्ट ने CBI जांच के आदेश दिए हैं. मुंबई क्षेत्र के वरिष्ठ CBI अधिकारी को जांच की जिम्मेदारी मिलेगी और याचिकाकर्ता का बयान दर्ज कर FIR की प्रक्रिया आगे बढ़ेगी.",
     "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/disha-salian-case-update-court-ordered-cbi-to-investigation-files-fir-sushant-singh-rajput-manager-tmova-rpti-2634516-2026-09-02?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-02T11:38:25+05:30",
-    "hook": "दिशा सालियान केस में आया नया भूचाल!",
-    "script_hi": "दिशा सालियान केस में बड़ा ट्विस्ट आ गया है। अदालत ने मामले की जांच सीबीआई को सौंपने का आदेश दिया है। मुंबई क्षेत्र के वरिष्ठ सीबीआई अधिकारी को इसकी जिम्मेदारी मिलेगी। याचिकाकर्ता का बयान दर्ज कर एफआईआर की प्रक्रिया आगे बढ़ाई जाएगी।",
-    "tts_text_hi": "दिशा सालियान केस में बड़ा ट्विस्ट आ गया है। अदालत ने मामले की जांच सीबीआई को सौंपने का आदेश दिया है। मुंबई क्षेत्र के वरिष्ठ सीबीआई अधिकारी को इसकी जिम्मेदारी मिलेगी। याचिकाकर्ता का बयान दर्ज कर एफआईआर की प्रक्रिया आगे बढ़ाई जाएगी।",
-    "title": "दिशा सालियान केस में सीबीआई जांच के आदेश",
-    "caption": "दिशा सालियान केस में आया नया मोड़, अदालत ने दिए सीबीआई जांच के आदेश।",
+    "hook": "दिशा सालियान केस में आया बड़ा मोड़!",
+    "script_hi": "दिशा सालियान केस में बॉम्बे हाईकोर्ट ने सीबीआई जांच के आदेश दिए हैं। मुंबई क्षेत्र के वरिष्ठ सीबीआई अधिकारी को जांच की जिम्मेदारी सौंपी जाएगी और याचिकाकर्ता का बयान दर्ज कर एफआईआर की प्रक्रिया आगे बढ़ेगी।",
+    "tts_text_hi": "दिशा सालियान केस में बॉम्बे हाईकोर्ट ने सीबीआई जांच के आदेश दिए हैं। मुंबई क्षेत्र के वरिष्ठ सीबीआई अधिकारी को जांच की जिम्मेदारी सौंपी जाएगी और याचिकाकर्ता का बयान दर्ज कर एफआईआर की प्रक्रिया आगे बढ़ेगी।",
+    "title": "दिशा सालियान केस में बॉम्बे हाईकोर्ट का बड़ा आदेश, अब CBI करेगी जांच",
+    "caption": "दिशा सालियान की मौत के मामले में बॉम्बे हाईकोर्ट ने सीबीआई जांच के आदेश दिए हैं। जानिए इस बड़े कानूनी अपडेट में क्या कुछ हुआ खास।",
     "hashtags": [
       "DishaSalian",
-      "CBI",
+      "BombayHighCourt",
+      "CBIInvestigation",
       "MumbaiNews",
-      "LatestNews",
-      "Trending",
-      "NewsShorts",
-      "IndiaNews"
+      "SushantSinghRajput",
+      "NewsUpdates"
     ],
     "visual_queries": [
-      "Indian court building exterior India",
-      "Central Bureau of Investigation office India",
-      "Mumbai police station India",
-      "Indian law books and gavel"
+      "Bombay High Court building India",
+      "Indian court gavel and law books",
+      "CBI officer India investigation"
     ],
     "named_person": "Disha Salian",
     "named_person_hi": "दिशा सालियान",
@@ -35,8 +33,8 @@
       "Sushant Singh Rajput"
     ],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Involves a sensitive legal case concerning a deceased individual and a high-profile investigation requiring careful handling.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
@@ -44,6 +42,24 @@
         "source": "fallback",
         "query": "Disha Salian",
         "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35370261/14986408_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Bombay High Court building India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6125277/6125277-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "CBI officer India investigation",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 10,
+        "duration_sec": 6
       },
       {
         "type": "image",
@@ -55,233 +71,47 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian legal system gavel",
-        "credit": "Sora Shimazaki",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Central Bureau of Investigation office India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13232561/pexels-photo-13232561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai police station India",
-        "credit": "Shivam Maurya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
         "url": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian law books and gavel",
+        "query": "Indian court gavel and law books",
         "credit": "Sora Shimazaki",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 29.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pnb_sahalpur_fake_currency_17_crore",
-    "virality_score": 9,
-    "reason": "Shocking discovery of Rs 17 crore fake currency inside a PNB currency chest creates nationwide banking panic.",
-    "region": "india",
-    "headline": "पंजाब नेशनल बैंक से 17 करोड़ रुपये के नकली नोट मिलने से हड़कंप",
-    "source_summary": "सरकारी बैंकों में कामकाज और लंच ब्रेक को लेकर अक्सर सवाल उठते हैं, लेकिन सहारनपुर के पंजाब नेशनल बैंक से 17 करोड़ रुपये के नकली नोट मिलने के दावे ने हड़कंप मचा दिया. आरोप है कि बैंक में पार्टटाइम हाउसकीपर को खजाने की गड्डियां संभालने की जिम्मेदारी दी गई थी, जिसके बाद नकली नोट बैंक के खजाने तक पहुंच गए.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/video/claim-of-rs-17-crore-worth-of-fake-currency-recovered-from-punjab-national-bank-creates-chaos-vdos-2634482-2026-09-02?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-02T11:17:11+05:30",
-    "hook": "सहारनपुर के पंजाब नेशनल बैंक से सत्रह करोड़ के नकली नोट बरामद!",
-    "script_hi": "सहारनपुर के पंजाब नेशनल बैंक में सत्रह करोड़ रुपये के नकली नोट मिलने से हड़कंप मच गया है। आरोप है कि बैंक के एक पार्टटाइम हाउसकीपर को खजाने की गड्डियां संभालने की जिम्मेदारी दी गई थी। सवाल यह है कि क्या लापरवाही की वजह से बैंक के खजाने तक नकली नोट पहुंच गए? पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "सहारनपुर के पंजाब नेशनल बैंक में सत्रह करोड़ रुपये के नकली नोट मिलने से हड़कंप मच गया है। आरोप है कि बैंक के एक पार्टटाइम हाउसकीपर को खजाने की गड्डियां संभालने की जिम्मेदारी दी गई थी। सवाल यह है कि क्या लापरवाही की वजह से बैंक के खजाने तक नकली नोट पहुंच गए? पुलिस मामले की जांच कर रही है।",
-    "title": "सहारनपुर के पीएनबी बैंक से सत्रह करोड़ के नकली नोट बरामद",
-    "caption": "सहारनपुर के पंजाब नेशनल बैंक में सत्रह करोड़ रुपये के नकली नोट मिलने का मामला सामने आया है।",
-    "hashtags": [
-      "PunjabNationalBank",
-      "SaharanpurNews",
-      "FakeCurrency",
-      "BankingFraud",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Punjab National Bank branch India",
-      "Indian bank currency chest",
-      "Indian police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves an unproven allegation of serious wrongdoing against a specific individual (the part-time housekeeper) who has not been convicted yet.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39263774/16706435_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Punjab National Bank branch India",
-        "credit": "Ashuq Khan",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6534328/pexels-photo-6534328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian bank currency chest",
-        "credit": "Debraj Chanda",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 17,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "gold_silver_price_sharp_crash_september",
-    "virality_score": 8,
-    "reason": "Massive price crash in gold and silver directly impacts retail consumers and investors across India.",
-    "region": "india",
-    "headline": "अचानक चांदी होने लगी क्रैश, 2 दिन में ₹8000 सस्ती, सोना भी धड़ाम",
-    "source_summary": "Gold-Silver Price Crash: सोना-चांदी की कीमतों में गिरावट का सिलसिला एक बार फिर से तेज हो गया है. बीते दो दिनों में ही 1 Kg Silver Price 8000 रुपये से ज्यादा कम हो गया है और अपने हाई से चांदी अब 1.94 लाख रुपये प्रति किलो सस्ती मिल रही है.",
-    "source_url": "https://www.aajtak.in/business/utility/photo/gold-silver-price-crash-in-just-two-days-check-10-gram-24-karat-gold-rate-update-tutc-2634413-2026-09-02?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-02T11:34:18+05:30",
-    "hook": "सोने-चांदी की कीमतों में आई भारी गिरावट!",
-    "script_hi": "सोना-चांदी खरीदने वालों के लिए बड़ी खबर है। कीमतों में गिरावट का सिलसिला फिर तेज हो गया है। बीते दो दिनों में चांदी आठ हजार रुपये से ज्यादा सस्ती हो गई है। अपने उच्चतम स्तर से चांदी अब एक लाख चौरानवे हजार रुपये प्रति किलो सस्ती मिल रही है, और सोना भी धड़ाम हो गया है।",
-    "tts_text_hi": "सोना-चांदी खरीदने वालों के लिए बड़ी खबर है। कीमतों में गिरावट का सिलसिला फिर तेज हो गया है। बीते दो दिनों में चांदी आठ हजार रुपये से ज्यादा सस्ती हो गई है। अपने उच्चतम स्तर से चांदी अब एक लाख चौरानवे हजार रुपये प्रति किलो सस्ती मिल रही है, और सोना भी धड़ाम हो गया है।",
-    "title": "सोना-चांदी की कीमतों में भारी गिरावट",
-    "caption": "दो दिनों में चांदी आठ हजार रुपये सस्ती, सोना भी हुआ धड़ाम।",
-    "hashtags": [
-      "GoldPrice",
-      "SilverPrice",
-      "GoldSilverRate",
-      "MarketCrash",
-      "BusinessNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India gold jewelry market",
-      "silver bars India",
-      "stock market crash India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30211512/12952724_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "silver bars India",
-        "credit": "Sergei Starostin",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7314466/pexels-photo-7314466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India gold jewelry market",
-        "credit": "Meruyert Gonullu",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/102152/pexels-photo-102152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stock market crash India",
-        "credit": "Markus Spiske",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "falling stock market chart",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6534328/pexels-photo-6534328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian currency and coins",
-        "credit": "Debraj Chanda",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6203470/pexels-photo-6203470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "falling stock market graph",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7534778/pexels-photo-7534778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sad investor losing money",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 26.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सिर्फ 2 दिन में 8000 रुपये सस्ती हुई चांदी, सोना भी धड़ाम! 📉",
-        "caption": "सिर्फ 2 दिन में 8,000 रुपये सस्ती हो गई चांदी! 📉\n\nसोने की चमक भी फीकी पड़ गई है और दाम धड़ाम से नीचे आ गए हैं। अगर आप भी खरीदारी का प्लान बना रहे थे, तो यह मौका आपके काम का है। \n\nआखिर अचानक क्यों गिरे इतने दाम? पूरी बात जानें वीडियो में और कमेंट में बताएं आपकी क्या राय है।\n\n#silverpricecrash #goldrateupdate #somasilvernews #marketcrash #commoditymarket"
+        "title": "दिशा सालियान केस में बड़ा मोड़! अब CBI करेगी जांच 🚨",
+        "caption": "बॉम्बे हाईकोर्ट ने दिशा सालियान केस में बड़ा आदेश देते हुए अब जांच सीबीआई को सौंप दी है। 🔍\n\nसालों पुराने इस मामले में आए इस नए मोड़ से कई बड़े खुलासे होने की उम्मीद जताई जा रही है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DishaSalianCase #BombayHighCourt #CBIInvestigation #LatestNews #MaharashtraNews"
       },
       "instagram": {
         "title": null,
-        "caption": "सिर्फ 2 दिन में 8,000 रुपये सस्ती हो गई चांदी! 📉 सोना भी धड़ाम हो गया है। खरीदारी से पहले यह वीडियो जरूर देख लें। \n\nपूरी कहानी देखें और अपने दोस्तों के साथ शेयर करें जो सोना खरीदना चाहते थे।\n\n#silverpricecrash #goldrateupdate #somasilvernews #marketcrash #commoditymarket"
+        "caption": "बॉम्बे हाईकोर्ट का बड़ा आदेश! दिशा सालियान केस में अब सीबीआई करेगी जांच 🚨\n\nसालों पुराने इस सनसनीखेज मामले में नया मोड़ आ गया है। कोर्ट के इस फैसले के बाद अब कई नए पन्ने खुलने वाले हैं।\n\nआपको क्या लगता है, सच सामने आएगा? शेयर करें अपने विचार। 💬\n\n#DishaSalianCase #BombayHighCourt #CBIInvestigation #LatestNews #MaharashtraNews"
       },
       "facebook": {
         "title": null,
-        "caption": "सिर्फ दो दिनों में चांदी 8,000 रुपये सस्ती हो गई है और सोना भी धड़ाम हो गया है! 📉\n\nकीमतों में आई इस अचानक भारी गिरावट ने सबको हैरान कर दिया है। बाजार में चल रहे इस उतार-चढ़ाव का आपकी जेब पर क्या असर पड़ेगा?\n\nपूरी कहानी वीडियो में देखें और हमें बताएं कि क्या यह खरीदने का सही समय है।\n\n#silverpricecrash #goldrateupdate #somasilvernews #marketcrash #commoditymarket"
+        "caption": "दिशा सालियान केस में आया एक बहुत बड़ा मोड़! बॉम्बे हाईकोर्ट ने इस मामले की जांच अब सीबीआई को सौंपने के अहम आदेश दिए हैं। ⚖️\n\nलंबे समय से ठंडे बस्ते में पड़े इस केस में अचानक आए इस नए घटनाक्रम से हर कोई हैरान है। क्या अब इस मामले का पूरा सच बाहर आ पाएगा? 🔍\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ जरूर शेयर करें।\n\n#DishaSalianCase #BombayHighCourt #CBIInvestigation #LatestNews #MaharashtraNews"
       },
       "hashtags": [
-        "silverpricecrash",
-        "goldrateupdate",
-        "somasilvernews",
-        "marketcrash",
-        "commoditymarket"
+        "DishaSalianCase",
+        "BombayHighCourt",
+        "CBIInvestigation",
+        "LatestNews",
+        "MaharashtraNews"
       ]
     },
-    "audio_path": "audio/gold_silver_price_sharp_crash_september.wav",
-    "audio_duration_sec": 19.67,
-    "video_path": "videos/gold_silver_price_sharp_crash_september.mp4",
-    "video_duration_sec": 27.71,
+    "audio_path": "audio/disha_salian_death_cbi_probe_bombay_hc.wav",
+    "audio_duration_sec": 14.62,
+    "video_path": "videos/disha_salian_death_cbi_probe_bombay_hc.mp4",
+    "video_duration_sec": 22.62,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "WAaZXqR8zbs",
-        "url": "https://youtube.com/shorts/WAaZXqR8zbs",
-        "attempted_at": "2026-09-02T06:36:35.108306+00:00"
+        "video_id": "m9ANQGPD0q0",
+        "url": "https://youtube.com/shorts/m9ANQGPD0q0",
+        "attempted_at": "2026-09-02T08:08:42.983856+00:00"
       },
       "facebook": {
         "success": true,
@@ -294,15 +124,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c4103feab2cbbc554880",
+            "_id": "6a97d9a08a8504f97f664407",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "सिर्फ दो दिनों में चांदी 8,000 रुपये सस्ती हो गई है और सोना भी धड़ाम हो गया है! 📉\n\nकीमतों में आई इस अचानक भारी गिरावट ने सबको हैरान कर दिया है। बाजार में चल रहे इस उतार-चढ़ाव का आपकी जेब पर क्या असर पड़ेगा?\n\nपूरी कहानी वीडियो में देखें और हमें बताएं कि क्या यह खरीदने का सही समय है।\n\n#silverpricecrash #goldrateupdate #somasilvernews #marketcrash #commoditymarket",
+            "content": "दिशा सालियान केस में आया एक बहुत बड़ा मोड़! बॉम्बे हाईकोर्ट ने इस मामले की जांच अब सीबीआई को सौंपने के अहम आदेश दिए हैं। ⚖️\n\nलंबे समय से ठंडे बस्ते में पड़े इस केस में अचानक आए इस नए घटनाक्रम से हर कोई हैरान है। क्या अब इस मामले का पूरा सच बाहर आ पाएगा? 🔍\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ जरूर शेयर करें।\n\n#DishaSalianCase #BombayHighCourt #CBIInvestigation #LatestNews #MaharashtraNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331022278_rsbkz2et_gold_silver_price_sharp_crash_september.mp4",
-                "_id": "6a97c4103feab2cbbc554881"
+                "url": "https://media.zernio.com/media/1788336541241_mc901pwk_disha_salian_death_cbi_probe_bombay_hc.mp4",
+                "_id": "6a97d9a08a8504f97f664408"
               }
             ],
             "platforms": [
@@ -319,17 +149,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:37:03.530Z",
+                "scheduledFor": "2026-09-02T08:09:02.846Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "4ad250507aa8f5083a1c2ea2305e27a8",
-                "_id": "6a97c4103feab2cbbc554882",
-                "platformPostId": "1621690076120111",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1621690076120111",
-                "publishedAt": "2026-09-02T06:37:11.096Z"
+                "contentHash": "42e6812c2c3b22685709ed96dd739cf7",
+                "_id": "6a97d9a08a8504f97f664409",
+                "platformPostId": "1628775161938857",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1628775161938857",
+                "publishedAt": "2026-09-02T08:09:11.829Z"
               }
             ],
-            "scheduledFor": "2026-09-02T06:37:03.530Z",
+            "scheduledFor": "2026-09-02T08:09:02.846Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -341,14 +171,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:37:04.755Z",
-            "updatedAt": "2026-09-02T06:37:11.244Z",
+            "createdAt": "2026-09-02T08:09:04.777Z",
+            "updatedAt": "2026-09-02T08:09:11.983Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:37:04.854Z"
+            "publishingClaimedAt": "2026-09-02T08:09:04.932Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:37:11.433879+00:00"
+        "attempted_at": "2026-09-02T08:09:12.225062+00:00"
       },
       "instagram": {
         "success": true,
@@ -361,15 +191,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c437a65c602a79c06bd1",
+            "_id": "6a97d9c4ece357492ed85713",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "सिर्फ 2 दिन में 8,000 रुपये सस्ती हो गई चांदी! 📉 सोना भी धड़ाम हो गया है। खरीदारी से पहले यह वीडियो जरूर देख लें। \n\nपूरी कहानी देखें और अपने दोस्तों के साथ शेयर करें जो सोना खरीदना चाहते थे।\n\n#silverpricecrash #goldrateupdate #somasilvernews #marketcrash #commoditymarket",
+            "content": "बॉम्बे हाईकोर्ट का बड़ा आदेश! दिशा सालियान केस में अब सीबीआई करेगी जांच 🚨\n\nसालों पुराने इस सनसनीखेज मामले में नया मोड़ आ गया है। कोर्ट के इस फैसले के बाद अब कई नए पन्ने खुलने वाले हैं।\n\nआपको क्या लगता है, सच सामने आएगा? शेयर करें अपने विचार। 💬\n\n#DishaSalianCase #BombayHighCourt #CBIInvestigation #LatestNews #MaharashtraNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331060592_s4a3sq7n_gold_silver_price_sharp_crash_september.mp4",
-                "_id": "6a97c437a65c602a79c06bd2"
+                "url": "https://media.zernio.com/media/1788336577441_2s5s3d51_disha_salian_death_cbi_probe_bombay_hc.mp4",
+                "_id": "6a97d9c4ece357492ed85714"
               }
             ],
             "platforms": [
@@ -386,14 +216,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:37:41.997Z",
+                "scheduledFor": "2026-09-02T08:09:39.209Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0010ff49fed578a08d0efa6819a7b404",
-                "_id": "6a97c437a65c602a79c06bd3"
+                "contentHash": "80b54999c48a31b8d910912d723bf9f9",
+                "_id": "6a97d9c4ece357492ed85715"
               }
             ],
-            "scheduledFor": "2026-09-02T06:37:41.997Z",
+            "scheduledFor": "2026-09-02T08:09:39.209Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -405,21 +235,495 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:37:43.646Z",
-            "updatedAt": "2026-09-02T06:37:45.539Z",
+            "createdAt": "2026-09-02T08:09:40.024Z",
+            "updatedAt": "2026-09-02T08:09:42.030Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:37:43.878Z"
+            "publishingClaimedAt": "2026-09-02T08:09:40.119Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:37:46.331168+00:00"
+        "attempted_at": "2026-09-02T08:09:42.516061+00:00"
       }
     }
   },
   {
-    "topic_label": "us_iran_oil_tanker_missile_strikes_escalation",
+    "topic_label": "faridabad_school_girl_suicide_biryani",
+    "virality_score": 9,
+    "reason": "Class 11 student dies by suicide after alleged 4-hour punishment over biryani in Faridabad school.",
+    "region": "india",
+    "headline": "स्ट्रेचर पर बेटी की लाश थी... पर्दा हटा, देखते ही दहाड़ें मारकर बिलख पड़ी मां",
+    "source_summary": "अस्पताल में स्ट्रेचर पर बेटी की लाश थी. जैसे ही पर्दा हटा और मां की नजर पड़ी, वह दहाड़ें मारकर रोने लगी. कुछ घंटे पहले तक जो बेटी स्कूल में थी, अब निर्जीव हालत में उसके सामने थी. फरीदाबाद के स्कूल की तीसरी मंजिल से गिरकर छात्रा की मौत हो गई. पिता का आरोप है कि बिरयानी को लेकर हुए विवाद के बाद बेटी को करीब चार घंटे धूप में खड़ा किया गया था. हालांकि स्कूल इस आरोप से इनकार कर रहा है.",
+    "source_url": "https://www.aajtak.in/india/haryana/story/faridabad-mother-breaks-down-daughter-body-16-year-old-dies-school-third-floor-lcla-strc-2634544-2026-09-02?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-02T12:23:44+05:30",
+    "hook": "फरीदाबाद के स्कूल में तीसरी मंजिल से गिरकर छात्रा की संदिग्ध मौत!",
+    "script_hi": "फरीदाबाद के एक स्कूल में तीसरी मंजिल से गिरकर तीसरी कक्षा की छात्रा की मौत हो गई। पिता का गंभीर आरोप है कि बिरयानी के विवाद को लेकर बच्ची को करीब चार घंटे तक धूप में खड़ा रखा गया था। अस्पताल में जब मां ने स्ट्रेचर पर बेटी का शव देखा, तो उसका रो-रोकर बुरा हाल हो गया। वहीं स्कूल प्रशासन ने इन सभी आरोपों से साफ इंकार किया है। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "फरीदाबाद के एक स्कूल में तीसरी मंजिल से गिरकर तीसरी कक्षा की छात्रा की मौत हो गई। पिता का गंभीर आरोप है कि बिरयानी के विवाद को लेकर बच्ची को करीब चार घंटे तक धूप में खड़ा रखा गया था। अस्पताल में जब मां ने स्ट्रेचर पर बेटी का शव देखा, तो उसका रो-रोकर बुरा हाल हो गया। वहीं स्कूल प्रशासन ने इन सभी आरोपों से साफ इंकार किया है। पुलिस मामले की जांच कर रही है.",
+    "title": "फरीदाबाद स्कूल में छात्रा की संदिग्ध मौत",
+    "caption": "फरीदाबाद के स्कूल में तीसरी मंजिल से गिरकर छात्रा की मौत, पिता ने लगाए गंभीर आरोप। #Faridabad #SchoolTragedy #HaryanaNews",
+    "hashtags": [
+      "Faridabad",
+      "SchoolTragedy",
+      "HaryanaNews",
+      "BreakingNews",
+      "StudentDeath"
+    ],
+    "visual_queries": [
+      "Haryana school building India",
+      "Indian school hallway interior",
+      "crying mother grief India",
+      "police station India investigation"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police station India investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7797996/pexels-photo-7797996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Haryana school building India",
+        "credit": "Sachin Biswas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34655955/pexels-photo-34655955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian school hallway interior",
+        "credit": "Sanjay Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35293956/pexels-photo-35293956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "school building exterior India",
+        "credit": "Vaibhav Patil",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फरीदाबाद: स्कूल की तीसरी मंजिल से गिरी छात्रा, मां का रो-रोकर बुरा हाल 🏫",
+        "caption": "सीसीटीवी में कैद इस भयानक हादसे ने सबको हिला दिया। 🚨 फरीदाबाद के एक निजी स्कूल में तीसरी मंजिल से संदिग्ध हालात में नीचे गिरी छात्रा की मौत से परिवार सदमे में है। पर्दा हटते ही मां का हाल देख हर किसी की आंखें नम हो गईं। 💔\n\nआखिर ये हादसा था या कुछ और? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#FaridabadNews #SchoolTragedy #CrimeNewsHindi #BreakingNews # FaridabadSchool"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा वो खौफनाक सच, जिसे देख पुलिस के भी होश उड़ गए! 🚨 फरीदाबाद के स्कूल में तीसरी मंजिल से संदिग्ध हालात में गिरी बेटी का शव देख मां का ऐसा हाल हुआ कि कलेजा कांप उठे। 💔\n\nक्या ये महज हादसा था? अपनी राय कमेंट में बताएं।\n\n#FaridabadNews #SchoolTragedy #CrimeNewsHindi #BreakingNews # FaridabadSchool"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "स्ट्रेचर पर अपनी जवान बेटी की लाश देख जब मां ने चेहरे से पर्दा हटाया, तो वहां मौजूद हर शख्स की चीख निकल गई। 😭 फरीदाबाद के एक स्कूल में तीसरी मंजिल से संदिग्ध हालात में गिरकर छात्रा की मौत का ये मामला बेहद डरावना है। पुलिस अब स्कूल प्रशासन से हर पहलू पर पूछताछ कर रही है।\n\nआखिर उस दिन स्कूल की उस मंजिल पर क्या हुआ था? पूरी कहानी जानने के लिए वीडियो देखें और शेयर करें।\n\n#FaridabadNews #SchoolTragedy #CrimeNewsHindi #BreakingNews # FaridabadSchool"
+      },
+      "hashtags": [
+        "FaridabadNews",
+        "SchoolTragedy",
+        "CrimeNewsHindi",
+        "BreakingNews",
+        " FaridabadSchool"
+      ]
+    },
+    "audio_path": "audio/faridabad_school_girl_suicide_biryani.wav",
+    "audio_duration_sec": 30.2,
+    "video_path": "videos/faridabad_school_girl_suicide_biryani.mp4",
+    "video_duration_sec": 38.26,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "q3myMJy6ydo",
+        "url": "https://youtube.com/shorts/q3myMJy6ydo",
+        "attempted_at": "2026-09-02T08:13:36.376197+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97dacc8b5733381174f246",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "स्ट्रेचर पर अपनी जवान बेटी की लाश देख जब मां ने चेहरे से पर्दा हटाया, तो वहां मौजूद हर शख्स की चीख निकल गई। 😭 फरीदाबाद के एक स्कूल में तीसरी मंजिल से संदिग्ध हालात में गिरकर छात्रा की मौत का ये मामला बेहद डरावना है। पुलिस अब स्कूल प्रशासन से हर पहलू पर पूछताछ कर रही है।\n\nआखिर उस दिन स्कूल की उस मंजिल पर क्या हुआ था? पूरी कहानी जानने के लिए वीडियो देखें और शेयर करें।\n\n#FaridabadNews #SchoolTragedy #CrimeNewsHindi #BreakingNews # FaridabadSchool",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788336840775_254eeg0p_faridabad_school_girl_suicide_biryani.mp4",
+                "_id": "6a97dacc8b5733381174f247"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:14:02.522Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "1141d2149cb873bc417609a095c5dca5",
+                "_id": "6a97dacc8b5733381174f248",
+                "platformPostId": "1574770277457495",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1574770277457495",
+                "publishedAt": "2026-09-02T08:14:10.993Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:14:02.522Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:14:04.577Z",
+            "updatedAt": "2026-09-02T08:14:11.092Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:14:04.711Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:14:11.290280+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97dae967cf2d8115f2887e",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में दिखा वो खौफनाक सच, जिसे देख पुलिस के भी होश उड़ गए! 🚨 फरीदाबाद के स्कूल में तीसरी मंजिल से संदिग्ध हालात में गिरी बेटी का शव देख मां का ऐसा हाल हुआ कि कलेजा कांप उठे। 💔\n\nक्या ये महज हादसा था? अपनी राय कमेंट में बताएं।\n\n#FaridabadNews #SchoolTragedy #CrimeNewsHindi #BreakingNews # FaridabadSchool",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788336869514_vlsqc0hi_faridabad_school_girl_suicide_biryani.mp4",
+                "_id": "6a97dae967cf2d8115f2887f"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:14:31.944Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "60446cbab5405d0a14b6f7ee7c5aa236",
+                "_id": "6a97dae967cf2d8115f28880"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:14:31.944Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:14:33.151Z",
+            "updatedAt": "2026-09-02T08:14:35.530Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:14:33.301Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:14:36.812932+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "man_cooks_girlfriends_body_parts",
+    "virality_score": 9,
+    "reason": "Gruesome crime where a 22-year-old man allegedly chopped his girlfriend into 18 pieces and cooked parts of her body.",
+    "region": "india",
+    "headline": "प्रेमिका के किए 18 टुकड़े, हाथ, पैर और पसलियों को पकाया… 22 साल के प्रेमी ने 38 साल की गर्लफ्रेंड को दी दर्दनाक मौत",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/06/up-police-2.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"प्रेमिका के किए 18 टुकड़े, हाथ, पैर और पसलियों को पकाया… 22 साल के प्रेमी ने 38 साल की गर्लफ्रेंड को दी दर्दनाक मौत\" /></figure>आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के सनसनीखेज मामले का खुलासा हो गया है. पुलिस ने महिला की हत्या के आरोप में दो आरोपियों को अरेस्ट किया है.",
+    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/agra-cantt-railway-station-tamil-nadu-express-murder-case-solved-couple-arrested-3896079.html",
+    "source_name": "TV9 Hindi",
+    "published": "Wed, 02 Sep 2026 12:04:56 +0530",
+    "hook": "उत्तर प्रदेश के आगरा में दिल दहला देने वाली वारदात!",
+    "script_hi": "उत्तर प्रदेश के आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में एक ट्रॉली बैग से महिला का शव मिलने से सनसनी फैल गई। पुलिस ने इस खौफनाक मामले का खुलासा करते हुए दो आरोपियों को गिरफ्तार कर लिया है। शुरुआती जांच में सामने आया है कि बाइस साल के प्रेमी ने अड़तीस साल की प्रेमिका की हत्या कर शव के कई टुकड़े कर दिए थे। पुलिस इस मामले में आगे की कानूनी कार्रवाई कर रही है।",
+    "tts_text_hi": "उत्तर प्रदेश के आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में एक ट्रॉली बैग से महिला का शव मिलने से सनसनी फैल गई। पुलिस ने इस खौफनाक मामले का खुलासा करते हुए दो आरोपियों को गिरफ्तार कर लिया है। शुरुआती जांच में सामने आया है कि बाइस साल के प्रेमी ने अड़तीस साल की प्रेमिका की हत्या कर शव के कई टुकड़े कर दिए थे। पुलिस इस मामले में आगे की कानूनी कार्रवाई कर रही है।",
+    "title": "आगरा में महिला की निर्मम हत्या",
+    "caption": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।",
+    "hashtags": [
+      "#AgraNews",
+      "#CrimeNews",
+      "#UttarPradesh",
+      "#IndianPolice",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "Agra Cantt railway station India",
+      "Tamil Nadu Express train India",
+      "Indian police investigation crime scene",
+      "Uttar Pradesh police officers India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation crime scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33280923/pexels-photo-33280923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Agra Cantt railway station India",
+        "credit": "Naveen Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33752535/pexels-photo-33752535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tamil Nadu Express train India",
+        "credit": "Muthu Venkatesh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13282256/pexels-photo-13282256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh police officers India",
+        "credit": "Devansh Bose",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "आगरा में महिला की निर्मम हत्या",
+        "caption": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।\n\n##AgraNews ##CrimeNews ##UttarPradesh ##IndianPolice ##BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।\n\n##AgraNews ##CrimeNews ##UttarPradesh ##IndianPolice ##BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।\n\n##AgraNews ##CrimeNews ##UttarPradesh ##IndianPolice ##BreakingNews"
+      },
+      "hashtags": [
+        "#AgraNews",
+        "#CrimeNews",
+        "#UttarPradesh",
+        "#IndianPolice",
+        "#BreakingNews"
+      ]
+    },
+    "audio_path": "audio/man_cooks_girlfriends_body_parts.wav",
+    "audio_duration_sec": 27.84,
+    "video_path": "videos/man_cooks_girlfriends_body_parts.mp4",
+    "video_duration_sec": 35.89,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "VzQ9rzu1Ebg",
+        "url": "https://youtube.com/shorts/VzQ9rzu1Ebg",
+        "attempted_at": "2026-09-02T08:17:54.525705+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97dbc974b2b25c5833ee61",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।\n\n##AgraNews ##CrimeNews ##UttarPradesh ##IndianPolice ##BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788337094820_btzf0h1b_man_cooks_girlfriends_body_parts.mp4",
+                "_id": "6a97dbc974b2b25c5833ee62"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:18:16.419Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "0687ac7e41bd020054299bffbebf2674",
+                "_id": "6a97dbc974b2b25c5833ee63",
+                "platformPostId": "1723658155523069",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1723658155523069",
+                "publishedAt": "2026-09-02T08:18:23.945Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:18:16.419Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:18:17.371Z",
+            "updatedAt": "2026-09-02T08:18:24.099Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:18:17.597Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:18:24.350765+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97dbe469df1fb42267f190",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "आगरा कैंट रेलवे स्टेशन पर तमिलनाडु एक्सप्रेस के जनरल कोच में ट्रॉली बैग से महिला का शव मिलने के मामले का खुलासा।\n\n##AgraNews ##CrimeNews ##UttarPradesh ##IndianPolice ##BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788337121580_73aa5no9_man_cooks_girlfriends_body_parts.mp4",
+                "_id": "6a97dbe469df1fb42267f191"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:18:43.082Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "993d74a1d798b0d76ea79fb6fc5919cf",
+                "_id": "6a97dbe469df1fb42267f192"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:18:43.082Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:18:44.263Z",
+            "updatedAt": "2026-09-02T08:18:47.376Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:18:44.373Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:18:47.966664+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "us_strikes_iran_oil_tankers_escalation",
     "virality_score": 8,
-    "reason": "Major global escalation as US strikes Iranian oil tankers and military bases, triggering global oil crisis fears.",
+    "reason": "US strikes Iranian oil tankers and military sites, escalating middle east tensions and sparking global shockwaves.",
     "region": "india",
     "headline": "अमेरिका का बदला! ईरान के दो तेल टैंकर उड़ाए, सैन्य ठिकानों को भी बनाया निशाना",
     "source_summary": "अमेरिका ने ईरान के दो सरकारी तेल टैंकरों पर मिसाइलें दाग दी हैं और 100 सैन्य ठिकानों को भी निशाना बनाया है. ये हमले होर्मुज में अमेरिकी कमर्शियल जहाजों पर हमलों के जवाब में किए गए हैं. ईरान ने भी अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलों से हमला बोल दिया है.",
@@ -427,23 +731,23 @@
     "source_name": "Aaj Tak",
     "published": "2026-09-02T11:12:07+05:30",
     "hook": "अमेरिका और ईरान के बीच छिड़ी जंग!",
-    "script_hi": "अमेरिका ने ईरान के दो सरकारी तेल टैंकरों पर मिसाइलें दाग दी हैं और सौ सैन्य ठिकानों को भी निशाना बनाया है। ये हमले होर्मुज जलडमरूमध्य में अमेरिकी जहाजों पर हुए हमलों के जवाब में किए गए हैं। जवाब में ईरान ने भी अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलें दागी हैं।",
-    "tts_text_hi": "अमेरिका ने ईरान के दो सरकारी तेल टैंकरों पर मिसाइलें दाग दी हैं और सौ सैन्य ठिकानों को भी निशाना बनाया है। ये हमले होर्मुज जलडमरूमध्य में अमेरिकी जहाजों पर हुए हमलों के जवाब में किए गए हैं। जवाब में ईरान ने भी अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलें दागी हैं।",
-    "title": "अमेरिका का ईरान पर बड़ा हमला",
-    "caption": "अमेरिका और ईरान के बीच बढ़ा तनाव, तेल टैंकरों और सैन्य ठिकानों पर हुए हमले।",
+    "script_hi": "अमेरिका ने ईरान के दो सरकारी तेल टैंकरों पर मिसाइलें दाग दी हैं और सौ सैन्य ठिकानों को भी निशाना बनाया है। ये हमले होर्मुज जलडमरूमध्य में अमेरिकी जहाजों पर हुए हमलों के जवाब में किए गए हैं। जवाब में ईरान ने भी अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलों से हमला बोल दिया है।",
+    "tts_text_hi": "अमेरिका ने ईरान के दो सरकारी तेल टैंकरों पर मिसाइलें दाग दी हैं और सौ सैन्य ठिकानों को भी निशाना बनाया है। ये हमले होर्मुज जलडमरूमध्य में अमेरिकी जहाजों पर हुए हमलों के जवाब में किए गए हैं। जवाब में ईरान ने भी अमेरिकी ठिकानों पर बैलिस्टिक मिसाइलों से हमला बोल दिया है।",
+    "title": "अमेरिका ने ईरान पर किया बड़ा हमला",
+    "caption": "अमेरिका ने ईरान के तेल टैंकरों और सैन्य ठिकानों को बनाया निशाना, बदले में ईरान ने भी दागी मिसाइलें।",
     "hashtags": [
-      "#USIranWar",
-      "#BreakingNews",
-      "#America",
-      "#Iran",
-      "#MiddleEast",
-      "#USMilitary"
+      "USIranWar",
+      "America",
+      "Iran",
+      "BreakingNews",
+      "WorldNews",
+      "MissileAttack"
     ],
     "visual_queries": [
-      "US navy warship ocean",
-      "oil tanker explosion fire",
-      "military base missiles attack",
-      "ballistic missile launch night"
+      "US military warship ocean",
+      "oil tanker ship burning",
+      "military base explosion smoke",
+      "missile launch desert night"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -453,72 +757,67 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13753320/pexels-photo-13753320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29024430/12548634_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "US navy warship ocean",
-        "credit": "Ben Libby",
-        "duration_sec": 5
+        "query": "US military warship ocean",
+        "credit": "JeetsVids",
+        "source_duration_sec": 21,
+        "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34102791/pexels-photo-34102791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/20489097/20489097-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "military jets flying",
-        "credit": "Camilo Ospina",
-        "duration_sec": 5
+        "query": "oil tanker ship burning",
+        "credit": "David Lomax",
+        "source_duration_sec": 24,
+        "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27500118/pexels-photo-27500118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36917523/15639341_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Middle East conflict footage",
-        "credit": "Omar Ramadan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/23788/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "ballistic missile launch night",
-        "credit": "SpaceX",
-        "duration_sec": 5
+        "query": "military base explosion smoke",
+        "credit": "RAHULKUMAR R",
+        "source_duration_sec": 13,
+        "duration_sec": 6
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 3,
+    "timeline_covered_sec": 18,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका का ईरान पर बड़ा हमला! दो तेल टैंकर तबाह 🚨",
-        "caption": "अमेरिका ने ईरान के खिलाफ आर-पार की जंग छेड़ दी है! 🇺🇸🔥\n\nजवाबी कार्रवाई में अमेरिका ने ईरान के दो बड़े तेल टैंकरों को उड़ा दिया है और कई सैन्य ठिकानों को भी निशाना बनाया है। इस बड़े हमले के बाद मिडिल ईस्ट में तनाव खतरनाक स्तर पर पहुंच गया है।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#USIranWar #AmericaVsIran #MiddleEastTension #USAttack #BreakingNewsHindi"
+        "title": "अमेरिका ने ईरान के 2 तेल टैंकर उड़ाए! Middle East में छिड़ी आर-पार की जंग 🔥",
+        "caption": "अमेरिका और ईरान के बीच छिड़ी जंग!\n\nव्हाइट हाउस के आदेश पर अमेरिकी सेना ने ईरान के दो बड़े तेल टैंकरों को निशाना बनाकर तबाह कर दिया है। इसके साथ ही कई प्रमुख सैन्य ठिकानों पर भी जोरदार हमले किए गए हैं, जिससे मिडिल ईस्ट में तनाव चरम पर पहुंच गया है।\n\nपूरी कहानी देखें और समझें इस महायुद्ध के पीछे की असली वजह।\n\n#USIranWar #AmericaNews #MiddleEastCrisis #USAttack #WorldNews"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका ने ईरान के खिलाफ आर-पार की जंग छेड़ दी है! 🇺🇸🔥\n\nजवाबी कार्रवाई में अमेरिका ने ईरान के दो बड़े तेल टैंकरों को पूरी तरह तबाह कर दिया है और कई सैन्य ठिकानों को भी निशाना बनाया है। मिडिल ईस्ट का यह नया संघर्ष दुनिया पर क्या असर डालेगा?\n\nशेयर करें और अपनी राय कमेंट में बताएं!\n\n#USIranWar #AmericaVsIran #MiddleEastTension #USAttack #BreakingNewsHindi"
+        "caption": "अमेरिका और ईरान के बीच छिड़ी जंग! 🚨\n\nअमेरिका ने ईरान के दो तेल टैंकरों को उड़ा दिया है और कई सैन्य ठिकानों को तबाह कर दिया है। क्या यह एक बड़े विश्व युद्ध की शुरुआत है?\n\nअपनी राय कमेंट में बताएं और वीडियो पूरा देखें।\n\n#USIranWar #AmericaNews #MiddleEastCrisis #USAttack #WorldNews"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका और ईरान के बीच अब सीधी और खतरनाक जंग छिड़ चुकी है। 🇺🇸💥\n\nअमेरिका ने बड़ा बदला लेते हुए ईरान के दो तेल टैंकरों को उड़ा दिया है। इसके साथ ही कई प्रमुख सैन्य ठिकानों को भी निशाना बनाया गया है, जिससे पूरे इलाके में हड़कंप मच गया है।\n\nइस तनाव का असर पूरी दुनिया पर पड़ सकता है। इस पूरी खबर को जानिए और अपनी राय हमारे साथ शेयर करें।\n\n#USIranWar #AmericaVsIran #MiddleEastTension #USAttack #BreakingNewsHindi"
+        "caption": "अमेरिका और ईरान के बीच छिड़ी जंग! ⚠️\n\nबदले की कार्रवाई में अमेरिका ने ईरान के दो बड़े तेल टैंकरों को समंदर में ही तबाह कर दिया है। सिर्फ इतना ही नहीं, कई अहम सैन्य ठिकानों को भी निशाना बनाया गया है जिससे पूरी दुनिया की नजरें इस इलाके पर टिक गई हैं।\n\nपूरी घटना और इसके असर को विस्तार से जानने के लिए वीडियो पूरा देखें।\n\n#USIranWar #AmericaNews #MiddleEastCrisis #USAttack #WorldNews"
       },
       "hashtags": [
         "USIranWar",
-        "AmericaVsIran",
-        "MiddleEastTension",
+        "AmericaNews",
+        "MiddleEastCrisis",
         "USAttack",
-        "BreakingNewsHindi"
+        "WorldNews"
       ]
     },
-    "audio_path": "audio/us_iran_oil_tanker_missile_strikes_escalation.wav",
-    "audio_duration_sec": 18.9,
-    "video_path": "videos/us_iran_oil_tanker_missile_strikes_escalation.mp4",
-    "video_duration_sec": 26.95,
+    "audio_path": "audio/us_strikes_iran_oil_tankers_escalation.wav",
+    "audio_duration_sec": 19.26,
+    "video_path": "videos/us_strikes_iran_oil_tankers_escalation.mp4",
+    "video_duration_sec": 27.32,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "nwDxA4QFKn0",
-        "url": "https://youtube.com/shorts/nwDxA4QFKn0",
-        "attempted_at": "2026-09-02T06:41:41.276409+00:00"
+        "video_id": "kxGP5jSEeXY",
+        "url": "https://youtube.com/shorts/kxGP5jSEeXY",
+        "attempted_at": "2026-09-02T08:21:57.962301+00:00"
       },
       "facebook": {
         "success": true,
@@ -531,15 +830,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c538f9c4fbb734d37e0b",
+            "_id": "6a97dcc23e77dedeb7ddebf4",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और ईरान के बीच अब सीधी और खतरनाक जंग छिड़ चुकी है। 🇺🇸💥\n\nअमेरिका ने बड़ा बदला लेते हुए ईरान के दो तेल टैंकरों को उड़ा दिया है। इसके साथ ही कई प्रमुख सैन्य ठिकानों को भी निशाना बनाया गया है, जिससे पूरे इलाके में हड़कंप मच गया है।\n\nइस तनाव का असर पूरी दुनिया पर पड़ सकता है। इस पूरी खबर को जानिए और अपनी राय हमारे साथ शेयर करें।\n\n#USIranWar #AmericaVsIran #MiddleEastTension #USAttack #BreakingNewsHindi",
+            "content": "अमेरिका और ईरान के बीच छिड़ी जंग! ⚠️\n\nबदले की कार्रवाई में अमेरिका ने ईरान के दो बड़े तेल टैंकरों को समंदर में ही तबाह कर दिया है। सिर्फ इतना ही नहीं, कई अहम सैन्य ठिकानों को भी निशाना बनाया गया है जिससे पूरी दुनिया की नजरें इस इलाके पर टिक गई हैं।\n\nपूरी घटना और इसके असर को विस्तार से जानने के लिए वीडियो पूरा देखें।\n\n#USIranWar #AmericaNews #MiddleEastCrisis #USAttack #WorldNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331317593_t8dcrkv2_us_iran_oil_tanker_missile_strikes_escalation.mp4",
-                "_id": "6a97c538f9c4fbb734d37e0c"
+                "url": "https://media.zernio.com/media/1788337343199_b0miwajn_us_strikes_iran_oil_tankers_escalation.mp4",
+                "_id": "6a97dcc23e77dedeb7ddebf5"
               }
             ],
             "platforms": [
@@ -556,17 +855,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:41:59.119Z",
+                "scheduledFor": "2026-09-02T08:22:25.185Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "4024a572e116ade41713f56e64da7879",
-                "_id": "6a97c538f9c4fbb734d37e0d",
-                "platformPostId": "2196689847729472",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2196689847729472",
-                "publishedAt": "2026-09-02T06:42:06.223Z"
+                "contentHash": "52453fa7f3f513e48ea11a1ffa9dc0f2",
+                "_id": "6a97dcc23e77dedeb7ddebf6",
+                "platformPostId": "2302047993666740",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2302047993666740",
+                "publishedAt": "2026-09-02T08:22:32.150Z"
               }
             ],
-            "scheduledFor": "2026-09-02T06:41:59.119Z",
+            "scheduledFor": "2026-09-02T08:22:25.185Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -578,14 +877,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:42:00.030Z",
-            "updatedAt": "2026-09-02T06:42:06.326Z",
+            "createdAt": "2026-09-02T08:22:26.264Z",
+            "updatedAt": "2026-09-02T08:22:32.270Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:42:00.138Z"
+            "publishingClaimedAt": "2026-09-02T08:22:26.414Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:42:06.504361+00:00"
+        "attempted_at": "2026-09-02T08:22:32.503442+00:00"
       },
       "instagram": {
         "success": true,
@@ -598,15 +897,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c5598d162f5161d357af",
+            "_id": "6a97dceacb149d2f583d556c",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका ने ईरान के खिलाफ आर-पार की जंग छेड़ दी है! 🇺🇸🔥\n\nजवाबी कार्रवाई में अमेरिका ने ईरान के दो बड़े तेल टैंकरों को पूरी तरह तबाह कर दिया है और कई सैन्य ठिकानों को भी निशाना बनाया है। मिडिल ईस्ट का यह नया संघर्ष दुनिया पर क्या असर डालेगा?\n\nशेयर करें और अपनी राय कमेंट में बताएं!\n\n#USIranWar #AmericaVsIran #MiddleEastTension #USAttack #BreakingNewsHindi",
+            "content": "अमेरिका और ईरान के बीच छिड़ी जंग! 🚨\n\nअमेरिका ने ईरान के दो तेल टैंकरों को उड़ा दिया है और कई सैन्य ठिकानों को तबाह कर दिया है। क्या यह एक बड़े विश्व युद्ध की शुरुआत है?\n\nअपनी राय कमेंट में बताएं और वीडियो पूरा देखें।\n\n#USIranWar #AmericaNews #MiddleEastCrisis #USAttack #WorldNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331350667_lryewpar_us_iran_oil_tanker_missile_strikes_escalation.mp4",
-                "_id": "6a97c5598d162f5161d357b0"
+                "url": "https://media.zernio.com/media/1788337381731_ixx159oa_us_strikes_iran_oil_tankers_escalation.mp4",
+                "_id": "6a97dceacb149d2f583d556d"
               }
             ],
             "platforms": [
@@ -623,14 +922,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:42:31.862Z",
+                "scheduledFor": "2026-09-02T08:23:04.137Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "071e2694af8e785b9c418455d90c160d",
-                "_id": "6a97c5598d162f5161d357b1"
+                "contentHash": "c1155153cc03e542a1ba3f36cc4d6445",
+                "_id": "6a97dceacb149d2f583d556e"
               }
             ],
-            "scheduledFor": "2026-09-02T06:42:31.862Z",
+            "scheduledFor": "2026-09-02T08:23:04.137Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -642,43 +941,291 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:42:33.527Z",
-            "updatedAt": "2026-09-02T06:42:35.464Z",
+            "createdAt": "2026-09-02T08:23:06.096Z",
+            "updatedAt": "2026-09-02T08:23:07.709Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:42:33.650Z"
+            "publishingClaimedAt": "2026-09-02T08:23:06.168Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:42:35.808336+00:00"
+        "attempted_at": "2026-09-02T08:23:08.043391+00:00"
       }
     }
   },
   {
-    "topic_label": "nhai_toll_plaza_fake_software_ed_raid",
+    "topic_label": "delhi_patna_bullet_train_corridor",
     "virality_score": 8,
-    "reason": "ED raids 14 locations across 7 states over a massive fake software scam causing 95% toll tax evasion.",
+    "reason": "New bullet train update reveals travel time of just 4.5 hours from Delhi to Patna and 2 hours to Lucknow.",
+    "region": "india",
+    "headline": "दिल्ली से सवा दो घंटे में लखनऊ और 4.5 घंटे में पटना पहुंचाएगी बुलेट ट्रेन, देखें पूरा रूट चार्ट",
+    "source_summary": "रेल मंत्री अश्विनी वैष्णव ने दिल्ली से यूपी-बिहार हाईस्पीड रेल कॉरिडोर (Bullet Train) को लेकर बड़ा अपडेट दिया है. इस कॉरिडोर के तैयार होने के बाद अब दिल्ली से पटना की दूरी महज 4.5 घंटे और लखनऊ की दूरी 2 घंटे 12 मिनट में तय होगी. जानिए आगरा, कानपुर, प्रयागराज और वाराणसी का ट्रैवल टाइम व रूट डिटेल्स.",
+    "source_url": "https://ndtv.in/utility-news/indian-railway-minister-ashwini-vaishnaw-announces-delhi-patna-high-speed-bullet-train-route-11990673#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 02 Sep 2026 11:23:04 +0530",
+    "hook": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में!",
+    "script_hi": "रेल मंत्री अश्विनी वैष्णव ने दिल्ली से उत्तर प्रदेश और बिहार हाईस्पीड रेल कॉरिडोर को लेकर बड़ा अपडेट दिया है. इस कॉरिडोर के तैयार होने के बाद दिल्ली से पटना की दूरी महज चार दशमलव पाँच घंटे और लखनऊ की दूरी दो घंटे बारह मिनट में तय होगी. रूट चार्ट के मुताबिक इस बुलेट ट्रेन से आगरा, कानपुर, प्रयागराज और वाराणसी का सफर भी बेहद कम समय में पूरा हो जाएगा.",
+    "tts_text_hi": "रेल मंत्री अश्विनी वैष्णव ने दिल्ली से उत्तर प्रदेश और बिहार हाईस्पीड रेल कॉरिडोर को लेकर बड़ा अपडेट दिया है. इस कॉरिडोर के तैयार होने के बाद दिल्ली से पटना की दूरी महज चार दशमलव पाँच घंटे और लखनऊ की दूरी दो घंटे बारह मिनट में तय होगी. रूट चार्ट के मुताबिक इस बुलेट ट्रेन से आगरा, कानपुर, प्रयागराज और वाराणसी का सफर भी बेहद कम समय में पूरा हो जाएगा.",
+    "title": "दिल्ली से लखनऊ और पटना के लिए बुलेट ट्रेन का रूट चार्ट",
+    "caption": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे और पटना साढ़े चार घंटे में! जानिए नया बुलेट ट्रेन रूट चार्ट।",
+    "hashtags": [
+      "BulletTrain",
+      "DelhiLucknowBulletTrain",
+      "IndianRailways",
+      "AshwiniVaishnaw",
+      "DelhiPatna",
+      "VaranasiNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian Railway Minister press conference India",
+      "high speed train India",
+      "Lucknow city landmark India",
+      "Patna city view India"
+    ],
+    "named_person": "Ashwini Vaishnaw",
+    "named_person_hi": "अश्विनी वैष्णव",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "अश्विनी वैष्णव",
+        "source": "fallback",
+        "query": "Ashwini Vaishnaw",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35064156/14853174_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian Railway Minister press conference India",
+        "credit": "VIKRAM GUPTA",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36524430/pexels-photo-36524430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high speed train India",
+        "credit": "Aryan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18683073/pexels-photo-18683073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Lucknow city landmark India",
+        "credit": "Prashant pacific",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20533397/pexels-photo-20533397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Patna city view India",
+        "credit": "Chandan Suman 🇮🇳",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दिल्ली से लखनऊ सिर्फ 2 घंटे 15 मिनट में! बुलेट ट्रेन का रूट चार्ट 🚆",
+        "caption": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में! 🚆\n\nअब राजधानी से पटना की दूरी भी सिमट जाएगी। देश के इस नए हाई-स्पीड कॉरिडोर का पूरा रूट चार्ट सामने आ गया है, जिससे सफर का समय आधे से भी कम हो जाएगा।\n\nपूरी डिटेल वीडियो में देखें और बताएं, आप इस ट्रेन से सबसे पहले कहां जाना चाहेंगे?\n\n#BulletTrain #DelhiLucknow #IndianRailways #DelhiPatna #HighSpeedRail"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में! ⚡\n\nसोचिए, सुबह नाश्ता दिल्ली में और दोपहर का खाना सीधे पटना में। बुलेट ट्रेन प्रोजेक्ट का नया रूट चार्ट आ गया है जो आपका सफर पूरी तरह बदलने वाला है।\n\nशेयर करें उस दोस्त के साथ जिसके साथ आप इस ट्रेन में पहली राइड लेना चाहते हैं!\n\n#BulletTrain #DelhiLucknow #IndianRailways #DelhiPatna #HighSpeedRail"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में और पटना साढ़े चार घंटे में! 🚆✨\n\nअब लंबी दूरी के सफर के लिए घंटों ट्रेन में बैठने की जरूरत नहीं पड़ेगी। सरकार के इस महत्वाकांक्षी बुलेट ट्रेन प्रोजेक्ट का पूरा रूट चार्ट जारी हो चुका है, जो आने वाले समय में आवागमन की तस्वीर बदल देगा।\n\nवीडियो में देखिए पूरा रूट चार्ट और जानिए आपके शहर में इसका स्टॉपेज है या नहीं।\n\n#BulletTrain #DelhiLucknow #IndianRailways #DelhiPatna #HighSpeedRail"
+      },
+      "hashtags": [
+        "BulletTrain",
+        "DelhiLucknow",
+        "IndianRailways",
+        "DelhiPatna",
+        "HighSpeedRail"
+      ]
+    },
+    "audio_path": "audio/delhi_patna_bullet_train_corridor.wav",
+    "audio_duration_sec": 27.0,
+    "video_path": "videos/delhi_patna_bullet_train_corridor.mp4",
+    "video_duration_sec": 35.02,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "4c6fliNXQNw",
+        "url": "https://youtube.com/shorts/4c6fliNXQNw",
+        "attempted_at": "2026-09-02T08:28:52.310538+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97de63e4100aea470d1add",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में और पटना साढ़े चार घंटे में! 🚆✨\n\nअब लंबी दूरी के सफर के लिए घंटों ट्रेन में बैठने की जरूरत नहीं पड़ेगी। सरकार के इस महत्वाकांक्षी बुलेट ट्रेन प्रोजेक्ट का पूरा रूट चार्ट जारी हो चुका है, जो आने वाले समय में आवागमन की तस्वीर बदल देगा।\n\nवीडियो में देखिए पूरा रूट चार्ट और जानिए आपके शहर में इसका स्टॉपेज है या नहीं।\n\n#BulletTrain #DelhiLucknow #IndianRailways #DelhiPatna #HighSpeedRail",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788337759707_8yi2ffee_delhi_patna_bullet_train_corridor.mp4",
+                "_id": "6a97de63e4100aea470d1ade"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:29:21.739Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "d19b7b9f3e072b8f52c70a05e8e31c85",
+                "_id": "6a97de63e4100aea470d1adf",
+                "platformPostId": "1342228881041059",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1342228881041059",
+                "publishedAt": "2026-09-02T08:29:30.095Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:29:21.739Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:29:23.322Z",
+            "updatedAt": "2026-09-02T08:29:30.245Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:29:23.474Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:29:30.719434+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97de8e46704a2f10e12a8c",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दिल्ली से लखनऊ सिर्फ सवा दो घंटे में! ⚡\n\nसोचिए, सुबह नाश्ता दिल्ली में और दोपहर का खाना सीधे पटना में। बुलेट ट्रेन प्रोजेक्ट का नया रूट चार्ट आ गया है जो आपका सफर पूरी तरह बदलने वाला है।\n\nशेयर करें उस दोस्त के साथ जिसके साथ आप इस ट्रेन में पहली राइड लेना चाहते हैं!\n\n#BulletTrain #DelhiLucknow #IndianRailways #DelhiPatna #HighSpeedRail",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788337798927_97luzuqr_delhi_patna_bullet_train_corridor.mp4",
+                "_id": "6a97de8e46704a2f10e12a8d"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:30:01.084Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "072a29611c9e0037de9ebbc3752375f1",
+                "_id": "6a97de8e46704a2f10e12a8e"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:30:01.084Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:30:06.122Z",
+            "updatedAt": "2026-09-02T08:30:09.587Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:30:06.490Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:30:10.706412+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "nhai_toll_fake_software_ed_raids",
+    "virality_score": 7,
+    "reason": "ED conducts massive raids across 7 states in NHAI toll plaza collection scam involving unauthorized software.",
     "region": "india",
     "headline": "NHAI Toll Scam: फर्जी सॉफ्टवेयर से 95% टोल चोरी, ED ने यूपी-दिल्ली समेत 7 राज्यों में 14 ठिकानों पर मारे छापे",
     "source_summary": "NHAI Toll Plaza Collection Scam Case: इंफोर्समेंट डायरेक्टोरेट यानी कि प्रवर्तन निदेशालय (ED) ने राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) के टोल प्लाजा पर फर्जी टोल वसूली और मनी लॉन्ड्रिंग के मामले में बुधवार, 2 सितंबर 2026 को देशभर में 14 ठिकानों पर",
     "source_url": "https://hindi.oneindia.com/news/india/nhai-fastag-digital-toll-collection-anpr-system-future-of-indian-highways-1640733.html",
     "source_name": "Oneindia Hindi",
     "published": "Wed, 02 Sep 2026 11:46:48 +0530",
-    "hook": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी!",
-    "script_hi": "राष्ट्रीय राजमार्ग प्राधिकरण के टोल प्लाजा पर फर्जी सॉफ्टवेयर से पचानवे प्रतिशत टोल चोरी का मामला सामने आया है। प्रवर्तन निदेशालय यानी ई डी ने उत्तर प्रदेश और दिल्ली समेत सात राज्यों में चौदह ठिकानों पर छापे मारे हैं। जांच एजेंसी फर्जी टोल वसूली और मनी लॉन्ड्रिंग की गुत्थी सुलझाने में जुटी है।",
-    "tts_text_hi": "राष्ट्रीय राजमार्ग प्राधिकरण के टोल प्लाजा पर फर्जी सॉफ्टवेयर से पचानवे प्रतिशत टोल चोरी का मामला सामने आया है। प्रवर्तन निदेशालय यानी ई डी ने उत्तर प्रदेश और दिल्ली समेत सात राज्यों में चौदह ठिकानों पर छापे मारे हैं। जांच एजेंसी फर्जी टोल वसूली और मनी लॉन्ड्रिंग की गुत्थी सुलझाने में जुटी है।",
+    "hook": "एनएचएआई टोल प्लाजा पर बड़ा फर्जीवाड़ा!",
+    "script_hi": "एनएचएआई टोल प्लाजा पर फर्जी सॉफ्टवेयर से पंचानवे प्रतिशत टोल चोरी का मामला सामने आया है। प्रवर्तन निदेशालय यानी ईडी ने उत्तर प्रदेश और दिल्ली समेत सात राज्यों में चौदह ठिकानों पर छापेमारी की है।",
+    "tts_text_hi": "एनएचएआई टोल प्लाजा पर फर्जी सॉफ्टवेयर से पंचानवे प्रतिशत टोल चोरी का मामला सामने आया है। प्रवर्तन निदेशालय यानी ईडी ने उत्तर प्रदेश और दिल्ली समेत सात राज्यों में चौदह ठिकानों पर छापेमारी की है।",
     "title": "NHAI Toll Scam: फर्जी सॉफ्टवेयर से टोल चोरी, ED के छापे",
-    "caption": "NHAI टोल प्लाजा पर फर्जी सॉफ्टवेयर से 95% टोल चोरी का पर्दाफाश! ED ने यूपी-दिल्ली समेत 7 राज्यों में 14 ठिकानों पर छापेमारी की है।",
+    "caption": "एनएचएआई टोल प्लाजा पर फर्जी सॉफ्टवेयर से पंचानवे प्रतिशत टोल चोरी और मनी लॉन्ड्रिंग मामले में ईडी की बड़ी कार्रवाई। उत्तर प्रदेश और दिल्ली समेत सात राज्यों में चौदह ठिकानों पर छापे।",
     "hashtags": [
       "NHAI",
       "TollScam",
-      "EDRaids",
-      "MoneyLaundering",
+      "ED",
+      "EnforcementDirectorate",
       "IndiaNews",
-      "BreakingNews"
+      "BreakingNews",
+      "UttarPradesh",
+      "Delhi"
     ],
     "visual_queries": [
-      "Indian highway toll plaza India",
-      "Enforcement Directorate office India",
+      "Indian highway toll plaza",
+      "ED office India",
       "police raid India"
     ],
     "named_person": null,
@@ -690,97 +1237,98 @@
     "assets": [
       {
         "type": "video",
+        "url": "https://videos.pexels.com/video-files/35594377/15083880_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "highway toll plaza India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 13,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
         "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "government office India",
+        "query": "government office building India",
         "credit": "Raaj Ugar",
         "source_duration_sec": 15,
         "duration_sec": 6
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/35594377/15083880_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "highway toll plaza India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 13,
         "duration_sec": 6
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38501760/pexels-photo-38501760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian highway toll plaza India",
+        "query": "Indian highway toll plaza",
         "credit": "Sathish Kumar",
-        "duration_sec": 3.6
+        "duration_sec": 3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33827312/pexels-photo-33827312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Enforcement Directorate office India",
-        "credit": "Devansh Bose",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police raid India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16155546/pexels-photo-16155546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "highway traffic India",
-        "credit": "thirugraphy .11",
-        "duration_sec": 3.6
+        "query": "ED office India",
+        "credit": "Capture Crew",
+        "duration_sec": 3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38501760/pexels-photo-38501760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "busy highway toll gate",
+        "query": "highway toll gate India",
         "credit": "Sathish Kumar",
-        "duration_sec": 3.6
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8382042/pexels-photo-8382042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "investigation files office desk",
+        "credit": "cottonbro studio",
+        "duration_sec": 3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "NHAI Toll Scam: फर्जी सॉफ्टवेयर से 95% टोल चोरी, ED की बड़ी कार्रवाई! 🚨",
-        "caption": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी! 🤯\n\nED ने फर्जी सॉफ्टवेयर का इस्तेमाल कर हो रही इस, करोड़ों की हेराफेरी का पर्दाफाश करते हुए यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर ताबड़तोड़ छापे मारे हैं।\n\nआखिर कैसे चल रहा था ये पूरा खेल? पूरी कहानी देखें।\n\n#NHAITollScam #EDRaids #TollPlazaFraud #FastagScam #CrimeNews"
+        "title": "फर्जी सॉफ्टवेयर से 95% टोल चोरी! ED के ताबड़तोड़ छापे 🚨",
+        "caption": "सड़क पर टोल देते वक्त क्या आपको कभी शक हुआ है? 🛣️\n\nED की जांच में एक ऐसा फर्जीवाड़ा सामने आया है जहां सॉफ्टवेयर से छेड़छाड़ कर NHAI को सीधा चूना लगाया जा रहा था। यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर हुई इस रेड ने सबको हैरान कर दिया है।\n\nपूरी कहानी देखें और समझें कैसे चल रहा था ये खेल।\n\n#NHAITollScam #EDRaids #TollTaxFraud #LatestNews #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी! 🤯\n\nफर्जी सॉफ्टवेयर के जरिए NHAI को करोड़ों का चूना लगाया जा रहा था। ED ने यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर एक साथ रेड मारी है।\n\nआपकी फास्टैग ट्रांजैक्शन कितनी सुरक्षित हैं? पूरी सच्चाई जानें वीडियो में।\n\n#NHAITollScam #EDRaids #TollPlazaFraud #FastagScam #CrimeNews"
+        "caption": "सड़क पर टोल देते वक्त क्या आपको कभी शक हुआ है? 🛣️\n\nED की जांच में एक ऐसा फर्जीवाड़ा सामने आया है जहां सॉफ्टवेयर से छेड़छाड़ कर NHAI को सीधा चूना लगाया जा रहा था। यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर रेड पड़ी है।\n\nआपका इस पर क्या कहना है? कमेंट में बताएं। 👇\n\n#NHAITollScam #EDRaids #TollTaxFraud #LatestNews #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी! 🤯\n\nदेशभर के टोल प्लाजा पर एक ऐसा खेल चल रहा था जिसके बारे में जानकर आप भी चौंक जाएंगे। फर्जी सॉफ्टवेयर के जरिए NHAI को करोड़ों रुपये का चूना लगाया जा रहा था।\n\nमामले की गंभीरता को देखते हुए ED ने उत्तर प्रदेश और दिल्ली समेत 7 राज्यों में 14 अलग-अलग ठिकानों पर एक साथ छापे मारे हैं। आखिर कैसे अंजाम दिया जा रहा था इस बड़े घोटाले को? पूरी कहानी वीडियो में देखें।\n\n#NHAITollScam #EDRaids #TollPlazaFraud #FastagScam #CrimeNews"
+        "caption": "हम और आप टोल टैक्स भरते हैं, लेकिन खेल कुछ और ही चल रहा था। 🛑\n\nED ने यूपी और दिल्ली समेत 7 राज्यों के 14 ठिकानों पर ताबड़तोड़ छापे मारे हैं। शुरुआती जांच में सामने आया है कि एक खास फर्जी सॉफ्टवेयर के जरिए टोल प्लाजा पर बड़ा गोलमाल किया जा रहा था।\n\nदेखिए इस पूरे घोटाले की अंदर की कहानी और जानिए कैसे एजेंसियां तक इस शातिर तरीके को देखकर हैरान रह गईं।\n\n#NHAITollScam #EDRaids #TollTaxFraud #LatestNews #CrimeNews"
       },
       "hashtags": [
         "NHAITollScam",
         "EDRaids",
-        "TollPlazaFraud",
-        "FastagScam",
+        "TollTaxFraud",
+        "LatestNews",
         "CrimeNews"
       ]
     },
-    "audio_path": "audio/nhai_toll_plaza_fake_software_ed_raid.wav",
-    "audio_duration_sec": 21.51,
-    "video_path": "videos/nhai_toll_plaza_fake_software_ed_raid.mp4",
-    "video_duration_sec": 29.57,
+    "audio_path": "audio/nhai_toll_fake_software_ed_raids.wav",
+    "audio_duration_sec": 15.46,
+    "video_path": "videos/nhai_toll_fake_software_ed_raids.mp4",
+    "video_duration_sec": 23.51,
     "publish_results": {
       "youtube": {
         "success": true,
-        "video_id": "xwgd1qyukfo",
-        "url": "https://youtube.com/shorts/xwgd1qyukfo",
-        "attempted_at": "2026-09-02T06:46:29.934497+00:00"
+        "video_id": "omddbfQDWXA",
+        "url": "https://youtube.com/shorts/omddbfQDWXA",
+        "attempted_at": "2026-09-02T08:35:07.171095+00:00"
       },
       "facebook": {
         "success": true,
@@ -793,15 +1341,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c6632cfc088ffab5466e",
+            "_id": "6a97dfcd5bc060c3be07b8dc",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी! 🤯\n\nदेशभर के टोल प्लाजा पर एक ऐसा खेल चल रहा था जिसके बारे में जानकर आप भी चौंक जाएंगे। फर्जी सॉफ्टवेयर के जरिए NHAI को करोड़ों रुपये का चूना लगाया जा रहा था।\n\nमामले की गंभीरता को देखते हुए ED ने उत्तर प्रदेश और दिल्ली समेत 7 राज्यों में 14 अलग-अलग ठिकानों पर एक साथ छापे मारे हैं। आखिर कैसे अंजाम दिया जा रहा था इस बड़े घोटाले को? पूरी कहानी वीडियो में देखें।\n\n#NHAITollScam #EDRaids #TollPlazaFraud #FastagScam #CrimeNews",
+            "content": "हम और आप टोल टैक्स भरते हैं, लेकिन खेल कुछ और ही चल रहा था। 🛑\n\nED ने यूपी और दिल्ली समेत 7 राज्यों के 14 ठिकानों पर ताबड़तोड़ छापे मारे हैं। शुरुआती जांच में सामने आया है कि एक खास फर्जी सॉफ्टवेयर के जरिए टोल प्लाजा पर बड़ा गोलमाल किया जा रहा था।\n\nदेखिए इस पूरे घोटाले की अंदर की कहानी और जानिए कैसे एजेंसियां तक इस शातिर तरीके को देखकर हैरान रह गईं।\n\n#NHAITollScam #EDRaids #TollTaxFraud #LatestNews #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331616205_ijod3jd6_nhai_toll_plaza_fake_software_ed_raid.mp4",
-                "_id": "6a97c6632cfc088ffab5466f"
+                "url": "https://media.zernio.com/media/1788338122503_lxbffow7_nhai_toll_fake_software_ed_raids.mp4",
+                "_id": "6a97dfcd5bc060c3be07b8dd"
               }
             ],
             "platforms": [
@@ -818,17 +1366,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:46:57.781Z",
+                "scheduledFor": "2026-09-02T08:35:24.388Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "144c82cdf89fa62d8e2b5409eb6ecdb3",
-                "_id": "6a97c6632cfc088ffab54670",
-                "platformPostId": "1581960786113061",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1581960786113061",
-                "publishedAt": "2026-09-02T06:47:04.978Z"
+                "contentHash": "e5ccf69820536e348b5ca1686fb6ea89",
+                "_id": "6a97dfcd5bc060c3be07b8de",
+                "platformPostId": "1785007496016006",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1785007496016006",
+                "publishedAt": "2026-09-02T08:35:32.801Z"
               }
             ],
-            "scheduledFor": "2026-09-02T06:46:57.781Z",
+            "scheduledFor": "2026-09-02T08:35:24.388Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -840,14 +1388,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:46:59.616Z",
-            "updatedAt": "2026-09-02T06:47:05.139Z",
+            "createdAt": "2026-09-02T08:35:25.993Z",
+            "updatedAt": "2026-09-02T08:35:33.003Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:46:59.717Z"
+            "publishingClaimedAt": "2026-09-02T08:35:26.132Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:47:05.394994+00:00"
+        "attempted_at": "2026-09-02T08:35:33.232860+00:00"
       },
       "instagram": {
         "success": true,
@@ -860,15 +1408,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a97c68a8aa7edc669a93581",
+            "_id": "6a97dff15bc060c3be07c2a0",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "टोल प्लाजा पर सबसे बड़ा फर्जीवाड़ा! नब्बे प्रतिशत से ज्यादा टोल चोरी! 🤯\n\nफर्जी सॉफ्टवेयर के जरिए NHAI को करोड़ों का चूना लगाया जा रहा था। ED ने यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर एक साथ रेड मारी है।\n\nआपकी फास्टैग ट्रांजैक्शन कितनी सुरक्षित हैं? पूरी सच्चाई जानें वीडियो में।\n\n#NHAITollScam #EDRaids #TollPlazaFraud #FastagScam #CrimeNews",
+            "content": "सड़क पर टोल देते वक्त क्या आपको कभी शक हुआ है? 🛣️\n\nED की जांच में एक ऐसा फर्जीवाड़ा सामने आया है जहां सॉफ्टवेयर से छेड़छाड़ कर NHAI को सीधा चूना लगाया जा रहा था। यूपी और दिल्ली समेत 7 राज्यों में 14 ठिकानों पर रेड पड़ी है।\n\nआपका इस पर क्या कहना है? कमेंट में बताएं। 👇\n\n#NHAITollScam #EDRaids #TollTaxFraud #LatestNews #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788331655542_ln01za5y_nhai_toll_plaza_fake_software_ed_raid.mp4",
-                "_id": "6a97c68a8aa7edc669a93582"
+                "url": "https://media.zernio.com/media/1788338158469_xwk6zokx_nhai_toll_fake_software_ed_raids.mp4",
+                "_id": "6a97dff15bc060c3be07c2a1"
               }
             ],
             "platforms": [
@@ -885,14 +1433,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-02T06:47:36.840Z",
+                "scheduledFor": "2026-09-02T08:36:00.126Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "66ea11f2436e3e2a7ed2652aa5402369",
-                "_id": "6a97c68a8aa7edc669a93583"
+                "contentHash": "a72bacf3fe1c2870dd498308292d8b0b",
+                "_id": "6a97dff15bc060c3be07c2a2"
               }
             ],
-            "scheduledFor": "2026-09-02T06:47:36.840Z",
+            "scheduledFor": "2026-09-02T08:36:00.126Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -904,14 +1452,273 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-02T06:47:38.091Z",
-            "updatedAt": "2026-09-02T06:47:40.122Z",
+            "createdAt": "2026-09-02T08:36:01.540Z",
+            "updatedAt": "2026-09-02T08:36:04.345Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-02T06:47:38.184Z"
+            "publishingClaimedAt": "2026-09-02T08:36:01.629Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-02T06:47:40.432150+00:00"
+        "attempted_at": "2026-09-02T08:36:04.743767+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "nahargarh_biological_park_tiger_attack",
+    "virality_score": 7,
+    "reason": "Tiger named Shivaji kills a female worker at Nahargarh biological park, causing major panic.",
+    "region": "india",
+    "headline": "नाहरगढ़ में बाघ ने महिला को मार डाला, 'शिवाजी' के हमले से बायोलोजिक पार्क में मचा हड़कंप",
+    "source_summary": "नाहरगढ़ जैविक उद्यान में शिवाजी नामक बाघ ने एक महिला मजदूर पर हमला कर दिया जिसके बाद वन विभाग में हड़कंप मच गया है.",
+    "source_url": "https://ndtv.in/rajasthan-news/tiger-named-shivaji-kills-woman-in-nahargarh-biological-park-causing-panic-among-forest-officials-11990634#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 02 Sep 2026 11:12:35 +0530",
+    "hook": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार!",
+    "script_hi": "जयपुर के नाहरगढ़ जैविक उद्यान में शिवाजी नामक बाघ ने एक महिला मजदूर पर हमला कर दिया, जिससे वन विभाग में हड़कंप मच गया है। इस दर्दनाक घटना के बाद सुरक्षा व्यवस्था पर गंभीर सवाल खड़े हो गए हैं।",
+    "tts_text_hi": "जयपुर के नाहरगढ़ जैविक उद्यान में शिवाजी नामक बाघ ने एक महिला मजदूर पर हमला कर दिया, जिससे वन विभाग में हड़कंप मच गया है। इस दर्दनाक घटना के बाद सुरक्षा व्यवस्था पर गंभीर सवाल खड़े हो गए हैं।",
+    "title": "नाहरगढ़ जैविक उद्यान में बाघ का हमला",
+    "caption": "जयपुर के नाहरगढ़ जैविक उद्यान में शिवाजी नामक बाघ ने महिला मजदूर पर हमला किया।",
+    "hashtags": [
+      "#NahargarhBiologicalPark",
+      "#TigerAttack",
+      "#JaipurNews",
+      "#ForestDepartment",
+      "#RajasthanNews"
+    ],
+    "visual_queries": [
+      "Nahargarh Biological Park India",
+      "Indian tiger in forest",
+      "forest department officials India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/25773105/pexels-photo-25773105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Nahargarh Biological Park India",
+        "credit": "Sagar Pant",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15345428/pexels-photo-15345428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian tiger in forest",
+        "credit": "GVN Santhosh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13282261/pexels-photo-13282261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "forest department officials India",
+        "credit": "Devansh Bose",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15345428/pexels-photo-15345428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wild tiger wildlife India",
+        "credit": "GVN Santhosh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29339169/pexels-photo-29339169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "zoo enclosure India",
+        "credit": "Karan Mridha",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13291279/pexels-photo-13291279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "forest forest ranger India",
+        "credit": "Ankit Rainloure",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16229274/pexels-photo-16229274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "tiger wildlife reserve",
+        "credit": "Diego F. Parra",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ का हमला, महिला मजदूर की मौत 🐅",
+        "caption": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार! 🐅\n\n'शिवाजी' नाम के बाघ के अचानक इस खौफनाक हमले से पूरे बायोलॉजिकल पार्क में हड़कंप मच गया है। सुरक्षा व्यवस्था पर अब सवाल उठने लगे हैं।\n\nपूरी घटना क्या है, जानिए वीडियो में।\n\n#NahargarhBiologicalPark #JaipurNews #TigerAttack #RajasthanNews #WildlifeIncidents"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार! 🐅\n\nपार्क के भीतर 'शिवाजी' नाम के बाघ ने अचानक हमला कर दिया, जिससे मौके पर अफरातफरी मच गई। \n\nआखिर चूक कहां हुई? पूरी कहानी देखें।\n\n#NahargarhBiologicalPark #JaipurNews #TigerAttack #RajasthanNews #WildlifeIncidents"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार! 🐅\n\n'शिवाजी' नाम के बाघ के इस अचानक और घातक हमले ने पार्क के भीतर सुरक्षा दावों की पोल खोल दी है। घटना के बाद से पूरे इलाके में दहशत का माहौल है और प्रशासन सवालों के घेरे में है।\n\nआखिर यह सब कैसे हुआ, पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#NahargarhBiologicalPark #JaipurNews #TigerAttack #RajasthanNews #WildlifeIncidents"
+      },
+      "hashtags": [
+        "NahargarhBiologicalPark",
+        "JaipurNews",
+        "TigerAttack",
+        "RajasthanNews",
+        "WildlifeIncidents"
+      ]
+    },
+    "audio_path": "audio/nahargarh_biological_park_tiger_attack.wav",
+    "audio_duration_sec": 13.83,
+    "video_path": "videos/nahargarh_biological_park_tiger_attack.mp4",
+    "video_duration_sec": 21.79,
+    "publish_results": {
+      "youtube": {
+        "success": true,
+        "video_id": "UldBzmMz2gw",
+        "url": "https://youtube.com/shorts/UldBzmMz2gw",
+        "attempted_at": "2026-09-02T08:41:36.936141+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97e15e98f2521c48a3c981",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार! 🐅\n\n'शिवाजी' नाम के बाघ के इस अचानक और घातक हमले ने पार्क के भीतर सुरक्षा दावों की पोल खोल दी है। घटना के बाद से पूरे इलाके में दहशत का माहौल है और प्रशासन सवालों के घेरे में है।\n\nआखिर यह सब कैसे हुआ, पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#NahargarhBiologicalPark #JaipurNews #TigerAttack #RajasthanNews #WildlifeIncidents",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788338523263_4f2uxd6m_nahargarh_biological_park_tiger_attack.mp4",
+                "_id": "6a97e15e98f2521c48a3c982"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=5dv8xq-VH_gQ7kNvwEvCGtf&_nc_oc=Adq8brChGURTGLficR0Gi0ifTyxPw7K7tRMF2wbbuDN2CT367JZzwnAgHuL7XhcrJYs&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=XUODw22XIz5Olkh2jQfroQ&_nc_tpa=Q5bMBQLhotU1vcRK7QFemgnBbvtyE7Ui5OIW9w-mN-qVHXbCU6HCjqr3XU7DOhCQ_WN-y1pFVl1ILLOc&oh=00_AQId9n6g7SLJWGR19w-qUs3fUWs5Mm9VKTIFVuDZ3iYq8Q&oe=6A9D7694",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:42:04.876Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a7ee18b98eca1bb4925d466bcfc75147",
+                "_id": "6a97e15e98f2521c48a3c983",
+                "platformPostId": "3587051718117127",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=3587051718117127",
+                "publishedAt": "2026-09-02T08:42:13.104Z"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:42:04.876Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:42:06.652Z",
+            "updatedAt": "2026-09-02T08:42:13.243Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:42:06.835Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:42:13.449024+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a97e17e3e0b6f632f94a4c0",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जयपुर के नाहरगढ़ जैविक उद्यान में बाघ ने महिला मजदूर को बनाया शिकार! 🐅\n\nपार्क के भीतर 'शिवाजी' नाम के बाघ ने अचानक हमला कर दिया, जिससे मौके पर अफरातफरी मच गई। \n\nआखिर चूक कहां हुई? पूरी कहानी देखें।\n\n#NahargarhBiologicalPark #JaipurNews #TigerAttack #RajasthanNews #WildlifeIncidents",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788338555631_6u6ejob8_nahargarh_biological_park_tiger_attack.mp4",
+                "_id": "6a97e17e3e0b6f632f94a4c1"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pewk__B5Xj4Q7kNvwHcEcM8&_nc_oc=AdoIyqcfceL7hDt7PuQV9YJTf6_tiCis8NY04ixU9LwJN7JSomE4mvNxoJRMsdCHn70&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DX3UodYi1DWBgrmBUORX6w&_nc_tpa=Q5bMBQLoWFf_Nt5LZb6ndk5clWPKcehfBOtSCugv0IKEutpXAd0PZ0CGw7Gc2QbbylFASAxWdoEDCjOOuA&oh=00_AQKQA0E4xgTqeNYOQZiTEwQlt_sBDptw9_dM3CEnC-zT5w&oe=6A9D6A3B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-02T08:42:37.108Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "bd537402fc2f3feeeee77c9914da8a17",
+                "_id": "6a97e17e3e0b6f632f94a4c2"
+              }
+            ],
+            "scheduledFor": "2026-09-02T08:42:37.108Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-02T08:42:38.284Z",
+            "updatedAt": "2026-09-02T08:42:40.697Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-02T08:42:38.363Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-02T08:42:41.207283+00:00"
       }
     }
   }
