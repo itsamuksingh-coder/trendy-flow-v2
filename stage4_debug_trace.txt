@@ -1,7 +1,5 @@
-ready_labels: ['disability_iit_madras_success_story', 'india_new_bullet_train_corridors', 'karnataka_29679_crore_investment_jobs', 'ram_temple_first_ceo_jitendra_mishra']
+ready_labels: ['anjali_arora_sita_look_viral', 'smriti_mandhana_century_world_records', 'trump_hormuz_strait_control_claim']
 
-bihar_man_scorpio_on_roof: SKIPPED (not in ready set)
-disability_iit_madras_success_story: SUCCESS -> video_path=videos/disability_iit_madras_success_story.mp4 dur=27.289887
-ram_temple_first_ceo_jitendra_mishra: SUCCESS -> video_path=videos/ram_temple_first_ceo_jitendra_mishra.mp4 dur=23.185215
-india_new_bullet_train_corridors: SUCCESS -> video_path=videos/india_new_bullet_train_corridors.mp4 dur=34.856553
-karnataka_29679_crore_investment_jobs: SUCCESS -> video_path=videos/karnataka_29679_crore_investment_jobs.mp4 dur=30.314218
+smriti_mandhana_century_world_records: SUCCESS -> video_path=videos/smriti_mandhana_century_world_records.mp4 dur=34.689887
+trump_hormuz_strait_control_claim: SUCCESS -> video_path=videos/trump_hormuz_strait_control_claim.mp4 dur=37.589887
+anjali_arora_sita_look_viral: SUCCESS -> video_path=videos/anjali_arora_sita_look_viral.mp4 dur=20.32322
