@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "topic_label": "mp_fake_ias_ips_scam",
+    "virality_score": 8,
+    "reason": "Bizarre fraud case in MP where conmen posed as IAS and IPS officers, duping people and extracting free services.",
+    "region": "india",
+    "headline": "MP में फर्जी IAS-IPS के कारनामे: कोई बना जिला कलेक्टर, तो किसी ने बांटे जॉइनिंग लेटर",
+    "source_summary": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर रौब जमाने और ठगी करने के 3 अलग-अलग मामले सामने आए हैं. पुलिस ने कार्रवाई करते हुए फर्जी IAS तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी IPS ऋषि यादव को गिरफ्तार किया है. पढ़ें तीनों मामलों की विस्तृत रिपोर्ट.",
+    "source_url": "https://ndtv.in/india/fake-ias-ips-cases-madhya-pradesh-bhopal-indore-arrests-11994336#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 00:06:35 +0530",
+    "hook": "मध्य प्रदेश में फर्जी आईएएस और आईपीएस अधिकारियों का पर्दाफाश!",
+    "script_hi": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने के तीन बड़े मामले सामने आए हैं। पुलिस ने कार्रवाई करते हुए फर्जी आईएएस तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी आईपीएस ऋषि यादव को गिरफ्तार कर लिया है। ये आरोपी लोगों को नौकरी का झांसा देकर और रौब जमाकर ठगते थे।",
+    "tts_text_hi": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने के तीन बड़े मामले सामने आए हैं। पुलिस ने कार्रवाई करते हुए फर्जी आईएएस तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी आईपीएस ऋषि यादव को गिरफ्तार कर लिया है। ये आरोपी लोगों को नौकरी का झांसा देकर और रौब जमाकर ठगते थे।",
+    "title": "MP में फर्जी IAS-IPS का भंडाफोड़",
+    "caption": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने वाले तीन आरोपियों को पुलिस ने किया गिरफ्तार।",
+    "hashtags": [
+      "#MadhyaPradesh",
+      "#FakeIAS",
+      "#BhopalNews",
+      "#IndoreNews",
+      "#CrimeNews",
+      "#PoliceAction"
+    ],
+    "visual_queries": [
+      "Indian police station building",
+      "police investigation India",
+      "fraud arrest India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6266305/pexels-photo-6266305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fraud arrest India",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "allahabad_hc_noida_dm_penalty",
+    "virality_score": 7,
+    "reason": "Allahabad HC orders Gautam Buddh Nagar DM to pay 5 lakh rupees from personal salary over wrongful NSA detention.",
+    "region": "india",
+    "headline": "नोएडा DM को जेब से देने होगा 5 लाख का मुआवजा ! DU छात्रा पर NSA लगाने के मामले में HC का बड़ा आदेश",
+    "source_summary": "DU छात्रा आकृति चौधरी पर NSA लगाने का मामला गौतमबुद्ध नगर प्रशासन को भारी पड़ गया. इलाहाबाद हाई कोर्ट ने कार्रवाई रद्द करते हुए DM की सैलरी से 5 लाख रुपये मुआवजा देने का आदेश दिया. जानिए पूरा मामला.",
+    "source_url": "https://ndtv.in/india/akriti-chaudhary-nsa-case-allahabad-hc-orders-5-lakh-compensation-from-dm-salary-11995479#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 10:30:00 +0530",
+    "hook": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये!",
+    "script_hi": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये! इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने की कार्रवाई को पूरी तरह रद्द कर दिया है। कोर्ट ने गौतमबुद्ध नगर प्रशासन को कड़ा संदेश देते हुए, छात्रा को पांच लाख रुपये मुआवजा डीएम के वेतन से काटकर देने का बड़ा आदेश दिया है।",
+    "tts_text_hi": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये! इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने की कार्रवाई को पूरी तरह रद्द कर दिया है। कोर्ट ने गौतमबुद्ध नगर प्रशासन को कड़ा संदेश देते हुए, छात्रा को पांच लाख रुपये मुआवजा डीएम के वेतन से काटकर देने का बड़ा आदेश दिया है।",
+    "title": "नोएडा डीएम को देना होगा पांच लाख मुआवजा, हाई कोर्ट का बड़ा आदेश",
+    "caption": "इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने के मामले में गौतमबुद्ध नगर प्रशासन को बड़ा झटका दिया है। कोर्ट ने डीएम के वेतन से पांच लाख रुपये मुआवजा देने का आदेश दिया है।",
+    "hashtags": [
+      "NoidaNews",
+      "AllahabadHighCourt",
+      "NSA",
+      "DelhiUniversity",
+      "UttarPradesh",
+      "LegalNews"
+    ],
+    "visual_queries": [
+      "Allahabad High Court building India",
+      "Indian district magistrate office",
+      "Delhi University college student India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38790890/pexels-photo-38790890.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Allahabad High Court building India",
+        "credit": "ravi verma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian district magistrate office",
+        "credit": "Preetesh  biswas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39193542/pexels-photo-39193542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi University college student India",
+        "credit": "Karan Hansraj",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  }
+]
