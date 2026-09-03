@@ -1,9 +1,7 @@
-ready_labels: ['indigenous_high_speed_bullet_train_india', 'marriage_salary_requirement_25_lakhs_survey', 'trump_living_president_1_dollar_coin_global', 'whatsapp_bill_payment_launch_india', 'zomato_delivery_boy_fake_currency_racket']
+ready_labels: ['disability_iit_madras_success_story', 'india_new_bullet_train_corridors', 'karnataka_29679_crore_investment_jobs', 'ram_temple_first_ceo_jitendra_mishra']
 
-whatsapp_bill_payment_launch_india: SUCCESS -> video_path=videos/whatsapp_bill_payment_launch_india.mp4 dur=24.456553
-stray_dog_attack_7_year_old_ghaziabad: SKIPPED (not in ready set)
-bihar_scorpio_car_parked_on_roof: SKIPPED (not in ready set)
-indigenous_high_speed_bullet_train_india: SUCCESS -> video_path=videos/indigenous_high_speed_bullet_train_india.mp4 dur=30.656553
-zomato_delivery_boy_fake_currency_racket: SUCCESS -> video_path=videos/zomato_delivery_boy_fake_currency_racket.mp4 dur=26.389887
-marriage_salary_requirement_25_lakhs_survey: SUCCESS -> video_path=videos/marriage_salary_requirement_25_lakhs_survey.mp4 dur=26.689887
-trump_living_president_1_dollar_coin_global: SUCCESS -> video_path=videos/trump_living_president_1_dollar_coin_global.mp4 dur=31.656553
+bihar_man_scorpio_on_roof: SKIPPED (not in ready set)
+disability_iit_madras_success_story: SUCCESS -> video_path=videos/disability_iit_madras_success_story.mp4 dur=27.289887
+ram_temple_first_ceo_jitendra_mishra: SUCCESS -> video_path=videos/ram_temple_first_ceo_jitendra_mishra.mp4 dur=23.185215
+india_new_bullet_train_corridors: SUCCESS -> video_path=videos/india_new_bullet_train_corridors.mp4 dur=34.856553
+karnataka_29679_crore_investment_jobs: SUCCESS -> video_path=videos/karnataka_29679_crore_investment_jobs.mp4 dur=30.314218

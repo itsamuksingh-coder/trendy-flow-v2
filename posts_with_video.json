@@ -1,234 +1,47 @@
 [
   {
-    "topic_label": "whatsapp_bill_payment_launch_india",
+    "topic_label": "bihar_man_scorpio_on_roof",
     "virality_score": 9,
-    "reason": "WhatsApp rolling out in-app bill payments for 85 crore users in India is massive utility news.",
-    "region": "india",
-    "headline": "85 करोड़ WhatsApp यूजर्स के लिए बड़ी सौगात, अब ऐप से ही भरे जा सकेंगे बिजली-पानी समेत 30 तरह के बिल",
-    "source_summary": "वॉट्सऐप ने भारत में ‘इन-ऐप पेमेंट फीचर’ को पेश किया है। इसकी मदद से देश के 85 करोड़ से ज्यादा वॉट्सऐप यूजर्स अपने बिजली-पानी समेत 30 तरह के बिल ऑनलाइन वॉट्सऐप से ही भर सकेंगे।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/whatsapp-in-app-bill-payments-introduce-in-india-user-can-pay-30-types-of-bills-includes-water-electricity-gas-insurance-fastag-recharge/articleshow/133731490.cms",
-    "source_name": "Navbharat Times",
-    "published": "Thu, 03 Sep 2026 15:05:00 +0530",
-    "hook": "व्हाट्सऐप यूजर्स के लिए बड़ी खुशखबरी!",
-    "script_hi": "पचहत्तर करोड़ से ज्यादा व्हाट्सऐप यूजर्स के लिए बड़ी सौगात आई है। अब देश के यूजर्स ऐप से ही बिजली और पानी समेत तीस तरह के बिल आसानी से भर सकेंगे। भारत में व्हाट्सऐप ने इस नए इन ऐप पेमेंट फीचर को पेश कर दिया है।",
-    "tts_text_hi": "पचहत्तर करोड़ से ज्यादा व्हाट्सऐप यूजर्स के लिए बड़ी सौगात आई है। अब देश के यूजर्स ऐप से ही बिजली और पानी समेत तीस तरह के बिल आसानी से भर सकेंगे। भारत में व्हाट्सऐप ने इस नए इन ऐप पेमेंट फीचर को पेश कर दिया है.",
-    "title": "व्हाट्सऐप से भरें बिजली-पानी के बिल",
-    "caption": "वॉट्सऐप ने भारत में नया ‘इन-ऐप पेमेंट फीचर’ पेश किया है, जिससे अब यूजर्स बिजली-पानी समेत तीस तरह के बिल सीधे ऐप से भर सकेंगे।",
-    "hashtags": [
-      "WhatsApp",
-      "TechNews",
-      "IndiaNews",
-      "WhatsAppPay",
-      "BillPayment",
-      "LatestNews"
-    ],
-    "visual_queries": [
-      "Indian smartphone user",
-      "mobile payment app India",
-      "electricity bill payment India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7669659/7669659-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "mobile payment India",
-        "credit": "Ivan S",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5924997/5924997-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "paying bills online",
-        "credit": "Sora Shimazaki",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8165696/8165696-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian mobile user",
-        "credit": "MART  PRODUCTION",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16349336/pexels-photo-16349336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian smartphone user",
-        "credit": "Ravi Roshan",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile payment app India",
-        "credit": "Thirdman",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6994295/pexels-photo-6994295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "digital payment India",
-        "credit": "Kindel Media",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6862449/pexels-photo-6862449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person paying bills online",
-        "credit": "cottonbro studio",
-        "duration_sec": 3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अब WhatsApp से भरें बिजली-पानी के बिल! 85 करोड़ यूजर्स के लिए बड़ा अपडेट 💡",
-        "caption": "85 करोड़ यूजर्स के लिए बड़ा झटका या राहत? अब व्हाट्सऐप पर सीधे जमा होंगे 30 तरह के बिल ⚡\n\nअब आपको अलग-अलग ऐप्स पर जाने की जरूरत नहीं पड़ेगी। बिजली, पानी और गैस समेत 30 से ज्यादा तरह के बिल अब आप सीधे अपने चैट ऐप से ही चुटकियों में भर सकेंगे।\n\nपूरी प्रक्रिया जानने के लिए वीडियो पूरा देखें और बताएं, क्या आप इस फीचर का इस्तेमाल करेंगे?\n\n#WhatsAppUpdate #TechNewsHindi #UtilityBills #WhatsAppFeatures #DigitalIndia"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "WhatsApp पर आ गया ऐसा फीचर जो आपका बिजली और पानी का बिल भरना बेहद आसान कर देगा! 💡\n\nअब 85 करोड़ यूजर्स ऐप से ही 30 तरह के बिल चुका सकेंगे। बार-बार दूसरे ऐप्स खोलने की झंझट खत्म।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ शेयर करें जो हमेशा बिल भरने की डेट भूल जाते हैं! 📲\n\n#WhatsAppUpdate #TechNewsHindi #UtilityBills #WhatsAppFeatures #DigitalIndia"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बार-बार अलग-अलग ऐप्स पर जाकर बिल भरने की झंझट से अब हमेशा के लिए छुटकारा मिलने वाला है। 💡\n\nकंपनी ने 85 करोड़ से ज्यादा यूजर्स के लिए एक धांसू अपडेट जारी किया है, जिसके तहत अब सीधे व्हाट्सऐप से ही बिजली, पानी और गैस समेत करीब 30 तरह के जरूरी बिल भरे जा सकेंगे। \n\nपूरी प्रक्रिया जानने के लिए वीडियो पूरा देखें। क्या आप इस नए फीचर का इस्तेमाल करेंगे, हमें कमेंट में बताएं! 👇\n\n#WhatsAppUpdate #TechNewsHindi #UtilityBills #WhatsAppFeatures #DigitalIndia"
-      },
-      "hashtags": [
-        "WhatsAppUpdate",
-        "TechNewsHindi",
-        "UtilityBills",
-        "WhatsAppFeatures",
-        "DigitalIndia"
-      ]
-    },
-    "audio_path": "audio/whatsapp_bill_payment_launch_india.wav",
-    "audio_duration_sec": 16.5,
-    "video_path": "videos/whatsapp_bill_payment_launch_india.mp4",
-    "video_duration_sec": 24.46
-  },
-  {
-    "topic_label": "stray_dog_attack_7_year_old_ghaziabad",
-    "virality_score": 9,
-    "reason": "Horrific CCTV footage of stray dogs attacking a 7-year-old child in Ghaziabad will spark intense public outrage.",
-    "region": "india",
-    "headline": "7 साल की बच्ची पर कुत्तों का झुंड टूटा, हाथ-पैर और कमर पर काटकर घसीटा, Video",
-    "source_summary": "गाजियाबाद के राजनगर एक्सटेंशन की स्टार रामेश्वरम सोसाइटी में सात साल की बच्ची पर तीन से चार आवारा कुत्तों ने अचानक हमला कर दिया. कुत्तों ने बच्ची को घेरकर हाथ, पैर और कमर समेत शरीर के कई हिस्सों पर काटा और घसीटा. पूरी घटना CCTV में कैद हुई. पास मौजूद महिला ने हिम्मत दिखाकर कुत्तों को भगाया, जिसके बाद बच्ची को अस्पताल ले जाया गया.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ghaziabad-rajnagar-extension-stray-dogs-attack-seven-year-old-girl-cctv-lclar-strc-2635626-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T20:18:36+05:30",
-    "hook": "गाजियाबाद में दिल दहला देने वाली घटना!",
-    "script_hi": "गाजियाबाद के राजनगर एक्सटेंशन की स्टार रामेश्वरम सोसाइटी में सात साल की बच्ची पर तीन से चार आवारा कुत्तों ने अचानक हमला कर दिया। कुत्तों ने बच्ची को घेरकर हाथ, पैर और कमर पर काटा और घसीटा। पूरी घटना सीसीटीवी में कैद हुई है। पास मौजूद एक महिला ने हिम्मत दिखाकर कुत्तों को भगाया, जिसके बाद बच्ची को अस्पताल ले जाया गया।",
-    "tts_text_hi": "गाजियाबाद के राजनगर एक्सटेंशन की स्टार रामेश्वरम सोसाइटी में सात साल की बच्ची पर तीन से चार आवारा कुत्तों ने अचानक हमला कर दिया। कुत्तों ने बच्ची को घेरकर हाथ, पैर और कमर पर काटा और घसीटा। पूरी घटना सीसीटीवी में कैद हुई है। पास मौजूद एक महिला ने हिम्मत दिखाकर कुत्तों को भगाया, जिसके बाद बच्ची को अस्पताल ले जाया गया।",
-    "title": "गाजियाबाद में आवारा कुत्तों का आतंक",
-    "caption": "गाजियाबाद की सोसाइटी में सात साल की बच्ची पर आवारा कुत्तों का हमला, सीसीटीवी में कैद हुई घटना।",
-    "hashtags": [
-      "Ghaziabad",
-      "StrayDogs",
-      "DogAttack",
-      "UttarPradesh",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "Ghaziabad residential society India",
-      "stray dogs street India",
-      "CCTV security camera India",
-      "hospital emergency ward India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV video clip of a dog attack that generic stock B-roll cannot replace; real footage needs to be added manually.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30422938/pexels-photo-30422938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Ghaziabad residential society India",
-        "credit": "Shubh Agrawal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37269405/pexels-photo-37269405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stray dogs street India",
-        "credit": "Aditya Oberai",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV security camera India",
-        "credit": "Rakesh Teja",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital emergency ward India",
-        "credit": "Maxx Sas",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bihar_scorpio_car_parked_on_roof",
-    "virality_score": 9,
-    "reason": "Viral video of a man using a crane to park his Mahindra Scorpio on his house roof out of fear of theft.",
+    "reason": "Bizarre viral story of a man placing his Scorpio SUV on his house roof before going abroad.",
     "region": "india",
     "headline": "चोरी के डर से घर की छत पर ही चढ़ा दी Scorpio! बिहार के शख्स का अनोखा जुगाड़, वीडियो वायरल",
     "source_summary": "बिहार में Mahindra Scorpio को क्रेन से घर की छत पर रखने का वीडियो वायरल हो रहा है. दावा किया जा रहा है कि Scorpio मालिक विदेश जाने से पहले SUV को सुरक्षित रखना चाहता था.",
     "source_url": "https://ndtv.in/auto/mahindra-scorpio-crane-roof-bihar-viral-video-11996580#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Thu, 03 Sep 2026 14:44:14 +0530",
-    "hook": "बिहार में शख्स ने स्कॉर्पियो गाड़ी को क्रेन से घर की छत पर चढ़ाया!",
-    "script_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी महिंद्रा स्कॉर्पियो गाड़ी को क्रेन के जरिए सीधे अपने घर की छत पर ही चढ़ा दिया। दावा किया जा रहा है कि गाड़ी का मालिक विदेश जाने वाला था और अपनी गाड़ी को सुरक्षित रखना चाहता था। यह अनोखा जुगाड़ अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-    "tts_text_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी महिंद्रा स्कॉर्पियो गाड़ी को क्रेन के जरिए सीधे अपने घर की छत पर ही चढ़ा दिया। दावा किया जा रहा है कि गाड़ी का मालिक विदेश जाने वाला था और अपनी गाड़ी को सुरक्षित रखना चाहता था। यह अनोखा जुगाड़ अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-    "title": "बिहार में शख्स ने क्रेन से घर की छत पर पहुंचाई स्कॉर्पियो, वीडियो वायरल",
-    "caption": "बिहार में चोरी के डर से अनोखा जुगाड़! शख्स ने क्रेन से महिंद्रा स्कॉर्पियो को घर की छत पर ही चढ़ा दिया।",
+    "hook": "विदेश जाने से पहले शख्स ने स्कॉर्पियो को चढ़ा दिया छत पर!",
+    "script_hi": "बिहार में चोरी के डर से एक शख्स ने महिंद्रा स्कॉर्पियो को क्रेन की मदद से अपने घर की छत पर ही चढ़ा दिया। बताया जा रहा है कि गाड़ी का मालिक विदेश जा रहा था और वह अपनी एसयूवी को सुरक्षित रखना चाहता था। यह अनोखा जुगाड़ अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "tts_text_hi": "बिहार में चोरी के डर से एक शख्स ने महिंद्रा स्कॉर्पियो को क्रेन की मदद से अपने घर की छत पर ही चढ़ा दिया। बताया जा रहा है कि गाड़ी का मालिक विदेश जा रहा था और वह अपनी एसयूवी को सुरक्षित रखना चाहता था। यह अनोखा जुगाड़ अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "title": "बिहार में चोरी के डर से शख्स ने स्कॉर्पियो गाड़ी छत पर चढ़ाई",
+    "caption": "बिहार में चोरी के डर से महिंद्रा स्कॉर्पियो को क्रेन से घर की छत पर रखने का अनोखा मामला सामने आया है।",
     "hashtags": [
-      "Bihar",
+      "BiharNews",
       "Scorpio",
       "ViralVideo",
       "IndiaNews",
-      "Trending"
+      "UniqueJugaad"
     ],
     "visual_queries": [
+      "India house rooftop",
       "Mahindra Scorpio SUV India",
-      "heavy crane lifting car India",
-      "house rooftop India"
+      "crane lifting car India",
+      "viral social media India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": true,
-    "flag_reason": "The story's core point revolves around a specific viral video of a car being placed on a rooftop, which requires the actual real footage rather than generic stock B-roll.",
+    "flag_reason": "The story relies entirely on a specific viral video of a Scorpio on a roof in Bihar; generic stock footage cannot replace the actual real footage.",
     "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India house rooftop",
+        "credit": "Muhammed zeya",
+        "duration_sec": 5
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/12937789/pexels-photo-12937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -241,173 +54,49 @@
         "type": "image",
         "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "heavy crane lifting car India",
+        "query": "crane lifting car India",
         "credit": "Action Construction  Equipment Ltd. - ACE",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7481281/pexels-photo-7481281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "house rooftop India",
-        "credit": "Muhammed zeya",
+        "query": "viral social media India",
+        "credit": "MART  PRODUCTION",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "indigenous_high_speed_bullet_train_india",
-    "virality_score": 8,
-    "reason": "India building its own 280 km/h high-speed train set has massive national pride and tech appeal.",
+    "topic_label": "disability_iit_madras_success_story",
+    "virality_score": 9,
+    "reason": "Inspirational success story of a 90% disabled student securing an admission seat in IIT Madras.",
     "region": "india",
-    "headline": "280 की स्पीड, 866Cr बजट, अब ये भारतीय कंपनी बनाएगी बुलेट ट्रेन",
-    "source_summary": "भारतीय रेलवे 280 किलोमीटर प्रति घंटे की रफ्तार वाली स्वदेशी हाई स्पीड ट्रेन बनाने की तैयारी में जुटा है. ₹866.87 करोड़ के कॉन्ट्रैक्ट के तहत दो ट्रेनसेट तैयार किए जाएंगे. रेलवे का लक्ष्य मार्च 2027 तक पहला प्रोटोटाइप बनाने का है, जिसके बाद इसकी टेस्टिंग होगी.",
-    "source_url": "https://www.aajtak.in/business/utility/story/indian-railways-280-kmph-bullet-train-prototype-2027-order-beml-smsr-2635479-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T18:45:58+05:30",
-    "hook": "दो सौ अस्सी की स्पीड और आठ सौ छियासठ करोड़ का बजट, भारत अब खुद बनाएगा बुलेट ट्रेन!",
-    "script_hi": "भारतीय रेलवे दो सौ अस्सी किलोमीटर प्रति घंटे की रफ्तार वाली स्वदेशी हाई स्पीड ट्रेन बनाने की तैयारी में जुटा है. आठ सौ छियासठ करोड़ सतयासी लाख रुपये के कॉन्ट्रैक्ट के तहत दो ट्रेनसेट तैयार किए जाएंगे. रेलवे का लक्ष्य मार्च दो हजार सत्ताईस तक पहला प्रोटोटाइप बनाने का है, जिसके बाद इसकी टेस्टिंग शुरू होगी.",
-    "tts_text_hi": "भारतीय रेलवे दो सौ अस्सी किलोमीटर प्रति घंटे की रफ्तार वाली स्वदेशी हाई स्पीड ट्रेन बनाने की तैयारी में जुटा है. आठ सौ छियासठ करोड़ सतयासी लाख रुपये के कॉन्ट्रैक्ट के तहत दो ट्रेनसेट तैयार किए जाएंगे. रेलवे का लक्ष्य मार्च दो हजार सत्ताईस तक पहला प्रोटोटाइप बनाने का है, जिसके बाद इसकी टेस्टिंग शुरू होगी.",
-    "title": "भारत बनाएगा अपनी स्वदेशी बुलेट ट्रेन",
-    "caption": "भारतीय रेलवे दो सौ अस्सी किलोमीटर प्रति घंटे की रफ्तार वाली स्वदेशी हाई स्पीड ट्रेन बनाने की तैयारी में जुटा है।",
+    "headline": "शरीर से 90% लाचार, फिर भी 17 साल के संतोष ने पा ली IIT मद्रास की सीट, पिता ने ऑटो चलाकर पढ़ाया",
+    "source_summary": "IIT Success Story in Hindi: ऑटो चालक के 17 साल के जे. संतोष के लिए चलना मुश्किल था। 90% विकलांगता और सेरेब्रल पाल्सी की बीमारी के बाद भी उनका हौसला कम नहीं हुआ। उन्होंने आईआईटी मद्रास में एडमिशन का सपना पूरा किया। संस्थान ने खुद उनकी कहानी को साझा किया है।",
+    "source_url": "https://navbharattimes.indiatimes.com/education/education-news/inspiring-story-of-17-years-old-santosh-got-iit-madras-bs-data-science-admission-overcomes-disability/articleshow/133732646.cms",
+    "source_name": "Navbharat Times",
+    "published": "Thu, 03 Sep 2026 16:22:00 +0530",
+    "hook": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल!",
+    "script_hi": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल! ऑटो चालक पिता के बेटे संतोष ने आई आई टी मद्रास में दाखिला पाकर साबित कर दिया कि हौसले के आगे कोई मुश्किल बड़ी नहीं होती। संस्थान ने खुद उनकी प्रेरणादायक कहानी साझा की है।",
+    "tts_text_hi": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल! ऑटो चालक पिता के बेटे संतोष ने आई आई टी मद्रास में दाखिला पाकर साबित कर दिया कि हौसले के आगे कोई मुश्किल बड़ी नहीं होती। संस्थान ने खुद उनकी प्रेरणादायक कहानी साझा की है।",
+    "title": "ऑटो चालक के बेटे संतोष ने आई आई टी मद्रास में पाया प्रवेश",
+    "caption": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने आई आई टी मद्रास में दाखिला पाकर इतिहास रच दिया है।",
     "hashtags": [
-      "BulletTrain",
-      "IndianRailways",
-      "MadeInIndia",
-      "VandeBharat",
-      "IndianTrain",
-      "NewsUpdates"
+      "IITMadras",
+      "SuccessStory",
+      "Inspiration",
+      "IndianEducation",
+      "ProudIndian"
     ],
     "visual_queries": [
-      "Indian railway station India",
-      "modern train manufacturing India",
-      "high speed train India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway station India",
-        "credit": "Satvik Pandurangi",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32422892/pexels-photo-32422892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern train manufacturing India",
-        "credit": "Isha Paliwal",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36524430/pexels-photo-36524430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high speed train India",
-        "credit": "Aryan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36524430/pexels-photo-36524430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high speed train India",
-        "credit": "Aryan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12807016/pexels-photo-12807016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "railway track construction India",
-        "credit": "kunal sagar",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34938429/pexels-photo-34938429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "engineer working laptop office",
-        "credit": "МОБО Модульные Котельные",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29452331/pexels-photo-29452331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "industrial manufacturing plant India",
-        "credit": "Deepanshu Gautam",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "280 की स्पीड, 866 करोड़ का बजट: अब भारत बनाएगा अपनी बुलेट ट्रेन! 🚆🇮🇳",
-        "caption": "दो सौ अस्सी की स्पीड और आठ सौ छियासठ करोड़ का बजट, भारत अब खुद बनाएगा बुलेट ट्रेन!\n\nविदेशों पर निर्भरता खत्म करते हुए अब देश की बड़ी कंपनी इस मेगा प्रोजेक्ट पर काम शुरू कर चुकी है। रेल यात्रियों के लिए यह किसी बड़े क्रांतिकारी कदम से कम नहीं है।\n\nआपको क्या लगता है, कब तक पटरी पर दौड़ेगी देश की पहली स्वदेशी बुलेट ट्रेन? पूरी कहानी देखें।\n\n#BulletTrainIndia #IndianRailways #MadeInIndia #VandeBharat #IndianEconomy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दो सौ अस्सी की स्पीड और आठ सौ छियासठ करोड़ का बजट, भारत अब खुद बनाएगा बुलेट ट्रेन! 🚄\n\nअब विदेशी तकनीक का इंतज़ार खत्म। देश की ही एक जानी-मानी कंपनी ने इस महाप्रोजेक्ट की कमान संभाल ली है, जिससे रेलवे का नक्शा पूरी तरह बदलने वाला है।\n\nक्या आपने कभी इस रफ्तार से सफर करने का सपना देखा है? कमेंट में बताएं। 👇\n\n#BulletTrainIndia #IndianRailways #MadeInIndia #VandeBharat #IndianEconomy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दो सौ अस्सी की स्पीड और आठ सौ छियासठ करोड़ का बजट, भारत अब खुद बनाएगा बुलेट ट्रेन!\n\nअभी तक हम तकनीक के लिए दूसरे देशों की तरफ देखते थे, लेकिन अब तस्वीर बदलने वाली है। देश की एक प्रमुख भारतीय कंपनी ने इस रिकॉर्ड बजट वाले प्रोजेक्ट को अपने हाथ में ले लिया है।\n\nयह कदम भारतीय रेलवे को किस मुकाम पर ले जाएगा? वीडियो पूरा देखें और अपनी राय साझा करें। 🚆🇮🇳\n\n#BulletTrainIndia #IndianRailways #MadeInIndia #VandeBharat #IndianEconomy"
-      },
-      "hashtags": [
-        "BulletTrainIndia",
-        "IndianRailways",
-        "MadeInIndia",
-        "VandeBharat",
-        "IndianEconomy"
-      ]
-    },
-    "audio_path": "audio/indigenous_high_speed_bullet_train_india.wav",
-    "audio_duration_sec": 22.74,
-    "video_path": "videos/indigenous_high_speed_bullet_train_india.mp4",
-    "video_duration_sec": 30.66
-  },
-  {
-    "topic_label": "zomato_delivery_boy_fake_currency_racket",
-    "virality_score": 8,
-    "reason": "Zomato and Rapido workers printing fake currency using YouTube tutorials is a bizarre viral crime story.",
-    "region": "india",
-    "headline": "यूट्यूब देखकर घर में छापे 2.91 लाख रुपये के नकली नोट, दिन में करते थे Zomato डिलीवरी बॉय-Rapido ड्राइवर का काम",
-    "source_summary": "Hyderabad Fake Currency Racket:&nbsp;हैदराबाद में पुलिस ने नकली नोट बनाने और उन्हें बाजार में चलाने के आरोप में तीन लोगों को गिरफ्तार किया है। हैरानी की बात यह है कि आरोपी दिन में आम लोगों की तरह काम करते थे। इनमें",
-    "source_url": "https://hindi.oneindia.com/news/india/hyderabad-fake-currency-racket-zomato-delivery-boy-rapido-driver-arrested-1641499.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Thu, 03 Sep 2026 15:45:22 +0530",
-    "hook": "हैदराबाद में दिन में खाना पहुँचाने वाले और राइडो चलाने वाले, रात को छाप रहे थे नकली नोट!",
-    "script_hi": "हैदराबाद में पुलिस ने तीन लोगों को गिरफ्तार किया है जो यूट्यूब देखकर घर में ही नकली नोट छाप रहे थे। हैरानी की बात यह है कि आरोपी दिन में जोमैटो डिलीवरी बॉय और रैपिडो ड्राइवर का काम करते थे और रात को दो लाख इक्यानवे हजार रुपये के नकली नोट बाजार में चलाते थे।",
-    "tts_text_hi": "हैदराबाद में पुलिस ने तीन लोगों को गिरफ्तार किया है जो यूट्यूब देखकर घर में ही नकली नोट छाप रहे थे। हैरानी की बात यह है कि आरोपी दिन में जोमैटो डिलीवरी बॉय और रैपिडो ड्राइवर का काम करते थे और रात को दो लाख इक्यानवे हजार रुपये के नकली नोट बाजार में चलाते थे।",
-    "title": "हैदराबाद में नकली नोट का भंडाफोड़",
-    "caption": "हैदराबाद में पुलिस ने यूट्यूब देखकर नकली नोट छापने वाले तीन आरोपियों को गिरफ्तार किया है। आरोपी दिन में जोमैटो और रैपिडो का काम करते थे।",
-    "hashtags": [
-      "HyderabadPolice",
-      "FakeCurrency",
-      "CrimeNews",
-      "Zomato",
-      "Rapido",
-      "IndiaNews",
-      "Hyderabad"
-    ],
-    "visual_queries": [
-      "Hyderabad police station India",
-      "Indian delivery boy working smartphone",
-      "counterfeit money Indian currency",
-      "police investigation India"
+      "Indian auto rickshaw driver India",
+      "disabled Indian student studying India",
+      "IIT Madras campus India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -418,95 +107,224 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6964794/6964794-hd_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "disabled student studying India",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8988472/pexels-photo-8988472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11176143/pexels-photo-11176143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "delivery boy riding scooter",
-        "credit": "Artem Podrez",
-        "duration_sec": 5
+        "query": "Indian auto rickshaw driver India",
+        "credit": "PRIYA MISHRA",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9461970/pexels-photo-9461970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31041247/pexels-photo-31041247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian delivery boy working smartphone",
-        "credit": "Mike Jones",
-        "duration_sec": 5
+        "query": "IIT Madras campus India",
+        "credit": "AHAD HASAN",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9461218/pexels-photo-9461218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7695410/pexels-photo-7695410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "delivery rider working smartphone",
-        "credit": "Mike Jones",
-        "duration_sec": 5
+        "query": "disabled student studying room",
+        "credit": "Yan Krukau",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37811262/pexels-photo-37811262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hardworking student writing exam",
+        "credit": "Eduard Perez",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4259702/pexels-photo-4259702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "proud father hugging son",
+        "credit": "August de Richelieu",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38550000/pexels-photo-38550000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "university campus building India",
+        "credit": "Adityan R",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दिन में Zomato डिलीवरी, रात में छाप रहे थे नकली नोट! 🛑 #shorts",
-        "caption": "दिन में खाना पहुँचाने वाले और राइडो चलाने वाले, रात को छाप रहे थे नकली नोट! 🛵💵\n\nयूट्यूब से तरीका सीखकर घर पर ही 2.91 लाख रुपये के नकली नोट छाप दिए गए। हैदराबाद पुलिस ने इस शातिर गैंग का पर्दाफाश करते हुए जब घर पर छापा मारा, तो सबके होश उड़ गए।\n\nपूरी कहानी वीडियो में देखें, और वीडियो को शेयर जरूर करें!\n\n#HyderabadPolice #FakeCurrency #CrimeNews #Zomato #Hyderabad"
+        "title": "90% विकलांगता को हरा 17 साल के संतोष ने क्रैक किया IIT! 🎓",
+        "caption": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल! 🤯\n\nपिता ने दिन-रात ऑटो चलाकर पढ़ाई का खर्च उठाया और संतोष ने अपनी मेहनत से आईआईटी मद्रास में सीट पक्की कर ली। ये जिद और हौसले की ऐसी मिसाल है जो आपको हैरान कर देगी।\n\nपूरी कहानी वीडियो में देखें।\n\n#iitmadras #successstory #santosh #motivational #autosdriver"
       },
       "instagram": {
         "title": null,
-        "caption": "दिन में खाना पहुँचाने वाले और राइडो चलाने वाले, रात को छाप रहे थे नकली नोट! 🛵💵\n\nयूट्यूब से सीखकर घर में छापे गए 2.91 लाख रुपये के नकली नोट। हैदराबाद पुलिस की रेड में सामने आया हैरान करने वाला सच।\n\nक्या आप ऐसे लोगों पर भरोसा करेंगे? कमेंट में बताएं! 👇\n\n#HyderabadPolice #FakeCurrency #CrimeNews #Zomato #Hyderabad"
+        "caption": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल! 🤯\n\nपिता ने ऑटो चलाकर पढ़ाया और बेटे ने IIT मद्रास में सीट लाकर दिखा दिया कि अगर इरादे मजबूत हों, तो कोई भी रुकावट बड़ी नहीं होती।\n\nक्या संघर्ष ही सफलता की सबसे बड़ी सीढ़ी है? अपनी राय कमेंट में बताएं।\n\n#iitmadras #successstory #santosh #motivational #autosdriver"
       },
       "facebook": {
         "title": null,
-        "caption": "दिन में खाना पहुँचाने वाले और राइडो चलाने वाले, रात को छाप रहे थे नकली नोट! 🛵💵\n\nयूनिवर्सिटी के पढ़े-लिखे लड़के यूट्यूब वीडियो देखकर घर में ही नकली नोट छापने लगे। दिनभर Zomato डिलीवरी और Rapido चलाने की आड़ में ये खेल चल रहा था। हैदराबाद पुलिस ने जब छापा मारा, तो 2.91 लाख रुपये के नकली नोट बरामद हुए।\n\nदेखिए पूरी कहानी इस वीडियो में और अपनी राय जरूर साझा करें।\n\n#HyderabadPolice #FakeCurrency #CrimeNews #Zomato #Hyderabad"
+        "caption": "नब्बे प्रतिशत विकलांगता और सेरेब्रल पाल्सी को मात देकर सत्रह साल के संतोष ने कर दिखाया कमाल! 🤯\n\nजब हौसले बुलंद हों तो शरीर की लाचारियां भी रास्ता नहीं रोक पातीं। संतोष के पिता ने दिन-रात ऑटो चलाकर उसे पढ़ाया और बेटे ने भी मेहनत में कोई कमी नहीं छोड़ी। आज संतोष ने आईआईटी मद्रास में अपनी जगह पक्की कर ली है।\n\nऐसी प्रेरणादायक कहानी हर किसी तक पहुंचनी चाहिए। वीडियो पूरा देखें और अपनी प्रतिक्रिया जरूर दें।\n\n#iitmadras #successstory #santosh #motivational #autosdriver"
       },
       "hashtags": [
-        "HyderabadPolice",
-        "FakeCurrency",
-        "CrimeNews",
-        "Zomato",
-        "Hyderabad"
+        "iitmadras",
+        "successstory",
+        "santosh",
+        "motivational",
+        "autosdriver"
       ]
     },
-    "audio_path": "audio/zomato_delivery_boy_fake_currency_racket.wav",
-    "audio_duration_sec": 18.39,
-    "video_path": "videos/zomato_delivery_boy_fake_currency_racket.mp4",
-    "video_duration_sec": 26.39
+    "audio_path": "audio/disability_iit_madras_success_story.wav",
+    "audio_duration_sec": 19.31,
+    "video_path": "videos/disability_iit_madras_success_story.mp4",
+    "video_duration_sec": 27.29
   },
   {
-    "topic_label": "marriage_salary_requirement_25_lakhs_survey",
+    "topic_label": "ram_temple_first_ceo_jitendra_mishra",
     "virality_score": 8,
-    "reason": "Tech professionals survey stating a groom should earn at least 25 lakhs annually will trigger massive social debate.",
+    "reason": "High-profile appointment of a former Air Marshal as the first CEO of the Ram Temple Trust.",
     "region": "india",
-    "headline": "&#039;लड़का कम से कम 25 लाख कमाए...&#039;,  शादी के लिए अब भारतीयों की कड़ी शर्त",
-    "source_summary": "शादी के लिए अब गुण नहीं बल्कि सैलरी ज्यादा मायने रखने लगी है. ऐसा हम नहीं बल्कि हाल ही में 1,473 टेक प्रोफेशनल्स पर किए गए सर्वे में चौंकाने वाला आकंड़ा सामने आया है. लोगों का मानना है कि शादी के लिए पुरुष की सालाना कमाई कम से कम 25 लाख रुपये होनी चाहिए. आइए जानते हैं कि बदलते भारत के साथ शादी को लेकर लोगों की सोच किस कदर बदल रही है.",
-    "source_url": "https://www.aajtak.in/lifestyle/relationship/story/a-man-must-earn-rs-25-lakh-annual-salary-to-be-marriage-ready-say-55-of-indias-tech-professionals-new-survey-tvisx-dskc-2627063-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T18:26:02+05:30",
-    "hook": "शादी के लिए अब गुण नहीं, बल्कि मोटी सैलरी चाहिए!",
-    "script_hi": "शादी के बाजार में अब सोच बदल रही है! एक हालिया सर्वे के अनुसार, भारतीयों का मानना है कि शादी के लिए पुरुष की सालाना कमाई कम से कम पच्चीस लाख रुपये होनी चाहिए। चौदह सौ तिहत्तर टेक प्रोफेशनल्स पर किए गए इस सर्वे में चौंकाने वाले आंकड़े सामने आए हैं।",
-    "tts_text_hi": "शादी के बाजार में अब सोच बदल रही है! एक हालिया सर्वे के अनुसार, भारतीयों का मानना है कि शादी के लिए पुरुष की सालाना कमाई कम से कम पच्चीस लाख रुपये होनी चाहिए। चौदह सौ तिहत्तर टेक प्रोफेशनल्स पर किए गए इस सर्वे में चौंकाने वाले आंकड़े सामने आए हैं।",
-    "title": "शादी के लिए भारतीयों की नई शर्त",
-    "caption": "शादी के लिए अब गुण नहीं बल्कि सैलरी मायने रखती है, जानिए क्या है नया सर्वे।",
+    "headline": "राम मंदिर पहले CEO जितेंद्र मिश्रा अयोध्या पहुंच संभाला कार्यभार; बोले- राष्ट्र सेवा के बाद अब रामलला की सेवा",
+    "source_summary": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पहले CEO के रूप में एयर मार्शल (सेवानिवृत्त) जितेंद्र मिश्रा ने अयोध्या पहुंचकर कार्यभार संभाल लिया है. उन्होंने इस जिम्मेदारी को भगवान राम का आशीर्वाद बताते हुए राम मंदिर और श्रद्धालुओं की सेवा का संकल्प जताया.",
+    "source_url": "https://ndtv.in/uttar-pradesh-news/ayodhya-ram-mandir-first-ceo-air-marshal-retd-jitendra-mishra-takes-charge-ram-janmabhoomi-teerth-kshetra-trust-administration-11996497#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 14:19:12 +0530",
+    "hook": "अयोध्या राम मंदिर को मिल गया पहला मुख्य कार्यकारी अधिकारी!",
+    "script_hi": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पहले मुख्य कार्यकारी अधिकारी के रूप में सेवानिवृत्त एयर मार्शल जितेंद्र मिश्रा अयोध्या पहुंच गए हैं। उन्होंने कार्यभार संभालते हुए इसे भगवान राम का आशीर्वाद बताया है।",
+    "tts_text_hi": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पहले मुख्य कार्यकारी अधिकारी के रूप में सेवानिवृत्त एयर मार्शल जितेंद्र मिश्रा अयोध्या पहुंच गए हैं। उन्होंने कार्यभार संभालते हुए इसे भगवान राम का आशीर्वाद बताया है।",
+    "title": "अयोध्या राम मंदिर के पहले सीईओ जितेंद्र मिश्रा ने संभाला कार्यभार",
+    "caption": "राम मंदिर के पहले सीईओ जितेंद्र मिश्रा अयोध्या पहुंच चुके हैं और उन्होंने अपना कार्यभार संभाल लिया है।",
     "hashtags": [
-      "शादी",
-      "भारतीय",
-      "सैलरी",
-      "सर्वे",
-      "रिलेशनशिप",
-      "वायरल",
-      "इंडिया"
+      "RamMandir",
+      "Ayodhya",
+      "JitendraMishra",
+      "RamLala",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian wedding couple",
-      "Indian software engineer office",
-      "Indian money cash India"
+      "Hindu temple India",
+      "Indian city Ayodhya street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847929/8847929-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "corporate executive in India",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hindu temple India",
+        "credit": "Nalam Team",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35020947/pexels-photo-35020947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city Ayodhya street",
+        "credit": "manu prasad",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11662759/pexels-photo-11662759.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian government office work",
+        "credit": "Madvortex",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30561168/pexels-photo-30561168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "spiritual leader in India",
+        "credit": "Jatin Dubey",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "राम मंदिर को मिला पहला CEO! जितेंद्र मिश्रा ने संभाला कार्यभार 🛕",
+        "caption": "राम मंदिर को मिल गया पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nजितेंद्र मिश्रा ने अयोध्या पहुंचकर आधिकारिक रूप से अपना कार्यभार संभाल लिया है। इस बड़ी जिम्मेदारी को संभालने के बाद उन्होंने कहा कि राष्ट्र सेवा के बाद अब उन्हें रामलला की सेवा करने का सौभाग्य मिला है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#RamMandir #AyodhyaNews #JitendraMishra #RamMandirCEO #Ayodhya"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अयोध्या राम मंदिर को मिल गया पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nजितेंद्र मिश्रा ने अयोध्या पहुंचकर कार्यभार संभाल लिया है। उन्होंने कहा कि राष्ट्र सेवा के बाद अब रामलला की सेवा उनका मुख्य लक्ष्य है।\n\nराम मंदिर से जुड़ी हर बड़ी अपडेट के लिए फॉलो करें।\n\n#RamMandir #AyodhyaNews #JitendraMishra #RamMandirCEO #Ayodhya"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अयोध्या राम मंदिर को आखिरकार मिल गया उसका पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nजितेंद्र मिश्रा ने अयोध्या पहुंचकर अपना कार्यभार संभाल लिया है। पदभार ग्रहण करने के बाद उन्होंने भावुक होते हुए कहा कि देश की सेवा करने के बाद अब उन्हें रामलला की सेवा करने का यह परम सौभाग्य मिला है। \n\nआप इस नियुक्ति को कैसे देखते हैं? कमेंट में जरूर बताएं और वीडियो को शेयर करें।\n\n#RamMandir #AyodhyaNews #JitendraMishra #RamMandirCEO #Ayodhya"
+      },
+      "hashtags": [
+        "RamMandir",
+        "AyodhyaNews",
+        "JitendraMishra",
+        "RamMandirCEO",
+        "Ayodhya"
+      ]
+    },
+    "audio_path": "audio/ram_temple_first_ceo_jitendra_mishra.wav",
+    "audio_duration_sec": 15.13,
+    "video_path": "videos/ram_temple_first_ceo_jitendra_mishra.mp4",
+    "video_duration_sec": 23.19
+  },
+  {
+    "topic_label": "india_new_bullet_train_corridors",
+    "virality_score": 8,
+    "reason": "Massive infrastructure update regarding high-speed bullet train corridors connecting major metro cities.",
+    "region": "india",
+    "headline": "बुलेट ट्रेन: बेंगलुरु से मुंबई, हैदराबाद-चेन्नई को मिलेगी हाईस्पीड कनेक्टिविटी, मैसुरु, अमरावती तक 20 बड़े शहर जुड़ेंगे",
+    "source_summary": "मुंबई-अहमदाबाद बुलेट ट्रेन उद्घाटन के पहले सरकार ने दिल्ली, हैदराबाद, मुंबई और बेंगलुरु जैसे अन्य महानगरों के बीच भी हाईस्पीड रेल कॉरिडोर की रफ्तार तेज कर दी है. बेंगलुरु-चेन्नई बुलेट ट्रेन भी इसमें अहम रूट है.",
+    "source_url": "https://ndtv.in/india/bullet-train-route-from-bengaluru-highspeed-rail-connecting-hyderabad-chennai-to-mumbai-know-nhrscl-details-11995789#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 19:26:54 +0530",
+    "hook": "बेंगलुरु से मुंबई और हैदराबाद का सफर अब होगा बुलेट ट्रेन से तेज!",
+    "script_hi": "मुंबई और अहमदाबाद के बीच बुलेट ट्रेन के उद्घाटन से पहले सरकार ने देश के अन्य महानगरों के लिए भी हाईस्पीड रेल कॉरिडोर की रफ्तार तेज कर दी है. इस योजना के तहत बेंगलुरु से मुंबई, हैदराबाद और चेन्नई जैसे बड़े रूटों को जोड़ा जाएगा. इसके अलावा मैसुरु और अमरावती समेत देश के बीस बड़े शहरों को हाईस्पीड कनेक्टिविटी मिलने की उम्मीद है, जिससे सफर का समय काफी कम हो जाएगा.",
+    "tts_text_hi": "मुंबई और अहमदाबाद के बीच बुलेट ट्रेन के उद्घाटन से पहले सरकार ने देश के अन्य महानगरों के लिए भी हाईस्पीड रेल कॉरिडोर की रफ्तार तेज कर दी है. इस योजना के तहत बेंगलुरु से मुंबई, हैदराबाद और चेन्नई जैसे बड़े रूटों को जोड़ा जाएगा. इसके अलावा मैसुरु और अमरावती समेत देश के बीस बड़े शहरों को हाईस्पीड कनेक्टिविटी मिलने की उम्मीद है, जिससे सफर का समय काफी कम हो जाएगा.",
+    "title": "बुलेट ट्रेन से जुड़ेंगे बेंगलुरु, मुंबई और हैदराबाद समेत बीस बड़े शहर",
+    "caption": "भारत में हाईस्पीड रेल नेटवर्क का विस्तार! बेंगलुरु से मुंबई, हैदराबाद और चेन्नई के बीच जल्द दौड़ेगी बुलेट ट्रेन, मैसुरु और अमरावती को भी मिलेगी कनेक्टिविटी.",
+    "hashtags": [
+      "BulletTrain",
+      "IndianRailways",
+      "HighSpeedRail",
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "News",
+      "India"
+    ],
+    "visual_queries": [
+      "Indian bullet train station",
+      "modern train tracks India",
+      "futuristic train interior India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -517,58 +335,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19609201/pexels-photo-19609201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8112510/pexels-photo-8112510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian wedding couple",
-        "credit": "Fotographiya Wedding Photography",
+        "query": "modern train station India",
+        "credit": "Rachel Claire",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5483063/pexels-photo-5483063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33682665/pexels-photo-33682665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian software engineer office",
-        "credit": "cottonbro studio",
+        "query": "modern train tracks India",
+        "credit": "Sarowar Hussain",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35197263/pexels-photo-35197263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian money cash India",
-        "credit": "Ravi Roshan",
+        "query": "futuristic train interior India",
+        "credit": "dwi endah kusumawati",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37138401/pexels-photo-37138401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern indian railway station",
+        "credit": "AMEEN A",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/26202187/pexels-photo-26202187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fast train motion blur india",
+        "credit": "Dibakar Roy",
         "duration_sec": 4.3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38914615/pexels-photo-38914615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern corporate office India",
+        "query": "busy corporate city india",
         "credit": "Sudhanshu Sharma",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4307904/pexels-photo-4307904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8112510/pexels-photo-8112510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian couple lifestyle",
-        "credit": "Ketut Subiyanto",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32031452/pexels-photo-32031452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury modern Indian home",
-        "credit": "Sahil Hansda",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7688183/pexels-photo-7688183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smiling Indian professionals",
-        "credit": "Kindel Media",
+        "query": "passenger train traveling india",
+        "credit": "Rachel Claire",
         "duration_sec": 4.3
       }
     ],
@@ -577,139 +395,149 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "शादी से पहले लड़की वालों की नई मांग! 25 लाख सैलरी 🛑",
-        "caption": "शादी के लिए अब गुण नहीं, बल्कि मोटी सैलरी चाहिए! 💸\n\nहाल ही में सामने आए एक सर्वे में खुलासा हुआ है कि अब भारतीय शादियों में संस्कारों से ज्यादा ग्रूम की कमाई मायने रख रही है। कम से कम 25 लाख रुपये सालाना कमाने की शर्त ने सबको हैरान कर दिया है।\n\nआपकी इस नई शर्त पर क्या राय है? कमेंट में बताएं। पूरी कहानी देखें।\n\n#ShaadiTrends #IndianWeddings #MarriageDemands #LatestNews #SocialTrends"
+        "title": "बेंगलुरु से मुंबई और हैदराबाद का सफर अब बुलेट ट्रेन से! 20 शहर होंगे कनेक्ट 🚄",
+        "caption": "बेंगलुरु से मुंबई और हैदराबाद का सफर अब होगा बुलेट ट्रेन से तेज! 🚄\n\nदेश के 20 बड़े शहरों को हाईस्पीड कनेक्टिविटी से जोड़ने का प्लान तैयार हो चुका है। बेंगलुरु, मुंबई, हैदराबाद के साथ मैसुरु और अमरावती जैसे शहर भी इस नेटवर्क का हिस्सा बनेंगे।\n\nपूरी कहानी देखें और बताएं, आपके शहर का नाम इसमें है या नहीं?\n\n#BulletTrain #IndianRailways #BengaluruMumbaiBulletTrain #HighSpeedRail #Infrastructure"
       },
       "instagram": {
         "title": null,
-        "caption": "शादी के लिए अब गुण नहीं, बल्कि मोटी सैलरी चाहिए! 💸\n\nअब लड़का कम से कम 25 लाख कमाए, तभी रिश्ते की बात आगे बढ़ेगी। शादियों को लेकर भारतीयों की बदलती शर्तों ने सबको चौंका दिया है।\n\nइस पर आपकी क्या सोच है? दोस्तों के साथ शेयर जरूर करें।\n\n#ShaadiTrends #IndianWeddings #MarriageDemands #LatestNews #SocialTrends"
+        "caption": "बेंगलुरु से मुंबई और हैदराबाद का सफर अब होगा बुलेट ट्रेन से तेज! 🚄\n\nदेश के 20 बड़े शहर अब हाईस्पीड रेल नेटवर्क से जुड़ने जा रहे हैं। बेंगलुरु, मुंबई और हैदराबाद के अलावा मैसुरु और अमरावती को भी बड़ा फायदा मिलेगा।\n\nक्या आपकी सिटी इस रूट पर है? कमेंट में बताएं और वीडियो शेयर करें! 👇\n\n#BulletTrain #IndianRailways #BengaluruMumbaiBulletTrain #HighSpeedRail #Infrastructure"
       },
       "facebook": {
         "title": null,
-        "caption": "शादी के लिए अब गुण नहीं, बल्कि मोटी सैलरी चाहिए! 💸\n\nकुंडली मिलाने का दौर अब पुराना हो गया है, क्योंकि अब रिश्ता तय करने से पहले बैंक बैलेंस देखा जा रहा है। हालिया रिपोर्ट्स के मुताबिक, कम से कम 25 लाख रुपये सालाना कमाने की शर्त आज की सबसे बड़ी डिमांड बन चुकी है। \n\nक्या पैसों के आधार पर शादी तय करना सही है? अपनी राय हमें जरूर बताएं।\n\n#ShaadiTrends #IndianWeddings #MarriageDemands #LatestNews #SocialTrends"
+        "caption": "बेंगलुरु से मुंबई और हैदराबाद का सफर अब होगा बुलेट ट्रेन से तेज! 🚄\n\nलंबी दूरियों को पलक झपकते तय करने के लिए सरकार ने बड़ा प्लान तैयार किया है। देश के 20 बड़े शहरों को इस हाईस्पीड प्रोजेक्ट से जोड़ा जाएगा, जिससे आवागमन पूरी तरह बदल जाएगा।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय शेयर करें।\n\n#BulletTrain #IndianRailways #BengaluruMumbaiBulletTrain #HighSpeedRail #Infrastructure"
       },
       "hashtags": [
-        "ShaadiTrends",
-        "IndianWeddings",
-        "MarriageDemands",
-        "LatestNews",
-        "SocialTrends"
+        "BulletTrain",
+        "IndianRailways",
+        "BengaluruMumbaiBulletTrain",
+        "HighSpeedRail",
+        "Infrastructure"
       ]
     },
-    "audio_path": "audio/marriage_salary_requirement_25_lakhs_survey.wav",
-    "audio_duration_sec": 18.66,
-    "video_path": "videos/marriage_salary_requirement_25_lakhs_survey.mp4",
-    "video_duration_sec": 26.69
+    "audio_path": "audio/india_new_bullet_train_corridors.wav",
+    "audio_duration_sec": 26.9,
+    "video_path": "videos/india_new_bullet_train_corridors.mp4",
+    "video_duration_sec": 34.86
   },
   {
-    "topic_label": "trump_living_president_1_dollar_coin_global",
+    "topic_label": "karnataka_29679_crore_investment_jobs",
     "virality_score": 7,
-    "reason": "Donald Trump becomes the first living US president in a century to be featured on a US coin.",
+    "reason": "Major economic news regarding massive manufacturing investments and thousands of new jobs in Karnataka.",
     "region": "india",
-    "headline": "अमेरिकी डॉलर पर छपी ट्रंप की तस्वीर, 100 साल में पहली बार जीवित राष्ट्रपति के नाम जारी हुआ $1 का सिक्का",
-    "source_summary": "यूएस मिंट ने गुरुवार को अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की तस्वीर वाला 1 डॉलर का सिक्का जारी किया। इस सिक्के में एक तरफ ट्रंप का चेहरा और दूसरी तरफ अमेरिका की मुहर बनी है। इन सिक्कों को कानूनी मुद्रा के रूप में इस्तेमाल किया जा सकता है, लेकिन ये प्रचलन में नहीं आएंगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/america/donald-trump-1-dollar-coin-makes-him-first-living-president-on-us-currency-in-century/articleshow/133739019.cms",
-    "source_name": "Navbharat Times",
-    "published": "Thu, 03 Sep 2026 20:14:00 +0530",
-    "hook": "अमेरिका के इतिहास में पहली बार किसी जीवित राष्ट्रपति की तस्वीर सिक्के पर छपी है!",
-    "script_hi": "अमेरिकी मिंट ने डोनाल्ड ट्रंप की तस्वीर वाला एक डॉलर का सिक्का जारी किया है। सौ साल में यह पहली बार है जब किसी जीवित राष्ट्रपति के नाम ऐसा सिक्का आया है। इस सिक्के पर एक तरफ डोनाल्ड ट्रंप का चेहरा और दूसरी तरफ अमेरिका की मुहर बनी है। इन सिक्कों को कानूनी मुद्रा के रूप में इस्तेमाल किया जा सकता है, लेकिन ये आम प्रचलन में नहीं आएंगी।",
-    "tts_text_hi": "अमेरिकी मिंट ने डोनाल्ड ट्रंप की तस्वीर वाला एक डॉलर का सिक्का जारी किया है। सौ साल में यह पहली बार है जब किसी जीवित राष्ट्रपति के नाम ऐसा सिक्का आया है। इस सिक्के पर एक तरफ डोनाल्ड ट्रंप का चेहरा और दूसरी तरफ अमेरिका की मुहर बनी है। इन सिक्कों को कानूनी मुद्रा के रूप में इस्तेमाल किया जा सकता है, लेकिन ये आम प्रचलन में नहीं आएंगी।",
-    "title": "Donald Trump's face on US dollar coin",
-    "caption": "अमेरिकी इतिहास में पहली बार किसी जीवित राष्ट्रपति की तस्वीर वाला एक डॉलर का सिक्का जारी हुआ है।",
+    "headline": "कर्नाटक में नौकरी का बंपर मौका! ₹29,679 करोड़ के प्रोजेक्ट मंजूर, टोयोटा-महिंद्रा समेत ये कंपनी लगाएंगी पैसा",
+    "source_summary": "Karnataka Investment: कर्नाटक में उद्योग और रोजगार को लेकर बड़ा फैसला हुआ है। राज्य सरकार ने 29,679.20 करोड़ रुपये के निवेश प्रस्तावों को मंजूरी दी है। इन परियोजनाओं से राज्य में करीब 66,360 नौकरियां पैदा होने की उम्मीद है। खास बात",
+    "source_url": "https://hindi.oneindia.com/news/india/karnataka-investment-rs-29-679-crore-toyota-mahindra-hero-projects-likely-to-create-66-360-jobs-1641363.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Thu, 03 Sep 2026 11:43:20 +0530",
+    "hook": "कर्नाटक में नौकरियों की बहार!",
+    "script_hi": "कर्नाटक में उद्योग और रोजगार को लेकर बड़ा फैसला हुआ है। राज्य सरकार ने उनहत्तर हजार छह सौ उन्यासी करोड़ रुपये के निवेश प्रस्तावों को मंजूरी दी है। इन परियोजनाओं से राज्य में करीब छयासठ हजार तीन सौ साठ नौकरियां पैदा होने की उम्मीद है। टोयोटा और महिंद्रा जैसी बड़ी कंपनियां इसमें पैसा लगाएंगी।",
+    "tts_text_hi": "कर्नाटक में उद्योग और रोजगार को लेकर बड़ा फैसला हुआ है। राज्य सरकार ने उनहत्तर हजार छह सौ उन्यासी करोड़ रुपये के निवेश प्रस्तावों को मंजूरी दी है। इन परियोजनाओं से राज्य में करीब छयासठ हजार तीन सौ साठ नौकरियां पैदा होने की उम्मीद है। टोयोटा और महिंद्रा जैसी बड़ी कंपनियां इसमें पैसा लगाएंगी।",
+    "title": "कर्नाटक में नौकरी का बंपर मौका, उनतीस हजार करोड़ से ज्यादा के प्रोजेक्ट मंजूर",
+    "caption": "कर्नाटक सरकार ने उनहत्तर हजार छह सौ उन्यासी करोड़ रुपये के निवेश प्रस्तावों को दी मंजूरी, छयासठ हजार से ज्यादा नई नौकरियां आने की उम्मीद।",
     "hashtags": [
-      "#DonaldTrump",
-      "#USCoin",
-      "#America",
-      "#USMint",
-      "#DollarCoin",
-      "#News"
+      "KarnatakaNews",
+      "JobNews",
+      "Toyota",
+      "Mahindra",
+      "Investment",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "US Capitol building Washington",
-      "US dollar currency note"
+      "Bangalore corporate office India",
+      "Indian industrial factory workers",
+      "automobile manufacturing plant India"
     ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
-        "source": "fallback",
-        "query": "Donald Trump",
-        "duration_sec": 4.0
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16795618/pexels-photo-16795618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Bangalore corporate office India",
+        "credit": "Albin Biju",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US Capitol building Washington",
-        "credit": "Jackie Friedlander",
-        "duration_sec": 5
+        "query": "Indian industrial factory workers",
+        "credit": "Cemrecan Yurtman",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14820439/pexels-photo-14820439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6107344/pexels-photo-6107344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US dollar currency note",
-        "credit": "Jonathan Borba",
-        "duration_sec": 5
+        "query": "automobile manufacturing plant India",
+        "credit": "Taufan D",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18434793/pexels-photo-18434793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commemorative coin collection",
-        "credit": "Tushar Pattnaik",
-        "duration_sec": 5
+        "query": "corporate office meeting India",
+        "credit": "Fahad Puthawala",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7109882/pexels-photo-7109882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8112186/pexels-photo-8112186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "American currency printing",
-        "credit": "Rūdolfs Klintsons",
-        "duration_sec": 5
+        "query": "business handshake India",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25961803/pexels-photo-25961803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9305407/pexels-photo-9305407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US coin collection",
-        "credit": "Iván Cauich",
-        "duration_sec": 5
+        "query": "manufacturing factory floor",
+        "credit": "Adrien Olichon",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35795750/pexels-photo-35795750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "industrial city skyline India",
+        "credit": "Vaibhav Joshi",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 29.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "100 साल में पहली बार! अमेरिकी सिक्के पर छपी डोनाल्ड ट्रंप की तस्वीर 🪙",
-        "caption": "अमेरिका के इतिहास में पहली बार किसी जीवित राष्ट्रपति की तस्वीर सिक्के पर छपी है! 🇺🇸\n\n100 साल पुरानी परंपरा को तोड़ते हुए डोनाल्ड ट्रंप के नाम से $1 का नया सिक्का जारी किया गया है। इसके पीछे की पूरी कहानी बेहद दिलचस्प है।\n\nपूरी कहानी देखें और बताएं कि क्या भारत में भी ऐसा होना चाहिए?\n\n#DonaldTrump #USNews #DollarCoin #America #TrendingNews"
+        "title": "कर्नाटक में नौकरियों की बहार! ₹29,679 करोड़ के प्रोजेक्ट मंजूर 🚀",
+        "caption": "कर्नाटक में नौकरियों की बहार!\n\nटोयोटा और महिंद्रा जैसी दिग्गज कंपनियां राज्य में बड़ा निवेश करने जा रही हैं। सरकार ने 29,679 करोड़ रुपये से ज्यादा के प्रोजेक्ट्स को मंजूरी दे दी है, जिससे युवाओं के लिए रोजगार के नए रास्ते खुलेंगे।\n\nपूरी कहानी देखें और बताएं आपके हिसाब से किस सेक्टर में सबसे ज्यादा नौकरियां आनी चाहिए?\n\n#KarnatakaNews #JobOpenings #Toyota #Mahindra #Employment"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका के इतिहास में पहली बार किसी जीवित राष्ट्रपति की तस्वीर सिक्के पर छपी है! 🇺🇸\n\n100 साल में पहली बार ऐसा हुआ है जब डोनाल्ड ट्रंप के सम्मान में $1 का नया सिक्का जारी किया गया।\n\nयह फैसला क्यों लिया गया? पूरी कहानी देखें।\n\n#DonaldTrump #USNews #DollarCoin #America #TrendingNews"
+        "caption": "कर्नाटक में नौकरियों की बहार! ⚡\n\n₹29,679 करोड़ के नए प्रोजेक्ट्स मंजूर हो चुके हैं। टोयोटा और महिंद्रा जैसी बड़ी कंपनियां अब राज्य में भारी निवेश करेंगी, जिसका सीधा फायदा वहां के जॉब सीकर्स को मिलेगा।\n\nक्या आपके राज्य में भी ऐसे निवेश की जरूरत है? कमेंट में बताएं! 👇\n\n#KarnatakaNews #JobOpenings #Toyota #Mahindra #Employment"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका के इतिहास में पहली बार किसी जीवित राष्ट्रपति की तस्वीर सिक्के पर छपी है! 🇺🇸\n\nपिछले 100 सालों में ऐसा कभी नहीं हुआ था। अमेरिकी नियमों को ताक पर रखकर डोनाल्ड ट्रंप के नाम से $1 का नया सिक्का जारी किया गया है, जिसने हर किसी को हैरान कर दिया है।\n\nआखिर इसके पीछे की असली वजह क्या है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DonaldTrump #USNews #DollarCoin #America #TrendingNews"
+        "caption": "कर्नाटक में नौकरियों की बहार!\n\nराज्य के युवाओं के लिए एक बहुत बड़ी खुशखबरी सामने आई है। सरकार ने ₹29,679 करोड़ से ज्यादा के नए प्रोजेक्ट्स को हरी झंडी दे दी है। इसमें टोयोटा और महिंद्रा जैसी ग्लोबल कंपनियां बड़ा निवेश करेंगी, जिससे हजारों नए रोजगार के अवसर पैदा होने की उम्मीद है।\n\nपूरी डिटेल वीडियो में देखें और अपने दोस्तों के साथ शेयर करें जो नौकरी की तलाश में हैं।\n\n#KarnatakaNews #JobOpenings #Toyota #Mahindra #Employment"
       },
       "hashtags": [
-        "DonaldTrump",
-        "USNews",
-        "DollarCoin",
-        "America",
-        "TrendingNews"
+        "KarnatakaNews",
+        "JobOpenings",
+        "Toyota",
+        "Mahindra",
+        "Employment"
       ]
     },
-    "audio_path": "audio/trump_living_president_1_dollar_coin_global.wav",
-    "audio_duration_sec": 23.75,
-    "video_path": "videos/trump_living_president_1_dollar_coin_global.mp4",
-    "video_duration_sec": 31.66
+    "audio_path": "audio/karnataka_29679_crore_investment_jobs.wav",
+    "audio_duration_sec": 22.27,
+    "video_path": "videos/karnataka_29679_crore_investment_jobs.mp4",
+    "video_duration_sec": 30.31
   }
 ]
