@@ -1,61 +1,131 @@
 [
   {
-    "topic_label": "mp_fake_ias_ips_scam",
-    "virality_score": 8,
-    "reason": "Bizarre fraud case in MP where conmen posed as IAS and IPS officers, duping people and extracting free services.",
+    "topic_label": "nepal_trishuli_flood_devastation",
+    "virality_score": 9,
+    "reason": "Dramatic ground report of high-impact natural disaster with a massive death toll.",
     "region": "india",
-    "headline": "MP में फर्जी IAS-IPS के कारनामे: कोई बना जिला कलेक्टर, तो किसी ने बांटे जॉइनिंग लेटर",
-    "source_summary": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर रौब जमाने और ठगी करने के 3 अलग-अलग मामले सामने आए हैं. पुलिस ने कार्रवाई करते हुए फर्जी IAS तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी IPS ऋषि यादव को गिरफ्तार किया है. पढ़ें तीनों मामलों की विस्तृत रिपोर्ट.",
-    "source_url": "https://ndtv.in/india/fake-ias-ips-cases-madhya-pradesh-bhopal-indore-arrests-11994336#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 00:06:35 +0530",
-    "hook": "मध्य प्रदेश में फर्जी आईएएस और आईपीएस अधिकारियों का पर्दाफाश!",
-    "script_hi": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने के तीन बड़े मामले सामने आए हैं। पुलिस ने कार्रवाई करते हुए फर्जी आईएएस तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी आईपीएस ऋषि यादव को गिरफ्तार कर लिया है। ये आरोपी लोगों को नौकरी का झांसा देकर और रौब जमाकर ठगते थे।",
-    "tts_text_hi": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने के तीन बड़े मामले सामने आए हैं। पुलिस ने कार्रवाई करते हुए फर्जी आईएएस तृप्ति सिंह, नकली कलेक्टर हिमांशु पांचाल और फर्जी आईपीएस ऋषि यादव को गिरफ्तार कर लिया है। ये आरोपी लोगों को नौकरी का झांसा देकर और रौब जमाकर ठगते थे।",
-    "title": "MP में फर्जी IAS-IPS का भंडाफोड़",
-    "caption": "मध्य प्रदेश के भोपाल और इंदौर में फर्जी अधिकारी बनकर ठगी करने वाले तीन आरोपियों को पुलिस ने किया गिरफ्तार।",
+    "headline": "कीचड़ के नीचे दफन जिंदगी... त्रिशूली नदी ने कैसे पूरे कस्बे को तबाह कर दिया, देखिए Ground Report",
+    "source_summary": "नेपाल के बेत्रावती कस्बे को बाढ़ ने पूरी तरह बहा दिया. त्रिशूली नदी का स्वरूप बदल गया. स्कूल, घर, मंदिर सब खत्म. लोग पहाड़ों पर भागकर बचे. मरने वालों का आंकड़ा 1200 पार. आज तक की टीम ने दुर्गम रास्ते से पहुंचकर तबाही देखी.",
+    "source_url": "https://www.aajtak.in/science/story/nepal-the-entire-town-was-swept-away-aaj-tak-reaches-devastated-betrawati-after-deadly-floods-iwth-rptc-2635233-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T11:36:22+05:30",
+    "hook": "नेपाल में प्रकृति का सबसे भयानक तांडव!",
+    "script_hi": "नेपाल के बेत्रावती कस्बे का नामोनिशान मिट गया है। त्रिशूली नदी की बाढ़ ने सब कुछ तबाह कर दिया। स्कूल, घर और मंदिर कीचड़ में दफन हो गए। मौत का आंकड़ा एक हजार दो सौ के पार पहुँच चुका है। लोग जान बचाने के लिए पहाड़ों पर भागे। आज तक की टीम ने दुर्गम रास्तों से पहुंचकर इस खौफनाक मंजर को कैमरे में कैद किया है।",
+    "tts_text_hi": "नेपाल के बेत्रावती कस्बे का नामोनिशान मिट गया है। त्रिशूली नदी की बाढ़ ने सब कुछ तबाह कर दिया। स्कूल, घर और मंदिर कीचड़ में दफन हो गए। मौत का आंकड़ा एक हजार दो सौ के पार पहुँच चुका है। लोग जान बचाने के लिए पहाड़ों पर भागे। आज तक की टीम ने दुर्गम रास्तों से पहुंचकर इस खौफनाक मंजर को कैमरे में कैद किया है।",
+    "title": "नेपाल में त्रिशूली नदी की तबाही",
+    "caption": "त्रिशूली नदी की बाढ़ ने नेपाल के बेत्रावती कस्बे को पूरी तरह बर्बाद कर दिया है।",
     "hashtags": [
-      "#MadhyaPradesh",
-      "#FakeIAS",
-      "#BhopalNews",
-      "#IndoreNews",
-      "#CrimeNews",
-      "#PoliceAction"
+      "NepalFlood",
+      "TrishuliRiver",
+      "Disaster",
+      "NepalNews",
+      "GroundReport",
+      "Floods"
     ],
     "visual_queries": [
-      "Indian police station building",
-      "police investigation India",
-      "fraud arrest India"
+      "devastated town landscape",
+      "flooded river Nepal",
+      "destroyed house ruins",
+      "mountain landscape Nepal",
+      "news reporter on location"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on specific, localized visual evidence of devastation in Betrawati that requires real site footage to be accurate; generic stock B-roll would be misleading.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/33421808/14225274_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "destroyed house ruins",
+        "credit": "Keysi Estrada",
+        "source_duration_sec": 30,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35890635/15222630_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "mountain landscape Nepal",
+        "credit": "Yubaraj stha",
+        "source_duration_sec": 21,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32682418/pexels-photo-32682418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded river Nepal",
+        "credit": "Sabbir Bhuiyan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 17,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "humanoid_robot_aggressive_behavior",
+    "virality_score": 9,
+    "reason": "High-interest tech topic involving a humanoid robot acting aggressively, highly shareable video content.",
+    "region": "india",
+    "headline": "रोबोट हुआ बेकाबू, एक साथ तीन लोगों को याद दिलाई नानी! देखें Video",
+    "source_summary": "ह्यमनॉयड रोबोट का एक वीडियो फिर से वायरल हो गया है, जिसमें एक रोबोट ने तीन लोगों को सबक सिखा दिया, हालांकि बाद में बड़ी मुश्किल से रोबोट को कंट्रोल किया गया. आइए इसके बारे में डिटेल्स में जानते हैं.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/humanoid-robot-uncontrolled-video-goes-viral-ttecr-dskc-2634686-2026-09-02?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-02T15:12:45+05:30",
+    "hook": "क्या रोबोट अब इंसानों पर भारी पड़ रहे हैं?",
+    "script_hi": "क्या रोबोट अब इंसानों पर भारी पड़ रहे हैं? सोशल मीडिया पर एक वीडियो वायरल है जिसमें एक ह्यमनॉयड रोबोट ने तीन लोगों को एक साथ टक्कर मारकर गिरा दिया। गनीमत रही कि बाद में रोबोट को बड़ी मुश्किल से काबू में किया गया। आखिर क्या थी इस घटना की वजह?",
+    "tts_text_hi": "क्या रोबोट अब इंसानों पर भारी पड़ रहे हैं? सोशल मीडिया पर एक वीडियो वायरल है जिसमें एक ह्यमनॉयड रोबोट ने तीन लोगों को एक साथ टक्कर मारकर गिरा दिया। गनीमत रही कि बाद में रोबोट को बड़ी मुश्किल से काबू में किया गया। आखिर क्या थी इस घटना की वजह?",
+    "title": "बेकाबू रोबोट का वीडियो वायरल",
+    "caption": "वायरल वीडियो में रोबोट ने तीन लोगों को टक्कर मारी, सोशल मीडिया पर चर्चा तेज।",
+    "hashtags": [
+      "Robot",
+      "ViralVideo",
+      "Technology",
+      "AI",
+      "LatestNews",
+      "Robotics",
+      "Viral",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "humanoid robot movement lab",
+      "people falling down dramatic",
+      "technicians controlling robot machine"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video clip; generic stock footage will not capture the actual event mentioned, so the original video requires manual integration.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8294666/pexels-photo-8294666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police station building",
-        "credit": "GOWTHAM AGM",
+        "query": "humanoid robot movement lab",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8438995/pexels-photo-8438995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
+        "query": "advanced robotics testing",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6266305/pexels-photo-6266305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8439173/pexels-photo-8439173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fraud arrest India",
-        "credit": "Tima Miroshnichenko",
+        "query": "technicians controlling robot machine",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       }
     ],
@@ -64,67 +134,435 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "allahabad_hc_noida_dm_penalty",
-    "virality_score": 7,
-    "reason": "Allahabad HC orders Gautam Buddh Nagar DM to pay 5 lakh rupees from personal salary over wrongful NSA detention.",
+    "topic_label": "delhi_thar_accident_couple_death",
+    "virality_score": 8,
+    "reason": "Strong visual impact involving high-profile luxury vehicle accident causing fatalities, high audience outrage.",
     "region": "india",
-    "headline": "नोएडा DM को जेब से देने होगा 5 लाख का मुआवजा ! DU छात्रा पर NSA लगाने के मामले में HC का बड़ा आदेश",
-    "source_summary": "DU छात्रा आकृति चौधरी पर NSA लगाने का मामला गौतमबुद्ध नगर प्रशासन को भारी पड़ गया. इलाहाबाद हाई कोर्ट ने कार्रवाई रद्द करते हुए DM की सैलरी से 5 लाख रुपये मुआवजा देने का आदेश दिया. जानिए पूरा मामला.",
-    "source_url": "https://ndtv.in/india/akriti-chaudhary-nsa-case-allahabad-hc-orders-5-lakh-compensation-from-dm-salary-11995479#publisher=newsstand",
+    "headline": "दिल्ली कैंट में थार का कहर! बाइक सवार दंपति को कुचला, हरियाणा का कार ड्राइवर गिरफ्तार",
+    "source_summary": "दिल्ली कैंट इलाके में बुधवार देर शाम थार ने बाइक सवार दंपति को टक्कर मार दी. हादसे में दोनों की मौत हो गई.",
+    "source_url": "https://ndtv.in/delhi-ncr-news/delhi-cantt-thar-road-accident-bike-couple-death-car-driver-police-custody-11995528#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 10:30:00 +0530",
-    "hook": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये!",
-    "script_hi": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये! इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने की कार्रवाई को पूरी तरह रद्द कर दिया है। कोर्ट ने गौतमबुद्ध नगर प्रशासन को कड़ा संदेश देते हुए, छात्रा को पांच लाख रुपये मुआवजा डीएम के वेतन से काटकर देने का बड़ा आदेश दिया है।",
-    "tts_text_hi": "नोएडा डीएम को अपनी जेब से देने होंगे पांच लाख रुपये! इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने की कार्रवाई को पूरी तरह रद्द कर दिया है। कोर्ट ने गौतमबुद्ध नगर प्रशासन को कड़ा संदेश देते हुए, छात्रा को पांच लाख रुपये मुआवजा डीएम के वेतन से काटकर देने का बड़ा आदेश दिया है।",
-    "title": "नोएडा डीएम को देना होगा पांच लाख मुआवजा, हाई कोर्ट का बड़ा आदेश",
-    "caption": "इलाहाबाद हाई कोर्ट ने डीयू छात्रा आकृति चौधरी पर एनएसए लगाने के मामले में गौतमबुद्ध नगर प्रशासन को बड़ा झटका दिया है। कोर्ट ने डीएम के वेतन से पांच लाख रुपये मुआवजा देने का आदेश दिया है।",
+    "published": "Thu, 03 Sep 2026 11:41:33 +0530",
+    "hook": "दिल्ली कैंट में थार का रौद्र रूप, बाइक सवार दंपति को कुचला!",
+    "script_hi": "दिल्ली कैंट में थार गाड़ी का कहर देखने को मिला है। बुधवार देर शाम एक तेज़ रफ़्तार थार ने बाइक सवार पति-पत्नी को ज़ोरदार टक्कर मार दी। इस भीषण हादसे में दंपति की दर्दनाक मौत हो गई। पुलिस ने हरियाणा नंबर की गाड़ी के ड्राइवर को गिरफ़्तार कर लिया है।",
+    "tts_text_hi": "दिल्ली कैंट में थार गाड़ी का कहर देखने को मिला है। बुधवार देर शाम एक तेज़ रफ़्तार थार ने बाइक सवार पति-पत्नी को ज़ोरदार टक्कर मार दी। इस भीषण हादसे में दंपति की दर्दनाक मौत हो गई। पुलिस ने हरियाणा नंबर की गाड़ी के ड्राइवर को गिरफ़्तार कर लिया है।",
+    "title": "दिल्ली कैंट में थार का भीषण हादसा",
+    "caption": "दिल्ली कैंट में तेज़ रफ़्तार थार की चपेट में आने से बाइक सवार पति-पत्नी की मौत। आरोपी ड्राइवर गिरफ्तार।",
     "hashtags": [
-      "NoidaNews",
-      "AllahabadHighCourt",
-      "NSA",
-      "DelhiUniversity",
-      "UttarPradesh",
-      "LegalNews"
+      "DelhiNews",
+      "DelhiCantt",
+      "RoadAccident",
+      "CrimeNews",
+      "DelhiPolice",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "Allahabad High Court building India",
-      "Indian district magistrate office",
-      "Delhi University college student India"
+      "Delhi city street India",
+      "damaged motorcycle India accident scene",
+      "police car flashing lights India",
+      "arrested person handcuffs India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific, non-public, and tragic road accident incident where the specific footage or images of the wreckage in Delhi Cantt are needed for factual reporting; generic stock footage would misrepresent this specific local event.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38790890/pexels-photo-38790890.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Allahabad High Court building India",
-        "credit": "ravi verma",
+        "query": "Delhi city street India",
+        "credit": "Roman Saienko",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian district magistrate office",
-        "credit": "Preetesh  biswas",
+        "query": "arrested person handcuffs India",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pakistan_temple_demolition_outrage",
+    "virality_score": 8,
+    "reason": "High emotional and nationalistic value story about heritage destruction with international diplomatic backlash.",
+    "region": "india",
+    "headline": "पाक में तोड़ा गया 100 साल पुराना हिंदू मंदिर, भारत ने जमकर लताड़ा",
+    "source_summary": "पाकिस्तान में हिंदू मंदिर तोड़े जाने से भारत में कड़ी प्रतिक्रिया हुई है. लाहौर के पास एक गांव में 100 साल पुराने मंदिर को तोड़ा गया है, इसको लेकर विदेश मंत्रालय ने पाकिस्तान की निंदा की. हिंदू संगठनों के लोगों ने जम्मू में पाकिस्तान के खिलाफ प्रदर्शन किया और पुतला फूंका. देखें वीडियो.",
+    "source_url": "https://www.aajtak.in/world/video/pakistan-hindu-temple-demolished-controversy-lahore-protest-in-inida-vdot-2635123-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T10:42:31+05:30",
+    "hook": "पाकिस्तान में एक और शर्मनाक घटना, सौ साल पुराना हिंदू मंदिर ढहा दिया गया!",
+    "script_hi": "पाकिस्तान में सौ साल पुराना हिंदू मंदिर तोड़ा गया। लाहौर के पास हुई इस घटना पर भारत ने कड़ी आपत्ति जताई है। जम्मू में लोगों ने पाकिस्तान के खिलाफ जमकर प्रदर्शन किया और पुतला फूंका।",
+    "tts_text_hi": "पाकिस्तान में सौ साल पुराना हिंदू मंदिर तोड़ा गया। लाहौर के पास हुई इस घटना पर भारत ने कड़ी आपत्ति जताई है। जम्मू में लोगों ने पाकिस्तान के खिलाफ जमकर प्रदर्शन किया और पुतला फूंका।",
+    "title": "पाक में प्राचीन मंदिर तोड़ा गया",
+    "caption": "पाकिस्तान में सौ साल पुराने मंदिर को तोड़े जाने के खिलाफ भारत में प्रदर्शन।",
+    "hashtags": [
+      "Pakistan",
+      "India",
+      "HinduTemple",
+      "Jammu",
+      "NewsUpdate",
+      "LatestNews"
+    ],
+    "visual_queries": [
+      "ancient Hindu temple architecture",
+      "Pakistani street scene",
+      "Indian protesters demonstration",
+      "burning effigy protest India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves communal/religious tension and specifically mentions a viral video/incident that needs the real footage instead of generic stock imagery.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35664837/15114051_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Pakistani street scene",
+        "credit": "Abdul Wali Khan",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37133371/pexels-photo-37133371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ancient Hindu temple architecture",
+        "credit": "Arjun Venugopal",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39193542/pexels-photo-39193542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi University college student India",
-        "credit": "Karan Hansraj",
+        "query": "Indian protesters demonstration",
+        "credit": "Satyam Pixels",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "mumbai_80cr_luxury_home",
+    "virality_score": 8,
+    "reason": "High aspirational value story about extreme luxury real estate, classic viral fodder.",
+    "region": "india",
+    "headline": "भाई 3 जन्म की EMI होगी क्या...₹80 करोड़ का घर! सामने अरब सागर",
+    "source_summary": "मुंबई के जुहू में ₹80 करोड़ की एक लग्जरी 5BHK प्रॉपर्टी का वीडियो सोशल मीडिया पर वायरल हो रहा है. 5,600 वर्ग फुट के इस घर में समुद्र का शानदार नजारा, करीब 400 वर्ग फुट की बालकनी, चार कार पार्किंग और डायरेक्ट बीच एक्सेस जैसी सुविधाएं बताई गई हैं.",
+    "source_url": "https://www.aajtak.in/trending/story/mumbai-juhu-80-crore-luxury-beachfront-5bhk-property-viral-video-social-media-reactions-rttw-dskc-2635212-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T11:09:16+05:30",
+    "hook": "क्या आपने कभी अस्सी करोड़ का घर देखा है?",
+    "script_hi": "मुंबई के जुहू में अस्सी करोड़ रुपये की एक लग्जरी प्रॉपर्टी का वीडियो इंटरनेट पर धूम मचा रहा है। पांच बीएचके वाले इस पांच हजार छह सौ वर्ग फुट के घर में अरब सागर का शानदार नजारा मिलता है। इसमें चार सौ वर्ग फुट की बालकनी, चार कार पार्किंग और सीधे समुद्र तट तक जाने की सुविधा है।",
+    "tts_text_hi": "मुंबई के जुहू में अस्सी करोड़ रुपये की एक लग्जरी प्रॉपर्टी का वीडियो इंटरनेट पर धूम मचा रहा है। पांच बीएचके वाले इस पांच हजार छह सौ वर्ग फुट के घर में अरब सागर का शानदार नजारा मिलता है। इसमें चार सौ वर्ग फुट की बालकनी, चार कार पार्किंग और सीधे समुद्र तट तक जाने की सुविधा है।",
+    "title": "मुंबई में अस्सी करोड़ का लग्जरी घर",
+    "caption": "मुंबई के जुहू में अस्सी करोड़ का आलीशान घर, फीचर्स जानकर आप रह जाएंगे दंग!",
+    "hashtags": [
+      "MumbaiRealEstate",
+      "Juhu",
+      "LuxuryHome",
+      "MumbaiNews",
+      "ViralVideo",
+      "PropertyIndia"
+    ],
+    "visual_queries": [
+      "luxury apartment interior India",
+      "Arabian Sea view India",
+      "modern balcony view India",
+      "luxury car parking India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific viral video of a unique private property for which generic stock imagery is insufficient; manual addition of the source footage is required.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29681899/12766269_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "luxury apartment interior India",
+        "credit": "23  Audiovisual",
+        "source_duration_sec": 4,
+        "duration_sec": 4
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20691836/pexels-photo-20691836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Arabian Sea view India",
+        "credit": "Manthan Mer",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern balcony view India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37249763/pexels-photo-37249763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury car parking India",
+        "credit": "Reyan V Ratheesh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ev_1230km_range_test",
+    "virality_score": 7,
+    "reason": "Incredible EV mileage claim that generates debate and curiosity among the broad audience.",
+    "region": "india",
+    "headline": "चार सवारी और फुल AC, सिंगल चार्ज में 1230KM दौड़ी EV, देखें VIDEO",
+    "source_summary": "सिंगल चार्ज में 1230KM का सफर और उसके बाद भी 58 किलोमीटर की रेंज बाकी. ये कहानी एक ऐसी कार की है, जो इलेक्ट्रिक है और पेट्रोल से पावर भी लेती है. हम बात कर रहे हैं शाओमी स्काईनोमैड एन90 मैक्स रेंज एक्सटेंडर की. इस कार में एक इंजन लगा है, जो कार की बैटरी को चार्ज करता है. आइए जानते हैं इस SUV दूसरी खास बातें.",
+    "source_url": "https://www.aajtak.in/auto/news/story/xiaomi-skynomad-n90-max-erev-real-world-range-test-auam-dskc-2634710-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T11:58:52+05:30",
+    "hook": "क्या आपने ऐसी इलेक्ट्रिक कार देखी है जो एक बार चार्ज करने पर एक हजार दो सौ तीस किलोमीटर दौड़ सकती है?",
+    "script_hi": "क्या आपने ऐसी इलेक्ट्रिक कार देखी है जो एक बार चार्ज करने पर एक हजार दो सौ तीस किलोमीटर दौड़ सकती है? यह कार है शाओमी स्काईनोमैड एन नब्बे मैक्स। इसमें लगी खास तकनीक इसे पेट्रोल और बैटरी दोनों से चलाती है। चार लोगों की सवारी और फुल एसी के साथ, इसने लंबी दूरी का रिकॉर्ड तोड़ दिया है। चार्ज खत्म होने के बाद भी इसमें सत्तावन किलोमीटर की रेंज बची थी। यह भविष्य की शानदार एसयूवी है।",
+    "tts_text_hi": "क्या आपने ऐसी इलेक्ट्रिक कार देखी है जो एक बार चार्ज करने पर एक हजार दो सौ तीस किलोमीटर दौड़ सकती है? यह कार है शाओमी स्काईनोमैड एन नब्बे मैक्स। इसमें लगी खास तकनीक इसे पेट्रोल और बैटरी दोनों से चलाती है। चार लोगों की सवारी और फुल एसी के साथ, इसने लंबी दूरी का रिकॉर्ड तोड़ दिया है। चार्ज खत्म होने के बाद भी इसमें सत्तावन किलोमीटर की रेंज बची थी। यह भविष्य की शानदार एसयूवी है।",
+    "title": "Xiaomi की धाकड़ इलेक्ट्रिक कार का कमाल",
+    "caption": "Xiaomi की नई इलेक्ट्रिक कार ने मचाया धमाल! सिंगल चार्ज में तय किया 1230KM का सफर।",
+    "hashtags": [
+      "Xiaomi",
+      "ElectricCar",
+      "EV",
+      "AutoNews",
+      "TechNews",
+      "Innovation",
+      "FutureTech"
+    ],
+    "visual_queries": [
+      "modern electric SUV driving road",
+      "futuristic car dashboard interior",
+      "family sitting inside car",
+      "electric car charging station"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story highlights a specific viral video mentioned in the headline which requires the real footage of the Xiaomi SkyNomad N90 to be added manually instead of generic stock.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29474390/12687735_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "modern electric SUV driving road",
+        "credit": "Samar Layek",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/4482251/4482251-hd_720_1366_50fps.mp4",
+        "source": "pexels",
+        "query": "family sitting inside car",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 29,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/9790211/9790211-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "electric car charging station",
+        "credit": "Kindel Media",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24376862/pexels-photo-24376862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern electric car",
+        "credit": "Elmir Jafarov",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 23,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "crypto_influencer_success_story",
+    "virality_score": 7,
+    "reason": "A rags-to-riches story involving high stakes, failure, and billionaire status, perfect for motivation-seeking audience.",
+    "region": "india",
+    "headline": "बुलंदशहर का लड़का, एक गलती से रातों-रात गंवाए 100 करोड़ रुपए, आज एलन मस्क के साथ उड़ता है प्राइवेट जेट में",
+    "source_summary": "Pushpendra Singh crypto influencer: एक पासवर्ड खोने से डूबे 100 करोड़ रुपये, घर की छत पर झेले ताने और 7 साल की जेल का खौफ. जानिए यूपी के एक छोटे से गांव से निकलकर दुनिया का नंबर-1 क्रिप्टो इन्फ्लुएंसर बनने वाले पुष्पेंद्र सिंह की कहानी.",
+    "source_url": "https://ndtv.in/india/pushpendra-singh-bulandshahr-boy-crypto-success-story-lost-100-crore-bitcoin-binance-top-influencer-11995713#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 11:32:21 +0530",
+    "hook": "बुलंदशहर के लड़के की ऐसी कहानी, जिसे सुनकर आप दंग रह जाएंगे!",
+    "script_hi": "बुलंदशहर के पुष्पेंद्र सिंह की एक गलती ने उन्हें सौ करोड़ का नुकसान पहुंचाया। सात साल जेल का डर और लोगों के ताने, लेकिन आज वे एलन मस्क के साथ प्राइवेट जेट में सफर करते हैं। जानिए कैसे बना एक साधारण लड़का दुनिया का नंबर एक क्रिप्टो इन्फ्लुएंसर।",
+    "tts_text_hi": "बुलंदशहर के पुष्पेंद्र सिंह की एक गलती ने उन्हें सौ करोड़ का नुकसान पहुंचाया। सात साल जेल का डर और लोगों के ताने, लेकिन आज वे एलन मस्क के साथ प्राइवेट जेट में सफर करते हैं। जानिए कैसे बना एक साधारण लड़का दुनिया का नंबर एक क्रिप्टो इन्फ्लुएंसर।",
+    "title": "पुष्पेंद्र सिंह: 100 करोड़ गंवाने से अरबपति बनने तक",
+    "caption": "बुलंदशहर के एक छोटे से गांव से निकलकर दुनिया के सबसे बड़े क्रिप्टो इन्फ्लुएंसर बनने तक का सफर। #PushpendraSingh #CryptoSuccess #Bulandshahr #SuccessStory #ElonMusk #CryptoIndia",
+    "hashtags": [
+      "#PushpendraSingh",
+      "#CryptoSuccess",
+      "#Bulandshahr",
+      "#SuccessStory",
+      "#ElonMusk",
+      "#CryptoIndia",
+      "#Motivation"
+    ],
+    "visual_queries": [
+      "Indian village landscape",
+      "man looking stressed at laptop",
+      "luxury private jet interior",
+      "digital cryptocurrency chart animation"
+    ],
+    "named_person": "Pushpendra Singh",
+    "named_person_hi": "पुष्पेंद्र सिंह",
+    "secondary_persons": [
+      "Elon Musk"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific public figure whose personal photo or actual visual presence would be better than generic stock imagery for the narrative.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "पुष्पेंद्र सिंह",
+        "source": "fallback",
+        "query": "Pushpendra Singh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24781984/pexels-photo-24781984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village landscape",
+        "credit": "Muhammed zeya",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3778952/pexels-photo-3778952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "man looking stressed at laptop",
+        "credit": "Andrea Piacquadio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14914173/pexels-photo-14914173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury private jet interior",
+        "credit": "Katie Cerami",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital cryptocurrency chart animation",
+        "credit": "Vito Goričan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "global_minneapolis_building_shooting",
+    "virality_score": 7,
+    "reason": "Violent global news with strong visual potential and broad audience impact.",
+    "region": "india",
+    "headline": "गोलीबारी से फिर दहला अमेरिका, मिनियापोलिस की ऊंची बिल्डिंग में खूनी खेल- शूटर समेत 3 की मौत, 3 पुलिसकर्मी घायल",
+    "source_summary": "अमेरिका के मिनियापोलिस की एक ऊंची बिल्डिंग में गोलीबारी हुई है. 911 पर सूचना मिलने के 3 मिनट के अंदर पुलिस क्राइम सीन पर पहुंच गई थी. जानिए एक चश्मदीद ने गोलीबारी के बारे में क्या बताया.",
+    "source_url": "https://ndtv.in/world-news/us-minneapolis-shooting-people-were-killed-suspect-is-dead-viral-video-of-attack-police-officers-injured-11994967#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 07:21:51 +0530",
+    "hook": "अमेरिका के मिनियापोलिस में फिर चली गोलियां, एक ऊंची इमारत में मची भगदड़ और खूनी खेल!",
+    "script_hi": "अमेरिका के मिनियापोलिस की एक ऊंची बिल्डिंग में हुई गोलीबारी से सनसनी फैल गई है। इस खूनी खेल में शूटर समेत कुल तीन लोगों की मौत हो गई है, जबकि तीन पुलिसकर्मी घायल हुए हैं। नौ सौ ग्यारह पर सूचना मिलते ही पुलिस तीन मिनट के भीतर मौके पर पहुंच गई थी। फिलहाल पूरे इलाके को घेर लिया गया है और जांच जारी है।",
+    "tts_text_hi": "अमेरिका के मिनियापोलिस की एक ऊंची बिल्डिंग में हुई गोलीबारी से सनसनी फैल गई है। इस खूनी खेल में शूटर समेत कुल तीन लोगों की मौत हो गई है, जबकि तीन पुलिसकर्मी घायल हुए हैं। नौ सौ ग्यारह पर सूचना मिलते ही पुलिस तीन मिनट के भीतर मौके पर पहुंच गई थी। फिलहाल पूरे इलाके को घेर लिया गया है और जांच जारी है।",
+    "title": "मिनियापोलिस गोलीबारी: शूटर समेत तीन की मौत",
+    "caption": "अमेरिका के मिनियापोलिस में फायरिंग से दहला शहर, तीन की मौत।",
+    "hashtags": [
+      "Minneapolis",
+      "USA",
+      "BreakingNews",
+      "Firing",
+      "America",
+      "CrimeNews"
+    ],
+    "visual_queries": [
+      "Minneapolis city skyline",
+      "police car flashing lights",
+      "police tape crime scene",
+      "emergency response team"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific, ongoing crime scene in Minneapolis for which real footage is expected by the audience; generic stock photography of city skylines or police tape may be misleading.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6520246/6520246-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "emergency response team",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12316732/pexels-photo-12316732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Minneapolis city skyline",
+        "credit": "Andrew Patrick Photo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "Srujan J.",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   }
 ]
