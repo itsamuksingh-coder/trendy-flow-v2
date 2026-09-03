@@ -1,7 +1,10 @@
-ready_labels: ['channel_smuggling_gangs_mega_dinghies', 'india_25_states_heavy_rain_alert', 'whatsapp_india_bill_payment_launch']
+ready_labels: ['nagin_dance_history', 'xiaomi_fold_18_launch']
 
-india_25_states_heavy_rain_alert: SUCCESS -> video_path=videos/india_25_states_heavy_rain_alert.mp4 dur=30.987211
-varanasi_flood_cremation_crisis: SKIPPED (not in ready set)
-whatsapp_india_bill_payment_launch: SUCCESS -> video_path=videos/whatsapp_india_bill_payment_launch.mp4 dur=24.82322
-ballia_buffalo_birthday_celebration: SKIPPED (not in ready set)
-channel_smuggling_gangs_mega_dinghies: SUCCESS -> video_path=videos/channel_smuggling_gangs_mega_dinghies.mp4 dur=35.86322
+scorpio_on_roof_bihar: SKIPPED (not in ready set)
+varanasi_flood_cremation: SKIPPED (not in ready set)
+woman_prisoner_escapes_burqa: SKIPPED (not in ready set)
+buffalo_birthday_bash: SKIPPED (not in ready set)
+tigers_on_road_badaun: SKIPPED (not in ready set)
+man_climbs_tower_odisha: SKIPPED (not in ready set)
+nagin_dance_history: SUCCESS -> video_path=videos/nagin_dance_history.mp4 dur=35.889887
+xiaomi_fold_18_launch: SUCCESS -> video_path=videos/xiaomi_fold_18_launch.mp4 dur=29.489887
