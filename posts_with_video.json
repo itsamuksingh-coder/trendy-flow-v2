@@ -1,49 +1,40 @@
 [
   {
-    "topic_label": "scorpio_on_roof_bihar",
-    "virality_score": 9,
-    "reason": "Highly visual and bizarre story of a man parking his SUV on the roof to keep it safe; extreme social media bait.",
+    "topic_label": "scorpio_on_roof_house",
+    "virality_score": 10,
+    "reason": "Extreme viral visual of a car parked on a house roof is perfect for short-form entertainment.",
     "region": "india",
     "headline": "चोरी के डर से घर की छत पर ही चढ़ा दी Scorpio! बिहार के शख्स का अनोखा जुगाड़, वीडियो वायरल",
     "source_summary": "बिहार में Mahindra Scorpio को क्रेन से घर की छत पर रखने का वीडियो वायरल हो रहा है. दावा किया जा रहा है कि Scorpio मालिक विदेश जाने से पहले SUV को सुरक्षित रखना चाहता था.",
     "source_url": "https://ndtv.in/auto/mahindra-scorpio-crane-roof-bihar-viral-video-11996580#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Thu, 03 Sep 2026 14:44:14 +0530",
-    "hook": "क्या आपने कभी कार को घर की छत पर पार्किंग करते देखा है?",
-    "script_hi": "बिहार में एक अनोखा मामला सामने आया है। चोरी के डर से एक शख्स ने अपनी महिंद्रा स्कॉर्पियो को क्रेन की मदद से अपने घर की छत पर चढ़ा दिया। बताया जा रहा है कि मालिक को विदेश जाना था और वह अपनी गाड़ी को सुरक्षित रखना चाहता था। यह अजीबोगरीब जुगाड़ अब इंटरनेट पर तेजी से वायरल हो रहा है।",
-    "tts_text_hi": "बिहार में एक अनोखा मामला सामने आया है। चोरी के डर से एक शख्स ने अपनी महिंद्रा स्कॉर्पियो को क्रेन की मदद से अपने घर की छत पर चढ़ा दिया। बताया जा रहा है कि मालिक को विदेश जाना था और वह अपनी गाड़ी को सुरक्षित रखना चाहता था। यह अजीबोगरीब जुगाड़ अब इंटरनेट पर तेजी से वायरल हो रहा है।",
-    "title": "बिहार: छत पर पार्क की स्कॉर्पियो",
-    "caption": "बिहार में चोरी के डर से छत पर चढ़ाई स्कॉर्पियो! मालिक का यह गजब जुगाड़ हुआ वायरल।",
+    "hook": "बिहार में एक शख्स ने अपनी स्कॉर्पियो को छत पर ही चढ़ा दिया!",
+    "script_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी स्कॉर्पियो को घर की छत पर ही चढ़ा दिया। यह अनोखा जुगाड़ अब इंटरनेट पर खूब वायरल हो रहा है। मालिक विदेश जा रहा था और उसे अपनी कार की सुरक्षा की चिंता थी। उसने क्रेन की मदद से पूरी एसयूवी को अपने घर की छत पर ही पार्क कर दिया। इस वीडियो को देख हर कोई हैरान है।",
+    "tts_text_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी स्कॉर्पियो को घर की छत पर ही चढ़ा दिया। यह अनोखा जुगाड़ अब इंटरनेट पर खूब वायरल हो रहा है। मालिक विदेश जा रहा था और उसे अपनी कार की सुरक्षा की चिंता थी। उसने क्रेन की मदद से पूरी एसयूवी को अपने घर की छत पर ही पार्क कर दिया। इस वीडियो को देख हर कोई हैरान है।",
+    "title": "बिहार: चोरी के डर से छत पर चढ़ाई स्कॉर्पियो",
+    "caption": "बिहार का अनोखा जुगाड़! चोरी के डर से शख्स ने क्रेन से अपनी कार घर की छत पर खड़ी कर दी।",
     "hashtags": [
       "Bihar",
       "ViralVideo",
-      "Scorpio",
       "Jugaad",
-      "Trending",
+      "Scorpio",
+      "Viral",
       "India"
     ],
     "visual_queries": [
-      "Indian residential house exterior",
-      "Mahindra Scorpio SUV India",
-      "crane lifting car",
-      "car parked on rooftop"
+      "Indian village house exterior",
+      "car parked on roof India",
+      "crane lifting SUV India",
+      "surprised people looking up"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a car being lifted onto a rooftop. Generic stock footage cannot represent this unique event; the actual viral footage must be manually inserted for the story to be accurate.",
+    "flag_reason": "The story relies entirely on a specific viral video of a unique incident; generic stock footage will not accurately represent this event.",
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/11551529/11551529-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "car parking space",
-        "credit": "Altaf Shah",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/16052694/16052694-hd_720_1280_60fps.mp4",
@@ -55,193 +46,150 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32031452/pexels-photo-32031452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12771999/pexels-photo-12771999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential house exterior",
-        "credit": "Sahil Hansda",
+        "query": "Indian village house exterior",
+        "credit": "Ajin  K S",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12937789/pexels-photo-12937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36171603/pexels-photo-36171603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mahindra Scorpio SUV India",
-        "credit": "Ruhit Ramzan",
+        "query": "urban residential India",
+        "credit": "Subham Mitra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crane lifting SUV India",
+        "credit": "Action Construction  Equipment Ltd. - ACE",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "varanasi_flood_cremation",
+    "topic_label": "ram_mandir_first_ceo",
     "virality_score": 9,
-    "reason": "Visually striking and emotionally heavy footage of cremations on rooftops due to floods; powerful news content.",
+    "reason": "Highly anticipated appointment of the first CEO for the Ram Mandir attracts massive national audience.",
     "region": "india",
-    "headline": "घाट डूबा, छतों पर जल रहीं चिताएं! बाढ़ में डूबे वाराणसी की दर्दनाक तस्वीरें",
-    "source_summary": "वाराणसी में गंगा नदी का जलस्तर तेजी से बढ़ने से तटवर्ती इलाके बाढ़ की चपेट में आ गए हैं. महाश्मशान मणिकर्णिका घाट जलमग्न हो चुका है, जिसकी वजह से चिताओं को छतों पर जलाना पड़ रहा है. वहीं, शवयात्रा के लिए नाव का सहारा लेना पड़ रहा है. वाराणसी से बाढ़ के बाद सामने आ रही तस्वीरें दिल झकझोर देने वाली हैं.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/varanasi-ganga-river-flood-manikarnika-ghat-dead-bodies-cremation-roofs-ntc-drmt-rpti-2635337-2026-09-03?utm_source=rssfeed",
+    "headline": "राम मंदिर ट्रस्ट के नए CEO ने की पहली बैठक, समझा ट्रस्ट का ये कामकाज",
+    "source_summary": "अयोध्या पहुंचे राम मंदिर ट्रस्ट के पहले CEO एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा ने गुरुवार को ट्रस्ट के सदस्यों और पदाधिकारियों के साथ पहली बैठक की. उन्हें ट्रस्ट की लेखा और प्रशासनिक व्यवस्था की जानकारी दी गई. मिश्रा ने राम मंदिर में दर्शन भी किए. ट्रस्ट अब CEO की जिम्मेदारियों और अधिकारों को लेकर SOP तैयार करेगा.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ram-mandir-trust-new-ceo-meeting-ayodhya-administration-lclcn-dskc-2635519-2026-09-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-03T14:15:34+05:30",
-    "hook": "वाराणसी में बाढ़ का रौद्र रूप, मणिकर्णिका घाट पर चिताएं छत पर जल रही हैं!",
-    "script_hi": "वाराणसी में गंगा का जलस्तर खतरे के निशान के ऊपर है। महाश्मशान मणिकर्णिका घाट पूरी तरह जलमग्न हो चुका है। स्थिति इतनी दर्दनाक है कि लोगों को शवों का अंतिम संस्कार छतों पर करना पड़ रहा है। शवयात्रा के लिए नावों का सहारा लिया जा रहा है। बाढ़ की ये भयावह तस्वीरें पूरे बनारस को झकझोर रही हैं।",
-    "tts_text_hi": "वाराणसी में गंगा का जलस्तर खतरे के निशान के ऊपर है। महाश्मशान मणिकर्णिका घाट पूरी तरह जलमग्न हो चुका है। स्थिति इतनी दर्दनाक है कि लोगों को शवों का अंतिम संस्कार छतों पर करना पड़ रहा है। शवयात्रा के लिए नावों का सहारा लिया जा रहा है। बाढ़ की ये भयावह तस्वीरें पूरे बनारस को झकझोर रही हैं।",
-    "title": "वाराणसी में बाढ़ की भयावह स्थिति",
-    "caption": "वाराणसी में गंगा का जलस्तर बढ़ने से मणिकर्णिका घाट डूबा, छतों पर हो रहा अंतिम संस्कार।",
+    "published": "2026-09-03T17:13:00+05:30",
+    "hook": "अयोध्या राम मंदिर ट्रस्ट को मिला पहला सीईओ, एयर मार्शल जीतेंद्र मिश्रा ने संभाली कमान!",
+    "script_hi": "अयोध्या राम मंदिर ट्रस्ट के पहले सीईओ, रिटायर्ड एयर मार्शल जीतेंद्र मिश्रा ने अपनी पहली बैठक की है। उन्होंने ट्रस्ट के काम-काज और प्रशासनिक व्यवस्था को समझा और राम मंदिर में दर्शन किए। जल्द ही ट्रस्ट उनके अधिकारों और जिम्मेदारी पर एक नई एसओपी तैयार करेगा।",
+    "tts_text_hi": "अयोध्या राम मंदिर ट्रस्ट के पहले सीईओ, रिटायर्ड एयर मार्शल जीतेंद्र मिश्रा ने अपनी पहली बैठक की है। उन्होंने ट्रस्ट के काम-काज और प्रशासनिक व्यवस्था को समझा और राम मंदिर में दर्शन किए। जल्द ही ट्रस्ट उनके अधिकारों और जिम्मेदारी पर एक नई एसओपी तैयार करेगा।",
+    "title": "राम मंदिर ट्रस्ट के पहले CEO ने की बैठक",
+    "caption": "राम मंदिर ट्रस्ट के पहले CEO एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा ने अयोध्या में की पहली समीक्षा बैठक।",
     "hashtags": [
-      "Varanasi",
-      "Flood",
-      "Ganga",
-      "ManikarnikaGhat",
-      "UttarPradesh",
-      "NewsIndia",
-      "BreakingNews"
+      "Ayodhya",
+      "RamMandir",
+      "RamJanmabhoomi",
+      "LatestNews",
+      "Trust",
+      "UttarPradesh"
     ],
     "visual_queries": [
-      "Ganga river flooding India",
-      "submerged hindu temple stairs India",
-      "funeral pyre on rooftop India",
-      "boat transporting people India flood"
+      "Ram Mandir Ayodhya India",
+      "Indian administrative meeting room",
+      "Indian temple courtyard architecture"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Jitendra Mishra",
+    "named_person_hi": "जीतेंद्र मिश्रा",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific, highly emotional viral footage of rooftops being used for funerals which cannot be replicated by generic stock footage; needs manual insertion of real footage.",
+    "flag_reason": "Needs real footage of the meeting event, as generic stock footage of the temple or a generic meeting room will not represent the specific person or the actual event taking place.",
     "assets": [
       {
+        "type": "text_card",
+        "text": "जीतेंद्र मिश्रा",
+        "source": "fallback",
+        "query": "Jitendra Mishra",
+        "duration_sec": 4.0
+      },
+      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36478002/pexels-photo-36478002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Ganga river flooding India",
-        "credit": "Arto Suraj",
+        "query": "Ram Mandir Ayodhya India",
+        "credit": "Ansh Yati",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35794871/pexels-photo-35794871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9300731/pexels-photo-9300731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "submerged hindu temple stairs India",
-        "credit": "Ritesh Mitha",
+        "query": "Indian administrative meeting room",
+        "credit": "Mikhail Nilov",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35371822/pexels-photo-35371822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Ganges river flooding",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329464/pexels-photo-33329464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "boat transporting people India flood",
-        "credit": "Arto Suraj",
+        "query": "Indian temple courtyard architecture",
+        "credit": "Shivansh  Sharma",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 19.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "woman_prisoner_escapes_burqa",
+    "topic_label": "buffalo_birthday_celebration",
     "virality_score": 9,
-    "reason": "Flimsy escape of a prisoner disguised in a burqa from a hospital is a perfect viral crime story.",
+    "reason": "Quirky, human-interest viral content featuring a buffalo birthday party in Uttar Pradesh.",
     "region": "india",
-    "headline": "सूट पहनकर टॉयलेट में घुसी महिला कैदी, बुर्का पहनकर भाग निकली!",
-    "source_summary": "यूपी के बरेली में पॉक्सो एक्ट की आरोपी महिला कैदी ममता जिला अस्पताल से फिल्मी अंदाज में फरार हो गई. उसने टॉयलेट में कपड़े बदलकर बुर्का पहना और चकमा देकर भाग निकली. एसएसपी ने लापरवाही बरतने वाली दो महिला सिपाहियों को निलंबित कर दिया है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/female-prisoner-flees-entered-toilet-wearing-suit-escaped-in-burqa-bareilly-lclam-dskc-2635437-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T15:36:36+05:30",
-    "hook": "यूपी के बरेली से एक हैरान करने वाली खबर आई है, जहां एक महिला कैदी फिल्मी स्टाइल में पुलिस को चकमा देकर फरार हो गई!",
-    "script_hi": "यूपी के बरेली में पॉक्सो एक्ट की आरोपी महिला कैदी ममता जिला अस्पताल से फरार हो गई। उसने टॉयलेट में जाकर सूट के ऊपर बुर्का पहना और पुलिस को चकमा देकर भाग निकली। इस बड़ी लापरवाही के बाद दो महिला सिपाहियों को निलंबित कर दिया गया है। पुलिस अब आरोपी की तलाश कर रही है।",
-    "tts_text_hi": "उत्तर प्रदेश के बरेली में पॉक्सो एक्ट की आरोपी महिला कैदी ममता जिला अस्पताल से फिल्मी अंदाज में फरार हो गई। उसने टॉयलेट में कपड़े बदलकर बुर्का पहना और पुलिस को चकमा देकर फरार हो गई। इस बड़ी लापरवाही के बाद दो महिला सिपाहियों को निलंबित कर दिया गया है। पुलिस अब आरोपी की तलाश कर रही है।",
-    "title": "बरेली में बुर्का पहनकर फरार हुई कैदी",
-    "caption": "यूपी के बरेली में अस्पताल से फिल्मी अंदाज में फरार हुई कैदी, दो महिला सिपाही सस्पेंड।",
+    "headline": "यूपी में भैंस का गजब बर्थडे सेलिब्रेशन, 'बसंती' को पहनाई टोपी, फिर काटा गया केक, वीडियो वायरल",
+    "source_summary": "यूपी के बलिया जिले में एक पशुपालक ने अपनी भैंस 'बसंती' का जन्मदिन केक काटकर और गाजे-बाजे के साथ मनाया. इस अनोखे आयोजन का वीडियो सोशल मीडिया पर वायरल हो रहा है.",
+    "source_url": "https://ndtv.in/uttar-pradesh-news/buffalo-birthday-celebration-in-up-ballia-goes-viral-owner-cuts-cake-for-basanti-11997659#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 17:51:27 +0530",
+    "hook": "उत्तर प्रदेश के बलिया में भैंस के बर्थडे सेलिब्रेशन का वीडियो सोशल मीडिया पर वायरल हो गया है!",
+    "script_hi": "उत्तर प्रदेश के बलिया में एक पशुपालक ने अपनी भैंस 'बसंती' का जन्मदिन बड़े धूमधाम से मनाया। बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह अनोखा वीडियो अब इंटरनेट पर चर्चा का विषय बन गया है।",
+    "tts_text_hi": "उत्तर प्रदेश के बलिया में एक पशुपालक ने अपनी भैंस बसंती का जन्मदिन बड़े धूमधाम से मनाया। बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह अनोखा वीडियो अब इंटरनेट पर चर्चा का विषय बन गया है।",
+    "title": "यूपी में भैंस का शानदार बर्थडे सेलिब्रेशन",
+    "caption": "बलिया में भैंस का अनोखा बर्थडे सेलिब्रेशन, सोशल मीडिया पर वीडियो वायरल।",
     "hashtags": [
-      "Bareilly",
       "UttarPradesh",
-      "CrimeNews",
-      "Police",
-      "BreakingNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian hospital building exterior",
-      "Indian police station interior",
-      "police officer India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves an accused person currently being sought by police. Per instructions, this needs manual review as the event is a specific local incident where generic stock photos of a hospital or police will not capture the actual event or the individual involved.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police custody India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police officer India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "buffalo_birthday_bash",
-    "virality_score": 8,
-    "reason": "An offbeat, light-hearted story about a man celebrating his buffalo's birthday that is perfect for short-form entertainment.",
-    "region": "india",
-    "headline": "भैंस के जन्मदिन पर गांव में जश्न, ऐसे मनाया बर्थडे",
-    "source_summary": "बलिया के बड़गांव में राजेश कुमार वर्मा ने अपनी भैंस ‘बसंती’ का चौथा जन्मदिन अनोखे अंदाज में मनाया. गुब्बारों से सजावट, सिर पर Happy Birthday कैप और गले में माला पहनाकर केक काटा गया. जश्न का वीडियो सोशल मीडिया पर वायरल हो रहा है. जन्मदिन का वीडियो सोशल मीडिया पर वायरल होने के बाद लोग राजेश के पशु प्रेम की तारीफ कर रहे हैं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/buffalo-basanti-birthday-celebration-viral-video-ballia-up-social-media-trending-mmtm-2635097-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T12:39:11+05:30",
-    "hook": "भैंस का शानदार बर्थडे पार्टी, सोशल मीडिया पर मचा बवाल!",
-    "script_hi": "बलिया में एक अनोखा जश्न देखने को मिला! राजेश कुमार वर्मा ने अपनी प्यारी भैंस बसंती का चौथा जन्मदिन बेहद खास अंदाज में मनाया। घर को गुब्बारों से सजाया गया और बसंती को बर्थडे कैप पहनाकर केक काटा गया। अब इसका वीडियो जमकर वायरल हो रहा है।",
-    "tts_text_hi": "बलिया में एक अनोखा जश्न देखने को मिला! राजेश कुमार वर्मा ने अपनी प्यारी भैंस बसंती का चौथा जन्मदिन बेहद खास अंदाज में मनाया। घर को गुब्बारों से सजाया गया और बसंती को बर्थडे कैप पहनाकर केक काटा गया। अब इसका वीडियो जमकर वायरल हो रहा है।",
-    "title": "भैंस के जन्मदिन पर गांव में अनोखा जश्न",
-    "caption": "यूपी के बलिया में एक शख्स ने अपनी भैंस का जन्मदिन धूमधाम से मनाया। सोशल मीडिया पर वायरल हुआ ये अनोखा वीडियो।",
-    "hashtags": [
       "Ballia",
       "ViralVideo",
-      "AnimalLove",
-      "BirthdayCelebration",
-      "UttarPradesh",
-      "UniqueNews",
+      "BuffaloBirthday",
+      "FunnyMoments",
+      "SocialMedia",
       "HindiNews"
     ],
     "visual_queries": [
       "Indian village landscape",
-      "decorated colorful balloons India",
-      "Indian water buffalo",
-      "festive birthday cake India",
-      "people cheering joyfully India"
+      "Indian buffalo standing",
+      "birthday party decoration India",
+      "person celebrating birthday"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a named person's buffalo birthday celebration. Generic stock imagery will not capture the actual event mentioned.",
+    "flag_reason": "The story centers on a specific viral video of a unique local incident that requires the actual footage to be included manually, as generic stock imagery would not accurately represent the specific event.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7690136/7690136-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "person celebrating birthday",
+        "credit": "Polina Tankilevitch",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/24781984/pexels-photo-24781984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -252,182 +200,18 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19721891/pexels-photo-19721891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36436046/pexels-photo-36436046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "decorated colorful balloons India",
-        "credit": "Dibakar Roy",
+        "query": "Indian buffalo standing",
+        "credit": "Aravind P.S",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8209083/pexels-photo-8209083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18310611/pexels-photo-18310611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian water buffalo",
-        "credit": "RITESH SINGH",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28160214/pexels-photo-28160214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "festive birthday cake India",
-        "credit": "Captian Jayu",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13471612/pexels-photo-13471612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people cheering joyfully India",
-        "credit": "Karan Sahu",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "tigers_on_road_badaun",
-    "virality_score": 8,
-    "reason": "Rare and exciting footage of a tigress with her three cubs walking on a public road; high visual appeal.",
-    "region": "india",
-    "headline": "बाघिन आगे-आगे, तीन शावक पीछे-पीछे...सड़क पर निकला टाइगर्स का ‘काफिला’, ‘वॉक’ देख रोमांच से भरे लोग",
-    "source_summary": "बहराइच के कतर्नियाघाट वन्यजीव प्रभाग में बाघिन अपने तीन शावकों के साथ सड़क पर घूमती दिखी, यह दृश्य इतना रोमांच भरा था कि देखने वालों की आंखें खुली रह गई। मोतीपुर-बिछिया मार्ग पर करीब पांच मिनट तक बाघिन और शावकों की मौजूदगी से वाहनों की आवाजाही भी रुक गई।",
-    "source_url": "https://navbharattimes.indiatimes.com/jungle-news/wildlife-news-katarniaghat-tigress-three-cubs-bahraich-motipur-bichhiya-road-viral-video/articleshow/133731218.cms",
-    "source_name": "Navbharat Times",
-    "published": "Thu, 03 Sep 2026 14:45:00 +0530",
-    "hook": "बहराइच की सड़क पर निकला टाइगर्स का कुनबा, बाघिन और तीन शावकों का वीडियो वायरल!",
-    "script_hi": "बहराइच के कतर्नियाघाट में दिखा अद्भुत नज़ारा। एक बाघिन अपने तीन शावकों के साथ सड़क पर टहलती हुई नजर आई। मोतीपुर-बिछिया मार्ग पर करीब पांच मिनट तक ट्रैफिक थम गया। लोग इस पल को देखकर रोमांच से भर गए।",
-    "tts_text_hi": "बहराइच के कतर्नियाघाट में दिखा अद्भुत नज़ारा। एक बाघिन अपने तीन शावकों के साथ सड़क पर टहलती हुई नजर आई। मोतीपुर-बिछिया मार्ग पर करीब पांच मिनट तक ट्रैफिक थम गया। लोग इस पल को देखकर रोमांच से भर गए।",
-    "title": "बाघिन और शावकों का सड़क पर वीडियो",
-    "caption": "बहराइच के कतर्नियाघाट में बाघिन और उसके तीन शावकों का सड़क पर टहलते हुए वीडियो सामने आया है।",
-    "hashtags": [
-      "Bahraich",
-      "Katarniaghat",
-      "Tiger",
-      "Wildlife",
-      "ViralVideo",
-      "Nature",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian jungle road",
-      "tigress with three cubs walking",
-      "Indian forest traffic jam",
-      "crowd watching wildlife India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The core of the story is a specific viral video clip from Katarniaghat that needs to be manually inserted; generic stock footage cannot depict this specific event.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38581628/pexels-photo-38581628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian jungle road",
-        "credit": "Pranav Chaugule",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36852048/pexels-photo-36852048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "wild tiger crossing road",
-        "credit": "Sanjeev Kumar Maurya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8335522/pexels-photo-8335522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian forest traffic jam",
-        "credit": "Ajin  K S",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27834734/pexels-photo-27834734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "wild tiger family",
-        "credit": "Leon Aschemann",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "man_climbs_tower_odisha",
-    "virality_score": 7,
-    "reason": "A high-stakes drama with a 6-hour rescue operation involving a mobile tower; classic high-intensity news footage.",
-    "region": "india",
-    "headline": "पत्नी मायके गई तो टावर पर चढ़ गया युवक, बोला- नहीं आई तो कूद जाऊंगा",
-    "source_summary": "ओडिशा के देवगढ़ जिले में घरेलू विवाद के बाद एक युवक ने ऐसा कदम उठाया कि मौके पर लोगों की भीड़ जुट गई. पत्नी के मायके चले जाने से नाराज युवक 60 फीट ऊंचे मोबाइल टावर पर चढ़ गया और वहां से कूदकर जान देने की धमकी देने लगा. करीब 6-7 घंटे तक चले रेस्क्यू ऑपरेशन के बाद फायर सर्विस की टीम ने युवक को सुरक्षित नीचे उतार लिया.",
-    "source_url": "https://www.aajtak.in/odisha/story/odisha-deogarh-man-climbs-60-foot-mobile-tower-after-wife-leaves-home-rescued-lcla-strc-2635412-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T14:47:58+05:30",
-    "hook": "पत्नी मायके गई तो पति ने किया बड़ा ड्रामा!",
-    "script_hi": "ओडिशा के देवगढ़ में एक युवक पत्नी के मायके जाने से इतना नाराज हुआ कि साठ फीट ऊंचे मोबाइल टावर पर चढ़ गया। उसने धमकी दी कि अगर पत्नी वापस नहीं आई तो वह नीचे कूद जाएगा। करीब सात घंटे तक चले हाई-वोल्टेज ड्रामे के बाद फायर सर्विस की टीम ने उसे सुरक्षित नीचे उतारा।",
-    "tts_text_hi": "ओडिशा के देवगढ़ में एक युवक पत्नी के मायके जाने से इतना नाराज हुआ कि साठ फीट ऊंचे मोबाइल टावर पर चढ़ गया। उसने धमकी दी कि अगर पत्नी वापस नहीं आई तो वह नीचे कूद जाएगा। करीब सात घंटे तक चले हाई-वोल्टेज ड्रामे के बाद फायर सर्विस की टीम ने उसे सुरक्षित नीचे उतारा।",
-    "title": "ओडिशा: पत्नी के मायके जाने पर टावर पर चढ़ा पति",
-    "caption": "पत्नी के मायके जाने से नाराज युवक का टावर पर हाई-वोल्टेज ड्रामा, सात घंटे बाद हुआ रेस्क्यू।",
-    "hashtags": [
-      "Odisha",
-      "Deogarh",
-      "ViralVideo",
-      "DomesticDispute",
-      "NewsHindi",
-      "RescueOperation"
-    ],
-    "visual_queries": [
-      "mobile communication tower India",
-      "crowd looking up India",
-      "fire department emergency vehicle India",
-      "firefighter rescue India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage: The story is centered on a specific viral-style event of a man on a tower which cannot be accurately depicted with generic stock footage.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5930447/5930447-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "fire department emergency vehicle India",
-        "credit": "Anna Shvets",
-        "source_duration_sec": 6,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36907467/pexels-photo-36907467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile communication tower India",
-        "credit": "Harshith K S",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11440987/pexels-photo-11440987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd looking up India",
-        "credit": "Syed Qaarif Andrabi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "firefighter rescue India",
-        "credit": "vikesh zen",
+        "query": "birthday party decoration India",
+        "credit": "Elias Suarez",
         "duration_sec": 5
       }
     ],
@@ -436,142 +220,34 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "nagin_dance_history",
-    "virality_score": 7,
-    "reason": "A fun cultural exploration of the origin of the iconic 'Nagin dance' in Indian weddings; highly relatable for a mass audience.",
+    "topic_label": "up_gangster_encounter_fear",
+    "virality_score": 8,
+    "reason": "Gangster publicly expressing fear of police encounter is a high-engagement, visually strong narrative.",
     "region": "india",
-    "headline": "72 साल पुराना वो गाना, जिसने बारातियों के बीच हिट कर दिया नागिन डांस, बीन की धुन पर नाचीं वैजयंतीमाला, लता मंगेशकर ने बनाया सदाबहार",
-    "source_summary": "1954 की फिल्म ‘नागिन’ का ‘मन डोले मेरा तन डोले’ आज भी अपने बीन वाले म्यूजिक और वैजयंतीमाला के शानदार डांस के लिए याद किया जाता है. जानिए कैसे इस गाने की धुन ने बारातों में ‘नागिन डांस’ को मशहूर कर दिया.",
-    "source_url": "https://ndtv.in/bollywood/this-72-year-old-song-made-nagin-dance-a-wedding-staple-vyjayanthimala-iconic-dance-been-tune-lata-mangeshkar-made-it-evergreen-11996721#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 14:59:58 +0530",
-    "hook": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में बहत्तर साल पुराने एक मशहूर गाने से प्रेरित है?",
-    "script_hi": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में बहत्तर साल पुराने एक मशहूर गाने से प्रेरित है? उन्नीस सौ चौवन की फिल्म नागिन का गाना मन डोले मेरा तन डोले आज भी उतना ही लोकप्रिय है। लता मंगेशकर की आवाज और वैजयंतीमाला का शानदार डांस इस गाने की जान है। इसी गाने की बीन वाली धुन ने आज के नागिन डांस को शादियों का सबसे बड़ा ट्रेंड बना दिया है।",
-    "tts_text_hi": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में बहत्तर साल पुराने एक मशहूर गाने से प्रेरित है? उन्नीस सौ चौवन की फिल्म नागिन का गाना मन डोले मेरा तन डोले आज भी उतना ही लोकप्रिय है। लता मंगेशकर की आवाज और वैजयंतीमाला का शानदार डांस इस गाने की जान है। इसी गाने की बीन वाली धुन ने आज के नागिन डांस को शादियों का सबसे बड़ा ट्रेंड बना दिया है।",
-    "title": "नागिन डांस का असली इतिहास",
-    "caption": "क्या आपको पता था कि नागिन डांस का कनेक्शन बहत्तर साल पुरानी फिल्म से है? देखिए ये खास कहानी।",
-    "hashtags": [
-      "NaginDance",
-      "BollywoodRetro",
-      "Vyjayanthimala",
-      "LataMangeshkar",
-      "IndianWeddings",
-      "BollywoodClassic",
-      "MusicHistory"
-    ],
-    "visual_queries": [
-      "Indian wedding guests dancing",
-      "vintage Indian cinema film reel",
-      "classical Indian dance performance",
-      "traditional Indian snake charmer flute"
-    ],
-    "named_person": "Vyjayanthimala",
-    "named_person_hi": "वैजयंतीमाला",
-    "secondary_persons": [
-      "Lata Mangeshkar"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "वैजयंतीमाला",
-        "source": "fallback",
-        "query": "Vyjayanthimala",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35267183/pexels-photo-35267183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian wedding guests dancing",
-        "credit": "Bonaventure  Fernandez",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14401486/pexels-photo-14401486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "vintage Indian cinema film reel",
-        "credit": "Lina Step",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18086354/pexels-photo-18086354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "classical Indian dance performance",
-        "credit": "Kosygin Leishangthem",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19003041/pexels-photo-19003041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "traditional Indian snake charmer flute",
-        "credit": "Abhishek  Shekhawat",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शादियों का 'नागिन डांस' और 72 साल पुराना राज! 🐍",
-        "caption": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में 72 साल पुराने एक मशहूर गाने से प्रेरित है? \n\nफिल्म 'नागिन' का वो गाना आज भी शादियों की जान है, जिस पर वैजयंतीमाला ने डांस कर इतिहास रच दिया था। लता मंगेशकर की आवाज में ये धुन आज भी वैसी ही जादू बिखेरती है। \n\nक्या आपको शादियों में नागिन डांस करना पसंद है? कमेंट में बताएं।\n\n#NaginDance #BollywoodHistory #Vaijayanthimala #LataMangeshkar #RetroBollywood"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में 72 साल पुराने एक मशहूर गाने से प्रेरित है? 🐍\n\nवैजयंतीमाला की अदाकारी और लता दीदी की आवाज ने इस गाने को अमर बना दिया। आज भी जब यह धुन बजती है, तो महफिल में नागिन डांस शुरू हो ही जाता है! 💃✨\n\nऐसी ही दिलचस्प खबरों के लिए फॉलो करें।\n\n#NaginDance #BollywoodHistory #Vaijayanthimala #LataMangeshkar #RetroBollywood"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या आप जानते हैं कि शादियों में होने वाला नागिन डांस असल में 72 साल पुराने एक मशहूर गाने से प्रेरित है? \n\nसालों बीत गए, लेकिन 'नागिन' फिल्म का वह गाना आज भी शादियों की पहली पसंद बना हुआ है। फिल्म में वैजयंतीमाला का वह सिग्नेचर डांस और लता मंगेशकर की जादुई आवाज ने इसे सदाबहार बना दिया है। \n\nआज भी शादियों में नागिन डांस के बिना माहौल अधूरा सा लगता है। क्या आप भी नागिन डांस के शौकीन हैं?\n\n#NaginDance #BollywoodHistory #Vaijayanthimala #LataMangeshkar #RetroBollywood"
-      },
-      "hashtags": [
-        "NaginDance",
-        "BollywoodHistory",
-        "Vaijayanthimala",
-        "LataMangeshkar",
-        "RetroBollywood"
-      ]
-    },
-    "audio_path": "audio/nagin_dance_history.wav",
-    "audio_duration_sec": 27.85,
-    "video_path": "videos/nagin_dance_history.mp4",
-    "video_duration_sec": 35.89
-  },
-  {
-    "topic_label": "xiaomi_fold_18_launch",
-    "virality_score": 6,
-    "reason": "Tech news about an upcoming foldable smartphone launch has a focused but highly engaged audience.",
-    "region": "india",
-    "headline": "आ रहा है Xiaomi 18 Fold, इस दिन लॉन्चिंग, बदलेगा मार्केट का ट्रेंड?",
-    "source_summary": "Xiaomi 7 सितंबर को अपना नया स्मार्टफोन लेकर आ रही है, जिसका नाम Xiaomi 18 Fold होगा. कंपनी ने इसको मिक्स फोल्ड नाम दिया है और यह Samsung Galaxy Z Fold 8 जैसे डिजाइन से प्रेरित है, जिसका नाम पासपोर्ट स्टाइल है. इसमें 200 मेगापिक्सल का कैमरा और फास्ट चार्जर आदि मिलेगा. आइए इसके बारे में डिटेल्स में जानते हैं.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/xiaomi-18-fold-launch-september-7-price-specifications-features-ttecr-dskc-2635025-2026-09-03?utm_source=rssfeed",
+    "headline": "&#039;हथकड़ी लगाओ, बेड़ियां बांधो...&#039; क्यों यूपी पुलिस से डरा गैंगस्टर राकेश पंपू?",
+    "source_summary": "यूपी के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या के मुख्य साजिशकर्ता और मास्टरमाइंड गैंगस्टर राकेश पंपू को यूपी पुलिस से एनकाउंटर का डर सता रहा है. करनाल जेल में बंद गैंगस्टर ने एसपी शामली और यूपी डीजीपी को पत्र भेजकर अपनी सुरक्षा की गुहार लगाई है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ankit-baliyan-murder-mastermind-rakesh-pampu-fears-up-police-encounter-writes-to-dgp-seeking-security-lclam-rptc-2635508-2026-09-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-03T07:32:49+05:30",
-    "hook": "Xiaomi का अब तक का सबसे दमदार फोल्डिंग फोन आ रहा है!",
-    "script_hi": "Xiaomi का नया स्मार्टफोन सात सितंबर को लॉन्च होने वाला है। इस फोन का नाम Xiaomi अठारह फोल्ड यानी मिक्स फोल्ड रखा गया है। इसका डिजाइन Samsung Galaxy Z Fold आठ जैसा पासपोर्ट स्टाइल होगा। इसमें दो सौ मेगापिक्सल का कैमरा और बेहद फास्ट चार्जिंग की सुविधा मिलेगी। क्या यह फोन मार्केट का ट्रेंड बदल देगा?",
-    "tts_text_hi": "Xiaomi का नया स्मार्टफोन सात सितंबर को लॉन्च होने वाला है। इस फोन का नाम Xiaomi अठारह फोल्ड यानी मिक्स फोल्ड रखा गया है। इसका डिजाइन Samsung Galaxy Z Fold आठ जैसा पासपोर्ट स्टाइल होगा। इसमें दो सौ मेगापिक्सल का कैमरा और बेहद फास्ट चार्जिंग की सुविधा मिलेगी। क्या यह फोन मार्केट का ट्रेंड बदल देगा?",
-    "title": "Xiaomi 18 Fold: लॉन्च डेट और फीचर्स",
-    "caption": "Xiaomi का नया फोल्डिंग फोन सात सितंबर को होगा लॉन्च! जानिए क्या है खास।",
+    "published": "2026-09-03T17:22:40+05:30",
+    "hook": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू!",
+    "script_hi": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! शामली में सिंगर अंकित बालियान की हत्या के आरोपी ने अब पुलिस से सुरक्षा की गुहार लगाई है। जेल में बंद गैंगस्टर ने चिट्ठी लिखकर एनकाउंटर का डर जताया है।",
+    "tts_text_hi": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! शामली में सिंगर अंकित बालियान की हत्या के आरोपी ने अब पुलिस से सुरक्षा की गुहार लगाई है। जेल में बंद गैंगस्टर ने चिट्ठी लिखकर एनकाउंटर का डर जताया है।",
+    "title": "गैंगस्टर राकेश पंपू को यूपी पुलिस का डर",
+    "caption": "शामली में सिंगर अंकित बालियान हत्याकांड का मास्टरमाइंड राकेश पंपू अब यूपी पुलिस के एनकाउंटर से डर रहा है।",
     "hashtags": [
-      "Xiaomi",
-      "Xiaomi18Fold",
-      "TechNews",
-      "Smartphone",
-      "FoldablePhone",
-      "NewLaunch",
-      "Gadgets"
+      "UttarPradesh",
+      "Shamli",
+      "UPPolice",
+      "CrimeNews",
+      "Gangster",
+      "Encounter",
+      "HindiNews"
     ],
     "visual_queries": [
-      "modern smartphone technology India",
-      "abstract folding phone display",
-      "high tech camera lens",
-      "fast charging cable equipment"
+      "Indian police station interior",
+      "Indian police officers patrolling",
+      "jail bars silhouette",
+      "Indian judicial paper document"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -582,64 +258,419 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38700349/pexels-photo-38700349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785048/pexels-photo-7785048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern smartphone technology India",
-        "credit": "Visakh P",
+        "query": "criminal justice system",
+        "credit": "Kindel Media",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34731925/pexels-photo-34731925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "abstract folding phone display",
-        "credit": "Landiva  Weber",
+        "query": "Indian police officers patrolling",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35265842/pexels-photo-35265842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18861920/pexels-photo-18861920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "high tech camera lens",
-        "credit": "Göksun Barış Gökalp",
+        "query": "jail bars silhouette",
+        "credit": "Huu Huynh",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern smartphone technology",
+        "query": "Criminal suspect arrest",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8112203/pexels-photo-8112203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian legal court",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "यूपी पुलिस का खौफ: गैंगस्टर राकेश पंपू हुआ बेबस! 🚔",
+        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! \n\nहथकड़ी और बेड़ियों में जकड़े इस अपराधी की हेकड़ी उस वक्त निकल गई जब उसे एनकाउंटर का डर सताने लगा। कभी खुलेआम घूमने वाला राकेश आज गिरफ्तारी के बाद पुलिस के सामने गिड़गिड़ा रहा है। \n\nक्या यूपी में अपराधियों का डर अब खत्म हो रहा है? अपनी राय कमेंट्स में बताएं।\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! 🚨\n\nहथकड़ी और बेड़ियों में जकड़े इस अपराधी की हेकड़ी गिरफ्तारी के बाद पूरी तरह निकल गई। वीडियो में देखें कैसे माफिया का खौफ अब पुलिस की वर्दी के आगे झुक गया है। \n\nक्या यूपी पुलिस की यह कार्रवाई सही है? कमेंट कर अपनी राय दें।\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! 🚔\n\nकभी अपनी दहशत का साम्राज्य चलाने वाला राकेश पंपू आज पुलिस की बेड़ियों में जकड़ा हुआ है। गिरफ्तारी के वक्त उसका डर साफ देखा जा सकता है। पुलिस ने उसे जिस तरह से काबू किया, उसने इलाके के तमाम अपराधियों को चेतावनी दे दी है। \n\nयूपी में अब अपराध करना कितना मुश्किल हो गया है? वीडियो देखें और बताएं कि क्या सरकार की यह सख्ती सही दिशा में है?\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
+      },
+      "hashtags": [
+        "UPPolice",
+        "RakeshPampu",
+        "UttarPradeshNews",
+        "CrimeReport",
+        "GangsterEncounter"
+      ]
+    },
+    "audio_path": "audio/up_gangster_encounter_fear.wav",
+    "audio_duration_sec": 14.79,
+    "video_path": "videos/up_gangster_encounter_fear.mp4",
+    "video_duration_sec": 22.82
+  },
+  {
+    "topic_label": "vaibhav_suryavanshi_record",
+    "virality_score": 8,
+    "reason": "Young cricket prodigy breaking records is a classic viral sports story for Indian audiences.",
+    "region": "india",
+    "headline": "15 साल के वैभव सूर्यवंशी का कमाल, नॉकआउट में 717 रन",
+    "source_summary": "15 साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन बनाए हैं. 11 पारियों में उनका स्ट्राइक रेट 185.27 रहा है, जबकि 60 चौके और 59 छक्के लगाए हैं. U19 वर्ल्ड कप फाइनल, IPL प्लेऑफ और दलीप ट्रॉफी में उनकी बड़ी पारियां चर्चा में हैं. वीडियो में जानें रिकॉर्ड्स के बारे में.",
+    "source_url": "https://www.aajtak.in/short-videos/video/vaibhav-suryavanshi-717-knockout-runs-119-boundaries-ipl-playoff-u19-records-mmtm-2635060-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T12:16:52+05:30",
+    "hook": "पंद्रह साल के इस खिलाड़ी ने मचा दिया तहलका!",
+    "script_hi": "पंद्रह साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में सात सौ सत्रह रन बनाकर सनसनी मचा दी है। ग्यारह पारियों में उन्होंने एक सौ पचासी दशमलव दो सात के स्ट्राइक रेट से बल्लेबाजी की है। उन्होंने अपनी बल्लेबाजी में साठ चौके और उनसठ छक्के जड़े हैं। यू-नाइनटीन वर्ल्ड कप से लेकर आईपीएल और दलीप ट्रॉफी तक वैभव का बल्ला आग उगल रहा है। क्या ये हैं टीम इंडिया के अगले सुपरस्टार?",
+    "tts_text_hi": "पंद्रह साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में सात सौ सत्रह रन बनाकर सनसनी मचा दी है। ग्यारह पारियों में उन्होंने एक सौ पचासी दशमलव दो सात के स्ट्राइक रेट से बल्लेबाजी की है। उन्होंने अपनी बल्लेबाजी में साठ चौके और उनसठ छक्के जड़े हैं। यू-नाइनटीन वर्ल्ड कप से लेकर आईपीएल और दलीप ट्रॉफी तक वैभव का बल्ला आग उगल रहा है। क्या ये हैं टीम इंडिया के अगले सुपरस्टार?",
+    "title": "वैभव सूर्यवंशी का रिकॉर्ड तोड़ प्रदर्शन",
+    "caption": "15 साल के वैभव सूर्यवंशी ने नॉकआउट मैचों में 717 रन बनाकर क्रिकेट जगत में हलचल मचा दी है।",
+    "hashtags": [
+      "VaibhavSuryavanshi",
+      "CricketNews",
+      "TeamIndia",
+      "CricketRecords",
+      "U19Cricket",
+      "SportsNews"
+    ],
+    "visual_queries": [
+      "Indian young cricketer batting",
+      "cricket stadium India",
+      "cricket scoreboard close up",
+      "Indian cricket fan cheering"
+    ],
+    "named_person": "Vaibhav Suryavanshi",
+    "named_person_hi": "वैभव सूर्यवंशी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "वैभव सूर्यवंशी",
+        "source": "fallback",
+        "query": "Vaibhav Suryavanshi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12732254/pexels-photo-12732254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian young cricketer batting",
+        "credit": "Sandeep Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12732253/pexels-photo-12732253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "young cricketer training",
+        "credit": "Sandeep Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket fan cheering",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "15 साल की उम्र में 717 रन! वैभव सूर्यवंशी का तूफान 🏏",
+        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! \n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन ठोककर हर किसी को हैरान कर दिया है। उनकी बल्लेबाजी में वो परिपक्वता है जो बड़े-बड़े दिग्गजों में भी कम दिखती है। \n\nक्या वैभव टीम इंडिया के अगले सुपरस्टार हैं? अपनी राय कमेंट में जरूर बताएं।\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! 🏏\n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट स्टेज में 717 रन बनाकर सबका ध्यान खींचा है। इतनी कम उम्र में ऐसा प्रदर्शन वाकई में ऐतिहासिक है। \n\nक्या ये खिलाड़ी भविष्य का विराट कोहली है? कमेंट्स में बताइए। 👇\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! \n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन बनाकर हर किसी को हैरान कर दिया है। इतनी कम उम्र में ऐसा रिकॉर्ड तोड़ प्रदर्शन आम बात नहीं है। उनकी तकनीक और खेल के प्रति समझ ने दिग्गजों को भी सोचने पर मजबूर कर दिया है। \n\nक्या वैभव सूर्यवंशी के रूप में भारतीय क्रिकेट को अगला बड़ा सुपरस्टार मिल गया है? अपनी राय नीचे कमेंट करके जरूर बताएं। 🏏✨\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+      },
+      "hashtags": [
+        "VaibhavSuryavanshi",
+        "CricketRecords",
+        "FutureStar",
+        "BiharCricket",
+        "CricketNews"
+      ]
+    },
+    "audio_path": "audio/vaibhav_suryavanshi_record.wav",
+    "audio_duration_sec": 27.89,
+    "video_path": "videos/vaibhav_suryavanshi_record.mp4",
+    "video_duration_sec": 35.89
+  },
+  {
+    "topic_label": "robot_robotics_kungfu_viral",
+    "virality_score": 8,
+    "reason": "Funny and unusual content showing a robot reacting to customer behavior.",
+    "region": "india",
+    "headline": "OMG! कस्टमर ने की बदतमीजी तो रोबोट में जागा ‘जैकी चैन’, कुंगफू स्टाइल में सिखाया सबक, वीडियो वायरल",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/humanoid-robot-viral-video-.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"OMG! कस्टमर ने की बदतमीजी तो रोबोट में जागा ‘जैकी चैन’, कुंगफू स्टाइल में सिखाया सबक, वीडियो वायरल\" /></figure>रूस के एक इलेक्ट्रॉनिक्स स्टोर में ग्राहक ने ह्यूमनॉइड रोबोट को धक्का दिया तो मशीन ने पलटकर किक मारने की कोशिश की. CCTV फुटेज वायरल होने के बाद लोग इसे Skynet से जोड़कर मजेदार कमेंट कर रहे हैं",
+    "source_url": "https://www.tv9hindi.com/trending/humanoid-robot-appears-to-attack-customer-after-being-pushed-at-russian-electronics-store-3897327.html",
+    "source_name": "TV9 Hindi",
+    "published": "Thu, 03 Sep 2026 16:54:49 +0530",
+    "hook": "क्या रोबोट भी बदला लेना जानते हैं?",
+    "script_hi": "रूस में एक ग्राहक की बदतमीजी पर रोबोट ने दिया करारा जवाब। इलेक्ट्रॉनिक्स स्टोर में जैसे ही ग्राहक ने मशीन को धक्का मारा, रोबोट ने फुर्ती से कुंगफू स्टाइल में पलटकर किक मारने की कोशिश की। यह वीडियो सोशल मीडिया पर आग की तरह फैल रहा है और लोग इसे स्काईनेट के आने की शुरुआत मान रहे हैं।",
+    "tts_text_hi": "रूस में एक ग्राहक की बदतमीजी पर रोबोट ने दिया करारा जवाब। इलेक्ट्रॉनिक्स स्टोर में जैसे ही ग्राहक ने मशीन को धक्का मारा, रोबोट ने फुर्ती से कुंगफू स्टाइल में पलटकर किक मारने की कोशिश की। यह वीडियो सोशल मीडिया पर आग की तरह फैल रहा है और लोग इसे स्काईनेट के आने की शुरुआत मान रहे हैं।",
+    "title": "रोबोट ने सिखाया ग्राहक को सबक",
+    "caption": "रूस के एक स्टोर में रोबोट का कुंगफू अवतार वायरल! क्या AI अब इंसानों से मुकाबला करेगा?",
+    "hashtags": [
+      "Robot",
+      "ViralVideo",
+      "Technology",
+      "Funny",
+      "AI",
+      "NewsShorts",
+      "Trending"
+    ],
+    "visual_queries": [
+      "humanoid robot movement",
+      "electronics store interior",
+      "robot fighting action",
+      "people watching screen",
+      "futuristic technology concept"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral CCTV clip which requires the actual real footage to be embedded; generic stock B-roll would misrepresent the specific incident.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "electronics store interior",
+        "credit": "Kuiyibo Campos",
+        "source_duration_sec": 3,
+        "duration_sec": 3
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8087025/8087025-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "humanoid robot movement",
+        "credit": "Pavel Danilyuk",
+        "source_duration_sec": 19,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8294666/pexels-photo-8294666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "humanoid robot movement",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "advanced humanoid robot",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic technology concept",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "tata_curvv_launch",
+    "virality_score": 7,
+    "reason": "New SUV launch from Tata is always high-interest content for auto enthusiasts.",
+    "region": "india",
+    "headline": "TATA का धमाका, लॉन्च की दमदार SUV, 10 लाख से कम है कीमत",
+    "source_summary": "टाटा ने अपनी कूपे एसयूवी कर्व की सीरीज एक्स को लॉन्च कर दिया है. सीरीज एक्स में कंपनी ने लोअर वेरिएंट्स में ज्यादा फीचर्स जोड़े हैं, जिससे कंज्यूमर्स को ज्यादा वैल्यू मिल सकेगी. ब्रांड ने बताया कि यहां एक्स का मतलब एक्स्ट्रा से है. कार का हायर वेरिएंट डार्क एडिशन में भी मिलेगा. आइए जानते हैं टाटा कर्व सीरीज एक्स की कीमत और दूसरी खास बातें.",
+    "source_url": "https://www.aajtak.in/auto/news/story/tata-curvv-series-x-launched-india-price-features-auam-dskc-2635442-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T16:08:40+05:30",
+    "hook": "टाटा की नई एसयूवी ने मचाया बवाल, दस लाख से कम कीमत में अब मिल रहे हैं प्रीमियम फीचर्स।",
+    "script_hi": "टाटा मोटर्स ने अपनी धाकड़ कूपे एसयूवी कर्व का नया सीरीज एक्स वेरिएंट लॉन्च कर दिया है। कंपनी के मुताबिक, इस सीरीज का मतलब है एक्स्ट्रा। अब ग्राहकों को कम कीमत में मिलेंगे ज्यादा फीचर्स। इस कार की शुरुआती कीमत दस लाख रुपये से भी कम रखी गई है। खास बात ये है कि इसका हायर वेरिएंट अब डार्क एडिशन में भी उपलब्ध होगा।",
+    "tts_text_hi": "टाटा मोटर्स ने अपनी धाकड़ कूपे एसयूवी कर्व का नया सीरीज एक्स वेरिएंट लॉन्च कर दिया है। कंपनी के मुताबिक, इस सीरीज का मतलब है एक्स्ट्रा। अब ग्राहकों को कम कीमत में मिलेंगे ज्यादा फीचर्स। इस कार की शुरुआती कीमत दस लाख रुपये से भी कम रखी गई है। खास बात ये है कि इसका हायर वेरिएंट अब डार्क एडिशन में भी उपलब्ध होगा।",
+    "title": "टाटा कर्व सीरीज एक्स लॉन्च",
+    "caption": "टाटा की नई कर्व सीरीज एक्स अब दस लाख से कम की कीमत में उपलब्ध। जानें क्या हैं खास फीचर्स।",
+    "hashtags": [
+      "TataMotors",
+      "TataCurvv",
+      "NewLaunch",
+      "SUV",
+      "AutoNews",
+      "IndianCars",
+      "BudgetSUV"
+    ],
+    "visual_queries": [
+      "modern Indian car showroom",
+      "sleek SUV driving Indian road",
+      "car interior leather dashboard",
+      "Indian car manufacturing plant"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Needs manual insertion of specific press-kit footage for the new Tata Curvv Series X to avoid generic stock visuals misrepresenting the specific model launch.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31588827/13460844_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "car interior leather dashboard",
+        "credit": "Alberto Escalona",
+        "source_duration_sec": 5,
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern Indian car showroom",
+        "credit": "Akshay Shende",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350506/pexels-photo-29350506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sleek SUV driving Indian road",
+        "credit": "Trilok",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian car manufacturing plant",
+        "credit": "Tom Fisk",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ai_toothbrush_dyson",
+    "virality_score": 7,
+    "reason": "Tech gadget viral content: a high-tech AI toothbrush that monitors dental health.",
+    "region": "india",
+    "headline": "AI वाला टूथब्रश लाया Dyson, दांतों के बीच झांकेगा कैमरा और खुद करेगा फ्लॉसिंग",
+    "source_summary": "Dyson ने CameraJet नाम का AI-पावर्ड स्मार्ट टूथब्रश पेश किया है, जिसमें कैमरा, ऑटो फ्लॉसिंग और माउथवॉश जेट जैसी तकनीकें हैं. जानें इसके फीचर्स और यह कैसे काम करता है.",
+    "source_url": "https://ndtv.in/health/dyson-camerajet-electric-toothbrush-ai-camera-floss-mouthwash-tech-features-11996199#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 13:25:05 +0530",
+    "hook": "क्या आपका टूथब्रश अब आपके दांतों की फोटो लेगा?",
+    "script_hi": "डायसन ने पेश किया है एआई पावर्ड कैमरा-जेट टूथब्रश! इस ब्रश में लगा कैमरा आपके दांतों के अंदर की तस्वीरें लेगा और ऑटो फ्लॉसिंग व माउथवॉश जेट जैसी तकनीक से सफाई करेगा। यह हाई-टेक गैजेट दांतों की सेहत की निगरानी अब और भी आसान बना देगा।",
+    "tts_text_hi": "क्या आपका टूथब्रश अब आपके दांतों की फोटो लेगा? डायसन ने पेश किया है एआई पावर्ड कैमरा-जेट टूथब्रश! इस ब्रश में लगा कैमरा आपके दांतों के अंदर की तस्वीरें लेगा और ऑटो फ्लॉसिंग व माउथवॉश जेट जैसी तकनीक से सफाई करेगा। यह हाई-टेक गैजेट दांतों की सेहत की निगरानी अब और भी आसान बना देगा।",
+    "title": "Dyson का AI स्मार्ट टूथब्रश",
+    "caption": "डायसन का नया एआई टूथब्रश अब दांतों की करेगा बारीकी से सफाई! जानिए क्या है इसकी खासियत।",
+    "hashtags": [
+      "Dyson",
+      "SmartToothbrush",
+      "TechNews",
+      "AI",
+      "HealthTech",
+      "GadgetUpdates",
+      "Innovation"
+    ],
+    "visual_queries": [
+      "modern electric toothbrush",
+      "dentist clinic dental tools",
+      "advanced medical technology",
+      "man brushing teeth in bathroom"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story is about a specific new product release; generic stock footage of toothbrushes will not accurately represent this proprietary device. Real product imagery of the 'Dyson CameraJet' needs to be inserted.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3958092/pexels-photo-3958092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern electric toothbrush",
+        "credit": "Polina Zimmerman",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6528776/pexels-photo-6528776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "dentist clinic dental tools",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13176449/pexels-photo-13176449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "advanced medical technology",
+        "credit": "contact me +923323219715",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6528862/pexels-photo-6528862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern dental care technology",
         "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Xiaomi 18 Fold: क्या यह फोन मार्केट पलट देगा? 📱",
-        "caption": "Xiaomi का अब तक का सबसे दमदार फोल्डिंग फोन आ रहा है! \n\nकंपनी ने अपनी नई Xiaomi 18 Fold सीरीज की लॉन्चिंग डेट का ऐलान कर दिया है। इस फोन के फीचर्स और डिजाइन ने टेक मार्केट में खलबली मचा दी है। \n\nक्या आप फोल्डिंग फोन खरीदने का सोच रहे हैं? कमेंट में बताएं।\n\n#Xiaomi18Fold #FoldablePhones #TechNews #XiaomiIndia #SmartphoneLaunch"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "Xiaomi का अब तक का सबसे दमदार फोल्डिंग फोन आ रहा है! 📱\n\nकंपनी ने अपनी नई Xiaomi 18 Fold सीरीज की लॉन्चिंग डेट का ऐलान कर दिया है। इसके फीचर्स और डिजाइन ने मार्केट के पुराने ट्रेंड्स को हिलाकर रख दिया है। 🚀\n\nपूरी कहानी देखें और बताएं, क्या आप फोल्डिंग फोन पर शिफ्ट होंगे?\n\n#Xiaomi18Fold #FoldablePhones #TechNews #XiaomiIndia #SmartphoneLaunch"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "Xiaomi का अब तक का सबसे दमदार फोल्डिंग फोन आ रहा है! 📱\n\nXiaomi अपनी 18 Fold सीरीज के साथ मार्केट में बड़ा धमाका करने की तैयारी में है। फोन के लीक्स और स्पेसिफिकेशन्स सामने आते ही चर्चा का विषय बन गए हैं। क्या यह डिवाइस फोल्डेबल मार्केट का अगला राजा बनेगा? \n\nपूरी जानकारी के लिए वीडियो देखें और अपनी राय नीचे कमेंट में साझा करें!\n\n#Xiaomi18Fold #FoldablePhones #TechNews #XiaomiIndia #SmartphoneLaunch"
-      },
-      "hashtags": [
-        "Xiaomi18Fold",
-        "FoldablePhones",
-        "TechNews",
-        "XiaomiIndia",
-        "SmartphoneLaunch"
-      ]
-    },
-    "audio_path": "audio/xiaomi_fold_18_launch.wav",
-    "audio_duration_sec": 21.48,
-    "video_path": "videos/xiaomi_fold_18_launch.mp4",
-    "video_duration_sec": 29.49
+    "review_status": "pending_review"
   }
 ]
