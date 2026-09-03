@@ -1,6 +1,5 @@
-ready_labels: ['disha_salian_death_case_cbi_probe', 'india_hosts_womens_champions_trophy_2027', 'india_us_javelin_missile_domestic_manufacturing', 'ram_mandir_first_ceo_jitendra_mishra']
+ready_labels: ['mpsc_paper_leak_7th_rank_holder_arrest']
 
-ram_mandir_first_ceo_jitendra_mishra: SUCCESS -> video_path=videos/ram_mandir_first_ceo_jitendra_mishra.mp4 dur=34.56322
-disha_salian_death_case_cbi_probe: SUCCESS -> video_path=videos/disha_salian_death_case_cbi_probe.mp4 dur=28.62322
-india_us_javelin_missile_domestic_manufacturing: SUCCESS -> video_path=videos/india_us_javelin_missile_domestic_manufacturing.mp4 dur=24.230227
-india_hosts_womens_champions_trophy_2027: SUCCESS -> video_path=videos/india_hosts_womens_champions_trophy_2027.mp4 dur=20.144218
+us_iran_missile_strikes_escalation: SKIPPED (not in ready set)
+pakistan_hindu_temple_demolition_india_condemns: SKIPPED (not in ready set)
+mpsc_paper_leak_7th_rank_holder_arrest: SUCCESS -> video_path=videos/mpsc_paper_leak_7th_rank_holder_arrest.mp4 dur=38.255215
