@@ -1,10 +1,7 @@
-ready_labels: ['indigo_flight_diversion_muscat']
+ready_labels: ['global_climate_warning_el_nino']
 
-train_compartment_separation_amethi: SKIPPED (not in ready set)
-jaipur_thar_accident_cctv: SKIPPED (not in ready set)
-indigo_flight_diversion_muscat: SUCCESS -> video_path=videos/indigo_flight_diversion_muscat.mp4 dur=24.289887
-kaushambi_factory_blast_arrest: SKIPPED (not in ready set)
-us_iran_conflict_escalation_global: SKIPPED (not in ready set)
-delhi_cantt_thar_accident: SKIPPED (not in ready set)
-xiaomi_sky_nomad_range_test: SKIPPED (not in ready set)
-buffalo_birthday_celebration: SKIPPED (not in ready set)
+xiaomi_sky_nomad_ev_range: SKIPPED (not in ready set)
+mumbai_car_crash_cctv: SKIPPED (not in ready set)
+up_train_coupling_failure: SKIPPED (not in ready set)
+kanpur_roof_collapse_tragedy: SKIPPED (not in ready set)
+global_climate_warning_el_nino: SUCCESS -> video_path=videos/global_climate_warning_el_nino.mp4 dur=33.756553
