@@ -1,10 +1,10 @@
-ready_labels: []
+ready_labels: ['indigo_flight_diversion_muscat']
 
-nepal_trishuli_flood_devastation: SKIPPED (not in ready set)
-humanoid_robot_aggressive_behavior: SKIPPED (not in ready set)
-delhi_thar_accident_couple_death: SKIPPED (not in ready set)
-pakistan_temple_demolition_outrage: SKIPPED (not in ready set)
-mumbai_80cr_luxury_home: SKIPPED (not in ready set)
-ev_1230km_range_test: SKIPPED (not in ready set)
-crypto_influencer_success_story: SKIPPED (not in ready set)
-global_minneapolis_building_shooting: SKIPPED (not in ready set)
+train_compartment_separation_amethi: SKIPPED (not in ready set)
+jaipur_thar_accident_cctv: SKIPPED (not in ready set)
+indigo_flight_diversion_muscat: SUCCESS -> video_path=videos/indigo_flight_diversion_muscat.mp4 dur=24.289887
+kaushambi_factory_blast_arrest: SKIPPED (not in ready set)
+us_iran_conflict_escalation_global: SKIPPED (not in ready set)
+delhi_cantt_thar_accident: SKIPPED (not in ready set)
+xiaomi_sky_nomad_range_test: SKIPPED (not in ready set)
+buffalo_birthday_celebration: SKIPPED (not in ready set)
