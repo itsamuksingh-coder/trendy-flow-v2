@@ -1,7 +1,7 @@
-ready_labels: ['global_climate_warning_el_nino']
+ready_labels: ['channel_smuggling_gangs_mega_dinghies', 'india_25_states_heavy_rain_alert', 'whatsapp_india_bill_payment_launch']
 
-xiaomi_sky_nomad_ev_range: SKIPPED (not in ready set)
-mumbai_car_crash_cctv: SKIPPED (not in ready set)
-up_train_coupling_failure: SKIPPED (not in ready set)
-kanpur_roof_collapse_tragedy: SKIPPED (not in ready set)
-global_climate_warning_el_nino: SUCCESS -> video_path=videos/global_climate_warning_el_nino.mp4 dur=33.756553
+india_25_states_heavy_rain_alert: SUCCESS -> video_path=videos/india_25_states_heavy_rain_alert.mp4 dur=30.987211
+varanasi_flood_cremation_crisis: SKIPPED (not in ready set)
+whatsapp_india_bill_payment_launch: SUCCESS -> video_path=videos/whatsapp_india_bill_payment_launch.mp4 dur=24.82322
+ballia_buffalo_birthday_celebration: SKIPPED (not in ready set)
+channel_smuggling_gangs_mega_dinghies: SUCCESS -> video_path=videos/channel_smuggling_gangs_mega_dinghies.mp4 dur=35.86322
