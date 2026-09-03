@@ -1,672 +1,475 @@
 [
   {
-    "topic_label": "scorpio_on_roof_house",
-    "virality_score": 10,
-    "reason": "Extreme viral visual of a car parked on a house roof is perfect for short-form entertainment.",
-    "region": "india",
-    "headline": "चोरी के डर से घर की छत पर ही चढ़ा दी Scorpio! बिहार के शख्स का अनोखा जुगाड़, वीडियो वायरल",
-    "source_summary": "बिहार में Mahindra Scorpio को क्रेन से घर की छत पर रखने का वीडियो वायरल हो रहा है. दावा किया जा रहा है कि Scorpio मालिक विदेश जाने से पहले SUV को सुरक्षित रखना चाहता था.",
-    "source_url": "https://ndtv.in/auto/mahindra-scorpio-crane-roof-bihar-viral-video-11996580#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 14:44:14 +0530",
-    "hook": "बिहार में एक शख्स ने अपनी स्कॉर्पियो को छत पर ही चढ़ा दिया!",
-    "script_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी स्कॉर्पियो को घर की छत पर ही चढ़ा दिया। यह अनोखा जुगाड़ अब इंटरनेट पर खूब वायरल हो रहा है। मालिक विदेश जा रहा था और उसे अपनी कार की सुरक्षा की चिंता थी। उसने क्रेन की मदद से पूरी एसयूवी को अपने घर की छत पर ही पार्क कर दिया। इस वीडियो को देख हर कोई हैरान है।",
-    "tts_text_hi": "बिहार में एक शख्स ने चोरी के डर से अपनी स्कॉर्पियो को घर की छत पर ही चढ़ा दिया। यह अनोखा जुगाड़ अब इंटरनेट पर खूब वायरल हो रहा है। मालिक विदेश जा रहा था और उसे अपनी कार की सुरक्षा की चिंता थी। उसने क्रेन की मदद से पूरी एसयूवी को अपने घर की छत पर ही पार्क कर दिया। इस वीडियो को देख हर कोई हैरान है।",
-    "title": "बिहार: चोरी के डर से छत पर चढ़ाई स्कॉर्पियो",
-    "caption": "बिहार का अनोखा जुगाड़! चोरी के डर से शख्स ने क्रेन से अपनी कार घर की छत पर खड़ी कर दी।",
-    "hashtags": [
-      "Bihar",
-      "ViralVideo",
-      "Jugaad",
-      "Scorpio",
-      "Viral",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian village house exterior",
-      "car parked on roof India",
-      "crane lifting SUV India",
-      "surprised people looking up"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies entirely on a specific viral video of a unique incident; generic stock footage will not accurately represent this event.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/16052694/16052694-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "car parked on rooftop",
-        "credit": "paashuu",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12771999/pexels-photo-12771999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village house exterior",
-        "credit": "Ajin  K S",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36171603/pexels-photo-36171603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban residential India",
-        "credit": "Subham Mitra",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crane lifting SUV India",
-        "credit": "Action Construction  Equipment Ltd. - ACE",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ram_mandir_first_ceo",
+    "topic_label": "ram_mandir_ceo_jitendra_mishra",
     "virality_score": 9,
-    "reason": "Highly anticipated appointment of the first CEO for the Ram Mandir attracts massive national audience.",
+    "reason": "Appointment of a high-profile IAF veteran as the first CEO of Ram Mandir is a major national interest story with strong visual potential.",
     "region": "india",
-    "headline": "राम मंदिर ट्रस्ट के नए CEO ने की पहली बैठक, समझा ट्रस्ट का ये कामकाज",
-    "source_summary": "अयोध्या पहुंचे राम मंदिर ट्रस्ट के पहले CEO एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा ने गुरुवार को ट्रस्ट के सदस्यों और पदाधिकारियों के साथ पहली बैठक की. उन्हें ट्रस्ट की लेखा और प्रशासनिक व्यवस्था की जानकारी दी गई. मिश्रा ने राम मंदिर में दर्शन भी किए. ट्रस्ट अब CEO की जिम्मेदारियों और अधिकारों को लेकर SOP तैयार करेगा.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ram-mandir-trust-new-ceo-meeting-ayodhya-administration-lclcn-dskc-2635519-2026-09-03?utm_source=rssfeed",
+    "headline": "राम मंदिर पहुंचते ही एक्शन में दिखे CEO जितेंद्र मिश्र",
+    "source_summary": "ऑपरेशन सिंदूर से जुड़े रहे जीतेंद्र मिश्रा ने अयोध्या पहुंचकर राम मंदिर में दर्शन किए और श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की जिम्मेदारी संभालने की दिशा में कदम बढ़ाया. ट्रस्ट में नई जिम्मेदारी मिलने के बाद उनका अयोध्या पहुंचना खास माना जा रहा है. मंदिर पहुंचने पर उन्होंने रामलला के दर्शन किए और ट्रस्ट से जुड़े कामकाज को लेकर सक्रियता दिखाई. अब उनकी भूमिका पर सभी की नजरें टिकी हैं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/operation-sindoor-hero-jeetendra-mishra-reaches-ram-mandir-takes-charge-as-new-trustee-begins-work-in-ayodhya-mmta-2635533-2026-09-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-03T17:13:00+05:30",
-    "hook": "अयोध्या राम मंदिर ट्रस्ट को मिला पहला सीईओ, एयर मार्शल जीतेंद्र मिश्रा ने संभाली कमान!",
-    "script_hi": "अयोध्या राम मंदिर ट्रस्ट के पहले सीईओ, रिटायर्ड एयर मार्शल जीतेंद्र मिश्रा ने अपनी पहली बैठक की है। उन्होंने ट्रस्ट के काम-काज और प्रशासनिक व्यवस्था को समझा और राम मंदिर में दर्शन किए। जल्द ही ट्रस्ट उनके अधिकारों और जिम्मेदारी पर एक नई एसओपी तैयार करेगा।",
-    "tts_text_hi": "अयोध्या राम मंदिर ट्रस्ट के पहले सीईओ, रिटायर्ड एयर मार्शल जीतेंद्र मिश्रा ने अपनी पहली बैठक की है। उन्होंने ट्रस्ट के काम-काज और प्रशासनिक व्यवस्था को समझा और राम मंदिर में दर्शन किए। जल्द ही ट्रस्ट उनके अधिकारों और जिम्मेदारी पर एक नई एसओपी तैयार करेगा।",
-    "title": "राम मंदिर ट्रस्ट के पहले CEO ने की बैठक",
-    "caption": "राम मंदिर ट्रस्ट के पहले CEO एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा ने अयोध्या में की पहली समीक्षा बैठक।",
+    "published": "2026-09-03T17:43:36+05:30",
+    "hook": "अयोध्या राम मंदिर में जितेंद्र मिश्र का बड़ा एक्शन, क्या है ट्रस्ट की नई जिम्मेदारी?",
+    "script_hi": "अयोध्या राम मंदिर में एक्शन में दिखे जितेंद्र मिश्र। रामलला के दर्शन कर ट्रस्ट के कामकाज में सक्रियता बढ़ाई। अब नई भूमिका को लेकर तेज हुई हलचल।",
+    "tts_text_hi": "अयोध्या राम मंदिर में एक्शन में दिखे जितेंद्र मिश्र। रामलला के दर्शन कर ट्रस्ट के कामकाज में सक्रियता बढ़ाई। अब नई भूमिका को लेकर तेज हुई हलचल।",
+    "title": "राम मंदिर में सक्रिय हुए जितेंद्र मिश्र",
+    "caption": "राम मंदिर पहुंचते ही एक्शन में दिखे CEO जितेंद्र मिश्र, रामलला के दर्शन कर शुरू किया काम।",
     "hashtags": [
       "Ayodhya",
       "RamMandir",
+      "JitendraMishra",
       "RamJanmabhoomi",
       "LatestNews",
-      "Trust",
-      "UttarPradesh"
+      "HindiNews"
     ],
     "visual_queries": [
-      "Ram Mandir Ayodhya India",
-      "Indian administrative meeting room",
-      "Indian temple courtyard architecture"
+      "Ram Mandir exterior India",
+      "Indian devotee praying",
+      "Indian administrative office working"
     ],
     "named_person": "Jitendra Mishra",
-    "named_person_hi": "जीतेंद्र मिश्रा",
+    "named_person_hi": "जितेंद्र मिश्र",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the meeting event, as generic stock footage of the temple or a generic meeting room will not represent the specific person or the actual event taking place.",
+    "flag_reason": "The story relies on specific footage of the individual (Jitendra Mishra) at the Ram Mandir location; generic stock footage would misrepresent the specific event.",
     "assets": [
       {
         "type": "text_card",
-        "text": "जीतेंद्र मिश्रा",
+        "text": "जितेंद्र मिश्र",
         "source": "fallback",
         "query": "Jitendra Mishra",
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36478002/pexels-photo-36478002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10808034/10808034-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Ram Mandir Ayodhya India",
-        "credit": "Ansh Yati",
+        "query": "Ram Mandir exterior India",
+        "credit": "AVIRAJ BHADAURIA",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29310148/pexels-photo-29310148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian devotee praying",
+        "credit": "AJAY KUMAR",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9300731/pexels-photo-9300731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7580912/pexels-photo-7580912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian administrative meeting room",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35371822/pexels-photo-35371822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian temple courtyard architecture",
-        "credit": "Shivansh  Sharma",
+        "query": "Indian administrative office working",
+        "credit": "RDNE Stock project",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "buffalo_birthday_celebration",
+    "topic_label": "kaushambi_blast_accused_encounter",
     "virality_score": 9,
-    "reason": "Quirky, human-interest viral content featuring a buffalo birthday party in Uttar Pradesh.",
+    "reason": "High-action story involving a deadly firecracker factory blast and a police encounter with the primary suspect.",
     "region": "india",
-    "headline": "यूपी में भैंस का गजब बर्थडे सेलिब्रेशन, 'बसंती' को पहनाई टोपी, फिर काटा गया केक, वीडियो वायरल",
-    "source_summary": "यूपी के बलिया जिले में एक पशुपालक ने अपनी भैंस 'बसंती' का जन्मदिन केक काटकर और गाजे-बाजे के साथ मनाया. इस अनोखे आयोजन का वीडियो सोशल मीडिया पर वायरल हो रहा है.",
-    "source_url": "https://ndtv.in/uttar-pradesh-news/buffalo-birthday-celebration-in-up-ballia-goes-viral-owner-cuts-cake-for-basanti-11997659#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 17:51:27 +0530",
-    "hook": "उत्तर प्रदेश के बलिया में भैंस के बर्थडे सेलिब्रेशन का वीडियो सोशल मीडिया पर वायरल हो गया है!",
-    "script_hi": "उत्तर प्रदेश के बलिया में एक पशुपालक ने अपनी भैंस 'बसंती' का जन्मदिन बड़े धूमधाम से मनाया। बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह अनोखा वीडियो अब इंटरनेट पर चर्चा का विषय बन गया है।",
-    "tts_text_hi": "उत्तर प्रदेश के बलिया में एक पशुपालक ने अपनी भैंस बसंती का जन्मदिन बड़े धूमधाम से मनाया। बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह अनोखा वीडियो अब इंटरनेट पर चर्चा का विषय बन गया है।",
-    "title": "यूपी में भैंस का शानदार बर्थडे सेलिब्रेशन",
-    "caption": "बलिया में भैंस का अनोखा बर्थडे सेलिब्रेशन, सोशल मीडिया पर वीडियो वायरल।",
+    "headline": "पटाखा फैक्ट्री ब्लास्ट का आरोपी आदिल ऐसे हुआ गिरफ्तार",
+    "source_summary": "कौशांबी के मोहम्मदपुर मनौरी पटाखा फैक्ट्री ब्लास्ट केस में पुलिस ने 25 हजार रुपये के इनामी आरोपी आदिल को मुठभेड़ के बाद गिरफ्तार किया है. पुलिस के मुताबिक, जवाबी कार्रवाई में उसके दोनों पैरों में गोली लगी. हादसे में अब तक 14 लोगों की मौत हो चुकी है. इससे पहले 1 सितंबर को पुलिस ने मुख्य आरोपी नौशाद अली को भी मुठभेड़ के दौरान गिरफ्तार किया था.",
+    "source_url": "https://www.aajtak.in/short-videos/video/kaushambi-firecracker-factory-blast-adil-arrested-encounter-up-police-investigation-mmtm-2635112-2026-09-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-03T13:39:54+05:30",
+    "hook": "कौशांबी पटाखा फैक्ट्री ब्लास्ट का मुख्य आरोपी आदिल अब पुलिस की गिरफ्त में है!",
+    "script_hi": "कौशांबी पटाखा फैक्ट्री ब्लास्ट का मुख्य आरोपी आदिल गिरफ्तार। मुठभेड़ के बाद पुलिस ने पच्चीस हजार के इनामी आदिल को पकड़ा। जवाबी कार्रवाई में आदिल के दोनों पैरों में लगी गोली। इस हादसे में अब तक चौदह लोगों की मौत हो चुकी है। इससे पहले मुख्य आरोपी नौशाद अली को भी पुलिस ने गिरफ्तार किया था।",
+    "tts_text_hi": "कौशांबी पटाखा फैक्ट्री ब्लास्ट का मुख्य आरोपी आदिल गिरफ्तार। मुठभेड़ के बाद पुलिस ने पच्चीस हजार के इनामी आदिल को पकड़ा। जवाबी कार्रवाई में आदिल के दोनों पैरों में गोली लगी। इस हादसे में अब तक चौदह लोगों की मौत हो चुकी है। इससे पहले एक सितंबर को पुलिस ने मुख्य आरोपी नौशाद अली को भी मुठभेड़ के दौरान गिरफ्तार किया था।",
+    "title": "कौशांबी ब्लास्ट: आरोपी आदिल गिरफ्तार",
+    "caption": "कौशांबी पटाखा फैक्ट्री ब्लास्ट मामले में 25 हजार के इनामी आदिल को पुलिस ने मुठभेड़ के बाद किया गिरफ्तार।",
     "hashtags": [
-      "UttarPradesh",
-      "Ballia",
-      "ViralVideo",
-      "BuffaloBirthday",
-      "FunnyMoments",
-      "SocialMedia",
+      "Kaushambi",
+      "CrimeNews",
+      "BreakingNews",
+      "UPPolice",
+      "BlastCase",
       "HindiNews"
     ],
     "visual_queries": [
-      "Indian village landscape",
-      "Indian buffalo standing",
-      "birthday party decoration India",
-      "person celebrating birthday"
+      "Indian police crime scene",
+      "Indian police station office",
+      "hospital bed leg bandage",
+      "police yellow tape India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of a unique local incident that requires the actual footage to be included manually, as generic stock imagery would not accurately represent the specific event.",
+    "flag_reason": "The story involves an ongoing investigation and specifically requests visuals of an arrest following an explosion; generic stock footage of a crime scene or police station cannot authentically represent the specific incident in Kaushambi.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7690136/7690136-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "person celebrating birthday",
-        "credit": "Polina Tankilevitch",
-        "source_duration_sec": 10,
+        "query": "Indian police crime scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/24781984/pexels-photo-24781984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian village landscape",
-        "credit": "Muhammed zeya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36436046/pexels-photo-36436046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian buffalo standing",
-        "credit": "Aravind P.S",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18310611/pexels-photo-18310611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "birthday party decoration India",
-        "credit": "Elias Suarez",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "up_gangster_encounter_fear",
-    "virality_score": 8,
-    "reason": "Gangster publicly expressing fear of police encounter is a high-engagement, visually strong narrative.",
-    "region": "india",
-    "headline": "&#039;हथकड़ी लगाओ, बेड़ियां बांधो...&#039; क्यों यूपी पुलिस से डरा गैंगस्टर राकेश पंपू?",
-    "source_summary": "यूपी के शामली में हरियाणवी सिंगर अंकित बालियान की हत्या के मुख्य साजिशकर्ता और मास्टरमाइंड गैंगस्टर राकेश पंपू को यूपी पुलिस से एनकाउंटर का डर सता रहा है. करनाल जेल में बंद गैंगस्टर ने एसपी शामली और यूपी डीजीपी को पत्र भेजकर अपनी सुरक्षा की गुहार लगाई है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ankit-baliyan-murder-mastermind-rakesh-pampu-fears-up-police-encounter-writes-to-dgp-seeking-security-lclam-rptc-2635508-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T17:22:40+05:30",
-    "hook": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू!",
-    "script_hi": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! शामली में सिंगर अंकित बालियान की हत्या के आरोपी ने अब पुलिस से सुरक्षा की गुहार लगाई है। जेल में बंद गैंगस्टर ने चिट्ठी लिखकर एनकाउंटर का डर जताया है।",
-    "tts_text_hi": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! शामली में सिंगर अंकित बालियान की हत्या के आरोपी ने अब पुलिस से सुरक्षा की गुहार लगाई है। जेल में बंद गैंगस्टर ने चिट्ठी लिखकर एनकाउंटर का डर जताया है।",
-    "title": "गैंगस्टर राकेश पंपू को यूपी पुलिस का डर",
-    "caption": "शामली में सिंगर अंकित बालियान हत्याकांड का मास्टरमाइंड राकेश पंपू अब यूपी पुलिस के एनकाउंटर से डर रहा है।",
-    "hashtags": [
-      "UttarPradesh",
-      "Shamli",
-      "UPPolice",
-      "CrimeNews",
-      "Gangster",
-      "Encounter",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Indian police station interior",
-      "Indian police officers patrolling",
-      "jail bars silhouette",
-      "Indian judicial paper document"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785048/pexels-photo-7785048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "criminal justice system",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officers patrolling",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18861920/pexels-photo-18861920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "jail bars silhouette",
-        "credit": "Huu Huynh",
+        "query": "Indian police station office",
+        "credit": "Aakash Panwar",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Criminal suspect arrest",
+        "query": "police arrest operation",
         "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8112203/pexels-photo-8112203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian legal court",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station",
-        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "यूपी पुलिस का खौफ: गैंगस्टर राकेश पंपू हुआ बेबस! 🚔",
-        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! \n\nहथकड़ी और बेड़ियों में जकड़े इस अपराधी की हेकड़ी उस वक्त निकल गई जब उसे एनकाउंटर का डर सताने लगा। कभी खुलेआम घूमने वाला राकेश आज गिरफ्तारी के बाद पुलिस के सामने गिड़गिड़ा रहा है। \n\nक्या यूपी में अपराधियों का डर अब खत्म हो रहा है? अपनी राय कमेंट्स में बताएं।\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! 🚨\n\nहथकड़ी और बेड़ियों में जकड़े इस अपराधी की हेकड़ी गिरफ्तारी के बाद पूरी तरह निकल गई। वीडियो में देखें कैसे माफिया का खौफ अब पुलिस की वर्दी के आगे झुक गया है। \n\nक्या यूपी पुलिस की यह कार्रवाई सही है? कमेंट कर अपनी राय दें।\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "यूपी पुलिस के खौफ से कांप रहा है गैंगस्टर राकेश पंपू! 🚔\n\nकभी अपनी दहशत का साम्राज्य चलाने वाला राकेश पंपू आज पुलिस की बेड़ियों में जकड़ा हुआ है। गिरफ्तारी के वक्त उसका डर साफ देखा जा सकता है। पुलिस ने उसे जिस तरह से काबू किया, उसने इलाके के तमाम अपराधियों को चेतावनी दे दी है। \n\nयूपी में अब अपराध करना कितना मुश्किल हो गया है? वीडियो देखें और बताएं कि क्या सरकार की यह सख्ती सही दिशा में है?\n\n#UPPolice #RakeshPampu #UttarPradeshNews #CrimeReport #GangsterEncounter"
-      },
-      "hashtags": [
-        "UPPolice",
-        "RakeshPampu",
-        "UttarPradeshNews",
-        "CrimeReport",
-        "GangsterEncounter"
-      ]
-    },
-    "audio_path": "audio/up_gangster_encounter_fear.wav",
-    "audio_duration_sec": 14.79
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "vaibhav_suryavanshi_record",
+    "topic_label": "buffalo_birthday_celebration_up",
     "virality_score": 8,
-    "reason": "Young cricket prodigy breaking records is a classic viral sports story for Indian audiences.",
+    "reason": "Human-interest quirk stories like this (birthday party for a buffalo) perform exceptionally well on short-form video platforms.",
     "region": "india",
-    "headline": "15 साल के वैभव सूर्यवंशी का कमाल, नॉकआउट में 717 रन",
-    "source_summary": "15 साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन बनाए हैं. 11 पारियों में उनका स्ट्राइक रेट 185.27 रहा है, जबकि 60 चौके और 59 छक्के लगाए हैं. U19 वर्ल्ड कप फाइनल, IPL प्लेऑफ और दलीप ट्रॉफी में उनकी बड़ी पारियां चर्चा में हैं. वीडियो में जानें रिकॉर्ड्स के बारे में.",
-    "source_url": "https://www.aajtak.in/short-videos/video/vaibhav-suryavanshi-717-knockout-runs-119-boundaries-ipl-playoff-u19-records-mmtm-2635060-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T12:16:52+05:30",
-    "hook": "पंद्रह साल के इस खिलाड़ी ने मचा दिया तहलका!",
-    "script_hi": "पंद्रह साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में सात सौ सत्रह रन बनाकर सनसनी मचा दी है। ग्यारह पारियों में उन्होंने एक सौ पचासी दशमलव दो सात के स्ट्राइक रेट से बल्लेबाजी की है। उन्होंने अपनी बल्लेबाजी में साठ चौके और उनसठ छक्के जड़े हैं। यू-नाइनटीन वर्ल्ड कप से लेकर आईपीएल और दलीप ट्रॉफी तक वैभव का बल्ला आग उगल रहा है। क्या ये हैं टीम इंडिया के अगले सुपरस्टार?",
-    "tts_text_hi": "पंद्रह साल के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में सात सौ सत्रह रन बनाकर सनसनी मचा दी है। ग्यारह पारियों में उन्होंने एक सौ पचासी दशमलव दो सात के स्ट्राइक रेट से बल्लेबाजी की है। उन्होंने अपनी बल्लेबाजी में साठ चौके और उनसठ छक्के जड़े हैं। यू-नाइनटीन वर्ल्ड कप से लेकर आईपीएल और दलीप ट्रॉफी तक वैभव का बल्ला आग उगल रहा है। क्या ये हैं टीम इंडिया के अगले सुपरस्टार?",
-    "title": "वैभव सूर्यवंशी का रिकॉर्ड तोड़ प्रदर्शन",
-    "caption": "15 साल के वैभव सूर्यवंशी ने नॉकआउट मैचों में 717 रन बनाकर क्रिकेट जगत में हलचल मचा दी है।",
+    "headline": "यूपी में भैंस का गजब बर्थडे सेलिब्रेशन, 'बसंती' को पहनाई टोपी, फिर काटा गया केक, वीडियो वायरल",
+    "source_summary": "यूपी के बलिया जिले में एक पशुपालक ने अपनी भैंस 'बसंती' का जन्मदिन केक काटकर और गाजे-बाजे के साथ मनाया. इस अनोखे आयोजन का वीडियो सोशल मीडिया पर वायरल हो रहा है.",
+    "source_url": "https://ndtv.in/uttar-pradesh-news/buffalo-birthday-celebration-in-up-ballia-goes-viral-owner-cuts-cake-for-basanti-11997659#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 17:51:27 +0530",
+    "hook": "यूपी के बलिया में भैंस का शानदार बर्थडे सेलिब्रेशन, सोशल मीडिया पर मचा बवाल!",
+    "script_hi": "यूपी के बलिया में एक पशुपालक ने अपनी भैंस बसंती का जन्मदिन अनोखे अंदाज में मनाया। ढोल-नगाड़ों के साथ बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "tts_text_hi": "उत्तर प्रदेश के बलिया में एक पशुपालक ने अपनी भैंस बसंती का जन्मदिन अनोखे अंदाज में मनाया। ढोल-नगाड़ों के साथ बसंती को टोपी पहनाई गई और फिर केक काटा गया। यह वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "title": "यूपी में भैंस का बर्थडे सेलिब्रेशन",
+    "caption": "यूपी के बलिया में पशुपालक ने अनोखे अंदाज में मनाया अपनी भैंस का जन्मदिन।",
     "hashtags": [
-      "VaibhavSuryavanshi",
-      "CricketNews",
-      "TeamIndia",
-      "CricketRecords",
-      "U19Cricket",
-      "SportsNews"
+      "UttarPradesh",
+      "Ballia",
+      "ViralVideo",
+      "BuffaloBirthday",
+      "StrangeNews",
+      "Trending",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian young cricketer batting",
-      "cricket stadium India",
-      "cricket scoreboard close up",
-      "Indian cricket fan cheering"
+      "rural India buffalo farm",
+      "Indian village celebration",
+      "birthday cake India",
+      "viral social media concept"
     ],
-    "named_person": "Vaibhav Suryavanshi",
-    "named_person_hi": "वैभव सूर्यवंशी",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story is based on specific viral social media footage of a buffalo birthday which requires the actual real video to be manually inserted; generic stock footage would not represent the specific event.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34407913/pexels-photo-34407913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rural India buffalo farm",
+        "credit": "Navneet Kaur",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29147812/pexels-photo-29147812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village celebration",
+        "credit": "Jayesh Jagtap",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28160214/pexels-photo-28160214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "birthday cake India",
+        "credit": "Captian Jayu",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6634122/pexels-photo-6634122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "viral social media concept",
+        "credit": "Cup of  Couple",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "global_el_nino_climate_warning",
+    "virality_score": 8,
+    "reason": "A significant global climate event with direct potential impacts on monsoon and agricultural patterns in India.",
+    "region": "global",
+    "headline": "UN warns of 'supersized' El Niño as countries prepare for impact",
+    "source_summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+    "hook": "दुनिया भर में तबाही मचाने आ रहा है सुपर साइज्ड अल-नीनो!",
+    "script_hi": "दुनिया भर के लिए एक बड़ी चेतावनी जारी की गई है। विश्व मौसम विज्ञान संगठन यानी डब्लू एम ओ ने कहा है कि इस बार अल-नीनो पहले से कहीं ज्यादा शक्तिशाली और सुपर साइज्ड हो सकता है। यह प्राकृतिक मौसम घटना वैश्विक अर्थव्यवस्थाओं के लिए भारी खतरा पैदा कर सकती है। दुनिया भर के देश इसके असर से निपटने की तैयारी में जुट गए हैं।",
+    "tts_text_hi": "दुनिया भर के लिए एक बड़ी चेतावनी जारी की गई है। विश्व मौसम विज्ञान संगठन यानी डब्लू एम ओ ने कहा है कि इस बार अल-नीनो पहले से कहीं ज्यादा शक्तिशाली और सुपर साइज्ड हो सकता है। यह प्राकृतिक मौसम घटना वैश्विक अर्थव्यवस्थाओं के लिए भारी खतरा पैदा कर सकती है। दुनिया भर के देश इसके असर से निपटने की तैयारी में जुट गए हैं।",
+    "title": "अल-नीनो का सुपर साइज्ड खतरा",
+    "caption": "विश्व मौसम विज्ञान संगठन ने दी चेतावनी, दुनिया पर मंडरा रहा सुपर साइज्ड अल-नीनो का संकट।",
+    "hashtags": [
+      "WeatherAlert",
+      "ElNino",
+      "GlobalNews",
+      "ClimateChange",
+      "WMO",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "global earth weather map",
+      "stormy ocean waves",
+      "drought dry cracked land",
+      "disaster management emergency meeting"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "वैभव सूर्यवंशी",
-        "source": "fallback",
-        "query": "Vaibhav Suryavanshi",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12732254/pexels-photo-12732254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38169656/pexels-photo-38169656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian young cricketer batting",
-        "credit": "Sandeep Singh",
+        "query": "extreme weather event",
+        "credit": "Irina Iriser",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36952051/pexels-photo-36952051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium India",
-        "credit": "Ajay Parab",
+        "query": "stormy ocean waves",
+        "credit": "David Selbert",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12732253/pexels-photo-12732253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32827206/pexels-photo-32827206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "young cricketer training",
-        "credit": "Sandeep Singh",
+        "query": "drought dry cracked land",
+        "credit": "Suman Boipai",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17845891/pexels-photo-17845891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket fan cheering",
-        "credit": "Raunaq Sachdev",
+        "query": "extreme weather climate",
+        "credit": "Elina Volkova",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "15 साल की उम्र में 717 रन! वैभव सूर्यवंशी का तूफान 🏏",
-        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! \n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन ठोककर हर किसी को हैरान कर दिया है। उनकी बल्लेबाजी में वो परिपक्वता है जो बड़े-बड़े दिग्गजों में भी कम दिखती है। \n\nक्या वैभव टीम इंडिया के अगले सुपरस्टार हैं? अपनी राय कमेंट में जरूर बताएं।\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+        "title": "दुनिया भर में तबाही मचाने आ रहा है सुपर साइज्ड अल-नीनो! ⚠️",
+        "caption": "दुनिया भर में तबाही मचाने आ रहा है सुपर साइज्ड अल-नीनो! ⚠️\n\nसंयुक्त राष्ट्र ने इस बार के अल-नीनो को लेकर गंभीर चेतावनी जारी की है। वैज्ञानिकों का कहना है कि इसका असर सामान्य से कहीं ज्यादा खतरनाक हो सकता है, जिससे दुनिया भर में मौसम का मिजाज पूरी तरह बिगड़ जाएगा।\n\nक्या आप जानते हैं कि अल-नीनो का आपकी रसोई और जेब पर क्या असर पड़ेगा? पूरी कहानी देखें और समझें कि हमें क्या तैयारी करनी होगी।\n\n#ElNino #ClimateChange #GlobalWarming #WeatherAlert #Environment"
       },
       "instagram": {
         "title": null,
-        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! 🏏\n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट स्टेज में 717 रन बनाकर सबका ध्यान खींचा है। इतनी कम उम्र में ऐसा प्रदर्शन वाकई में ऐतिहासिक है। \n\nक्या ये खिलाड़ी भविष्य का विराट कोहली है? कमेंट्स में बताइए। 👇\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+        "caption": "दुनिया भर में तबाही मचाने आ रहा है सुपर साइज्ड अल-नीनो! ⚠️\n\nUN ने चेतावनी दी है कि इस बार का अल-नीनो सामान्य से कहीं ज्यादा खतरनाक होगा। गर्मी, सूखा और बाढ़ का सीधा असर खेती से लेकर आपकी जेब तक पड़ेगा। \n\nये संकट कितना गंभीर है? वीडियो अंत तक देखें।\n\n#ElNino #ClimateChange #GlobalWarming #WeatherAlert #Environment"
       },
       "facebook": {
         "title": null,
-        "caption": "15 साल के इस खिलाड़ी ने क्रिकेट की दुनिया में तहलका मचा दिया है! \n\nबिहार के वैभव सूर्यवंशी ने नॉकआउट मुकाबलों में 717 रन बनाकर हर किसी को हैरान कर दिया है। इतनी कम उम्र में ऐसा रिकॉर्ड तोड़ प्रदर्शन आम बात नहीं है। उनकी तकनीक और खेल के प्रति समझ ने दिग्गजों को भी सोचने पर मजबूर कर दिया है। \n\nक्या वैभव सूर्यवंशी के रूप में भारतीय क्रिकेट को अगला बड़ा सुपरस्टार मिल गया है? अपनी राय नीचे कमेंट करके जरूर बताएं। 🏏✨\n\n#VaibhavSuryavanshi #CricketRecords #FutureStar #BiharCricket #CricketNews"
+        "caption": "दुनिया भर में तबाही मचाने आ रहा है सुपर साइज्ड अल-नीनो! ⚠️\n\nसंयुक्त राष्ट्र ने एक बड़ी चेतावनी जारी की है जो पूरी दुनिया की चिंता बढ़ा रही है। अल-नीनो का यह नया 'सुपर साइज्ड' रूप भारी गर्मी और अनिश्चित बारिश का कारण बन सकता है। 🌍\n\nइसका सीधा असर फसलों की पैदावार और महंगाई पर दिखना तय है। क्या आप तैयार हैं इस बड़े बदलाव के लिए? पूरी जानकारी के लिए वीडियो देखें।\n\n#ElNino #ClimateChange #GlobalWarming #WeatherAlert #Environment"
       },
       "hashtags": [
-        "VaibhavSuryavanshi",
-        "CricketRecords",
-        "FutureStar",
-        "BiharCricket",
-        "CricketNews"
+        "ElNino",
+        "ClimateChange",
+        "GlobalWarming",
+        "WeatherAlert",
+        "Environment"
       ]
     },
-    "audio_path": "audio/vaibhav_suryavanshi_record.wav",
-    "audio_duration_sec": 27.89
+    "audio_path": "audio/global_el_nino_climate_warning.wav",
+    "audio_duration_sec": 23.16
   },
   {
-    "topic_label": "robot_robotics_kungfu_viral",
-    "virality_score": 8,
-    "reason": "Funny and unusual content showing a robot reacting to customer behavior.",
+    "topic_label": "bihar_scorpio_on_roof",
+    "virality_score": 7,
+    "reason": "Visual, bizarre local news regarding a man parking his car on his roof for safety is highly shareable content.",
     "region": "india",
-    "headline": "OMG! कस्टमर ने की बदतमीजी तो रोबोट में जागा ‘जैकी चैन’, कुंगफू स्टाइल में सिखाया सबक, वीडियो वायरल",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/humanoid-robot-viral-video-.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"OMG! कस्टमर ने की बदतमीजी तो रोबोट में जागा ‘जैकी चैन’, कुंगफू स्टाइल में सिखाया सबक, वीडियो वायरल\" /></figure>रूस के एक इलेक्ट्रॉनिक्स स्टोर में ग्राहक ने ह्यूमनॉइड रोबोट को धक्का दिया तो मशीन ने पलटकर किक मारने की कोशिश की. CCTV फुटेज वायरल होने के बाद लोग इसे Skynet से जोड़कर मजेदार कमेंट कर रहे हैं",
-    "source_url": "https://www.tv9hindi.com/trending/humanoid-robot-appears-to-attack-customer-after-being-pushed-at-russian-electronics-store-3897327.html",
-    "source_name": "TV9 Hindi",
-    "published": "Thu, 03 Sep 2026 16:54:49 +0530",
-    "hook": "क्या रोबोट भी बदला लेना जानते हैं?",
-    "script_hi": "रूस में एक ग्राहक की बदतमीजी पर रोबोट ने दिया करारा जवाब। इलेक्ट्रॉनिक्स स्टोर में जैसे ही ग्राहक ने मशीन को धक्का मारा, रोबोट ने फुर्ती से कुंगफू स्टाइल में पलटकर किक मारने की कोशिश की। यह वीडियो सोशल मीडिया पर आग की तरह फैल रहा है और लोग इसे स्काईनेट के आने की शुरुआत मान रहे हैं।",
-    "tts_text_hi": "रूस में एक ग्राहक की बदतमीजी पर रोबोट ने दिया करारा जवाब। इलेक्ट्रॉनिक्स स्टोर में जैसे ही ग्राहक ने मशीन को धक्का मारा, रोबोट ने फुर्ती से कुंगफू स्टाइल में पलटकर किक मारने की कोशिश की। यह वीडियो सोशल मीडिया पर आग की तरह फैल रहा है और लोग इसे स्काईनेट के आने की शुरुआत मान रहे हैं।",
-    "title": "रोबोट ने सिखाया ग्राहक को सबक",
-    "caption": "रूस के एक स्टोर में रोबोट का कुंगफू अवतार वायरल! क्या AI अब इंसानों से मुकाबला करेगा?",
+    "headline": "चोरी के डर से घर की छत पर ही चढ़ा दी Scorpio! बिहार के शख्स का अनोखा जुगाड़, वीडियो वायरल",
+    "source_summary": "बिहार में Mahindra Scorpio को क्रेन से घर की छत पर रखने का वीडियो वायरल हो रहा है. दावा किया जा रहा है कि Scorpio मालिक विदेश जाने से पहले SUV को सुरक्षित रखना चाहता था.",
+    "source_url": "https://ndtv.in/auto/mahindra-scorpio-crane-roof-bihar-viral-video-11996580#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 03 Sep 2026 14:44:14 +0530",
+    "hook": "बिहार में चोरी के डर से एक शख्स ने अपनी स्कॉर्पियो को घर की छत पर चढ़ा दिया!",
+    "script_hi": "बिहार में चोरी के डर से एक शख्स ने अपनी स्कॉर्पियो को घर की छत पर चढ़ा दिया। हैरान कर देने वाली ये तस्वीरें सोशल मीडिया पर वायरल हो रही हैं। बताया जा रहा है कि मालिक विदेश जाने की तैयारी में था, और गाड़ी को सुरक्षित रखने का उसने ये अनोखा तरीका निकाला।",
+    "tts_text_hi": "बिहार में चोरी के डर से एक शख्स ने अपनी स्कॉर्पियो को घर की छत पर चढ़ा दिया। हैरान कर देने वाली ये तस्वीरें सोशल मीडिया पर वायरल हो रही हैं। बताया जा रहा है कि मालिक विदेश जाने की तैयारी में था, और गाड़ी को सुरक्षित रखने का उसने ये अनोखा तरीका निकाला।",
+    "title": "स्कॉर्पियो को छत पर चढ़ाया!",
+    "caption": "बिहार में चोरी के डर से अनोखा जुगाड़, क्रेन की मदद से घर की छत पर चढ़ाई गाड़ी।",
     "hashtags": [
-      "Robot",
+      "Bihar",
       "ViralVideo",
-      "Technology",
-      "Funny",
-      "AI",
-      "NewsShorts",
-      "Trending"
+      "Scorpio",
+      "Jugaad",
+      "India",
+      "ViralNews"
     ],
     "visual_queries": [
-      "humanoid robot movement",
-      "electronics store interior",
-      "robot fighting action",
-      "people watching screen",
-      "futuristic technology concept"
+      "Indian residential house roof",
+      "Indian crane lifting vehicle",
+      "SUV parked on house roof",
+      "man looking at car",
+      "social media viral screen"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV clip which requires the actual real footage to be embedded; generic stock B-roll would misrepresent the specific incident.",
+    "flag_reason": "Needs the actual viral footage of the Scorpio on the roof; generic stock images will not represent the story accurately.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14594574/pexels-photo-14594574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian residential house roof",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian crane lifting vehicle",
+        "credit": "Action Construction  Equipment Ltd. - ACE",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7481281/pexels-photo-7481281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "social media viral screen",
+        "credit": "MART  PRODUCTION",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "whatsapp_bill_payment_launch",
+    "virality_score": 7,
+    "reason": "Highly practical news for a broad Indian audience as WhatsApp is a staple app for millions.",
+    "region": "india",
+    "headline": "85 करोड़ WhatsApp यूजर्स के लिए बड़ी सौगात, अब ऐप से ही भरे जा सकेंगे बिजली-पानी समेत 30 तरह के बिल",
+    "source_summary": "वॉट्सऐप ने भारत में ‘इन-ऐप पेमेंट फीचर’ को पेश किया है। इसकी मदद से देश के 85 करोड़ से ज्यादा वॉट्सऐप यूजर्स अपने बिजली-पानी समेत 30 तरह के बिल ऑनलाइन वॉट्सऐप से ही भर सकेंगे।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/whatsapp-in-app-bill-payments-introduce-in-india-user-can-pay-30-types-of-bills-includes-water-electricity-gas-insurance-fastag-recharge/articleshow/133731490.cms",
+    "source_name": "Navbharat Times",
+    "published": "Thu, 03 Sep 2026 15:05:00 +0530",
+    "hook": "वॉट्सऐप यूजर्स के लिए बड़ी खुशखबरी, अब बिजली और पानी का बिल भरना होगा बेहद आसान!",
+    "script_hi": "वॉट्सऐप के पचासी करोड़ भारतीय यूजर्स के लिए बड़ा अपडेट आया है। अब आप ऐप से ही बिजली और पानी समेत तीस तरह के बिल भर पाएंगे। वॉट्सऐप ने भारत में अपना नया इन-ऐप पेमेंट फीचर पेश किया है, जो डिजिटल भुगतान को और भी आसान बना देगा।",
+    "tts_text_hi": "वॉट्सऐप के पचासी करोड़ भारतीय यूजर्स के लिए बड़ा अपडेट आया है। अब आप ऐप से ही बिजली और पानी समेत तीस तरह के बिल भर पाएंगे। वॉट्सऐप ने भारत में अपना नया इन-ऐप पेमेंट फीचर पेश किया है, जो डिजिटल भुगतान को और भी आसान बना देगा।",
+    "title": "WhatsApp का नया बिल पेमेंट फीचर",
+    "caption": "WhatsApp ने भारत में पेश किया नया बिल पेमेंट फीचर, अब ऐप से ही भरें बिजली-पानी के बिल।",
+    "hashtags": [
+      "WhatsApp",
+      "DigitalIndia",
+      "TechNews",
+      "WhatsAppUpdate",
+      "Fintech",
+      "India"
+    ],
+    "visual_queries": [
+      "smartphone with WhatsApp app India",
+      "person paying electricity bill online India",
+      "digital payment interface on mobile India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/7669659/7669659-hd_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "electronics store interior",
-        "credit": "Kuiyibo Campos",
-        "source_duration_sec": 3,
-        "duration_sec": 3
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8087025/8087025-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "humanoid robot movement",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 19,
+        "query": "mobile digital payment",
+        "credit": "Ivan S",
+        "source_duration_sec": 7,
         "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8294666/pexels-photo-8294666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5924997/5924997-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "humanoid robot movement",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
+        "query": "person paying electricity bill online India",
+        "credit": "Sora Shimazaki",
+        "source_duration_sec": 10,
+        "duration_sec": 6
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "advanced humanoid robot",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic technology concept",
-        "credit": "Tara Winstead",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "tata_curvv_launch",
-    "virality_score": 7,
-    "reason": "New SUV launch from Tata is always high-interest content for auto enthusiasts.",
-    "region": "india",
-    "headline": "TATA का धमाका, लॉन्च की दमदार SUV, 10 लाख से कम है कीमत",
-    "source_summary": "टाटा ने अपनी कूपे एसयूवी कर्व की सीरीज एक्स को लॉन्च कर दिया है. सीरीज एक्स में कंपनी ने लोअर वेरिएंट्स में ज्यादा फीचर्स जोड़े हैं, जिससे कंज्यूमर्स को ज्यादा वैल्यू मिल सकेगी. ब्रांड ने बताया कि यहां एक्स का मतलब एक्स्ट्रा से है. कार का हायर वेरिएंट डार्क एडिशन में भी मिलेगा. आइए जानते हैं टाटा कर्व सीरीज एक्स की कीमत और दूसरी खास बातें.",
-    "source_url": "https://www.aajtak.in/auto/news/story/tata-curvv-series-x-launched-india-price-features-auam-dskc-2635442-2026-09-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-03T16:08:40+05:30",
-    "hook": "टाटा की नई एसयूवी ने मचाया बवाल, दस लाख से कम कीमत में अब मिल रहे हैं प्रीमियम फीचर्स।",
-    "script_hi": "टाटा मोटर्स ने अपनी धाकड़ कूपे एसयूवी कर्व का नया सीरीज एक्स वेरिएंट लॉन्च कर दिया है। कंपनी के मुताबिक, इस सीरीज का मतलब है एक्स्ट्रा। अब ग्राहकों को कम कीमत में मिलेंगे ज्यादा फीचर्स। इस कार की शुरुआती कीमत दस लाख रुपये से भी कम रखी गई है। खास बात ये है कि इसका हायर वेरिएंट अब डार्क एडिशन में भी उपलब्ध होगा।",
-    "tts_text_hi": "टाटा मोटर्स ने अपनी धाकड़ कूपे एसयूवी कर्व का नया सीरीज एक्स वेरिएंट लॉन्च कर दिया है। कंपनी के मुताबिक, इस सीरीज का मतलब है एक्स्ट्रा। अब ग्राहकों को कम कीमत में मिलेंगे ज्यादा फीचर्स। इस कार की शुरुआती कीमत दस लाख रुपये से भी कम रखी गई है। खास बात ये है कि इसका हायर वेरिएंट अब डार्क एडिशन में भी उपलब्ध होगा।",
-    "title": "टाटा कर्व सीरीज एक्स लॉन्च",
-    "caption": "टाटा की नई कर्व सीरीज एक्स अब दस लाख से कम की कीमत में उपलब्ध। जानें क्या हैं खास फीचर्स।",
-    "hashtags": [
-      "TataMotors",
-      "TataCurvv",
-      "NewLaunch",
-      "SUV",
-      "AutoNews",
-      "IndianCars",
-      "BudgetSUV"
-    ],
-    "visual_queries": [
-      "modern Indian car showroom",
-      "sleek SUV driving Indian road",
-      "car interior leather dashboard",
-      "Indian car manufacturing plant"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Needs manual insertion of specific press-kit footage for the new Tata Curvv Series X to avoid generic stock visuals misrepresenting the specific model launch.",
-    "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/31588827/13460844_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6214217/6214217-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "car interior leather dashboard",
-        "credit": "Alberto Escalona",
-        "source_duration_sec": 5,
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern Indian car showroom",
-        "credit": "Akshay Shende",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350506/pexels-photo-29350506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sleek SUV driving Indian road",
-        "credit": "Trilok",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian car manufacturing plant",
-        "credit": "Tom Fisk",
-        "duration_sec": 5
+        "query": "digital payment interface on mobile India",
+        "credit": "Nataliya Vaitkevich",
+        "source_duration_sec": 9,
+        "duration_sec": 6
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ai_toothbrush_dyson",
-    "virality_score": 7,
-    "reason": "Tech gadget viral content: a high-tech AI toothbrush that monitors dental health.",
-    "region": "india",
-    "headline": "AI वाला टूथब्रश लाया Dyson, दांतों के बीच झांकेगा कैमरा और खुद करेगा फ्लॉसिंग",
-    "source_summary": "Dyson ने CameraJet नाम का AI-पावर्ड स्मार्ट टूथब्रश पेश किया है, जिसमें कैमरा, ऑटो फ्लॉसिंग और माउथवॉश जेट जैसी तकनीकें हैं. जानें इसके फीचर्स और यह कैसे काम करता है.",
-    "source_url": "https://ndtv.in/health/dyson-camerajet-electric-toothbrush-ai-camera-floss-mouthwash-tech-features-11996199#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 03 Sep 2026 13:25:05 +0530",
-    "hook": "क्या आपका टूथब्रश अब आपके दांतों की फोटो लेगा?",
-    "script_hi": "डायसन ने पेश किया है एआई पावर्ड कैमरा-जेट टूथब्रश! इस ब्रश में लगा कैमरा आपके दांतों के अंदर की तस्वीरें लेगा और ऑटो फ्लॉसिंग व माउथवॉश जेट जैसी तकनीक से सफाई करेगा। यह हाई-टेक गैजेट दांतों की सेहत की निगरानी अब और भी आसान बना देगा।",
-    "tts_text_hi": "क्या आपका टूथब्रश अब आपके दांतों की फोटो लेगा? डायसन ने पेश किया है एआई पावर्ड कैमरा-जेट टूथब्रश! इस ब्रश में लगा कैमरा आपके दांतों के अंदर की तस्वीरें लेगा और ऑटो फ्लॉसिंग व माउथवॉश जेट जैसी तकनीक से सफाई करेगा। यह हाई-टेक गैजेट दांतों की सेहत की निगरानी अब और भी आसान बना देगा।",
-    "title": "Dyson का AI स्मार्ट टूथब्रश",
-    "caption": "डायसन का नया एआई टूथब्रश अब दांतों की करेगा बारीकी से सफाई! जानिए क्या है इसकी खासियत।",
-    "hashtags": [
-      "Dyson",
-      "SmartToothbrush",
-      "TechNews",
-      "AI",
-      "HealthTech",
-      "GadgetUpdates",
-      "Innovation"
-    ],
-    "visual_queries": [
-      "modern electric toothbrush",
-      "dentist clinic dental tools",
-      "advanced medical technology",
-      "man brushing teeth in bathroom"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific new product release; generic stock footage of toothbrushes will not accurately represent this proprietary device. Real product imagery of the 'Dyson CameraJet' needs to be inserted.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3958092/pexels-photo-3958092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern electric toothbrush",
-        "credit": "Polina Zimmerman",
-        "duration_sec": 5
+    "asset_count": 3,
+    "timeline_covered_sec": 18,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "WhatsApp से अब बिजली-पानी का बिल भरें! 💸 नया फीचर",
+        "caption": "वॉट्सऐप यूजर्स के लिए बड़ी खुशखबरी, अब बिजली और पानी का बिल भरना होगा बेहद आसान! ⚡️\n\nमेटा ने अपने ऐप में एक नया पेमेंट फीचर जोड़ दिया है। अब आप ऐप से ही बिजली, पानी और गैस समेत 30 तरह के बिल सीधे भर सकेंगे। बैंक या लंबी लाइनों के चक्कर काटने की जरूरत नहीं।\n\nक्या आप इस फीचर का इस्तेमाल करेंगे? कमेंट में बताएं।\n\n#WhatsAppUpdate #DigitalIndia #BillPayment #TechNews #WhatsAppFeatures"
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6528776/pexels-photo-6528776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "dentist clinic dental tools",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
+      "instagram": {
+        "title": null,
+        "caption": "वॉट्सऐप यूजर्स के लिए बड़ी खुशखबरी, अब बिजली और पानी का बिल भरना होगा बेहद आसान! ⚡️\n\nअब आपको अलग-अलग ऐप्स पर जाने की जरूरत नहीं है। वॉट्सऐप पर ही बिल पेमेंट का ऑप्शन मिलेगा। 30 तरह के बिल अब बस एक क्लिक में जमा हो जाएंगे। 💸\n\nअपने दोस्तों के साथ शेयर करें जो अक्सर बिल भरना भूल जाते हैं!\n\n#WhatsAppUpdate #DigitalIndia #BillPayment #TechNews #WhatsAppFeatures"
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13176449/pexels-photo-13176449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "advanced medical technology",
-        "credit": "contact me +923323219715",
-        "duration_sec": 5
+      "facebook": {
+        "title": null,
+        "caption": "वॉट्सऐप यूजर्स के लिए बड़ी खुशखबरी, अब बिजली और पानी का बिल भरना होगा बेहद आसान! ⚡️\n\nमेटा ने अपने ऐप में एक बड़ा बदलाव किया है। अब आपको बिजली, पानी और गैस समेत 30 तरह के बिल जमा करने के लिए किसी दूसरी वेबसाइट या लंबी लाइनों में लगने की जरूरत नहीं है। \n\nवॉट्सऐप के जरिए ही यह सब काम अब मिनटों में हो जाएगा। अपने फोन को ही अपना बिलिंग काउंटर बनाएं। \n\nक्या आप इस नए फीचर को आजमाने के लिए तैयार हैं?\n\n#WhatsAppUpdate #DigitalIndia #BillPayment #TechNews #WhatsAppFeatures"
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6528862/pexels-photo-6528862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern dental care technology",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
+      "hashtags": [
+        "WhatsAppUpdate",
+        "DigitalIndia",
+        "BillPayment",
+        "TechNews",
+        "WhatsAppFeatures"
+      ]
+    },
+    "audio_path": "audio/whatsapp_bill_payment_launch.wav",
+    "audio_duration_sec": 17.22
   }
 ]
