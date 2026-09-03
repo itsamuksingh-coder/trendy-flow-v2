@@ -1,5 +1,10 @@
-ready_labels: ['mpsc_paper_leak_7th_rank_holder_arrest']
+ready_labels: ['abhinandan_varthaman_joins_fly91_airline', 'beed_family_celebrates_first_girl_child_in_five_generations', 'delhi_patna_bullet_train_proposal', 'mukesh_ambani_10_rupees_ice_cream_segment_entry', 'netherlands_moves_gold_reserves_to_london_geopolitical_crisis', 'ram_mandir_trust_appoints_jitendra_mishra_ceo']
 
-us_iran_missile_strikes_escalation: SKIPPED (not in ready set)
-pakistan_hindu_temple_demolition_india_condemns: SKIPPED (not in ready set)
-mpsc_paper_leak_7th_rank_holder_arrest: SUCCESS -> video_path=videos/mpsc_paper_leak_7th_rank_holder_arrest.mp4 dur=38.255215
+abhinandan_varthaman_joins_fly91_airline: SUCCESS -> video_path=videos/abhinandan_varthaman_joins_fly91_airline.mp4 dur=26.52322
+ram_mandir_trust_appoints_jitendra_mishra_ceo: SUCCESS -> video_path=videos/ram_mandir_trust_appoints_jitendra_mishra_ceo.mp4 dur=38.255215
+vi_logo_change_shah_rukh_khan_brand_ambassador: SKIPPED (not in ready set)
+beed_family_celebrates_first_girl_child_in_five_generations: SUCCESS -> video_path=videos/beed_family_celebrates_first_girl_child_in_five_generations.mp4 dur=33.756553
+delhi_patna_bullet_train_proposal: SUCCESS -> video_path=videos/delhi_patna_bullet_train_proposal.mp4 dur=22.956553
+mukesh_ambani_10_rupees_ice_cream_segment_entry: SUCCESS -> video_path=videos/mukesh_ambani_10_rupees_ice_cream_segment_entry.mp4 dur=20.856553
+maharashtra_beed_fifth_generation_baby_girl_procession: SKIPPED (not in ready set)
+netherlands_moves_gold_reserves_to_london_geopolitical_crisis: SUCCESS -> video_path=videos/netherlands_moves_gold_reserves_to_london_geopolitical_crisi.mp4 dur=26.134218
