@@ -1,9 +1,8 @@
-ready_labels: ['hanumangarh_groom_killed_before_wedding', 'isro_eos05_naughty_boy_launch', 'nepal_tunnel_rescue_survivors', 'roman_saini_unacademy_upgrad_acquisition', 'whatsapp_bill_payments_launch_india']
+ready_labels: ['air_india_phuket_flight_pilot_drug_test', 'kerala_wife_murder_curry_dispute', 'nepal_tunnel_survivors_rescue_9_days', 'nhai_fastag_reward_dirty_toilet_complaint', 'openai_gpt6_astra_launch']
 
-nepal_tunnel_rescue_survivors: SUCCESS -> video_path=videos/nepal_tunnel_rescue_survivors.mp4 dur=32.82322
-isro_eos05_naughty_boy_launch: SUCCESS -> video_path=videos/isro_eos05_naughty_boy_launch.mp4 dur=36.456553
-whatsapp_bill_payments_launch_india: SUCCESS -> video_path=videos/whatsapp_bill_payments_launch_india.mp4 dur=21.142222
-us_healthcare_cost_nri_dental_bill: SKIPPED (not in ready set)
-navi_mumbai_school_van_child_abuse: SKIPPED (not in ready set)
-roman_saini_unacademy_upgrad_acquisition: SUCCESS -> video_path=videos/roman_saini_unacademy_upgrad_acquisition.mp4 dur=19.256553
-hanumangarh_groom_killed_before_wedding: SUCCESS -> video_path=videos/hanumangarh_groom_killed_before_wedding.mp4 dur=28.189887
+isro_eos05_launch_success: SKIPPED (not in ready set)
+air_india_phuket_flight_pilot_drug_test: SUCCESS -> video_path=videos/air_india_phuket_flight_pilot_drug_test.mp4 dur=28.089887
+kerala_wife_murder_curry_dispute: SUCCESS -> video_path=videos/kerala_wife_murder_curry_dispute.mp4 dur=26.989887
+nepal_tunnel_survivors_rescue_9_days: SUCCESS -> video_path=videos/nepal_tunnel_survivors_rescue_9_days.mp4 dur=28.789887
+openai_gpt6_astra_launch: SUCCESS -> video_path=videos/openai_gpt6_astra_launch.mp4 dur=22.140227
+nhai_fastag_reward_dirty_toilet_complaint: SUCCESS -> video_path=videos/nhai_fastag_reward_dirty_toilet_complaint.mp4 dur=21.978231
