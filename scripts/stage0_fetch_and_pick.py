@@ -195,7 +195,7 @@ if TOPIC_LIMIT:
     # zero results -- we trim down to n only after filtering.
     TARGET_TOPIC_COUNT = (n, n + 3)
 
-GEMINI_MODEL = "gemini-3.1-flash-lite"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 
@@ -213,14 +213,14 @@ def post_to_gemini_with_retry(body, max_retries=3, timeout=90):
                 print(f"Gemini API error {resp.status_code} (attempt {attempt}/{max_retries}): {resp.text[:1000]}")
                 if attempt == max_retries:
                     resp.raise_for_status()
-                time.sleep(10)
+                time.sleep(2 * attempt)
                 continue
             return resp
         except requests.exceptions.RequestException as e:
             last_error = e
             print(f"  [warn] Gemini request failed (attempt {attempt}/{max_retries}): {e}")
             if attempt < max_retries:
-                time.sleep(10)  # 2s, 4s, 8s
+                time.sleep(2 * attempt)  # 2s, 4s, 8s
     raise last_error
 
 
