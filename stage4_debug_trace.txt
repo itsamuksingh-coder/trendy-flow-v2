@@ -1,5 +1,9 @@
-ready_labels: ['anjali_arora_sita_look_viral', 'smriti_mandhana_century_world_records', 'trump_hormuz_strait_control_claim']
+ready_labels: ['bank_locker_gold_theft_akola_cleaner', 'fake_ias_officer_arrested_indore', 'isro_eos05_satellite_launch_naughty_boy', 'jaishankar_ukraine_visit_drone_attack', 'smriti_mandhana_record_century_asia_cup', 'un_warns_supersized_el_nino_global', 'whatsapp_bill_payments_feature_launch']
 
-smriti_mandhana_century_world_records: SUCCESS -> video_path=videos/smriti_mandhana_century_world_records.mp4 dur=34.689887
-trump_hormuz_strait_control_claim: SUCCESS -> video_path=videos/trump_hormuz_strait_control_claim.mp4 dur=37.589887
-anjali_arora_sita_look_viral: SUCCESS -> video_path=videos/anjali_arora_sita_look_viral.mp4 dur=20.32322
+isro_eos05_satellite_launch_naughty_boy: SUCCESS -> video_path=videos/isro_eos05_satellite_launch_naughty_boy.mp4 dur=38.189887
+smriti_mandhana_record_century_asia_cup: SUCCESS -> video_path=videos/smriti_mandhana_record_century_asia_cup.mp4 dur=24.555215
+jaishankar_ukraine_visit_drone_attack: SUCCESS -> video_path=videos/jaishankar_ukraine_visit_drone_attack.mp4 dur=24.756553
+fake_ias_officer_arrested_indore: SUCCESS -> video_path=videos/fake_ias_officer_arrested_indore.mp4 dur=34.72322
+bank_locker_gold_theft_akola_cleaner: SUCCESS -> video_path=videos/bank_locker_gold_theft_akola_cleaner.mp4 dur=33.750227
+whatsapp_bill_payments_feature_launch: SUCCESS -> video_path=videos/whatsapp_bill_payments_feature_launch.mp4 dur=20.856553
+un_warns_supersized_el_nino_global: SUCCESS -> video_path=videos/un_warns_supersized_el_nino_global.mp4 dur=23.116213
