@@ -1,8 +1,7 @@
-ready_labels: ['air_india_pilot_drug_test_positive', 'gujarati_family_second_daughter_celebration', 'isro_eos05_satellite_launch_success', 'nepal_flood_tunnel_miracle_rescue_9_days', 'whatsapp_bill_payments_feature_launch_india']
+ready_labels: ['hapur_petrol_pump_scorpio_dragging', 'sonia_gandhi_memoir_harpercollins', 'srinagar_airport_indigo_flight_accident', 'womens_asia_cup_india_pakistan_match']
 
-isro_eos05_satellite_launch_success: SUCCESS -> video_path=videos/isro_eos05_satellite_launch_success.mp4 dur=38.255215
-nepal_flood_tunnel_miracle_rescue_9_days: SUCCESS -> video_path=videos/nepal_flood_tunnel_miracle_rescue_9_days.mp4 dur=30.407211
-air_india_pilot_drug_test_positive: SUCCESS -> video_path=videos/air_india_pilot_drug_test_positive.mp4 dur=21.789887
-gujarati_family_second_daughter_celebration: SUCCESS -> video_path=videos/gujarati_family_second_daughter_celebration.mp4 dur=27.22322
-whatsapp_bill_payments_feature_launch_india: SUCCESS -> video_path=videos/whatsapp_bill_payments_feature_launch_india.mp4 dur=25.62322
-ksrtc_bus_driver_emotional_retirement_video: SKIPPED (not in ready set)
+hapur_petrol_pump_scorpio_dragging: SUCCESS -> video_path=videos/hapur_petrol_pump_scorpio_dragging.mp4 dur=29.089887
+srinagar_airport_indigo_flight_accident: SUCCESS -> video_path=videos/srinagar_airport_indigo_flight_accident.mp4 dur=26.42322
+womens_asia_cup_india_pakistan_match: SUCCESS -> video_path=videos/womens_asia_cup_india_pakistan_match.mp4 dur=27.456553
+tesla_cybercab_driverless_cars_us: SKIPPED (not in ready set)
+sonia_gandhi_memoir_harpercollins: SUCCESS -> video_path=videos/sonia_gandhi_memoir_harpercollins.mp4 dur=15.616213
