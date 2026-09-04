@@ -1,7 +1,7 @@
-ready_labels: ['hapur_petrol_pump_scorpio_dragging', 'sonia_gandhi_memoir_harpercollins', 'srinagar_airport_indigo_flight_accident', 'womens_asia_cup_india_pakistan_match']
+ready_labels: ['akola_bank_cleaner_gold_theft', 'gloria_steinem_feminist_icon_dies', 'naldurg_fort_woman_children_suicide', 'nepal_tunnel_miracle_rescue_9_days', 'punjabi_singer_baljeet_singh_dead_body']
 
-hapur_petrol_pump_scorpio_dragging: SUCCESS -> video_path=videos/hapur_petrol_pump_scorpio_dragging.mp4 dur=29.089887
-srinagar_airport_indigo_flight_accident: SUCCESS -> video_path=videos/srinagar_airport_indigo_flight_accident.mp4 dur=26.42322
-womens_asia_cup_india_pakistan_match: SUCCESS -> video_path=videos/womens_asia_cup_india_pakistan_match.mp4 dur=27.456553
-tesla_cybercab_driverless_cars_us: SKIPPED (not in ready set)
-sonia_gandhi_memoir_harpercollins: SUCCESS -> video_path=videos/sonia_gandhi_memoir_harpercollins.mp4 dur=15.616213
+nepal_tunnel_miracle_rescue_9_days: SUCCESS -> video_path=videos/nepal_tunnel_miracle_rescue_9_days.mp4 dur=31.02322
+naldurg_fort_woman_children_suicide: SUCCESS -> video_path=videos/naldurg_fort_woman_children_suicide.mp4 dur=31.789887
+punjabi_singer_baljeet_singh_dead_body: SUCCESS -> video_path=videos/punjabi_singer_baljeet_singh_dead_body.mp4 dur=34.456553
+akola_bank_cleaner_gold_theft: SUCCESS -> video_path=videos/akola_bank_cleaner_gold_theft.mp4 dur=26.956553
+gloria_steinem_feminist_icon_dies: SUCCESS -> video_path=videos/gloria_steinem_feminist_icon_dies.mp4 dur=27.22322
