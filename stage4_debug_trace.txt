@@ -1,9 +1,7 @@
-ready_labels: ['bank_locker_gold_theft_akola_cleaner', 'fake_ias_officer_arrested_indore', 'isro_eos05_satellite_launch_naughty_boy', 'jaishankar_ukraine_visit_drone_attack', 'smriti_mandhana_record_century_asia_cup', 'un_warns_supersized_el_nino_global', 'whatsapp_bill_payments_feature_launch']
+ready_labels: ['bernie_sanders_ai_bill_sam_altman_jail', 'janmashtami_2026_shubh_muhurat', 'pm_modi_ukraine_peace_appeal_us_diplomacy', 'woman_climbs_mobile_tower_bihar_lover']
 
-isro_eos05_satellite_launch_naughty_boy: SUCCESS -> video_path=videos/isro_eos05_satellite_launch_naughty_boy.mp4 dur=38.189887
-smriti_mandhana_record_century_asia_cup: SUCCESS -> video_path=videos/smriti_mandhana_record_century_asia_cup.mp4 dur=24.555215
-jaishankar_ukraine_visit_drone_attack: SUCCESS -> video_path=videos/jaishankar_ukraine_visit_drone_attack.mp4 dur=24.756553
-fake_ias_officer_arrested_indore: SUCCESS -> video_path=videos/fake_ias_officer_arrested_indore.mp4 dur=34.72322
-bank_locker_gold_theft_akola_cleaner: SUCCESS -> video_path=videos/bank_locker_gold_theft_akola_cleaner.mp4 dur=33.750227
-whatsapp_bill_payments_feature_launch: SUCCESS -> video_path=videos/whatsapp_bill_payments_feature_launch.mp4 dur=20.856553
-un_warns_supersized_el_nino_global: SUCCESS -> video_path=videos/un_warns_supersized_el_nino_global.mp4 dur=23.116213
+janmashtami_2026_shubh_muhurat: SUCCESS -> video_path=videos/janmashtami_2026_shubh_muhurat.mp4 dur=25.62322
+pm_modi_ukraine_peace_appeal_us_diplomacy: SUCCESS -> video_path=videos/pm_modi_ukraine_peace_appeal_us_diplomacy.mp4 dur=28.387211
+bla_attack_balochistan_pakistan_soldiers: SKIPPED (not in ready set)
+woman_climbs_mobile_tower_bihar_lover: SUCCESS -> video_path=videos/woman_climbs_mobile_tower_bihar_lover.mp4 dur=33.32322
+bernie_sanders_ai_bill_sam_altman_jail: SUCCESS -> video_path=videos/bernie_sanders_ai_bill_sam_altman_jail.mp4 dur=38.255215
