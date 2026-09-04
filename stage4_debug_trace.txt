@@ -1,7 +1,9 @@
-ready_labels: ['bernie_sanders_ai_bill_sam_altman_jail', 'janmashtami_2026_shubh_muhurat', 'pm_modi_ukraine_peace_appeal_us_diplomacy', 'woman_climbs_mobile_tower_bihar_lover']
+ready_labels: ['hanumangarh_groom_killed_before_wedding', 'isro_eos05_naughty_boy_launch', 'nepal_tunnel_rescue_survivors', 'roman_saini_unacademy_upgrad_acquisition', 'whatsapp_bill_payments_launch_india']
 
-janmashtami_2026_shubh_muhurat: SUCCESS -> video_path=videos/janmashtami_2026_shubh_muhurat.mp4 dur=25.62322
-pm_modi_ukraine_peace_appeal_us_diplomacy: SUCCESS -> video_path=videos/pm_modi_ukraine_peace_appeal_us_diplomacy.mp4 dur=28.387211
-bla_attack_balochistan_pakistan_soldiers: SKIPPED (not in ready set)
-woman_climbs_mobile_tower_bihar_lover: SUCCESS -> video_path=videos/woman_climbs_mobile_tower_bihar_lover.mp4 dur=33.32322
-bernie_sanders_ai_bill_sam_altman_jail: SUCCESS -> video_path=videos/bernie_sanders_ai_bill_sam_altman_jail.mp4 dur=38.255215
+nepal_tunnel_rescue_survivors: SUCCESS -> video_path=videos/nepal_tunnel_rescue_survivors.mp4 dur=32.82322
+isro_eos05_naughty_boy_launch: SUCCESS -> video_path=videos/isro_eos05_naughty_boy_launch.mp4 dur=36.456553
+whatsapp_bill_payments_launch_india: SUCCESS -> video_path=videos/whatsapp_bill_payments_launch_india.mp4 dur=21.142222
+us_healthcare_cost_nri_dental_bill: SKIPPED (not in ready set)
+navi_mumbai_school_van_child_abuse: SKIPPED (not in ready set)
+roman_saini_unacademy_upgrad_acquisition: SUCCESS -> video_path=videos/roman_saini_unacademy_upgrad_acquisition.mp4 dur=19.256553
+hanumangarh_groom_killed_before_wedding: SUCCESS -> video_path=videos/hanumangarh_groom_killed_before_wedding.mp4 dur=28.189887
