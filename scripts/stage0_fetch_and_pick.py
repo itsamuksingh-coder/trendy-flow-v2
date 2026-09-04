@@ -195,7 +195,7 @@ if TOPIC_LIMIT:
     # zero results -- we trim down to n only after filtering.
     TARGET_TOPIC_COUNT = (n, n + 3)
 
-GEMINI_MODEL = "gemini-3.1-flash-lite"
+GEMINI_MODEL = "gemini-3.5-flash"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 
