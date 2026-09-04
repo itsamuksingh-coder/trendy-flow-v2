@@ -199,7 +199,7 @@ GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 
-def post_to_gemini_with_retry(body, max_retries=3, timeout=90):
+def post_to_gemini_with_retry(body, max_retries=3, timeout=360):
     """
     Wraps a Gemini API call with retries + exponential backoff, so a
     transient network blip (timeout, connection reset) doesn't kill the
