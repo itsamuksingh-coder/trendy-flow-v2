@@ -1,10 +1,7 @@
-ready_labels: ['indus_river_ladakh_rock_check_dam', 'iran_kharg_island_missile_strike_us', 'jammu_kashmir_usmarg_encounter_lashkar_commander', 'kerala_90_percent_disabled_student_iit_madras', 'madhya_pradesh_bittu_toba_ajnari_river_cleaning', 'prayagraj_woman_pica_disorder_needles_glass', 'whatsapp_bill_payment_service_launch']
+ready_labels: ['delhi_dwarka_student_electrocution_death', 'jhiram_valley_naxal_attack_conviction', 'kangana_ranaut_mandi_disha_meeting_anger', 'kerala_car_lorry_accident_students_death']
 
-whatsapp_bill_payment_service_launch: SUCCESS -> video_path=videos/whatsapp_bill_payment_service_launch.mp4 dur=19.679229
-indus_river_ladakh_rock_check_dam: SUCCESS -> video_path=videos/indus_river_ladakh_rock_check_dam.mp4 dur=23.289887
-saharanpur_mosque_demolition_iqra_hasan_house_arrest: SKIPPED (not in ready set)
-iran_kharg_island_missile_strike_us: SUCCESS -> video_path=videos/iran_kharg_island_missile_strike_us.mp4 dur=32.556553
-kerala_90_percent_disabled_student_iit_madras: SUCCESS -> video_path=videos/kerala_90_percent_disabled_student_iit_madras.mp4 dur=31.684218
-jammu_kashmir_usmarg_encounter_lashkar_commander: SUCCESS -> video_path=videos/jammu_kashmir_usmarg_encounter_lashkar_commander.mp4 dur=25.856213
-madhya_pradesh_bittu_toba_ajnari_river_cleaning: SUCCESS -> video_path=videos/madhya_pradesh_bittu_toba_ajnari_river_cleaning.mp4 dur=32.845215
-prayagraj_woman_pica_disorder_needles_glass: SUCCESS -> video_path=videos/prayagraj_woman_pica_disorder_needles_glass.mp4 dur=30.42322
+saharanpur_mosque_demolition_iqra_hasan: SKIPPED (not in ready set)
+kangana_ranaut_mandi_disha_meeting_anger: SUCCESS -> video_path=videos/kangana_ranaut_mandi_disha_meeting_anger.mp4 dur=27.356553
+jhiram_valley_naxal_attack_conviction: SUCCESS -> video_path=videos/jhiram_valley_naxal_attack_conviction.mp4 dur=25.92322
+delhi_dwarka_student_electrocution_death: SUCCESS -> video_path=videos/delhi_dwarka_student_electrocution_death.mp4 dur=29.889887
+kerala_car_lorry_accident_students_death: SUCCESS -> video_path=videos/kerala_car_lorry_accident_students_death.mp4 dur=27.342222
