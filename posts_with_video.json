@@ -1,30 +1,30 @@
 [
   {
-    "topic_label": "saharanpur_mosque_demolition_iqra_hasan",
+    "topic_label": "saharanpur_illegal_mosque_demolition",
     "virality_score": 9,
-    "reason": "High-tension political controversy involving a mosque demolition and MP Iqra Hasan's house arrest.",
+    "reason": "Court-ordered demolition of an illegal mosque inside Saharanpur Collectorate sparks intense political reactions.",
     "region": "india",
     "headline": "सहारनपुर: अवैध मस्जिद पर चला बुलडोजर, इकरा हसन की नजरबंदी से गरमाई सियासत",
     "source_summary": "उत्तर प्रदेश के सहारनपुर जिले से बड़ी खबर आ रही है. यहाँ कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है. कोर्ट के आदेश के बाद सुबह-सुबह भारी सुरक्षा व्यवस्था के बीच इस ध्वस्तीकरण की कार्रवाई को अंजाम दिया गया. इस मस्जिद को सिटी मजिस्ट्रेट की अदालत ने अवैध घोषित किया था, जिसके बाद मुस्लिम पक्ष की अपील भी खारिज हो गई थी.",
     "source_url": "https://www.aajtak.in/uttar-pradesh/video/bulldozer-action-on-illegal-mosque-inside-saharanpur-dm-vdop-ytvd-2636757-2026-09-05?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-05T17:31:24+05:30",
-    "hook": "सहारनपुर में अवैध मस्जिद पर प्रशासन का बुलडोजर चला!",
-    "script_hi": "सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है। कोर्ट के आदेश के बाद भारी सुरक्षा के बीच यह कार्रवाई की गई। इस बीच सांसद इकरा हसन की नजरबंदी से सियासत गरमा गई है। सिटी मजिस्ट्रेट की अदालत ने इस मस्जिद को अवैध घोषित किया था।",
-    "tts_text_hi": "सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है। कोर्ट के आदेश के बाद भारी सुरक्षा के बीच यह कार्रवाई की गई। इस बीच सांसद इकरा हसन की नजरबंदी से सियासत गरमा गई है। सिटी मजिस्ट्रेट की अदालत ने इस मस्जिद को अवैध घोषित किया था।",
+    "hook": "सहारनपुर में अवैध मस्जिद पर चला बुलडोजर!",
+    "script_hi": "सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है। अदालत के आदेश के बाद भारी सुरक्षा के बीच यह कार्रवाई की गई। इस बीच सांसद इकरा हसन की नजरबंदी से सियासत गरमा गई है।",
+    "tts_text_hi": "सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है। अदालत के आदेश के बाद भारी सुरक्षा के बीच यह कार्रवाई की गई। इस बीच सांसद इकरा हसन की नजरबंदी से सियासत गरमा गई है।",
     "title": "सहारनपुर में अवैध मस्जिद पर बुलडोजर कार्रवाई",
-    "caption": "उत्तर प्रदेश के सहारनपुर जिले में कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है।",
+    "caption": "उत्तर प्रदेश के सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है। भारी सुरक्षा के बीच यह कार्रवाई पूरी की गई।",
     "hashtags": [
-      "#Saharanpur",
-      "#BulldozerAction",
-      "#UttarPradesh",
-      "#IqraHasan",
-      "#NewsUpdate",
-      "#IndiaNews"
+      "Saharanpur",
+      "UttarPradesh",
+      "BulldozerAction",
+      "IqraHasan",
+      "NewsUpdates",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Saharanpur court building India",
-      "bulldozer demolition street India",
+      "Saharanpur district court India",
+      "bulldozer demolition India",
       "heavy police security India"
     ],
     "named_person": "Iqra Hasan",
@@ -32,7 +32,7 @@
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "यह खबर धार्मिक स्थल पर बुलडोजर कार्रवाई और राजनीतिक तनाव से जुड़ी है, इसलिए इसे मैनुअल रिव्यू के लिए चिह्नित किया गया है।",
+    "flag_reason": "Contains communal sensitivity and religious structure demolition context in India, requiring careful manual review.",
     "assets": [
       {
         "type": "text_card",
@@ -45,10 +45,18 @@
         "type": "video",
         "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "bulldozer demolition street India",
+        "query": "bulldozer demolition India",
         "credit": "Wela Gujjar",
         "source_duration_sec": 32,
         "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18339967/pexels-photo-18339967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Saharanpur district court India",
+        "credit": "Monojit Dutta",
+        "duration_sec": 5
       },
       {
         "type": "image",
@@ -59,132 +67,36 @@
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kangana_ranaut_mandi_disha_meeting_anger",
-    "virality_score": 8,
-    "reason": "Viral video and sharp remarks by MP Kangana Ranaut during a development meeting in Mandi.",
+    "topic_label": "kapurthala_cremated_man_found_alive_in_jail",
+    "virality_score": 9,
+    "reason": "A family mistakenly cremates an unknown body thinking it's their son, only to find him alive in jail 15 days later.",
     "region": "india",
-    "headline": "&#039;फालतू के जुमले मत दो...&#039;, बीच मीटिंग किस पर भड़कीं कंगना रनौत",
-    "source_summary": "मंडी में 'दिशा' समिति की बैठक के दौरान बीजेपी सांसद कंगना रनौत ने अधिकारियों की जमकर खिंचाई की. 11 करोड़ में से सिर्फ 50 लाख रुपये खर्च होने पर गुस्सा जाहिर करते हुए उन्होंने फर्जी वादों पर फटकार लगाई और विकास कार्यों में तेजी लाने का निर्देश दिया.",
-    "source_url": "https://www.aajtak.in/india/news/story/kangana-ranaut-scolds-officials-slow-mplads-fund-utilization-mandi-himachal-pradesh-ntc-ntyv-rpti-2637078-2026-09-05?utm_source=rssfeed",
+    "headline": "मरा समझकर बेटे का किया अंतिम संस्कार, फिर जेल से आया फोन और...",
+    "source_summary": "पंजाब के कपूरथला में एक परिवार ने जिस युवक को अपना बेटा रवि समझकर उसका अंतिम संस्कार कर दिया, वह 15 दिन बाद जेल में जिंदा मिला. गली-सड़ी लाश की पहचान कपड़ों के आधार पर की गई थी. अंतिम संस्कार और भोग की रस्म पूरी होने के बाद जेल से आए फोन ने परिवार को हैरान कर दिया. अब अज्ञात शव की पहचान पर सवाल उठ रहे हैं.",
+    "source_url": "https://www.aajtak.in/india/punjab/story/kapurthala-son-missing-funeral-after-15-days-found-alive-in-jail-lclcn-strc-2637135-2026-09-05?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-05T16:10:44+05:30",
-    "hook": "मंडी में भड़कीं कंगना रनौत, अधिकारियों की लगाई क्लास!",
-    "script_hi": "मंडी में दिशा समिति की बैठक के दौरान भारतीय जनता पार्टी सांसद कंगना रनौत अधिकारियों पर जमकर भड़कीं। ग्यारह करोड़ में से सिर्फ पचास लाख रुपये खर्च होने पर उन्होंने फर्जी वादों और लापरवाही पर गुस्सा जाहिर किया, और विकास कार्यों में तेजी लाने का कड़ा निर्देश दिया।",
-    "tts_text_hi": "मंडी में दिशा समिति की बैठक के दौरान भारतीय जनता पार्टी सांसद कंगना रनौत अधिकारियों पर जमकर भड़कीं। ग्यारह करोड़ में से सिर्फ पचास लाख रुपये खर्च होने पर उन्होंने फर्जी वादों और लापरवाही पर गुस्सा जाहिर किया, और विकास कार्यों में तेजी लाने का कड़ा निर्देश दिया।",
-    "title": "मंडी में भड़कीं कंगना रनौत",
-    "caption": "मंडी में दिशा समिति की बैठक के दौरान सांसद कंगना रनौत ने अधिकारियों के कामकाज पर नाराजगी जताई।",
+    "published": "2026-09-05T18:20:54+05:30",
+    "hook": "मरा समझकर जिसे जलाया, वो पंद्रह दिन बाद जेल में जिंदा निकला!",
+    "script_hi": "पंजाब के कपूरथला में एक परिवार के होश उस वक्त उड़ गए जब उन्होंने जिस बेटे का अंतिम संस्कार कर दिया था, वह पंद्रह दिन बाद जेल में जिंदा मिला। गली सड़ी लाश की पहचान परिवार ने कपड़ों के आधार पर की थी। भोग की रस्म पूरी होने के बाद जब जेल से फोन आया, तो परिवार हैरान रह गया। अब उस अज्ञात शव की पहचान पर बड़े सवाल उठ रहे हैं।",
+    "tts_text_hi": "पंजाब के कपूरथला में एक परिवार के होश उस वक्त उड़ गए जब उन्होंने जिस बेटे का अंतिम संस्कार कर दिया था, वह पंद्रह दिन बाद जेल में जिंदा मिला। गली सड़ी लाश की पहचान परिवार ने कपड़ों के आधार पर की थी। भोग की रस्म पूरी होने के बाद जब जेल से फोन आया, तो परिवार हैरान रह गया। अब उस अज्ञात शव की पहचान पर बड़े सवाल उठ रहे हैं।",
+    "title": "मरा समझकर किया अंतिम संस्कार, पंद्रह दिन बाद जेल से आया फोन",
+    "caption": "पंजाब के कपूरथला में हैरान करने वाला मामला आया सामने, जिस युवक को मरा समझकर किया अंतिम संस्कार, वह पंद्रह दिन बाद जेल में जिंदा मिला।",
     "hashtags": [
-      "KanganaRanaut",
-      "Mandi",
-      "BJP",
-      "HimachalPradesh",
-      "NewsUpdates"
+      "PunjabNews",
+      "Kapurthala",
+      "ShockingNews",
+      "IndiaNews",
+      "CrimeNews"
     ],
     "visual_queries": [
-      "Indian politician meeting India",
-      "angry woman official India",
-      "government office meeting India"
-    ],
-    "named_person": "Kangana Ranaut",
-    "named_person_hi": "कंगना रनौत",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_4166af06b1.jpg",
-        "source": "wikimedia",
-        "query": "Kangana Ranaut",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician meeting India",
-        "credit": "Balotra News",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8847142/pexels-photo-8847142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry politician India meeting",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6950157/pexels-photo-6950157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "government office meeting India",
-        "credit": "Werner Pfennig",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मंडी में भड़कीं कंगना रनौत, अधिकारियों की लगाई क्लास! 😡",
-        "caption": "विकास कार्यों की मीटिंग में ऐसा क्या हुआ कि कंगना रनौत का पारा सातवें आसमान पर पहुंच गया? 🛑\n\n'फालतू के जुमले मत दो...' कहते हुए उन्होंने अफसरों की जमकर क्लास लगाई। बैठक का यह वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरा मामला जानने के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#KanganaRanaut #Mandi #HimachalPradesh #PoliticalNews #ViralVideo"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मंडी में भड़कीं कंगना रनौत, अधिकारियों की लगाई क्लास! 😡 विकास कार्यों की मीटिंग में ऐसा क्या हुआ कि उन्होंने अफसरों को सरेआम खरी-खोटी सुनाई?\n\n'फालतू के जुमले मत दो...' कह कर कंगना का गुस्सा सातवें आसमान पर दिखा। पूरी कहानी जानने के लिए वीडियो पूरा देखें। 👇\n\n#KanganaRanaut #Mandi #HimachalPradesh #PoliticalNews #ViralVideo"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "विकास कार्यों की समीक्षा बैठक चल रही थी और अचानक ऐसा कुछ हुआ कि सांसद कंगना रनौत का गुस्सा फूट पड़ा। 😡\n\nअधिकारियों को दो टूक सुनाते हुए उन्होंने साफ कह दिया कि 'फालतू के जुमले मत दो...' मंडी में हुई इस गरमा-गरम मीटिंग का पूरा सच क्या है, जानिए इस वीडियो में।\n\nपूरी कहानी देखें और शेयर करें।\n\n#KanganaRanaut #Mandi #HimachalPradesh #PoliticalNews #ViralVideo"
-      },
-      "hashtags": [
-        "KanganaRanaut",
-        "Mandi",
-        "HimachalPradesh",
-        "PoliticalNews",
-        "ViralVideo"
-      ]
-    },
-    "audio_path": "audio/kangana_ranaut_mandi_disha_meeting_anger.wav",
-    "audio_duration_sec": 19.39,
-    "video_path": "videos/kangana_ranaut_mandi_disha_meeting_anger.mp4",
-    "video_duration_sec": 27.36
-  },
-  {
-    "topic_label": "jhiram_valley_naxal_attack_conviction",
-    "virality_score": 8,
-    "reason": "Major 13-year-old high-profile Naxal attack case sees court convicting all 10 accused.",
-    "region": "india",
-    "headline": "झीरम घाटी हत्याकांड: 13 साल बाद NIA कोर्ट ने सभी 10 आरोपियों को दोषी माना, किस पर क्‍या आरोप, सजा कब?",
-    "source_summary": "छत्तीसगढ़ के जगदलपुर जिले की एनआईए कोर्ट ने झीरम घाटी नक्‍सली हमले के सभी 10 आरोपियों को दोषी ठहराया है. 16 सितंबर को कोर्ट दोषियों को सजा सुनाएगा. इस हमले में कांग्रेस के बड़े नेताओं समेत 29 लोग मारे गए थे.",
-    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/jhiram-ghati-naxal-attack-nia-court-verdict-10-convicted-12005808#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 05 Sep 2026 17:21:49 +0530",
-    "hook": "तेरह साल बाद झीरम घाटी हत्याकांड में आया बड़ा फैसला!",
-    "script_hi": "छत्तीसगढ़ के जगदलपुर की एनआईए कोर्ट ने तेरह साल पुराने झीरम घाटी नक्सली हमले में सभी दस आरोपियों को दोषी मान लिया है। सोलह सितंबर को कोर्ट सजा का ऐलान करेगा। इस भीषण हमले में कांग्रेस के वरिष्ठ नेताओं समेत उनहत्तर लोग मारे गए थे।",
-    "tts_text_hi": "छत्तीसगढ़ के जगदलपुर की एनआईए कोर्ट ने तेरह साल पुराने झीरम घाटी नक्सली हमले में सभी दस आरोपियों को दोषी मान लिया है। सोलह सितंबर को कोर्ट सजा का ऐलान करेगा। इस भीषण हमले में कांग्रेस के वरिष्ठ नेताओं समेत उनहत्तर लोग मारे गए थे।",
-    "title": "झीरम घाटी हत्याकांड: एनआईए कोर्ट ने दस आरोपियों को माना दोषी",
-    "caption": "छत्तीसगढ़ के जगदलपुर की एनआईए कोर्ट ने तेरह साल पुराने झीरम घाटी नक्सली हमले के सभी दस आरोपियों को दोषी ठहराया है। सोलह सितंबर को सुनाई जाएगी सजा।",
-    "hashtags": [
-      "#JheeramGhati",
-      "#ChhattisgarhNews",
-      "#NIA",
-      "#CourtUpdate",
-      "#IndianNews"
-    ],
-    "visual_queries": [
-      "Indian court building exterior",
-      "NIA official India",
-      "Chhattisgarh court premises India"
+      "India police station exterior",
+      "Indian prison gate",
+      "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -195,298 +107,89 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/6101348/6101348-hd_720_1366_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian court room background",
-        "credit": "KATRIN  BOLOVTSOVA",
-        "source_duration_sec": 7,
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/21560334/pexels-photo-21560334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10473520/pexels-photo-10473520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian court building exterior",
-        "credit": "Anastasia Nagibina",
-        "duration_sec": 4.8
+        "query": "Indian prison cell bars",
+        "credit": "Ron Lach",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282261/pexels-photo-13282261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11105515/pexels-photo-11105515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "NIA official India",
-        "credit": "Devansh Bose",
-        "duration_sec": 4.8
+        "query": "Indian prison gate",
+        "credit": "YEŞ",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28010852/pexels-photo-28010852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Chhattisgarh court premises India",
-        "credit": "Namrata Singh",
-        "duration_sec": 4.8
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10475008/pexels-photo-10475008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "justice scale gavel close up",
-        "credit": "Sora Shimazaki",
-        "duration_sec": 4.8
+        "query": "prison bars interior lockup",
+        "credit": "Ron Lach",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282261/pexels-photo-13282261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4062266/pexels-photo-4062266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police officers marching",
-        "credit": "Devansh Bose",
-        "duration_sec": 4.8
+        "query": "police headquarters building exterior",
+        "credit": "Erik Mclean",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian forensic investigation scene",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 6,
+    "asset_count": 7,
     "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "झीरम घाटी हत्याकांड: 13 साल बाद NIA कोर्ट का बड़ा फैसला, 10 आरोपी दोषी करार ⚖️",
-        "caption": "तेरह साल बाद झीरम घाटी हत्याकांड में आया बड़ा फैसला!\n\nNIA की विशेष अदालत ने छत्तीसगढ़ के इस सबसे बड़े नक्सल हमले में सभी 10 आरोपियों को दोषी मान लिया है। 25 मई 2013 को हुए इस वीभत्स हमले में कांग्रेस के कई दिग्गज नेता मारे गए थे।\n\nपूरी कहानी देखें और समझें कि कोर्ट के इस फैसले के बाद अब आगे क्या होगा।\n\n#JheeramGhati #NIAcourt #ChhattisgarhNews #NaxalAttack #CrimeNews"
+        "title": "मरा समझकर किया अंतिम संस्कार, पंद्रह दिन बाद जेल से आया फोन",
+        "caption": "पंजाब के कपूरथला में हैरान करने वाला मामला आया सामने, जिस युवक को मरा समझकर किया अंतिम संस्कार, वह पंद्रह दिन बाद जेल में जिंदा मिला।\n\n#PunjabNews #Kapurthala #ShockingNews #IndiaNews #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "तेरह साल बाद झीरम घाटी हत्याकांड में आया बड़ा फैसला! 🚨\n\nNIA कोर्ट ने छत्तीसगढ़ के इस खूनी नक्सल हमले में सभी 10 आरोपियों को दोषी ठहराया है। 25 मई 2013 को हुए इस हमले ने पूरे देश को झकझोर कर रख दिया था।\n\nपूरी कहानी के लिए वीडियो पूरा देखें।\n\n#JheeramGhati #NIAcourt #ChhattisgarhNews #NaxalAttack #CrimeNews"
+        "caption": "पंजाब के कपूरथला में हैरान करने वाला मामला आया सामने, जिस युवक को मरा समझकर किया अंतिम संस्कार, वह पंद्रह दिन बाद जेल में जिंदा मिला।\n\n#PunjabNews #Kapurthala #ShockingNews #IndiaNews #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "तेरह साल बाद झीरम घाटी हत्याकांड में आया बड़ा फैसला! ⚖️\n\nछत्तीसगढ़ के बस्तर में 25 मई 2013 को हुए उस खौफनाक नक्सल हमले को कौन भूल सकता है जिसमें कांग्रेस नेताओं का पूरा काफिला खत्म कर दिया गया था। अब NIA कोर्ट ने इस मामले में सभी 10 आरोपियों को दोषी करार दिया है। जानिए किस पर क्या था आरोप और कब होगी सजा का ऐलान।\n\nपूरी कहानी वीडियो में देखें।\n\n#JheeramGhati #NIAcourt #ChhattisgarhNews #NaxalAttack #CrimeNews"
+        "caption": "पंजाब के कपूरथला में हैरान करने वाला मामला आया सामने, जिस युवक को मरा समझकर किया अंतिम संस्कार, वह पंद्रह दिन बाद जेल में जिंदा मिला।\n\n#PunjabNews #Kapurthala #ShockingNews #IndiaNews #CrimeNews"
       },
       "hashtags": [
-        "JheeramGhati",
-        "NIAcourt",
-        "ChhattisgarhNews",
-        "NaxalAttack",
+        "PunjabNews",
+        "Kapurthala",
+        "ShockingNews",
+        "IndiaNews",
         "CrimeNews"
       ]
     },
-    "audio_path": "audio/jhiram_valley_naxal_attack_conviction.wav",
-    "audio_duration_sec": 17.91,
-    "video_path": "videos/jhiram_valley_naxal_attack_conviction.mp4",
-    "video_duration_sec": 25.92
-  },
-  {
-    "topic_label": "delhi_dwarka_student_electrocution_death",
-    "virality_score": 8,
-    "reason": "Tragic electrocution death of a school student amid waterlogging in Delhi sparks outrage.",
-    "region": "india",
-    "headline": "&#039;मैं बुआ के घर दाल-चावल खाने...&#039;, रास्ते में करंट लगने से छात्र की मौत",
-    "source_summary": "दिल्ली के द्वारका में बारिश के दौरान जलभराव के बीच 14 वर्षीय छात्र कौशल की करंट लगने से मौत हो गई. बाइक से बचने के लिए उसने बिजली के खंभे के पास लगे लोहे के पाइप को पकड़ लिया था. परिवार का आरोप है कि जलभराव और बिजली विभाग की लापरवाही ने उनके इकलौते बेटे की जान ले ली. वहीं, कांग्रेस नेता ने FIR की मांग की है.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-dwarka-14-year-old-student-dies-electrocution-rain-electric-pole-waterlogging-lclcn-strc-2637101-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T17:00:44+05:30",
-    "hook": "दैनिक जीवन की लापरवाही ने छीन ली एक मासूम की जान!",
-    "script_hi": "दिल्ली के द्वारका में बारिश और जलभराव के बीच चौदह वर्षीय छात्र कौशल की करंट लगने से दर्दनाक मौत हो गई। वह अपनी बुआ के घर दाल चावल खाने जा रहा था। रास्ते में बाइक से बचने के लिए उसने बिजली के खंभे के पास लगे लोहे के पाइप को पकड़ लिया था। परिवार ने बिजली विभाग की लापरवाही का आरोप लगाया है। कांग्रेस नेता ने मामले में एफआईआर दर्ज करने की मांग की है।",
-    "tts_text_hi": "दिल्ली के द्वारका में बारिश और जलभराव के बीच चौदह वर्षीय छात्र कौशल की करंट लगने से दर्दनाक मौत हो गई। वह अपनी बुआ के घर दाल चावल खाने जा रहा था। रास्ते में बाइक से बचने के लिए उसने बिजली के खंभे के पास लगे लोहे के पाइप को पकड़ लिया था। परिवार ने बिजली विभाग की लापरवाही का आरोप लगाया है। कांग्रेस नेता ने मामले में एफआईआर दर्ज करने की मांग की है।",
-    "title": "दिल्ली के द्वारका में करंट लगने से छात्र की मौत",
-    "caption": "दिल्ली के द्वारका में बारिश के दौरान जलभराव के बीच चौदह वर्षीय छात्र कौशल की करंट लगने से दर्दनाक मौत हो गई। परिवार ने बिजली विभाग पर लापरवाही का आरोप लगाया है।",
-    "hashtags": [
-      "#DelhiNews",
-      "#Dwarka",
-      "#BreakingNews",
-      "#DelhiRains",
-      "#ElectricityDepartment",
-      "#StudentDeath"
-    ],
-    "visual_queries": [
-      "India flooded street",
-      "Delhi residential street India",
-      "electric pole wire India",
-      "grief stricken family India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38521937/pexels-photo-38521937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban waterlogging street india",
-        "credit": "Trishik Bose",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16337298/pexels-photo-16337298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi residential street India",
-        "credit": "Stanzin Dadul",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24525201/pexels-photo-24525201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "electric pole wire India",
-        "credit": "Nishant Aneja",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11125104/pexels-photo-11125104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "grief stricken family India",
-        "credit": "PRIYA MISHRA",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दाल-चावल खाने निकले छात्र की करंट लगने से मौत ⚡ द्वारका हादसा",
-        "caption": "दैनिक जीवन की लापरवाही ने छीन ली एक मासूम की जान! ⚡\n\nदिल्ली के द्वारका में बुआ के घर जा रहा एक छात्र रास्ते में खुले बिजली के तार की चपेट में आ गया। मौके पर ही उसकी दर्दनाक मौत हो गई। \n\nऐसी लापरवाही पर आपकी क्या राय है? पूरी कहानी देखें।\n\n#delhincr #dwarkadelhineuws #currentshock #delhiexclusive #breakingnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दैनिक जीवन की लापरवाही ने छीन ली एक मासूम की जान! ⚡\n\nदिल्ली के द्वारका में बुआ के घर दाल-चावल खाने जा रहे छात्र की रास्ते में खुले तार से करंट लगने से मौत हो गई। \n\nक्या खुला करंट जानलेवा लापरवाही नहीं है? अपनों के साथ शेयर करें।\n\n#delhincr #dwarkadelhineuws #currentshock #delhiexclusive #breakingnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दैनिक जीवन की लापरवाही ने छीन ली एक मासूम की जान! ⚡\n\nदिल्ली के द्वारका इलाके से एक झकझोर देने वाला मामला सामने आया है। एक छात्र अपनी बुआ के घर दाल-चावल खाने के लिए निकला था, लेकिन रास्ते में ओपन वायर की चपेट में आने से उसकी दर्दनाक मौत हो गई।\n\nप्रशासन और विभागों की ऐसी अनदेखी पर आपकी क्या राय है? कमेंट में बताएं।\n\n#delhincr #dwarkadelhineuws #currentshock #delhiexclusive #breakingnews"
-      },
-      "hashtags": [
-        "delhincr",
-        "dwarkadelhineuws",
-        "currentshock",
-        "delhiexclusive",
-        "breakingnews"
-      ]
-    },
-    "audio_path": "audio/delhi_dwarka_student_electrocution_death.wav",
-    "audio_duration_sec": 21.95,
-    "video_path": "videos/delhi_dwarka_student_electrocution_death.mp4",
-    "video_duration_sec": 29.89
-  },
-  {
-    "topic_label": "kerala_car_lorry_accident_students_death",
-    "virality_score": 8,
-    "reason": "Devastating accident in Kerala claiming the lives of eight engineering students.",
-    "region": "india",
-    "headline": "केरल में खड़े ट्रक से जा टकराई कार, 8 इंजीनियरिंग छात्रों की मौके पर मौत; कैसे हुआ दर्दनाक हादसा?",
-    "source_summary": "Kerala Accident: केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे ने आठ परिवारों को उजाड़ दिया। तमिलनाडु के इंजीनियरिंग कॉलेज के आठ छात्रों की उस वक्त मौत हो गई, जब उनकी कार हाईवे पर खड़े एक लॉरी के",
-    "source_url": "https://hindi.oneindia.com/news/india/kerala-thrissur-road-accident-8-tamil-nadu-engineering-students-killed-1642623.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Sat, 05 Sep 2026 09:43:33 +0530",
-    "hook": "केरल में एक दर्दनाक सड़क हादसे में आठ छात्रों की मौत!",
-    "script_hi": "केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौत हो गई। छात्रों की कार हाईवे पर खड़े एक ट्रक से जा टकराई। तमिलनाडु के कॉलेज से लौट रहे इन छात्रों की मौके पर ही जान चली गई, जिससे पूरे इलाके में शोक की लहर है।",
-    "tts_text_hi": "केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौत हो गई। छात्रों की कार हाईवे पर खड़े एक ट्रक से जा टकराई। तमिलनाडु के कॉलेज से लौट रहे इन छात्रों की मौके पर ही जान चली गई, जिससे पूरे इलाके में शोक की लहर है.",
-    "title": "केरल सड़क हादसा: खड़े ट्रक से टकराई कार, आठ इंजीनियरिंग छात्रों की मौत",
-    "caption": "केरल के त्रिशूर में हुए दर्दनाक सड़क हादसे में तमिलनाडु के आठ इंजीनियरिंग छात्रों की मौत हो गई। हाईवे पर खड़े ट्रक से कार टकराने से यह हादसा हुआ।",
-    "hashtags": [
-      "#KeralaAccident",
-      "#Trissur",
-      "#RoadAccident",
-      "#BreakingNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "India highway night road",
-      "damaged car accident India",
-      "police investigation India road"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India highway night road",
-        "credit": "Sourabh Narwade",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12502058/pexels-photo-12502058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "damaged car accident India",
-        "credit": "Vladyslav Huivyk",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation India road",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32465966/pexels-photo-32465966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fatal car accident night",
-        "credit": "Serkan Sağlam",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20882743/pexels-photo-20882743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "highway truck parked road",
-        "credit": "Shuaizhi Tian",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police tape crime scene",
-        "credit": "Srujan J.",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night highway traffic India",
-        "credit": "Sourabh Narwade",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "केरल में दर्दनाक हादसा: खड़े ट्रक से टकराई कार, 8 इंजीनियरिंग छात्रों की मौत 🚨",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑 केरल में तेज रफ्तार कार सड़क किनारे खड़े ट्रक में जा घुसी, जिससे 8 इंजीनियरिंग छात्रों की मौके पर ही दर्दनाक मौत हो गई। पूरी कहानी देखें और सतर्क रहें।\n\n#KeralaAccident #RoadSafety #BreakingNews #KeralaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑 केरल में खड़े ट्रक से जा टकराई कार, 8 इंजीनियरिंग छात्रों की मौत।\n\n#KeralaAccident #RoadSafety #BreakingNews #KeralaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🛑\n\nकेरल से दिल दहला देने वाली खबर सामने आई है। एक तेज रफ्तार कार सड़क किनारे खड़े ट्रक से जा टकराई, जिसमें 8 इंजीनियरिंग छात्रों की मौके पर ही मौत हो गई। हादसा इतना भयानक था कि कार के परखच्चे उड़ गए।\n\nपूरी कहानी देखें।\n\n#KeralaAccident #RoadSafety #BreakingNews #KeralaNews"
-      },
-      "hashtags": [
-        "KeralaAccident",
-        "RoadSafety",
-        "BreakingNews",
-        "KeralaNews"
-      ]
-    },
-    "audio_path": "audio/kerala_car_lorry_accident_students_death.wav",
-    "audio_duration_sec": 19.28,
-    "video_path": "videos/kerala_car_lorry_accident_students_death.mp4",
-    "video_duration_sec": 27.34
+    "audio_path": "audio/kapurthala_cremated_man_found_alive_in_jail.wav",
+    "audio_duration_sec": 24.28,
+    "video_path": "videos/kapurthala_cremated_man_found_alive_in_jail.mp4",
+    "video_duration_sec": 32.29
   }
 ]

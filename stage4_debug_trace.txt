@@ -1,7 +1,4 @@
-ready_labels: ['delhi_dwarka_student_electrocution_death', 'jhiram_valley_naxal_attack_conviction', 'kangana_ranaut_mandi_disha_meeting_anger', 'kerala_car_lorry_accident_students_death']
+ready_labels: ['kapurthala_cremated_man_found_alive_in_jail']
 
-saharanpur_mosque_demolition_iqra_hasan: SKIPPED (not in ready set)
-kangana_ranaut_mandi_disha_meeting_anger: SUCCESS -> video_path=videos/kangana_ranaut_mandi_disha_meeting_anger.mp4 dur=27.356553
-jhiram_valley_naxal_attack_conviction: SUCCESS -> video_path=videos/jhiram_valley_naxal_attack_conviction.mp4 dur=25.92322
-delhi_dwarka_student_electrocution_death: SUCCESS -> video_path=videos/delhi_dwarka_student_electrocution_death.mp4 dur=29.889887
-kerala_car_lorry_accident_students_death: SUCCESS -> video_path=videos/kerala_car_lorry_accident_students_death.mp4 dur=27.342222
+saharanpur_illegal_mosque_demolition: SKIPPED (not in ready set)
+kapurthala_cremated_man_found_alive_in_jail: SUCCESS -> video_path=videos/kapurthala_cremated_man_found_alive_in_jail.mp4 dur=32.289887
