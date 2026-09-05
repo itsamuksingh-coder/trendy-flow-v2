@@ -1,9 +1,6 @@
-ready_labels: ['delhi_patna_lucknow_bullet_train_corridor', 'hyderabad_drunk_driver_crashes_eight_bikes', 'janmashtami_2026_celebrations_nationwide', 'mirzapur_the_movie_release_intimate_scenes', 'poco_x8_power_10000mah_battery_launch', 'un_adopts_new_world_map_africa_size_global']
+ready_labels: ['india_s400_additional_purchase_russia', 'trump_federal_reserve_interest_rates_threat']
 
-poco_x8_power_10000mah_battery_launch: SUCCESS -> video_path=videos/poco_x8_power_10000mah_battery_launch.mp4 dur=37.280227
-man_parks_suv_on_roof_crawling_viral: SKIPPED (not in ready set)
-janmashtami_2026_celebrations_nationwide: SUCCESS -> video_path=videos/janmashtami_2026_celebrations_nationwide.mp4 dur=38.189887
-mirzapur_the_movie_release_intimate_scenes: SUCCESS -> video_path=videos/mirzapur_the_movie_release_intimate_scenes.mp4 dur=28.015215
-delhi_patna_lucknow_bullet_train_corridor: SUCCESS -> video_path=videos/delhi_patna_lucknow_bullet_train_corridor.mp4 dur=31.356553
-un_adopts_new_world_map_africa_size_global: SUCCESS -> video_path=videos/un_adopts_new_world_map_africa_size_global.mp4 dur=22.456553
-hyderabad_drunk_driver_crashes_eight_bikes: SUCCESS -> video_path=videos/hyderabad_drunk_driver_crashes_eight_bikes.mp4 dur=29.640227
+india_s400_additional_purchase_russia: SUCCESS -> video_path=videos/india_s400_additional_purchase_russia.mp4 dur=27.189887
+stray_dog_saves_woman_coimbatore: SKIPPED (not in ready set)
+scorpio_car_crane_lifted_rooftop_parking_ug: SKIPPED (not in ready set)
+trump_federal_reserve_interest_rates_threat: SUCCESS -> video_path=videos/trump_federal_reserve_interest_rates_threat.mp4 dur=20.004218
