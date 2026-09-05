@@ -1,7 +1,10 @@
-ready_labels: ['akola_bank_cleaner_gold_theft', 'gloria_steinem_feminist_icon_dies', 'naldurg_fort_woman_children_suicide', 'nepal_tunnel_miracle_rescue_9_days', 'punjabi_singer_baljeet_singh_dead_body']
+ready_labels: ['air_india_phuket_flight_pilot_fired', 'fbi_wanted_fugitive_manjit_bedi_arrested_punjab', 'janmashtami_2026_celebrations', 'nikita_porwal_miss_world_2026', 'pica_disorder_metal_objects_surgery', 'un_world_map_africa_size_resolution', 'yamuna_river_para_commandos_tragedy']
 
-nepal_tunnel_miracle_rescue_9_days: SUCCESS -> video_path=videos/nepal_tunnel_miracle_rescue_9_days.mp4 dur=31.02322
-naldurg_fort_woman_children_suicide: SUCCESS -> video_path=videos/naldurg_fort_woman_children_suicide.mp4 dur=31.789887
-punjabi_singer_baljeet_singh_dead_body: SUCCESS -> video_path=videos/punjabi_singer_baljeet_singh_dead_body.mp4 dur=34.456553
-akola_bank_cleaner_gold_theft: SUCCESS -> video_path=videos/akola_bank_cleaner_gold_theft.mp4 dur=26.956553
-gloria_steinem_feminist_icon_dies: SUCCESS -> video_path=videos/gloria_steinem_feminist_icon_dies.mp4 dur=27.22322
+delhi_heavy_rain_waterlogging_airport: SKIPPED (not in ready set)
+pica_disorder_metal_objects_surgery: SUCCESS -> video_path=videos/pica_disorder_metal_objects_surgery.mp4 dur=31.800227
+janmashtami_2026_celebrations: SUCCESS -> video_path=videos/janmashtami_2026_celebrations.mp4 dur=26.056553
+nikita_porwal_miss_world_2026: SUCCESS -> video_path=videos/nikita_porwal_miss_world_2026.mp4 dur=21.722222
+yamuna_river_para_commandos_tragedy: SUCCESS -> video_path=videos/yamuna_river_para_commandos_tragedy.mp4 dur=33.756553
+air_india_phuket_flight_pilot_fired: SUCCESS -> video_path=videos/air_india_phuket_flight_pilot_fired.mp4 dur=23.42322
+fbi_wanted_fugitive_manjit_bedi_arrested_punjab: SUCCESS -> video_path=videos/fbi_wanted_fugitive_manjit_bedi_arrested_punjab.mp4 dur=24.02322
+un_world_map_africa_size_resolution: SUCCESS -> video_path=videos/un_world_map_africa_size_resolution.mp4 dur=22.95322
