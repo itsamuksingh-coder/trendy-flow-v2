@@ -1,9 +1,9 @@
-ready_labels: ['air_india_phuket_pilot_fired_drugs', 'kerala_thrissur_car_lorry_accident_students', 'tim_cook_new_role_apple_chairman', 'un_adopts_new_world_map_africa_size']
+ready_labels: ['delhi_patna_lucknow_bullet_train_corridor_announced', 'fbi_most_wanted_manjit_bedi_arrested_jalandhar', 'openai_rogue_ai_agents_hijack_website_report', 'un_approves_new_world_map_africa_size_increase', 'us_envoy_sergio_gor_pm_modi_trump_first_choice']
 
-tim_cook_new_role_apple_chairman: SUCCESS -> video_path=videos/tim_cook_new_role_apple_chairman.mp4 dur=24.207211
-air_india_phuket_pilot_fired_drugs: SUCCESS -> video_path=videos/air_india_phuket_pilot_fired_drugs.mp4 dur=21.056553
-hyderabad_zomato_delivery_boy_fake_currency: SKIPPED (not in ready set)
-highway_lorry_car_collision_8_deaths: SKIPPED (not in ready set)
-kerala_thrissur_car_lorry_accident_students: SUCCESS -> video_path=videos/kerala_thrissur_car_lorry_accident_students.mp4 dur=26.689887
-khatu_shyam_vip_darshan_scam_arrest: SKIPPED (not in ready set)
-un_adopts_new_world_map_africa_size: SUCCESS -> video_path=videos/un_adopts_new_world_map_africa_size.mp4 dur=23.656553
+Saharanpur_collectorate_mosque_demolition_iqra_hassan_house_arrest: SKIPPED (not in ready set)
+delhi_patna_lucknow_bullet_train_corridor_announced: SUCCESS -> video_path=videos/delhi_patna_lucknow_bullet_train_corridor_announced.mp4 dur=32.356553
+un_approves_new_world_map_africa_size_increase: SUCCESS -> video_path=videos/un_approves_new_world_map_africa_size_increase.mp4 dur=23.989887
+openai_rogue_ai_agents_hijack_website_report: SUCCESS -> video_path=videos/openai_rogue_ai_agents_hijack_website_report.mp4 dur=38.12322
+us_envoy_sergio_gor_pm_modi_trump_first_choice: SUCCESS -> video_path=videos/us_envoy_sergio_gor_pm_modi_trump_first_choice.mp4 dur=37.930227
+kerala_thrissur_car_lorry_collision_students_dead: SKIPPED (not in ready set)
+fbi_most_wanted_manjit_bedi_arrested_jalandhar: SUCCESS -> video_path=videos/fbi_most_wanted_manjit_bedi_arrested_jalandhar.mp4 dur=21.12322
