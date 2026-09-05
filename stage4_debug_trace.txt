@@ -1,6 +1,10 @@
-ready_labels: ['india_s400_additional_purchase_russia', 'trump_federal_reserve_interest_rates_threat']
+ready_labels: ['indus_river_ladakh_rock_check_dam', 'iran_kharg_island_missile_strike_us', 'jammu_kashmir_usmarg_encounter_lashkar_commander', 'kerala_90_percent_disabled_student_iit_madras', 'madhya_pradesh_bittu_toba_ajnari_river_cleaning', 'prayagraj_woman_pica_disorder_needles_glass', 'whatsapp_bill_payment_service_launch']
 
-india_s400_additional_purchase_russia: SUCCESS -> video_path=videos/india_s400_additional_purchase_russia.mp4 dur=27.189887
-stray_dog_saves_woman_coimbatore: SKIPPED (not in ready set)
-scorpio_car_crane_lifted_rooftop_parking_ug: SKIPPED (not in ready set)
-trump_federal_reserve_interest_rates_threat: SUCCESS -> video_path=videos/trump_federal_reserve_interest_rates_threat.mp4 dur=20.004218
+whatsapp_bill_payment_service_launch: SUCCESS -> video_path=videos/whatsapp_bill_payment_service_launch.mp4 dur=19.679229
+indus_river_ladakh_rock_check_dam: SUCCESS -> video_path=videos/indus_river_ladakh_rock_check_dam.mp4 dur=23.289887
+saharanpur_mosque_demolition_iqra_hasan_house_arrest: SKIPPED (not in ready set)
+iran_kharg_island_missile_strike_us: SUCCESS -> video_path=videos/iran_kharg_island_missile_strike_us.mp4 dur=32.556553
+kerala_90_percent_disabled_student_iit_madras: SUCCESS -> video_path=videos/kerala_90_percent_disabled_student_iit_madras.mp4 dur=31.684218
+jammu_kashmir_usmarg_encounter_lashkar_commander: SUCCESS -> video_path=videos/jammu_kashmir_usmarg_encounter_lashkar_commander.mp4 dur=25.856213
+madhya_pradesh_bittu_toba_ajnari_river_cleaning: SUCCESS -> video_path=videos/madhya_pradesh_bittu_toba_ajnari_river_cleaning.mp4 dur=32.845215
+prayagraj_woman_pica_disorder_needles_glass: SUCCESS -> video_path=videos/prayagraj_woman_pica_disorder_needles_glass.mp4 dur=30.42322
