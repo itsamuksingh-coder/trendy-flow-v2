@@ -1,271 +1,92 @@
 [
   {
-    "topic_label": "delhi_heavy_rain_waterlogging_airport",
-    "virality_score": 9,
-    "reason": "Severe rainfall and heavy waterlogging crippled parts of Delhi, including major disruptions and flight diversions at IGI Airport.",
-    "region": "india",
-    "headline": "एक घंटे की बारिश में ही डूबी दिल्ली! एयरपोर्ट पर भरा पानी, सड़कों पर वाटरफॉल",
-    "source_summary": "शुक्रवार को दिल्ली-NCR में जोरदार बारिश और आंधी-तूफान आया. इससे IGI एयरपोर्ट पर जलभराव हो गया. मौसम की वजह से कई फ्लाइट्स डॉयवर्ट कर दी गईं. दोपहर 3:30 बजे से 4:30 बजे के बीच नौ उड़ानों का रूट बदलना पड़ा. IMD ने शनिवार को और बारिश और आंधी-तूफान का अलर्ट जारी किया है.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/rain-lashes-delhi-ncr-airport-roads-waterlogged-thunderstorms-darken-skies-imd-issues-red-alert-ntc-aktw-dskc-2636463-2026-09-04?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-04T17:38:06+05:30",
-    "hook": "एक घंटे की बारिश में पानी-पानी हुई दिल्ली!",
-    "script_hi": "शुक्रवार को दिल्ली-एनसीआर में जोरदार बारिश और आंधी-तूफान ने तबाही मचा दी। इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे पर जलभराव हो गया। दोपहर साढ़े तीन बजे से साढ़े चार बजे के बीच नौ उड़ानों का रूट बदलना पड़ा। मौसम विभाग ने शनिवार के लिए भी बारिश और आंधी का अलर्ट जारी किया है।",
-    "tts_text_hi": "शुक्रवार को दिल्ली-एनसीआर में जोरदार बारिश और आंधी-तूफान ने तबाही मचा दी। इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे पर जलभराव हो गया। दोपहर साढ़े तीन बजे से साढ़े चार बजे के बीच नौ उड़ानों का रूट बदलना पड़ा। मौसम विभाग ने शनिवार के लिए भी बारिश और आंधी का अलर्ट जारी किया है।",
-    "title": "दिल्ली में भारी बारिश से जलभराव और उड़ानों पर असर",
-    "caption": "शुक्रवार को दिल्ली-एनसीआर में भारी बारिश के कारण आईजीआई एयरपोर्ट पर जलभराव हो गया और कई उड़ानों का मार्ग बदलना पड़ा।",
-    "hashtags": [
-      "DelhiRain",
-      "DelhiWeather",
-      "IGIAirport",
-      "WeatherUpdate",
-      "Monsoon"
-    ],
-    "visual_queries": [
-      "heavy rain Delhi India",
-      "flooded airport India",
-      "waterlogged street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39081937/pexels-photo-39081937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "heavy rain Delhi India",
-        "credit": "Arun Kumar Sharma",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban heavy rain India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pica_disorder_metal_objects_surgery",
-    "virality_score": 9,
-    "reason": "Doctors in Prayagraj successfully extracted needles and sharp metallic objects from a patient suffering from rare Pica disorder.",
-    "region": "india",
-    "headline": "सुई, हेयर पिन और कांच खाने लगी महिला, डॉक्टरों ने ऐसे बचाई जान",
-    "source_summary": "प्रयागराज में Pica बीमारी से पीड़ित महिला के पेट से डॉक्टरों ने छह सुइयों समेत कई नुकीली चीजें निकालकर उसकी जान बचाई. सुइयों ने आंत में कई जगह छेद कर दिए थे और दो सुइयां आंत को पार कर दाहिने गुर्दे तक पहुंच गई थीं. करीब ढाई घंटे की जटिल सर्जरी में सी-आर्म तकनीक से इन्हें निकाला गया.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/prayagraj-pica-disease-woman-six-needles-stomach-intestinal-perforation-surgery-lclcn-strc-2636577-2026-09-04?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-04T21:38:13+05:30",
-    "hook": "प्रयागराज में एक महिला के पेट से निकली सुइयां और कांच के टुकड़े!",
-    "script_hi": "प्रयागराज में एक अनोखा मामला सामने आया है जहाँ पिका बीमारी से पीड़ित महिला सुई, हेयर पिन और कांच खाने लगी थी. डॉक्टरों ने करीब ढाई घंटे चली जटिल सर्जरी में महिला के पेट से छह सुइयां और अन्य नुकीली चीजें निकालकर उसकी जान बचाई. इन नुकीली चीजों ने आंत में छेद कर दिए थे और दो सुइयां गुर्दे तक पहुँच गई थीं.",
-    "tts_text_hi": "प्रयागराज में एक अनोखा मामला सामने आया है जहाँ पिका बीमारी से पीड़ित महिला सुई, हेयर पिन और कांच खाने लगी थी. डॉक्टरों ने करीब ढाई घंटे चली जटिल सर्जरी में महिला के पेट से छह सुइयां और अन्य नुकीली चीजें निकालकर उसकी जान बचाई. इन नुकीली चीजों ने आंत में छेद कर दिए थे और दो सुइयां गुर्दे तक पहुँच गई थीं.",
-    "title": "प्रयागराज: पेट से निकाली सुई और कांच",
-    "caption": "प्रयागराज में पिका बीमारी से पीड़ित महिला के पेट से डॉक्टरों ने छह सुइयों समेत कई नुकीली चीजें निकालकर बचाई जान।",
-    "hashtags": [
-      "PrayagrajNews",
-      "MedicalMiracle",
-      "PicaDisorder",
-      "DoctorSuccess",
-      "UPNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Prayagraj city India street",
-      "Indian hospital surgery room",
-      "medical X ray machine India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4053538/pexels-photo-4053538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Prayagraj city India street",
-        "credit": "Kishore Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24193881/pexels-photo-24193881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian hospital surgery room",
-        "credit": "Stéf -b.",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6501863/pexels-photo-6501863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical X ray machine India",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24193881/pexels-photo-24193881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical surgery operating room",
-        "credit": "Stéf -b.",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11007013/pexels-photo-11007013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "patient in hospital bed India",
-        "credit": "Yash Gaikwad",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5722159/pexels-photo-5722159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "doctor holding medical X-ray",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28727572/pexels-photo-28727572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "surgical instruments on tray",
-        "credit": "Jonathan Borba",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "प्रयागराज: पेट से निकाली सुई और कांच 😲",
-        "caption": "डॉक्टरों ने जब महिला का एक्स-रे देखा, तो उनके पैरों तले जमीन खिसक गई। 🩻\n\nप्रयागराज में एक अजीब मामला सामने आया है जहां पेट दर्द की शिकायत लेकर आई महिला के अंदर से सुइयां और कांच के टुकड़े निकले। ऑपरेशन कर उसकी जान बचा ली गई है। \n\nपूरी कहानी वीडियो में देखें।\n\n#PrayagrajNews #MedicalShock #UPEdition #HindiNews #DoctorStory"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "डॉक्टरों ने जब महिला का एक्स-रे देखा, तो उनके पैरों तले जमीन खिसक गई। 🩻 प्रयागराज में एक महिला के पेट से सुइयां और कांच के टुकड़े निकले हैं। \n\nपेट दर्द की शिकायत पर जब जांच हुई तो डॉक्टरों के भी होश उड़ गए। आखिर ये सब पेट में पहुंचा कैसे? पूरी कहानी देखें। 👇\n\n#PrayagrajNews #MedicalShock #UPEdition #HindiNews #DoctorStory"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "प्रयागराज में एक ऐसा हैरान करने वाला मामला सामने आया है जिसे सुनकर किसी का भी दिल दहल जाए। पेट दर्द से परेशान महिला जब अस्पताल पहुंची और डॉक्टरों ने एक्स-रे किया, तो उनके होश उड़ गए। 🩻\n\nमहिला के पेट के अंदर से सुइयां, हेयर पिन और कांच के टुकड़े बरामद हुए। डॉक्टरों की सूझबूझ से सफल ऑपरेशन कर उसकी जान बचा ली गई है। 🩺\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PrayagrajNews #MedicalShock #UPEdition #HindiNews #DoctorStory"
-      },
-      "hashtags": [
-        "PrayagrajNews",
-        "MedicalShock",
-        "UPEdition",
-        "HindiNews",
-        "DoctorStory"
-      ]
-    },
-    "audio_path": "audio/pica_disorder_metal_objects_surgery.wav",
-    "audio_duration_sec": 23.74,
-    "video_path": "videos/pica_disorder_metal_objects_surgery.mp4",
-    "video_duration_sec": 31.8
-  },
-  {
-    "topic_label": "janmashtami_2026_celebrations",
+    "topic_label": "tim_cook_new_role_apple_chairman",
     "virality_score": 8,
-    "reason": "Massive nationwide celebrations and devout fervor marked the auspicious festival of Shri Krishna Janmashtami.",
+    "reason": "Tim Cook stepping down as Apple CEO after 15 years to become executive chairman is massive global tech news.",
     "region": "india",
-    "headline": "प्रकट भए नंदलाल... देशभर में जन्माष्टमी की धूम, मंदिरों में भक्तों का सैलाब",
-    "source_summary": "जन्माष्टमी के पावन अवसर पर श्रद्धालुओं के चेहरे और हृदय में अलग ही आनंद देखने को मिला. कान्हा के जयकारों से अलग-अलग शहरों में मंदिर परिसर गूंज उठा. भगवान श्रीकृष्ण और राधारानी के दर्शन के लिए श्रद्धालुओं की लंबी कतारें दिखीं.",
-    "source_url": "https://www.aajtak.in/india/news/story/shri-krishna-janmashtami-updates-mathura-delhi-nagpur-ujjain-iskcon-temple-ntc-rmxk-dskc-2636612-2026-09-05?utm_source=rssfeed",
+    "headline": "Apple में टिम कुक संभालेंगे नई जिम्मेदारी, इतने करोड़ है सैलरी",
+    "source_summary": "Apple कंपनी में 15 साल का सबसे बड़ा बदलाव हुआ है. 15 साल से सीईओ का पद संभाल रहे टिम कुक ने ये पद जॉन टेर्नेस को दे दिया है. टिम कुक अब कंपनी के एग्जीक्यूटिव चेयरमैन का पद संभालेंगे. पोस्ट बदलने के बाद उनकी सैलरी में भी बदलाव हुआ है. आइए जानते हैं कि उनकी नई सैलरी क्या है.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/tim-cook-47-million-compensation-apple-executive-chairman-john-ternus-salary-ttecr-dskc-2636637-2026-09-05?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-05T00:03:48+05:30",
-    "hook": "प्रकट भए नंदलाल! देशभर में गूंजा हाथी घोड़ा पालकी, जय कन्हैया लाल की!",
-    "script_hi": "प्रकट भए नंदलाल! देशभर में जन्माष्टमी की धूम मची है. मंदिरों में भक्तों का भारी सैलाब उमड़ पड़ा है. कान्हा के जयकारों से भारत के मंदिर परिसर गूंज उठे हैं. भगवान श्रीकृष्ण और राधारानी के दर्शन के लिए श्रद्धालुओं की लंबी कतारें लगी हैं.",
-    "tts_text_hi": "प्रकट भए नंदलाल! देशभर में जन्माष्टमी की धूम मची है. मंदिरों में भक्तों का भारी सैलाब उमड़ पड़ा है. कान्हा के जयकारों से भारत के मंदिर परिसर गूंज उठे हैं. भगवान श्रीकृष्ण और राधारानी के दर्शन के लिए श्रद्धालुओं की लंबी कतारें लगी हैं.",
-    "title": "देशभर में जन्माष्टमी की धूम, मंदिरों में उमड़े भक्त",
-    "caption": "जन्माष्टमी के पावन अवसर पर देशभर के मंदिरों में गूंजे कान्हा के जयकारे, उमड़ी श्रद्धालुओं की भारी भीड़।",
+    "published": "2026-09-05T07:32:38+05:30",
+    "hook": "एप्पल में हुआ पंद्रह साल का सबसे बड़ा बदलाव!",
+    "script_hi": "एप्पल कंपनी में पंद्रह साल का सबसे बड़ा बदलाव हुआ है। टिम कुक ने सीईओ का पद जॉन टेर्नेस को सौंप दिया है। टिम कुक अब कंपनी के एग्जीक्यूटिव चेयरमैन का पद संभालेंगे। इस बदलाव के बाद उनकी सैलरी में भी बदलाव किया गया है।",
+    "tts_text_hi": "एप्पल कंपनी में पंद्रह साल का सबसे बड़ा बदलाव हुआ है। टिम कुक ने सीईओ का पद जॉन टेर्नेस को सौंप दिया है। टिम कुक अब कंपनी के एग्जीक्यूटिव चेयरमैन का पद संभालेंगे। इस बदलाव के बाद उनकी सैलरी में भी बदलाव किया गया है।",
+    "title": "Apple में टिम कुक संभालेंगे नई जिम्मेदारी",
+    "caption": "एप्पल में पंद्रह साल बाद हुआ सबसे बड़ा बदलाव, टिम कुक बने एग्जीक्यूटिव चेयरमैन और जॉन टेर्नेस संभालेगी सीईओ की कमान।",
     "hashtags": [
-      "Janmashtami",
-      "Krishna",
-      "India",
-      "Festival",
-      "Temple",
-      "Devotion",
-      "News"
+      "Apple",
+      "TimCook",
+      "TechNews",
+      "BusinessNews",
+      "AppleCEO",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Hindu temple India",
-      "devotees praying India",
-      "Lord Krishna idol India"
+      "Apple corporate office India",
+      "technology executive meeting India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Tim Cook",
+    "named_person_hi": "टिम कुक",
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 27,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
+      {
+        "type": "text_card",
+        "text": "टिम कुक",
+        "source": "fallback",
+        "query": "Tim Cook",
+        "duration_sec": 4.0
+      },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/36693327/15554409_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/5083544/5083544-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "festival crowd India",
-        "credit": "Abhishek  Shekhawat",
-        "source_duration_sec": 18,
+        "query": "Apple corporate office India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Hindu temple India",
-        "credit": "Nalam Team",
+        "query": "technology executive meeting India",
+        "credit": "Fahad Puthawala",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34484949/pexels-photo-34484949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "devotees praying India",
-        "credit": "AJAY KUMAR",
+        "query": "corporate office meeting India",
+        "credit": "Fahad Puthawala",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4595294/pexels-photo-4595294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5717548/pexels-photo-5717548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Lord Krishna idol India",
-        "credit": "Shiva Kumar",
+        "query": "business executive working office",
+        "credit": "Tima Miroshnichenko",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15856553/pexels-photo-15856553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27396194/pexels-photo-27396194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crowd festival India",
-        "credit": "Chalta Phirta",
+        "query": "modern technology workspace",
+        "credit": "Amar  Preciado",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/24862767/pexels-photo-24862767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8424451/pexels-photo-8424451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "festive celebration India",
-        "credit": "Manisha H",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38770759/pexels-photo-38770759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people celebrating festival",
-        "credit": "Sharath G.",
+        "query": "corporate meeting presentation",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 4.0
       }
     ],
@@ -274,248 +95,245 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "देशभर में जन्माष्टमी की धूम, मंदिरों में उमड़े भक्त",
-        "caption": "जन्माष्टमी के पावन अवसर पर देशभर के मंदिरों में गूंजे कान्हा के जयकारे, उमड़ी श्रद्धालुओं की भारी भीड़।\n\n#Janmashtami #Krishna #India #Festival #Temple"
+        "title": "एप्पल में 15 साल का सबसे बड़ा बदलाव! Tim Cook संभालेंगे नई भूमिका 🍎",
+        "caption": "एप्पल में हुआ पंद्रह साल का सबसे बड़ा बदलाव! \n\nटिम कुक अब कंपनी में एक नई और बड़ी जिम्मेदारी संभालने जा रहे हैं, जिसकी चर्चा पूरी टेक दुनिया में हो रही है। उनकी इस नई भूमिका और करोड़ों की सैलरी को लेकर क्या है इनसाइड स्टोरी?\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय हमें कमेंट में बताएं। 📱\n\n#Apple #TimCook #TechNews #AppleCEO #BusinessNews"
       },
       "instagram": {
         "title": null,
-        "caption": "जन्माष्टमी के पावन अवसर पर देशभर के मंदिरों में गूंजे कान्हा के जयकारे, उमड़ी श्रद्धालुओं की भारी भीड़।\n\n#Janmashtami #Krishna #India #Festival #Temple"
+        "caption": "एप्पल में हुआ पंद्रह साल का सबसे बड़ा बदलाव! \n\nटिम कुक संभालने जा रहे हैं नई जिम्मेदारी। आखिर इस बड़े बदलाव के पीछे की असली वजह क्या है और करोड़ों की सैलरी का पूरा सच क्या है? \n\nवीडियो को लाइक और शेयर जरूर करें! 💸\n\n#Apple #TimCook #TechNews #AppleCEO #BusinessNews"
       },
       "facebook": {
         "title": null,
-        "caption": "जन्माष्टमी के पावन अवसर पर देशभर के मंदिरों में गूंजे कान्हा के जयकारे, उमड़ी श्रद्धालुओं की भारी भीड़।\n\n#Janmashtami #Krishna #India #Festival #Temple"
+        "caption": "एप्पल में हुआ पंद्रह साल का सबसे बड़ा बदलाव!\n\nटेक जगत की सबसे बड़ी कंपनी में टिम कुक अब एक नई जिम्मेदारी संभालने जा रहे हैं। हर साल मिलने वाली उनकी करोड़ों की सैलरी और इस अचानक हुए बदलाव के मायने क्या हैं, यह जानना हर किसी के लिए दिलचस्प है।\n\nवीडियो पूरा देखें और शेयर करें ताकि और लोग भी जान सकें। 📉\n\n#Apple #TimCook #TechNews #AppleCEO #BusinessNews"
       },
       "hashtags": [
-        "Janmashtami",
-        "Krishna",
-        "India",
-        "Festival",
-        "Temple"
+        "Apple",
+        "TimCook",
+        "TechNews",
+        "AppleCEO",
+        "BusinessNews"
       ]
     },
-    "audio_path": "audio/janmashtami_2026_celebrations.wav",
-    "audio_duration_sec": 18.09,
-    "video_path": "videos/janmashtami_2026_celebrations.mp4",
-    "video_duration_sec": 26.06
+    "audio_path": "audio/tim_cook_new_role_apple_chairman.wav",
+    "audio_duration_sec": 16.16,
+    "video_path": "videos/tim_cook_new_role_apple_chairman.mp4",
+    "video_duration_sec": 24.21
   },
   {
-    "topic_label": "nikita_porwal_miss_world_2026",
+    "topic_label": "air_india_phuket_pilot_fired_drugs",
     "virality_score": 8,
-    "reason": "Nikita Porwal is set to proudly represent India at the grand finale of the Miss World 2026 pageant.",
-    "region": "india",
-    "headline": "कौन हैं निकिता पोरवाल? मिस वर्ल्ड 2026 के फिनाले में भारत का करेंगी प्रतिनिधित्व, जानें कब और कहां देख सकेंगे लाइव",
-    "source_summary": "भारत की निकिता पोरवाल मिस वर्ल्ड 2026 के फिनाले में ताज के लिए मुकाबला करेंगी. जानें 5 सितंबर को किस समय और कहां देख सकेंगे इस भव्य प्रतियोगिता का लाइवस्ट्रीम.",
-    "source_url": "https://ndtv.in/television/who-is-nikita-porwal-representing-india-miss-world-2026-grand-finale-know-when-and-where-to-watch-date-time-details-12002352#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 04 Sep 2026 17:38:25 +0530",
-    "hook": "मिस वर्ल्ड की रेस में उतरीं भारत की बेटी!",
-    "script_hi": "भारत की निकिता पोरवाल मिस वर्ल्ड दो हज़ार छब्बीस के फिनाले में ताज के लिए मुकाबला करेंगी। पांच सितंबर को होने वाली इस भव्य प्रतियोगिता का लाइवस्ट्रीम कहां और कैसे देख सकेंगे, आइए जानते हैं।",
-    "tts_text_hi": "भारत की निकिता पोरवाल मिस वर्ल्ड दो हज़ार छब्बीस के फिनाले में ताज के लिए मुकाबला करेंगी। पांच सितंबर को होने वाली इस भव्य प्रतियोगिता का लाइवस्ट्रीम कहां और कैसे देख सकेंगे, आइए जानते हैं।",
-    "title": "कौन हैं निकिता पोरवाल? मिस वर्ल्ड 2026 में भारत का प्रतिनिधित्व",
-    "caption": "भारत की निकिता पोरवाल मिस वर्ल्ड दो हज़ार छब्बीस के फिनाले में देश का प्रतिनिधित्व करेंगी। पांच सितंबर को होने वाले इस मुकाबले की पूरी जानकारी।",
-    "hashtags": [
-      "NikitaPorwal",
-      "MissWorld2026",
-      "India",
-      "News",
-      "Trending"
-    ],
-    "visual_queries": [
-      "Indian woman smiling",
-      "beauty pageant stage India",
-      "Miss World crown India"
-    ],
-    "named_person": "Nikita Porwal",
-    "named_person_hi": "निकिता पोरवाल",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "निकिता पोरवाल",
-        "source": "fallback",
-        "query": "Nikita Porwal",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37145167/pexels-photo-37145167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian woman smiling",
-        "credit": "PATRICIA Barros",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17503286/pexels-photo-17503286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "beauty pageant stage India",
-        "credit": "PREM GS",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14868740/pexels-photo-14868740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Miss World crown India",
-        "credit": "Brian Jiz",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मिस वर्ल्ड 2026 में भारत का परचम लहराएंगी निकिता पोरवाल! कौन हैं ये?",
-        "caption": "मिस वर्ल्ड की रेस में उतरीं भारत की बेटी! 👑\n\nमध्य प्रदेश के छोटे से शहर से ताल्लुक रखने वाली निकिता पोरवाल अब ग्लोबल मंच पर देश का प्रतिनिधित्व करने जा रही हैं। जानिए उनका यहां तक पहुंचने का सफर और कब देख सकेंगे इसका लाइव फिनाले।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट में बताएं।\n\n#NikitaPorwal #MissWorld2026 #MissIndia #BreakingNews #InspiringWomen"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मिस वर्ल्ड की रेस में उतरीं भारत की बेटी! 👑\n\nनिकिता पोरवाल अब ग्लोबल स्टेज पर देश का नाम रोशन करने के लिए तैयार हैं। जानिए कौन हैं निकिता और कब होगा मिस वर्ल्ड 2026 का फाइनल मुकाबला।\n\nवीडियो पूरा देखें और शेयर करें!\n\n#NikitaPorwal #MissWorld2026 #MissIndia #BreakingNews #InspiringWomen"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मिस वर्ल्ड की रेस में उतरीं भारत की बेटी! 👑\n\nकौन हैं निकिता पोरवाल जो अब मिस वर्ल्ड 2026 के मंच पर भारत का प्रतिनिधित्व करने जा रही हैं? मध्य प्रदेश से लेकर ग्लोबल स्टेज तक का उनका यह सफर बेहद प्रेरणादायक है।\n\nपूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#NikitaPorwal #MissWorld2026 #MissIndia #BreakingNews #InspiringWomen"
-      },
-      "hashtags": [
-        "NikitaPorwal",
-        "MissWorld2026",
-        "MissIndia",
-        "BreakingNews",
-        "InspiringWomen"
-      ]
-    },
-    "audio_path": "audio/nikita_porwal_miss_world_2026.wav",
-    "audio_duration_sec": 13.66,
-    "video_path": "videos/nikita_porwal_miss_world_2026.mp4",
-    "video_duration_sec": 21.72
-  },
-  {
-    "topic_label": "yamuna_river_para_commandos_tragedy",
-    "virality_score": 8,
-    "reason": "Two elite Indian Army para commandos tragically lost their lives during a specialized air-to-water training exercise in the Yamuna river.",
-    "region": "india",
-    "headline": "इंड‍ियन आर्मी के 2 कमांडो शहीद, चिनूक हेलीकॉप्टर से कूदने के बाद नाव का इंजन फेल, यमुना नदी में बहे",
-    "source_summary": "हरियाणा के हथनीकुंड बैराज पर 1 पैरा एसएफ के विशेष हवाई-से-जल प्रशिक्षण अभ्यास के दौरान नाव पलटने से दो कमांडो शहीद हो गए. चिनूक हेलीकॉप्टर से कूदने के बाद नाव में तकनीकी खराबी आई. बचाव दल ने व्यापक तलाशी अभियान चलाकर उनके शव बरामद किए.",
-    "source_url": "https://ndtv.in/india/indian-army-1-para-sf-yamuna-training-drill-accident-12001974#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 04 Sep 2026 16:45:17 +0530",
-    "hook": "हरियाणा में बड़ा हादसा! चिनूक से कूदने के बाद यमुना नदी में डूबे दो कमांडो।",
-    "script_hi": "हरियाणा के हथनीकुंड बैराज पर एक पैरा एसएफ के विशेष हवाई से जल प्रशिक्षण अभ्यास के दौरान बड़ा हादसा हुआ। चिनूक हेलीकॉप्टर से कूदने के बाद नाव का इंजन फेल हो गया और नाव पलट गई। इस दर्दनाक हादसे में भारतीय सेना के दो कमांडो शहीद हो गए। व्यापक तलाशी अभियान के बाद बचाव दल ने उनके शव यमुना नदी से बरामद कर लिए हैं।",
-    "tts_text_hi": "हरियाणा के हथनीकुंड बैराज पर एक पैरा एसएफ के विशेष हवाई से जल प्रशिक्षण अभ्यास के दौरान बड़ा हादसा हुआ। चिनूक हेलीकॉप्टर से कूदने के बाद नाव का इंजन फेल हो गया और नाव पलट गई। इस दर्दनाक हादसे में भारतीय सेना के दो कमांडो शहीद हो गए। व्यापक तलाशी अभियान के बाद बचाव दल ने उनके शव यमुना नदी से बरामद कर लिए हैं।",
-    "title": "हरियाणा: यमुना नदी में बोट पलटने से दो कमांडो शहीद",
-    "caption": "हरियाणा के हथनीकुंड बैराज पर अभ्यास के दौरान बड़ा हादसा, चिनूक से कूदने के बाद नाव पलटने से दो कमांडो शहीद।",
-    "hashtags": [
-      "IndianArmy",
-      "HaryanaNews",
-      "BreakingNews",
-      "IndianMilitary",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Indian Army Chinook helicopter India",
-      "Yamuna river flowing India",
-      "Indian rescue operation boat India",
-      "Indian military memorial wreath India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32670773/pexels-photo-32670773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian Army Chinook helicopter India",
-        "credit": "Kimberley Madigan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8656906/pexels-photo-8656906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Yamuna river flowing India",
-        "credit": "Arya Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian rescue operation boat India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39123101/pexels-photo-39123101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian military memorial wreath India",
-        "credit": "Debendra Das",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "यमुना नदी में बड़ा हादसा: चिनूक से कूदने के बाद दो कमांडो शहीद 🚨",
-        "caption": "हरियाणा में बड़ा हादसा! चिनूक से कूदने के बाद यमुना नदी में डूबे दो कमांडो। 🪖\n\nरूटीन अभ्यास के दौरान यमुना नदी में बोट का इंजन अचानक फेल हो गया। नदी के तेज बहाव में दोनों कमांडो लापता हो गए थे, जिनका पार्थिव शरीर बरामद कर लिया गया है।\n\nपूरा सच जानने के लिए वीडियो अंत तक देखें।\n\n#IndianArmy #HaryanaNews #Chinook #YamunaRiver #IndianMilitary"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "हरियाणा में बड़ा हादसा! चिनूक से कूदने के बाद यमुना नदी में डूबे दो कमांडो। 🚨\n\nअभ्यास के दौरान बोट का इंजन फेल हुआ और देश ने दो जांबाज कमांडो खो दिए। यमुना के तेज बहाव में हुए इस हादसे की पूरी कहानी देखें।\n\nकमेंट में श्रद्धांजलि दें।\n\n#IndianArmy #HaryanaNews #Chinook #YamunaRiver #IndianMilitary"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "हरियाणा में बड़ा हादसा! चिनूक से कूदने के बाद यमुना नदी में डूबे दो कमांडो। 🚨\n\nभारतीय सेना के दो कमांडो हरियाणा में एक युद्धाभ्यास के दौरान शहीद हो गए। चिनूक हेलीकॉप्टर से पानी में उतरने के बाद उनकी नाव का इंजन फेल हो गया था, जिससे वे तेज बहाव में बह गए।\n\nवीडियो पूरा देखें और देश के इन वीरों को नमन करें।\n\n#IndianArmy #HaryanaNews #Chinook #YamunaRiver #IndianMilitary"
-      },
-      "hashtags": [
-        "IndianArmy",
-        "HaryanaNews",
-        "Chinook",
-        "YamunaRiver",
-        "IndianMilitary"
-      ]
-    },
-    "audio_path": "audio/yamuna_river_para_commandos_tragedy.wav",
-    "audio_duration_sec": 25.72,
-    "video_path": "videos/yamuna_river_para_commandos_tragedy.mp4",
-    "video_duration_sec": 33.76
-  },
-  {
-    "topic_label": "air_india_phuket_flight_pilot_fired",
-    "virality_score": 8,
-    "reason": "Air India terminated a pilot after a preliminary report confirmed a positive test for psychoactive substances on a Phuket-Delhi flight.",
+    "reason": "Air India firing a pilot over a positive psychoactive substance test on a Phuket-Delhi flight is a high-engagement aviation scandal.",
     "region": "india",
     "headline": "फुकेत-दिल्ली फ्लाइट मामले में एयर इंडिया ने पायलट को किया बर्खास्त, नशे में उड़ा रहा था विमान",
     "source_summary": "AAIB की शुरुआती जांच रिपोर्ट में खुलासा हुआ है कि फुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट A12379 के को-पायलट का साइकोएक्टिव पदार्थ (नशीले पदार्थ) टेस्ट पॉजिटिव पाया गया.",
     "source_url": "https://ndtv.in/india/phuket-delhi-flight-incident-air-india-pilot-tests-positive-for-drugs-12000921#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Fri, 04 Sep 2026 18:53:42 +0530",
-    "hook": "फुकेत से दिल्ली आ रही एयर इंडिया फ्लाइट में बड़ा एक्शन!",
-    "script_hi": "फुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट के मामले में एयर इंडिया ने कड़ा कदम उठाया है। शुरुआती जांच रिपोर्ट में को-पायलट का नशीले पदार्थ का टेस्ट पॉजिटिव पाया गया है, जिसके बाद एयरलाइन ने पायलट को बर्खास्त कर दिया है।",
-    "tts_text_hi": "फुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट के मामले में एयर इंडिया ने कड़ा कदम उठाया है। शुरुआती जांच रिपोर्ट में को-पायलट का नशीले पदार्थ का टेस्ट पॉजिटिव पाया गया है, जिसके बाद एयरलाइन ने पायलट को बर्खास्त कर दिया है।",
-    "title": "Air India Pilot Sacked After Positive Drug Test",
-    "caption": "फुकेत-दिल्ली फ्लाइट मामले में एयर इंडिया ने पायलट को किया बर्खास्त, नशे में उड़ा रहा था विमान।",
+    "hook": "एयर इंडिया के पायलट पर गिरी गाज, नशे में उड़ा रहा था विमान!",
+    "script_hi": "फुकेत से दिल्ली आ रही एयर इंडिया की उड़ान में बड़ा खुलासा हुआ है। शुरुआती जांच में को-पायलट का नशीले पदार्थ का टेस्ट पॉजिटिव आया है, जिसके बाद एयरलाइन ने पायलट को बर्खास्त कर दिया है।",
+    "tts_text_hi": "फुकेत से दिल्ली आ रही एयर इंडिया की उड़ान में बड़ा खुलासा हुआ है। शुरुआती जांच में को-पायलट का नशीले पदार्थ का टेस्ट पॉजिटिव आया है, जिसके बाद एयरलाइन ने पायलट को बर्खास्त कर दिया है.",
+    "title": "Air India Pilot Fired for Drug Test",
+    "caption": "फुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट के को-पायलट का ड्रग टेस्ट पॉजिटिव आने पर एयरलाइन ने बड़ी कार्रवाई की है।",
     "hashtags": [
       "AirIndia",
       "AviationNews",
-      "PhuketDelhiFlight",
+      "DelhiNews",
+      "Phuket",
       "BreakingNews",
-      "IndiaNews"
+      "PilotDismissed"
     ],
     "visual_queries": [
       "Air India airplane India",
       "commercial airplane cockpit India",
-      "aviation safety investigation India"
+      "airport runway India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10419525/10419525-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "commercial airplane cockpit India",
+        "credit": "Osman Başkurt",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36675429/15547591_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "aviation safety investigation",
+        "credit": "Christiana Dj",
+        "source_duration_sec": 71,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Air India airplane India",
+        "credit": "shyam mishra",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38252702/pexels-photo-38252702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airport runway India",
+        "credit": "Saakshi Yadav",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30943345/pexels-photo-30943345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pilot in cockpit",
+        "credit": "Mariya Eskina",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12692959/pexels-photo-12692959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane interior",
+        "credit": "Pew Nguyen",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7375957/pexels-photo-7375957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airline pilot uniform",
+        "credit": "behrouz sasani",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "शराब के नशे में उड़ा रहा था विमान! एयर इंडिया का पायलट बर्खास्त ✈️",
+        "caption": "शराब के नशे में फ्लाइट उड़ा रहा था पायलट, एयर इंडिया ने लिया बड़ा एक्शन 🛑\n\nफुकेत से दिल्ली आ रही फ्लाइट के मामले में एयर इंडिया ने कड़ा कदम उठाते हुए पायलट को नौकरी से निकाल दिया है। यात्रियों की जान से खिलवाड़ करने वाले इस रवैये पर जांच के बाद ये कार्रवाई की गई।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AirIndia #PhuketDelhiFlight #AviationNews #PilotFired #HindiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "शराब के नशे में उड़ा रहा था विमान! एयर इंडिया के पायलट पर गिरी गाज 🚨\n\nफुकेत-दिल्ली फ्लाइट में नशे में धुत होकर कॉकपिट में बैठे पायलट को एयर इंडिया ने आखिरकार बर्खास्त कर दिया है। यात्रियों की सुरक्षा के साथ ऐसा खिलवाड़ बर्दाश्त नहीं किया गया।\n\nशेयर करें इस चौंकाने वाली खबर को और ऐसे मामलों पर आपकी क्या राय है, हमें बताएं।\n\n#AirIndia #PhuketDelhiFlight #AviationNews #PilotFired #HindiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "शराब के नशे में 30 हजार फीट की ऊंचाई पर विमान उड़ा रहा था पायलट! ✈️ हाल ही में फुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट को लेकर एक ऐसा खुलासा हुआ जिसने सबको हैरान कर दिया। \n\nमामले की गंभीरता को देखते हुए एयर इंडिया ने कड़ा एक्शन लेते हुए उस पायलट को तुरंत बर्खास्त कर दिया है। यात्रियों की जान जोखिम में डालने वाले ऐसे मामलों पर आपकी क्या राय है? कमेंट में जरूर बताएं।\n\n#AirIndia #PhuketDelhiFlight #AviationNews #PilotFired #HindiNews"
+      },
+      "hashtags": [
+        "AirIndia",
+        "PhuketDelhiFlight",
+        "AviationNews",
+        "PilotFired",
+        "HindiNews"
+      ]
+    },
+    "audio_path": "audio/air_india_phuket_pilot_fired_drugs.wav",
+    "audio_duration_sec": 13.06,
+    "video_path": "videos/air_india_phuket_pilot_fired_drugs.mp4",
+    "video_duration_sec": 21.06
+  },
+  {
+    "topic_label": "hyderabad_zomato_delivery_boy_fake_currency",
+    "virality_score": 8,
+    "reason": "Zomato delivery boy and Rapido driver busted for printing fake currency using YouTube tutorials.",
+    "region": "india",
+    "headline": "यूट्यूब देखकर घर में छापे 2.91 लाख रुपये के नकली नोट, दिन में करते थे Zomato डिलीवरी बॉय-Rapido ड्राइवर का काम",
+    "source_summary": "Hyderabad Fake Currency Racket:&nbsp;हैदराबाद में पुलिस ने नकली नोट बनाने और उन्हें बाजार में चलाने के आरोप में तीन लोगों को गिरफ्तार किया है। हैरानी की बात यह है कि आरोपी दिन में आम लोगों की तरह काम करते थे। इनमें",
+    "source_url": "https://hindi.oneindia.com/news/india/hyderabad-fake-currency-racket-zomato-delivery-boy-rapido-driver-arrested-1641499.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Thu, 03 Sep 2026 15:45:22 +0530",
+    "hook": "हैदराबाद में ज़ोमैटो और रैपिडो की आड़ में चल रहा था खतरनाक खेल!",
+    "script_hi": "हैदराबाद में पुलिस ने तीन ऐसे आरोपियों को गिरफ्तार किया है जो दिन में ज़ोमैटो डिलीवरी बॉय और रैपिडो ड्राइवर का काम करते थे, और रात में यूट्यूब देखकर घर में ही दो लाख इक्यानवे हजार रुपये के नकली नोट छाप रहे थे। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "हैदराबाद में पुलिस ने तीन ऐसे आरोपियों को गिरफ्तार किया है जो दिन में ज़ोमैटो डिलीवरी बॉय और रैपिडो ड्राइवर का काम करते थे, और रात में यूट्यूब देखकर घर में ही दो लाख इक्यानवे हजार रुपये के नकली नोट छाप रहे थे। पुलिस मामले की जांच कर रही है.",
+    "title": "हैदराबाद में नकली नोट का भंडाफोड़",
+    "caption": "हैदराबाद पुलिस ने नकली नोट छापने वाले गिरोह का पर्दाफाश किया है। आरोपी दिन में डिलीवरी बॉय का काम करते थे और यूट्यूब से सीखकर नकली नोट बनाते थे।",
+    "hashtags": [
+      "Hyderabad",
+      "FakeCurrency",
+      "CrimeNews",
+      "Zomato",
+      "Rapido",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Hyderabad police station India",
+      "delivery boy scooter India",
+      "counterfeit money India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6868161/pexels-photo-6868161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "delivery driver working smartphone",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28928633/pexels-photo-28928633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "delivery boy scooter India",
+        "credit": "Anurag Jamwal",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "highway_lorry_car_collision_8_deaths",
+    "virality_score": 8,
+    "reason": "Devastating highway collision between a lorry and a car resulting in 8 instant fatalities.",
+    "region": "india",
+    "headline": "हाईवे पर लॉरी से कार की भीषण टक्कर, 8 युवकों की मौके पर ही मौत",
+    "source_summary": "हादसे की जानकारी मिलते ही स्थानीय लोग घटनास्थल पर पहुंचे और उन्होंने पुलिस को सूचना दी. इसके बाद कार से सभी मृतकों को बाहर निकाला गया.",
+    "source_url": "https://www.aajtak.in/india/news/story/car-rams-parked-lorry-in-kerala-thrissur-eight-killed-ntc-rmxk-dskc-2636626-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T06:06:46+05:30",
+    "hook": "हाईवे पर लॉरी और कार की भीषण टक्कर में आठ युवकों की मौत!",
+    "script_hi": "हाईवे पर लॉरी से कार की भीषण टक्कर हो गई, जिसमें आठ युवकों की मौके पर ही मौत हो गई। हादसे की जानकारी मिलते ही स्थानीय लोग घटनास्थल पर पहुंचे और तुरंत पुलिस को सूचना दी। इसके बाद पुलिस ने कार से सभी मृतकों के शवों को बाहर निकाला।",
+    "tts_text_hi": "हाईवे पर लॉरी से कार की भीषण टक्कर हो गई, जिसमें आठ युवकों की मौके पर ही मौत हो गई। हादसे की जानकारी मिलते ही स्थानीय लोग घटनास्थल पर पहुंचे और तुरंत पुलिस को सूचना दी। इसके बाद पुलिस ने कार से सभी मृतकों के शवों को बाहर निकाला।",
+    "title": "हाईवे पर भीषण सड़क हादसा, आठ युवकों की मौत",
+    "caption": "हाईवे पर लॉरी और कार की भयानक टक्कर में आठ युवकों की मौत। स्थानीय लोगों ने दी पुलिस को सूचना।",
+    "hashtags": [
+      "RoadAccident",
+      "IndiaNews",
+      "BreakingNews",
+      "HighwayAccident",
+      "TragicNews"
+    ],
+    "visual_queries": [
+      "Indian highway truck accident",
+      "police investigation India road",
+      "rescue operation India road"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -526,214 +344,235 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Air India airplane India",
-        "credit": "shyam mishra",
-        "duration_sec": 4.3
+        "query": "Indian highway truck accident",
+        "credit": "Aleksandar Rasic",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16572374/pexels-photo-16572374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane cockpit India",
-        "credit": "Kenneth  Christopher",
-        "duration_sec": 4.3
+        "query": "police investigation India road",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38865289/pexels-photo-38865289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38390072/pexels-photo-38390072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "aviation safety investigation India",
-        "credit": "Karthick s",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37645081/pexels-photo-37645081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airline pilot cabin",
-        "credit": "Mariya Eskina",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37627542/pexels-photo-37627542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "aviation safety inspection",
-        "credit": "Samadee",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30943345/pexels-photo-30943345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "pilot in cockpit",
-        "credit": "Mariya Eskina",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28180452/pexels-photo-28180452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "pilot walking in airport",
-        "credit": "William Larsen",
-        "duration_sec": 4.3
+        "query": "rescue operation India road",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "नशे में उड़ा रहा था विमान! Air India ने पायलट को किया बर्खास्त ✈️",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nफुकेत से दिल्ली आ रही एयर इंडिया की फ्लाइट में पायलट के नशे में होने का बड़ा मामला सामने आया है। एयरलाइंस ने सख्त एक्शन लेते हुए पायलट को नौकरी से बर्खास्त कर दिया है। \n\nक्या ऐसे पायलटों पर आजीवन बैन लगना चाहिए? कमेंट में बताएं और पूरी कहानी देखें।\n\n#AirIndia #FlightSafety #PhuketDelhiFlight #AviationNews #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nफुकेत से दिल्ली आ रही एयर इंडिया फ्लाइट में नशे में विमान उड़ा रहे पायलट पर बड़ा एक्शन हुआ है। एयरलाइंस ने उसे तुरंत बर्खास्त कर दिया। \n\nपूरी कहानी देखें और शेयर करें!\n\n#AirIndia #FlightSafety #PhuketDelhiFlight #AviationNews #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nफुकेत से दिल्ली आ रही एयर इंडिया की एक फ्लाइट में यात्रियों की जान जोखिम में डालने का मामला सामने आया है। जांच में पायलट नशे में पाया गया, जिसके बाद एयरलाइंस ने तुरंत कड़ा एक्शन लेते हुए उसे बर्खास्त कर दिया है। \n\nआपकी इस लापरवाही पर क्या राय है? कमेंट करके बताएं और वीडियो पूरा देखें।\n\n#AirIndia #FlightSafety #PhuketDelhiFlight #AviationNews #BreakingNews"
-      },
-      "hashtags": [
-        "AirIndia",
-        "FlightSafety",
-        "PhuketDelhiFlight",
-        "AviationNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/air_india_phuket_flight_pilot_fired.wav",
-    "audio_duration_sec": 15.45,
-    "video_path": "videos/air_india_phuket_flight_pilot_fired.mp4",
-    "video_duration_sec": 23.42
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "fbi_wanted_fugitive_manjit_bedi_arrested_punjab",
-    "virality_score": 8,
-    "reason": "An FBI most-wanted fraudster accused of a $600,000 US scam was successfully tracked down and arrested in Jalandhar, Punjab.",
+    "topic_label": "kerala_thrissur_car_lorry_accident_students",
+    "virality_score": 7,
+    "reason": "Tragic road accident in Kerala claiming the lives of eight engineering students from Tamil Nadu.",
     "region": "india",
-    "headline": "FBI की मोस्ट वांटेड सूची में शामिल मंजीत सिंह बेदी जालंधर से गिरफ्तार; 6 लाख डॉलर की धोखाधड़ी कर भारत पहुंचा",
-    "source_summary": "अमेरिका की FBI जिस आरोपी की तलाश कर रही थी, वह आखिरकार पंजाब के जालंधर में गिरफ्तार हो गया. मंजीत सिंह बेदी पर अमेरिकी SNAP योजना में करीब 6 लाख डॉलर की कथित धोखाधड़ी का आरोप है. FBI की मोस्ट वांटेड फ्रॉडस्टर्स सूची में शामिल बेदी कथित तौर पर कनाडा के रास्ते भारत पहुंचा था.",
-    "source_url": "https://ndtv.in/punjab-news/fbi-most-wanted-fraudster-manjit-singh-bedi-arrested-in-jalandhar-snap-fraud-case-us-bounty-reward-international-crime-dgp-punjab-12004317#publisher=newsstand",
+    "headline": "त्रिशूर में खड़े ट्रक से टकराई कार के उड़े परखच्चे; 8 युवाओं की मौत, तमिलनाडु के छात्र होने की आशंका",
+    "source_summary": "केरल के त्रिशूर जिले में शुक्रवार देर रात एक कार हाईवे पर खड़े ट्रक से टकरा गई. हादसे में कार सवार सभी आठ युवाओं की मौत हो गई. मृतकों के तमिलनाडु के छात्र होने की आशंका जताई जा रही है.",
+    "source_url": "https://ndtv.in/india/thrissur-road-accident-8-youths-killed-car-lorry-collision-eight-dead-tamil-nadu-students-kerala-police-12004392#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sat, 05 Sep 2026 05:38:06 +0530",
-    "hook": "एफबीआई का मोस्ट वांटेड जालंधर में गिरफ्तार!",
-    "script_hi": "एफबीआई की मोस्ट वांटेड सूची में शामिल मंजीत सिंह बेदी पंजाब के जालंधर से गिरफ्तार हो गया है। उस पर अमरीकी स्नैप योजना में छह लाख डॉलर की कथित धोखाधड़ी का आरोप है। बेदी कनाडा के रास्ते भारत पहुंचा था।",
-    "tts_text_hi": "एफबीआई की मोस्ट वांटेड सूची में शामिल मंजीत सिंह बेदी पंजाब के जालंधर से गिरफ्तार हो गया है। उस पर अमरीकी स्नैप योजना में छह लाख डॉलर की कथित धोखाधड़ी का आरोप है। बेदी कनाडा के रास्ते भारत पहुंचा था।",
-    "title": "FBI Most Wanted Man Arrested in Jalandhar",
-    "caption": "एफबीआई का मोस्ट वांटेड मंजीत सिंह बेदी जालंधर से गिरफ्तार, छह लाख डॉलर की धोखाधड़ी का है आरोप।",
+    "published": "Sat, 05 Sep 2026 07:25:21 +0530",
+    "hook": "केरल के त्रिशूर में दर्दनाक सड़क हादसा!",
+    "script_hi": "केरल के त्रिशूर जिले में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ युवाओं की मौत हो गई। तेज रफ्तार कार हाईवे पर खड़े ट्रक से जा टकराई जिससे कार के परखच्चे उड़ गए। आशंका जताई जा रही है कि सभी मृतक तमिलनाडु के छात्र थे। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "केरल के त्रिशूर जिले में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ युवाओं की मौत हो गई। तेज रफ्तार कार हाईवे पर खड़े ट्रक से जा टकराई जिससे कार के परखच्चे उड़ गए। आशंका जताई जा रही है कि सभी मृतक तमिलनाडु के छात्र थे। पुलिस मामले की जांच कर रही है।",
+    "title": "त्रिशूर में भीषण सड़क हादसा, आठ युवाओं की मौत",
+    "caption": "केरल के त्रिशूर में ट्रक से टकराई कार, आठ युवाओं की दर्दनाक मौत।",
     "hashtags": [
-      "FBI",
-      "Jalandhar",
-      "PunjabPolice",
-      "CrimeNews",
+      "KeralaAccident",
+      "Thrissur",
+      "RoadSafety",
+      "BreakingNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "FBI seal building India",
-      "Punjab police station India",
-      "currency exchange India"
+      "Kerala highway India",
+      "damaged car accident India",
+      "police investigation India"
     ],
-    "named_person": "Manjit Singh Bedi",
-    "named_person_hi": "मंजीत सिंह बेदी",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28.0,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "मंजीत सिंह बेदी",
-        "source": "fallback",
-        "query": "Manjit Singh Bedi",
-        "duration_sec": 4.0
-      },
-      {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/35112206/14875273_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "FBI seal building India",
-        "credit": "md Jahangir alam",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police arrest India",
-        "credit": "Kindel Media",
+        "query": "police tape crime scene India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34110863/pexels-photo-34110863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kerala highway India",
+        "credit": "Jinshu Pulpatta",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night highway traffic India",
+        "credit": "Sourabh Narwade",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night highway accident India",
+        "credit": "Sourabh Narwade",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "road accident emergency response",
+        "credit": "Aleksandar Rasic",
+        "duration_sec": 4.5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "केरल के त्रिशूर में दर्दनाक हादसा, ट्रक से टकराई कार; 8 युवाओं की मौत",
+        "caption": "केरल के त्रिशूर में दर्दनाक सड़क हादसा! 🚨\n\nखड़े ट्रक से कार इतनी जोरदार टकराई कि उसके परखच्चे उड़ गए। इस भीषण हादसे में तमिलनाडु के 8 छात्रों की दर्दनाक मौत होने की आशंका है।\n\nपूरी कहानी वीडियो में देखें।\n\n#ThrissurAccident #KeralaNews #RoadSafety #TamilNaduStudents"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "केरल के त्रिशूर में दर्दनाक सड़क हादसा! 🚨 खड़े ट्रक से टकराई कार के उड़े परखच्चे। तमिलनाडु के 8 युवाओं की मौत की आशंका।\n\nदेखें कैसे हुआ यह हादसा और पूरी खबर।\n\n#ThrissurAccident #KeralaNews #RoadSafety #TamilNaduStudents"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "केरल के त्रिशूर से एक बेहद दिल दहला देने वाली खबर सामने आई है। यहाँ एक बेकाबू कार सड़क किनारे खड़े ट्रक से इतनी भयानक रफ्तार से टकराई कि उसके परखच्चे उड़ गए।\n\nप्रारंभिक जानकारी के मुताबिक इस भीषण हादसे में 8 युवाओं की जान चली गई है, जिनके तमिलनाडु के छात्र होने की आशंका जताई जा रही है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#ThrissurAccident #KeralaNews #RoadSafety #TamilNaduStudents"
+      },
+      "hashtags": [
+        "ThrissurAccident",
+        "KeralaNews",
+        "RoadSafety",
+        "TamilNaduStudents"
+      ]
+    },
+    "audio_path": "audio/kerala_thrissur_car_lorry_accident_students.wav",
+    "audio_duration_sec": 18.65,
+    "video_path": "videos/kerala_thrissur_car_lorry_accident_students.mp4",
+    "video_duration_sec": 26.69
+  },
+  {
+    "topic_label": "khatu_shyam_vip_darshan_scam_arrest",
+    "virality_score": 7,
+    "reason": "Mastermind arrested for running a 1 to 5 thousand rupee VIP darshan scam at Khatu Shyam temple.",
+    "region": "india",
+    "headline": "खाटूश्याम में 'VIP दर्शन' का खेल बेनकाब, एक से 5 हजार में बाबा के दरबार में एंट्री, पुलिस ने मास्टरमाइंड दबोचा",
+    "source_summary": "Khatu Shyam Sikar News: खाटूश्यामजी में श्रद्धालुओं से पैसे लेकर वीआईपी दर्शन कराने वाले गिरोह का पुलिस ने पर्दाफाश किया है। पुलिस ने इस गिरोह के कथित मास्टरमाइंड हंसराज को गिरफ्तार कर लिया है और उसके पास से अहम सबूत मिले हैं।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/rajasthan/sikar/khatu-shyam-vip-darshan-racket-exposed-sikar-police-arrested-mastermind/articleshow/133782831.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sat, 05 Sep 2026 06:21:00 +0530",
+    "hook": "खाटूश्याम जी में वीआईपी दर्शन के नाम पर बड़ा खेल बेनकाब!",
+    "script_hi": "खाटूश्यामजी में श्रद्धालुओं से पैसे लेकर वीआईपी दर्शन कराने वाले गिरोह का पुलिस ने पर्दाफाश किया है। सीकर पुलिस ने इस गिरोह के कथित मास्टरमाइंड हंसराज को गिरफ्तार कर लिया है और उसके पास से अहम सबूत बरामद किए हैं। आरोपी एक से पांच हजार रुपए तक वसूल रहे थे।",
+    "tts_text_hi": "खाटूश्यामजी में श्रद्धालुओं से पैसे लेकर वीआईपी दर्शन कराने वाले गिरोह का पुलिस ने पर्दाफाश किया है। सीकर पुलिस ने इस गिरोह के कथित मास्टरमाइंड हंसराज को गिरफ्तार कर लिया है और उसके पास से अहम सबूत बरामद किए हैं। आरोपी एक से पांच हजार रुपए तक वसूल रहे थे।",
+    "title": "खाटूश्याम में वीआईपी दर्शन का खेल बेनकाब",
+    "caption": "खाटूश्यामजी में पैसे लेकर वीआईपी दर्शन कराने वाले गिरोह का पर्दाफाश, मास्टरमाइंड गिरफ्तार।",
+    "hashtags": [
+      "KhatuShyam",
+      "SikarNews",
+      "RajasthanNews",
+      "BreakingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Hindu temple courtyard India",
+      "police station India",
+      "police handcuffs India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34071229/pexels-photo-34071229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hindu temple courtyard India",
+        "credit": "Ravi Kant",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "currency exchange India",
-        "credit": "Ravi Roshan",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7714896/pexels-photo-7714896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police handcuffs India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "6 लाख डॉलर की ठगी कर भागा FBI का वांटेड पंजाब से गिरफ्तार 🚨",
-        "caption": "एफबीआई का मोस्ट वांटेड जालंधर में गिरफ्तार! 🚨\n\nअमेरिका में छह लाख डॉलर की बड़ी धोखाधड़ी को अंजाम देने के बाद फरार चल रहा मंजीत सिंह बेदी आखिरकार भारतीय एजेंसियों के हत्थे चढ़ गया है। जालंधर में हुई इस गिरफ्तारी ने सबको चौंका दिया है।\n\nपूरी कहानी वीडियो में देखें।\n\n#FBI #JalandharNews #PunjabPolice #ManjitSinghBedi #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "एफबीआई का मोस्ट वांटेड जालंधर में गिरफ्तार! 🚨\n\n6 लाख डॉलर यानी करीब 5 करोड़ रुपये की ठगी कर अमेरिका से भागा मंजीत सिंह बेदी पंजाब के जालंधर से दबोचा गया।\n\nआपकी नजर में ऐसे अपराधियों के साथ क्या होना चाहिए? कमेंट में बताएं।\n\n#FBI #JalandharNews #PunjabPolice #ManjitSinghBedi #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एफबीआई का मोस्ट वांटेड जालंधर में गिरफ्तार! 🚨\n\nअमेरिका में 6 लाख डॉलर की भारी-भरकम धोखाधड़ी करने वाला मंजीत सिंह बेदी लंबे समय से फरार था और भारत छिपकर रह रहा था। अमेरिकी एजेंसी एफबीआई की सूची में शामिल इस शातिर अपराधी को आखिरकार जालंधर पुलिस ने धर दबोचा।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#FBI #JalandharNews #PunjabPolice #ManjitSinghBedi #CrimeNews"
-      },
-      "hashtags": [
-        "FBI",
-        "JalandharNews",
-        "PunjabPolice",
-        "ManjitSinghBedi",
-        "CrimeNews"
-      ]
-    },
-    "audio_path": "audio/fbi_wanted_fugitive_manjit_bedi_arrested_punjab.wav",
-    "audio_duration_sec": 16.0,
-    "video_path": "videos/fbi_wanted_fugitive_manjit_bedi_arrested_punjab.mp4",
-    "video_duration_sec": 24.02
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "un_world_map_africa_size_resolution",
+    "topic_label": "un_adopts_new_world_map_africa_size",
     "virality_score": 7,
-    "reason": "The UN adopted a Togo-sponsored resolution to reflect Africa's true geographical size on the world map, with only the US dissenting.",
+    "reason": "UN votes to adopt a new world map reflecting Africa's true size, with the US being the sole opposing vote.",
     "region": "global",
     "headline": "UN votes to adopt new world map to reflect Africa's true size",
-    "source_summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+    "source_summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
     "source_url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
     "source_name": "BBC World",
-    "published": "Fri, 04 Sep 2026 19:44:40 GMT",
-    "hook": "दुनिया का नक्शा बदलने वाला है!",
-    "script_hi": "संयुक्त राष्ट्र ने अफ्रीका के असली आकार को दिखाने वाले एक नए विश्व मानचित्र को मंजूरी दे दी है। इस प्रस्ताव को सौ चौंसठ देशों का समर्थन मिला, जबकि अमेरिका इसके खिलाफ वोट करने वाला अकेला देश रहा।",
-    "tts_text_hi": "संयुक्त राष्ट्र ने अफ्रीका के असली आकार को दिखाने वाले एक नए विश्व मानचित्र को मंजूरी दे दी है। इस प्रस्ताव को एक सौ चौंसठ देशों का समर्थन मिला, जबकि अमेरिका इसके खिलाफ वोट करने वाला अकेला देश रहा।",
-    "title": "संयुक्त राष्ट्र ने बदला दुनिया का नक्शा",
-    "caption": "संयुक्त राष्ट्र ने अफ्रीका के सही आकार को दर्शाने वाले नए विश्व मानचित्र प्रस्ताव को अपना लिया है।",
+    "published": "Sat, 05 Sep 2026 00:53:11 GMT",
+    "hook": "क्या अब बदल जाएगा दुनिया का नक्शा?",
+    "script_hi": "संयुक्त राष्ट्र ने अफ्रीका के सही आकार को दर्शाने वाले नए विश्व मानचित्र को अपनाने के लिए मतदान किया है। इस प्रस्ताव को एक सौ चौसठ देशों का समर्थन मिला, जबकि अमेरिका इसके खिलाफ वोट देने वाला इकलौता देश रहा।",
+    "tts_text_hi": "संयुक्त राष्ट्र ने अफ्रीका के सही आकार को दर्शाने वाले नए विश्व मानचित्र को अपनाने के लिए मतदान किया है। इस प्रस्ताव को एक सौ चौसठ देशों का समर्थन मिला, जबकि अमेरिका इसके खिलाफ वोट देने वाला इकलौता देश रहा।",
+    "title": "संयुक्त राष्ट्र ने अपनाया नया विश्व मानचित्र",
+    "caption": "संयुक्त राष्ट्र ने अफ्रीका के सही आकार को दर्शाने वाले नए विश्व मानचित्र को मंजूरी दे दी है।",
     "hashtags": [
       "UnitedNations",
       "WorldMap",
       "Africa",
       "UN",
-      "GlobalNews",
-      "TrendingNews"
+      "GlobalNews"
     ],
     "visual_queries": [
       "United Nations headquarters building",
-      "world map globe earth",
-      "Africa continent map graphic",
-      "US flag international summit"
+      "world map geography classroom",
+      "African continent satellite map"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -748,60 +587,84 @@
         "source": "pexels",
         "query": "United Nations headquarters building",
         "credit": "Sayed Masoumi",
-        "duration_sec": 5
+        "duration_sec": 4.3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/7634861/pexels-photo-7634861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "world map globe earth",
+        "query": "world map geography classroom",
         "credit": "Marina Leonova",
-        "duration_sec": 5
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8828387/pexels-photo-8828387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30596294/pexels-photo-30596294.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Africa continent map graphic",
-        "credit": "Lara Jameson",
-        "duration_sec": 5
+        "query": "African continent satellite map",
+        "credit": "Zelch Csaba",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13444027/pexels-photo-13444027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15989979/pexels-photo-15989979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US flag international summit",
-        "credit": "Matt Stone",
-        "duration_sec": 5
+        "query": "global diplomacy meeting hall",
+        "credit": "Ahmet Çıkış",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6950157/pexels-photo-6950157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "international summit delegates",
+        "credit": "Werner Pfennig",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8847039/pexels-photo-8847039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "voting ballot box election",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35632558/pexels-photo-35632558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "world globe on desk",
+        "credit": "Nothing Ahead",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दुनिया का नक्शा बदलने वाला है! UN ने बदला वर्ल्ड मैप 🗺️",
-        "caption": "सैकड़ों सालों से हम जिस वर्ल्ड मैप को देखते आए हैं, वो अब बदलने जा रहा है। संयुक्त राष्ट्र ने अफ्रीका के सही आकार को दर्शाने वाले एक नए नक्शे को मंजूरी दे दी है।\n\nक्या आप जानते हैं कि पुराना नक्शा अफ्रीका को असलियत से कितना छोटा दिखाता था? पूरी कहानी देखें। 👇\n\n#WorldMap #UnitedNations #Africa #GlobalNews #Geography"
+        "title": "क्या अब बदल जाएगा दुनिया का नक्शा? 🌍 संयुक्त राष्ट्र का बड़ा फैसला",
+        "caption": "क्या अब बदल जाएगा दुनिया का नक्शा? 🌍 संयुक्त राष्ट्र ने एक नया विश्व मानचित्र अपनाया है जो अफ्रीका का सही आकार दिखाता है। दशकों से गलत दिखाए जा रहे नक्शे के पीछे की पूरी कहानी क्या है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#WorldMap #UnitedNations #AfricaSize #GlobalNews #GeographyFacts"
       },
       "instagram": {
         "title": null,
-        "caption": "सैकड़ों सालों से जिस वर्ल्ड मैप को हम सही मान रहे थे, वो गलत था! 🗺️ UN ने अब अफ्रीका के सही आकार वाला नया नक्शा अपना लिया है।\n\nपुराने नक्शे ने दशकों तक महाद्वीपों का आकार कैसे छुपाया? कमेंट में अपनी राय बताएं और शेयर करें!\n\n#WorldMap #UnitedNations #Africa #GlobalNews #Geography"
+        "caption": "क्या अब बदल जाएगा दुनिया का नक्शा? 🌍 संयुक्त राष्ट्र ने एक नया विश्व मानचित्र अपनाया है, जिससे अफ्रीका का असली आकार दुनिया के सामने आ गया है। दशकों से हम जिस नक्शे को देख रहे थे, उसमें क्या गड़बड़ी थी? शेयर करें इस दिलचस्प जानकारी को।\n\n#WorldMap #UnitedNations #AfricaSize #GlobalNews #GeographyFacts"
       },
       "facebook": {
         "title": null,
-        "caption": "दुनिया का नक्शा अब पूरी तरह बदलने वाला है। संयुक्त राष्ट्र ने एक ऐतिहासिक फैसला लेते हुए अफ्रीका के सही आकार को दर्शाने वाले नए वर्ल्ड मैप को अपना लिया है।\n\nअब तक दुनिया जिस नक्शे को देखती आई है, उसमें कई महाद्वीपों का आकार असलियत से बहुत अलग दिखाया गया था। इस बड़े बदलाव के पीछे की पूरी वजह जानिए इस वीडियो में।\n\nपूरी कहानी देखें और अपनी राय शेयर करें।\n\n#WorldMap #UnitedNations #Africa #GlobalNews #Geography"
+        "caption": "क्या अब बदल जाएगा दुनिया का नक्शा? 🌍\n\nसंयुक्त राष्ट्र ने आखिरकार एक नया विश्व मानचित्र अपना लिया है, जो अफ्रीका महाद्वीप के असली और सही आकार को दर्शाता है। दशकों से हम किताबों और गूगल पर जिस नक्शे को देखते आ रहे थे, उसमें अफ्रीका असलियत से बहुत छोटा दिखाया जाता था।\n\nआखिर क्यों बदला गया यह नक्शा और इसके पीछे की क्या है पूरी कहानी? वीडियो में देखें और अपनी राय जरूर साझा करें।\n\n#WorldMap #UnitedNations #AfricaSize #GlobalNews #GeographyFacts"
       },
       "hashtags": [
         "WorldMap",
         "UnitedNations",
-        "Africa",
+        "AfricaSize",
         "GlobalNews",
-        "Geography"
+        "GeographyFacts"
       ]
     },
-    "audio_path": "audio/un_world_map_africa_size_resolution.wav",
-    "audio_duration_sec": 14.9,
-    "video_path": "videos/un_world_map_africa_size_resolution.mp4",
-    "video_duration_sec": 22.95
+    "audio_path": "audio/un_adopts_new_world_map_africa_size.wav",
+    "audio_duration_sec": 15.69,
+    "video_path": "videos/un_adopts_new_world_map_africa_size.mp4",
+    "video_duration_sec": 23.66
   }
 ]

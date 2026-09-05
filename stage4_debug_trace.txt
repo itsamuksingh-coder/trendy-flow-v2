@@ -1,10 +1,9 @@
-ready_labels: ['air_india_phuket_flight_pilot_fired', 'fbi_wanted_fugitive_manjit_bedi_arrested_punjab', 'janmashtami_2026_celebrations', 'nikita_porwal_miss_world_2026', 'pica_disorder_metal_objects_surgery', 'un_world_map_africa_size_resolution', 'yamuna_river_para_commandos_tragedy']
+ready_labels: ['air_india_phuket_pilot_fired_drugs', 'kerala_thrissur_car_lorry_accident_students', 'tim_cook_new_role_apple_chairman', 'un_adopts_new_world_map_africa_size']
 
-delhi_heavy_rain_waterlogging_airport: SKIPPED (not in ready set)
-pica_disorder_metal_objects_surgery: SUCCESS -> video_path=videos/pica_disorder_metal_objects_surgery.mp4 dur=31.800227
-janmashtami_2026_celebrations: SUCCESS -> video_path=videos/janmashtami_2026_celebrations.mp4 dur=26.056553
-nikita_porwal_miss_world_2026: SUCCESS -> video_path=videos/nikita_porwal_miss_world_2026.mp4 dur=21.722222
-yamuna_river_para_commandos_tragedy: SUCCESS -> video_path=videos/yamuna_river_para_commandos_tragedy.mp4 dur=33.756553
-air_india_phuket_flight_pilot_fired: SUCCESS -> video_path=videos/air_india_phuket_flight_pilot_fired.mp4 dur=23.42322
-fbi_wanted_fugitive_manjit_bedi_arrested_punjab: SUCCESS -> video_path=videos/fbi_wanted_fugitive_manjit_bedi_arrested_punjab.mp4 dur=24.02322
-un_world_map_africa_size_resolution: SUCCESS -> video_path=videos/un_world_map_africa_size_resolution.mp4 dur=22.95322
+tim_cook_new_role_apple_chairman: SUCCESS -> video_path=videos/tim_cook_new_role_apple_chairman.mp4 dur=24.207211
+air_india_phuket_pilot_fired_drugs: SUCCESS -> video_path=videos/air_india_phuket_pilot_fired_drugs.mp4 dur=21.056553
+hyderabad_zomato_delivery_boy_fake_currency: SKIPPED (not in ready set)
+highway_lorry_car_collision_8_deaths: SKIPPED (not in ready set)
+kerala_thrissur_car_lorry_accident_students: SUCCESS -> video_path=videos/kerala_thrissur_car_lorry_accident_students.mp4 dur=26.689887
+khatu_shyam_vip_darshan_scam_arrest: SKIPPED (not in ready set)
+un_adopts_new_world_map_africa_size: SUCCESS -> video_path=videos/un_adopts_new_world_map_africa_size.mp4 dur=23.656553
