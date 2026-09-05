@@ -1,31 +1,867 @@
 [
   {
-    "topic_label": "india_s400_additional_purchase_russia",
-    "virality_score": 8,
-    "reason": "India moving forward to acquire 5 more S-400 air defense systems from Russia is high-impact national security news.",
+    "topic_label": "whatsapp_bill_payment_service_launch",
+    "virality_score": 9,
+    "reason": "Massive consumer tech update with widespread utility for Indian users.",
     "region": "india",
-    "headline": "India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal",
-    "source_summary": "The decision for approval will be taken by the Cabinet Committee on Security after the cost is finalised and a green signal obtained from the finance ministry.",
-    "source_url": "https://www.hindustantimes.com/india-news/india-moves-to-buy-5-more-s-400s-after-op-sindoor-success-russia-sends-cost-proposal-101788581043780.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Sat, 05 Sep 2026 09:56:11 +0530",
-    "hook": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है!",
-    "script_hi": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ डिफेंस सिस्टम खरीदने की तैयारी कर रहा है। रूस ने इसके लिए भारत को लागत का प्रस्ताव भेज दिया है। वित्त मंत्रालय से हरी झंडी मिलने के बाद, इस पर अंतिम फैसला सुरक्षा मामलों की कैबिनेट समिति लेगी।",
-    "tts_text_hi": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ डिफेंस सिस्टम खरीदने की तैयारी कर रहा है। रूस ने इसके लिए भारत को लागत का प्रस्ताव भेज दिया है। वित्त मंत्रालय से हरी झंडी मिलने के बाद, इस पर अंतिम फैसला सुरक्षा मामलों की कैबिनेट समिति लेगी।",
-    "title": "India to buy five more S-400 systems from Russia",
-    "caption": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से खरीदेगा पाँच और एस चार सौ डिफेंस सिस्टम।",
+    "headline": "WhatsApp वालों के लिए गुड न्यूज, शामिल किया कमाल का फीचर",
+    "source_summary": "WhatsApp Se Recharge Kaise Kare : WhatsApp ने बिल पेमेंट की सर्विस लॉन्च कर दी है, जिसके बाद यूजर्स मैसेजिंग ऐप की मदद से बिजली बिल, पानी बिल, और पाइप्ड लाइन से आने वाले गैस की पेमेंट कर सकते हैं. आइए इसके बारे में डिटेल्स में जानते हैं.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/photo/whatsapp-launches-bill-payments-in-india-how-to-uset-ttecr-2636813-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T13:28:54+05:30",
+    "hook": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल!",
+    "script_hi": "व्हाट्सएप यूजर्स के लिए बड़ी खुशखबरी आ गई है। अब आप मैसेजिंग ऐप की मदद से ही अपने बिजली बिल, पानी बिल और पाइप्ड गैस का भुगतान आसानी से कर सकेंगे। व्हाट्सएप ने अपनी नई बिल पेमेंट सर्विस भारत में लॉन्च कर दी है, जिससे यूजर्स का काम बेहद आसान हो गया है।",
+    "tts_text_hi": "व्हाट्सएप यूजर्स के लिए बड़ी खुशखबरी आ गई है। अब आप मैसेजिंग ऐप की मदद से ही अपने बिजली बिल, पानी बिल और पाइप्ड गैस का भुगतान आसानी से कर सकेंगे। व्हाट्सएप ने अपनी नई बिल पेमेंट सर्विस भारत में लॉन्च कर दी है, जिससे यूजर्स का काम बेहद आसान हो गया है।",
+    "title": "WhatsApp Bill Payment Feature Launched in India",
+    "caption": "व्हाट्सएप पर अब बिजली और पानी का बिल भरना हुआ बेहद आसान, जानिए कैसे करें इस्तेमाल।",
     "hashtags": [
-      "S400",
-      "IndianArmy",
-      "RussiaIndia",
-      "DefenceNews",
-      "OpSindoor",
-      "IndianDefence"
+      "WhatsApp",
+      "TechNews",
+      "IndiaNews",
+      "WhatsAppUpdate",
+      "BillPayment",
+      "Technology"
     ],
     "visual_queries": [
-      "Indian military missile system India",
-      "Russian defence equipment India",
-      "New Delhi government building India"
+      "person using smartphone India",
+      "mobile payment app India",
+      "electricity bill payment India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5630365/5630365-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "person using smartphone outdoor",
+        "credit": "Ono  Kosuki",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person using smartphone India",
+        "credit": "Kewal Nagda",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile payment app India",
+        "credit": "Thirdman",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6862446/pexels-photo-6862446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital bill payment India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital india technology concept",
+        "credit": "Daniil Komov",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6994295/pexels-photo-6994295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern payment methods india",
+        "credit": "Kindel Media",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36781606/pexels-photo-36781606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone screen closeup",
+        "credit": "Jakub Zerdzicki",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡",
+        "caption": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡\n\nमैसेजिंग ऐप ने भारत में एक कमाल का नया फीचर लॉन्च कर दिया है, जिससे अब यूटिलिटी पेमेंट करना बेहद आसान हो गया है। लाइन में लगने या अलग ऐप खोलने की झंझट अब खत्म।\n\nपूरी प्रक्रिया जानने के लिए वीडियो पूरा देखें और कमेंट में बताएं कि क्या आपने इस फीचर का इस्तेमाल किया?\n\n#WhatsAppUpdate #BillPayment #TechNewsHindi #WhatsAppFeature #DigitalIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡\n\nअब लाइन में लगने की जरूरत नहीं। भारत में लॉन्च हुए नए फीचर से सीधे चैट से ही सारे बिल चुटकियों में चुकाए जा सकते हैं।\n\nसेव करें ताकि भूल न जाएं और अपने दोस्तों के साथ जरूर शेयर करें! 📲\n\n#WhatsAppUpdate #BillPayment #TechNewsHindi #WhatsAppFeature #DigitalIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡\n\nअगर आप भी हर महीने बिजली, पानी या गैस का बिल भरने के लिए लंबी लाइनों में लगते हैं या अलग-अलग ऐप्स के चक्कर काटते हैं, तो यह खबर आपके काम की है। व्हाट्सएप ने भारत में एक ऐसा धांसू फीचर जोड़ दिया है जिससे घर बैठे सिर्फ चैट के जरिए पेमेंट हो जाएगी। \n\nवीडियो में देखिए पूरा प्रोसेस और बताइए आपको यह अपडेट कैसा लगा।\n\n#WhatsAppUpdate #BillPayment #TechNewsHindi #WhatsAppFeature #DigitalIndia"
+      },
+      "hashtags": [
+        "WhatsAppUpdate",
+        "BillPayment",
+        "TechNewsHindi",
+        "WhatsAppFeature",
+        "DigitalIndia"
+      ]
+    },
+    "audio_path": "audio/whatsapp_bill_payment_service_launch.wav",
+    "audio_duration_sec": 11.63,
+    "video_path": "videos/whatsapp_bill_payment_service_launch.mp4",
+    "video_duration_sec": 19.68,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-05T11:05:36.243171+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bf799cb22660a4ae5a1a8",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡\n\nअगर आप भी हर महीने बिजली, पानी या गैस का बिल भरने के लिए लंबी लाइनों में लगते हैं या अलग-अलग ऐप्स के चक्कर काटते हैं, तो यह खबर आपके काम की है। व्हाट्सएप ने भारत में एक ऐसा धांसू फीचर जोड़ दिया है जिससे घर बैठे सिर्फ चैट के जरिए पेमेंट हो जाएगी। \n\nवीडियो में देखिए पूरा प्रोसेस और बताइए आपको यह अपडेट कैसा लगा।\n\n#WhatsAppUpdate #BillPayment #TechNewsHindi #WhatsAppFeature #DigitalIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788606359439_supmsb5d_whatsapp_bill_payment_service_launch.mp4",
+                "_id": "6a9bf799cb22660a4ae5a1a9"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tL-m8V_AbnAQ7kNvwHvz4J4&_nc_oc=AdqVkeS-dR8MsheRVZitRKctyYAo2q1WSzpOqLgo6HRAf6G0c5XXO2PevXP3GbIAHok&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=NFKTvhxXKijopvpvrixujg&_nc_tpa=Q5bMBQI6Y_fOHVvHXwvfiZcMvhxcbK6hPCyUf5PKqw53cW69_bwQXN0whsCBo1JbgMuafluhCsrbsqAd&oh=00_AQKXNqNuDGCCsNy9mk9ivvnG9VJNX758Sy7Dt_LxM5KU9g&oe=6AA16B14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:06:00.955Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "7cd999b72b730ad5f15f6e7673dd790a",
+                "_id": "6a9bf799cb22660a4ae5a1aa",
+                "platformPostId": "1070722122382805",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1070722122382805",
+                "publishedAt": "2026-09-05T11:06:07.620Z"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:06:00.955Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:06:01.720Z",
+            "updatedAt": "2026-09-05T11:06:07.731Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:06:01.811Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:06:07.946397+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bf7b2dc19399015b476e2",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "व्हाट्सएप पर अब चुटकियों में भरें बिजली और पानी का बिल! 💡\n\nअब लाइन में लगने की जरूरत नहीं। भारत में लॉन्च हुए नए फीचर से सीधे चैट से ही सारे बिल चुटकियों में चुकाए जा सकते हैं।\n\nसेव करें ताकि भूल न जाएं और अपने दोस्तों के साथ जरूर शेयर करें! 📲\n\n#WhatsAppUpdate #BillPayment #TechNewsHindi #WhatsAppFeature #DigitalIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788606383156_fi5qrie0_whatsapp_bill_payment_service_launch.mp4",
+                "_id": "6a9bf7b2dc19399015b476e3"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwHASMy1&_nc_oc=Ado5Yt7EVPY0qknqlmIkYAVFjZs5Xqp6cZ_xwhNq9C86ZNkY-8FdykvI2AKzj_F71OE&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d9pyMK3cp--7em-k91j-NA&_nc_tpa=Q5bMBQKtNPcJ4GTfk_WGg6ZHwris9f-d6y2Bn59_tiV0EpR5chqjw_AbW2_oEwGUGyzAtKp8oyJ7wIEoJA&oh=00_AQIEqEwe_sUVe_inGLDYampcjeyUZyOl_w_SqE_B6XilPg&oe=6AA15EBB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:06:25.257Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "4d785d994942a99c852cc4caf01d1252",
+                "_id": "6a9bf7b2dc19399015b476e4"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:06:25.257Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:06:26.048Z",
+            "updatedAt": "2026-09-05T11:06:28.639Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:06:26.294Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:06:29.146117+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "indus_river_ladakh_rock_check_dam",
+    "virality_score": 9,
+    "reason": "Strategic infrastructure move on the Indus river by India, creating significant national interest.",
+    "region": "india",
+    "headline": "सिंधु नदी पर भारत का 'मास्टरस्ट्रोक', लद्दाख में खड़ी की ऐसी 'दीवार', बूंद-बूंद को तरसेगा पाकिस्तान",
+    "source_summary": "India First Rock Dam Ladakh: सिंधु नदी पर भारत अपना पहला रॉक चेक डैम लद्दाख में बना रहा है. जिससे यहां के किसानों को खेती के लिए आसानी से पानी मिलेगा. भारत ने पाकिस्तान से सिंधु जल समझौता तोड़ दिया था.",
+    "source_url": "https://ndtv.in/india/india-builds-first-rock-check-dam-indus-river-ladakh-pakistan-indus-waters-treaty-12005232#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 05 Sep 2026 13:38:42 +0530",
+    "hook": "सिंधु नदी पर भारत का मास्टरस्ट्रोक!",
+    "script_hi": "सिंधु नदी पर भारत अपना पहला रॉक चेक डैम लद्दाख में बना रहा है, जिससे यहाँ के किसानों को खेती के लिए आसानी से पानी मिलेगा। भारत द्वारा सिंधु जल समझौते के बाद उठाया गया यह कदम पाकिस्तान की मुश्किलें बढ़ा सकता है।",
+    "tts_text_hi": "सिंधु नदी पर भारत अपना पहला रॉक चेक डैम लद्दाख में बना रहा है, जिससे यहाँ के किसानों को खेती के लिए आसानी से पानी मिलेगा। भारत द्वारा सिंधु जल समझौते के बाद उठाया गया यह कदम पाकिस्तान की मुश्किलें बढ़ा सकता है।",
+    "title": "सिंधु नदी पर भारत का मास्टरस्ट्रोक, लद्दाख में बना डैम",
+    "caption": "सिंधु नदी पर भारत अपना पहला रॉक चेक डैम लद्दाख में बना रहा है। इससे लद्दाख के किसानों को खेती के लिए पानी मिलेगा।",
+    "hashtags": [
+      "IndusWater",
+      "Ladakh",
+      "IndiaPakistan",
+      "Masterstroke",
+      "IndianNews"
+    ],
+    "visual_queries": [
+      "Indus river Ladakh India",
+      "rock check dam India",
+      "Ladakh farming agriculture India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/37567906/15919584_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "mountain agriculture irrigation India",
+        "credit": "Sahil chauhan",
+        "source_duration_sec": 8,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38087446/pexels-photo-38087446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indus river Ladakh India",
+        "credit": "Raman Shukla",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33641743/pexels-photo-33641743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rock check dam India",
+        "credit": "pexel vishnu",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10007094/pexels-photo-10007094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ladakh farming agriculture India",
+        "credit": "Ankur Khandelwal",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37912439/pexels-photo-37912439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Himalayan river stream India",
+        "credit": "Vaguspuer",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10007094/pexels-photo-10007094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rural farming Ladakh India",
+        "credit": "Ankur Khandelwal",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18141386/pexels-photo-18141386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "river water flow mountains",
+        "credit": "Egor Litvinov",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सिंधु नदी पर भारत का मास्टरस्ट्रोक! लद्दाख में खड़ी की ऐसी दीवार 🇮🇳",
+        "caption": "सिंधु नदी पर भारत का ऐसा मास्टरस्ट्रोक, जिसे देख पाकिस्तान की नींद उड़ गई है! 🌊\n\nलद्दाख में भारत ने पानी के बहाव को लेकर एक बड़ा कदम उठाया है, जिससे पाकिस्तान में पानी की बूंद-बूंद के लिए किल्लत तय मानी जा रही है। रणनीतिक रूप से यह भारत का अब तक का सबसे बड़ा फैसला है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#IndusRiver #IndiaPakistan #LadakhNews #IndianArmy #Geopolitics"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सिंधु नदी पर भारत का ऐसा मास्टरस्ट्रोक, जिसे देख पाकिस्तान की नींद उड़ गई है! 🌊\n\nलद्दाख में भारत ने पानी के बहाव को नियंत्रित करने के लिए कड़ा रुख अपना लिया है। इस कदम से पाकिस्तान में बूंद-बूंद पानी के लाले पड़ सकते हैं।\n\nक्या भारत का यह फैसला सही है? शेयर करें और बताएं।\n\n#IndusRiver #IndiaPakistan #LadakhNews #IndianArmy #Geopolitics"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सिंधु नदी पर भारत का एक ऐसा मास्टरस्ट्रोक सामने आया है जिसने पाकिस्तान की मुश्किलें कई गुना बढ़ा दी हैं। 🇮🇳\n\nलद्दाख में भारत ने सामरिक रूप से बेहद अहम कदम उठाते हुए पानी के बहाव पर शिकंजा कसना शुरू कर दिया है। जानकारों का मानना है कि इस योजना से आने वाले समय में पाकिस्तान का एक बड़ा हिस्सा पानी की एक-एक बूंद के लिए तरस जाएगा।\n\nयह फैसला कूटनीति के लिहाज से कितना असरदार साबित होगा? वीडियो पूरा देखकर अपनी बात कमेंट में रखें।\n\n#IndusRiver #IndiaPakistan #LadakhNews #IndianArmy #Geopolitics"
+      },
+      "hashtags": [
+        "IndusRiver",
+        "IndiaPakistan",
+        "LadakhNews",
+        "IndianArmy",
+        "Geopolitics"
+      ]
+    },
+    "audio_path": "audio/indus_river_ladakh_rock_check_dam.wav",
+    "audio_duration_sec": 15.35,
+    "video_path": "videos/indus_river_ladakh_rock_check_dam.mp4",
+    "video_duration_sec": 23.29,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-05T11:12:29.267602+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bf9386fbe8d32c8cf4b4a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सिंधु नदी पर भारत का एक ऐसा मास्टरस्ट्रोक सामने आया है जिसने पाकिस्तान की मुश्किलें कई गुना बढ़ा दी हैं। 🇮🇳\n\nलद्दाख में भारत ने सामरिक रूप से बेहद अहम कदम उठाते हुए पानी के बहाव पर शिकंजा कसना शुरू कर दिया है। जानकारों का मानना है कि इस योजना से आने वाले समय में पाकिस्तान का एक बड़ा हिस्सा पानी की एक-एक बूंद के लिए तरस जाएगा।\n\nयह फैसला कूटनीति के लिहाज से कितना असरदार साबित होगा? वीडियो पूरा देखकर अपनी बात कमेंट में रखें।\n\n#IndusRiver #IndiaPakistan #LadakhNews #IndianArmy #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788606773558_7ab4qt9p_indus_river_ladakh_rock_check_dam.mp4",
+                "_id": "6a9bf9386fbe8d32c8cf4b4b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tL-m8V_AbnAQ7kNvwHvz4J4&_nc_oc=AdqVkeS-dR8MsheRVZitRKctyYAo2q1WSzpOqLgo6HRAf6G0c5XXO2PevXP3GbIAHok&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=NFKTvhxXKijopvpvrixujg&_nc_tpa=Q5bMBQI6Y_fOHVvHXwvfiZcMvhxcbK6hPCyUf5PKqw53cW69_bwQXN0whsCBo1JbgMuafluhCsrbsqAd&oh=00_AQKXNqNuDGCCsNy9mk9ivvnG9VJNX758Sy7Dt_LxM5KU9g&oe=6AA16B14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:12:55.200Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a68b62a85100ee976c27ae27e06bde00",
+                "_id": "6a9bf9386fbe8d32c8cf4b4c",
+                "platformPostId": "1750089699529310",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1750089699529310",
+                "publishedAt": "2026-09-05T11:13:11.888Z"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:12:55.200Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:12:56.106Z",
+            "updatedAt": "2026-09-05T11:13:12.036Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:12:56.169Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:13:12.246186+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bf9695e31264e5ed7038f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सिंधु नदी पर भारत का ऐसा मास्टरस्ट्रोक, जिसे देख पाकिस्तान की नींद उड़ गई है! 🌊\n\nलद्दाख में भारत ने पानी के बहाव को नियंत्रित करने के लिए कड़ा रुख अपना लिया है। इस कदम से पाकिस्तान में बूंद-बूंद पानी के लाले पड़ सकते हैं।\n\nक्या भारत का यह फैसला सही है? शेयर करें और बताएं।\n\n#IndusRiver #IndiaPakistan #LadakhNews #IndianArmy #Geopolitics",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788606822494_xl74v5go_indus_river_ladakh_rock_check_dam.mp4",
+                "_id": "6a9bf9695e31264e5ed70390"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwHASMy1&_nc_oc=Ado5Yt7EVPY0qknqlmIkYAVFjZs5Xqp6cZ_xwhNq9C86ZNkY-8FdykvI2AKzj_F71OE&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d9pyMK3cp--7em-k91j-NA&_nc_tpa=Q5bMBQKtNPcJ4GTfk_WGg6ZHwris9f-d6y2Bn59_tiV0EpR5chqjw_AbW2_oEwGUGyzAtKp8oyJ7wIEoJA&oh=00_AQIEqEwe_sUVe_inGLDYampcjeyUZyOl_w_SqE_B6XilPg&oe=6AA15EBB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:13:44.066Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "e256fa884c8fc22c072d6079ff459fc8",
+                "_id": "6a9bf9695e31264e5ed70391"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:13:44.066Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:13:45.010Z",
+            "updatedAt": "2026-09-05T11:13:46.569Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:13:45.133Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:13:46.914891+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "saharanpur_mosque_demolition_iqra_hasan_house_arrest",
+    "virality_score": 9,
+    "reason": "High-tension political development involving a prominent MP and a mosque demolition.",
+    "region": "india",
+    "headline": "सपा सांसद इकरा हसन को क्यों किया गया हाउस अरेस्ट?",
+    "source_summary": "समाजवादी पार्टी की सांसद इकरा हसन को पुलिस द्वारा हाउस अरेस्ट यानी नजरबंद कर दिया गया है. यह बड़ी खबर उत्तर प्रदेश के सहारनपुर से सामने आ रही है, जहां इकरा हसन जाने की कोशिश कर रही थीं. दरअसल, सहारनपुर के कलेक्ट्रेट परिसर में बनी एक मस्जिद को अवैध बताकर ढहा दिया गया था. इसी घटना के बाद वहां तनाव का माहौल था और इकरा हसन पीड़ित पक्ष से मिलने और स्थिति का जायजा लेने के लिए सहारनपुर जा रही थीं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/samajwadi-party-mp-iqra-hasan-house-arrested-on-her-way-to-saharanpur-ytvd-vdos-2636803-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T13:54:49+05:30",
+    "hook": "सपा सांसद इकरा हसन को पुलिस ने क्यों किया हाउस अरेस्ट?",
+    "script_hi": "सपा सांसद इकरा हसन को उत्तर प्रदेश के सहारनपुर में पुलिस ने हाउस अरेस्ट कर लिया है. सहारनपुर के कलेक्ट्रेट परिसर में बनी एक मस्जिद को अवैध बताकर ढहा दिया गया था, जिसके बाद वहां तनाव का माहौल है. इकरा हसन पीड़ित पक्ष से मिलने और स्थिति का जायजा लेने सहारनपुर जा रही थीं, उससे पहले ही उन्हें रोक दिया गया.",
+    "tts_text_hi": "सपा सांसद इकरा हसन को उत्तर प्रदेश के सहारनपुर में पुलिस ने हाउस अरेस्ट कर लिया है. सहारनपुर के कलेक्ट्रेट परिसर में बनी एक मस्जिद को अवैध बताकर ढहा दिया गया था, जिसके बाद वहां तनाव का माहौल है. इकरा हसन पीड़ित पक्ष से मिलने और स्थिति का जायजा लेने सहारनपुर जा रही थीं, उससे पहले ही उन्हें रोक दिया गया.",
+    "title": "सपा सांसद इकरा हसन हाउस अरेस्ट",
+    "caption": "उत्तर प्रदेश के सहारनपुर में मस्जिद गिराए जाने के मामले के बाद सपा सांसद इकरा हसन को हाउस अरेस्ट कर लिया गया है।",
+    "hashtags": [
+      "#IqraHasan",
+      "#SamajwadiParty",
+      "#Saharanpur",
+      "#UttarPradesh",
+      "#NewsUpdates"
+    ],
+    "visual_queries": [
+      "Indian politician portrait",
+      "police barricade India",
+      "district collectorate office India",
+      "heavy police force India"
+    ],
+    "named_person": "Iqra Hasan",
+    "named_person_hi": "इकरा हसन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "यह खबर सांप्रदायिक तनाव और धार्मिक स्थल (मस्जिद) गिराए जाने से जुड़ी है, इसलिए भारत-विशेष संवेदनशीलता के नियमों के तहत इसे मैनुअल रिव्यू के लिए चिह्नित किया गया है।",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "इकरा हसन",
+        "source": "fallback",
+        "query": "Iqra Hasan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38461572/pexels-photo-38461572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian politician portrait",
+        "credit": "Farman Ansari",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police barricade India",
+        "credit": "Sonika Agarwal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "district collectorate office India",
+        "credit": "Preetesh  biswas",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "heavy police force India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "iran_kharg_island_missile_strike_us",
+    "virality_score": 9,
+    "reason": "Major global geopolitical conflict escalation involving suspected US strikes near an Iranian oil hub.",
+    "region": "india",
+    "headline": "ईरान के खार्ग द्वीप के पास जोरदार धमाका, US ने किया हमला!",
+    "source_summary": "ईरान के खार्ग द्वीप के पास शनिवार को धमाकों की आवाजें सुनी गईं. स्थानीय सूत्रों के हवाले से ईरानी टैंकर को अमेरिकी मिसाइल से निशाना बनाए जाने की अपुष्ट रिपोर्ट है. हालांकि, धमाकों की वजह की पुष्टि नहीं हुई है और ईरानी अधिकारियों ने तत्काल कोई बयान नहीं दिया.",
+    "source_url": "https://www.aajtak.in/world/story/explosions-heard-near-irans-kharg-island-in-gulf-ntc-apdy-dskc-2636828-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T13:35:00+05:30",
+    "hook": "ईरान के खार्ग द्वीप के पास जोरदार धमाका!",
+    "script_hi": "ईरान के खार्ग द्वीप के पास शनिवार को जोरदार धमाकों की आवाजें सुनी गईं। स्थानीय सूत्रों के अनुसार एक ईरानी टैंकर को अमेरिकी मिसाइल से निशाना बनाए जाने की अपुष्ट रिपोर्ट सामने आई है। हालांकि, अभी तक धमाकों की असली वजह की कोई आधिकारिक पुष्टि नहीं हुई है और ईरानी अधिकारियों की तरफ से भी तत्काल कोई बयान नहीं आया है।",
+    "tts_text_hi": "ईरान के खार्ग द्वीप के पास शनिवार को जोरदार धमाकों की आवाजें सुनी गईं। स्थानीय सूत्रों के अनुसार एक ईरानी टैंकर को अमेरिकी मिसाइल से निशाना बनाए जाने की अपुष्ट रिपोर्ट सामने आई है। हालांकि, अभी तक धमाकों की असली वजह की कोई आधिकारिक पुष्टि नहीं हुई है और ईरानी अधिकारियों की तरफ से भी तत्काल कोई बयान नहीं आया है।",
+    "title": "ईरान के खार्ग द्वीप के पास धमाका",
+    "caption": "ईरान के खार्ग द्वीप के पास धमाकों की आवाजें, अमेरिकी हमले की अपुष्ट रिपोर्ट।",
+    "hashtags": [
+      "IranExplosion",
+      "KhargIsland",
+      "USIran",
+      "BreakingNews",
+      "MiddleEastNews"
+    ],
+    "visual_queries": [
+      "Kharg Island aerial view",
+      "burning oil tanker sea",
+      "missile launch smoke",
+      "Iranian flag government building"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Middle East military conflict",
+        "credit": "Content Factory",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7106859/7106859-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "missile launch smoke",
+        "credit": "Kindel Media",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/16106307/16106307-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Iranian flag government building",
+        "credit": "Farshad G",
+        "source_duration_sec": 19,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37672409/pexels-photo-37672409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kharg Island aerial view",
+        "credit": "Adina Yusuf",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 23,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ईरान के खार्ग द्वीप पर बड़ा हमला! US स्ट्राइक से दहला मिडिल ईस्ट 🚨",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने सबको चौंका दिया। 🚨 ईरान के खार्ग द्वीप के पास एक जोरदार धमाके ने मिडिल ईस्ट की राजनीति में हलचल मचा दी है। शुरुआती रिपोर्टों में इसे यूएस हमला बताया जा रहा है, जिससे इलाके में तनाव अपने चरम पर है। पूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#IranNews #KhargIsland #USattack #MiddleEastTension #WorldNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस और एजेंसियों को भी चौंका दिया। 🚨 ईरान के खार्ग द्वीप के पास हुए जोरदार धमाके ने मिडिल ईस्ट में खलबली मचा दी है। क्या यह एक नए युद्ध की शुरुआत है? वीडियो शेयर करें और अपनी राय दें।\n\n#IranNews #KhargIsland #USattack #MiddleEastTension #WorldNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सीसीटीवी में कैद हुआ वह मंज़र जिसने सबको सकते में डाल दिया। 🇮🇷 ईरान के खार्ग द्वीप के पास हुए इस रहस्यमयी और जोरदार धमाके के बाद दुनिया भर की नजरें इस इलाके पर टिक गई हैं। क्या अमेरिका ने सच में यह बड़ा कदम उठाया है? जानिए पूरी कहानी इस वीडियो में।\n\n#IranNews #KhargIsland #USattack #MiddleEastTension #WorldNews"
+      },
+      "hashtags": [
+        "IranNews",
+        "KhargIsland",
+        "USattack",
+        "MiddleEastTension",
+        "WorldNews"
+      ]
+    },
+    "audio_path": "audio/iran_kharg_island_missile_strike_us.wav",
+    "audio_duration_sec": 24.56,
+    "video_path": "videos/iran_kharg_island_missile_strike_us.mp4",
+    "video_duration_sec": 32.56,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-05T11:17:58.041762+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bfa7cb5accd99becc91c0",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में कैद हुआ वह मंज़र जिसने सबको सकते में डाल दिया। 🇮🇷 ईरान के खार्ग द्वीप के पास हुए इस रहस्यमयी और जोरदार धमाके के बाद दुनिया भर की नजरें इस इलाके पर टिक गई हैं। क्या अमेरिका ने सच में यह बड़ा कदम उठाया है? जानिए पूरी कहानी इस वीडियो में।\n\n#IranNews #KhargIsland #USattack #MiddleEastTension #WorldNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788607097408_4l8ndm4v_iran_kharg_island_missile_strike_us.mp4",
+                "_id": "6a9bfa7cb5accd99becc91c1"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tL-m8V_AbnAQ7kNvwHvz4J4&_nc_oc=AdqVkeS-dR8MsheRVZitRKctyYAo2q1WSzpOqLgo6HRAf6G0c5XXO2PevXP3GbIAHok&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=NFKTvhxXKijopvpvrixujg&_nc_tpa=Q5bMBQI6Y_fOHVvHXwvfiZcMvhxcbK6hPCyUf5PKqw53cW69_bwQXN0whsCBo1JbgMuafluhCsrbsqAd&oh=00_AQKXNqNuDGCCsNy9mk9ivvnG9VJNX758Sy7Dt_LxM5KU9g&oe=6AA16B14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:18:19.297Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "d04f38fd43cb5c879af4580ebfc31cab",
+                "_id": "6a9bfa7cb5accd99becc91c2",
+                "platformPostId": "1472492901564509",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1472492901564509",
+                "publishedAt": "2026-09-05T11:18:29.770Z"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:18:19.297Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:18:20.242Z",
+            "updatedAt": "2026-09-05T11:18:29.882Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:18:20.611Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:18:30.218391+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bfa99b8c3368d8e7a21d5",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस और एजेंसियों को भी चौंका दिया। 🚨 ईरान के खार्ग द्वीप के पास हुए जोरदार धमाके ने मिडिल ईस्ट में खलबली मचा दी है। क्या यह एक नए युद्ध की शुरुआत है? वीडियो शेयर करें और अपनी राय दें।\n\n#IranNews #KhargIsland #USattack #MiddleEastTension #WorldNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788607127401_81zoeee5_iran_kharg_island_missile_strike_us.mp4",
+                "_id": "6a9bfa99b8c3368d8e7a21d6"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwHASMy1&_nc_oc=Ado5Yt7EVPY0qknqlmIkYAVFjZs5Xqp6cZ_xwhNq9C86ZNkY-8FdykvI2AKzj_F71OE&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d9pyMK3cp--7em-k91j-NA&_nc_tpa=Q5bMBQKtNPcJ4GTfk_WGg6ZHwris9f-d6y2Bn59_tiV0EpR5chqjw_AbW2_oEwGUGyzAtKp8oyJ7wIEoJA&oh=00_AQIEqEwe_sUVe_inGLDYampcjeyUZyOl_w_SqE_B6XilPg&oe=6AA15EBB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:18:48.908Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "6dcc09f3b7df19eb5a4a5d70ca62d21f",
+                "_id": "6a9bfa99b8c3368d8e7a21d7"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:18:48.908Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:18:49.800Z",
+            "updatedAt": "2026-09-05T11:18:51.988Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:18:49.873Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:18:52.361657+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "kerala_90_percent_disabled_student_iit_madras",
+    "virality_score": 9,
+    "reason": "Extremely inspiring success story of a 17-year-old overcoming severe disability to enter IIT.",
+    "region": "india",
+    "headline": "90% दिव्यांगता के बावजूद 12वीं में बना स्कूल टॉपर, अब IIT मद्रास में दाखिला; पढ़ें 17 साल के संतोष की कहानी",
+    "source_summary": "Success Story: 17 साल के संतोष के स्कूल का एक ट्रिप आईआईटी मद्रास गया था, जिसमें वो अपनी शारीरिक स्थिति के चलते नहीं जा पाया था. अब इसी आईआईटी में संतोष ने एडमिशन लिया है और अपने नए भविष्य की तरफ कदम बढ़ाया है.",
+    "source_url": "https://ndtv.in/education/success-story-auto-driver-son-santosh-got-iit-madras-seat-with-90-percent-disability-11995999#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 05 Sep 2026 10:56:03 +0530",
+    "hook": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया!",
+    "script_hi": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! सत्रह साल के संतोष ने साबित कर दिया कि हौसले बुलंद हों तो कोई भी रुकावट आपको रोक नहीं सकती। संतोष का एक ट्रिप आईआईटी मद्रास गया था, जहाँ वो अपनी शारीरिक स्थिति के कारण नहीं जा पाया था। लेकिन अब उसी प्रतिष्ठित आईआईटी मद्रास में संतोष ने एडमिशन लेकर अपने सपनों को उड़ान दी है।",
+    "tts_text_hi": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! सत्रह साल के संतोष ने साबित कर दिया कि हौसले बुलंद हों तो कोई भी रुकावट आपको रोक नहीं सकती। संतोष का एक ट्रिप आईआईटी मद्रास गया था, जहाँ वो अपनी शारीरिक स्थिति के कारण नहीं जा पाया था। लेकिन अब उसी प्रतिष्ठित आईआईटी मद्रास में संतोष ने एडमिशन लेकर अपने सपनों को उड़ान दी है।",
+    "title": "90% दिव्यांगता के बावजूद संतोष ने IIT मद्रास में पाया दाखिला",
+    "caption": "सत्रह साल के संतोष ने नब्बे प्रतिशत विकलांगता को मात देकर आईआईटी मद्रास में दाखिला लिया है। जानिए इस प्रेरणादायक सफलता की कहानी।",
+    "hashtags": [
+      "SuccessStory",
+      "IITMadras",
+      "Inspiration",
+      "IndianEducation",
+      "NeverGiveUp",
+      "ProudIndian"
+    ],
+    "visual_queries": [
+      "disabled Indian student studying",
+      "Indian school classroom students",
+      "IIT Madras campus India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -36,42 +872,291 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/27358592/pexels-photo-27358592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14180701/pexels-photo-14180701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Russian defence equipment India",
-        "credit": "Виктор Соломоник",
+        "query": "happy Indian student studying",
+        "credit": "Kartik Das",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/1895114/pexels-photo-1895114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "New Delhi government building India",
-        "credit": "Nishant Malik",
+        "query": "Indian school classroom students",
+        "credit": "Balljinder Singh",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34525311/pexels-photo-34525311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31041247/pexels-photo-31041247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "government officials New Delhi",
-        "credit": "Saakshi Yadav",
+        "query": "IIT Madras campus India",
+        "credit": "AHAD HASAN",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11349464/pexels-photo-11349464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13019686/pexels-photo-13019686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "defense technology exhibition",
-        "credit": "Etkin Celep",
+        "query": "happy Indian student campus",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13128608/pexels-photo-13128608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8197503/pexels-photo-8197503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern missile launcher",
-        "credit": "Shuaizhi Tian",
+        "query": "university student studying laptop",
+        "credit": "Yan Krukau",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32414213/pexels-photo-32414213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "inspiring success story India",
+        "credit": "Dr. Haror's  Wellness",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "90% दिव्यांगता को हराकर संतोष पहुंचा IIT मद्रास! 🎓",
+        "caption": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! 🛑\n\nमहज 17 साल की उम्र में संतोष ने वो कर दिखाया जिसकी किसी ने उम्मीद नहीं की थी। शरीर की लाचारी को पक्के इरादे से हराते हुए अब उन्होंने IIT मद्रास में दाखिला पा लिया है।\n\nइस प्रेरणादायक कहानी को पूरा देखें और शेयर करें। पूरी कहानी देखें।\n\n#SantoshIIT #InspirationalStory #IITMadras #DisabilityIsNoBarrier #SuccessStory"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! 🛑\n\n17 साल के संतोष की ये जिद आपको हैरान कर देगी। शरीर साथ नहीं दे रहा था, फिर भी सपनों को नहीं टूटने दिया और अब सीधे IIT मद्रास का सफर तय किया है। \n\nकहानी कैसी लगी, कमेंट में बताएं।\n\n#SantoshIIT #InspirationalStory #IITMadras #DisabilityIsNoBarrier #SuccessStory"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! 🛑\n\nमुश्किलें चाहे जितनी भी बड़ी हों, अगर हौसला पक्का हो तो हर दीवार गिराई जा सकती है। 17 साल के संतोष ने 90% दिव्यांगता के बावजूद हार नहीं मानी और स्कूल टॉप करने के बाद अब देश के सबसे प्रतिष्ठित संस्थान IIT मद्रास में अपनी जगह बनाई है। \n\nसंतोष का यह जज्बा हर किसी के लिए एक मिसाल है। क्या आपने कभी ऐसी प्रेरणादायक कहानी देखी है? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#SantoshIIT #InspirationalStory #IITMadras #DisabilityIsNoBarrier #SuccessStory"
+      },
+      "hashtags": [
+        "SantoshIIT",
+        "InspirationalStory",
+        "IITMadras",
+        "DisabilityIsNoBarrier",
+        "SuccessStory"
+      ]
+    },
+    "audio_path": "audio/kerala_90_percent_disabled_student_iit_madras.wav",
+    "audio_duration_sec": 23.64,
+    "video_path": "videos/kerala_90_percent_disabled_student_iit_madras.mp4",
+    "video_duration_sec": 31.68,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-05T11:22:31.488363+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bfb94c56263ead260885d",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! 🛑\n\nमुश्किलें चाहे जितनी भी बड़ी हों, अगर हौसला पक्का हो तो हर दीवार गिराई जा सकती है। 17 साल के संतोष ने 90% दिव्यांगता के बावजूद हार नहीं मानी और स्कूल टॉप करने के बाद अब देश के सबसे प्रतिष्ठित संस्थान IIT मद्रास में अपनी जगह बनाई है। \n\nसंतोष का यह जज्बा हर किसी के लिए एक मिसाल है। क्या आपने कभी ऐसी प्रेरणादायक कहानी देखी है? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#SantoshIIT #InspirationalStory #IITMadras #DisabilityIsNoBarrier #SuccessStory",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788607377770_3ub8su4k_kerala_90_percent_disabled_student_iit_madras.mp4",
+                "_id": "6a9bfb94c56263ead260885e"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tL-m8V_AbnAQ7kNvwHvz4J4&_nc_oc=AdqVkeS-dR8MsheRVZitRKctyYAo2q1WSzpOqLgo6HRAf6G0c5XXO2PevXP3GbIAHok&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=NFKTvhxXKijopvpvrixujg&_nc_tpa=Q5bMBQI6Y_fOHVvHXwvfiZcMvhxcbK6hPCyUf5PKqw53cW69_bwQXN0whsCBo1JbgMuafluhCsrbsqAd&oh=00_AQKXNqNuDGCCsNy9mk9ivvnG9VJNX758Sy7Dt_LxM5KU9g&oe=6AA16B14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:22:59.764Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "4075c4aae1895ebe006cabeda236d740",
+                "_id": "6a9bfb94c56263ead260885f",
+                "platformPostId": "1571954164469582",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1571954164469582",
+                "publishedAt": "2026-09-05T11:23:11.749Z"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:22:59.764Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:23:00.503Z",
+            "updatedAt": "2026-09-05T11:23:11.883Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:23:00.628Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:23:12.450018+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bfbbb29193a11f313401c",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "नब्बे प्रतिशत विकलांगता, फिर भी बारहवीं में स्कूल टॉप किया! 🛑\n\n17 साल के संतोष की ये जिद आपको हैरान कर देगी। शरीर साथ नहीं दे रहा था, फिर भी सपनों को नहीं टूटने दिया और अब सीधे IIT मद्रास का सफर तय किया है। \n\nकहानी कैसी लगी, कमेंट में बताएं।\n\n#SantoshIIT #InspirationalStory #IITMadras #DisabilityIsNoBarrier #SuccessStory",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788607417626_sbkry3a4_kerala_90_percent_disabled_student_iit_madras.mp4",
+                "_id": "6a9bfbbb29193a11f313401d"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwHASMy1&_nc_oc=Ado5Yt7EVPY0qknqlmIkYAVFjZs5Xqp6cZ_xwhNq9C86ZNkY-8FdykvI2AKzj_F71OE&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d9pyMK3cp--7em-k91j-NA&_nc_tpa=Q5bMBQKtNPcJ4GTfk_WGg6ZHwris9f-d6y2Bn59_tiV0EpR5chqjw_AbW2_oEwGUGyzAtKp8oyJ7wIEoJA&oh=00_AQIEqEwe_sUVe_inGLDYampcjeyUZyOl_w_SqE_B6XilPg&oe=6AA15EBB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:23:39.002Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "6db1e0f10d297cb353af5d1018066c95",
+                "_id": "6a9bfbbb29193a11f313401e"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:23:39.002Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:23:39.972Z",
+            "updatedAt": "2026-09-05T11:23:41.742Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:23:40.062Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:23:42.308507+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "jammu_kashmir_usmarg_encounter_lashkar_commander",
+    "virality_score": 8,
+    "reason": "High-impact security update on the neutralization of a key Lashkar commander in J&K.",
+    "region": "india",
+    "headline": "कश्मीर में सुरक्षाबलों को बड़ी कामयाबी, पाकिस्तानी लश्कर कमांडर ढेर",
+    "source_summary": "जम्मू-कश्मीर के यूसमर्ग एनकाउंटर में पाकिस्तानी लश्कर कमांडर यासिर मारा गया. सूत्रों के मुताबिक, यासिर पहले सुलेमान मूसा ग्रुप का हिस्सा था, लेकिन करीब एक साल पहले अलग हो गया था. सुरक्षा एजेंसियों के मुताबिक, पहलगाम आतंकी हमले का मास्टरमाइंड सुलेमान मूसा पिछले साल डाचीगाम में मारा गया था.",
+    "source_url": "https://www.aajtak.in/india/jammu-kashmir/story/jammu-kashmir-yousmarg-encounter-pakistani-terrorist-dead-ntc-apdy-rptc-2636880-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T14:34:22+05:30",
+    "hook": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर!",
+    "script_hi": "जम्मू-कश्मीर के यूसमर्ग एनकाउंटर में सुरक्षाबलों ने पाकिस्तानी लश्कर कमांडर यासिर को ढेर कर दिया है। सूत्रों के मुताबिक यासिर पहले सुलेमान मूसा ग्रुप का हिस्सा था। पहलगाम हमले का मास्टरमाइंड सुलेमान मूसा पिछले साल ही डाचीगाम में मारा गया था।",
+    "tts_text_hi": "जम्मू-कश्मीर के यूसमर्ग एनकाउंटर में सुरक्षाबलों ने पाकिस्तानी लश्कर कमांडर यासिर को ढेर कर दिया है। सूत्रों के मुताबिक यासिर पहले सुलेमान मूसा ग्रुप का हिस्सा था। पहलगाम हमले का मास्टरमाइंड सुलेमान मूसा पिछले साल ही डाचीगाम में मारा गया था।",
+    "title": "कश्मीर में लश्कर कमांडर ढेर",
+    "caption": "जम्मू-कश्मीर के यूसमर्ग एनकाउंटर में सुरक्षाबलों को बड़ी कामयाबी मिली है।",
+    "hashtags": [
+      "KashmirNews",
+      "IndianArmy",
+      "Encounter",
+      "JammuKashmir",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Indian military forces India",
+      "Kashmir mountain valley India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian military forces India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18329047/pexels-photo-18329047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kashmir mountain valley India",
+        "credit": "Iqbal farooz",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3974036/pexels-photo-3974036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Jammu Kashmir landscape",
+        "credit": "Imad Clicks",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian security forces",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13927123/pexels-photo-13927123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kashmir valley scenery",
+        "credit": "Syed Qaarif Andrabi",
         "duration_sec": 5
       }
     ],
@@ -80,34 +1165,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "ऑपरेशन सिंदूर की सफलता! भारत खरीदेगा 5 और S-400 सिस्टम 🚀",
-        "caption": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है! 🚨 रूस ने इसके लिए नया कॉस्ट प्रपोजल भेज दिया है, जिससे देश की सामरिक ताकत और मजबूत होगी। क्या है इस डील की पूरी तस्वीर? जानिए इस वीडियो में। 🇮🇳\n\nपूरी कहानी देखें और अपनी राय साझा करें।\n\n#S400MissileSystem #OperationSindoor #IndianAirForce #IndiaRussiaRelations #DefenceNews"
+        "title": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨 लश्कर का बड़ा खात्मा",
+        "caption": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨\n\nइलाके में लंबे वक्त से इस बड़े आतंकी की तलाश थी। सुरक्षाबलों और आतंकियों के बीच चली मुठभेड़ में लश्कर का यह खूंखार कमांडर ढेर हो गया है।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट में बताएं।\n\n#KashmirNews #IndianArmy #LashkarCommander #JammuKashmir #SecurityForces"
       },
       "instagram": {
         "title": null,
-        "caption": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है! 🎯 रूस ने भेज दिया है नया कॉस्ट प्रपोजल। भारतीय वायुसेना की ताकत अब और कितनी बढ़ेगी? वीडियो अंत तक देखें। 👇\n\n#S400MissileSystem #OperationSindoor #IndianAirForce #IndiaRussiaRelations #DefenceNews"
+        "caption": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨\n\nआतंकियों के खिलाफ इस बड़े एक्शन में लश्कर के कमांडर का खेल खत्म हो गया। सुरक्षाबलों को लंबे समय से इसकी तलाश थी।\n\nशेयर करें ताकि दूसरों तक भी पहुंचे यह अपडेट। 📲\n\n#KashmirNews #IndianArmy #LashkarCommander #JammuKashmir #SecurityForces"
       },
       "facebook": {
         "title": null,
-        "caption": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है! 🛡️ रूस की तरफ से इसके लिए नया कॉस्ट प्रपोजल भी भेज दिया गया है। देश की सुरक्षा के लिहाज से यह एक बहुत बड़ा कदम माना जा रहा है। पूरी कहानी क्या है, आइए जानते हैं इस वीडियो में। 🇮🇳\n\n#S400MissileSystem #OperationSindoor #IndianAirForce #IndiaRussiaRelations #DefenceNews"
+        "caption": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨\n\nघाटी में सुरक्षाबलों को एक और बड़ी कामयाबी हाथ लगी है। सटीक खुफिया जानकारी के आधार पर चलाए गए इस ऑपरेशन में लश्कर-ए-तैयबा के बड़े कमांडर को ढेर कर दिया गया है। इलाके में सर्च ऑपरेशन अभी भी जारी है।\n\nपूरी खबर के लिए वीडियो देखें।\n\n#KashmirNews #IndianArmy #LashkarCommander #JammuKashmir #SecurityForces"
       },
       "hashtags": [
-        "S400MissileSystem",
-        "OperationSindoor",
-        "IndianAirForce",
-        "IndiaRussiaRelations",
-        "DefenceNews"
+        "KashmirNews",
+        "IndianArmy",
+        "LashkarCommander",
+        "JammuKashmir",
+        "SecurityForces"
       ]
     },
-    "audio_path": "audio/india_s400_additional_purchase_russia.wav",
-    "audio_duration_sec": 19.25,
-    "video_path": "videos/india_s400_additional_purchase_russia.mp4",
-    "video_duration_sec": 27.19,
+    "audio_path": "audio/jammu_kashmir_usmarg_encounter_lashkar_commander.wav",
+    "audio_duration_sec": 17.81,
+    "video_path": "videos/jammu_kashmir_usmarg_encounter_lashkar_commander.mp4",
+    "video_duration_sec": 25.86,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-05T08:29:28.587365+00:00"
+        "attempted_at": "2026-09-05T11:26:45.450905+00:00"
       },
       "facebook": {
         "success": true,
@@ -120,15 +1205,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9bd2fa98fd8ed3d539ea51",
+            "_id": "6a9bfc9057656d7243ed1c08",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है! 🛡️ रूस की तरफ से इसके लिए नया कॉस्ट प्रपोजल भी भेज दिया गया है। देश की सुरक्षा के लिहाज से यह एक बहुत बड़ा कदम माना जा रहा है। पूरी कहानी क्या है, आइए जानते हैं इस वीडियो में। 🇮🇳\n\n#S400MissileSystem #OperationSindoor #IndianAirForce #IndiaRussiaRelations #DefenceNews",
+            "content": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨\n\nघाटी में सुरक्षाबलों को एक और बड़ी कामयाबी हाथ लगी है। सटीक खुफिया जानकारी के आधार पर चलाए गए इस ऑपरेशन में लश्कर-ए-तैयबा के बड़े कमांडर को ढेर कर दिया गया है। इलाके में सर्च ऑपरेशन अभी भी जारी है।\n\nपूरी खबर के लिए वीडियो देखें।\n\n#KashmirNews #IndianArmy #LashkarCommander #JammuKashmir #SecurityForces",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788596984719_b3dtx31i_india_s400_additional_purchase_russia.mp4",
-                "_id": "6a9bd2fa98fd8ed3d539ea52"
+                "url": "https://media.zernio.com/media/1788607629719_n7sdl1yj_jammu_kashmir_usmarg_encounter_lashkar_commander.mp4",
+                "_id": "6a9bfc9057656d7243ed1c09"
               }
             ],
             "platforms": [
@@ -145,17 +1230,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-05T08:29:45.824Z",
+                "scheduledFor": "2026-09-05T11:27:11.640Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "2aa83f06c9495c0406252ea8ba3f0f7c",
-                "_id": "6a9bd2fa98fd8ed3d539ea53",
-                "platformPostId": "1605499424456569",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1605499424456569",
-                "publishedAt": "2026-09-05T08:29:51.700Z"
+                "contentHash": "2102593c218ff0103d06234284667029",
+                "_id": "6a9bfc9057656d7243ed1c0a",
+                "platformPostId": "1121213890334700",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1121213890334700",
+                "publishedAt": "2026-09-05T11:27:21.183Z"
               }
             ],
-            "scheduledFor": "2026-09-05T08:29:45.824Z",
+            "scheduledFor": "2026-09-05T11:27:11.640Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -167,14 +1252,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-05T08:29:46.474Z",
-            "updatedAt": "2026-09-05T08:29:51.820Z",
+            "createdAt": "2026-09-05T11:27:12.435Z",
+            "updatedAt": "2026-09-05T11:27:21.422Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-05T08:29:46.544Z"
+            "publishingClaimedAt": "2026-09-05T11:27:12.510Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-05T08:29:51.981969+00:00"
+        "attempted_at": "2026-09-05T11:27:21.653318+00:00"
       },
       "instagram": {
         "success": true,
@@ -187,15 +1272,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9bd317d602e835c0ef583e",
+            "_id": "6a9bfcb75c35330f00ff1d87",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "ऑपरेशन सिंदूर की सफलता के बाद भारत रूस से पाँच और एस चार सौ मिसाइल सिस्टम खरीदने की तैयारी में है! 🎯 रूस ने भेज दिया है नया कॉस्ट प्रपोजल। भारतीय वायुसेना की ताकत अब और कितनी बढ़ेगी? वीडियो अंत तक देखें। 👇\n\n#S400MissileSystem #OperationSindoor #IndianAirForce #IndiaRussiaRelations #DefenceNews",
+            "content": "कश्मीर में सुरक्षाबलों ने गिराया पाकिस्तानी कमांडर! 🚨\n\nआतंकियों के खिलाफ इस बड़े एक्शन में लश्कर के कमांडर का खेल खत्म हो गया। सुरक्षाबलों को लंबे समय से इसकी तलाश थी।\n\nशेयर करें ताकि दूसरों तक भी पहुंचे यह अपडेट। 📲\n\n#KashmirNews #IndianArmy #LashkarCommander #JammuKashmir #SecurityForces",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788597014105_o4d80x3u_india_s400_additional_purchase_russia.mp4",
-                "_id": "6a9bd317d602e835c0ef583f"
+                "url": "https://media.zernio.com/media/1788607669813_107b1hn5_jammu_kashmir_usmarg_encounter_lashkar_commander.mp4",
+                "_id": "6a9bfcb75c35330f00ff1d88"
               }
             ],
             "platforms": [
@@ -212,14 +1297,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-05T08:30:15.223Z",
+                "scheduledFor": "2026-09-05T11:27:50.914Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "c9affac9e2d5ed1857f34e02da964a2f",
-                "_id": "6a9bd317d602e835c0ef5840"
+                "contentHash": "542b8a47ac70da818e00304de141a4e6",
+                "_id": "6a9bfcb75c35330f00ff1d89"
               }
             ],
-            "scheduledFor": "2026-09-05T08:30:15.223Z",
+            "scheduledFor": "2026-09-05T11:27:50.914Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -231,168 +1316,47 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-05T08:30:15.895Z",
-            "updatedAt": "2026-09-05T08:30:18.856Z",
+            "createdAt": "2026-09-05T11:27:51.945Z",
+            "updatedAt": "2026-09-05T11:27:53.964Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-05T08:30:15.972Z"
+            "publishingClaimedAt": "2026-09-05T11:27:52.032Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-05T08:30:19.222104+00:00"
+        "attempted_at": "2026-09-05T11:27:54.312321+00:00"
       }
     }
   },
   {
-    "topic_label": "stray_dog_saves_woman_coimbatore",
+    "topic_label": "madhya_pradesh_bittu_toba_ajnari_river_cleaning",
     "virality_score": 8,
-    "reason": "Incredible CCTV footage story from Coimbatore where a stray dog courageously chases away a harasser to save a woman.",
+    "reason": "Inspirational viral story of a 20-year-old single-handedly reviving a polluted river.",
     "region": "india",
-    "headline": "कोयंबटूर में आवारा कुत्ते ने बचाई महिला की इज्जत, शराबी लड़के को सड़कों पर दौड़ाया",
-    "source_summary": "Stray Dogs Save Woman: सोशल मीडिया पर वायरल 2 मिनट 12 सेकंड के सीसीटीवी वीडियो में आप स्ट्रीट डॉग को महिला को परेशान करने वाले शराबी लड़के को सड़क पर दौड़ाते साफ देख सकते हैं.",
-    "source_url": "https://ndtv.in/zara-hatke/coimbatore-stray-dogs-save-mentally-ill-woman-from-harassment-watch-video-12004629#publisher=newsstand",
+    "headline": "कहानी 20 साल के बिट्टू तबाही की... जिसने अकेले साफ कर दी अजनार नदी, जहां कभी जलीय जीवन हो गया था खत्म",
+    "source_summary": "मध्य प्रदेश के राजगढ़ जिले के 20 वर्षीय बिट्टू तबाही ने अकेले दम पर अजनार नदी की सफाई कर मिसाल पेश की. जिस नदी में प्रदूषण के कारण जलीय जीवन लगभग खत्म हो गया था, उसे तीन महीने की मेहनत से नया जीवन मिला. बिट्टू की इस पहल की सराहना उद्योगपति आनंद महिंद्रा ने भी की थी.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/bittu-tabahi-ajnar-river-cleanup-anand-mahindra-viral-success-story-river-pollution-rajgarh-biaora-12002563#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sat, 05 Sep 2026 09:13:58 +0530",
-    "hook": "कोयंबटूर में आवारा कुत्ते ने दिखाई बहादुरी!",
-    "script_hi": "कोयंबटूर में एक आवारा कुत्ते ने महिला को बचाकर इंसानियत की मिसाल पेश की है। सोशल मीडिया पर वायरल सीसीटीवी वीडियो में एक शराबी लड़के को सड़क पर महिला को परेशान करते देखा गया। तभी एक स्ट्रीट डॉग ने तुरंत एक्शन लेते हुए उस शराबी को सड़क पर दौड़ा दिया। लोग कुत्ते की इस वफादारी की जमकर तारीफ कर रहे हैं।",
-    "tts_text_hi": "कोयंबटूर में एक आवारा कुत्ते ने महिला को बचाकर इंसानियत की मिसाल पेश की है। सोशल मीडिया पर वायरल सीसीटीवी वीडियो में एक शराबी लड़के को सड़क पर महिला को परेशान करते देखा गया। तभी एक स्ट्रीट डॉग ने तुरंत एक्शन लेते हुए उस शराबी को सड़क पर दौड़ा दिया। लोग कुत्ते की इस वफादारी की जमकर तारीफ कर रहे हैं।",
-    "title": "कोयंबटूर में आवारा कुत्ते ने बचाई महिला की जान, शराबी को दौड़ाया",
-    "caption": "कोयंबटूर से एक हैरान करने वाला सीसीटीवी वीडियो सामने आया है जहां एक आवारा कुत्ते ने महिला की रक्षा की और शराबी लड़के को खदेड़ दिया।",
+    "published": "Sat, 05 Sep 2026 10:31:48 +0530",
+    "hook": "अकेले एक युवक ने बदल दी नदी की किस्मत!",
+    "script_hi": "मध्य प्रदेश के राजगढ़ में बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी की सफाई कर एक मिसाल कायम की है। प्रदूषण से जिस नदी में जलीय जीवन खत्म हो चुका था, उसे मात्र तीन महीने की कड़ी मेहनत से नया जीवन मिल गया। उनकी इस प्रेरणादायक पहल की तारीफ देश के जाने-माने उद्योगपति आनंद महिंद्रा ने भी की है।",
+    "tts_text_hi": "मध्य प्रदेश के राजगढ़ में बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी की सफाई कर एक मिसाल कायम की है। प्रदूषण से जिस नदी में जलीय जीवन खत्म हो चुका था, उसे मात्र तीन महीने की कड़ी मेहनत से नया जीवन मिल गया। उनकी इस प्रेरणादायक पहल की तारीफ देश के जाने-माने उद्योगपति आनंद महिंद्रा ने भी की है।",
+    "title": "बिट्टू तबाही ने अकेले साफ की अजनार नदी",
+    "caption": "मध्य प्रदेश के राजगढ़ के बीस वर्षीय बिट्टू तबाही ने अकेले तीन महीने मेहनत कर अजनार नदी को नया जीवन दिया। आनंद महिंद्रा ने भी की तारीफ।",
     "hashtags": [
-      "Coimbatore",
-      "StrayDog",
-      "ViralVideo",
-      "IndiaNews",
-      "DogLovers",
-      "TamilNadu"
+      "MadhyaPradesh",
+      "RiverCleaning",
+      "Inspiration",
+      "AnandMahindra",
+      "PositiveNews",
+      "India"
     ],
     "visual_queries": [
-      "Coimbatore street India",
-      "stray dog India",
-      "empty Indian street night"
+      "Indian youth cleaning river in Madhya Pradesh",
+      "polluted river India",
+      "clean flowing river India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 27.5,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story's core is a specific viral CCTV video that generic stock B-roll cannot replace; real footage needs to be added manually.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34779296/14744462_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "empty Indian street night",
-        "credit": "Raaj Ugar",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33946140/pexels-photo-33946140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Coimbatore street India",
-        "credit": "Alex Jaison",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37269405/pexels-photo-37269405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stray dog India",
-        "credit": "Aditya Oberai",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "scorpio_car_crane_lifted_rooftop_parking_ug",
-    "virality_score": 8,
-    "reason": "Quirky and viral 'desi jugaad' story of a Scorpio SUV being lifted by a crane onto a two-story rooftop.",
-    "region": "india",
-    "headline": "ये है गजब देसी जुगाड़… क्रेन बुलाई और दो मंजिला छत पर चढ़ा दी Scorpio, वजह जान आपको भी आ जाएगी हंसी",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/add-a-heading-1-10.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"ये है गजब देसी जुगाड़… क्रेन बुलाई और दो मंजिला छत पर चढ़ा दी Scorpio, वजह जान आपको भी आ जाएगी हंसी\" /></figure>Ajab Gajab Jugad: बिहार के गोपालगंज में इजरायल में नौकरी करने वाले शख्स ने अपनी नई स्कोर्पियो क्रेन से छत पर खड़ी करवाई. इसके पीछे की वजह काफी हैरान कर देने वाली है.",
-    "source_url": "https://www.tv9hindi.com/state/bihar/gopalganj-scorpio-parked-on-roof-using-crane-viral-video-funny-reason-3898874.html",
-    "source_name": "TV9 Hindi",
-    "published": "Sat, 05 Sep 2026 11:50:44 +0530",
-    "hook": "बिहार के गोपालगंज में एक शख्स ने गजब का देसी जुगाड़ दिखाया!",
-    "script_hi": "बिहार के गोपालगंज में इजरायल में नौकरी करने वाले शख्स ने अपनी नई स्कोर्पियो कार को क्रेन की मदद से सीधे दो मंजिला छत पर चढ़ा दिया। वजह जान आप भी हैरान रह जाएंगे। दरअसल, गाड़ी पार्क करने के लिए घर में जगह नहीं थी और चोरी के डर से उसने यह अनोखा तरीका निकाला।",
-    "tts_text_hi": "बिहार के गोपालगंज में इजरायल में नौकरी करने वाले शख्स ने अपनी नई स्कोर्पियो कार को क्रेन की मदद से सीधे दो मंजिला छत पर चढ़ा दिया। वजह जान आप भी हैरान रह जाएंगे। दरअसल, गाड़ी पार्क करने के लिए घर में जगह नहीं थी और चोरी के डर से उसने यह अनोखा तरीका निकाला।",
-    "title": "बिहार में देसी जुगाड़: क्रेन से दो मंजिला छत पर चढ़ाई स्कोर्पियो",
-    "caption": "बिहार के गोपालगंज में इजरायल से लौटे शख्स ने चोरी के डर से क्रेन की मदद से अपनी नई स्कोर्पियो दो मंजिला छत पर खड़ी कर दी।",
-    "hashtags": [
-      "BiharNews",
-      "Gopalganj",
-      "DesiJugad",
-      "Scorpio",
-      "ViralNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Gopalganj Bihar street India",
-      "crane lifting car India",
-      "Indian house rooftop parked car"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral visual event showing a Scorpio being lifted by a crane onto a rooftop in Gopalganj; generic stock B-roll cannot adequately show this exact incident without manual addition of the real footage.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5191671/pexels-photo-5191671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Gopalganj Bihar street India",
-        "credit": "Afzal Khan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crane lifting car India",
-        "credit": "Action Construction  Equipment Ltd. - ACE",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "trump_federal_reserve_interest_rates_threat",
-    "virality_score": 7,
-    "reason": "Donald Trump threatening the US central bank over interest rates and trade adds high international drama.",
-    "region": "india",
-    "headline": "&#039;ब्‍याज कम करो, वरना रोक दूंगा व्‍यापार...&#039;, ट्रंप अपने ही केंद्रीय बैंक को क्‍यों धमका रहे?",
-    "source_summary": "अमेरिकी राष्‍ट्रपति डोनाल्‍ड ट्रंप अपने ही केंद्रीय बैंक फेडरल रिजर्व बैंक को धमकाने लगे हैं. उनका कहना है कि अगर ब्‍याज दर में कटौती नहीं की गई तो वह चीन जैसे देश जहां से व्‍यापार घाटा ज्‍यादा, उससे कारोबार रोक देंगे.",
-    "source_url": "https://www.aajtak.in/business/news/story/us-donald-trump-threat-federal-reserve-bank-to-cut-interest-rates-tutd-dskc-2636733-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T11:58:56+05:30",
-    "hook": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है!",
-    "script_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने ही केंद्रीय बैंक फेडरल रिजर्व को चेतावनी दी है। ट्रंप का कहना है कि अगर ब्याज दरें कम नहीं की गईं, तो वह व्यापार रोक देंगे।",
-    "tts_text_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने ही केंद्रीय बैंक फेडरल रिजर्व को चेतावनी दी है। ट्रंप का कहना है कि अगर ब्याज दरें कम नहीं की गईं, तो वह व्यापार रोक देंगे।",
-    "title": "ट्रंप की केंद्रीय बैंक को धमकी",
-    "caption": "डोनाल्ड ट्रंप ने फेडरल रिजर्व को दी धमकी, ब्याज दरें कम करने की मांग की।",
-    "hashtags": [
-      "DonaldTrump",
-      "USNews",
-      "FederalReserve",
-      "BusinessNews",
-      "America"
-    ],
-    "visual_queries": [
-      "white house washington dc",
-      "us federal reserve building",
-      "american dollar banknotes",
-      "global trade shipping containers"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
+    "named_person": "Anand Mahindra",
+    "named_person_hi": "आनंद महिंद्रा",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -400,78 +1364,69 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
+        "text": "आनंद महिंद्रा",
         "source": "fallback",
-        "query": "Donald Trump",
+        "query": "Anand Mahindra",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29199226/12607240_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "us federal reserve building",
-        "credit": "Natalia S",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5241794/pexels-photo-5241794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38786361/pexels-photo-38786361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "white house washington dc",
-        "credit": "Zzel Ramirez",
+        "query": "Indian youth cleaning river in Madhya Pradesh",
+        "credit": "Hussain Badshah",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6590626/pexels-photo-6590626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8207531/pexels-photo-8207531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "american dollar banknotes",
-        "credit": "Sergei Starostin",
+        "query": "polluted river India",
+        "credit": "Anuj Yadav",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32370257/pexels-photo-32370257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28873261/pexels-photo-28873261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "global trade shipping containers",
-        "credit": "Peter Steiner 🇨🇭 1973",
+        "query": "clean flowing river India",
+        "credit": "Alex Jaison",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "ट्रंप ने क्यों दी अपने ही केंद्रीय बैंक को धमकी? 🚨",
-        "caption": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है! 🇺🇸 ब्याज दरें कम न करने पर ट्रंप ने सीधे कारोबार रोकने की चेतावनी दी है। दुनिया की सबसे बड़ी अर्थव्यवस्था में इस तनातनी के क्या मायने हैं? पूरी कहानी देखें 📉\n\n#DonaldTrump #USNews #FederalReserve #WorldNews #Economy"
+        "title": "अकेले एक युवक ने बदल दी सूखी नदी की किस्मत! 🌊",
+        "caption": "सिर्फ एक शख्स ने कैसे बचा ली मरती हुई नदी? riven\n\n20 साल के बिट्टू ने बिना किसी सरकारी मदद के अजनार नदी को नया जीवन दे दिया, जहां कभी जलीय जीवन पूरी तरह खत्म हो चुका था।\n\nपूरी कहानी वीडियो में देखें।\n\n#BittuTabahi #AjnarRiver #RiverRestoration #InspirationalStory #PositiveNews"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है! 🚨 ब्याज कम करो वरना व्यापार रोक दूंगा... ट्रंप की इस धमकी के पीछे की असली वजह क्या है? वीडियो में देखिए पूरी कहानी।\n\n#DonaldTrump #USNews #FederalReserve #WorldNews #Economy"
+        "caption": "सिर्फ एक शख्स ने कैसे बचा ली मरती हुई नदी? riven\n\n20 साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी की सफाई कर दी, जहां कभी पानी की बूंद तक नहीं बचती थी।\n\nइस प्रेरणादायक कहानी को शेयर करना ना भूलें!\n\n#BittuTabahi #AjnarRiver #RiverRestoration #InspirationalStory #PositiveNews"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है! 🇺🇸 \n\nब्याज दरें कम करने के दबाव को लेकर ट्रंप ने अपने ही देश के फेडरल रिजर्व को सीधी धमकी दे डाली है। आखिर इस पूरे विवाद की जड़ क्या है और इसका ग्लोबल मार्केट पर क्या असर होगा? जानिए पूरी बात।\n\n#DonaldTrump #USNews #FederalReserve #WorldNews #Economy"
+        "caption": "जहाँ प्रशासन और बड़ी मशीनें नाकाम रहीं, वहाँ एक 20 साल के लड़के ने अकेले कमाल कर दिखाया। 🌊\n\nबिट्टू तबाही नाम के इस युवक ने अजनार नदी का कायापलट कर दिया है, जो कभी कचरे और गंदगी से पूरी तरह पट चुकी थी। मेहनत और जज्बे की यह कहानी वाकई हैरान करने वाली है।\n\nपूरी कहानी देखने के लिए वीडियो पूरा देखें।\n\n#BittuTabahi #AjnarRiver #RiverRestoration #InspirationalStory #PositiveNews"
       },
       "hashtags": [
-        "DonaldTrump",
-        "USNews",
-        "FederalReserve",
-        "WorldNews",
-        "Economy"
+        "BittuTabahi",
+        "AjnarRiver",
+        "RiverRestoration",
+        "InspirationalStory",
+        "PositiveNews"
       ]
     },
-    "audio_path": "audio/trump_federal_reserve_interest_rates_threat.wav",
-    "audio_duration_sec": 11.96,
-    "video_path": "videos/trump_federal_reserve_interest_rates_threat.mp4",
-    "video_duration_sec": 20.0,
+    "audio_path": "audio/madhya_pradesh_bittu_toba_ajnari_river_cleaning.wav",
+    "audio_duration_sec": 24.79,
+    "video_path": "videos/madhya_pradesh_bittu_toba_ajnari_river_cleaning.mp4",
+    "video_duration_sec": 32.85,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-05T08:33:49.296727+00:00"
+        "attempted_at": "2026-09-05T11:32:10.412852+00:00"
       },
       "facebook": {
         "success": true,
@@ -484,15 +1439,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9bd40ce9780710eb6a937a",
+            "_id": "6a9bfdd23fa3fcc0fcedc0ec",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है! 🇺🇸 \n\nब्याज दरें कम करने के दबाव को लेकर ट्रंप ने अपने ही देश के फेडरल रिजर्व को सीधी धमकी दे डाली है। आखिर इस पूरे विवाद की जड़ क्या है और इसका ग्लोबल मार्केट पर क्या असर होगा? जानिए पूरी बात।\n\n#DonaldTrump #USNews #FederalReserve #WorldNews #Economy",
+            "content": "जहाँ प्रशासन और बड़ी मशीनें नाकाम रहीं, वहाँ एक 20 साल के लड़के ने अकेले कमाल कर दिखाया। 🌊\n\nबिट्टू तबाही नाम के इस युवक ने अजनार नदी का कायापलट कर दिया है, जो कभी कचरे और गंदगी से पूरी तरह पट चुकी थी। मेहनत और जज्बे की यह कहानी वाकई हैरान करने वाली है।\n\nपूरी कहानी देखने के लिए वीडियो पूरा देखें।\n\n#BittuTabahi #AjnarRiver #RiverRestoration #InspirationalStory #PositiveNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788597258582_1tgh9ewu_trump_federal_reserve_interest_rates_threat.mp4",
-                "_id": "6a9bd40ce9780710eb6a937b"
+                "url": "https://media.zernio.com/media/1788607951722_pz6k5xst_madhya_pradesh_bittu_toba_ajnari_river_cleaning.mp4",
+                "_id": "6a9bfdd23fa3fcc0fcedc0ed"
               }
             ],
             "platforms": [
@@ -509,17 +1464,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-05T08:34:19.991Z",
+                "scheduledFor": "2026-09-05T11:32:33.792Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "af2ef39a080d16d0f11cb6eb0dea5d3f",
-                "_id": "6a9bd40ce9780710eb6a937c",
-                "platformPostId": "2232092550979943",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2232092550979943",
-                "publishedAt": "2026-09-05T08:34:29.449Z"
+                "contentHash": "1913dab8adaabc73c2af21006913aa6f",
+                "_id": "6a9bfdd23fa3fcc0fcedc0ee",
+                "platformPostId": "1551313126296127",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1551313126296127",
+                "publishedAt": "2026-09-05T11:32:45.654Z"
               }
             ],
-            "scheduledFor": "2026-09-05T08:34:19.991Z",
+            "scheduledFor": "2026-09-05T11:32:33.792Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -531,14 +1486,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-05T08:34:20.861Z",
-            "updatedAt": "2026-09-05T08:34:29.545Z",
+            "createdAt": "2026-09-05T11:32:34.629Z",
+            "updatedAt": "2026-09-05T11:32:45.760Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-05T08:34:20.926Z"
+            "publishingClaimedAt": "2026-09-05T11:32:34.699Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-05T08:34:29.691467+00:00"
+        "attempted_at": "2026-09-05T11:32:46.051700+00:00"
       },
       "instagram": {
         "success": true,
@@ -551,15 +1506,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9bd427e5488486ce34a507",
+            "_id": "6a9bfdfd83261a498e8b61cc",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका में ट्रंप और केंद्रीय बैंक के बीच ठन गई है! 🚨 ब्याज कम करो वरना व्यापार रोक दूंगा... ट्रंप की इस धमकी के पीछे की असली वजह क्या है? वीडियो में देखिए पूरी कहानी।\n\n#DonaldTrump #USNews #FederalReserve #WorldNews #Economy",
+            "content": "सिर्फ एक शख्स ने कैसे बचा ली मरती हुई नदी? riven\n\n20 साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी की सफाई कर दी, जहां कभी पानी की बूंद तक नहीं बचती थी।\n\nइस प्रेरणादायक कहानी को शेयर करना ना भूलें!\n\n#BittuTabahi #AjnarRiver #RiverRestoration #InspirationalStory #PositiveNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788597285928_lfclljs8_trump_federal_reserve_interest_rates_threat.mp4",
-                "_id": "6a9bd427e5488486ce34a508"
+                "url": "https://media.zernio.com/media/1788607990397_elk0zz5p_madhya_pradesh_bittu_toba_ajnari_river_cleaning.mp4",
+                "_id": "6a9bfdfd83261a498e8b61cd"
               }
             ],
             "platforms": [
@@ -576,14 +1531,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-05T08:34:47.052Z",
+                "scheduledFor": "2026-09-05T11:33:16.923Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "af6fe09e4869107ad6e8bf529a2bc602",
-                "_id": "6a9bd427e5488486ce34a509"
+                "contentHash": "80854dcd331060c9a3a893239865e932",
+                "_id": "6a9bfdfd83261a498e8b61ce"
               }
             ],
-            "scheduledFor": "2026-09-05T08:34:47.052Z",
+            "scheduledFor": "2026-09-05T11:33:16.923Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -595,14 +1550,250 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-05T08:34:47.950Z",
-            "updatedAt": "2026-09-05T08:34:50.497Z",
+            "createdAt": "2026-09-05T11:33:17.998Z",
+            "updatedAt": "2026-09-05T11:33:20.548Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-05T08:34:48.051Z"
+            "publishingClaimedAt": "2026-09-05T11:33:18.124Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-05T08:34:50.889227+00:00"
+        "attempted_at": "2026-09-05T11:33:21.049381+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "prayagraj_woman_pica_disorder_needles_glass",
+    "virality_score": 8,
+    "reason": "Bizarre and high-curiosity medical case capturing widespread audience interest.",
+    "region": "india",
+    "headline": "महिला के पेट से निकली 6 सुईयां, छलनी हो गई थी आंत,  इस बीमारी के चलते खा रही थी, कांच, मिट्टी... जैसी चीजें",
+    "source_summary": "प्रयागराज जिले से एक हैरान करने वाली घटना सामने आई है, जिसमें एक महिला को कांच और सुई जैसी चीजें खाने की आदत हो गई. यहां जानते हैं क्या है पिका डिसऑर्डर-",
+    "source_url": "https://ndtv.in/health/woman-swallowed-6-needles-intestine-damaged-what-is-pica-disorder-12005089#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 05 Sep 2026 12:35:31 +0530",
+    "hook": "प्रयागराज से हैरान करने वाली खबर आई है, जहाँ एक महिला के पेट से छह सुइयां निकली हैं!",
+    "script_hi": "प्रयागराज जिले से एक हैरान करने वाली घटना सामने आई है, जहाँ एक महिला के पेट से छह सुइयां निकली हैं। आंतें पूरी तरह छलनी हो चुकी थीं। रिपोर्ट्स के मुताबिक, महिला को पिका डिसऑर्डर नाम की बीमारी थी, जिसके चलते वह कांच, मिट्टी और सुई जैसी अजीब चीजें खा जाती थी। डॉक्टरों ने सर्जरी कर उसकी जान बचा ली है।",
+    "tts_text_hi": "प्रयागराज जिले से एक हैरान करने वाली घटना सामने आई है, जहाँ एक महिला के पेट से छह सुइयां निकली हैं। आंतें पूरी तरह छलनी हो चुकी थीं। रिपोर्ट्स के मुताबिक, महिला को पिका डिसऑर्डर नाम की बीमारी थी, जिसके चलते वह कांच, मिट्टी और सुई जैसी अजीब चीजें खा जाती थी। डॉक्टरों ने सर्जरी कर उसकी जान बचा ली है।",
+    "title": "प्रयागराज: महिला के पेट से निकली छह सुइयां",
+    "caption": "प्रयागराज में एक महिला के पेट से छह सुइयां निकलने का मामला सामने आया है। डॉक्टरों के अनुसार महिला पिका डिसऑर्डर से पीड़ित थी।",
+    "hashtags": [
+      "#PrayagrajNews",
+      "#MedicalShockingNews",
+      "#PikaDisorder",
+      "#UttarPradeshNews",
+      "#MedicalMiracle",
+      "#HindiNews"
+    ],
+    "visual_queries": [
+      "Prayagraj city street India",
+      "Indian hospital building exterior",
+      "medical X ray machine India",
+      "Indian doctors discussing medical report"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4053538/pexels-photo-4053538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Prayagraj city street India",
+        "credit": "Kishore Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4989192/pexels-photo-4989192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical X-ray scan india",
+        "credit": "Ivan S",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6501863/pexels-photo-6501863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical X ray machine India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7578798/pexels-photo-7578798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian doctors discussing medical report",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "प्रयागराज: महिला के पेट से निकली 6 सुईयां! डॉक्टर भी हैरान 🪡",
+        "caption": "सीसीटीवी या मेडिकल रिपोर्ट? प्रयागराज में जो हुआ उसने डॉक्टरों के भी होश उड़ा दिए! 🩺\n\nमहिला के पेट से ऑपरेशन करके एक-दो नहीं बल्कि छह सुइयां निकाली गईं। हैरानी की बात यह है कि वह अजीब सी चीजें जैसे कांच और मिट्टी खाने की आदी थी। \n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#PrayagrajNews #MedicalShock #StrangeNews #UPNews #MedicalMystery"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने डॉक्टर को भी चौंका दिया! 🪡\n\nप्रयागराज में एक महिला के पेट से छह सुइयां निकली हैं। रिपोर्ट्स के मुताबिक, वह बीमारी के चलते मिट्टी और कांच जैसी चीजें खाती थी, जिससे उसकी आंतें तक छलनी हो गईं।\n\nक्या आपने कभी ऐसा मामला देखा है? शेयर करें।\n\n#PrayagrajNews #MedicalShock #StrangeNews #UPNews #MedicalMystery"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पुलिस और डॉक्टर दोनों हैरान हैं कि आखिर यह सब पेट के अंदर पहुंचा कैसे! 🪡\n\nप्रयागराज से सामने आए इस चौंकाने वाले मामले में एक महिला के पेट से छह सुइयां निकाली गई हैं। डॉक्टरों ने बताया कि महिला एक दुर्लभ आदत की शिकार थी जिसके चलते वह कांच, मिट्टी और ऐसी ही अजीब चीजें खाती थी। उसकी आंतें पूरी तरह छलनी हो चुकी थीं।\n\nवीडियो पूरा देखें और ऐसे मामलों पर सतर्क रहें।\n\n#PrayagrajNews #MedicalShock #StrangeNews #UPNews #MedicalMystery"
+      },
+      "hashtags": [
+        "PrayagrajNews",
+        "MedicalShock",
+        "StrangeNews",
+        "UPNews",
+        "MedicalMystery"
+      ]
+    },
+    "audio_path": "audio/prayagraj_woman_pica_disorder_needles_glass.wav",
+    "audio_duration_sec": 22.44,
+    "video_path": "videos/prayagraj_woman_pica_disorder_needles_glass.mp4",
+    "video_duration_sec": 30.42,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-05T11:39:07.169971+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bff7b92cdb1533f7be05b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पुलिस और डॉक्टर दोनों हैरान हैं कि आखिर यह सब पेट के अंदर पहुंचा कैसे! 🪡\n\nप्रयागराज से सामने आए इस चौंकाने वाले मामले में एक महिला के पेट से छह सुइयां निकाली गई हैं। डॉक्टरों ने बताया कि महिला एक दुर्लभ आदत की शिकार थी जिसके चलते वह कांच, मिट्टी और ऐसी ही अजीब चीजें खाती थी। उसकी आंतें पूरी तरह छलनी हो चुकी थीं।\n\nवीडियो पूरा देखें और ऐसे मामलों पर सतर्क रहें।\n\n#PrayagrajNews #MedicalShock #StrangeNews #UPNews #MedicalMystery",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788608377683_pmvdydjr_prayagraj_woman_pica_disorder_needles_glass.mp4",
+                "_id": "6a9bff7b92cdb1533f7be05c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=tL-m8V_AbnAQ7kNvwHvz4J4&_nc_oc=AdqVkeS-dR8MsheRVZitRKctyYAo2q1WSzpOqLgo6HRAf6G0c5XXO2PevXP3GbIAHok&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=NFKTvhxXKijopvpvrixujg&_nc_tpa=Q5bMBQI6Y_fOHVvHXwvfiZcMvhxcbK6hPCyUf5PKqw53cW69_bwQXN0whsCBo1JbgMuafluhCsrbsqAd&oh=00_AQKXNqNuDGCCsNy9mk9ivvnG9VJNX758Sy7Dt_LxM5KU9g&oe=6AA16B14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:39:38.924Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "f1c442a7bdedd18c0dd39fe3182fdeb9",
+                "_id": "6a9bff7b92cdb1533f7be05d",
+                "platformPostId": "1572418907890470",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1572418907890470",
+                "publishedAt": "2026-09-05T11:39:48.903Z"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:39:38.924Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:39:39.927Z",
+            "updatedAt": "2026-09-05T11:39:49.022Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:39:40.006Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:39:49.300864+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9bffa41fdc241f545d93d8",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने डॉक्टर को भी चौंका दिया! 🪡\n\nप्रयागराज में एक महिला के पेट से छह सुइयां निकली हैं। रिपोर्ट्स के मुताबिक, वह बीमारी के चलते मिट्टी और कांच जैसी चीजें खाती थी, जिससे उसकी आंतें तक छलनी हो गईं।\n\nक्या आपने कभी ऐसा मामला देखा है? शेयर करें।\n\n#PrayagrajNews #MedicalShock #StrangeNews #UPNews #MedicalMystery",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788608418530_dzlaj0zm_prayagraj_woman_pica_disorder_needles_glass.mp4",
+                "_id": "6a9bffa41fdc241f545d93d9"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwHASMy1&_nc_oc=Ado5Yt7EVPY0qknqlmIkYAVFjZs5Xqp6cZ_xwhNq9C86ZNkY-8FdykvI2AKzj_F71OE&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d9pyMK3cp--7em-k91j-NA&_nc_tpa=Q5bMBQKtNPcJ4GTfk_WGg6ZHwris9f-d6y2Bn59_tiV0EpR5chqjw_AbW2_oEwGUGyzAtKp8oyJ7wIEoJA&oh=00_AQIEqEwe_sUVe_inGLDYampcjeyUZyOl_w_SqE_B6XilPg&oe=6AA15EBB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-05T11:40:19.784Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "f90f9ec295a98d49ee8c73b0cf66b65a",
+                "_id": "6a9bffa41fdc241f545d93da"
+              }
+            ],
+            "scheduledFor": "2026-09-05T11:40:19.784Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-05T11:40:20.811Z",
+            "updatedAt": "2026-09-05T11:40:22.923Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-05T11:40:20.892Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-05T11:40:23.364924+00:00"
       }
     }
   }
