@@ -1,4 +1,7 @@
-ready_labels: ['kapurthala_cremated_man_found_alive_in_jail']
+ready_labels: ['kanya_vivah_scジタル_fraud_arrest_ceo', 'kharg_island_oil_tanker_missile_strike', 'nikita_porwal_miss_world_2026_finale', 'russia_ukraine_72_hour_ceasefire_putin']
 
-saharanpur_illegal_mosque_demolition: SKIPPED (not in ready set)
-kapurthala_cremated_man_found_alive_in_jail: SUCCESS -> video_path=videos/kapurthala_cremated_man_found_alive_in_jail.mp4 dur=32.289887
+russia_ukraine_72_hour_ceasefire_putin: SUCCESS -> video_path=videos/russia_ukraine_72_hour_ceasefire_putin.mp4 dur=25.289887
+kharg_island_oil_tanker_missile_strike: SUCCESS -> video_path=videos/kharg_island_oil_tanker_missile_strike.mp4 dur=28.956553
+kanya_vivah_scジタル_fraud_arrest_ceo: SUCCESS -> video_path=videos/kanya_vivah_sc____fraud_arrest_ceo.mp4 dur=28.056553
+maharashtra_barefoot_marathon_winner_ramabai: SKIPPED (not in ready set)
+nikita_porwal_miss_world_2026_finale: SUCCESS -> video_path=videos/nikita_porwal_miss_world_2026_finale.mp4 dur=27.32322
