@@ -1,7 +1,8 @@
-ready_labels: ['kanya_vivah_scジタル_fraud_arrest_ceo', 'kharg_island_oil_tanker_missile_strike', 'nikita_porwal_miss_world_2026_finale', 'russia_ukraine_72_hour_ceasefire_putin']
+ready_labels: ['census_2027_early_start_up_punjab', 'congress_organizational_reshuffle_sachin_pilot_punjab', 'dahi_handi_festival_fatalities_injuries_maharashtra', 'maruti_baleno_facelift_launch_2026', 'pm_modi_delhi_metro_ride_srcc', 'shekhawati_havelis_unesco_tentative_list']
 
-russia_ukraine_72_hour_ceasefire_putin: SUCCESS -> video_path=videos/russia_ukraine_72_hour_ceasefire_putin.mp4 dur=25.289887
-kharg_island_oil_tanker_missile_strike: SUCCESS -> video_path=videos/kharg_island_oil_tanker_missile_strike.mp4 dur=28.956553
-kanya_vivah_scジタル_fraud_arrest_ceo: SUCCESS -> video_path=videos/kanya_vivah_sc____fraud_arrest_ceo.mp4 dur=28.056553
-maharashtra_barefoot_marathon_winner_ramabai: SKIPPED (not in ready set)
-nikita_porwal_miss_world_2026_finale: SUCCESS -> video_path=videos/nikita_porwal_miss_world_2026_finale.mp4 dur=27.32322
+maruti_baleno_facelift_launch_2026: SUCCESS -> video_path=videos/maruti_baleno_facelift_launch_2026.mp4 dur=28.387211
+congress_organizational_reshuffle_sachin_pilot_punjab: SUCCESS -> video_path=videos/congress_organizational_reshuffle_sachin_pilot_punjab.mp4 dur=21.589887
+pm_modi_delhi_metro_ride_srcc: SUCCESS -> video_path=videos/pm_modi_delhi_metro_ride_srcc.mp4 dur=23.42322
+dahi_handi_festival_fatalities_injuries_maharashtra: SUCCESS -> video_path=videos/dahi_handi_festival_fatalities_injuries_maharashtra.mp4 dur=24.556553
+census_2027_early_start_up_punjab: SUCCESS -> video_path=videos/census_2027_early_start_up_punjab.mp4 dur=22.92322
+shekhawati_havelis_unesco_tentative_list: SUCCESS -> video_path=videos/shekhawati_havelis_unesco_tentative_list.mp4 dur=24.156553
