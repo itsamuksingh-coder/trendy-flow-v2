@@ -1,9 +1,9 @@
-ready_labels: ['delhi_patna_lucknow_bullet_train_corridor_announced', 'fbi_most_wanted_manjit_bedi_arrested_jalandhar', 'openai_rogue_ai_agents_hijack_website_report', 'un_approves_new_world_map_africa_size_increase', 'us_envoy_sergio_gor_pm_modi_trump_first_choice']
+ready_labels: ['delhi_patna_lucknow_bullet_train_corridor', 'hyderabad_drunk_driver_crashes_eight_bikes', 'janmashtami_2026_celebrations_nationwide', 'mirzapur_the_movie_release_intimate_scenes', 'poco_x8_power_10000mah_battery_launch', 'un_adopts_new_world_map_africa_size_global']
 
-Saharanpur_collectorate_mosque_demolition_iqra_hassan_house_arrest: SKIPPED (not in ready set)
-delhi_patna_lucknow_bullet_train_corridor_announced: SUCCESS -> video_path=videos/delhi_patna_lucknow_bullet_train_corridor_announced.mp4 dur=32.356553
-un_approves_new_world_map_africa_size_increase: SUCCESS -> video_path=videos/un_approves_new_world_map_africa_size_increase.mp4 dur=23.989887
-openai_rogue_ai_agents_hijack_website_report: SUCCESS -> video_path=videos/openai_rogue_ai_agents_hijack_website_report.mp4 dur=38.12322
-us_envoy_sergio_gor_pm_modi_trump_first_choice: SUCCESS -> video_path=videos/us_envoy_sergio_gor_pm_modi_trump_first_choice.mp4 dur=37.930227
-kerala_thrissur_car_lorry_collision_students_dead: SKIPPED (not in ready set)
-fbi_most_wanted_manjit_bedi_arrested_jalandhar: SUCCESS -> video_path=videos/fbi_most_wanted_manjit_bedi_arrested_jalandhar.mp4 dur=21.12322
+poco_x8_power_10000mah_battery_launch: SUCCESS -> video_path=videos/poco_x8_power_10000mah_battery_launch.mp4 dur=37.280227
+man_parks_suv_on_roof_crawling_viral: SKIPPED (not in ready set)
+janmashtami_2026_celebrations_nationwide: SUCCESS -> video_path=videos/janmashtami_2026_celebrations_nationwide.mp4 dur=38.189887
+mirzapur_the_movie_release_intimate_scenes: SUCCESS -> video_path=videos/mirzapur_the_movie_release_intimate_scenes.mp4 dur=28.015215
+delhi_patna_lucknow_bullet_train_corridor: SUCCESS -> video_path=videos/delhi_patna_lucknow_bullet_train_corridor.mp4 dur=31.356553
+un_adopts_new_world_map_africa_size_global: SUCCESS -> video_path=videos/un_adopts_new_world_map_africa_size_global.mp4 dur=22.456553
+hyderabad_drunk_driver_crashes_eight_bikes: SUCCESS -> video_path=videos/hyderabad_drunk_driver_crashes_eight_bikes.mp4 dur=29.640227
