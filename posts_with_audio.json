@@ -1,31 +1,507 @@
 [
   {
-    "topic_label": "maruti_baleno_facelift_launch_2026",
+    "topic_label": "womens_asia_cup_india_pakistan_crush",
+    "virality_score": 9,
+    "reason": "India thrashing Pakistan by 55 runs in Women's Asia Cup has massive engagement potential for cricket fans.",
+    "region": "india",
+    "headline": "टीम इंडिया ने लगाई खास हैट्रिक, एशिया कप के तीनों मैच में विरोधियों का किया एक जैसा हाल",
+    "source_summary": "भारतीय टीम ने महिला एशिया कप 2026 में अपने ग्रुप स्टेज के तीनों मैच जीते. टीम इंडिया ने पहले थाईलैंड को हराया, फिर हॉन्ग कॉन्ग को धोया और आखिरी मैच में पाकिस्तान को रौंदा और तीनों में एक बात समान रही.",
+    "source_url": "https://www.tv9hindi.com/photo-gallery/cricket-photos/indian-team-all-out-opponent-teams-below-100-runs-all-3-matches-women-asia-cup-2026-ind-vs-pak-3899461.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sun, 06 Sep 2026 01:09:16 +0530",
+    "hook": "टीम इंडिया ने महिला एशिया कप में मचाया धमाल!",
+    "script_hi": "भारतीय महिला क्रिकेट टीम ने महिला एशिया कप दो हजार छब्बीस में शानदार प्रदर्शन करते हुए ग्रुप स्टेज के अपने तीनों मुकाबले जीत लिए हैं। टीम ने पहले थाईलैंड को हराया, फिर हॉन्ग कॉन्ग को मात दी और आखिरी मुकाबले में पाकिस्तान को करारी शिकस्त दी। इन तीनों मैचों में एक खास बात यह रही कि भारत ने हर बार विरोधियों का एक जैसा हाल किया और मैदान पर पूरी तरह से अपना दबदबा बनाए रखा।",
+    "tts_text_hi": "भारतीय महिला क्रिकेट टीम ने महिला एशिया कप दो हजार छब्बीस में शानदार प्रदर्शन करते हुए ग्रुप स्टेज के अपने तीनों मुकाबले जीत लिए हैं। टीम ने पहले थाईलैंड को हराया, फिर हॉन्ग कॉन्ग को मात दी और आखिरी मुकाबले में पाकिस्तान को करारी शिकस्त दी। इन तीनों मैचों में एक खास बात यह रही कि भारत ने हर बार विरोधियों का एक जैसा हाल किया और मैदान पर पूरी तरह से अपना दबदबा बनाए रखा।",
+    "title": "टीम इंडिया की एशिया कप में शानदार हैट्रिक",
+    "caption": "भारतीय महिला क्रिकेट टीम ने एशिया कप में शानदार प्रदर्शन करते हुए तीनों ग्रुप मैच जीत लिए हैं।",
+    "hashtags": [
+      "TeamIndia",
+      "AsiaCup",
+      "WomensCricket",
+      "BCCI",
+      "IndianCricketTeam",
+      "CricketNews"
+    ],
+    "visual_queries": [
+      "Indian cricket stadium India",
+      "woman cricket player India",
+      "cricket match stadium India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket match stadium India",
+        "credit": "Princeton dsouza",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30401064/pexels-photo-30401064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "women cricket team celebration",
+        "credit": "Manoj Poosam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium crowd cheering",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38011352/pexels-photo-38011352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "female athletes training India",
+        "credit": "CRISTIAN CAMILO  ESTRADA",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket trophy victory India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "टीम इंडिया ने एशिया कप में लगाई हैट्रिक! विरोधियों का किया बुरा हाल 🇮🇳",
+        "caption": "सीसीटीवी या सोशल मीडिया नहीं, महिला एशिया कप में टीम इंडिया के इस खौफनाक रिकॉर्ड ने सबको हैरान कर दिया है! 🔥\n\nभारतीय महिला टीम ने टूर्नामेंट के लगातार तीनों मुकाबलों में विरोधी टीमों को एक जैसे अंदाज में धूल चटाई है। गेंदबाजी से लेकर बल्लेबाजी तक, हर मोर्चे पर ऐसा दबदबा शायद ही पहले कभी देखा गया हो।\n\nपूरी कहानी देखें और बताएं कि इस बार कप कौन उठाएगा? 👇\n\n#WomensAsiaCup #TeamIndia #IndianCricket #AsiaCup2024 #CricketNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महिला एशिया कप में टीम इंडिया का ये नया कारनामा देख विरोधी टीमों के होश उड़ गए! 🤯\n\nशुरुआती तीनों मैचों में विरोधियों का बिल्कुल एक जैसा हाल करते हुए टीम ने शानदार हैट्रिक लगा दी है।\n\nक्या इस बार ट्रॉफी घर ही आएगी? कॉमेंट में अपनी राय दें! 🇮🇳\n\n#WomensAsiaCup #TeamIndia #IndianCricket #AsiaCup2024 #CricketNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "महिला एशिया कप में टीम इंडिया ने कुछ ऐसा कर दिखाया है जिसकी गूंज हर तरफ है। 🏏\n\nशुरुआत के तीनों मैचों में जिस अंदाज में भारतीय टीम ने विरोधियों को पछाड़ा है, उसने सभी को हैरान कर दिया है। तीनों मुकाबलों में स्कोर और नतीजे का पैटर्न बिल्कुल एक जैसा रहा है।\n\nआपकी नजर में इस शानदार प्रदर्शन का सबसे बड़ा हीरो कौन है? वीडियो पूरा देखकर अपनी राय जरूर शेयर करें।\n\n#WomensAsiaCup #TeamIndia #IndianCricket #AsiaCup2024 #CricketNews"
+      },
+      "hashtags": [
+        "WomensAsiaCup",
+        "TeamIndia",
+        "IndianCricket",
+        "AsiaCup2024",
+        "CricketNews"
+      ]
+    },
+    "audio_path": "audio/womens_asia_cup_india_pakistan_crush.wav",
+    "audio_duration_sec": 16.49
+  },
+  {
+    "topic_label": "kapurthala_man_found_alive_after_funeral",
+    "virality_score": 9,
+    "reason": "A bizarre and sensational true story of a family mourning and performing the funeral of a man who was actually alive in jail.",
+    "region": "india",
+    "headline": "जिस बेटे का किया पिंडदान, वो कपूरथला जेल में मिला जिंदा",
+    "source_summary": "कपूरथला में हैरान करने वाला मामला सामने आया है. कादूपुर गांव के रवि कुमार को परिवार ने मृत समझकर अंतिम संस्कार और भोग की रस्म पूरी कर दी. करीब 15 दिन बाद पता चला कि रवि जिंदा है और केंद्रीय जेल कपूरथला में बंद है. परिवार ने कपड़ों के आधार पर एक गली-सड़ी लाश की पहचान रवि के रूप में की थी. अब उस अज्ञात शव की पहचान रहस्य बनी.",
+    "source_url": "https://www.aajtak.in/short-videos/video/kapurthala-ravi-kumar-found-alive-after-family-cremated-unidentified-body-missing-person-jail-police-investigation-case-mmta-2637180-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T21:20:37+05:30",
+    "hook": "जिस बेटे का कर दिया पिंडदान, वह निकला जिंदा!",
+    "script_hi": "कपूरथला से हैरान करने वाला मामला सामने आया है। कादूपुर गांव के रवि कुमार को परिवार ने मृत समझकर अंतिम संस्कार और भोग की रस्म पूरी कर दी। करीब पंद्रह दिन बाद पता चला कि रवि जिंदा है और केंद्रीय जेल कपूरथला में बंद है। परिवार ने कपड़ों के आधार पर एक अज्ञात शव की पहचान रवि के रूप में की थी। अब उस सड़े-गले शव की पहचान एक नया रहस्य बन गई है।",
+    "tts_text_hi": "कपूरथला से हैरान करने वाला मामला सामने आया है। कादूपुर गांव के रवि कुमार को परिवार ने मृत समझकर अंतिम संस्कार और भोग की रस्म पूरी कर दी। करीब पंद्रह दिन बाद पता चला कि रवि जिंदा है और केंद्रीय जेल कपूरथला में बंद है। परिवार ने कपड़ों के आधार पर एक अज्ञात शव की पहचान रवि के रूप में की थी। अब उस सड़े-गले शव की पहचान एक नया रहस्य बन गई है।",
+    "title": "पिंडदान के पंद्रह दिन बाद जिंदा मिला बेटा",
+    "caption": "कपूरथला में मृत समझकर जिसका पिंडदान किया, वह बेटा कपूरथला जेल में जिंदा मिला।",
+    "hashtags": [
+      "Kapurthala",
+      "PunjabNews",
+      "BizarreNews",
+      "CrimeNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian prison building exterior India",
+      "Indian village street Punjab India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31844909/pexels-photo-31844909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian prison building exterior India",
+        "credit": "Photos Hub",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36535329/pexels-photo-36535329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village street Punjab India",
+        "credit": "Amanjot  Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "rewa_hospital_alive_patient_mortuary",
+    "virality_score": 9,
+    "reason": "Severe medical negligence where a living elderly patient was sent to the mortuary before waking up on the stretcher.",
+    "region": "india",
+    "headline": "जिंदा मरीज को भेजा मर्चुरी, फिर हुआ चमत्कार; डॉक्टरों ने की थी मौत की पुष्टि",
+    "source_summary": "Rewa Medical Negligence Case: रीवा के संजय गांधी अस्पताल में डॉक्टरों ने जीवित 66 वर्षीय बुजुर्ग को मृत घोषित कर दिया. शव वाहन में रखने के दौरान सांसें चलने पर दोबारा वेंटिलेटर पर भर्ती कराया गया.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/rewa-sanjay-gandhi-hospital-elderly-man-declared-dead-alive-investigation-lcln-strc-2637234-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T23:25:54+05:30",
+    "hook": "रीवा में जिंदा मरीज को डॉक्टरों ने मृत बताकर मर्चुरी भेज दिया!",
+    "script_hi": "रीवा के संजय गांधी अस्पताल में डॉक्टरों की बड़ी लापरवाही सामने आई है। यहाँ छियासठ वर्षीय बुजुर्ग को मृत घोषित कर शव वाहन में रख दिया गया। लेकिन तभी अचानक उनकी सांसें चलने लगीं, जिसके बाद उन्हें दोबारा वेंटिलेटर पर भर्ती कराना पड़ा।",
+    "tts_text_hi": "रीवा के संजय गांधी अस्पताल में डॉक्टरों की बड़ी लापरवाही सामने आई है। यहाँ छियासठ वर्षीय बुजुर्ग को मृत घोषित कर शव वाहन में रख दिया गया। लेकिन तभी अचानक उनकी सांसें चलने लगीं, जिसके बाद उन्हें दोबारा वेंटिलेटर पर भर्ती कराना पड़ा।",
+    "title": "रीवा में जिंदा मरीज को भेजा मर्चुरी",
+    "caption": "मध्य प्रदेश के रीवा में डॉक्टरों की बड़ी लापरवाही, जीवित बुजुर्ग को मृत घोषित कर मर्चुरी भेजा।",
+    "hashtags": [
+      "Rewa",
+      "MedicalNegligence",
+      "MadhyaPradesh",
+      "Hospital",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian hospital building exterior India",
+      "ambulance vehicle India",
+      "medical emergency ward India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian hospital building exterior India",
+        "credit": "Uvesh Gogda",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance vehicle India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical emergency ward India",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6627824/pexels-photo-6627824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stressed doctor hospital corridor",
+        "credit": "https://kaboompics.com/",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency ward India",
+        "credit": "Maxx Sas",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3844581/pexels-photo-3844581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "icu patient emergency bed",
+        "credit": "Anna Shvets",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian hospital emergency room",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जिंदा मरीज को भेज दिया मर्चुरी! रीवा की चौंकाने वाली घटना | Rewa News",
+        "caption": "रीवा में जिंदा मरीज को डॉक्टरों ने मृत बताकर मर्चुरी भेज दिया! 🥶\n\nजब परिवार ने अंतिम संस्कार से पहले शरीर में हलचल देखी, तो सबके होश उड़ गए। डॉक्टरों की इस बड़ी लापरवाही का सच जानकर आप भी हैरान रह जाएंगे।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#RewaNews #MedicalNegligence #MadhyaPradeshNews #ViralNews #IndianDoctors"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रीवा में जिंदा मरीज को डॉक्टरों ने मृत बताकर मर्चुरी भेज दिया! 🥶\n\nपोस्टमार्टम से ठीक पहले लाश में सांसें चलती मिलीं। डॉक्टरों की ऐसी लापरवाही पर आपका क्या कहना है?\n\nपूरी घटना जानने के लिए वीडियो पूरा देखें।\n\n#RewaNews #MedicalNegligence #MadhyaPradeshNews #ViralNews #IndianDoctors"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रीवा में एक जिंदा मरीज को डॉक्टरों ने मृत घोषित कर सीधे मर्चुरी भेज दिया! 🥶\n\nगनीमत रही कि वक्त रहते परिवार वालों की नजर पड़ गई, वरना जो हुआ वह किसी की भी रूह कंपा देने के लिए काफी है। लापरवाही की सारी हदें पार करने वाला यह मामला सोशल मीडिया पर चर्चा का विषय बना हुआ है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#RewaNews #MedicalNegligence #MadhyaPradeshNews #ViralNews #IndianDoctors"
+      },
+      "hashtags": [
+        "RewaNews",
+        "MedicalNegligence",
+        "MadhyaPradeshNews",
+        "ViralNews",
+        "IndianDoctors"
+      ]
+    },
+    "audio_path": "audio/rewa_hospital_alive_patient_mortuary.wav",
+    "audio_duration_sec": 17.61
+  },
+  {
+    "topic_label": "gold_silver_sharp_price_drop",
     "virality_score": 8,
-    "reason": "High-interest automobile launch featuring level 2 ADAS and ventilated seats at an aggressive starting price.",
+    "reason": "A significant price drop of Rs 4000 for gold and Rs 8000 for silver is direct consumer news with broad audience relevance.",
+    "region": "india",
+    "headline": "Gold-Silver Prices Fall: सोना 4,000 रुपये तो चांदी सीधे 8,000 रुपये सस्ती, क्या खरीदारी करने का यह सही समय है?",
+    "source_summary": "Gold-Silver Price Drop: इस हफ्ते सोना लगभग ₹4,700 प्रति 10 ग्राम और चांदी ₹8,400 प्रति किलो से ज्यादा सस्ती हो चुकी है..अगर आप भी गहनों की खरीदारी या निवेश के लिए सही मौके का इंतजार कर रहे थे, तो एक्सपर्ट से जानिए कि क्या इस गिरावट में आपको सोना-चांदी खरीदना चाहिए?",
+    "source_url": "https://ndtv.in/business-news/gold-silver-prices-fall-on-mcx-is-this-a-good-time-to-buy-gold-and-silver-for-investment-experts-opinion-12006339#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 05 Sep 2026 19:01:34 +0530",
+    "hook": "सोना चांदी खरीदने वालों के लिए बड़ी खुशखबरी!",
+    "script_hi": "सोना चांदी खरीदने वालों के लिए बड़ी खुशखबरी है। इस हफ्ते सोना लगभग चार हजार सात सौ रुपये और चांदी आठ हजार चार सौ रुपये से ज्यादा सस्ती हो चुकी है। अगर आप गहनों की खरीदारी या निवेश करना चाहते हैं, तो क्या यह सही मौका है? एक्सपर्ट्स के मुताबिक बाजार में आई इस गिरावट पर नजर बनाए रखना जरूरी है।",
+    "tts_text_hi": "सोना चांदी खरीदने वालों के लिए बड़ी खुशखबरी है। इस हफ्ते सोना लगभग चार हजार सात सौ रुपये और चांदी आठ हजार चार सौ रुपये से ज्यादा सस्ती हो चुकी है। अगर आप गहनों की खरीदारी या निवेश करना चाहते हैं, तो क्या यह सही मौका है? एक्सपर्ट्स के मुताबिक बाजार में आई इस गिरावट पर नजर बनाए रखना जरूरी है।",
+    "title": "Gold-Silver Prices Fall",
+    "caption": "सोना-चांदी खरीदना हुआ सस्ता, जानिए क्या है सही मौका।",
+    "hashtags": [
+      "#GoldPrice",
+      "#SilverPrice",
+      "#GoldRateToday",
+      "#SilverRate",
+      "#MarketNews",
+      "#Investment"
+    ],
+    "visual_queries": [
+      "gold jewelry India",
+      "silver bars India",
+      "Indian stock market India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8855209/8855209-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "jewelry store India shopping",
+        "credit": "Lara Jameson",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19394248/pexels-photo-19394248.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "gold jewelry India",
+        "credit": "Samir Ali",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8886925/pexels-photo-8886925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "jewelry store India",
+        "credit": "Lara Jameson",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17729514/pexels-photo-17729514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy jewelry market India",
+        "credit": "AJAY KUMAR",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8886968/pexels-photo-8886968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "woman shopping for jewelry",
+        "credit": "Lara Jameson",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian currency cash financial",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stock market trading screen",
+        "credit": "Vito Goričan",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सोना 4000 और चांदी 8000 रुपये सस्ती! खरीदने का सही समय? 📉",
+        "caption": "सोना खरीदने का सोच रहे हैं तो आपके लिए अच्छी खबर है 📉\n\nरिकॉर्ड हाई से गिरने के बाद सोना 4,000 रुपये और चांदी सीधे 8,000 रुपये तक सस्ती हो गई है। क्या बाजार में अभी और गिरावट आएगी या खरीदारी का यही सही मौका है?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#GoldPriceFall #SilverRateToday #GoldSilverPrice #MarketUpdate #GoldBuyingTips"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सोना 4,000 और चांदी 8,000 रुपये तक सस्ती हो गई है 📉\n\nअगर आप भी खरीदारी का सोच रहे थे, तो कीमतों में आई इस भारी गिरावट ने बड़ा मौका दे दिया है। क्या अभी और भाव गिरेंगे?\n\nये वीडियो पूरा देखें और शेयर करें उनके साथ जो सोना खरीदना चाहते हैं।\n\n#GoldPriceFall #SilverRateToday #GoldSilverPrice #MarketUpdate #GoldBuyingTips"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सोना 4,000 रुपये और चांदी सीधे 8,000 रुपये सस्ती हो गई है! 📉\n\nत्योहारों या शादियों के सीजन से पहले कीमतों में आई इस बड़ी गिरावट ने खरीदारों को राहत दी है। जानकारों के मुताबिक क्या अभी भाव और नीचे जाएंगे या खरीदारी का यही सही वक्त है?\n\nवीडियो पूरा देखकर पूरी डिटेल समझें और हमें बताएं कि आप क्या करने वाले हैं।\n\n#GoldPriceFall #SilverRateToday #GoldSilverPrice #MarketUpdate #GoldBuyingTips"
+      },
+      "hashtags": [
+        "GoldPriceFall",
+        "SilverRateToday",
+        "GoldSilverPrice",
+        "MarketUpdate",
+        "GoldBuyingTips"
+      ]
+    },
+    "audio_path": "audio/gold_silver_sharp_price_drop.wav",
+    "audio_duration_sec": 21.4
+  },
+  {
+    "topic_label": "narela_property_dealer_murder_cctv",
+    "virality_score": 8,
+    "reason": "Daylight murder caught on CCTV with 15 rounds fired provides high shock value and visual storytelling.",
+    "region": "india",
+    "headline": "नरेला में दिनदहाड़े मर्डर से मची सनसनी, CCTV आया सामने",
+    "source_summary": "दिल्ली के नरेला में प्रॉपर्टी डीलर प्रमोद कुमार की हत्या का सीसीटीवी फुटेज सामने आया है. फुटेज में वारदात के बाद दो संदिग्ध मोटरसाइकिल से भागते दिख रहे हैं, जिनमें एक के हाथ में पिस्तौल नजर आ रही है. 3 सितंबर को जिम से लौटते समय प्रमोद पर कई राउंड फायरिंग हुई थी. पुलिस ने मौके से 15 खाली कारतूस बरामद किए. चार टीमें हमलावरों की तलाश में जुटी हैं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/delhi-nareala-property-dealer-pramod-kumar-murder-cctv-footage-pistol-attackers-escape-police-teams-investigation-case-mmta-2637205-2026-09-05?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-05T23:15:22+05:30",
+    "hook": "दिल्ली के नरेला में दिनदहाड़े प्रॉपर्टी डीलर की सनसनीखेज हत्या!",
+    "script_hi": "दिल्ली के नरेला में प्रॉपर्टी डीलर प्रमोद कुमार की हत्या का सीसीटीवी फुटेज सामने आया है. तीन सितंबर को जिम से लौटते समय उन पर कई राउंड फायरिंग की गई. पुलिस ने मौके से पंद्रह खाली कारतूस बरामद किए हैं. हमलावरों की तलाश में चार टीमें जुटी हैं.",
+    "tts_text_hi": "दिल्ली के नरेला में प्रॉपर्टी डीलर प्रमोद कुमार की हत्या का सीसीटीवी फुटेज सामने आया है. तीन सितंबर को जिम से लौटते समय उन पर कई राउंड फायरिंग की गई. पुलिस ने मौके से पंद्रह खाली कारतूस बरामद किए हैं. हमलावरों की तलाश में चार टीमें जुटी हैं.",
+    "title": "दिल्ली के नरेला में प्रॉपर्टी डीलर की हत्या का सीसीटीवी आया सामने",
+    "caption": "दिल्ली के नरेला में प्रॉपर्टी डीलर प्रमोद कुमार की हत्या का सीसीटीवी फुटेज सामने आया है। जिम से लौटते वक्त बदमाशों ने की ताबड़तोड़ फायरिंग।",
+    "hashtags": [
+      "#DelhiNews",
+      "#NarelaMurder",
+      "#CrimeNews",
+      "#DelhiPolice",
+      "#CCTVFootage"
+    ],
+    "visual_queries": [
+      "India police investigation scene",
+      "India motorcycle on street",
+      "police crime scene India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific real CCTV footage of the incident which generic stock B-roll cannot replace.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police crime scene India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police investigation scene",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11091214/pexels-photo-11091214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India motorcycle on street",
+        "credit": "Rupinder Singh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "maruti_baleno_facelift_launch",
+    "virality_score": 8,
+    "reason": "Launch of the new Maruti Baleno with advanced features like ADAS and ventilated seats targets a massive auto-loving demographic.",
     "region": "india",
     "headline": "पहली बार मिलेंगे ऐसे फीचर्स, Maruti की नई बलेनो लॉन्च, इतनी है कीमत",
     "source_summary": "मारुति सुजुकी बलेनो फेसलिफ्ट लॉन्च हो गई है. कंपनी पिछले कई दिनों से इस कार को टीज कर रही थी. नई बलेनो में कंपनी ने नया इंजन दिया है. बलेनो फेसलिफ्ट में मारुति सुजुकी ने सेफ्टी फीचर्स को अपडेट किया है. इसमें ADAS और वेंटिलेटेड सीट्स जैसे कई नए फीचर्स दिए गए हैं. आइए जानते हैं इस कार में क्या कुछ होने वाला है.",
     "source_url": "https://www.aajtak.in/auto/news/story/maruti-baleno-facelift-2026-price-features-specs-details-auam-dskc-2637176-2026-09-05?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-05T20:11:30+05:30",
-    "hook": "मारुति ने लॉन्च की नई बलेनो! क्या हैं फीचर्स?",
-    "script_hi": "मारुति सुजुकी ने अपनी लोकप्रिय कार बलेनो का फेसलिफ्ट वर्जन भारत में लॉन्च कर दिया है। इस नई कार में नया इंजन और अपडेटेड सेफ्टी फीचर्स दिए गए हैं। मारुति की इस नई बलेनो में अब एडास और वेंटिलेटेड सीट्स जैसे शानदार फीचर्स भी मिलेंगे, जो पहली बार इस सेगमेंट में आ रहे हैं।",
-    "tts_text_hi": "मारुति सुजुकी ने अपनी लोकप्रिय कार बलेनो का फेसलिफ्ट वर्जन भारत में लॉन्च कर दिया है। इस नई कार में नया इंजन और अपडेटेड सेफ्टी फीचर्स दिए गए हैं। मारुति की इस नई बलेनो में अब एडास और वेंटिलेटेड सीट्स जैसे शानदार फीचर्स भी मिलेंगे, जो पहली बार इस सेगमेंट में आ रहे हैं।",
-    "title": "Maruti Baleno Facelift Launched",
-    "caption": "मारुति सुजुकी ने नई बलेनो फेसलिफ्ट भारत में लॉन्च कर दी है, जिसमें नया इंजन, एडास और वेंटिलेटेड सीट्स जैसे फीचर्स मिलते हैं।",
+    "hook": "मारुति ने लॉन्च की नई बलेनो!",
+    "script_hi": "मारुति सुजुकी ने अपनी लोकप्रिय कार बलेनो का फेसलिफ्ट मॉडल भारत में लॉन्च कर दिया है. नई बलेनो में कई बेहतरीन फीचर्स जोड़े गए हैं. इस कार में नया इंजन और अपडेटेड सेफ्टी फीचर्स दिए गए हैं. इसमें एडास और वेंटिलेटेड सीट्स जैसे आधुनिक फीचर्स शामिल हैं, जो सफर को और आरामदायक बनाएंगे.",
+    "tts_text_hi": "मारुति सुजुकी ने अपनी लोकप्रिय कार बलेनो का फेसलिफ्ट मॉडल भारत में लॉन्च कर दिया है. नई बलेनो में कई बेहतरीन फीचर्स जोड़े गए हैं. इस कार में नया इंजन और अपडेटेड सेफ्टी फीचर्स दिए गए हैं. इसमें एडास और वेंटिलेटेड सीट्स जैसे आधुनिक फीचर्स शामिल हैं, जो सफर को और आरामदायक बनाएंगे.",
+    "title": "Maruti Baleno Facelift Launched in India",
+    "caption": "मारुति सुजुकी ने नई बलेनो फेसलिफ्ट भारत में लॉन्च कर दी है, जिसमें एडास और वेंटिलेटेड सीट्स जैसे शानदार फीचर्स मिलते हैं।",
     "hashtags": [
       "MarutiBaleno",
-      "BalenoFacelift",
       "CarLaunch",
       "AutoNews",
-      "MarutiSuzuki",
-      "IndianCars"
+      "BalenoFacelift",
+      "CarInIndia"
     ],
     "visual_queries": [
-      "modern car showroom India",
-      "new car model India",
-      "car interior dashboard India"
+      "Indian car showroom",
+      "modern car interior India",
+      "car driving on Indian road"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -34,318 +510,64 @@
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39341773/16743927_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "new car model India",
-        "credit": "Nishant Aneja",
-        "source_duration_sec": 24,
-        "duration_sec": 6
-      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern car showroom India",
+        "query": "Indian car showroom",
         "credit": "Akshay Shende",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17108182/pexels-photo-17108182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car interior dashboard India",
-        "credit": "rael frames",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29566869/pexels-photo-29566869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "new car launch event India",
-        "credit": "Luke Miller",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car dealership showroom India",
-        "credit": "Akshay Shende",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11059358/pexels-photo-11059358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern hatchback car driving",
-        "credit": "Hasan Gulec",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7144237/pexels-photo-7144237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people buying new car India",
-        "credit": "Antoni Shkraba",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Maruti Baleno Launched: पहली बार मिलेंगे ऐसे फीचर्स, कीमत जानकर चौंक जाएंगे!",
-        "caption": "सड़क पर तहलका मचाने आ गई मारुति की नई गाड़ी! 🚗\n\nकंपनी ने अपनी सबसे लोकप्रिय कार Baleno का नया मॉडल लॉन्च कर दिया है, जिसमें पहली बार ऐसे आधुनिक फीचर्स दिए गए हैं जो इस सेगमेंट में पहले कभी नहीं देखे गए।\n\nकीमत और सभी नए फीचर्स जानने के लिए वीडियो पूरा देखें। 👇\n\n#MarutiBaleno #CarLaunch #NewBaleno2024 #AutomobileNews #MarutiSuzuki"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सड़क पर तहलका मचाने आ गई मारुति की नई Baleno! 🚗 पहली बार इसमें ऐसे फीचर्स दिए गए हैं जो होश उड़ा दें। \n\nक्या है इसकी कीमत और क्या नया मिल रहा है इस बार? पूरी जानकारी के लिए वीडियो देखें। 📍\n\n#MarutiBaleno #CarLaunch #NewBaleno2024 #AutomobileNews #MarutiSuzuki"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मारुति ने गाड़ी लवर्स को बड़ा तोहफा दे दिया है! कंपनी ने अपनी नई Baleno लॉन्च कर दी है जिसमें इस बार कुछ ऐसे फीचर्स जोड़े गए हैं जो आपने पहले कभी नहीं देखे होंगे। \n\nकम कीमत में मिलने वाली इस गाड़ी के बारे में पूरी डिटेल जानने के लिए वीडियो अंत तक जरूर देखें। 🚙✨\n\n#MarutiBaleno #CarLaunch #NewBaleno2024 #AutomobileNews #MarutiSuzuki"
-      },
-      "hashtags": [
-        "MarutiBaleno",
-        "CarLaunch",
-        "NewBaleno2024",
-        "AutomobileNews",
-        "MarutiSuzuki"
-      ]
-    },
-    "audio_path": "audio/maruti_baleno_facelift_launch_2026.wav",
-    "audio_duration_sec": 20.34
-  },
-  {
-    "topic_label": "congress_organizational_reshuffle_sachin_pilot_punjab",
-    "virality_score": 8,
-    "reason": "Major political shakeup in Congress as Sachin Pilot is given charge of Punjab and Bhupesh Baghel moved to Assam.",
-    "region": "india",
-    "headline": "कांग्रेस का बड़ा फेरबदल, बघेल को पंजाब से हटाया, पायलट को जिम्मेदारी",
-    "source_summary": "कांग्रेस संगठन में बड़े संगठनात्मक फेरबदल के तहत पूर्व मुख्यमंत्री भूपेश बघेल को पंजाब राज्य प्रभारी पद से हटा दिया गया है. अब उन्हें असम की जिम्मेदारी सौंपी गई है, जबकि सचिन पायलट को पंजाब का नया प्रभारी बनाया गया है.",
-    "source_url": "https://www.aajtak.in/india/story/punjab-congress-state-incharge-removed-bhupesh-bhaghel-sachin-pilot-ntc-ntyv-rpti-2637186-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T20:47:43+05:30",
-    "hook": "कांग्रेस में बड़ा संगठनात्मक फेरबदल, सचिन पायलट को मिली पंजाब की कमान!",
-    "script_hi": "कांग्रेस में बड़े फेरबदल के तहत पूर्व मुख्यमंत्री भूपेश बघेल को पंजाब राज्य प्रभारी पद से हटाकर असम की जिम्मेदारी सौंपी गई है. वहीं, सचिन पायलट को पंजाब का नया प्रभारी बनाया गया है.",
-    "tts_text_hi": "कांग्रेस में बड़े फेरबदल के तहत पूर्व मुख्यमंत्री भूपेश बघेल को पंजाब राज्य प्रभारी पद से हटाकर असम की जिम्मेदारी सौंपी गई है. वहीं, सचिन पायलट को पंजाब का नया प्रभारी बनाया गया है.",
-    "title": "कांग्रेस का बड़ा फेरबदल: भूपेश बघेल असम के प्रभारी बने, सचिन पायलट को मिली पंजाब की जिम्मेदारी",
-    "caption": "कांग्रेस संगठन में बड़ा फेरबदल किया गया है। पूर्व मुख्यमंत्री भूपेश बघेल को पंजाब से हटाकर असम भेजा गया है, जबकि सचिन पायलट को पंजाब का नया प्रभारी बनाया गया है।",
-    "hashtags": [
-      "Congress",
-      "BhupeshBaghel",
-      "SachinPilot",
-      "PoliticalNews",
-      "IndiaNews",
-      "CongressNews"
-    ],
-    "visual_queries": [
-      "Indian political party meeting",
-      "Indian political office Delhi",
-      "Indian politician speech India"
-    ],
-    "named_person": "Sachin Pilot",
-    "named_person_hi": "सचिन पायलट",
-    "secondary_persons": [
-      "Bhupesh Baghel"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "सचिन पायलट",
-        "source": "fallback",
-        "query": "Sachin Pilot",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7581228/7581228-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian politicians meeting",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "political party meeting India",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian political office Delhi",
-        "credit": "Nishant Malik",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33550084/pexels-photo-33550084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian politician speech India",
-        "credit": "Voters Party International",
+        "query": "modern car interior India",
+        "credit": "Jomon Kollannoor",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37088160/pexels-photo-37088160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car driving on Indian road",
+        "credit": "Brijesh H",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सचिन पायलट को मिली पंजाब की कमान, कांग्रेस में बड़ा फेरबदल! 🚨",
-        "caption": "कांग्रेस में बड़ा संगठनात्मक फेरबदल, सचिन पायलट को मिली पंजाब की कमान! ⚡\n\nपार्टी ने पंजाब कांग्रेस के प्रभारी पद से भूपेश बघेल को हटाकर अब यह बड़ी जिम्मेदारी सचिन पायलट को सौंप दी है। संगठन में हुए इस बदलाव के सियासी मायने क्या हैं?\n\nपूरी कहानी देखें और अपनी राय कमेंट करें।\n\n#SachinPilot #Congress #PunjabPolitics #BhupeshBaghel #PoliticalNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कांग्रेस में बड़ा संगठनात्मक फेरबदल, सचिन पायलट को मिली पंजाब की कमान! ⚡\n\nभूपेश बघेल को पंजाब से हटाकर अब नया प्रभारी बनाया गया है, जबकि पायलट को पंजाब की जिम्मेदारी मिली है।\n\nवीडियो में देखें इस बदलाव के पूरे सियासी मायने। 📲\n\n#SachinPilot #Congress #PunjabPolitics #BhupeshBaghel #PoliticalNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "कांग्रेस में बड़ा संगठनात्मक फेरबदल, सचिन पायलट को मिली पंजाब की कमान! ⚡\n\nपार्टी ने बड़ा कदम उठाते हुए भूपेश बघेल को पंजाब के प्रभारी पद से हटा दिया है और अब यह अहम जिम्मेदारी सचिन पायलट के कंधों पर डाल दी गई है। इस फेरबदल से पार्टी के भीतर क्या नए समीकरण बनेंगे?\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#SachinPilot #Congress #PunjabPolitics #BhupeshBaghel #PoliticalNews"
-      },
-      "hashtags": [
-        "SachinPilot",
-        "Congress",
-        "PunjabPolitics",
-        "BhupeshBaghel",
-        "PoliticalNews"
-      ]
-    },
-    "audio_path": "audio/congress_organizational_reshuffle_sachin_pilot_punjab.wav",
-    "audio_duration_sec": 13.61
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "pm_modi_delhi_metro_ride_srcc",
+    "topic_label": "us_strikes_iranian_oil_tankers",
     "virality_score": 8,
-    "reason": "Visual and viral story of Prime Minister Modi taking a surprise Delhi Metro ride to attend the SRCC centenary.",
+    "reason": "Major geopolitical escalation in the Middle East with the US attacking Iranian oil tankers carries high global tension.",
     "region": "india",
-    "headline": "मेट्रो में सफर, बच्चों से बातचीत, SRCC कॉलेज पहुंचे पीएम मोदी",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को दिल्ली मेट्रो में सफर किया. पीएम मोदी दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स (SRCC) के शताब्दी समारोह में शामिल होने के लिए मेट्रो से कॉलेज पहुंचे.",
-    "source_url": "https://www.aajtak.in/india/news/story/prime-minister-modi-commutes-delhi-metro-attends-srcc-centenary-celebration-ntcpvp-dskc-2637164-2026-09-05?utm_source=rssfeed",
+    "headline": "अमेरिकी युद्धपोतों पर हमले के बाद US का एक्शन, ईरान के तेल टैंकरों पर अटैक",
+    "source_summary": "अमेरिकी सेना ने फारस की खाड़ी में ईरान के तीन तेल टैंकरों पर हमला किया है, जिसमें दो टैंकर पूरी तरह नष्ट हो गए और तीसरे को भी नुकसान पहुंचा का दावा किया है. अमेरिका सेना का कहा है कि ये हमला अमेरिकी नौसेना के युद्धपोतों पर मिसाइल हमलों के जवाब में किया गया.",
+    "source_url": "https://www.aajtak.in/world/story/us-military-attacks-iran-oil-tankers-persian-gulf-tensions-rise-ntc-ntyv-rpti-2637193-2026-09-05?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-05T19:48:09+05:30",
-    "hook": "मेट्रो में आम आदमी की तरह सफर करते नजर आए प्रधानमंत्री नरेंद्र मोदी!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को दिल्ली मेट्रो में सफर किया। वे दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल होने के लिए मेट्रो से कॉलेज पहुंचे, जहां उन्होंने बच्चों से बातचीत भी की।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को दिल्ली मेट्रो में सफर किया। वे दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल होने के लिए मेट्रो से कॉलेज पहुंचे, जहां उन्होंने बच्चों से बातचीत भी की।",
-    "title": "मेट्रो में सफर, बच्चों से बातचीत, SRCC कॉलेज पहुंचे पीएम मोदी",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को दिल्ली मेट्रो में सफर किया। पीएम मोदी दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल होने के लिए मेट्रो से कॉलेज पहुंचे।",
+    "published": "2026-09-05T21:15:59+05:30",
+    "hook": "अमेरिका का ईरान पर बड़ा हमला!",
+    "script_hi": "अमेरिकी नौसेना के युद्धपोतों पर हुए हमलों के जवाब में, अमेरिकी सेना ने फारस की खाड़ी में ईरान के तीन तेल टैंकरों पर बड़ा हमला किया है। इस कार्रवाई में ईरान के दो तेल टैंकर पूरी तरह से नष्ट हो गए हैं, जबकि तीसरे टैंकर को भी भारी नुकसान पहुँचा है।",
+    "tts_text_hi": "अमेरिकी नौसेना के युद्धपोतों पर हुए हमलों के जवाब में, अमेरिकी सेना ने फारस की खाड़ी में ईरान के तीन तेल टैंकरों पर बड़ा हमला किया है। इस कार्रवाई में ईरान के दो तेल टैंकर पूरी तरह से नष्ट हो गए हैं, जबकि तीसरे टैंकर को भी भारी नुकसान पहुँचा है।",
+    "title": "अमेरिकी युद्धपोतों पर हमले के बाद US का एक्शन, ईरान के तेल टैंकरों पर अटैक",
+    "caption": "अमेरिकी सेना ने फारस की खाड़ी में ईरान के तीन तेल टैंकरों को बनाया निशाना, दो टैंकर पूरी तरह नष्ट।",
     "hashtags": [
-      "NarendraModi",
-      "DelhiMetro",
-      "SRCC",
-      "DelhiUniversity",
-      "PMModi",
-      "IndiaNews"
+      "USIran",
+      "PersianGulf",
+      "BreakingNews",
+      "AmericaNews",
+      "IranNews",
+      "USMilitary",
+      "WorldNews"
     ],
     "visual_queries": [
-      "Delhi metro train India",
-      "SRCC college building India",
-      "Indian university students interaction"
-    ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "नरेंद्र मोदी",
-        "source": "fallback",
-        "query": "Narendra Modi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37157138/15741110_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Delhi metro train interior",
-        "credit": "Mohammad Rashid Raza",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11310605/pexels-photo-11310605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi metro train India",
-        "credit": "Shantanu Goyal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19036668/pexels-photo-19036668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi metro train interior",
-        "credit": "Suraj Rawat",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मेट्रो में अचानक पहुंचे पीएम मोदी! बच्चों से की ऐसी बात कि हैरान रह गए सब 🚇",
-        "caption": "मेट्रो में आम आदमी की तरह सफर करते नजर आए प्रधानमंत्री नरेंद्र मोदी! 🚇\n\nदिल्ली मेट्रो में अचानक पीएम मोदी को अपने बीच पाकर लोग दंग रह गए। बच्चों से खुलकर बात की और फिर सीधे एसआरसीसी कॉलेज पहुंच गए।\n\nक्या आपने कभी सफर में किसी बड़े नेता को ऐसे अचानक मिलते देखा है? पूरी कहानी देखें और बताएं आपको कैसा लगा।\n\n#NarendraModi #DelhiMetro #SRCC #PMModi #ViralVideo"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मेट्रो में आम आदमी की तरह सफर करते नजर आए प्रधानमंत्री नरेंद्र मोदी! 🚇\n\nअचानक मेट्रो में पहुंचे पीएम मोदी ने बच्चों से की खास बातचीत और फिर सीधे पहुंचे SRCC कॉलेज। ऐसा सरप्राइज देख हर कोई हैरान रह गया।\n\nवीडियो को शेयर करें और अपने दोस्तों को भी दिखाएं यह दिलचस्प पल!\n\n#NarendraModi #DelhiMetro #SRCC #PMModi #ViralVideo"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मेट्रो में आम आदमी की तरह सफर करते नजर आए प्रधानमंत्री नरेंद्र मोदी! 🚇\n\nरोज की तरह लोग मेट्रो में सफर कर रहे थे, तभी अचानक पीएम मोदी उनके सामने आ गए। बच्चों से प्यार से बातचीत करने के बाद वे सीधे श्रीराम कॉलेज ऑफ कॉमर्स (SRCC) पहुंच गए। इस सरप्राइज विजिट ने वहां मौजूद सभी लोगों को चौंका दिया।\n\nआपको पीएम मोदी का यह अंदाज कैसा लगा? कमेंट में जरूर बताएं और वीडियो पूरा देखें।\n\n#NarendraModi #DelhiMetro #SRCC #PMModi #ViralVideo"
-      },
-      "hashtags": [
-        "NarendraModi",
-        "DelhiMetro",
-        "SRCC",
-        "PMModi",
-        "ViralVideo"
-      ]
-    },
-    "audio_path": "audio/pm_modi_delhi_metro_ride_srcc.wav",
-    "audio_duration_sec": 15.39
-  },
-  {
-    "topic_label": "dahi_handi_festival_fatalities_injuries_maharashtra",
-    "virality_score": 8,
-    "reason": "Tragic accidents during Dahi Handi celebrations with multiple injuries and deaths drawing wide public concern.",
-    "region": "india",
-    "headline": "दही हांडी उत्सव में बच्चे समेत दो की मौत, मुंबई-ठाणे में 42 &#039;गोविंदा&#039; घायल",
-    "source_summary": "महाराष्ट्र में दही हांडी उत्सव के दौरान शनिवार को दर्दनाक हादसों में एक बच्चे सहित दो लोगों की मौत हो गई, जबकि मुंबई और पड़ोसी ठाणे में मानव पिरामिड बनाते समय कम से कम 42 गोविंदा घायल हो गए.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/story/maharashtra-dahi-handi-accident-two-deaths-forty-two-injured-ntc-ntyv-rpti-2637179-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T20:22:10+05:30",
-    "hook": "मुंबई में दही हांडी उत्सव के दौरान बड़ा हादसा!",
-    "script_hi": "महाराष्ट्र में दही हांडी उत्सव के दौरान शनिवार को दर्दनाक हादसों में एक बच्चे समेत दो लोगों की मौत हो गई। मुंबई और ठाणे में मानव पिरामिड बनाते समय बयालीस गोविंदा घायल हो गए। घायलों को अस्पताल में भर्ती कराया गया है।",
-    "tts_text_hi": "महाराष्ट्र में दही हांडी उत्सव के दौरान शनिवार को दर्दनाक हादसों में एक बच्चे समेत दो लोगों की मौत हो गई। मुंबई और ठाणे में मानव पिरामिड बनाते समय बयालीस गोविंदा घायल हो गए। घायलों को अस्पताल में भर्ती कराया गया है।",
-    "title": "मुंबई-ठाणे में दही हांडी उत्सव के दौरान हादसा",
-    "caption": "महाराष्ट्र में दही हांडी उत्सव के दौरान हादसों में दो की मौत, बयालीस गोविंदा घायल।",
-    "hashtags": [
-      "DahiHandi",
-      "MumbaiNews",
-      "MaharashtraNews",
-      "Janmashtami",
-      "Govinda"
-    ],
-    "visual_queries": [
-      "Dahi Handi celebration India",
-      "Mumbai street festival India",
-      "injured people hospital India"
+      "US Navy warship ocean",
+      "Persian Gulf water view",
+      "burning oil tanker sea",
+      "explosion smoke ocean"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -355,287 +577,63 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6688199/6688199-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "emergency medical help",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38091057/pexels-photo-38091057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13753320/pexels-photo-13753320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Dahi Handi celebration India",
-        "credit": "Prashant  Mevada",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36854127/pexels-photo-36854127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai street festival India",
-        "credit": "Darshan Gujrathi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15856553/pexels-photo-15856553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "festival crowd India",
-        "credit": "Chalta Phirta",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11526025/pexels-photo-11526025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd celebration India",
-        "credit": "vikesh zen",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10451132/pexels-photo-10451132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "festival accident news",
-        "credit": "chickenbunny",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802053/pexels-photo-17802053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "street crowd India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दही हांडी उत्सव में बड़ा हादसा! मुंबई और ठाणे में 42 गोविंदा घायल 🚨",
-        "caption": "मुंबई में दही हांडी उत्सव के दौरान बड़ा हादसा! 🚨\n\nमुंबई और ठाणे में जश्न के बीच एक बच्चे समेत दो लोगों की मौत हो गई, जबकि पिरामिड बनाते समय 42 'गोविंदा' घायल हो गए। इस दर्दनाक हादसे ने हर किसी को झकझोर कर रख दिया है।\n\nपूरी कहानी देखें और बताएं कि ऐसे आयोजनों में सुरक्षा को लेकर और क्या कदम उठाए जाने चाहिए?\n\n#DahiHandi2024 #MumbaiNews #ThaneNews #GovindaAccident #Janmashtami"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मुंबई में दही हांडी उत्सव के दौरान बड़ा हादसा! 🚨\n\nजश्न की खुशी उस वक्त मातम में बदल गई जब मटकी फोड़ने की होड़ में एक बच्चे समेत दो लोगों की जान चली गई और 42 गोविंदा घायल हो गए। सुरक्षा के दावों की पोल खोलती इस घटना ने सबको डरा दिया है।\n\nक्या ऐसे आयोजनों में बच्चों के हिस्सा लेने पर पाबंदी लगनी चाहिए? अपनी राय कमेंट में बताएं।\n\n#DahiHandi2024 #MumbaiNews #ThaneNews #GovindaAccident #Janmashtami"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मुंबई में दही हांडी उत्सव के दौरान बड़ा हादसा! 🚨\n\nआनंद और उल्लास का यह पर्व कई परिवारों के लिए कभी न भरने वाला जख्म दे गया। मुंबई और ठाणे में ऊंचाई पर बनी मटकी को छूने की होड़ में एक बच्चे समेत दो लोगों की जान चली गई, वहीं अलग-अलग हादसों में 42 'गोविंदा' बुरी तरह घायल हो गए। \n\nत्योहारों में लापरवाही की ये कीमतें कब तक चुकानी पड़ेगी? पूरी कहानी वीडियो में देखें।\n\n#DahiHandi2024 #MumbaiNews #ThaneNews #GovindaAccident #Janmashtami"
-      },
-      "hashtags": [
-        "DahiHandi2024",
-        "MumbaiNews",
-        "ThaneNews",
-        "GovindaAccident",
-        "Janmashtami"
-      ]
-    },
-    "audio_path": "audio/dahi_handi_festival_fatalities_injuries_maharashtra.wav",
-    "audio_duration_sec": 16.61
-  },
-  {
-    "topic_label": "census_2027_early_start_up_punjab",
-    "virality_score": 7,
-    "reason": "Important national administrative update regarding early census rollout starting December in key poll-bound states.",
-    "region": "india",
-    "headline": "UP समेत चार चुनावी राज्यों में पहले होगी जनगणना, 1 दिसंबर से गिनती शूरू",
-    "source_summary": "गोवा, उत्तर प्रदेश, पंजाब और उत्तराखंड के कुछ हिस्सों में चुनाव के मद्देनजर एक दिसंबर 2026 से चार जनवरी 2027 तक आबादी की गिनती की जाएगी.",
-    "source_url": "https://www.aajtak.in/india/news/story/uttar-pradesh-punjab-uttarakhand-census-schedule-notification-issued-ntc-acwi-dskc-2637187-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T20:52:52+05:30",
-    "hook": "उत्तर प्रदेश समेत चार राज्यों में चुनावी सुगबुगाहट तेज!",
-    "script_hi": "उत्तर प्रदेश समेत चार चुनावी राज्यों में चुनाव से पहले होगी जनगणना। गोवा, उत्तर प्रदेश, पंजाब और उत्तराखंड के कुछ हिस्सों में एक दिसंबर दो हजार छब्बीस से चार जनवरी दो हजार सत्ताईस तक आबादी की गिनती की जाएगी।",
-    "tts_text_hi": "उत्तर प्रदेश समेत चार चुनावी राज्यों में चुनाव से पहले होगी जनगणना। गोवा, उत्तर प्रदेश, पंजाब और उत्तराखंड के कुछ हिस्सों में एक दिसंबर दो हजार छब्बीस से चार जनवरी दो हजार सत्ताईस तक आबादी की गिनती की जाएगी।",
-    "title": "चार चुनावी राज्यों में पहले होगी जनगणना",
-    "caption": "उत्तर प्रदेश समेत चार राज्यों में चुनावी तैयारियों के बीच एक दिसंबर से जनगणना शुरू होगी।",
-    "hashtags": [
-      "#CensusIndia",
-      "#UttarPradesh",
-      "#Election2026",
-      "#IndiaNews",
-      "#UPNews"
-    ],
-    "visual_queries": [
-      "India election map graphic",
-      "Indian voting booth queue",
-      "India population census officers"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "government office India",
-        "credit": "Raaj Ugar",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/31485697/13424817_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "clipboard checklist paperwork",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8828354/pexels-photo-8828354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India election map graphic",
-        "credit": "Lara Jameson",
+        "query": "US Navy warship ocean",
+        "credit": "Ben Libby",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9751100/pexels-photo-9751100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34389435/pexels-photo-34389435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "surveyors walking village India",
-        "credit": "Александра Шевелёва",
+        "query": "Persian Gulf water view",
+        "credit": "byAmirli ‌‌",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16542975/pexels-photo-16542975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian citizens queue",
-        "credit": "Anas Jawed",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 27,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "UP समेत 4 चुनावी राज्यों में सबसे पहले होगी जनगणना! 📊",
-        "caption": "चुनाव से ठीक पहले इन 4 राज्यों में शुरू हो रही है जनगणना 🚨\n\nउत्तर प्रदेश समेत चार बड़े चुनावी राज्यों में 1 दिसंबर से गिनती का काम शुरू होने जा रहा है। इसका सीधा असर आने वाले राजनीतिक समीकरणों पर पड़ना तय है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#Jaganagana2024 #UPNews #ElectionUpdates #CensusIndia #PoliticalNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "1 दिसंबर से इन 4 राज्यों में शुरू होगी जनगणना 🚨\n\nउत्तर प्रदेश समेत चार चुनावी राज्यों में गिनती की सुगबुगाहट तेज हो चुकी है। इस बड़े कदम के सियासी मायने क्या हैं?\n\nवीडियो को अंत तक देखें और शेयर करें।\n\n#Jaganagana2024 #UPNews #ElectionUpdates #CensusIndia #PoliticalNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "चुनावी राज्यों में जनगणना को लेकर हलचल तेज हो गई है 🚨\n\nउत्तर प्रदेश समेत चार राज्यों में 1 दिसंबर से गिनती शुरू होने जा रही है। चुनाव के ठीक पहले इस बड़े प्रशासनिक कदम के राजनीतिक और सामाजिक मायने क्या होंगे, यह जानना बेहद दिलचस्प है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#Jaganagana2024 #UPNews #ElectionUpdates #CensusIndia #PoliticalNews"
-      },
-      "hashtags": [
-        "Jaganagana2024",
-        "UPNews",
-        "ElectionUpdates",
-        "CensusIndia",
-        "PoliticalNews"
-      ]
-    },
-    "audio_path": "audio/census_2027_early_start_up_punjab.wav",
-    "audio_duration_sec": 14.88
-  },
-  {
-    "topic_label": "shekhawati_havelis_unesco_tentative_list",
-    "virality_score": 7,
-    "reason": "Cultural pride story as Rajasthan's historic Shekhawati havelis enter the UNESCO tentative heritage list.",
-    "region": "india",
-    "headline": "दीया कुमारी के प्रयासों से मिलेगी वैश्विक पहचान? शेखावाटी की 14 हवेलियां UNESCO की टेंटेटिव लिस्ट में शामिल",
-    "source_summary": "राजस्थान में शेखावाटी की चौदह ऐतिहासिक हवेलियों को यूनेस्को की अस्थायी सूची में शामिल किया गया है। इससे इन हवेलियों को विश्व धरोहर सूची में शामिल होने की राह आसान हो गई है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/rajasthan-shekhawati-14-havelis-unesco-tentative-list-heritage-efforts-of-diya-kumari/articleshow/133804612.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sat, 05 Sep 2026 20:09:00 +0530",
-    "hook": "शेखावाटी की ऐतिहासिक हवेलियों को मिली बड़ी वैश्विक पहचान!",
-    "script_hi": "राजस्थान के शेखावाटी की चौदह ऐतिहासिक हवेलियों को यूनेस्को की अस्थायी सूची में शामिल कर लिया गया है। उपमुख्यमंत्री दीया कुमारी के प्रयासों से इन प्राचीन हवेलियों को अब विश्व धरोहर सूची में शामिल होने की राह आसान हो गई है।",
-    "tts_text_hi": "राजस्थान के शेखावाटी की चौदह ऐतिहासिक हवेलियों को यूनेस्को की अस्थायी सूची में शामिल कर लिया गया है। उपमुख्यमंत्री दीया कुमारी के प्रयासों से इन प्राचीन हवेलियों को अब विश्व धरोहर सूची में शामिल होने की राह आसान हो गई है।",
-    "title": "शेखावाटी की हवेलियां यूनेस्को की टेंटेटिव लिस्ट में",
-    "caption": "राजस्थान के शेखावाटी की चौदह ऐतिहासिक हवेलियों को यूनेस्को की अस्थायी सूची में शामिल किया गया है।",
-    "hashtags": [
-      "Shekhawati",
-      "UNESCO",
-      "Rajasthan",
-      "DiyaKumari",
-      "Heritage",
-      "IndianHistory",
-      "News"
-    ],
-    "visual_queries": [
-      "Shekhawati haveli architecture India",
-      "Rajasthan heritage building India",
-      "historic Indian haveli tourism"
-    ],
-    "named_person": "Diya Kumari",
-    "named_person_hi": "दीया कुमारी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "दीया कुमारी",
-        "source": "fallback",
-        "query": "Diya Kumari",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34575532/pexels-photo-34575532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Shekhawati haveli architecture India",
-        "credit": "Yash Verma",
+        "query": "burning oil tanker sea",
+        "credit": "Burak  Başgöze",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33823952/pexels-photo-33823952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38841752/pexels-photo-38841752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Rajasthan heritage building India",
-        "credit": "Ayush Sinha",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37415415/pexels-photo-37415415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "historic Indian haveli tourism",
-        "credit": "Harsh  Kukadiya",
+        "query": "explosion smoke ocean",
+        "credit": "Karol Tomsia",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "शेखावाटी की हवेलियां यूनेस्को की टेंटेटिव लिस्ट में शामिल 🏛️",
-        "caption": "सीसीटीवी जैसी नज़र रखने वाली शेखावाटी की हवेलियों को अब मिलने जा रही है दुनिया भर में पहचान! 🏛️\n\nराजस्थान के शेखावाटी इलाके की 14 ऐतिहासिक हवेलियों को आधिकारिक तौर पर UNESCO की टेंटेटिव लिस्ट में शामिल कर लिया गया है। उपमुख्यमंत्री दीया कुमारी के विशेष प्रयासों के बाद इन बेजोड़ कलाकृतियों को वैश्विक पटल पर लाने का रास्ता साफ हुआ है।\n\nक्या आपने कभी इन हवेलियों की खूबसूरती को नजदीक से देखा है? पूरी कहानी देखें और अपनी राय बताएं।\n\n#ShekhawatiHavelis #UNESCO #RajasthanTourism #DiyaKumari #IndianHeritage"
+        "title": "अमेरिका का ईरान पर बड़ा हमला! तेल टैंकरों को बनाया निशाना 🚨",
+        "caption": "अमेरिका का ईरान पर बड़ा हमला! 🚨\n\nअमेरिकी युद्धपोतों पर हुए हमलों के बाद अब अमेरिका ने बड़ा एक्शन लिया है। सीधे ईरान के तेल टैंकरों को निशाना बनाया गया है, जिससे मिडिल ईस्ट में तनाव और ज्यादा बढ़ गया है।\n\nक्या ये जंग अब एक नए मोड़ पर पहुंच चुकी है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#USIranConflict #MiddleEastCrisis #USAttacksIran #OilTankerAttack #GlobalNews"
       },
       "instagram": {
         "title": null,
-        "caption": "शेखावाटी की इन 14 हवेलियों का राज़ अब पूरी दुनिया जानेगी! 🌍✨\n\nUNESCO की टेंटेटिव लिस्ट में नाम दर्ज होने के बाद राजस्थान के इस ऐतिहासिक धरोहर को वैश्विक पहचान मिलने की उम्मीद बढ़ गई है।\n\nशेखावाटी की कलाकारी आपको कैसी लगती है? कॉमेंट में बताएं। 👇\n\n#ShekhawatiHavelis #UNESCO #RajasthanTourism #DiyaKumari #IndianHeritage"
+        "caption": "अमेरिका का ईरान पर बड़ा हमला! 🚨\n\nअमेरिकी युद्धपोतों पर हमलों के जवाब में अमेरिका ने ईरान के तेल टैंकरों पर बड़ा अटैक कर दिया है। इस एक्शन से ग्लोबल लेवल पर हलचल मच गई है।\n\nवीडियो पूरा देखें और शेयर करें ताकि और लोग भी सच जान सकें।\n\n#USIranConflict #MiddleEastCrisis #USAttacksIran #OilTankerAttack #GlobalNews"
       },
       "facebook": {
         "title": null,
-        "caption": "राजस्थान के शेखावाटी से एक बेहद गर्व करने वाली खबर सामने आई है। इलाके की 14 ऐतिहासिक हवेलियों को आधिकारिक तौर पर UNESCO की टेंटेटिव लिस्ट में शामिल कर लिया गया है। 🏛️✨\n\nउपमुख्यमंत्री दीया कुमारी के लगातार प्रयासों के बाद इन खूबसूरत और पुरानी कलाकृतियों को आखिरकार वैश्विक पहचान की ओर बड़ा कदम मिल गया है। इन हवेलियों की बनावट और वास्तुकला दुनिया भर के पर्यटकों को हमेशा से आकर्षित करती रही है।\n\nक्या इन ऐतिहासिक इमारतों के शामिल होने से राजस्थान के पर्यटन को एक नई रफ्तार मिलेगी? हमें लिखकर जरूर बताएं और वीडियो पूरा देखें।\n\n#ShekhawatiHavelis #UNESCO #RajasthanTourism #DiyaKumari #IndianHeritage"
+        "caption": "अमेरिका का ईरान पर बड़ा हमला! 🚨\n\nअमेरिकी युद्धपोतों को निशाना बनाए जाने के बाद अब अमेरिका ने आर-पार की लड़ाई का संकेत दे दिया है। ईरान के तेल टैंकरों पर हुए इस ताबड़तोड़ अटैक के बाद हालात बेहद तनावपूर्ण हो चुके हैं।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें। आपको क्या लगता है, क्या यह जंग अब और भयानक रूप लेगी? कमेंट में जरूर बताएं।\n\n#USIranConflict #MiddleEastCrisis #USAttacksIran #OilTankerAttack #GlobalNews"
       },
       "hashtags": [
-        "ShekhawatiHavelis",
-        "UNESCO",
-        "RajasthanTourism",
-        "DiyaKumari",
-        "IndianHeritage"
+        "USIranConflict",
+        "MiddleEastCrisis",
+        "USAttacksIran",
+        "OilTankerAttack",
+        "GlobalNews"
       ]
     },
-    "audio_path": "audio/shekhawati_havelis_unesco_tentative_list.wav",
-    "audio_duration_sec": 16.17
+    "audio_path": "audio/us_strikes_iranian_oil_tankers.wav",
+    "audio_duration_sec": 18.4
   }
 ]
