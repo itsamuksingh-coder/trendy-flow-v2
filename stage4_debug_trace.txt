@@ -1,9 +1,6 @@
-ready_labels: ['ishan_kishan_duleep_trophy_century', 'mirzapur_the_movie_box_office_50_crore', 'satwik_chirag_china_masters_win']
+ready_labels: ['india_europe_diesel_supplier_surge', 'kbc_akshay_kumar_amitabh_bachchan_purse_fire', 'us_envoys_kyiv_zelensky_talks']
 
-mp_bittu_tabahi_river_cleaning_netherlands_job_offer: SKIPPED (not in ready set)
-bihar_gopalganj_scorpio_on_roof: SKIPPED (not in ready set)
-chatgpt_free_users_sponsored_ads: SKIPPED (not in ready set)
-mirzapur_the_movie_box_office_50_crore: SUCCESS -> video_path=videos/mirzapur_the_movie_box_office_50_crore.mp4 dur=24.989887
-satwik_chirag_china_masters_win: SUCCESS -> video_path=videos/satwik_chirag_china_masters_win.mp4 dur=21.22322
-indonesia_volcano_eruption_stranded_passengers_global: SKIPPED (not in ready set)
-ishan_kishan_duleep_trophy_century: SUCCESS -> video_path=videos/ishan_kishan_duleep_trophy_century.mp4 dur=29.942222
+bittu_tabahi_river_cleaning_netherlands_job_offer: SKIPPED (not in ready set)
+kbc_akshay_kumar_amitabh_bachchan_purse_fire: SUCCESS -> video_path=videos/kbc_akshay_kumar_amitabh_bachchan_purse_fire.mp4 dur=23.046213
+india_europe_diesel_supplier_surge: SUCCESS -> video_path=videos/india_europe_diesel_supplier_surge.mp4 dur=24.289887
+us_envoys_kyiv_zelensky_talks: SUCCESS -> video_path=videos/us_envoys_kyiv_zelensky_talks.mp4 dur=22.356553
