@@ -1,6 +1,4 @@
-ready_labels: ['mirzapur_movie_box_office_50_crore', 'pm_modi_srcc_centenary_metro_ride']
+ready_labels: ['manjit_bedi_fbi_most_wanted_arrest_india']
 
-mirzapur_movie_box_office_50_crore: SUCCESS -> video_path=videos/mirzapur_movie_box_office_50_crore.mp4 dur=23.389887
-pm_modi_srcc_centenary_metro_ride: SUCCESS -> video_path=videos/pm_modi_srcc_centenary_metro_ride.mp4 dur=31.72322
-saharanpur_illegal_mosque_demolition_iqra_hasan: SKIPPED (not in ready set)
-kerala_car_lorry_accident_engineering_students: SKIPPED (not in ready set)
+bigg_boss_20_premiere_launch: SKIPPED (not in ready set)
+manjit_bedi_fbi_most_wanted_arrest_india: SUCCESS -> video_path=videos/manjit_bedi_fbi_most_wanted_arrest_india.mp4 dur=24.300227
