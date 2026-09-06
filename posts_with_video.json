@@ -1,48 +1,239 @@
 [
   {
-    "topic_label": "mcdonalds_india_account_hack_genz_intern",
+    "topic_label": "vaibhav_suryavanshi_sledge_siraj_duleep_trophy",
     "virality_score": 9,
-    "reason": "Gen-Z intern allegedly exposing a major brand on X after a mock account hack has massive viral potential.",
+    "reason": "15-year-old prodigy वैभव सूर्यवंशी hitting Mohammed Siraj and getting into a heated exchange is massive cricket viral content.",
+    "region": "india",
+    "headline": "वैभव ने सिराज को बनाया निशाना, 1 ओवर में कूटे इतने रन, VIDEO",
+    "source_summary": "15 साल के वैभव सूर्यवंशी पहले ही दलीप ट्रॉफी में अपनी बल्लेबाजी से प्रभावित कर चुके हैं. सेमीफाइनल में उन्होंने 92 और 40 रनों की पारियां खेलकर ईस्ट जोन को फाइनल में पहुंचाने में अहम भूमिका निभाई थी. अब फाइनल में सिराज जैसे अनुभवी गेंदबाज को उन्होंने नहीं बख्शा.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-44-runs-duleep-trophy-final-smashes-mohammed-siraj-tspoa-dskc-2637397-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T11:38:04+05:30",
+    "hook": "पंद्रह साल के वैभव सूर्यवंशी ने सिराज पर किया बड़ा हमला!",
+    "script_hi": "पंद्रह साल के युवा खिलाड़ी वैभव सूर्यवंशी ने दलीप ट्रॉफी के फाइनल में भारतीय टीम के अनुभवी गेंदबाज मोहम्मद सिराज को आड़े हाथों लिया। वैभव ने एक ही ओवर में सिराज की गेंद पर ताबड़तोड़ रन कूट डाले। इससे पहले सेमीफाइनल में भी उन्होंने बानवे और चालीस रनों की शानदार पारियां खेलकर ईस्ट जोन को फाइनल में पहुंचाया था।",
+    "tts_text_hi": "पंद्रह साल के युवा खिलाड़ी वैभव सूर्यवंशी ने दलीप ट्रॉफी के फाइनल में भारतीय टीम के अनुभवी गेंदबाज मोहम्मद सिराज को आड़े हाथों लिया। वैभव ने एक ही ओवर में सिराज की गेंद पर ताबड़तोड़ रन कूट डाले। इससे पहले सेमीफाइनल में भी उन्होंने बानवे और चालीस रनों की शानदार पारियां खेलकर ईस्ट जोन को फाइनल में पहुंचाया था।",
+    "title": "वैभव सूर्यवंशी ने सिराज के खिलाफ बनाए ताबड़तोड़ रन",
+    "caption": "पंद्रह साल के वैभव सूर्यवंशी ने दलीप ट्रॉफी फाइनल में मोहम्मद सिराज के खिलाफ आक्रामक बल्लेबाजी करते हुए एक ओवर में कई रन कूटे।",
+    "hashtags": [
+      "VaibhavSuryavanshi",
+      "MohammedSiraj",
+      "DuleepTrophy",
+      "CricketNews",
+      "TeamIndia",
+      "BCCI",
+      "CricketHighlights"
+    ],
+    "visual_queries": [
+      "cricket stadium India match",
+      "cricket bowler running pitch India",
+      "cricket batsman power shot India",
+      "cricket trophy celebration India"
+    ],
+    "named_person": "Vaibhav Suryavanshi",
+    "named_person_hi": "वैभव सूर्यवंशी",
+    "secondary_persons": [
+      "Mohammed Siraj"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story highlights a specific viral video moment from a match that requires the actual real match footage, which generic stock B-roll cannot replace.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_a81435baee.jpg",
+        "source": "wikimedia",
+        "query": "Vaibhav Suryavanshi",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_2a059960a7.jpg",
+        "source": "wikimedia",
+        "query": "Mohammed Siraj",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_40ccde4d0c.jpg",
+        "source": "wikimedia_commons",
+        "query": "cricket stadium India match",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket bowler running pitch India",
+        "credit": "Princeton dsouza",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_0d1992f9d6.jpg",
+        "source": "wikimedia_commons",
+        "query": "cricket batsman power shot India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket trophy celebration India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "mp_bittu_tabahi_netherlands_job_offer",
+    "virality_score": 9,
+    "reason": "Inspirational and viral grassroots river-cleaning hero getting an international job offer from the Netherlands.",
+    "region": "india",
+    "headline": "एमपी के 'सफाई किंग' बिट्टू तबाही को नीदरलैंड से जॉब ऑफर! क्रिकेटर पीटरसन भी हुए मुरीद, लिखा- WELL DONE! Bhai",
+    "source_summary": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही की मेहनत को अंतरराष्ट्रीय पहचान मिली है. अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की प्रतिष्ठित संस्था The Ocean Cleanup ने जॉब ऑफर दिया. पूर्व इंग्लैंड क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए WELL DONE! Bhai लिखा.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/bittu-tabahi-ocean-cleanup-job-offer-kevin-pietersen-praises-mp-river-cleaning-hero-ajnar-river-cleanup-12008291#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 06 Sep 2026 10:51:15 +0530",
+    "hook": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर!",
+    "script_hi": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही को अंतरराष्ट्रीय पहचान मिली है। अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की प्रतिष्ठित संस्था द ओशियन क्लीनअप ने जॉब ऑफर दिया है। पूर्व इंग्लैंड क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए लिखा, वैल डन भाई।",
+    "tts_text_hi": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही को अंतरराष्ट्रीय पहचान मिली है। अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की प्रतिष्ठित संस्था द ओशियन क्लीनअप ने जॉब ऑफर दिया है। पूर्व इंग्लैंड क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए लिखा, वैल डन भाई।",
+    "title": "एमपी के सफाई किंग बिट्टू तबाही को नीदरलैंड से जॉब ऑफर",
+    "caption": "मध्य प्रदेश के राजगढ़ के बिट्टू तबाही को नीदरलैंड से मिला जॉब ऑफर, क्रिकेटर केविन पीटरसन ने भी की तारीफ।",
+    "hashtags": [
+      "#MadhyaPradesh",
+      "#BittuTabahi",
+      "#TheOceanCleanup",
+      "#KevinPietersen",
+      "#RiverCleaning",
+      "#Inspiration",
+      "#GoodNews",
+      "#India"
+    ],
+    "visual_queries": [
+      "Indian youth cleaning river India",
+      "river cleanup project India",
+      "Netherlands office building exterior",
+      "cricket player portrait"
+    ],
+    "named_person": "Kevin Pietersen",
+    "named_person_hi": "केविन पीटरसन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_ab821620ce.jpg",
+        "source": "wikimedia",
+        "query": "Kevin Pietersen",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17397876/pexels-photo-17397876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian youth cleaning river India",
+        "credit": "Chetan Jha",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11959308/pexels-photo-11959308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "river cleanup project India",
+        "credit": "THE JD Darshan Solanki",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31362704/pexels-photo-31362704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Netherlands office building exterior",
+        "credit": "Timothy Huliselan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35801174/pexels-photo-35801174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket player portrait",
+        "credit": "Mir Burhan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एमपी के सफाई किंग बिट्टू तबाही को नीदरलैंड से जॉब ऑफर 🇳🇱",
+        "caption": "एमपी के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🇮🇳✨\n\nमध्य प्रदेश के बिट्टू तबाही ने अपनी मेहनत और अनोखे अंदाज़ से सबको हैरान कर दिया है। नीदरलैंड से नौकरी का बुलावा आने के बाद अब इंग्लैंड के पूर्व क्रिकेटर केविन पीटरसन भी उनके मुरीद हो गए हैं और 'Well Done' लिखा है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#MadhyaPradeshNews #BittuTabahi #CleaningKing #KevinPietersen #Inspiration"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🇮🇳🔥\n\nबिट्टू तबाही की मेहनत ने अब सात समंदर पार भी धूम मचा दी है। नीदरलैंड से ऑफर मिलने के बाद दिग्गज क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ की है।\n\nवीडियो शेयर करें और बताएं आपको कैसी लगी ये कामयाबी!\n\n#MadhyaPradeshNews #BittuTabahi #CleaningKing #KevinPietersen #Inspiration"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🇮🇳✨\n\nअपनी अनोखी मेहनत के दम पर पहचान बनाने वाले बिट्टू तबाही की चर्चा अब विदेशों तक पहुंच गई है। नीदरलैंड से बड़ा जॉब ऑफर मिलने के बाद क्रिकेट जगत के धुरंधर केविन पीटरसन ने भी उनकी जमकर तारीफ की है और 'Well Done Bhai' लिखा है। \n\nपूरी कहानी के लिए वीडियो देखें और इस प्रेरणादायक सफलता को शेयर करें।\n\n#MadhyaPradeshNews #BittuTabahi #CleaningKing #KevinPietersen #Inspiration"
+      },
+      "hashtags": [
+        "MadhyaPradeshNews",
+        "BittuTabahi",
+        "CleaningKing",
+        "KevinPietersen",
+        "Inspiration"
+      ]
+    },
+    "audio_path": "audio/mp_bittu_tabahi_netherlands_job_offer.wav",
+    "audio_duration_sec": 21.13,
+    "video_path": "videos/mp_bittu_tabahi_netherlands_job_offer.mp4",
+    "video_duration_sec": 29.18
+  },
+  {
+    "topic_label": "mcdonalds_india_twitter_hack_gen_z_intern",
+    "virality_score": 9,
+    "reason": "Relatable and hilarious Gen-Z workplace rebellion where an alleged intern exposed unpaid salary via the company X account.",
     "region": "india",
     "headline": "Gen Z से पंगा यानी सीधे सिस्टम हैक! McDonald's India के इंटर्न ने वसूल ली अपनी सैलरी, बॉस को किया एक्सपोज",
     "source_summary": "McDonald's India X Account Hack: मैकडॉनल्ड्स इंडिया का एक्स अकाउंट कथित तौर पर हैक होने के बाद Gen Z इंटर्न ने सैलरी न मिलने के आरोप लगाए। पोस्ट वायरल हुईं, फिर हटा दी गईं। कंपनी ने अभी कोई आधिकारिक बयान नहीं दिया है।",
     "source_url": "https://navbharattimes.indiatimes.com/business/business-news/mcdonalds-india-x-account-hack-gen-z-intern-salary-claim/articleshow/133828976.cms",
     "source_name": "Navbharat Times",
     "published": "Sun, 06 Sep 2026 12:39:00 +0530",
-    "hook": "मैकडॉनल्ड्स का एक्स अकाउंट हुआ हैक, इंटर्न ने खोले गहरे राज!",
-    "script_hi": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट अचानक चर्चा में आ गया है। कथित तौर पर अकाउंट हैक होने के बाद एक जेन जी इंटर्न ने कंपनी पर सैलरी न देने के गंभीर आरोप लगाए। वायरल पोस्ट्स में इंटर्न ने अपने बॉस को भी एक्सपोज कर दिया। हालांकि बाद में ये पोस्ट्स डिलीट कर दी गईं। कंपनी की तरफ से अभी तक कोई आधिकारिक बयान सामने नहीं आया है।",
-    "tts_text_hi": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट अचानक चर्चा में आ गया है। कथित तौर पर अकाउंट हैक होने के बाद एक जेन जी इंटर्न ने कंपनी पर सैलरी न मिलने के गंभीर आरोप लगाए। वायरल पोस्ट्स में इंटर्न ने अपने बॉस को भी एक्सपोज कर दिया। हालांकि बाद में ये पोस्ट्स डिलीट कर दी गईं। कंपनी की तरफ से अभी तक कोई आधिकारिक बयान सामने नहीं आया है।",
-    "title": "McDonald's India X Account Hacked by Gen Z Intern",
-    "caption": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट हुआ हैक! जेन जी इंटर्न ने सैलरी न मिलने पर किए कई खुलासे।",
+    "hook": "मैकडॉनल्ड्स का एक्स अकाउंट हैक!",
+    "script_hi": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट हैक होने की खबर सामने आई है। दावा किया जा रहा है कि एक जेन जी इंटर्न ने सैलरी न मिलने पर अकाउंट पर कब्जा कर लिया और अपनी भड़ास निकाली। हालांकि बाद में ये पोस्ट हटा दी गईं और कंपनी का कोई आधिकारिक बयान अभी तक सामने नहीं आया है।",
+    "tts_text_hi": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट हैक होने की खबर सामने आई है। दावा किया जा रहा है कि एक जेन जी इंटर्न ने सैलरी न मिलने पर अकाउंट पर कब्जा कर लिया और अपनी भड़ास निकाली। हालांकि बाद में ये पोस्ट हटा दी गईं और कंपनी का कोई आधिकारिक बयान अभी तक सामने नहीं आया है।",
+    "title": "McDonald's India X Account Hacked",
+    "caption": "मैकडॉनल्ड्स इंडिया का एक्स अकाउंट कथित तौर पर हैक, जेन जी इंटर्न ने लगाए सैलरी न मिलने के आरोप।",
     "hashtags": [
-      "#McDonaldsIndia",
-      "#GenZ",
-      "#TwitterHack",
-      "#ViralNews",
-      "#TechNews",
-      "#IndiaNews"
+      "McDonaldsIndia",
+      "GenZ",
+      "TechNews",
+      "ViralNews",
+      "TwitterHack",
+      "IndiaNews"
     ],
     "visual_queries": [
       "smartphone showing social media India",
-      "fast food restaurant interior India",
-      "stressed office worker India"
+      "fast food restaurant counter India",
+      "corporate office workspace India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 27,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on viral social media posts about an unverified account hack and internal company claims that lack official confirmation, requiring human verification before publishing.",
+    "flag_reason": "Story relies on unverified social media claims about a corporate hack and internal employee grievances that may require manual verification of facts.",
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30576896/13093681_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "fast food restaurant interior India",
-        "credit": "Nazmi Javier",
-        "source_duration_sec": 4,
-        "duration_sec": 4
-      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -53,263 +244,174 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7580851/pexels-photo-7580851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33978460/pexels-photo-33978460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "angry boss employee office",
-        "credit": "RDNE Stock project",
+        "query": "fast food restaurant counter India",
+        "credit": "Shubham Jana",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "corporate office workspace India",
+        "credit": "Jansher Chakkittammal",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 14,
+    "timeline_covered_sec": 15,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "vaibhav_suryavanshi_tilak_verma_duleep_trophy_fight",
+    "topic_label": "gud_ki_jalebi_recipe_viral",
     "virality_score": 8,
-    "reason": "Heated on-field clash between 15-year-old star वैभव सूर्यवंशी and तिलक वर्मा in the Duleep Trophy final makes great cricket short content.",
+    "reason": "Unique and appealing recipe for homemade jalebi with high visual and food-lover appeal.",
     "region": "india",
-    "headline": "वैभव से भिड़े तिलक, बात &#039;पंच&#039; तक पहुंची, अंपायर ने किया बीच-बचाव",
-    "source_summary": "ईस्ट जोन और साउथ जोन के बीच दलीप ट्रॉफी फाइनल में मैदान पर माहौल गरमा गया. वैभव सूर्यवंशी और तिलक वर्मा के बीच स्लेजिंग से शुरू हुआ मामला उस वक्त गंभीर हो गया, जब तिलक ने मुक्का मारने का इशारा किया. विवाद बढ़ता देख अंपायरों को बीच में आकर दोनों खिलाड़ियों को शांत कराना पड़ा.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-vs-tilak-varma-heated-argument-duleep-trophy-final-tspoa-dskc-2637407-2026-09-06?utm_source=rssfeed",
+    "headline": "गुड़ से बनाएं हलवाई जैसी कुरकुरी और रसीली जलेबी, नोट करें रेसिपी",
+    "source_summary": "Gud Jalebi Recipe: अगर आपको मीठा खाने का शौक है और इस बार कुछ देसी स्वाद ट्राई करना चाहते हैं तो घर पर गुड़ की जलेबी बना सकते हैं. बाहर से कुरकुरी और अंदर से गुड़ की मिठास से भरी यह जलेबी स्वाद में बेहद लाजवाब होती है और इसे आसानी से घर पर तैयार किया जा सकता है.",
+    "source_url": "https://www.aajtak.in/lifestyle/kitchen/story/how-to-make-gud-jalebi-recipe-halwai-style-crispy-jaggery-jalebi-gur-ka-desi-methai-tmovx-dskc-2636785-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-06T12:14:55+05:30",
-    "hook": "दलीप ट्रॉफी फाइनल में वैभव और तिलक के बीच गरमाया माहौल!",
-    "script_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में ईस्ट जोन और साउथ जोन के बीच मैदान पर तनाव देखने को मिला। वैभव सूर्यवंशी और तिलक वर्मा के बीच स्लेजिंग शुरू हुई और बात मुक्का मारने के इशारे तक जा पहुंची। मामला बढ़ता देख अंपायरों को तुरंत बीच-बचाव करना पड़ा और दोनों खिलाड़ियों को शांत कराया गया।",
-    "tts_text_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में ईस्ट जोन और साउथ जोन के बीच मैदान पर तनाव देखने को मिला। वैभव सूर्यवंशी और तिलक वर्मा के बीच स्लेजिंग शुरू हुई और बात मुक्का मारने के इशारे तक जा पहुंची। मामला बढ़ता देख अंपायरों को तुरंत बीच-बचाव करना पड़ा और दोनों खिलाड़ियों को शांत कराया गया।",
-    "title": "दलीप ट्रॉफी फाइनल में भिड़े वैभव और तिलक",
-    "caption": "दलीप ट्रॉफी फाइनल में वैभव सूर्यवंशी और तिलक वर्मा के बीच मैदान पर गरमागरमी, अंपायर को करना पड़ा बीच-बचाव।",
+    "published": "2026-09-06T11:55:03+05:30",
+    "hook": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी?",
+    "script_hi": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी? अगर आपको मीठा पसंद है, तो इस बार घर पर बनाएं हलवाई जैसी गुड़ की जलेबी। यह बाहर से कुरकुरी और अंदर से गुड़ की मिठास से भरी होती है। स्वाद में बेहद लाजवाब इस देसी मिठाई को बनाना बहुत आसान है, तो आज ही अपनी रसोई में इसे ट्राई करें।",
+    "tts_text_hi": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी? अगर आपको मीठा पसंद है, तो इस बार घर पर बनाएं हलवाई जैसी गुड़ की जलेबी। यह बाहर से कुरकुरी और अंदर से गुड़ की मिठास से भरी होती है। स्वाद में बेहद लाजवाब इस देसी मिठाई को बनाना बहुत आसान है, तो आज ही अपनी रसोई में इसे ट्राई करें।",
+    "title": "घर पर बनाएं हलवाई जैसी कुरकुरी गुड़ की जलेबी",
+    "caption": "मीठे के शौकीनों के लिए खास रेसिपी! घर पर आसानी से बनाएं कुरकुरी और रसीली गुड़ की जलेबी। #GudJalebi #JalebiRecipe #IndianDessert #DesiSweets #SweetTooth #FoodReelsIndia",
     "hashtags": [
-      "DuleepTrophy",
-      "CricketNews",
-      "VaibhavSuryavanshi",
-      "TilakVarma",
-      "CricketFights",
-      "BCCI"
+      "GudJalebi",
+      "JalebiRecipe",
+      "IndianDessert",
+      "DesiSweets",
+      "SweetTooth",
+      "FoodReelsIndia"
     ],
     "visual_queries": [
-      "cricket stadium India",
-      "cricket umpire intervention India",
-      "angry cricket players India"
+      "Indian sweet jalebi making India",
+      "jaggery block India kitchen",
+      "crispy jalebi plate India"
     ],
-    "named_person": "Vaibhav Suryavanshi",
-    "named_person_hi": "वैभव सूर्यवंशी",
-    "secondary_persons": [
-      "Tilak Varma"
-    ],
-    "est_duration_sec": 26,
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "वैभव सूर्यवंशी",
-        "source": "fallback",
-        "query": "Vaibhav Suryavanshi",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8844364/8844364-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Indian sweet shop counter",
+        "credit": "Lara Jameson",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10856577/pexels-photo-10856577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian sweet jalebi making India",
+        "credit": "Rohan Dewangan",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36001580/pexels-photo-36001580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
+        "query": "jaggery block India kitchen",
+        "credit": "Kashif Shah",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36215924/pexels-photo-36215924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket umpire intervention India",
-        "credit": "Princeton dsouza",
-        "duration_sec": 5
+        "query": "crispy jalebi plate India",
+        "credit": "Abdus Salam",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13509630/pexels-photo-13509630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10856577/pexels-photo-10856577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "angry cricket players India",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दलीप ट्रॉफी फाइनल: वैभव और तिलक के बीच क्यों हाथापाई तक आ गई बात? 🏏",
-        "caption": "दलीप ट्रॉफी फाइनल में वैभव और तिलक के बीच गरमाया माहौल! ⚡\n\nमैच के दौरान दोनों खिलाड़ी आपस में भिड़ गए और नौबत हाथापाई तक पहुंच गई। गनीमत रही कि अंपायर ने समय रहते बीच-बचाव कर लिया वरना बात और बिगड़ सकती थी।\n\nपूरी कहानी देखें और बताएं कि मैदान पर ऐसा बर्ताव कहां तक सही है।\n\n#DuleepTrophy #VaibhavSooryavanshi #TilakVarma #CricketNews #IndianCricket"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दलीप ट्रॉफी फाइनल में वैभव और तिलक के बीच गरमाया माहौल! ⚡\n\nमैच के रोमांच के बीच दोनों खिलाड़ी आपस में बुरी तरह उलझ गए। बात 'पंच' तक पहुंच गई थी, जिसे देख अंपायर को तुरंत बीच-बचाव करना पड़ा। \n\nआपकी इस पर क्या राय है, कमेंट में बताएं! 👇\n\n#DuleepTrophy #VaibhavSooryavanshi #TilakVarma #CricketNews #IndianCricket"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दलीप ट्रॉफी फाइनल में वैभव और तिलक के बीच गरमाया माहौल! ⚡\n\nमैच के दौरान मैदान का तापमान तब अचानक बढ़ गया जब वैभव और तिलक के बीच तीखी बहस शुरू हो गई। बात इतनी बढ़ गई कि मामला 'पंच' तक पहुंचता दिखा, लेकिन अंपायर ने तुरंत बीच में आकर स्थिति को संभाला। खेल के मैदान पर ऐसी गरमागरमी पर आपका क्या सोचना है? पूरी कहानी वीडियो में देखें।\n\n#DuleepTrophy #VaibhavSooryavanshi #TilakVarma #CricketNews #IndianCricket"
-      },
-      "hashtags": [
-        "DuleepTrophy",
-        "VaibhavSooryavanshi",
-        "TilakVarma",
-        "CricketNews",
-        "IndianCricket"
-      ]
-    },
-    "audio_path": "audio/vaibhav_suryavanshi_tilak_verma_duleep_trophy_fight.wav",
-    "audio_duration_sec": 21.22,
-    "video_path": "videos/vaibhav_suryavanshi_tilak_verma_duleep_trophy_fight.mp4",
-    "video_duration_sec": 29.27
-  },
-  {
-    "topic_label": "ujjain_khade_hanuman_mandir_demolition_stumped",
-    "virality_score": 8,
-    "reason": "Fascinating local incident where civic officials couldn't move a 170-year-old Hanuman idol during an anti-encroachment drive.",
-    "region": "india",
-    "headline": "उज्जैन के 170 साल पुराने खड़े हनुमान मंदिर को तोड़ने पहुंचा निगम, लेकिन मूर्ति नहीं हटा पाया, अधिकारियों के फूले हाथ-पैर",
-    "source_summary": "Ujjain Khade Hanuman Mandir:मध्य प्रदेश के उज्जैन में 170 साल पुराने ऐतिहासिक 'खड़े हनुमान मंदिर' को हटाने गई नगर निगम की टीम उस वक्त मुश्किल में फंस गई जब वे हनुमान जी की प्रतिमा को नहीं हिला पाए। पुरातत्व विभाग ने चेतावनी दी है कि मूर्ति को हटाने से वह खंडित हो सकती है। इस घटना के बाद स्थानीय श्रद्धालुओं और हिंदूवादी संगठनों में भारी रोष है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/ujjain/ujjain-khade-hanuman-temple-demolition-archaeological-department-warning-bajrang-bali-statue-mystery/articleshow/133827495.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 06 Sep 2026 12:20:00 +0530",
-    "hook": "मध्य प्रदेश के उज्जैन में एक ऐसा चमत्कार, जिसे देख अधिकारियों के हाथ-पैर फूल गए!",
-    "script_hi": "मध्य प्रदेश के उज्जैन में एक सौ सत्तर साल पुराने ऐतिहासिक खड़े हनुमान मंदिर को हटाने गई नगर निगम की टीम उस वक्त मुश्किल में फंस गई, जब वे हनुमान जी की प्रतिमा को अपनी जगह से हिला तक नहीं पाए। पुरातत्व विभाग ने चेतावनी दी है कि मूर्ति को हटाने से वह खंडित हो सकती है। इस घटना के बाद स्थानीय श्रद्धालुओं और हिंदू संगठनों में भारी रोष देखने को मिल रहा है।",
-    "tts_text_hi": "मध्य प्रदेश के उज्जैन में एक सौ सत्तर साल पुराने ऐतिहासिक खड़े हनुमान मंदिर को हटाने गई नगर निगम की टीम उस वक्त मुश्किल में फंस गई, जब वे हनुमान जी की प्रतिमा को अपनी जगह से हिला तक नहीं पाए। पुरातत्व विभाग ने चेतावनी दी है कि मूर्ति को हटाने से वह खंडित हो सकती है। इस घटना के बाद स्थानीय श्रद्धालुओं और हिंदू संगठनों में भारी रोष देखने को मिल रहा है।",
-    "title": "उज्जैन में नहीं हटी हनुमान जी की प्रतिमा",
-    "caption": "उज्जैन के एक सौ सत्तर साल पुराने खड़े हनुमान मंदिर को हटाने पहुंची नगर निगम टीम, लेकिन मूर्ति को नहीं हटा पाई।",
-    "hashtags": [
-      "Ujjain",
-      "HanumanMandir",
-      "MadhyaPradesh",
-      "BreakingNews",
-      "HinduNews"
-    ],
-    "visual_queries": [
-      "historic Hindu temple India",
-      "municipal corporation office India",
-      "hindu temple courtyard India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28793885/pexels-photo-28793885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "historic Hindu temple India",
-        "credit": "Roman Saienko",
-        "duration_sec": 4.3
+        "query": "traditional dessert making India",
+        "credit": "Rohan Dewangan",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18479495/pexels-photo-18479495.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "municipal corporation office India",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 4.3
+        "query": "pouring syrup on sweet",
+        "credit": "Sateesh Polkam",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34071229/pexels-photo-34071229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37219215/pexels-photo-37219215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hindu temple courtyard India",
-        "credit": "Ravi Kant",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15096534/pexels-photo-15096534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hindu temple exterior India",
-        "credit": "Rajesh  Shetty",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27170153/pexels-photo-27170153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd of devotees India",
-        "credit": "Dibakar Roy",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39086652/pexels-photo-39086652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "ancient temple India",
-        "credit": "Debendra Das",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18380205/pexels-photo-18380205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "municipal workers India street",
-        "credit": "Aawara  Musafir",
-        "duration_sec": 4.3
+        "query": "festive Indian sweets food",
+        "credit": "Tharun Thejus",
+        "duration_sec": 4.0
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.1,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "170 साल पुराना मंदिर तोड़ने पहुंचे अधिकारी, लेकिन मूर्ति नहीं हटी! 😲",
-        "caption": "मध्य प्रदेश के उज्जैन में एक ऐसा चमत्कार, जिसे देख अधिकारियों के हाथ-पैर फूल गए!\n\nनगर निगम की टीम बुलडोजर लेकर 170 साल पुराने खड़े हनुमान मंदिर को तोड़ने पहुंची थी। सब कुछ ढहा दिया गया, लेकिन जब बारी मूर्ति हटाने की आई तो कोई उसे एक इंच भी नहीं खिसका पाया।\n\nपूरी कहानी वीडियो में देखें और कमेंट में बताएं आपकी इस पर क्या राय है।\n\n#UjjainNews #HanumanMandir #MadhyaPradeshNews #UjjainMunicipalCorporation #ViralNews"
+        "title": "गुड़ से बनाएं हलवाई जैसी कुरकुरी और रसीली जलेबी 🍯 आसान रेसिपी",
+        "caption": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी? 🍯\n\nचीनी वाली जलेबी तो बहुत खाई होगी, लेकिन इस बार घर पर ट्राई करें हलवाई जैसी टेस्टी और हेल्दी गुड़ की जलेबी। नोट करें आसान रेसिपी और झटपट बनाएं।\n\nपूरी रेसिपी वीडियो में देखें और कैसी बनी, हमें बताएं! 👇\n\n#JalebiRecipe #GudKiJalebi #IndianDessert #SweetRecipe #CookingHacks"
       },
       "instagram": {
         "title": null,
-        "caption": "मध्य प्रदेश के उज्जैन में एक ऐसा चमत्कार, जिसे देख अधिकारियों के हाथ-पैर फूल गए! 😳\n\nनिगम की टीम 170 साल पुराने मंदिर को तोड़ने पहुंची थी। सब तोड़ दिया, पर हनुमान जी की मूर्ति अपनी जगह से जरा भी नहीं हिली।\n\nपूरी घटना हैरान कर देने वाली है। वीडियो पूरा देखें और शेयर करें!\n\n#UjjainNews #HanumanMandir #MadhyaPradeshNews #UjjainMunicipalCorporation #ViralNews"
+        "caption": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी? 🍯\n\nचीनी को कहें बाय-बाय और घर पर बनाएं हलवाई जैसी कुरकुरी, रसीली गुड़ की जलेबी। रेसिपी नोट करना मत भूलना!\n\nकिस-किस के मुंह में पानी आ गया? कमेंट में बताओ! 😋\n\n#JalebiRecipe #GudKiJalebi #IndianDessert #SweetRecipe #CookingHacks"
       },
       "facebook": {
         "title": null,
-        "caption": "मध्य प्रदेश के उज्जैन में एक ऐसा चमत्कार, जिसे देख अधिकारियों के हाथ-पैर फूल गए! 🛑\n\nशहर का 170 साल पुराना खड़े हनुमान मंदिर को गिराने के लिए नगर निगम का अमला भारी पुलिस बल के साथ पहुंचा था। मंदिर का ढांचा तो टूट गया, लेकिन जब बात मूर्ति हटाने की आई, तो बड़े-बड़े अधिकारियों और मजदूरों के पसीने छूट गए। कोई भी उस मूर्ति को हिला तक नहीं पाया।\n\nआखिर ऐसा क्या हुआ वहां? पूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#UjjainNews #HanumanMandir #MadhyaPradeshNews #UjjainMunicipalCorporation #ViralNews"
+        "caption": "क्या आपने कभी खाई है गुड़ की कुरकुरी जलेबी? 🍯\n\nत्योहार हो या कुछ मीठा खाने का मन, गुड़ की ये हेल्दी और टेस्टी जलेबी सबका दिल जीत लेगी। हलवाई जैसी कुरकुरी और रसीली जलेबी घर पर बनाने का आसान तरीका यहां देखें।\n\nवीडियो को पूरा देखें और अपने दोस्तों के साथ शेयर करें जो मीठा खाने के शौकीन हैं! 😋\n\n#JalebiRecipe #GudKiJalebi #IndianDessert #SweetRecipe #CookingHacks"
       },
       "hashtags": [
-        "UjjainNews",
-        "HanumanMandir",
-        "MadhyaPradeshNews",
-        "UjjainMunicipalCorporation",
-        "ViralNews"
+        "JalebiRecipe",
+        "GudKiJalebi",
+        "IndianDessert",
+        "SweetRecipe",
+        "CookingHacks"
       ]
     },
-    "audio_path": "audio/ujjain_khade_hanuman_mandir_demolition_stumped.wav",
-    "audio_duration_sec": 25.51,
-    "video_path": "videos/ujjain_khade_hanuman_mandir_demolition_stumped.mp4",
-    "video_duration_sec": 33.46
+    "audio_path": "audio/gud_ki_jalebi_recipe_viral.wav",
+    "audio_duration_sec": 21.77,
+    "video_path": "videos/gud_ki_jalebi_recipe_viral.mp4",
+    "video_duration_sec": 29.83
   },
   {
-    "topic_label": "india_secures_strategic_port_sri_lanka",
-    "virality_score": 7,
-    "reason": "India nearing a deal for a key strategic port in northern Sri Lanka near the former LTTE stronghold.",
+    "topic_label": "indonesia_volcano_eruption_jakarta_airport",
+    "virality_score": 8,
+    "reason": "Spectacular natural disaster visuals with massive ash clouds halting airport operations.",
     "region": "india",
-    "headline": "श्रीलंका में भारत को बड़ी सफलता, लिट्टे का गढ़ रहे इलाके में हाथ आया अहम पोर्ट, डील लगभग फाइनल",
-    "source_summary": "श्रीलंका के उत्तरी तट पर जाफना के पास स्थित कांकेसंथुराई बंदरगाह भारतीय तट के करीब होने के कारण रणनीतिक और व्यावसायिक रूप से बहुत अहम है। भारत और श्रीलंका इस पोर्ट को लेकर समझौते के करीब पहुंच गए हैं।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/asian-countries/india-and-sri-lanka-near-to-finalise-61-million-dollar-kankesanthurai-port-deal/articleshow/133828800.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 06 Sep 2026 12:57:00 +0530",
-    "hook": "श्रीलंका में भारत को मिली बड़ी सामरिक सफलता!",
-    "script_hi": "श्रीलंका के उत्तरी तट पर जाफना के पास स्थित कांकेसंथुराई बंदरगाह अब भारत के हाथ आने वाला है। भारत और श्रीलंका इस पोर्ट को लेकर समझौते के बिल्कुल करीब पहुंच गए हैं। यह बंदरगाह भारतीय तट के बेहद करीब है, इसलिए रणनीतिक और व्यावसायिक रूप से यह भारत के लिए बहुत अहम माना जा रहा है।",
-    "tts_text_hi": "श्रीलंका के उत्तरी तट पर जाफना के पास स्थित कांकेसंथुराई बंदरगाह अब भारत के हाथ आने वाला है। भारत और श्रीलंका इस पोर्ट को लेकर समझौते के बिल्कुल करीब पहुंच गए हैं। यह बंदरगाह भारतीय तट के बेहद करीब है, इसलिए रणनीतिक और व्यावसायिक रूप से यह भारत के लिए बहुत अहम माना जा रहा है।",
-    "title": "श्रीलंका में भारत को बड़ी सफलता, लिट्टे गढ़ में मिला अहम पोर्ट",
-    "caption": "श्रीलंका के उत्तरी तट पर जाफना के पास स्थित कांकेसंथुराई बंदरगाह भारत के हाथ आने वाला है। रणनीतिक रूप से यह डील भारत के लिए बहुत बड़ी सफलता मानी जा रही है।",
+    "headline": "30 सेकंड का विस्फोट, 50 हजार फीट तक राख... इंडोनेशिया में फटा ज्वालामुखी",
+    "source_summary": "इंडोनेशिया में ज्वालामुखी फटने से 50 हजार फीट ऊंचा राख का गुबार उठा. हवा में राख फैलने से जकार्ता एयरपोर्ट पर उड़ानें थमीं और 22,800 मुसाफिर फंस गए.",
+    "source_url": "https://www.aajtak.in/world/story/indonesia-volcano-erupts-ash-cloud-reaches-50000-feet-jakarta-airport-flights-hit-ntc-dhrj-dskc-2637401-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T11:46:05+05:30",
+    "hook": "महज तीस सेकंड के विस्फोट में आसमान तक फैली राख!",
+    "script_hi": "इंडोनेशिया में ज्वालामुखी फटने से पचास हजार फीट ऊंचा राख का गुबार उठा। हवा में राख फैलने से जकार्ता एयरपोर्ट पर उड़ानें थमीं और बाईस हजार आठ सौ मुसाफिर फंस गए।",
+    "tts_text_hi": "इंडोनेशिया में ज्वालामुखी फटने से पचास हजार फीट ऊंचा राख का गुबार उठा। हवा में राख फैलने से जकार्ता एयरपोर्ट पर उड़ानें थमीं और बाईस हजार आठ सौ मुसाफिर फंस गए।",
+    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट",
+    "caption": "इंडोनेशिया में ज्वालामुखी फटने से पचास हजार फीट ऊंचा राख का गुबार उठा, जकार्ता एयरपोर्ट पर उड़ानें थमीं।",
     "hashtags": [
-      "SriLanka",
-      "IndiaNews",
-      "Jaffna",
-      "Geopolitics",
-      "IndianNavy",
-      "ForeignPolicy"
+      "IndonesiaVolcano",
+      "JakartaAirport",
+      "VolcanoEruption",
+      "BreakingNews",
+      "WorldNews"
     ],
     "visual_queries": [
-      "Sri Lanka coastline India",
-      "Jaffna city Sri Lanka",
-      "cargo port India",
-      "container ship India"
+      "volcano eruption ash cloud",
+      "volcano crater smoke explosion",
+      "airport terminal crowded passengers",
+      "airplane grounded tarmac"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -320,34 +422,34 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10850849/pexels-photo-10850849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35036739/pexels-photo-35036739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Sri Lanka coastline India",
-        "credit": "Sachith Ravishka Kodikara",
+        "query": "volcano eruption ash cloud",
+        "credit": "Luis Arroyave",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30488025/pexels-photo-30488025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29940256/pexels-photo-29940256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Jaffna city Sri Lanka",
-        "credit": "Amar .M",
+        "query": "volcano crater smoke explosion",
+        "credit": "Hayg Balis",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12712893/pexels-photo-12712893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16562839/pexels-photo-16562839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cargo port India",
-        "credit": "Shreyas  Anchan Photography",
+        "query": "airport terminal crowded passengers",
+        "credit": "K",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28796364/pexels-photo-28796364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10070382/pexels-photo-10070382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "container ship India",
-        "credit": "Aj33",
+        "query": "airplane grounded tarmac",
+        "credit": "Nikita  Grishin",
         "duration_sec": 5
       }
     ],
@@ -356,28 +458,246 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "श्रीलंका के इस पोर्ट पर भारत का कब्जा! चीन की बढ़ी टेंशन 🇮🇳",
-        "caption": "चीन की धड़कनें तेज! श्रीलंका में भारत के हाथ लगा ऐसा पोर्ट, जिसकी गूंज बीजिंग तक सुनाई दे रही है। 🚢\n\nकभी लिट्टे का गढ़ रहे इलाके में हुई इस महा-डील से समंदर में भारत की ताकत और ज्यादा बढ़ गई है। ड्रैगन का खेल खत्म!\n\nआपको क्या लगता है, इस डील से भारत को कितना फायदा होगा? कमेंट में बताएं।\n\n#IndiaSriLanka #IndianNavy #Geopolitics #IndianForeignPolicy #ChinaVsIndia"
+        "title": "महज तीस सेकंड में 50 हजार फीट ऊंची राख! इंडोनेशिया में भयानक ज्वालामुखी विस्फोट 🌋",
+        "caption": "महज तीस सेकंड के विस्फोट में आसमान तक फैली राख! 🌋\n\nइंडोनेशिया के माउंट मेरापी में अचानक हुए इस खतरनाक विस्फोट से चारों तरफ अफरा-तफरी मच गई। आसमान में 50 हजार फीट तक धुएं और राख का गुबार छा गया है।\n\nक्या आपने कभी ऐसी प्राकृतिक तबाही देखी है? पूरी कहानी देखें और अपनी राय बताएं।\n\n#IndonesianVolcano #MountMerapi #VolcanicEruption #WorldNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "चीन की धड़कनें तेज! श्रीलंका में भारत के हाथ लगा ऐसा पोर्ट, जिसकी गूंज बीजिंग तक सुनाई दे रही है। 🚢\n\nकभी लिट्टे का गढ़ रहे इलाके में हुई इस महा-डील से समंदर में भारत की ताकत और ज्यादा बढ़ गई है। ड्रैगन का खेल खत्म!\n\nये सामरिक चाल कितनी खतरनाक है? शेयर करके अपनी राय दें।\n\n#IndiaSriLanka #IndianNavy #Geopolitics #IndianForeignPolicy #ChinaVsIndia"
+        "caption": "महज तीस सेकंड के विस्फोट में आसमान तक फैली राख! 🌋\n\nइंडोनेशिया में हुए इस भीषण ज्वालामुखी विस्फोट ने सबको हैरान कर दिया है। 50 हजार फीट की ऊंचाई तक सिर्फ धुआं और राख दिखाई दे रही है। \n\nअपनों के साथ शेयर करें यह चौंकाने वाला वीडियो।\n\n#IndonesianVolcano #MountMerapi #VolcanicEruption #WorldNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "चीन की धड़कनें तेज! श्रीलंका में भारत के हाथ लगा ऐसा पोर्ट, जिसकी गूंज बीजिंग तक सुनाई दे रही है। 🚢\n\nकभी लिट्टे का गढ़ रहे उस इलाके में भारत को ये बड़ी सामरिक बढ़त मिली है, जिसे लेकर कभी भयंकर जंग होती थी। इस महा-डील के बाद हिंद महासागर में ड्रैगन की हर चाल पर लगाम कसना और आसान हो जाएगा। \n\nपूरी कहानी वीडियो में देखें और अपनी राय शेयर करें।\n\n#IndiaSriLanka #IndianNavy #Geopolitics #IndianForeignPolicy #ChinaVsIndia"
+        "caption": "महज तीस सेकंड के विस्फोट में आसमान तक फैली राख! 🌋\n\nप्रकृति का एक ऐसा रूप जिसने देखने वालों की सांसे रोक दीं। इंडोनेशिया में अचानक हुए इस ज्वालामुखी विस्फोट के बाद 50 हजार फीट की ऊंचाई तक सिर्फ राख का गुबार फैल गया। प्रशासन ने आसपास के इलाकों में अलर्ट जारी कर दिया है। \n\nपूरी खबर और वीडियो देखिए, क्या कहना है आपका इस तबाही पर?\n\n#IndonesianVolcano #MountMerapi #VolcanicEruption #WorldNews #BreakingNews"
       },
       "hashtags": [
-        "IndiaSriLanka",
-        "IndianNavy",
-        "Geopolitics",
-        "IndianForeignPolicy",
-        "ChinaVsIndia"
+        "IndonesianVolcano",
+        "MountMerapi",
+        "VolcanicEruption",
+        "WorldNews",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/india_secures_strategic_port_sri_lanka.wav",
-    "audio_duration_sec": 21.62,
-    "video_path": "videos/india_secures_strategic_port_sri_lanka.mp4",
-    "video_duration_sec": 29.62
+    "audio_path": "audio/indonesia_volcano_eruption_jakarta_airport.wav",
+    "audio_duration_sec": 13.04,
+    "video_path": "videos/indonesia_volcano_eruption_jakarta_airport.mp4",
+    "video_duration_sec": 21.09
+  },
+  {
+    "topic_label": "mbbs_student_hair_ball_stomach_surgery",
+    "virality_score": 8,
+    "reason": "Bizarre medical case of doctors extracting a 1.2 kg hair ball from a 20-year-old medical student's stomach.",
+    "region": "india",
+    "headline": "पेट दर्द की शिकायत लेकर पहुंची थी अस्पताल, टेस्ट कराया तो उड़ गए होश, डॉक्टरों ने सर्जरी कर बचाई MBBS छात्रा की जान",
+    "source_summary": "द्वारका स्थित मणिपाल हॉस्पिटल के डॉक्टरों ने लैप्रोस्कोपिक सर्जरी के जरिए 20 वर्षीय एमबीबीएस छात्रा के पेट से 1.2 किलोग्राम वजन का बालों का गुच्छा निकाला।",
+    "source_url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/manipal-hospital-dwarka-20-year-old-mbbs-student-undergoes-surgery-for-1-2-kg-hairball-in-stomach/articleshow/133829514.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 06 Sep 2026 13:33:00 +0530",
+    "hook": "पेट दर्द की ऐसी वजह कि डॉक्टरों के भी होश उड़ गए!",
+    "script_hi": "दिल्ली के द्वारका स्थित मणिपाल हॉस्पिटल में डॉक्टरों ने एक बीस वर्षीय एमबीबीएस छात्रा की जान बचाई है। छात्रा पेट दर्द की शिकायत लेकर अस्पताल पहुंची थी, जहां टेस्ट कराने पर डॉक्टरों के होश उड़ गए। लैप्रोस्कोपिक सर्जरी के जरिए उसके पेट से एक दशमलव दो किलोग्राम वजन का बालों का गुच्छा निकाला गया।",
+    "tts_text_hi": "दिल्ली के द्वारका स्थित मणिपाल हॉस्पिटल में डॉक्टरों ने एक बीस वर्षीय एमबीबीएस छात्रा की जान बचाई है। छात्रा पेट दर्द की शिकायत लेकर अस्पताल पहुंची थी, जहां टेस्ट कराने पर डॉक्टरों के होश उड़ गए। लैप्रोस्कोपिक सर्जरी के जरिए उसके पेट से एक दशमलव दो किलोग्राम वजन का बालों का गुच्छा निकाला गया।",
+    "title": "एमबीबीएस छात्रा के पेट से निकला बालों का गुच्छा",
+    "caption": "दिल्ली के द्वारका स्थित मणिपाल हॉस्पिटल के डॉक्टरों ने लैप्रोस्कोपिक सर्जरी कर बीस वर्षीय एमबीबीएस छात्रा के पेट से एक दशमलव दो किलोग्राम वजन का बालों का गुच्छा निकालकर उसकी जान बचाई।",
+    "hashtags": [
+      "#MedicalMiracle",
+      "#DelhiNews",
+      "#ManipalHospital",
+      "#HealthNews",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian hospital building exterior India",
+      "doctor examining patient India",
+      "medical surgery theatre India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian hospital building exterior India",
+        "credit": "Uvesh Gogda",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7580260/pexels-photo-7580260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "doctor examining patient India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33903882/pexels-photo-33903882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical surgery theatre India",
+        "credit": "DΛVΞ GΛRCIΛ",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency ward India",
+        "credit": "Maxx Sas",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6753425/pexels-photo-6753425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stethoscope medical examination India",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15684298/pexels-photo-15684298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "young female student studying India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31499386/pexels-photo-31499386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern hospital corridor India",
+        "credit": "Adarsh Mp",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "MBBS छात्रा के पेट से निकला बालों का गुच्छा! डॉक्टरों के उड़े होश 😱",
+        "caption": "पेट दर्द की ऐसी वजह कि डॉक्टरों के भी होश उड़ गए! 🤯\n\nअस्पताल पहुंची एमबीबीएस छात्रा की जब डॉक्टरों ने जांच की और सर्जरी की, तो पेट से बालों का एक विशाल गुच्छा निकला। समय रहते ऑपरेशन न होता तो जान भी जा सकती थी।\n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#mbbsstudent #medicalmiracle #healthnews #medicalcase #latestnews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पेट दर्द की ऐसी वजह कि डॉक्टरों के भी होश उड़ गए! 🤯\n\nअस्पताल पहुंची एमबीबीएस छात्रा के पेट से निकला बालों का गुच्छा। डॉक्टरों की सूझबूझ से बची जान।\n\nपूरी कहानी देखें और दोस्तों के साथ शेयर करें।\n\n#mbbsstudent #medicalmiracle #healthnews #medicalcase #latestnews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पेट दर्द की ऐसी वजह कि डॉक्टरों के भी होश उड़ गए! 🤯\n\nसामान्य से पेट दर्द की शिकायत लेकर अस्पताल पहुंची एक एमबीबीएस छात्रा की जब डॉक्टरों ने जांच की, तो उनके भी पैरों तले जमीन खिसक गई। सर्जरी के दौरान उसके पेट से बालों का एक बड़ा गुच्छा निकला। डॉक्टरों की टीम ने समय रहते ऑपरेशन कर उसकी जान बचा ली।\n\nपूरी कहानी क्या है, वीडियो में देखें।\n\n#mbbsstudent #medicalmiracle #healthnews #medicalcase #latestnews"
+      },
+      "hashtags": [
+        "mbbsstudent",
+        "medicalmiracle",
+        "healthnews",
+        "medicalcase",
+        "latestnews"
+      ]
+    },
+    "audio_path": "audio/mbbs_student_hair_ball_stomach_surgery.wav",
+    "audio_duration_sec": 20.97,
+    "video_path": "videos/mbbs_student_hair_ball_stomach_surgery.mp4",
+    "video_duration_sec": 29.01
+  },
+  {
+    "topic_label": "uss_abraham_lincoln_sailors_thailand_row",
+    "virality_score": 8,
+    "reason": "Wild reports of 5,000 US sailors causing havoc and partying in Thailand after a grueling Middle East deployment.",
+    "region": "india",
+    "headline": "286 दिनों के बाद समुद्र से निकले 5,000 अमेरिकी सैनिकों ने थाईलैंड में मचाया हुड़दंग, अय्याशी, मारपीट, सरकार का एक्शन",
+    "source_summary": "USS Abraham Lincoln: अब्राहम लिंकन नवंबर 2025 में सैन डिएगो से निकला था। उम्मीद थी कि यह छह से नौ महीने का एक सामान्य मिशन होगा। जनवरी में इसे पश्चिमी प्रशांत क्षेत्र से हटाकर पश्चिम एशिया भेज दिया गया जहां यह ईरान के खिलाफ अमेरिकी सेना की तैयारी में शामिल हो गया।",
+    "source_url": "https://navbharattimes.indiatimes.com/world/asian-countries/us-marines-banned-in-pattaya-after-drunk-brawls-uss-abraham-lincoln/articleshow/133829439.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 06 Sep 2026 12:49:00 +0530",
+    "hook": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिक!",
+    "script_hi": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिकों ने थाईलैंड में भारी हुड़दंग मचाया। अमरीकी युद्धपोत अब्राहम लिंकन के इन सैनिकों पर अय्याशी और मारपीट के आरोप लगे हैं, जिसके बाद स्थानीय सरकार ने कड़ा एक्शन लिया है। यह युद्धपोत नवंबर दो हजार पच्चीस में सैन डिएगो से निकला था और पश्चिमी एशिया में तैनात रहा था।",
+    "tts_text_hi": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिकों ने थाईलैंड में भारी हुड़दंग मचाया। अमरीकी युद्धपोत अब्राहम लिंकन के इन सैनिकों पर अय्याशी और मारपीट के आरोप लगे हैं, जिसके बाद स्थानीय सरकार ने कड़ा एक्शन लिया है। यह युद्धपोत नवंबर दो हजार पच्चीस में सैन डिएगो से निकला था और पश्चिमी एशिया में तैनात रहा था।",
+    "title": "थाईलैंड में अमेरिकी सैनिकों का हुड़दंग",
+    "caption": "समुद्र में दो सौ छियासी दिन बिताने के बाद थाईलैंड पहुंचे अमेरिकी सैनिकों ने मचाया हुड़दंग, सरकार ने लिया एक्शन।",
+    "hashtags": [
+      "USNavy",
+      "Thailand",
+      "BreakingNews",
+      "WorldNews",
+      "USMilitary"
+    ],
+    "visual_queries": [
+      "US aircraft carrier sea India",
+      "US Navy sailors port India",
+      "Thailand city street India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12485407/12485407-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "US aircraft carrier sea India",
+        "credit": "Jaxon Matthew Willis",
+        "source_duration_sec": 22,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15504764/pexels-photo-15504764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US Navy sailors port India",
+        "credit": "RITESH SINGH",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15922967/pexels-photo-15922967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US military base Asia",
+        "credit": "Giona Mason",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "286 दिन समुद्र में रहे अमेरिकी सैनिक, थाईलैंड पहुँचते ही मचाया हुड़दंग! 🚨",
+        "caption": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिक! 🌊\n\nथाईलैंड के तट पर उतरते ही इन सैनिकों ने ऐसा तांडव मचाया कि स्थानीय प्रशासन और सरकार हिल गई। मारपीट से लेकर अय्याशी तक, इन पर कई गंभीर आरोप लगे हैं। \n\nपूरी कहानी क्या है, वीडियो में देखिए।\n\n#USMilitary #ThailandNews #WorldNews #BreakingNews #GlobalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिक! 🚨\n\nथाईलैंड पहुँचते ही अमेरिकी सैनिकों ने सरेआम हुड़दंग और मारपीट शुरू कर दी। इस भारी हंगामे के बाद अब सरकार ने क्या एक्शन लिया है? \n\nपूरी कहानी देखें और शेयर करें।\n\n#USMilitary #ThailandNews #WorldNews #BreakingNews #GlobalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दो सौ छियासी दिनों के बाद समुद्र से बाहर आए पांच हजार अमेरिकी सैनिक! 🌊\n\nलंबी अवधि तक समुद्र में रहने के बाद जब ये सैनिक थाईलैंड पहुँचे, तो इन्होने सरेआम हुड़दंग मचाना शुरू कर दिया। मारपीट और अय्याशी की इन हरकतों ने स्थानीय प्रशासन को एक्शन लेने पर मजबूर कर दिया है। \n\nवीडियो में देखिए पूरी घटना की असल सच्चाई और सरकार का कड़ा कदम।\n\n#USMilitary #ThailandNews #WorldNews #BreakingNews #GlobalNews"
+      },
+      "hashtags": [
+        "USMilitary",
+        "ThailandNews",
+        "WorldNews",
+        "BreakingNews",
+        "GlobalNews"
+      ]
+    },
+    "audio_path": "audio/uss_abraham_lincoln_sailors_thailand_row.wav",
+    "audio_duration_sec": 25.02,
+    "video_path": "videos/uss_abraham_lincoln_sailors_thailand_row.mp4",
+    "video_duration_sec": 33.06
   }
 ]
