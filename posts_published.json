@@ -1,555 +1,215 @@
 [
   {
-    "topic_label": "delhi_satya_niketan_building_collapse",
-    "virality_score": 9,
-    "reason": "Major breaking news about a building collapse in Delhi with people trapped, high visual impact and urgency.",
-    "region": "india",
-    "headline": "LIVE: दिल्ली में इमारत ढही, मलबे में कई छात्रों के दबे होने की आशंका",
-    "source_summary": "LIVE: दक्षिण दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई. बारिश के बीच इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका जताई जा रही है. स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां तुरंत मौके पर पहुंची. फिलहाल राहत और बचाव कार्य चलाया जा रहा है.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-satya-niketan-building-collapseed-people-feared-trapped-ntc-drmt-rpti-2637469-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:15:14+05:30",
-    "hook": "दिल्ली में बड़ा हादसा! बारिश के बीच ढही इमारत, मलबे में कई लोगों के दबे होने की आशंका!",
-    "script_hi": "दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई। बारिश के बीच हुए इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका है। सूचना मिलते ही स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां मौके पर पहुंच गई हैं। फिलहाल युद्धस्तर पर राहत और बचाव कार्य चलाया जा रहा है।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई। बारिश के बीच हुए इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका है। सूचना मिलते ही स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां मौके पर पहुंच गई हैं। फिलहाल युद्धस्तर पर राहत और बचाव कार्य चलाया जा रहा है।",
-    "title": "दिल्ली के सत्य निकेतन में ढही इमारत, कई लोगों के दबे होने की आशंका",
-    "caption": "दक्षिण दिल्ली के सत्य निकेतन इलाके में बारिश के बीच एक इमारत गिर गई। राहत और बचाव कार्य जारी है। #DelhiBuildingCollapse #SatyaNiketan #DelhiNews #BreakingNews #RescueOperation",
-    "hashtags": [
-      "DelhiBuildingCollapse",
-      "SatyaNiketan",
-      "DelhiNews",
-      "BreakingNews",
-      "RescueOperation",
-      "Delhi"
-    ],
-    "visual_queries": [
-      "collapsed building debris India",
-      "fire brigade rescue operation India",
-      "police barricade street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "collapsed building debris India",
-        "credit": "Dhong Wang",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade street India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban rescue team India",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802053/pexels-photo-17802053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd gathered street India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12936001/pexels-photo-12936001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency services flashing lights",
-        "credit": "Jonathan Cooper",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38944962/pexels-photo-38944962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rainy day Delhi street",
-        "credit": "Switabh Shrivastava",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दिल्ली में बड़ा हादसा! बारिश के बीच ढही इमारत, मलबे में दबे छात्र 🚨",
-        "caption": "दिल्ली के सत्य निकेतन इलाके में बारिश के बीच अचानक एक इमारत ढह गई। मलबे के नीचे कई छात्रों के दबे होने की आशंका जताई जा रही है, और राहत-बचाव कार्य तेजी से जारी है।\n\nप्रशासन मौके पर मौजूद है और हर मुमकिन कोशिश की जा रही है। पूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दिल्ली के सत्य निकेतन में बड़ा हादसा! 🚨 बारिश के बीच अचानक इमारत ढह गई और मलबे में कई छात्र दब गए। \n\nरेस्क्यू ऑपरेशन जारी है। क्या है पूरा मामला, जानने के लिए वीडियो देखें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दिल्ली से इस वक्त की बड़ी खबर सामने आ रही है। सत्य निकेतन इलाके में बारिश के दौरान एक इमारत अचानक ढह गई, जिससे वहां हड़कंप मच गया। मलबे के नीचे कई छात्रों के दबे होने की आशंका है और फिलहाल प्रशासन की टीम मौके पर रेस्क्यू में जुटी है।\n\nहालात पर लगातार नजर रखी जा रही है। पूरी खबर के लिए वीडियो देखें और शेयर करें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "hashtags": [
-        "delhi",
-        "buildingcollapse",
-        "delhinews",
-        "satyniketan",
-        "breakingnews"
-      ]
-    },
-    "audio_path": "audio/delhi_satya_niketan_building_collapse.wav",
-    "audio_duration_sec": 20.94,
-    "video_path": "videos/delhi_satya_niketan_building_collapse.mp4",
-    "video_duration_sec": 28.82,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T10:39:54.077705+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d43122b86a56b2f65339c",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली से इस वक्त की बड़ी खबर सामने आ रही है। सत्य निकेतन इलाके में बारिश के दौरान एक इमारत अचानक ढह गई, जिससे वहां हड़कंप मच गया। मलबे के नीचे कई छात्रों के दबे होने की आशंका है और फिलहाल प्रशासन की टीम मौके पर रेस्क्यू में जुटी है।\n\nहालात पर लगातार नजर रखी जा रही है। पूरी खबर के लिए वीडियो देखें और शेयर करें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788691216457_dnppxss1_delhi_satya_niketan_building_collapse.mp4",
-                "_id": "6a9d43122b86a56b2f65339d"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T10:40:17.548Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "eb1acd01488ab5b2d7d3a26b51b02c61",
-                "_id": "6a9d43122b86a56b2f65339e",
-                "platformPostId": "1624812519213251",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1624812519213251",
-                "publishedAt": "2026-09-06T10:40:29.421Z"
-              }
-            ],
-            "scheduledFor": "2026-09-06T10:40:17.548Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:40:18.494Z",
-            "updatedAt": "2026-09-06T10:40:29.565Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:40:18.558Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T10:40:29.730737+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d433cb3651c947a79c061",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली के सत्य निकेतन में बड़ा हादसा! 🚨 बारिश के बीच अचानक इमारत ढह गई और मलबे में कई छात्र दब गए। \n\nरेस्क्यू ऑपरेशन जारी है। क्या है पूरा मामला, जानने के लिए वीडियो देखें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788691258922_riwj5gmb_delhi_satya_niketan_building_collapse.mp4",
-                "_id": "6a9d433cb3651c947a79c062"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T10:40:59.746Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "56ad808b71e3a39e93ec8e9d1d42c40c",
-                "_id": "6a9d433cb3651c947a79c063"
-              }
-            ],
-            "scheduledFor": "2026-09-06T10:40:59.746Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:41:00.607Z",
-            "updatedAt": "2026-09-06T10:41:02.527Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:41:00.952Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T10:41:03.006447+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "madhya_pradesh_spurious_liquor_deaths",
+    "topic_label": "mp_bittu_tabahi_river_cleaning_netherlands_job_offer",
     "virality_score": 8,
-    "reason": "Tragic mass casualty event due to illegal liquor in MP, strong public safety and outrage appeal.",
+    "reason": "Inspiring viral story of an Indian youth getting a job offer from the Netherlands after cleaning a river single-handedly.",
     "region": "india",
-    "headline": "रात में नशा किया, सुबह तबीयत खराब... आखिर उस शराब में क्या था?",
-    "source_summary": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली या अवैध शराब पीने के बाद 9 लोगों की मौत का मामला सामने आया है. बंडा क्षेत्र के कई गांवों में शनिवार रात शराब पीने के बाद लोगों की तबीयत बिगड़ गई. रविवार सुबह उन्हें अस्पताल पहुंचाया गया, जहां 9 लोगों को मृत घोषित कर दिया गया. प्रशासन ने प्रभावित गांवों में स्क्रीनिंग शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/sagar-toxic-liquor-tragedy-9-dead-suspected-poisonous-alcohol-lcla-strc-2637496-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:50:57+05:30",
-    "hook": "मध्य प्रदेश में जहरीली शराब का कहर! नौ लोगों की मौत से हड़कंप।",
-    "script_hi": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली शराब पीने से नौ लोगों की मौत हो गई है। बंडा क्षेत्र के गांवों में शनिवार रात शराब पीने से लोगों की तबीयत बिगड़ी, और रविवार सुबह अस्पताल में उन्हें मृत घोषित कर दिया गया। प्रशासन ने प्रभावित इलाकों में स्क्रीनिंग शुरू कर दी है।",
-    "tts_text_hi": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली शराब पीने से नौ लोगों की मौत हो गई है। बंडा क्षेत्र के गांवों में शनिवार रात शराब पीने से लोगों की तबीयत बिगड़ी, और रविवार सुबह अस्पताल में उन्हें मृत घोषित कर दिया गया। प्रशासन ने प्रभावित इलाकों में स्क्रीनिंग शुरू कर दी है।",
-    "title": "मध्य प्रदेश के सागर में जहरीली शराब से नौ लोगों की मौत",
-    "caption": "मध्य प्रदेश के सागर जिले में जहरीली शराब पीने से नौ लोगों की मौत, प्रशासन सतर्क। #MadhyaPradesh #SagarNews #BreakingNews #SpuriousLiquor #IndiaNews",
+    "headline": "अकेले गंदी नदी साफ करने पर 20 साल के 'बिट्टू तबाही' को मिला नीदरलैंड्स से सीधा ऑफर, ये वीडियो हुआ था वायरल",
+    "source_summary": "मध्यप्रदेश के 20 साल के 'बिट्टू तबाही' ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया. उनका ये जबरदस्त काम देखकर 'The Ocean Cleanup' के डच CEO Boyan Slat इतने इंप्रेस हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में जॉब ऑफर कर दिया.",
+    "source_url": "https://ndtv.in/zara-hatke/dutch-ceo-offers-job-to-indian-youth-bittu-tabahi-for-cleaning-river-12008765#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 06 Sep 2026 13:42:36 +0530",
+    "hook": "अकेले गंदी नदी साफ करने वाले युवक को मिला विदेश से सीधा जॉब ऑफर!",
+    "script_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर दी ओशियन क्लीनअप के डच सीईओ बोयान स्लाट इतने इंप्रेस हुए कि बिट्टू को अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
+    "tts_text_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर दी ओशियन क्लीनअप के डच सीईओ बोयान स्लाट इतने इंप्रेस हुए कि बिट्टू को अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
+    "title": "मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स से मिला जॉब ऑफर",
+    "caption": "अकेले गंदी नदी साफ करने वाले मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स की कंपनी से मिला बड़ा ऑफर।",
     "hashtags": [
-      "MadhyaPradesh",
-      "SagarNews",
-      "BreakingNews",
-      "SpuriousLiquor",
-      "IndiaNews"
+      "#MadhyaPradesh",
+      "#RiverCleaning",
+      "#GoodNews",
+      "#InspiringYouth",
+      "#IndiaNews",
+      "#ViralVideo"
     ],
     "visual_queries": [
-      "MadhyaPradesh village India",
-      "police investigation India",
-      "hospital building India"
+      "Indian dirty river polluted water",
+      "Indian young man cleaning river India",
+      "clean river water nature India",
+      "corporate office workspace India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Boyan Slat",
+    "named_person_hi": "बोयान स्लाट",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video and a specific individual, which requires manual verification and custom footage rather than generic stock B-roll.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24781984/pexels-photo-24781984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "text_card",
+        "text": "बोयान स्लाट",
+        "source": "fallback",
+        "query": "Boyan Slat",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/19291963/19291963-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "MadhyaPradesh village India",
-        "credit": "Muhammed zeya",
+        "query": "Indian young man cleaning river India",
+        "credit": "Monojit Sarkar",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36289959/pexels-photo-36289959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian dirty river polluted water",
+        "credit": "INAAM ASHIQ",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28873261/pexels-photo-28873261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
+        "query": "clean river water nature India",
+        "credit": "Alex Jaison",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12092934/pexels-photo-12092934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hospital building India",
-        "credit": "General Kenobi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17748004/pexels-photo-17748004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rural India village life",
-        "credit": "Monojit Dutta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11934967/pexels-photo-11934967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "village crowd grief India",
-        "credit": "Hurrah suhail",
+        "query": "corporate office workspace India",
+        "credit": "Jansher Chakkittammal",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "एमपी के सागर में जहरीली शराब से 9 मौतें! आखिर उस बोतल में क्या था? 🚨",
-        "caption": "मध्य प्रदेश के सागर में जहरीली शराब पीने से 9 लोगों की दर्दनाक मौत हो गई। ☠️\n\nरात में पार्टी, सुबह तबीयत बिगड़ी और कुछ ही घंटों में सांसें थम गईं। प्रशासन ने जांच शुरू कर दी है पर परिवारों का रो-रोकर बुरा हाल है।\n\nपूरी कहानी देखें और अपनों को सतर्क करें।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मध्य प्रदेश के सागर में जहरीली शराब से 9 लोगों की मौत! ☠️\n\nरात का नशा सुबह मौत का पैगाम बनकर आया। एक के बाद एक 9 जिंदगियां खत्म होने से पूरे इलाके में कोहराम मचा है।\n\nक्या ऐसी अवैध फैक्ट्रियों पर कभी लगाम लगेगी? अपनी राय कमेंट में बताएं।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मध्य प्रदेश के सागर जिले से दिल दहला देने वाली खबर सामने आई है। यहाँ जहरीली शराब पीने से 9 लोगों की जान चली गई है। 🚨\n\nरात में शराब पीने के बाद सुबह अचानक सबकी तबीयत बिगड़ने लगी और अस्पताल पहुँचने से पहले ही कई लोगों ने दम तोड़ दिया। इस घटना के बाद से प्रशासन में हड़कंप मचा हुआ है और अवैध शराब के अड्डों पर छापेमारी तेज कर दी गई है।\n\nऐसी लापरवाही पर आपका क्या कहना है? वीडियो पूरा देखकर अपनी राय साझा करें।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "hashtags": [
-        "MadhyaPradeshNews",
-        "SagarNews",
-        "SpuriousLiquor",
-        "CrimeNews",
-        "MPNews"
-      ]
-    },
-    "audio_path": "audio/madhya_pradesh_spurious_liquor_deaths.wav",
-    "audio_duration_sec": 19.57,
-    "video_path": "videos/madhya_pradesh_spurious_liquor_deaths.mp4",
-    "video_duration_sec": 27.62,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T10:46:27.095829+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d449f77c1de905d9a67ad",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मध्य प्रदेश के सागर जिले से दिल दहला देने वाली खबर सामने आई है। यहाँ जहरीली शराब पीने से 9 लोगों की जान चली गई है। 🚨\n\nरात में शराब पीने के बाद सुबह अचानक सबकी तबीयत बिगड़ने लगी और अस्पताल पहुँचने से पहले ही कई लोगों ने दम तोड़ दिया। इस घटना के बाद से प्रशासन में हड़कंप मचा हुआ है और अवैध शराब के अड्डों पर छापेमारी तेज कर दी गई है।\n\nऐसी लापरवाही पर आपका क्या कहना है? वीडियो पूरा देखकर अपनी राय साझा करें।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788691613372_vyuht1n9_madhya_pradesh_spurious_liquor_deaths.mp4",
-                "_id": "6a9d449f77c1de905d9a67ae"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T10:46:54.498Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "ec08309417870437230e76b651a4ec96",
-                "_id": "6a9d449f77c1de905d9a67af",
-                "platformPostId": "1323804544149121",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1323804544149121",
-                "publishedAt": "2026-09-06T10:47:02.924Z"
-              }
-            ],
-            "scheduledFor": "2026-09-06T10:46:54.498Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:46:55.120Z",
-            "updatedAt": "2026-09-06T10:47:03.059Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:46:55.184Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T10:47:03.219282+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d44c0c23b4916f53a3968",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मध्य प्रदेश के सागर में जहरीली शराब से 9 लोगों की मौत! ☠️\n\nरात का नशा सुबह मौत का पैगाम बनकर आया। एक के बाद एक 9 जिंदगियां खत्म होने से पूरे इलाके में कोहराम मचा है।\n\nक्या ऐसी अवैध फैक्ट्रियों पर कभी लगाम लगेगी? अपनी राय कमेंट में बताएं।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788691646422_29npg7b5_madhya_pradesh_spurious_liquor_deaths.mp4",
-                "_id": "6a9d44c0c23b4916f53a3969"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T10:47:27.527Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "02c6c297dec021c713dd50a6278db604",
-                "_id": "6a9d44c0c23b4916f53a396a"
-              }
-            ],
-            "scheduledFor": "2026-09-06T10:47:27.527Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:47:28.456Z",
-            "updatedAt": "2026-09-06T10:47:30.313Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:47:28.537Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T10:47:30.609477+00:00"
-      }
-    }
+    "timeline_covered_sec": 25.0,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "mirzapur_movie_theatre_fight",
+    "topic_label": "bihar_gopalganj_scorpio_on_roof",
     "virality_score": 8,
-    "reason": "Viral brawl inside cinema hall during 'Mirzapur The Movie' screening, highly relatable pop-culture chaos.",
+    "reason": "Bizarre viral story from Bihar where a brand new Scorpio car was hoisted onto a roof using a crane for safety.",
     "region": "india",
-    "headline": "&#039;मिर्जापुर द मूवी&#039;: थिएटर में भिड़े फैंस, लात-घूसों-चप्पलों से की मारपीट",
-    "source_summary": "'मिर्जापुर द मूवी' को फैंस का जबरदस्त रिस्पॉन्स मिल रहा है. बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. फिल्म के भौकाल के बीच थिएटर से एक वीडियो वायरल हो रहा है, जिसने हर किसी को हैरान कर दिया है.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-movie-theatre-inside-video-munna-guddu-fans-clash-with-belts-chappals-kicks-viral-tmovf-dskc-2637403-2026-09-06?utm_source=rssfeed",
+    "headline": "बिहार में छत पर पार्क की Scorpio, वीडियो हुआ वायरल",
+    "source_summary": "बिहार के गोपालगंज में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया. मीरा टोला गांव में इसके लिए बड़ी क्रेन की मदद ली गई. कार मालिक विदेश में नौकरी करते हैं और ड्राइवर भी विदेश चला गया. परिवार ने सुरक्षा को लेकर यह तरीका अपनाया. घटना का वीडियो सोशल मीडिया पर वायरल है और लोग इसे जुगाड़ बता रहे हैं.",
+    "source_url": "https://www.aajtak.in/short-videos/video/gopalganj-scorpio-rooftop-crane-viral-video-bihar-car-security-unusual-parking-family-safety-story-mmta-2637591-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-06T12:26:52+05:30",
-    "hook": "मिर्जापुर द मूवी के दौरान थिएटर में जमकर चले लात-घूसे!",
-    "script_hi": "मिर्जापुर द मूवी को दर्शकों का जबरदस्त रिस्पॉन्स मिल रहा है और बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. लेकिन इस बीच सिनेमाघर से एक हैरान करने वाला वीडियो सामने आया है, जहां फिल्म देखने पहुंचे फैंस आपस में ही भिड़ गए. थिएटर के अंदर लात-घूसे और चप्पलें चलने का यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई हैरान है.",
-    "tts_text_hi": "मिर्जापुर द मूवी को दर्शकों का जबरदस्त रिस्पॉन्स मिल रहा है और बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. लेकिन इस बीच सिनेमाघर से एक हैरान करने वाला वीडियो सामने आया है, जहां फिल्म देखने पहुंचे फैंस आपस में ही भिड़ गए. थिएटर के अंदर लात-घूसे और चप्पलें चलने का यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई हैरान है.",
-    "title": "मिर्जापुर द मूवी: थिएटर में भिड़े फैंस, लात-घूसों से मारपीट",
-    "caption": "मिर्जापुर द मूवी के दौरान थिएटर में फैंस के बीच मारपीट, वीडियो वायरल।",
+    "published": "2026-09-06T17:13:45+05:30",
+    "hook": "बिहार के गोपालगंज से हैरान करने वाली खबर! स्कॉर्पियो गाड़ी को चढ़ाया घर की दूसरी मंजिल की छत पर।",
+    "script_hi": "बिहार के गोपालगंज में एक अनोखा मामला सामने आया है। मीरा टोला गांव में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया। इसके लिए एक बड़ी क्रेन की मदद ली गई। कार मालिक और ड्राइवर दोनों विदेश में हैं, इसलिए परिवार ने सुरक्षा के लिए यह जुगाड़ अपनाया। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "tts_text_hi": "बिहार के गोपालगंज में एक अनोखा मामला सामने आया है। मीरा टोला गांव में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया। इसके लिए एक बड़ी क्रेन की मदद ली गई। कार मालिक और ड्राइवर दोनों विदेश में हैं, इसलिए परिवार ने सुरक्षा के लिए यह जुगाड़ अपनाया। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "title": "बिहार के गोपालगंज में छत पर चढ़ाई गई स्कॉर्पियो, वीडियो वायरल",
+    "caption": "बिहार के गोपालगंज में नई महिंद्रा स्कॉर्पियो को चोरी से बचाने के लिए क्रेन की मदद से दूसरी मंजिल की छत पर चढ़ाया गया। वीडियो सोशल मीडिया पर वायरल है।",
     "hashtags": [
-      "MirzapurTheMovie",
-      "Mirzapur",
+      "BiharNews",
+      "Gopalganj",
       "ViralVideo",
-      "Bollywood",
-      "BoxOffice",
-      "News",
-      "India"
+      "Scorpio",
+      "DesiJugad",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian cinema hall interior India",
-      "angry crowd fighting India",
-      "viral video smartphone screen India"
+      "Indian village street India",
+      "Mahindra Scorpio car India",
+      "heavy crane lifting car India",
+      "house rooftop India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video from a theatre which requires the actual real footage, as generic stock B-roll cannot accurately stand in for this specific incident.",
+    "flag_reason": "The story relies entirely on a specific viral video showing a unique incident (a Scorpio on a rooftop in Gopalganj) that generic stock B-roll cannot accurately represent; the real video/photo must be added manually.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37467257/pexels-photo-37467257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cinema hall interior India",
-        "credit": "İNZİLE DAL",
+        "query": "Indian village street India",
+        "credit": "DARKMODE CINEMA",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7991229/pexels-photo-7991229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12937789/pexels-photo-12937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cinema hall crowd fight",
-        "credit": "Tima Miroshnichenko",
+        "query": "Mahindra Scorpio car India",
+        "credit": "Ruhit Ramzan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33835031/pexels-photo-33835031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "viral video smartphone screen India",
-        "credit": "Sharath G.",
+        "query": "heavy crane lifting car India",
+        "credit": "Action Construction  Equipment Ltd. - ACE",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "house rooftop India",
+        "credit": "Muhammed zeya",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "chatgpt_free_users_sponsored_ads",
+    "virality_score": 8,
+    "reason": "High-interest tech news about ChatGPT introducing sponsored ads for free users, impacting a massive global and Indian audience.",
+    "region": "india",
+    "headline": "ChatGPT पर दिखेंगे Ads! फ्री यूजर्स के लिए आया बड़ा बदलाव",
+    "source_summary": "ChatGPT का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है. अब AI से सवाल पूछने पर जवाब के नीचे Sponsored Ads दिखाई दे सकते हैं. जानिए ChatGPT पर Ads कैसे दिखेंगे, कंपनियां कैसे विज्ञापन चलाएंगी और आपका पर्सनल चैट्स कितना सेफ है?",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/chatgpt-ads-free-users-sponsored-ad-openai-prym-dskc-2637483-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T14:49:50+05:30",
+    "hook": "क्या चैटजीपीटी पर भी अब विज्ञापन दिखेंगे?",
+    "script_hi": "चैटजीपीटी का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है। अब आर्टिफिशियल इंटेलिजेंस से सवाल पूछने पर जवाब के नीचे स्पॉन्सर्ड विज्ञापन दिखाई दे सकते हैं। हालांकि, कंपनी ने अभी तक इस पर कोई आधिकारिक घोषणा नहीं की है, लेकिन तकनीकी जगत में इसकी चर्चा तेज हो गई है।",
+    "tts_text_hi": "चैटजीपीटी का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है। अब आर्टिफिशियल इंटेलिजेंस से सवाल पूछने पर जवाब के नीचे स्पॉन्सर्ड विज्ञापन दिखाई दे सकते हैं। हालांकि, कंपनी ने अभी तक इस पर कोई आधिकारिक घोषणा नहीं की है, लेकिन तकनीकी जगत में इसकी चर्चा तेज हो गई है.",
+    "title": "ChatGPT पर दिखेंगे Ads! फ्री यूजर्स के लिए आया बड़ा बदलाव",
+    "caption": "चैटजीपीटी पर फ्री यूजर्स के लिए आ सकते हैं विज्ञापन, जानिए क्या है पूरी खबर।",
+    "hashtags": [
+      "ChatGPT",
+      "TechNews",
+      "OpenAI",
+      "ArtificialIntelligence",
+      "TechUpdate",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "person using smartphone India",
+      "artificial intelligence screen India",
+      "digital marketing advertisement India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person using smartphone India",
+        "credit": "Kewal Nagda",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence screen India",
+        "credit": "Matheus Bertelli",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6483613/pexels-photo-6483613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital marketing advertisement India",
+        "credit": "Mikael Blomkvist",
         "duration_sec": 5
       }
     ],
@@ -558,107 +218,133 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "pm_modi_srcc_homeopathic_naxal_remark",
+    "topic_label": "mirzapur_the_movie_box_office_50_crore",
     "virality_score": 8,
-    "reason": "High-profile political speech by PM Modi at SRCC using catchy metaphors, sparking widespread debate.",
+    "reason": "Strong entertainment news as Mirzapur The Movie crosses the 50 crore mark in just two days.",
     "region": "india",
-    "headline": "PM बोले, ‘दिमागी नक्सल’ की होम्योपैथिक गोली की असर दिखा रही",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में ‘दिमागी नक्सल’ शब्द को लेकर हुए विवाद पर आलोचकों को जवाब दिया। SRCC के शताब्दी समारोह में उन्होंने इसे ‘होम्योपैथिक गोली’ बताते हुए कहा कि इसके बाद ‘दिमागी नक्सल’ सामने आने लगे हैं।",
-    "source_url": "https://www.aajtak.in/short-videos/video/pm-modi-speech-on-mental-naxal-controversy-homeopathic-medicine-example-indian-politics-independence-day-srcc-social-security-mmtc-2637470-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:18:13+05:30",
-    "hook": "दिमागी नक्सल पर प्रधानमंत्री नरेंद्र मोदी का बड़ा बयान सामने आया है!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में दिमागी नक्सल शब्द को लेकर हुए विवाद पर आलोचकों को करारा जवाब दिया है। श्रीराम कॉलेज ऑफ़ कॉमर्स के शताब्दी समारोह में उन्होंने इसे होम्योपैथिक गोली बताते हुए कहा कि इसके असर से अब दिमागी नक्सल खुलकर सामने आने लगे हैं।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में दिमागी नक्सल शब्द को लेकर हुए विवाद पर आलोचकों को करारा जवाब दिया है। श्रीराम कॉलेज ऑफ़ कॉमर्स के शताब्दी समारोह में उन्होंने इसे होम्योपैथिक गोली बताते हुए कहा कि इसके असर से अब दिमागी नक्सल खुलकर सामने आने लगे हैं।",
-    "title": "PM Modi on Brain Na**al",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी ने 'दिमागी नक्सल' वाले बयान पर आलोचकों को दिया जवाब, SRCC के समारोह में कही बड़ी बात।",
+    "headline": "Mirzapur The Movie Box Office Collection Day 2: गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर तूफान, दो दिन में 50 करोड़ पार हुई मिर्जापुर द मूवी",
+    "source_summary": "Mirzapur The Movie Collection Day 2: प्राइम वीडियो की सीरीज मिर्जापुर पर बनीं फिल्म मिर्जापुर: द मूवी भारतीय सिनेमा की सबसे ज्यादा इंतजार की जाने वाली ही नहीं बल्कि सबसे बड़ी फिल्मों में से एक थी.",
+    "source_url": "https://ndtv.in/bollywood/mirzapur-the-movie-box-office-collection-day-2-guddu-pandit-kalin-bhaiya-storm-at-box-office-on-saturday-as-mirzapur-movie-crossed-50-crore-in-two-day-12007851#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 06 Sep 2026 13:29:42 +0530",
+    "hook": "गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर तूफान!",
+    "script_hi": "मिर्जापुर द मूवी ने रिलीज होते ही बॉक्स ऑफिस पर गदर मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये का आंकड़ा पार कर लिया है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
+    "tts_text_hi": "मिर्जापुर द मूवी ने रिलीज होते ही बॉक्स ऑफिस पर गदर मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये का आंकड़ा पार कर लिया है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
+    "title": "Mirzapur The Movie Box Office Collection Day 2",
+    "caption": "मिर्जापुर द मूवी ने दो दिन में पार किए पचास करोड़ रुपये! जानिए बॉक्स ऑफिस कलेक्शन।",
     "hashtags": [
-      "NarendraModi",
-      "PMModi",
-      "SRCC",
-      "IndianPolitics",
-      "BreakingNews",
-      "NewsShorts",
-      "HindiNews"
+      "MirzapurTheMovie",
+      "Mirzapur",
+      "BoxOffice",
+      "GoodduBhaiya",
+      "KaleenBhaiya",
+      "BollywoodNews",
+      "PrimeVideo"
     ],
     "visual_queries": [
-      "Narendra Modi India speech",
-      "Delhi university college India",
-      "Indian politician press conference"
+      "Indian cinema hall crowd",
+      "India movie ticket counter",
+      "Indian celebration party"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेन्द्र मोदी",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "नरेन्द्र मोदी",
-        "source": "fallback",
-        "query": "Narendra Modi",
-        "duration_sec": 4.0
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35265913/14940012_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "indian box office queue",
+        "credit": "Ashish Shukla",
+        "source_duration_sec": 18,
+        "duration_sec": 6
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/7989387/7989387-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian politician press conference",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
+        "query": "people cheering in theater",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 21,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7991229/pexels-photo-7991229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian politician speech",
-        "credit": "Voters Party International",
-        "duration_sec": 5
+        "query": "Indian cinema hall crowd",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28932304/pexels-photo-28932304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17387429/pexels-photo-17387429.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi university college India",
-        "credit": "Rishabh Dhiman",
-        "duration_sec": 5
+        "query": "India movie ticket counter",
+        "credit": "Areby Arfiantoo",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8229666/pexels-photo-8229666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian celebration party",
+        "credit": "Anna Tarazevich",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17611795/pexels-photo-17611795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd outside cinema hall",
+        "credit": "Huu Huynh",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19346724/pexels-photo-19346724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "bollywood movie celebration",
+        "credit": "Keith Lobo",
+        "duration_sec": 3.6
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "PM Modi on Brain Naxal: 'दिमागी नक्सल' पर पीएम मोदी का बड़ा बयान! 🚨",
-        "caption": "पीएम मोदी ने 'दिमागी नक्सल' को लेकर दिया बड़ा बयान, बोले- होम्योपैथिक गोली भी अब असर दिखा रही है। 🧠\n\nदेश की सुरक्षा और विचारधारा की लड़ाई पर पीएम का यह बयान सोशल मीडिया पर चर्चा का विषय बन गया है।\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "title": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥",
+        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nगुड्डू पंडित और कालीन भैया की जोड़ी ने सिनेमाघरों में आते ही ऐसा गदर मचाया है कि हर कोई हैरान है। दो दिनों के भीतर फिल्म ने कमाई के सारे रिकॉर्ड तोड़ते हुए पचास करोड़ का आंकड़ा पार कर लिया है।\n\nक्या आपने यह फिल्म देखी? कमेंट में बताएं कैसी लगी पूरी कहानी देखें वीडियो में।\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
       },
       "instagram": {
         "title": null,
-        "caption": "'दिमागी नक्सल' पर पीएम मोदी का बड़ा बयान! 🧠\n\nपीएम मोदी ने कहा कि इस सोच के खिलाफ अब धीरे-धीरे असर दिखने लगा है। आखिर किस ओर इशारा कर रहे थे प्रधानमंत्री?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nसिनेमाघरों में गदर मचाते हुए गुड्डू पंडित और कालीन भैया ने साबित कर दिया कि उनका जलवा आज भी कायम है। सिर्फ 48 घंटों में फिल्म पचास करोड़ के पार पहुंच चुकी है।\n\nक्या आप भी देखने जा रहे हैं? शेयर करें इस रील को अपने दोस्तों के साथ!\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
       },
       "facebook": {
         "title": null,
-        "caption": "'दिमागी नक्सल' पर प्रधानमंत्री नरेंद्र मोदी का बड़ा बयान सामने आया है, जिसने सियासी गलियारों में हलचल बढ़ा दी है। 🧠\n\nपीएम ने कहा कि इस सोच के खिलाफ होम्योपैथिक इलाज की तरह धीरे-धीरे असर दिखने लगा है। आखिर इसका असली मतलब क्या है और किन मुद्दों पर साधा गया निशाना?\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nओटीटी के बाद अब बड़े पर्दे पर भी गुड्डू पंडित और कालीन भैया का सिक्का चल निकला है। फिल्म ने रिलीज के सिर्फ दो दिनों के अंदर ही बॉक्स ऑफिस पर पचास करोड़ का आंकड़ा पार कर एक नया मील का पत्थर छू लिया है।\n\nइस धमाकेदार कमाई पर आपकी क्या राय है? हमें कमेंट करके जरूर बताएं और पूरी खबर के लिए वीडियो पूरा देखें।\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
       },
       "hashtags": [
-        "PMModi",
-        "BrainNaxal",
-        "IndianPolitics",
-        "BreakingNews",
-        "NarendraModi"
+        "MirzapurTheMovie",
+        "GudduPandit",
+        "KaleenBhaiya",
+        "BoxOfficeCollection",
+        "Mirzapur"
       ]
     },
-    "audio_path": "audio/pm_modi_srcc_homeopathic_naxal_remark.wav",
-    "audio_duration_sec": 20.68,
-    "video_path": "videos/pm_modi_srcc_homeopathic_naxal_remark.mp4",
-    "video_duration_sec": 28.72,
+    "audio_path": "audio/mirzapur_the_movie_box_office_50_crore.wav",
+    "audio_duration_sec": 17.06,
+    "video_path": "videos/mirzapur_the_movie_box_office_50_crore.mp4",
+    "video_duration_sec": 24.99,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T10:51:57.691998+00:00"
+        "attempted_at": "2026-09-06T14:29:35.690854+00:00"
       },
       "facebook": {
         "success": true,
@@ -671,15 +357,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d45ea4432f732594e97d7",
+            "_id": "6a9d78e3578ed1fcccadf3d2",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "'दिमागी नक्सल' पर प्रधानमंत्री नरेंद्र मोदी का बड़ा बयान सामने आया है, जिसने सियासी गलियारों में हलचल बढ़ा दी है। 🧠\n\nपीएम ने कहा कि इस सोच के खिलाफ होम्योपैथिक इलाज की तरह धीरे-धीरे असर दिखने लगा है। आखिर इसका असली मतलब क्या है और किन मुद्दों पर साधा गया निशाना?\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi",
+            "content": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nओटीटी के बाद अब बड़े पर्दे पर भी गुड्डू पंडित और कालीन भैया का सिक्का चल निकला है। फिल्म ने रिलीज के सिर्फ दो दिनों के अंदर ही बॉक्स ऑफिस पर पचास करोड़ का आंकड़ा पार कर एक नया मील का पत्थर छू लिया है।\n\nइस धमाकेदार कमाई पर आपकी क्या राय है? हमें कमेंट करके जरूर बताएं और पूरी खबर के लिए वीडियो पूरा देखें।\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788691945002_zadlymnb_pm_modi_srcc_homeopathic_naxal_remark.mp4",
-                "_id": "6a9d45ea4432f732594e97d8"
+                "url": "https://media.zernio.com/media/1788704992839_9hriow30_mirzapur_the_movie_box_office_50_crore.mp4",
+                "_id": "6a9d78e3578ed1fcccadf3d3"
               }
             ],
             "platforms": [
@@ -696,17 +382,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T10:52:26.004Z",
+                "scheduledFor": "2026-09-06T14:29:53.970Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "ee2face87b50eb41b4b1989cb4fd5ec0",
-                "_id": "6a9d45ea4432f732594e97d9",
-                "platformPostId": "1625530932482787",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1625530932482787",
-                "publishedAt": "2026-09-06T10:52:33.538Z"
+                "contentHash": "efb7c30ea078ea7f902fa261e735bf33",
+                "_id": "6a9d78e3578ed1fcccadf3d4",
+                "platformPostId": "1394706092770756",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1394706092770756",
+                "publishedAt": "2026-09-06T14:30:05.763Z"
               }
             ],
-            "scheduledFor": "2026-09-06T10:52:26.004Z",
+            "scheduledFor": "2026-09-06T14:29:53.970Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -718,14 +404,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:52:26.724Z",
-            "updatedAt": "2026-09-06T10:52:33.642Z",
+            "createdAt": "2026-09-06T14:29:55.019Z",
+            "updatedAt": "2026-09-06T14:30:05.948Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:52:26.786Z"
+            "publishingClaimedAt": "2026-09-06T14:29:55.092Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T10:52:33.800105+00:00"
+        "attempted_at": "2026-09-06T14:30:06.158394+00:00"
       },
       "instagram": {
         "success": true,
@@ -738,15 +424,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d46045fba00c4271a8181",
+            "_id": "6a9d7900b49442828414bafd",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "'दिमागी नक्सल' पर पीएम मोदी का बड़ा बयान! 🧠\n\nपीएम मोदी ने कहा कि इस सोच के खिलाफ अब धीरे-धीरे असर दिखने लगा है। आखिर किस ओर इशारा कर रहे थे प्रधानमंत्री?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi",
+            "content": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nसिनेमाघरों में गदर मचाते हुए गुड्डू पंडित और कालीन भैया ने साबित कर दिया कि उनका जलवा आज भी कायम है। सिर्फ 48 घंटों में फिल्म पचास करोड़ के पार पहुंच चुकी है।\n\nक्या आप भी देखने जा रहे हैं? शेयर करें इस रील को अपने दोस्तों के साथ!\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788691969952_1sa52ps9_pm_modi_srcc_homeopathic_naxal_remark.mp4",
-                "_id": "6a9d46045fba00c4271a8182"
+                "url": "https://media.zernio.com/media/1788705022424_k77vbsbx_mirzapur_the_movie_box_office_50_crore.mp4",
+                "_id": "6a9d7900b49442828414bafe"
               }
             ],
             "platforms": [
@@ -763,14 +449,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T10:52:51.622Z",
+                "scheduledFor": "2026-09-06T14:30:23.798Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0e2cf25db62b59dd215630a37ffbadc7",
-                "_id": "6a9d46045fba00c4271a8183"
+                "contentHash": "511bd165a843c27f89c628eeaaa9b9a7",
+                "_id": "6a9d7900b49442828414baff"
               }
             ],
-            "scheduledFor": "2026-09-06T10:52:51.622Z",
+            "scheduledFor": "2026-09-06T14:30:23.798Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -782,43 +468,296 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:52:52.425Z",
-            "updatedAt": "2026-09-06T10:52:54.303Z",
+            "createdAt": "2026-09-06T14:30:24.987Z",
+            "updatedAt": "2026-09-06T14:30:27.270Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:52:52.721Z"
+            "publishingClaimedAt": "2026-09-06T14:30:25.056Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T10:52:54.708882+00:00"
+        "attempted_at": "2026-09-06T14:30:27.525832+00:00"
       }
     }
   },
   {
-    "topic_label": "indonesia_volcano_eruption_stranded_passengers",
+    "topic_label": "satwik_chirag_china_masters_win",
     "virality_score": 7,
-    "reason": "Massive global disaster story involving a major volcanic eruption stranding 150,000 passengers, perfect global brief.",
+    "reason": "Major sports victory as star Indian badminton duo Satwik-Chirag win the China Masters Super 750 title.",
+    "region": "india",
+    "headline": "सात्विक-चिराग ने चाइना मास्टर्स का खिताब जीतकर रचा इतिहास",
+    "source_summary": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने कमाल का प्रदर्शन करते हुए  चाइना मास्टर्स सुपर 750 का खिताब जीत लिया है.",
+    "source_url": "https://www.aajtak.in/sports/news/story/satwik-chirag-break-china-masters-jinx-beat-hi-ren-to-win-maiden-title-aksp-dskc-2637592-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T17:01:55+05:30",
+    "hook": "सात्विक और चिराग ने चाइना मास्टर्स में रच दिया इतिहास!",
+    "script_hi": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने चाइना मास्टर्स सुपर सात सौ का खिताब अपने नाम कर लिया है। यह भारत के लिए एक ऐतिहासिक जीत है।",
+    "tts_text_hi": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने चाइना मास्टर्स सुपर सात सौ का खिताब अपने नाम कर लिया है। यह भारत के लिए एक ऐतिहासिक जीत है।",
+    "title": "सात्विक-चिराग का ऐतिहासिक प्रदर्शन",
+    "caption": "सात्विक-चिराग ने चाइना मास्टर्स का खिताब जीतकर रचा इतिहास।",
+    "hashtags": [
+      "SatwikChirag",
+      "ChinaMasters",
+      "BadmintonIndia",
+      "SportsNews",
+      "IndianSports",
+      "Badminton"
+    ],
+    "visual_queries": [
+      "Indian badminton player action India",
+      "trophy celebration India sports"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8058176/8058176-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "badminton players court action",
+        "credit": "SHVETS production",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34466884/14604735_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "sports trophy celebration stadium",
+        "credit": "Earth Photart",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35427621/15010411_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "mens doubles badminton match",
+        "credit": "MY EYES📸",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29873465/pexels-photo-29873465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian badminton player action India",
+        "credit": "Mustafa  Fatemi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "trophy celebration India sports",
+        "credit": "Monojit Dutta",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35647223/pexels-photo-35647223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "badminton smash sports match",
+        "credit": "Sóc Năng Động",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सात्विक-चिराग ने चाइना मास्टर्स जीतकर रचा इतिहास 🇮🇳🏸",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, बल्कि इस बार मैदान पर कुछ ऐसा हुआ जिसने पूरे देश का सीना चौड़ा कर दिया! 🇮🇳\n\nसात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी की जोड़ी ने चाइना मास्टर्स बैडमिंटन टूर्नामेंट का खिताब अपने नाम कर इतिहास रच दिया है। फाइनल मुकाबले में भारतीय जोड़ी ने चीनी शटलर्स को शिकस्त दी।\n\nपूरी कहानी देखें और बताएं आपको इनकी जोड़ी कैसी लगती है? 👇\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, बल्कि मैदान पर ऐसा करिश्मा हुआ जिसने इतिहास बदल दिया! 🇮🇳\n\nसात्विक और चिराग ने चाइना मास्टर्स का खिताब जीतकर नया इतिहास लिख दिया है। फाइनल में रोमांचक मुकाबले के बाद भारतीय ध्वज एक बार फिर सबसे ऊपर लहराया।\n\nये जीत कितनी बड़ी है? कमेंट में बताओ! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, लेकिन खेल के मैदान से आई इस खबर ने हर भारतीय का दिल जीत लिया है! 🇮🇳\n\nस्टार शटलर सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी की जोड़ी ने चाइना मास्टर्स का खिताब जीतकर एक और ऐतिहासिक उपलब्धि अपने नाम कर ली है। फाइनल मैच में उन्होंने अपने बेहतरीन खेल से सबको हैरान कर दिया।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और शेयर करना न भूलें! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
+      },
+      "hashtags": [
+        "SatwikChirag",
+        "ChinaMasters2024",
+        "IndianBadminton",
+        "SportsNews",
+        "BadmintonIndia"
+      ]
+    },
+    "audio_path": "audio/satwik_chirag_china_masters_win.wav",
+    "audio_duration_sec": 13.19,
+    "video_path": "videos/satwik_chirag_china_masters_win.mp4",
+    "video_duration_sec": 21.22,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-06T14:34:45.600325+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d7a18865364185a6630d0",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, लेकिन खेल के मैदान से आई इस खबर ने हर भारतीय का दिल जीत लिया है! 🇮🇳\n\nस्टार शटलर सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी की जोड़ी ने चाइना मास्टर्स का खिताब जीतकर एक और ऐतिहासिक उपलब्धि अपने नाम कर ली है। फाइनल मैच में उन्होंने अपने बेहतरीन खेल से सबको हैरान कर दिया।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और शेयर करना न भूलें! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788705301849_7g7kx3tj_satwik_chirag_china_masters_win.mp4",
+                "_id": "6a9d7a18865364185a6630d1"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T14:35:03.271Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a76818ef7653ed0a69a8668b54612fa2",
+                "_id": "6a9d7a18865364185a6630d2",
+                "platformPostId": "1081417157711372",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1081417157711372",
+                "publishedAt": "2026-09-06T14:35:11.467Z"
+              }
+            ],
+            "scheduledFor": "2026-09-06T14:35:03.271Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T14:35:04.957Z",
+            "updatedAt": "2026-09-06T14:35:11.908Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T14:35:05.020Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T14:35:12.092170+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d7a32cd7b45b3be3d643a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, बल्कि मैदान पर ऐसा करिश्मा हुआ जिसने इतिहास बदल दिया! 🇮🇳\n\nसात्विक और चिराग ने चाइना मास्टर्स का खिताब जीतकर नया इतिहास लिख दिया है। फाइनल में रोमांचक मुकाबले के बाद भारतीय ध्वज एक बार फिर सबसे ऊपर लहराया।\n\nये जीत कितनी बड़ी है? कमेंट में बताओ! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788705328209_lu205gon_satwik_chirag_china_masters_win.mp4",
+                "_id": "6a9d7a32cd7b45b3be3d643b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T14:35:29.723Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "b78a835f5de90968151c7a1aa6f64646",
+                "_id": "6a9d7a32cd7b45b3be3d643c"
+              }
+            ],
+            "scheduledFor": "2026-09-06T14:35:29.723Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T14:35:30.939Z",
+            "updatedAt": "2026-09-06T14:35:32.641Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T14:35:31.015Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T14:35:32.982128+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "indonesia_volcano_eruption_stranded_passengers_global",
+    "virality_score": 7,
+    "reason": "Major global crisis as a volcanic eruption leaves 150,000 airline passengers stranded near Jakarta.",
     "region": "global",
     "headline": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
     "source_summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
     "source_url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
     "source_name": "BBC World",
     "published": "Sun, 06 Sep 2026 09:56:39 GMT",
-    "hook": "इंडोनेशिया में ज्वालामुखी विस्फोट से डेढ़ लाख से ज्यादा यात्री फंसे!",
-    "script_hi": "इंडोनेशिया में ज्वालामुखी विस्फोट के बाद हवा में फैल चुकी राख के कारण डेढ़ लाख से ज्यादा एयरलाइन यात्री फंस गए हैं। जकार्ता के पास के एयरस्पेस में राख मिलने के बाद उड़ानें प्रभावित हुई हैं। प्रशासन स्थिति पर नजर बनाए हुए है।",
-    "tts_text_hi": "इंडोनेशिया में ज्वालामुखी विस्फोट के बाद हवा में फैल चुकी राख के कारण डेढ़ लाख से ज्यादा एयरलाइन यात्री फंस गए हैं। जकार्ता के पास के एयरस्पेस में राख मिलने के बाद उड़ानें प्रभावित हुई हैं। प्रशासन स्थिति पर नजर बनाए हुए है।",
-    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे",
-    "caption": "इंडोनेशिया में ज्वालामुखी के भयानक विस्फोट से डेढ़ लाख से ज्यादा यात्री फंसे, जकार्ता के पास एयरस्पेस में फैली राख।",
+    "hook": "इंडोनेशिया में ज्वालामुखी फटने से डेढ़ लाख से ज्यादा यात्री फंसे!",
+    "script_hi": "इंडोनेशिया में ज्वालामुखी फटने के बाद राख फैलने से डेढ़ लाख से ज्यादा विमान यात्री फंस गए हैं। जकार्ता के पास आसमान में ज्वालामुखी की राख पाए जाने के कारण उड़ानों पर भारी असर पड़ा है।",
+    "tts_text_hi": "इंडोनेशिया में ज्वालामुखी फटने के बाद राख फैलने से डेढ़ लाख से ज्यादा विमान यात्री फंस गए हैं। जकार्ता के पास आसमान में ज्वालामुखी की राख पाए जाने के कारण उड़ानों पर भारी असर पड़ा है।",
+    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे",
+    "caption": "इंडोनेशिया में ज्वालामुखी फटने से आसमान में छाई राख, डेढ़ लाख से अधिक यात्री हवाई अड्डों पर फंसे।",
     "hashtags": [
-      "#Indonesia",
       "#Volcano",
-      "#Jakarta",
+      "#Indonesia",
       "#BreakingNews",
-      "#NewsUpdates"
+      "#TravelAlert",
+      "#Jakarta"
     ],
     "visual_queries": [
       "volcano eruption ash Indonesia",
-      "stranded airport passengers Indonesia",
-      "commercial airplane Jakarta"
+      "stranded passengers airport Indonesia",
+      "Jakarta airport skyline Indonesia"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -833,90 +772,132 @@
         "source": "pexels",
         "query": "volcano eruption ash Indonesia",
         "credit": "Israel Torres",
-        "duration_sec": 4.3
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/27019194/pexels-photo-27019194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "stranded airport passengers Indonesia",
+        "query": "stranded passengers airport Indonesia",
         "credit": "el jusuf",
-        "duration_sec": 4.3
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32002209/pexels-photo-32002209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31466316/pexels-photo-31466316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane Jakarta",
-        "credit": "Vija Rindo Pratama",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36130520/pexels-photo-36130520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy international airport crowd",
-        "credit": "Shojol Islam",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17291197/pexels-photo-17291197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flight delay notice board",
-        "credit": "K",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18186764/pexels-photo-18186764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane on airport runway",
-        "credit": "Marius  Gabriel",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29353026/pexels-photo-29353026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "travelers waiting at station",
-        "credit": "Arda Kaykısız",
-        "duration_sec": 4.3
+        "query": "Jakarta airport skyline Indonesia",
+        "credit": "TEDEQI DZIKRI",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ishan_kishan_duleep_trophy_century",
+    "virality_score": 7,
+    "reason": "Cricket star Ishan Kishan hitting a brilliant century in the Duleep Trophy final, boosting his Test team comeback claims.",
+    "region": "india",
+    "headline": "दलीप ट्रॉफी फाइनल में ईशान ने जड़ा शतक, टेस्ट के लिए ठोका दावा!",
+    "source_summary": "वैभव सूर्यवंशी के बाद दलीप ट्रॉफी के फाइनल में कप्तान ईशान किशन ने भी बल्ले से कमाल का प्रदर्शन किया. मैच के पहले ही दिन शतक जड़कर उन्होंने अपनी टीम को काफी आगे पहुंचा दिया है.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/duleep-trophy-final-ishan-kishan-makes-statement-east-zone-captain-slams-stunning-century-against-south-zone-aksp-dskc-2637607-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T17:40:24+05:30",
+    "hook": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका!",
+    "script_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में कप्तान ईशान किशन ने शानदार बल्लेबाजी करते हुए शतक जड़ दिया है। मैच के पहले ही दिन इस बेहतरीन प्रदर्शन से उन्होंने टेस्ट टीम में वापसी के लिए अपना दावा ठोक दिया है। वैभव सूर्यवंशी के बाद ईशान की इस पारी ने टीम को बेहद मजबूत स्थिति में पहुंचा दिया है।",
+    "tts_text_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में कप्तान ईशान किशन ने शानदार बल्लेबाजी करते हुए शतक जड़ दिया है। मैच के पहले ही दिन इस बेहतरीन प्रदर्शन से उन्होंने टेस्ट टीम में वापसी के लिए अपना दावा ठोक दिया है। वैभव सूर्यवंशी के बाद ईशान की इस पारी ने टीम को बेहद मजबूत स्थिति में पहुंचा दिया है।",
+    "title": "दलीप ट्रॉफी फाइनल में ईशान किशन का शतक",
+    "caption": "दलीप ट्रॉफी के फाइनल में कप्तान ईशान किशन ने जड़ा शानदार शतक, टेस्ट टीम के लिए ठोका मजबूत दावा।",
+    "hashtags": [
+      "IshanKishan",
+      "DuleepTrophy",
+      "TeamIndia",
+      "CricketNews",
+      "BCCI",
+      "TestCricket",
+      "CricketHighlights"
+    ],
+    "visual_queries": [
+      "cricket stadium India",
+      "cricketer batting India",
+      "cricket celebration India"
+    ],
+    "named_person": "Ishan Kishan",
+    "named_person_hi": "ईशान किशन",
+    "secondary_persons": [
+      "Vaibhav Suryavanshi"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "ईशान किशन",
+        "source": "fallback",
+        "query": "Ishan Kishan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricketer batting India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket celebration India",
+        "credit": "Umang & Meet",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "इंडोनेशिया में भयंकर ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे! 🌋",
-        "caption": "इंडोनेशिया में 1.5 लाख से ज्यादा यात्री अचानक एयरपोर्ट्स पर फंसे हुए हैं। 🌋\n\nमाउंट लेवोतोबी लाकी-लाकी में खतरनाक विस्फोट के बाद कई इंटरनेशनल फ्लाइट्स रद्द कर दी गईं और आसमान में राख का गुबार छा गया है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
+        "title": "दलीप ट्रॉफी फाइनल: ईशान किशन का तूफानी शतक, टीम इंडिया में वापसी का ठोक दिया दावा! 🏏",
+        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nमुश्किल वक्त में क्रीज पर उतरकर ईशान ने धमाकेदार शतक जड़ दिया है। इस बेहतरीन पारी के बाद टेस्ट टीम में उनकी वापसी की चर्चा तेज हो गई है।\n\nक्या ईशान को जल्द ही भारतीय टेस्ट स्क्वाड में मौका मिलना चाहिए? कमेंट में अपनी राय बताएं और पूरी कहानी देखें।\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
       },
       "instagram": {
         "title": null,
-        "caption": "1,50,000 से ज्यादा यात्री बीच रास्ते में फंसे! 🌋 इंडोनेशिया के ज्वालामुखी विस्फोट ने हवाई यात्रा ठप कर दी है।\n\nआसमान में फैली राख और बंद हुए रास्ते की पूरी कहानी वीडियो में देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
+        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nमुश्किल वक्त में क्रीज पर उतरकर ईशान ने धमाकेदार शतक जड़ दिया है। इस बेहतरीन पारी के बाद टेस्ट टीम में उनकी वापसी की चर्चा तेज हो गई है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
       },
       "facebook": {
         "title": null,
-        "caption": "इंडोनेशिया में हुए अचानक ज्वालामुखी विस्फोट ने तबाही मचा दी है। 🌋\n\nडेढ़ लाख से ज्यादा यात्री अलग-अलग एयरपोर्ट्स पर फंसे हुए हैं क्योंकि राख के गुबार की वजह से सभी उड़ानें रोक दी गई हैं। प्रशासन लगातार राहत और बचाव काम में जुटा है।\n\nआपकी इस पर क्या राय है, कमेंट में बताएं और वीडियो पूरा देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
+        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nजब टीम को सबसे ज्यादा जरूरत थी, तब ईशान किशन ने मैदान पर उतरकर एक शानदार शतक ठोक दिया। इस धमाकेदार पारी के बाद अब टेस्ट टीम में उनकी वापसी को लेकर दावे मजबूत हो गए हैं।\n\nआपको क्या लगता है, क्या इस पारी से ईशान की टेस्ट टीम में एंट्री पक्की हो गई है? अपनी राय जरूर शेयर करें।\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
       },
       "hashtags": [
-        "IndonesiaVolcano",
-        "VolcanicEruption",
-        "BreakingNews",
-        "TravelUpdate",
-        "WorldNews"
+        "IshanKishan",
+        "DuleepTrophy",
+        "TeamIndia",
+        "BCCI",
+        "CricketNews"
       ]
     },
-    "audio_path": "audio/indonesia_volcano_eruption_stranded_passengers.wav",
-    "audio_duration_sec": 15.55,
-    "video_path": "videos/indonesia_volcano_eruption_stranded_passengers.mp4",
-    "video_duration_sec": 23.6,
+    "audio_path": "audio/ishan_kishan_duleep_trophy_century.wav",
+    "audio_duration_sec": 21.88,
+    "video_path": "videos/ishan_kishan_duleep_trophy_century.mp4",
+    "video_duration_sec": 29.94,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T10:57:32.798606+00:00"
+        "attempted_at": "2026-09-06T14:39:40.082969+00:00"
       },
       "facebook": {
         "success": true,
@@ -929,15 +910,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d473b4594b16411c98c24",
+            "_id": "6a9d7b4c2507f8ed8b6b795b",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "इंडोनेशिया में हुए अचानक ज्वालामुखी विस्फोट ने तबाही मचा दी है। 🌋\n\nडेढ़ लाख से ज्यादा यात्री अलग-अलग एयरपोर्ट्स पर फंसे हुए हैं क्योंकि राख के गुबार की वजह से सभी उड़ानें रोक दी गई हैं। प्रशासन लगातार राहत और बचाव काम में जुटा है।\n\nआपकी इस पर क्या राय है, कमेंट में बताएं और वीडियो पूरा देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews",
+            "content": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nजब टीम को सबसे ज्यादा जरूरत थी, तब ईशान किशन ने मैदान पर उतरकर एक शानदार शतक ठोक दिया। इस धमाकेदार पारी के बाद अब टेस्ट टीम में उनकी वापसी को लेकर दावे मजबूत हो गए हैं।\n\nआपको क्या लगता है, क्या इस पारी से ईशान की टेस्ट टीम में एंट्री पक्की हो गई है? अपनी राय जरूर शेयर करें।\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788692282162_rt1r0kln_indonesia_volcano_eruption_stranded_passengers.mp4",
-                "_id": "6a9d473b4594b16411c98c25"
+                "url": "https://media.zernio.com/media/1788705610395_oxu5fja7_ishan_kishan_duleep_trophy_century.mp4",
+                "_id": "6a9d7b4c2507f8ed8b6b795c"
               }
             ],
             "platforms": [
@@ -954,17 +935,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T10:58:03.128Z",
+                "scheduledFor": "2026-09-06T14:40:11.687Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "3880003b4c101a3992c503b3e8d0d0b2",
-                "_id": "6a9d473b4594b16411c98c26",
-                "platformPostId": "1055043520647340",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1055043520647340",
-                "publishedAt": "2026-09-06T10:58:09.892Z"
+                "contentHash": "0c3448d5d028576c715012db72aee0bc",
+                "_id": "6a9d7b4c2507f8ed8b6b795d",
+                "platformPostId": "2603528640086869",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2603528640086869",
+                "publishedAt": "2026-09-06T14:40:19.758Z"
               }
             ],
-            "scheduledFor": "2026-09-06T10:58:03.128Z",
+            "scheduledFor": "2026-09-06T14:40:11.687Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -976,14 +957,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:58:03.779Z",
-            "updatedAt": "2026-09-06T10:58:10.007Z",
+            "createdAt": "2026-09-06T14:40:12.523Z",
+            "updatedAt": "2026-09-06T14:40:19.879Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:58:03.843Z"
+            "publishingClaimedAt": "2026-09-06T14:40:12.601Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T10:58:10.163795+00:00"
+        "attempted_at": "2026-09-06T14:40:20.025728+00:00"
       },
       "instagram": {
         "success": true,
@@ -996,15 +977,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d47614594b16411c98dc6",
+            "_id": "6a9d7b68a4d53c3b1c3459b3",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "1,50,000 से ज्यादा यात्री बीच रास्ते में फंसे! 🌋 इंडोनेशिया के ज्वालामुखी विस्फोट ने हवाई यात्रा ठप कर दी है।\n\nआसमान में फैली राख और बंद हुए रास्ते की पूरी कहानी वीडियो में देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews",
+            "content": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nमुश्किल वक्त में क्रीज पर उतरकर ईशान ने धमाकेदार शतक जड़ दिया है। इस बेहतरीन पारी के बाद टेस्ट टीम में उनकी वापसी की चर्चा तेज हो गई है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788692320298_1vci5wqk_indonesia_volcano_eruption_stranded_passengers.mp4",
-                "_id": "6a9d47614594b16411c98dc7"
+                "url": "https://media.zernio.com/media/1788705638184_0h9ssfnp_ishan_kishan_duleep_trophy_century.mp4",
+                "_id": "6a9d7b68a4d53c3b1c3459b4"
               }
             ],
             "platforms": [
@@ -1021,14 +1002,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T10:58:41.220Z",
+                "scheduledFor": "2026-09-06T14:40:39.050Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "977153668af02528002310b7f5ff4614",
-                "_id": "6a9d47614594b16411c98dc8"
+                "contentHash": "e9af2318bb5859bc0de67529910873b7",
+                "_id": "6a9d7b68a4d53c3b1c3459b5"
               }
             ],
-            "scheduledFor": "2026-09-06T10:58:41.220Z",
+            "scheduledFor": "2026-09-06T14:40:39.050Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1040,14 +1021,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T10:58:41.855Z",
-            "updatedAt": "2026-09-06T10:58:43.657Z",
+            "createdAt": "2026-09-06T14:40:40.130Z",
+            "updatedAt": "2026-09-06T14:40:42.453Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T10:58:41.915Z"
+            "publishingClaimedAt": "2026-09-06T14:40:40.207Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T10:58:44.030662+00:00"
+        "attempted_at": "2026-09-06T14:40:42.943064+00:00"
       }
     }
   }
