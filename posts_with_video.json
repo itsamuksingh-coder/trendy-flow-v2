@@ -1,28 +1,30 @@
 [
   {
-    "topic_label": "bigg_boss_20_premiere_launch",
+    "topic_label": "bihar_ganga_floods_2016_record",
     "virality_score": 9,
-    "reason": "Big Boss 20 grand premiere has massive entertainment and youth appeal across India.",
+    "reason": "Major natural disaster update as Ganga crosses 2016 record levels, affecting 11 districts in Bihar.",
     "region": "india",
-    "headline": "बिग बॉस 20 का धमाकेदार आगाज, जानें कब-कहां देखें शो",
-    "source_summary": "इंतजार की घड़ियां खत्म हुईं. बिग बॉस 20 का ग्रैंड प्रीमियर आज 6 सितंबर 2026 को हो रहा है. आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देखे.",
-    "source_url": "https://www.aajtak.in/entertainment/television/story/bigg-boss-20-grand-premiere-salman-khan-new-season-when-where-watch-manoj-tiwari-tmovb-dskc-2637265-2026-09-06?utm_source=rssfeed",
+    "headline": "पटना में टूटा 2016 का रिकॉर्ड, खतरे के निशान से ऊपर गंगा, बिहार के 11 जिलों में बाढ़ का खतरा",
+    "source_summary": "बिहार के 11 जिलों में बाढ़ से 16.85 लाख लोग प्रभावित हैं. पटना में गंगा 2016 का रिकॉर्ड तोड़कर बह रही है, जबकि सात प्रमुख नदियां खतरे के निशान से ऊपर हैं.",
+    "source_url": "https://www.aajtak.in/bihar/story/bihar-flood-patna-ganga-breaks-2016-record-11-districts-affected-ntc-dhrj-rpti-2637321-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-06T07:39:00+05:30",
-    "hook": "बिग बॉस बीस का धमाकेदार आगाज आज!",
-    "script_hi": "इंतजार की घड़ियां खत्म हुईं! बिग बॉस बीस का ग्रैंड प्रीमियर आज छह सितंबर दो हजार छब्बीस को हो रहा है। आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देख सकते हैं।",
-    "tts_text_hi": "इंतजार की घड़ियां खत्म हुईं! बिग बॉस बीस का ग्रैंड प्रीमियर आज छह सितंबर दो हजार छब्बीस को हो रहा है। आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देख सकते हैं।",
-    "title": "बिग बॉस बीस का ग्रैंड प्रीमियर आज",
-    "caption": "बिग बॉस बीस का धमाकेदार आगाज आज छह सितंबर दो हजार छब्बीस को हो रहा है।",
+    "published": "2026-09-06T09:17:15+05:30",
+    "hook": "बिहार में बाढ़ का भयंकर तांडव!",
+    "script_hi": "बिहार के ग्यारह जिलों में बाढ़ से सोलह लाख पचासी हजार लोग प्रभावित हैं. पटना में गंगा दो हजार सोलह का रिकॉर्ड तोड़कर बह रही है. सात प्रमुख नदियां खतरे के निशान से ऊपर हैं.",
+    "tts_text_hi": "बिहार के ग्यारह जिलों में बाढ़ से सोलह लाख पचासी हजार लोग प्रभावित हैं. पटना में गंगा दो हजार सोलह का रिकॉर्ड तोड़कर बह रही है. सात प्रमुख नदियां खतरे के निशान से ऊपर हैं.",
+    "title": "बिहार में बाढ़ का संकट",
+    "caption": "बिहार के ग्यारह जिलों में बाढ़ का खतरा, पटना में गंगा ने तोड़ा दो हजार सोलह का रिकॉर्ड।",
     "hashtags": [
-      "BiggBoss20",
-      "RealityShow",
-      "EntertainmentNews",
-      "IndiaNews"
+      "#BiharFloods",
+      "#Patna",
+      "#GangaRiver",
+      "#BiharNews",
+      "#FloodAlert"
     ],
     "visual_queries": [
-      "Indian television studio stage",
-      "television remote control India"
+      "Patna flooded street India",
+      "Ganga river flood India",
+      "Bihar flood victims India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -33,128 +35,31 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29043652/pexels-photo-29043652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian television studio stage",
-        "credit": "Bruno Massao",
+        "url": "downloaded_assets/commons_c93fdde301.jpg",
+        "source": "wikimedia_commons",
+        "query": "Patna flooded street India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "television remote control India",
-        "credit": "Geri Tech",
+        "query": "Ganga river flood India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29251256/pexels-photo-29251256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Bihar flood victims India",
+        "credit": "Nayem AL Mamun",
         "duration_sec": 5
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
     "review_status": "pending_review"
-  },
-  {
-    "topic_label": "manjit_bedi_fbi_most_wanted_arrest_india",
-    "virality_score": 9,
-    "reason": "FBI's most-wanted fraudster with a massive ₹1.25 crore bounty arrested in India.",
-    "region": "india",
-    "headline": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार, 1.25 करोड़ का था नाम",
-    "source_summary": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है. उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप है. ऐसे में अमेरिकी सरकार ने बेदी पर 1.25 करोड़ रुपए का ईनाम रखा था. गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है.",
-    "source_url": "https://www.aajtak.in/world/story/us-most-wanted-fraudster-manjit-singh-bedi-arrested-in-india-kash-patel-ntc-drmt-dskc-2637275-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T07:45:56+05:30",
-    "hook": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार!",
-    "script_hi": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है। उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप था। अमेरिकी सरकार ने बेदी पर एक करोड़ पच्चीस लाख रुपए का ईनाम रखा था। गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है।",
-    "tts_text_hi": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है। उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप था। अमेरिकी सरकार ने बेदी पर एक करोड़ पच्चीस लाख रुपए का ईनाम रखा था। गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है।",
-    "title": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार",
-    "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।",
-    "hashtags": [
-      "ManjitSinghBedi",
-      "FBI",
-      "America",
-      "IndiaNews",
-      "CrimeNews",
-      "MostWanted"
-    ],
-    "visual_queries": [
-      "US flag India flag",
-      "Indian police station India",
-      "FBI headquarters building India",
-      "handcuffs arrest India"
-    ],
-    "named_person": "Manjit Singh Bedi",
-    "named_person_hi": "मंजीत सिंह बेदी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "मंजीत सिंह बेदी",
-        "source": "fallback",
-        "query": "Manjit Singh Bedi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9346167/pexels-photo-9346167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "US flag India flag",
-        "credit": "Anna Pou",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35469883/pexels-photo-35469883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "FBI headquarters building India",
-        "credit": "Nitin Nalawade",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "handcuffs arrest India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार",
-        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
-      },
-      "hashtags": [
-        "ManjitSinghBedi",
-        "FBI",
-        "America",
-        "IndiaNews",
-        "CrimeNews"
-      ]
-    },
-    "audio_path": "audio/manjit_bedi_fbi_most_wanted_arrest_india.wav",
-    "audio_duration_sec": 16.24,
-    "video_path": "videos/manjit_bedi_fbi_most_wanted_arrest_india.mp4",
-    "video_duration_sec": 24.3
   }
 ]
