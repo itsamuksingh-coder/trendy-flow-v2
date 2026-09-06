@@ -1,9 +1,7 @@
-ready_labels: ['gud_ki_jalebi_recipe_viral', 'indonesia_volcano_eruption_jakarta_airport', 'mbbs_student_hair_ball_stomach_surgery', 'mp_bittu_tabahi_netherlands_job_offer', 'uss_abraham_lincoln_sailors_thailand_row']
+ready_labels: ['delhi_satya_niketan_building_collapse', 'indonesia_volcano_eruption_stranded_passengers', 'madhya_pradesh_spurious_liquor_deaths', 'pm_modi_srcc_homeopathic_naxal_remark']
 
-vaibhav_suryavanshi_sledge_siraj_duleep_trophy: SKIPPED (not in ready set)
-mp_bittu_tabahi_netherlands_job_offer: SUCCESS -> video_path=videos/mp_bittu_tabahi_netherlands_job_offer.mp4 dur=29.176213
-mcdonalds_india_twitter_hack_gen_z_intern: SKIPPED (not in ready set)
-gud_ki_jalebi_recipe_viral: SUCCESS -> video_path=videos/gud_ki_jalebi_recipe_viral.mp4 dur=29.826213
-indonesia_volcano_eruption_jakarta_airport: SUCCESS -> video_path=videos/indonesia_volcano_eruption_jakarta_airport.mp4 dur=21.089887
-mbbs_student_hair_ball_stomach_surgery: SUCCESS -> video_path=videos/mbbs_student_hair_ball_stomach_surgery.mp4 dur=29.014218
-uss_abraham_lincoln_sailors_thailand_row: SUCCESS -> video_path=videos/uss_abraham_lincoln_sailors_thailand_row.mp4 dur=33.056553
+delhi_satya_niketan_building_collapse: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse.mp4 dur=28.82322
+madhya_pradesh_spurious_liquor_deaths: SUCCESS -> video_path=videos/madhya_pradesh_spurious_liquor_deaths.mp4 dur=27.620227
+mirzapur_movie_theatre_fight: SKIPPED (not in ready set)
+pm_modi_srcc_homeopathic_naxal_remark: SUCCESS -> video_path=videos/pm_modi_srcc_homeopathic_naxal_remark.mp4 dur=28.72322
+indonesia_volcano_eruption_stranded_passengers: SUCCESS -> video_path=videos/indonesia_volcano_eruption_stranded_passengers.mp4 dur=23.60322
