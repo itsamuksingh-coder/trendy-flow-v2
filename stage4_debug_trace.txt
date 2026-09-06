@@ -1,6 +1,7 @@
-ready_labels: ['india_europe_diesel_supplier_surge', 'kbc_akshay_kumar_amitabh_bachchan_purse_fire', 'us_envoys_kyiv_zelensky_talks']
+ready_labels: ['chhattisgarh_tin_lithium_mineral_revenue', 'germany_far_right_afd_election_win_global', 'haryana_man_climbs_tower_divorce_demand', 'india_becomes_major_diesel_supplier_to_europe']
 
+india_becomes_major_diesel_supplier_to_europe: SUCCESS -> video_path=videos/india_becomes_major_diesel_supplier_to_europe.mp4 dur=20.561224
 bittu_tabahi_river_cleaning_netherlands_job_offer: SKIPPED (not in ready set)
-kbc_akshay_kumar_amitabh_bachchan_purse_fire: SUCCESS -> video_path=videos/kbc_akshay_kumar_amitabh_bachchan_purse_fire.mp4 dur=23.046213
-india_europe_diesel_supplier_surge: SUCCESS -> video_path=videos/india_europe_diesel_supplier_surge.mp4 dur=24.289887
-us_envoys_kyiv_zelensky_talks: SUCCESS -> video_path=videos/us_envoys_kyiv_zelensky_talks.mp4 dur=22.356553
+chhattisgarh_tin_lithium_mineral_revenue: SUCCESS -> video_path=videos/chhattisgarh_tin_lithium_mineral_revenue.mp4 dur=34.865215
+haryana_man_climbs_tower_divorce_demand: SUCCESS -> video_path=videos/haryana_man_climbs_tower_divorce_demand.mp4 dur=25.995215
+germany_far_right_afd_election_win_global: SUCCESS -> video_path=videos/germany_far_right_afd_election_win_global.mp4 dur=26.808231
