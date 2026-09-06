@@ -1,53 +1,321 @@
 [
   {
+    "topic_label": "india_becomes_major_diesel_supplier_to_europe",
+    "virality_score": 8,
+    "reason": "Strong geopolitical economic story highlighting India surging ahead as a major diesel exporter to Europe.",
+    "region": "india",
+    "headline": "रूस-US रह गए पीछे, अब यूरोप का बड़ा डीजल सप्लायर बना भारत",
+    "source_summary": "India Diesel Export: रूस-US से यूरोप को होने वाली डीजल की सप्लाई तमाम रुकावटों के चलते धीमी पड़ी, तो भारत बड़े सप्लायर के तौर पर सामने आया है और अगस्त में Europe पहुंचे डीजल में 60% यहां से पहुंचा है.",
+    "source_url": "https://www.aajtak.in/business/news/story/india-becomes-key-diesel-supplier-to-europe-via-bab-el-mandeb-strait-russia-us-behind-tutc-dskc-2637597-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T18:38:49+05:30",
+    "hook": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है!",
+    "script_hi": "रूस और अमेरिका को पीछे छोड़ते हुए भारत यूरोप का सबसे बड़ा डीजल सप्लायर बन गया है। अगस्त महीने में यूरोप पहुंचे कुल डीजल का साठ प्रतिशत हिस्सा भारत से गया है।",
+    "tts_text_hi": "रूस और अमेरिका को पीछे छोड़ते हुए भारत यूरोप का सबसे बड़ा डीजल सप्लायर बन गया है। अगस्त महीने में यूरोप पहुंचे कुल डीजल का साठ प्रतिशत हिस्सा भारत से गया है।",
+    "title": "भारत बना यूरोप का सबसे बड़ा डीजल सप्लायर",
+    "caption": "रूस-अमेरिका को पीछे छोड़कर भारत ने यूरोप को डीजल सप्लाई में रचा इतिहास, अगस्त में साठ प्रतिशत हिस्सा भारत से पहुंचा।",
+    "hashtags": [
+      "#India",
+      "#DieselExport",
+      "#Economy",
+      "#EuropeanUnion",
+      "#RussianOil",
+      "#GlobalTrade",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "cargo ship port India",
+      "oil refinery industrial plant India",
+      "European city street traffic"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12712893/pexels-photo-12712893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo ship port India",
+        "credit": "Shreyas  Anchan Photography",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30556821/pexels-photo-30556821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "oil refinery industrial plant India",
+        "credit": "Dheeraj Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18973119/pexels-photo-18973119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "European city street traffic",
+        "credit": "Efrem  Efre",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16315987/pexels-photo-16315987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy container port",
+        "credit": "Eyüp Kağan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "oil tanker at sea",
+        "credit": "Burak  Başgöze",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9252121/pexels-photo-9252121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fuel pipeline refinery",
+        "credit": "Nur Andi Ravsanjani Gusma",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36003980/pexels-photo-36003980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "industrial cargo loading",
+        "credit": "Michael Orshan",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रूस-अमेरिका छूटे पीछे, यूरोप का सबसे बड़ा डीजल सप्लायर बना भारत! 🇮🇳",
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है!\n\nपश्चिम देशों के तमाम प्रतिबंधों और ग्लोबल मार्केट की उलझनों के बीच भारत ने ट्रेड रूट में बाजी मार ली है। भारतीय रिफाइनरीज ने कैसे बदला खेल, पूरी कहानी देखें।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#IndiaNews #EuropeanUnion #IndianEconomy #GlobalTrade #DieselExport"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है! 🇮🇳\n\nग्लोबल मार्केट की हर पाबंदी को पीछे छोड़ते हुए भारत ने फ्यूल एक्सपोर्ट में इतिहास रच दिया है। आखिर कैसे मुमकिन हुआ ये बदलाव?\n\nशेयर करें इस वीडियो को और ऐसे ही बड़े अपडेट्स के लिए फॉलो करें।\n\n#IndiaNews #EuropeanUnion #IndianEconomy #GlobalTrade #DieselExport"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है! 🇮🇳\n\nएक समय जिन देशों का दबदबा था, आज भारत ने उन्हें पीछे छोड़ दिया है। ग्लोबल मार्केट की उलझनों के बीच भारत की रिफाइनरियों ने यूरोपीय देशों की ऊर्जा जरूरतों को पूरा करने में जो बड़ी भूमिका निभाई है, उसकी चर्चा पूरी दुनिया में हो रही है।\n\nवीडियो को पूरा देखें और समझें कि भारत कैसे ग्लोबल ट्रेड का पावरहाउस बनता जा रहा है।\n\n#IndiaNews #EuropeanUnion #IndianEconomy #GlobalTrade #DieselExport"
+      },
+      "hashtags": [
+        "IndiaNews",
+        "EuropeanUnion",
+        "IndianEconomy",
+        "GlobalTrade",
+        "DieselExport"
+      ]
+    },
+    "audio_path": "audio/india_becomes_major_diesel_supplier_to_europe.wav",
+    "audio_duration_sec": 12.5,
+    "video_path": "videos/india_becomes_major_diesel_supplier_to_europe.mp4",
+    "video_duration_sec": 20.56,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-06T16:41:00.065411+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d97afc6345b9a19be17ac",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है! 🇮🇳\n\nएक समय जिन देशों का दबदबा था, आज भारत ने उन्हें पीछे छोड़ दिया है। ग्लोबल मार्केट की उलझनों के बीच भारत की रिफाइनरियों ने यूरोपीय देशों की ऊर्जा जरूरतों को पूरा करने में जो बड़ी भूमिका निभाई है, उसकी चर्चा पूरी दुनिया में हो रही है।\n\nवीडियो को पूरा देखें और समझें कि भारत कैसे ग्लोबल ट्रेड का पावरहाउस बनता जा रहा है।\n\n#IndiaNews #EuropeanUnion #IndianEconomy #GlobalTrade #DieselExport",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788712877263_9xlrz26j_india_becomes_major_diesel_supplier_to_europe.mp4",
+                "_id": "6a9d97afc6345b9a19be17ad"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T16:41:18.374Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "ec0f4ed00e4540ec20932a00e9cc3fed",
+                "_id": "6a9d97afc6345b9a19be17ae",
+                "platformPostId": "3209343935926607",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=3209343935926607",
+                "publishedAt": "2026-09-06T16:41:24.994Z"
+              }
+            ],
+            "scheduledFor": "2026-09-06T16:41:18.374Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T16:41:19.425Z",
+            "updatedAt": "2026-09-06T16:41:25.109Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T16:41:19.505Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T16:41:25.291587+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d97cac2ecd723cd8208f7",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रूस और अमेरिका पीछे छूट गए, यूरोप का सबसे बड़ा डीजल सप्लायर अब भारत बन गया है! 🇮🇳\n\nग्लोबल मार्केट की हर पाबंदी को पीछे छोड़ते हुए भारत ने फ्यूल एक्सपोर्ट में इतिहास रच दिया है। आखिर कैसे मुमकिन हुआ ये बदलाव?\n\nशेयर करें इस वीडियो को और ऐसे ही बड़े अपडेट्स के लिए फॉलो करें।\n\n#IndiaNews #EuropeanUnion #IndianEconomy #GlobalTrade #DieselExport",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788712904428_gt19wtlr_india_becomes_major_diesel_supplier_to_europe.mp4",
+                "_id": "6a9d97cac2ecd723cd8208f8"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T16:41:45.353Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "a86b2af0df9b980e2f7da49808282bce",
+                "_id": "6a9d97cac2ecd723cd8208f9"
+              }
+            ],
+            "scheduledFor": "2026-09-06T16:41:45.353Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T16:41:46.132Z",
+            "updatedAt": "2026-09-06T16:41:48.041Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T16:41:46.213Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T16:41:48.602141+00:00"
+      }
+    }
+  },
+  {
     "topic_label": "bittu_tabahi_river_cleaning_netherlands_job_offer",
     "virality_score": 8,
-    "reason": "Inspirational and viral story of a 20-year-old cleaning a river alone and getting a direct job offer from the Netherlands.",
+    "reason": "Inspiring viral story of a 20-year-old getting an international job offer for cleaning a river single-handedly.",
     "region": "india",
     "headline": "अकेले गंदी नदी साफ करने पर 20 साल के 'बिट्टू तबाही' को मिला नीदरलैंड्स से सीधा ऑफर, ये वीडियो हुआ था वायरल",
     "source_summary": "मध्यप्रदेश के 20 साल के 'बिट्टू तबाही' ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया. उनका ये जबरदस्त काम देखकर 'The Ocean Cleanup' के डच CEO Boyan Slat इतने इंप्रेस हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में जॉब ऑफर कर दिया.",
     "source_url": "https://ndtv.in/zara-hatke/dutch-ceo-offers-job-to-indian-youth-bittu-tabahi-for-cleaning-river-12008765#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Sun, 06 Sep 2026 13:42:36 +0530",
-    "hook": "अकेले गंदी नदी साफ करने वाले युवा को मिला विदेश से बड़ा ऑफर!",
-    "script_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर द ओशन क्लीनअप के डच सीईओ बोयान स्लाट इतने प्रभावित हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
-    "tts_text_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर द ओशन क्लीनअप के डच सीईओ बोयान स्लाट इतने प्रभावित हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
-    "title": "मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स से मिला जॉब ऑफर",
-    "caption": "अकेले गंदी नदी साफ करने वाले मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स की कंपनी से मिला सीधा जॉब ऑफर।",
+    "hook": "अकेले गंदी नदी साफ करने वाले युवा को मिला विदेश से सीधा ऑफर!",
+    "script_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह जबरदस्त काम देखकर द ओशियन क्लीनअप के डच सीईओ बोयान स्लात इतने इंप्रेस हुए कि उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में जॉब ऑफर कर दिया।",
+    "tts_text_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह जबरदस्त काम देखकर द ओशियन क्लीनअप के डच सीईओ बोयान स्लात इतने इंप्रेस हुए कि उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में जॉब ऑफर कर दिया.",
+    "title": "बिट्टू तबाही को नीदरलैंड्स से मिला जॉब ऑफर",
+    "caption": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले नदी साफ करके दिखाया कमाल, नीदरलैंड्स की कंपनी से मिला बड़ा ऑफर।",
     "hashtags": [
-      "#MadhyaPradesh",
-      "#BittuTabahi",
-      "#RiverCleaning",
-      "#TheOceanCleanup",
-      "#Inspiration",
-      "#GoodNews",
-      "#IndiaNews"
+      "MadhyaPradesh",
+      "RiverCleaning",
+      "GoodNews",
+      "Inspiration",
+      "ViralNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian youth cleaning polluted river India",
+      "Indian dirty river polluted India",
+      "young Indian man cleaning garbage India",
       "clean river water nature India",
       "corporate office meeting India"
     ],
     "named_person": "Boyan Slat",
-    "named_person_hi": "बोयान स्लाट",
+    "named_person_hi": "बोयान स्लात",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video and individual whose exact real footage is needed, which generic stock B-roll cannot fully represent.",
+    "flag_reason": "The story centers on a specific viral video and a unique individual ('बिट्टू तबाही') whose actual real footage and photo are needed, which generic stock B-roll cannot provide.",
     "assets": [
       {
         "type": "text_card",
-        "text": "बोयान स्लाट",
+        "text": "बोयान स्लात",
         "source": "fallback",
         "query": "Boyan Slat",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14259956/pexels-photo-14259956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36289959/pexels-photo-36289959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian youth cleaning polluted river India",
-        "credit": "Pranit Kundu (diabolicspirit32)",
+        "query": "Indian dirty river polluted India",
+        "credit": "INAAM ASHIQ",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2570304/pexels-photo-2570304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "young Indian man cleaning garbage India",
+        "credit": "Anas Jawed",
         "duration_sec": 5
       },
       {
@@ -67,112 +335,113 @@
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kbc_akshay_kumar_amitabh_bachchan_purse_fire",
-    "virality_score": 8,
-    "reason": "Entertaining moment on KBC where Akshay Kumar shows his purse to Amitabh Bachchan and it catches fire.",
+    "topic_label": "chhattisgarh_tin_lithium_mineral_revenue",
+    "virality_score": 7,
+    "reason": "Fascinating economic and developmental milestone about India's only tin state unlocking massive mineral wealth.",
     "region": "india",
-    "headline": "KBC 18  के सेट पर अमिताभ बच्चन को पर्स दिखाने पहुंचे अक्षय कुमार, खोलते ही लगी आग, नजारा देख चौंक गए बिग बी",
-    "source_summary": "KBC के मंच पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है. लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग गई.",
-    "source_url": "https://ndtv.in/bollywood/akshay-kumar-wallet-fire-prank-on-amitabh-bachchan-kbc-saif-ali-khan-12008881#publisher=newsstand",
+    "headline": "देश का अकेला 'टिन राज्य' छत्तीसगढ़, लिथियम और क्रिटिकल मिनरल्स से कमाएगा ₹4 लाख करोड़",
+    "source_summary": "लाल आतंक से निकलकर विकास की गाथा लिख रहा छत्तीसगढ़ जमीन के अंदर मौजूद क्रिटिकल मिनरल्स से अपनी किस्‍मत बदल रहा है. देश के एकमात्र टिन उत्पादक राज्य छत्तीसगढ़ में अब जल्‍द ही लिथियम खदान भी शुरू होने वाली है. खनिज के दम पर राज्‍य 50 साल में ₹4 लाख करोड़ का राजस्व अर्जित करेगा.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/chhattisgarh-lithium-tin-mining-4-lakh-crore-revenue-12009835#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sun, 06 Sep 2026 14:25:54 +0530",
-    "hook": "कैनबीसी के सेट पर अक्षय कुमार ने खोला पर्स, और भभक उठी आग!",
-    "script_hi": "कैनबीसी के सेट पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है। लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग लग गई। यह नजारा देख अमिताभ बच्चन भी चौंक गए।",
-    "tts_text_hi": "कौन बनेगा करोड़पति के सेट पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है। लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग लग गई। यह नजारा देख अमिताभ बच्चन भी चौंक गए।",
-    "title": "KBC सेट पर अक्षय कुमार के पर्स में लगी आग",
-    "caption": "कौन बनेगा करोड़पति के सेट पर हुआ अनोखा वाकया, अक्षय कुमार का पर्स खोलते ही लगी आग जिसे देख हैरान रह गए अमिताभ बच्चन।",
+    "published": "Sun, 06 Sep 2026 19:25:03 +0530",
+    "hook": "क्या छत्तीसगढ़ बनने वाला है देश का सबसे अमीर राज्य",
+    "script_hi": "देश का अकेला टिन उत्पादक राज्य छत्तीसगढ़ अब अपनी जमीन के अंदर छिपे खजानों से किस्मत बदलने जा रहा है. छत्तीसगढ़ में जल्द ही लिथियम खदानें शुरू होने वाली हैं. अनुमान है कि इन क्रिटिकल मिनरल्स के दम पर राज्य आने वाले पचास वर्षों में चार लाख करोड़ रुपये का भारी राजस्व अर्जित करेगा. लाल आतंक के साए से निकलकर यह राज्य अब विकास की एक नई गाथा लिख रहा है.",
+    "tts_text_hi": "देश का अकेला टिन उत्पादक राज्य छत्तीसगढ़ अब अपनी जमीन के अंदर छिपे खजानों से किस्मत बदलने जा रहा है. छत्तीसगढ़ में जल्द ही लिथियम खदानें शुरू होने वाली हैं. अनुमान है कि इन क्रिटिकल मिनरल्स के दम पर राज्य आने वाले पचास वर्षों में चार लाख करोड़ रुपये का भारी राजस्व अर्जित करेगा. लाल आतंक के साए से निकलकर यह राज्य अब विकास की एक नई गाथा लिख रहा है.",
+    "title": "छत्तीसगढ़ की नई खजाना नीति, चार लाख करोड़ की कमाई",
+    "caption": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.",
     "hashtags": [
-      "अक्षयकुमार",
-      "अमिताभबच्चन",
-      "केबीसी",
-      "बॉलीवुड",
-      "मनोरंजन"
+      "Chhattisgarh",
+      "Lithium",
+      "IndianEconomy",
+      "News",
+      "Mining",
+      "विकास",
+      "छत्तीसगढ़"
     ],
     "visual_queries": [
-      "television studio India",
-      "actor speaking microphone India",
-      "fire burning object India"
+      "India industrial mining site",
+      "India mineral exploration landscape",
+      "Indian state development city view",
+      "India modern infrastructure growth"
     ],
-    "named_person": "Akshay Kumar",
-    "named_person_hi": "अक्षय कुमार",
-    "secondary_persons": [
-      "Amitabh Bachchan"
-    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "अक्षय कुमार",
-        "source": "fallback",
-        "query": "Akshay Kumar",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39344549/16745566_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "television studio India",
-        "credit": "Victoria  Ofere",
-        "source_duration_sec": 12,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/60008/brown-coal-energy-garzweiler-bucket-wheel-excavators-60008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "actor speaking microphone India",
-        "credit": "Fahad Puthawala",
+        "query": "India industrial mining site",
+        "credit": "Pixabay",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12883473/pexels-photo-12883473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5768899/pexels-photo-5768899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fire burning object India",
-        "credit": "Nandhu Kumar",
+        "query": "India mineral exploration landscape",
+        "credit": "Anthony Abhilash",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24030126/pexels-photo-24030126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian state development city view",
+        "credit": "Ajay Sangle",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5323962/pexels-photo-5323962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India modern infrastructure growth",
+        "credit": "Its Kiran",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "KBC सेट पर अक्षय कुमार ने खोला पर्स, अचानक भभक उठी आग! 😲🔥",
-        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही पर्स खोला, अंदर से अचानक आग भभक उठी!\n\nअमिताभ बच्चन के सामने हुआ ये खतरनाक ड्रामा देख हर कोई सन्न रह गया। सेट पर मौजूद लोग कुछ समझ पाते उससे पहले ही माहौल गर्म हो गया।\n\nआखिर अक्षय के पर्स में ऐसा क्या था? पूरी कहानी देखें। 👇\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+        "title": "छत्तीसगढ़ की नई खजाना नीति, चार लाख करोड़ की कमाई",
+        "caption": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.\n\n#Chhattisgarh #Lithium #IndianEconomy #News #Mining"
       },
       "instagram": {
         "title": null,
-        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अचानक आग भभक उठी! 🔥\n\nअमिताभ बच्चन के सामने हुए इस चौंकाने वाले वाकये ने सबको हैरान कर दिया। क्या था उस पर्स के अंदर?\n\nवीडियो पूरा देखें और अपनी राय बताएं।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+        "caption": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.\n\n#Chhattisgarh #Lithium #IndianEconomy #News #Mining"
       },
       "facebook": {
         "title": null,
-        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अंदर से अचानक आग भभक उठी! 😲\n\nअमिताभ बच्चन बिल्कुल सामने खड़े थे और नजारा देख उनके भी होश उड़ गए। सेट पर अचानक मची इस अफरातफरी की असली वजह क्या थी, ये जानकर आप भी हैरान रह जाएंगे। \n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+        "caption": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.\n\n#Chhattisgarh #Lithium #IndianEconomy #News #Mining"
       },
       "hashtags": [
-        "akshaykumar",
-        "amitabhbachchan",
-        "kbc18",
-        "bollywoodnews",
-        "trendingvideo"
+        "Chhattisgarh",
+        "Lithium",
+        "IndianEconomy",
+        "News",
+        "Mining"
       ]
     },
-    "audio_path": "audio/kbc_akshay_kumar_amitabh_bachchan_purse_fire.wav",
-    "audio_duration_sec": 15.0,
-    "video_path": "videos/kbc_akshay_kumar_amitabh_bachchan_purse_fire.mp4",
-    "video_duration_sec": 23.05,
+    "audio_path": "audio/chhattisgarh_tin_lithium_mineral_revenue.wav",
+    "audio_duration_sec": 26.82,
+    "video_path": "videos/chhattisgarh_tin_lithium_mineral_revenue.mp4",
+    "video_duration_sec": 34.87,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T15:42:37.561982+00:00"
+        "attempted_at": "2026-09-06T16:45:11.695809+00:00"
       },
       "facebook": {
         "success": true,
@@ -185,15 +454,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d8a042beb8ced2800be57",
+            "_id": "6a9d98b79cd800f1a0cd2873",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अंदर से अचानक आग भभक उठी! 😲\n\nअमिताभ बच्चन बिल्कुल सामने खड़े थे और नजारा देख उनके भी होश उड़ गए। सेट पर अचानक मची इस अफरातफरी की असली वजह क्या थी, ये जानकर आप भी हैरान रह जाएंगे। \n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo",
+            "content": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.\n\n#Chhattisgarh #Lithium #IndianEconomy #News #Mining",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788709378807_pr7epzdq_kbc_akshay_kumar_amitabh_bachchan_purse_fire.mp4",
-                "_id": "6a9d8a042beb8ced2800be58"
+                "url": "https://media.zernio.com/media/1788713141899_i1bogywu_chhattisgarh_tin_lithium_mineral_revenue.mp4",
+                "_id": "6a9d98b79cd800f1a0cd2874"
               }
             ],
             "platforms": [
@@ -210,17 +479,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T15:42:59.858Z",
+                "scheduledFor": "2026-09-06T16:45:42.896Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "cc4a7b33f03863792f8ef7bde4a0c39d",
-                "_id": "6a9d8a042beb8ced2800be59",
-                "platformPostId": "1783933862646925",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1783933862646925",
-                "publishedAt": "2026-09-06T15:43:07.744Z"
+                "contentHash": "0f5c4768c987493a21970a1659cdbd12",
+                "_id": "6a9d98b79cd800f1a0cd2875",
+                "platformPostId": "2387124111695196",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2387124111695196",
+                "publishedAt": "2026-09-06T16:45:54.052Z"
               }
             ],
-            "scheduledFor": "2026-09-06T15:42:59.858Z",
+            "scheduledFor": "2026-09-06T16:45:42.896Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -232,14 +501,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:43:00.676Z",
-            "updatedAt": "2026-09-06T15:43:07.851Z",
+            "createdAt": "2026-09-06T16:45:44.103Z",
+            "updatedAt": "2026-09-06T16:45:54.141Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:43:00.788Z"
+            "publishingClaimedAt": "2026-09-06T16:45:44.563Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T15:43:08.035855+00:00"
+        "attempted_at": "2026-09-06T16:45:54.303132+00:00"
       },
       "instagram": {
         "success": true,
@@ -252,15 +521,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d8a255017671eaae92584",
+            "_id": "6a9d98dd33a51cda06f508ef",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अचानक आग भभक उठी! 🔥\n\nअमिताभ बच्चन के सामने हुए इस चौंकाने वाले वाकये ने सबको हैरान कर दिया। क्या था उस पर्स के अंदर?\n\nवीडियो पूरा देखें और अपनी राय बताएं।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo",
+            "content": "छत्तीसगढ़ लिथियम और टिन के भंडार से अगले पचास वर्षों में चार लाख करोड़ रुपये का राजस्व कमाए पाएगा.\n\n#Chhattisgarh #Lithium #IndianEconomy #News #Mining",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788709411173_04heo2jn_kbc_akshay_kumar_amitabh_bachchan_purse_fire.mp4",
-                "_id": "6a9d8a255017671eaae92585"
+                "url": "https://media.zernio.com/media/1788713179538_x7qtimqj_chhattisgarh_tin_lithium_mineral_revenue.mp4",
+                "_id": "6a9d98dd33a51cda06f508f0"
               }
             ],
             "platforms": [
@@ -277,14 +546,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T15:43:32.081Z",
+                "scheduledFor": "2026-09-06T16:46:20.647Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "099b973878f9ed0d1efc32debcd5521a",
-                "_id": "6a9d8a255017671eaae92586"
+                "contentHash": "d23bb96d6dd87db419da8479396d91a0",
+                "_id": "6a9d98dd33a51cda06f508f1"
               }
             ],
-            "scheduledFor": "2026-09-06T15:43:32.081Z",
+            "scheduledFor": "2026-09-06T16:46:20.647Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -296,45 +565,43 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:43:33.123Z",
-            "updatedAt": "2026-09-06T15:43:35.517Z",
+            "createdAt": "2026-09-06T16:46:21.731Z",
+            "updatedAt": "2026-09-06T16:46:23.956Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:43:33.216Z"
+            "publishingClaimedAt": "2026-09-06T16:46:21.806Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T15:43:35.779642+00:00"
+        "attempted_at": "2026-09-06T16:46:24.373254+00:00"
       }
     }
   },
   {
-    "topic_label": "india_europe_diesel_supplier_surge",
+    "topic_label": "haryana_man_climbs_tower_divorce_demand",
     "virality_score": 7,
-    "reason": "Significant economic milestone as India emerges as Europe's major diesel supplier amidst global shifts.",
+    "reason": "Bizarre and highly viral human interest crime story of a man climbing a mobile tower demanding a divorce and remarriage.",
     "region": "india",
-    "headline": "रूस-US रह गए पीछे, अब यूरोप का बड़ा डीजल सप्लायर बना भारत",
-    "source_summary": "India Diesel Export: रूस-US से यूरोप को होने वाली डीजल की सप्लाई तमाम रुकावटों के चलते धीमी पड़ी, तो भारत बड़े सप्लायर के तौर पर सामने आया है और अगस्त में Europe पहुंचे डीजल में 60% यहां से पहुंचा है.",
-    "source_url": "https://www.aajtak.in/business/news/story/india-becomes-key-diesel-supplier-to-europe-via-bab-el-mandeb-strait-russia-us-behind-tutc-dskc-2637597-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T18:38:49+05:30",
-    "hook": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना!",
-    "script_hi": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! अगस्त महीने में यूरोप पहुंचे डीजल का साठ प्रतिशत भारत से गया है। पश्चिमी देशों की तमाम रुकावटों के बावजूद भारतीय रिफाइनरियों ने बाजी मारी है।",
-    "tts_text_hi": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! अगस्त महीने में यूरोप पहुंचे डीजल का साठ प्रतिशत भारत से गया है। पश्चिमी देशों की तमाम रुकावटों के बावजूद भारतीय रिफाइनरियों ने बाजी मारी है।",
-    "title": "भारत बना यूरोप का सबसे बड़ा डीजल सप्लायर",
-    "caption": "रूस और अमेरिका पीछे छूट गए हैं और भारत यूरोप का सबसे बड़ा डीजल सप्लायर बन गया है। अगस्त में यूरोप पहुंचे डीजल का 60% भारत से गया।",
+    "headline": "'पहले पत्नी से तलाक करवाओ, फिर प्रेमिका से शादी कराओ', 160 फीट ऊंचे मोबाइल टावर पर चढ़े युवक ने रखी डिमांड",
+    "source_summary": "Jind News Today: हरियाणा के जींद जिले में हैरान करने वाला मामला सामने आया है। जिले के सफीदों के गांव बहादुरगढ़ में एक युवक मोबाइल टावर पर चढ़ गया और पत्नी से तलाक और प्रेमिका से शादी की मांग रखी है। पुलिस का कहना है कि युवक शादीशुदा है और दो बच्चों का पिता है।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/jind/married-man-climbs-mobile-tower-in-jind-demands-divorce-from-wife-and-marriage-to-girlfriend-know-all/articleshow/133842249.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 06 Sep 2026 21:10:00 +0530",
+    "hook": "हरियाणा के जींद में एक अजीब मामला सामने आया है!",
+    "script_hi": "हरियाणा के जींद में एक शादीशुदा युवक एक सौ साठ फीट ऊंचे मोबाइल टावर पर चढ़ गया। उसकी मांग थी कि पहले उसकी पत्नी से तलाक करवाया जाए और फिर प्रेमिका से शादी कराई जाए। पुलिस और प्रशासनिक अधिकारी मौके पर पहुंचे और युवक को समझाने की कोशिश में जुटे हैं।",
+    "tts_text_hi": "हरियाणा के जींद में एक शादीशुदा युवक एक सौ साठ फीट ऊंचे मोबाइल टावर पर चढ़ गया। उसकी मांग थी कि पहले उसकी पत्नी से तलाक करवाया जाए और फिर प्रेमिका से शादी कराई जाए। पुलिस और प्रशासनिक अधिकारी मौके पर पहुंचे और युवक को समझाने की कोशिश में जुटे हैं।",
+    "title": "जींद में टावर पर चढ़ा युवक, पत्नी से तलाक और प्रेमिका से शादी की अनोखी मांग",
+    "caption": "हरियाणा के जींद में एक हैरान करने वाला मामला सामने आया है जहाँ एक युवक मोबाइल टावर पर चढ़ गया और अपनी प्रेमिका से शादी की मांग करने लगा।",
     "hashtags": [
-      "IndiaNews",
-      "DieselExport",
-      "IndianEconomy",
-      "Europe",
-      "BusinessNews",
-      "TrendingNews"
+      "#JindNews",
+      "#HaryanaNews",
+      "#ViralNews",
+      "#Safidon",
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "Indian oil refinery India",
-      "cargo ship sea India",
-      "European flag city street",
-      "fuel tanker truck India"
+      "mobile communication tower India",
+      "police station India",
+      "crowd watching India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -345,308 +612,356 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/36094790/15307526_720_960_50fps.mp4",
+        "url": "https://videos.pexels.com/video-files/19285685/19285685-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "European flag city street",
-        "credit": "Deek Van der aa",
+        "query": "man climbing mobile tower",
+        "credit": "shalender kumar",
+        "source_duration_sec": 35,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8559175/8559175-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "family dispute India",
+        "credit": "Timur Weber",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36907467/pexels-photo-36907467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile communication tower India",
+        "credit": "Harshith K S",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087924/pexels-photo-39087924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd watching India",
+        "credit": "Satyam Pixels",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11320755/pexels-photo-11320755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "man climbing telecom tower",
+        "credit": "Omar Tapia",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "dramatic rescue operation India",
+        "credit": "Arto Suraj",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "टावर पर चढ़ा आशिक: पत्नी को तलाक और प्रेमिका से शादी की अजीब मांग! 🗼😲",
+        "caption": "160 फीट ऊंचे मोबाइल टावर पर चढ़ा युवक, शर्त सुनकर पुलिस भी हैरान रह गई! 📱\n\nहरियाणा के जींद से हैरान करने वाला मामला सामने आया है। युवक ने पहले पत्नी से तलाक और फिर प्रेमिका से निकाह कराने की अनोखी जिद पकड़ ली। टावर के नीचे भारी भीड़ जमा हो गई और घंटों हाईवोल्टेज ड्रामा चलता रहा।\n\nपूरी कहानी देखें और बताएं कि ऐसे मामलों में क्या करना चाहिए?\n\n#JindNews #TowerDrama #HaryanaNews #ViralKhabar #AjabGajab"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "160 फीट ऊंचे टावर पर चढ़ा आशिक, ऐसी शर्त रखी कि पुलिस के भी होश उड़ गए! 🤯\n\nहरियाणा के जींद में एक युवक ने गजब ड्रामा कर दिया। पहले पत्नी से तलाक और फिर प्रेमिका से शादी करवाने की डिमांड पर अड़ा रहा। नीचे खड़े लोग बस तमाशा देखते रह गए।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#JindNews #TowerDrama #HaryanaNews #ViralKhabar #AjabGajab"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "हरियाणा के जींद से एक ऐसा मामला सामने आया है जिसे सुनकर आप भी हैरान रह जाएंगे। एक युवक सीधे 160 फीट ऊंचे मोबाइल टावर पर जा चढ़ा। 📶\n\nउसकी मांग सुनकर वहां मौजूद पुलिस और प्रशासन के भी पसीने छूट गए। युवक की जिद थी कि पहले उसकी पत्नी से कानूनी तलाक करवाया जाए और फिर उसकी प्रेमिका से शादी कराई जाए। घंटों चले इस हाईवोल्टेज ड्रामे का वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरी कहानी वीडियो में देखें।\n\n#JindNews #TowerDrama #HaryanaNews #ViralKhabar #AjabGajab"
+      },
+      "hashtags": [
+        "JindNews",
+        "TowerDrama",
+        "HaryanaNews",
+        "ViralKhabar",
+        "AjabGajab"
+      ]
+    },
+    "audio_path": "audio/haryana_man_climbs_tower_divorce_demand.wav",
+    "audio_duration_sec": 17.94,
+    "video_path": "videos/haryana_man_climbs_tower_divorce_demand.mp4",
+    "video_duration_sec": 26.0,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-06T16:50:24.459230+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d99f2c908166dda3769d4",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "हरियाणा के जींद से एक ऐसा मामला सामने आया है जिसे सुनकर आप भी हैरान रह जाएंगे। एक युवक सीधे 160 फीट ऊंचे मोबाइल टावर पर जा चढ़ा। 📶\n\nउसकी मांग सुनकर वहां मौजूद पुलिस और प्रशासन के भी पसीने छूट गए। युवक की जिद थी कि पहले उसकी पत्नी से कानूनी तलाक करवाया जाए और फिर उसकी प्रेमिका से शादी कराई जाए। घंटों चले इस हाईवोल्टेज ड्रामे का वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरी कहानी वीडियो में देखें।\n\n#JindNews #TowerDrama #HaryanaNews #ViralKhabar #AjabGajab",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788713454666_igbsjin4_haryana_man_climbs_tower_divorce_demand.mp4",
+                "_id": "6a9d99f2c908166dda3769d5"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T16:50:56.189Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "9b241507ec43b3a3316664570e1095f5",
+                "_id": "6a9d99f2c908166dda3769d6",
+                "platformPostId": "1080862134391298",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1080862134391298",
+                "publishedAt": "2026-09-06T16:51:04.258Z"
+              }
+            ],
+            "scheduledFor": "2026-09-06T16:50:56.189Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T16:50:58.091Z",
+            "updatedAt": "2026-09-06T16:51:04.364Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T16:50:58.206Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T16:51:04.510809+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9d9a17719827deb0a1b4b7",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "160 फीट ऊंचे टावर पर चढ़ा आशिक, ऐसी शर्त रखी कि पुलिस के भी होश उड़ गए! 🤯\n\nहरियाणा के जींद में एक युवक ने गजब ड्रामा कर दिया। पहले पत्नी से तलाक और फिर प्रेमिका से शादी करवाने की डिमांड पर अड़ा रहा। नीचे खड़े लोग बस तमाशा देखते रह गए।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#JindNews #TowerDrama #HaryanaNews #ViralKhabar #AjabGajab",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788713492727_gav1vak1_haryana_man_climbs_tower_divorce_demand.mp4",
+                "_id": "6a9d9a17719827deb0a1b4b8"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-06T16:51:33.816Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "bfcfbca33fe4b691894d3a2150ee05c2",
+                "_id": "6a9d9a17719827deb0a1b4b9"
+              }
+            ],
+            "scheduledFor": "2026-09-06T16:51:33.816Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-06T16:51:35.220Z",
+            "updatedAt": "2026-09-06T16:51:37.288Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-06T16:51:35.290Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-06T16:51:37.692449+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "germany_far_right_afd_election_win_global",
+    "virality_score": 7,
+    "reason": "Major global political shift with Germany's far-right AfD projected for a historic state election victory.",
+    "region": "global",
+    "headline": "German far-right set for big win in eastern state - exit polls",
+    "source_summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sun, 06 Sep 2026 16:10:46 GMT",
+    "hook": "जर्मनी में धुर-दक्षिणपंथी पार्टी ने रचा इतिहास!",
+    "script_hi": "जर्मनी में धुर-दक्षिणपंथी पार्टी ऑल्टरनेटिव फॉर जर्मनी ने पूर्वी राज्य के चुनावों में ऐतिहासिक सफलता हासिल की है। एग्जिट पोल के मुताबिक पार्टी को बयालीस से पैंतालीस प्रतिशत तक वोट मिलने का अनुमान है, जो कंजर्वेटिव सीडीयू पार्टी से काफी आगे है।",
+    "tts_text_hi": "जर्मनी में धुर-दक्षिणपंथी पार्टी ऑल्टरनेटिव फॉर जर्मनी ने पूर्वी राज्य के चुनावों में ऐतिहासिक सफलता हासिल की है। एग्जिट पोल के मुताबिक पार्टी को बयालीस से पैंतालीस प्रतिशत तक वोट मिलने का अनुमान है, जो कंजर्वेटिव सीडीयू पार्टी से काफी आगे है।",
+    "title": "जर्मनी में धुर-दक्षिणपंथी पार्टी की ऐतिहासिक जीत",
+    "caption": "जर्मनी के पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी AfD ने एग्जिट पोल में बड़ी बढ़त हासिल की है।",
+    "hashtags": [
+      "Germany",
+      "AfD",
+      "WorldNews",
+      "Election2024",
+      "GermanPolitics",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "German parliament building Berlin",
+      "political election voting Germany",
+      "news broadcast studio Germany"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/32478264/13850089_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "German parliament building Berlin",
+        "credit": "Nirjhar Basak",
         "source_duration_sec": 15,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11421115/pexels-photo-11421115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian oil refinery India",
-        "credit": "Balotra News",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cargo ship sea India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/23223773/pexels-photo-23223773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fuel tanker truck India",
-        "credit": "Ranjith_Photography 747",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "रूस-US रह गए पीछे! यूरोप का सबसे बड़ा डीजल सप्लायर बना भारत 🇮🇳",
-        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना!\n\nपश्चिम के तमाम प्रतिबंधों के बावजूद भारत की एनर्जी पॉलिसी ने सबको हैरान कर दिया है। कच्चे तेल को रिफाइन कर यूरोप भेजने का खेल अब ऐसा बदला कि ग्लोबल मार्केट की चाल ही पलट गई है।\n\nपूरी कहानी वीडियो में देखें, और अपनी राय कमेंट में बताएं।\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🛢️\n\nपश्चिम के तमाम प्रतिबंधों के बीच भारत का यह कदम कैसे गेम-चेंजर बना? जानिए पूरी बात।\n\nस्टोरी कैसी लगी, कमेंट में बताएं!\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🇮🇳🛢️\n\nग्लोबल मार्केट में एक बड़ा उलटफेर हुआ है। पश्चिमी देशों के तमाम प्रतिबंधों के बावजूद भारत ने रूस और अमेरिका को पीछे छोड़ते हुए यूरोप को डीजल सप्लाई करने वाला सबसे बड़ा देश बन गया है। आखिर भारत ने कैसे बदला एनर्जी मार्केट का पूरा गणित?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
-      },
-      "hashtags": [
-        "IndiaEconomy",
-        "EuropeDiesel",
-        "GlobalTrade",
-        "RussianOil",
-        "IndianEconomy"
-      ]
-    },
-    "audio_path": "audio/india_europe_diesel_supplier_surge.wav",
-    "audio_duration_sec": 16.28,
-    "video_path": "videos/india_europe_diesel_supplier_surge.mp4",
-    "video_duration_sec": 24.29,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T15:48:52.868654+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d8b7cccbb2d849b512803",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🇮🇳🛢️\n\nग्लोबल मार्केट में एक बड़ा उलटफेर हुआ है। पश्चिमी देशों के तमाम प्रतिबंधों के बावजूद भारत ने रूस और अमेरिका को पीछे छोड़ते हुए यूरोप को डीजल सप्लाई करने वाला सबसे बड़ा देश बन गया है। आखिर भारत ने कैसे बदला एनर्जी मार्केट का पूरा गणित?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788709754151_2go3ungy_india_europe_diesel_supplier_surge.mp4",
-                "_id": "6a9d8b7cccbb2d849b512804"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwGDjOaC&_nc_oc=AdqCqLwdllvwRuLBvggQSm9dwq0Lv3Ze83XR2U8ZIy_ctGrPaNE6JiPqNRplvt2sQLc&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=SAx47Nx3QDPK5nBYz3TcZQ&_nc_tpa=Q5bMBQIXHbLHaDdyRV9DXYZ400cKsiS5rKo2LNS0YSdYotWFtWuzGsdoSsiE89Q4TFrYh2jmtEablOXq&oh=00_AQJvm8aMN18BvxPy0rDL4nFKeJ1PlxRJMo7HHza8VkEVww&oe=6AA2BC94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T15:49:15.301Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "1d3cf75b9dc0e90337be4abd6d25a4bc",
-                "_id": "6a9d8b7cccbb2d849b512805",
-                "platformPostId": "1074979081553974",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1074979081553974",
-                "publishedAt": "2026-09-06T15:49:25.748Z"
-              }
-            ],
-            "scheduledFor": "2026-09-06T15:49:15.301Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:49:16.489Z",
-            "updatedAt": "2026-09-06T15:49:25.840Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:49:16.552Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T15:49:26.026677+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9d8b9880672b53cf4446f7",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🛢️\n\nपश्चिम के तमाम प्रतिबंधों के बीच भारत का यह कदम कैसे गेम-चेंजर बना? जानिए पूरी बात।\n\nस्टोरी कैसी लगी, कमेंट में बताएं!\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788709782256_v0ecupee_india_europe_diesel_supplier_surge.mp4",
-                "_id": "6a9d8b9880672b53cf4446f8"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFMj68N&_nc_oc=AdrmsZ3m2X_yK5hZagK6kVY0eqEN8IuKrHS_gFANG0yuvvgB-p30EgDIaSet_gQKNy0&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nketlXhSHIn3kAa8O0V1Lg&_nc_tpa=Q5bMBQJ0IpGLqlFAcKLKw8MxeUivxZKt71sO4mf5GXD8PmAir4IVLAZl_Ck5paZW9rjY8dChXC20nRolLQ&oh=00_AQKd3gSAgf5ZpH00Ul1uuC_x5aoYS9cEwUT_EyZosLMa3A&oe=6AA2B03B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-06T15:49:43.471Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "0943e7f5044a77878f44319a1fa6a8a2",
-                "_id": "6a9d8b9880672b53cf4446f9"
-              }
-            ],
-            "scheduledFor": "2026-09-06T15:49:43.471Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:49:44.502Z",
-            "updatedAt": "2026-09-06T15:49:46.202Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:49:44.572Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-06T15:49:46.645547+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "us_envoys_kyiv_zelensky_talks",
-    "virality_score": 7,
-    "reason": "Key global development as US envoys visit Kyiv to push for peace negotiations following talks with Putin.",
-    "region": "global",
-    "headline": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-    "source_summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sun, 06 Sep 2026 13:16:21 GMT",
-    "hook": "अमेरिका के विशेष दूत यूक्रेन की राजधानी कीव पहुंचे!",
-    "script_hi": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने यूक्रेन की राजधानी कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की। रूस के साथ बातचीत के बाद यह उनका पहला यूक्रेन दौरा है।",
-    "tts_text_hi": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने यूक्रेन की राजधानी कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की। रूस के साथ बातचीत के बाद यह उनका पहला यूक्रेन दौरा है।",
-    "title": "US Envoys Meet Zelensky in Ukraine",
-    "caption": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की है।",
-    "hashtags": [
-      "Ukraine",
-      "USA",
-      "Zelensky",
-      "RussiaUkraineWar",
-      "News",
-      "InternationalNews"
-    ],
-    "visual_queries": [
-      "Ukrainian flag building Kyiv",
-      "diplomatic meeting room officials",
-      "presidential palace exterior Ukraine"
-    ],
-    "named_person": "Volodymyr Zelenskyy",
-    "named_person_hi": "वोलोडिमिर ज़ेलेंस्की",
-    "secondary_persons": [
-      "Steve Witkoff",
-      "Jared Kushner"
-    ],
-    "est_duration_sec": 27,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "वोलोडिमिर ज़ेलेंस्की",
-        "source": "fallback",
-        "query": "Volodymyr Zelenskyy",
+        "query": "European political rally",
+        "credit": "Mathias Reding",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38899342/pexels-photo-38899342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39332196/pexels-photo-39332196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Ukrainian flag building Kyiv",
-        "credit": "Kostya Kore",
-        "duration_sec": 5
+        "query": "news broadcast studio Germany",
+        "credit": "Nevtuğ  Yalçın",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8730939/pexels-photo-8730939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11421115/pexels-photo-11421115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "diplomatic meeting room officials",
+        "query": "European political protest",
+        "credit": "Mathias Reding",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38645501/pexels-photo-38645501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "generic news background",
+        "credit": "Ann H",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8847039/pexels-photo-8847039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people voting ballot box",
         "credit": "Mikhail Nilov",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13996447/pexels-photo-13996447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27273080/pexels-photo-27273080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "presidential palace exterior Ukraine",
-        "credit": "Olga Kalmazan",
-        "duration_sec": 5
+        "query": "crowd cheering celebration",
+        "credit": "Cristiano Junior",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पुतिन से मिलने के ठीक बाद कीव पहुंचे अमेरिकी दूत! 🇺🇸🇺🇦",
-        "caption": "पुतिन से सीक्रेट मीटिंग के ठीक बाद अमेरिकी दूत अचानक कीव पहुंच गए। 🚨\n\nरूस के साथ तीखी तनातनी के बीच अमेरिकी दूतों की यूक्रेन के राष्ट्रपति ज़ेलेंस्की से यह मुलाकात बहुत बड़े संकेत दे रही है। क्या कोई नया शांति समझौता होने वाला है या जंग और भड़केगी?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
+        "title": "जर्मनी में धुर-दक्षिणपंथी पार्टी की ऐतिहासिक जीत! 🇩🇪",
+        "caption": "जर्मनी के चुनाव में जो हुआ, उसने पूरे यूरोप की राजनीति में हलचल मचा दी है। 🇩🇪\n\nएग्जिट पोल के मुताबिक, पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी ने इतिहास रचते हुए बड़ी बढ़त हासिल की है। इस चौंकाने वाले नतीजे के बाद से वहां की मौजूदा सरकार की मुश्किलें काफी बढ़ गई हैं।\n\nआखिर कैसे इस पार्टी ने इतनी बड़ी जीत दर्ज की? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#GermanyElections #WorldNews #GermanPolitics #BreakingNews #InternationalNews"
       },
       "instagram": {
         "title": null,
-        "caption": "पुतिन से मिलने के ठीक बाद अचानक कीव पहुंचे अमेरिकी दूत! 🚨\n\nरूस में अहम चर्चाओं के बाद अमेरिकी प्रतिनिधिमंडल सीधे ज़ेलेंस्की से मिलने यूक्रेन पहुंच गया है। इस अचानक हुए दौरे के पीछे की असली वजह क्या है?\n\nवीडियो पूरा देखें। शेयर करें ताकि और लोग भी जान सकें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
+        "caption": "जर्मनी के चुनाव में जो हुआ, उसने पूरे यूरोप की राजनीति में हलचल मचा दी है। 🇩🇪\n\nएग्जिट पोल के मुताबिक, पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी ने इतिहास रचते हुए बड़ी जीत हासिल की है। इस चौंकाने वाले नतीजे ने यूरोपीय राजनीति के समीकरण पूरी तरह बदल दिए हैं।\n\nआपकी इस पर क्या राय है? शेयर करें.\n\n#GermanyElections #WorldNews #GermanPolitics #BreakingNews #InternationalNews"
       },
       "facebook": {
         "title": null,
-        "caption": "रूस में पुतिन से तीखी बातचीत के तुरंत बाद अमेरिकी दूत सीधे यूक्रेन की राजधानी कीव जा पहुंचे हैं। 🇺🇸🤝🇺🇦\n\nराष्ट्रपति ज़ेलेंस्की के साथ बंद कमरे में हुई इस उच्चस्तरीय बैठक के मायने क्या हैं, और क्या यह जंग किसी नए मोड़ पर जाने वाली है? हालात तेजी से बदल रहे हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
+        "caption": "जर्मनी के चुनाव के नतीजों ने पूरे यूरोप को चौंका कर रख दिया है। एग्जिट पोल के अनुसार, एक पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी ने ऐतिहासिक जीत दर्ज की है, जो द्वितीय विश्व युद्ध के बाद से वहां की राजनीति में एक बहुत बड़ा मोड़ माना जा रहा है।\n\nवहां की मौजूदा सरकार के लिए यह किसी बड़े झटके से कम नहीं है। वीडियो में देखें इस बड़ी राजनीतिक उथल-पुथल की पूरी कहानी और इसके क्या मायने हैं।\n\n#GermanyElections #WorldNews #GermanPolitics #BreakingNews #InternationalNews"
       },
       "hashtags": [
-        "USEnvoys",
-        "Zelensky",
-        "Putin",
-        "UkraineRussiaWar",
-        "USPolitics"
+        "GermanyElections",
+        "WorldNews",
+        "GermanPolitics",
+        "BreakingNews",
+        "InternationalNews"
       ]
     },
-    "audio_path": "audio/us_envoys_kyiv_zelensky_talks.wav",
-    "audio_duration_sec": 14.32,
-    "video_path": "videos/us_envoys_kyiv_zelensky_talks.mp4",
-    "video_duration_sec": 22.36,
+    "audio_path": "audio/germany_far_right_afd_election_win_global.wav",
+    "audio_duration_sec": 18.75,
+    "video_path": "videos/germany_far_right_afd_election_win_global.mp4",
+    "video_duration_sec": 26.81,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-06T15:55:11.739575+00:00"
+        "attempted_at": "2026-09-06T16:55:45.818534+00:00"
       },
       "facebook": {
         "success": true,
@@ -659,15 +974,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d8cf87ffcc994ddf73d3f",
+            "_id": "6a9d9b2c655de817d79bf59a",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "रूस में पुतिन से तीखी बातचीत के तुरंत बाद अमेरिकी दूत सीधे यूक्रेन की राजधानी कीव जा पहुंचे हैं। 🇺🇸🤝🇺🇦\n\nराष्ट्रपति ज़ेलेंस्की के साथ बंद कमरे में हुई इस उच्चस्तरीय बैठक के मायने क्या हैं, और क्या यह जंग किसी नए मोड़ पर जाने वाली है? हालात तेजी से बदल रहे हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics",
+            "content": "जर्मनी के चुनाव के नतीजों ने पूरे यूरोप को चौंका कर रख दिया है। एग्जिट पोल के अनुसार, एक पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी ने ऐतिहासिक जीत दर्ज की है, जो द्वितीय विश्व युद्ध के बाद से वहां की राजनीति में एक बहुत बड़ा मोड़ माना जा रहा है।\n\nवहां की मौजूदा सरकार के लिए यह किसी बड़े झटके से कम नहीं है। वीडियो में देखें इस बड़ी राजनीतिक उथल-पुथल की पूरी कहानी और इसके क्या मायने हैं।\n\n#GermanyElections #WorldNews #GermanPolitics #BreakingNews #InternationalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788710134054_znknle4k_us_envoys_kyiv_zelensky_talks.mp4",
-                "_id": "6a9d8cf87ffcc994ddf73d40"
+                "url": "https://media.zernio.com/media/1788713770061_4c0ekfx1_germany_far_right_afd_election_win_global.mp4",
+                "_id": "6a9d9b2c655de817d79bf59b"
               }
             ],
             "platforms": [
@@ -684,17 +999,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T15:55:35.105Z",
+                "scheduledFor": "2026-09-06T16:56:11.201Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "4fd574b62ea1c9c2d5aa8bcdabe9e597",
-                "_id": "6a9d8cf87ffcc994ddf73d41",
-                "platformPostId": "2084251585533239",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2084251585533239",
-                "publishedAt": "2026-09-06T15:55:47.890Z"
+                "contentHash": "6ac1af0f50f12429766947c8b214cd01",
+                "_id": "6a9d9b2c655de817d79bf59c",
+                "platformPostId": "1841081077304707",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1841081077304707",
+                "publishedAt": "2026-09-06T16:56:22.841Z"
               }
             ],
-            "scheduledFor": "2026-09-06T15:55:35.105Z",
+            "scheduledFor": "2026-09-06T16:56:11.201Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -706,14 +1021,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:55:36.112Z",
-            "updatedAt": "2026-09-06T15:55:48.040Z",
+            "createdAt": "2026-09-06T16:56:12.328Z",
+            "updatedAt": "2026-09-06T16:56:23.027Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:55:36.190Z"
+            "publishingClaimedAt": "2026-09-06T16:56:12.433Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T15:55:48.192725+00:00"
+        "attempted_at": "2026-09-06T16:56:23.207694+00:00"
       },
       "instagram": {
         "success": true,
@@ -726,15 +1041,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9d8d1f51764a880e912278",
+            "_id": "6a9d9b5d5fe11bec973cf64f",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "पुतिन से मिलने के ठीक बाद अचानक कीव पहुंचे अमेरिकी दूत! 🚨\n\nरूस में अहम चर्चाओं के बाद अमेरिकी प्रतिनिधिमंडल सीधे ज़ेलेंस्की से मिलने यूक्रेन पहुंच गया है। इस अचानक हुए दौरे के पीछे की असली वजह क्या है?\n\nवीडियो पूरा देखें। शेयर करें ताकि और लोग भी जान सकें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics",
+            "content": "जर्मनी के चुनाव में जो हुआ, उसने पूरे यूरोप की राजनीति में हलचल मचा दी है। 🇩🇪\n\nएग्जिट पोल के मुताबिक, पूर्वी राज्य में धुर-दक्षिणपंथी पार्टी ने इतिहास रचते हुए बड़ी जीत हासिल की है। इस चौंकाने वाले नतीजे ने यूरोपीय राजनीति के समीकरण पूरी तरह बदल दिए हैं।\n\nआपकी इस पर क्या राय है? शेयर करें.\n\n#GermanyElections #WorldNews #GermanPolitics #BreakingNews #InternationalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788710173410_xm72kjgc_us_envoys_kyiv_zelensky_talks.mp4",
-                "_id": "6a9d8d1f51764a880e912279"
+                "url": "https://media.zernio.com/media/1788713813344_2euc7nlg_germany_far_right_afd_election_win_global.mp4",
+                "_id": "6a9d9b5d5fe11bec973cf650"
               }
             ],
             "platforms": [
@@ -751,14 +1066,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-06T15:56:14.271Z",
+                "scheduledFor": "2026-09-06T16:56:59.819Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "353c34c95c0aa572b6df247cfbe01bb8",
-                "_id": "6a9d8d1f51764a880e91227a"
+                "contentHash": "51f16e8dff4c6efb0c77c22977fedffc",
+                "_id": "6a9d9b5d5fe11bec973cf651"
               }
             ],
-            "scheduledFor": "2026-09-06T15:56:14.271Z",
+            "scheduledFor": "2026-09-06T16:56:59.819Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -770,14 +1085,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-06T15:56:15.375Z",
-            "updatedAt": "2026-09-06T15:56:17.959Z",
+            "createdAt": "2026-09-06T16:57:01.294Z",
+            "updatedAt": "2026-09-06T16:57:03.493Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-06T15:56:15.454Z"
+            "publishingClaimedAt": "2026-09-06T16:57:01.445Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-06T15:56:18.400787+00:00"
+        "attempted_at": "2026-09-06T16:57:03.908920+00:00"
       }
     }
   }
