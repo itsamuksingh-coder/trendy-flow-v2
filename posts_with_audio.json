@@ -1,313 +1,397 @@
 [
   {
-    "topic_label": "delhi_satya_niketan_building_collapse",
+    "topic_label": "mirzapur_the_movie_box_office_50_crore",
     "virality_score": 9,
-    "reason": "Major breaking news about a building collapse in Delhi with people trapped, high visual impact and urgency.",
+    "reason": "Massive box office milestone for the highly anticipated Mirzapur film adaptation.",
     "region": "india",
-    "headline": "LIVE: दिल्ली में इमारत ढही, मलबे में कई छात्रों के दबे होने की आशंका",
-    "source_summary": "LIVE: दक्षिण दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई. बारिश के बीच इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका जताई जा रही है. स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां तुरंत मौके पर पहुंची. फिलहाल राहत और बचाव कार्य चलाया जा रहा है.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-satya-niketan-building-collapseed-people-feared-trapped-ntc-drmt-rpti-2637469-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:15:14+05:30",
-    "hook": "दिल्ली में बड़ा हादसा! बारिश के बीच ढही इमारत, मलबे में कई लोगों के दबे होने की आशंका!",
-    "script_hi": "दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई। बारिश के बीच हुए इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका है। सूचना मिलते ही स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां मौके पर पहुंच गई हैं। फिलहाल युद्धस्तर पर राहत और बचाव कार्य चलाया जा रहा है।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन इलाके में एक इमारत अचानक भरभराकर गिर गई। बारिश के बीच हुए इस दर्दनाक हादसे में कई लोगों के मलबे के नीचे फंसे होने की आशंका है। सूचना मिलते ही स्थानीय पुलिस और फायर ब्रिगेड की कई गाड़ियां मौके पर पहुंच गई हैं। फिलहाल युद्धस्तर पर राहत और बचाव कार्य चलाया जा रहा है।",
-    "title": "दिल्ली के सत्य निकेतन में ढही इमारत, कई लोगों के दबे होने की आशंका",
-    "caption": "दक्षिण दिल्ली के सत्य निकेतन इलाके में बारिश के बीच एक इमारत गिर गई। राहत और बचाव कार्य जारी है। #DelhiBuildingCollapse #SatyaNiketan #DelhiNews #BreakingNews #RescueOperation",
-    "hashtags": [
-      "DelhiBuildingCollapse",
-      "SatyaNiketan",
-      "DelhiNews",
-      "BreakingNews",
-      "RescueOperation",
-      "Delhi"
-    ],
-    "visual_queries": [
-      "collapsed building debris India",
-      "fire brigade rescue operation India",
-      "police barricade street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "collapsed building debris India",
-        "credit": "Dhong Wang",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade street India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban rescue team India",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802053/pexels-photo-17802053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd gathered street India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12936001/pexels-photo-12936001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency services flashing lights",
-        "credit": "Jonathan Cooper",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38944962/pexels-photo-38944962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rainy day Delhi street",
-        "credit": "Switabh Shrivastava",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दिल्ली में बड़ा हादसा! बारिश के बीच ढही इमारत, मलबे में दबे छात्र 🚨",
-        "caption": "दिल्ली के सत्य निकेतन इलाके में बारिश के बीच अचानक एक इमारत ढह गई। मलबे के नीचे कई छात्रों के दबे होने की आशंका जताई जा रही है, और राहत-बचाव कार्य तेजी से जारी है।\n\nप्रशासन मौके पर मौजूद है और हर मुमकिन कोशिश की जा रही है। पूरी जानकारी के लिए वीडियो अंत तक देखें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दिल्ली के सत्य निकेतन में बड़ा हादसा! 🚨 बारिश के बीच अचानक इमारत ढह गई और मलबे में कई छात्र दब गए। \n\nरेस्क्यू ऑपरेशन जारी है। क्या है पूरा मामला, जानने के लिए वीडियो देखें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दिल्ली से इस वक्त की बड़ी खबर सामने आ रही है। सत्य निकेतन इलाके में बारिश के दौरान एक इमारत अचानक ढह गई, जिससे वहां हड़कंप मच गया। मलबे के नीचे कई छात्रों के दबे होने की आशंका है और फिलहाल प्रशासन की टीम मौके पर रेस्क्यू में जुटी है।\n\nहालात पर लगातार नजर रखी जा रही है। पूरी खबर के लिए वीडियो देखें और शेयर करें।\n\n#delhi #buildingcollapse #delhinews #satyniketan #breakingnews"
-      },
-      "hashtags": [
-        "delhi",
-        "buildingcollapse",
-        "delhinews",
-        "satyniketan",
-        "breakingnews"
-      ]
-    },
-    "audio_path": "audio/delhi_satya_niketan_building_collapse.wav",
-    "audio_duration_sec": 20.94
-  },
-  {
-    "topic_label": "madhya_pradesh_spurious_liquor_deaths",
-    "virality_score": 8,
-    "reason": "Tragic mass casualty event due to illegal liquor in MP, strong public safety and outrage appeal.",
-    "region": "india",
-    "headline": "रात में नशा किया, सुबह तबीयत खराब... आखिर उस शराब में क्या था?",
-    "source_summary": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली या अवैध शराब पीने के बाद 9 लोगों की मौत का मामला सामने आया है. बंडा क्षेत्र के कई गांवों में शनिवार रात शराब पीने के बाद लोगों की तबीयत बिगड़ गई. रविवार सुबह उन्हें अस्पताल पहुंचाया गया, जहां 9 लोगों को मृत घोषित कर दिया गया. प्रशासन ने प्रभावित गांवों में स्क्रीनिंग शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/sagar-toxic-liquor-tragedy-9-dead-suspected-poisonous-alcohol-lcla-strc-2637496-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:50:57+05:30",
-    "hook": "मध्य प्रदेश में जहरीली शराब का कहर! नौ लोगों की मौत से हड़कंप।",
-    "script_hi": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली शराब पीने से नौ लोगों की मौत हो गई है। बंडा क्षेत्र के गांवों में शनिवार रात शराब पीने से लोगों की तबीयत बिगड़ी, और रविवार सुबह अस्पताल में उन्हें मृत घोषित कर दिया गया। प्रशासन ने प्रभावित इलाकों में स्क्रीनिंग शुरू कर दी है।",
-    "tts_text_hi": "मध्य प्रदेश के सागर जिले में कथित तौर पर जहरीली शराब पीने से नौ लोगों की मौत हो गई है। बंडा क्षेत्र के गांवों में शनिवार रात शराब पीने से लोगों की तबीयत बिगड़ी, और रविवार सुबह अस्पताल में उन्हें मृत घोषित कर दिया गया। प्रशासन ने प्रभावित इलाकों में स्क्रीनिंग शुरू कर दी है।",
-    "title": "मध्य प्रदेश के सागर में जहरीली शराब से नौ लोगों की मौत",
-    "caption": "मध्य प्रदेश के सागर जिले में जहरीली शराब पीने से नौ लोगों की मौत, प्रशासन सतर्क। #MadhyaPradesh #SagarNews #BreakingNews #SpuriousLiquor #IndiaNews",
-    "hashtags": [
-      "MadhyaPradesh",
-      "SagarNews",
-      "BreakingNews",
-      "SpuriousLiquor",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "MadhyaPradesh village India",
-      "police investigation India",
-      "hospital building India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24781984/pexels-photo-24781984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "MadhyaPradesh village India",
-        "credit": "Muhammed zeya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12092934/pexels-photo-12092934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital building India",
-        "credit": "General Kenobi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17748004/pexels-photo-17748004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rural India village life",
-        "credit": "Monojit Dutta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11934967/pexels-photo-11934967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "village crowd grief India",
-        "credit": "Hurrah suhail",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "एमपी के सागर में जहरीली शराब से 9 मौतें! आखिर उस बोतल में क्या था? 🚨",
-        "caption": "मध्य प्रदेश के सागर में जहरीली शराब पीने से 9 लोगों की दर्दनाक मौत हो गई। ☠️\n\nरात में पार्टी, सुबह तबीयत बिगड़ी और कुछ ही घंटों में सांसें थम गईं। प्रशासन ने जांच शुरू कर दी है पर परिवारों का रो-रोकर बुरा हाल है।\n\nपूरी कहानी देखें और अपनों को सतर्क करें।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मध्य प्रदेश के सागर में जहरीली शराब से 9 लोगों की मौत! ☠️\n\nरात का नशा सुबह मौत का पैगाम बनकर आया। एक के बाद एक 9 जिंदगियां खत्म होने से पूरे इलाके में कोहराम मचा है।\n\nक्या ऐसी अवैध फैक्ट्रियों पर कभी लगाम लगेगी? अपनी राय कमेंट में बताएं।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मध्य प्रदेश के सागर जिले से दिल दहला देने वाली खबर सामने आई है। यहाँ जहरीली शराब पीने से 9 लोगों की जान चली गई है। 🚨\n\nरात में शराब पीने के बाद सुबह अचानक सबकी तबीयत बिगड़ने लगी और अस्पताल पहुँचने से पहले ही कई लोगों ने दम तोड़ दिया। इस घटना के बाद से प्रशासन में हड़कंप मचा हुआ है और अवैध शराब के अड्डों पर छापेमारी तेज कर दी गई है।\n\nऐसी लापरवाही पर आपका क्या कहना है? वीडियो पूरा देखकर अपनी राय साझा करें।\n\n#MadhyaPradeshNews #SagarNews #SpuriousLiquor #CrimeNews #MPNews"
-      },
-      "hashtags": [
-        "MadhyaPradeshNews",
-        "SagarNews",
-        "SpuriousLiquor",
-        "CrimeNews",
-        "MPNews"
-      ]
-    },
-    "audio_path": "audio/madhya_pradesh_spurious_liquor_deaths.wav",
-    "audio_duration_sec": 19.57
-  },
-  {
-    "topic_label": "mirzapur_movie_theatre_fight",
-    "virality_score": 8,
-    "reason": "Viral brawl inside cinema hall during 'Mirzapur The Movie' screening, highly relatable pop-culture chaos.",
-    "region": "india",
-    "headline": "&#039;मिर्जापुर द मूवी&#039;: थिएटर में भिड़े फैंस, लात-घूसों-चप्पलों से की मारपीट",
-    "source_summary": "'मिर्जापुर द मूवी' को फैंस का जबरदस्त रिस्पॉन्स मिल रहा है. बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. फिल्म के भौकाल के बीच थिएटर से एक वीडियो वायरल हो रहा है, जिसने हर किसी को हैरान कर दिया है.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-movie-theatre-inside-video-munna-guddu-fans-clash-with-belts-chappals-kicks-viral-tmovf-dskc-2637403-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T12:26:52+05:30",
-    "hook": "मिर्जापुर द मूवी के दौरान थिएटर में जमकर चले लात-घूसे!",
-    "script_hi": "मिर्जापुर द मूवी को दर्शकों का जबरदस्त रिस्पॉन्स मिल रहा है और बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. लेकिन इस बीच सिनेमाघर से एक हैरान करने वाला वीडियो सामने आया है, जहां फिल्म देखने पहुंचे फैंस आपस में ही भिड़ गए. थिएटर के अंदर लात-घूसे और चप्पलें चलने का यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई हैरान है.",
-    "tts_text_hi": "मिर्जापुर द मूवी को दर्शकों का जबरदस्त रिस्पॉन्स मिल रहा है और बॉक्स ऑफिस पर फिल्म अच्छी कमाई कर रही है. लेकिन इस बीच सिनेमाघर से एक हैरान करने वाला वीडियो सामने आया है, जहां फिल्म देखने पहुंचे फैंस आपस में ही भिड़ गए. थिएटर के अंदर लात-घूसे और चप्पलें चलने का यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई हैरान है.",
-    "title": "मिर्जापुर द मूवी: थिएटर में भिड़े फैंस, लात-घूसों से मारपीट",
-    "caption": "मिर्जापुर द मूवी के दौरान थिएटर में फैंस के बीच मारपीट, वीडियो वायरल।",
+    "headline": "Mirzapur The Movie Box Office Collection Day 2: गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर तूफान, दो दिन में 50 करोड़ पार हुई मिर्जापुर द मूवी",
+    "source_summary": "Mirzapur The Movie Collection Day 2: प्राइम वीडियो की सीरीज मिर्जापुर पर बनीं फिल्म मिर्जापुर: द मूवी भारतीय सिनेमा की सबसे ज्यादा इंतजार की जाने वाली ही नहीं बल्कि सबसे बड़ी फिल्मों में से एक थी.",
+    "source_url": "https://ndtv.in/bollywood/mirzapur-the-movie-box-office-collection-day-2-guddu-pandit-kalin-bhaiya-storm-at-box-office-on-saturday-as-mirzapur-movie-crossed-50-crore-in-two-day-12007851#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 06 Sep 2026 13:29:42 +0530",
+    "hook": "गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर ऐसा तूफान आया कि फिल्म ने दो ही दिनों में पचास करोड़ का आंकड़ा पार कर लिया!",
+    "script_hi": "मिर्जापुर द मूवी ने बॉक्स ऑफिस पर धमाल मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये से ज्यादा की कमाई कर ली है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
+    "tts_text_hi": "मिर्जापुर द मूवी ने बॉक्स ऑफिस पर धमाल मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये से ज्यादा की कमाई कर ली है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
+    "title": "Mirzapur The Movie Box Office Collection Day 2",
+    "caption": "मिर्जापुर द मूवी ने बॉक्स ऑफिस पर मचाया धमाल, दो दिनों में पचास करोड़ के पार पहुंची कमाई।",
     "hashtags": [
       "MirzapurTheMovie",
       "Mirzapur",
-      "ViralVideo",
-      "Bollywood",
-      "BoxOffice",
-      "News",
-      "India"
+      "BoxOfficeCollection",
+      "GudduBhaiya",
+      "KaleenBhaiya",
+      "BollywoodNews",
+      "PrimeVideo"
     ],
     "visual_queries": [
-      "Indian cinema hall interior India",
-      "angry crowd fighting India",
-      "viral video smartphone screen India"
+      "Indian cinema hall audience India",
+      "crowded movie theater India",
+      "Bollywood movie celebration India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video from a theatre which requires the actual real footage, as generic stock B-roll cannot accurately stand in for this specific incident.",
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8491607/8491607-hd_720_1280_50fps.mp4",
+        "source": "pexels",
+        "query": "Bollywood movie celebration India",
+        "credit": "Thirdman",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7233647/7233647-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "crowded movie screening India",
+        "credit": "Pavel Danilyuk",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cinema hall interior India",
+        "query": "Indian cinema hall audience India",
         "credit": "İNZİLE DAL",
-        "duration_sec": 5
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7991229/pexels-photo-7991229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cinema hall crowd fight",
+        "query": "crowded movie theater India",
+        "credit": "Keith Lobo",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_e73f8a215e.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian box office counter",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7991149/pexels-photo-7991149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people cheering cinema hall",
         "credit": "Tima Miroshnichenko",
-        "duration_sec": 5
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33835031/pexels-photo-33835031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7234476/pexels-photo-7234476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "viral video smartphone screen India",
-        "credit": "Sharath G.",
-        "duration_sec": 5
+        "query": "movie ticket booking queue",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 3.6
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान! दो दिन में 50 करोड़ पार 🎬",
+        "caption": "गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर ऐसा तूफान आया कि फिल्म ने दो ही दिनों में पचास करोड़ का आंकड़ा पार कर लिया! 💥\n\nरिलीज होते ही थिएटर्स में फैंस की भारी भीड़ उमड़ पड़ी है। अली फज़ल और पंकज त्रिपाठी की जोड़ी ने पर्दे पर फिर से वही भौकाल मचा दिया है जो सीरीज में देखा गया था।\n\nक्या आपने यह फिल्म देखी? कमेंट में बताएं कैसी लगी! 👇\n\n#MirzapurTheMovie #MirzapurBoxOffice #GudduBhaiya #KaleenBhaiya #BollywoodNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दो दिन में 50 करोड़ पार! 🤯\n\nगुड्डू पंडित और कालीन भैया का जलवा थिएटर्स में साफ दिख रहा है। जनता का ऐसा रिस्पॉन्स शायद ही किसी ने सोचा होगा।\n\nपूरी कहानी वीडियो में देखें और शेयर करें अपने मिर्जापुर फैंस दोस्तों के साथ। 🎥\n\n#MirzapurTheMovie #MirzapurBoxOffice #GudduBhaiya #KaleenBhaiya #BollywoodNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सिर्फ दो दिन और कमाई सीधे पचास करोड़ के पार! 💥\n\nमिर्जापुर द मूवी ने बॉक्स ऑफिस पर जो गदर काटा है, उसने ट्रेड पंडितों को भी हैरान कर दिया है। गुड्डू भैया और कालीन भैया की टक्कर ने सिनेमाघरों में फिर से भौकाल टाइट कर दिया है।\n\nक्या आप भी देखने जा रहे हैं इसे इस वीकेंड? हमें कमेंट्स में बताएं। 🎬\n\n#MirzapurTheMovie #MirzapurBoxOffice #GudduBhaiya #KaleenBhaiya #BollywoodNews"
+      },
+      "hashtags": [
+        "MirzapurTheMovie",
+        "MirzapurBoxOffice",
+        "GudduBhaiya",
+        "KaleenBhaiya",
+        "BollywoodNews"
+      ]
+    },
+    "audio_path": "audio/mirzapur_the_movie_box_office_50_crore.wav",
+    "audio_duration_sec": 15.87
   },
   {
-    "topic_label": "pm_modi_srcc_homeopathic_naxal_remark",
+    "topic_label": "gujarat_iifl_manager_murder_loan",
     "virality_score": 8,
-    "reason": "High-profile political speech by PM Modi at SRCC using catchy metaphors, sparking widespread debate.",
+    "reason": "Chilling crime story where a couple murdered a finance manager to avoid a loan.",
     "region": "india",
-    "headline": "PM बोले, ‘दिमागी नक्सल’ की होम्योपैथिक गोली की असर दिखा रही",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में ‘दिमागी नक्सल’ शब्द को लेकर हुए विवाद पर आलोचकों को जवाब दिया। SRCC के शताब्दी समारोह में उन्होंने इसे ‘होम्योपैथिक गोली’ बताते हुए कहा कि इसके बाद ‘दिमागी नक्सल’ सामने आने लगे हैं।",
-    "source_url": "https://www.aajtak.in/short-videos/video/pm-modi-speech-on-mental-naxal-controversy-homeopathic-medicine-example-indian-politics-independence-day-srcc-social-security-mmtc-2637470-2026-09-06?utm_source=rssfeed",
+    "headline": "लोन चुकाना न पड़े इसलिए प्रेमी-प्रेमिका ने IIFL मैनेजर को मार डाला",
+    "source_summary": "गुजरात के प्रांतिज में IIFL फाइनेंस के मैनेजर की हत्या की गुत्थी पुलिस ने चंद घंटों में सुलझा दी. जांच में सामने आया कि 6 लाख रुपये का लोन चुकाने से बचने और गिरवी रखा सोना वापस पाने के लिए प्रेमी-प्रेमिका ने साजिश रची थी. महिला ने मैनेजर को बुलाया, प्रेमी ने कार में धारदार हथियार से उनकी हत्या कर दी.",
+    "source_url": "https://www.aajtak.in/india/gujarat/story/gujarat-iifl-manager-murder-loan-repayment-lover-couple-lclcn-rptc-2637589-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:18:13+05:30",
-    "hook": "दिमागी नक्सल पर प्रधानमंत्री नरेंद्र मोदी का बड़ा बयान सामने आया है!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में दिमागी नक्सल शब्द को लेकर हुए विवाद पर आलोचकों को करारा जवाब दिया है। श्रीराम कॉलेज ऑफ़ कॉमर्स के शताब्दी समारोह में उन्होंने इसे होम्योपैथिक गोली बताते हुए कहा कि इसके असर से अब दिमागी नक्सल खुलकर सामने आने लगे हैं।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी ने स्वतंत्रता दिवस भाषण में दिमागी नक्सल शब्द को लेकर हुए विवाद पर आलोचकों को करारा जवाब दिया है। श्रीराम कॉलेज ऑफ़ कॉमर्स के शताब्दी समारोह में उन्होंने इसे होम्योपैथिक गोली बताते हुए कहा कि इसके असर से अब दिमागी नक्सल खुलकर सामने आने लगे हैं।",
-    "title": "PM Modi on Brain Na**al",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी ने 'दिमागी नक्सल' वाले बयान पर आलोचकों को दिया जवाब, SRCC के समारोह में कही बड़ी बात।",
+    "published": "2026-09-06T16:41:04+05:30",
+    "hook": "लोन न चुकाना पड़े, इसलिए रची खौफनाक साजिश!",
+    "script_hi": "गुजरात के प्रांतिज में आईआईएफएल फाइनेंस के मैनेजर की हत्या की गुत्थी पुलिस ने चंद घंटों में सुलझा ली है। छह लाख रुपये का लोन चुकाने से बचने और गिरवी रखा सोना वापस पाने के लिए प्रेमी-प्रेमिका ने मिलकर मैनेजर को मौत के घाट उतार दिया। महिला ने मैनेजर को बुलाया और प्रेमी ने कार में ही धारदार हथियार से उनकी हत्या कर दी।",
+    "tts_text_hi": "गुजरात के प्रांतिज में आईआईएफएल फाइनेंस के मैनेजर की हत्या की गुत्थी पुलिस ने चंद घंटों में सुलझा ली है। छह लाख रुपये का लोन चुकाने से बचने और गिरवी रखा सोना वापस पाने के लिए प्रेमी-प्रेमिका ने मिलकर मैनेजर को मौत के घाट उतार दिया। महिला ने मैनेजर को बुलाया और प्रेमी ने कार में ही धारदार हथियार से उनकी हत्या कर दी।",
+    "title": "लोन चुकाना न पड़े इसलिए प्रेमी-प्रेमिका ने की मैनेजर की हत्या",
+    "caption": "गुजरात के प्रांतिज में लोन और सोना वापस पाने के चक्कर में प्रेमी-प्रेमिका ने आईआईएफएल फाइनेंस के मैनेजर की हत्या कर दी। पुलिस ने मामले का खुलासा कर दिया है।",
     "hashtags": [
-      "NarendraModi",
-      "PMModi",
-      "SRCC",
-      "IndianPolitics",
-      "BreakingNews",
-      "NewsShorts",
-      "HindiNews"
+      "GujaratCrime",
+      "PrantijNews",
+      "CrimeNews",
+      "IndiaNews",
+      "PoliceInvestigation",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "Narendra Modi India speech",
-      "Delhi university college India",
-      "Indian politician press conference"
+      "Indian police station building",
+      "police investigation India",
+      "Indian city street car"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेन्द्र मोदी",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "crime investigation police India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_855caf99d3.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian police station building",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19927651/pexels-photo-19927651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street car",
+        "credit": "Kalpit Visavadiya",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31605854/pexels-photo-31605854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "gold jewelry store India",
+        "credit": "The Glorious  Studio",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "courtroom legal documents India",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "लोन न चुकाना पड़े, इसलिए रची खौफनाक साजिश! | IIFL Manager Murder Case",
+        "caption": "लोन न चुकाना पड़े, इसलिए रची खौफनाक साजिश! 🚨\n\nमहज कुछ पैसों और कर्ज के जाल से बचने के लिए प्रेमी-प्रेमिका ने ऐसा खौफनाक कदम उठाया कि सुनने वालों की रूह कांप जाए। IIFL के मैनेजर को रास्ते से हटाने के लिए जो प्लान बनाया गया, उसने पुलिस के भी होश उड़ा दिए।\n\nआखिर कैसे हुआ इस सनसनीखेज वारदात का खुलासा? पूरी कहानी जानने के लिए वीडियो अंत तक देखें। 👇\n\n#IIFLManagerMurder #CrimeNews #LoanFraudCrime #ShockingNews #PoliceInvestigation"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "लोन न चुकाना पड़े, इसलिए रची खौफनाक साजिश! 🚨\n\nकर्ज चुकाने से बचने के लिए प्रेमी-प्रेमिका ने IIFL मैनेजर की ही हत्या कर दी। इस खौफनाक वारदात के पीछे की सच्चाई जान पुलिस भी हैरान रह गई।\n\nक्या आपके शहर में भी बढ़ रहा है ऐसा अपराध? अपनी राय कमेंट में बताएं और वीडियो शेयर करें।\n\n#IIFLManagerMurder #CrimeNews #LoanFraudCrime #ShockingNews #PoliceInvestigation"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "लोन न चुकाना पड़े, इसलिए रची खौफनाक साजिश! 🛑\n\nपैसों के चक्कर में इंसान किस हद तक गिर सकता है, इसकी बानगी इस मामले में देखने को मिली। IIFL के मैनेजर को सिर्फ इसलिए मौत के घाट उतार दिया गया ताकि उसे लोन का पैसा न चुकाना पड़े।\n\nप्रेमी-प्रेमिका के इस खतरनाक खेल का पर्दाफाश कैसे हुआ? जानिए पूरी कहानी इस वीडियो में।\n\n#IIFLManagerMurder #CrimeNews #LoanFraudCrime #ShockingNews #PoliceInvestigation"
+      },
+      "hashtags": [
+        "IIFLManagerMurder",
+        "CrimeNews",
+        "LoanFraudCrime",
+        "ShockingNews",
+        "PoliceInvestigation"
+      ]
+    },
+    "audio_path": "audio/gujarat_iifl_manager_murder_loan.wav",
+    "audio_duration_sec": 23.14
+  },
+  {
+    "topic_label": "kanpur_up_police_recruitment_twin_fraud",
+    "virality_score": 8,
+    "reason": "Bizarre twin brother fraud caught during physical screening in police recruitment.",
+    "region": "india",
+    "headline": "UP पुलिस भर्ती में जुड़वां भाइयों का अनोखा फर्जीवाड़ा",
+    "source_summary": "कानपुर में पुलिस भर्ती की शारीरिक जांच के दौरान जुड़वां भाइयों का फर्जीवाड़ा पकड़ा गया. भूपेंद्र की लंबाई 166.4 सेंटीमीटर होने पर वह अयोग्य हुआ तो दूसरी जांच में उसकी जगह जुड़वां भाई भूपेश पहुंच गया. दूसरी बार लंबाई 169.6 सेंटीमीटर मिलने पर अधिकारियों को शक हुआ. बायोमेट्रिक जांच में फिंगरप्रिंट और रेटिना नहीं मिले. पूछताछ के बाद दोनों भाइयों को गिरफ्तार कर लिया गया और कई दस्तावेज बरामद हुए.",
+    "source_url": "https://www.aajtak.in/short-videos/video/kanpur-police-recruitment-twin-brothers-fraud-biometric-fingerprint-retina-medical-height-test-fake-candidate-arrested-mmta-2637551-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T16:15:00+05:30",
+    "hook": "उत्तर प्रदेश पुलिस भर्ती में जुड़वां भाइयों का हैरान करने वाला फर्जीवाड़ा!",
+    "script_hi": "उत्तर प्रदेश पुलिस भर्ती परीक्षा में कानपुर से एक अनोखा मामला सामने आया है। शारीरिक जांच के दौरान जुड़वां भाइयों ने अधिकारियों को धोखा देने की कोशिश की। भूपेंद्र की लंबाई कम होने पर वह अयोग्य हो गया, तो उसकी जगह उसका जुड़वां भाई भूपेश जांच के लिए पहुंच गया। बायोमेट्रिक जांच में फिंगरप्रिंट और रेटिना मैच न होने पर भेद खुला। पुलिस ने दोनों भाइयों को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "उत्तर प्रदेश पुलिस भर्ती परीक्षा में कानपुर से एक अनोखा मामला सामने आया है। शारीरिक जांच के दौरान जुड़वां भाइयों ने अधिकारियों को धोखा देने की कोशिश की। भूपेंद्र की लंबाई कम होने पर वह अयोग्य हो गया, तो उसकी जगह उसका जुड़वां भाई भूपेश जांच के लिए पहुंच गया। बायोमेट्रिक जांच में फिंगरप्रिंट और रेटिना मैच न होने पर भेद खुला। पुलिस ने दोनों भाइयों को गिरफ्तार कर लिया है।",
+    "title": "UP Police Recruitment Twin Fraud",
+    "caption": "कानपुर में यूपी पुलिस भर्ती परीक्षा के दौरान जुड़वां भाइयों का अनोखा फर्जीवाड़ा पकड़ा गया। बायोमेट्रिक जांच में पोल खुली।",
+    "hashtags": [
+      "#UPPolice",
+      "#KanpurNews",
+      "#Fraud",
+      "#PoliceRecruitment",
+      "#UttarPradesh",
+      "#CrimeNews"
+    ],
+    "visual_queries": [
+      "Indian police station building India",
+      "police biometric verification India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "police interrogation room India",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11591912/pexels-photo-11591912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police biometric verification India",
+        "credit": "Towfiqu barbhuiya",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "men arrested handcuffs India",
+        "credit": "Kindel Media",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8382600/pexels-photo-8382600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police verification process",
+        "credit": "cottonbro studio",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "court trial judge gavel India",
+        "credit": "Sora Shimazaki",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एक की जगह दूसरे ने दी परीक्षा, पुलिस भर्ती में जुड़वां भाइयों का खेल खत्म 😲",
+        "caption": "उत्तर प्रदेश पुलिस भर्ती परीक्षा में एक ऐसा फर्जीवाड़ा सामने आया जिसे देखकर अधिकारी भी हैरान रह गए। 🤯\n\nएक भाई की जगह दूसरा जुड़वां भाई परीक्षा देने पहुंच गया था। बायोमेट्रिक जांच में अंगूठे के निशान मैच न होने पर दोनों पकड़े गए। \n\nपूरी कहानी वीडियो में देखें।\n\n#UPPolice #UPPoliceBharti #PoliceExam #CrimeNews #UttarPradesh"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश पुलिस भर्ती परीक्षा में एक ऐसा फर्जीवाड़ा सामने आया जिसे देखकर अधिकारी भी हैरान रह गए। 🤯\n\nएक भाई की जगह दूसरा जुड़वां भाई परीक्षा देने पहुंच गया था। बायोमेट्रिक जांच में पोल खुली तो दोनों धरे गए।\n\nक्या लगता है, ऐसे मामलों में सजा क्या होनी चाहिए? कमेंट में बताएं।\n\n#UPPolice #UPPoliceBharti #PoliceExam #CrimeNews #UttarPradesh"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश पुलिस भर्ती परीक्षा में एक ऐसा अनोखा फर्जीवाड़ा सामने आया है जिसने सबको हैरान कर दिया है। 🤯\n\nशक्ल एक जैसी होने का फायदा उठाकर एक भाई की जगह दूसरा जुड़वां भाई परीक्षा हॉल में बैठ गया था। लेकिन बायोमेट्रिक और आधार वेरिफिकेशन के वक्त उनका यह शातिर खेल पकड़ा गया।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय दें।\n\n#UPPolice #UPPoliceBharti #PoliceExam #CrimeNews #UttarPradesh"
+      },
+      "hashtags": [
+        "UPPolice",
+        "UPPoliceBharti",
+        "PoliceExam",
+        "CrimeNews",
+        "UttarPradesh"
+      ]
+    },
+    "audio_path": "audio/kanpur_up_police_recruitment_twin_fraud.wav",
+    "audio_duration_sec": 27.23
+  },
+  {
+    "topic_label": "bittu_tabahi_river_cleaning_netherlands_job_offer",
+    "virality_score": 8,
+    "reason": "Inspirational viral story of an Indian youth getting an international job offer for river cleanup.",
+    "region": "india",
+    "headline": "एमपी के 'सफाई किंग' बिट्टू तबाही को नीदरलैंड से जॉब ऑफर! क्रिकेटर पीटरसन भी हुए मुरीद, लिखा- WELL DONE! Bhai",
+    "source_summary": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही की मेहनत को अंतरराष्ट्रीय पहचान मिली है. अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की प्रतिष्ठित संस्था The Ocean Cleanup ने जॉब ऑफर दिया. पूर्व इंग्लैंड क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए WELL DONE! Bhai लिखा.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/bittu-tabahi-ocean-cleanup-job-offer-kevin-pietersen-praises-mp-river-cleaning-hero-ajnar-river-cleanup-12008291#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 06 Sep 2026 10:51:15 +0530",
+    "hook": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर!",
+    "script_hi": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही को नीदरलैंड से मिला जॉब ऑफर। अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की संस्था द ओशन क्लीनअप ने बुलाया। इंग्लैंड के पूर्व क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए लिखा वेल डन भाई।",
+    "tts_text_hi": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही को नीदरलैंड से मिला जॉब ऑफर। अजनार नदी की सफाई अभियान से चर्चा में आए बिट्टू को नीदरलैंड की संस्था द ओशन क्लीनअप ने बुलाया। इंग्लैंड के पूर्व क्रिकेटर केविन पीटरसन ने भी उनकी तारीफ करते हुए लिखा वेल डन भाई।",
+    "title": "एमपी के बिट्टू तबाही को नीदरलैंड से जॉब ऑफर",
+    "caption": "मध्य प्रदेश के राजगढ़ के युवा पर्यावरण कार्यकर्ता बिट्टू तबाही को नीदरलैंड की संस्था द ओशन क्लीनअप से जॉब ऑफर मिला है।",
+    "hashtags": [
+      "MadhyaPradesh",
+      "BittuTabahi",
+      "Environment",
+      "IndiaNews",
+      "GoodNews"
+    ],
+    "visual_queries": [
+      "Indian river cleanup India",
+      "Netherlands corporate office India",
+      "cricket stadium India"
+    ],
+    "named_person": "Kevin Pietersen",
+    "named_person_hi": "केविन पीटरसन",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -315,180 +399,61 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "नरेन्द्र मोदी",
+        "text": "केविन पीटरसन",
         "source": "fallback",
-        "query": "Narendra Modi",
+        "query": "Kevin Pietersen",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian politician press conference",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9169893/pexels-photo-9169893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian politician speech",
-        "credit": "Voters Party International",
+        "query": "Indian river cleanup India",
+        "credit": "Asif pav",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28932304/pexels-photo-28932304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9324405/pexels-photo-9324405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi university college India",
-        "credit": "Rishabh Dhiman",
+        "query": "river cleanup volunteer",
+        "credit": "Lara Jameson",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India",
+        "credit": "Ajay Parab",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "PM Modi on Brain Naxal: 'दिमागी नक्सल' पर पीएम मोदी का बड़ा बयान! 🚨",
-        "caption": "पीएम मोदी ने 'दिमागी नक्सल' को लेकर दिया बड़ा बयान, बोले- होम्योपैथिक गोली भी अब असर दिखा रही है। 🧠\n\nदेश की सुरक्षा और विचारधारा की लड़ाई पर पीएम का यह बयान सोशल मीडिया पर चर्चा का विषय बन गया है।\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "title": "एमपी के सफाई किंग बिट्टू तबाही को नीदरलैंड से मिला जॉब ऑफर! 🇳🇱🧹",
+        "caption": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🧹✨\n\nअपनी अनोखी सफाई शैली से सोशल मीडिया पर छाने वाले 'बिट्टू तबाही' अब इंटरनेशनल हो गए हैं। नीदरलैंड से बड़ा जॉब ऑफर मिलने के साथ-साथ इंग्लैंड के दिग्गज क्रिकेटर केविन पीटरसन भी उनके फैन बन गए हैं और 'Well Done' लिखा है।\n\nपूरी कहानी वीडियो में देखें और बताएं, आपकी इस सफलता पर क्या राय है?\n\n#MadhyaPradesh #BittuTabahi #NetherlandsJob #KevinPietersen #ViralNews"
       },
       "instagram": {
         "title": null,
-        "caption": "'दिमागी नक्सल' पर पीएम मोदी का बड़ा बयान! 🧠\n\nपीएम मोदी ने कहा कि इस सोच के खिलाफ अब धीरे-धीरे असर दिखने लगा है। आखिर किस ओर इशारा कर रहे थे प्रधानमंत्री?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "caption": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🧹🔥\n\nझाड़ू लगाने के अंदाज से इंटरनेट पर तबाही मचाने वाले बिट्टू को अब नीदरलैंड से बुलावा आया है। क्रिकेटर पीटरसन भी तारीफ किए बिना नहीं रह पाए। \n\nशेयर करें इस प्रेरणादायक कहानी को और ऐसे ही और वीडियो के लिए फॉलो करें!\n\n#MadhyaPradesh #BittuTabahi #NetherlandsJob #KevinPietersen #ViralNews"
       },
       "facebook": {
         "title": null,
-        "caption": "'दिमागी नक्सल' पर प्रधानमंत्री नरेंद्र मोदी का बड़ा बयान सामने आया है, जिसने सियासी गलियारों में हलचल बढ़ा दी है। 🧠\n\nपीएम ने कहा कि इस सोच के खिलाफ होम्योपैथिक इलाज की तरह धीरे-धीरे असर दिखने लगा है। आखिर इसका असली मतलब क्या है और किन मुद्दों पर साधा गया निशाना?\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PMModi #BrainNaxal #IndianPolitics #BreakingNews #NarendraModi"
+        "caption": "मध्य प्रदेश के सफाई किंग को मिला विदेश से धमाकेदार जॉब ऑफर! 🇮🇳🤝🇳🇱\n\nजिस अनोखे अंदाज से बिट्टू तबाही ने सोशल मीडिया पर सुर्खियां बटोरी थीं, उसका असर अब सात समंदर पार तक पहुंच गया है। नीदरलैंड से उन्हें नौकरी का ऑफर मिला है, जिसे देखकर हर कोई हैरान है। यहाँ तक कि इंग्लैंड के पूर्व दिग्गज क्रिकेटर केविन पीटरसन भी उनके मुरीद हो गए और सोशल मीडिया पर 'Well Done Bhai' लिखा। \n\nएक आम लड़के की यह कामयाबी साबित करती है कि लगन हो तो दुनिया देखती है। वीडियो पूरा देखें और अपनी प्रतिक्रिया जरूर दें।\n\n#MadhyaPradesh #BittuTabahi #NetherlandsJob #KevinPietersen #ViralNews"
       },
       "hashtags": [
-        "PMModi",
-        "BrainNaxal",
-        "IndianPolitics",
-        "BreakingNews",
-        "NarendraModi"
+        "MadhyaPradesh",
+        "BittuTabahi",
+        "NetherlandsJob",
+        "KevinPietersen",
+        "ViralNews"
       ]
     },
-    "audio_path": "audio/pm_modi_srcc_homeopathic_naxal_remark.wav",
-    "audio_duration_sec": 20.68
-  },
-  {
-    "topic_label": "indonesia_volcano_eruption_stranded_passengers",
-    "virality_score": 7,
-    "reason": "Massive global disaster story involving a major volcanic eruption stranding 150,000 passengers, perfect global brief.",
-    "region": "global",
-    "headline": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-    "source_summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sun, 06 Sep 2026 09:56:39 GMT",
-    "hook": "इंडोनेशिया में ज्वालामुखी विस्फोट से डेढ़ लाख से ज्यादा यात्री फंसे!",
-    "script_hi": "इंडोनेशिया में ज्वालामुखी विस्फोट के बाद हवा में फैल चुकी राख के कारण डेढ़ लाख से ज्यादा एयरलाइन यात्री फंस गए हैं। जकार्ता के पास के एयरस्पेस में राख मिलने के बाद उड़ानें प्रभावित हुई हैं। प्रशासन स्थिति पर नजर बनाए हुए है।",
-    "tts_text_hi": "इंडोनेशिया में ज्वालामुखी विस्फोट के बाद हवा में फैल चुकी राख के कारण डेढ़ लाख से ज्यादा एयरलाइन यात्री फंस गए हैं। जकार्ता के पास के एयरस्पेस में राख मिलने के बाद उड़ानें प्रभावित हुई हैं। प्रशासन स्थिति पर नजर बनाए हुए है।",
-    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे",
-    "caption": "इंडोनेशिया में ज्वालामुखी के भयानक विस्फोट से डेढ़ लाख से ज्यादा यात्री फंसे, जकार्ता के पास एयरस्पेस में फैली राख।",
-    "hashtags": [
-      "#Indonesia",
-      "#Volcano",
-      "#Jakarta",
-      "#BreakingNews",
-      "#NewsUpdates"
-    ],
-    "visual_queries": [
-      "volcano eruption ash Indonesia",
-      "stranded airport passengers Indonesia",
-      "commercial airplane Jakarta"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17404101/pexels-photo-17404101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "volcano eruption ash Indonesia",
-        "credit": "Israel Torres",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27019194/pexels-photo-27019194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stranded airport passengers Indonesia",
-        "credit": "el jusuf",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32002209/pexels-photo-32002209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airplane Jakarta",
-        "credit": "Vija Rindo Pratama",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36130520/pexels-photo-36130520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy international airport crowd",
-        "credit": "Shojol Islam",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17291197/pexels-photo-17291197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flight delay notice board",
-        "credit": "K",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18186764/pexels-photo-18186764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane on airport runway",
-        "credit": "Marius  Gabriel",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29353026/pexels-photo-29353026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "travelers waiting at station",
-        "credit": "Arda Kaykısız",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "इंडोनेशिया में भयंकर ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे! 🌋",
-        "caption": "इंडोनेशिया में 1.5 लाख से ज्यादा यात्री अचानक एयरपोर्ट्स पर फंसे हुए हैं। 🌋\n\nमाउंट लेवोतोबी लाकी-लाकी में खतरनाक विस्फोट के बाद कई इंटरनेशनल फ्लाइट्स रद्द कर दी गईं और आसमान में राख का गुबार छा गया है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "1,50,000 से ज्यादा यात्री बीच रास्ते में फंसे! 🌋 इंडोनेशिया के ज्वालामुखी विस्फोट ने हवाई यात्रा ठप कर दी है।\n\nआसमान में फैली राख और बंद हुए रास्ते की पूरी कहानी वीडियो में देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "इंडोनेशिया में हुए अचानक ज्वालामुखी विस्फोट ने तबाही मचा दी है। 🌋\n\nडेढ़ लाख से ज्यादा यात्री अलग-अलग एयरपोर्ट्स पर फंसे हुए हैं क्योंकि राख के गुबार की वजह से सभी उड़ानें रोक दी गई हैं। प्रशासन लगातार राहत और बचाव काम में जुटा है।\n\nआपकी इस पर क्या राय है, कमेंट में बताएं और वीडियो पूरा देखें।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #TravelUpdate #WorldNews"
-      },
-      "hashtags": [
-        "IndonesiaVolcano",
-        "VolcanicEruption",
-        "BreakingNews",
-        "TravelUpdate",
-        "WorldNews"
-      ]
-    },
-    "audio_path": "audio/indonesia_volcano_eruption_stranded_passengers.wav",
-    "audio_duration_sec": 15.55
+    "audio_path": "audio/bittu_tabahi_river_cleaning_netherlands_job_offer.wav",
+    "audio_duration_sec": 20.55
   }
 ]
