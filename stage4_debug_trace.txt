@@ -1,9 +1,6 @@
-ready_labels: ['gold_silver_sharp_price_drop', 'rewa_hospital_alive_patient_mortuary', 'us_strikes_iranian_oil_tankers', 'womens_asia_cup_india_pakistan_crush']
+ready_labels: ['mirzapur_movie_box_office_50_crore', 'pm_modi_srcc_centenary_metro_ride']
 
-womens_asia_cup_india_pakistan_crush: SUCCESS -> video_path=videos/womens_asia_cup_india_pakistan_crush.mp4 dur=24.532222
-kapurthala_man_found_alive_after_funeral: SKIPPED (not in ready set)
-rewa_hospital_alive_patient_mortuary: SUCCESS -> video_path=videos/rewa_hospital_alive_patient_mortuary.mp4 dur=25.670227
-gold_silver_sharp_price_drop: SUCCESS -> video_path=videos/gold_silver_sharp_price_drop.mp4 dur=29.289887
-narela_property_dealer_murder_cctv: SKIPPED (not in ready set)
-maruti_baleno_facelift_launch: SKIPPED (not in ready set)
-us_strikes_iranian_oil_tankers: SUCCESS -> video_path=videos/us_strikes_iranian_oil_tankers.mp4 dur=26.42322
+mirzapur_movie_box_office_50_crore: SUCCESS -> video_path=videos/mirzapur_movie_box_office_50_crore.mp4 dur=23.389887
+pm_modi_srcc_centenary_metro_ride: SUCCESS -> video_path=videos/pm_modi_srcc_centenary_metro_ride.mp4 dur=31.72322
+saharanpur_illegal_mosque_demolition_iqra_hasan: SKIPPED (not in ready set)
+kerala_car_lorry_accident_engineering_students: SKIPPED (not in ready set)
