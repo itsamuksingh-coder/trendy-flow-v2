@@ -1,39 +1,39 @@
 [
   {
-    "topic_label": "mp_bittu_tabahi_river_cleaning_netherlands_job_offer",
+    "topic_label": "bittu_tabahi_river_cleaning_netherlands_job_offer",
     "virality_score": 8,
-    "reason": "Inspiring viral story of an Indian youth getting a job offer from the Netherlands after cleaning a river single-handedly.",
+    "reason": "Inspirational and viral story of a 20-year-old cleaning a river alone and getting a direct job offer from the Netherlands.",
     "region": "india",
     "headline": "अकेले गंदी नदी साफ करने पर 20 साल के 'बिट्टू तबाही' को मिला नीदरलैंड्स से सीधा ऑफर, ये वीडियो हुआ था वायरल",
     "source_summary": "मध्यप्रदेश के 20 साल के 'बिट्टू तबाही' ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया. उनका ये जबरदस्त काम देखकर 'The Ocean Cleanup' के डच CEO Boyan Slat इतने इंप्रेस हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में जॉब ऑफर कर दिया.",
     "source_url": "https://ndtv.in/zara-hatke/dutch-ceo-offers-job-to-indian-youth-bittu-tabahi-for-cleaning-river-12008765#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Sun, 06 Sep 2026 13:42:36 +0530",
-    "hook": "अकेले गंदी नदी साफ करने वाले युवक को मिला विदेश से सीधा जॉब ऑफर!",
-    "script_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर दी ओशियन क्लीनअप के डच सीईओ बोयान स्लाट इतने इंप्रेस हुए कि बिट्टू को अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
-    "tts_text_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर दी ओशियन क्लीनअप के डच सीईओ बोयान स्लाट इतने इंप्रेस हुए कि बिट्टू को अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
+    "hook": "अकेले गंदी नदी साफ करने वाले युवा को मिला विदेश से बड़ा ऑफर!",
+    "script_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर द ओशन क्लीनअप के डच सीईओ बोयान स्लाट इतने प्रभावित हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
+    "tts_text_hi": "मध्यप्रदेश के बीस साल के बिट्टू तबाही ने अकेले दम पर अजनार नदी का पूरा कचरा साफ कर दिया। उनका यह काम देखकर द ओशन क्लीनअप के डच सीईओ बोयान स्लाट इतने प्रभावित हुए कि, उन्होंने बिट्टू को सीधे अपनी इंटरनेशनल कंपनी में नौकरी का ऑफर दे दिया।",
     "title": "मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स से मिला जॉब ऑफर",
-    "caption": "अकेले गंदी नदी साफ करने वाले मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स की कंपनी से मिला बड़ा ऑफर।",
+    "caption": "अकेले गंदी नदी साफ करने वाले मध्यप्रदेश के बिट्टू तबाही को नीदरलैंड्स की कंपनी से मिला सीधा जॉब ऑफर।",
     "hashtags": [
       "#MadhyaPradesh",
+      "#BittuTabahi",
       "#RiverCleaning",
+      "#TheOceanCleanup",
+      "#Inspiration",
       "#GoodNews",
-      "#InspiringYouth",
-      "#IndiaNews",
-      "#ViralVideo"
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "Indian dirty river polluted water",
-      "Indian young man cleaning river India",
+      "Indian youth cleaning polluted river India",
       "clean river water nature India",
-      "corporate office workspace India"
+      "corporate office meeting India"
     ],
     "named_person": "Boyan Slat",
     "named_person_hi": "बोयान स्लाट",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video and a specific individual, which requires manual verification and custom footage rather than generic stock B-roll.",
+    "flag_reason": "The story relies on a specific viral video and individual whose exact real footage is needed, which generic stock B-roll cannot fully represent.",
     "assets": [
       {
         "type": "text_card",
@@ -43,20 +43,11 @@
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/19291963/19291963-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian young man cleaning river India",
-        "credit": "Monojit Sarkar",
-        "source_duration_sec": 18,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36289959/pexels-photo-36289959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14259956/pexels-photo-14259956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian dirty river polluted water",
-        "credit": "INAAM ASHIQ",
+        "query": "Indian youth cleaning polluted river India",
+        "credit": "Pranit Kundu (diabolicspirit32)",
         "duration_sec": 5
       },
       {
@@ -69,485 +60,48 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "corporate office workspace India",
-        "credit": "Jansher Chakkittammal",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bihar_gopalganj_scorpio_on_roof",
-    "virality_score": 8,
-    "reason": "Bizarre viral story from Bihar where a brand new Scorpio car was hoisted onto a roof using a crane for safety.",
-    "region": "india",
-    "headline": "बिहार में छत पर पार्क की Scorpio, वीडियो हुआ वायरल",
-    "source_summary": "बिहार के गोपालगंज में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया. मीरा टोला गांव में इसके लिए बड़ी क्रेन की मदद ली गई. कार मालिक विदेश में नौकरी करते हैं और ड्राइवर भी विदेश चला गया. परिवार ने सुरक्षा को लेकर यह तरीका अपनाया. घटना का वीडियो सोशल मीडिया पर वायरल है और लोग इसे जुगाड़ बता रहे हैं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/gopalganj-scorpio-rooftop-crane-viral-video-bihar-car-security-unusual-parking-family-safety-story-mmta-2637591-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T17:13:45+05:30",
-    "hook": "बिहार के गोपालगंज से हैरान करने वाली खबर! स्कॉर्पियो गाड़ी को चढ़ाया घर की दूसरी मंजिल की छत पर।",
-    "script_hi": "बिहार के गोपालगंज में एक अनोखा मामला सामने आया है। मीरा टोला गांव में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया। इसके लिए एक बड़ी क्रेन की मदद ली गई। कार मालिक और ड्राइवर दोनों विदेश में हैं, इसलिए परिवार ने सुरक्षा के लिए यह जुगाड़ अपनाया। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-    "tts_text_hi": "बिहार के गोपालगंज में एक अनोखा मामला सामने आया है। मीरा टोला गांव में नई महिंद्रा स्कॉर्पियो क्लासिक को चोरी से बचाने के लिए दूसरी मंजिल की छत पर चढ़ा दिया गया। इसके लिए एक बड़ी क्रेन की मदद ली गई। कार मालिक और ड्राइवर दोनों विदेश में हैं, इसलिए परिवार ने सुरक्षा के लिए यह जुगाड़ अपनाया। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
-    "title": "बिहार के गोपालगंज में छत पर चढ़ाई गई स्कॉर्पियो, वीडियो वायरल",
-    "caption": "बिहार के गोपालगंज में नई महिंद्रा स्कॉर्पियो को चोरी से बचाने के लिए क्रेन की मदद से दूसरी मंजिल की छत पर चढ़ाया गया। वीडियो सोशल मीडिया पर वायरल है।",
-    "hashtags": [
-      "BiharNews",
-      "Gopalganj",
-      "ViralVideo",
-      "Scorpio",
-      "DesiJugad",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian village street India",
-      "Mahindra Scorpio car India",
-      "heavy crane lifting car India",
-      "house rooftop India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies entirely on a specific viral video showing a unique incident (a Scorpio on a rooftop in Gopalganj) that generic stock B-roll cannot accurately represent; the real video/photo must be added manually.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37467257/pexels-photo-37467257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village street India",
-        "credit": "DARKMODE CINEMA",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12937789/pexels-photo-12937789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mahindra Scorpio car India",
-        "credit": "Ruhit Ramzan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "heavy crane lifting car India",
-        "credit": "Action Construction  Equipment Ltd. - ACE",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "house rooftop India",
-        "credit": "Muhammed zeya",
+        "query": "corporate office meeting India",
+        "credit": "Fahad Puthawala",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 19.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "chatgpt_free_users_sponsored_ads",
+    "topic_label": "kbc_akshay_kumar_amitabh_bachchan_purse_fire",
     "virality_score": 8,
-    "reason": "High-interest tech news about ChatGPT introducing sponsored ads for free users, impacting a massive global and Indian audience.",
+    "reason": "Entertaining moment on KBC where Akshay Kumar shows his purse to Amitabh Bachchan and it catches fire.",
     "region": "india",
-    "headline": "ChatGPT पर दिखेंगे Ads! फ्री यूजर्स के लिए आया बड़ा बदलाव",
-    "source_summary": "ChatGPT का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है. अब AI से सवाल पूछने पर जवाब के नीचे Sponsored Ads दिखाई दे सकते हैं. जानिए ChatGPT पर Ads कैसे दिखेंगे, कंपनियां कैसे विज्ञापन चलाएंगी और आपका पर्सनल चैट्स कितना सेफ है?",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/chatgpt-ads-free-users-sponsored-ad-openai-prym-dskc-2637483-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T14:49:50+05:30",
-    "hook": "क्या चैटजीपीटी पर भी अब विज्ञापन दिखेंगे?",
-    "script_hi": "चैटजीपीटी का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है। अब आर्टिफिशियल इंटेलिजेंस से सवाल पूछने पर जवाब के नीचे स्पॉन्सर्ड विज्ञापन दिखाई दे सकते हैं। हालांकि, कंपनी ने अभी तक इस पर कोई आधिकारिक घोषणा नहीं की है, लेकिन तकनीकी जगत में इसकी चर्चा तेज हो गई है।",
-    "tts_text_hi": "चैटजीपीटी का इस्तेमाल करने वाले फ्री यूजर्स के लिए बड़ा बदलाव आने वाला है। अब आर्टिफिशियल इंटेलिजेंस से सवाल पूछने पर जवाब के नीचे स्पॉन्सर्ड विज्ञापन दिखाई दे सकते हैं। हालांकि, कंपनी ने अभी तक इस पर कोई आधिकारिक घोषणा नहीं की है, लेकिन तकनीकी जगत में इसकी चर्चा तेज हो गई है.",
-    "title": "ChatGPT पर दिखेंगे Ads! फ्री यूजर्स के लिए आया बड़ा बदलाव",
-    "caption": "चैटजीपीटी पर फ्री यूजर्स के लिए आ सकते हैं विज्ञापन, जानिए क्या है पूरी खबर।",
-    "hashtags": [
-      "ChatGPT",
-      "TechNews",
-      "OpenAI",
-      "ArtificialIntelligence",
-      "TechUpdate",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "person using smartphone India",
-      "artificial intelligence screen India",
-      "digital marketing advertisement India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person using smartphone India",
-        "credit": "Kewal Nagda",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "artificial intelligence screen India",
-        "credit": "Matheus Bertelli",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6483613/pexels-photo-6483613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "digital marketing advertisement India",
-        "credit": "Mikael Blomkvist",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "mirzapur_the_movie_box_office_50_crore",
-    "virality_score": 8,
-    "reason": "Strong entertainment news as Mirzapur The Movie crosses the 50 crore mark in just two days.",
-    "region": "india",
-    "headline": "Mirzapur The Movie Box Office Collection Day 2: गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर तूफान, दो दिन में 50 करोड़ पार हुई मिर्जापुर द मूवी",
-    "source_summary": "Mirzapur The Movie Collection Day 2: प्राइम वीडियो की सीरीज मिर्जापुर पर बनीं फिल्म मिर्जापुर: द मूवी भारतीय सिनेमा की सबसे ज्यादा इंतजार की जाने वाली ही नहीं बल्कि सबसे बड़ी फिल्मों में से एक थी.",
-    "source_url": "https://ndtv.in/bollywood/mirzapur-the-movie-box-office-collection-day-2-guddu-pandit-kalin-bhaiya-storm-at-box-office-on-saturday-as-mirzapur-movie-crossed-50-crore-in-two-day-12007851#publisher=newsstand",
+    "headline": "KBC 18  के सेट पर अमिताभ बच्चन को पर्स दिखाने पहुंचे अक्षय कुमार, खोलते ही लगी आग, नजारा देख चौंक गए बिग बी",
+    "source_summary": "KBC के मंच पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है. लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग गई.",
+    "source_url": "https://ndtv.in/bollywood/akshay-kumar-wallet-fire-prank-on-amitabh-bachchan-kbc-saif-ali-khan-12008881#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sun, 06 Sep 2026 13:29:42 +0530",
-    "hook": "गुड्डू पंडित और कालीन भैया का बॉक्स ऑफिस पर तूफान!",
-    "script_hi": "मिर्जापुर द मूवी ने रिलीज होते ही बॉक्स ऑफिस पर गदर मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये का आंकड़ा पार कर लिया है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
-    "tts_text_hi": "मिर्जापुर द मूवी ने रिलीज होते ही बॉक्स ऑफिस पर गदर मचा दिया है। फिल्म ने महज दो दिनों में पचास करोड़ रुपये का आंकड़ा पार कर लिया है। प्राइम वीडियो की इस लोकप्रिय सीरीज पर बनी फिल्म का क्रेज दर्शकों के सिर चढ़कर बोल रहा है।",
-    "title": "Mirzapur The Movie Box Office Collection Day 2",
-    "caption": "मिर्जापुर द मूवी ने दो दिन में पार किए पचास करोड़ रुपये! जानिए बॉक्स ऑफिस कलेक्शन।",
+    "published": "Sun, 06 Sep 2026 14:25:54 +0530",
+    "hook": "कैनबीसी के सेट पर अक्षय कुमार ने खोला पर्स, और भभक उठी आग!",
+    "script_hi": "कैनबीसी के सेट पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है। लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग लग गई। यह नजारा देख अमिताभ बच्चन भी चौंक गए।",
+    "tts_text_hi": "कौन बनेगा करोड़पति के सेट पर अक्षय कुमार ने अमिताभ बच्चन से कहा कि उनके पर्स में बिग बी की तस्वीर है। लेकिन जैसे ही उन्होंने पर्स खोला, उसमें आग लग गई। यह नजारा देख अमिताभ बच्चन भी चौंक गए।",
+    "title": "KBC सेट पर अक्षय कुमार के पर्स में लगी आग",
+    "caption": "कौन बनेगा करोड़पति के सेट पर हुआ अनोखा वाकया, अक्षय कुमार का पर्स खोलते ही लगी आग जिसे देख हैरान रह गए अमिताभ बच्चन।",
     "hashtags": [
-      "MirzapurTheMovie",
-      "Mirzapur",
-      "BoxOffice",
-      "GoodduBhaiya",
-      "KaleenBhaiya",
-      "BollywoodNews",
-      "PrimeVideo"
+      "अक्षयकुमार",
+      "अमिताभबच्चन",
+      "केबीसी",
+      "बॉलीवुड",
+      "मनोरंजन"
     ],
     "visual_queries": [
-      "Indian cinema hall crowd",
-      "India movie ticket counter",
-      "Indian celebration party"
+      "television studio India",
+      "actor speaking microphone India",
+      "fire burning object India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35265913/14940012_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "indian box office queue",
-        "credit": "Ashish Shukla",
-        "source_duration_sec": 18,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7989387/7989387-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "people cheering in theater",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 21,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7991229/pexels-photo-7991229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cinema hall crowd",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17387429/pexels-photo-17387429.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India movie ticket counter",
-        "credit": "Areby Arfiantoo",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8229666/pexels-photo-8229666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian celebration party",
-        "credit": "Anna Tarazevich",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17611795/pexels-photo-17611795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd outside cinema hall",
-        "credit": "Huu Huynh",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19346724/pexels-photo-19346724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "bollywood movie celebration",
-        "credit": "Keith Lobo",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥",
-        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nगुड्डू पंडित और कालीन भैया की जोड़ी ने सिनेमाघरों में आते ही ऐसा गदर मचाया है कि हर कोई हैरान है। दो दिनों के भीतर फिल्म ने कमाई के सारे रिकॉर्ड तोड़ते हुए पचास करोड़ का आंकड़ा पार कर लिया है।\n\nक्या आपने यह फिल्म देखी? कमेंट में बताएं कैसी लगी पूरी कहानी देखें वीडियो में।\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nसिनेमाघरों में गदर मचाते हुए गुड्डू पंडित और कालीन भैया ने साबित कर दिया कि उनका जलवा आज भी कायम है। सिर्फ 48 घंटों में फिल्म पचास करोड़ के पार पहुंच चुकी है।\n\nक्या आप भी देखने जा रहे हैं? शेयर करें इस रील को अपने दोस्तों के साथ!\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मात्र दो दिन में 50 करोड़ पार! मिर्जापुर द मूवी का बॉक्स ऑफिस तूफान 💥\n\nओटीटी के बाद अब बड़े पर्दे पर भी गुड्डू पंडित और कालीन भैया का सिक्का चल निकला है। फिल्म ने रिलीज के सिर्फ दो दिनों के अंदर ही बॉक्स ऑफिस पर पचास करोड़ का आंकड़ा पार कर एक नया मील का पत्थर छू लिया है।\n\nइस धमाकेदार कमाई पर आपकी क्या राय है? हमें कमेंट करके जरूर बताएं और पूरी खबर के लिए वीडियो पूरा देखें।\n\n#MirzapurTheMovie #GudduPandit #KaleenBhaiya #BoxOfficeCollection #Mirzapur"
-      },
-      "hashtags": [
-        "MirzapurTheMovie",
-        "GudduPandit",
-        "KaleenBhaiya",
-        "BoxOfficeCollection",
-        "Mirzapur"
-      ]
-    },
-    "audio_path": "audio/mirzapur_the_movie_box_office_50_crore.wav",
-    "audio_duration_sec": 17.06
-  },
-  {
-    "topic_label": "satwik_chirag_china_masters_win",
-    "virality_score": 7,
-    "reason": "Major sports victory as star Indian badminton duo Satwik-Chirag win the China Masters Super 750 title.",
-    "region": "india",
-    "headline": "सात्विक-चिराग ने चाइना मास्टर्स का खिताब जीतकर रचा इतिहास",
-    "source_summary": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने कमाल का प्रदर्शन करते हुए  चाइना मास्टर्स सुपर 750 का खिताब जीत लिया है.",
-    "source_url": "https://www.aajtak.in/sports/news/story/satwik-chirag-break-china-masters-jinx-beat-hi-ren-to-win-maiden-title-aksp-dskc-2637592-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T17:01:55+05:30",
-    "hook": "सात्विक और चिराग ने चाइना मास्टर्स में रच दिया इतिहास!",
-    "script_hi": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने चाइना मास्टर्स सुपर सात सौ का खिताब अपने नाम कर लिया है। यह भारत के लिए एक ऐतिहासिक जीत है।",
-    "tts_text_hi": "भारत की स्टार पुरुष युगल जोड़ी सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी ने चाइना मास्टर्स सुपर सात सौ का खिताब अपने नाम कर लिया है। यह भारत के लिए एक ऐतिहासिक जीत है।",
-    "title": "सात्विक-चिराग का ऐतिहासिक प्रदर्शन",
-    "caption": "सात्विक-चिराग ने चाइना मास्टर्स का खिताब जीतकर रचा इतिहास।",
-    "hashtags": [
-      "SatwikChirag",
-      "ChinaMasters",
-      "BadmintonIndia",
-      "SportsNews",
-      "IndianSports",
-      "Badminton"
-    ],
-    "visual_queries": [
-      "Indian badminton player action India",
-      "trophy celebration India sports"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8058176/8058176-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "badminton players court action",
-        "credit": "SHVETS production",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34466884/14604735_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "sports trophy celebration stadium",
-        "credit": "Earth Photart",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35427621/15010411_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "mens doubles badminton match",
-        "credit": "MY EYES📸",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29873465/pexels-photo-29873465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian badminton player action India",
-        "credit": "Mustafa  Fatemi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "trophy celebration India sports",
-        "credit": "Monojit Dutta",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35647223/pexels-photo-35647223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "badminton smash sports match",
-        "credit": "Sóc Năng Động",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सात्विक-चिराग ने चाइना मास्टर्स जीतकर रचा इतिहास 🇮🇳🏸",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, बल्कि इस बार मैदान पर कुछ ऐसा हुआ जिसने पूरे देश का सीना चौड़ा कर दिया! 🇮🇳\n\nसात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी की जोड़ी ने चाइना मास्टर्स बैडमिंटन टूर्नामेंट का खिताब अपने नाम कर इतिहास रच दिया है। फाइनल मुकाबले में भारतीय जोड़ी ने चीनी शटलर्स को शिकस्त दी।\n\nपूरी कहानी देखें और बताएं आपको इनकी जोड़ी कैसी लगती है? 👇\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, बल्कि मैदान पर ऐसा करिश्मा हुआ जिसने इतिहास बदल दिया! 🇮🇳\n\nसात्विक और चिराग ने चाइना मास्टर्स का खिताब जीतकर नया इतिहास लिख दिया है। फाइनल में रोमांचक मुकाबले के बाद भारतीय ध्वज एक बार फिर सबसे ऊपर लहराया।\n\nये जीत कितनी बड़ी है? कमेंट में बताओ! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया जैसी कोई बात नहीं, लेकिन खेल के मैदान से आई इस खबर ने हर भारतीय का दिल जीत लिया है! 🇮🇳\n\nस्टार शटलर सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी की जोड़ी ने चाइना मास्टर्स का खिताब जीतकर एक और ऐतिहासिक उपलब्धि अपने नाम कर ली है। फाइनल मैच में उन्होंने अपने बेहतरीन खेल से सबको हैरान कर दिया।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और शेयर करना न भूलें! 🏸\n\n#SatwikChirag #ChinaMasters2024 #IndianBadminton #SportsNews #BadmintonIndia"
-      },
-      "hashtags": [
-        "SatwikChirag",
-        "ChinaMasters2024",
-        "IndianBadminton",
-        "SportsNews",
-        "BadmintonIndia"
-      ]
-    },
-    "audio_path": "audio/satwik_chirag_china_masters_win.wav",
-    "audio_duration_sec": 13.19
-  },
-  {
-    "topic_label": "indonesia_volcano_eruption_stranded_passengers_global",
-    "virality_score": 7,
-    "reason": "Major global crisis as a volcanic eruption leaves 150,000 airline passengers stranded near Jakarta.",
-    "region": "global",
-    "headline": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-    "source_summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sun, 06 Sep 2026 09:56:39 GMT",
-    "hook": "इंडोनेशिया में ज्वालामुखी फटने से डेढ़ लाख से ज्यादा यात्री फंसे!",
-    "script_hi": "इंडोनेशिया में ज्वालामुखी फटने के बाद राख फैलने से डेढ़ लाख से ज्यादा विमान यात्री फंस गए हैं। जकार्ता के पास आसमान में ज्वालामुखी की राख पाए जाने के कारण उड़ानों पर भारी असर पड़ा है।",
-    "tts_text_hi": "इंडोनेशिया में ज्वालामुखी फटने के बाद राख फैलने से डेढ़ लाख से ज्यादा विमान यात्री फंस गए हैं। जकार्ता के पास आसमान में ज्वालामुखी की राख पाए जाने के कारण उड़ानों पर भारी असर पड़ा है।",
-    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट, डेढ़ लाख यात्री फंसे",
-    "caption": "इंडोनेशिया में ज्वालामुखी फटने से आसमान में छाई राख, डेढ़ लाख से अधिक यात्री हवाई अड्डों पर फंसे।",
-    "hashtags": [
-      "#Volcano",
-      "#Indonesia",
-      "#BreakingNews",
-      "#TravelAlert",
-      "#Jakarta"
-    ],
-    "visual_queries": [
-      "volcano eruption ash Indonesia",
-      "stranded passengers airport Indonesia",
-      "Jakarta airport skyline Indonesia"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17404101/pexels-photo-17404101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "volcano eruption ash Indonesia",
-        "credit": "Israel Torres",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27019194/pexels-photo-27019194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stranded passengers airport Indonesia",
-        "credit": "el jusuf",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31466316/pexels-photo-31466316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Jakarta airport skyline Indonesia",
-        "credit": "TEDEQI DZIKRI",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ishan_kishan_duleep_trophy_century",
-    "virality_score": 7,
-    "reason": "Cricket star Ishan Kishan hitting a brilliant century in the Duleep Trophy final, boosting his Test team comeback claims.",
-    "region": "india",
-    "headline": "दलीप ट्रॉफी फाइनल में ईशान ने जड़ा शतक, टेस्ट के लिए ठोका दावा!",
-    "source_summary": "वैभव सूर्यवंशी के बाद दलीप ट्रॉफी के फाइनल में कप्तान ईशान किशन ने भी बल्ले से कमाल का प्रदर्शन किया. मैच के पहले ही दिन शतक जड़कर उन्होंने अपनी टीम को काफी आगे पहुंचा दिया है.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/duleep-trophy-final-ishan-kishan-makes-statement-east-zone-captain-slams-stunning-century-against-south-zone-aksp-dskc-2637607-2026-09-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-06T17:40:24+05:30",
-    "hook": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका!",
-    "script_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में कप्तान ईशान किशन ने शानदार बल्लेबाजी करते हुए शतक जड़ दिया है। मैच के पहले ही दिन इस बेहतरीन प्रदर्शन से उन्होंने टेस्ट टीम में वापसी के लिए अपना दावा ठोक दिया है। वैभव सूर्यवंशी के बाद ईशान की इस पारी ने टीम को बेहद मजबूत स्थिति में पहुंचा दिया है।",
-    "tts_text_hi": "दलीप ट्रॉफी के फाइनल मुकाबले में कप्तान ईशान किशन ने शानदार बल्लेबाजी करते हुए शतक जड़ दिया है। मैच के पहले ही दिन इस बेहतरीन प्रदर्शन से उन्होंने टेस्ट टीम में वापसी के लिए अपना दावा ठोक दिया है। वैभव सूर्यवंशी के बाद ईशान की इस पारी ने टीम को बेहद मजबूत स्थिति में पहुंचा दिया है।",
-    "title": "दलीप ट्रॉफी फाइनल में ईशान किशन का शतक",
-    "caption": "दलीप ट्रॉफी के फाइनल में कप्तान ईशान किशन ने जड़ा शानदार शतक, टेस्ट टीम के लिए ठोका मजबूत दावा।",
-    "hashtags": [
-      "IshanKishan",
-      "DuleepTrophy",
-      "TeamIndia",
-      "CricketNews",
-      "BCCI",
-      "TestCricket",
-      "CricketHighlights"
-    ],
-    "visual_queries": [
-      "cricket stadium India",
-      "cricketer batting India",
-      "cricket celebration India"
-    ],
-    "named_person": "Ishan Kishan",
-    "named_person_hi": "ईशान किशन",
+    "named_person": "Akshay Kumar",
+    "named_person_hi": "अक्षय कुमार",
     "secondary_persons": [
-      "Vaibhav Suryavanshi"
+      "Amitabh Bachchan"
     ],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -555,33 +109,228 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "ईशान किशन",
+        "text": "अक्षय कुमार",
         "source": "fallback",
-        "query": "Ishan Kishan",
+        "query": "Akshay Kumar",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39344549/16745566_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "television studio India",
+        "credit": "Victoria  Ofere",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "actor speaking microphone India",
+        "credit": "Fahad Puthawala",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12883473/pexels-photo-12883473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fire burning object India",
+        "credit": "Nandhu Kumar",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "KBC सेट पर अक्षय कुमार ने खोला पर्स, अचानक भभक उठी आग! 😲🔥",
+        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही पर्स खोला, अंदर से अचानक आग भभक उठी!\n\nअमिताभ बच्चन के सामने हुआ ये खतरनाक ड्रामा देख हर कोई सन्न रह गया। सेट पर मौजूद लोग कुछ समझ पाते उससे पहले ही माहौल गर्म हो गया।\n\nआखिर अक्षय के पर्स में ऐसा क्या था? पूरी कहानी देखें। 👇\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अचानक आग भभक उठी! 🔥\n\nअमिताभ बच्चन के सामने हुए इस चौंकाने वाले वाकये ने सबको हैरान कर दिया। क्या था उस पर्स के अंदर?\n\nवीडियो पूरा देखें और अपनी राय बताएं।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कैनबीसी के सेट पर अक्षय कुमार ने जैसे ही अपना पर्स खोला, अंदर से अचानक आग भभक उठी! 😲\n\nअमिताभ बच्चन बिल्कुल सामने खड़े थे और नजारा देख उनके भी होश उड़ गए। सेट पर अचानक मची इस अफरातफरी की असली वजह क्या थी, ये जानकर आप भी हैरान रह जाएंगे। \n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#akshaykumar #amitabhbachchan #kbc18 #bollywoodnews #trendingvideo"
+      },
+      "hashtags": [
+        "akshaykumar",
+        "amitabhbachchan",
+        "kbc18",
+        "bollywoodnews",
+        "trendingvideo"
+      ]
+    },
+    "audio_path": "audio/kbc_akshay_kumar_amitabh_bachchan_purse_fire.wav",
+    "audio_duration_sec": 15.0
+  },
+  {
+    "topic_label": "india_europe_diesel_supplier_surge",
+    "virality_score": 7,
+    "reason": "Significant economic milestone as India emerges as Europe's major diesel supplier amidst global shifts.",
+    "region": "india",
+    "headline": "रूस-US रह गए पीछे, अब यूरोप का बड़ा डीजल सप्लायर बना भारत",
+    "source_summary": "India Diesel Export: रूस-US से यूरोप को होने वाली डीजल की सप्लाई तमाम रुकावटों के चलते धीमी पड़ी, तो भारत बड़े सप्लायर के तौर पर सामने आया है और अगस्त में Europe पहुंचे डीजल में 60% यहां से पहुंचा है.",
+    "source_url": "https://www.aajtak.in/business/news/story/india-becomes-key-diesel-supplier-to-europe-via-bab-el-mandeb-strait-russia-us-behind-tutc-dskc-2637597-2026-09-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-06T18:38:49+05:30",
+    "hook": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना!",
+    "script_hi": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! अगस्त महीने में यूरोप पहुंचे डीजल का साठ प्रतिशत भारत से गया है। पश्चिमी देशों की तमाम रुकावटों के बावजूद भारतीय रिफाइनरियों ने बाजी मारी है।",
+    "tts_text_hi": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! अगस्त महीने में यूरोप पहुंचे डीजल का साठ प्रतिशत भारत से गया है। पश्चिमी देशों की तमाम रुकावटों के बावजूद भारतीय रिफाइनरियों ने बाजी मारी है।",
+    "title": "भारत बना यूरोप का सबसे बड़ा डीजल सप्लायर",
+    "caption": "रूस और अमेरिका पीछे छूट गए हैं और भारत यूरोप का सबसे बड़ा डीजल सप्लायर बन गया है। अगस्त में यूरोप पहुंचे डीजल का 60% भारत से गया।",
+    "hashtags": [
+      "IndiaNews",
+      "DieselExport",
+      "IndianEconomy",
+      "Europe",
+      "BusinessNews",
+      "TrendingNews"
+    ],
+    "visual_queries": [
+      "Indian oil refinery India",
+      "cargo ship sea India",
+      "European flag city street",
+      "fuel tanker truck India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36094790/15307526_720_960_50fps.mp4",
+        "source": "pexels",
+        "query": "European flag city street",
+        "credit": "Deek Van der aa",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian oil refinery India",
+        "credit": "Balotra News",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo ship sea India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/23223773/pexels-photo-23223773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fuel tanker truck India",
+        "credit": "Ranjith_Photography 747",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रूस-US रह गए पीछे! यूरोप का सबसे बड़ा डीजल सप्लायर बना भारत 🇮🇳",
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना!\n\nपश्चिम के तमाम प्रतिबंधों के बावजूद भारत की एनर्जी पॉलिसी ने सबको हैरान कर दिया है। कच्चे तेल को रिफाइन कर यूरोप भेजने का खेल अब ऐसा बदला कि ग्लोबल मार्केट की चाल ही पलट गई है।\n\nपूरी कहानी वीडियो में देखें, और अपनी राय कमेंट में बताएं।\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🛢️\n\nपश्चिम के तमाम प्रतिबंधों के बीच भारत का यह कदम कैसे गेम-चेंजर बना? जानिए पूरी बात।\n\nस्टोरी कैसी लगी, कमेंट में बताएं!\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूस और अमेरिका पीछे छूट गए, यूरोप का नया डीजल राजा भारत बना! 🇮🇳🛢️\n\nग्लोबल मार्केट में एक बड़ा उलटफेर हुआ है। पश्चिमी देशों के तमाम प्रतिबंधों के बावजूद भारत ने रूस और अमेरिका को पीछे छोड़ते हुए यूरोप को डीजल सप्लाई करने वाला सबसे बड़ा देश बन गया है। आखिर भारत ने कैसे बदला एनर्जी मार्केट का पूरा गणित?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#IndiaEconomy #EuropeDiesel #GlobalTrade #RussianOil #IndianEconomy"
+      },
+      "hashtags": [
+        "IndiaEconomy",
+        "EuropeDiesel",
+        "GlobalTrade",
+        "RussianOil",
+        "IndianEconomy"
+      ]
+    },
+    "audio_path": "audio/india_europe_diesel_supplier_surge.wav",
+    "audio_duration_sec": 16.28
+  },
+  {
+    "topic_label": "us_envoys_kyiv_zelensky_talks",
+    "virality_score": 7,
+    "reason": "Key global development as US envoys visit Kyiv to push for peace negotiations following talks with Putin.",
+    "region": "global",
+    "headline": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+    "source_summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sun, 06 Sep 2026 13:16:21 GMT",
+    "hook": "अमेरिका के विशेष दूत यूक्रेन की राजधानी कीव पहुंचे!",
+    "script_hi": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने यूक्रेन की राजधानी कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की। रूस के साथ बातचीत के बाद यह उनका पहला यूक्रेन दौरा है।",
+    "tts_text_hi": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने यूक्रेन की राजधानी कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की। रूस के साथ बातचीत के बाद यह उनका पहला यूक्रेन दौरा है।",
+    "title": "US Envoys Meet Zelensky in Ukraine",
+    "caption": "अमेरिका के विशेष दूत स्टीव विटकॉफ और जेरार्ड कुशनर ने कीव में राष्ट्रपति वोलोडिमिर ज़ेलेंस्की से मुलाकात की है।",
+    "hashtags": [
+      "Ukraine",
+      "USA",
+      "Zelensky",
+      "RussiaUkraineWar",
+      "News",
+      "InternationalNews"
+    ],
+    "visual_queries": [
+      "Ukrainian flag building Kyiv",
+      "diplomatic meeting room officials",
+      "presidential palace exterior Ukraine"
+    ],
+    "named_person": "Volodymyr Zelenskyy",
+    "named_person_hi": "वोलोडिमिर ज़ेलेंस्की",
+    "secondary_persons": [
+      "Steve Witkoff",
+      "Jared Kushner"
+    ],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "वोलोडिमिर ज़ेलेंस्की",
+        "source": "fallback",
+        "query": "Volodymyr Zelenskyy",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38899342/pexels-photo-38899342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium India",
-        "credit": "Ajay Parab",
+        "query": "Ukrainian flag building Kyiv",
+        "credit": "Kostya Kore",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8730939/pexels-photo-8730939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricketer batting India",
-        "credit": "Yogendra  Singh",
+        "query": "diplomatic meeting room officials",
+        "credit": "Mikhail Nilov",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13996447/pexels-photo-13996447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket celebration India",
-        "credit": "Umang & Meet",
+        "query": "presidential palace exterior Ukraine",
+        "credit": "Olga Kalmazan",
         "duration_sec": 5
       }
     ],
@@ -590,26 +339,26 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दलीप ट्रॉफी फाइनल: ईशान किशन का तूफानी शतक, टीम इंडिया में वापसी का ठोक दिया दावा! 🏏",
-        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nमुश्किल वक्त में क्रीज पर उतरकर ईशान ने धमाकेदार शतक जड़ दिया है। इस बेहतरीन पारी के बाद टेस्ट टीम में उनकी वापसी की चर्चा तेज हो गई है।\n\nक्या ईशान को जल्द ही भारतीय टेस्ट स्क्वाड में मौका मिलना चाहिए? कमेंट में अपनी राय बताएं और पूरी कहानी देखें।\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
+        "title": "पुतिन से मिलने के ठीक बाद कीव पहुंचे अमेरिकी दूत! 🇺🇸🇺🇦",
+        "caption": "पुतिन से सीक्रेट मीटिंग के ठीक बाद अमेरिकी दूत अचानक कीव पहुंच गए। 🚨\n\nरूस के साथ तीखी तनातनी के बीच अमेरिकी दूतों की यूक्रेन के राष्ट्रपति ज़ेलेंस्की से यह मुलाकात बहुत बड़े संकेत दे रही है। क्या कोई नया शांति समझौता होने वाला है या जंग और भड़केगी?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
       },
       "instagram": {
         "title": null,
-        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nमुश्किल वक्त में क्रीज पर उतरकर ईशान ने धमाकेदार शतक जड़ दिया है। इस बेहतरीन पारी के बाद टेस्ट टीम में उनकी वापसी की चर्चा तेज हो गई है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
+        "caption": "पुतिन से मिलने के ठीक बाद अचानक कीव पहुंचे अमेरिकी दूत! 🚨\n\nरूस में अहम चर्चाओं के बाद अमेरिकी प्रतिनिधिमंडल सीधे ज़ेलेंस्की से मिलने यूक्रेन पहुंच गया है। इस अचानक हुए दौरे के पीछे की असली वजह क्या है?\n\nवीडियो पूरा देखें। शेयर करें ताकि और लोग भी जान सकें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
       },
       "facebook": {
         "title": null,
-        "caption": "दलीप ट्रॉफी फाइनल में ईशान किशन का बड़ा धमाका! 🤯\n\nजब टीम को सबसे ज्यादा जरूरत थी, तब ईशान किशन ने मैदान पर उतरकर एक शानदार शतक ठोक दिया। इस धमाकेदार पारी के बाद अब टेस्ट टीम में उनकी वापसी को लेकर दावे मजबूत हो गए हैं।\n\nआपको क्या लगता है, क्या इस पारी से ईशान की टेस्ट टीम में एंट्री पक्की हो गई है? अपनी राय जरूर शेयर करें।\n\n#IshanKishan #DuleepTrophy #TeamIndia #BCCI #CricketNews"
+        "caption": "रूस में पुतिन से तीखी बातचीत के तुरंत बाद अमेरिकी दूत सीधे यूक्रेन की राजधानी कीव जा पहुंचे हैं। 🇺🇸🤝🇺🇦\n\nराष्ट्रपति ज़ेलेंस्की के साथ बंद कमरे में हुई इस उच्चस्तरीय बैठक के मायने क्या हैं, और क्या यह जंग किसी नए मोड़ पर जाने वाली है? हालात तेजी से बदल रहे हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#USEnvoys #Zelensky #Putin #UkraineRussiaWar #USPolitics"
       },
       "hashtags": [
-        "IshanKishan",
-        "DuleepTrophy",
-        "TeamIndia",
-        "BCCI",
-        "CricketNews"
+        "USEnvoys",
+        "Zelensky",
+        "Putin",
+        "UkraineRussiaWar",
+        "USPolitics"
       ]
     },
-    "audio_path": "audio/ishan_kishan_duleep_trophy_century.wav",
-    "audio_duration_sec": 21.88
+    "audio_path": "audio/us_envoys_kyiv_zelensky_talks.wav",
+    "audio_duration_sec": 14.32
   }
 ]
