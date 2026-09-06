@@ -1,30 +1,28 @@
 [
   {
-    "topic_label": "mirzapur_movie_box_office_50_crore",
+    "topic_label": "bigg_boss_20_premiere_launch",
     "virality_score": 9,
-    "reason": "Mirzapur movie crosses 50 crore mark with houseful shows, showing high entertainment virality.",
+    "reason": "Big Boss 20 grand premiere has massive entertainment and youth appeal across India.",
     "region": "india",
-    "headline": "50 करोड़ पार मिर्जापुर, थिएटर में मचा भौकाल-शोज रहे हाउसफुल!",
-    "source_summary": "मिर्जापुर की दुनिया ने थिएटर्स में आकर तगड़ा भौकाल मचा डाला है. पहले दिन सॉलिड ओपनिंग के बाद, दूसरे दिन भी फिल्म ने बॉक्स ऑफिस पर शानदार जंप लिया. दो दिनों में फिल्म 50 करोड़ से भी ज्यादा कमा चुकी है.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/mirzapur-the-movie-box-office-collection-day-2-ali-fazal-ravi-kishan-pankaj-tripathi-divyendu-tmovj-dskc-2637245-2026-09-06?utm_source=rssfeed",
+    "headline": "बिग बॉस 20 का धमाकेदार आगाज, जानें कब-कहां देखें शो",
+    "source_summary": "इंतजार की घड़ियां खत्म हुईं. बिग बॉस 20 का ग्रैंड प्रीमियर आज 6 सितंबर 2026 को हो रहा है. आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देखे.",
+    "source_url": "https://www.aajtak.in/entertainment/television/story/bigg-boss-20-grand-premiere-salman-khan-new-season-when-where-watch-manoj-tiwari-tmovb-dskc-2637265-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-06T06:40:54+05:30",
-    "hook": "मिर्जापुर ने थिएटर में मचाया भौकाल, दो दिनों में कमाए पचास करोड़ से ज्यादा!",
-    "script_hi": "मिर्जापुर की दुनिया ने थिएटर्स में आकर तगड़ा भौकाल मचा डाला है। पहले दिन सॉलिड ओपनिंग के बाद, दूसरे दिन भी फिल्म ने बॉक्स ऑफिस पर शानदार जंप लिया। दो दिनों में फिल्म पचास करोड़ से भी ज्यादा कमा चुकी है और शोज हाउसफुल चल रहे हैं।",
-    "tts_text_hi": "मिर्जापुर की दुनिया ने थिएटर्स में आकर तगड़ा भौकाल मचा डाला है। पहले दिन सॉलिड ओपनिंग के बाद, दूसरे दिन भी फिल्म ने बॉक्स ऑफिस पर शानदार जंप लिया। दो दिनों में फिल्म पचास करोड़ से भी ज्यादा कमा चुकी है और शोज हाउसफुल चल रहे हैं।",
-    "title": "Mirzapur Box Office Collection Day Two",
-    "caption": "मिर्जापुर ने बॉक्स ऑफिस पर मचाया तहलका, दो दिनों में पचास करोड़ पार!",
+    "published": "2026-09-06T07:39:00+05:30",
+    "hook": "बिग बॉस बीस का धमाकेदार आगाज आज!",
+    "script_hi": "इंतजार की घड़ियां खत्म हुईं! बिग बॉस बीस का ग्रैंड प्रीमियर आज छह सितंबर दो हजार छब्बीस को हो रहा है। आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देख सकते हैं।",
+    "tts_text_hi": "इंतजार की घड़ियां खत्म हुईं! बिग बॉस बीस का ग्रैंड प्रीमियर आज छह सितंबर दो हजार छब्बीस को हो रहा है। आइए जानते हैं कि आप अपना फेवरेट शो कब और कहां देख सकते हैं।",
+    "title": "बिग बॉस बीस का ग्रैंड प्रीमियर आज",
+    "caption": "बिग बॉस बीस का धमाकेदार आगाज आज छह सितंबर दो हजार छब्बीस को हो रहा है।",
     "hashtags": [
-      "#Mirzapur",
-      "#BoxOffice",
-      "#Bollywood",
-      "#MirzapurMovie",
-      "#NewsShorts"
+      "BiggBoss20",
+      "RealityShow",
+      "EntertainmentNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian cinema theater crowd India",
-      "Indian movie theater ticket counter India",
-      "Bollywood film celebration India"
+      "Indian television studio stage",
+      "television remote control India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -34,309 +32,127 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8491607/8491607-hd_720_1280_50fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29043652/pexels-photo-29043652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Bollywood film celebration India",
-        "credit": "Thirdman",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36108271/15313073_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "crowd outside cinema hall",
-        "credit": "Airam Dato-on",
-        "source_duration_sec": 17,
-        "duration_sec": 6
+        "query": "Indian television studio stage",
+        "credit": "Bruno Massao",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14770620/pexels-photo-14770620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cinema theater crowd India",
-        "credit": "Keith Lobo",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39307255/pexels-photo-39307255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian box office crowd",
-        "credit": "Satyam Pixels",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11466376/pexels-photo-11466376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "housefull movie sign India",
-        "credit": "Esra Nur Kalay",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17387429/pexels-photo-17387429.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "box office counter queue",
-        "credit": "Areby Arfiantoo",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6913197/pexels-photo-6913197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people celebrating success",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 3.6
+        "query": "television remote control India",
+        "credit": "Geri Tech",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Mirzapur Box Office Collection Day Two",
-        "caption": "मिर्जापुर ने बॉक्स ऑफिस पर मचाया तहलका, दो दिनों में पचास करोड़ पार!\n\n##Mirzapur ##BoxOffice ##Bollywood ##MirzapurMovie ##NewsShorts"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मिर्जापुर ने बॉक्स ऑफिस पर मचाया तहलका, दो दिनों में पचास करोड़ पार!\n\n##Mirzapur ##BoxOffice ##Bollywood ##MirzapurMovie ##NewsShorts"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मिर्जापुर ने बॉक्स ऑफिस पर मचाया तहलका, दो दिनों में पचास करोड़ पार!\n\n##Mirzapur ##BoxOffice ##Bollywood ##MirzapurMovie ##NewsShorts"
-      },
-      "hashtags": [
-        "#Mirzapur",
-        "#BoxOffice",
-        "#Bollywood",
-        "#MirzapurMovie",
-        "#NewsShorts"
-      ]
-    },
-    "audio_path": "audio/mirzapur_movie_box_office_50_crore.wav",
-    "audio_duration_sec": 15.42
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "pm_modi_srcc_centenary_metro_ride",
-    "virality_score": 8,
-    "reason": "PM Modi travels via Delhi Metro to attend SRCC centenary celebrations, generating high public interest.",
+    "topic_label": "manjit_bedi_fbi_most_wanted_arrest_india",
+    "virality_score": 9,
+    "reason": "FBI's most-wanted fraudster with a massive ₹1.25 crore bounty arrested in India.",
     "region": "india",
-    "headline": "SRCC के शताब्दी समारोह में पहुंचे PM मोदी, मेट्रो से किया सफर",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी शनिवार को दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल हुए. उन्होंने संस्थान की 100 साल की उपलब्धियों की सराहना की. प्रधानमंत्री ने कहा कि SRCC ने व्यापार, सार्वजनिक जीवन और समाज के लिए कई पीढ़ियों का नेतृत्व तैयार किया है. इस अवसर पर 100 रुपये का स्मारक सिक्का जारी किया गया. पीएम मोदी मेट्रो से वहां पहुंचे और छात्रों को बधाई दी.",
-    "source_url": "https://www.aajtak.in/short-videos/video/pm-modi-srcc-centenary-celebration-delhi-metro-commemorative-coin-education-leadership-business-college-hundred-years-celebration-mmta-2637190-2026-09-05?utm_source=rssfeed",
+    "headline": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार, 1.25 करोड़ का था नाम",
+    "source_summary": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है. उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप है. ऐसे में अमेरिकी सरकार ने बेदी पर 1.25 करोड़ रुपए का ईनाम रखा था. गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है.",
+    "source_url": "https://www.aajtak.in/world/story/us-most-wanted-fraudster-manjit-singh-bedi-arrested-in-india-kash-patel-ntc-drmt-dskc-2637275-2026-09-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-05T21:33:04+05:30",
-    "hook": "पीएम मोदी ने दिल्ली मेट्रो से किया सफर!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल हुए। उन्होंने संस्थान की सौ साल की उपलब्धियों की सराहना की। इस मौके पर सौ रुपये का स्मारक सिक्का भी जारी किया गया। पीएम मोदी ने मेट्रो से सफर कर सबको चौंका दिया और छात्रों को बधाई दी।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में शामिल हुए। उन्होंने संस्थान की सौ साल की उपलब्धियों की सराहना की। इस मौके पर सौ रुपये का स्मारक सिक्का भी जारी किया गया। पीएम मोदी ने मेट्रो से सफर कर सबको चौंका दिया और छात्रों को बधाई दी।",
-    "title": "SRCC के शताब्दी समारोह में पहुंचे PM मोदी, मेट्रो से किया सफर",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी ने दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में हिस्सा लिया और मेट्रो से सफर किया।",
+    "published": "2026-09-06T07:45:56+05:30",
+    "hook": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार!",
+    "script_hi": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है। उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप था। अमेरिकी सरकार ने बेदी पर एक करोड़ पच्चीस लाख रुपए का ईनाम रखा था। गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है।",
+    "tts_text_hi": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार हो गया है। उस पर अमेरिकी सरकारी योजनाओं में छह लाख डॉलर से ज्यादा की धोखाधड़ी का आरोप था। अमेरिकी सरकार ने बेदी पर एक करोड़ पच्चीस लाख रुपए का ईनाम रखा था। गिरफ्तारी के बाद अब एफबीआई उसे अमेरिका वापस लाने की प्रक्रिया में जुट गई है।",
+    "title": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार",
+    "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।",
     "hashtags": [
-      "PMModi",
-      "SRCC",
-      "DelhiUniversity",
-      "IndianMetro",
-      "NewsUpdates"
+      "ManjitSinghBedi",
+      "FBI",
+      "America",
+      "IndiaNews",
+      "CrimeNews",
+      "MostWanted"
     ],
     "visual_queries": [
-      "Delhi Metro train India",
-      "university celebration event India",
-      "commemorative coin India"
+      "US flag India flag",
+      "Indian police station India",
+      "FBI headquarters building India",
+      "handcuffs arrest India"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
+    "named_person": "Manjit Singh Bedi",
+    "named_person_hi": "मंजीत सिंह बेदी",
     "secondary_persons": [],
-    "est_duration_sec": 28.0,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "नरेंद्र मोदी",
+        "text": "मंजीत सिंह बेदी",
         "source": "fallback",
-        "query": "Narendra Modi",
+        "query": "Manjit Singh Bedi",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11310605/pexels-photo-11310605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9346167/pexels-photo-9346167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi Metro train India",
-        "credit": "Shantanu Goyal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14037245/pexels-photo-14037245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "university celebration event India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18434793/pexels-photo-18434793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commemorative coin India",
-        "credit": "Tushar Pattnaik",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "SRCC के शताब्दी समारोह में पहुंचे PM मोदी, मेट्रो से किया सफर",
-        "caption": "प्रधानमंत्री नरेंद्र मोदी ने दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में हिस्सा लिया और मेट्रो से सफर किया।\n\n#PMModi #SRCC #DelhiUniversity #IndianMetro #NewsUpdates"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "प्रधानमंत्री नरेंद्र मोदी ने दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में हिस्सा लिया और मेट्रो से सफर किया।\n\n#PMModi #SRCC #DelhiUniversity #IndianMetro #NewsUpdates"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "प्रधानमंत्री नरेंद्र मोदी ने दिल्ली यूनिवर्सिटी के श्रीराम कॉलेज ऑफ कॉमर्स के शताब्दी समारोह में हिस्सा लिया और मेट्रो से सफर किया।\n\n#PMModi #SRCC #DelhiUniversity #IndianMetro #NewsUpdates"
-      },
-      "hashtags": [
-        "PMModi",
-        "SRCC",
-        "DelhiUniversity",
-        "IndianMetro",
-        "NewsUpdates"
-      ]
-    },
-    "audio_path": "audio/pm_modi_srcc_centenary_metro_ride.wav",
-    "audio_duration_sec": 23.67
-  },
-  {
-    "topic_label": "saharanpur_illegal_mosque_demolition_iqra_hasan",
-    "virality_score": 8,
-    "reason": "High-tension political story involving court-ordered demolition of a mosque and MP Iqra Hasan's house arrest.",
-    "region": "india",
-    "headline": "सहारनपुर: अवैध मस्जिद पर चला बुलडोजर, इकरा हसन की नजरबंदी से गरमाई सियासत",
-    "source_summary": "उत्तर प्रदेश के सहारनपुर जिले से बड़ी खबर आ रही है. यहाँ कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर प्रशासन ने बुलडोजर चला दिया है. कोर्ट के आदेश के बाद सुबह-सुबह भारी सुरक्षा व्यवस्था के बीच इस ध्वस्तीकरण की कार्रवाई को अंजाम दिया गया. इस मस्जिद को सिटी मजिस्ट्रेट की अदालत ने अवैध घोषित किया था, जिसके बाद मुस्लिम पक्ष की अपील भी खारिज हो गई थी.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/video/bulldozer-action-on-illegal-mosque-inside-saharanpur-dm-vdop-ytvd-2636757-2026-09-05?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-05T17:31:24+05:30",
-    "hook": "सहारनपुर में अवैध मस्जिद पर चला बुलडोजर!",
-    "script_hi": "उत्तर प्रदेश के सहारनपुर जिले में प्रशासन ने बड़ी कार्रवाई करते हुए कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर बुलडोजर चला दिया है। कोर्ट के आदेश के बाद सुबह-सुबह भारी सुरक्षा व्यवस्था के बीच इस ध्वस्तीकरण को अंजाम दिया गया। सिटी मजिस्ट्रेट की अदालत ने इस मस्जिद को अवैध घोषित किया था।",
-    "tts_text_hi": "उत्तर प्रदेश के सहारनपुर जिले में प्रशासन ने बड़ी कार्रवाई करते हुए कलेक्ट्रेट परिसर के अंदर बनी एक अवैध मस्जिद पर बुलडोजर चला दिया है। कोर्ट के आदेश के बाद सुबह-सुबह भारी सुरक्षा व्यवस्था के बीच इस ध्वस्तीकरण को अंजाम दिया गया। सिटी मजिस्ट्रेट की अदालत ने इस मस्जिद को अवैध घोषित किया था।",
-    "title": "सहारनपुर में अवैध मस्जिद पर बुलडोजर कार्रवाई",
-    "caption": "उत्तर प्रदेश के सहारनपुर में कलेक्ट्रेट परिसर के अंदर बनी अवैध मस्जिद पर प्रशासन ने बुलडोजर चलाकर ध्वस्तीकरण की कार्रवाई की।",
-    "hashtags": [
-      "#Saharanpur",
-      "#UttarPradesh",
-      "#BulldozerAction",
-      "#BreakingNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Saharanpur district collectorate office India",
-      "bulldozer demolishing illegal construction India",
-      "heavy police security India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Communal or religious sensitivity involving a religious structure demolition.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "bulldozer demolishing illegal construction India",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 32,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18341863/pexels-photo-18341863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Saharanpur district collectorate office India",
-        "credit": "Andy Lee",
+        "query": "US flag India flag",
+        "credit": "Anna Pou",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "heavy police security India",
+        "query": "Indian police station India",
         "credit": "GOWTHAM AGM",
         "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "kerala_car_lorry_accident_engineering_students",
-    "virality_score": 7,
-    "reason": "Tragic road accident in Kerala claiming the lives of eight engineering students.",
-    "region": "india",
-    "headline": "केरल में खड़े ट्रक से जा टकराई कार, 8 इंजीनियरिंग छात्रों की मौके पर मौत; कैसे हुआ दर्दनाक हादसा?",
-    "source_summary": "Kerala Accident: केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे ने आठ परिवारों को उजाड़ दिया। तमिलनाडु के इंजीनियरिंग कॉलेज के आठ छात्रों की उस वक्त मौत हो गई, जब उनकी कार हाईवे पर खड़े एक लॉरी के",
-    "source_url": "https://hindi.oneindia.com/news/india/kerala-thrissur-road-accident-8-tamil-nadu-engineering-students-killed-1642623.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Sat, 05 Sep 2026 09:43:33 +0530",
-    "hook": "केरल में एक दर्दनाक सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौत!",
-    "script_hi": "केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौके पर मौत हो गई। तमिलनाडु के एक कॉलेज के ये छात्र कार से जा रहे थे, जो हाईवे पर खड़े एक ट्रक से जा टकराई। इस हादसे ने आठ परिवारों को उजाड़ दिया है।",
-    "tts_text_hi": "केरल के त्रिशूर में शुक्रवार देर रात एक भीषण सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौके पर मौत हो गई। तमिलनाडु के एक कॉलेज के ये छात्र कार से जा रहे थे, जो हाईवे पर खड़े एक ट्रक से जा टकराई। इस हादसे ने आठ परिवारों को उजाड़ दिया है।",
-    "title": "केरल सड़क हादसा: खड़े ट्रक से टकराई कार, आठ इंजीनियरिंग छात्रों की मौत",
-    "caption": "केरल के त्रिशूर में एक दर्दनाक सड़क हादसे में आठ इंजीनियरिंग छात्रों की मौत हो गई। तमिलनाडु के छात्रों की कार हाईवे पर खड़े ट्रक से टकरा गई थी।",
-    "hashtags": [
-      "#KeralaAccident",
-      "#TrissurNews",
-      "#RoadSafety",
-      "#BreakingNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Kerala highway road India",
-      "damaged car accident India",
-      "police investigation night India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
+      },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34110863/pexels-photo-34110863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35469883/pexels-photo-35469883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Kerala highway road India",
-        "credit": "Jinshu Pulpatta",
+        "query": "FBI headquarters building India",
+        "credit": "Nitin Nalawade",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12502058/pexels-photo-12502058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "damaged car accident India",
-        "credit": "Vladyslav Huivyk",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation night India",
-        "credit": "cottonbro studio",
+        "query": "handcuffs arrest India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड भारत में गिरफ्तार",
+        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अमेरिका का मोस्ट वॉन्टेड फ्रॉड मंजीत सिंह बेदी भारत में गिरफ्तार, एक करोड़ पच्चीस लाख रुपए का था ईनाम।\n\n#ManjitSinghBedi #FBI #America #IndiaNews #CrimeNews"
+      },
+      "hashtags": [
+        "ManjitSinghBedi",
+        "FBI",
+        "America",
+        "IndiaNews",
+        "CrimeNews"
+      ]
+    },
+    "audio_path": "audio/manjit_bedi_fbi_most_wanted_arrest_india.wav",
+    "audio_duration_sec": 16.24
   }
 ]
