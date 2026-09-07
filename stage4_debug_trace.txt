@@ -1,7 +1,7 @@
-ready_labels: ['germany_afd_far_right_election_win_global', 'mirzapur_the_movie_box_office_milestone', 'sagar_madhya_pradesh_toxic_liquor_deaths', 'sanjay_dutt_marathi_language_refusal_controversy']
+ready_labels: ['ishan_kishan_duleep_trophy_double_century', 'techie_quits_90_lakh_job_microgreens_farming']
 
-sagar_madhya_pradesh_toxic_liquor_deaths: SUCCESS -> video_path=videos/sagar_madhya_pradesh_toxic_liquor_deaths.mp4 dur=23.689887
-guwahati_wife_murder_decapitation_fridge: SKIPPED (not in ready set)
-sanjay_dutt_marathi_language_refusal_controversy: SUCCESS -> video_path=videos/sanjay_dutt_marathi_language_refusal_controversy.mp4 dur=38.189887
-mirzapur_the_movie_box_office_milestone: SUCCESS -> video_path=videos/mirzapur_the_movie_box_office_milestone.mp4 dur=21.955215
-germany_afd_far_right_election_win_global: SUCCESS -> video_path=videos/germany_afd_far_right_election_win_global.mp4 dur=21.356553
+guwahati_wife_murder_head_in_fridge: SKIPPED (not in ready set)
+ishan_kishan_duleep_trophy_double_century: SUCCESS -> video_path=videos/ishan_kishan_duleep_trophy_double_century.mp4 dur=28.32322
+techie_quits_90_lakh_job_microgreens_farming: SUCCESS -> video_path=videos/techie_quits_90_lakh_job_microgreens_farming.mp4 dur=24.689887
+miami_amazon_cargo_plane_crash: SKIPPED (not in ready set)
+diljit_dosanjh_stops_live_show_tshirt_row: SKIPPED (not in ready set)
