@@ -1,6 +1,5 @@
-ready_labels: ['kanpur_businessman_murder_daughter_in_law_mastermind']
+ready_labels: ['guwahati_husband_murders_wife_fridge', 'lpg_cylinder_booking_interval_25_days']
 
-delhi_satya_niketan_building_collapse_7_dead: SKIPPED (not in ready set)
-guwahati_husband_murders_wife_fridge_horror: SKIPPED (not in ready set)
-mumbai_car_bonnet_7_foot_python_rescue: SKIPPED (not in ready set)
-kanpur_businessman_murder_daughter_in_law_mastermind: SUCCESS -> video_path=videos/kanpur_businessman_murder_daughter_in_law_mastermind.mp4 dur=31.010227
+guwahati_husband_murders_wife_fridge: SUCCESS -> video_path=videos/guwahati_husband_murders_wife_fridge.mp4 dur=25.82322
+bihar_scorpio_parked_on_roof_viral: SKIPPED (not in ready set)
+lpg_cylinder_booking_interval_25_days: SUCCESS -> video_path=videos/lpg_cylinder_booking_interval_25_days.mp4 dur=29.556553
