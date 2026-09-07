@@ -1,7 +1,10 @@
-ready_labels: ['chhattisgarh_tin_lithium_mineral_revenue', 'germany_far_right_afd_election_win_global', 'haryana_man_climbs_tower_divorce_demand', 'india_becomes_major_diesel_supplier_to_europe']
+ready_labels: ['delhi_satya_niketan_building_collapse_deaths', 'india_emerges_europe_diesel_boss_middle_east_crisis', 'iran_hormuz_exclusion_zone_preparations', 'kanpur_police_recruitment_twin_brother_cheat', 'nitin_gadkari_underworld_red_light_votes_remark', 'trump_digital_attack_iran_map']
 
-india_becomes_major_diesel_supplier_to_europe: SUCCESS -> video_path=videos/india_becomes_major_diesel_supplier_to_europe.mp4 dur=20.561224
-bittu_tabahi_river_cleaning_netherlands_job_offer: SKIPPED (not in ready set)
-chhattisgarh_tin_lithium_mineral_revenue: SUCCESS -> video_path=videos/chhattisgarh_tin_lithium_mineral_revenue.mp4 dur=34.865215
-haryana_man_climbs_tower_divorce_demand: SUCCESS -> video_path=videos/haryana_man_climbs_tower_divorce_demand.mp4 dur=25.995215
-germany_far_right_afd_election_win_global: SUCCESS -> video_path=videos/germany_far_right_afd_election_win_global.mp4 dur=26.808231
+delhi_satya_niketan_building_collapse_deaths: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_deaths.mp4 dur=26.689887
+bihar_scorpio_parked_on_roof_viral: SKIPPED (not in ready set)
+lucknow_head_constable_wife_murder_baby_stroll: SKIPPED (not in ready set)
+trump_digital_attack_iran_map: SUCCESS -> video_path=videos/trump_digital_attack_iran_map.mp4 dur=21.978231
+iran_hormuz_exclusion_zone_preparations: SUCCESS -> video_path=videos/iran_hormuz_exclusion_zone_preparations.mp4 dur=22.52322
+nitin_gadkari_underworld_red_light_votes_remark: SUCCESS -> video_path=videos/nitin_gadkari_underworld_red_light_votes_remark.mp4 dur=38.12322
+india_emerges_europe_diesel_boss_middle_east_crisis: SUCCESS -> video_path=videos/india_emerges_europe_diesel_boss_middle_east_crisis.mp4 dur=31.150227
+kanpur_police_recruitment_twin_brother_cheat: SUCCESS -> video_path=videos/kanpur_police_recruitment_twin_brother_cheat.mp4 dur=37.489887
