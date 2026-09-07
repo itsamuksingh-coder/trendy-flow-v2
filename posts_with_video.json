@@ -78,7 +78,7 @@
     ],
     "asset_count": 5,
     "timeline_covered_sec": 25,
-    "review_status": "approved",
+    "review_status": "pending_review",
     "platform_copy": {
       "youtube": {
         "title": "यूक्रेन का नया दांव, पोर्न इंडस्ट्री से जंग के लिए जुटाएगा टैक्स!",
@@ -102,8 +102,7 @@
     },
     "audio_path": "audio/ukraine_legalize_porn_fund_drones.wav",
     "audio_duration_sec": 27.43,
-    "video_path": "videos/ukraine_legalize_porn_fund_drones.mp4",
-    "video_duration_sec": 35.36
+    "video_path": null
   },
   {
     "topic_label": "nitin_gadkari_underworld_votes_remark",
@@ -182,7 +181,7 @@
     ],
     "asset_count": 5,
     "timeline_covered_sec": 24.0,
-    "review_status": "approved",
+    "review_status": "pending_review",
     "platform_copy": {
       "youtube": {
         "title": "नागपुर में नितिन गडकरी का बड़ा बयान",
@@ -206,7 +205,6 @@
     },
     "audio_path": "audio/nitin_gadkari_underworld_votes_remark.wav",
     "audio_duration_sec": 30.04,
-    "video_path": "videos/nitin_gadkari_underworld_votes_remark.mp4",
-    "video_duration_sec": 37.99
+    "video_path": null
   }
 ]
