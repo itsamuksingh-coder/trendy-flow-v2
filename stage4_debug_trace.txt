@@ -1,6 +1,6 @@
-ready_labels: ['chandigarh_techie_microgreens_farming', 'delhi_satya_niketan_building_collapse_hc_notice', 'hanuman_ansh_box_office_record', 'samay_raina_show_humanoid_robot_maya']
+ready_labels: ['kanpur_businessman_murder_daughter_in_law_mastermind']
 
-delhi_satya_niketan_building_collapse_hc_notice: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_hc_notice.mp4 dur=33.756553
-hanuman_ansh_box_office_record: SUCCESS -> video_path=videos/hanuman_ansh_box_office_record.mp4 dur=19.818231
-samay_raina_show_humanoid_robot_maya: SUCCESS -> video_path=videos/samay_raina_show_humanoid_robot_maya.mp4 dur=27.32322
-chandigarh_techie_microgreens_farming: SUCCESS -> video_path=videos/chandigarh_techie_microgreens_farming.mp4 dur=30.035215
+delhi_satya_niketan_building_collapse_7_dead: SKIPPED (not in ready set)
+guwahati_husband_murders_wife_fridge_horror: SKIPPED (not in ready set)
+mumbai_car_bonnet_7_foot_python_rescue: SKIPPED (not in ready set)
+kanpur_businessman_murder_daughter_in_law_mastermind: SUCCESS -> video_path=videos/kanpur_businessman_murder_daughter_in_law_mastermind.mp4 dur=31.010227
