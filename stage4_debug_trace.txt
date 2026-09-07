@@ -1,5 +1,7 @@
-ready_labels: ['guwahati_husband_murders_wife_fridge', 'lpg_cylinder_booking_interval_25_days']
+ready_labels: ['bsnl_beats_jio_haryana_surge', 'delhi_building_safety_rules_mcd', 'indonesia_volcano_eruption_global']
 
-guwahati_husband_murders_wife_fridge: SUCCESS -> video_path=videos/guwahati_husband_murders_wife_fridge.mp4 dur=25.82322
-bihar_scorpio_parked_on_roof_viral: SKIPPED (not in ready set)
-lpg_cylinder_booking_interval_25_days: SUCCESS -> video_path=videos/lpg_cylinder_booking_interval_25_days.mp4 dur=29.556553
+andhra_youth_scooter_dragging_viral: SKIPPED (not in ready set)
+delhi_building_safety_rules_mcd: SUCCESS -> video_path=videos/delhi_building_safety_rules_mcd.mp4 dur=38.255215
+indonesia_volcano_eruption_global: SUCCESS -> video_path=videos/indonesia_volcano_eruption_global.mp4 dur=25.756553
+hardik_pandya_ameesha_patel_viral_video: SKIPPED (not in ready set)
+bsnl_beats_jio_haryana_surge: SUCCESS -> video_path=videos/bsnl_beats_jio_haryana_surge.mp4 dur=23.52322
