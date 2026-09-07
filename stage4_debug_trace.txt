@@ -1,10 +1,6 @@
-ready_labels: ['delhi_satya_niketan_building_collapse_deaths', 'india_emerges_europe_diesel_boss_middle_east_crisis', 'iran_hormuz_exclusion_zone_preparations', 'kanpur_police_recruitment_twin_brother_cheat', 'nitin_gadkari_underworld_red_light_votes_remark', 'trump_digital_attack_iran_map']
+ready_labels: ['kanpur_police_recruitment_twin_cheat']
 
-delhi_satya_niketan_building_collapse_deaths: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_deaths.mp4 dur=26.689887
-bihar_scorpio_parked_on_roof_viral: SKIPPED (not in ready set)
-lucknow_head_constable_wife_murder_baby_stroll: SKIPPED (not in ready set)
-trump_digital_attack_iran_map: SUCCESS -> video_path=videos/trump_digital_attack_iran_map.mp4 dur=21.978231
-iran_hormuz_exclusion_zone_preparations: SUCCESS -> video_path=videos/iran_hormuz_exclusion_zone_preparations.mp4 dur=22.52322
-nitin_gadkari_underworld_red_light_votes_remark: SUCCESS -> video_path=videos/nitin_gadkari_underworld_red_light_votes_remark.mp4 dur=38.12322
-india_emerges_europe_diesel_boss_middle_east_crisis: SUCCESS -> video_path=videos/india_emerges_europe_diesel_boss_middle_east_crisis.mp4 dur=31.150227
-kanpur_police_recruitment_twin_brother_cheat: SUCCESS -> video_path=videos/kanpur_police_recruitment_twin_brother_cheat.mp4 dur=37.489887
+mirzapur_the_movie_100_crore: SKIPPED (not in ready set)
+bihar_scorpio_parked_on_roof: SKIPPED (not in ready set)
+kanpur_police_recruitment_twin_cheat: SUCCESS -> video_path=videos/kanpur_police_recruitment_twin_cheat.mp4 dur=38.255215
+amazon_cargo_plane_crash_miami: SKIPPED (not in ready set)
