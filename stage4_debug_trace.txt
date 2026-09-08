@@ -1,7 +1,8 @@
-ready_labels: ['germany_afd_election_win', 'pm_modi_gujarat_maharashtra_development']
+ready_labels: ['grindr_hiv_privacy_settlement', 'mp_toxic_liquor_death', 'pm_modi_gen_z_event']
 
-netanyahu_uae_hamas_warning: SKIPPED (not in ready set)
-kota_leopard_rescue: SKIPPED (not in ready set)
-kanpur_businessman_murder_cctv: SKIPPED (not in ready set)
-germany_afd_election_win: SUCCESS -> video_path=videos/germany_afd_election_win.mp4 dur=29.292222
-pm_modi_gujarat_maharashtra_development: SUCCESS -> video_path=videos/pm_modi_gujarat_maharashtra_development.mp4 dur=33.02322
+delhi_satya_niketan_building_collapse_arrests: SKIPPED (not in ready set)
+kanpur_businessman_murder_case: SKIPPED (not in ready set)
+mp_toxic_liquor_death: SUCCESS -> video_path=videos/mp_toxic_liquor_death.mp4 dur=32.156553
+kota_leopard_rescue_garden: SKIPPED (not in ready set)
+pm_modi_gen_z_event: SUCCESS -> video_path=videos/pm_modi_gen_z_event.mp4 dur=23.089887
+grindr_hiv_privacy_settlement: SUCCESS -> video_path=videos/grindr_hiv_privacy_settlement.mp4 dur=38.255215
