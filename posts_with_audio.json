@@ -1,113 +1,337 @@
 [
   {
-    "topic_label": "delhi_satya_niketan_building_collapse_protest",
-    "virality_score": 9,
-    "reason": "High emotional impact as students protest against unsafe housing conditions after a fatal collapse.",
+    "topic_label": "gurugram_car_accident_girl_death",
+    "virality_score": 10,
+    "reason": "Heart-wrenching crime story involving a child; triggers strong emotional response and outrage.",
     "region": "india",
-    "headline": "&#039;यह हादसा नहीं, हत्या है!&#039; सत्य निकेतन केस में सड़कों पर DU छात्र",
-    "source_summary": "सत्य निकेतन में जर्जर इमारत ढहने से हुए हादसे ने दिल्ली विश्वविद्यालय के छात्रों का गुस्सा भड़का दिया है. पर्याप्त हॉस्टल न मिलने के कारण असुरक्षित और महंगे प्राइवेट पीजी में रहने को मजबूर छात्रों ने अब सड़कों पर उतरकर मोर्चा खोल दिया है. \"यह हादसा नहीं, हत्या है\" के नारों के साथ छात्र मुआवजे, पीजी के सेफ्टी ऑडिट और यूनिवर्सिटी प्रशासन से जवाबदेही की मांग कर रहे हैं.",
-    "source_url": "https://www.aajtak.in/education/news/story/delhi-university-saty-niketan-building-collapse-student-protest-hostel-edmm-rpti-2638708-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T13:31:03+05:30",
-    "hook": "दिल्ली यूनिवर्सिटी के छात्रों का फूटा गुस्सा, कहा यह हादसा नहीं, हत्या है!",
-    "script_hi": "दिल्ली के सत्य निकेतन में जर्जर इमारत गिरने के बाद छात्रों का प्रदर्शन जारी है। छात्रों का कहना है कि यह हादसा नहीं, हत्या है। पर्याप्त हॉस्टल न होने के कारण छात्र असुरक्षित प्राइवेट पीजी में रहने को मजबूर हैं। छात्र अब मुआवजे, पीजी के सेफ्टी ऑडिट और प्रशासन से जवाबदेही की मांग कर रहे हैं।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन में जर्जर इमारत गिरने के बाद छात्रों का प्रदर्शन जारी है। छात्रों का कहना है कि यह हादसा नहीं, हत्या है। पर्याप्त हॉस्टल न होने के कारण छात्र असुरक्षित प्राइवेट पीजी में रहने को मजबूर हैं। छात्र अब मुआवजे, पीजी के सेफ्टी ऑडिट और प्रशासन से जवाबदेही की मांग कर रहे हैं।",
-    "title": "सत्य निकेतन हादसा: सड़कों पर DU छात्र",
-    "caption": "सत्य निकेतन में इमारत गिरने के बाद दिल्ली यूनिवर्सिटी के छात्रों का विरोध प्रदर्शन।",
+    "headline": "गुरुग्राम में दर्दनाक हादसा! घर के बाहर खेल रही बच्ची पर चढ़ी कार, मासूम की मौत; ड्राइवर फरार",
+    "source_summary": "गुरुग्राम सेक्टर-5 में घर के बाहर खेल रही 2 साल की बच्ची को कार ने कुचल दिया और उसकी मौत हो गई. हादसे के बाद ड्राइवर फरार बताया जा रहा है.",
+    "source_url": "https://ndtv.in/haryana/gurugram-accident-child-death-car-runs-over-cctv-footage-driver-ran-away-12016700#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 12:51:14 +0530",
+    "hook": "गुरुग्राम में दिल दहला देने वाली घटना, कार की चपेट में आई दो साल की मासूम!",
+    "script_hi": "गुरुग्राम के सेक्टर पांच में एक दर्दनाक हादसा हुआ है। घर के बाहर खेल रही दो साल की एक बच्ची को कार ने कुचल दिया, जिससे उसकी मौके पर ही मौत हो गई। हादसे के बाद ड्राइवर कार समेत मौके से फरार हो गया है। पुलिस अब आरोपी की तलाश कर रही है।",
+    "tts_text_hi": "गुरुग्राम के सेक्टर पांच में एक दर्दनाक हादसा हुआ है। घर के बाहर खेल रही दो साल की एक बच्ची को कार ने कुचल दिया, जिससे उसकी मौके पर ही मौत हो गई। हादसे के बाद ड्राइवर कार समेत मौके से फरार हो गया है। पुलिस अब आरोपी की तलाश कर रही है।",
+    "title": "गुरुग्राम में मासूम की मौत",
+    "caption": "गुरुग्राम के सेक्टर पांच में कार की चपेट में आने से दो साल की बच्ची की दर्दनाक मौत, ड्राइवर फरार।",
     "hashtags": [
-      "DelhiUniversity",
-      "SatyaNiketan",
-      "StudentProtest",
-      "DelhiNews",
-      "DU",
-      "Justice",
-      "SafetyAudit"
+      "Gurugram",
+      "RoadAccident",
+      "BreakingNews",
+      "HindiNews",
+      "CrimeNews",
+      "Haryana"
     ],
     "visual_queries": [
-      "Indian college students protesting",
-      "crumbled building ruins India",
-      "students holding signs India",
-      "Delhi University campus India"
+      "Indian residential street",
+      "police investigation India",
+      "crying child silhouette",
+      "police tape barrier India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific visuals of the collapsed building in Satya Niketan which require real footage to accurately represent the incident rather than generic B-roll.",
+    "flag_reason": "The story involves a specific tragic incident involving a minor and a hit-and-run, which requires manual selection of appropriate, sensitive stock footage or neutral imagery to avoid sensationalism.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/8160489/8160489-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "students holding signs India",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 9,
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087855/pexels-photo-39087855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19927651/pexels-photo-19927651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian college students protesting",
-        "credit": "Satyam Pixels",
+        "query": "Indian residential street",
+        "credit": "Kalpit Visavadiya",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17596990/pexels-photo-17596990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crumbled building ruins India",
-        "credit": "GOWTHAM AGM",
+        "query": "police tape barrier India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "satya_niketan_building_collapse_arrests",
+    "virality_score": 9,
+    "reason": "High-impact follow-up to a major tragedy; accountability stories perform well.",
+    "region": "india",
+    "headline": "सत्य निकेतन इमारत हादसे में मालिक समेत तीन गिरफ्तार",
+    "source_summary": "दक्षिण दिल्ली के सत्य निकेतन में बहुमंजिला इमारत गिरने के बाद पुलिस ने बिल्डिंग मालिक हरिराम, उसकी पत्नी उर्मिला और बेटे महेश को गिरफ्तार किया है। MCD ने दक्षिण जोन के पांच अधिकारियों को निलंबित किया।",
+    "source_url": "https://www.aajtak.in/short-videos/video/south-delhi-building-collapse-saty-niketan-arrest-suspension-administrative-action-structural-audit-delhi-police-rekha-gupta-mmtc-2638628-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T12:02:05+05:30",
+    "hook": "दिल्ली के सत्य निकेतन में इमारत गिरने के मामले में बड़ी कार्रवाई!",
+    "script_hi": "दिल्ली के सत्य निकेतन इलाके में बहुमंजिला इमारत गिरने के बाद पुलिस ने बड़ी कार्रवाई की है। हादसे के बाद बिल्डिंग मालिक हरिराम, उनकी पत्नी उर्मिला और बेटे महेश को पुलिस ने गिरफ्तार कर लिया है। वहीं लापरवाही बरतने के आरोप में एम-सी-डी के पांच अधिकारियों को भी निलंबित कर दिया गया है। प्रशासन की इस सख्त कार्रवाई ने इलाके में हड़कंप मचा दिया है।",
+    "tts_text_hi": "दिल्ली के सत्य निकेतन इलाके में बहुमंजिला इमारत गिरने के बाद पुलिस ने बड़ी कार्रवाई की है। हादसे के बाद बिल्डिंग मालिक हरिराम, उनकी पत्नी उर्मिला और बेटे महेश को पुलिस ने गिरफ्तार कर लिया है। वहीं लापरवाही बरतने के आरोप में एमसीडी के पांच अधिकारियों को भी निलंबित कर दिया गया है। प्रशासन की इस सख्त कार्रवाई ने इलाके में हड़कंप मचा दिया है।",
+    "title": "सत्य निकेतन इमारत हादसा: मालिक समेत तीन गिरफ्तार",
+    "caption": "दिल्ली के सत्य निकेतन इमारत हादसे में बड़ी कार्रवाई, मालिक समेत परिवार के तीन सदस्य गिरफ्तार और पांच अधिकारी निलंबित।",
+    "hashtags": [
+      "DelhiNews",
+      "SatyaNiketan",
+      "BuildingCollapse",
+      "DelhiPolice",
+      "MCD",
+      "BreakingNews",
+      "India"
+    ],
+    "visual_queries": [
+      "demolished building ruins India",
+      "Delhi Police investigation India",
+      "Indian municipal corporation office",
+      "police handcuffs India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story refers to a specific local incident (Satya Niketan building collapse) which requires specific on-site footage of the debris for accuracy; generic stock footage would misrepresent the specific site.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "demolished building ruins India",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 32,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Delhi Police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian municipal corporation office",
+        "credit": "Abhishek Mishra",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28932304/pexels-photo-28932304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7714896/pexels-photo-7714896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi University campus India",
-        "credit": "Rishabh Dhiman",
+        "query": "police handcuffs India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "guwahati_fridge_murder_case",
+    "topic_label": "kanpur_businessman_murder_mastermind",
     "virality_score": 9,
-    "reason": "Brutal and bizarre crime case with graphic details that drive high engagement on news shorts.",
+    "reason": "High-profile murder case with a 'daughter-in-law mastermind' hook is a classic crime thriller narrative.",
+    "region": "india",
+    "headline": "ससुर के पास अरबों का साम्राज्य, पर खर्च करने को तरसती थी बहू!",
+    "source_summary": "कानपुर में 63 वर्षीय दवा कारोबारी विनीत मिनोचा की चाकू से 26 वार कर नृशंस हत्या कर दी गई. पुलिस मुठभेड़ में पकड़े गए आरोपियों ने दावा किया कि हत्या कारोबारी की बहू शालू के कहने पर की गई थी, जो पारिवारिक बंदिशों से परेशान थी.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kanpur-bahu-shalu-sasur-vineet-minocha-murder-inside-story-multi-billion-rs-empire-money-dispute-lclam-dskc-2638259-2026-09-07?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-07T19:46:01+05:30",
+    "hook": "अरबों का मालिक, पर बहू की साजिश में गई जान!",
+    "script_hi": "कानपुर में दवा कारोबारी विनीत मिनोचा की नृशंस हत्या से सनसनी फैल गई। तिरसठ वर्षीय कारोबारी पर चाकू से छब्बीस बार वार किए गए। पुलिस मुठभेड़ में पकड़े गए आरोपियों ने हैरान कर देने वाला खुलासा किया। हत्या की साजिश कारोबारी की बहू शालू ने रची थी। आरोप है कि वह ससुर की पारिवारिक बंदिशों और तंगी से परेशान थी।",
+    "tts_text_hi": "कानपुर में दवा कारोबारी विनीत मिनोचा की नृशंस हत्या से सनसनी फैल गई। तिरसठ वर्षीय कारोबारी पर चाकू से छब्बीस बार वार किए गए। पुलिस मुठभेड़ में पकड़े गए आरोपियों ने हैरान कर देने वाला खुलासा किया। हत्या की साजिश कारोबारी की बहू शालू ने रची थी। आरोप है कि वह ससुर की पारिवारिक बंदिशों और तंगी से परेशान थी।",
+    "title": "कानपुर दवा कारोबारी हत्याकांड",
+    "caption": "कानपुर में अरबपति ससुर की बहू ने ही रची हत्या की साजिश, चौंकाने वाला खुलासा।",
+    "hashtags": [
+      "KanpurCrime",
+      "CrimeNews",
+      "HindiNews",
+      "ShockingStory",
+      "LatestUpdate",
+      "Kanpur"
+    ],
+    "visual_queries": [
+      "Kanpur city street India",
+      "police investigation scene India",
+      "forensic investigation medical crime India",
+      "angry woman silhouette shadow",
+      "Indian police station office"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves an unproven criminal allegation against a specific named individual (the daughter-in-law, Shalu) regarding a murder conspiracy.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10963370/pexels-photo-10963370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kanpur city street India",
+        "credit": "Ayush Gautam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34961947/pexels-photo-34961947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian luxury mansion",
+        "credit": "Yash Verma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481245/pexels-photo-10481245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "forensic investigation medical crime India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station office",
+        "credit": "Aakash Panwar",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "guwahati_bride_murder_fridge",
+    "virality_score": 9,
+    "reason": "Gruesome domestic crime story; the 'fridge' aspect is a recurring viral trope in Indian crime news.",
     "region": "india",
     "headline": "Riya Talukdar Goswami कौन थी? कटा सिर फ्रिज में-उंगलियां भी काट दी, दुल्हन की लाश संग पति ने क्या-क्या किया?",
     "source_summary": "Guwahati Bride Riya Talukdar Goswami Murder: असम के गुवाहाटी में 25 वर्षीय दुल्हन की हत्या का सनसनीखेज मामला सामने आया है। बशिष्ठपुर इलाके के एक फ्लैट से 6 महीने पहले दुल्हन बनी युवती का सड़ा हुआ शव बरामद हुआ। पुलिस के",
     "source_url": "https://hindi.oneindia.com/news/india/riya-talukdar-goswami-murder-reason-husband-chopped-bride-severed-head-fingers-fridge-guwahati-news-1644097.html",
     "source_name": "Oneindia Hindi",
     "published": "Mon, 07 Sep 2026 20:26:22 +0530",
-    "hook": "गुवाहाटी में एक खौफनाक वारदात ने पूरे देश को दहला दिया है!",
-    "script_hi": "गुवाहाटी में एक खौफनाक वारदात ने पूरे देश को दहला दिया है। पच्चीस साल की रिया तालुकदार गोस्वामी का शव उनके ही फ्लैट से बेहद ही वीभत्स हालत में मिला है। आरोप है कि पति ने बेरहमी से पत्नी की हत्या की, उसका सिर काटकर फ्रिज में छिपा दिया और उंगलियां भी काट दीं। छह महीने पहले ही रिया की शादी हुई थी। पुलिस के मुताबिक शव बुरी तरह सड़ चुका था जिससे अंदाजा लगाया जा रहा है कि यह वारदात काफी पहले हुई होगी। आरोपी फरार है और पुलिस उसकी तलाश में जुटी है।",
-    "tts_text_hi": "गुवाहाटी में एक खौफनाक वारदात ने पूरे देश को दहला दिया है। पच्चीस साल की रिया तालुकदार गोस्वामी का शव उनके ही फ्लैट से बेहद ही वीभत्स हालत में मिला है। आरोप है कि पति ने बेरहमी से पत्नी की हत्या की, उसका सिर काटकर फ्रिज में छिपा दिया और उंगलियां भी काट दीं। छह महीने पहले ही रिया की शादी हुई थी। पुलिस के मुताबिक शव बुरी तरह सड़ चुका था जिससे अंदाजा लगाया जा रहा है कि यह वारदात काफी पहले हुई होगी। आरोपी फरार है और पुलिस उसकी तलाश में जुटी है।",
-    "title": "Guwahati Brutal Murder Case",
-    "caption": "गुवाहाटी में विवाहिता की बेरहमी से हत्या, फ्रिज में मिला कटा हुआ सिर।",
+    "hook": "गुवाहाटी में दिल दहला देने वाली वारदात, फ्रिज में मिली दुल्हन की लाश!",
+    "script_hi": "गुवाहाटी के बशिष्ठपुर इलाके में एक सनसनीखेज मामला सामने आया है। यहाँ पच्चीस वर्षीय रिया तालुकदार गोस्वामी की बेरहमी से हत्या कर दी गई। छह महीने पहले ही दुल्हन बनी रिया का शव एक फ्लैट के फ्रिज से बरामद हुआ है। बताया जा रहा है कि कातिलों ने रिया के शरीर के टुकड़े-टुकड़े कर दिए थे और उंगलियां भी काट दी थीं। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "गुवाहाटी के बशिष्ठपुर इलाके में एक सनसनीखेज मामला सामने आया है। यहाँ पच्चीस वर्षीय रिया तालुकदार गोस्वामी की बेरहमी से हत्या कर दी गई। छह महीने पहले ही दुल्हन बनी रिया का शव एक फ्लैट के फ्रिज से बरामद हुआ है। बताया जा रहा है कि कातिलों ने रिया के शरीर के टुकड़े-टुकड़े कर दिए थे और उंगलियां भी काट दी थीं। पुलिस मामले की जांच कर रही है।",
+    "title": "गुवाहाटी में दुल्हन की निर्मम हत्या",
+    "caption": "गुवाहाटी के बशिष्ठपुर में 25 वर्षीय नवविवाहिता की फ्रिज में मिली लाश, इलाके में सनसनी।",
     "hashtags": [
-      "Guwahati",
+      "GuwahatiCrime",
       "AssamNews",
-      "CrimeReport",
-      "JusticeForRiya",
-      "CrimeNews"
+      "CrimeNews",
+      "HindiNews",
+      "LatestUpdate",
+      "Guwahati"
     ],
     "visual_queries": [
-      "India police investigation tape",
-      "Guwahati city skyline India",
-      "residential apartment building India",
-      "forensic investigation team India"
+      "Guwahati city street India",
+      "Indian police crime scene investigation",
+      "refrigerator in apartment",
+      "police yellow tape India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 30,
+    "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This is an ongoing criminal investigation involving a specific named individual (the victim) and a gruesome crime scene description which requires sensitive handling.",
+    "flag_reason": "This is a sensitive, gruesome criminal investigation. While it is reported fact, the visual elements of a specific local crime scene cannot be covered by generic stock footage; manual selection of appropriate, non-graphic news imagery is required.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10576296/pexels-photo-10576296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Guwahati city street India",
+        "credit": "Gyanongkur Das",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police crime scene investigation",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5825422/pexels-photo-5825422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "refrigerator in apartment",
+        "credit": "Charlotte May",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police yellow tape India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "delhi_adarsh_nagar_murder",
+    "virality_score": 8,
+    "reason": "Violent crime in the national capital always draws high engagement.",
+    "region": "india",
+    "headline": "दिल्ली: आदर्श नगर में 28 साल के युवक की हत्या, बरसाईं ताबड़तोड़ गोलियां",
+    "source_summary": "दिल्ली के आदर्श नगर को आधी रात एक युवक पर गोलियां बरसाईं गईं. युवक को अस्पताल ले जाया गया लेकिन डॉक्टरों ने उसे मृत घोषित किया. पुलिस ने इस मामले में जांच शुरू कर दी है.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-adarsh-nagar-midnight-shootout-twenty-eight-year-old-dies-ntc-acwi-rpti-2638804-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T15:34:21+05:30",
+    "hook": "दिल्ली में फिर दहला इलाका, आधी रात युवक की हत्या।",
+    "script_hi": "राजधानी दिल्ली के आदर्श नगर में सनसनीखेज वारदात। आधी रात को एक अट्ठाइस साल के युवक पर अज्ञात हमलावरों ने ताबड़तोड़ गोलियां बरसा दीं। आनन-फानन में घायल को अस्पताल ले जाया गया, लेकिन डॉक्टरों ने उसे मृत घोषित कर दिया। पुलिस अब सीसीटीवी फुटेज के जरिए आरोपियों की तलाश कर रही है।",
+    "tts_text_hi": "राजधानी दिल्ली के आदर्श नगर में सनसनीखेज वारदात। आधी रात को एक अट्ठाइस साल के युवक पर अज्ञात हमलावरों ने ताबड़तोड़ गोलियां बरसा दीं। आनन-फानन में घायल को अस्पताल ले जाया गया, लेकिन डॉक्टरों ने उसे मृत घोषित कर दिया। पुलिस अब सीसीटीवी फुटेज के जरिए आरोपियों की तलाश कर रही है।",
+    "title": "दिल्ली के आदर्श नगर में युवक की हत्या",
+    "caption": "दिल्ली के आदर्श नगर में अट्ठाइस वर्षीय युवक की गोली मारकर हत्या, पुलिस मामले की जांच में जुटी।",
+    "hashtags": [
+      "DelhiNews",
+      "AdarshNagar",
+      "CrimeNews",
+      "DelhiPolice",
+      "BreakingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "India police investigation tape",
+      "Delhi city street night",
+      "medical emergency hospital India",
+      "police officer checking cctv"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Needs real footage of the specific incident scene if available, as generic B-roll is being used.",
     "assets": [
       {
         "type": "video",
@@ -119,506 +343,237 @@
         "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10576296/pexels-photo-10576296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Guwahati city skyline India",
-        "credit": "Gyanongkur Das",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14043284/pexels-photo-14043284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "residential apartment building India",
-        "credit": "Gaurav Nik",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481269/pexels-photo-10481269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "forensic investigation team India",
+        "query": "Delhi crime scene",
         "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11930016/pexels-photo-11930016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi city street night",
+        "credit": "Kuldeep Rajora",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical emergency hospital India",
+        "credit": "Chauhan Dixant",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "kanpur_businessman_murder_conspiracy",
+    "topic_label": "kota_leopard_rescue",
     "virality_score": 8,
-    "reason": "Classic high-drama crime story involving family betrayal and CCTV evidence, perfect for short video.",
+    "reason": "Leopard in a garden is a visually engaging and high-tension human-wildlife story.",
     "region": "india",
-    "headline": "30 साल की बहू, CCTV से नजर... चौंका देगी कारोबारी हत्याकांड की कहानी",
-    "source_summary": "कानपुर के दवा कारोबारी विनीत मिनोचा हत्याकांड की जांच में चौंकाने वाला मोड़ आया है. ससुर की मौत पर रोती नजर आई करीब 30 साल की बहू शालू को पुलिस ने हत्या की कथित साजिश के आरोप में गिरफ्तार किया है. CCTV फुटेज से पूर्व नौकर विशाल और उसके साथी राजकिशोर तक पुलिस पहुंची.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/young-bahu-shalu-killed-businessman-sasur-for-money-and-cctv-monitoring-kanpur-vineet-manocha-murder-horror-story-lcly-strc-2638670-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T13:05:16+05:30",
-    "hook": "कानपुर हत्याकांड में आया नया मोड़, ससुर के लिए रोने वाली बहू ही निकली कातिल!",
-    "script_hi": "कानपुर में दवा कारोबारी विनीत मिनोचा की हत्या ने सबको हिला दिया है। पुलिस ने मामले की जांच की तो सामने आया एक चौंकाने वाला सच। जो बहू ससुर की मौत पर सबके सामने रो रही थी, वही अब सलाखों के पीछे है। करीब तीस साल की शालू पर हत्या की साजिश रचने का आरोप है। सीसीटीवी फुटेज से सुराग मिला और पुलिस ने पूर्व नौकर विशाल और उसके साथी राजकिशोर को दबोच लिया।",
-    "tts_text_hi": "कानपुर में दवा कारोबारी विनीत मिनोचा की हत्या ने सबको हिला दिया है। पुलिस ने मामले की जांच की तो सामने आया एक चौंकाने वाला सच। जो बहू ससुर की मौत पर सबके सामने रो रही थी, वही अब सलाखों के पीछे है। करीब तीस साल की शालू पर हत्या की साजिश रचने का आरोप है। सीसीटीवी फुटेज से सुराग मिला और पुलिस ने पूर्व नौकर विशाल और उसके साथी राजकिशोर को दबोच लिया।",
-    "title": "कानपुर कारोबारी हत्याकांड में बहू गिरफ्तार",
-    "caption": "कानपुर में दवा कारोबारी हत्याकांड की गुत्थी सुलझी, सीसीटीवी से बहू की साजिश का पर्दाफाश।",
+    "headline": "कोटा के सीवी गार्डन में घुसा तेंदुआ, 40 फीट ऊंचे जामुन के पेड़ पर चढ़ा; रेस्क्यू ऑपरेशन जारी",
+    "source_summary": "कोटा के बीचोंबीच स्थित सीवी गार्डन में मंगलवार सुबह एक तेंदुआ घुस आने से हड़कंप मच गया. करीब 200 लोग मॉर्निंग वॉक और योग कर रहे थे, तभी तेंदुआ दिखाई दिया. बाद में वह 40 फीट ऊंचे जामुन के पेड़ पर चढ़ गया. वन विभाग की टीम उसे सुरक्षित पकड़ने के लिए अभियान चला रही है.",
+    "source_url": "https://ndtv.in/india/kota-leopard-climbs-40-feet-tall-jamun-tree-cv-garden-rescue-operation-forest-department-chhatra-vilas-garden-leopard-rajasthan-12016390#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 11:45:24 +0530",
+    "hook": "कोटा के सीवी गार्डन में घुसा तेंदुआ, मची अफरातफरी!",
+    "script_hi": "कोटा के सीवी गार्डन में मंगलवार सुबह एक तेंदुआ घुस आया। उस वक्त वहां करीब दो सौ लोग मौजूद थे। तेंदुआ चालीस फीट ऊंचे जामुन के पेड़ पर चढ़ गया है। वन विभाग की टीम उसे सुरक्षित पकड़ने के लिए रेस्क्यू ऑपरेशन चला रही है।",
+    "tts_text_hi": "कोटा के सीवी गार्डन में मंगलवार सुबह एक तेंदुआ घुस आया। उस वक्त वहां करीब दो सौ लोग मौजूद थे। तेंदुआ चालीस फीट ऊंचे जामुन के पेड़ पर चढ़ गया है। वन विभाग की टीम उसे सुरक्षित पकड़ने के लिए रेस्क्यू ऑपरेशन चला रही है।",
+    "title": "कोटा सीवी गार्डन में घुसा तेंदुआ",
+    "caption": "कोटा के सीवी गार्डन में तेंदुआ घुसने से हड़कंप, पेड़ पर चढ़ा तेंदुआ, वन विभाग का रेस्क्यू जारी।",
     "hashtags": [
-      "KanpurCrime",
-      "BreakingNews",
-      "CrimeNews",
-      "Investigation",
-      "CCTV",
+      "Kota",
+      "Leopard",
+      "RajasthanNews",
+      "RescueOperation",
+      "Wildlife",
       "HindiNews"
     ],
     "visual_queries": [
-      "India police investigation",
-      "Indian residential house",
-      "CCTV camera recording",
-      "India handcuffs arrest"
+      "Indian city garden morning",
+      "leopard on tree India",
+      "forest department vehicle India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves an ongoing criminal investigation and an arrest of a named individual (Shalu) for an alleged conspiracy; while reporting is factual, the inclusion of the specific accused requires caution per safety guidelines.",
+    "flag_reason": "Needs real footage of the specific leopard incident in Kota CV Garden; generic stock footage would misrepresent this event.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "India police investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37877824/pexels-photo-37877824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential house",
-        "credit": "Muhammed zeya",
+        "query": "Indian city garden morning",
+        "credit": "Nawab Alam",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30554249/pexels-photo-30554249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38173205/pexels-photo-38173205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "CCTV camera recording",
-        "credit": "Eray Karataş",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India handcuffs arrest",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "nepal_tunnel_miracle_rescue",
-    "virality_score": 8,
-    "reason": "Human interest story of survival against all odds, has a strong positive viral arc.",
-    "region": "india",
-    "headline": "कीचड़ पिया, भगवान में आस्था ने दी ताकत... नेपाल की सुरंग में बिना खाना-पानी 9 दिन कैसे जिंदा रहे 2 मजदूर?",
-    "source_summary": "Nepal Flood Tunnel Rescue Operation: नेपाल में बाढ़ की विभीषिका के बीच 4 सितंबर को पहली बड़ी गुड न्यूज आई थी. नेपाल की त्रिशूली–3 ‘ए’ सुरंग में 9 दिन से फंसे 2 कर्मचारियों को जिंदा बाहर निकाल लिया गया था.",
-    "source_url": "https://ndtv.in/world-news/nepal-flood-tunnel-rescue-operation-how-two-men-survived-nine-days-by-drinking-muddy-water-kabir-maharjan-sanjay-sah-12016831#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 13:11:55 +0530",
-    "hook": "नौ दिन तक मौत से जंग, नेपाल की सुरंग में फंसे मजदूरों का चमत्कारिक रेस्क्यू!",
-    "script_hi": "नौ दिन तक मौत से जंग, नेपाल की सुरंग में फंसे मजदूरों का चमत्कारिक रेस्क्यू! नेपाल में बाढ़ के बीच त्रिशूली-तीन ए सुरंग में फंसे दो कर्मचारी जिंदा बाहर आए। कीचड़ पीकर और भगवान में अटूट आस्था के दम पर इन्होंने मौत को मात दी। यह रेस्क्यू ऑपरेशन पूरी दुनिया के लिए किसी करिश्मे से कम नहीं है।",
-    "tts_text_hi": "नौ दिन तक मौत से जंग, नेपाल की सुरंग में फंसे मजदूरों का चमत्कारिक रेस्क्यू! नेपाल में बाढ़ के बीच त्रिशूली तीन ए सुरंग में फंसे दो कर्मचारी जिंदा बाहर आए। कीचड़ पीकर और भगवान में अटूट आस्था के दम पर इन्होंने मौत को मात दी। यह रेस्क्यू ऑपरेशन पूरी दुनिया के लिए किसी करिश्मे से कम नहीं है।",
-    "title": "नेपाल सुरंग रेस्क्यू",
-    "caption": "नेपाल में नौ दिन बाद सुरंग से सुरक्षित बाहर निकाले गए दो मजदूर।",
-    "hashtags": [
-      "NepalNews",
-      "RescueOperation",
-      "Miracle",
-      "NepalFlood",
-      "BreakingNews",
-      "SurvivalStory"
-    ],
-    "visual_queries": [
-      "Nepal mountainous landscape",
-      "underground tunnel entrance",
-      "rescue team members",
-      "praying hands symbol"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Needs real footage of the specific rescue operation in Nepal, as generic stock footage would misrepresent the event.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35890635/15222630_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Nepal mountainous landscape",
-        "credit": "Yubaraj stha",
-        "source_duration_sec": 21,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37617036/15943703_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "underground tunnel entrance",
-        "credit": "HÜSEYİN AVCI",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10363552/pexels-photo-10363552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue team members",
-        "credit": "Ron Lach",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 17,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "samastipur_train_liquor_smuggling",
-    "virality_score": 7,
-    "reason": "Intriguing story of a woman smuggling liquor in first-class train coaches; visually compelling.",
-    "region": "india",
-    "headline": "Samastipur में शराब ले जाती नेहा झा कौन? तस्करी के खतरनाक धंधे का पर्दाफाश!",
-    "source_summary": "Samastipur Viral Video: दिल्ली से फर्स्ट AC में सफर कर रही नेहा झा के दो बड़े सूटकेस ने समस्तीपुर स्टेशन पर हड़कंप मचा दिया। आरपीएफ और CIB की टीम ने जब कूपे की तलाशी ली तो सूटकेस से ब्रांडेड शराब की बोतलें बरामद होने का दावा किया गया। पुलिस के मुताबिक, करीब 75 लीटर शराब बरामद हुई, जिसकी कीमत करीब डेढ़ लाख रुपये बताई जा रही है। बताया जा रहा है कि नेहा झा अपने जीजा ईशान कुमार के साथ बिना टिकट शराब लेकर सफर कर रही थीं। आखिर दिल्ली से बिहार तक फर्स्ट AC में शराब क्यों लाई जा रही थी? क्या इसके पीछे कोई बड़ा नेटवर्क है? देखिए पूरी कहानी।",
-    "source_url": "https://navbharattimes.indiatimes.com/video/news/who-is-neha-jha-caught-transporting-liquor-in-samastipur-a-dangerous-smuggling-racket-busted/videoshow/133912567.cms",
-    "source_name": "Navbharat Times",
-    "published": "Tue, 08 Sep 2026 12:05:00 +0530",
-    "hook": "दिल्ली से बिहार तक फर्स्ट एसी में शराब की तस्करी का बड़ा खुलासा!",
-    "script_hi": "दिल्ली से बिहार तक फर्स्ट एसी में शराब की तस्करी का बड़ा खुलासा! समस्तीपुर स्टेशन पर नेहा झा के दो बड़े सूटकेसों से पचहत्तर लीटर विदेशी शराब बरामद हुई। पुलिस के अनुसार, शराब की कीमत करीब डेढ़ लाख रुपये है। नेहा अपने जीजा ईशान कुमार के साथ बिना टिकट सफर कर रही थीं। पुलिस अब इस बड़े नेटवर्क की जांच कर रही है।",
-    "tts_text_hi": "दिल्ली से बिहार तक फर्स्ट एसी में शराब की तस्करी का बड़ा खुलासा! समस्तीपुर स्टेशन पर नेहा झा के दो बड़े सूटकेसों से पचहत्तर लीटर विदेशी शराब बरामद हुई। पुलिस के अनुसार, शराब की कीमत करीब डेढ़ लाख रुपये है। नेहा अपने जीजा ईशान कुमार के साथ बिना टिकट सफर कर रही थीं। पुलिस अब इस बड़े नेटवर्क की जांच कर रही है।",
-    "title": "समस्तीपुर में फर्स्ट एसी में शराब की तस्करी",
-    "caption": "दिल्ली से बिहार के समस्तीपुर पहुंची फर्स्ट एसी ट्रेन में शराब की बड़ी खेप पकड़ी गई। आरपीएफ की छापेमारी में नेहा झा और ईशान कुमार का नाम सामने आया है।",
-    "hashtags": [
-      "Samastipur",
-      "BiharNews",
-      "CrimeNews",
-      "IndianRailways",
-      "LiquorSmuggling",
-      "ViralVideo"
-    ],
-    "visual_queries": [
-      "Indian railway station platform",
-      "Indian police checking luggage",
-      "expensive alcohol bottles collection",
-      "Indian railway train interior"
-    ],
-    "named_person": "Neha Jha",
-    "named_person_hi": "नेहा झा",
-    "secondary_persons": [
-      "Ishan Kumar"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a viral video and specific evidence (the actual luggage and alcohol seized) which cannot be represented by generic stock footage; the exact real-life event requires manual footage insertion.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "नेहा झा",
-        "source": "fallback",
-        "query": "Neha Jha",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway station platform",
-        "credit": "Satvik Pandurangi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19241801/pexels-photo-19241801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway train interior",
-        "credit": "God LØKI",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pm_modi_vadodara_visit_speech",
-    "virality_score": 7,
-    "reason": "PM Modi's strong rhetorical statements against political opponents always drive high viewership.",
-    "region": "india",
-    "headline": "LIVE: 'नाराज फूफा चिल्लाएंगे, अब उन्हें नया काम मिल गया है', फ्रेट कॉरिडोर का जिक्र करते हुए पीएम मोदी का विपक्ष का हमला",
-    "source_summary": "प्रधानमंत्री नरेंद्र मोदी ने 35,000 करोड़ रुपये से ज़्यादा की विकास परियोजनाओं का शिलान्यास, उद्घाटन और उन्हें राष्ट्र को समर्पित क‍िया. इन परियोजनाओं में वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर (WDFC) के तीन अहम हिस्से, रेलवे प्रोजेक्ट, हाईवे प्रोजेक्ट और गुजरात सरकार की परियोजनाएं शामिल हैं.",
-    "source_url": "https://ndtv.in/india/pm-modi-at-namo-for-viksit-bharat-event-in-vadodara-delhi-satya-niketan-collapse-latest-news-and-live-updates-12016642#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 13:25:27 +0530",
-    "hook": "नाराज फूफा को अब मिल गया नया काम, पीएम मोदी ने विपक्ष पर बोला जोरदार हमला!",
-    "script_hi": "नाराज फूफा चिल्लाएंगे, लेकिन अब उन्हें नया काम मिल गया है। पीएम मोदी ने गुजरात में पैंतीस हजार करोड़ रुपये से ज्यादा की विकास परियोजनाओं की सौगात दी। इसमें वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर के तीन अहम हिस्से शामिल हैं। पीएम ने तंज कसते हुए कहा कि विकास के कामों में विपक्ष सिर्फ बाधा डालता है। रेलवे और हाईवे प्रोजेक्ट्स से अब आम लोगों का सफर और आसान होगा।",
-    "tts_text_hi": "नाराज फूफा चिल्लाएंगे, लेकिन अब उन्हें नया काम मिल गया है। प्रधानमंत्री मोदी ने गुजरात में पैंतीस हजार करोड़ रुपये से ज्यादा की विकास परियोजनाओं की सौगात दी। इसमें वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर के तीन अहम हिस्से शामिल हैं। प्रधानमंत्री ने तंज कसते हुए कहा कि विकास के कामों में विपक्ष सिर्फ बाधा डालता है। रेलवे और हाईवे प्रोजेक्ट्स से अब आम लोगों का सफर और आसान होगा।",
-    "title": "पीएम मोदी का विपक्ष पर तंज",
-    "caption": "पीएम मोदी ने गुजरात में 35,000 करोड़ रुपये की परियोजनाओं का उद्घाटन किया और विपक्ष पर साधा निशाना।",
-    "hashtags": [
-      "PMModi",
-      "Gujarat",
-      "Development",
-      "IndianRailways",
-      "Infrastructure",
-      "Politics",
-      "NewsHindi"
-    ],
-    "visual_queries": [
-      "Narendra Modi public speech India",
-      "modern Indian freight train",
-      "construction site India road",
-      "crowd cheering India"
-    ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "नरेंद्र मोदी",
-        "source": "fallback",
-        "query": "Narendra Modi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Narendra Modi public speech India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37414663/pexels-photo-37414663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern Indian freight train",
-        "credit": "Rounak Kayal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35662656/pexels-photo-35662656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "construction site India road",
-        "credit": "ÀniL",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd cheering India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पीएम मोदी का विपक्ष पर तंज: नाराज फूफा को मिला नया काम! 🚆",
-        "caption": "नाराज फूफा को अब मिल गया नया काम, पीएम मोदी ने विपक्ष पर बोला जोरदार हमला! \n\nपीएम मोदी ने फ्रेट कॉरिडोर के बहाने विपक्षी दलों पर तंज कसा है। उन्होंने कहा कि विपक्ष का काम सिर्फ विरोध करना रह गया है।\n\nआखिर किस संदर्भ में कही ये बात? पूरी कहानी वीडियो में देखें।\n\n#PMModi #Opposition #FreightCorridor #IndianPolitics #PoliticalNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नाराज फूफा को अब मिल गया नया काम, पीएम मोदी ने विपक्ष पर बोला जोरदार हमला! 🚆\n\nफ्रेट कॉरिडोर का जिक्र करते हुए पीएम मोदी ने विपक्ष पर तीखा कटाक्ष किया। विपक्ष की कार्यशैली पर उठते सवालों के बीच पीएम का ये बयान चर्चा में है।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#PMModi #Opposition #FreightCorridor #IndianPolitics #PoliticalNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नाराज फूफा को अब मिल गया नया काम, पीएम मोदी ने विपक्ष पर बोला जोरदार हमला! \n\nफ्रेट कॉरिडोर के उद्घाटन के दौरान पीएम मोदी ने विपक्षी दलों पर निशाना साधा। उन्होंने व्यंग्यात्मक लहजे में कहा कि कुछ लोगों का काम ही सिर्फ विरोध करना और नाराज होना रह गया है।\n\nपीएम मोदी का यह वीडियो सोशल मीडिया पर काफी वायरल हो रहा है। वीडियो देखें और अपनी राय साझा करें।\n\n#PMModi #Opposition #FreightCorridor #IndianPolitics #PoliticalNews"
-      },
-      "hashtags": [
-        "PMModi",
-        "Opposition",
-        "FreightCorridor",
-        "IndianPolitics",
-        "PoliticalNews"
-      ]
-    },
-    "audio_path": "audio/pm_modi_vadodara_visit_speech.wav",
-    "audio_duration_sec": 10.9
-  },
-  {
-    "topic_label": "fauda_season_5_netflix",
-    "virality_score": 7,
-    "reason": "Fauda is a very popular series in India; news of its new season will interest a broad audience.",
-    "region": "india",
-    "headline": "फिर लौटा Fauda! दिखेगा इजरायल के इतिहास का वो खौफनाक दिन",
-    "source_summary": "‘फौदा’ सीजन 5 आज Netflix पर स्ट्रीम हो रहा है. 7 अक्टूबर 2023 के हमास हमले के बाद इसकी कहानी बदली गई और अब डोरोन ट्रॉमा, बदले और नए मिशन से जूझता नजर आएगा.",
-    "source_url": "https://www.aajtak.in/entertainment/ott/story/fauda-season-5-hamas-attack-doron-new-story-when-and-where-to-watch-pm-modi-impressed-tmova-dskc-2638684-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T13:36:02+05:30",
-    "hook": "क्या फौदा का पांचवा सीजन और भी ज्यादा खौफनाक है?",
-    "script_hi": "फौदा के फैंस के लिए बड़ी खबर! नेटफ्लिक्स पर सीजन पांच की दस्तक हो चुकी है। इस बार कहानी सात अक्टूबर दो हजार तेईस के हमास हमले पर आधारित है। मुख्य किरदार डोरोन, बदले और नए मिशन के साथ वापसी कर रहे हैं।",
-    "tts_text_hi": "फौदा के फैंस के लिए बड़ी खबर! नेटफ्लिक्स पर सीजन पांच की दस्तक हो चुकी है। इस बार कहानी सात अक्टूबर दो हजार तेईस के हमास हमले पर आधारित है। मुख्य किरदार डोरोन, बदले और नए मिशन के साथ वापसी कर रहे हैं।",
-    "title": "Fauda Season 5 Out Now",
-    "caption": "लोकप्रिय वेब सीरीज फौदा का पांचवा सीजन नेटफ्लिक्स पर रिलीज हो गया है।",
-    "hashtags": [
-      "Fauda",
-      "Netflix",
-      "WebSeries",
-      "Israel",
-      "NewRelease",
-      "HindiNews",
-      "Entertainment"
-    ],
-    "visual_queries": [
-      "streaming service interface",
-      "dramatic action scene",
-      "middle east city skyline",
-      "military operation gear"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The content involves a fictionalized depiction of a recent sensitive geopolitical conflict (Oct 7 Hamas attack) which requires careful editorial oversight for tone.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7793334/7793334-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "dramatic action scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35176/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "streaming service interface",
-        "credit": "freestocks.org",
+        "query": "leopard on tree India",
+        "credit": "Aakarsh Kohli",
         "duration_sec": 5
       }
     ],
     "asset_count": 2,
-    "timeline_covered_sec": 11,
+    "timeline_covered_sec": 10,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "burrito_eating_world_record",
-    "virality_score": 6,
-    "reason": "Fun, harmless, and fast-paced human achievement content that breaks up serious news flow.",
+    "topic_label": "miami_cargo_plane_crash_global",
+    "virality_score": 8,
+    "reason": "Dramatic global footage of a plane crash is essential for maintaining audience attention.",
     "region": "india",
-    "headline": "30 सेकंड में चट कर दिया पूरा बरीटो, लीया शटकीवर ने बनाया अनोखा वर्ल्ड रिकॉर्ड",
-    "source_summary": "खाने के शौकीनों के लिए एक चौंकाने वाली खबर सामने आई है. ब्रिटेन की मशहूर कॉम्पिटिटिव ईटर लीया शटकीवर ने सबसे तेजी से बरीटो खाने का नया विश्व रिकॉर्ड बनाया है. उन्होंने महज 30.75 सेकंड में पूरा बरीटो (burrito) खाकर हर किसी को हैरान कर दिया.",
-    "source_url": "https://ndtv.in/zara-hatke/leah-shutkever-breaks-world-record-by-eating-burrito-in-30-75-seconds-12016073#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 10:03:21 +0530",
-    "hook": "महज तीस सेकंड में पूरा बरीटो गायब! लीया शटकीवर ने बनाया एक नया वर्ल्ड रिकॉर्ड।",
-    "script_hi": "महज तीस सेकंड में पूरा बरीटो गायब! लीया शटकीवर ने बनाया एक नया वर्ल्ड रिकॉर्ड। ब्रिटेन की मशहूर ईटर लीया शटकीवर ने सबसे तेजी से बरीटो खाने का कारनामा कर दिखाया है। उन्होंने केवल तीस दशमलव सात पांच सेकंड में पूरा बरीटो खाकर सबको चौंका दिया। यह अद्भुत रिकॉर्ड अब चर्चा का विषय बन गया है।",
-    "tts_text_hi": "महज तीस सेकंड में पूरा बरीटो गायब! लीया शटकीवर ने बनाया एक नया वर्ल्ड रिकॉर्ड। ब्रिटेन की मशहूर ईटर लीया शटकीवर ने सबसे तेजी से बरीटो खाने का कारनामा कर दिखाया है। उन्होंने केवल तीस दशमलव सात पांच सेकंड में पूरा बरीटो खाकर सबको चौंका दिया। यह अद्भुत रिकॉर्ड अब चर्चा का विषय बन गया है।",
-    "title": "लीया शटकीवर ने बनाया बरीटो ईटिंग वर्ल्ड रिकॉर्ड",
-    "caption": "ब्रिटेन की लीया शटकीवर ने सबसे तेज बरीटो खाने का रिकॉर्ड अपने नाम किया।",
+    "headline": "रनवे से फिसलकर गाड़ियों पर चढ़ा 32 साल पुराना विमान,  5 की मौत, कॉकपिट में फंसे पायलट",
+    "source_summary": "Miami International Airport plane Crash: मियामी इंटरनेशनल एयरपोर्ट पर रविवार को बड़ा विमान हादसा हुआ। अमेजन का एक कार्गो प्लेन रनवे से फिसलकर सड़क की तरफ चला गया और कई गाड़ियों से टकरा गया। टक्कर के बाद प्लेन में आग लग",
+    "source_url": "https://hindi.oneindia.com/news/international/amazon-cargo-plane-crashes-at-miami-airport-into-vehicles-killing-5-1643601.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Mon, 07 Sep 2026 10:45:05 +0530",
+    "hook": "मियामी एयरपोर्ट पर हुआ खौफनाक हादसा, रनवे से फिसला कार्गो विमान!",
+    "script_hi": "मियामी इंटरनेशनल एयरपोर्ट पर रविवार को एक बड़ा विमान हादसा हुआ। बत्तीस साल पुराना अमेजन का कार्गो विमान रनवे से फिसलकर सड़क पर जा गिरा और वहां मौजूद कई गाड़ियों से टकरा गया। इस भीषण टक्कर में पांच लोगों की मौत की खबर है, जबकि पायलट अभी भी कॉकपिट में फंसे हुए हैं। राहत और बचाव कार्य जारी है।",
+    "tts_text_hi": "मियामी इंटरनेशनल एयरपोर्ट पर रविवार को एक बड़ा विमान हादसा हुआ। बत्तीस साल पुराना अमेजन का कार्गो विमान रनवे से फिसलकर सड़क पर जा गिरा और वहां मौजूद कई गाड़ियों से टकरा गया। इस भीषण टक्कर में पांच लोगों की मौत की खबर है, जबकि पायलट अभी भी कॉकपिट में फंसे हुए हैं। राहत और बचाव कार्य जारी है।",
+    "title": "मियामी एयरपोर्ट विमान हादसा",
+    "caption": "मियामी इंटरनेशनल एयरपोर्ट पर कार्गो विमान हादसे में पांच लोगों की मौत, रेस्क्यू ऑपरेशन जारी।",
     "hashtags": [
-      "WorldRecord",
-      "FoodChallenge",
-      "Burrito",
-      "LeahShutkever",
-      "ViralVideo",
-      "AmazingRecord"
+      "MiamiAirport",
+      "PlaneCrash",
+      "BreakingNews",
+      "CargoPlane",
+      "Accident",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "competitive eating contest",
-      "mexican burrito plate",
-      "woman eating fast",
-      "stopwatch counting seconds"
+      "Miami International Airport aerial view",
+      "cargo plane runway crash site",
+      "emergency vehicles fire department",
+      "wrecked cars road accident",
+      "airport rescue team operation"
     ],
-    "named_person": "Leah Shutkever",
-    "named_person_hi": "लीया शटकीवर",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story is about a specific, breaking viral incident that requires real footage of the specific crash site/aircraft to be accurate; generic stock imagery would be misleading.",
     "assets": [
       {
-        "type": "text_card",
-        "text": "लीया शटकीवर",
-        "source": "fallback",
-        "query": "Leah Shutkever",
-        "duration_sec": 4.0
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane runway",
+        "credit": "Juan  Hernández",
+        "duration_sec": 5
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6279748/6279748-hd_720_1280_24fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13466262/pexels-photo-13466262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fast food eating",
-        "credit": "Uriel Mont",
-        "source_duration_sec": 10,
+        "query": "emergency vehicles fire department",
+        "credit": "Atlantic Ambience",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12502082/pexels-photo-12502082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wrecked cars road accident",
+        "credit": "Vladyslav Huivyk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33824588/pexels-photo-33824588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airport rescue team operation",
+        "credit": "Jonathan Borba",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "hapur_factory_fire",
+    "virality_score": 7,
+    "reason": "Visual spectacle of fire and industrial accidents often goes viral on short-form platforms.",
+    "region": "india",
+    "headline": "हापुड़ की केमिकल फैक्ट्री में भीषण आग, धुएं के गुबार से भर गया इलाका",
+    "source_summary": "यूपी के हापुड़ में मंगलवार को हादसा हो गया. जहां एक केमिकल फ़ैक्ट्री में भीषण आग लगने से खलबली मच गई. ये फैक्ट्री उत्तर प्रदेश राज्य औद्योगिक विकास निगम क्षेत्र में स्थित है. आग से उठता धुएं का गुबार आसमान में कई दूर तक दिखाई दिया. देखें वीडियो.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/video/hapur-dhaulana-chemical-factory-fire-video-upsidc-industrial-area-vdot-2638742-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T14:14:52+05:30",
+    "hook": "उत्तर प्रदेश के हापुड़ में केमिकल फैक्ट्री में लगी भीषण आग!",
+    "script_hi": "उत्तर प्रदेश के हापुड़ में मंगलवार को एक केमिकल फैक्ट्री में भीषण आग लग गई। आग का धुआं इतना घना था कि आसमान में दूर-दूर तक काले बादल छा गए। यह घटना यूपी औद्योगिक विकास निगम क्षेत्र की है। राहत और बचाव कार्य जारी है।",
+    "tts_text_hi": "उत्तर प्रदेश के हापुड़ में मंगलवार को एक केमिकल फैक्ट्री में भीषण आग लग गई। आग का धुआं इतना घना था कि आसमान में दूर-दूर तक काले बादल छा गए। यह घटना यूपी औद्योगिक विकास निगम क्षेत्र की है। राहत और बचाव कार्य जारी है।",
+    "title": "हापुड़ में केमिकल फैक्ट्री में लगी आग",
+    "caption": "हापुड़ की केमिकल फैक्ट्री में लगी भीषण आग, धुएं के गुबार से भर गया इलाका।",
+    "hashtags": [
+      "Hapur",
+      "Fire",
+      "UttarPradesh",
+      "BreakingNews",
+      "HindiNews",
+      "FactoryFire"
+    ],
+    "visual_queries": [
+      "Indian industrial estate",
+      "massive dark smoke plume",
+      "fire emergency India",
+      "fire engine India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Needs the real image/video of the specific factory fire incident added manually as generic stock footage would misrepresent the event.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/17429991/17429991-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "massive dark smoke plume",
+        "credit": "Grigoriy Bunkov",
+        "source_duration_sec": 14,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12737921/pexels-photo-12737921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5323962/pexels-photo-5323962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "mexican burrito plate",
-        "credit": "dhiraj jain",
+        "query": "Indian industrial estate",
+        "credit": "Its Kiran",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6697285/pexels-photo-6697285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/26950367/pexels-photo-26950367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "woman eating fast",
-        "credit": "Tim  Samuel",
+        "query": "fire emergency India",
+        "credit": "Pugazhenthi S",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5563404/pexels-photo-5563404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36397990/pexels-photo-36397990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "stopwatch counting seconds",
-        "credit": "Alla Eddine Taleb",
+        "query": "industrial fire smoke",
+        "credit": "Willians Huerta",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "30 सेकंड में पूरा बरीटो खत्म! बना नया वर्ल्ड रिकॉर्ड 🌯",
-        "caption": "महज तीस सेकंड में पूरा बरीटो गायब! लीया शटकीवर ने इसे खाकर नया वर्ल्ड रिकॉर्ड बना दिया है। \n\nबड़े-बड़े धुरंधर भी हैरान हैं कि आखिर उन्होंने इतनी जल्दी यह कैसे कर दिखाया। खाने की इस रफ्तार ने इंटरनेट पर तहलका मचा दिया है। \n\nक्या आप भी इतनी जल्दी खाना खा सकते हैं? कमेंट में बताएं।\n\n#WorldRecord #BurritoChallenge #EatingRecord #ViralVideo #LeahShutkever"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "महज तीस सेकंड में पूरा बरीटो गायब! 🌯 लीया शटकीवर ने इसे खाकर नया वर्ल्ड रिकॉर्ड बना दिया है। \n\nबड़े-बड़े धुरंधर भी यह देखकर दंग रह गए। आपकी इस रिकॉर्ड के बारे में क्या राय है? नीचे कमेंट में बताएं!\n\n#WorldRecord #BurritoChallenge #EatingRecord #ViralVideo #LeahShutkever"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "महज तीस सेकंड में पूरा बरीटो गायब! लीया शटकीवर ने इतनी तेजी से खाना खाकर नया वर्ल्ड रिकॉर्ड बनाया है कि लोग अपनी आंखों पर यकीन नहीं कर पा रहे। \n\nसोशल मीडिया पर यह वीडियो खूब वायरल हो रहा है। क्या आपने कभी किसी को इतनी तेजी से खाते हुए देखा है? अपनी राय कमेंट बॉक्स में जरूर दें।\n\n#WorldRecord #BurritoChallenge #EatingRecord #ViralVideo #LeahShutkever"
-      },
-      "hashtags": [
-        "WorldRecord",
-        "BurritoChallenge",
-        "EatingRecord",
-        "ViralVideo",
-        "LeahShutkever"
-      ]
-    },
-    "audio_path": "audio/burrito_eating_world_record.wav",
-    "audio_duration_sec": 21.57
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "pending_review"
   }
 ]
