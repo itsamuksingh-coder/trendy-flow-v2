@@ -1,48 +1,40 @@
 [
   {
-    "topic_label": "pm_modi_mumbai_visit_security_scare",
+    "topic_label": "mumbai_pm_security_breach",
     "virality_score": 9,
-    "reason": "High-stakes security breach involving PM's visit and fake PMO IDs has immediate, intense news value.",
+    "reason": "Security breach involving fake PMO IDs and a firearm near the PM's event in Mumbai is a high-stakes, breaking news story.",
     "region": "india",
-    "headline": "PM मोदी के कार्यक्रम से पहले अंबानी कल्चरल सेंटर से 2 संदिग्ध हिरासत में, PMO की फर्जी ID और बंदूक बरामद",
-    "source_summary": "प्रधानमंत्री मोदी के मुंबई दौरे से पहले BKC स्थित नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से दो संदिग्ध व्यक्तियों को हिरासत में लिया गया है. सूत्रों के मुताबिक, इनमें से एक के पास से बंदूक और एक के पास से PMO का फर्जी पहचान पत्र मिला है.",
-    "source_url": "https://www.aajtak.in/india/news/story/pm-kae-daaurae-sae-pahalae-anbaanai-kalacarala-saentara-sae-dao-sandaigadha-hairaasata-maen-eka-kae-paasa-mailai-pmo-kai-pharajai-aidai-rpti-2638855-2026-09-08?utm_source=rssfeed",
+    "headline": "मुंबई में PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
+    "source_summary": "मुंबई में पीएम मोदी की मंगलवार को रैली से पहले दो संदिग्धों को पुलिस ने हिरासत में लिया. जिनके पास से बंदूक बरामद हुई है. एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था. उनके पास से PMO का फर्जी आई़डी कार्ड भी मिला. नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से ये दोनों संदिग्ध डिटेन किए गए. देखें वीडियो.",
+    "source_url": "https://www.aajtak.in/india/news/video/pm-modi-mumbai-event-nita-ambani-cultural-center-security-scare-fake-pmo-officer-suspect-detained-vdot-2638910-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T16:22:27+05:30",
-    "hook": "मुंबई में पीएम मोदी के दौरे से ठीक पहले बड़ी सुरक्षा चूक का मामला सामने आया है।",
-    "script_hi": "प्रधानमंत्री मोदी के मुंबई दौरे से पहले नीता मुकेश अंबानी कल्चरल सेंटर से दो संदिग्ध हिरासत में लिए गए हैं। पुलिस को तलाशी के दौरान एक संदिग्ध के पास से बंदूक और दूसरे के पास से प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र मिला है। मुंबई पुलिस मामले की गहन जांच कर रही है।",
-    "tts_text_hi": "प्रधानमंत्री मोदी के मुंबई दौरे से पहले नीता मुकेश अंबानी कल्चरल सेंटर से दो संदिग्ध हिरासत में लिए गए हैं। पुलिस को तलाशी के दौरान एक संदिग्ध के पास से बंदूक और दूसरे के पास से प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र मिला है। मुंबई पुलिस मामले की गहन जांच कर रही है।",
-    "title": "मुंबई में पीएम मोदी के दौरे से पहले संदिग्ध गिरफ्तार",
-    "caption": "मुंबई में पीएम मोदी के दौरे से पहले नीता मुकेश अंबानी कल्चरल सेंटर से दो संदिग्ध गिरफ्तार।",
+    "published": "2026-09-08T17:29:47+05:30",
+    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से ठीक पहले बड़ा सुरक्षा चूक का मामला सामने आया है।",
+    "script_hi": "मुंबई में प्रधानमंत्री मोदी के इवेंट वाली जगह पर दो संदिग्धों को पकड़ा गया है। इनके पास से बंदूक और पीएमओ का फर्जी आई़डी कार्ड बरामद हुआ है। नीता मुकेश अंबानी कल्चरल सेंटर से इन्हें डिटेन किया गया है।",
+    "tts_text_hi": "मुंबई में प्रधानमंत्री मोदी के इवेंट वाली जगह पर दो संदिग्धों को पकड़ा गया है। इनके पास से बंदूक और पीएमओ का फर्जी आई़डी कार्ड बरामद हुआ है। नीता मुकेश अंबानी कल्चरल सेंटर से इन्हें डिटेन किया गया है।",
+    "title": "मुंबई में PM मोदी के इवेंट के पास संदिग्ध गिरफ्तार",
+    "caption": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, फर्जी आईडी और हथियार बरामद।",
     "hashtags": [
       "Mumbai",
       "PMModi",
       "SecurityAlert",
+      "MumbaiNews",
       "BreakingNews",
       "Maharashtra"
     ],
     "visual_queries": [
-      "Indian police patrolling city",
-      "modern convention center India",
-      "police investigation India",
-      "fake id card close up"
+      "Mumbai cityscape India",
+      "Indian police officers standing",
+      "fake identification card concept",
+      "modern convention center India"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves an active security breach and arrests near a high-profile location. While the incident is reported as fact, the visual identification of the specific suspects and the exact crime scene requires manual footage integration beyond generic stock.",
+    "flag_reason": "The story mentions a specific, sensitive security incident at a specific location; stock footage cannot accurately represent the actual scene of the arrest or the specific individuals involved.",
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
       {
         "type": "image",
         "url": "downloaded_assets/person_53628df314.jpg",
@@ -53,230 +45,107 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police patrolling city",
-        "credit": "GOWTHAM AGM",
+        "query": "Mumbai cityscape India",
+        "credit": "Deepak Bhandari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7108126/pexels-photo-7108126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fake id card close up",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "satya_niketan_building_collapse_crisis",
-    "virality_score": 9,
-    "reason": "Ongoing emotional and safety crisis in a major student hub creates high audience engagement and urgency.",
-    "region": "india",
-    "headline": "सत्य निकेतन त्रासदी: 7 मौतें, अब भय से पलायन कर रहे DU छात्र",
-    "source_summary": "दक्षिण दिल्ली के सत्य निकेतन में 5 मंजिला इमारत ढहने से हुई 7 मौतों ने पूरे साउथ कैंपस को खौफ में डाल दिया है. ₹25 हजार तक भारी-भरकम किराया वसूलने वाले प्राइवेट हॉस्टलों की असलियत सामने आते ही दिल्ली विश्वविद्यालय के आउटस्टेशन छात्रों में पलायन मच गया है. मलबे का डर, जर्जर छतें और घर से रोते माता-पिता के फोन, हादसे के बाद छात्र सूटकेस समेटकर वापस लखनऊ, राजस्थान और हरियाणा लौटने को मजबूर हैं.",
-    "source_url": "https://www.aajtak.in/education/news/photo/satya-niketan-building-du-south-campus-pg-students-leaving-delhi-edmm-2638847-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T16:03:58+05:30",
-    "hook": "दिल्ली यूनिवर्सिटी में हॉस्टल हादसे के बाद मचा कोहराम, छात्र डर के साये में अपना घर छोड़ने को मजबूर।",
-    "script_hi": "सत्य निकेतन में पांच मंजिला इमारत गिरने से हुई सात मौतों ने पूरे साउथ कैंपस को हिला कर रख दिया है। पच्चीस हजार रुपये तक का किराया वसूलने वाले इन जर्जर हॉस्टलों की असलियत अब सामने आ रही है। मलबे के डर और परिजनों के रोते हुए फोन कॉल्स के बीच, डीयू के छात्र अब सामान समेट कर अपने घर लौटने को मजबूर हैं। लखनऊ, राजस्थान और हरियाणा से आए छात्र दहशत के कारण सत्य निकेतन खाली कर रहे हैं। प्रशासन की लापरवाही ने छात्रों के भविष्य और सुरक्षा पर बड़ा सवाल खड़ा कर दिया है।",
-    "tts_text_hi": "सत्य निकेतन में पांच मंजिला इमारत गिरने से हुई सात मौतों ने पूरे साउथ कैंपस को हिला कर रख दिया है। पच्चीस हजार रुपये तक का किराया वसूलने वाले इन जर्जर हॉस्टलों की असलियत अब सामने आ रही है। मलबे के डर और परिजनों के रोते हुए फोन कॉल्स के बीच, डीयू के छात्र अब सामान समेट कर अपने घर लौटने को मजबूर हैं। लखनऊ, राजस्थान और हरियाणा से आए छात्र दहशत के कारण सत्य निकेतन खाली कर रहे हैं। प्रशासन की लापरवाही ने छात्रों के भविष्य और सुरक्षा पर बड़ा सवाल खड़ा कर दिया है।",
-    "title": "सत्य निकेतन हादसे के बाद डीयू छात्रों में खौफ",
-    "caption": "दिल्ली के सत्य निकेतन में इमारत ढहने के बाद अब डर के कारण छात्र हॉस्टल छोड़कर वापस अपने घर लौट रहे हैं।",
-    "hashtags": [
-      "DelhiUniversity",
-      "SatyaNiketan",
-      "DelhiNews",
-      "StudentSafety",
-      "BreakingNews",
-      "DelhiUniversityStudents"
-    ],
-    "visual_queries": [
-      "damaged apartment building India",
-      "anxious Indian students street",
-      "students packing luggage India",
-      "Indian city street crowded"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 30,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific, recent local building collapse which requires authentic incident footage to represent accurately; generic stock B-roll would misrepresent the specific tragedy.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/9142477/9142477-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "students packing luggage India",
-        "credit": "Timur Weber",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27536829/pexels-photo-27536829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "damaged apartment building India",
-        "credit": "Monoswita Palchowdhury",
+        "query": "Indian police officers standing",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6612086/pexels-photo-6612086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6565756/pexels-photo-6565756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "student moving out",
+        "query": "fake identification card concept",
         "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20297567/pexels-photo-20297567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian city street crowded",
-        "credit": "Himanshu Singh",
+        "query": "modern convention center India",
+        "credit": "Shivansh  Sharma",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
     "review_status": "pending_review"
   },
   {
     "topic_label": "guwahati_fridge_murder_case",
     "virality_score": 9,
-    "reason": "Extremely gruesome and shocking true crime event with a horrific 'fridge' detail typical of high-virality news content.",
+    "reason": "Highly sensational crime story with graphic elements that consistently perform well in short-form video formats.",
     "region": "india",
-    "headline": "Assam Murder Case: पति ने पत्नी का सिर धड़ से अलग किया, कटी हुई उंगलियां भी बरामद",
-    "source_summary": "गुवाहाटी से एक हैरान कर देने वाली और दिल दहला देने वाली घटना सामने आई है. यहां रामानुज गोस्वामी नाम के शख्स ने अपनी 25 वर्षीय पत्नी रिया तालुकदार की बेरहमी से हत्या कर दी. वारदात इतनी खौफनाक थी कि आरोपी पति ने अपनी पत्नी का सिर धड़ से अलग कर दिया. पुलिस को जांच [&hellip;]",
-    "source_url": "https://www.tv9hindi.com/videos/assam-guwahati-husband-murders-wife-decapitates-head-stored-fridge-crime-news-3901684.html",
-    "source_name": "TV9 Hindi",
-    "published": "Tue, 08 Sep 2026 16:08:31 +0530",
-    "hook": "असम से आई एक रूह कंपा देने वाली वारदात!",
-    "script_hi": "असम के गुवाहाटी में एक खौफनाक हत्याकांड सामने आया है। रामानुज गोस्वामी नाम के शख्स ने अपनी पच्चीस वर्षीय पत्नी रिया तालुकदार की बेरहमी से हत्या कर दी। आरोप है कि आरोपी ने पत्नी का सिर धड़ से अलग कर दिया। पुलिस को मौके से महिला की कटी हुई उंगलियां भी मिली हैं। जांच अभी जारी है।",
-    "tts_text_hi": "असम के गुवाहाटी में एक खौफनाक हत्याकांड सामने आया है। रामानुज गोस्वामी नाम के शख्स ने अपनी पच्चीस वर्षीय पत्नी रिया तालुकदार की बेरहमी से हत्या कर दी। आरोप है कि आरोपी ने पत्नी का सिर धड़ से अलग कर दिया। पुलिस को मौके से महिला की कटी हुई उंगलियां भी मिली हैं। जांच अभी जारी है।",
-    "title": "गुवाहाटी में रूह कंपा देने वाला हत्याकांड",
-    "caption": "असम के गुवाहाटी में पति द्वारा पत्नी की बेरहमी से हत्या, पुलिस जांच में जुटी।",
-    "hashtags": [
-      "AssamNews",
-      "GuwahatiCrime",
-      "CrimeNews",
-      "BreakingNews",
-      "असम",
-      "गुवाहाटी"
-    ],
-    "visual_queries": [
-      "Guwahati city India aerial view",
-      "police investigation India crime scene tape",
-      "forensic team India evidence collection"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Specific criminal case details involving graphic violence require careful editorial handling; also generic B-roll cannot represent the specific crime scene accurately.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10576296/pexels-photo-10576296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Guwahati city India aerial view",
-        "credit": "Gyanongkur Das",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation India crime scene tape",
-        "credit": "Srujan J.",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481269/pexels-photo-10481269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "forensic team India evidence collection",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bihar_suv_on_rooftop",
-    "virality_score": 8,
-    "reason": "Bizarre and highly visual story of a family parking an SUV on their roof for security is perfect for viral short-form content.",
-    "region": "india",
-    "headline": "Worried about theft, Bihar family parks new SUV on rooftop with crane",
-    "source_summary": "A Bihar family placed their new SUV on their house rooftop for security.  The vehicle was lifted by a crane and positioned on the two-storied structure.  This unusual parking choice has sparked widespread discussion and varied public reactions.  Concerns have been raised regarding the building's structural capacity to bear the vehicle's weight.  The family sought a secure location after their driver departed for other opportunities.",
-    "source_url": "https://timesofindia.indiatimes.com/city/patna/worried-about-theft-bihar-family-parks-new-suv-on-rooftop-with-crane/articleshow/133905651.cms",
+    "headline": "'Will also kill her sugar daddy': Guwahati man who beheaded wife, kept head in fridge",
+    "source_summary": "A Guwahati woman was allegedly killed by her husband after a quarrel.  Her body was found decapitated in a flat, with her head in a bag.  The accused surrendered to police after the incident occurred on September third.  He confessed to the crime, stating frequent arguments led to the fatal act.  A court has sent the accused to police custody for seven days.",
+    "source_url": "https://timesofindia.indiatimes.com/city/guwahati/will-also-kill-her-sugar-daddy-guwahati-man-who-killed-wife-kept-served-head-in-fridge-says-he-has-no-regrets/articleshow/133916439.cms",
     "source_name": "Times of India - Top Stories",
-    "published": "Tue, 08 Sep 2026 09:11:38 +0530",
-    "hook": "क्या आपने कभी कार को सड़क के बजाय घर की छत पर पार्क होते देखा है?",
-    "script_hi": "बिहार में एक परिवार ने अपनी नई एसयूवी को चोरी से बचाने के लिए घर की छत पर चढ़ा दिया। दो मंजिला इमारत पर कार चढ़ाने के लिए एक क्रेन की मदद ली गई। हैरान कर देने वाली बात यह है कि इस अजीबोगरीब पार्किंग के बाद इमारत की मजबूती पर बड़े सवाल उठ रहे हैं। परिवार का कहना है कि ड्राइवर के नौकरी छोड़ने के बाद सुरक्षा को लेकर यह फैसला लिया गया।",
-    "tts_text_hi": "बिहार में एक परिवार ने अपनी नई एसयूवी को चोरी से बचाने के लिए घर की छत पर चढ़ा दिया। दो मंजिला इमारत पर कार चढ़ाने के लिए एक क्रेन की मदद ली गई। हैरान कर देने वाली बात यह है कि इस अजीबोगरीब पार्किंग के बाद इमारत की मजबूती पर बड़े सवाल उठ रहे हैं। परिवार का कहना है कि ड्राइवर के नौकरी छोड़ने के बाद सुरक्षा को लेकर यह फैसला लिया गया।",
-    "title": "बिहार: चोरी के डर से छत पर पार्क की कार",
-    "caption": "बिहार के एक परिवार ने अपनी नई कार को छत पर पार्क कर सबको चौंका दिया है।",
+    "published": "Tue, 08 Sep 2026 14:15:23 +0530",
+    "hook": "गुवाहाटी से आई एक दिल दहला देने वाली खबर!",
+    "script_hi": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी। झगड़े के बाद आरोपी ने पत्नी का सिर धड़ से अलग कर दिया और उसे फ्रिज में छिपा दिया। आरोपी ने बाद में पुलिस के सामने सरेंडर कर दिया। कोर्ट ने आरोपी को सात दिनों की पुलिस हिरासत में भेज दिया है।",
+    "tts_text_hi": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी। झगड़े के बाद आरोपी ने पत्नी का सिर धड़ से अलग कर दिया और उसे फ्रिज में छिपा दिया। आरोपी ने बाद में पुलिस के सामने सरेंडर कर दिया। कोर्ट ने आरोपी को सात दिनों की पुलिस हिरासत में भेज दिया है।",
+    "title": "गुवाहाटी में पत्नी की नृशंस हत्या",
+    "caption": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी, आरोपी ने पुलिस के सामने किया सरेंडर।",
     "hashtags": [
-      "Bihar",
-      "ViralVideo",
-      "SUV",
-      "UniqueNews",
-      "India",
-      "Trending",
-      "StrangeNews"
+      "Guwahati",
+      "CrimeNews",
+      "Assam",
+      "Crime",
+      "HindiNews",
+      "India"
     ],
     "visual_queries": [
-      "Indian residential house rooftop",
-      "crane lifting car India",
-      "SUV parked on rooftop",
-      "curious crowd India"
+      "Indian city street view",
+      "police station India building",
+      "Indian judicial court gavel",
+      "police handcuffs India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific viral incident involving a unique visual of a car on a roof; generic stock footage will not represent the actual event correctly.",
+    "flag_reason": "The story involves a brutal murder case with specific graphic details (decapitation, head in fridge) that requires careful handling and potentially sensitive content review according to channel safety guidelines.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/26614688/pexels-photo-26614688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential house rooftop",
-        "credit": "Muhammed zeya",
+        "query": "Indian city street view",
+        "credit": "vikesh zen",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29492012/pexels-photo-29492012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32355381/pexels-photo-32355381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crane lifting car India",
-        "credit": "Action Construction  Equipment Ltd. - ACE",
+        "query": "urban Indian apartment building",
+        "credit": "RAKESH RABHA",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14072433/pexels-photo-14072433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "construction crane lifting",
-        "credit": "Engin Akyurt",
+        "query": "Indian judicial court gavel",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17802053/pexels-photo-17802053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7714896/pexels-photo-7714896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "curious crowd India",
-        "credit": "Ranjeet  Chauhan",
+        "query": "police handcuffs India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
@@ -285,149 +154,495 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "rat_in_food_parcel",
+    "topic_label": "delhi_nsg_brics_drill",
     "virality_score": 8,
-    "reason": "Disgusting and visceral content regarding food safety in online delivery platforms always triggers high shares.",
+    "reason": "High-impact visual story featuring NSG commandos in Delhi just days before the BRICS summit, creating strong national security interest.",
     "region": "india",
-    "headline": "खाने के पार्सल में मिला सूप से सना चूहा, देख लोगों का मिचलाया जी",
-    "source_summary": "हाल ही में एक महिला ने जब ऑनलाइन मंगवाया खाना खोला, तो अंदर का नजारा देखकर उसकी चीखें निकल गईं. नूडल्स के बीच एक जिंदा चूहा रेंग रहा था, जिसका वीडियो इन दिनों सोशल मीडिया पर जमकर वायरल हो रहा है.",
-    "source_url": "https://ndtv.in/zara-hatke/live-newborn-rat-found-in-hong-kong-restaurant-food-lunchbox-12016409#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 11:42:35 +0530",
-    "hook": "खाने में निकला चूहा, देख उड़ जाएंगे होश!",
-    "script_hi": "खाने के पार्सल में मिला सूप से सना चूहा, देख लोगों का मिचलाया जी। हाल ही में एक महिला ने जब ऑनलाइन मंगाया हुआ खाना खोला तो अंदर का नजारा देखकर उसकी चीखें निकल गईं। नूडल्स के बीच एक जिंदा चूहा रेंग रहा था। यह वीडियो इन दिनों सोशल मीडिया पर जमकर वायरल हो रहा है।",
-    "tts_text_hi": "खाने के पार्सल में मिला सूप से सना चूहा, देख लोगों का मिचलाया जी। हाल ही में एक महिला ने जब ऑनलाइन मंगाया हुआ खाना खोला तो अंदर का नजारा देखकर उसकी चीखें निकल गईं। नूडल्स के बीच एक जिंदा चूहा रेंग रहा था। यह वीडियो इन दिनों सोशल मीडिया पर जमकर वायरल हो रहा है।",
-    "title": "खाने के पार्सल में निकला जिंदा चूहा",
-    "caption": "खाने में मिला चूहा, वीडियो वायरल।",
+    "headline": "दिल्ली में NSG की मेगा ड्रिल, आतंकियों से निपटने के लिए तैयार ‘ब्रिक्स कवच’",
+    "source_summary": "ब्रिक्स सम्मेलन से पहले दिल्ली में NSG ने ‘ऑपरेशन ब्रिक्स कवच’ के तहत चार अहम जगहों पर मॉक ड्रिल की. करीब 100 कमांडो ने आतंकवादी हमले, बंधक संकट और रेस्क्यू जैसी परिस्थितियों का अभ्यास किया. दिल्ली पुलिस की SWAT टीम भी शामिल रही. सम्मेलन 12-13 सितंबर को भारत मंडपम में होगा.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/brics-summit-2026-delhi-security-nsg-swat-mock-drill-bharat-mandapam-ntc-apdy-rptc-2638969-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T19:07:58+05:30",
+    "hook": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर!",
+    "script_hi": "ब्रिक्स सम्मेलन से पहले दिल्ली में हुआ बड़ा मॉक ड्रिल। ऑपरेशन ब्रिक्स कवच के तहत सौ एनएसजी कमांडो ने चार अहम जगहों पर आतंकियों से निपटने का अभ्यास किया। बंधक संकट और रेस्क्यू जैसी कठिन परिस्थितियों को हैंडल करने के लिए एनएसजी और दिल्ली पुलिस की स्वाट टीम एक साथ दिखी। यह सुरक्षा व्यवस्था बारह और तेरह सितंबर को भारत मंडपम में होने वाले ब्रिक्स समिट के लिए बेहद अहम है।",
+    "tts_text_hi": "ब्रिक्स सम्मेलन से पहले दिल्ली में हुआ बड़ा मॉक ड्रिल। ऑपरेशन ब्रिक्स कवच के तहत सौ एनएसजी कमांडो ने चार अहम जगहों पर आतंकियों से निपटने का अभ्यास किया। बंधक संकट और रेस्क्यू जैसी कठिन परिस्थितियों को हैंडल करने के लिए एनएसजी और दिल्ली पुलिस की स्वाट टीम एक साथ दिखी। यह सुरक्षा व्यवस्था बारह और तेरह सितंबर को भारत मंडपम में होने वाले ब्रिक्स समिट के लिए बेहद अहम है।",
+    "title": "दिल्ली में NSG की मेगा ड्रिल",
+    "caption": "ब्रिक्स समिट से पहले दिल्ली में NSG का सुरक्षा अभ्यास।",
     "hashtags": [
-      "FoodSafety",
-      "ViralVideo",
-      "ShockingNews",
-      "IndiaFood",
-      "ConsumerAlert",
-      "OnlineFoodOrder"
+      "DelhiNews",
+      "NSG",
+      "BRICS",
+      "IndiaSecurity",
+      "DelhiPolice",
+      "CounterTerrorism"
     ],
     "visual_queries": [
-      "Indian food delivery box",
-      "noodles in takeaway container",
-      "shocked woman reaction",
-      "social media smartphone screen"
+      "Indian elite commando tactical training",
+      "Indian special forces mock drill operation",
+      "India police SWAT team deployment",
+      "Bharat Mandapam Delhi convention center"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of a rat in food, which requires the actual real footage to be added manually as generic stock footage would misrepresent the specific incident.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9461653/pexels-photo-9461653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30687119/pexels-photo-30687119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian food delivery box",
-        "credit": "Mike Jones",
+        "query": "India police SWAT team deployment",
+        "credit": "Luis Felipe Pérez",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/23833916/pexels-photo-23833916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "noodles in takeaway container",
-        "credit": "Lisa Fotios",
+        "query": "Indian security forces",
+        "credit": "Max Drew",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8637954/pexels-photo-8637954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5697207/pexels-photo-5697207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "shocked woman reaction",
-        "credit": "Pavel Danilyuk",
+        "query": "commando tactical training",
+        "credit": "Nur Andi Ravsanjani Gusma",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18875553/pexels-photo-18875553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "social media smartphone screen",
-        "credit": "Connor Scott McManus",
+        "query": "Delhi urban atmosphere",
+        "credit": "Tamer Ekinci",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
-    "review_status": "pending_review"
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दिल्ली में NSG का सबसे बड़ा युद्धाभ्यास, आतंकियों के खिलाफ 'ब्रिक्स कवच' तैयार 🛡️",
+        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! \n\nराजधानी की सुरक्षा को और मजबूत करने के लिए NSG ने मेगा ड्रिल शुरू की है। इस ऑपरेशन 'ब्रिक्स कवच' में कमांडो ने दुश्मन के हर हमले को नाकाम करने की तकनीक दिखाई। \n\nक्या हमारी सुरक्षा एजेंसियां किसी भी खतरे से निपटने के लिए तैयार हैं? पूरी ड्रिल देखें।\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🛡️\n\nराजधानी की सुरक्षा के लिए शुरू हुई मेगा ड्रिल 'ब्रिक्स कवच' में कमांडो ने अपनी फुर्ती और अचूक निशाने का दम दिखाया। क्या हम अब ज्यादा सुरक्षित हैं? अपनी राय बताएं। 👇\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🚨\n\nराजधानी में किसी भी अनहोनी को रोकने के लिए NSG ने आज अपनी ताकत दिखाई। इस मेगा ड्रिल का नाम 'ब्रिक्स कवच' रखा गया है, जहां कमांडो ने आतंकियों से निपटने की लाइव ट्रेनिंग दी। \n\nसुरक्षा के लिहाज से यह बेहद अहम एक्सरसाइज है। आप इस बारे में क्या सोचते हैं?\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+      },
+      "hashtags": [
+        "NSGCommando",
+        "DelhiSecurity",
+        "Brickskavach",
+        "IndianArmy",
+        "CounterTerrorism"
+      ]
+    },
+    "audio_path": "audio/delhi_nsg_brics_drill.wav",
+    "audio_duration_sec": 28.05
   },
   {
-    "topic_label": "miami_plane_crash_global",
-    "virality_score": 7,
-    "reason": "A major aviation disaster at Miami Airport is a visually striking global story with significant impact.",
-    "region": "global",
-    "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-    "source_summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-    "source_url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Tue, 08 Sep 2026 09:31:26 GMT",
-    "hook": "मयामी एयरपोर्ट पर हुआ दर्दनाक हादसा!",
-    "script_hi": "मयामी एयरपोर्ट पर एक बड़ा विमान हादसा हुआ है। एक बोइंग सात सौ सड़सठ विमान रनवे से आगे निकल गया, जिसकी चपेट में आकर दो गाड़ियाँ आ गईं। इस भीषण हादसे में पाँच लोगों की जान चली गई है। जांचकर्ताओं ने घटनास्थल को तबाही का मंजर बताया है।",
-    "tts_text_hi": "मयामी एयरपोर्ट पर एक बड़ा विमान हादसा हुआ है। एक बोइंग सात सौ सड़सठ विमान रनवे से आगे निकल गया, जिसकी चपेट में आकर दो गाड़ियाँ आ गईं। इस भीषण हादसे में पाँच लोगों की जान चली गई है। जांचकर्ताओं ने घटनास्थल को तबाही का मंजर बताया है।",
-    "title": "मयामी विमान हादसा",
-    "caption": "मयामी एयरपोर्ट पर बोइंग विमान हादसे में पांच लोगों की मौत।",
+    "topic_label": "apple_event_2026",
+    "virality_score": 8,
+    "reason": "Apple product launches have massive global and Indian tech-enthusiast audiences, with high visual appeal.",
+    "region": "india",
+    "headline": "ऐपल का आज बड़ा इवेंट, iPhone 18 सीरीज समेत काफी कुछ होगा लॉन्च!",
+    "source_summary": "ऐपल का बड़ा इवेंट आज रात होने वाला है. नए iPhone समेत Apple Watch और AirPods लॉन्च होने की उम्मीद है. भारत में इवेंट रात 10:30 बजे शुरू होगा. जानिए Apple Event 2026 को मोबाइल, लैपटॉप और स्मार्ट टीवी पर लाइव कैसे देखें.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-event-2026-watch-live-india-time-how-to-watch-prym-dskc-2638970-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T19:09:13+05:30",
+    "hook": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं?",
+    "script_hi": "ऐपल का महा-इवेंट आज रात होने वाला है। आईफोन अट्ठारह सीरीज के साथ नई एप्पल वॉच और एयरपॉड्स भी लॉन्च होंगे। भारत में इवेंट रात दस बजकर तीस मिनट पर शुरू होगा। इसे आप अपने मोबाइल, लैपटॉप या स्मार्ट टीवी पर लाइव देख सकते हैं।",
+    "tts_text_hi": "ऐपल का महा-इवेंट आज रात होने वाला है। आईफोन अट्ठारह सीरीज के साथ नई एप्पल वॉच और एयरपॉड्स भी लॉन्च होंगे। भारत में इवेंट रात दस बजकर तीस मिनट पर शुरू होगा। इसे आप अपने मोबाइल, लैपटॉप या स्मार्ट टीवी पर लाइव देख सकते हैं।",
+    "title": "Apple Event 2026: iPhone 18 लॉन्च",
+    "caption": "ऐपल का महा-इवेंट आज रात! नए iPhone 18, Watch और AirPods पर रहेगी नज़र।",
     "hashtags": [
-      "Miami",
-      "PlaneCrash",
-      "BreakingNews",
-      "AirportIncident",
-      "InternationalNews"
+      "AppleEvent",
+      "iPhone18",
+      "AppleLaunch",
+      "TechNews",
+      "AppleIndia",
+      "Gadgets"
     ],
     "visual_queries": [
-      "commercial airplane runway",
-      "airport runway aerial view",
-      "emergency vehicles crash site",
-      "investigation scene wreckage"
+      "Apple logo corporate building",
+      "new iPhone smartphone display",
+      "modern smartwatch wrist",
+      "wireless earphones case",
+      "person watching live streaming laptop"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14656602/pexels-photo-14656602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple logo corporate building",
+        "credit": "Filip Rankovic Grobgaard",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13570158/pexels-photo-13570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "new iPhone smartphone display",
+        "credit": "Luis Quintero",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18078983/pexels-photo-18078983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern smartwatch wrist",
+        "credit": "Anastasiya Badun",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3921827/pexels-photo-3921827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wireless earphones case",
+        "credit": "ready made",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person watching live streaming laptop",
+        "credit": "Baset Alhasan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "iPhone 18 सीरीज हुई लॉन्च: क्या बदलेगा इस बार? 📱🔥",
+        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? \n\nआज के इवेंट में iPhone 18 सीरीज पर से पर्दा उठ गया है। नए फीचर्स, बेहतर कैमरा और डिजाइन में बड़े बदलाव किए गए हैं। \n\nपूरी डिटेल्स के लिए वीडियो देखें और बताएं, आप कौन सा मॉडल खरीदना चाहेंगे?\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? 📱\n\niPhone 18 सीरीज अब ऑफिशियल है! जबरदस्त फीचर्स और नए अपग्रेड्स के साथ ऐपल ने बाजार में हलचल मचा दी है। क्या यह आपके लिए एक परफेक्ट अपग्रेड है?\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? \n\nऐपल इवेंट 2026 में iPhone 18 सीरीज लॉन्च कर दी गई है। नए डिजाइन और धांसू फीचर्स के साथ ये सीरीज फैंस का दिल जीतने के लिए तैयार है। क्या आपको लगता है कि इस बार के फीचर्स कीमत को जस्टिफाई करते हैं? कमेंट में अपनी राय दें।\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
+      },
+      "hashtags": [
+        "AppleEvent",
+        "iPhone18",
+        "TechNews",
+        "AppleLaunch",
+        "LatestTech"
+      ]
+    },
+    "audio_path": "audio/apple_event_2026.wav",
+    "audio_duration_sec": 17.43
+  },
+  {
+    "topic_label": "mustang_airport_collision",
+    "virality_score": 8,
+    "reason": "A visually arresting event of a high-end car crashing into an airport tarmac; highly shareable footage.",
+    "region": "india",
+    "headline": "पुलिस से बचने के लिए भगाई कार, एयरपोर्ट की बाउंड्री तोड़ सीधे प्लेन में घुसा दी Mustang",
+    "source_summary": "एयरपोर्ट पर खड़े प्लेन में टकराने से मस्टैंग (Ford Mustang) बुरी तरह से चकनाचूर हो गई, जबकि एयरक्राफ्ट में भी काफी नुकसान हुआ है.",
+    "source_url": "https://ndtv.in/zara-hatke/new-hampshire-drunk-teen-clashes-mustang-parked-plane-portsmouth-international-airport-viral-video-12018284#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 17:48:19 +0530",
+    "hook": "एयरपोर्ट के रनवे पर मस्टैंग कार की धमाकेदार एंट्री!",
+    "script_hi": "पुलिस से बचने के चक्कर में एक शख्स ने अपनी फोर्ड मस्टैंग को एयरपोर्ट की बाउंड्री से सीधे प्लेन के अंदर घुसा दिया। हादसा इतना भीषण था कि मस्टैंग कार के परखच्चे उड़ गए और विमान को भी भारी नुकसान पहुंचा है।",
+    "tts_text_hi": "पुलिस से बचने के चक्कर में एक शख्स ने अपनी फोर्ड मस्टैंग को एयरपोर्ट की बाउंड्री से सीधे प्लेन के अंदर घुसा दिया। हादसा इतना भीषण था कि मस्टैंग कार के परखच्चे उड़ गए और विमान को भी भारी नुकसान पहुंचा है।",
+    "title": "एयरपोर्ट में घुसी मस्टैंग कार",
+    "caption": "पुलिस से भागते हुए एयरपोर्ट की बाउंड्री तोड़कर प्लेन से टकराई मस्टैंग कार।",
+    "hashtags": [
+      "Mustang",
+      "AirportCrash",
+      "CarAccident",
+      "ViralVideo",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "speeding sports car India",
+      "damaged luxury car India",
+      "airport runway India",
+      "wrecked airplane wreckage"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This is a specific real-world aviation incident; generic stock footage will not represent the actual crash site or specific wreckage accurately. Manual insertion of real event footage is required.",
+    "flag_reason": "The story is about a specific viral incident involving a unique car-plane crash that requires real footage or specific images of the wreckage to be accurate; generic stock footage would misrepresent the event.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/6520224/6520224-hd_720_1280_24fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34182526/14490269_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "emergency vehicles crash site",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 9,
+        "query": "damaged luxury car India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20435115/pexels-photo-20435115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane runway",
-        "credit": "Juan  Hernández",
+        "query": "speeding sports car India",
+        "credit": "Mohit Hambiria",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36550089/pexels-photo-36550089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38252702/pexels-photo-38252702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airport runway aerial view",
-        "credit": "Rushi Patel",
+        "query": "airport runway India",
+        "credit": "Saakshi Yadav",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32624153/pexels-photo-32624153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20131971/pexels-photo-20131971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "investigation scene wreckage",
-        "credit": "Mauricio  Krupka Buendia",
+        "query": "luxury sports car",
+        "credit": "WAVYVISUALS",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 21,
     "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pm_modi_dhar_rail_project",
+    "virality_score": 7,
+    "reason": "Significant infrastructure development in Madhya Pradesh, connecting tribal regions to Gujarat for the first time.",
+    "region": "india",
+    "headline": "धार में पहली बार दौड़ेगी ट्रेन! PM मोदी ने किया नए रेलखंड का लोकार्पण, अब गुजरात से सीधे जुड़ेगा MP का धार",
+    "source_summary": "मध्य प्रदेश के धार जिले को पहली बार रेल सेवा की सौगात मिली है. प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण किया. नई रेल सेवा से धार, अलीराजपुर, जोबट और टांडा रोड का गुजरात से सीधा रेल संपर्क स्थापित हो गया है. इससे क्षेत्र में व्यापार, पर्यटन, रोजगार और आवागमन को नई गति मिलेगी.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/dhar-railway-project-pm-modi-railway-inauguration-chhota-udepur-dhar-rail-line-mp-gujarat-connectivity-12016986#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 13:49:26 +0530",
+    "hook": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी!",
+    "script_hi": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण कर दिया है। इस नई रेल सेवा से अब धार और अलीराजपुर सीधे गुजरात से जुड़ गए हैं। इससे व्यापार, पर्यटन और रोजगार के नए रास्ते खुलेंगे। यह क्षेत्र के विकास के लिए एक ऐतिहासिक दिन है।",
+    "tts_text_hi": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण कर दिया है। इस नई रेल सेवा से अब धार और अलीराजपुर सीधे गुजरात से जुड़ गए हैं। इससे व्यापार, पर्यटन और रोजगार के नए रास्ते खुलेंगे। यह क्षेत्र के विकास के लिए एक ऐतिहासिक दिन है।",
+    "title": "धार को मिली पहली रेल सेवा",
+    "caption": "मध्य प्रदेश के धार जिले को मिली पहली रेल सेवा, पीएम मोदी ने किया उद्घाटन।",
+    "hashtags": [
+      "Dhar",
+      "MadhyaPradesh",
+      "IndianRailways",
+      "NarendraModi",
+      "Development",
+      "NewsIndia",
+      "MPNews"
+    ],
+    "visual_queries": [
+      "Indian railway tracks aerial",
+      "Prime Minister of India speaking",
+      "Indian train station inauguration ceremony",
+      "map of Madhya Pradesh India",
+      "people cheering in India"
+    ],
+    "named_person": "Narendra Modi",
+    "named_person_hi": "नरेंद्र मोदी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "नरेंद्र मोदी",
+        "source": "fallback",
+        "query": "Narendra Modi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35064156/14853174_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian railway station",
+        "credit": "VIKRAM GUPTA",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39128796/pexels-photo-39128796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway tracks aerial",
+        "credit": "RITIK GUPTA",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway station",
+        "credit": "Satvik Pandurangi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37414662/pexels-photo-37414662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway development",
+        "credit": "Rounak Kayal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13471612/pexels-photo-13471612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people cheering in India",
+        "credit": "Karan Sahu",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "MP के धार में पहली बार दौड़ी ट्रेन! 🚆 अब गुजरात का सफर होगा आसान",
+        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nप्रधानमंत्री नरेंद्र मोदी ने नए रेलखंड का लोकार्पण कर दिया है। इसके साथ ही अब धार सीधे गुजरात से जुड़ गया है। स्थानीय लोगों के लिए बरसों पुराना सपना आखिरकार सच हो गया है।\n\nक्या आप भी धार से गुजरात की यात्रा करने का प्लान बना रहे हैं? कमेंट में बताएं।\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने नए रेलखंड का लोकार्पण कर दिया है। अब धार सीधा गुजरात से जुड़ गया है, जिससे सफर आसान हो जाएगा। बरसों का इंतजार आखिरकार खत्म हुआ। \n\nअपने उन दोस्तों को यह वीडियो भेजें जो धार में रहते हैं!\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने आज नए रेलखंड का लोकार्पण किया है। धार के निवासियों के लिए यह ऐतिहासिक मौका है, क्योंकि अब उनका शहर सीधे रेल मार्ग से गुजरात से जुड़ गया है। सालों से चल रही मांग पूरी होने पर स्थानीय लोगों में काफी उत्साह है। \n\nइस रेल सेवा के शुरू होने से आपको क्या लगता है धार के व्यापार पर क्या असर पड़ेगा?\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+      },
+      "hashtags": [
+        "DharNews",
+        "MadhyaPradesh",
+        "IndianRailways",
+        "PMModi",
+        "DharToGujarat"
+      ]
+    },
+    "audio_path": "audio/pm_modi_dhar_rail_project.wav",
+    "audio_duration_sec": 27.82
+  },
+  {
+    "topic_label": "singapore_pm_salary_hike",
+    "virality_score": 7,
+    "reason": "A global story about the world's highest-paid leader getting a million-dollar raise, which triggers significant audience curiosity and debate.",
+    "region": "global",
+    "headline": "Highest paid world leader to get salary increase of $1 million",
+    "source_summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+    "source_url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Tue, 08 Sep 2026 09:20:05 GMT",
+    "hook": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक!",
+    "script_hi": "दुनिया के सबसे महंगे प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर का इजाफा होने वाला है। अब उनकी सालाना कमाई तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन अमेरिकी डॉलर होगी। यह दुनिया के किसी भी नेता को मिलने वाला सबसे बड़ा वेतन पैकेज है।",
+    "tts_text_hi": "दुनिया के सबसे महंगे प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर का इजाफा होने वाला है। अब उनकी सालाना कमाई तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन अमेरिकी डॉलर होगी। यह दुनिया के किसी भी नेता को मिलने वाला सबसे बड़ा वेतन पैकेज है।",
+    "title": "सिंगापुर के पीएम की सैलरी में भारी इजाफा",
+    "caption": "सिंगापुर के प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर की बढ़ोतरी।",
+    "hashtags": [
+      "Singapore",
+      "LawrenceWong",
+      "SalaryHike",
+      "GlobalNews",
+      "Economy",
+      "WorldLeaders"
+    ],
+    "visual_queries": [
+      "Singapore city skyline",
+      "business professional in office",
+      "financial growth graph icon",
+      "Singapore parliament building"
+    ],
+    "named_person": "Lawrence Wong",
+    "named_person_hi": "लॉरेंस वोंग",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "लॉरेंस वोंग",
+        "source": "fallback",
+        "query": "Lawrence Wong",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39341086/16743331_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "wealthy business city",
+        "credit": "dwi endah kusumawati",
+        "source_duration_sec": 25,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38060678/pexels-photo-38060678.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Singapore city skyline",
+        "credit": "Shlok Rana",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "business professional in office",
+        "credit": "Mizuno K",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38060686/pexels-photo-38060686.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Singapore parliament building",
+        "credit": "Shlok Rana",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दुनिया के सबसे अमीर नेता की सैलरी में 8 करोड़ का उछाल! 💰",
+        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! \n\nसिंगापुर के प्रधानमंत्री पहले से ही दुनिया के सबसे महंगे लीडर हैं। अब उनकी सैलरी में 1 मिलियन डॉलर यानी करीब 8.3 करोड़ रुपये का इजाफा होने जा रहा है। \n\nक्या एक नेता की सैलरी इतनी होनी चाहिए? अपनी राय कमेंट में बताएं।\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 💸\n\nसिंगापुर के पीएम की तनख्वाह में 1 मिलियन डॉलर की बढ़ोतरी हो रही है। वो पहले से ही दुनिया में सबसे ज्यादा वेतन पाने वाले प्रधानमंत्री हैं। \n\nयह आंकड़ा सुनकर आपका क्या रिएक्शन है?\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 📈\n\nसिंगापुर के प्रधानमंत्री की सैलरी में 1 मिलियन डॉलर यानी करीब 8.3 करोड़ रुपये का बड़ा इजाफा किया जा रहा है। वे पहले से ही दुनिया के सबसे ज्यादा सैलरी लेने वाले प्रधानमंत्री हैं। \n\nसरकार के इस फैसले पर आम जनता में काफी चर्चा है। आप इस बारे में क्या सोचते हैं? कमेंट बॉक्स में जरूर लिखें।\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+      },
+      "hashtags": [
+        "SingaporePM",
+        "SalaryHike",
+        "WorldNews",
+        "GlobalLeaders",
+        "EconomyUpdate"
+      ]
+    },
+    "audio_path": "audio/singapore_pm_salary_hike.wav",
+    "audio_duration_sec": 15.07
   }
 ]
