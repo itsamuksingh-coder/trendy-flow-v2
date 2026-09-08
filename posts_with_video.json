@@ -1,30 +1,30 @@
 [
   {
-    "topic_label": "delhi_satya_niketan_building_collapse_updates",
+    "topic_label": "delhi_satya_niketan_building_collapse_fir",
     "virality_score": 9,
-    "reason": "Major tragic building collapse in Delhi with high national attention and student casualties.",
+    "reason": "High public interest tragedy involving illegal construction and student deaths in Delhi.",
     "region": "india",
-    "headline": "लापरवाही की इमारत में पांच सपनों का मर जाना... रक्षाबंधन मनाकर लौटा था अर्पित, पिता का इकलौता सहारा था युवराज",
-    "source_summary": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने के हादसे में सात लोगों की मौत हो गई, जिनमें पांच दिल्ली यूनिवर्सिटी के छात्र शामिल हैं. एम्स में पोस्टमार्टम के बाद सभी मृतकों की पहचान हो चुकी है. पांच लोगों का इलाज चल रहा है, जिनमें तीन गंभीर हैं. रेस्क्यू ऑपरेशन करीब 27 घंटे चला.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-satya-niketan-building-collapse-death-five-du-students-family-ntc-agkp-dskc-2638505-2026-09-08?utm_source=rssfeed",
+    "headline": "किराए के लालच में बना दी 4 मंजिलें... सत्य निकेतन हादसे की FIR में खुलासा",
+    "source_summary": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की FIR में पुलिस ने गंभीर आरोप लगाए हैं. पुलिस के मुताबिक, बिल्डिंग मालिक को पता था कि पुरानी इमारत की नींव अतिरिक्त वजन सहने की स्थिति में नहीं थी, फिर भी किराए के लालच में चार मंजिलों का निर्माण कराया गया.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/satya-niketan-building-collapse-fir-delhi-police-ntc-mnrd-rpti-2638543-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T09:29:47+05:30",
-    "hook": "दिल्ली के सत्य निकेतन में बड़ा हादसा!",
-    "script_hi": "दिल्ली के सत्य निकेतन में इमारत गिरने से पांच छात्रों समेत सात लोगों की मौत हो गई। रक्षाबंधन मनाकर लौटा अर्पित और इकलौता सहारा युवराज भी इस हादसे का शिकार हो गए। करीब सत्ताईस घंटे तक चले रेस्क्यू ऑपरेशन के बाद सभी शवों की पहचान कर ली गई है, जबकि पांच घायलों का इलाज जारी है।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन में इमारत गिरने से पांच छात्रों समेत सात लोगों की मौत हो गई। रक्षाबंधन मनाकर लौटा अर्पित और इकलौता सहारा युवराज भी इस हादसे का शिकार हो गए। करीब सत्ताईस घंटे तक चले रेस्क्यू ऑपरेशन के बाद सभी शवों की पहचान कर ली गई है, जबकि पांच घायलों का इलाज जारी है।",
-    "title": "दिल्ली सत्य निकेतन बिल्डिंग हादसा",
-    "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने से पांच छात्रों समेत सात की मौत, सत्ताईस घंटे चला रेस्क्यू ऑपरेशन।",
+    "published": "2026-09-08T10:35:30+05:30",
+    "hook": "किराए के लालच में मौत का निर्माण!",
+    "script_hi": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की एफआईआर में बड़ा खुलासा हुआ है। पुलिस के मुताबिक मालिक को पता था कि पुरानी इमारत की नींव कमजोर है, फिर भी किराए के लालच में चार मंजिलों का अवैध निर्माण कराया गया।",
+    "tts_text_hi": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की एफआईआर में बड़ा खुलासा हुआ है। पुलिस के मुताबिक मालिक को पता था कि पुरानी इमारत की नींव कमजोर है, फिर भी किराए के लालच में चार मंजिलों का अवैध निर्माण कराया गया।",
+    "title": "सत्य निकेतन बिल्डिंग हादसा: किराए के लालच में बनीं चार मंजिलें",
+    "caption": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की FIR में हुआ बड़ा खुलासा। किराए के लालच में कराई गई थी चार मंजिलों की अवैध निर्माण।",
     "hashtags": [
-      "DelhiBuildingCollapse",
       "SatyaNiketan",
       "DelhiNews",
-      "BreakingNews",
-      "IndiaNews"
+      "BuildingCollapse",
+      "DelhiPolice",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "India collapsed building ruin",
-      "Delhi rescue operation India",
-      "AIIMS hospital building India"
+      "Delhi building collapse India",
+      "police investigation India",
+      "damaged residential building India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -35,58 +35,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11904941/pexels-photo-11904941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India collapsed building ruin",
-        "credit": "akın  akdağ",
+        "query": "Delhi building collapse India",
+        "credit": "Shantum Singh",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi rescue operation India",
-        "credit": "Arto Suraj",
+        "url": "downloaded_assets/commons_55e633f10f.jpg",
+        "source": "wikimedia_commons",
+        "query": "police investigation India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31776020/pexels-photo-31776020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4164237/pexels-photo-4164237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "AIIMS hospital building India",
-        "credit": "Vaibhav Patil",
+        "query": "damaged residential building India",
+        "credit": "MANAS PALKAR",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban building collapse ruin",
-        "credit": "akın  akdağ",
+        "url": "downloaded_assets/commons_ff45d0c67b.jpg",
+        "source": "wikimedia_commons",
+        "query": "illegal construction India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14388677/pexels-photo-14388677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "ambulance outside hospital gate",
-        "credit": "Chauhan Dixant",
+        "query": "old residential building Delhi",
+        "credit": "Harshit Nandu",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33978437/pexels-photo-33978437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/23978113/pexels-photo-23978113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crowd gathered street accident",
-        "credit": "Muhammad Shamaoon Malik",
+        "query": "urban real estate greed",
+        "credit": "Rahib Yaqubov",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16063369/pexels-photo-16063369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police tape crime scene",
-        "credit": "Srujan J.",
+        "query": "crowded urban alley India",
+        "credit": "vikesh zen",
         "duration_sec": 4.3
       }
     ],
@@ -95,255 +95,57 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दिल्ली सत्य निकेतन बिल्डिंग हादसा",
-        "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने से पांच छात्रों समेत सात की मौत, सत्ताईस घंटे चला रेस्क्यू ऑपरेशन।\n\n#DelhiBuildingCollapse #SatyaNiketan #DelhiNews #BreakingNews #IndiaNews"
+        "title": "सत्य निकेतन बिल्डिंग हादसा: किराए के लालच में बनीं चार मंजिलें",
+        "caption": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की FIR में हुआ बड़ा खुलासा। किराए के लालच में कराई गई थी चार मंजिलों की अवैध निर्माण।\n\n#SatyaNiketan #DelhiNews #BuildingCollapse #DelhiPolice #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने से पांच छात्रों समेत सात की मौत, सत्ताईस घंटे चला रेस्क्यू ऑपरेशन।\n\n#DelhiBuildingCollapse #SatyaNiketan #DelhiNews #BreakingNews #IndiaNews"
+        "caption": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की FIR में हुआ बड़ा खुलासा। किराए के लालच में कराई गई थी चार मंजिलों की अवैध निर्माण।\n\n#SatyaNiketan #DelhiNews #BuildingCollapse #DelhiPolice #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग गिरने से पांच छात्रों समेत सात की मौत, सत्ताईस घंटे चला रेस्क्यू ऑपरेशन।\n\n#DelhiBuildingCollapse #SatyaNiketan #DelhiNews #BreakingNews #IndiaNews"
+        "caption": "दिल्ली के सत्य निकेतन बिल्डिंग हादसे की FIR में हुआ बड़ा खुलासा। किराए के लालच में कराई गई थी चार मंजिलों की अवैध निर्माण।\n\n#SatyaNiketan #DelhiNews #BuildingCollapse #DelhiPolice #BreakingNews"
       },
       "hashtags": [
-        "DelhiBuildingCollapse",
         "SatyaNiketan",
         "DelhiNews",
-        "BreakingNews",
-        "IndiaNews"
+        "BuildingCollapse",
+        "DelhiPolice",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/delhi_satya_niketan_building_collapse_updates.wav",
-    "audio_duration_sec": 21.83,
-    "video_path": "videos/delhi_satya_niketan_building_collapse_updates.mp4",
-    "video_duration_sec": 29.87
+    "audio_path": "audio/delhi_satya_niketan_building_collapse_fir.wav",
+    "audio_duration_sec": 14.02,
+    "video_path": "videos/delhi_satya_niketan_building_collapse_fir.mp4",
+    "video_duration_sec": 22.02
   },
   {
-    "topic_label": "bihar_flood_13_districts_affected",
-    "virality_score": 8,
-    "reason": "Severe flooding affecting millions across 13 districts in Bihar with widespread visual impact.",
+    "topic_label": "guwahati_husband_decapitates_wife_fridge",
+    "virality_score": 9,
+    "reason": "Gruesome crime story with high shock value and social media engagement.",
     "region": "india",
-    "headline": "13 जिले, 29 लाख लोग सैलाब में घिरे... बिहार में बाढ़ के मंजर की तस्वीरें",
-    "source_summary": "बिहार के 13 जिलों में बाढ़ से 29 लाख से ज्यादा लोग प्रभावित हैं. कई नदियां खतरे के निशान से ऊपर बहने से सड़कें डूब गई हैं और घरों में पानी घुस चुका है. पटना में गंगा का जलस्तर घटने से थोड़ी राहत जरूर है, लेकिन बाकी इलाकों में संकट बरकरार है.",
-    "source_url": "https://www.aajtak.in/bihar/story/bihar-flood-update-ganga-kosi-gandak-rivers-danger-mark-people-affected-ntc-dhrj-rpti-2638521-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T09:40:35+05:30",
-    "hook": "बिहार में बाढ़ का भयंकर तांडव!",
-    "script_hi": "बिहार के तेरह जिलों में बाढ़ से उनतीस लाख से ज्यादा लोग प्रभावित हैं। कई नदियां खतरे के निशान से ऊपर बह रही हैं, जिससे सड़कें डूब गई हैं और घरों में पानी घुस चुका है। पटना में गंगा का जलस्तर घटने से राहत है, लेकिन बाकी इलाकों में संकट बरकरार है।",
-    "tts_text_hi": "बिहार के तेरह जिलों में बाढ़ से उनतीस लाख से ज्यादा लोग प्रभावित हैं। कई नदियां खतरे के निशान से ऊपर बह रही हैं, जिससे सड़कें डूब गई हैं और घरों में पानी घुस चुका है। पटना में गंगा का जलस्तर घटने से राहत है, लेकिन बाकी इलाकों में संकट बरकरार है।",
-    "title": "बिहार में बाढ़ का कहर",
-    "caption": "बिहार के 13 जिलों में बाढ़ से 29 लाख से ज्यादा लोग प्रभावित हैं। कई नदियां खतरे के निशान से ऊपर बह रही हैं।",
-    "hashtags": [
-      "BiharFloods",
-      "BiharNews",
-      "FloodAlert",
-      "PatnaNews",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India flooded street",
-      "overflowing river India",
-      "India flood rescue boat",
-      "submerged houses India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/31589250/13461386_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "India flooded street",
-        "credit": "Somogro Bangladesh",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34473529/14607451_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "submerged houses India",
-        "credit": "RD",
-        "source_duration_sec": 18,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "overflowing river India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India flood rescue boat",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बिहार के 13 जिलों में सैलाब! 29 लाख लोग बाढ़ से घिरे 🌊",
-        "caption": "बिहार में बाढ़ का भयंकर तांडव! 🌊\n\nराज्य के 13 जिलों में पानी का कहर बरस रहा है और करीब 29 लाख लोग इस सैलाब के बीच फंसे हुए हैं। नदियां खतरे के निशान से ऊपर बह रही हैं और गांव के गांव पानी में डूब चुके हैं।\n\nहालात कितने गंभीर हैं, पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#BiharFlood #BiharNews #FloodAlert #BiharUpdates #NaturalDisaster"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बिहार में बाढ़ का भयंकर तांडव! 🌊\n\n13 जिले और 29 लाख लोग पानी के बीच बेबस। कुदरत का यह रूप डराने वाला है। \n\nअपनों की जान बचाने के लिए लोग संघर्ष कर रहे हैं। इस भयानक मंजर की पूरी कहानी देखें, वीडियो लाइक और शेयर करें।\n\n#BiharFlood #BiharNews #FloodAlert #BiharUpdates #NaturalDisaster"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बिहार में बाढ़ का भयंकर तांडव! 🌊\n\nइस वक्त राज्य के 13 जिलों में हालात बेहद गंभीर बने हुए हैं। करीब 29 लाख लोग सैलाब के घेरे में हैं, जिनके सामने रोजमर्रा की जिंदगी बचाने का संकट खड़ा हो गया है। प्रशासन राहत और बचाव कार्य में जुटा है, लेकिन पानी का स्तर लगातार डरा रहा है। \n\nजमीन पर असल स्थिति क्या है, जानने के लिए वीडियो देखें और इस दुखद खबर को आगे शेयर करें।\n\n#BiharFlood #BiharNews #FloodAlert #BiharUpdates #NaturalDisaster"
-      },
-      "hashtags": [
-        "BiharFlood",
-        "BiharNews",
-        "FloodAlert",
-        "BiharUpdates",
-        "NaturalDisaster"
-      ]
-    },
-    "audio_path": "audio/bihar_flood_13_districts_affected.wav",
-    "audio_duration_sec": 19.12,
-    "video_path": "videos/bihar_flood_13_districts_affected.mp4",
-    "video_duration_sec": 27.16
-  },
-  {
-    "topic_label": "patna_nia_raid_wrong_flat_cash",
-    "virality_score": 8,
-    "reason": "Dramatic NIA raid error in Patna leading to a major cash recovery and arrest.",
-    "region": "india",
-    "headline": "पटना: गलती से दूसरे फ्लैट में पहुंची NIA की टीम, भागने लगा शख्स; 20 लाख कैश बरामद, मोस्टवांटेड भी धराया",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/news-2026-09-08t083959.961.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"पटना: गलती से दूसरे फ्लैट में पहुंची NIA की टीम, भागने लगा शख्स; 20 लाख कैश बरामद, मोस्टवांटेड भी धराया\" /></figure>पटना में एनआईए की कार्रवाई के दौरान एक दिलचस्प घटनाक्रम सामने आया. टीम जांच के सिलसिले में एक फ्लैट में पहुंची, जहां एक व्यक्ति पुलिस को देखकर भागने लगा. अधिकारियों ने उसे पकड़ लिया.",
-    "source_url": "https://www.tv9hindi.com/state/bihar/patna-nia-raid-20-lakh-cash-terror-link-most-wanted-arrest-3901301.html",
+    "headline": "पत्नी की हत्या, फ्रिज में मिला सिर… गुवाहाटी सनसनीखेज अपराध",
+    "source_summary": "गुवाहाटी में पति द्वारा पत्नी की नृशंस हत्या का मामला सामने आया है. सिर फ्रिज में रखा और उंगलियां काट दीं. बदबू आने पर पड़ोसियों ने पुलिस बुलाई.",
+    "source_url": "https://www.tv9hindi.com/videos/guwahati-shocker-husband-decapitates-wife-stores-head-in-fridge-3901337.html",
     "source_name": "TV9 Hindi",
-    "published": "Tue, 08 Sep 2026 08:40:54 +0530",
-    "hook": "पटना में एनआईए की रेड के दौरान हुआ गजब का खेल!",
-    "script_hi": "पटना में एनआईए की टीम गलती से एक दूसरे फ्लैट में जा पहुंची। पुलिस को देखते ही वहां मौजूद शख्स घबराकर भागने लगा। शक होने पर जब अधिकारियों ने तलाशी ली, तो बीस लाख रुपये नकद बरामद हुए। पूछताछ में पता चला कि यह शख्स कोई आम अपराधी नहीं, बल्कि एक मोस्टवांटेड आरोपी है, जो एनआईए की गिरफ्त में आ गया।",
-    "tts_text_hi": "पटना में एनआईए की टीम गलती से एक दूसरे फ्लैट में जा पहुंची। पुलिस को देखते ही वहां मौजूद शख्स घबराकर भागने लगा। शक होने पर जब अधिकारियों ने तलाशी ली, तो बीस लाख रुपये नकद बरामद हुए। पूछताछ में पता चला कि यह शख्स कोई आम अपराधी नहीं, बल्कि एक मोस्टवांटेड आरोपी है, जो एनआईए की गिरफ्त में आ गया।",
-    "title": "पटना: गलती से दूसरे फ्लैट में पहुंची NIA की टीम",
-    "caption": "पटना में एनआईए की रेड के दौरान गलती से दूसरे फ्लैट में पहुंची टीम, पकड़ा गया मोस्टवांटेड और मिला बीस लाख कैश।",
+    "published": "Tue, 08 Sep 2026 10:10:26 +0530",
+    "hook": "गुवाहाटी से रूह कंपा देने वाली वारदात सामने आई है!",
+    "script_hi": "गुवाहाटी में एक शख्स ने अपनी पत्नी की नृशंस हत्या कर दी। आरोपी ने शव के टुकड़े किए और सिर को फ्रिज में छिपा दिया। घर से बदबू आने पर पड़ोसियों ने पुलिस को सूचना दी, जिसके बाद इस भयानक अपराध का खुलासा हुआ।",
+    "tts_text_hi": "गुवाहाटी में एक शख्स ने अपनी पत्नी की नृशंस हत्या कर दी। आरोपी ने शव के टुकड़े किए और सिर को फ्रिज में छिपा दिया। घर से बदबू आने पर पड़ोसियों ने पुलिस को सूचना दी, जिसके बाद इस भयानक अपराध का खुलासा हुआ।",
+    "title": "गुवाहाटी में पत्नी की हत्या और फ्रिज में मिला सिर",
+    "caption": "गुवाहाटी में सनसनीखेज वारदात, पति ने की पत्नी की हत्या, फ्रिज में मिला सिर और कटी हुई उंगलियां।",
     "hashtags": [
-      "PatnaNews",
-      "NIA",
-      "BiharNews",
+      "GuwahatiCrime",
+      "AssamNews",
       "CrimeNews",
-      "BreakingNews",
-      "IndiaNews"
+      "IndiaCrime",
+      "PoliceInvestigation",
+      "Guwahati"
     ],
     "visual_queries": [
-      "National Investigation Agency India",
-      "Patna city street India",
-      "police apartment raid India",
-      "Indian police cash recovery"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39204516/16681740_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "police raid apartment India",
-        "credit": "you dont know me",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8369523/pexels-photo-8369523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "National Investigation Agency India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20533397/pexels-photo-20533397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Patna city street India",
-        "credit": "Chandan Suman 🇮🇳",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11662759/pexels-photo-11662759.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police apartment raid India",
-        "credit": "Madvortex",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "गलती से दूसरे फ्लैट में घुसी NIA, पकड़ लिया मोस्ट वांटेड! 🚨",
-        "caption": "गलती से दूसरे फ्लैट में घुसी NIA की टीम, और फिर जो हुआ उसने सबको चौंका दिया 🤯\n\nपटना के इस फ्लैट में रेड के दौरान एक शख्स डरकर भागने लगा। जब तलाशी ली गई तो वहां से 20 लाख कैश और एक खतरनाक मोस्टवांटेड भी हत्थे चढ़ गया।\n\nपूरी कहानी देखें और बताएं, आपकी नजर में ये किस्मत थी या बड़ा एक्शन?\n\n#PatnaNews #NIARaid #BiharCrime #PatnaPolice"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "गलती से दूसरे फ्लैट में घुसी NIA, और फिर हाथ लग गया सबसे बड़ा इनामी! 🚨\n\nपटना में छापेमारी के दौरान टीम गलत पते पर पहुंच गई थी, लेकिन वहां से 20 लाख कैश और मोस्टवांटेड के पकड़े जाने से सनसनी फैल गई।\n\nशेयर करें इस मजेदार और चौंकाने वाले किस्से को!\n\n#PatnaNews #NIARaid #BiharCrime #PatnaPolice"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "गलती से दूसरे फ्लैट में घुसी NIA की टीम, और फिर जो हुआ उसने सबको हैरान कर दिया 🤯\n\nपटना में चल रही इस रेड के दौरान एक शख्स अचानक भागने लगा। जब पुलिस और NIA ने तलाशी ली, तो वहां से 20 लाख रुपये नकद बरामद हुए और साथ ही एक मोस्टवांटेड भी पकड़ा गया।\n\nपूरी कहानी वीडियो में देखें। क्या ये सिर्फ इत्तेफाक था या बड़ा मास्टरस्ट्रोक?\n\n#PatnaNews #NIARaid #BiharCrime #PatnaPolice"
-      },
-      "hashtags": [
-        "PatnaNews",
-        "NIARaid",
-        "BiharCrime",
-        "PatnaPolice"
-      ]
-    },
-    "audio_path": "audio/patna_nia_raid_wrong_flat_cash.wav",
-    "audio_duration_sec": 23.96,
-    "video_path": "videos/patna_nia_raid_wrong_flat_cash.mp4",
-    "video_duration_sec": 32.01
-  },
-  {
-    "topic_label": "assam_guwahati_husband_decapitates_wife_fridge",
-    "virality_score": 8,
-    "reason": "Gruesome murder case in Guwahati where a husband kept his wife's severed head and fingers in a fridge.",
-    "region": "india",
-    "headline": "असम: एक शक और खूनी खेल… पति ने क्यों काटा पत्नी का सिर? रिया मर्डर केस की कहानी",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/news-2026-09-08t081334.306.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"असम: एक शक और खूनी खेल… पति ने क्यों काटा पत्नी का सिर? रिया मर्डर केस की कहानी\" /></figure>पुलिस जब मौके पर पहुंची, तो रिया मृत मिलीं और उनका सिर धड़ से अलग था. पति ने सिर को फ्रिज में रख दिया था. घटना की जांच के लिए CID और फोरेंसिक टीम ने घर से कई नमूने और सबूत जुटाए हैं.",
-    "source_url": "https://www.tv9hindi.com/state/guwahati-woman-murder-riya-talukdar-husband-surrenders-3901287.html",
-    "source_name": "TV9 Hindi",
-    "published": "Tue, 08 Sep 2026 08:14:46 +0530",
-    "hook": "असम से दिल दहला देने वाली खबर! शक के चलते पति ने की पत्नी की हत्या।",
-    "script_hi": "असम में एक दिल दहला देने वाली घटना सामने आई है जहाँ एक पति ने अपनी पत्नी रिया की बेरहमी से हत्या कर दी। पुलिस जब मौके पर पहुँची तो रिया का शव और सिर अलग था। आरोपी ने क्रूरता की हद पार करते हुए कटा हुआ सिर फ्रिज में छिपा दिया था। सी आई डी और फोरेंसिक टीम ने मौके से सबूत जुटाए हैं।",
-    "tts_text_hi": "असम में एक दिल दहला देने वाली घटना सामने आई है जहाँ एक पति ने अपनी पत्नी रिया की बेरहमी से हत्या कर दी। पुलिस जब मौके पर पहुँची तो रिया का शव और सिर अलग था। आरोपी ने क्रूरता की हद पार करते हुए कटा हुआ सिर फ्रिज में छिपा दिया था। सी आई डी और फोरेंसिक टीम ने मौके से सबूत जुटाए हैं।",
-    "title": "असम में खौफनाक हत्याकांड, पति ने काटा पत्नी का सिर",
-    "caption": "असम के रिया मर्डर केस में चौंकाने वाला खुलासा, पति ने पत्नी की हत्या कर फ्रिज में रखा सिर।",
-    "hashtags": [
-      "#AssamCrime",
-      "#RiyaMurderCase",
-      "#CrimeNews",
-      "#IndiaNews",
-      "#PoliceInvestigation"
-    ],
-    "visual_queries": [
-      "Assam police station India",
+      "Guwahati police station India",
       "crime scene investigation India",
-      "forensic team collecting evidence India",
-      "CID police officer India"
+      "police yellow tape India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -362,12 +164,13 @@
         "duration_sec": 6
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Assam police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
+        "query": "police yellow tape India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 23,
+        "duration_sec": 6
       },
       {
         "type": "image",
@@ -375,275 +178,161 @@
         "source": "pexels",
         "query": "crime scene investigation India",
         "credit": "cottonbro studio",
-        "duration_sec": 5
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481296/pexels-photo-10481296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "downloaded_assets/commons_55e633f10f.jpg",
+        "source": "wikimedia_commons",
+        "query": "police investigation India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481245/pexels-photo-10481245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "forensic team collecting evidence India",
+        "query": "crime scene investigation",
         "credit": "cottonbro studio",
-        "duration_sec": 5
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police officers talking India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19927651/pexels-photo-19927651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian residential neighborhood street",
+        "credit": "Kalpit Visavadiya",
+        "duration_sec": 3.6
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "असम में शक की खौफनाक हद! पति ने काटा पत्नी का सिर 😱",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nअसम के रिया मर्डर केस में एक शक की वजह से पति ने खूनी खेल खेलते हुए अपनी ही पत्नी का सिर काट दिया। इस सनसनीखेज वारदात ने पूरे इलाके को दहला दिया है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#AssamNews #CrimeNews #RiyaMurderCase #ShockingNews #TrueCrime"
+        "title": "गुवाहाटी में पत्नी की हत्या और फ्रिज में मिला सिर",
+        "caption": "गुवाहाटी में सनसनीखेज वारदात, पति ने की पत्नी की हत्या, फ्रिज में मिला सिर और कटी हुई उंगलियां।\n\n#GuwahatiCrime #AssamNews #CrimeNews #IndiaCrime #PoliceInvestigation"
       },
       "instagram": {
         "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nअसम के रिया मर्डर केस में एक शक की वजह से पति ने खूनी खेल खेलते हुए अपनी ही पत्नी का सिर काट दिया। इस सनसनीखेज वारदात ने पूरे इलाके को दहला दिया है।\n\nक्या शक की कोई इतनी बड़ी कीमत हो सकती है? अपनी राय कमेंट में शेयर करें।\n\n#AssamNews #CrimeNews #RiyaMurderCase #ShockingNews #TrueCrime"
+        "caption": "गुवाहाटी में सनसनीखेज वारदात, पति ने की पत्नी की हत्या, फ्रिज में मिला सिर और कटी हुई उंगलियां।\n\n#GuwahatiCrime #AssamNews #CrimeNews #IndiaCrime #PoliceInvestigation"
       },
       "facebook": {
         "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nअसम से एक बेहद खौफनाक मामला सामने आया है जहाँ एक शक के चलते पति ने अपनी ही पत्नी की हत्या कर दी और उसका सिर काट दिया। रिया मर्डर केस की इस डरावनी सच्चाई ने हर किसी को झकझोर कर रख दिया है।\n\nपूरी कहानी क्या है, जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#AssamNews #CrimeNews #RiyaMurderCase #ShockingNews #TrueCrime"
+        "caption": "गुवाहाटी में सनसनीखेज वारदात, पति ने की पत्नी की हत्या, फ्रिज में मिला सिर और कटी हुई उंगलियां।\n\n#GuwahatiCrime #AssamNews #CrimeNews #IndiaCrime #PoliceInvestigation"
       },
       "hashtags": [
+        "GuwahatiCrime",
         "AssamNews",
         "CrimeNews",
-        "RiyaMurderCase",
-        "ShockingNews",
-        "TrueCrime"
+        "IndiaCrime",
+        "PoliceInvestigation"
       ]
     },
-    "audio_path": "audio/assam_guwahati_husband_decapitates_wife_fridge.wav",
-    "audio_duration_sec": 21.41,
-    "video_path": "videos/assam_guwahati_husband_decapitates_wife_fridge.mp4",
-    "video_duration_sec": 29.36
+    "audio_path": "audio/guwahati_husband_decapitates_wife_fridge.wav",
+    "audio_duration_sec": 14.85,
+    "video_path": "videos/guwahati_husband_decapitates_wife_fridge.mp4",
+    "video_duration_sec": 22.91
   },
   {
-    "topic_label": "ram_mandir_trust_ceo_air_marshal_jitendra_mishra",
-    "virality_score": 7,
-    "reason": "High-profile appointment of retired Air Marshal Jitendra Mishra as the first CEO of Ram Mandir Trust.",
+    "topic_label": "sagar_madhya_pradesh_hooch_tragedy",
+    "virality_score": 8,
+    "reason": "Major state tragedy with high casualties and swift administrative action.",
     "region": "india",
-    "headline": "आज राम मंदिर ट्रस्ट ज्वाइन करेंगे पहले CEO; देश सेवा के बाद जीतेंद्र मिश्रा को अब मंदिर की जिम्मेदारी",
-    "source_summary": "ऑपरेशन सिंदूर के दौरान अहम जिम्मेदारी निभा चुके भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के मुख्य कार्यकारी अधिकारी (CEO) का पदभार ग्रहण करेंगे. उन्हें 5,000 से अधिक उम्मीदवारों में से चयनित किया गया है.",
-    "source_url": "https://ndtv.in/uttar-pradesh-news/air-marshal-retd-jeetendra-mishra-takes-charge-ram-mandir-trust-ceo-ayodhya-shri-ram-janmabhoomi-teerth-kshetra-trust-temple-management-12015735#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 08:04:46 +0530",
-    "hook": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी!",
-    "script_hi": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! ऑपरेशन सिंदूर में अहम भूमिका निभाने वाले भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के सीईओ का पदभार संभालेंगे। पांच हजार से अधिक उम्मीदवारों में से उनका चयन किया गया है।",
-    "tts_text_hi": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! ऑपरेशन सिंदूर में अहम भूमिका निभाने वाले भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के सीईओ का पदभार संभालेंगे। पांच हजार से अधिक उम्मीदवारों में से उनका चयन किया गया है।",
-    "title": "राम मंदिर ट्रस्ट के पहले CEO बने एयर मार्शल जीतेंद्र मिश्रा",
-    "caption": "ऑपरेशन सिंदूर के हीरो रहे एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा आज संभालेंगे श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के मुख्य कार्यकारी अधिकारी का पदभार।",
+    "headline": "MP में जहरीली शराब से 13 लोगों की मौत, 30 के खिलाफ FIR दर्ज",
+    "source_summary": "मध्य प्रदेश के सागर में जहरीली शराब कांड ने हड़कंप मचा दिया है. सरकारी आंकड़ों के मुताबिक अब तक 13 लोगों की मौत हो चुकी है, जबकि 100 से ज्यादा लोग अस्पताल में भर्ती हैं. मामले में मजिस्ट्रेटियल जांच के आदेश दिए गए हैं. प्रशासन ने एहतियातन इलाके की छह शराब दुकानों को सील कर दिया है.. पुलिस ने 30 लोगों के खिलाफ केस दर्ज किया है और 14 लोगों को हिरासत में लिया गया है. वहीं, मौतों के आंकड़े को लेकर सियासत भी गरमा गई है.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/video/13-people-died-due-to-poisonous-liquor-in-sagar-mp-fir-against-30-people-vdos-2638537-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T10:17:28+05:30",
+    "hook": "मध्य प्रदेश के सागर में जहरीली शराब का कहर!",
+    "script_hi": "मध्य प्रदेश के सागर में जहरीली शराब कांड से हड़कंप मच गया है। सरकारी आंकड़ों के मुताबिक अब तक तेरह लोगों की मौत हो चुकी है, जबकि सौ से ज्यादा लोग अस्पताल में भर्ती हैं। प्रशासन ने छह शराब दुकानों को सील कर दिया है। पुलिस ने तीस लोगों के खिलाफ केस दर्ज कर चौदह लोगों को हिरासत में लिया है। मामले की मजिस्ट्रेटियल जांच के आदेश दे दिए गए हैं।",
+    "tts_text_hi": "मध्य प्रदेश के सागर में जहरीली शराब कांड से हड़कंप मच गया है। सरकारी आंकड़ों के मुताबिक अब तक तेरह लोगों की मौत हो चुकी है, जबकि सौ से ज्यादा लोग अस्पताल में भर्ती हैं। प्रशासन ने छह शराब दुकानों को सील कर दिया है। पुलिस ने तीस लोगों के खिलाफ केस दर्ज कर चौदह लोगों को हिरासत में लिया है। मामले की मजिस्ट्रेटियल जांच के आदेश दे दिए गए हैं।",
+    "title": "MP में जहरीली शराब से 13 मौतें",
+    "caption": "मध्य प्रदेश के सागर में जहरीली शराब पीने से 13 लोगों की मौत, 100 से ज्यादा अस्पताल में भर्ती। प्रशासन ने की कार्रवाई।",
     "hashtags": [
-      "RamMandir",
-      "Ayodhya",
-      "IndianAirForce",
-      "JitendraMishra",
-      "RamMandirTrust",
-      "NewsUpdates"
+      "MadhyaPradesh",
+      "SagarNews",
+      "BreakingNews",
+      "HindiNews",
+      "LatestNews"
     ],
     "visual_queries": [
-      "Hindu temple India",
-      "Indian air force officer",
-      "Temple trust office India"
+      "Madhya Pradesh police station India",
+      "hospital building India",
+      "police investigation India"
     ],
-    "named_person": "Jitendra Mishra",
-    "named_person_hi": "जीतेंद्र मिश्रा",
-    "secondary_persons": [],
-    "est_duration_sec": 27,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "जीतेंद्र मिश्रा",
-        "source": "fallback",
-        "query": "Jitendra Mishra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hindu temple India",
-        "credit": "Nalam Team",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32487277/pexels-photo-32487277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian air force officer",
-        "credit": "SUBRATA DEB",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39086652/pexels-photo-39086652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Temple trust office India",
-        "credit": "Debendra Das",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "राम मंदिर ट्रस्ट को मिला पहला CEO! जानिए कौन हैं एयर मार्शल जीतेंद्र मिश्रा 🏛️",
-        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nअयोध्या में राम मंदिर की व्यवस्था को संभालने के लिए एयर मार्शल जीतेंद्र मिश्रा को ट्रस्ट का पहला CEO नियुक्त किया गया है। देश की सेवा करने के बाद अब वे मंदिर की अहम जिम्मेदारी संभालेंगे।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nदेश की सेवा के बाद अब एयर मार्शल जीतेंद्र मिश्रा संभालेंगे राम मंदिर की कमान। अयोध्या में व्यवस्थाओं को और बेहतर करने के लिए यह बहुत बड़ा कदम माना जा रहा है।\n\nयह फैसला कितना अहम है? शेयर करके दूसरों को भी बताएं।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🏛️\n\nअयोध्या में राम मंदिर के संचालन और व्यवस्था को सुचारू रूप से चलाने के लिए एयर मार्शल जीतेंद्र मिश्रा को ट्रस्ट का पहला CEO बनाया गया है। देश की सेवा में लंबा वक्त बिताने के बाद अब वे रामलला के दरबार की सेवा संभालेंगे।\n\nआप इस फैसले को कैसे देखते हैं? कमेंट में अपनी राय जरूर शेयर करें।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
-      },
-      "hashtags": [
-        "RamMandir",
-        "Ayodhya",
-        "RamMandirTrust",
-        "JitendraMishra",
-        "AyodhyaNews"
-      ]
-    },
-    "audio_path": "audio/ram_mandir_trust_ceo_air_marshal_jitendra_mishra.wav",
-    "audio_duration_sec": 19.88,
-    "video_path": "videos/ram_mandir_trust_ceo_air_marshal_jitendra_mishra.mp4",
-    "video_duration_sec": 27.92
-  },
-  {
-    "topic_label": "china_back_scratching_business_viral",
-    "virality_score": 7,
-    "reason": "A quirky and viral business trend from China about professional back-scratching creating social media buzz.",
-    "region": "india",
-    "headline": "चीन में कमर खुजाकर ₹14 लाख महीने कमा रहा यह शख्स, हर्ष गोयनका ने पूछा- भारत में कौन शुरू करेगा यह स्टार्टअप?",
-    "source_summary": "Back Scratching Business: चीन में पीठ खुजाने की प्रोफेशनल सर्विस चर्चा में है, जिसकी फीस करीब 4200 रुपये प्रति घंटे बताई जा रही है। हर्ष गोयनका के पोस्ट पर यूजर्स ने भारतीय जुगाड़ और मुफ्त घरेलू विकल्पों के मजेदार उदाहरण दिए।",
-    "source_url": "https://navbharattimes.indiatimes.com/business/business-news/china-professional-back-scratching-business-harsh-goenka-reaction/articleshow/133906019.cms",
-    "source_name": "Navbharat Times",
-    "published": "Tue, 08 Sep 2026 09:32:00 +0530",
-    "hook": "चीन में पीठ खुजाने की अजीबोगरीब नौकरी, महीने के चौदह लाख रुपये तक की कमाई!",
-    "script_hi": "चीन में पीठ खुजाने की प्रोफेशनल सर्विस इन दिनों चर्चा में है, जहाँ इसके लिए प्रति घंटे करीब चार हजार दो सौ रुपये तक वसूले जाते हैं। इस अनोखे काम से एक शख्स महीने के चौदह लाख रुपये तक कमा रहा है। उद्योगपति हर्ष गोयनका ने सोशल मीडिया पर इस स्टार्टअप का जिक्र करते हुए पूछा कि भारत में इसे कौन शुरू करेगा। इस पर यूजर्स ने मजेदार प्रतिक्रियाएं देते हुए भारतीय घरों के पारंपरिक जुगाड़ और मुफ्त विकल्पों के दिलचस्प उदाहरण शेयर किए।",
-    "tts_text_hi": "चीन में पीठ खुजाने की प्रोफेशनल सर्विस इन दिनों चर्चा में है, जहाँ इसके लिए प्रति घंटे करीब चार हजार दो सौ रुपये तक वसूले जाते हैं। इस अनोखे काम से एक शख्स महीने के चौदह लाख रुपये तक कमा रहा है। उद्योगपति हर्ष गोयनका ने सोशल मीडिया पर इस स्टार्टअप का जिक्र करते हुए पूछा कि भारत में इसे कौन शुरू करेगा। इस पर यूजर्स ने मजेदार प्रतिक्रियाएं देते हुए भारतीय घरों के पारंपरिक जुगाड़ और मुफ्त विकल्पों के दिलचस्प उदाहरण शेयर किए।",
-    "title": "चीन में पीठ खुजाने की अजीबोगरीब नौकरी, कमाई जानकर चौंक जाएंगे",
-    "caption": "चीन में पीठ खुजाने की प्रोफेशनल सर्विस से महीने के चौदह लाख रुपये कमाने की खबर वायरल हो रही है। हर्ष गोयनका के पोस्ट पर लोगों ने मजेदार रिएक्शन दिए।",
-    "hashtags": [
-      "ChinaNews",
-      "ViralNews",
-      "HarshGoenka",
-      "Startup",
-      "Trending",
-      "OddNews",
-      "India"
-    ],
-    "visual_queries": [
-      "China office worker India",
-      "frustrated businessman India",
-      "smartphone social media India",
-      "funny street market India"
-    ],
-    "named_person": "Harsh Goenka",
-    "named_person_hi": "हर्ष गोयनका",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "हर्ष गोयनका",
-        "source": "fallback",
-        "query": "Harsh Goenka",
-        "duration_sec": 4.0
-      },
-      {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/8691682/8691682-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "China office worker India",
-        "credit": "Ron Lach",
-        "source_duration_sec": 47,
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7927352/pexels-photo-7927352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13282256/pexels-photo-13282256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "frustrated businessman India",
-        "credit": "Nicola Barts",
+        "query": "Madhya Pradesh police station India",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12092934/pexels-photo-12092934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "smartphone social media India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "funny street market India",
-        "credit": "Umang & Meet",
+        "query": "hospital building India",
+        "credit": "General Kenobi",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "चीन में पीठ खुजाने की अजीब नौकरी! महीने के 14 लाख रुपये तक की कमाई 🤯",
-        "caption": "चीन में पीठ खुजाने की अनोखी नौकरी, महीने के 14 लाख रुपये तक की कमाई! 🤯\n\nजी हां, एक ऐसा शख्स जो सिर्फ दूसरों की पीठ खुजाकर लाखों छाप रहा है, और इस अनोखे काम पर उद्योगपति हर्ष गोयनका ने भी हैरानी जताई है।\n\nपूरी कहानी वीडियो में देखें और कमेंट करके बताएं कि क्या आप ऐसा स्टार्टअप भारत में शुरू करना चाहेंगे?\n\n#china news #harsh goenka #unique job #viral news #startup india"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "चीन में पीठ खुजाने की अनोखी नौकरी, महीने के 14 लाख रुपये तक की कमाई! 🤯\n\nहर्ष गोयनका तक इस अनोखे काम को देखकर हैरान रह गए। क्या आप कभी ऐसी नौकरी करना पसंद करेंगे? दोस्तों के साथ शेयर करें!\n\n#china news #harsh goenka #unique job #viral news #startup india"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "चीन में पीठ खुजाने की एक ऐसी अजीबोगरीब नौकरी सामने आई है जिसे जानकर हर कोई हैरान है। यहाँ लोग इस काम से महीने के चौदह लाख रुपये तक कमा रहे हैं। \n\nउद्योगपति हर्ष गोयनका ने भी इस पर चुटकी लेते हुए पूछा है कि भारत में ऐसा स्टार्टअप कौन शुरू करेगा। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में साझा करें।\n\n#china news #harsh goenka #unique job #viral news #startup india"
-      },
-      "hashtags": [
-        "china news",
-        "harsh goenka",
-        "unique job",
-        "viral news",
-        "startup india"
-      ]
-    },
-    "audio_path": "audio/china_back_scratching_business_viral.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/china_back_scratching_business_viral.mp4",
-    "video_duration_sec": 38.19
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "germany_far_right_afd_state_election_win",
-    "virality_score": 7,
-    "reason": "Significant geopolitical news regarding the far-right AfD party's historic state election breakthrough in Germany.",
-    "region": "global",
-    "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-    "source_summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Mon, 07 Sep 2026 14:04:01 GMT",
-    "hook": "जर्मनी में धुर-दक्षिणपंथी पार्टी की ऐतिहासिक जीत!",
-    "script_hi": "जर्मनी की धुर-दक्षिणपंथी एएफडी पार्टी ने राज्य चुनावों में बड़ी जीत हासिल करने के बाद कहा है कि लोकतंत्र की मांग है कि अन्य दल उनके साथ मिलकर सरकार बनाएं। हालांकि पार्टी बहुमत से तीन सीटें दूर रह गई है।",
-    "tts_text_hi": "जर्मनी की धुर-दक्षिणपंथी एएफडी पार्टी ने राज्य चुनावों में बड़ी जीत हासिल करने के बाद कहा है कि लोकतंत्र की मांग है कि अन्य दल उनके साथ मिलकर सरकार बनाएं। हालांकि पार्टी बहुमत से तीन सीटें दूर रह गई है।",
-    "title": "जर्मनी में एएफडी की जीत पर सियासी हलचल",
-    "caption": "जर्मनी में धुर-दक्षिणपंथी पार्टी एएफडी ने चुनाव जीतने के बाद अन्य दलों से सरकार गठन में साथ आने की मांग की है।",
+    "topic_label": "thane_student_suicide_college_admission",
+    "virality_score": 8,
+    "reason": "Emotional and relatable youth-centric story regarding academic pressure and cutoffs.",
+    "region": "india",
+    "headline": "95.7% अंक लाया, फिर भी पसंदीदा कॉलेज में नहीं मिला एडमिशन; पुणे के 17 वर्षीय छात्र ने दे दी जान",
+    "source_summary": "महाराष्ट्र के ठाणे में 12वीं में 95.7 प्रतिशत अंक हासिल करने वाले 17 वर्षीय छात्र ने कथित तौर पर आत्महत्या कर ली. छात्र भारतीय इंजीनियरिंग विज्ञान एवं प्रौद्योगिकी संस्थान (IIEST) शिबपुर में दाखिला लेना चाहता था, लेकिन सीट नहीं मिलने से वह काफी निराश था.",
+    "source_url": "https://ndtv.in/maharashtra-news/thane-teen-dies-95-7-percent-marks-ends-life-after-failing-college-admission-choice-iiest-shibpur-disappointment-student-suicide-mental-health-12015843#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 08:54:10 +0530",
+    "hook": "पंचानबे प्रतिशत से ज्यादा अंक, फिर भी सपने का कॉलेज नहीं मिला!",
+    "script_hi": "महाराष्ट्र के ठाणे में बारहवीं कक्षा में पंचानबे दशमलव सात प्रतिशत अंक हासिल करने वाले सत्रह वर्षीय छात्र ने कथित तौर पर आत्महत्या कर ली। छात्र भारतीय इंजीनियरिंग विज्ञान एवं प्रौद्योगिकी संस्थान शिबपुर में दाखिला लेना चाहता था, लेकिन मनपसंद सीट नहीं मिलने के कारण वह काफी निराश चल रहा था।",
+    "tts_text_hi": "महाराष्ट्र के ठाणे में बारहवीं कक्षा में पंचानबे दशमलव सात प्रतिशत अंक हासिल करने वाले सत्रह वर्षीय छात्र ने कथित तौर पर आत्महत्या कर ली। छात्र भारतीय इंजीनियरिंग विज्ञान एवं प्रौद्योगिकी संस्थान शिबपुर में दाखिला लेना चाहता था, लेकिन मनपसंद सीट नहीं मिलने के कारण वह काफी निराश चल रहा था।",
+    "title": "पुणे के छात्र ने कॉलेज एडमिशन न मिलने पर दी जान",
+    "caption": "महाराष्ट्र के ठाणे में बारहवीं में 95.7% अंक लाने वाले 17 वर्षीय छात्र ने मनपसंद कॉलेज में एडमिशन न मिलने पर आत्महत्या कर ली।",
     "hashtags": [
-      "#Germany",
-      "#AfD",
-      "#WorldNews",
-      "#Politics",
-      "#BreakingNews"
+      "#MaharashtraNews",
+      "#ThaneNews",
+      "#StudentNews",
+      "#BreakingNews",
+      "#EducationSystem",
+      "#HindiNews"
     ],
     "visual_queries": [
-      "German parliament building exterior",
-      "political election flags Germany",
-      "politicians meeting conference room"
+      "Thane city street India",
+      "Indian college campus building",
+      "sad Indian student studying"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -654,26 +343,251 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34475611/pexels-photo-34475611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19764951/pexels-photo-19764951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "German parliament building exterior",
-        "credit": "Nazar Dzhmola",
+        "query": "Thane city street India",
+        "credit": "Keith Lobo",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8850767/pexels-photo-8850767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30787968/pexels-photo-30787968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "political election flags Germany",
-        "credit": "Tara Winstead",
+        "query": "Indian college campus building",
+        "credit": "Umang & Meet",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8847142/pexels-photo-8847142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7929276/pexels-photo-7929276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "politicians meeting conference room",
+        "query": "sad Indian student studying",
         "credit": "Mikhail Nilov",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "meta_smart_glasses_mother_reaction",
+    "virality_score": 8,
+    "reason": "Wholesome and viral tech reaction video featuring a mother and son.",
+    "region": "india",
+    "headline": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश, रिएक्शन हुआ वायरल, वीडियो देख नहीं रुकेगी हंसी",
+    "source_summary": "इंटरनेट पर एक बेटे और उसकी मां का बेहद प्यारा वीडियो छाया हुआ है. बेटे ने जब अपनी मां से अपने नए मेटा स्मार्ट ग्लासेस की कीमत का अंदाजा लगाने को कहा, तो मां की मासूमियत और उनके मजेदार रिएक्शन ने लाखों लोगों का दिल जीत लिया.",
+    "source_url": "https://ndtv.in/zara-hatke/son-reveals-rs-50k-meta-smart-glasses-price-moms-epic-reaction-goes-viral-12015889#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 09:13:38 +0530",
+    "hook": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश!",
+    "script_hi": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश, रिएक्शन हुआ वायरल, वीडियो देख नहीं रुकेगी हंसी",
+    "tts_text_hi": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश, रिएक्शन हुआ वायरल, वीडियो देख नहीं रुकेगी हंसी",
+    "title": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश",
+    "caption": "मेटा स्मार्ट ग्लासेस की कीमत सुनकर उड़े मां के होश, रिएक्शन हुआ वायरल, वीडियो देख नहीं रुकेगी हंसी",
+    "hashtags": [
+      "MetaSmartGlasses",
+      "ViralVideo",
+      "MotherAndSon",
+      "FunnyReaction",
+      "Trending",
+      "TechNews"
+    ],
+    "visual_queries": [
+      "mother and son laughing India",
+      "smart glasses technology India",
+      "funny family reaction India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video that requires the real footage rather than generic stock B-roll.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29264210/pexels-photo-29264210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mother and son laughing India",
+        "credit": "Shafeeque k",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10199918/pexels-photo-10199918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smart glasses technology India",
+        "credit": "Pranav Jassi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28850966/pexels-photo-28850966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "funny family reaction India",
+        "credit": "Ravinder Ravi",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "bihar_flood_29_lakh_affected",
+    "virality_score": 7,
+    "reason": "Severe natural disaster affecting millions across 13 districts in Bihar.",
+    "region": "india",
+    "headline": "13 जिले, 29 लाख लोग सैलाब में घिरे... बिहार में बाढ़ के मंजर की तस्वीरें",
+    "source_summary": "बिहार के 13 जिलों में बाढ़ से 29 लाख से ज्यादा लोग प्रभावित हैं. कई नदियां खतरे के निशान से ऊपर बहने से सड़कें डूब गई हैं और घरों में पानी घुस चुका है. पटना में गंगा का जलस्तर घटने से थोड़ी राहत जरूर है, लेकिन बाकी इलाकों में संकट बरकरार है.",
+    "source_url": "https://www.aajtak.in/bihar/story/bihar-flood-update-ganga-kosi-gandak-rivers-danger-mark-people-affected-ntc-dhrj-rpti-2638521-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T09:40:35+05:30",
+    "hook": "बिहार के तेरह जिलों में बाढ़ का भीषण तांडव!",
+    "script_hi": "बिहार के तेरह जिलों में बाढ़ से उनतीस लाख से ज्यादा लोग प्रभावित हैं। कई नदियां खतरे के निशान से ऊपर बह रही हैं, जिससे सड़कें डूब चुकी हैं और घरों में पानी घुस गया है। पटना में गंगा का जलस्तर घटने से राहत जरूर है, लेकिन बाकी इलाकों में संकट अभी भी बरकरार है।",
+    "tts_text_hi": "बिहार के तेरह जिलों में बाढ़ से उनतीस लाख से ज्यादा लोग प्रभावित हैं। कई नदियां खतरे के निशान से ऊपर बह रही हैं, जिससे सड़कें डूब चुकी हैं और घरों में पानी घुस गया है। पटना में गंगा का जलस्तर घटने से राहत जरूर है, लेकिन बाकी इलाकों में संकट अभी भी बरकरार है।",
+    "title": "बिहार बाढ़: तेरह जिलों में उनतीस लाख लोग प्रभावित",
+    "caption": "बिहार के तेरह जिलों में बाढ़ का कहर, उनतीस लाख से ज्यादा लोग प्रभावित। जानिए क्या है ताजा स्थिति।",
+    "hashtags": [
+      "BiharFlood",
+      "BiharNews",
+      "FloodAlert",
+      "PatnaNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "India flooded river overflowing",
+      "Bihar flooded village India",
+      "India submerged street water",
+      "Ganga river Patna India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India flooded river overflowing",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33762354/pexels-photo-33762354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Bihar flooded village India",
+        "credit": "Rakibul alam khan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39105878/pexels-photo-39105878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India submerged street water",
+        "credit": "\"Beyond India by Shubham Thakur\"",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31480732/pexels-photo-31480732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ganga river Patna India",
+        "credit": "PK Pictures",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बिहार बाढ़: तेरह जिलों में उनतीस लाख लोग प्रभावित",
+        "caption": "बिहार के तेरह जिलों में बाढ़ का कहर, उनतीस लाख से ज्यादा लोग प्रभावित। जानिए क्या है ताजा स्थिति।\n\n#BiharFlood #BiharNews #FloodAlert #PatnaNews #IndiaNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "बिहार के तेरह जिलों में बाढ़ का कहर, उनतीस लाख से ज्यादा लोग प्रभावित। जानिए क्या है ताजा स्थिति।\n\n#BiharFlood #BiharNews #FloodAlert #PatnaNews #IndiaNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "बिहार के तेरह जिलों में बाढ़ का कहर, उनतीस लाख से ज्यादा लोग प्रभावित। जानिए क्या है ताजा स्थिति।\n\n#BiharFlood #BiharNews #FloodAlert #PatnaNews #IndiaNews"
+      },
+      "hashtags": [
+        "BiharFlood",
+        "BiharNews",
+        "FloodAlert",
+        "PatnaNews",
+        "IndiaNews"
+      ]
+    },
+    "audio_path": "audio/bihar_flood_29_lakh_affected.wav",
+    "audio_duration_sec": 19.52,
+    "video_path": "videos/bihar_flood_29_lakh_affected.mp4",
+    "video_duration_sec": 27.49
+  },
+  {
+    "topic_label": "russia_north_korea_first_road_bridge",
+    "virality_score": 7,
+    "reason": "Important global geopolitical development strengthening ties between Russia and North Korea.",
+    "region": "global",
+    "headline": "North Korea and Russia open first road bridge linking both countries",
+    "source_summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Tue, 08 Sep 2026 03:53:27 GMT",
+    "hook": "उत्तर कोरिया और रूस के बीच खुला पहला सड़क पुल!",
+    "script_hi": "उत्तर कोरिया और रूस के बीच पहला सड़क पुल बनकर तैयार हो गया है। यूक्रेन युद्ध शुरू होने के बाद से दोनों देशों के बीच संबंध और मजबूत हुए हैं।",
+    "tts_text_hi": "उत्तर कोरिया और रूस के बीच पहला सड़क पुल बनकर तैयार हो गया है। यूक्रेन युद्ध शुरू होने के बाद से दोनों देशों के बीच संबंध और मजबूत हुए हैं।",
+    "title": "North Korea and Russia open first road bridge linking both countries",
+    "caption": "उत्तर कोरिया और रूस के बीच पहला सड़क पुल खुला, यूक्रेन युद्ध के बाद और मजबूत हुए संबंध।",
+    "hashtags": [
+      "NorthKorea",
+      "Russia",
+      "GlobalNews",
+      "UkraineWar",
+      "InternationalRelations",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "North Korea border bridge",
+      "Russia highway construction",
+      "diplomatic handshake meeting"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38986532/pexels-photo-38986532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "North Korea border bridge",
+        "credit": "BI ravencrow",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5074241/pexels-photo-5074241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Russia highway construction",
+        "credit": "Max Avans",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8112186/pexels-photo-8112186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "diplomatic handshake meeting",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       }
     ],
