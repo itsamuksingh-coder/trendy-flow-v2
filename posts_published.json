@@ -1,40 +1,49 @@
 [
   {
-    "topic_label": "mumbai_pm_security_breach",
+    "topic_label": "mumbai_pm_modi_event_fake_pmo_gun_suspects",
     "virality_score": 9,
-    "reason": "Security breach involving fake PMO IDs and a firearm near the PM's event in Mumbai is a high-stakes, breaking news story.",
+    "reason": "High-security breach involving armed suspects with fake PMO IDs near PM Modi's event in Mumbai.",
     "region": "india",
     "headline": "मुंबई में PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
     "source_summary": "मुंबई में पीएम मोदी की मंगलवार को रैली से पहले दो संदिग्धों को पुलिस ने हिरासत में लिया. जिनके पास से बंदूक बरामद हुई है. एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था. उनके पास से PMO का फर्जी आई़डी कार्ड भी मिला. नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से ये दोनों संदिग्ध डिटेन किए गए. देखें वीडियो.",
     "source_url": "https://www.aajtak.in/india/news/video/pm-modi-mumbai-event-nita-ambani-cultural-center-security-scare-fake-pmo-officer-suspect-detained-vdot-2638910-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-08T17:29:47+05:30",
-    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से ठीक पहले बड़ा सुरक्षा चूक का मामला सामने आया है।",
-    "script_hi": "मुंबई में प्रधानमंत्री मोदी के इवेंट वाली जगह पर दो संदिग्धों को पकड़ा गया है। इनके पास से बंदूक और पीएमओ का फर्जी आई़डी कार्ड बरामद हुआ है। नीता मुकेश अंबानी कल्चरल सेंटर से इन्हें डिटेन किया गया है।",
-    "tts_text_hi": "मुंबई में प्रधानमंत्री मोदी के इवेंट वाली जगह पर दो संदिग्धों को पकड़ा गया है। इनके पास से बंदूक और पीएमओ का फर्जी आई़डी कार्ड बरामद हुआ है। नीता मुकेश अंबानी कल्चरल सेंटर से इन्हें डिटेन किया गया है।",
-    "title": "मुंबई में PM मोदी के इवेंट के पास संदिग्ध गिरफ्तार",
-    "caption": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, फर्जी आईडी और हथियार बरामद।",
+    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले बड़ा सुरक्षा खतरा!",
+    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था। पुलिस मामले की जांच कर रही है.",
+    "title": "मुंबई में पीएम मोदी के इवेंट से पहले बंदूक के साथ संदिग्ध गिरफ्तार",
+    "caption": "मुंबई में पीएम मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, बंदूक और फर्जी पीएमओ आईडी कार्ड बरामद।",
     "hashtags": [
-      "Mumbai",
+      "MumbaiNews",
       "PMModi",
       "SecurityAlert",
-      "MumbaiNews",
+      "MumbaiPolice",
       "BreakingNews",
-      "Maharashtra"
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Mumbai cityscape India",
-      "Indian police officers standing",
-      "fake identification card concept",
-      "modern convention center India"
+      "Mumbai city street India",
+      "Indian police station security",
+      "fake id card India",
+      "police investigation India"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story mentions a specific, sensitive security incident at a specific location; stock footage cannot accurately represent the actual scene of the arrest or the specific individuals involved.",
+    "flag_reason": "The summary mentions 'देखें वीडियो' indicating this is tied to a specific viral video or unique incident where generic stock B-roll cannot adequately substitute for the actual footage.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "downloaded_assets/person_53628df314.jpg",
@@ -45,142 +54,60 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai cityscape India",
-        "credit": "Deepak Bhandari",
+        "query": "Mumbai city street India",
+        "credit": "Rizwan Sayyed",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police officers standing",
-        "credit": "Devansh Bose",
+        "query": "Indian police station security",
+        "credit": "Aakash Panwar",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6565756/pexels-photo-6565756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7108126/pexels-photo-7108126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fake identification card concept",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20297567/pexels-photo-20297567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern convention center India",
-        "credit": "Shivansh  Sharma",
+        "query": "fake id card India",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "timeline_covered_sec": 26,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "guwahati_fridge_murder_case",
-    "virality_score": 9,
-    "reason": "Highly sensational crime story with graphic elements that consistently perform well in short-form video formats.",
-    "region": "india",
-    "headline": "'Will also kill her sugar daddy': Guwahati man who beheaded wife, kept head in fridge",
-    "source_summary": "A Guwahati woman was allegedly killed by her husband after a quarrel.  Her body was found decapitated in a flat, with her head in a bag.  The accused surrendered to police after the incident occurred on September third.  He confessed to the crime, stating frequent arguments led to the fatal act.  A court has sent the accused to police custody for seven days.",
-    "source_url": "https://timesofindia.indiatimes.com/city/guwahati/will-also-kill-her-sugar-daddy-guwahati-man-who-killed-wife-kept-served-head-in-fridge-says-he-has-no-regrets/articleshow/133916439.cms",
-    "source_name": "Times of India - Top Stories",
-    "published": "Tue, 08 Sep 2026 14:15:23 +0530",
-    "hook": "गुवाहाटी से आई एक दिल दहला देने वाली खबर!",
-    "script_hi": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी। झगड़े के बाद आरोपी ने पत्नी का सिर धड़ से अलग कर दिया और उसे फ्रिज में छिपा दिया। आरोपी ने बाद में पुलिस के सामने सरेंडर कर दिया। कोर्ट ने आरोपी को सात दिनों की पुलिस हिरासत में भेज दिया है।",
-    "tts_text_hi": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी। झगड़े के बाद आरोपी ने पत्नी का सिर धड़ से अलग कर दिया और उसे फ्रिज में छिपा दिया। आरोपी ने बाद में पुलिस के सामने सरेंडर कर दिया। कोर्ट ने आरोपी को सात दिनों की पुलिस हिरासत में भेज दिया है।",
-    "title": "गुवाहाटी में पत्नी की नृशंस हत्या",
-    "caption": "गुवाहाटी में एक पति ने अपनी पत्नी की नृशंस हत्या कर दी, आरोपी ने पुलिस के सामने किया सरेंडर।",
-    "hashtags": [
-      "Guwahati",
-      "CrimeNews",
-      "Assam",
-      "Crime",
-      "HindiNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Indian city street view",
-      "police station India building",
-      "Indian judicial court gavel",
-      "police handcuffs India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a brutal murder case with specific graphic details (decapitation, head in fridge) that requires careful handling and potentially sensitive content review according to channel safety guidelines.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/26614688/pexels-photo-26614688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street view",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32355381/pexels-photo-32355381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban Indian apartment building",
-        "credit": "RAKESH RABHA",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian judicial court gavel",
-        "credit": "KATRIN  BOLOVTSOVA",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7714896/pexels-photo-7714896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police handcuffs India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "delhi_nsg_brics_drill",
+    "topic_label": "delhi_satya_niketan_building_collapse_mcd_crackdown",
     "virality_score": 8,
-    "reason": "High-impact visual story featuring NSG commandos in Delhi just days before the BRICS summit, creating strong national security interest.",
+    "reason": "Widespread public safety concern following a fatal building collapse with ongoing MCD crackdowns on student PGs.",
     "region": "india",
-    "headline": "दिल्ली में NSG की मेगा ड्रिल, आतंकियों से निपटने के लिए तैयार ‘ब्रिक्स कवच’",
-    "source_summary": "ब्रिक्स सम्मेलन से पहले दिल्ली में NSG ने ‘ऑपरेशन ब्रिक्स कवच’ के तहत चार अहम जगहों पर मॉक ड्रिल की. करीब 100 कमांडो ने आतंकवादी हमले, बंधक संकट और रेस्क्यू जैसी परिस्थितियों का अभ्यास किया. दिल्ली पुलिस की SWAT टीम भी शामिल रही. सम्मेलन 12-13 सितंबर को भारत मंडपम में होगा.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/brics-summit-2026-delhi-security-nsg-swat-mock-drill-bharat-mandapam-ntc-apdy-rptc-2638969-2026-09-08?utm_source=rssfeed",
+    "headline": "सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू, 7 इमारत सील, 35 को भेजा नोटिस",
+    "source_summary": "दिल्ली के सत्य निकेतन में 6 सितंबर को हुए बिल्डिंग हादसे के बाद दिल्ली नगर निगम (MCD) ने पिछले दो दिनों में करीब 1100 PG का सर्वे किया है, जहां 20,250 छात्र रहते हैं.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-mcd-action-after-saty-niketan-building-collapse-demolition-orders-sealing-pg-survey-ntcpvp-rpti-2639012-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T19:07:58+05:30",
-    "hook": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर!",
-    "script_hi": "ब्रिक्स सम्मेलन से पहले दिल्ली में हुआ बड़ा मॉक ड्रिल। ऑपरेशन ब्रिक्स कवच के तहत सौ एनएसजी कमांडो ने चार अहम जगहों पर आतंकियों से निपटने का अभ्यास किया। बंधक संकट और रेस्क्यू जैसी कठिन परिस्थितियों को हैंडल करने के लिए एनएसजी और दिल्ली पुलिस की स्वाट टीम एक साथ दिखी। यह सुरक्षा व्यवस्था बारह और तेरह सितंबर को भारत मंडपम में होने वाले ब्रिक्स समिट के लिए बेहद अहम है।",
-    "tts_text_hi": "ब्रिक्स सम्मेलन से पहले दिल्ली में हुआ बड़ा मॉक ड्रिल। ऑपरेशन ब्रिक्स कवच के तहत सौ एनएसजी कमांडो ने चार अहम जगहों पर आतंकियों से निपटने का अभ्यास किया। बंधक संकट और रेस्क्यू जैसी कठिन परिस्थितियों को हैंडल करने के लिए एनएसजी और दिल्ली पुलिस की स्वाट टीम एक साथ दिखी। यह सुरक्षा व्यवस्था बारह और तेरह सितंबर को भारत मंडपम में होने वाले ब्रिक्स समिट के लिए बेहद अहम है।",
-    "title": "दिल्ली में NSG की मेगा ड्रिल",
-    "caption": "ब्रिक्स समिट से पहले दिल्ली में NSG का सुरक्षा अभ्यास।",
+    "published": "2026-09-08T20:25:36+05:30",
+    "hook": "दिल्ली के सत्य निकेतन में बड़ा एक्शन शुरू!",
+    "script_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू हो गया है। एमसीडी ने सात इमारतें सील कर दी हैं और पैंतीस को नोटिस भेजा है। छह सितंबर के हादसे के बाद एमसीडी ने ग्यारह सौ पीजी का सर्वे किया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं।",
+    "tts_text_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू हो गया है। एमसीडी ने सात इमारतें सील कर दी हैं और पैंतीस को नोटिस भेजा है। छह सितंबर के हादसे के बाद एमसीडी ने ग्यारह सौ पीजी का सर्वे किया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं।",
+    "title": "दिल्ली के सत्य निकेतन में अवैध बिल्डिंग्स पर एमसीडी का एक्शन",
+    "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी की सख्त कार्रवाई, सात इमारतें सील और पैंतीस को नोटिस जारी।",
     "hashtags": [
       "DelhiNews",
-      "NSG",
-      "BRICS",
-      "IndiaSecurity",
+      "MCDAction",
+      "SatyaNiketan",
       "DelhiPolice",
-      "CounterTerrorism"
+      "BreakingNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian elite commando tactical training",
-      "Indian special forces mock drill operation",
-      "India police SWAT team deployment",
-      "Bharat Mandapam Delhi convention center"
+      "Delhi street view India",
+      "Indian municipal corporation office",
+      "Delhi residential building India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -191,70 +118,94 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30687119/pexels-photo-30687119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India police SWAT team deployment",
-        "credit": "Luis Felipe Pérez",
-        "duration_sec": 5
+        "query": "Delhi street view India",
+        "credit": "Roman Saienko",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian security forces",
-        "credit": "Max Drew",
-        "duration_sec": 5
+        "query": "Indian municipal corporation office",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5697207/pexels-photo-5697207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34264627/pexels-photo-34264627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commando tactical training",
-        "credit": "Nur Andi Ravsanjani Gusma",
-        "duration_sec": 5
+        "query": "Delhi residential building India",
+        "credit": "shubh gupta",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18875553/pexels-photo-18875553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19437678/pexels-photo-19437678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi urban atmosphere",
-        "credit": "Tamer Ekinci",
-        "duration_sec": 5
+        "query": "urban residential area India",
+        "credit": "Abhinav Sharma",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7485729/pexels-photo-7485729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowded student housing Delhi",
+        "credit": "Anuj Yadav",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8961152/pexels-photo-8961152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "municipal workers inspecting building",
+        "credit": "Mikael Blomkvist",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street crowded",
+        "credit": "Himanshu Singh",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दिल्ली में NSG का सबसे बड़ा युद्धाभ्यास, आतंकियों के खिलाफ 'ब्रिक्स कवच' तैयार 🛡️",
-        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! \n\nराजधानी की सुरक्षा को और मजबूत करने के लिए NSG ने मेगा ड्रिल शुरू की है। इस ऑपरेशन 'ब्रिक्स कवच' में कमांडो ने दुश्मन के हर हमले को नाकाम करने की तकनीक दिखाई। \n\nक्या हमारी सुरक्षा एजेंसियां किसी भी खतरे से निपटने के लिए तैयार हैं? पूरी ड्रिल देखें।\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+        "title": "सत्य निकेतन में 35 अवैध इमारतों पर चला MCD का हंटर! 🏢",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया—अब दिल्ली के सत्य निकेतन में धड़ाधड़ अवैध बिल्डिंग्स गिराई जा रही हैं। 🚨\n\nMCD ने सख्त एक्शन लेते हुए 7 इमारतों को पूरी तरह सील कर दिया है और 35 अन्य को नोटिस थमा दिए हैं। इलाके में हड़कंप मचा हुआ है।\n\nपूरी कहानी वीडियो में देखें और बताएं, क्या आपके इलाके में भी ऐसी अवैध निर्माण हो रही हैं?\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🛡️\n\nराजधानी की सुरक्षा के लिए शुरू हुई मेगा ड्रिल 'ब्रिक्स कवच' में कमांडो ने अपनी फुर्ती और अचूक निशाने का दम दिखाया। क्या हम अब ज्यादा सुरक्षित हैं? अपनी राय बताएं। 👇\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया—अब दिल्ली के सत्य निकेतन में धड़ाधड़ अवैध बिल्डिंग्स गिराई जा रही हैं! 🚨\n\nMCD के इस बड़े एक्शन में 7 इमारतें सील और 35 को नोटिस भेजा गया है।\n\nक्या ऐसी कार्रवाई से अवैध निर्माण रुकेगा? कमेंट में बताएं। 👇\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🚨\n\nराजधानी में किसी भी अनहोनी को रोकने के लिए NSG ने आज अपनी ताकत दिखाई। इस मेगा ड्रिल का नाम 'ब्रिक्स कवच' रखा गया है, जहां कमांडो ने आतंकियों से निपटने की लाइव ट्रेनिंग दी। \n\nसुरक्षा के लिहाज से यह बेहद अहम एक्सरसाइज है। आप इस बारे में क्या सोचते हैं?\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया। दिल्ली के सत्य निकेतन इलाके में प्रशासन ने बड़ा एक्शन लेते हुए अवैध इमारतों पर बुलडोजर और सीलिंग की कार्रवाई शुरू कर दी है। 🏗️\n\nयहाँ एक के बाद एक 7 खतरनाक और अवैध इमारतों को सील कर दिया गया है, जबकि 35 अन्य मकान मालिकों को कड़े नोटिस थमाए गए हैं। इस अचानक हुई कार्रवाई से स्थानीय लोगों में खलबली मच गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
       },
       "hashtags": [
-        "NSGCommando",
-        "DelhiSecurity",
-        "Brickskavach",
-        "IndianArmy",
-        "CounterTerrorism"
+        "SatyaNiketan",
+        "DelhiNews",
+        "MCDAction",
+        "DelhiIllegalConstruction",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/delhi_nsg_brics_drill.wav",
-    "audio_duration_sec": 28.05,
-    "video_path": "videos/delhi_nsg_brics_drill.mp4",
-    "video_duration_sec": 36.02,
+    "audio_path": "audio/delhi_satya_niketan_building_collapse_mcd_crackdown.wav",
+    "audio_duration_sec": 18.9,
+    "video_path": "videos/delhi_satya_niketan_building_collapse_mcd_crackdown.mp4",
+    "video_duration_sec": 26.69,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-08T14:30:49.040635+00:00"
+        "attempted_at": "2026-09-08T16:46:45.916462+00:00"
       },
       "facebook": {
         "success": true,
@@ -267,15 +218,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa01c317d60efeda17dde74",
+            "_id": "6aa03c0c2901bf71802999f5",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🚨\n\nराजधानी में किसी भी अनहोनी को रोकने के लिए NSG ने आज अपनी ताकत दिखाई। इस मेगा ड्रिल का नाम 'ब्रिक्स कवच' रखा गया है, जहां कमांडो ने आतंकियों से निपटने की लाइव ट्रेनिंग दी। \n\nसुरक्षा के लिहाज से यह बेहद अहम एक्सरसाइज है। आप इस बारे में क्या सोचते हैं?\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया। दिल्ली के सत्य निकेतन इलाके में प्रशासन ने बड़ा एक्शन लेते हुए अवैध इमारतों पर बुलडोजर और सीलिंग की कार्रवाई शुरू कर दी है। 🏗️\n\nयहाँ एक के बाद एक 7 खतरनाक और अवैध इमारतों को सील कर दिया गया है, जबकि 35 अन्य मकान मालिकों को कड़े नोटिस थमाए गए हैं। इस अचानक हुई कार्रवाई से स्थानीय लोगों में खलबली मच गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788877871239_gqysrm97_delhi_nsg_brics_drill.mp4",
-                "_id": "6aa01c317d60efeda17dde75"
+                "url": "https://media.zernio.com/media/1788886026056_25ianpdg_delhi_satya_niketan_building_collapse_mcd_crackdown.mp4",
+                "_id": "6aa03c0c2901bf71802999f6"
               }
             ],
             "platforms": [
@@ -292,17 +243,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:31:12.349Z",
+                "scheduledFor": "2026-09-08T16:47:07.083Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "716eb6b04d7e8759fd3da7ae79797496",
-                "_id": "6aa01c317d60efeda17dde76",
-                "platformPostId": "1056749187073221",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1056749187073221",
-                "publishedAt": "2026-09-08T14:31:20.920Z"
+                "contentHash": "1d78c9057344ba8875959d562b840f37",
+                "_id": "6aa03c0c2901bf71802999f7",
+                "platformPostId": "976241848182104",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=976241848182104",
+                "publishedAt": "2026-09-08T16:47:13.573Z"
               }
             ],
-            "scheduledFor": "2026-09-08T14:31:12.349Z",
+            "scheduledFor": "2026-09-08T16:47:07.083Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -314,14 +265,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:31:13.751Z",
-            "updatedAt": "2026-09-08T14:31:21.367Z",
+            "createdAt": "2026-09-08T16:47:08.029Z",
+            "updatedAt": "2026-09-08T16:47:13.683Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:31:13.912Z"
+            "publishingClaimedAt": "2026-09-08T16:47:08.106Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:31:21.692588+00:00"
+        "attempted_at": "2026-09-08T16:47:13.856439+00:00"
       },
       "instagram": {
         "success": true,
@@ -334,15 +285,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa01c55d871ec358879923f",
+            "_id": "6aa03c31c24d2094fbea3bea",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दिल्ली में आतंक के खिलाफ सबसे बड़ा युद्धाभ्यास, एनएसजी कमांडो ने कसी कमर! 🛡️\n\nराजधानी की सुरक्षा के लिए शुरू हुई मेगा ड्रिल 'ब्रिक्स कवच' में कमांडो ने अपनी फुर्ती और अचूक निशाने का दम दिखाया। क्या हम अब ज्यादा सुरक्षित हैं? अपनी राय बताएं। 👇\n\n#NSGCommando #DelhiSecurity #Brickskavach #IndianArmy #CounterTerrorism",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया—अब दिल्ली के सत्य निकेतन में धड़ाधड़ अवैध बिल्डिंग्स गिराई जा रही हैं! 🚨\n\nMCD के इस बड़े एक्शन में 7 इमारतें सील और 35 को नोटिस भेजा गया है।\n\nक्या ऐसी कार्रवाई से अवैध निर्माण रुकेगा? कमेंट में बताएं। 👇\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788877906829_onqigvnp_delhi_nsg_brics_drill.mp4",
-                "_id": "6aa01c55d871ec3588799240"
+                "url": "https://media.zernio.com/media/1788886064063_yxpqjsro_delhi_satya_niketan_building_collapse_mcd_crackdown.mp4",
+                "_id": "6aa03c31c24d2094fbea3beb"
               }
             ],
             "platforms": [
@@ -359,14 +310,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:31:47.932Z",
+                "scheduledFor": "2026-09-08T16:47:45.038Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "ea942086a55f19bedbbb5ca0bab3f1cb",
-                "_id": "6aa01c55d871ec3588799241"
+                "contentHash": "40b6423993a3db9a763fe89f490037f8",
+                "_id": "6aa03c31c24d2094fbea3bec"
               }
             ],
-            "scheduledFor": "2026-09-08T14:31:47.932Z",
+            "scheduledFor": "2026-09-08T16:47:45.038Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -378,46 +329,44 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:31:49.171Z",
-            "updatedAt": "2026-09-08T14:31:50.839Z",
+            "createdAt": "2026-09-08T16:47:45.754Z",
+            "updatedAt": "2026-09-08T16:47:47.284Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:31:49.265Z"
+            "publishingClaimedAt": "2026-09-08T16:47:45.818Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:31:51.215902+00:00"
+        "attempted_at": "2026-09-08T16:47:47.612178+00:00"
       }
     }
   },
   {
-    "topic_label": "apple_event_2026",
+    "topic_label": "ujjain_khade_hanuman_temple_controversy",
     "virality_score": 8,
-    "reason": "Apple product launches have massive global and Indian tech-enthusiast audiences, with high visual appeal.",
+    "reason": "Fascinating local miracle/resistance story involving an immovable 170-year-old temple statue during road expansion.",
     "region": "india",
-    "headline": "ऐपल का आज बड़ा इवेंट, iPhone 18 सीरीज समेत काफी कुछ होगा लॉन्च!",
-    "source_summary": "ऐपल का बड़ा इवेंट आज रात होने वाला है. नए iPhone समेत Apple Watch और AirPods लॉन्च होने की उम्मीद है. भारत में इवेंट रात 10:30 बजे शुरू होगा. जानिए Apple Event 2026 को मोबाइल, लैपटॉप और स्मार्ट टीवी पर लाइव कैसे देखें.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-event-2026-watch-live-india-time-how-to-watch-prym-dskc-2638970-2026-09-08?utm_source=rssfeed",
+    "headline": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम, इंजीनियर पस्त!",
+    "source_summary": "Ujjain Khade Hanuman Temple Controversy: उज्जैन में सड़क चौड़ीकरण के दौरान 170 साल पुरानी खड़े हनुमान जी की प्रतिमा 2 दिन बाद भी नहीं हिली. हिंदू संगठनों ने की महाआरती, अब होगी स्कैनिंग...",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/ujjain-khade-hanuman-temple-statue-relocation-controversy-simhastha-road-widening-lcln-strc-2639002-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T19:09:13+05:30",
-    "hook": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं?",
-    "script_hi": "ऐपल का महा-इवेंट आज रात होने वाला है। आईफोन अट्ठारह सीरीज के साथ नई एप्पल वॉच और एयरपॉड्स भी लॉन्च होंगे। भारत में इवेंट रात दस बजकर तीस मिनट पर शुरू होगा। इसे आप अपने मोबाइल, लैपटॉप या स्मार्ट टीवी पर लाइव देख सकते हैं।",
-    "tts_text_hi": "ऐपल का महा-इवेंट आज रात होने वाला है। आईफोन अट्ठारह सीरीज के साथ नई एप्पल वॉच और एयरपॉड्स भी लॉन्च होंगे। भारत में इवेंट रात दस बजकर तीस मिनट पर शुरू होगा। इसे आप अपने मोबाइल, लैपटॉप या स्मार्ट टीवी पर लाइव देख सकते हैं।",
-    "title": "Apple Event 2026: iPhone 18 लॉन्च",
-    "caption": "ऐपल का महा-इवेंट आज रात! नए iPhone 18, Watch और AirPods पर रहेगी नज़र।",
+    "published": "2026-09-08T20:00:50+05:30",
+    "hook": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी हनुमान जी की मूर्ति को हटाने की कोशिशें पूरी तरह नाकाम हो गई हैं!",
+    "script_hi": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की प्रतिमा दो दिन बाद भी अपनी जगह से नहीं हिली। इंजीनियर और प्रशासन की तमाम कोशिशें पस्त हो गई हैं। हिंदू संगठनों ने मंदिर परिसर में महाआरती की। अब मंदिर और मूर्ति की संरचना की स्कैनिंग की जाएगी ताकि आगे का रास्ता निकाला जा सके।",
+    "tts_text_hi": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की प्रतिमा दो दिन बाद भी अपनी जगह से नहीं हिली। इंजीनियर और प्रशासन की तमाम कोशिशें पस्त हो गई हैं। हिंदू संगठनों ने मंदिर परिसर में महाआरती की। अब मंदिर और मूर्ति की संरचना की स्कैनिंग की जाएगी ताकि आगे का रास्ता निकाला जा सके।",
+    "title": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम",
+    "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।",
     "hashtags": [
-      "AppleEvent",
-      "iPhone18",
-      "AppleLaunch",
-      "TechNews",
-      "AppleIndia",
-      "Gadgets"
+      "Ujjain",
+      "HanumanTemple",
+      "UjjainNews",
+      "MadhyaPradesh",
+      "HinduNews"
     ],
     "visual_queries": [
-      "Apple logo corporate building",
-      "new iPhone smartphone display",
-      "modern smartwatch wrist",
-      "wireless earphones case",
-      "person watching live streaming laptop"
+      "Hindu temple India",
+      "road construction India",
+      "temple ritual India",
+      "engineering scanning equipment India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -425,321 +374,239 @@
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14656602/pexels-photo-14656602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple logo corporate building",
-        "credit": "Filip Rankovic Grobgaard",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13570158/pexels-photo-13570158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "new iPhone smartphone display",
-        "credit": "Luis Quintero",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18078983/pexels-photo-18078983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern smartwatch wrist",
-        "credit": "Anastasiya Badun",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3921827/pexels-photo-3921827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "wireless earphones case",
-        "credit": "ready made",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person watching live streaming laptop",
-        "credit": "Baset Alhasan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "iPhone 18 सीरीज हुई लॉन्च: क्या बदलेगा इस बार? 📱🔥",
-        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? \n\nआज के इवेंट में iPhone 18 सीरीज पर से पर्दा उठ गया है। नए फीचर्स, बेहतर कैमरा और डिजाइन में बड़े बदलाव किए गए हैं। \n\nपूरी डिटेल्स के लिए वीडियो देखें और बताएं, आप कौन सा मॉडल खरीदना चाहेंगे?\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? 📱\n\niPhone 18 सीरीज अब ऑफिशियल है! जबरदस्त फीचर्स और नए अपग्रेड्स के साथ ऐपल ने बाजार में हलचल मचा दी है। क्या यह आपके लिए एक परफेक्ट अपग्रेड है?\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? \n\nऐपल इवेंट 2026 में iPhone 18 सीरीज लॉन्च कर दी गई है। नए डिजाइन और धांसू फीचर्स के साथ ये सीरीज फैंस का दिल जीतने के लिए तैयार है। क्या आपको लगता है कि इस बार के फीचर्स कीमत को जस्टिफाई करते हैं? कमेंट में अपनी राय दें।\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech"
-      },
-      "hashtags": [
-        "AppleEvent",
-        "iPhone18",
-        "TechNews",
-        "AppleLaunch",
-        "LatestTech"
-      ]
-    },
-    "audio_path": "audio/apple_event_2026.wav",
-    "audio_duration_sec": 17.43,
-    "video_path": "videos/apple_event_2026.mp4",
-    "video_duration_sec": 25.36,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-08T14:36:19.331158+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa01d7dc6cde178de907d7a",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? \n\nऐपल इवेंट 2026 में iPhone 18 सीरीज लॉन्च कर दी गई है। नए डिजाइन और धांसू फीचर्स के साथ ये सीरीज फैंस का दिल जीतने के लिए तैयार है। क्या आपको लगता है कि इस बार के फीचर्स कीमत को जस्टिफाई करते हैं? कमेंट में अपनी राय दें।\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788878203588_2bof7kmf_apple_event_2026.mp4",
-                "_id": "6aa01d7dc6cde178de907d7b"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-08T14:36:44.644Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "db3c81cb00e6da2a590a537d9a0b0cc8",
-                "_id": "6aa01d7dc6cde178de907d7c",
-                "platformPostId": "2466547333871710",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2466547333871710",
-                "publishedAt": "2026-09-08T14:36:53.425Z"
-              }
-            ],
-            "scheduledFor": "2026-09-08T14:36:44.644Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:36:45.640Z",
-            "updatedAt": "2026-09-08T14:36:53.561Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:36:45.786Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-08T14:36:54.064104+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa01da4f718997c275376b4",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या आप भी ऐपल के नए आईफोन का इंतज़ार कर रहे हैं? 📱\n\niPhone 18 सीरीज अब ऑफिशियल है! जबरदस्त फीचर्स और नए अपग्रेड्स के साथ ऐपल ने बाजार में हलचल मचा दी है। क्या यह आपके लिए एक परफेक्ट अपग्रेड है?\n\n#AppleEvent #iPhone18 #TechNews #AppleLaunch #LatestTech",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788878242249_k3vqszb9_apple_event_2026.mp4",
-                "_id": "6aa01da4f718997c275376b5"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-08T14:37:23.185Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "4b55eea9c8b219d0487d27e9a1b302f7",
-                "_id": "6aa01da4f718997c275376b6"
-              }
-            ],
-            "scheduledFor": "2026-09-08T14:37:23.185Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:37:24.573Z",
-            "updatedAt": "2026-09-08T14:37:26.357Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:37:24.680Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-08T14:37:30.962256+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "mustang_airport_collision",
-    "virality_score": 8,
-    "reason": "A visually arresting event of a high-end car crashing into an airport tarmac; highly shareable footage.",
-    "region": "india",
-    "headline": "पुलिस से बचने के लिए भगाई कार, एयरपोर्ट की बाउंड्री तोड़ सीधे प्लेन में घुसा दी Mustang",
-    "source_summary": "एयरपोर्ट पर खड़े प्लेन में टकराने से मस्टैंग (Ford Mustang) बुरी तरह से चकनाचूर हो गई, जबकि एयरक्राफ्ट में भी काफी नुकसान हुआ है.",
-    "source_url": "https://ndtv.in/zara-hatke/new-hampshire-drunk-teen-clashes-mustang-parked-plane-portsmouth-international-airport-viral-video-12018284#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 17:48:19 +0530",
-    "hook": "एयरपोर्ट के रनवे पर मस्टैंग कार की धमाकेदार एंट्री!",
-    "script_hi": "पुलिस से बचने के चक्कर में एक शख्स ने अपनी फोर्ड मस्टैंग को एयरपोर्ट की बाउंड्री से सीधे प्लेन के अंदर घुसा दिया। हादसा इतना भीषण था कि मस्टैंग कार के परखच्चे उड़ गए और विमान को भी भारी नुकसान पहुंचा है।",
-    "tts_text_hi": "पुलिस से बचने के चक्कर में एक शख्स ने अपनी फोर्ड मस्टैंग को एयरपोर्ट की बाउंड्री से सीधे प्लेन के अंदर घुसा दिया। हादसा इतना भीषण था कि मस्टैंग कार के परखच्चे उड़ गए और विमान को भी भारी नुकसान पहुंचा है।",
-    "title": "एयरपोर्ट में घुसी मस्टैंग कार",
-    "caption": "पुलिस से भागते हुए एयरपोर्ट की बाउंड्री तोड़कर प्लेन से टकराई मस्टैंग कार।",
-    "hashtags": [
-      "Mustang",
-      "AirportCrash",
-      "CarAccident",
-      "ViralVideo",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "speeding sports car India",
-      "damaged luxury car India",
-      "airport runway India",
-      "wrecked airplane wreckage"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific viral incident involving a unique car-plane crash that requires real footage or specific images of the wreckage to be accurate; generic stock footage would misrepresent the event.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/34182526/14490269_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/39341774/16743963_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "damaged luxury car India",
-        "credit": "RAJU THAPA",
-        "source_duration_sec": 11,
+        "query": "engineering scanning equipment India",
+        "credit": "Nishant Aneja",
+        "source_duration_sec": 34,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20435115/pexels-photo-20435115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "speeding sports car India",
-        "credit": "Mohit Hambiria",
+        "query": "Hindu temple India",
+        "credit": "Nalam Team",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38252702/pexels-photo-38252702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35662656/pexels-photo-35662656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airport runway India",
-        "credit": "Saakshi Yadav",
+        "query": "road construction India",
+        "credit": "ÀniL",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20131971/pexels-photo-20131971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31115354/pexels-photo-31115354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "luxury sports car",
-        "credit": "WAVYVISUALS",
+        "query": "temple ritual India",
+        "credit": "Himanshu Singh",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 21,
-    "review_status": "pending_review"
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम",
+        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+      },
+      "hashtags": [
+        "Ujjain",
+        "HanumanTemple",
+        "UjjainNews",
+        "MadhyaPradesh",
+        "HinduNews"
+      ]
+    },
+    "audio_path": "audio/ujjain_khade_hanuman_temple_controversy.wav",
+    "audio_duration_sec": 22.16,
+    "video_path": "videos/ujjain_khade_hanuman_temple_controversy.mp4",
+    "video_duration_sec": 30.16,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T16:51:23.710787+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa03d2acd2c673093c56dbb",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788886311990_ifw2luuu_ujjain_khade_hanuman_temple_controversy.mp4",
+                "_id": "6aa03d2acd2c673093c56dbc"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T16:51:53.340Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "af2a5d8b9f26f97648d25c4a3a14c01d",
+                "_id": "6aa03d2acd2c673093c56dbd",
+                "platformPostId": "1028058593596822",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1028058593596822",
+                "publishedAt": "2026-09-08T16:52:03.879Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T16:51:53.340Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T16:51:54.308Z",
+            "updatedAt": "2026-09-08T16:52:04.038Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T16:51:54.369Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T16:52:04.225734+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa03d52ee225388f7beab57",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788886352393_v1465v7y_ujjain_khade_hanuman_temple_controversy.mp4",
+                "_id": "6aa03d52ee225388f7beab58"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T16:52:33.512Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "79d5a853f1a3f379dd542bd08a66968e",
+                "_id": "6aa03d52ee225388f7beab59"
+              }
+            ],
+            "scheduledFor": "2026-09-08T16:52:33.512Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T16:52:34.555Z",
+            "updatedAt": "2026-09-08T16:52:37.397Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T16:52:34.658Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T16:52:37.762205+00:00"
+      }
+    }
   },
   {
-    "topic_label": "pm_modi_dhar_rail_project",
-    "virality_score": 7,
-    "reason": "Significant infrastructure development in Madhya Pradesh, connecting tribal regions to Gujarat for the first time.",
+    "topic_label": "naman_dhir_t20_league_173_runs_knock",
+    "virality_score": 8,
+    "reason": "Explosive domestic cricket performance with 173 runs off 64 balls will attract massive sports audience interest.",
     "region": "india",
-    "headline": "धार में पहली बार दौड़ेगी ट्रेन! PM मोदी ने किया नए रेलखंड का लोकार्पण, अब गुजरात से सीधे जुड़ेगा MP का धार",
-    "source_summary": "मध्य प्रदेश के धार जिले को पहली बार रेल सेवा की सौगात मिली है. प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण किया. नई रेल सेवा से धार, अलीराजपुर, जोबट और टांडा रोड का गुजरात से सीधा रेल संपर्क स्थापित हो गया है. इससे क्षेत्र में व्यापार, पर्यटन, रोजगार और आवागमन को नई गति मिलेगी.",
-    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/dhar-railway-project-pm-modi-railway-inauguration-chhota-udepur-dhar-rail-line-mp-gujarat-connectivity-12016986#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 08 Sep 2026 13:49:26 +0530",
-    "hook": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी!",
-    "script_hi": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण कर दिया है। इस नई रेल सेवा से अब धार और अलीराजपुर सीधे गुजरात से जुड़ गए हैं। इससे व्यापार, पर्यटन और रोजगार के नए रास्ते खुलेंगे। यह क्षेत्र के विकास के लिए एक ऐतिहासिक दिन है।",
-    "tts_text_hi": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! प्रधानमंत्री नरेंद्र मोदी ने छोटा उदयपुर-धार रेल परियोजना के तहत जोबट-टांडा रोड रेलखंड का लोकार्पण कर दिया है। इस नई रेल सेवा से अब धार और अलीराजपुर सीधे गुजरात से जुड़ गए हैं। इससे व्यापार, पर्यटन और रोजगार के नए रास्ते खुलेंगे। यह क्षेत्र के विकास के लिए एक ऐतिहासिक दिन है।",
-    "title": "धार को मिली पहली रेल सेवा",
-    "caption": "मध्य प्रदेश के धार जिले को मिली पहली रेल सेवा, पीएम मोदी ने किया उद्घाटन।",
+    "headline": "16 चौके, 12 छक्के... 64 गेंदों में 173 रन, नमन धीर ने किया धुआं-धुआं",
+    "source_summary": "मुंबई इंडियंस के नमन धीर ने शेर-ए-पंजाब टी20 लीग 2026 में ऐसा तूफान मचाया कि गेंदबाजों के होश उड़ गए. अमृतसर सूरमास के लिए खेलते हुए धीर ने सिर्फ 64 गेंदों में 173 रन ठोक दिए. उन्होंने 16 चौके और 12 छक्के लगाए.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/naman-dhir-173-runs-64-balls-sher-e-punjab-t20-league-tspok-dskc-2638909-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T17:25:04+05:30",
+    "hook": "नमन धीर ने चौके छक्कों की बरसात कर मचाया तहलका!",
+    "script_hi": "क्रिकेट के मैदान पर आया रनों का ऐसा तूफान, जिसे देख गेंदबाजों के होश उड़ गए! मुंबई इंडियंस के स्टार खिलाड़ी नमन धीर ने शेर-ए-पंजाब टी बीस लीग दो हज़ार छब्बीस में गेंदबाजों की धज्जियां उड़ा दीं। अमृतसर सूरमास के लिए खेलते हुए नमन ने सिर्फ चौसठ गेंदों में एक सौ तिहत्तर रन ठोक डाले। इस तूफानी पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
+    "tts_text_hi": "क्रिकेट के मैदान पर आया रनों का ऐसा तूफान, जिसे देख गेंदबाजों के होश उड़ गए! मुंबई इंडियंस के स्टार खिलाड़ी नमन धीर ने शेर-ए-पंजाब टी बीस लीग दो हज़ार छब्बीस में गेंदबाजों की धज्जियां उड़ा दीं। अमृतसर सूरमास के लिए खेलते हुए नमन ने सिर्फ चौसठ गेंदों में एक सौ तिहत्तर रन ठोक डाले। इस तूफानी पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
+    "title": "नमन धीर का तूफानी शतक, टी ट्वेंटी में बनाए 173 रन",
+    "caption": "मुंबई इंडियंस के नमन धीर ने शेर-ए-पंजाब टी20 लीग 2026 में सिर्फ 64 गेंदों में 173 रन ठोक इतिहास रच दिया।",
     "hashtags": [
-      "Dhar",
-      "MadhyaPradesh",
-      "IndianRailways",
-      "NarendraModi",
-      "Development",
-      "NewsIndia",
-      "MPNews"
+      "NamanDhir",
+      "SherEPunjabT20",
+      "CricketNews",
+      "MumbaiIndians",
+      "T20Cricket",
+      "CricketHighlights",
+      "SportsNews"
     ],
     "visual_queries": [
-      "Indian railway tracks aerial",
-      "Prime Minister of India speaking",
-      "Indian train station inauguration ceremony",
-      "map of Madhya Pradesh India",
-      "people cheering in India"
+      "Indian cricket stadium match",
+      "cricketer batting aggressively India",
+      "cricket batsman hitting six India"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
+    "named_person": "Naman Dhir",
+    "named_person_hi": "नमन धीर",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -747,86 +614,69 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "नरेंद्र मोदी",
+        "text": "नमन धीर",
         "source": "fallback",
-        "query": "Narendra Modi",
+        "query": "Naman Dhir",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35064156/14853174_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian railway station",
-        "credit": "VIKRAM GUPTA",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39128796/pexels-photo-39128796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian railway tracks aerial",
-        "credit": "RITIK GUPTA",
+        "query": "Indian cricket stadium match",
+        "credit": "Raunaq Sachdev",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian railway station",
-        "credit": "Satvik Pandurangi",
+        "query": "cricketer batting aggressively India",
+        "credit": "Yogendra  Singh",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37414662/pexels-photo-37414662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian railway development",
-        "credit": "Rounak Kayal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13471612/pexels-photo-13471612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people cheering in India",
-        "credit": "Karan Sahu",
+        "query": "cricket batsman hitting six India",
+        "credit": "Princeton dsouza",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "MP के धार में पहली बार दौड़ी ट्रेन! 🚆 अब गुजरात का सफर होगा आसान",
-        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nप्रधानमंत्री नरेंद्र मोदी ने नए रेलखंड का लोकार्पण कर दिया है। इसके साथ ही अब धार सीधे गुजरात से जुड़ गया है। स्थानीय लोगों के लिए बरसों पुराना सपना आखिरकार सच हो गया है।\n\nक्या आप भी धार से गुजरात की यात्रा करने का प्लान बना रहे हैं? कमेंट में बताएं।\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+        "title": "64 गेंदों पर 173 रन! नमन धीर की तूफानी पारी देख सब हैरान 🔥",
+        "caption": "सिर्फ 64 गेंदों में 173 रन... मैदान पर चौकों-छक्कों की ऐसी आंधी आई कि गेंदबाज भी हैरान रह गए। 🏏\n\nनमन धीर ने अपनी इस ताबड़तोड़ पारी में 16 चौके और 12 गगनचुंबी छक्के जड़कर इतिहास रच दिया। टी20 क्रिकेट में ऐसी पारी शायद ही कभी देखी गई हो।\n\nपूरी कहानी देखें और बताएं, क्या आपने इससे खतरनाक पारी कभी देखी है? 👇\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
       },
       "instagram": {
         "title": null,
-        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने नए रेलखंड का लोकार्पण कर दिया है। अब धार सीधा गुजरात से जुड़ गया है, जिससे सफर आसान हो जाएगा। बरसों का इंतजार आखिरकार खत्म हुआ। \n\nअपने उन दोस्तों को यह वीडियो भेजें जो धार में रहते हैं!\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+        "caption": "सिर्फ 64 गेंदों में 173 रन! 🤯 मैदान पर ऐसी आंधी आई कि गेंदबाजों के होश उड़ गए।\n\nनमन धीर ने 16 चौके और 12 छक्के लगाकर तहलका मचा दिया। इस तूफानी पारी का पूरा सच जानने के लिए वीडियो अंत तक देखें। \n\nपसंद आया तो शेयर जरूर करें! 🏏🔥\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
       },
       "facebook": {
         "title": null,
-        "caption": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने आज नए रेलखंड का लोकार्पण किया है। धार के निवासियों के लिए यह ऐतिहासिक मौका है, क्योंकि अब उनका शहर सीधे रेल मार्ग से गुजरात से जुड़ गया है। सालों से चल रही मांग पूरी होने पर स्थानीय लोगों में काफी उत्साह है। \n\nइस रेल सेवा के शुरू होने से आपको क्या लगता है धार के व्यापार पर क्या असर पड़ेगा?\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat"
+        "caption": "क्रिकेट के मैदान पर ऐसा तूफान आया कि अच्छे-अच्छे गेंदबाज पानी मांगते नजर आए। नमन धीर ने सिर्फ 64 गेंदों में 173 रनों की ऐसी पारी खेली जिसे लोग लंबे समय तक याद रखेंगे। 🏏\n\nअपनी इस ऐतिहासिक पारी में उन्होंने 16 चौके और 12 छक्कों की बारिश कर दी। वीडियो में देखिए कैसे उन्होंने रिकॉर्ड तोड़ दिए।\n\nआपको नमन धीर की यह पारी कैसी लगी? कमेंट में बताएं। 👇\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
       },
       "hashtags": [
-        "DharNews",
-        "MadhyaPradesh",
-        "IndianRailways",
-        "PMModi",
-        "DharToGujarat"
+        "NamanDhir",
+        "T20Cricket",
+        "CricketNews",
+        "BattingRecords",
+        "IndianCricket"
       ]
     },
-    "audio_path": "audio/pm_modi_dhar_rail_project.wav",
-    "audio_duration_sec": 27.82,
-    "video_path": "videos/pm_modi_dhar_rail_project.mp4",
-    "video_duration_sec": 35.86,
+    "audio_path": "audio/naman_dhir_t20_league_173_runs_knock.wav",
+    "audio_duration_sec": 25.11,
+    "video_path": "videos/naman_dhir_t20_league_173_runs_knock.mp4",
+    "video_duration_sec": 33.12,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-08T14:42:41.057508+00:00"
+        "attempted_at": "2026-09-08T16:58:24.849866+00:00"
       },
       "facebook": {
         "success": true,
@@ -839,15 +689,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa01ef6d93d2975e4b734e3",
+            "_id": "6aa03ec6d8d315f9b69deba8",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने आज नए रेलखंड का लोकार्पण किया है। धार के निवासियों के लिए यह ऐतिहासिक मौका है, क्योंकि अब उनका शहर सीधे रेल मार्ग से गुजरात से जुड़ गया है। सालों से चल रही मांग पूरी होने पर स्थानीय लोगों में काफी उत्साह है। \n\nइस रेल सेवा के शुरू होने से आपको क्या लगता है धार के व्यापार पर क्या असर पड़ेगा?\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat",
+            "content": "क्रिकेट के मैदान पर ऐसा तूफान आया कि अच्छे-अच्छे गेंदबाज पानी मांगते नजर आए। नमन धीर ने सिर्फ 64 गेंदों में 173 रनों की ऐसी पारी खेली जिसे लोग लंबे समय तक याद रखेंगे। 🏏\n\nअपनी इस ऐतिहासिक पारी में उन्होंने 16 चौके और 12 छक्कों की बारिश कर दी। वीडियो में देखिए कैसे उन्होंने रिकॉर्ड तोड़ दिए।\n\nआपको नमन धीर की यह पारी कैसी लगी? कमेंट में बताएं। 👇\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788878579387_iilwh7ko_pm_modi_dhar_rail_project.mp4",
-                "_id": "6aa01ef6d93d2975e4b734e4"
+                "url": "https://media.zernio.com/media/1788886725066_qgcm06g0_naman_dhir_t20_league_173_runs_knock.mp4",
+                "_id": "6aa03ec6d8d315f9b69deba9"
               }
             ],
             "platforms": [
@@ -864,17 +714,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:43:00.660Z",
+                "scheduledFor": "2026-09-08T16:58:46.128Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "514a722aab375c2907532421f4d67b50",
-                "_id": "6aa01ef6d93d2975e4b734e5",
-                "platformPostId": "1483531856979955",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1483531856979955",
-                "publishedAt": "2026-09-08T14:43:09.448Z"
+                "contentHash": "e49bc3ef117e16b6fbceaa0c09bb512d",
+                "_id": "6aa03ec6d8d315f9b69debaa",
+                "platformPostId": "1562821175584647",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1562821175584647",
+                "publishedAt": "2026-09-08T16:58:58.480Z"
               }
             ],
-            "scheduledFor": "2026-09-08T14:43:00.660Z",
+            "scheduledFor": "2026-09-08T16:58:46.128Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -886,14 +736,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:43:02.219Z",
-            "updatedAt": "2026-09-08T14:43:09.621Z",
+            "createdAt": "2026-09-08T16:58:46.851Z",
+            "updatedAt": "2026-09-08T16:58:58.617Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:43:02.391Z"
+            "publishingClaimedAt": "2026-09-08T16:58:46.954Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:43:09.797336+00:00"
+        "attempted_at": "2026-09-08T16:58:58.788718+00:00"
       },
       "instagram": {
         "success": true,
@@ -906,15 +756,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa01f11d93d2975e4b73cce",
+            "_id": "6aa03ee71e79ed4ac2d53ff4",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "मध्य प्रदेश के धार जिले में पहली बार गूंजेगी ट्रेन की सीटी! 🚆\n\nपीएम मोदी ने नए रेलखंड का लोकार्पण कर दिया है। अब धार सीधा गुजरात से जुड़ गया है, जिससे सफर आसान हो जाएगा। बरसों का इंतजार आखिरकार खत्म हुआ। \n\nअपने उन दोस्तों को यह वीडियो भेजें जो धार में रहते हैं!\n\n#DharNews #MadhyaPradesh #IndianRailways #PMModi #DharToGujarat",
+            "content": "सिर्फ 64 गेंदों में 173 रन! 🤯 मैदान पर ऐसी आंधी आई कि गेंदबाजों के होश उड़ गए।\n\nनमन धीर ने 16 चौके और 12 छक्के लगाकर तहलका मचा दिया। इस तूफानी पारी का पूरा सच जानने के लिए वीडियो अंत तक देखें। \n\nपसंद आया तो शेयर जरूर करें! 🏏🔥\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788878605926_nrfx4y1v_pm_modi_dhar_rail_project.mp4",
-                "_id": "6aa01f11d93d2975e4b73ccf"
+                "url": "https://media.zernio.com/media/1788886756919_2dj28hnr_naman_dhir_t20_league_173_runs_knock.mp4",
+                "_id": "6aa03ee71e79ed4ac2d53ff5"
               }
             ],
             "platforms": [
@@ -931,14 +781,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:43:27.610Z",
+                "scheduledFor": "2026-09-08T16:59:18.425Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "d4d1687487a6bd6c183c9859ab0deb4b",
-                "_id": "6aa01f11d93d2975e4b73cd0"
+                "contentHash": "65cb4b811202fb5313d9e635be1c872e",
+                "_id": "6aa03ee71e79ed4ac2d53ff6"
               }
             ],
-            "scheduledFor": "2026-09-08T14:43:27.610Z",
+            "scheduledFor": "2026-09-08T16:59:18.425Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -950,48 +800,280 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:43:29.372Z",
-            "updatedAt": "2026-09-08T14:43:31.751Z",
+            "createdAt": "2026-09-08T16:59:19.127Z",
+            "updatedAt": "2026-09-08T16:59:20.995Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:43:29.462Z"
+            "publishingClaimedAt": "2026-09-08T16:59:19.188Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:43:32.046789+00:00"
+        "attempted_at": "2026-09-08T16:59:21.374430+00:00"
       }
     }
   },
   {
-    "topic_label": "singapore_pm_salary_hike",
+    "topic_label": "rahul_gandhi_air_india_flight_landing_issue",
     "virality_score": 7,
-    "reason": "A global story about the world's highest-paid leader getting a million-dollar raise, which triggers significant audience curiosity and debate.",
+    "reason": "High-profile political figure Rahul Gandhi facing a dramatic aborted landing incident in Lucknow.",
+    "region": "india",
+    "headline": "एअर इंडिया की फ्लाइट दूसरी बार में हो पाई लैंड, राहुल गांधी भी थे सवार",
+    "source_summary": "कांग्रेस नेता राहुल गांधी को लेकर दिल्ली से लखनऊ आ रही एयर इंडिया की फ्लाइट की दूसरी बार में सुरक्षित लैंडिंग हो पाई. मंगलवार को लैंडिंग के दौरान फ्लाइट को गो-अराउंड करना पड़ा.",
+    "source_url": "https://www.aajtak.in/india/news/story/rahul-gandhi-air-india-flight-landing-two-attempt-in-lucknow-lands-safely-ntcpvp-rpti-2639000-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T19:59:20+05:30",
+    "hook": "राहुल गांधी की फ्लाइट की लखनऊ में हुई खतरनाक लैंडिंग!",
+    "script_hi": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग के दौरान गो-अराउंड करना पड़ा। इस विमान में कांग्रेस नेता राहुल गांधी भी सवार थे, जो दूसरी बार में सुरक्षित लैंड हो पाया।",
+    "tts_text_hi": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग के दौरान गो-अराउंड करना पड़ा। इस विमान में कांग्रेस नेता राहुल गांधी भी सवार थे, जो दूसरी बार में सुरक्षित लैंड हो पाया।",
+    "title": "राहुल गांधी की फ्लाइट की लखनऊ में गो-अराउंड के बाद सुरक्षित लैंडिंग",
+    "caption": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग में दिक्कत आई, जिसमें राहुल गांधी भी सवार थे।",
+    "hashtags": [
+      "RahulGandhi",
+      "AirIndia",
+      "LucknowNews",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Air India airplane India",
+      "Lucknow airport terminal India",
+      "Indian politician speech India"
+    ],
+    "named_person": "Rahul Gandhi",
+    "named_person_hi": "राहुल गांधी",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "राहुल गांधी",
+        "source": "fallback",
+        "query": "Rahul Gandhi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/27532361/12161254_720_1280_55fps.mp4",
+        "source": "pexels",
+        "query": "Lucknow airport terminal India",
+        "credit": "Dilip Giri",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Air India airplane India",
+        "credit": "shyam mishra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian politician speech India",
+        "credit": "Voters Party International",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "लखनऊ में राहुल गांधी की फ्लाइट की खतरनाक लैंडिंग! ✈️",
+        "caption": "खराब मौसम या कुछ और? लखनऊ एयरपोर्ट पर राहुल गांधी की फ्लाइट को अचानक क्यों लेना पड़ा 'गो-अराउंड'? 😱\n\nकांग्रेस सांसद राहुल गांधी दिल्ली से लखनऊ आ रहे थे, तभी लैंडिंग के वक्त पायलट को तकनीकी या मौसम संबंधी कारणों से प्लेन को हवा में ही दोबारा घुमाना पड़ा। गनीमत ये रही कि दूसरी कोशिश में विमान सुरक्षित उतर गया।\n\nपूरी खबर के लिए वीडियो देखें और अपनी राय कमेंट करें। 👇\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "लखनऊ में राहुल गांधी की फ्लाइट की खतरनाक लैंडिंग! ✈️\n\nलैंडिंग से ठीक पहले अचानक क्या हुआ कि पायलट को विमान हवा में ही दोबारा घुमाना पड़ा? राहुल गांधी भी इस फ्लाइट में सवार थे।\n\nवीडियो अंत तक देखें और शेयर करें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "लखनऊ एयरपोर्ट पर उस वक्त हड़कंप मच गया जब राहुल गांधी को लेकर आ रही एअर इंडिया की फ्लाइट एक बार में लैंड नहीं हो पाई। ✈️\n\nखराब हालात या तकनीकी दिक्कत की वजह से पायलट को 'गो-अराउंड' लेना पड़ा और विमान को हवा में ही दोबारा चक्कर काटने पड़े। हालांकि, दूसरी कोशिश में फ्लाइट सुरक्षित उतर गई और सभी ने राहत की सांस ली।\n\nपूरा मामला जानने के लिए वीडियो देखें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
+      },
+      "hashtags": [
+        "RahulGandhi",
+        "AirIndia",
+        "LucknowAirport",
+        "BreakingNews",
+        "FlightUpdate"
+      ]
+    },
+    "audio_path": "audio/rahul_gandhi_air_india_flight_landing_issue.wav",
+    "audio_duration_sec": 13.08,
+    "video_path": "videos/rahul_gandhi_air_india_flight_landing_issue.mp4",
+    "video_duration_sec": 21.12,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T17:05:13.536797+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa040694e926de9bb1d2a8b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "लखनऊ एयरपोर्ट पर उस वक्त हड़कंप मच गया जब राहुल गांधी को लेकर आ रही एअर इंडिया की फ्लाइट एक बार में लैंड नहीं हो पाई। ✈️\n\nखराब हालात या तकनीकी दिक्कत की वजह से पायलट को 'गो-अराउंड' लेना पड़ा और विमान को हवा में ही दोबारा चक्कर काटने पड़े। हालांकि, दूसरी कोशिश में फ्लाइट सुरक्षित उतर गई और सभी ने राहत की सांस ली।\n\nपूरा मामला जानने के लिए वीडियो देखें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788887143733_wck8o5ju_rahul_gandhi_air_india_flight_landing_issue.mp4",
+                "_id": "6aa040694e926de9bb1d2a8c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T17:05:44.809Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "8d2a16735a0735c3ecacdb007e489610",
+                "_id": "6aa040694e926de9bb1d2a8d",
+                "platformPostId": "1789252312271821",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1789252312271821",
+                "publishedAt": "2026-09-08T17:05:51.471Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T17:05:44.809Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T17:05:45.959Z",
+            "updatedAt": "2026-09-08T17:05:51.748Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T17:05:46.039Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T17:05:51.954498+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0408ac2f820e5afbe889e",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "लखनऊ में राहुल गांधी की फ्लाइट की खतरनाक लैंडिंग! ✈️\n\nलैंडिंग से ठीक पहले अचानक क्या हुआ कि पायलट को विमान हवा में ही दोबारा घुमाना पड़ा? राहुल गांधी भी इस फ्लाइट में सवार थे।\n\nवीडियो अंत तक देखें और शेयर करें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788887176116_ywvjwcjm_rahul_gandhi_air_india_flight_landing_issue.mp4",
+                "_id": "6aa0408ac2f820e5afbe889f"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T17:06:17.748Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "ea9be392e798f9e021501de34977efe5",
+                "_id": "6aa0408ac2f820e5afbe88a0"
+              }
+            ],
+            "scheduledFor": "2026-09-08T17:06:17.748Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T17:06:18.637Z",
+            "updatedAt": "2026-09-08T17:06:20.430Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T17:06:18.719Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T17:06:20.945181+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "singapore_pm_salary_increase_global",
+    "virality_score": 7,
+    "reason": "Global curiosity piece detailing the massive salary hike of the world's highest-paid prime minister.",
     "region": "global",
     "headline": "Highest paid world leader to get salary increase of $1 million",
     "source_summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
     "source_url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
     "source_name": "BBC World",
     "published": "Tue, 08 Sep 2026 09:20:05 GMT",
-    "hook": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक!",
-    "script_hi": "दुनिया के सबसे महंगे प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर का इजाफा होने वाला है। अब उनकी सालाना कमाई तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन अमेरिकी डॉलर होगी। यह दुनिया के किसी भी नेता को मिलने वाला सबसे बड़ा वेतन पैकेज है।",
-    "tts_text_hi": "दुनिया के सबसे महंगे प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर का इजाफा होने वाला है। अब उनकी सालाना कमाई तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन अमेरिकी डॉलर होगी। यह दुनिया के किसी भी नेता को मिलने वाला सबसे बड़ा वेतन पैकेज है।",
-    "title": "सिंगापुर के पीएम की सैलरी में भारी इजाफा",
-    "caption": "सिंगापुर के प्रधानमंत्री लॉरेंस वोंग की सैलरी में एक मिलियन डॉलर की बढ़ोतरी।",
+    "hook": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा!",
+    "script_hi": "सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सालाना सैलरी बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन डॉलर हो गई है। इसके साथ ही वे दुनिया के सबसे ज्यादा वेतन पाने वाले नेता बन गए हैं।",
+    "tts_text_hi": "सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सालाना सैलरी बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन डॉलर हो गई है। इसके साथ ही वे दुनिया के सबसे ज्यादा वेतन पाने वाले नेता बन गए हैं.",
+    "title": "सिंगापुर के पीएम लॉरेंस वॉन्ग की सैलरी में बंपर इजाफा",
+    "caption": "दुनिया के सबसे ज्यादा वेतन पाने वाले नेता सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सैलरी अब बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर हो गई है।",
     "hashtags": [
       "Singapore",
       "LawrenceWong",
+      "PrimeMinister",
+      "WorldNews",
       "SalaryHike",
-      "GlobalNews",
-      "Economy",
-      "WorldLeaders"
+      "GlobalLeaders"
     ],
     "visual_queries": [
-      "Singapore city skyline",
-      "business professional in office",
-      "financial growth graph icon",
-      "Singapore parliament building"
+      "Singapore government building exterior",
+      "Singapore financial district skyline"
     ],
     "named_person": "Lawrence Wong",
-    "named_person_hi": "लॉरेंस वोंग",
+    "named_person_hi": "लॉरेंस वॉन्ग",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -999,78 +1081,93 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "लॉरेंस वोंग",
+        "text": "लॉरेंस वॉन्ग",
         "source": "fallback",
         "query": "Lawrence Wong",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39341086/16743331_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38060686/pexels-photo-38060686.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "wealthy business city",
-        "credit": "dwi endah kusumawati",
-        "source_duration_sec": 25,
-        "duration_sec": 6
+        "query": "Singapore government building exterior",
+        "credit": "Shlok Rana",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38060678/pexels-photo-38060678.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Singapore city skyline",
+        "query": "Singapore financial district skyline",
         "credit": "Shlok Rana",
-        "duration_sec": 5
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9022703/pexels-photo-9022703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "business professional in office",
-        "credit": "Mizuno K",
-        "duration_sec": 5
+        "query": "Singapore skyline drone shot",
+        "credit": "Rockwell branding agency",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38060686/pexels-photo-38060686.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33416446/pexels-photo-33416446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Singapore parliament building",
-        "credit": "Shlok Rana",
-        "duration_sec": 5
+        "query": "busy Singapore street view",
+        "credit": "CK Seng",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31231827/pexels-photo-31231827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern Singapore business district",
+        "credit": "Richard L",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32073789/pexels-photo-32073789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wealthy city financial center",
+        "credit": "Andy Lee",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 29.8,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दुनिया के सबसे अमीर नेता की सैलरी में 8 करोड़ का उछाल! 💰",
-        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! \n\nसिंगापुर के प्रधानमंत्री पहले से ही दुनिया के सबसे महंगे लीडर हैं। अब उनकी सैलरी में 1 मिलियन डॉलर यानी करीब 8.3 करोड़ रुपये का इजाफा होने जा रहा है। \n\nक्या एक नेता की सैलरी इतनी होनी चाहिए? अपनी राय कमेंट में बताएं।\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+        "title": "दुनिया के सबसे महंगे PM की सैलरी में $10 लाख का इजाफा! 🇸🇬",
+        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। जानिए दुनिया के किस नेता को मिलती है सबसे ज्यादा सैलरी।\n\nपूरी कहानी वीडियो में देखें।\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
       },
       "instagram": {
         "title": null,
-        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 💸\n\nसिंगापुर के पीएम की तनख्वाह में 1 मिलियन डॉलर की बढ़ोतरी हो रही है। वो पहले से ही दुनिया में सबसे ज्यादा वेतन पाने वाले प्रधानमंत्री हैं। \n\nयह आंकड़ा सुनकर आपका क्या रिएक्शन है?\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। मंत्रियों की सैलरी प्राइवेट सेक्टर के टैलेंट को खींचने के लिए बढ़ाई गई है। \n\nक्या लगता है, नेताओं की सैलरी इतनी होनी चाहिए? कॉमेंट में बताएं। 👇\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
       },
       "facebook": {
         "title": null,
-        "caption": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 📈\n\nसिंगापुर के प्रधानमंत्री की सैलरी में 1 मिलियन डॉलर यानी करीब 8.3 करोड़ रुपये का बड़ा इजाफा किया जा रहा है। वे पहले से ही दुनिया के सबसे ज्यादा सैलरी लेने वाले प्रधानमंत्री हैं। \n\nसरकार के इस फैसले पर आम जनता में काफी चर्चा है। आप इस बारे में क्या सोचते हैं? कमेंट बॉक्स में जरूर लिखें।\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate"
+        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। सिंगापुर सरकार का मानना है कि मंत्रियों को देश के टॉप सीईओ के बराबर सैलरी मिलनी चाहिए ताकि भ्रष्टाचार से बचा जा सके और बेहतरीन लोग आगे आएं।\n\nपूरी जानकारी के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
       },
       "hashtags": [
+        "LawrenceWong",
         "SingaporePM",
-        "SalaryHike",
         "WorldNews",
         "GlobalLeaders",
-        "EconomyUpdate"
+        "HighestPaid"
       ]
     },
-    "audio_path": "audio/singapore_pm_salary_hike.wav",
-    "audio_duration_sec": 15.07,
-    "video_path": "videos/singapore_pm_salary_hike.mp4",
-    "video_duration_sec": 23.09,
+    "audio_path": "audio/singapore_pm_salary_increase_global.wav",
+    "audio_duration_sec": 15.35,
+    "video_path": "videos/singapore_pm_salary_increase_global.mp4",
+    "video_duration_sec": 23.29,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-08T14:47:37.158859+00:00"
+        "attempted_at": "2026-09-08T17:09:43.054719+00:00"
       },
       "facebook": {
         "success": true,
@@ -1083,15 +1180,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa02021bbf05fabac192bbb",
+            "_id": "6aa0416ec2f820e5afbec7cb",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 📈\n\nसिंगापुर के प्रधानमंत्री की सैलरी में 1 मिलियन डॉलर यानी करीब 8.3 करोड़ रुपये का बड़ा इजाफा किया जा रहा है। वे पहले से ही दुनिया के सबसे ज्यादा सैलरी लेने वाले प्रधानमंत्री हैं। \n\nसरकार के इस फैसले पर आम जनता में काफी चर्चा है। आप इस बारे में क्या सोचते हैं? कमेंट बॉक्स में जरूर लिखें।\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate",
+            "content": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। सिंगापुर सरकार का मानना है कि मंत्रियों को देश के टॉप सीईओ के बराबर सैलरी मिलनी चाहिए ताकि भ्रष्टाचार से बचा जा सके और बेहतरीन लोग आगे आएं।\n\nपूरी जानकारी के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788878879385_8gz6yylg_singapore_pm_salary_hike.mp4",
-                "_id": "6aa02021bbf05fabac192bbc"
+                "url": "https://media.zernio.com/media/1788887402858_u8xs7wig_singapore_pm_salary_increase_global.mp4",
+                "_id": "6aa0416ec2f820e5afbec7cc"
               }
             ],
             "platforms": [
@@ -1108,17 +1205,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:48:00.575Z",
+                "scheduledFor": "2026-09-08T17:10:04.327Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "4301e11a04ee0a5bc9af2f6de8b873c6",
-                "_id": "6aa02021bbf05fabac192bbd",
-                "platformPostId": "1389655842648866",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1389655842648866",
-                "publishedAt": "2026-09-08T14:48:07.716Z"
+                "contentHash": "2bd18996cc3fa5c9c1911e96c78711c4",
+                "_id": "6aa0416ec2f820e5afbec7cd",
+                "platformPostId": "1716000379660570",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1716000379660570",
+                "publishedAt": "2026-09-08T17:10:14.409Z"
               }
             ],
-            "scheduledFor": "2026-09-08T14:48:00.575Z",
+            "scheduledFor": "2026-09-08T17:10:04.327Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1130,14 +1227,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:48:01.959Z",
-            "updatedAt": "2026-09-08T14:48:07.817Z",
+            "createdAt": "2026-09-08T17:10:06.185Z",
+            "updatedAt": "2026-09-08T17:10:14.728Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:48:02.057Z"
+            "publishingClaimedAt": "2026-09-08T17:10:06.270Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:48:07.985171+00:00"
+        "attempted_at": "2026-09-08T17:10:14.914636+00:00"
       },
       "instagram": {
         "success": true,
@@ -1150,15 +1247,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0204784f43bc976a0814f",
+            "_id": "6aa0418a3500ffe5f8e2fbf7",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दुनिया के सबसे अमीर नेता को मिलने वाली है भारी सैलरी हाइक! 💸\n\nसिंगापुर के पीएम की तनख्वाह में 1 मिलियन डॉलर की बढ़ोतरी हो रही है। वो पहले से ही दुनिया में सबसे ज्यादा वेतन पाने वाले प्रधानमंत्री हैं। \n\nयह आंकड़ा सुनकर आपका क्या रिएक्शन है?\n\n#SingaporePM #SalaryHike #WorldNews #GlobalLeaders #EconomyUpdate",
+            "content": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। मंत्रियों की सैलरी प्राइवेट सेक्टर के टैलेंट को खींचने के लिए बढ़ाई गई है। \n\nक्या लगता है, नेताओं की सैलरी इतनी होनी चाहिए? कॉमेंट में बताएं। 👇\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788878917160_r23gcfuh_singapore_pm_salary_hike.mp4",
-                "_id": "6aa0204784f43bc976a08150"
+                "url": "https://media.zernio.com/media/1788887433153_98iqan2a_singapore_pm_salary_increase_global.mp4",
+                "_id": "6aa0418a3500ffe5f8e2fbf8"
               }
             ],
             "platforms": [
@@ -1175,14 +1272,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-08T14:48:38.956Z",
+                "scheduledFor": "2026-09-08T17:10:34.007Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "e3cf185bc1b2ebfe0b4723c8e1d52c12",
-                "_id": "6aa0204784f43bc976a08151"
+                "contentHash": "dae2cb9b8d1c4cddb425c9d1ecfbff0f",
+                "_id": "6aa0418a3500ffe5f8e2fbf9"
               }
             ],
-            "scheduledFor": "2026-09-08T14:48:38.956Z",
+            "scheduledFor": "2026-09-08T17:10:34.007Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1194,14 +1291,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-08T14:48:39.738Z",
-            "updatedAt": "2026-09-08T14:48:41.507Z",
+            "createdAt": "2026-09-08T17:10:34.978Z",
+            "updatedAt": "2026-09-08T17:10:36.845Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-08T14:48:39.797Z"
+            "publishingClaimedAt": "2026-09-08T17:10:35.059Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-08T14:48:41.772621+00:00"
+        "attempted_at": "2026-09-08T17:10:37.118824+00:00"
       }
     }
   }
