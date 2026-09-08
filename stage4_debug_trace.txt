@@ -1,9 +1,7 @@
-ready_labels: ['bihar_flood_29_lakh_affected', 'delhi_satya_niketan_building_collapse_fir', 'guwahati_husband_decapitates_wife_fridge']
+ready_labels: ['germany_afd_election_win', 'pm_modi_gujarat_maharashtra_development']
 
-delhi_satya_niketan_building_collapse_fir: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_fir.mp4 dur=22.02322
-guwahati_husband_decapitates_wife_fridge: SUCCESS -> video_path=videos/guwahati_husband_decapitates_wife_fridge.mp4 dur=22.907211
-sagar_madhya_pradesh_hooch_tragedy: SKIPPED (not in ready set)
-thane_student_suicide_college_admission: SKIPPED (not in ready set)
-meta_smart_glasses_mother_reaction: SKIPPED (not in ready set)
-bihar_flood_29_lakh_affected: SUCCESS -> video_path=videos/bihar_flood_29_lakh_affected.mp4 dur=27.489887
-russia_north_korea_first_road_bridge: SKIPPED (not in ready set)
+netanyahu_uae_hamas_warning: SKIPPED (not in ready set)
+kota_leopard_rescue: SKIPPED (not in ready set)
+kanpur_businessman_murder_cctv: SKIPPED (not in ready set)
+germany_afd_election_win: SUCCESS -> video_path=videos/germany_afd_election_win.mp4 dur=29.292222
+pm_modi_gujarat_maharashtra_development: SUCCESS -> video_path=videos/pm_modi_gujarat_maharashtra_development.mp4 dur=33.02322
