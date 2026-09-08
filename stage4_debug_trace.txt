@@ -1,7 +1,9 @@
-ready_labels: ['bsnl_beats_jio_haryana_surge', 'delhi_building_safety_rules_mcd', 'indonesia_volcano_eruption_global']
+ready_labels: ['baghpat_expressway_pickup_truck_accident_deaths', 'bhopal_junior_doctors_protest_police_action', 'delhi_satya_niketan_building_collapse_arrests_mcd', 'gwalior_bangladeshi_infiltrators_fake_passports', 'meerut_school_student_heart_attack_death', 'ram_mandir_trust_appoints_ex_air_marshal_ceo']
 
-andhra_youth_scooter_dragging_viral: SKIPPED (not in ready set)
-delhi_building_safety_rules_mcd: SUCCESS -> video_path=videos/delhi_building_safety_rules_mcd.mp4 dur=38.255215
-indonesia_volcano_eruption_global: SUCCESS -> video_path=videos/indonesia_volcano_eruption_global.mp4 dur=25.756553
-hardik_pandya_ameesha_patel_viral_video: SKIPPED (not in ready set)
-bsnl_beats_jio_haryana_surge: SUCCESS -> video_path=videos/bsnl_beats_jio_haryana_surge.mp4 dur=23.52322
+delhi_satya_niketan_building_collapse_arrests_mcd: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_arrests_mcd.mp4 dur=28.256553
+delhi_manipuri_musician_beaten_to_death: SKIPPED (not in ready set)
+meerut_school_student_heart_attack_death: SUCCESS -> video_path=videos/meerut_school_student_heart_attack_death.mp4 dur=38.255215
+ram_mandir_trust_appoints_ex_air_marshal_ceo: SUCCESS -> video_path=videos/ram_mandir_trust_appoints_ex_air_marshal_ceo.mp4 dur=29.73322
+baghpat_expressway_pickup_truck_accident_deaths: SUCCESS -> video_path=videos/baghpat_expressway_pickup_truck_accident_deaths.mp4 dur=29.889887
+gwalior_bangladeshi_infiltrators_fake_passports: SUCCESS -> video_path=videos/gwalior_bangladeshi_infiltrators_fake_passports.mp4 dur=29.42322
+bhopal_junior_doctors_protest_police_action: SUCCESS -> video_path=videos/bhopal_junior_doctors_protest_police_action.mp4 dur=32.02322
