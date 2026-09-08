@@ -1,39 +1,1078 @@
 [
   {
-    "topic_label": "andhra_youth_scooter_dragging_viral",
+    "topic_label": "delhi_satya_niketan_building_collapse_arrests_mcd",
     "virality_score": 9,
-    "reason": "Shocking viral video of a youth being tied to a scooter and dragged over a financial dispute.",
+    "reason": "High-impact local tragedy with ongoing arrests, suspensions, and widespread public safety concern.",
     "region": "india",
-    "headline": "30 हजार रुपये के विवाद में युवक का अपहरण, स्कूटर से बांधकर घसीटने का VIDEO वायरल",
-    "source_summary": "आंध्र प्रदेश के विजयनगरम में 30 हजार रुपये के भुगतान विवाद को लेकर एक युवक को कथित तौर पर अगवा कर बंधक बनाया गया, फिर उसकी पिटाई कर स्कूटर से बांधकर घसीटा गया. वीडियो वायरल होने के बाद पुलिस ने अपहरण, हत्या के प्रयास और एससी/एसटी एक्ट समेत कई धाराओं में केस दर्ज कर पांच आरोपियों को गिरफ्तार कर लिया.",
-    "source_url": "https://ndtv.in/india/andhra-pradesh-youth-kidnapped-over-payment-dispute-in-vizianagaram-district-12012964#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 07 Sep 2026 15:39:47 +0530",
-    "hook": "तीस हजार रुपये के विवाद में रोंगटे खड़े कर देने वाला कांड!",
-    "script_hi": "आंध्र प्रदेश के विजयनगरम में तीस हजार रुपये के विवाद में एक युवक के अपहरण का मामला सामने आया है। आरोपियों ने युवक को स्कूटर से बांधकर घसीटा, जिसका वीडियो सोशल मीडिया पर वायरल हो रहा है। पुलिस ने हत्या के प्रयास और एससी/एसटी एक्ट समेत कई धाराओं में केस दर्ज कर पांच आरोपियों को गिरफ्तार कर लिया है।",
-    "tts_text_hi": "आंध्र प्रदेश के विजयनगरम में तीस हजार रुपये के विवाद में एक युवक के अपहरण का मामला सामने आया है। आरोपियों ने युवक को स्कूटर से बांधकर घसीटा, जिसका वीडियो सोशल मीडिया पर वायरल हो रहा है। पुलिस ने हत्या के प्रयास और एससी/एसटी एक्ट समेत कई धाराओं में केस दर्ज कर पांच आरोपियों को गिरफ्तार कर लिया है।",
-    "title": "विजयनगरम में युवक का अपहरण और स्कूटर से घसीटने का वीडियो वायरल",
-    "caption": "आंध्र प्रदेश के विजयनगरम में तीस हजार रुपये के विवाद में युवक को स्कूटर से बांधकर घसीटने का मामला सामने आया है। पुलिस ने पांच आरोपियों को गिरफ्तार कर लिया है।",
+    "headline": "सत्य निकेतन हादसा: मकान मालिक जेल में, लेकिन अफसरों पर सिर्फ सस्पेंशन की कार्रवाई... अब भी ये बड़े सवाल",
+    "source_summary": "सत्य निकेतन में बहुमंजिला इमारत गिरने से 7 लोगों की मौत हो गई है. इस मामले में दिल्ली पुलिस ने बिल्डिंग मालिक हरिराम, उसकी पत्नी और बेटे को गिरफ्तार किया है. वहीं, MCD ने पांच अधिकारियों को सस्पेंड कर दिया है. हालांकि इन कार्रवाई के बावजूद सवाल ये है कि क्या सिर्फ गिरफ्तारी और सस्पेंशन से व्यवस्था सुधर जाएगी?",
+    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-satya-niketan-building-collapse-arrest-suspension-but-questions-still-exists-ntc-drmt-dskc-2638466-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T07:48:08+05:30",
+    "hook": "सत्य निकेतन इमारत हादसे में सात मौतें, बड़ा सवाल!",
+    "script_hi": "सत्य निकेतन में बहुमंजिला इमारत गिरने से सात लोगों की मौत हो गई है। दिल्ली पुलिस ने मकान मालिक हरिराम, उसकी पत्नी और बेटे को गिरफ्तार कर लिया है। वहीं, एम सीडी ने पांच अधिकारियों को सस्पेंड कर दिया है। बड़ा सवाल यह है कि क्या सिर्फ गिरफ्तारी और सस्पेंशन से व्यवस्था सुधर जाएगी?",
+    "tts_text_hi": "सत्य निकेतन में बहुमंजिला इमारत गिरने से सात लोगों की मौत हो गई है। दिल्ली पुलिस ने मकान मालिक हरिराम, उसकी पत्नी और बेटे को गिरफ्तार कर लिया है। वहीं, एम सीडी ने पांच अधिकारियों को सस्पेंड कर दिया है। बड़ा सवाल यह है कि क्या सिर्फ गिरफ्तारी और सस्पेंशन से व्यवस्था सुधर जाएगी?",
+    "title": "सत्य निकेतन हादसा: मकान मालिक गिरफ्तार, अफसरों पर कार्रवाई के बाद भी बड़े सवाल",
+    "caption": "सत्य निकेतन इमारत हादसे में सात लोगों की मौत के बाद मकान मालिक गिरफ्तार और पांच अधिकारी सस्पेंड। क्या इससे व्यवस्था सुधरेगी?",
     "hashtags": [
-      "AndhraPradesh",
-      "Vizianagaram",
-      "CrimeNews",
-      "ViralVideo",
-      "PoliceAction",
+      "SatyaNiketan",
+      "DelhiNews",
+      "BuildingCollapse",
+      "DelhiPolice",
+      "MCD",
       "IndiaNews"
     ],
     "visual_queries": [
+      "collapsed building Delhi India",
+      "Delhi Police station India",
+      "municipal office India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35370261/14986408_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "municipal office India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35842144/15198685_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Indian government office exterior",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11904941/pexels-photo-11904941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "collapsed building Delhi India",
+        "credit": "Shantum Singh",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi Police station India",
+        "credit": "Frank van Dijk",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "urban India street scene",
+        "credit": "Umang & Meet",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18875553/pexels-photo-18875553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowded Delhi neighborhood",
+        "credit": "Tamer Ekinci",
+        "duration_sec": 3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सत्य निकेतन हादसा: 7 मौतें और सिर्फ सस्पेंशन? बड़े सवाल 🚨",
+        "caption": "सात लोगों की जान चली गई, मकान मालिक जेल में है और लापरवाह अफसरों पर सिर्फ निलंबन की कार्रवाई? 🛑\n\nसत्य निकेतन इमारत हादसे के बाद अब सिस्टम की जवाबदेही पर बड़े सवाल खड़े हो रहे हैं। जांच अभी बाकी है और कई चेहरे बेनकाब होने बाकी हैं।\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#SatyaNiketanTragedy #DelhiNews #BuildingCollapse #Investigation #Accountability"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सत्य निकेतन हादसे में 7 लोगों की मौत के बाद भी अफसरों पर सिर्फ सस्पेंशन क्यों? 🛑 मकान मालिक तो जेल में है, पर असली जिम्मेदार कौन?\n\nवीडियो में देखें इस लापरवाही की पूरी कहानी।\n\n#SatyaNiketanTragedy #DelhiNews #BuildingCollapse #Investigation #Accountability"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सत्य निकेतन इमारत हादसे में सात बेकसूरों की जान चली गई। मकान मालिक को पुलिस ने गिरफ्तार कर लिया है, लेकिन जिन अधिकारियों की निगरानी में यह सब हुआ, उनपर सिर्फ सस्पेंशन की मामूली कार्रवाई क्यों की गई?\n\nक्या सिस्टम अब भी हादसों से सबक नहीं लेना चाहता? पूरी कहानी जानें इस वीडियो में।\n\n#SatyaNiketanTragedy #DelhiNews #BuildingCollapse #Investigation #Accountability"
+      },
+      "hashtags": [
+        "SatyaNiketanTragedy",
+        "DelhiNews",
+        "BuildingCollapse",
+        "Investigation",
+        "Accountability"
+      ]
+    },
+    "audio_path": "audio/delhi_satya_niketan_building_collapse_arrests_mcd.wav",
+    "audio_duration_sec": 20.24,
+    "video_path": "videos/delhi_satya_niketan_building_collapse_arrests_mcd.mp4",
+    "video_duration_sec": 28.26,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T04:05:48.678282+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f89b46fbe281a89ed0748",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सत्य निकेतन इमारत हादसे में सात बेकसूरों की जान चली गई। मकान मालिक को पुलिस ने गिरफ्तार कर लिया है, लेकिन जिन अधिकारियों की निगरानी में यह सब हुआ, उनपर सिर्फ सस्पेंशन की मामूली कार्रवाई क्यों की गई?\n\nक्या सिस्टम अब भी हादसों से सबक नहीं लेना चाहता? पूरी कहानी जानें इस वीडियो में।\n\n#SatyaNiketanTragedy #DelhiNews #BuildingCollapse #Investigation #Accountability",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788840369891_fs8wc97s_delhi_satya_niketan_building_collapse_arrests_mcd.mp4",
+                "_id": "6a9f89b46fbe281a89ed0749"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwFAyve7&_nc_oc=AdrHhKTk6aw5jhaVJAqX67tOyaFmxKiFfGbOkAtPgJD4xJ69drEFe0eyi9xJMbrkBzI&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=cgzlfWgd2gY99qI6tzenUQ&_nc_tpa=Q5bMBQKZSCulxPY5vitiFJSl6tkifCsn7W_41XrteycYZd4gbUI7O5haRG1c0w1g4XRG4DK4pXXi7zaR&oh=00_AQIWyHpfSyx9eJTfWmGDs9ptqifovlA28h-LME1fs3QD0w&oe=6AA40E14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:06:11.306Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a1daf559d75bb9e2ff6e2eac592cccf8",
+                "_id": "6a9f89b46fbe281a89ed074a",
+                "platformPostId": "1879149786395642",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1879149786395642",
+                "publishedAt": "2026-09-08T04:06:19.908Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:06:11.306Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:06:12.088Z",
+            "updatedAt": "2026-09-08T04:06:20.016Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:06:12.190Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:06:20.218522+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f89d26fbe281a89ed17ae",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सत्य निकेतन हादसे में 7 लोगों की मौत के बाद भी अफसरों पर सिर्फ सस्पेंशन क्यों? 🛑 मकान मालिक तो जेल में है, पर असली जिम्मेदार कौन?\n\nवीडियो में देखें इस लापरवाही की पूरी कहानी।\n\n#SatyaNiketanTragedy #DelhiNews #BuildingCollapse #Investigation #Accountability",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788840400380_n8xe562g_delhi_satya_niketan_building_collapse_arrests_mcd.mp4",
+                "_id": "6a9f89d26fbe281a89ed17af"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFvsrQJ&_nc_oc=AdqL1SkH0sYKS6hZCC-k8LYefMwvYr2T2q_P0o5SSezPusDH3-upeUmabaJORtko5bA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GUg9tfa6Fzlrz_cZ85APEg&_nc_tpa=Q5bMBQLEYvtVA5yHSyIwIK0nWQJknzYER_upo9nj-KgrZxwCMeHljtiHcexVxoCcFXbZadFRwY_ACTCxeQ&oh=00_AQKt4p5sjgBxualE7IYhy6mPkmQuW2oh6JK9jGd-YRTpOg&oe=6AA401BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:06:41.760Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "d7151f7c15b7abdb16dfe09dca5a39e3",
+                "_id": "6a9f89d26fbe281a89ed17b0"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:06:41.760Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:06:42.563Z",
+            "updatedAt": "2026-09-08T04:06:44.628Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:06:42.677Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:06:44.986716+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "delhi_manipuri_musician_beaten_to_death",
+    "virality_score": 9,
+    "reason": "Shocking murder of a musician over noise protest with heavy social media outrage and viral potential.",
+    "region": "india",
+    "headline": "शराब पीने और शोर मचाने से किया मना... दिल्ली में मणिपुरी म्यूज़िशियन की हत्या",
+    "source_summary": "दिल्ली के किलोकरी गांव में 54 वर्षीय मणिपुरी म्यूज़िशियन सी. विक्रम सिंह की पीट-पीटकर हत्या कर दी गई. बताया गया कि सिंह अपने अपार्टमेंट के बाहर शराब पीने और शोर मचाने वाले लोगों का विरोध करने पहुंचे थे. इसी दौरान डिलीवरी कर्मचारियों और ढाबा स्टाफ के एक समूह ने उन पर हमला कर दिया. गंभीर रूप से घायल सिंह को उनके बेटे ने अस्पताल पहुंचाया, जहां इलाज के दौरान उनकी मौत हो गई.",
+    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-manipuri-musician-killed-beaten-to-death-after-objecting-to-drinking-and-creating-ruckus-lcly-dskc-2638489-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T08:34:18+05:30",
+    "hook": "दिल्ली में दिल दहला देने वाली वारदात!",
+    "script_hi": "दिल्ली के किलोकरी गाँव में बावन वर्षीय मणिपुरी म्यूज़िशियन सी. विक्रम सिंह की पीट-पीटकर हत्या कर दी गई. सिंह ने अपने अपार्टमेंट के बाहर शराब पीने और शोर मचाने का विरोध किया था. इसी बात पर डिलीवरी कर्मचारियों और ढाबा स्टाफ के लोगों ने उन पर हमला कर दिया. अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया.",
+    "tts_text_hi": "दिल्ली के किलोकरी गाँव में बावन वर्षीय मणिपुरी म्यूज़िशियन सी. विक्रम सिंह की पीट-पीटकर हत्या कर दी गई. सिंह ने अपने अपार्टमेंट के बाहर शराब पीने और शोर मचाने का विरोध किया था. इसी बात पर डिलीवरी कर्मचारियों और ढाबा स्टाफ के लोगों ने उन पर हमला कर दिया. अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया.",
+    "title": "दिल्ली में मणिपुरी म्यूज़िशियन की हत्या",
+    "caption": "दिल्ली के किलोकरी गाँव में शराब पीने और शोर मचाने का विरोध करने पर मणिपुरी म्यूज़िशियन की पीट-पीटकर हत्या।",
+    "hashtags": [
+      "DelhiNews",
+      "CrimeNews",
+      "Manipur",
+      "BreakingNews",
+      "DelhiPolice"
+    ],
+    "visual_queries": [
+      "Delhi street India",
+      "police investigation India",
+      "hospital building India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi street India",
+        "credit": "Roman Saienko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12092934/pexels-photo-12092934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital building India",
+        "credit": "General Kenobi",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "meerut_school_student_heart_attack_death",
+    "virality_score": 8,
+    "reason": "Tragic school incident involving a young student that will evoke strong emotional resonance and high views.",
+    "region": "india",
+    "headline": "स्कूल में 13 साल के बच्चे की हार्ट अटैक से मौत! वॉशरूम में मिली लाश",
+    "source_summary": "मेरठ के मवाना स्थित बसंत वैली पब्लिक स्कूल में कक्षा सात के 13 वर्षीय छात्र कुनाल शर्मा का शव स्कूल के वॉशरूम में मिला. छुट्टी के बाद ई-रिक्शा चालक ने उसे तलाशा तो वह वहां बेहोश पड़ा मिला. स्कूल प्रबंधन और परिजन उसे डॉक्टर के पास ले गए, जहां मृत घोषित कर दिया गया. प्रारंभिक तौर पर हार्ट अटैक से मौत की आशंका है. परिजनों ने पुलिस कार्रवाई से इनकार किया है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/meerut-13-year-boy-heart-attack-dies-schoo-dead-body-class-7-student-found-in-washroom-lclg-strc-2638496-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T08:43:30+05:30",
+    "hook": "मेरठ के एक स्कूल में दिल दहला देने वाली घटना!",
+    "script_hi": "मेरठ के मवाना में बसंत वैली पब्लिक स्कूल के सातवीं कक्षा के तेरह वर्षीय छात्र कुनाल शर्मा की स्कूल के वॉशरूम में संदिग्ध परिस्थितियों में मौत हो गई। छुट्टी के बाद जब वह घर नहीं पहुंचा तो ई-रिक्शा चालक ने उसे तलाशा, जहां वह बेहोश मिला। डॉक्टर ने उसे मृत घोषित कर दिया। शुरुआती जांच में मौत की वजह हार्ट अटैक बताई जा रही है। परिजनों ने पुलिस कार्रवाई से इनकार कर दिया है।",
+    "tts_text_hi": "मेरठ के मवाना में बसंत वैली पब्लिक स्कूल के सातवीं कक्षा के तेरह वर्षीय छात्र कुनाल शर्मा की स्कूल के वॉशरूम में संदिग्ध परिस्थितियों में मौत हो गई। छुट्टी के बाद जब वह घर नहीं पहुंचा तो ई-रिक्शा चालक ने उसे तलाशा, जहां वह बेहोश मिला। डॉक्टर ने उसे मृत घोषित कर दिया। शुरुआती जांच में मौत की वजह हार्ट अटैक बताई जा रही है। परिजनों ने पुलिस कार्रवाई से इनकार कर दिया है।",
+    "title": "मेरठ: स्कूल के वॉशरूम में छात्र की संदिग्ध मौत",
+    "caption": "मेरठ के मवाना में स्कूल के वॉशरूम में तेरह साल के छात्र का शव मिला। शुरुआती आशंका हार्ट अटैक की है।",
+    "hashtags": [
+      "Meerut",
+      "SchoolNews",
+      "HeartAttack",
+      "UttarPradesh",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian school building exterior India",
+      "school washroom corridor India",
+      "concerned family India",
+      "hospital emergency entrance India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39338744/pexels-photo-39338744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian school building exterior India",
+        "credit": "Devansh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34655957/pexels-photo-34655957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "school washroom corridor India",
+        "credit": "Sanjay Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31521629/pexels-photo-31521629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "concerned family India",
+        "credit": "Ravibabu nannam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency entrance India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "स्कूल के वॉशरूम में 13 साल के बच्चे की मौत 💔",
+        "caption": "13 साल का बच्चा स्कूल गया था, लेकिन घर सिर्फ उसकी लाश लौटी। 🏫\n\nमेरठ के एक प्राइवेट स्कूल के वॉशरूम में अचानक तबीयत बिगड़ने से आठवीं के छात्र की संदिग्ध हालत में मौत हो गई। शुरुआती जांच में मामला हार्ट अटैक का बताया जा रहा है। \n\nआखिर स्कूल परिसर में बच्चों की सेहत को लेकर इतनी लापरवाही क्यों? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#MeerutNews #SchoolTragedy #HeartAttack #StudentDeath #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "13 साल का बच्चा स्कूल गया था, लेकिन घर उसकी लाश लौटी। 💔\n\nमेरठ के स्कूल वॉशरूम में आठवीं के छात्र की संदिग्ध मौत ने सबको झकझोर दिया है। शुरुआती वजह हार्ट अटैक बताई जा रही है।\n\nक्या स्कूल में बच्चों की सुरक्षा और हेल्थ इमरजेंसी पर ध्यान देने की जरूरत नहीं? शेयर करें अपनी राय।\n\n#MeerutNews #SchoolTragedy #HeartAttack #StudentDeath #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सुबह बच्चा हंसते-खेलते स्कूल गया था, कुछ घंटों बाद परिवार को उसकी लाश मिली। 💔\n\nमेरठ के एक स्कूल के वॉशरूम में 13 साल के छात्र की संदिग्ध हालत में मौत हो गई। शुरुआती जांच में हार्ट अटैक की बात सामने आ रही है, लेकिन परिवार ने स्कूल प्रबंधन पर गंभीर सवाल उठाए हैं। \n\nइतनी कम उम्र में ऐसी घटनाएं लगातार क्यों बढ़ रही हैं? इस दुखद खबर पर आपकी क्या राय है, कमेंट में जरूर बताएं।\n\n#MeerutNews #SchoolTragedy #HeartAttack #StudentDeath #BreakingNews"
+      },
+      "hashtags": [
+        "MeerutNews",
+        "SchoolTragedy",
+        "HeartAttack",
+        "StudentDeath",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/meerut_school_student_heart_attack_death.wav",
+    "audio_duration_sec": 30.2,
+    "video_path": "videos/meerut_school_student_heart_attack_death.mp4",
+    "video_duration_sec": 38.26,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T04:11:16.207451+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8b0568a7ba0dd5432f4f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सुबह बच्चा हंसते-खेलते स्कूल गया था, कुछ घंटों बाद परिवार को उसकी लाश मिली। 💔\n\nमेरठ के एक स्कूल के वॉशरूम में 13 साल के छात्र की संदिग्ध हालत में मौत हो गई। शुरुआती जांच में हार्ट अटैक की बात सामने आ रही है, लेकिन परिवार ने स्कूल प्रबंधन पर गंभीर सवाल उठाए हैं। \n\nइतनी कम उम्र में ऐसी घटनाएं लगातार क्यों बढ़ रही हैं? इस दुखद खबर पर आपकी क्या राय है, कमेंट में जरूर बताएं।\n\n#MeerutNews #SchoolTragedy #HeartAttack #StudentDeath #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788840706517_hb9ejudz_meerut_school_student_heart_attack_death.mp4",
+                "_id": "6a9f8b0568a7ba0dd5432f50"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwFAyve7&_nc_oc=AdrHhKTk6aw5jhaVJAqX67tOyaFmxKiFfGbOkAtPgJD4xJ69drEFe0eyi9xJMbrkBzI&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=cgzlfWgd2gY99qI6tzenUQ&_nc_tpa=Q5bMBQKZSCulxPY5vitiFJSl6tkifCsn7W_41XrteycYZd4gbUI7O5haRG1c0w1g4XRG4DK4pXXi7zaR&oh=00_AQIWyHpfSyx9eJTfWmGDs9ptqifovlA28h-LME1fs3QD0w&oe=6AA40E14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:11:48.345Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "4d5bbbb47e911c64c427ccae38ab596d",
+                "_id": "6a9f8b0568a7ba0dd5432f51",
+                "platformPostId": "2742601009588591",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2742601009588591",
+                "publishedAt": "2026-09-08T04:11:54.180Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:11:48.345Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:11:49.019Z",
+            "updatedAt": "2026-09-08T04:11:54.290Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:11:49.114Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:11:54.474347+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8b1d4dac409dfc02816b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "13 साल का बच्चा स्कूल गया था, लेकिन घर उसकी लाश लौटी। 💔\n\nमेरठ के स्कूल वॉशरूम में आठवीं के छात्र की संदिग्ध मौत ने सबको झकझोर दिया है। शुरुआती वजह हार्ट अटैक बताई जा रही है।\n\nक्या स्कूल में बच्चों की सुरक्षा और हेल्थ इमरजेंसी पर ध्यान देने की जरूरत नहीं? शेयर करें अपनी राय।\n\n#MeerutNews #SchoolTragedy #HeartAttack #StudentDeath #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788840731636_pk3eqver_meerut_school_student_heart_attack_death.mp4",
+                "_id": "6a9f8b1d4dac409dfc02816c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFvsrQJ&_nc_oc=AdqL1SkH0sYKS6hZCC-k8LYefMwvYr2T2q_P0o5SSezPusDH3-upeUmabaJORtko5bA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GUg9tfa6Fzlrz_cZ85APEg&_nc_tpa=Q5bMBQLEYvtVA5yHSyIwIK0nWQJknzYER_upo9nj-KgrZxwCMeHljtiHcexVxoCcFXbZadFRwY_ACTCxeQ&oh=00_AQKt4p5sjgBxualE7IYhy6mPkmQuW2oh6JK9jGd-YRTpOg&oe=6AA401BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:12:12.985Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "5267962addace3eb14a829cf3a31ce2f",
+                "_id": "6a9f8b1d4dac409dfc02816d"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:12:12.985Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:12:13.590Z",
+            "updatedAt": "2026-09-08T04:12:15.461Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:12:13.659Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:12:15.763533+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "ram_mandir_trust_appoints_ex_air_marshal_ceo",
+    "virality_score": 8,
+    "reason": "Major national news regarding the appointment of a retired Air Force officer as the first CEO of the Ram Mandir Trust.",
+    "region": "india",
+    "headline": "आज राम मंदिर ट्रस्ट ज्वाइन करेंगे पहले CEO; देश सेवा के बाद जीतेंद्र मिश्रा को अब मंदिर की जिम्मेदारी",
+    "source_summary": "ऑपरेशन सिंदूर के दौरान अहम जिम्मेदारी निभा चुके भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल (रिटायर्ड) जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के मुख्य कार्यकारी अधिकारी (CEO) का पदभार ग्रहण करेंगे. उन्हें 5,000 से अधिक उम्मीदवारों में से चयनित किया गया है.",
+    "source_url": "https://ndtv.in/uttar-pradesh-news/air-marshal-retd-jeetendra-mishra-takes-charge-ram-mandir-trust-ceo-ayodhya-shri-ram-janmabhoomi-teerth-kshetra-trust-temple-management-12015735#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 08:04:46 +0530",
+    "hook": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी!",
+    "script_hi": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल सेवानिवृत्त जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के मुख्य कार्यकारी अधिकारी का पदभार ग्रहण करेंगे। उन्हें पांच हजार से अधिक उम्मीदवारों में से चुना गया है।",
+    "tts_text_hi": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! भारतीय वायुसेना के पूर्व अधिकारी एयर मार्शल सेवानिवृत्त जीतेंद्र मिश्रा आज श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के मुख्य कार्यकारी अधिकारी का पदभार ग्रहण करेंगे। उन्हें पांच हजार से अधिक उम्मीदवारों में से चुना गया है।",
+    "title": "Ram Mandir Trust First CEO",
+    "caption": "राम मंदिर ट्रस्ट के पहले सीईओ के रूप में एयर मार्शल सेवानिवृत्त जीतेंद्र मिश्रा आज संभालेंगे कार्यभार।",
+    "hashtags": [
+      "RamMandir",
+      "Ayodhya",
+      "IndianAirForce",
+      "NewsIndia",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Ram Mandir Ayodhya India",
+      "Indian Air Force officer India",
+      "trust office meeting India"
+    ],
+    "named_person": "Jitendra Mishra",
+    "named_person_hi": "जीतेंद्र मिश्रा",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "जीतेंद्र मिश्रा",
+        "source": "fallback",
+        "query": "Jitendra Mishra",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36478002/pexels-photo-36478002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ram Mandir Ayodhya India",
+        "credit": "Ansh Yati",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32487277/pexels-photo-32487277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian Air Force officer India",
+        "credit": "SUBRATA DEB",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5668526/pexels-photo-5668526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "trust office meeting India",
+        "credit": "Sora Shimazaki",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "राम मंदिर ट्रस्ट को मिला पहला CEO! जानिए कौन हैं जीतेंद्र मिश्रा 🚩",
+        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🚨\n\nदेश सेवा के बाद अब जीतेंद्र मिश्रा को राम मंदिर की बड़ी जिम्मेदारी सौंपी गई है। ट्रस्ट के कामकाज को और बेहतर और सुचारू बनाने के लिए यह नियुक्ति की गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🚩\n\nसेना से देश सेवा के बाद अब जीतेंद्र मिश्रा संभालेंगे राम मंदिर की कमान। ट्रस्ट के मैनेजमेंट को मजबूत करने के लिए यह फैसला लिया गया है।\n\nआपकी इस पर क्या राय है? कॉमेंट में जरूर बताएं और वीडियो शेयर करें।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🚨\n\nदेश की सेवा करने के बाद अब जीतेंद्र मिश्रा को राम मंदिर ट्रस्ट की अहम जिम्मेदारी सौंपी गई है। मंदिर के प्रशासनिक कामकाज को और बेहतर ढंग से चलाने के लिए यह बड़ा कदम उठाया गया है।\n\nदेखें पूरी वीडियो और जानें इस फैसले से जुड़े सभी खास डिटेल्स।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews"
+      },
+      "hashtags": [
+        "RamMandir",
+        "Ayodhya",
+        "RamMandirTrust",
+        "JitendraMishra",
+        "AyodhyaNews"
+      ]
+    },
+    "audio_path": "audio/ram_mandir_trust_appoints_ex_air_marshal_ceo.wav",
+    "audio_duration_sec": 21.69,
+    "video_path": "videos/ram_mandir_trust_appoints_ex_air_marshal_ceo.mp4",
+    "video_duration_sec": 29.73,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T04:16:17.950906+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8c2fbc1c4925fafa60a1",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🚨\n\nदेश की सेवा करने के बाद अब जीतेंद्र मिश्रा को राम मंदिर ट्रस्ट की अहम जिम्मेदारी सौंपी गई है। मंदिर के प्रशासनिक कामकाज को और बेहतर ढंग से चलाने के लिए यह बड़ा कदम उठाया गया है।\n\nदेखें पूरी वीडियो और जानें इस फैसले से जुड़े सभी खास डिटेल्स।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788841005207_9wku7gh4_ram_mandir_trust_appoints_ex_air_marshal_ceo.mp4",
+                "_id": "6a9f8c2fbc1c4925fafa60a2"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwFAyve7&_nc_oc=AdrHhKTk6aw5jhaVJAqX67tOyaFmxKiFfGbOkAtPgJD4xJ69drEFe0eyi9xJMbrkBzI&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=cgzlfWgd2gY99qI6tzenUQ&_nc_tpa=Q5bMBQKZSCulxPY5vitiFJSl6tkifCsn7W_41XrteycYZd4gbUI7O5haRG1c0w1g4XRG4DK4pXXi7zaR&oh=00_AQIWyHpfSyx9eJTfWmGDs9ptqifovlA28h-LME1fs3QD0w&oe=6AA40E14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:16:46.336Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "ace81ee4981d9472d904b9e7c0e22b55",
+                "_id": "6a9f8c2fbc1c4925fafa60a3",
+                "platformPostId": "1241925871413289",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1241925871413289",
+                "publishedAt": "2026-09-08T04:16:56.922Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:16:46.336Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:16:47.220Z",
+            "updatedAt": "2026-09-08T04:16:57.011Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:16:47.289Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:16:57.189030+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8c54bc1c4925fafa6db5",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "राम मंदिर ट्रस्ट को मिला पहला मुख्य कार्यकारी अधिकारी! 🚩\n\nसेना से देश सेवा के बाद अब जीतेंद्र मिश्रा संभालेंगे राम मंदिर की कमान। ट्रस्ट के मैनेजमेंट को मजबूत करने के लिए यह फैसला लिया गया है।\n\nआपकी इस पर क्या राय है? कॉमेंट में जरूर बताएं और वीडियो शेयर करें।\n\n#RamMandir #Ayodhya #RamMandirTrust #JitendraMishra #AyodhyaNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788841041349_pdm4qt88_ram_mandir_trust_appoints_ex_air_marshal_ceo.mp4",
+                "_id": "6a9f8c54bc1c4925fafa6db6"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFvsrQJ&_nc_oc=AdqL1SkH0sYKS6hZCC-k8LYefMwvYr2T2q_P0o5SSezPusDH3-upeUmabaJORtko5bA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GUg9tfa6Fzlrz_cZ85APEg&_nc_tpa=Q5bMBQLEYvtVA5yHSyIwIK0nWQJknzYER_upo9nj-KgrZxwCMeHljtiHcexVxoCcFXbZadFRwY_ACTCxeQ&oh=00_AQKt4p5sjgBxualE7IYhy6mPkmQuW2oh6JK9jGd-YRTpOg&oe=6AA401BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:17:23.863Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "23d8f82fb8ddb365779fac7ef7c1c143",
+                "_id": "6a9f8c54bc1c4925fafa6db7"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:17:23.863Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:17:24.978Z",
+            "updatedAt": "2026-09-08T04:17:26.980Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:17:25.048Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:17:27.293729+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "baghpat_expressway_pickup_truck_accident_deaths",
+    "virality_score": 8,
+    "reason": "Devastating multi-fatality road accident on the Eastern Peripheral Expressway involving returning pilgrims.",
+    "region": "india",
+    "headline": "यूपी के बागपत में ईस्टर्न पेरीफेरल एक्सप्रेसवे पर भीषण हादसा, बदायूं के 13 लोगों की मौत",
+    "source_summary": "बागपत के ईस्टर्न पेरीफेरल एक्सप्रेसवे पर पिकअप हादसे में बदायूं के 13 श्रद्धालुओं की मौत हो गई. 20 से ज्यादा लोग घायल हैं, जिनका इलाज चल रहा है.",
+    "source_url": "https://ndtv.in/uttar-pradesh-news/baghpat-road-accident-eastern-peripheral-expressway-many-killed-injured-budaun-12015638#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 08 Sep 2026 07:12:01 +0530",
+    "hook": "उत्तर प्रदेश के बागपत में भीषण सड़क हादसा! ईस्टर्न पेरीफेरल एक्सप्रेसवे पर तेरह लोगों की मौत।",
+    "script_hi": "उत्तर प्रदेश के बागपत में ईस्टर्न पेरीफेरल एक्सप्रेसवे पर एक भीषण सड़क हादसा हो गया। इस दर्दनाक हादसे में बदायूं के तेरह श्रद्धालुओं की मौके पर ही मौत हो गई। हादसे में बीस से ज्यादा लोग गंभीर रूप से घायल बताए जा रहे हैं, जिनका अस्पताल में इलाज चल रहा है। यह पिकअप गाड़ी हादसे का शिकार हुई थी।",
+    "tts_text_hi": "उत्तर प्रदेश के बागपत में ईस्टर्न पेरीफेरल एक्सप्रेसवे पर एक भीषण सड़क हादसा हो गया। इस दर्दनाक हादसे में बदायूं के तेरह श्रद्धालुओं की मौके पर ही मौत हो गई। हादसे में बीस से ज्यादा लोग गंभीर रूप से घायल बताए जा रहे हैं, जिनका अस्पताल में इलाज चल रहा है। यह पिकअप गाड़ी हादसे का शिकार हुई थी।",
+    "title": "बागपत में भीषण सड़क हादसा, तेरह की मौत",
+    "caption": "उत्तर प्रदेश के बागपत में ईस्टर्न पेरीफेरल एक्सप्रेसवे पर हुए भीषण सड़क हादसे में बदायूं के तेरह श्रद्धालुओं की मौत हो गई, जबकि बीस से अधिक लोग घायल हैं।",
+    "hashtags": [
+      "BaghpatAccident",
+      "UttarPradeshNews",
+      "EasternPeripheralExpressway",
+      "RoadAccident",
+      "BreakingNews",
+      "BudaunNews"
+    ],
+    "visual_queries": [
+      "accident scene highway India",
+      "damaged pickup truck India",
+      "ambulance emergency India",
+      "hospital medical treatment India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "highway traffic accident India",
+        "credit": "Aleksandar Rasic",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30448523/pexels-photo-30448523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "damaged pickup truck India",
+        "credit": "Alex Quezada",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance emergency India",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31499386/pexels-photo-31499386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital medical treatment India",
+        "credit": "Adarsh Mp",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बागपत में दर्दनाक हादसा: एक्सप्रेसवे पर 13 लोगों की मौत 🚨",
+        "caption": "ईस्टर्न पेरीफेरल एक्सप्रेसवे पर पलक झपकते ही उजड़ गए 13 परिवार! 🛑\n\nबदायूं से आ रही एक तेज रफ्तार गाड़ी खड़े ट्रक से जा टकराई। इस भीषण टक्कर में मौके पर ही 13 लोगों की जान चली गई, जिससे पूरे इलाके में कोहराम मच गया है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#BaghpatAccident #BudaunNews #EasternPeripheralExpressway #RoadSafety #UPNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ईस्टर्न पेरीफेरल एक्सप्रेसवे पर पलक झपकते ही उजड़ गए 13 परिवार! 🛑\n\nबदायूं से आ रही एक गाड़ी खड़े ट्रक से जा टकराई, जिससे मौके पर ही 13 लोगों की दर्दनाक मौत हो गई। \n\nये भयानक मंजर देख आपकी भी रूह कांप जाएगी। वीडियो शेयर करें ताकि दूसरों तक सावधानी का संदेश पहुंचे।\n\n#BaghpatAccident #BudaunNews #EasternPeripheralExpressway #RoadSafety #UPNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के बागपत से एक दिल दहला देने वाली खबर सामने आई है। ईस्टर्न पेरीफेरल एक्सप्रेसवे पर हुए एक भीषण सड़क हादसे में 13 लोगों की मौत हो गई है। 🛑\n\nजानकारी के मुताबिक, बदायूं के रहने वाले ये लोग सफर कर रहे थे तभी इनकी गाड़ी एक खड़े हुए ट्रक से जा भिड़ी। टक्कर इतनी जबरदस्त थी कि संभलने का मौका तक नहीं मिला। \n\nप्रशासन मौके पर राहत और बचाव कार्य में जुटा है। पूरी जानकारी के लिए वीडियो देखें और अपनी यात्रा के दौरान सतर्क रहें।\n\n#BaghpatAccident #BudaunNews #EasternPeripheralExpressway #RoadSafety #UPNews"
+      },
+      "hashtags": [
+        "BaghpatAccident",
+        "BudaunNews",
+        "EasternPeripheralExpressway",
+        "RoadSafety",
+        "UPNews"
+      ]
+    },
+    "audio_path": "audio/baghpat_expressway_pickup_truck_accident_deaths.wav",
+    "audio_duration_sec": 21.99,
+    "video_path": "videos/baghpat_expressway_pickup_truck_accident_deaths.mp4",
+    "video_duration_sec": 29.89,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-08T04:21:19.466721+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8d62098269bafe540d43",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश के बागपत से एक दिल दहला देने वाली खबर सामने आई है। ईस्टर्न पेरीफेरल एक्सप्रेसवे पर हुए एक भीषण सड़क हादसे में 13 लोगों की मौत हो गई है। 🛑\n\nजानकारी के मुताबिक, बदायूं के रहने वाले ये लोग सफर कर रहे थे तभी इनकी गाड़ी एक खड़े हुए ट्रक से जा भिड़ी। टक्कर इतनी जबरदस्त थी कि संभलने का मौका तक नहीं मिला। \n\nप्रशासन मौके पर राहत और बचाव कार्य में जुटा है। पूरी जानकारी के लिए वीडियो देखें और अपनी यात्रा के दौरान सतर्क रहें।\n\n#BaghpatAccident #BudaunNews #EasternPeripheralExpressway #RoadSafety #UPNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788841311980_i7q61bc5_baghpat_expressway_pickup_truck_accident_deaths.mp4",
+                "_id": "6a9f8d62098269bafe540d44"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwFAyve7&_nc_oc=AdrHhKTk6aw5jhaVJAqX67tOyaFmxKiFfGbOkAtPgJD4xJ69drEFe0eyi9xJMbrkBzI&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=cgzlfWgd2gY99qI6tzenUQ&_nc_tpa=Q5bMBQKZSCulxPY5vitiFJSl6tkifCsn7W_41XrteycYZd4gbUI7O5haRG1c0w1g4XRG4DK4pXXi7zaR&oh=00_AQIWyHpfSyx9eJTfWmGDs9ptqifovlA28h-LME1fs3QD0w&oe=6AA40E14",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:21:53.730Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "e33df46d2a9cb5daf1e5ad8a7321a252",
+                "_id": "6a9f8d62098269bafe540d45",
+                "platformPostId": "1804636334223299",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1804636334223299",
+                "publishedAt": "2026-09-08T04:22:00.081Z"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:21:53.730Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:21:54.375Z",
+            "updatedAt": "2026-09-08T04:22:00.162Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:21:54.453Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:22:00.358605+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6a9f8d7a098269bafe5414cd",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "ईस्टर्न पेरीफेरल एक्सप्रेसवे पर पलक झपकते ही उजड़ गए 13 परिवार! 🛑\n\nबदायूं से आ रही एक गाड़ी खड़े ट्रक से जा टकराई, जिससे मौके पर ही 13 लोगों की दर्दनाक मौत हो गई। \n\nये भयानक मंजर देख आपकी भी रूह कांप जाएगी। वीडियो शेयर करें ताकि दूसरों तक सावधानी का संदेश पहुंचे।\n\n#BaghpatAccident #BudaunNews #EasternPeripheralExpressway #RoadSafety #UPNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788841336525_z8pciwwu_baghpat_expressway_pickup_truck_accident_deaths.mp4",
+                "_id": "6a9f8d7a098269bafe5414ce"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFvsrQJ&_nc_oc=AdqL1SkH0sYKS6hZCC-k8LYefMwvYr2T2q_P0o5SSezPusDH3-upeUmabaJORtko5bA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GUg9tfa6Fzlrz_cZ85APEg&_nc_tpa=Q5bMBQLEYvtVA5yHSyIwIK0nWQJknzYER_upo9nj-KgrZxwCMeHljtiHcexVxoCcFXbZadFRwY_ACTCxeQ&oh=00_AQKt4p5sjgBxualE7IYhy6mPkmQuW2oh6JK9jGd-YRTpOg&oe=6AA401BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-08T04:22:17.987Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "5249a76f3ce054e7a4bd1d3244a2cc3e",
+                "_id": "6a9f8d7a098269bafe5414cf"
+              }
+            ],
+            "scheduledFor": "2026-09-08T04:22:17.987Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-08T04:22:18.592Z",
+            "updatedAt": "2026-09-08T04:22:20.083Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-08T04:22:18.658Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-08T04:22:20.406406+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gwalior_bangladeshi_infiltrators_fake_passports",
+    "virality_score": 8,
+    "reason": "Intriguing security breach exposing a ring of illegal immigrants obtaining multiple fake passports from a single address.",
+    "region": "india",
+    "headline": "ग्वालियर में बांग्लादेशी घुसपैठियों ने एक ही पते पर बनवाए 20 पासपोर्ट, बौद्ध अनुयायी बनकर घूम आए कई देश",
+    "source_summary": "बांग्लादेश छोड़कर भारत आए घुसपैठियों ने पहले फर्जी दस्‍तावेज बनवाए और फिर आधार कार्ड लेकर पासपोर्ट तक बनवा लिया. जिससे उन्‍होंने चीन और मलेशिया समेत कई देशों की यात्रा की. ग्‍वालियर के डबरा से इस पूरे मामले का खुलासा हुआ है.",
+    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/gwalior-dabra-fake-passport-racket-bangladeshi-infiltrators-stf-arrest-12015056#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 07 Sep 2026 23:19:49 +0530",
+    "hook": "ग्वालियर में बांग्लादेशी घुसपैठियों का बड़ा फर्जीवाड़ा!",
+    "script_hi": "ग्वालियर के डबरा से एक चौंकाने वाला मामला सामने आया है, जहाँ बांग्लादेशी घुसपैठियों ने फर्जी दस्तावेजों के सहारे एक ही पते पर बीस पासपोर्ट बनवा लिए। ये लोग बौद्ध अनुयायी बनकर चीन और मलेशिया समेत कई देशों की यात्रा भी कर चुके हैं। पुलिस अब इस पूरे रैकेट की जाँच कर रही है।",
+    "tts_text_hi": "ग्वालियर के डबरा से एक चौंकाने वाला मामला सामने आया है, जहाँ बांग्लादेशी घुसपैठियों ने फर्जी दस्तावेजों के सहारे एक ही पते पर बीस पासपोर्ट बनवा लिए। ये लोग बौद्ध अनुयायी बनकर चीन और मलेशिया समेत कई देशों की यात्रा भी कर चुके हैं। पुलिस अब इस पूरे रैकेट की जाँच कर रही है।",
+    "title": "ग्वालियर में बांग्लादेशी घुसपैठियों का फर्जी पासपोर्ट भंडाफोड़",
+    "caption": "ग्वालियर के डबरा में बांग्लादेशी घुसपैठियों ने फर्जी दस्तावेजों के आधार पर एक ही पते पर बीस पासपोर्ट बनवाए और कई देशों की यात्रा की।",
+    "hashtags": [
+      "GwaliorNews",
+      "BreakingNews",
+      "PassportFraud",
+      "IndiaNews",
+      "CrimeNews"
+    ],
+    "visual_queries": [
       "Indian police station building",
-      "India court and legal files",
+      "Gwalior street India",
+      "Indian passport document",
       "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of the incident ('स्कूटर से बांधकर घसीटने का VIDEO वायरल') which generic stock footage cannot replace; real footage needs to be added manually.",
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7010560/7010560-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian passport document",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 18,
+        "duration_sec": 6
+      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
@@ -53,120 +1092,46 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37100690/pexels-photo-37100690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17802056/pexels-photo-17802056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India court and legal files",
-        "credit": "Fidan Nazim qizi",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "delhi_building_safety_rules_mcd",
-    "virality_score": 8,
-    "reason": "High public interest on building safety regulations following the Satya Niketan tragedy.",
-    "region": "india",
-    "headline": "Delhi Building Rules: मकान बनाने से पहले जानें ये नियम",
-    "source_summary": "दिल्ली में मकान बनाने के लिए MPD-2021 और UBBL-2016 के नियम लागू होते हैं. FAR, ग्राउंड कवरेज, सेटबैक, बिल्डिंग हाइट, पार्किंग और फायर सेफ्टी का पालन जरूरी है. जानें प्लॉट के हिसाब से निर्माण की सीमा, बेसमेंट-स्टिल्ट के नियम और MPD-2041 की स्थिति. MPD-2041 अभी ड्राफ्ट है, इसलिए मौजूदा निर्माण मामलों में MPD-2021 और लागू नियमों को देखना जरूरी है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/delhi-building-rules-mpd-2021-far-setback-parking-ubbl-satya-niketan-incident-details-mmtm-2638242-2026-09-07?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-07T17:22:37+05:30",
-    "hook": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम!",
-    "script_hi": "दिल्ली में मकान बनाने के लिए मास्टर प्लान दिल्ली दो हजार इक्कीस और यूनिफाइड बिल्डिंग बायलॉज दो हजार सोलह के नियम लागू होते हैं। फ्लोर एरिया रेशियो, ग्राउंड कवरेज, सेटबैक, बिल्डिंग की ऊंचाई, पार्किंग और फायर सेफ्टी का पालन करना जरूरी है। प्लॉट के हिसाब से निर्माण की सीमा, बेसमेंट और स्टिल्ट के नियम जान लें। मास्टर प्लान दिल्ली दो हजार इकतालीस अभी ड्राफ्ट है, इसलिए मौजूदा मामलों में पुराने नियम ही देखने होंगे।",
-    "tts_text_hi": "दिल्ली में मकान बनाने के लिए मास्टर प्लान दिल्ली दो हजार इक्कीस और यूनिफाइड बिल्डिंग बायलॉज दो हजार सोलह के नियम लागू होते हैं। फ्लोर एरिया रेशियो, ग्राउंड कवरेज, सेटबैक, बिल्डिंग की ऊंचाई, पार्किंग और फायर सेफ्टी का पालन करना जरूरी है। प्लॉट के हिसाब से निर्माण की सीमा, बेसमेंट और स्टिल्ट के नियम जान लें। मास्टर प्लान दिल्ली दो हजार इकतालीस अभी ड्राफ्ट है, इसलिए मौजूदा मामलों में पुराने नियम ही देखने होंगे।",
-    "title": "Delhi Building Rules: मकान बनाने से पहले जानें ये नियम",
-    "caption": "दिल्ली में मकान बनवाने की सोच रहे हैं? जान लीजिए MPD-2021 और UBBL-2016 के जरूरी नियम, वरना हो सकती है कार्रवाई।",
-    "hashtags": [
-      "DelhiNews",
-      "DelhiBuildingRules",
-      "RealEstate",
-      "MPD2021",
-      "DelhiNCR",
-      "PropertyNews"
-    ],
-    "visual_queries": [
-      "New Delhi urban cityscape India",
-      "Indian residential building construction",
-      "architectural blueprints India",
-      "modern apartment parking India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6473961/6473961-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "architectural blueprints India",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 28,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9672446/pexels-photo-9672446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi urban cityscape India",
-        "credit": "Navneet Dholariya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24030126/pexels-photo-24030126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian residential building construction",
-        "credit": "Ajay Sangle",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34698803/pexels-photo-34698803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern apartment parking India",
-        "credit": "Ram kumar",
+        "query": "Gwalior street India",
+        "credit": "Ranjeet  Chauhan",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 22,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! 🏠 MCD Rules",
-        "caption": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! 🛑\n\nअगर आप भी राजधानी में घर बनवाने या रिनोवेट करवाने की सोच रहे हैं, तो MCD के इन नए नियमों को नजरअंदाज करना आपको भारी पड़ सकता है। नक्शा पास करवाने से लेकर ऊंचाई तक, हर बात के लिए सख्त गाइडलाइन्स जारी हुई हैं।\n\nवीडियो में देखिए क्या हैं ये नए बदलाव। पूरी कहानी देखें! 👇\n\n#DelhiBuildingRules #MCDBylaws #DelhiNews #HomeConstruction #DelhiUpdates"
+        "title": "एक ही पते पर 20 पासपोर्ट! ग्वालियर में बांग्लादेशी घुसपैठियों का भंडाफोड़ 🚨",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया! 🤯\n\nग्वालियर में बांग्लादेशी घुसपैठियों ने फर्जीवाड़ा कर एक ही पते पर 20 पासपोर्ट बनवा लिए। हैरानी की बात ये है कि ये लोग बौद्ध अनुयायी बनकर कई देशों की यात्रा भी कर आए। \n\nपूरी कहानी देखें और बताएं कि ऐसे लोगों पर कितनी सख्त कार्रवाई होनी चाहिए?\n\n#GwaliorNews #BangladeshiInfiltrators #PassportFraud #MadhyaPradeshPolice #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! ⚠️\n\nबिल्डिंग बायलॉज में हुए इन बदलावों को नहीं जाना तो भारी जुर्माना लग सकता है। शेयर कीजिए उन लोगों के साथ जो घर बनवाने की सोच रहे हैं। 🏠\n\n#DelhiBuildingRules #MCDBylaws #DelhiNews #HomeConstruction #DelhiUpdates"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया! 🤯\n\nग्वालियर में बांग्लादेशी घुसपैठियों ने फर्जीवाड़ा कर एक ही पते पर 20 पासपोर्ट बनवा लिए। बौद्ध अनुयायी बनकर ये लोग कई देशों की यात्रा भी घूम आए। \n\nये खेल कैसे चल रहा था? पूरी सच्चाई वीडियो में देखिए। 🔍\n\n#GwaliorNews #BangladeshiInfiltrators #PassportFraud #MadhyaPradeshPolice #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! 🏗️\n\nराजधानी में घर बनाने के नियमों में बड़े बदलाव किए गए हैं। जरा सी लापरवाही पर भारी एक्शन हो सकता है और आपका नक्शा तक रद्द किया जा सकता है। मकान बनवाने से पहले पूरी जानकारी यहां जरूर देखें।\n\n#DelhiBuildingRules #MCDBylaws #DelhiNews #HomeConstruction #DelhiUpdates"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया! 🤯\n\nमध्य प्रदेश के ग्वालियर में एक ऐसा फर्जीवाड़ा सामने आया है जिसने सुरक्षा एजेंसियों के होश उड़ा दिए हैं। कुछ बांग्लादेशी घुसपैठियों ने एक ही पते पर 20 पासपोर्ट बनवा लिए और बौद्ध अनुयायी बनकर कई देशों की यात्रा भी कर आए। \n\nदेश की सुरक्षा के साथ ऐसा खिलवाड़ कैसे मुमकिन हुआ? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें। 👇\n\n#GwaliorNews #BangladeshiInfiltrators #PassportFraud #MadhyaPradeshPolice #CrimeNews"
       },
       "hashtags": [
-        "DelhiBuildingRules",
-        "MCDBylaws",
-        "DelhiNews",
-        "HomeConstruction",
-        "DelhiUpdates"
+        "GwaliorNews",
+        "BangladeshiInfiltrators",
+        "PassportFraud",
+        "MadhyaPradeshPolice",
+        "CrimeNews"
       ]
     },
-    "audio_path": "audio/delhi_building_safety_rules_mcd.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/delhi_building_safety_rules_mcd.mp4",
-    "video_duration_sec": 38.26,
+    "audio_path": "audio/gwalior_bangladeshi_infiltrators_fake_passports.wav",
+    "audio_duration_sec": 21.42,
+    "video_path": "videos/gwalior_bangladeshi_infiltrators_fake_passports.mp4",
+    "video_duration_sec": 29.42,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-07T15:02:20.236101+00:00"
+        "attempted_at": "2026-09-08T04:27:42.596193+00:00"
       },
       "facebook": {
         "success": true,
@@ -179,15 +1144,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9ed215050d700111a8e15a",
+            "_id": "6a9f8ed53950c70ac005926f",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! 🏗️\n\nराजधानी में घर बनाने के नियमों में बड़े बदलाव किए गए हैं। जरा सी लापरवाही पर भारी एक्शन हो सकता है और आपका नक्शा तक रद्द किया जा सकता है। मकान बनवाने से पहले पूरी जानकारी यहां जरूर देखें।\n\n#DelhiBuildingRules #MCDBylaws #DelhiNews #HomeConstruction #DelhiUpdates",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया! 🤯\n\nमध्य प्रदेश के ग्वालियर में एक ऐसा फर्जीवाड़ा सामने आया है जिसने सुरक्षा एजेंसियों के होश उड़ा दिए हैं। कुछ बांग्लादेशी घुसपैठियों ने एक ही पते पर 20 पासपोर्ट बनवा लिए और बौद्ध अनुयायी बनकर कई देशों की यात्रा भी कर आए। \n\nदेश की सुरक्षा के साथ ऐसा खिलवाड़ कैसे मुमकिन हुआ? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें। 👇\n\n#GwaliorNews #BangladeshiInfiltrators #PassportFraud #MadhyaPradeshPolice #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788793363392_6mmt9ej9_delhi_building_safety_rules_mcd.mp4",
-                "_id": "6a9ed215050d700111a8e15b"
+                "url": "https://media.zernio.com/media/1788841683906_m4lqyivr_gwalior_bangladeshi_infiltrators_fake_passports.mp4",
+                "_id": "6a9f8ed53950c70ac0059270"
               }
             ],
             "platforms": [
@@ -204,17 +1169,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-07T15:02:44.463Z",
+                "scheduledFor": "2026-09-08T04:28:05.429Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "d10032b66a56db2aeeaf2d508d5736da",
-                "_id": "6a9ed215050d700111a8e15c",
-                "platformPostId": "2593286731134381",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2593286731134381",
-                "publishedAt": "2026-09-07T15:02:52.428Z"
+                "contentHash": "3de743975cbe37e73672b7b5034098ef",
+                "_id": "6a9f8ed53950c70ac0059271",
+                "platformPostId": "1821304862572427",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1821304862572427",
+                "publishedAt": "2026-09-08T04:28:10.208Z"
               }
             ],
-            "scheduledFor": "2026-09-07T15:02:44.463Z",
+            "scheduledFor": "2026-09-08T04:28:05.429Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -226,14 +1191,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:02:45.692Z",
-            "updatedAt": "2026-09-07T15:02:52.519Z",
+            "createdAt": "2026-09-08T04:28:05.963Z",
+            "updatedAt": "2026-09-08T04:28:10.286Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:02:45.756Z"
+            "publishingClaimedAt": "2026-09-08T04:28:06.024Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-07T15:02:52.691334+00:00"
+        "attempted_at": "2026-09-08T04:28:10.452256+00:00"
       },
       "instagram": {
         "success": true,
@@ -246,15 +1211,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9ed22e0fa03a14a78c6601",
+            "_id": "6a9f8ef541cb5552a3a2c080",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "दिल्ली में नया मकान बनवाने से पहले जान लें ये कड़े नियम! ⚠️\n\nबिल्डिंग बायलॉज में हुए इन बदलावों को नहीं जाना तो भारी जुर्माना लग सकता है। शेयर कीजिए उन लोगों के साथ जो घर बनवाने की सोच रहे हैं। 🏠\n\n#DelhiBuildingRules #MCDBylaws #DelhiNews #HomeConstruction #DelhiUpdates",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया! 🤯\n\nग्वालियर में बांग्लादेशी घुसपैठियों ने फर्जीवाड़ा कर एक ही पते पर 20 पासपोर्ट बनवा लिए। बौद्ध अनुयायी बनकर ये लोग कई देशों की यात्रा भी घूम आए। \n\nये खेल कैसे चल रहा था? पूरी सच्चाई वीडियो में देखिए। 🔍\n\n#GwaliorNews #BangladeshiInfiltrators #PassportFraud #MadhyaPradeshPolice #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788793387967_fm187xvs_delhi_building_safety_rules_mcd.mp4",
-                "_id": "6a9ed22e0fa03a14a78c6602"
+                "url": "https://media.zernio.com/media/1788841714693_fef0xmp1_gwalior_bangladeshi_infiltrators_fake_passports.mp4",
+                "_id": "6a9f8ef541cb5552a3a2c081"
               }
             ],
             "platforms": [
@@ -271,14 +1236,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-07T15:03:09.439Z",
+                "scheduledFor": "2026-09-08T04:28:36.112Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "52f2c1486560ca495ee0722f2425aabf",
-                "_id": "6a9ed22e0fa03a14a78c6603"
+                "contentHash": "74e1df34edebc739ed211a57b0fc60b6",
+                "_id": "6a9f8ef541cb5552a3a2c082"
               }
             ],
-            "scheduledFor": "2026-09-07T15:03:09.439Z",
+            "scheduledFor": "2026-09-08T04:28:36.112Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -290,44 +1255,44 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:03:10.977Z",
-            "updatedAt": "2026-09-07T15:03:12.777Z",
+            "createdAt": "2026-09-08T04:28:37.275Z",
+            "updatedAt": "2026-09-08T04:28:38.707Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:03:11.070Z"
+            "publishingClaimedAt": "2026-09-08T04:28:37.331Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-07T15:03:13.196327+00:00"
+        "attempted_at": "2026-09-08T04:28:39.030388+00:00"
       }
     }
   },
   {
-    "topic_label": "indonesia_volcano_eruption_global",
+    "topic_label": "bhopal_junior_doctors_protest_police_action",
     "virality_score": 8,
-    "reason": "Massive global natural disaster affecting thousands of passengers and major airports.",
-    "region": "global",
-    "headline": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-    "source_summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-    "source_url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Mon, 07 Sep 2026 11:50:43 GMT",
-    "hook": "इंडोनेशिया में भयानक ज्वालामुखी विस्फोट!",
-    "script_hi": "इंडोनेशिया में अनाक क्राकातोआ ज्वालामुखी में भयानक विस्फोट हुआ है। इसकी वजह से दो लाख सत्तर हजार लोग फंस गए हैं। जकार्ता के पास स्थित इस ज्वालामुखी के कारण हवाई अड्डों को बंद करना पड़ा है और विमान सेवाएं अनिश्चितकाल के लिए टाल दी गई हैं।",
-    "tts_text_hi": "इंडोनेशिया में अनाक क्राकातोआ ज्वालामुखी में भयानक विस्फोट हुआ है। इसकी वजह से दो लाख सत्तर हजार लोग फंस गए हैं। जकार्ता के पास स्थित इस ज्वालामुखी के कारण हवाई अड्डों को बंद करना पड़ा है और विमान सेवाएं अनिश्चितकाल के लिए टाल दी गई हैं।",
-    "title": "इंडोनेशिया में ज्वालामुखी विस्फोट से दो लाख सत्तर हजार लोग फंसे",
-    "caption": "इंडोनेशिया के अनाक क्राकातोआ ज्वालामुखी में विस्फोट के बाद हालात गंभीर, हवाई अड्डे बंद।",
+    "reason": "High-tension protest footage with police using water cannons against striking junior doctors in Bhopal.",
+    "region": "india",
+    "headline": "भोपाल में जूनियर डॉक्टरों पर पुलिस ने चलाईं लाठियां और वाटर कैनन, भड़के JUDA ने किया ओपीडी और ओटी सेवाएं बंद करने का ऐलान",
+    "source_summary": "Bhopal Doctor Protest: भोपाल के गांधी मेडिकल कॉलेज के इंटर्न डॉक्टरों ने स्टाइपेंड 14,337 रुपये से बढ़ाकर 30,000 रुपये करने की मांग को लेकर मुख्यमंत्री निवास की ओर मार्च किया। हमीदिया अस्पताल के पास पुलिस ने प्रदर्शनकारियों को रोकने के लिए वाटर कैनन और लाठीचार्ज का इस्तेमाल किया, जिसमें चार डॉक्टर गंभीर रूप से घायल हो गए।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/junior-doctor-protest-stipend-demand-police-action-hamidia-hospital-bhopal/articleshow/133903475.cms",
+    "source_name": "Navbharat Times",
+    "published": "Tue, 08 Sep 2026 08:13:00 +0530",
+    "hook": "भोपाल में डॉक्टरों पर पुलिसिया लाठीचार्ज!",
+    "script_hi": "भोपाल में स्टाइपेंड बढ़ाने की मांग कर रहे जूनियर डॉक्टरों पर पुलिस ने लाठियां और वाटर कैनन चलाईं। गांधी मेडिकल कॉलेज के इंटर्न डॉक्टर मुख्यमंत्री निवास की ओर मार्च कर रहे थे। हमीदिया अस्पताल के पास हुई इस कार्रवाई में चार डॉक्टर गंभीर रूप से घायल हो गए। इस घटना से भड़के जूड़ा ने ओपीडी और ओटी सेवाएं पूरी तरह बंद करने का ऐलान कर दिया है.",
+    "tts_text_hi": "भोपाल में स्टाइपेंड बढ़ाने की मांग कर रहे जूनियर डॉक्टरों पर पुलिस ने लाठियां और वाटर कैनन चलाईं। गांधी मेडिकल कॉलेज के इंटर्न डॉक्टर मुख्यमंत्री निवास की ओर मार्च कर रहे थे। हमीदिया अस्पताल के पास हुई इस कार्रवाई में चार डॉक्टर गंभीर रूप से घायल हो गए। इस घटना से भड़के जूड़ा ने ओपीडी और ओटी सेवाएं पूरी तरह बंद करने का ऐलान कर दिया है.",
+    "title": "भोपाल में जूनियर डॉक्टरों पर लाठीचार्ज, सेवाएं बंद",
+    "caption": "भोपाल में स्टाइपेंड बढ़ाने की मांग को लेकर प्रदर्शन कर रहे जूनियर डॉक्टरों पर पुलिस ने लाठीचार्ज किया और वाटर कैनन का इस्तेमाल किया।",
     "hashtags": [
-      "Indonesia",
-      "Volcano",
-      "BreakingNews",
-      "Krakatau",
-      "NewsUpdate"
+      "BhopalProtest",
+      "JuniorDoctors",
+      "MadhyaPradesh",
+      "BhopalNews",
+      "DoctorStrike"
     ],
     "visual_queries": [
-      "volcano eruption smoke",
-      "volcano ash cloud",
-      "closed airport terminal",
-      "stranded travelers airport"
+      "Gandhi Medical College Bhopal building India",
+      "police barricade India street",
+      "police water cannon India",
+      "injured person hospital India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -338,34 +1303,34 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17404101/pexels-photo-17404101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38319032/pexels-photo-38319032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "volcano eruption smoke",
-        "credit": "Israel Torres",
+        "query": "Gandhi Medical College Bhopal building India",
+        "credit": "Shlok",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35036743/pexels-photo-35036743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10859264/pexels-photo-10859264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "volcano ash cloud",
-        "credit": "Luis Arroyave",
+        "query": "police barricade India street",
+        "credit": "Ian Probets",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3892808/pexels-photo-3892808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "closed airport terminal",
-        "credit": "Luis Quintero",
+        "query": "police water cannon India",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13471768/pexels-photo-13471768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5721552/pexels-photo-5721552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "stranded travelers airport",
-        "credit": "fajri nugroho",
+        "query": "injured person hospital India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
@@ -374,34 +1339,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "इंडोनेशिया में ज्वालामुखी विस्फोट! 2.70 लाख लोग फंसे 🌋",
-        "caption": "2,70,000 लोग एयरपोर्ट्स पर फंसे और आसमान में छा गया खतरनाक धुएं का गुबार! 🌋\n\nइंडोनेशिया में भयानक ज्वालामुखी फटने के बाद हालात बेकाबू हो गए हैं। कई उड़ानों को अनिश्चितकाल के लिए रद्द करना पड़ा है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #WorldNews #NaturalDisaster"
+        "title": "भोपाल में डॉक्टरों पर पुलिसिया लाठीचार्ज! JUDA का बड़ा ऐलान | #shorts",
+        "caption": "डॉक्टरों पर पुलिस ने बरसाईं लाठियां और वाटर कैनन! भोपाल में जूनियर डॉक्टरों पर हुए लाठीचार्ज के बाद हालात बेकाबू हो गए हैं। गुस्से में आए JUDA ने अब ओपीडी और ओटी सेवाएं पूरी तरह बंद करने का बड़ा ऐलान कर दिया है। \n\nक्या डॉक्टरों का यह कदम सही है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#BhopalNews #JuniorDoctors #MadhyaPradesh #BhopalPolice #MedicalNews"
       },
       "instagram": {
         "title": null,
-        "caption": "2,70,000 लोग फंसे और सब कुछ थम गया! 🌋\n\nइंडोनेशिया में हुए इस भीषण ज्वालामुखी विस्फोट ने तबाही मचा दी है। एयरपोर्ट्स बंद होने से हजारों यात्री दर-दर भटकने को मजबूर हैं।\n\nक्या आपने कभी ऐसी प्राकृतिक आपदा के बारे में सुना है? शेयर करें इस रील को।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #WorldNews #NaturalDisaster"
+        "caption": "भोपाल में डॉक्टरों पर पुलिसिया लाठीचार्ज! 🚨 खाकी ने जूनियर डॉक्टरों पर बरसाईं लाठियां और वाटर कैनन, जिसके बाद मेडिकल महकमे में भूचाल आ गया है। गुस्से में JUDA ने ओपीडी और ओटी सेवाएं बंद करने का ऐलान कर दिया है। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#BhopalNews #JuniorDoctors #MadhyaPradesh #BhopalPolice #MedicalNews"
       },
       "facebook": {
         "title": null,
-        "caption": "जब आसमान से बरसने लगी राख, तो थम गई ढाई लाख से ज्यादा जिंदगियां। 🌋\n\nइंडोनेशिया में भयानक ज्वालामुखी विस्फोट के बाद लगातार एयरपोर्ट्स बंद किए जा रहे हैं और 2,70,000 से ज्यादा लोग बुरी तरह फंस चुके हैं। प्रशासन हालात पर काबू पाने की कोशिश में जुटा है।\n\nवीडियो देखकर जानिए क्या है वहां का ताजा हाल।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #WorldNews #NaturalDisaster"
+        "caption": "भोपाल में जूनियर डॉक्टरों पर पुलिसिया लाठीचार्ज और वाटर कैनन के इस्तेमाल के बाद माहौल पूरी तरह गर्मा गया है। प्रदर्शन के दौरान हालात ऐसे बिगड़े कि पुलिस को सख्ती करनी पड़ी, लेकिन इसके जवाब में जूनियर डॉक्टर एसोसिएशन (JUDA) ने ओपीडी और ओटी सेवाएं अनिश्चितकाल के लिए बंद करने का बड़ा ऐलान कर दिया है। इस टकराव से मरीजों की मुश्किलें बढ़ सकती हैं। \n\nपूरी खबर देखिए और बताइए, इस स्थिति का जिम्मेदार कौन है?\n\n#BhopalNews #JuniorDoctors #MadhyaPradesh #BhopalPolice #MedicalNews"
       },
       "hashtags": [
-        "IndonesiaVolcano",
-        "VolcanicEruption",
-        "BreakingNews",
-        "WorldNews",
-        "NaturalDisaster"
+        "BhopalNews",
+        "JuniorDoctors",
+        "MadhyaPradesh",
+        "BhopalPolice",
+        "MedicalNews"
       ]
     },
-    "audio_path": "audio/indonesia_volcano_eruption_global.wav",
-    "audio_duration_sec": 17.8,
-    "video_path": "videos/indonesia_volcano_eruption_global.mp4",
-    "video_duration_sec": 25.76,
+    "audio_path": "audio/bhopal_junior_doctors_protest_police_action.wav",
+    "audio_duration_sec": 24.04,
+    "video_path": "videos/bhopal_junior_doctors_protest_police_action.mp4",
+    "video_duration_sec": 32.02,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-07T15:07:01.327419+00:00"
+        "attempted_at": "2026-09-08T04:32:34.211472+00:00"
       },
       "facebook": {
         "success": true,
@@ -414,15 +1379,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9ed32711d5436de40171fb",
+            "_id": "6a9f8ff33bddc0067a117c07",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "जब आसमान से बरसने लगी राख, तो थम गई ढाई लाख से ज्यादा जिंदगियां। 🌋\n\nइंडोनेशिया में भयानक ज्वालामुखी विस्फोट के बाद लगातार एयरपोर्ट्स बंद किए जा रहे हैं और 2,70,000 से ज्यादा लोग बुरी तरह फंस चुके हैं। प्रशासन हालात पर काबू पाने की कोशिश में जुटा है।\n\nवीडियो देखकर जानिए क्या है वहां का ताजा हाल।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #WorldNews #NaturalDisaster",
+            "content": "भोपाल में जूनियर डॉक्टरों पर पुलिसिया लाठीचार्ज और वाटर कैनन के इस्तेमाल के बाद माहौल पूरी तरह गर्मा गया है। प्रदर्शन के दौरान हालात ऐसे बिगड़े कि पुलिस को सख्ती करनी पड़ी, लेकिन इसके जवाब में जूनियर डॉक्टर एसोसिएशन (JUDA) ने ओपीडी और ओटी सेवाएं अनिश्चितकाल के लिए बंद करने का बड़ा ऐलान कर दिया है। इस टकराव से मरीजों की मुश्किलें बढ़ सकती हैं। \n\nपूरी खबर देखिए और बताइए, इस स्थिति का जिम्मेदार कौन है?\n\n#BhopalNews #JuniorDoctors #MadhyaPradesh #BhopalPolice #MedicalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788793637541_dtgknvoi_indonesia_volcano_eruption_global.mp4",
-                "_id": "6a9ed32711d5436de40171fc"
+                "url": "https://media.zernio.com/media/1788841969497_so5kntxh_bhopal_junior_doctors_protest_police_action.mp4",
+                "_id": "6a9f8ff33bddc0067a117c08"
               }
             ],
             "platforms": [
@@ -439,17 +1404,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-07T15:07:18.444Z",
+                "scheduledFor": "2026-09-08T04:32:50.739Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "c3430105d35d6969254b78dd9beb81cd",
-                "_id": "6a9ed32711d5436de40171fd",
-                "platformPostId": "1119468400738370",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1119468400738370",
-                "publishedAt": "2026-09-07T15:07:24.970Z"
+                "contentHash": "526ce781adba0b497839da7c9ae27631",
+                "_id": "6a9f8ff33bddc0067a117c09",
+                "platformPostId": "1059782473686817",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1059782473686817",
+                "publishedAt": "2026-09-08T04:32:55.500Z"
               }
             ],
-            "scheduledFor": "2026-09-07T15:07:18.444Z",
+            "scheduledFor": "2026-09-08T04:32:50.739Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -461,14 +1426,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:07:19.133Z",
-            "updatedAt": "2026-09-07T15:07:25.113Z",
+            "createdAt": "2026-09-08T04:32:51.295Z",
+            "updatedAt": "2026-09-08T04:32:55.668Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:07:19.214Z"
+            "publishingClaimedAt": "2026-09-08T04:32:51.356Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-07T15:07:25.302008+00:00"
+        "attempted_at": "2026-09-08T04:32:56.132583+00:00"
       },
       "instagram": {
         "success": true,
@@ -481,15 +1446,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6a9ed345da9d9c9bcb34e8e3",
+            "_id": "6a9f90103bddc0067a1183ef",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "2,70,000 लोग फंसे और सब कुछ थम गया! 🌋\n\nइंडोनेशिया में हुए इस भीषण ज्वालामुखी विस्फोट ने तबाही मचा दी है। एयरपोर्ट्स बंद होने से हजारों यात्री दर-दर भटकने को मजबूर हैं।\n\nक्या आपने कभी ऐसी प्राकृतिक आपदा के बारे में सुना है? शेयर करें इस रील को।\n\n#IndonesiaVolcano #VolcanicEruption #BreakingNews #WorldNews #NaturalDisaster",
+            "content": "भोपाल में डॉक्टरों पर पुलिसिया लाठीचार्ज! 🚨 खाकी ने जूनियर डॉक्टरों पर बरसाईं लाठियां और वाटर कैनन, जिसके बाद मेडिकल महकमे में भूचाल आ गया है। गुस्से में JUDA ने ओपीडी और ओटी सेवाएं बंद करने का ऐलान कर दिया है। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#BhopalNews #JuniorDoctors #MadhyaPradesh #BhopalPolice #MedicalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788793667494_w9eh9bp0_indonesia_volcano_eruption_global.mp4",
-                "_id": "6a9ed345da9d9c9bcb34e8e4"
+                "url": "https://media.zernio.com/media/1788841998349_as5tqlgt_bhopal_junior_doctors_protest_police_action.mp4",
+                "_id": "6a9f90103bddc0067a1183f0"
               }
             ],
             "platforms": [
@@ -506,14 +1471,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-07T15:07:48.718Z",
+                "scheduledFor": "2026-09-08T04:33:19.704Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "b0ece0c354bdc64bd30abf9688962570",
-                "_id": "6a9ed345da9d9c9bcb34e8e5"
+                "contentHash": "ecc8051cc2f2aa9c014864eca7d7cd0d",
+                "_id": "6a9f90103bddc0067a1183f1"
               }
             ],
-            "scheduledFor": "2026-09-07T15:07:48.718Z",
+            "scheduledFor": "2026-09-08T04:33:19.704Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -525,338 +1490,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:07:49.642Z",
-            "updatedAt": "2026-09-07T15:07:51.343Z",
+            "createdAt": "2026-09-08T04:33:20.392Z",
+            "updatedAt": "2026-09-08T04:33:21.777Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:07:49.723Z"
+            "publishingClaimedAt": "2026-09-08T04:33:20.454Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-07T15:07:51.654983+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "hardik_pandya_ameesha_patel_viral_video",
-    "virality_score": 8,
-    "reason": "Celebrity gossip involving cricketer Hardik Pandya and actress Ameesha Patel generating massive online buzz.",
-    "region": "india",
-    "headline": "हार्दिक पंड्या और अमीषा पटेल के वीडियो पर मचा बवाल",
-    "source_summary": "हार्दिक पंड्या और अमीषा पटेल का एक पार्टी वीडियो सामने आने के बाद सोशल मीडिया पर उनके रिश्ते को लेकर अटकलें लगने लगीं। अमीषा ने ट्रोल्स की टिप्पणियों पर जवाब देते हुए कहा कि वीडियो को रोमांटिक रंग देने से पहले लोगों को सोच-समझकर पोस्ट करना चाहिए।",
-    "source_url": "https://www.aajtak.in/short-videos/video/ameesha-patel-hardik-pandya-dating-rumours-actress-reaction-viral-comment-relationship-rumours-mahieka-sharma-bollywood-mmtc-2638054-2026-09-07?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-07T13:34:18+05:30",
-    "hook": "हार्दिक पंड्या और अमीषा पटेल के वायरल वीडियो पर छिड़ गया बड़ा विवाद!",
-    "script_hi": "हार्दिक पंड्या और अमीषा पटेल का एक पार्टी वीडियो सामने आने के बाद सोशल मीडिया पर उनके रिश्ते को लेकर अटकलें तेज हो गई हैं। अमीषा पटेल ने ट्रोल्स को करारा जवाब देते हुए कहा कि वीडियो को गलत और रोमांटिक रंग देने से पहले लोगों को सोचना चाहिए।",
-    "tts_text_hi": "हार्दिक पंड्या और अमीषा पटेल का एक पार्टी वीडियो सामने आने के बाद सोशल मीडिया पर उनके रिश्ते को लेकर अटकलें तेज हो गई हैं। अमीषा पटेल ने ट्रोल्स को करारा जवाब देते हुए कहा कि वीडियो को गलत और रोमांटिक रंग देने से पहले लोगों को सोचना चाहिए।",
-    "title": "हार्दिक पंड्या और अमीषा पटेल के वीडियो पर बवाल",
-    "caption": "हार्दिक पंड्या और अमीषा पटेल के वायरल पार्टी वीडियो पर मचा बवाल, अमीषा ने ट्रोल्स को दिया करारा जवाब।",
-    "hashtags": [
-      "#HardikPandya",
-      "#AmeeshaPatel",
-      "#ViralVideo",
-      "#BollywoodNews",
-      "#CricketNews",
-      "#SocialMedia"
-    ],
-    "visual_queries": [
-      "celebrity party event India",
-      "social media smartphone India"
-    ],
-    "named_person": "Hardik Pandya",
-    "named_person_hi": "हार्दिक पंड्या",
-    "secondary_persons": [
-      "Ameesha Patel"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Story centers around a specific viral video of named individuals that requires real footage rather than generic stock B-roll.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "हार्दिक पंड्या",
-        "source": "fallback",
-        "query": "Hardik Pandya",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28160214/pexels-photo-28160214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "celebrity party event India",
-        "credit": "Captian Jayu",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "social media smartphone India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bsnl_beats_jio_haryana_surge",
-    "virality_score": 7,
-    "reason": "Surprising telecom market shift with BSNL outperforming Jio in new users.",
-    "region": "india",
-    "headline": "BSNL ने Jio को पछाड़ा, हरियाणा में जोड़े 68,560 नए यूजर्स",
-    "source_summary": "BSNL ने जुलाई में हरियाणा के मोबाइल मार्केट में बड़ा खेल कर दिया है. कंपनी ने Jio और Airtel को पीछे छोड़ते हुए 68,560 नए यूजर्स जोड़े हैं. आखिर BSNL के साथ इतनी तेजी से क्यों जुड़ रहे हैं लोग?",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/bsnl-beats-jio-airtel-haryana-68560-new-users-prym-dskc-2638345-2026-09-07?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-07T20:03:47+05:30",
-    "hook": "बीएसएनएल ने जियो और एयरटेल को पछाड़ा!",
-    "script_hi": "सरकारी टेलीकॉम कंपनी बीएसएनएल ने हरियाणा में बड़ा खेल कर दिया है. जुलाई महीने में कंपनी ने जियो और एयरटेल को पीछे छोड़ते हुए अडसठ हजार पांच सौ साठ नए यूजर्स जोड़े हैं. लोग लगातार बीएसएनएल से जुड़ रहे हैं.",
-    "tts_text_hi": "सरकारी टेलीकॉम कंपनी बीएसएनएल ने हरियाणा में बड़ा खेल कर दिया है. जुलाई महीने में कंपनी ने जियो और एयरटेल को पीछे छोड़ते हुए अडसठ हजार पांच सौ साठ नए यूजर्स जोड़े हैं. लोग लगातार बीएसएनएल से जुड़ रहे हैं.",
-    "title": "BSNL ने हरियाणा में Jio-Airtel को पछाड़ा",
-    "caption": "BSNL ने हरियाणा में जुलाई महीने में 68,560 नए यूजर्स जोड़कर Jio और Airtel को पीछे छोड़ दिया है।",
-    "hashtags": [
-      "#BSNL",
-      "#Jio",
-      "#Airtel",
-      "#HaryanaNews",
-      "#TelecomSector",
-      "#IndianTelecom"
-    ],
-    "visual_queries": [
-      "BSNL office building India",
-      "mobile phone network India",
-      "happy Indian mobile user"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 27.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/16032019/16032019-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "telecom tower India landscape",
-        "credit": "KJeremy",
-        "source_duration_sec": 12,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "BSNL office building India",
-        "credit": "Preetesh  biswas",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12571183/pexels-photo-12571183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile phone network India",
-        "credit": "Umang & Meet",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7129058/pexels-photo-7129058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "happy Indian mobile user",
-        "credit": "Michael Burrows",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36795622/pexels-photo-36795622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "telecom tower India",
-        "credit": "Gogul S",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person using smartphone India",
-        "credit": "Kewal Nagda",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13240715/pexels-photo-13240715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy Indian street smartphone",
-        "credit": "Vivek Solanki",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "BSNL ने हरियाणा में Jio-Airtel को पछाड़ा! 🚀",
-        "caption": "सिर्फ एक महीने में हरियाणा के 68,560 लोगों ने जियो और एयरटेल छोड़कर बीएसएनएल का दामन थाम लिया। 📉\n\nसस्ती दरों और बढ़ते भरोसे के बीच सरकारी टेलीकॉम कंपनी का ये कमबैक वाकई चौंकाने वाला है। क्या आपने भी सिम पोर्ट कराई है?\n\nपूरी कहानी देखें।\n\n#BSNL #Jio #Airtel #HaryanaNews #TelecomSector"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सिर्फ एक महीने में हरियाणा के 68,560 लोगों ने जियो और एयरटेल छोड़कर बीएसएनएल का दामन थाम लिया। 📉\n\nसस्ती दरों के चक्कर में क्या वाकई गेम बदल रहा है? कमेंट में बताओ आपका नेटवर्क कौन सा है। 👇\n\nपूरी कहानी देखें।\n\n#BSNL #Jio #Airtel #HaryanaNews #TelecomSector"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "प्राइवेट कंपनियों के दौर में सरकारी टेलीकॉम कंपनी का ऐसा कमबैक किसी ने नहीं सोचा होगा। हरियाणा में सिर्फ एक महीने के भीतर 68,560 नए यूजर्स ने BSNL को चुना है, जबकि जियो और एयरटेल को झटका लगा है। 📉\n\nआखिर लोग अचानक क्यों रुख बदल रहे हैं? क्या वजह है इस बदलाव के पीछे?\n\nवीडियो पूरा देखकर जानिए पूरी बात।\n\n#BSNL #Jio #Airtel #HaryanaNews #TelecomSector"
-      },
-      "hashtags": [
-        "BSNL",
-        "Jio",
-        "Airtel",
-        "HaryanaNews",
-        "TelecomSector"
-      ]
-    },
-    "audio_path": "audio/bsnl_beats_jio_haryana_surge.wav",
-    "audio_duration_sec": 15.51,
-    "video_path": "videos/bsnl_beats_jio_haryana_surge.mp4",
-    "video_duration_sec": 23.52,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-07T15:13:24.796563+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9ed4a74ef85f5f50b05b6e",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "प्राइवेट कंपनियों के दौर में सरकारी टेलीकॉम कंपनी का ऐसा कमबैक किसी ने नहीं सोचा होगा। हरियाणा में सिर्फ एक महीने के भीतर 68,560 नए यूजर्स ने BSNL को चुना है, जबकि जियो और एयरटेल को झटका लगा है। 📉\n\nआखिर लोग अचानक क्यों रुख बदल रहे हैं? क्या वजह है इस बदलाव के पीछे?\n\nवीडियो पूरा देखकर जानिए पूरी बात।\n\n#BSNL #Jio #Airtel #HaryanaNews #TelecomSector",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788794021170_3rdn3dwb_bsnl_beats_jio_haryana_surge.mp4",
-                "_id": "6a9ed4a74ef85f5f50b05b6f"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwFAyve7&_nc_oc=AdrHhKTk6aw5jhaVJAqX67tOyaFmxKiFfGbOkAtPgJD4xJ69drEFe0eyi9xJMbrkBzI&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=cgzlfWgd2gY99qI6tzenUQ&_nc_tpa=Q5bMBQKZSCulxPY5vitiFJSl6tkifCsn7W_41XrteycYZd4gbUI7O5haRG1c0w1g4XRG4DK4pXXi7zaR&oh=00_AQIWyHpfSyx9eJTfWmGDs9ptqifovlA28h-LME1fs3QD0w&oe=6AA40E14",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-07T15:13:42.786Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "7334401af9579b140c115d499d792970",
-                "_id": "6a9ed4a74ef85f5f50b05b70",
-                "platformPostId": "1088221180327653",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1088221180327653",
-                "publishedAt": "2026-09-07T15:13:49.678Z"
-              }
-            ],
-            "scheduledFor": "2026-09-07T15:13:42.786Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:13:43.477Z",
-            "updatedAt": "2026-09-07T15:13:49.766Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:13:43.558Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-07T15:13:49.939440+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6a9ed4c80479dcaeba25ae5a",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सिर्फ एक महीने में हरियाणा के 68,560 लोगों ने जियो और एयरटेल छोड़कर बीएसएनएल का दामन थाम लिया। 📉\n\nसस्ती दरों के चक्कर में क्या वाकई गेम बदल रहा है? कमेंट में बताओ आपका नेटवर्क कौन सा है। 👇\n\nपूरी कहानी देखें।\n\n#BSNL #Jio #Airtel #HaryanaNews #TelecomSector",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788794054189_dhdaptor_bsnl_beats_jio_haryana_surge.mp4",
-                "_id": "6a9ed4c80479dcaeba25ae5b"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cmB1vWtkkE4Q7kNvwFvsrQJ&_nc_oc=AdqL1SkH0sYKS6hZCC-k8LYefMwvYr2T2q_P0o5SSezPusDH3-upeUmabaJORtko5bA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GUg9tfa6Fzlrz_cZ85APEg&_nc_tpa=Q5bMBQLEYvtVA5yHSyIwIK0nWQJknzYER_upo9nj-KgrZxwCMeHljtiHcexVxoCcFXbZadFRwY_ACTCxeQ&oh=00_AQKt4p5sjgBxualE7IYhy6mPkmQuW2oh6JK9jGd-YRTpOg&oe=6AA401BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-07T15:14:15.331Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "4429626cf5045ee911f937d96d9f8104",
-                "_id": "6a9ed4c80479dcaeba25ae5c"
-              }
-            ],
-            "scheduledFor": "2026-09-07T15:14:15.331Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-07T15:14:16.327Z",
-            "updatedAt": "2026-09-07T15:14:18.262Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-07T15:14:16.401Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-07T15:14:18.856242+00:00"
+        "attempted_at": "2026-09-08T04:33:22.255852+00:00"
       }
     }
   }
