@@ -1,8 +1,9 @@
-ready_labels: []
+ready_labels: ['apple_event_2026', 'delhi_nsg_brics_drill', 'pm_modi_dhar_rail_project', 'singapore_pm_salary_hike']
 
-pm_modi_mumbai_visit_security_scare: SKIPPED (not in ready set)
-satya_niketan_building_collapse_crisis: SKIPPED (not in ready set)
+mumbai_pm_security_breach: SKIPPED (not in ready set)
 guwahati_fridge_murder_case: SKIPPED (not in ready set)
-bihar_suv_on_rooftop: SKIPPED (not in ready set)
-rat_in_food_parcel: SKIPPED (not in ready set)
-miami_plane_crash_global: SKIPPED (not in ready set)
+delhi_nsg_brics_drill: SUCCESS -> video_path=videos/delhi_nsg_brics_drill.mp4 dur=36.02322
+apple_event_2026: SUCCESS -> video_path=videos/apple_event_2026.mp4 dur=25.356553
+mustang_airport_collision: SKIPPED (not in ready set)
+pm_modi_dhar_rail_project: SUCCESS -> video_path=videos/pm_modi_dhar_rail_project.mp4 dur=35.856553
+singapore_pm_salary_hike: SUCCESS -> video_path=videos/singapore_pm_salary_hike.mp4 dur=23.089887
