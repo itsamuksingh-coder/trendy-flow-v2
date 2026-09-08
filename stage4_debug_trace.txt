@@ -1,10 +1,10 @@
-ready_labels: ['burrito_eating_world_record', 'pm_modi_vadodara_visit_speech']
+ready_labels: []
 
-delhi_satya_niketan_building_collapse_protest: SKIPPED (not in ready set)
-guwahati_fridge_murder_case: SKIPPED (not in ready set)
-kanpur_businessman_murder_conspiracy: SKIPPED (not in ready set)
-nepal_tunnel_miracle_rescue: SKIPPED (not in ready set)
-samastipur_train_liquor_smuggling: SKIPPED (not in ready set)
-pm_modi_vadodara_visit_speech: SUCCESS -> video_path=videos/pm_modi_vadodara_visit_speech.mp4 dur=18.92322
-fauda_season_5_netflix: SKIPPED (not in ready set)
-burrito_eating_world_record: SUCCESS -> video_path=videos/burrito_eating_world_record.mp4 dur=29.617211
+gurugram_car_accident_girl_death: SKIPPED (not in ready set)
+satya_niketan_building_collapse_arrests: SKIPPED (not in ready set)
+kanpur_businessman_murder_mastermind: SKIPPED (not in ready set)
+guwahati_bride_murder_fridge: SKIPPED (not in ready set)
+delhi_adarsh_nagar_murder: SKIPPED (not in ready set)
+kota_leopard_rescue: SKIPPED (not in ready set)
+miami_cargo_plane_crash_global: SKIPPED (not in ready set)
+hapur_factory_fire: SKIPPED (not in ready set)
