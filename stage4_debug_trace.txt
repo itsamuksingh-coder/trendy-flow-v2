@@ -1,9 +1,9 @@
-ready_labels: ['baghpat_expressway_pickup_truck_accident_deaths', 'bhopal_junior_doctors_protest_police_action', 'delhi_satya_niketan_building_collapse_arrests_mcd', 'gwalior_bangladeshi_infiltrators_fake_passports', 'meerut_school_student_heart_attack_death', 'ram_mandir_trust_appoints_ex_air_marshal_ceo']
+ready_labels: ['assam_guwahati_husband_decapitates_wife_fridge', 'bihar_flood_13_districts_affected', 'china_back_scratching_business_viral', 'delhi_satya_niketan_building_collapse_updates', 'patna_nia_raid_wrong_flat_cash', 'ram_mandir_trust_ceo_air_marshal_jitendra_mishra']
 
-delhi_satya_niketan_building_collapse_arrests_mcd: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_arrests_mcd.mp4 dur=28.256553
-delhi_manipuri_musician_beaten_to_death: SKIPPED (not in ready set)
-meerut_school_student_heart_attack_death: SUCCESS -> video_path=videos/meerut_school_student_heart_attack_death.mp4 dur=38.255215
-ram_mandir_trust_appoints_ex_air_marshal_ceo: SUCCESS -> video_path=videos/ram_mandir_trust_appoints_ex_air_marshal_ceo.mp4 dur=29.73322
-baghpat_expressway_pickup_truck_accident_deaths: SUCCESS -> video_path=videos/baghpat_expressway_pickup_truck_accident_deaths.mp4 dur=29.889887
-gwalior_bangladeshi_infiltrators_fake_passports: SUCCESS -> video_path=videos/gwalior_bangladeshi_infiltrators_fake_passports.mp4 dur=29.42322
-bhopal_junior_doctors_protest_police_action: SUCCESS -> video_path=videos/bhopal_junior_doctors_protest_police_action.mp4 dur=32.02322
+delhi_satya_niketan_building_collapse_updates: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_updates.mp4 dur=29.87322
+bihar_flood_13_districts_affected: SUCCESS -> video_path=videos/bihar_flood_13_districts_affected.mp4 dur=27.156553
+patna_nia_raid_wrong_flat_cash: SUCCESS -> video_path=videos/patna_nia_raid_wrong_flat_cash.mp4 dur=32.009229
+assam_guwahati_husband_decapitates_wife_fridge: SUCCESS -> video_path=videos/assam_guwahati_husband_decapitates_wife_fridge.mp4 dur=29.356553
+ram_mandir_trust_ceo_air_marshal_jitendra_mishra: SUCCESS -> video_path=videos/ram_mandir_trust_ceo_air_marshal_jitendra_mishra.mp4 dur=27.922222
+china_back_scratching_business_viral: SUCCESS -> video_path=videos/china_back_scratching_business_viral.mp4 dur=38.189887
+germany_far_right_afd_state_election_win: SKIPPED (not in ready set)
