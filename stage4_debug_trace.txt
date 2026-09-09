@@ -1,8 +1,9 @@
-ready_labels: ['delhi_satya_niketan_building_collapse_mcd_crackdown', 'naman_dhir_t20_league_173_runs_knock', 'rahul_gandhi_air_india_flight_landing_issue', 'singapore_pm_salary_increase_global', 'ujjain_khade_hanuman_temple_controversy']
+ready_labels: ['delhi_satya_niketan_pg_demolition_drive', 'hanuman_ansh_movie_box_office_record', 'naman_dhair_t20_173_runs_knock', 'online_shopping_fraud_device_cow_dung', 'uk_air_traffic_control_system_glitch', 'us_strikes_iranian_oil_tankers_escalation']
 
-mumbai_pm_modi_event_fake_pmo_gun_suspects: SKIPPED (not in ready set)
-delhi_satya_niketan_building_collapse_mcd_crackdown: SUCCESS -> video_path=videos/delhi_satya_niketan_building_collapse_mcd_crackdown.mp4 dur=26.689887
-ujjain_khade_hanuman_temple_controversy: SUCCESS -> video_path=videos/ujjain_khade_hanuman_temple_controversy.mp4 dur=30.156553
-naman_dhir_t20_league_173_runs_knock: SUCCESS -> video_path=videos/naman_dhir_t20_league_173_runs_knock.mp4 dur=33.12322
-rahul_gandhi_air_india_flight_landing_issue: SUCCESS -> video_path=videos/rahul_gandhi_air_india_flight_landing_issue.mp4 dur=21.12322
-singapore_pm_salary_increase_global: SUCCESS -> video_path=videos/singapore_pm_salary_increase_global.mp4 dur=23.289887
+us_strikes_iranian_oil_tankers_escalation: SUCCESS -> video_path=videos/us_strikes_iranian_oil_tankers_escalation.mp4 dur=37.22322
+fake_pmo_officer_gun_mumbai_pm_modi: SKIPPED (not in ready set)
+delhi_satya_niketan_pg_demolition_drive: SUCCESS -> video_path=videos/delhi_satya_niketan_pg_demolition_drive.mp4 dur=33.495215
+hanuman_ansh_movie_box_office_record: SUCCESS -> video_path=videos/hanuman_ansh_movie_box_office_record.mp4 dur=29.089887
+naman_dhair_t20_173_runs_knock: SUCCESS -> video_path=videos/naman_dhair_t20_173_runs_knock.mp4 dur=29.589887
+online_shopping_fraud_device_cow_dung: SUCCESS -> video_path=videos/online_shopping_fraud_device_cow_dung.mp4 dur=31.150227
+uk_air_traffic_control_system_glitch: SUCCESS -> video_path=videos/uk_air_traffic_control_system_glitch.mp4 dur=31.356553

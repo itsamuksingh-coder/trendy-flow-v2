@@ -1,40 +1,147 @@
 [
   {
-    "topic_label": "mumbai_pm_modi_event_fake_pmo_gun_suspects",
+    "topic_label": "us_strikes_iranian_oil_tankers_escalation",
     "virality_score": 9,
-    "reason": "High-security breach involving armed suspects with fake PMO IDs near PM Modi's event in Mumbai.",
+    "reason": "High-impact global conflict escalation involving US and Iranian oil tankers with direct oil price implications.",
     "region": "india",
-    "headline": "मुंबई में PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
+    "headline": "ईरानी टैंकरों पर US का हमला, कुवैत-बहरीन के तेल जहाजों को ईरान की धमकी",
+    "source_summary": "ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं. हालांकि, किसी जहाज को नुकसान नहीं पहुंचा. इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर हमला किया. इससे खाड़ी क्षेत्र में तनाव बढ़ गया है",
+    "source_url": "https://www.aajtak.in/world/story/iran-launched-second-wave-of-attacks-on-us-navy-ships-middle-east-war-ntc-aktw-dskc-2639115-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T02:23:49+05:30",
+    "hook": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है!",
+    "script_hi": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है। ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। हालांकि गनीमत यह रही कि किसी भी जहाज को नुकसान नहीं पहुंचा। इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर जोरदार हमला किया। इस सैन्य कार्रवाई के बाद खाड़ी क्षेत्र में तनाव बेहद बढ़ गया है और हालात तनावपूर्ण बने हुए हैं।",
+    "tts_text_hi": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है। ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। हालांकि गनीमत यह रही कि किसी भी जहाज को नुकसान नहीं पहुंचा। इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर जोरदार हमला किया। इस सैन्य कार्रवाई के बाद खाड़ी क्षेत्र में तनाव बेहद बढ़ गया है और हालात तनावपूर्ण बने हुए हैं।",
+    "title": "US Iran Conflict: अमेरिका और ईरान में छिड़ी जंग?",
+    "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।",
+    "hashtags": [
+      "USIran",
+      "MiddleEast",
+      "BreakingNews",
+      "WorldNews",
+      "USNavy",
+      "IranNews",
+      "GlobalNews"
+    ],
+    "visual_queries": [
+      "US Navy warship sea",
+      "missile launch explosion",
+      "burning oil tanker sea",
+      "Middle East military conflict"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/26329253/11948322_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "oil tanker middle east",
+        "credit": "Thiago  Matos",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Middle East military conflict",
+        "credit": "Content Factory",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13753320/pexels-photo-13753320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US Navy warship sea",
+        "credit": "Ben Libby",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12366464/pexels-photo-12366464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Middle East oil tankers",
+        "credit": "Bayu Prakosa",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "US Iran Conflict: अमेरिका और ईरान में छिड़ी जंग?",
+        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+      },
+      "hashtags": [
+        "USIran",
+        "MiddleEast",
+        "BreakingNews",
+        "WorldNews",
+        "USNavy"
+      ]
+    },
+    "audio_path": "audio/us_strikes_iranian_oil_tankers_escalation.wav",
+    "audio_duration_sec": 29.19,
+    "video_path": "videos/us_strikes_iranian_oil_tankers_escalation.mp4",
+    "video_duration_sec": 37.22
+  },
+  {
+    "topic_label": "fake_pmo_officer_gun_mumbai_pm_modi",
+    "virality_score": 8,
+    "reason": "Major security scare in Mumbai right before PM Modi's event with a fake PMO ID and a gun.",
+    "region": "india",
+    "headline": "PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
     "source_summary": "मुंबई में पीएम मोदी की मंगलवार को रैली से पहले दो संदिग्धों को पुलिस ने हिरासत में लिया. जिनके पास से बंदूक बरामद हुई है. एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था. उनके पास से PMO का फर्जी आई़डी कार्ड भी मिला. नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से ये दोनों संदिग्ध डिटेन किए गए. देखें वीडियो.",
     "source_url": "https://www.aajtak.in/india/news/video/pm-modi-mumbai-event-nita-ambani-cultural-center-security-scare-fake-pmo-officer-suspect-detained-vdot-2638910-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-08T17:29:47+05:30",
     "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले बड़ा सुरक्षा खतरा!",
-    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था। पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था। पुलिस मामले की जांच कर रही है.",
-    "title": "मुंबई में पीएम मोदी के इवेंट से पहले बंदूक के साथ संदिग्ध गिरफ्तार",
-    "caption": "मुंबई में पीएम मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, बंदूक और फर्जी पीएमओ आईडी कार्ड बरामद।",
+    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से ठीक पहले दो संदिग्धों को पुलिस ने हिरासत में लिया है। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
+    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से ठीक पहले दो संदिग्धों को पुलिस ने हिरासत में लिया है। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
+    "title": "मुंबई में पीएम मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, बंदूक और फर्जी आई कार्ड बरामद",
+    "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए आरोपियों के पास बंदूक और पीएमओ का फर्जी आई कार्ड मिला है।",
     "hashtags": [
       "MumbaiNews",
       "PMModi",
-      "SecurityAlert",
       "MumbaiPolice",
+      "SecurityAlert",
       "BreakingNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Mumbai city street India",
-      "Indian police station security",
-      "fake id card India",
-      "police investigation India"
+      "Mumbai street India",
+      "police investigation India",
+      "Mumbai police officer India"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The summary mentions 'देखें वीडियो' indicating this is tied to a specific viral video or unique incident where generic stock B-roll cannot adequately substitute for the actual footage.",
+    "flag_reason": "The summary mentions 'देखें वीडियो' indicating this is based on a specific viral video report, which requires manual footage verification.",
     "assets": [
+      {
+        "type": "text_card",
+        "text": "नरेंद्र मोदी",
+        "source": "fallback",
+        "query": "Narendra Modi",
+        "duration_sec": 4.0
+      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
@@ -46,189 +153,52 @@
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_53628df314.jpg",
-        "source": "wikimedia",
-        "query": "Narendra Modi",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
         "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai city street India",
+        "query": "Mumbai street India",
         "credit": "Rizwan Sayyed",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13232561/pexels-photo-13232561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police station security",
-        "credit": "Aakash Panwar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7108126/pexels-photo-7108126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fake id card India",
-        "credit": "Pavel Danilyuk",
+        "query": "Mumbai police officer India",
+        "credit": "Shivam Maurya",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26,
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "delhi_satya_niketan_building_collapse_mcd_crackdown",
+    "topic_label": "delhi_satya_niketan_pg_demolition_drive",
     "virality_score": 8,
-    "reason": "Widespread public safety concern following a fatal building collapse with ongoing MCD crackdowns on student PGs.",
+    "reason": "Aggressive government crackdown and demolition drive following the tragic Delhi PG collapse.",
     "region": "india",
     "headline": "सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू, 7 इमारत सील, 35 को भेजा नोटिस",
     "source_summary": "दिल्ली के सत्य निकेतन में 6 सितंबर को हुए बिल्डिंग हादसे के बाद दिल्ली नगर निगम (MCD) ने पिछले दो दिनों में करीब 1100 PG का सर्वे किया है, जहां 20,250 छात्र रहते हैं.",
     "source_url": "https://www.aajtak.in/india/delhi/story/delhi-mcd-action-after-saty-niketan-building-collapse-demolition-orders-sealing-pg-survey-ntcpvp-rpti-2639012-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-08T20:25:36+05:30",
-    "hook": "दिल्ली के सत्य निकेतन में बड़ा एक्शन शुरू!",
-    "script_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू हो गया है। एमसीडी ने सात इमारतें सील कर दी हैं और पैंतीस को नोटिस भेजा है। छह सितंबर के हादसे के बाद एमसीडी ने ग्यारह सौ पीजी का सर्वे किया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू हो गया है। एमसीडी ने सात इमारतें सील कर दी हैं और पैंतीस को नोटिस भेजा है। छह सितंबर के हादसे के बाद एमसीडी ने ग्यारह सौ पीजी का सर्वे किया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं।",
-    "title": "दिल्ली के सत्य निकेतन में अवैध बिल्डिंग्स पर एमसीडी का एक्शन",
-    "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी की सख्त कार्रवाई, सात इमारतें सील और पैंतीस को नोटिस जारी।",
+    "hook": "दिल्ली के सत्य निकेतन में बड़ा एक्शन! खतरनाक इमारतों पर चला बुलडोजर।",
+    "script_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी ने ताबड़तोड़ कार्रवाई शुरू कर दी है। पिछले दो दिनों में ग्यारह सौ पीजी का सर्वे किया गया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं। सात इमारतों को सील कर दिया गया है और पैंतीस को नोटिस भेजा गया है।",
+    "tts_text_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी ने ताबड़तोड़ कार्रवाई शुरू कर दी है। पिछले दो दिनों में ग्यारह सौ पीजी का सर्वे किया गया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं। सात इमारतों को सील कर दिया गया है और पैंतीस को नोटिस भेजा गया है।",
+    "title": "दिल्ली के सत्य निकेतन में अवैध पीजी और इमारतों पर एमसीडी का बड़ा एक्शन",
+    "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी की बड़ी कार्रवाई। सात इमारतें सील, पैंतीस को नोटिस।",
     "hashtags": [
       "DelhiNews",
       "MCDAction",
       "SatyaNiketan",
-      "DelhiPolice",
+      "DelhiPG",
       "BreakingNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Delhi street view India",
-      "Indian municipal corporation office",
-      "Delhi residential building India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street view India",
-        "credit": "Roman Saienko",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian municipal corporation office",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34264627/pexels-photo-34264627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi residential building India",
-        "credit": "shubh gupta",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19437678/pexels-photo-19437678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban residential area India",
-        "credit": "Abhinav Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7485729/pexels-photo-7485729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded student housing Delhi",
-        "credit": "Anuj Yadav",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8961152/pexels-photo-8961152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "municipal workers inspecting building",
-        "credit": "Mikael Blomkvist",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street crowded",
-        "credit": "Himanshu Singh",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सत्य निकेतन में 35 अवैध इमारतों पर चला MCD का हंटर! 🏢",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया—अब दिल्ली के सत्य निकेतन में धड़ाधड़ अवैध बिल्डिंग्स गिराई जा रही हैं। 🚨\n\nMCD ने सख्त एक्शन लेते हुए 7 इमारतों को पूरी तरह सील कर दिया है और 35 अन्य को नोटिस थमा दिए हैं। इलाके में हड़कंप मचा हुआ है।\n\nपूरी कहानी वीडियो में देखें और बताएं, क्या आपके इलाके में भी ऐसी अवैध निर्माण हो रही हैं?\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया—अब दिल्ली के सत्य निकेतन में धड़ाधड़ अवैध बिल्डिंग्स गिराई जा रही हैं! 🚨\n\nMCD के इस बड़े एक्शन में 7 इमारतें सील और 35 को नोटिस भेजा गया है।\n\nक्या ऐसी कार्रवाई से अवैध निर्माण रुकेगा? कमेंट में बताएं। 👇\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने अधिकारियों को भी चौंका दिया। दिल्ली के सत्य निकेतन इलाके में प्रशासन ने बड़ा एक्शन लेते हुए अवैध इमारतों पर बुलडोजर और सीलिंग की कार्रवाई शुरू कर दी है। 🏗️\n\nयहाँ एक के बाद एक 7 खतरनाक और अवैध इमारतों को सील कर दिया गया है, जबकि 35 अन्य मकान मालिकों को कड़े नोटिस थमाए गए हैं। इस अचानक हुई कार्रवाई से स्थानीय लोगों में खलबली मच गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#SatyaNiketan #DelhiNews #MCDAction #DelhiIllegalConstruction #BreakingNews"
-      },
-      "hashtags": [
-        "SatyaNiketan",
-        "DelhiNews",
-        "MCDAction",
-        "DelhiIllegalConstruction",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/delhi_satya_niketan_building_collapse_mcd_crackdown.wav",
-    "audio_duration_sec": 18.9,
-    "video_path": "videos/delhi_satya_niketan_building_collapse_mcd_crackdown.mp4",
-    "video_duration_sec": 26.69
-  },
-  {
-    "topic_label": "ujjain_khade_hanuman_temple_controversy",
-    "virality_score": 8,
-    "reason": "Fascinating local miracle/resistance story involving an immovable 170-year-old temple statue during road expansion.",
-    "region": "india",
-    "headline": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम, इंजीनियर पस्त!",
-    "source_summary": "Ujjain Khade Hanuman Temple Controversy: उज्जैन में सड़क चौड़ीकरण के दौरान 170 साल पुरानी खड़े हनुमान जी की प्रतिमा 2 दिन बाद भी नहीं हिली. हिंदू संगठनों ने की महाआरती, अब होगी स्कैनिंग...",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/ujjain-khade-hanuman-temple-statue-relocation-controversy-simhastha-road-widening-lcln-strc-2639002-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T20:00:50+05:30",
-    "hook": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी हनुमान जी की मूर्ति को हटाने की कोशिशें पूरी तरह नाकाम हो गई हैं!",
-    "script_hi": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की प्रतिमा दो दिन बाद भी अपनी जगह से नहीं हिली। इंजीनियर और प्रशासन की तमाम कोशिशें पस्त हो गई हैं। हिंदू संगठनों ने मंदिर परिसर में महाआरती की। अब मंदिर और मूर्ति की संरचना की स्कैनिंग की जाएगी ताकि आगे का रास्ता निकाला जा सके।",
-    "tts_text_hi": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की प्रतिमा दो दिन बाद भी अपनी जगह से नहीं हिली। इंजीनियर और प्रशासन की तमाम कोशिशें पस्त हो गई हैं। हिंदू संगठनों ने मंदिर परिसर में महाआरती की। अब मंदिर और मूर्ति की संरचना की स्कैनिंग की जाएगी ताकि आगे का रास्ता निकाला जा सके।",
-    "title": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम",
-    "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।",
-    "hashtags": [
-      "Ujjain",
-      "HanumanTemple",
-      "UjjainNews",
-      "MadhyaPradesh",
-      "HinduNews"
-    ],
-    "visual_queries": [
-      "Hindu temple India",
-      "road construction India",
-      "temple ritual India",
-      "engineering scanning equipment India"
+      "India municipal corporation office",
+      "Delhi street building India",
+      "police and MCD action India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -239,95 +209,242 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/39341774/16743963_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/30842195/13190341_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "engineering scanning equipment India",
-        "credit": "Nishant Aneja",
+        "query": "urban demolition work india",
+        "credit": "Wela Gujjar",
         "source_duration_sec": 34,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Hindu temple India",
-        "credit": "Nalam Team",
-        "duration_sec": 5
+        "query": "India municipal corporation office",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35662656/pexels-photo-35662656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19528131/pexels-photo-19528131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "road construction India",
-        "credit": "ÀniL",
-        "duration_sec": 5
+        "query": "Delhi street building India",
+        "credit": "Keith Lobo",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31115354/pexels-photo-31115354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "temple ritual India",
-        "credit": "Himanshu Singh",
-        "duration_sec": 5
+        "query": "police and MCD action India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13136844/pexels-photo-13136844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "urban building demolition India",
+        "credit": "Takeshi Arai",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12931571/pexels-photo-12931571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi street aerial view",
+        "credit": "Mayur Sable",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7937360/pexels-photo-7937360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial building inspection",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "उज्जैन में हनुमान जी की मूर्ति हटाने की कोशिशें नाकाम",
-        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+        "title": "सत्य निकेतन में बुलडोजर एक्शन! 7 इमारतें सील, 35 को नोटिस 🚨",
+        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हड़कंप मच गया! 🛑\n\nदिल्ली के सत्य निकेतन इलाके में खतरनाक और अवैध इमारतों पर एमसीडी ने बड़ा एक्शन लिया है। प्रशासन ने 7 इमारतों को सील कर दिया है और 35 को कड़े नोटिस भेजे गए हैं।\n\nआपकी क्या राय है, क्या ऐसे एक्शन से हादसों पर लगाम लगेगी? पूरी कहानी देखें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
       },
       "instagram": {
         "title": null,
-        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हड़कंप मच गया! 🛑\n\nदिल्ली के इस इलाके में खतरनाक और अवैध इमारतों पर एमसीडी का हंटर चल चुका है। 7 इमारतें सील और 35 को नोटिस जारी।\n\nपूरी कहानी देखें और शेयर करें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
       },
       "facebook": {
         "title": null,
-        "caption": "उज्जैन में सड़क चौड़ीकरण के दौरान सौ सत्तर साल पुरानी खड़े हनुमान जी की मूर्ति को हटाने की कोशिशें नाकाम, हिंदू संगठनों ने की महाआरती।\n\n#Ujjain #HanumanTemple #UjjainNews #MadhyaPradesh #HinduNews"
+        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हर कोई देखता रह गया! 🛑\n\nदिल्ली के सत्य निकेतन में प्रशासन ने बड़ा एक्शन लेते हुए खतरनाक और अवैध रूप से चल रही इमारतों पर शिकंजा कसा है। मौके पर 7 इमारतों को तुरंत सील कर दिया गया है, जबकि 35 अन्य को सख्त नोटिस भेजे गए हैं।\n\nक्या राजधानी में चल रहे ऐसे पीजी और अवैध निर्माणों पर रोक लग पाएगी? पूरी कहानी देखें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
       },
       "hashtags": [
-        "Ujjain",
-        "HanumanTemple",
-        "UjjainNews",
-        "MadhyaPradesh",
-        "HinduNews"
+        "सत्य_निकेतन",
+        "दिल्ली_न्यूज",
+        "एमसीडी_एक्शन",
+        "बुलडोजर_एक्शन",
+        "DelhiNews"
       ]
     },
-    "audio_path": "audio/ujjain_khade_hanuman_temple_controversy.wav",
-    "audio_duration_sec": 22.16,
-    "video_path": "videos/ujjain_khade_hanuman_temple_controversy.mp4",
-    "video_duration_sec": 30.16
+    "audio_path": "audio/delhi_satya_niketan_pg_demolition_drive.wav",
+    "audio_duration_sec": 25.44,
+    "video_path": "videos/delhi_satya_niketan_pg_demolition_drive.mp4",
+    "video_duration_sec": 33.5
   },
   {
-    "topic_label": "naman_dhir_t20_league_173_runs_knock",
-    "virality_score": 8,
-    "reason": "Explosive domestic cricket performance with 173 runs off 64 balls will attract massive sports audience interest.",
+    "topic_label": "hanuman_ansh_movie_box_office_record",
+    "virality_score": 7,
+    "reason": "Incredible box office triumph of a low-budget spiritual film outperforming major blockbusters.",
+    "region": "india",
+    "headline": "Hanuman Ansh: बाबा नीम करौली की फिल्म ने कर दिया कमाल?",
+    "source_summary": "हनुमान अंश फिल्म 2 करोड़ की छोटे से बजट की फिल्म बनी थी.उसमें न तो कोई बड़ा कलाकार था..न बड़ा सिंगर फिल्म से न ही कोई बड़ा नाम जुड़ा था लेकिन इस फिल्म के बॉक्स ऑफिस कलेक्शन के सामने धुरंधर, बाहुबली 2, पुष्पा 2 जैसी दिग्गज फिल्में पानी भर रही हैं..पहले दिन फिल्म ने सिर्फ 10 लाख, दूसरे दिन 20 लाख की कमाई की..ऐसा लग रहा था कि फिल्म चुपचाप सिनेमाघरों से उतर जाएगी.",
+    "source_url": "https://www.aajtak.in/short-videos/video/hanuman-ansh-box-office-neem-karoli-baba-film-collection-records-dhurandhar-pushpa-mmtm-2639031-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T21:06:46+05:30",
+    "hook": "बाबा नीम करौली के आशीर्वाद पर बनी इस छोटी फिल्म ने तो बाहुबली और पुष्पा जैसी फिल्मों को भी पीछे छोड़ दिया!",
+    "script_hi": "दो करोड़ के बजट में बनी फिल्म हनुमान अंश ने बॉक्स ऑफिस पर तहलका मचा दिया है। फिल्म में न कोई बड़ा कलाकार था और न ही कोई बड़ा नाम, फिर भी इसने धुरंधर और बाहुबली दो जैसी फिल्मों को टक्कर दी है। पहले दिन मात्र दस लाख और दूसरे दिन बीस लाख कमाने वाली इस फिल्म की कमाई अब चर्चा का विषय बन गई है।",
+    "tts_text_hi": "दो करोड़ के बजट में बनी फिल्म हनुमान अंश ने बॉक्स ऑफिस पर तहलका मचा दिया है। फिल्म में न कोई बड़ा कलाकार था और न ही कोई बड़ा नाम, फिर भी इसने धुरंधर और बाहुबली दो जैसी फिल्मों को टक्कर दी है। पहले दिन मात्र दस लाख और दूसरे दिन बीस लाख कमाने वाली इस फिल्म की कमाई अब चर्चा का विषय बन गई है।",
+    "title": "हनुमान अंश फिल्म का बॉक्स ऑफिस कमाल",
+    "caption": "छोटे बजट की फिल्म हनुमान अंश ने बॉक्स ऑफिस पर रचा इतिहास, बाहुबली और पुष्पा जैसी फिल्मों को दी मात।",
+    "hashtags": [
+      "HanumanAnsh",
+      "NeemKaroliBaba",
+      "BoxOffice",
+      "BollywoodNews",
+      "FilmUpdate",
+      "TrendingNews",
+      "IndianCinema"
+    ],
+    "visual_queries": [
+      "Indian cinema theater building India",
+      "Indian movie projector screen India",
+      "happy film producer India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/19980218/19980218-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian box office crowd",
+        "credit": "FAISEL KAPPIL",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29952839/12854441_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "small budget film shooting",
+        "credit": "Mad Knoxx Deluxe",
+        "source_duration_sec": 63,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cinema theater building India",
+        "credit": "Keith Lobo",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cinema hall audience",
+        "credit": "İNZİLE DAL",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12912713/pexels-photo-12912713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy film producer India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty cinema hall India",
+        "credit": "İNZİLE DAL",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7234476/pexels-photo-7234476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian movie ticket counter",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बाहुबली और पुष्पा को पीछे छोड़ दिया! हनुमान अंश का कमाल 🎬",
+        "caption": "सिर्फ एक छोटी सी फिल्म और नतीजा ऐसा कि बड़े-बड़े मेकर्स हैरान रह गए! बाबा नीम करौली के आशीर्वाद पर बनी 'हनुमान अंश' ने कमाई के मामले में बॉक्स ऑफिस पर कई रिकॉर्ड तोड़ दिए हैं।\n\nक्या आपने यह फिल्म देखी है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "बाहुबली और पुष्पा को भी पीछे छोड़ दिया! 🤯 बाबा नीम करौली के आशीर्वाद पर बनी इस फिल्म ने बॉक्स ऑफिस पर जो किया, वो किसी चमत्कार से कम नहीं है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "बाबा नीम करौली के आशीर्वाद पर बनी इस छोटी सी फिल्म ने ऐसा कमाल कर दिखाया है जिसकी किसी ने उम्मीद नहीं की थी। बाहुबली और पुष्पा जैसी बड़ी फिल्मों को पीछे छोड़ते हुए इस प्रोजेक्ट ने बॉक्स ऑफिस पर तहलका मचा दिया है।\n\nदेखिए वीडियो में पूरी कहानी और अपनी राय जरूर साझा करें।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
+      },
+      "hashtags": [
+        "HanumanAnsh",
+        "NeemKaroliBaba",
+        "BollywoodBoxOffice",
+        "IndianCinema",
+        "TrendingNews"
+      ]
+    },
+    "audio_path": "audio/hanuman_ansh_movie_box_office_record.wav",
+    "audio_duration_sec": 21.07,
+    "video_path": "videos/hanuman_ansh_movie_box_office_record.mp4",
+    "video_duration_sec": 29.09
+  },
+  {
+    "topic_label": "naman_dhair_t20_173_runs_knock",
+    "virality_score": 7,
+    "reason": "Stunning cricketing world record feat with 173 runs scored off just 64 balls.",
     "region": "india",
     "headline": "16 चौके, 12 छक्के... 64 गेंदों में 173 रन, नमन धीर ने किया धुआं-धुआं",
     "source_summary": "मुंबई इंडियंस के नमन धीर ने शेर-ए-पंजाब टी20 लीग 2026 में ऐसा तूफान मचाया कि गेंदबाजों के होश उड़ गए. अमृतसर सूरमास के लिए खेलते हुए धीर ने सिर्फ 64 गेंदों में 173 रन ठोक दिए. उन्होंने 16 चौके और 12 छक्के लगाए.",
     "source_url": "https://www.aajtak.in/sports/cricket/story/naman-dhir-173-runs-64-balls-sher-e-punjab-t20-league-tspok-dskc-2638909-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-08T17:25:04+05:30",
-    "hook": "नमन धीर ने चौके छक्कों की बरसात कर मचाया तहलका!",
-    "script_hi": "क्रिकेट के मैदान पर आया रनों का ऐसा तूफान, जिसे देख गेंदबाजों के होश उड़ गए! मुंबई इंडियंस के स्टार खिलाड़ी नमन धीर ने शेर-ए-पंजाब टी बीस लीग दो हज़ार छब्बीस में गेंदबाजों की धज्जियां उड़ा दीं। अमृतसर सूरमास के लिए खेलते हुए नमन ने सिर्फ चौसठ गेंदों में एक सौ तिहत्तर रन ठोक डाले। इस तूफानी पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
-    "tts_text_hi": "क्रिकेट के मैदान पर आया रनों का ऐसा तूफान, जिसे देख गेंदबाजों के होश उड़ गए! मुंबई इंडियंस के स्टार खिलाड़ी नमन धीर ने शेर-ए-पंजाब टी बीस लीग दो हज़ार छब्बीस में गेंदबाजों की धज्जियां उड़ा दीं। अमृतसर सूरमास के लिए खेलते हुए नमन ने सिर्फ चौसठ गेंदों में एक सौ तिहत्तर रन ठोक डाले। इस तूफानी पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
-    "title": "नमन धीर का तूफानी शतक, टी ट्वेंटी में बनाए 173 रन",
-    "caption": "मुंबई इंडियंस के नमन धीर ने शेर-ए-पंजाब टी20 लीग 2026 में सिर्फ 64 गेंदों में 173 रन ठोक इतिहास रच दिया।",
+    "hook": "नमन धीर का ऐसा तूफानी शतक, गेंदबाजों के उड़े होश!",
+    "script_hi": "शेर-ए-पंजाब टी-ट्वेंटी लीग दो हज़ार छब्बीस में मुंबई इंडियंस के नमन धीर ने तहलका मचा दिया है। अमृतसर सूरमास की तरफ से खेलते हुए नमन ने सिर्फ चौसठ गेंदों पर एक सौ तिहत्तर रन ठोक डाले। इस ऐतिहासिक पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
+    "tts_text_hi": "शेर-ए-पंजाब टी-ट्वेंटी लीग दो हज़ार छब्बीस में मुंबई इंडियंस के नमन धीर ने तहलका मचा दिया है। अमृतसर सूरमास की तरफ से खेलते हुए नमन ने सिर्फ चौसठ गेंदों पर एक सौ तिहत्तर रन ठोक डाले। इस ऐतिहासिक पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
+    "title": "नमन धीर ने टी20 लीग में बनाए 173 रन",
+    "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।",
     "hashtags": [
       "NamanDhir",
       "SherEPunjabT20",
       "CricketNews",
       "MumbaiIndians",
       "T20Cricket",
-      "CricketHighlights",
-      "SportsNews"
+      "CricketHighlights"
     ],
     "visual_queries": [
-      "Indian cricket stadium match",
-      "cricketer batting aggressively India",
-      "cricket batsman hitting six India"
+      "Indian cricket stadium India",
+      "cricketer batting practice India",
+      "cricket celebration India"
     ],
     "named_person": "Naman Dhir",
     "named_person_hi": "नमन धीर",
@@ -345,26 +462,26 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket stadium match",
-        "credit": "Raunaq Sachdev",
+        "query": "Indian cricket stadium India",
+        "credit": "Ajay Parab",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9559761/pexels-photo-9559761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricketer batting aggressively India",
-        "credit": "Yogendra  Singh",
+        "query": "cricketer batting practice India",
+        "credit": "Steward Masweneng",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket batsman hitting six India",
-        "credit": "Princeton dsouza",
+        "query": "cricket celebration India",
+        "credit": "Umang & Meet",
         "duration_sec": 5
       }
     ],
@@ -373,243 +490,254 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "64 गेंदों पर 173 रन! नमन धीर की तूफानी पारी देख सब हैरान 🔥",
-        "caption": "सिर्फ 64 गेंदों में 173 रन... मैदान पर चौकों-छक्कों की ऐसी आंधी आई कि गेंदबाज भी हैरान रह गए। 🏏\n\nनमन धीर ने अपनी इस ताबड़तोड़ पारी में 16 चौके और 12 गगनचुंबी छक्के जड़कर इतिहास रच दिया। टी20 क्रिकेट में ऐसी पारी शायद ही कभी देखी गई हो।\n\nपूरी कहानी देखें और बताएं, क्या आपने इससे खतरनाक पारी कभी देखी है? 👇\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
+        "title": "नमन धीर ने टी20 लीग में बनाए 173 रन",
+        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
       },
       "instagram": {
         "title": null,
-        "caption": "सिर्फ 64 गेंदों में 173 रन! 🤯 मैदान पर ऐसी आंधी आई कि गेंदबाजों के होश उड़ गए।\n\nनमन धीर ने 16 चौके और 12 छक्के लगाकर तहलका मचा दिया। इस तूफानी पारी का पूरा सच जानने के लिए वीडियो अंत तक देखें। \n\nपसंद आया तो शेयर जरूर करें! 🏏🔥\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
+        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
       },
       "facebook": {
         "title": null,
-        "caption": "क्रिकेट के मैदान पर ऐसा तूफान आया कि अच्छे-अच्छे गेंदबाज पानी मांगते नजर आए। नमन धीर ने सिर्फ 64 गेंदों में 173 रनों की ऐसी पारी खेली जिसे लोग लंबे समय तक याद रखेंगे। 🏏\n\nअपनी इस ऐतिहासिक पारी में उन्होंने 16 चौके और 12 छक्कों की बारिश कर दी। वीडियो में देखिए कैसे उन्होंने रिकॉर्ड तोड़ दिए।\n\nआपको नमन धीर की यह पारी कैसी लगी? कमेंट में बताएं। 👇\n\n#NamanDhir #T20Cricket #CricketNews #BattingRecords #IndianCricket"
+        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
       },
       "hashtags": [
         "NamanDhir",
-        "T20Cricket",
+        "SherEPunjabT20",
         "CricketNews",
-        "BattingRecords",
-        "IndianCricket"
+        "MumbaiIndians",
+        "T20Cricket"
       ]
     },
-    "audio_path": "audio/naman_dhir_t20_league_173_runs_knock.wav",
-    "audio_duration_sec": 25.11,
-    "video_path": "videos/naman_dhir_t20_league_173_runs_knock.mp4",
-    "video_duration_sec": 33.12
+    "audio_path": "audio/naman_dhair_t20_173_runs_knock.wav",
+    "audio_duration_sec": 21.66,
+    "video_path": "videos/naman_dhair_t20_173_runs_knock.mp4",
+    "video_duration_sec": 29.59
   },
   {
-    "topic_label": "rahul_gandhi_air_india_flight_landing_issue",
+    "topic_label": "online_shopping_fraud_device_cow_dung",
     "virality_score": 7,
-    "reason": "High-profile political figure Rahul Gandhi facing a dramatic aborted landing incident in Lucknow.",
+    "reason": "Bizarre and highly relatable online shopping fraud case where a customer received cow dung instead of an Android device.",
     "region": "india",
-    "headline": "एअर इंडिया की फ्लाइट दूसरी बार में हो पाई लैंड, राहुल गांधी भी थे सवार",
-    "source_summary": "कांग्रेस नेता राहुल गांधी को लेकर दिल्ली से लखनऊ आ रही एयर इंडिया की फ्लाइट की दूसरी बार में सुरक्षित लैंडिंग हो पाई. मंगलवार को लैंडिंग के दौरान फ्लाइट को गो-अराउंड करना पड़ा.",
-    "source_url": "https://www.aajtak.in/india/news/story/rahul-gandhi-air-india-flight-landing-two-attempt-in-lucknow-lands-safely-ntcpvp-rpti-2639000-2026-09-08?utm_source=rssfeed",
+    "headline": "ऑनलाइन शॉपिंग का झटका, डिवाइस की जगह निकला गोबर",
+    "source_summary": "ग्रेटर नोएडा के दनकौर में युवक ने ऑनलाइन Android डिवाइस ऑर्डर कर पूरी कीमत चुकाई, लेकिन डिलीवरी में पैकेट खोलने पर गोबर मिला. पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है. पुलिस वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है. वीडियो में जानें पूरा मामला.",
+    "source_url": "https://www.aajtak.in/short-videos/video/greater-noida-dankaur-online-shopping-fraud-android-device-gobar-complaint-details-mmtm-2639008-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T19:59:20+05:30",
-    "hook": "राहुल गांधी की फ्लाइट की लखनऊ में हुई खतरनाक लैंडिंग!",
-    "script_hi": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग के दौरान गो-अराउंड करना पड़ा। इस विमान में कांग्रेस नेता राहुल गांधी भी सवार थे, जो दूसरी बार में सुरक्षित लैंड हो पाया।",
-    "tts_text_hi": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग के दौरान गो-अराउंड करना पड़ा। इस विमान में कांग्रेस नेता राहुल गांधी भी सवार थे, जो दूसरी बार में सुरक्षित लैंड हो पाया।",
-    "title": "राहुल गांधी की फ्लाइट की लखनऊ में गो-अराउंड के बाद सुरक्षित लैंडिंग",
-    "caption": "दिल्ली से लखनऊ आ रही एअर इंडिया की फ्लाइट को मंगलवार को लैंडिंग में दिक्कत आई, जिसमें राहुल गांधी भी सवार थे।",
+    "published": "2026-09-08T20:14:34+05:30",
+    "hook": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह निकला गोबर!",
+    "script_hi": "ऑनलाइन शॉपिंग करने वालों के लिए बड़ा झटका है! ग्रेटर नोएडा के दनकौर में एक युवक ने एंड्रॉइड डिवाइस ऑर्डर किया और पूरी कीमत चुकाई। लेकिन जब पैकेट खोला, तो अंदर डिवाइस की जगह गोबर निकला! पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है। पुलिस अब वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है।",
+    "tts_text_hi": "ऑनलाइन शॉपिंग करने वालों के लिए बड़ा झटका है! ग्रेटर नोएडा के दनकौर में एक युवक ने एंड्रॉइड डिवाइस ऑर्डर किया और पूरी कीमत चुकाई। लेकिन जब पैकेट खोला, तो अंदर डिवाइस की जगह गोबर निकला! पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है। पुलिस अब वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है।",
+    "title": "ऑनलाइन शॉपिंग का झटका, डिवाइस की जगह निकला गोबर",
+    "caption": "ग्रेटर नोएडा के दनकौर में ऑनलाइन मंगाया एंड्रॉइड डिवाइस, पैकेट खोला तो अंदर निकला गोबर। पीड़ित ने दर्ज कराई शिकायत। #GreaterNoida #OnlineShoppingScam #Fraud #IndiaNews",
     "hashtags": [
-      "RahulGandhi",
-      "AirIndia",
-      "LucknowNews",
-      "BreakingNews",
-      "IndiaNews"
+      "#GreaterNoida",
+      "#OnlineShoppingScam",
+      "#Fraud",
+      "#IndiaNews",
+      "#CyberCrime",
+      "#CrimeNews"
     ],
     "visual_queries": [
-      "Air India airplane India",
-      "Lucknow airport terminal India",
-      "Indian politician speech India"
+      "smartphone online shopping India",
+      "delivery man package India",
+      "police station India"
     ],
-    "named_person": "Rahul Gandhi",
-    "named_person_hi": "राहुल गांधी",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "राहुल गांधी",
-        "source": "fallback",
-        "query": "Rahul Gandhi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/27532361/12161254_720_1280_55fps.mp4",
-        "source": "pexels",
-        "query": "Lucknow airport terminal India",
-        "credit": "Dilip Giri",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Air India airplane India",
-        "credit": "shyam mishra",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician speech India",
-        "credit": "Voters Party International",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "लखनऊ में राहुल गांधी की फ्लाइट की खतरनाक लैंडिंग! ✈️",
-        "caption": "खराब मौसम या कुछ और? लखनऊ एयरपोर्ट पर राहुल गांधी की फ्लाइट को अचानक क्यों लेना पड़ा 'गो-अराउंड'? 😱\n\nकांग्रेस सांसद राहुल गांधी दिल्ली से लखनऊ आ रहे थे, तभी लैंडिंग के वक्त पायलट को तकनीकी या मौसम संबंधी कारणों से प्लेन को हवा में ही दोबारा घुमाना पड़ा। गनीमत ये रही कि दूसरी कोशिश में विमान सुरक्षित उतर गया।\n\nपूरी खबर के लिए वीडियो देखें और अपनी राय कमेंट करें। 👇\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लखनऊ में राहुल गांधी की फ्लाइट की खतरनाक लैंडिंग! ✈️\n\nलैंडिंग से ठीक पहले अचानक क्या हुआ कि पायलट को विमान हवा में ही दोबारा घुमाना पड़ा? राहुल गांधी भी इस फ्लाइट में सवार थे।\n\nवीडियो अंत तक देखें और शेयर करें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "लखनऊ एयरपोर्ट पर उस वक्त हड़कंप मच गया जब राहुल गांधी को लेकर आ रही एअर इंडिया की फ्लाइट एक बार में लैंड नहीं हो पाई। ✈️\n\nखराब हालात या तकनीकी दिक्कत की वजह से पायलट को 'गो-अराउंड' लेना पड़ा और विमान को हवा में ही दोबारा चक्कर काटने पड़े। हालांकि, दूसरी कोशिश में फ्लाइट सुरक्षित उतर गई और सभी ने राहत की सांस ली।\n\nपूरा मामला जानने के लिए वीडियो देखें।\n\n#RahulGandhi #AirIndia #LucknowAirport #BreakingNews #FlightUpdate"
-      },
-      "hashtags": [
-        "RahulGandhi",
-        "AirIndia",
-        "LucknowAirport",
-        "BreakingNews",
-        "FlightUpdate"
-      ]
-    },
-    "audio_path": "audio/rahul_gandhi_air_india_flight_landing_issue.wav",
-    "audio_duration_sec": 13.08,
-    "video_path": "videos/rahul_gandhi_air_india_flight_landing_issue.mp4",
-    "video_duration_sec": 21.12
-  },
-  {
-    "topic_label": "singapore_pm_salary_increase_global",
-    "virality_score": 7,
-    "reason": "Global curiosity piece detailing the massive salary hike of the world's highest-paid prime minister.",
-    "region": "global",
-    "headline": "Highest paid world leader to get salary increase of $1 million",
-    "source_summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-    "source_url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Tue, 08 Sep 2026 09:20:05 GMT",
-    "hook": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा!",
-    "script_hi": "सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सालाना सैलरी बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन डॉलर हो गई है। इसके साथ ही वे दुनिया के सबसे ज्यादा वेतन पाने वाले नेता बन गए हैं।",
-    "tts_text_hi": "सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सालाना सैलरी बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर यानी करीब दो दशमलव आठ मिलियन डॉलर हो गई है। इसके साथ ही वे दुनिया के सबसे ज्यादा वेतन पाने वाले नेता बन गए हैं.",
-    "title": "सिंगापुर के पीएम लॉरेंस वॉन्ग की सैलरी में बंपर इजाफा",
-    "caption": "दुनिया के सबसे ज्यादा वेतन पाने वाले नेता सिंगापुर के प्रधानमंत्री लॉरेंस वॉन्ग की सैलरी अब बढ़कर तीन दशमलव छह मिलियन सिंगापुर डॉलर हो गई है।",
-    "hashtags": [
-      "Singapore",
-      "LawrenceWong",
-      "PrimeMinister",
-      "WorldNews",
-      "SalaryHike",
-      "GlobalLeaders"
-    ],
-    "visual_queries": [
-      "Singapore government building exterior",
-      "Singapore financial district skyline"
-    ],
-    "named_person": "Lawrence Wong",
-    "named_person_hi": "लॉरेंस वॉन्ग",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "लॉरेंस वॉन्ग",
-        "source": "fallback",
-        "query": "Lawrence Wong",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38060686/pexels-photo-38060686.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Singapore government building exterior",
-        "credit": "Shlok Rana",
+        "query": "smartphone online shopping India",
+        "credit": "Eva Bronzini",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38060678/pexels-photo-38060678.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4440888/pexels-photo-4440888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Singapore financial district skyline",
-        "credit": "Shlok Rana",
+        "query": "person opening parcel box",
+        "credit": "Polina Tankilevitch",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9022703/pexels-photo-9022703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Singapore skyline drone shot",
-        "credit": "Rockwell branding agency",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33416446/pexels-photo-33416446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34834077/pexels-photo-34834077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "busy Singapore street view",
-        "credit": "CK Seng",
+        "query": "angry customer talking on phone",
+        "credit": "Guillermo Berlin",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31231827/pexels-photo-31231827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4498135/pexels-photo-4498135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern Singapore business district",
-        "credit": "Richard L",
+        "query": "unpacking delivery box at home",
+        "credit": "https://kaboompics.com/",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32073789/pexels-photo-32073789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7172791/pexels-photo-7172791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "wealthy city financial center",
-        "credit": "Andy Lee",
+        "query": "online shopping scam concept",
+        "credit": "Nataliya Vaitkevich",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4506219/pexels-photo-4506219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "frustrated man holding package",
+        "credit": "https://kaboompics.com/",
         "duration_sec": 4.3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 29.8,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दुनिया के सबसे महंगे PM की सैलरी में $10 लाख का इजाफा! 🇸🇬",
-        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। जानिए दुनिया के किस नेता को मिलती है सबसे ज्यादा सैलरी।\n\nपूरी कहानी वीडियो में देखें।\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
+        "title": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर 📦",
+        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nमहंगा इलेक्ट्रॉनिक सामान मंगवाने पर जब ग्राहक ने डिब्बा खोला, तो अंदर का नजारा देखकर उसके होश उड़ गए। डिलीवरी बॉय के सामने ही सारा सच सामने आ गया।\n\nआपके साथ भी कभी ऐसा हुआ है क्या? पूरी कहानी देखें और सतर्क रहें।\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
       },
       "instagram": {
         "title": null,
-        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। मंत्रियों की सैलरी प्राइवेट सेक्टर के टैलेंट को खींचने के लिए बढ़ाई गई है। \n\nक्या लगता है, नेताओं की सैलरी इतनी होनी चाहिए? कॉमेंट में बताएं। 👇\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
+        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nमहंगा सामान मंगवाया था, पर डिब्बा खुला तो अंदर से गोबर निकला। होश उड़ा देने वाला ये मामला सोशल मीडिया पर वायरल है।\n\nक्या आपके साथ भी कभी ऐसा फ्रॉड हुआ है? कमेंट में बताएं और वीडियो शेयर करें!\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
       },
       "facebook": {
         "title": null,
-        "caption": "दुनिया के सबसे महंगे प्रधानमंत्री की सैलरी में बंपर इजाफा! 💸\n\nसिंगापुर के पीएम लॉरेंस वॉन्ग की सालाना तनख्वाह अब बढ़कर 2.5 मिलियन डॉलर यानी करीब 21 करोड़ रुपये हो गई है। सिंगापुर सरकार का मानना है कि मंत्रियों को देश के टॉप सीईओ के बराबर सैलरी मिलनी चाहिए ताकि भ्रष्टाचार से बचा जा सके और बेहतरीन लोग आगे आएं।\n\nपूरी जानकारी के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#LawrenceWong #SingaporePM #WorldNews #GlobalLeaders #HighestPaid"
+        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nआजकल ऑनलाइन ऑर्डर करना कितना भारी पड़ सकता है, इसका एक ताजा उदाहरण सामने आया है। एक शख्स ने बड़े अरमानों से महंगा इलेक्ट्रॉनिक डिवाइस मंगवाया था, लेकिन जब डिलीवरी मिलने के बाद उसने पैकेट खोला, तो अंदर डिवाइस की बजाय गोबर भरा हुआ मिला।\n\nयह वीडियो देखकर आप भी हैरान रह जाएंगे कि कैसे आजकल ग्राहकों के साथ खुलेआम ठगी हो रही है। इस तरह के ऑनलाइन फ्रॉड से बचने के लिए पार्सल हमेशा डिलीवरी बॉय के सामने ही खोलें।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ भी शेयर करें ताकि वे भी सावधान रहें।\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
       },
       "hashtags": [
-        "LawrenceWong",
-        "SingaporePM",
-        "WorldNews",
-        "GlobalLeaders",
-        "HighestPaid"
+        "OnlineShopping",
+        "ShoppingScam",
+        "ViralNews",
+        "ConsumerFraud",
+        "DesiJugaad"
       ]
     },
-    "audio_path": "audio/singapore_pm_salary_increase_global.wav",
-    "audio_duration_sec": 15.35,
-    "video_path": "videos/singapore_pm_salary_increase_global.mp4",
-    "video_duration_sec": 23.29
+    "audio_path": "audio/online_shopping_fraud_device_cow_dung.wav",
+    "audio_duration_sec": 23.1,
+    "video_path": "videos/online_shopping_fraud_device_cow_dung.mp4",
+    "video_duration_sec": 31.15
+  },
+  {
+    "topic_label": "uk_air_traffic_control_system_glitch",
+    "virality_score": 6,
+    "reason": "Massive international travel disruption affecting hundreds of flights across major UK airports.",
+    "region": "india",
+    "headline": "UK: एयर ट्रैफिक कंट्रोल सिस्टम में खराबी से हड़कंप, सैकड़ों उड़ानों पर असर",
+    "source_summary": "NATS के फ्लाइट प्रोसेसिंग सिस्टम में तकनीकी खराबी से ब्रिटेन के हीथ्रो, गैटविक समेत कई एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुईं. करीब 300 कैंसिलेशन और बड़ी संख्या में देरी हुई. NATS ने फिक्स लागू कर सिस्टम रिकवर होने की जानकारी दी, लेकिन यात्रियों को आगे भी परेशानी हो सकती है.",
+    "source_url": "https://www.aajtak.in/world/story/uk-air-traffic-control-glitch-nats-flights-delayed-cancelled-ntc-apdy-dskc-2639083-2026-09-08?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-08T23:02:13+05:30",
+    "hook": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द!",
+    "script_hi": "ब्रिटेन के एयर ट्रैफिक कंट्रोल सिस्टम में तकनीकी खराबी आने से हड़कंप मच गया है। हीथ्रो और गैटविक समेत कई बड़े एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुई हैं। करीब तीन सौ उड़ानें रद्द करनी पड़ीं और भारी देरी दर्ज की गई। हालांकि एनएटीएस ने सिस्टम ठीक होने का दावा किया है, लेकिन यात्रियों को आगे भी परेशानी का सामना करना पड़ सकता है।",
+    "tts_text_hi": "ब्रिटेन के एयर ट्रैफिक कंट्रोल सिस्टम में तकनीकी खराबी आने से हड़कंप मच गया है। हीथ्रो और गैटविक समेत कई बड़े एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुई हैं। करीब तीन सौ उड़ानें रद्द करनी पड़ीं और भारी देरी दर्ज की गई। हालांकि एनएटीएस ने सिस्टम ठीक होने का दावा किया है, लेकिन यात्रियों को आगे भी परेशानी का सामना करना पड़ सकता है।",
+    "title": "ब्रिटेन में एयर ट्रैफिक कंट्रोल सिस्टम फेल, सैकड़ों उड़ानें प्रभावित",
+    "caption": "ब्रिटेन के एयर ट्रैफिक कंट्रोल में तकनीकी खराबी से सैकड़ों उड़ानें प्रभावित हुईं। हीथ्रो और गैटविक एयरपोर्ट पर यात्रियों को भारी परेशानी का सामना करना पड़ा।",
+    "hashtags": [
+      "UKNews",
+      "HeathrowAirport",
+      "FlightDelays",
+      "BreakingNews",
+      "Aviation"
+    ],
+    "visual_queries": [
+      "airport terminal crowd",
+      "airplane on runway",
+      "air traffic control tower"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35576122/15075190_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "air traffic control tower",
+        "credit": "Content Kiosk",
+        "source_duration_sec": 5,
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane on runway",
+        "credit": "Juan  Hernández",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29149927/pexels-photo-29149927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "passengers waiting at airport",
+        "credit": "kamanda X",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36681355/pexels-photo-36681355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flight departure board",
+        "credit": "Bor Jinson",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18695674/pexels-photo-18695674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people at airport lounge",
+        "credit": "Lucas Mota",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨",
+        "caption": "ब्रिटेन में आसमान की रफ्तार अचानक थम गई। एयर ट्रैफिक कंट्रोल सिस्टम में अचानक तकनीकी खराबी आने से सैकड़ों उड़ानें रद्द करनी पड़ीं और हजारों यात्री एयरपोर्ट पर ही फंस गए।\n\nआपकी यात्रा कभी ऐसी स्थिति में फंसी है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nआसमान की रफ्तार अचानक थम गई है। सिस्टम में तकनीकी खराबी के चलते हजारों यात्री एयरपोर्ट पर फंस गए हैं।\n\nपूरी कहानी देखें और शेयर करें!\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nअचानक आई एक तकनीकी खराबी ने ब्रिटेन के पूरे हवाई नेटवर्क को ठप कर दिया। सैकड़ों उड़ानें या तो रद्द हो चुकी हैं या घंटों की देरी से चल रही हैं, जिससे हजारों यात्री अलग-अलग एयरपोर्ट पर परेशान हो रहे हैं।\n\nपूरी कहानी देखें कि आखिर ये गड़बड़ी कहां और कैसे हुई।\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
+      },
+      "hashtags": [
+        "UKNews",
+        "AviationNews",
+        "AirTrafficControl",
+        "FlightDelay",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/uk_air_traffic_control_system_glitch.wav",
+    "audio_duration_sec": 23.39,
+    "video_path": "videos/uk_air_traffic_control_system_glitch.mp4",
+    "video_duration_sec": 31.36
   }
 ]
