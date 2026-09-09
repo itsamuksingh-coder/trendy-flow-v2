@@ -1,31 +1,356 @@
 [
   {
-    "topic_label": "us_strikes_iranian_oil_tankers_escalation",
+    "topic_label": "apple_iphone_18_fold_ultra_launch",
     "virality_score": 9,
-    "reason": "High-impact global conflict escalation involving US and Iranian oil tankers with direct oil price implications.",
+    "reason": "Apple launching the new iPhone 18 Pro series and its first foldable iPhone Ultra creates massive tech interest.",
     "region": "india",
-    "headline": "ईरानी टैंकरों पर US का हमला, कुवैत-बहरीन के तेल जहाजों को ईरान की धमकी",
-    "source_summary": "ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं. हालांकि, किसी जहाज को नुकसान नहीं पहुंचा. इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर हमला किया. इससे खाड़ी क्षेत्र में तनाव बढ़ गया है",
+    "headline": "Apple का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra",
+    "source_summary": "Apple का बुधवार (9 सितंबर) को एक बड़ा इवेंट होने जा रहा है, जिसमें कंपनी अपनी लेटेस्ट iPhone 18 Pro सीरीज और iPhone Fold Ultra को लॉन्च करेगी. साथ ही इस दौरान न्यू बड्स और वॉच भी लॉन्च होगी. आइए इसके बारे में डिटेल्स में जानते हैं.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-iphone-18-pro-max-iphone-fold-ultra-ttecr-dskc-2639130-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T07:07:04+05:30",
+    "hook": "एप्पल का सबसे बड़ा धमाका आज!",
+    "script_hi": "एप्पल का आज बड़ा इवेंट होने जा रहा है, जिसमें कंपनी पहली बार अपना फोल्डेबल फोन आईफोन फोल्ड अल्ट्रा लॉन्च करेगी। इसके साथ ही लेटेस्ट आईफोन अठारह प्रो सीरीज, नए बड्स और नई वॉच भी पेश की जाएंगी।",
+    "tts_text_hi": "एप्पल का आज बड़ा इवेंट होने जा रहा है, जिसमें कंपनी पहली बार अपना फोल्डेबल फोन आईफोन फोल्ड अल्ट्रा लॉन्च करेगी। इसके साथ ही लेटेस्ट आईफोन अठारह प्रो सीरीज, नए बड्स और नई वॉच भी पेश की जाएंगी।",
+    "title": "Apple Launch Event 2026: iPhone Fold Ultra",
+    "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।",
+    "hashtags": [
+      "#AppleEvent",
+      "#iPhoneFoldUltra",
+      "#iPhone18Pro",
+      "#AppleNews",
+      "#TechNews",
+      "#Gadgets"
+    ],
+    "visual_queries": [
+      "Apple event stage India",
+      "futuristic folding smartphone India",
+      "modern smartwatch India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "consumer electronics store",
+        "credit": "Kuiyibo Campos",
+        "source_duration_sec": 3,
+        "duration_sec": 3
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6612457/6612457-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "people buying new phone",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "consumer electronics store",
+        "credit": "Kuiyibo Campos",
+        "source_duration_sec": 3,
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19281810/pexels-photo-19281810.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic folding smartphone India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18259150/pexels-photo-18259150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern smartwatch India",
+        "credit": "Akshay Anil",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/23856859/pexels-photo-23856859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone launch event",
+        "credit": "Катерина  Жосул",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person using smartphone India",
+        "credit": "Kewal Nagda",
+        "duration_sec": 4.5
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Apple Launch Event 2026: iPhone Fold Ultra",
+        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
+      },
+      "hashtags": [
+        "#AppleEvent",
+        "#iPhoneFoldUltra",
+        "#iPhone18Pro",
+        "#AppleNews",
+        "#TechNews"
+      ]
+    },
+    "audio_path": "audio/apple_iphone_18_fold_ultra_launch.wav",
+    "audio_duration_sec": 14.18,
+    "video_path": "videos/apple_iphone_18_fold_ultra_launch.mp4",
+    "video_duration_sec": 22.23,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-09T02:40:45.931723+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0c746f569f2c36fe14395",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788921669089_x24jbynz_apple_iphone_18_fold_ultra_launch.mp4",
+                "_id": "6aa0c746f569f2c36fe14396"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T02:41:10.223Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "abe5c357321769f11cee4302f33206ef",
+                "_id": "6aa0c746f569f2c36fe14397",
+                "platformPostId": "1630573351907915",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1630573351907915",
+                "publishedAt": "2026-09-09T02:41:17.325Z"
+              }
+            ],
+            "scheduledFor": "2026-09-09T02:41:10.223Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T02:41:10.853Z",
+            "updatedAt": "2026-09-09T02:41:17.464Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T02:41:10.925Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T02:41:17.628004+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0c76c6777f5f4763ac1b1",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788921706938_9jotipxl_apple_iphone_18_fold_ultra_launch.mp4",
+                "_id": "6aa0c76c6777f5f4763ac1b2"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T02:41:47.820Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "c78336b6faf6bb7def242becc13a9f85",
+                "_id": "6aa0c76c6777f5f4763ac1b3"
+              }
+            ],
+            "scheduledFor": "2026-09-09T02:41:47.820Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T02:41:48.578Z",
+            "updatedAt": "2026-09-09T02:41:50.044Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T02:41:48.637Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T02:41:50.362029+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "guwahati_wife_murder_husband_confession",
+    "virality_score": 8,
+    "reason": "Chilling confession by a husband in Guwahati regarding a brutal murder with a severed head found in a fridge.",
+    "region": "india",
+    "headline": "कुत्ते को बॉडी खिलाने का था प्लान... रिया हत्याकांड में पति का कुबूलनामा",
+    "source_summary": "असम के गुवाहाटी में 25 वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में जांच के दौरान खौफनाक खुलासा हुआ है. पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने कथित तौर पर बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी. रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा मिला था.",
+    "source_url": "https://www.aajtak.in/india/news/story/husband-killed-hot-wife-sugar-daddy-affaire-head-put-fridge-plan-feed-to-dead-body-dog-riya-murder-case-horror-story-lcly-dskc-2639142-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T07:25:43+05:30",
+    "hook": "असम के गुवाहाटी से एक दिल दहला देने वाला मामला सामने आया है!",
+    "script_hi": "असम के गुवाहाटी में पच्चीस वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में खौफनाक खुलासा हुआ है। पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने पूछताछ में बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी। रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा हुआ बरामद किया गया था।",
+    "tts_text_hi": "असम के गुवाहाटी में पच्चीस वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में खौफनाक खुलासा हुआ है। पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने पूछताछ में बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी। रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा हुआ बरामद किया गया था।",
+    "title": "गुवाहाटी हत्याकांड: पत्नी के शव को कुत्ते को खिलाने का था प्लान",
+    "caption": "असम के गुवाहाटी में रिया हत्याकांड मामले में आरोपी पति रामानुज गोस्वामी का सनसनीखेज कबूलनामा सामने आया है।",
+    "hashtags": [
+      "GuwahatiNews",
+      "AssamPolice",
+      "CrimeNews",
+      "IndiaCrime",
+      "GuwahatiCrime"
+    ],
+    "visual_queries": [
+      "police station India",
+      "forensic investigation India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves an unproven criminal accusation and confession from a named individual before formal conviction, requiring manual review for defamation and legal risk.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "forensic investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "us_iran_oil_tanker_attacks_escalation",
+    "virality_score": 8,
+    "reason": "High-stakes global military escalation as the US destroys five Iranian oil tankers following missile attacks.",
+    "region": "india",
+    "headline": "अमेरिका-ईरान में फिर छिड़ी &#039;तेल की जंग&#039;, 5 ईरानी ऑयल टैंकर तबाह",
+    "source_summary": "ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं. हालांकि, किसी जहाज को नुकसान नहीं पहुंचा. इसके जवाब में अमेरिका ने ईरान से जुड़े 5 तेल टैंकरों पर हमला किया. इससे खाड़ी क्षेत्र में तनाव बढ़ गया है",
     "source_url": "https://www.aajtak.in/world/story/iran-launched-second-wave-of-attacks-on-us-navy-ships-middle-east-war-ntc-aktw-dskc-2639115-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-09T02:23:49+05:30",
-    "hook": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है!",
-    "script_hi": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है। ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। हालांकि गनीमत यह रही कि किसी भी जहाज को नुकसान नहीं पहुंचा। इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर जोरदार हमला किया। इस सैन्य कार्रवाई के बाद खाड़ी क्षेत्र में तनाव बेहद बढ़ गया है और हालात तनावपूर्ण बने हुए हैं।",
-    "tts_text_hi": "अमेरिका और ईरान के बीच मध्य पूर्व में महायुद्ध का खतरा मंडरा रहा है। ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। हालांकि गनीमत यह रही कि किसी भी जहाज को नुकसान नहीं पहुंचा। इसके जवाब में अमेरिका ने ईरान से जुड़े तीन तेल टैंकरों पर जोरदार हमला किया। इस सैन्य कार्रवाई के बाद खाड़ी क्षेत्र में तनाव बेहद बढ़ गया है और हालात तनावपूर्ण बने हुए हैं।",
-    "title": "US Iran Conflict: अमेरिका और ईरान में छिड़ी जंग?",
-    "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।",
+    "hook": "अमेरिका और ईरान के बीच फिर भड़की तेल की जंग!",
+    "script_hi": "अमेरिका और ईरान के बीच तनाव चरम पर पहुँच गया है। ईरान ने अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। इसके जवाब में अमेरिका ने ईरान से जुड़े पाँच तेल टैंकरों को तबाह कर दिया है। इस कार्रवाई से खाड़ी क्षेत्र में युद्ध जैसे हालात बन गए हैं।",
+    "tts_text_hi": "अमेरिका और ईरान के बीच तनाव चरम पर पहुँच गया है। ईरान ने अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। इसके जवाब में अमेरिका ने ईरान से जुड़े पाँच तेल टैंकरों को तबाह कर दिया है। इस कार्रवाई से खाड़ी क्षेत्र में युद्ध जैसे हालात बन गए हैं।",
+    "title": "अमेरिका और ईरान में फिर छिड़ी तेल की जंग",
+    "caption": "अमेरिका और ईरान के बीच तनाव बढ़ा, पाँच ईरानी ऑयल टैंकर तबाह।",
     "hashtags": [
-      "USIran",
-      "MiddleEast",
-      "BreakingNews",
-      "WorldNews",
-      "USNavy",
-      "IranNews",
-      "GlobalNews"
+      "#USIran",
+      "#OilWar",
+      "#MiddleEast",
+      "#BreakingNews",
+      "#USA",
+      "#Iran"
     ],
     "visual_queries": [
-      "US Navy warship sea",
-      "missile launch explosion",
+      "US Navy warship ocean",
+      "missile launch smoke sky",
       "burning oil tanker sea",
       "Middle East military conflict"
     ],
@@ -38,15 +363,6 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/26329253/11948322_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "oil tanker middle east",
-        "credit": "Thiago  Matos",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
         "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
         "source": "pexels",
         "query": "Middle East military conflict",
@@ -56,54 +372,62 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13753320/pexels-photo-13753320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36676455/pexels-photo-36676455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US Navy warship sea",
-        "credit": "Ben Libby",
+        "query": "US Navy warship ocean",
+        "credit": "Monique Candido",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "oil tankers at sea",
+        "credit": "Burak  Başgöze",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/12366464/pexels-photo-12366464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Middle East oil tankers",
+        "query": "Middle East oil tankers sea",
         "credit": "Bayu Prakosa",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "US Iran Conflict: अमेरिका और ईरान में छिड़ी जंग?",
-        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+        "title": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️ जंग का नया मोर्चा",
+        "caption": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nमिडिल ईस्ट में तनाव एक बार फिर खतरनाक स्तर पर पहुंच गया है। अमेरिकी कार्रवाई के बाद ग्लोबल मार्केट में खलबली मच गई है।\n\nक्या ये तीसरे विश्व युद्ध की शुरुआत है? पूरी कहानी देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+        "caption": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nसमुद्र के बीचों-बीच अचानक भड़की इस जंग ने सबको हैरान कर दिया है। कच्चे तेल की सप्लाई पर मंडरा रहे इस बड़े संकट का असर क्या होगा?\n\nकमेंट में बताएं आपको क्या लगता है।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy"
+        "caption": "अमेरिका और ईरान के बीच एक बार फिर सीधी जंग छिड़ गई है। अमेरिकी सेना ने कार्रवाई करते हुए ईरान के 5 बड़े ऑयल टैंकरों को पूरी तरह तबाह कर दिया है। 🛢️🔥\n\nइस अचानक हुए हमले से खाड़ी देशों में हड़कंप मच गया है और तेल की कीमतों पर भी इसका सीधा असर पड़ना तय है। पूरी कहानी वीडियो में देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
       },
       "hashtags": [
-        "USIran",
-        "MiddleEast",
+        "USIranConflict",
+        "OilTanker",
         "BreakingNews",
-        "WorldNews",
-        "USNavy"
+        "MiddleEast",
+        "WorldNews"
       ]
     },
-    "audio_path": "audio/us_strikes_iranian_oil_tankers_escalation.wav",
-    "audio_duration_sec": 29.19,
-    "video_path": "videos/us_strikes_iranian_oil_tankers_escalation.mp4",
-    "video_duration_sec": 37.22,
+    "audio_path": "audio/us_iran_oil_tanker_attacks_escalation.wav",
+    "audio_duration_sec": 18.2,
+    "video_path": "videos/us_iran_oil_tanker_attacks_escalation.mp4",
+    "video_duration_sec": 26.22,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:06:10.303411+00:00"
+        "attempted_at": "2026-09-09T02:46:03.446750+00:00"
       },
       "facebook": {
         "success": true,
@@ -116,15 +440,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0b1186104e84a7907b35c",
+            "_id": "6aa0c88881d80bb347199f89",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy",
+            "content": "अमेरिका और ईरान के बीच एक बार फिर सीधी जंग छिड़ गई है। अमेरिकी सेना ने कार्रवाई करते हुए ईरान के 5 बड़े ऑयल टैंकरों को पूरी तरह तबाह कर दिया है। 🛢️🔥\n\nइस अचानक हुए हमले से खाड़ी देशों में हड़कंप मच गया है और तेल की कीमतों पर भी इसका सीधा असर पड़ना तय है। पूरी कहानी वीडियो में देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788915988477_mdkv1eb2_us_strikes_iranian_oil_tankers_escalation.mp4",
-                "_id": "6aa0b1186104e84a7907b35d"
+                "url": "https://media.zernio.com/media/1788921990759_il5eidl6_us_iran_oil_tanker_attacks_escalation.mp4",
+                "_id": "6aa0c88881d80bb347199f8a"
               }
             ],
             "platforms": [
@@ -141,17 +465,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T01:06:31.423Z",
+                "scheduledFor": "2026-09-09T02:46:32.015Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "35d10d3e580d59bed87c0b3c353b4f8b",
-                "_id": "6aa0b1186104e84a7907b35e",
-                "platformPostId": "961267766998630",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=961267766998630",
-                "publishedAt": "2026-09-09T01:06:42.406Z"
+                "contentHash": "87a4b83af1ab599eb147c1d95025ce8b",
+                "_id": "6aa0c88881d80bb347199f8b",
+                "platformPostId": "1807790114005394",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1807790114005394",
+                "publishedAt": "2026-09-09T02:46:40.727Z"
               }
             ],
-            "scheduledFor": "2026-09-09T01:06:31.423Z",
+            "scheduledFor": "2026-09-09T02:46:32.015Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -163,14 +487,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:06:32.753Z",
-            "updatedAt": "2026-09-09T01:06:42.622Z",
+            "createdAt": "2026-09-09T02:46:32.642Z",
+            "updatedAt": "2026-09-09T02:46:40.837Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:06:32.859Z"
+            "publishingClaimedAt": "2026-09-09T02:46:32.758Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T01:06:42.875177+00:00"
+        "attempted_at": "2026-09-09T02:46:41.011607+00:00"
       },
       "instagram": {
         "success": true,
@@ -183,15 +507,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0b144fdd8a2def66cf94a",
+            "_id": "6aa0c8a85836cf0f405fa4a0",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और ईरान के बीच तनाव चरम पर, अमेरिकी जहाजों पर मिसाइल हमले के बाद अमेरिका ने किए तेल टैंकर तबाह।\n\n#USIran #MiddleEast #BreakingNews #WorldNews #USNavy",
+            "content": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nसमुद्र के बीचों-बीच अचानक भड़की इस जंग ने सबको हैरान कर दिया है। कच्चे तेल की सप्लाई पर मंडरा रहे इस बड़े संकट का असर क्या होगा?\n\nकमेंट में बताएं आपको क्या लगता है।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788916033175_zetbapjw_us_strikes_iranian_oil_tankers_escalation.mp4",
-                "_id": "6aa0b144fdd8a2def66cf94b"
+                "url": "https://media.zernio.com/media/1788922023171_obvb7lr4_us_iran_oil_tanker_attacks_escalation.mp4",
+                "_id": "6aa0c8a85836cf0f405fa4a1"
               }
             ],
             "platforms": [
@@ -208,14 +532,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T01:07:14.861Z",
+                "scheduledFor": "2026-09-09T02:47:04.069Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "62c7dcd5fb4b4cc44f5ae899a0934666",
-                "_id": "6aa0b144fdd8a2def66cf94c"
+                "contentHash": "55e1191dc8385249d2e4a2b8a1001b22",
+                "_id": "6aa0c8a85836cf0f405fa4a2"
               }
             ],
-            "scheduledFor": "2026-09-09T01:07:14.861Z",
+            "scheduledFor": "2026-09-09T02:47:04.069Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -227,51 +551,51 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:07:16.181Z",
-            "updatedAt": "2026-09-09T01:07:19.671Z",
+            "createdAt": "2026-09-09T02:47:04.634Z",
+            "updatedAt": "2026-09-09T02:47:06.369Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:07:16.809Z"
+            "publishingClaimedAt": "2026-09-09T02:47:04.703Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T01:07:20.202859+00:00"
+        "attempted_at": "2026-09-09T02:47:06.685959+00:00"
       }
     }
   },
   {
-    "topic_label": "fake_pmo_officer_gun_mumbai_pm_modi",
+    "topic_label": "mumbai_pm_modi_event_fake_pmo_arrest",
     "virality_score": 8,
-    "reason": "Major security scare in Mumbai right before PM Modi's event with a fake PMO ID and a gun.",
+    "reason": "Security scare in Mumbai with the arrest of a fake PMO officer and armed bodyguard near PM Modi's venue.",
     "region": "india",
     "headline": "PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
     "source_summary": "मुंबई में पीएम मोदी की मंगलवार को रैली से पहले दो संदिग्धों को पुलिस ने हिरासत में लिया. जिनके पास से बंदूक बरामद हुई है. एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था. उनके पास से PMO का फर्जी आई़डी कार्ड भी मिला. नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से ये दोनों संदिग्ध डिटेन किए गए. देखें वीडियो.",
     "source_url": "https://www.aajtak.in/india/news/video/pm-modi-mumbai-event-nita-ambani-cultural-center-security-scare-fake-pmo-officer-suspect-detained-vdot-2638910-2026-09-08?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-08T17:29:47+05:30",
-    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले बड़ा सुरक्षा खतरा!",
-    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से ठीक पहले दो संदिग्धों को पुलिस ने हिरासत में लिया है। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
-    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से ठीक पहले दो संदिग्धों को पुलिस ने हिरासत में लिया है। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी आई कार्ड बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
-    "title": "मुंबई में पीएम मोदी की रैली से पहले दो संदिग्ध गिरफ्तार, बंदूक और फर्जी आई कार्ड बरामद",
-    "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को हिरासत में लिया गया। नीता मुकेश अंबानी कल्चर सेंटर के पास से पकड़े गए आरोपियों के पास बंदूक और पीएमओ का फर्जी आई कार्ड मिला है।",
+    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले बड़ा सुरक्षा खतरा टला!",
+    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को पकड़ा गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
+    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को पकड़ा गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
+    "title": "मुंबई में पीएम मोदी के इवेंट से पहले दो संदिग्ध गिरफ्तार",
+    "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम स्थल के पास से दो संदिग्धों को पकड़ा गया, जिनके पास से बंदूक और पीएमओ का फर्जी आईडी कार्ड बरामद हुआ।",
     "hashtags": [
       "MumbaiNews",
       "PMModi",
-      "MumbaiPolice",
       "SecurityAlert",
       "BreakingNews",
+      "MaharashtraPolice",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Mumbai street India",
-      "police investigation India",
-      "Mumbai police officer India"
+      "Mumbai police checkpoint India",
+      "police interrogation room India",
+      "security force India"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The summary mentions 'देखें वीडियो' indicating this is based on a specific viral video report, which requires manual footage verification.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
@@ -282,620 +606,330 @@
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34446072/14595543_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "Mumbai police checkpoint India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 85,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "police interrogation room India",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 18,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13282265/pexels-photo-13282265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai street India",
-        "credit": "Rizwan Sayyed",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13232561/pexels-photo-13232561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai police officer India",
-        "credit": "Shivam Maurya",
+        "query": "security force India",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 21.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पीएम मोदी की रैली से ठीक पहले पकड़े गए संदिग्ध! 🚨",
+        "caption": "पीएम मोदी के कार्यक्रम से ठीक पहले सुरक्षा एजेंसियों ने दो संदिग्धों को दबोच लिया है। उनके पास से हथियार भी बरामद हुए हैं, जिससे हड़कंप मच गया है। 🔍\n\nइतनी कड़ी सुरक्षा के बावजूद आखिर ये लोग वहां तक कैसे पहुंचे? पूरी कहानी देखें। 👇\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पीएम मोदी के इवेंट से पहले पकड़े गए हथियारबंद संदिग्ध! 🚨 सुरक्षा में यह चूक कैसे हुई और पुलिस ने इन्हें कैसे दबोचा? देखिए पूरी कहानी। 👁️\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम वाली जगह पर उस वक्त हड़कंप मच गया जब सुरक्षा एजेंसियों ने बंदूक के साथ घूम रहे संदिग्धों को दबोच लिया। 🚨\n\nआखिर ये संदिग्ध वहां किस इरादे से पहुंचे थे और पुलिस ने इन्हें कैसे पकड़ा? जानिए पूरी बात।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+      },
+      "hashtags": [
+        "PMModi",
+        "MumbaiNews",
+        "SecurityAlert",
+        "BreakingNews",
+        "Maharashtra"
+      ]
+    },
+    "audio_path": "audio/mumbai_pm_modi_event_fake_pmo_arrest.wav",
+    "audio_duration_sec": 25.89,
+    "video_path": "videos/mumbai_pm_modi_event_fake_pmo_arrest.mp4",
+    "video_duration_sec": 33.92,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-09T02:51:51.794374+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0c9df31c6c7e01cdbf57a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम वाली जगह पर उस वक्त हड़कंप मच गया जब सुरक्षा एजेंसियों ने बंदूक के साथ घूम रहे संदिग्धों को दबोच लिया। 🚨\n\nआखिर ये संदिग्ध वहां किस इरादे से पहुंचे थे और पुलिस ने इन्हें कैसे पकड़ा? जानिए पूरी बात।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788922333025_us2rmurs_mumbai_pm_modi_event_fake_pmo_arrest.mp4",
+                "_id": "6aa0c9df31c6c7e01cdbf57b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T02:52:14.656Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "52cc9e6e87c4026023cd673092e293c7",
+                "_id": "6aa0c9df31c6c7e01cdbf57c",
+                "platformPostId": "2748901875511312",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2748901875511312",
+                "publishedAt": "2026-09-09T02:52:21.369Z"
+              }
+            ],
+            "scheduledFor": "2026-09-09T02:52:14.656Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T02:52:15.451Z",
+            "updatedAt": "2026-09-09T02:52:21.465Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T02:52:15.511Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T02:52:21.630692+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0ca00b2e5b0f6c0284475",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पीएम मोदी के इवेंट से पहले पकड़े गए हथियारबंद संदिग्ध! 🚨 सुरक्षा में यह चूक कैसे हुई और पुलिस ने इन्हें कैसे दबोचा? देखिए पूरी कहानी। 👁️\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788922365838_88u8pnk3_mumbai_pm_modi_event_fake_pmo_arrest.mp4",
+                "_id": "6aa0ca00b2e5b0f6c0284476"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T02:52:47.478Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "a8fc18c3b3911f2f530a3de7dc27eca9",
+                "_id": "6aa0ca00b2e5b0f6c0284477"
+              }
+            ],
+            "scheduledFor": "2026-09-09T02:52:47.478Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T02:52:48.323Z",
+            "updatedAt": "2026-09-09T02:52:50.547Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T02:52:48.410Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T02:52:50.928050+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "ai_guided_heart_surgery_success_china",
+    "virality_score": 8,
+    "reason": "Groundbreaking medical milestone in China where AI independently performed a complex heart surgery.",
+    "region": "india",
+    "headline": "बिना सीना चीरे AI ने बंद किया दिल का छेद, चीनी डॉक्टरों ने रचा इतिहास, रोबोट ने खुद फैसले लेकर पूरी की हार्ट सर्जरी",
+    "source_summary": "चीन में डॉक्टर्स ने AI की मदद से दिल की बेहद मुश्किल सर्जरी को सफल तरीके से पूरा कर इतिहास रच दिया है। दरअसल इससे पहले तक रोबोटिक आर्म की मदद से सर्जरी होती रही है, जिसमें कंट्रोल पूरी तरह से डॉक्टरों के हाथ में रहता था। वहीं इस सर्जरी में AI ने डॉक्टरों की मदद की और कई काम खुद भी किए। बड़ी बात रही कि इस सर्जरी में मरीज का सीना नहीं चीरा गया था। ऐसा AI के बिना संभव नहीं हो सकता था।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/ai-news/china-doctors-ai-robot-autonomous-heart-surgery-transcatheter-closure-hole-repair/articleshow/133918457.cms",
+    "source_name": "Navbharat Times",
+    "published": "Wed, 09 Sep 2026 06:48:00 +0530",
+    "hook": "बिना सीना चीरे आर्टिफिशियल इंटेलिजेंस ने कर दी दिल के छेद की सर्जरी!",
+    "script_hi": "चीन के डॉक्टरों ने आर्टिफिशियल इंटेलिजेंस की मदद से दिल की बेहद मुश्किल सर्जरी को सफल कर इतिहास रच दिया है। इस सर्जरी में मरीज का सीना नहीं चीरा गया। खास बात यह रही कि इसमें रोबोट ने खुद कई फैसले लेकर सर्जरी पूरी की।",
+    "tts_text_hi": "चीन के डॉक्टरों ने आर्टिफिशियल इंटेलिजेंस की मदद से दिल की बेहद मुश्किल सर्जरी को सफल कर इतिहास रच दिया है। इस सर्जरी में मरीज का सीना नहीं चीरा गया। खास बात यह रही कि इसमें रोबोट ने खुद कई फैसले लेकर सर्जरी पूरी की।",
+    "title": "AI ने बिना सीना चीरे की दिल की सर्जरी",
+    "caption": "चीन में डॉक्टरों और AI ने मिलकर रचा इतिहास, बिना सीना चीरे सफलतापूर्वक की दिल की सर्जरी।",
+    "hashtags": [
+      "AI",
+      "MedicalNews",
+      "HeartSurgery",
+      "ChinaNews",
+      "TechNews",
+      "HealthUpdates"
+    ],
+    "visual_queries": [
+      "medical laboratory China",
+      "advanced robotic surgery",
+      "artificial intelligence concept"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14829613/pexels-photo-14829613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical laboratory China",
+        "credit": "Ayşenur",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36101262/pexels-photo-36101262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "advanced robotic surgery",
+        "credit": "Fernando Capetillo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence concept",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "delhi_satya_niketan_pg_demolition_drive",
-    "virality_score": 8,
-    "reason": "Aggressive government crackdown and demolition drive following the tragic Delhi PG collapse.",
+    "topic_label": "shahrukh_ajay_vimal_notice_delhi_hc",
+    "virality_score": 7,
+    "reason": "High court involvement in the Vimal Elaichi advertising notice issued to major Bollywood stars.",
     "region": "india",
-    "headline": "सत्य निकेतन में बिल्डिंग्स गिराने का काम शुरू, 7 इमारत सील, 35 को भेजा नोटिस",
-    "source_summary": "दिल्ली के सत्य निकेतन में 6 सितंबर को हुए बिल्डिंग हादसे के बाद दिल्ली नगर निगम (MCD) ने पिछले दो दिनों में करीब 1100 PG का सर्वे किया है, जहां 20,250 छात्र रहते हैं.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-mcd-action-after-saty-niketan-building-collapse-demolition-orders-sealing-pg-survey-ntcpvp-rpti-2639012-2026-09-08?utm_source=rssfeed",
+    "headline": "&#039;इलायची के नाम पर...&#039;, शाहरुख-अजय को नोटिस, HC पहुंचा मामला",
+    "source_summary": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती देते हुए इसे रद्द करने की मांग की है. ये नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
+    "source_url": "https://www.aajtak.in/business/news/story/vimal-elaichi-ad-case-shahrukh-khan-ajay-devgan-tiger-shroff-notice-delhi-high-court-jurisdiction-dpmx-smsr-2638784-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T20:25:36+05:30",
-    "hook": "दिल्ली के सत्य निकेतन में बड़ा एक्शन! खतरनाक इमारतों पर चला बुलडोजर।",
-    "script_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी ने ताबड़तोड़ कार्रवाई शुरू कर दी है। पिछले दो दिनों में ग्यारह सौ पीजी का सर्वे किया गया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं। सात इमारतों को सील कर दिया गया है और पैंतीस को नोटिस भेजा गया है।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी ने ताबड़तोड़ कार्रवाई शुरू कर दी है। पिछले दो दिनों में ग्यारह सौ पीजी का सर्वे किया गया, जिनमें बीस हजार दो सौ पचास छात्र रहते हैं। सात इमारतों को सील कर दिया गया है और पैंतीस को नोटिस भेजा गया है।",
-    "title": "दिल्ली के सत्य निकेतन में अवैध पीजी और इमारतों पर एमसीडी का बड़ा एक्शन",
-    "caption": "दिल्ली के सत्य निकेतन में बिल्डिंग हादसे के बाद एमसीडी की बड़ी कार्रवाई। सात इमारतें सील, पैंतीस को नोटिस।",
+    "published": "2026-09-09T06:59:53+05:30",
+    "hook": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में!",
+    "script_hi": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती दी है. यह नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
+    "tts_text_hi": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती दी है. यह नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
+    "title": "शाहरुख और अजय देवगन को नोटिस, इलायची विज्ञापन विवाद पहुंचा दिल्ली हाई कोर्ट",
+    "caption": "विमल इलायची विज्ञापन विवाद में शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को मिले नोटिस का मामला दिल्ली हाई कोर्ट पहुंच गया है.",
     "hashtags": [
-      "DelhiNews",
-      "MCDAction",
-      "SatyaNiketan",
-      "DelhiPG",
-      "BreakingNews",
+      "VimalElaichi",
+      "ShahRukhKhan",
+      "AjayDevgn",
+      "TigerShroff",
+      "DelhiHighCourt",
+      "NewsUpdates",
       "IndiaNews"
     ],
     "visual_queries": [
-      "India municipal corporation office",
-      "Delhi street building India",
-      "police and MCD action India"
+      "Delhi High Court building India",
+      "Bollywood actor India",
+      "court legal notice India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30842195/13190341_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "urban demolition work india",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 34,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28684028/pexels-photo-28684028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India municipal corporation office",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19528131/pexels-photo-19528131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street building India",
-        "credit": "Keith Lobo",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police and MCD action India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13136844/pexels-photo-13136844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "urban building demolition India",
-        "credit": "Takeshi Arai",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12931571/pexels-photo-12931571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street aerial view",
-        "credit": "Mayur Sable",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7937360/pexels-photo-7937360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial building inspection",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 4.0
-      }
+    "named_person": "Shah Rukh Khan",
+    "named_person_hi": "शाहरुख खान",
+    "secondary_persons": [
+      "Ajay Devgn",
+      "Tiger Shroff"
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "सत्य निकेतन में बुलडोजर एक्शन! 7 इमारतें सील, 35 को नोटिस 🚨",
-        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हड़कंप मच गया! 🛑\n\nदिल्ली के सत्य निकेतन इलाके में खतरनाक और अवैध इमारतों पर एमसीडी ने बड़ा एक्शन लिया है। प्रशासन ने 7 इमारतों को सील कर दिया है और 35 को कड़े नोटिस भेजे गए हैं।\n\nआपकी क्या राय है, क्या ऐसे एक्शन से हादसों पर लगाम लगेगी? पूरी कहानी देखें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हड़कंप मच गया! 🛑\n\nदिल्ली के इस इलाके में खतरनाक और अवैध इमारतों पर एमसीडी का हंटर चल चुका है। 7 इमारतें सील और 35 को नोटिस जारी।\n\nपूरी कहानी देखें और शेयर करें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सत्य निकेतन में जब बुलडोजर गरजा तो हर कोई देखता रह गया! 🛑\n\nदिल्ली के सत्य निकेतन में प्रशासन ने बड़ा एक्शन लेते हुए खतरनाक और अवैध रूप से चल रही इमारतों पर शिकंजा कसा है। मौके पर 7 इमारतों को तुरंत सील कर दिया गया है, जबकि 35 अन्य को सख्त नोटिस भेजे गए हैं।\n\nक्या राजधानी में चल रहे ऐसे पीजी और अवैध निर्माणों पर रोक लग पाएगी? पूरी कहानी देखें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews"
-      },
-      "hashtags": [
-        "सत्य_निकेतन",
-        "दिल्ली_न्यूज",
-        "एमसीडी_एक्शन",
-        "बुलडोजर_एक्शन",
-        "DelhiNews"
-      ]
-    },
-    "audio_path": "audio/delhi_satya_niketan_pg_demolition_drive.wav",
-    "audio_duration_sec": 25.44,
-    "video_path": "videos/delhi_satya_niketan_pg_demolition_drive.mp4",
-    "video_duration_sec": 33.5,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:11:53.329159+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b2776f02c7e4a7f05431",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सत्य निकेतन में जब बुलडोजर गरजा तो हर कोई देखता रह गया! 🛑\n\nदिल्ली के सत्य निकेतन में प्रशासन ने बड़ा एक्शन लेते हुए खतरनाक और अवैध रूप से चल रही इमारतों पर शिकंजा कसा है। मौके पर 7 इमारतों को तुरंत सील कर दिया गया है, जबकि 35 अन्य को सख्त नोटिस भेजे गए हैं।\n\nक्या राजधानी में चल रहे ऐसे पीजी और अवैध निर्माणों पर रोक लग पाएगी? पूरी कहानी देखें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788916340613_er2u16vu_delhi_satya_niketan_pg_demolition_drive.mp4",
-                "_id": "6aa0b2776f02c7e4a7f05432"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:12:22.841Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "391eceec6393734209e11f8d0af3ebb6",
-                "_id": "6aa0b2776f02c7e4a7f05433",
-                "platformPostId": "1058502243607392",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1058502243607392",
-                "publishedAt": "2026-09-09T01:12:35.477Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:12:22.841Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:12:23.732Z",
-            "updatedAt": "2026-09-09T01:12:35.695Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:12:24.166Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:12:36.137959+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b29c6f02c7e4a7f060cc",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सत्य निकेतन में जब बुलडोजर गरजा तो हड़कंप मच गया! 🛑\n\nदिल्ली के इस इलाके में खतरनाक और अवैध इमारतों पर एमसीडी का हंटर चल चुका है। 7 इमारतें सील और 35 को नोटिस जारी।\n\nपूरी कहानी देखें और शेयर करें।\n\n#सत्य_निकेतन #दिल्ली_न्यूज #एमसीडी_एक्शन #बुलडोजर_एक्शन #DelhiNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788916378325_crh3919a_delhi_satya_niketan_pg_demolition_drive.mp4",
-                "_id": "6aa0b29c6f02c7e4a7f060cd"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:12:59.732Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "4348c9b0555118e17786f6944e9ed7a3",
-                "_id": "6aa0b29c6f02c7e4a7f060ce"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:12:59.732Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:13:00.567Z",
-            "updatedAt": "2026-09-09T01:13:03.506Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:13:00.649Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:13:03.931130+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "hanuman_ansh_movie_box_office_record",
-    "virality_score": 7,
-    "reason": "Incredible box office triumph of a low-budget spiritual film outperforming major blockbusters.",
-    "region": "india",
-    "headline": "Hanuman Ansh: बाबा नीम करौली की फिल्म ने कर दिया कमाल?",
-    "source_summary": "हनुमान अंश फिल्म 2 करोड़ की छोटे से बजट की फिल्म बनी थी.उसमें न तो कोई बड़ा कलाकार था..न बड़ा सिंगर फिल्म से न ही कोई बड़ा नाम जुड़ा था लेकिन इस फिल्म के बॉक्स ऑफिस कलेक्शन के सामने धुरंधर, बाहुबली 2, पुष्पा 2 जैसी दिग्गज फिल्में पानी भर रही हैं..पहले दिन फिल्म ने सिर्फ 10 लाख, दूसरे दिन 20 लाख की कमाई की..ऐसा लग रहा था कि फिल्म चुपचाप सिनेमाघरों से उतर जाएगी.",
-    "source_url": "https://www.aajtak.in/short-videos/video/hanuman-ansh-box-office-neem-karoli-baba-film-collection-records-dhurandhar-pushpa-mmtm-2639031-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T21:06:46+05:30",
-    "hook": "बाबा नीम करौली के आशीर्वाद पर बनी इस छोटी फिल्म ने तो बाहुबली और पुष्पा जैसी फिल्मों को भी पीछे छोड़ दिया!",
-    "script_hi": "दो करोड़ के बजट में बनी फिल्म हनुमान अंश ने बॉक्स ऑफिस पर तहलका मचा दिया है। फिल्म में न कोई बड़ा कलाकार था और न ही कोई बड़ा नाम, फिर भी इसने धुरंधर और बाहुबली दो जैसी फिल्मों को टक्कर दी है। पहले दिन मात्र दस लाख और दूसरे दिन बीस लाख कमाने वाली इस फिल्म की कमाई अब चर्चा का विषय बन गई है।",
-    "tts_text_hi": "दो करोड़ के बजट में बनी फिल्म हनुमान अंश ने बॉक्स ऑफिस पर तहलका मचा दिया है। फिल्म में न कोई बड़ा कलाकार था और न ही कोई बड़ा नाम, फिर भी इसने धुरंधर और बाहुबली दो जैसी फिल्मों को टक्कर दी है। पहले दिन मात्र दस लाख और दूसरे दिन बीस लाख कमाने वाली इस फिल्म की कमाई अब चर्चा का विषय बन गई है।",
-    "title": "हनुमान अंश फिल्म का बॉक्स ऑफिस कमाल",
-    "caption": "छोटे बजट की फिल्म हनुमान अंश ने बॉक्स ऑफिस पर रचा इतिहास, बाहुबली और पुष्पा जैसी फिल्मों को दी मात।",
-    "hashtags": [
-      "HanumanAnsh",
-      "NeemKaroliBaba",
-      "BoxOffice",
-      "BollywoodNews",
-      "FilmUpdate",
-      "TrendingNews",
-      "IndianCinema"
-    ],
-    "visual_queries": [
-      "Indian cinema theater building India",
-      "Indian movie projector screen India",
-      "happy film producer India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/19980218/19980218-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian box office crowd",
-        "credit": "FAISEL KAPPIL",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29952839/12854441_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "small budget film shooting",
-        "credit": "Mad Knoxx Deluxe",
-        "source_duration_sec": 63,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cinema theater building India",
-        "credit": "Keith Lobo",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cinema hall audience",
-        "credit": "İNZİLE DAL",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12912713/pexels-photo-12912713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "happy film producer India",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "empty cinema hall India",
-        "credit": "İNZİLE DAL",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7234476/pexels-photo-7234476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian movie ticket counter",
-        "credit": "Pavel Danilyuk",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बाहुबली और पुष्पा को पीछे छोड़ दिया! हनुमान अंश का कमाल 🎬",
-        "caption": "सिर्फ एक छोटी सी फिल्म और नतीजा ऐसा कि बड़े-बड़े मेकर्स हैरान रह गए! बाबा नीम करौली के आशीर्वाद पर बनी 'हनुमान अंश' ने कमाई के मामले में बॉक्स ऑफिस पर कई रिकॉर्ड तोड़ दिए हैं।\n\nक्या आपने यह फिल्म देखी है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बाहुबली और पुष्पा को भी पीछे छोड़ दिया! 🤯 बाबा नीम करौली के आशीर्वाद पर बनी इस फिल्म ने बॉक्स ऑफिस पर जो किया, वो किसी चमत्कार से कम नहीं है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बाबा नीम करौली के आशीर्वाद पर बनी इस छोटी सी फिल्म ने ऐसा कमाल कर दिखाया है जिसकी किसी ने उम्मीद नहीं की थी। बाहुबली और पुष्पा जैसी बड़ी फिल्मों को पीछे छोड़ते हुए इस प्रोजेक्ट ने बॉक्स ऑफिस पर तहलका मचा दिया है।\n\nदेखिए वीडियो में पूरी कहानी और अपनी राय जरूर साझा करें।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews"
-      },
-      "hashtags": [
-        "HanumanAnsh",
-        "NeemKaroliBaba",
-        "BollywoodBoxOffice",
-        "IndianCinema",
-        "TrendingNews"
-      ]
-    },
-    "audio_path": "audio/hanuman_ansh_movie_box_office_record.wav",
-    "audio_duration_sec": 21.07,
-    "video_path": "videos/hanuman_ansh_movie_box_office_record.mp4",
-    "video_duration_sec": 29.09,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:18:43.044334+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b406ab333ae84def7be0",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "बाबा नीम करौली के आशीर्वाद पर बनी इस छोटी सी फिल्म ने ऐसा कमाल कर दिखाया है जिसकी किसी ने उम्मीद नहीं की थी। बाहुबली और पुष्पा जैसी बड़ी फिल्मों को पीछे छोड़ते हुए इस प्रोजेक्ट ने बॉक्स ऑफिस पर तहलका मचा दिया है।\n\nदेखिए वीडियो में पूरी कहानी और अपनी राय जरूर साझा करें।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788916739343_mh3irlxw_hanuman_ansh_movie_box_office_record.mp4",
-                "_id": "6aa0b406ab333ae84def7be1"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:19:01.260Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "68e5736656245ee718b2a8b63be34461",
-                "_id": "6aa0b406ab333ae84def7be2",
-                "platformPostId": "1440362041274403",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1440362041274403",
-                "publishedAt": "2026-09-09T01:19:08.204Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:19:01.260Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:19:02.077Z",
-            "updatedAt": "2026-09-09T01:19:08.319Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:19:02.143Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:19:08.546818+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b42e74aa4f1a34d0ee39",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "बाहुबली और पुष्पा को भी पीछे छोड़ दिया! 🤯 बाबा नीम करौली के आशीर्वाद पर बनी इस फिल्म ने बॉक्स ऑफिस पर जो किया, वो किसी चमत्कार से कम नहीं है।\n\nपूरी कहानी देखें और शेयर करें!\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodBoxOffice #IndianCinema #TrendingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788916778741_twpu8qtn_hanuman_ansh_movie_box_office_record.mp4",
-                "_id": "6aa0b42e74aa4f1a34d0ee3a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:19:41.584Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "ef681df78d5e0631350e40996da9a707",
-                "_id": "6aa0b42e74aa4f1a34d0ee3b"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:19:41.584Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:19:42.770Z",
-            "updatedAt": "2026-09-09T01:19:45.216Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:19:42.893Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:19:45.699980+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "naman_dhair_t20_173_runs_knock",
-    "virality_score": 7,
-    "reason": "Stunning cricketing world record feat with 173 runs scored off just 64 balls.",
-    "region": "india",
-    "headline": "16 चौके, 12 छक्के... 64 गेंदों में 173 रन, नमन धीर ने किया धुआं-धुआं",
-    "source_summary": "मुंबई इंडियंस के नमन धीर ने शेर-ए-पंजाब टी20 लीग 2026 में ऐसा तूफान मचाया कि गेंदबाजों के होश उड़ गए. अमृतसर सूरमास के लिए खेलते हुए धीर ने सिर्फ 64 गेंदों में 173 रन ठोक दिए. उन्होंने 16 चौके और 12 छक्के लगाए.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/naman-dhir-173-runs-64-balls-sher-e-punjab-t20-league-tspok-dskc-2638909-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T17:25:04+05:30",
-    "hook": "नमन धीर का ऐसा तूफानी शतक, गेंदबाजों के उड़े होश!",
-    "script_hi": "शेर-ए-पंजाब टी-ट्वेंटी लीग दो हज़ार छब्बीस में मुंबई इंडियंस के नमन धीर ने तहलका मचा दिया है। अमृतसर सूरमास की तरफ से खेलते हुए नमन ने सिर्फ चौसठ गेंदों पर एक सौ तिहत्तर रन ठोक डाले। इस ऐतिहासिक पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
-    "tts_text_hi": "शेर-ए-पंजाब टी-ट्वेंटी लीग दो हज़ार छब्बीस में मुंबई इंडियंस के नमन धीर ने तहलका मचा दिया है। अमृतसर सूरमास की तरफ से खेलते हुए नमन ने सिर्फ चौसठ गेंदों पर एक सौ तिहत्तर रन ठोक डाले। इस ऐतिहासिक पारी में उन्होंने सोलह शानदार चौके और बारह गगनचुंबी छक्के जड़े।",
-    "title": "नमन धीर ने टी20 लीग में बनाए 173 रन",
-    "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।",
-    "hashtags": [
-      "NamanDhir",
-      "SherEPunjabT20",
-      "CricketNews",
-      "MumbaiIndians",
-      "T20Cricket",
-      "CricketHighlights"
-    ],
-    "visual_queries": [
-      "Indian cricket stadium India",
-      "cricketer batting practice India",
-      "cricket celebration India"
-    ],
-    "named_person": "Naman Dhir",
-    "named_person_hi": "नमन धीर",
-    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "नमन धीर",
+        "text": "शाहरुख खान",
         "source": "fallback",
-        "query": "Naman Dhir",
+        "query": "Shah Rukh Khan",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35616896/pexels-photo-35616896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket stadium India",
-        "credit": "Ajay Parab",
+        "query": "Delhi High Court building India",
+        "credit": "Saksham Vikram",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9559761/pexels-photo-9559761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricketer batting practice India",
-        "credit": "Steward Masweneng",
+        "query": "Bollywood actor India",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket celebration India",
-        "credit": "Umang & Meet",
+        "query": "court legal notice India",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       }
     ],
@@ -904,34 +938,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "नमन धीर ने टी20 लीग में बनाए 173 रन",
-        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
+        "title": "शाहरुख और अजय देवगन को नोटिस! इलायची विज्ञापन विवाद पहुंचा हाई कोर्ट ⚖️",
+        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nदिल्ली हाई कोर्ट में शाहरुख खान और अजय देवगन के खिलाफ दायर याचिका पर सुनवाई शुरू हो गई है। आरोप है कि ब्रांड के विज्ञापन के जरिए गलत संदेश दिया जा रहा है। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
       },
       "instagram": {
         "title": null,
-        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
+        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nशाहरुख खान और अजय देवगन के खिलाफ दिल्ली हाई कोर्ट में मामला पहुंच गया है। क्या है पूरा विवाद, आइए जानते हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं! 👇\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
       },
       "facebook": {
         "title": null,
-        "caption": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket"
+        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nमामला अब दिल्ली हाई कोर्ट तक पहुंच गया है जहां शाहरुख खान और अजय देवगन के विज्ञापनों को लेकर सवाल उठाए गए हैं। क्या इन सितारों की मुश्किलें बढ़ने वाली हैं?\n\nवीडियो में देखें पूरी जानकारी और शेयर करें अपने दोस्तों के साथ।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
       },
       "hashtags": [
-        "NamanDhir",
-        "SherEPunjabT20",
-        "CricketNews",
-        "MumbaiIndians",
-        "T20Cricket"
+        "ShahRukhKhan",
+        "AjayDevgn",
+        "DelhiHighCourt",
+        "VimalElaichi",
+        "LegalNotice"
       ]
     },
-    "audio_path": "audio/naman_dhair_t20_173_runs_knock.wav",
-    "audio_duration_sec": 21.66,
-    "video_path": "videos/naman_dhair_t20_173_runs_knock.mp4",
-    "video_duration_sec": 29.59,
+    "audio_path": "audio/shahrukh_ajay_vimal_notice_delhi_hc.wav",
+    "audio_duration_sec": 17.1,
+    "video_path": "videos/shahrukh_ajay_vimal_notice_delhi_hc.mp4",
+    "video_duration_sec": 25.16,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:24:19.821177+00:00"
+        "attempted_at": "2026-09-09T02:57:17.009634+00:00"
       },
       "facebook": {
         "success": true,
@@ -944,15 +978,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0b56122ed113e54b0f6cf",
+            "_id": "6aa0cb2cb597791a736a0608",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket",
+            "content": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nमामला अब दिल्ली हाई कोर्ट तक पहुंच गया है जहां शाहरुख खान और अजय देवगन के विज्ञापनों को लेकर सवाल उठाए गए हैं। क्या इन सितारों की मुश्किलें बढ़ने वाली हैं?\n\nवीडियो में देखें पूरी जानकारी और शेयर करें अपने दोस्तों के साथ।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788917086081_th6qu4g2_naman_dhair_t20_173_runs_knock.mp4",
-                "_id": "6aa0b56122ed113e54b0f6d0"
+                "url": "https://media.zernio.com/media/1788922667294_p6ypxqz1_shahrukh_ajay_vimal_notice_delhi_hc.mp4",
+                "_id": "6aa0cb2cb597791a736a0609"
               }
             ],
             "platforms": [
@@ -969,17 +1003,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T01:24:48.725Z",
+                "scheduledFor": "2026-09-09T02:57:48.215Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "8241f3b7a6fcd0469344556e2c3a5593",
-                "_id": "6aa0b56122ed113e54b0f6d1",
-                "platformPostId": "1624415472592260",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1624415472592260",
-                "publishedAt": "2026-09-09T01:24:56.548Z"
+                "contentHash": "65003af61720b05e393f90b653d6d0e5",
+                "_id": "6aa0cb2cb597791a736a060a",
+                "platformPostId": "1081577627749929",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1081577627749929",
+                "publishedAt": "2026-09-09T02:57:56.268Z"
               }
             ],
-            "scheduledFor": "2026-09-09T01:24:48.725Z",
+            "scheduledFor": "2026-09-09T02:57:48.215Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -991,14 +1025,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:24:49.354Z",
-            "updatedAt": "2026-09-09T01:24:56.799Z",
+            "createdAt": "2026-09-09T02:57:48.745Z",
+            "updatedAt": "2026-09-09T02:57:56.366Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:24:49.435Z"
+            "publishingClaimedAt": "2026-09-09T02:57:48.815Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T01:24:57.079012+00:00"
+        "attempted_at": "2026-09-09T02:57:56.516999+00:00"
       },
       "instagram": {
         "success": true,
@@ -1011,15 +1045,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0b58833f8b1f5bf29e601",
+            "_id": "6aa0cb4a63b1fc4f5daeae99",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "शेर-ए-पंजाब टी20 लीग में नमन धीर ने खेली ऐतिहासिक पारी, 64 गेंदों में जड़े 173 रन।\n\n#NamanDhir #SherEPunjabT20 #CricketNews #MumbaiIndians #T20Cricket",
+            "content": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nशाहरुख खान और अजय देवगन के खिलाफ दिल्ली हाई कोर्ट में मामला पहुंच गया है। क्या है पूरा विवाद, आइए जानते हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं! 👇\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788917126344_ivc7n2w6_naman_dhair_t20_173_runs_knock.mp4",
-                "_id": "6aa0b58833f8b1f5bf29e602"
+                "url": "https://media.zernio.com/media/1788922696669_hiqy0txg_shahrukh_ajay_vimal_notice_delhi_hc.mp4",
+                "_id": "6aa0cb4a63b1fc4f5daeae9a"
               }
             ],
             "platforms": [
@@ -1036,14 +1070,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T01:25:27.774Z",
+                "scheduledFor": "2026-09-09T02:58:17.520Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0916b69810aab24d4ef467060c8350c4",
-                "_id": "6aa0b58833f8b1f5bf29e603"
+                "contentHash": "92e76a88c57481f9c49fcbbcc5c3b653",
+                "_id": "6aa0cb4a63b1fc4f5daeae9b"
               }
             ],
-            "scheduledFor": "2026-09-09T01:25:27.774Z",
+            "scheduledFor": "2026-09-09T02:58:17.520Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1055,516 +1089,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:25:28.526Z",
-            "updatedAt": "2026-09-09T01:25:30.682Z",
+            "createdAt": "2026-09-09T02:58:18.107Z",
+            "updatedAt": "2026-09-09T02:58:20.329Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:25:28.593Z"
+            "publishingClaimedAt": "2026-09-09T02:58:18.202Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T01:25:31.066472+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "online_shopping_fraud_device_cow_dung",
-    "virality_score": 7,
-    "reason": "Bizarre and highly relatable online shopping fraud case where a customer received cow dung instead of an Android device.",
-    "region": "india",
-    "headline": "ऑनलाइन शॉपिंग का झटका, डिवाइस की जगह निकला गोबर",
-    "source_summary": "ग्रेटर नोएडा के दनकौर में युवक ने ऑनलाइन Android डिवाइस ऑर्डर कर पूरी कीमत चुकाई, लेकिन डिलीवरी में पैकेट खोलने पर गोबर मिला. पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है. पुलिस वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है. वीडियो में जानें पूरा मामला.",
-    "source_url": "https://www.aajtak.in/short-videos/video/greater-noida-dankaur-online-shopping-fraud-android-device-gobar-complaint-details-mmtm-2639008-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T20:14:34+05:30",
-    "hook": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह निकला गोबर!",
-    "script_hi": "ऑनलाइन शॉपिंग करने वालों के लिए बड़ा झटका है! ग्रेटर नोएडा के दनकौर में एक युवक ने एंड्रॉइड डिवाइस ऑर्डर किया और पूरी कीमत चुकाई। लेकिन जब पैकेट खोला, तो अंदर डिवाइस की जगह गोबर निकला! पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है। पुलिस अब वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है।",
-    "tts_text_hi": "ऑनलाइन शॉपिंग करने वालों के लिए बड़ा झटका है! ग्रेटर नोएडा के दनकौर में एक युवक ने एंड्रॉइड डिवाइस ऑर्डर किया और पूरी कीमत चुकाई। लेकिन जब पैकेट खोला, तो अंदर डिवाइस की जगह गोबर निकला! पीड़ित ने पुलिस से धोखाधड़ी की शिकायत की है। पुलिस अब वेबसाइट, भुगतान और डिलीवरी से जुड़े विवरण की जांच कर रही है।",
-    "title": "ऑनलाइन शॉपिंग का झटका, डिवाइस की जगह निकला गोबर",
-    "caption": "ग्रेटर नोएडा के दनकौर में ऑनलाइन मंगाया एंड्रॉइड डिवाइस, पैकेट खोला तो अंदर निकला गोबर। पीड़ित ने दर्ज कराई शिकायत। #GreaterNoida #OnlineShoppingScam #Fraud #IndiaNews",
-    "hashtags": [
-      "#GreaterNoida",
-      "#OnlineShoppingScam",
-      "#Fraud",
-      "#IndiaNews",
-      "#CyberCrime",
-      "#CrimeNews"
-    ],
-    "visual_queries": [
-      "smartphone online shopping India",
-      "delivery man package India",
-      "police station India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone online shopping India",
-        "credit": "Eva Bronzini",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4440888/pexels-photo-4440888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person opening parcel box",
-        "credit": "Polina Tankilevitch",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34834077/pexels-photo-34834077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry customer talking on phone",
-        "credit": "Guillermo Berlin",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4498135/pexels-photo-4498135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "unpacking delivery box at home",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7172791/pexels-photo-7172791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "online shopping scam concept",
-        "credit": "Nataliya Vaitkevich",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4506219/pexels-photo-4506219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "frustrated man holding package",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर 📦",
-        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nमहंगा इलेक्ट्रॉनिक सामान मंगवाने पर जब ग्राहक ने डिब्बा खोला, तो अंदर का नजारा देखकर उसके होश उड़ गए। डिलीवरी बॉय के सामने ही सारा सच सामने आ गया।\n\nआपके साथ भी कभी ऐसा हुआ है क्या? पूरी कहानी देखें और सतर्क रहें।\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nमहंगा सामान मंगवाया था, पर डिब्बा खुला तो अंदर से गोबर निकला। होश उड़ा देने वाला ये मामला सोशल मीडिया पर वायरल है।\n\nक्या आपके साथ भी कभी ऐसा फ्रॉड हुआ है? कमेंट में बताएं और वीडियो शेयर करें!\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nआजकल ऑनलाइन ऑर्डर करना कितना भारी पड़ सकता है, इसका एक ताजा उदाहरण सामने आया है। एक शख्स ने बड़े अरमानों से महंगा इलेक्ट्रॉनिक डिवाइस मंगवाया था, लेकिन जब डिलीवरी मिलने के बाद उसने पैकेट खोला, तो अंदर डिवाइस की बजाय गोबर भरा हुआ मिला।\n\nयह वीडियो देखकर आप भी हैरान रह जाएंगे कि कैसे आजकल ग्राहकों के साथ खुलेआम ठगी हो रही है। इस तरह के ऑनलाइन फ्रॉड से बचने के लिए पार्सल हमेशा डिलीवरी बॉय के सामने ही खोलें।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ भी शेयर करें ताकि वे भी सावधान रहें।\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad"
-      },
-      "hashtags": [
-        "OnlineShopping",
-        "ShoppingScam",
-        "ViralNews",
-        "ConsumerFraud",
-        "DesiJugaad"
-      ]
-    },
-    "audio_path": "audio/online_shopping_fraud_device_cow_dung.wav",
-    "audio_duration_sec": 23.1,
-    "video_path": "videos/online_shopping_fraud_device_cow_dung.mp4",
-    "video_duration_sec": 31.15,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:30:12.209098+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b6c35626109bc3b7508c",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nआजकल ऑनलाइन ऑर्डर करना कितना भारी पड़ सकता है, इसका एक ताजा उदाहरण सामने आया है। एक शख्स ने बड़े अरमानों से महंगा इलेक्ट्रॉनिक डिवाइस मंगवाया था, लेकिन जब डिलीवरी मिलने के बाद उसने पैकेट खोला, तो अंदर डिवाइस की बजाय गोबर भरा हुआ मिला।\n\nयह वीडियो देखकर आप भी हैरान रह जाएंगे कि कैसे आजकल ग्राहकों के साथ खुलेआम ठगी हो रही है। इस तरह के ऑनलाइन फ्रॉड से बचने के लिए पार्सल हमेशा डिलीवरी बॉय के सामने ही खोलें।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ भी शेयर करें ताकि वे भी सावधान रहें।\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788917440551_k8uv5rnl_online_shopping_fraud_device_cow_dung.mp4",
-                "_id": "6aa0b6c35626109bc3b7508d"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:30:42.121Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "b36e4017bbf69a1c3d959df492b93fe9",
-                "_id": "6aa0b6c35626109bc3b7508e",
-                "platformPostId": "1701941028607452",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1701941028607452",
-                "publishedAt": "2026-09-09T01:30:48.531Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:30:42.121Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:30:43.355Z",
-            "updatedAt": "2026-09-09T01:30:48.696Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:30:43.443Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:30:48.925796+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b6e1eb100e6de3bf27b6",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ऑनलाइन शॉपिंग का बड़ा धोखा! डिवाइस की जगह डिब्बे में निकला गोबर!\n\nमहंगा सामान मंगवाया था, पर डिब्बा खुला तो अंदर से गोबर निकला। होश उड़ा देने वाला ये मामला सोशल मीडिया पर वायरल है।\n\nक्या आपके साथ भी कभी ऐसा फ्रॉड हुआ है? कमेंट में बताएं और वीडियो शेयर करें!\n\n#OnlineShopping #ShoppingScam #ViralNews #ConsumerFraud #DesiJugaad",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788917471144_9j4marcb_online_shopping_fraud_device_cow_dung.mp4",
-                "_id": "6aa0b6e1eb100e6de3bf27b7"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:31:12.669Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "58248e94fac3eb10eea5b9e2be85fa78",
-                "_id": "6aa0b6e1eb100e6de3bf27b8"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:31:12.669Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:31:13.458Z",
-            "updatedAt": "2026-09-09T01:31:15.191Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:31:13.544Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:31:15.614108+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "uk_air_traffic_control_system_glitch",
-    "virality_score": 6,
-    "reason": "Massive international travel disruption affecting hundreds of flights across major UK airports.",
-    "region": "india",
-    "headline": "UK: एयर ट्रैफिक कंट्रोल सिस्टम में खराबी से हड़कंप, सैकड़ों उड़ानों पर असर",
-    "source_summary": "NATS के फ्लाइट प्रोसेसिंग सिस्टम में तकनीकी खराबी से ब्रिटेन के हीथ्रो, गैटविक समेत कई एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुईं. करीब 300 कैंसिलेशन और बड़ी संख्या में देरी हुई. NATS ने फिक्स लागू कर सिस्टम रिकवर होने की जानकारी दी, लेकिन यात्रियों को आगे भी परेशानी हो सकती है.",
-    "source_url": "https://www.aajtak.in/world/story/uk-air-traffic-control-glitch-nats-flights-delayed-cancelled-ntc-apdy-dskc-2639083-2026-09-08?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-08T23:02:13+05:30",
-    "hook": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द!",
-    "script_hi": "ब्रिटेन के एयर ट्रैफिक कंट्रोल सिस्टम में तकनीकी खराबी आने से हड़कंप मच गया है। हीथ्रो और गैटविक समेत कई बड़े एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुई हैं। करीब तीन सौ उड़ानें रद्द करनी पड़ीं और भारी देरी दर्ज की गई। हालांकि एनएटीएस ने सिस्टम ठीक होने का दावा किया है, लेकिन यात्रियों को आगे भी परेशानी का सामना करना पड़ सकता है।",
-    "tts_text_hi": "ब्रिटेन के एयर ट्रैफिक कंट्रोल सिस्टम में तकनीकी खराबी आने से हड़कंप मच गया है। हीथ्रो और गैटविक समेत कई बड़े एयरपोर्ट्स पर सैकड़ों फ्लाइट्स प्रभावित हुई हैं। करीब तीन सौ उड़ानें रद्द करनी पड़ीं और भारी देरी दर्ज की गई। हालांकि एनएटीएस ने सिस्टम ठीक होने का दावा किया है, लेकिन यात्रियों को आगे भी परेशानी का सामना करना पड़ सकता है।",
-    "title": "ब्रिटेन में एयर ट्रैफिक कंट्रोल सिस्टम फेल, सैकड़ों उड़ानें प्रभावित",
-    "caption": "ब्रिटेन के एयर ट्रैफिक कंट्रोल में तकनीकी खराबी से सैकड़ों उड़ानें प्रभावित हुईं। हीथ्रो और गैटविक एयरपोर्ट पर यात्रियों को भारी परेशानी का सामना करना पड़ा।",
-    "hashtags": [
-      "UKNews",
-      "HeathrowAirport",
-      "FlightDelays",
-      "BreakingNews",
-      "Aviation"
-    ],
-    "visual_queries": [
-      "airport terminal crowd",
-      "airplane on runway",
-      "air traffic control tower"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35576122/15075190_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "air traffic control tower",
-        "credit": "Content Kiosk",
-        "source_duration_sec": 5,
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16161492/pexels-photo-16161492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane on runway",
-        "credit": "Juan  Hernández",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29149927/pexels-photo-29149927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "passengers waiting at airport",
-        "credit": "kamanda X",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36681355/pexels-photo-36681355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flight departure board",
-        "credit": "Bor Jinson",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18695674/pexels-photo-18695674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people at airport lounge",
-        "credit": "Lucas Mota",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨",
-        "caption": "ब्रिटेन में आसमान की रफ्तार अचानक थम गई। एयर ट्रैफिक कंट्रोल सिस्टम में अचानक तकनीकी खराबी आने से सैकड़ों उड़ानें रद्द करनी पड़ीं और हजारों यात्री एयरपोर्ट पर ही फंस गए।\n\nआपकी यात्रा कभी ऐसी स्थिति में फंसी है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nआसमान की रफ्तार अचानक थम गई है। सिस्टम में तकनीकी खराबी के चलते हजारों यात्री एयरपोर्ट पर फंस गए हैं।\n\nपूरी कहानी देखें और शेयर करें!\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nअचानक आई एक तकनीकी खराबी ने ब्रिटेन के पूरे हवाई नेटवर्क को ठप कर दिया। सैकड़ों उड़ानें या तो रद्द हो चुकी हैं या घंटों की देरी से चल रही हैं, जिससे हजारों यात्री अलग-अलग एयरपोर्ट पर परेशान हो रहे हैं।\n\nपूरी कहानी देखें कि आखिर ये गड़बड़ी कहां और कैसे हुई।\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews"
-      },
-      "hashtags": [
-        "UKNews",
-        "AviationNews",
-        "AirTrafficControl",
-        "FlightDelay",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/uk_air_traffic_control_system_glitch.wav",
-    "audio_duration_sec": 23.39,
-    "video_path": "videos/uk_air_traffic_control_system_glitch.mp4",
-    "video_duration_sec": 31.36,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T01:36:29.733468+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b83c33e20e67502e72d2",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nअचानक आई एक तकनीकी खराबी ने ब्रिटेन के पूरे हवाई नेटवर्क को ठप कर दिया। सैकड़ों उड़ानें या तो रद्द हो चुकी हैं या घंटों की देरी से चल रही हैं, जिससे हजारों यात्री अलग-अलग एयरपोर्ट पर परेशान हो रहे हैं।\n\nपूरी कहानी देखें कि आखिर ये गड़बड़ी कहां और कैसे हुई।\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788917817042_f1weujwo_uk_air_traffic_control_system_glitch.mp4",
-                "_id": "6aa0b83c33e20e67502e72d3"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:36:59.901Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "bb20f8e26a06400aa7a4f7531995670e",
-                "_id": "6aa0b83c33e20e67502e72d4",
-                "platformPostId": "1824217445268556",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1824217445268556",
-                "publishedAt": "2026-09-09T01:37:10.185Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:36:59.901Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:37:00.633Z",
-            "updatedAt": "2026-09-09T01:37:10.290Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:37:00.736Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:37:10.534282+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0b85df0bf062248770e83",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "ब्रिटेन में एयर ट्रैफिक कंट्रोल फेल! सैकड़ों उड़ानें रद्द 🚨\n\nआसमान की रफ्तार अचानक थम गई है। सिस्टम में तकनीकी खराबी के चलते हजारों यात्री एयरपोर्ट पर फंस गए हैं।\n\nपूरी कहानी देखें और शेयर करें!\n\n#UKNews #AviationNews #AirTrafficControl #FlightDelay #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788917851761_br9akrht_uk_air_traffic_control_system_glitch.mp4",
-                "_id": "6aa0b85df0bf062248770e84"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T01:37:33.249Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "3946ac8bef0bfc6bd4d984a0f5071f13",
-                "_id": "6aa0b85df0bf062248770e85"
-              }
-            ],
-            "scheduledFor": "2026-09-09T01:37:33.249Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T01:37:33.881Z",
-            "updatedAt": "2026-09-09T01:37:35.774Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T01:37:33.955Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T01:37:36.146239+00:00"
+        "attempted_at": "2026-09-09T02:58:20.748355+00:00"
       }
     }
   }
