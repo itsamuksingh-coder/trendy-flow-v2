@@ -1,8 +1,8 @@
-ready_labels: ['apple_iphone_18_fold_ultra_launch', 'mumbai_pm_modi_event_fake_pmo_arrest', 'shahrukh_ajay_vimal_notice_delhi_hc', 'us_iran_oil_tanker_attacks_escalation']
+ready_labels: ['canada_us_50_percent_tariff_retaliation', 'lg_smart_tv_eavesdropping_investigation_report', 'madhya_pradesh_bull_water_tank_rescue', 'us_iran_strait_of_hormuz_tanker_attacks']
 
-apple_iphone_18_fold_ultra_launch: SUCCESS -> video_path=videos/apple_iphone_18_fold_ultra_launch.mp4 dur=22.23322
-guwahati_wife_murder_husband_confession: SKIPPED (not in ready set)
-us_iran_oil_tanker_attacks_escalation: SUCCESS -> video_path=videos/us_iran_oil_tanker_attacks_escalation.mp4 dur=26.22322
-mumbai_pm_modi_event_fake_pmo_arrest: SUCCESS -> video_path=videos/mumbai_pm_modi_event_fake_pmo_arrest.mp4 dur=33.92322
-ai_guided_heart_surgery_success_china: SKIPPED (not in ready set)
-shahrukh_ajay_vimal_notice_delhi_hc: SUCCESS -> video_path=videos/shahrukh_ajay_vimal_notice_delhi_hc.mp4 dur=25.159229
+us_iran_strait_of_hormuz_tanker_attacks: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_tanker_attacks.mp4 dur=31.389887
+xiaomi_redmi_note_17_pro_10000mah_battery: SKIPPED (not in ready set)
+canada_us_50_percent_tariff_retaliation: SUCCESS -> video_path=videos/canada_us_50_percent_tariff_retaliation.mp4 dur=25.489887
+gujarat_stunt_youth_survives_overpass_fall: SKIPPED (not in ready set)
+lg_smart_tv_eavesdropping_investigation_report: SUCCESS -> video_path=videos/lg_smart_tv_eavesdropping_investigation_report.mp4 dur=29.455215
+madhya_pradesh_bull_water_tank_rescue: SUCCESS -> video_path=videos/madhya_pradesh_bull_water_tank_rescue.mp4 dur=33.356553
