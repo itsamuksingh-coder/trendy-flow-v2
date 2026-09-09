@@ -1,9 +1,8 @@
-ready_labels: ['andhra_woman_stomach_pens_bolts_surgery', 'delhi_man_uterus_fallopian_tube_rare_medical_case', 'odisha_balasore_smuggled_orangutans_found', 'us_iran_strait_of_hormuz_oil_tanker_strikes', 'us_open_carlos_alcaraz_ousted_by_ben_shelton']
+ready_labels: ['india_7_high_speed_rail_corridors_approved', 'man_found_with_uterus_medical_rare_case', 'stock_market_crash_300000_crore', 'surat_stunt_man_falls_survives_on_auto', 'us_iran_strait_of_hormuz_tanker_strikes']
 
-kanpur_pharma_tycoon_murder_wife_party_dance: SKIPPED (not in ready set)
-andhra_woman_stomach_pens_bolts_surgery: SUCCESS -> video_path=videos/andhra_woman_stomach_pens_bolts_surgery.mp4 dur=26.02322
-odisha_balasore_smuggled_orangutans_found: SUCCESS -> video_path=videos/odisha_balasore_smuggled_orangutans_found.mp4 dur=30.42322
-us_iran_strait_of_hormuz_oil_tanker_strikes: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_oil_tanker_strikes.mp4 dur=38.255215
-us_open_carlos_alcaraz_ousted_by_ben_shelton: SUCCESS -> video_path=videos/us_open_carlos_alcaraz_ousted_by_ben_shelton.mp4 dur=25.656553
-delhi_man_uterus_fallopian_tube_rare_medical_case: SUCCESS -> video_path=videos/delhi_man_uterus_fallopian_tube_rare_medical_case.mp4 dur=26.456553
-bhopal_thar_driver_crushes_cars_escaping_cctv: SKIPPED (not in ready set)
+us_iran_strait_of_hormuz_tanker_strikes: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_tanker_strikes.mp4 dur=38.22322
+stock_market_crash_300000_crore: SUCCESS -> video_path=videos/stock_market_crash_300000_crore.mp4 dur=19.354218
+india_7_high_speed_rail_corridors_approved: SUCCESS -> video_path=videos/india_7_high_speed_rail_corridors_approved.mp4 dur=24.789887
+surat_stunt_man_falls_survives_on_auto: SUCCESS -> video_path=videos/surat_stunt_man_falls_survives_on_auto.mp4 dur=28.410227
+man_found_with_uterus_medical_rare_case: SUCCESS -> video_path=videos/man_found_with_uterus_medical_rare_case.mp4 dur=31.589887
+pilot_father_announces_baby_flight: SKIPPED (not in ready set)
