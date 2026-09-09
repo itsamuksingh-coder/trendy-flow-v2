@@ -1,8 +1,8 @@
-ready_labels: ['canada_us_50_percent_tariff_retaliation', 'lg_smart_tv_eavesdropping_investigation_report', 'madhya_pradesh_bull_water_tank_rescue', 'us_iran_strait_of_hormuz_tanker_attacks']
+ready_labels: ['apple_iphone_18_fold_ultra_launch_event', 'hanuman_ansh_blind_singer_viral_success', 'nse_30000_crore_ipo_record_launch', 'openai_solves_maths_problem_controversy', 'starlink_satellite_broadband_india_nod', 'us_iran_oil_tanker_strikes_hormuz_escalation']
 
-us_iran_strait_of_hormuz_tanker_attacks: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_tanker_attacks.mp4 dur=31.389887
-xiaomi_redmi_note_17_pro_10000mah_battery: SKIPPED (not in ready set)
-canada_us_50_percent_tariff_retaliation: SUCCESS -> video_path=videos/canada_us_50_percent_tariff_retaliation.mp4 dur=25.489887
-gujarat_stunt_youth_survives_overpass_fall: SKIPPED (not in ready set)
-lg_smart_tv_eavesdropping_investigation_report: SUCCESS -> video_path=videos/lg_smart_tv_eavesdropping_investigation_report.mp4 dur=29.455215
-madhya_pradesh_bull_water_tank_rescue: SUCCESS -> video_path=videos/madhya_pradesh_bull_water_tank_rescue.mp4 dur=33.356553
+us_iran_oil_tanker_strikes_hormuz_escalation: SUCCESS -> video_path=videos/us_iran_oil_tanker_strikes_hormuz_escalation.mp4 dur=38.22322
+apple_iphone_18_fold_ultra_launch_event: SUCCESS -> video_path=videos/apple_iphone_18_fold_ultra_launch_event.mp4 dur=20.92322
+hanuman_ansh_blind_singer_viral_success: SUCCESS -> video_path=videos/hanuman_ansh_blind_singer_viral_success.mp4 dur=28.665215
+starlink_satellite_broadband_india_nod: SUCCESS -> video_path=videos/starlink_satellite_broadband_india_nod.mp4 dur=31.689887
+nse_30000_crore_ipo_record_launch: SUCCESS -> video_path=videos/nse_30000_crore_ipo_record_launch.mp4 dur=26.52322
+openai_solves_maths_problem_controversy: SUCCESS -> video_path=videos/openai_solves_maths_problem_controversy.mp4 dur=23.627211
