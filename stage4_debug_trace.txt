@@ -1,9 +1,8 @@
-ready_labels: ['delhi_satya_niketan_pg_demolition_drive', 'hanuman_ansh_movie_box_office_record', 'naman_dhair_t20_173_runs_knock', 'online_shopping_fraud_device_cow_dung', 'uk_air_traffic_control_system_glitch', 'us_strikes_iranian_oil_tankers_escalation']
+ready_labels: ['apple_iphone_18_fold_ultra_launch', 'mumbai_pm_modi_event_fake_pmo_arrest', 'shahrukh_ajay_vimal_notice_delhi_hc', 'us_iran_oil_tanker_attacks_escalation']
 
-us_strikes_iranian_oil_tankers_escalation: SUCCESS -> video_path=videos/us_strikes_iranian_oil_tankers_escalation.mp4 dur=37.22322
-fake_pmo_officer_gun_mumbai_pm_modi: SKIPPED (not in ready set)
-delhi_satya_niketan_pg_demolition_drive: SUCCESS -> video_path=videos/delhi_satya_niketan_pg_demolition_drive.mp4 dur=33.495215
-hanuman_ansh_movie_box_office_record: SUCCESS -> video_path=videos/hanuman_ansh_movie_box_office_record.mp4 dur=29.089887
-naman_dhair_t20_173_runs_knock: SUCCESS -> video_path=videos/naman_dhair_t20_173_runs_knock.mp4 dur=29.589887
-online_shopping_fraud_device_cow_dung: SUCCESS -> video_path=videos/online_shopping_fraud_device_cow_dung.mp4 dur=31.150227
-uk_air_traffic_control_system_glitch: SUCCESS -> video_path=videos/uk_air_traffic_control_system_glitch.mp4 dur=31.356553
+apple_iphone_18_fold_ultra_launch: SUCCESS -> video_path=videos/apple_iphone_18_fold_ultra_launch.mp4 dur=22.23322
+guwahati_wife_murder_husband_confession: SKIPPED (not in ready set)
+us_iran_oil_tanker_attacks_escalation: SUCCESS -> video_path=videos/us_iran_oil_tanker_attacks_escalation.mp4 dur=26.22322
+mumbai_pm_modi_event_fake_pmo_arrest: SUCCESS -> video_path=videos/mumbai_pm_modi_event_fake_pmo_arrest.mp4 dur=33.92322
+ai_guided_heart_surgery_success_china: SKIPPED (not in ready set)
+shahrukh_ajay_vimal_notice_delhi_hc: SUCCESS -> video_path=videos/shahrukh_ajay_vimal_notice_delhi_hc.mp4 dur=25.159229
