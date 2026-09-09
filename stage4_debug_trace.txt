@@ -1,8 +1,8 @@
-ready_labels: ['india_7_high_speed_rail_corridors_approved', 'man_found_with_uterus_medical_rare_case', 'stock_market_crash_300000_crore', 'surat_stunt_man_falls_survives_on_auto', 'us_iran_strait_of_hormuz_tanker_strikes']
+ready_labels: ['apple_iphone_18_pro_fold_ultra_launch', 'brics_summit_delhi_traffic_security', 'crude_oil_100_dollars_petrol_diesel_impact', 'germany_merz_afd_election_clash_global', 'guwahati_wife_murder_decapitation_fridge']
 
-us_iran_strait_of_hormuz_tanker_strikes: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_tanker_strikes.mp4 dur=38.22322
-stock_market_crash_300000_crore: SUCCESS -> video_path=videos/stock_market_crash_300000_crore.mp4 dur=19.354218
-india_7_high_speed_rail_corridors_approved: SUCCESS -> video_path=videos/india_7_high_speed_rail_corridors_approved.mp4 dur=24.789887
-surat_stunt_man_falls_survives_on_auto: SUCCESS -> video_path=videos/surat_stunt_man_falls_survives_on_auto.mp4 dur=28.410227
-man_found_with_uterus_medical_rare_case: SUCCESS -> video_path=videos/man_found_with_uterus_medical_rare_case.mp4 dur=31.589887
-pilot_father_announces_baby_flight: SKIPPED (not in ready set)
+apple_iphone_18_pro_fold_ultra_launch: SUCCESS -> video_path=videos/apple_iphone_18_pro_fold_ultra_launch.mp4 dur=21.089887
+kota_play_school_3_year_old_dna_test: SKIPPED (not in ready set)
+guwahati_wife_murder_decapitation_fridge: SUCCESS -> video_path=videos/guwahati_wife_murder_decapitation_fridge.mp4 dur=30.105215
+crude_oil_100_dollars_petrol_diesel_impact: SUCCESS -> video_path=videos/crude_oil_100_dollars_petrol_diesel_impact.mp4 dur=28.089887
+brics_summit_delhi_traffic_security: SUCCESS -> video_path=videos/brics_summit_delhi_traffic_security.mp4 dur=29.15322
+germany_merz_afd_election_clash_global: SUCCESS -> video_path=videos/germany_merz_afd_election_clash_global.mp4 dur=32.856553
