@@ -1,9 +1,7 @@
-ready_labels: ['ammy_virk_convey_attacked_canada', 'rare_medical_case_uterus_found_in_man', 'september_monsoon_heavy_rainfall_alert', 'sheopur_bull_water_tank_rescue', 'ujjain_khade_hanuman_statue_removal_fails', 'us_iran_hormuz_strait_tanker_clash', 'vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter']
+ready_labels: ['ahmedabad_sofia_farooq_honor_killing', 'drishyam_3_trailer_release', 'south_korea_record_divorce_settlement_1_87bn', 'us_iran_hormuz_strait_escalation']
 
-rare_medical_case_uterus_found_in_man: SUCCESS -> video_path=videos/rare_medical_case_uterus_found_in_man.mp4 dur=31.356553
-ammy_virk_convey_attacked_canada: SUCCESS -> video_path=videos/ammy_virk_convey_attacked_canada.mp4 dur=28.22322
-september_monsoon_heavy_rainfall_alert: SUCCESS -> video_path=videos/september_monsoon_heavy_rainfall_alert.mp4 dur=34.556553
-vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter: SUCCESS -> video_path=videos/vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter.mp4 dur=29.12322
-ujjain_khade_hanuman_statue_removal_fails: SUCCESS -> video_path=videos/ujjain_khade_hanuman_statue_removal_fails.mp4 dur=23.116213
-us_iran_hormuz_strait_tanker_clash: SUCCESS -> video_path=videos/us_iran_hormuz_strait_tanker_clash.mp4 dur=37.582222
-sheopur_bull_water_tank_rescue: SUCCESS -> video_path=videos/sheopur_bull_water_tank_rescue.mp4 dur=32.288231
+drishyam_3_trailer_release: SUCCESS -> video_path=videos/drishyam_3_trailer_release.mp4 dur=23.975215
+us_iran_hormuz_strait_escalation: SUCCESS -> video_path=videos/us_iran_hormuz_strait_escalation.mp4 dur=38.22322
+south_korea_record_divorce_settlement_1_87bn: SUCCESS -> video_path=videos/south_korea_record_divorce_settlement_1_87bn.mp4 dur=20.52322
+ahmedabad_sofia_farooq_honor_killing: SUCCESS -> video_path=videos/ahmedabad_sofia_farooq_honor_killing.mp4 dur=28.356553
+rajpal_yapal_supreme_court_5_crore_condition: SKIPPED (not in ready set)
