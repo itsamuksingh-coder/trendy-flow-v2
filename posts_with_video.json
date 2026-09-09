@@ -1,432 +1,99 @@
 [
   {
-    "topic_label": "red_fort_blast_suicide_attack_nia",
+    "topic_label": "russian_military_aircraft_noida_airport_brics",
     "virality_score": 9,
-    "reason": "NIA chargesheet revealing the Red Fort blast was a suicide attack using AI tools for bomb-making generates high curiosity.",
+    "reason": "First-ever landing of Russian military transport planes at Noida Airport ahead of the BRICS summit creates major buzz.",
     "region": "india",
-    "headline": "आत्मघाती हमला था लाल किले के पास हुआ धमाका, चार्जशीट में बड़ा खुलासा",
-    "source_summary": "लालकिला ब्लास्ट केस में राष्ट्रीय जांच एजेंसी (NIA) की चार्जशीट में बड़ा खुलासा हुआ है. जांच एजेंसी के मुताबिक 10 नवंबर 2025 का लाल किला ब्लास्ट आत्मघाती हमला था और आरोपी उमर नबी ने कार में बैठकर IED सक्रिय किया था. पढ़ें पूरी कहानी, चार्जशीट की जुबानी.",
-    "source_url": "https://www.aajtak.in/crime/police-and-intelligence/story/red-fort-blast-case-nia-chargesheet-umar-nabi-suicide-bombing-pvzs-rpti-2639645-2026-09-09?utm_source=rssfeed",
+    "headline": "ब्रिक्स समिट के लिए नोएडा एयरपोर्ट पर पहली बार उतरे रूसी सेना के विमान, Photos",
+    "source_summary": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं. यह विदेशी सैन्य विमानों की पहली लैंडिंग है.",
+    "source_url": "https://www.aajtak.in/india/news/story/noida-airport-russian-military-planes-landing-putin-india-visit-brics-summit-preparations-ntcpvp-dskc-2639787-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-09T17:32:09+05:30",
-    "hook": "लाल किले के पास हुआ धमाका एक आत्मघाती हमला था!",
-    "script_hi": "लाल किले के पास हुए धमाके को लेकर राष्ट्रीय जांच एजेंसी यानी एनआईए की चार्जशीट में बड़ा खुलासा हुआ है। जांच के मुताबिक दस नवंबर दो हजार पच्चीस को हुआ लाल किला ब्लास्ट एक आत्मघाती हमला था। आरोपी उमर नबी ने कार में बैठकर आईईडी सक्रिय किया था।",
-    "tts_text_hi": "लाल किले के पास हुए धमाके को लेकर राष्ट्रीय जांच एजेंसी यानी एनआईए की चार्जशीट में बड़ा खुलासा हुआ है। जांच के मुताबिक दस नवंबर दो हजार पच्चीस को हुआ लाल किला ब्लास्ट एक आत्मघाती हमला था। आरोपी उमर नबी ने कार में बैठकर आईईडी सक्रिय किया था।",
-    "title": "लाल किला ब्लास्ट पर एनआईए का बड़ा खुलासा",
-    "caption": "लाल किले के पास हुआ धमाका आत्मघाती हमला था, एनआईए की चार्जशीट में बड़ा खुलासा।",
+    "published": "2026-09-09T22:17:32+05:30",
+    "hook": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान!",
+    "script_hi": "नोएडा के जेवर एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं। यह रूसी राष्ट्रपति व्लादिमीर पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़ा है। एयरपोर्ट पर विदेशी सैन्य विमानों की यह पहली लैंडिंग है।",
+    "tts_text_hi": "नोएडा के जेवर एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं। यह रूसी राष्ट्रपति व्लादिमीर पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़ा है। एयरपोर्ट पर विदेशी सैन्य विमानों की यह पहली लैंडिंग है।",
+    "title": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान",
+    "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।",
     "hashtags": [
-      "RedFortBlast",
-      "NIA",
-      "DelhiNews",
+      "NoidaAirport",
+      "BRICS",
+      "Russia",
+      "IndiaNews",
       "BreakingNews",
-      "IndiaNews"
+      "JewarAirport"
     ],
     "visual_queries": [
-      "Red Fort Delhi India",
-      "NIA office India building",
-      "Indian police investigation car"
+      "commercial airport runway India",
+      "military transport aircraft India",
+      "Brics summit meeting India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Vladimir Putin",
+    "named_person_hi": "व्लादिमीर पुतिन",
     "secondary_persons": [],
-    "est_duration_sec": 28.0,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "downloaded_assets/commons_21b05d1ded.jpg",
-        "source": "wikimedia_commons",
-        "query": "Red Fort Delhi India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
+        "url": "downloaded_assets/person_4f880ea470.jpg",
+        "source": "wikimedia",
+        "query": "Vladimir Putin",
+        "credit": "Wikipedia",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38652992/pexels-photo-38652992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "NIA office India building",
-        "credit": "Preetesh  biswas",
-        "duration_sec": 4.3
+        "query": "commercial airport runway India",
+        "credit": "Karthick s",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10466469/pexels-photo-10466469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28763506/pexels-photo-28763506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian police investigation car",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
+        "query": "military transport aircraft India",
+        "credit": "Barış  Karagöz",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9262639/pexels-photo-9262639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "courtroom trial India",
-        "credit": "KATRIN  BOLOVTSOVA",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "security forces Delhi India",
-        "credit": "Frank van Dijk",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34872680/pexels-photo-34872680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "news broadcast studio India",
-        "credit": "Mokhtar Med",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "लाल किले के पास धमाका: एनआईए की चार्जशीट में बड़ा खुलासा 🚨",
-        "caption": "लाल किले के पास हुआ धमाका कोई इत्तेफाक नहीं, बल्कि एक खतरनाक आत्मघाती हमला था! 🛑\n\nएनआईए की चार्जशीट में इस साजिश से जुड़े कई चौंकाने वाले राज सामने आए हैं। आखिर इस साजिश के पीछे किसका हाथ था और कैसे इसे अंजाम दिया गया?\n\nपूरी कहानी देखें और अपनी राय बताएं।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लाल किले के पास हुआ धमाका एक सोची-समझी साजिश और आत्मघाती हमला था! 🚨\n\nएनआईए की नई चार्जशीट ने इस सनसनीखेज मामले में कई बड़े खुलासे किए हैं। जानिए क्या थी पूरी सच्चाई।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "लाल किले के पास हुआ धमाका कोई आम हादसा नहीं, बल्कि एक आत्मघाती हमला था! 🛑\n\nएनआईए द्वारा दाखिल की गई चार्जशीट में इस मामले को लेकर ऐसे खुलासे हुए हैं जिन्होंने सबको हैरान कर दिया है। आखिर इस साजिश के तार कहां तक जुड़े थे?\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
-      },
-      "hashtags": [
-        "RedFortBlast",
-        "NIAInvestigation",
-        "DelhiBlast",
-        "LatestNews",
-        "CrimeNews"
-      ]
-    },
-    "audio_path": "audio/red_fort_blast_suicide_attack_nia.wav",
-    "audio_duration_sec": 19.92,
-    "video_path": "videos/red_fort_blast_suicide_attack_nia.mp4",
-    "video_duration_sec": 27.86
-  },
-  {
-    "topic_label": "supreme_court_marital_rape_validity",
-    "virality_score": 8,
-    "reason": "Supreme Court hearing on the constitutional validity of marital rape exception sparks intense nationwide debate.",
-    "region": "india",
-    "headline": "पत्नी को &#039;सेक्स स्लेव&#039; बनाकर रखा? पति पर केस चलेगा या नहीं SC करेगा फैसला",
-    "source_summary": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू की है. कोर्ट पहले कर्नाटक के एक मामले की जांच करेगा जिसमें पति पर पत्नी के साथ यौन हिंसा का आरोप है.",
-    "source_url": "https://www.aajtak.in/india/news/story/supreme-court-hearing-marital-rape-exception-constitutional-validity-ntcpvp-dskc-2639718-2026-09-09?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-09T19:38:57+05:30",
-    "hook": "सुप्रीम कोर्ट में मैरिटल रेप पर सबसे बड़ा फैसला जल्द आने वाला है!",
-    "script_hi": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू कर दी है। अदालत कर्नाटक के एक मामले की जांच कर रही है, जिसमें एक पति पर पत्नी के साथ यौन हिंसा और शारीरिक प्रताड़ना का गंभीर आरोप लगाया गया है। इस मामले में पति पर केस चलेगा या नहीं, यह सुप्रीम कोर्ट तय करेगा।",
-    "tts_text_hi": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू कर दी है। अदालत कर्नाटक के एक मामले की जांच कर रही है, जिसमें एक पति पर पत्नी के साथ यौन हिंसा और शारीरिक प्रताड़ना का गंभीर आरोप लगाया गया है। इस मामले में पति पर केस चलेगा या नहीं, यह सुप्रीम कोर्ट तय करेगा।",
-    "title": "मैरिटल रेप पर सुप्रीम कोर्ट का बड़ा फैसला",
-    "caption": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू की। कर्नाटक के एक मामले में पति पर लगे आरोपों पर कोर्ट तय करेगा कि केस चलेगा या नहीं।",
-    "hashtags": [
-      "SupremeCourt",
-      "MaritalRape",
-      "LegalNews",
-      "IndiaNews",
-      "SupremeCourtOfIndia",
-      "LawAndOrder"
-    ],
-    "visual_queries": [
-      "Supreme Court of India building",
-      "Indian courtroom legal hearing",
-      "Indian police station investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Contains sensitive allegations of sexual violence and an ongoing judicial matter requiring careful handling.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/20006775/20006775-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "Supreme Court of India building",
-        "credit": "Nitin Khajotia",
-        "source_duration_sec": 32,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6125277/6125277-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian police station investigation India",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian courtroom legal hearing",
-        "credit": "KATRIN  BOLOVTSOVA",
+        "query": "Brics summit meeting India",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 17,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "crude_oil_100_dollars_petrol_hike",
-    "virality_score": 8,
-    "reason": "Crude oil crossing $100 per barrel due to Hormuz attacks directly impacts common man's fuel expenses.",
-    "region": "india",
-    "headline": "पेट्रोल, डीजल और LPG के दाम क्‍या फिर बढ़ेंगे? होर्मूज में हमलों से फिर मई वाले हालात, कच्‍चा तेल 109 डॉलर के पार खरीद रहा देश",
-    "source_summary": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्ट्रीय बाजार में कच्चा तेल महंगा हो गया है. भारतीय बास्केट का क्रूड 108.91 डॉलर प्रति बैरल पर पहुंच जाने से पेट्रोल-डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है.",
-    "source_url": "https://ndtv.in/business-news/petrol-diesel-lpg-price-hike-likely-as-crude-oil-price-spike-like-may-2026-hike-amid-strait-of-hormuz-attacks-12024074#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Wed, 09 Sep 2026 19:12:58 +0530",
-    "hook": "क्‍या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल?",
-    "script_hi": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल महंगा हो गया है। भारतीय बास्केट का क्रूड एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे देश में पेट्रोल और डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है।",
-    "tts_text_hi": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल महंगा हो गया है। भारतीय बास्केट का क्रूड एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे देश में पेट्रोल और डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है।",
-    "title": "कच्‍चा तेल महंगा होने से पेट्रोल-डीजल के दाम बढ़ने की आशंका",
-    "caption": "होर्मूज स्ट्रेट में हमलों के बाद अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे भारत में पेट्रोल और डीजल की कीमतें बढ़ने की आशंका है।",
-    "hashtags": [
-      "PetrolPrice",
-      "DieselPrice",
-      "CrudeOil",
-      "Inflation",
-      "IndiaNews",
-      "BusinessNews"
-    ],
-    "visual_queries": [
-      "oil refinery India",
-      "fuel station India",
-      "cargo ship sea India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "inflation financial crisis India",
-        "credit": "Monstera Production",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "oil refinery India",
-        "credit": "Balotra News",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fuel station India",
-        "credit": "Mehul",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cargo ship sea India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3806756/pexels-photo-3806756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "global stock market chart",
-        "credit": "Markus Spiske",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6484708/pexels-photo-6484708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "money currency Indian rupees",
-        "credit": "Mister Fotofreak",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "empty wallet financial stress",
-        "credit": "Nicola Barts",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कच्चा तेल 109 डॉलर के पार! क्या फिर महंगे होंगे पेट्रोल-डीजल? ⛽",
-        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज जलडमरूमध्य में हमलों के बाद एक बार फिर मई जैसे हालात बन गए हैं। भारत के लिए कच्चा तेल 109 डॉलर प्रति बैरल के पार पहुंच गया है, जिससे कीमतों में भारी उछाल की आशंका है।\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
+        "title": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान",
+        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में हमलों के बाद कच्चा तेल 109 डॉलर के पार पहुंच चुका है। क्या आम आदमी की जेब पर फिर से बोझ बढ़ने वाला है?\n\nशेयर करें इस वीडियो को और बताएं क्या लगता है आपको?\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
+        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में लगातार हो रहे हमलों के चलते वैश्विक बाजार में हड़कंप मच गया है। हालात एक बार फिर मई जैसे बन रहे हैं क्योंकि देश के लिए कच्चा तेल 109 डॉलर प्रति बैरल के पार खरीदा जा रहा है। इसका सीधा असर आपकी जेब पर पड़ सकता है।\n\nपूरी खबर जानिए इस वीडियो में और शेयर कीजिए अपने दोस्तों के साथ।\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
+        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
       },
       "hashtags": [
-        "petrolprice",
-        "crudeoil",
-        "diesel",
-        "inflation",
-        "lpg"
+        "NoidaAirport",
+        "BRICS",
+        "Russia",
+        "IndiaNews",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/crude_oil_100_dollars_petrol_hike.wav",
-    "audio_duration_sec": 17.46,
-    "video_path": "videos/crude_oil_100_dollars_petrol_hike.mp4",
-    "video_duration_sec": 25.51
-  },
-  {
-    "topic_label": "oil_hits_100_dollars_us_houthi_strikes_global",
-    "virality_score": 7,
-    "reason": "Global oil prices crossing $100 following US and Houthi strikes has major international economic consequences.",
-    "region": "global",
-    "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-    "source_summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-    "source_url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Wed, 09 Sep 2026 09:47:39 GMT",
-    "hook": "कच्चे तेल की कीमतें आसमान छू रही हैं!",
-    "script_hi": "कच्चे तेल यानी ब्रेंट क्रूड के दाम एक सौ डॉलर प्रति बैरल पर पहुंच गए हैं। जुलाई के बाद यह पहली बार हुआ है, जब तेल की कीमतें इस स्तर पर पहुंची हैं। अमेरिका द्वारा पांच ईरानी टैंकरों पर हमले के बाद यह उछाल आया है।",
-    "tts_text_hi": "कच्चे तेल यानी ब्रेंट क्रूड के दाम एक सौ डॉलर प्रति बैरल पर पहुंच गए हैं। जुलाई के बाद यह पहली बार हुआ है, जब तेल की कीमतें इस स्तर पर पहुंची हैं। अमेरिका द्वारा पांच ईरानी टैंकरों पर हमले के बाद यह उछाल आया है।",
-    "title": "क्रैश या उछाल? तेल के दाम पहुंचे सौ डॉलर के पार",
-    "caption": "ब्रेंट क्रूड के दाम बढ़कर एक सौ डॉलर प्रति बैरल हो गए हैं। अमेरिका और हौथी संघर्ष के बीच कीमतों में भारी उछाल आया है।",
-    "hashtags": [
-      "OilPrices",
-      "BrentCrude",
-      "BreakingNews",
-      "USNews",
-      "GlobalEconomy",
-      "MarketUpdate",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "oil refinery factory India",
-      "oil tanker ship India",
-      "stock market graph India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30556821/pexels-photo-30556821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "oil refinery factory India",
-        "credit": "Dheeraj Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "oil tanker ship India",
-        "credit": "Burak  Başgöze",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stock market graph India",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18091972/pexels-photo-18091972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gas station India",
-        "credit": "Shivansh  Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37043765/pexels-photo-37043765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fuel price increase",
-        "credit": "Peter Jochim",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16108188/pexels-photo-16108188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy traffic highway",
-        "credit": "Aldin H.",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18040079/pexels-photo-18040079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "industrial factory smoke",
-        "credit": "Abir Hasan",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "कच्चे तेल ने पार किया 100 डॉलर का आंकड़ा! पेट्रोल-डीजल पर क्या होगा असर? 🛢️",
-        "caption": "जुलाई के बाद पहली बार क्रूड ऑयल सीधे 100 डॉलर प्रति बैरल के पार पहुंच गया है। अमेरिका और हाउती विद्रोहियों के बीच बढ़ते हमलों की वजह से ग्लोबल मार्केट में हलचल तेज हो गई है। इसका सीधा असर भारत जैसे देशों पर पड़ना तय है। क्या आपके शहर में भी महंगे होने वाले हैं ईंधन के दाम? पूरी कहानी देखें 📉\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "जुलाई के बाद पहली बार कच्चा तेल 100 डॉलर के पार! 🛢️ अमेरिका और हाउती हमलों के बाद ग्लोबल मार्केट में ये बड़ा उछाल आया है। आपकी जेब पर इसका क्या असर होगा, वीडियो में देखिए। क्या लगता है, अब महंगाई बढ़ेगी या सरकार संभालेगी मोर्चा? 👇\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "जुलाई के बाद पहली बार कच्चे तेल की कीमतें 100 डॉलर प्रति बैरल के पार पहुंच चुकी हैं। अमेरिका और हाउती संघर्ष के बाद सप्लाई चेन पर भारी असर पड़ा है, जिससे ग्लोबल इकॉनमी में हलचल मची हुई है। भारत में इसका सीधा असर पेट्रोल-डीजल की कीमतों पर पड़ सकता है। इस संकट से क्या वाकई महंगाई का नया दौर शुरू होगा? अपनी राय कमेंट में ज़रूर बताएं। 🛢️📈\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
-      },
-      "hashtags": [
-        "CrudeOil",
-        "OilPrices",
-        "GlobalEconomy",
-        "Inflation",
-        "Houthi"
-      ]
-    },
-    "audio_path": "audio/oil_hits_100_dollars_us_houthi_strikes_global.wav",
-    "audio_duration_sec": 15.71,
-    "video_path": "videos/oil_hits_100_dollars_us_houthi_strikes_global.mp4",
-    "video_duration_sec": 23.66
+    "audio_path": "audio/russian_military_aircraft_noida_airport_brics.wav",
+    "audio_duration_sec": 16.74,
+    "video_path": "videos/russian_military_aircraft_noida_airport_brics.mp4",
+    "video_duration_sec": 24.79
   }
 ]

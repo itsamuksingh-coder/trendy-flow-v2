@@ -1,6 +1,3 @@
-ready_labels: ['crude_oil_100_dollars_petrol_hike', 'oil_hits_100_dollars_us_houthi_strikes_global', 'red_fort_blast_suicide_attack_nia']
+ready_labels: ['russian_military_aircraft_noida_airport_brics']
 
-red_fort_blast_suicide_attack_nia: SUCCESS -> video_path=videos/red_fort_blast_suicide_attack_nia.mp4 dur=27.856553
-supreme_court_marital_rape_validity: SKIPPED (not in ready set)
-crude_oil_100_dollars_petrol_hike: SUCCESS -> video_path=videos/crude_oil_100_dollars_petrol_hike.mp4 dur=25.507211
-oil_hits_100_dollars_us_houthi_strikes_global: SUCCESS -> video_path=videos/oil_hits_100_dollars_us_houthi_strikes_global.mp4 dur=23.656553
+russian_military_aircraft_noida_airport_brics: SUCCESS -> video_path=videos/russian_military_aircraft_noida_airport_brics.mp4 dur=24.788231
