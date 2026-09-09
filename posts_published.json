@@ -1,93 +1,92 @@
 [
   {
-    "topic_label": "apple_iphone_18_pro_fold_ultra_launch",
+    "topic_label": "red_fort_blast_suicide_attack_nia",
     "virality_score": 9,
-    "reason": "Apple's major launch event featuring the new iPhone 18 Pro and foldable iPhone Ultra has massive tech audience appeal.",
+    "reason": "NIA chargesheet revealing the Red Fort blast was a suicide attack using AI tools for bomb-making generates high curiosity.",
     "region": "india",
-    "headline": "मुड़ने वाले iPhone से 18 Pro तक, Apple का आज बड़ा इवेंट",
-    "source_summary": "Apple का आज एक बड़ा इवेंट होने जा रहा है, जिसमें iPhone 18 Pro सीरीज और कंपनी का पहला iPhone Fold Ultra लॉन्च होगा. साथ ही इस कंपनी AirPods और न्यू Apple Watch भी लॉन्च होगी. आइए इसके बारे में डिटेल्स में जानते हैं.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-first-iphone-fold-ultra-iphone-18-pro-event-ttecr-dskc-2639502-2026-09-09?utm_source=rssfeed",
+    "headline": "आत्मघाती हमला था लाल किले के पास हुआ धमाका, चार्जशीट में बड़ा खुलासा",
+    "source_summary": "लालकिला ब्लास्ट केस में राष्ट्रीय जांच एजेंसी (NIA) की चार्जशीट में बड़ा खुलासा हुआ है. जांच एजेंसी के मुताबिक 10 नवंबर 2025 का लाल किला ब्लास्ट आत्मघाती हमला था और आरोपी उमर नबी ने कार में बैठकर IED सक्रिय किया था. पढ़ें पूरी कहानी, चार्जशीट की जुबानी.",
+    "source_url": "https://www.aajtak.in/crime/police-and-intelligence/story/red-fort-blast-case-nia-chargesheet-umar-nabi-suicide-bombing-pvzs-rpti-2639645-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-09T15:15:41+05:30",
-    "hook": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन?",
-    "script_hi": "ऐपल का आज बड़ा इवेंट होने जा रहा है, जिसमें आईफोन अट्ठारह प्रो सीरीज और कंपनी का पहला आईफोन फोल्ड अल्ट्रा लॉन्च होगा। इसके साथ ही नए एयरपॉड्स और ऐपल वॉच भी पेश किए जाएंगे।",
-    "tts_text_hi": "ऐपल का आज बड़ा इवेंट होने जा रहा है, जिसमें आईफोन अट्ठारह प्रो सीरीज और कंपनी का पहला आईफोन फोल्ड अल्ट्रा लॉन्च होगा। इसके साथ ही नए एयरपॉड्स और ऐपल वॉच भी पेश किए जाएंगे।",
-    "title": "Apple Event: iPhone 18 Pro और पहला Fold Ultra होगा लॉन्च",
-    "caption": "ऐपल के आज होने वाले बड़े इवेंट में आईफोन अट्ठारह प्रो और फोल्ड अल्ट्रा लॉन्च होने की उम्मीद। जानिए पूरी डिटेल्स।",
+    "published": "2026-09-09T17:32:09+05:30",
+    "hook": "लाल किले के पास हुआ धमाका एक आत्मघाती हमला था!",
+    "script_hi": "लाल किले के पास हुए धमाके को लेकर राष्ट्रीय जांच एजेंसी यानी एनआईए की चार्जशीट में बड़ा खुलासा हुआ है। जांच के मुताबिक दस नवंबर दो हजार पच्चीस को हुआ लाल किला ब्लास्ट एक आत्मघाती हमला था। आरोपी उमर नबी ने कार में बैठकर आईईडी सक्रिय किया था।",
+    "tts_text_hi": "लाल किले के पास हुए धमाके को लेकर राष्ट्रीय जांच एजेंसी यानी एनआईए की चार्जशीट में बड़ा खुलासा हुआ है। जांच के मुताबिक दस नवंबर दो हजार पच्चीस को हुआ लाल किला ब्लास्ट एक आत्मघाती हमला था। आरोपी उमर नबी ने कार में बैठकर आईईडी सक्रिय किया था।",
+    "title": "लाल किला ब्लास्ट पर एनआईए का बड़ा खुलासा",
+    "caption": "लाल किले के पास हुआ धमाका आत्मघाती हमला था, एनआईए की चार्जशीट में बड़ा खुलासा।",
     "hashtags": [
-      "AppleEvent",
-      "iPhone18Pro",
-      "iPhoneFoldUltra",
-      "AppleWatch",
-      "TechNews",
-      "AppleIndia"
+      "RedFortBlast",
+      "NIA",
+      "DelhiNews",
+      "BreakingNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Apple event stage India",
-      "new iPhone model India",
-      "modern smartwatch India"
+      "Red Fort Delhi India",
+      "NIA office India building",
+      "Indian police investigation car"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33753145/pexels-photo-33753145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple event stage India",
-        "credit": "Anurag Sarkar",
+        "url": "downloaded_assets/commons_21b05d1ded.jpg",
+        "source": "wikimedia_commons",
+        "query": "Red Fort Delhi India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3934704/pexels-photo-3934704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39272765/pexels-photo-39272765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "new iPhone model India",
-        "credit": "Danielle De Angelis",
+        "query": "NIA office India building",
+        "credit": "Preetesh  biswas",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18259150/pexels-photo-18259150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10466469/pexels-photo-10466469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern smartwatch India",
-        "credit": "Akshay Anil",
+        "query": "Indian police investigation car",
+        "credit": "cottonbro studio",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19281840/pexels-photo-19281840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern technology store India",
-        "credit": "Rohit Sharma",
+        "query": "courtroom trial India",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "person using smartphone India",
-        "credit": "Kewal Nagda",
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25809243/pexels-photo-25809243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "consumer electronics display",
-        "credit": "Matheus Bertelli",
+        "query": "security forces Delhi India",
+        "credit": "Frank van Dijk",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/27668946/pexels-photo-27668946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34872680/pexels-photo-34872680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "latest gadget unboxing",
-        "credit": "Adriel Arevalo",
+        "query": "news broadcast studio India",
+        "credit": "Mokhtar Med",
         "duration_sec": 4.3
       }
     ],
@@ -96,34 +95,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱 Apple Event Update",
-        "caption": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱\n\nऐपल के आज होने वाले बड़े इवेंट में दुनिया की नज़रें टिकी हैं। इस बार iPhone 18 Pro के साथ-साथ कंपनी अपना पहला Fold Ultra भी लॉन्च कर सकती है।\n\nक्या आप भी इस नए फोन का इंतज़ार कर रहे थे? कमेंट में बताएं और पूरी डिटेल के लिए वीडियो देखें।\n\n#AppleEvent #iPhone18Pro #FoldablePhone #AppleUpdate #TechNews"
+        "title": "लाल किले के पास धमाका: एनआईए की चार्जशीट में बड़ा खुलासा 🚨",
+        "caption": "लाल किले के पास हुआ धमाका कोई इत्तेफाक नहीं, बल्कि एक खतरनाक आत्मघाती हमला था! 🛑\n\nएनआईए की चार्जशीट में इस साजिश से जुड़े कई चौंकाने वाले राज सामने आए हैं। आखिर इस साजिश के पीछे किसका हाथ था और कैसे इसे अंजाम दिया गया?\n\nपूरी कहानी देखें और अपनी राय बताएं।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱\n\nऐपल के आज के सबसे बड़े इवेंट में इतिहास बदलने वाला है। iPhone 18 Pro के साथ मार्केट में एंट्री ले सकता है पहला Fold Ultra।\n\nदोस्तों के साथ शेयर करें जो ऐपल के दीवाने हैं! 🔄\n\n#AppleEvent #iPhone18Pro #FoldablePhone #AppleUpdate #TechNews"
+        "caption": "लाल किले के पास हुआ धमाका एक सोची-समझी साजिश और आत्मघाती हमला था! 🚨\n\nएनआईए की नई चार्जशीट ने इस सनसनीखेज मामले में कई बड़े खुलासे किए हैं। जानिए क्या थी पूरी सच्चाई।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱\n\nआज ऐपल का सबसे बड़ा इवेंट है, और टेक लवर्स की धड़कनें बढ़ी हुई हैं। चर्चा है कि कंपनी अपने प्रीमियम लाइनअप में iPhone 18 Pro के साथ अपना पहला Fold Ultra भी पेश कर सकती है।\n\nक्या ये फोन पुराने सभी रिकॉर्ड तोड़ पाएगा? अपनी राय ज़रूर शेयर करें और पूरी कहानी देखें।\n\n#AppleEvent #iPhone18Pro #FoldablePhone #AppleUpdate #TechNews"
+        "caption": "लाल किले के पास हुआ धमाका कोई आम हादसा नहीं, बल्कि एक आत्मघाती हमला था! 🛑\n\nएनआईए द्वारा दाखिल की गई चार्जशीट में इस मामले को लेकर ऐसे खुलासे हुए हैं जिन्होंने सबको हैरान कर दिया है। आखिर इस साजिश के तार कहां तक जुड़े थे?\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews"
       },
       "hashtags": [
-        "AppleEvent",
-        "iPhone18Pro",
-        "FoldablePhone",
-        "AppleUpdate",
-        "TechNews"
+        "RedFortBlast",
+        "NIAInvestigation",
+        "DelhiBlast",
+        "LatestNews",
+        "CrimeNews"
       ]
     },
-    "audio_path": "audio/apple_iphone_18_pro_fold_ultra_launch.wav",
-    "audio_duration_sec": 13.07,
-    "video_path": "videos/apple_iphone_18_pro_fold_ultra_launch.mp4",
-    "video_duration_sec": 21.09,
+    "audio_path": "audio/red_fort_blast_suicide_attack_nia.wav",
+    "audio_duration_sec": 19.92,
+    "video_path": "videos/red_fort_blast_suicide_attack_nia.mp4",
+    "video_duration_sec": 27.86,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T14:52:23.760639+00:00"
+        "attempted_at": "2026-09-09T16:30:46.377521+00:00"
       },
       "facebook": {
         "success": true,
@@ -136,15 +135,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa172beb39487b1c8ca65f6",
+            "_id": "6aa189cf5e7c2713cef30530",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱\n\nआज ऐपल का सबसे बड़ा इवेंट है, और टेक लवर्स की धड़कनें बढ़ी हुई हैं। चर्चा है कि कंपनी अपने प्रीमियम लाइनअप में iPhone 18 Pro के साथ अपना पहला Fold Ultra भी पेश कर सकती है।\n\nक्या ये फोन पुराने सभी रिकॉर्ड तोड़ पाएगा? अपनी राय ज़रूर शेयर करें और पूरी कहानी देखें।\n\n#AppleEvent #iPhone18Pro #FoldablePhone #AppleUpdate #TechNews",
+            "content": "लाल किले के पास हुआ धमाका कोई आम हादसा नहीं, बल्कि एक आत्मघाती हमला था! 🛑\n\nएनआईए द्वारा दाखिल की गई चार्जशीट में इस मामले को लेकर ऐसे खुलासे हुए हैं जिन्होंने सबको हैरान कर दिया है। आखिर इस साजिश के तार कहां तक जुड़े थे?\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788965563921_3w2t2ni9_apple_iphone_18_pro_fold_ultra_launch.mp4",
-                "_id": "6aa172beb39487b1c8ca65f7"
+                "url": "https://media.zernio.com/media/1788971468575_2g00n7ds_red_fort_blast_suicide_attack_nia.mp4",
+                "_id": "6aa189cf5e7c2713cef30531"
               }
             ],
             "platforms": [
@@ -161,17 +160,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T14:52:45.310Z",
+                "scheduledFor": "2026-09-09T16:31:10.001Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "4b3921ff419a67deb1b37ce8fd59f519",
-                "_id": "6aa172beb39487b1c8ca65f8",
-                "platformPostId": "2494258357727424",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2494258357727424",
-                "publishedAt": "2026-09-09T14:52:52.929Z"
+                "contentHash": "ba939b6242b58d31c6b42854c0dc7c3e",
+                "_id": "6aa189cf5e7c2713cef30532",
+                "platformPostId": "1110400118325346",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1110400118325346",
+                "publishedAt": "2026-09-09T16:31:18.543Z"
               }
             ],
-            "scheduledFor": "2026-09-09T14:52:45.310Z",
+            "scheduledFor": "2026-09-09T16:31:10.001Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -183,14 +182,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T14:52:46.440Z",
-            "updatedAt": "2026-09-09T14:52:53.078Z",
+            "createdAt": "2026-09-09T16:31:11.164Z",
+            "updatedAt": "2026-09-09T16:31:18.657Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T14:52:46.537Z"
+            "publishingClaimedAt": "2026-09-09T16:31:11.325Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T14:52:53.274275+00:00"
+        "attempted_at": "2026-09-09T16:31:18.894083+00:00"
       },
       "instagram": {
         "success": true,
@@ -203,15 +202,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa172d8775e559fe0eeb448",
+            "_id": "6aa189ef5e7c2713cef312fb",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्या ऐपल लाने जा रहा है अपना पहला फोल्डेबल फोन? 📱\n\nऐपल के आज के सबसे बड़े इवेंट में इतिहास बदलने वाला है। iPhone 18 Pro के साथ मार्केट में एंट्री ले सकता है पहला Fold Ultra।\n\nदोस्तों के साथ शेयर करें जो ऐपल के दीवाने हैं! 🔄\n\n#AppleEvent #iPhone18Pro #FoldablePhone #AppleUpdate #TechNews",
+            "content": "लाल किले के पास हुआ धमाका एक सोची-समझी साजिश और आत्मघाती हमला था! 🚨\n\nएनआईए की नई चार्जशीट ने इस सनसनीखेज मामले में कई बड़े खुलासे किए हैं। जानिए क्या थी पूरी सच्चाई।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#RedFortBlast #NIAInvestigation #DelhiBlast #LatestNews #CrimeNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788965590415_qxwztg2q_apple_iphone_18_pro_fold_ultra_launch.mp4",
-                "_id": "6aa172d8775e559fe0eeb449"
+                "url": "https://media.zernio.com/media/1788971500051_yw7on93p_red_fort_blast_suicide_attack_nia.mp4",
+                "_id": "6aa189ef5e7c2713cef312fc"
               }
             ],
             "platforms": [
@@ -228,14 +227,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T14:53:11.338Z",
+                "scheduledFor": "2026-09-09T16:31:42.373Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "715a7b92e14d4cc28eb521135444e1e1",
-                "_id": "6aa172d8775e559fe0eeb44a"
+                "contentHash": "0581e4c0fbb3023b4cd1ac1ea149c49c",
+                "_id": "6aa189ef5e7c2713cef312fd"
               }
             ],
-            "scheduledFor": "2026-09-09T14:53:11.338Z",
+            "scheduledFor": "2026-09-09T16:31:42.373Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -247,106 +246,110 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T14:53:12.461Z",
-            "updatedAt": "2026-09-09T14:53:14.658Z",
+            "createdAt": "2026-09-09T16:31:43.884Z",
+            "updatedAt": "2026-09-09T16:31:45.954Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T14:53:12.566Z"
+            "publishingClaimedAt": "2026-09-09T16:31:43.961Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T14:53:15.222834+00:00"
+        "attempted_at": "2026-09-09T16:31:46.370512+00:00"
       }
     }
   },
   {
-    "topic_label": "kota_play_school_3_year_old_dna_test",
-    "virality_score": 9,
-    "reason": "Shocking alleged abuse case of a 3-year-old child in Kota with DNA testing of staff has high outrage and viral potential.",
+    "topic_label": "supreme_court_marital_rape_validity",
+    "virality_score": 8,
+    "reason": "Supreme Court hearing on the constitutional validity of marital rape exception sparks intense nationwide debate.",
     "region": "india",
-    "headline": "कोटा के प्ले स्कूल में 3 साल की बच्ची के साथ शर्मनाक हरकत, 11 लोगों के लिए गए DNA सैंपल",
-    "source_summary": "कोटा के एक प्ले स्कूल में 3 साल की मासूम बच्ची के साथ अश्लील हरकत की आशंका का सनसनीखेज मामला सामने आया है। बच्ची के शरीर पर जख्म मिलने के बाद परिजनों ने पुलिस में शिकायत दर्ज कराई। कोटा पुलिस ने पॉक्सो एक्ट में मामला दर्ज कर स्कूल स्टाफ समेत 11 लोगों के DNA सैंपल लिए हैं. FSL रिपोर्ट आने के बाद आगे की कार्रवाई होगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/rajasthan/kota/kota-play-school-3-year-old-girl-case-police-took-11-people-dna-samples/articleshow/133969650.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 09 Sep 2026 19:18:00 +0530",
-    "hook": "कोटा के प्ले स्कूल में तीन साल की मासूम के साथ शर्मनाक हरकत!",
-    "script_hi": "राजस्थान के कोटा में एक प्ले स्कूल के भीतर तीन साल की बच्ची के साथ अश्लील हरकत का सनसनीखेज मामला सामने आया है। बच्ची के शरीर पर जख्म मिलने के बाद परिजनों ने पुलिस में शिकायत दर्ज कराई। पुलिस ने पॉक्सो एक्ट के तहत मामला दर्ज कर स्कूल स्टाफ समेत ग्यारह लोगों के डीएनए सैंपल लिए हैं। एफएसएल रिपोर्ट आने के बाद आगे की कार्रवाई की जाएगी।",
-    "tts_text_hi": "राजस्थान के कोटा में एक प्ले स्कूल के भीतर तीन साल की बच्ची के साथ अश्लील हरकत का सनसनीखेज मामला सामने आया है। बच्ची के शरीर पर जख्म मिलने के बाद परिजनों ने पुलिस में शिकायत दर्ज कराई। पुलिस ने पॉक्सो एक्ट के तहत मामला दर्ज कर स्कूल स्टाफ समेत ग्यारह लोगों के डीएनए सैंपल लिए हैं। एफएसएल रिपोर्ट आने के बाद आगे की कार्रवाई की जाएगी।",
-    "title": "कोटा के प्ले स्कूल में तीन साल की बच्ची के साथ शर्मनाक हरकत",
-    "caption": "कोटा के एक प्ले स्कूल में तीन साल की मासूम बच्ची के साथ अश्लील हरकत की आशंका। पुलिस ने ग्यारह लोगों के डीएनए सैंपल लिए।",
+    "headline": "पत्नी को &#039;सेक्स स्लेव&#039; बनाकर रखा? पति पर केस चलेगा या नहीं SC करेगा फैसला",
+    "source_summary": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू की है. कोर्ट पहले कर्नाटक के एक मामले की जांच करेगा जिसमें पति पर पत्नी के साथ यौन हिंसा का आरोप है.",
+    "source_url": "https://www.aajtak.in/india/news/story/supreme-court-hearing-marital-rape-exception-constitutional-validity-ntcpvp-dskc-2639718-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T19:38:57+05:30",
+    "hook": "सुप्रीम कोर्ट में मैरिटल रेप पर सबसे बड़ा फैसला जल्द आने वाला है!",
+    "script_hi": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू कर दी है। अदालत कर्नाटक के एक मामले की जांच कर रही है, जिसमें एक पति पर पत्नी के साथ यौन हिंसा और शारीरिक प्रताड़ना का गंभीर आरोप लगाया गया है। इस मामले में पति पर केस चलेगा या नहीं, यह सुप्रीम कोर्ट तय करेगा।",
+    "tts_text_hi": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू कर दी है। अदालत कर्नाटक के एक मामले की जांच कर रही है, जिसमें एक पति पर पत्नी के साथ यौन हिंसा और शारीरिक प्रताड़ना का गंभीर आरोप लगाया गया है। इस मामले में पति पर केस चलेगा या नहीं, यह सुप्रीम कोर्ट तय करेगा।",
+    "title": "मैरिटल रेप पर सुप्रीम कोर्ट का बड़ा फैसला",
+    "caption": "सुप्रीम कोर्ट ने मैरिटल रेप अपवाद की संवैधानिक वैधता पर सुनवाई शुरू की। कर्नाटक के एक मामले में पति पर लगे आरोपों पर कोर्ट तय करेगा कि केस चलेगा या नहीं।",
     "hashtags": [
-      "KotaNews",
-      "RajasthanNews",
-      "CrimeNews",
-      "POSCOAct",
-      "IndiaNews"
+      "SupremeCourt",
+      "MaritalRape",
+      "LegalNews",
+      "IndiaNews",
+      "SupremeCourtOfIndia",
+      "LawAndOrder"
     ],
     "visual_queries": [
-      "police station building India",
-      "forensic laboratory India",
-      "school building India"
+      "Supreme Court of India building",
+      "Indian courtroom legal hearing",
+      "Indian police station investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim in a sensitive case, requiring careful manual review despite reporting facts.",
+    "flag_reason": "Contains sensitive allegations of sexual violence and an ongoing judicial matter requiring careful handling.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/20006775/20006775-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "police station building India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
+        "query": "Supreme Court of India building",
+        "credit": "Nitin Khajotia",
+        "source_duration_sec": 32,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6125277/6125277-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian police station investigation India",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 10,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481288/pexels-photo-10481288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "forensic laboratory India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34655957/pexels-photo-34655957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "school building India",
-        "credit": "Sanjay Sharma",
+        "query": "Indian courtroom legal hearing",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 17,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "guwahati_wife_murder_decapitation_fridge",
-    "virality_score": 9,
-    "reason": "A gruesome crime story involving a decapitated body found in a fridge in Guwahati is a major viral shocker.",
+    "topic_label": "crude_oil_100_dollars_petrol_hike",
+    "virality_score": 8,
+    "reason": "Crude oil crossing $100 per barrel due to Hormuz attacks directly impacts common man's fuel expenses.",
     "region": "india",
-    "headline": "पत्नी का स‍िर काटा, गि‍रफ्तारी पर बोला- अब इसके शुगर डैडी को मारूंगा",
-    "source_summary": "असम की राजधानी गुवाहाटी के नूनमाटी इलाके में 25 साल की रिया तालुकदार की लाश उसी के घर में मिली. रिया का सिर फ्रिज में रखा था. जबकी जिस्म फर्श पर पड़ा था. उसके हाथों की ऊंगलियां भी कटी हुई थी. असल में रविवार 6 अगस्त की रात करीब पौने दस बजे नूनमाटी पुलिस को वशिष्ठपुर बाइलेन के एक मकान से तेज बदबू की शिकायत मिली. घर में कोई नहीं था.यहां रहने वाले पति-पत्नी दोनों का मोबाइल फोन स्विच्ड ऑफ था. ऐसे में पुलिस की टीम दरवाजा तोड़ कर अंदर दाखिल हुई और इसके बाद उन्हें जो मंजर नजर आया, वो भयानक था.",
-    "source_url": "https://www.aajtak.in/india/news/video/assam-guwahati-husband-kills-wife-chops-head-and-kept-in-fridge-vdoj-2639629-2026-09-09?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-09T17:20:04+05:30",
-    "hook": "गुवाहाटी में दिल दहला देने वाली घटना, पत्नी का सिर काटकर फ्रिज में रखा!",
-    "script_hi": "असम के गुवाहाटी में दिल दहला देने वाली घटना सामने आई है. नूनमाटी इलाके में पच्चीस साल की रिया तालुकदार की लाश उसके ही घर से बरामद हुई. कातिल ने रिया का सिर काटकर फ्रिज में रख दिया था और जिस्म फर्श पर पड़ा था. पुलिस जब मौके पर पहुंची तो घर का मंजर देखकर सन्न रह गई. आरोपी पति की तलाश जारी है.",
-    "tts_text_hi": "असम के गुवाहाटी में दिल दहला देने वाली घटना सामने आई है. नूनमाटी इलाके में पच्चीस साल की रिया तालुकदार की लाश उसके ही घर से बरामद हुई. कातिल ने रिया का सिर काटकर फ्रिज में रख दिया था और जिस्म फर्श पर पड़ा था. पुलिस जब मौके पर पहुंची तो घर का मंजर देखकर सन्न रह गई. आरोपी पति की तलाश जारी है.",
-    "title": "Guwahati Horror: Wife's Head Found in Fridge",
-    "caption": "गुवाहाटी के नूनमाटी इलाके में एक दिल दहला देने वाली घटना सामने आई है जहां एक महिला की बेरहमी से हत्या कर उसका सिर फ्रिज में छिपा दिया गया।",
+    "headline": "पेट्रोल, डीजल और LPG के दाम क्‍या फिर बढ़ेंगे? होर्मूज में हमलों से फिर मई वाले हालात, कच्‍चा तेल 109 डॉलर के पार खरीद रहा देश",
+    "source_summary": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्ट्रीय बाजार में कच्चा तेल महंगा हो गया है. भारतीय बास्केट का क्रूड 108.91 डॉलर प्रति बैरल पर पहुंच जाने से पेट्रोल-डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है.",
+    "source_url": "https://ndtv.in/business-news/petrol-diesel-lpg-price-hike-likely-as-crude-oil-price-spike-like-may-2026-hike-amid-strait-of-hormuz-attacks-12024074#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 09 Sep 2026 19:12:58 +0530",
+    "hook": "क्‍या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल?",
+    "script_hi": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल महंगा हो गया है। भारतीय बास्केट का क्रूड एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे देश में पेट्रोल और डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है।",
+    "tts_text_hi": "होर्मूज स्ट्रेट में जहाजों पर हमलों के कारण अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल महंगा हो गया है। भारतीय बास्केट का क्रूड एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे देश में पेट्रोल और डीजल की कीमतों में बढ़ोतरी की आशंका बढ़ गई है।",
+    "title": "कच्‍चा तेल महंगा होने से पेट्रोल-डीजल के दाम बढ़ने की आशंका",
+    "caption": "होर्मूज स्ट्रेट में हमलों के बाद अंतरराष्‍ट्रीय बाजार में कच्‍चा तेल एक सौ नौ डॉलर प्रति बैरल के पार पहुंच गया है, जिससे भारत में पेट्रोल और डीजल की कीमतें बढ़ने की आशंका है।",
     "hashtags": [
-      "#GuwahatiCrime",
-      "#AssamNews",
-      "#CrimeNews",
-      "#IndiaNews",
-      "#PoliceInvestigation"
+      "PetrolPrice",
+      "DieselPrice",
+      "CrudeOil",
+      "Inflation",
+      "IndiaNews",
+      "BusinessNews"
     ],
     "visual_queries": [
-      "Guwahati city street India",
-      "police station India",
-      "crime scene investigation India"
+      "oil refinery India",
+      "fuel station India",
+      "cargo ship sea India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -357,59 +360,59 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "inflation financial crisis India",
+        "credit": "Monstera Production",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10576296/pexels-photo-10576296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Guwahati city street India",
-        "credit": "Gyanongkur Das",
+        "query": "oil refinery India",
+        "credit": "Balotra News",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
+        "query": "fuel station India",
+        "credit": "Mehul",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
+        "query": "cargo ship sea India",
+        "credit": "Ravi Roshan",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3806756/pexels-photo-3806756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
+        "query": "global stock market chart",
+        "credit": "Markus Spiske",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481269/pexels-photo-10481269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6484708/pexels-photo-6484708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "forensic team collecting evidence",
-        "credit": "cottonbro studio",
+        "query": "money currency Indian rupees",
+        "credit": "Mister Fotofreak",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19927651/pexels-photo-19927651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7927422/pexels-photo-7927422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "urban residential street India",
-        "credit": "Kalpit Visavadiya",
+        "query": "empty wallet financial stress",
+        "credit": "Nicola Barts",
         "duration_sec": 4.0
       }
     ],
@@ -418,34 +421,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पत्नी का सिर काटकर फ्रिज में रखा! गुवाहाटी की खौफनाक वारदात 😱",
-        "caption": "पत्नी का सिर काटकर फ्रिज में रखा और गिरफ्तारी पर बोला- अब इसके शुगर डैडी को मारूंगा!\n\nगुवाहाटी से एक ऐसा दिल दहला देने वाला मामला सामने आया है जिसे सुनकर पुलिस के भी होश उड़ गए। मामूली विवाद में पति ने अपनी ही पत्नी की बेरहमी से हत्या कर दी और शव के टुकड़े कर दिए। \n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#GuwahatiCrime #CrimeNews #GuwahatiHorror #ShockingNews #TrueCrime"
+        "title": "कच्चा तेल 109 डॉलर के पार! क्या फिर महंगे होंगे पेट्रोल-डीजल? ⛽",
+        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज जलडमरूमध्य में हमलों के बाद एक बार फिर मई जैसे हालात बन गए हैं। भारत के लिए कच्चा तेल 109 डॉलर प्रति बैरल के पार पहुंच गया है, जिससे कीमतों में भारी उछाल की आशंका है।\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
       },
       "instagram": {
         "title": null,
-        "caption": "पत्नी का सिर काटकर फ्रिज में रखा! गिरफ्तारी पर कातिल बोला- अब इसके शुगर डैडी को मारूंगा 🔪\n\nगुवाहाटी की इस वीभत्स घटना ने सबको झकझोर कर रख दिया है। पति ने खौफनाक वारदात को अंजाम देने के बाद बड़े आराम से ये बात कही। \n\nक्या ऐसे दरिंदों को कभी माफ किया जा सकता है? वीडियो पूरा देखें।\n\n#GuwahatiCrime #CrimeNews #GuwahatiHorror #ShockingNews #TrueCrime"
+        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में हमलों के बाद कच्चा तेल 109 डॉलर के पार पहुंच चुका है। क्या आम आदमी की जेब पर फिर से बोझ बढ़ने वाला है?\n\nशेयर करें इस वीडियो को और बताएं क्या लगता है आपको?\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
       },
       "facebook": {
         "title": null,
-        "caption": "गुवाहाटी में हुई एक ऐसी खौफनाक वारदात जिसे जानकर आपकी रूह कांप जाएगी। एक शख्स ने अपनी पत्नी का सिर काटकर फ्रिज में रख दिया और गिरफ्तारी के वक्त बेखौफ होकर बोला कि वह उसकी पत्नी के तथाकथित 'शुगर डैडी' को भी मारेगा। \n\nयह सनसनीखेज मामला सामने आने के बाद इलाके में सनसनी फैल गई है। पुलिस अब इस खौफनाक हत्याकांड की हर एक कड़ी को जोड़ने में जुटी है। \n\nपूरी कहानी जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#GuwahatiCrime #CrimeNews #GuwahatiHorror #ShockingNews #TrueCrime"
+        "caption": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में लगातार हो रहे हमलों के चलते वैश्विक बाजार में हड़कंप मच गया है। हालात एक बार फिर मई जैसे बन रहे हैं क्योंकि देश के लिए कच्चा तेल 109 डॉलर प्रति बैरल के पार खरीदा जा रहा है। इसका सीधा असर आपकी जेब पर पड़ सकता है।\n\nपूरी खबर जानिए इस वीडियो में और शेयर कीजिए अपने दोस्तों के साथ।\n\n#petrolprice #crudeoil #diesel #inflation #lpg"
       },
       "hashtags": [
-        "GuwahatiCrime",
-        "CrimeNews",
-        "GuwahatiHorror",
-        "ShockingNews",
-        "TrueCrime"
+        "petrolprice",
+        "crudeoil",
+        "diesel",
+        "inflation",
+        "lpg"
       ]
     },
-    "audio_path": "audio/guwahati_wife_murder_decapitation_fridge.wav",
-    "audio_duration_sec": 22.06,
-    "video_path": "videos/guwahati_wife_murder_decapitation_fridge.mp4",
-    "video_duration_sec": 30.11,
+    "audio_path": "audio/crude_oil_100_dollars_petrol_hike.wav",
+    "audio_duration_sec": 17.46,
+    "video_path": "videos/crude_oil_100_dollars_petrol_hike.mp4",
+    "video_duration_sec": 25.51,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T14:56:47.334150+00:00"
+        "attempted_at": "2026-09-09T16:36:31.546814+00:00"
       },
       "facebook": {
         "success": true,
@@ -458,15 +461,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa173c9d726a504b7e7a352",
+            "_id": "6aa18b2a4c090540ec8f295f",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "गुवाहाटी में हुई एक ऐसी खौफनाक वारदात जिसे जानकर आपकी रूह कांप जाएगी। एक शख्स ने अपनी पत्नी का सिर काटकर फ्रिज में रख दिया और गिरफ्तारी के वक्त बेखौफ होकर बोला कि वह उसकी पत्नी के तथाकथित 'शुगर डैडी' को भी मारेगा। \n\nयह सनसनीखेज मामला सामने आने के बाद इलाके में सनसनी फैल गई है। पुलिस अब इस खौफनाक हत्याकांड की हर एक कड़ी को जोड़ने में जुटी है। \n\nपूरी कहानी जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#GuwahatiCrime #CrimeNews #GuwahatiHorror #ShockingNews #TrueCrime",
+            "content": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में लगातार हो रहे हमलों के चलते वैश्विक बाजार में हड़कंप मच गया है। हालात एक बार फिर मई जैसे बन रहे हैं क्योंकि देश के लिए कच्चा तेल 109 डॉलर प्रति बैरल के पार खरीदा जा रहा है। इसका सीधा असर आपकी जेब पर पड़ सकता है।\n\nपूरी खबर जानिए इस वीडियो में और शेयर कीजिए अपने दोस्तों के साथ।\n\n#petrolprice #crudeoil #diesel #inflation #lpg",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788965829547_ihn0ymot_guwahati_wife_murder_decapitation_fridge.mp4",
-                "_id": "6aa173c9d726a504b7e7a353"
+                "url": "https://media.zernio.com/media/1788971814762_x1s9iv4q_crude_oil_100_dollars_petrol_hike.mp4",
+                "_id": "6aa18b2a4c090540ec8f2960"
               }
             ],
             "platforms": [
@@ -483,17 +486,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T14:57:10.721Z",
+                "scheduledFor": "2026-09-09T16:36:56.880Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "52f3a3aeca52157a8e3a746370fbbe4b",
-                "_id": "6aa173c9d726a504b7e7a354",
-                "platformPostId": "1399155375750308",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1399155375750308",
-                "publishedAt": "2026-09-09T14:57:19.510Z"
+                "contentHash": "4fbdcfe7be81d37ba9c715378fd5b84a",
+                "_id": "6aa18b2a4c090540ec8f2961",
+                "platformPostId": "1386530693667874",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1386530693667874",
+                "publishedAt": "2026-09-09T16:37:05.639Z"
               }
             ],
-            "scheduledFor": "2026-09-09T14:57:10.721Z",
+            "scheduledFor": "2026-09-09T16:36:56.880Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -505,14 +508,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T14:57:13.187Z",
-            "updatedAt": "2026-09-09T14:57:19.607Z",
+            "createdAt": "2026-09-09T16:36:58.109Z",
+            "updatedAt": "2026-09-09T16:37:05.740Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T14:57:13.258Z"
+            "publishingClaimedAt": "2026-09-09T16:36:58.208Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T14:57:19.763728+00:00"
+        "attempted_at": "2026-09-09T16:37:05.962729+00:00"
       },
       "instagram": {
         "success": true,
@@ -525,15 +528,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa173e4933e5d5013fc801e",
+            "_id": "6aa18b4fd5588b1e45028a39",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "पत्नी का सिर काटकर फ्रिज में रखा! गिरफ्तारी पर कातिल बोला- अब इसके शुगर डैडी को मारूंगा 🔪\n\nगुवाहाटी की इस वीभत्स घटना ने सबको झकझोर कर रख दिया है। पति ने खौफनाक वारदात को अंजाम देने के बाद बड़े आराम से ये बात कही। \n\nक्या ऐसे दरिंदों को कभी माफ किया जा सकता है? वीडियो पूरा देखें।\n\n#GuwahatiCrime #CrimeNews #GuwahatiHorror #ShockingNews #TrueCrime",
+            "content": "क्या आपके शहर में फिर महंगे होंगे पेट्रोल और डीजल? ⛽\n\nहोर्मूज में हमलों के बाद कच्चा तेल 109 डॉलर के पार पहुंच चुका है। क्या आम आदमी की जेब पर फिर से बोझ बढ़ने वाला है?\n\nशेयर करें इस वीडियो को और बताएं क्या लगता है आपको?\n\n#petrolprice #crudeoil #diesel #inflation #lpg",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788965857876_hh6otp8w_guwahati_wife_murder_decapitation_fridge.mp4",
-                "_id": "6aa173e4933e5d5013fc801f"
+                "url": "https://media.zernio.com/media/1788971853112_gd8xszvd_crude_oil_100_dollars_petrol_hike.mp4",
+                "_id": "6aa18b4fd5588b1e45028a3a"
               }
             ],
             "platforms": [
@@ -550,14 +553,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T14:57:39.188Z",
+                "scheduledFor": "2026-09-09T16:37:34.417Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "079ee0aa689486d26c8af415bba9e646",
-                "_id": "6aa173e4933e5d5013fc8020"
+                "contentHash": "412c5aa4cb4df874a17e3f2f180238f1",
+                "_id": "6aa18b4fd5588b1e45028a3b"
               }
             ],
-            "scheduledFor": "2026-09-09T14:57:39.188Z",
+            "scheduledFor": "2026-09-09T16:37:34.417Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -569,44 +572,45 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T14:57:40.700Z",
-            "updatedAt": "2026-09-09T14:57:42.976Z",
+            "createdAt": "2026-09-09T16:37:35.424Z",
+            "updatedAt": "2026-09-09T16:37:37.282Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T14:57:40.863Z"
+            "publishingClaimedAt": "2026-09-09T16:37:35.491Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T14:57:43.351362+00:00"
+        "attempted_at": "2026-09-09T16:37:37.697401+00:00"
       }
     }
   },
   {
-    "topic_label": "crude_oil_100_dollars_petrol_diesel_impact",
-    "virality_score": 8,
-    "reason": "Global crude oil prices crossing 100 dollars and its direct impact on fuel pricing creates strong broad-audience concern.",
-    "region": "india",
-    "headline": "पेट्रोल पर 5 रुपये, डीजल पर 23 रुपये का नुकसान, क्रूड के 100 डॉलर के पार जाने का झटका",
-    "source_summary": "Crude Oil Shock: पश्चिम एशिया में तनाव बढ़ा है। इससे अंतरराष्ट्रीय स्तर पर कच्चा तेल (क्रूड) 100 डॉलर प्रति बैरल के पार पहुंच गया है। इसके बावजूद खुदरा कीमतें स्थिर रहने से भारतीय रिटेलर्स को भारी नुकसान हो रहा है। कंपनियों को फिलहाल पेट्रोल पर करीब 5 रुपये प्रति लीटर और डीजल पर तकरीबन 23 रुपये प्रति लीटर का घाटा उठाना पड़ रहा है।",
-    "source_url": "https://navbharattimes.indiatimes.com/business/business-news/oil-companies-lose-rs-5-per-litre-on-petrol-rs-23-on-diesel-100-usd-crude-shock/articleshow/133970867.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 09 Sep 2026 19:01:00 +0530",
-    "hook": "कच्चा तेल एक सौ डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को भारी नुकसान!",
-    "script_hi": "पश्चिम एशिया में तनाव बढ़ने से अंतरराष्ट्रीय स्तर पर कच्चा तेल एक सौ डॉलर प्रति बैरल के पार पहुंच गया है। इसके बावजूद भारत में खुदरा कीमतें स्थिर रहने से कंपनियों को बड़ा झटका लगा है। भारतीय रिटेलर्स को पेट्रोल पर करीब पांच रुपये और डीजल पर तकरीबन तेईस रुपये प्रति लीटर का घाटा उठाना पड़ रहा है।",
-    "tts_text_hi": "पश्चिम एशिया में तनाव बढ़ने से अंतरराष्ट्रीय स्तर पर कच्चा तेल एक सौ डॉलर प्रति बैरल के पार पहुंच गया है। इसके बावजूद भारत में खुदरा कीमतें स्थिर रहने से कंपनियों को बड़ा झटका लगा है। भारतीय रिटेलर्स को पेट्रोल पर करीब पांच रुपये और डीजल पर तकरीबन तेईस रुपये प्रति लीटर का घाटा उठाना पड़ रहा है।",
-    "title": "क्रूड ऑयल के दाम सौ डॉलर के पार, भारत में पेट्रोल-डीजल पर भारी नुकसान",
-    "caption": "पश्चिम एशिया में तनाव और कच्चे तेल के दाम बढ़ने से भारतीय रिटेलर्स को पेट्रोल और डीजल पर भारी घाटा हो रहा है।",
+    "topic_label": "oil_hits_100_dollars_us_houthi_strikes_global",
+    "virality_score": 7,
+    "reason": "Global oil prices crossing $100 following US and Houthi strikes has major international economic consequences.",
+    "region": "global",
+    "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+    "source_summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+    "source_url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+    "hook": "कच्चे तेल की कीमतें आसमान छू रही हैं!",
+    "script_hi": "कच्चे तेल यानी ब्रेंट क्रूड के दाम एक सौ डॉलर प्रति बैरल पर पहुंच गए हैं। जुलाई के बाद यह पहली बार हुआ है, जब तेल की कीमतें इस स्तर पर पहुंची हैं। अमेरिका द्वारा पांच ईरानी टैंकरों पर हमले के बाद यह उछाल आया है।",
+    "tts_text_hi": "कच्चे तेल यानी ब्रेंट क्रूड के दाम एक सौ डॉलर प्रति बैरल पर पहुंच गए हैं। जुलाई के बाद यह पहली बार हुआ है, जब तेल की कीमतें इस स्तर पर पहुंची हैं। अमेरिका द्वारा पांच ईरानी टैंकरों पर हमले के बाद यह उछाल आया है।",
+    "title": "क्रैश या उछाल? तेल के दाम पहुंचे सौ डॉलर के पार",
+    "caption": "ब्रेंट क्रूड के दाम बढ़कर एक सौ डॉलर प्रति बैरल हो गए हैं। अमेरिका और हौथी संघर्ष के बीच कीमतों में भारी उछाल आया है।",
     "hashtags": [
-      "CrudeOil",
-      "PetrolPrice",
-      "DieselPrice",
-      "BusinessNews",
-      "IndiaNews",
-      "MiddleEastTensions"
+      "OilPrices",
+      "BrentCrude",
+      "BreakingNews",
+      "USNews",
+      "GlobalEconomy",
+      "MarketUpdate",
+      "NewsShorts"
     ],
     "visual_queries": [
-      "crude oil refinery India",
-      "petrol pump price board India",
-      "fuel tanker truck India"
+      "oil refinery factory India",
+      "oil tanker ship India",
+      "stock market graph India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -617,58 +621,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30556821/pexels-photo-30556821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crude oil refinery India",
-        "credit": "Balotra News",
+        "query": "oil refinery factory India",
+        "credit": "Dheeraj Singh",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "petrol pump price board India",
-        "credit": "Jibin Yesudasan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/23223773/pexels-photo-23223773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fuel tanker truck India",
-        "credit": "Ranjith_Photography 747",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy Indian petrol station",
-        "credit": "Jibin Yesudasan",
+        "query": "oil tanker ship India",
+        "credit": "Burak  Başgöze",
         "duration_sec": 4.3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil market stock graph",
+        "query": "stock market graph India",
         "credit": "Tima Miroshnichenko",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30556821/pexels-photo-30556821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18091972/pexels-photo-18091972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil refinery industry India",
-        "credit": "Dheeraj Singh",
+        "query": "gas station India",
+        "credit": "Shivansh  Sharma",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16155546/pexels-photo-16155546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37043765/pexels-photo-37043765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "traffic on Indian highway",
-        "credit": "thirugraphy .11",
+        "query": "fuel price increase",
+        "credit": "Peter Jochim",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16108188/pexels-photo-16108188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy traffic highway",
+        "credit": "Aldin H.",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18040079/pexels-photo-18040079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "industrial factory smoke",
+        "credit": "Abir Hasan",
         "duration_sec": 4.3
       }
     ],
@@ -677,34 +681,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "क्रूड ऑयल 100 डॉलर के पार, पेट्रोल-डीजल पर भारी घाटा! 🛢️",
-        "caption": "कच्चा तेल 100 डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को तगड़ा नुकसान! 🛢️\n\nअंतरराष्ट्रीय बाजार में क्रूड ऑयल की कीमतें बढ़ने से भारत की सरकारी तेल कंपनियों पर भारी आर्थिक दबाव आ गया है। इस उतार-चढ़ाव का सीधा असर देश की अर्थव्यवस्था और आपकी जेब पर क्या होगा?\n\nपूरी कहानी देखें और समझें कि आगे क्या होने वाला है।\n\n#CrudeOilPrice #PetrolDieselPrice #OilCompanies #IndianEconomy #FuelPrices"
+        "title": "कच्चे तेल ने पार किया 100 डॉलर का आंकड़ा! पेट्रोल-डीजल पर क्या होगा असर? 🛢️",
+        "caption": "जुलाई के बाद पहली बार क्रूड ऑयल सीधे 100 डॉलर प्रति बैरल के पार पहुंच गया है। अमेरिका और हाउती विद्रोहियों के बीच बढ़ते हमलों की वजह से ग्लोबल मार्केट में हलचल तेज हो गई है। इसका सीधा असर भारत जैसे देशों पर पड़ना तय है। क्या आपके शहर में भी महंगे होने वाले हैं ईंधन के दाम? पूरी कहानी देखें 📉\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
       },
       "instagram": {
         "title": null,
-        "caption": "कच्चा तेल 100 डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को भारी नुकसान! 🛢️\n\nअंतरराष्ट्रीय बाजार में क्रूड के दाम बढ़ने से सरकारी कंपनियों को हर लीटर पर तगड़ा घाटा हो रहा है। क्या इसका असर आम आदमी की जेब पर पड़ेगा?\n\nअपनी राय कमेंट में बताएं। 👇\n\n#CrudeOilPrice #PetrolDieselPrice #OilCompanies #IndianEconomy #FuelPrices"
+        "caption": "जुलाई के बाद पहली बार कच्चा तेल 100 डॉलर के पार! 🛢️ अमेरिका और हाउती हमलों के बाद ग्लोबल मार्केट में ये बड़ा उछाल आया है। आपकी जेब पर इसका क्या असर होगा, वीडियो में देखिए। क्या लगता है, अब महंगाई बढ़ेगी या सरकार संभालेगी मोर्चा? 👇\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
       },
       "facebook": {
         "title": null,
-        "caption": "कच्चा तेल 100 डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को भारी नुकसान! 🛢️\n\nअंतरराष्ट्रीय स्तर पर क्रूड ऑयल की कीमतें उछलने के बाद भारत में सरकारी तेल कंपनियों को भारी वित्तीय घाटे का सामना करना पड़ रहा है। पेट्रोल पर 5 रुपये और डीजल पर 23 रुपये तक का नुकसान उठाया जा रहा है।\n\nक्या आने वाले दिनों में ईंधन के दाम बढ़ सकते हैं? पूरी रिपोर्ट देखिए और शेयर कीजिए।\n\n#CrudeOilPrice #PetrolDieselPrice #OilCompanies #IndianEconomy #FuelPrices"
+        "caption": "जुलाई के बाद पहली बार कच्चे तेल की कीमतें 100 डॉलर प्रति बैरल के पार पहुंच चुकी हैं। अमेरिका और हाउती संघर्ष के बाद सप्लाई चेन पर भारी असर पड़ा है, जिससे ग्लोबल इकॉनमी में हलचल मची हुई है। भारत में इसका सीधा असर पेट्रोल-डीजल की कीमतों पर पड़ सकता है। इस संकट से क्या वाकई महंगाई का नया दौर शुरू होगा? अपनी राय कमेंट में ज़रूर बताएं। 🛢️📈\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi"
       },
       "hashtags": [
-        "CrudeOilPrice",
-        "PetrolDieselPrice",
-        "OilCompanies",
-        "IndianEconomy",
-        "FuelPrices"
+        "CrudeOil",
+        "OilPrices",
+        "GlobalEconomy",
+        "Inflation",
+        "Houthi"
       ]
     },
-    "audio_path": "audio/crude_oil_100_dollars_petrol_diesel_impact.wav",
-    "audio_duration_sec": 20.28,
-    "video_path": "videos/crude_oil_100_dollars_petrol_diesel_impact.mp4",
-    "video_duration_sec": 28.09,
+    "audio_path": "audio/oil_hits_100_dollars_us_houthi_strikes_global.wav",
+    "audio_duration_sec": 15.71,
+    "video_path": "videos/oil_hits_100_dollars_us_houthi_strikes_global.mp4",
+    "video_duration_sec": 23.66,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T15:03:35.489210+00:00"
+        "attempted_at": "2026-09-09T16:40:42.869196+00:00"
       },
       "facebook": {
         "success": true,
@@ -717,15 +721,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa1755e300b0a74aadc40b8",
+            "_id": "6aa18c23efe5e1e104f95f9d",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कच्चा तेल 100 डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को भारी नुकसान! 🛢️\n\nअंतरराष्ट्रीय स्तर पर क्रूड ऑयल की कीमतें उछलने के बाद भारत में सरकारी तेल कंपनियों को भारी वित्तीय घाटे का सामना करना पड़ रहा है। पेट्रोल पर 5 रुपये और डीजल पर 23 रुपये तक का नुकसान उठाया जा रहा है।\n\nक्या आने वाले दिनों में ईंधन के दाम बढ़ सकते हैं? पूरी रिपोर्ट देखिए और शेयर कीजिए।\n\n#CrudeOilPrice #PetrolDieselPrice #OilCompanies #IndianEconomy #FuelPrices",
+            "content": "जुलाई के बाद पहली बार कच्चे तेल की कीमतें 100 डॉलर प्रति बैरल के पार पहुंच चुकी हैं। अमेरिका और हाउती संघर्ष के बाद सप्लाई चेन पर भारी असर पड़ा है, जिससे ग्लोबल इकॉनमी में हलचल मची हुई है। भारत में इसका सीधा असर पेट्रोल-डीजल की कीमतों पर पड़ सकता है। इस संकट से क्या वाकई महंगाई का नया दौर शुरू होगा? अपनी राय कमेंट में ज़रूर बताएं। 🛢️📈\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788966235697_9s7szr1q_crude_oil_100_dollars_petrol_diesel_impact.mp4",
-                "_id": "6aa1755e300b0a74aadc40b9"
+                "url": "https://media.zernio.com/media/1788972065084_kn06cwro_oil_hits_100_dollars_us_houthi_strikes_global.mp4",
+                "_id": "6aa18c23efe5e1e104f95f9e"
               }
             ],
             "platforms": [
@@ -742,17 +746,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T15:03:57.175Z",
+                "scheduledFor": "2026-09-09T16:41:06.959Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "cfafa27fa681b52e9d39e0bba65421db",
-                "_id": "6aa1755e300b0a74aadc40ba",
-                "platformPostId": "940338922461475",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=940338922461475",
-                "publishedAt": "2026-09-09T15:04:08.177Z"
+                "contentHash": "6549fd54d743e5b0f4af9d3c1eededc9",
+                "_id": "6aa18c23efe5e1e104f95f9f",
+                "platformPostId": "1631844115209393",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1631844115209393",
+                "publishedAt": "2026-09-09T16:41:15.799Z"
               }
             ],
-            "scheduledFor": "2026-09-09T15:03:57.175Z",
+            "scheduledFor": "2026-09-09T16:41:06.959Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -764,14 +768,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:03:58.511Z",
-            "updatedAt": "2026-09-09T15:04:08.332Z",
+            "createdAt": "2026-09-09T16:41:08.147Z",
+            "updatedAt": "2026-09-09T16:41:15.897Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:03:58.589Z"
+            "publishingClaimedAt": "2026-09-09T16:41:08.250Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T15:04:08.543057+00:00"
+        "attempted_at": "2026-09-09T16:41:16.113582+00:00"
       },
       "instagram": {
         "success": true,
@@ -784,15 +788,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa1757b300b0a74aadc49fd",
+            "_id": "6aa18c4bd75c1900481b91a3",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कच्चा तेल 100 डॉलर के पार, पेट्रोल और डीजल बेचने पर कंपनियों को भारी नुकसान! 🛢️\n\nअंतरराष्ट्रीय बाजार में क्रूड के दाम बढ़ने से सरकारी कंपनियों को हर लीटर पर तगड़ा घाटा हो रहा है। क्या इसका असर आम आदमी की जेब पर पड़ेगा?\n\nअपनी राय कमेंट में बताएं। 👇\n\n#CrudeOilPrice #PetrolDieselPrice #OilCompanies #IndianEconomy #FuelPrices",
+            "content": "जुलाई के बाद पहली बार कच्चा तेल 100 डॉलर के पार! 🛢️ अमेरिका और हाउती हमलों के बाद ग्लोबल मार्केट में ये बड़ा उछाल आया है। आपकी जेब पर इसका क्या असर होगा, वीडियो में देखिए। क्या लगता है, अब महंगाई बढ़ेगी या सरकार संभालेगी मोर्चा? 👇\n\n#CrudeOil #OilPrices #GlobalEconomy #Inflation #Houthi",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788966265060_ut6t9e8m_crude_oil_100_dollars_petrol_diesel_impact.mp4",
-                "_id": "6aa1757b300b0a74aadc49fe"
+                "url": "https://media.zernio.com/media/1788972105353_g8l8t3h8_oil_hits_100_dollars_us_houthi_strikes_global.mp4",
+                "_id": "6aa18c4bd75c1900481b91a4"
               }
             ],
             "platforms": [
@@ -809,14 +813,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T15:04:26.124Z",
+                "scheduledFor": "2026-09-09T16:41:46.537Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "ce40821e724b758c9a6840d98d2b5024",
-                "_id": "6aa1757b300b0a74aadc49ff"
+                "contentHash": "0b65f5db552429771094f1d7c078d7d5",
+                "_id": "6aa18c4bd75c1900481b91a5"
               }
             ],
-            "scheduledFor": "2026-09-09T15:04:26.124Z",
+            "scheduledFor": "2026-09-09T16:41:46.537Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -828,511 +832,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:04:27.120Z",
-            "updatedAt": "2026-09-09T15:04:30.474Z",
+            "createdAt": "2026-09-09T16:41:47.808Z",
+            "updatedAt": "2026-09-09T16:41:49.551Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:04:27.179Z"
+            "publishingClaimedAt": "2026-09-09T16:41:47.873Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T15:04:30.802127+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "brics_summit_delhi_traffic_security",
-    "virality_score": 8,
-    "reason": "Major international BRICS summit in Delhi with heavy security and massive traffic diversions affects a large capital audience.",
-    "region": "india",
-    "headline": "BRICS Summit 2026: दिल्ली में सुरक्षा का अभेद्य घेरा, 7 हजार जवान तैनात; 35 सड़कों पर ट्रैफिक प्लान लागू",
-    "source_summary": "दिल्ली में भारत मंडपम और आसपास के इलाकों में अभेद्य सुरक्षा घेरा बनाया गया है. VVIP मूवमेंट को देखते हुए ट्रैफिक डायवर्जन और स्कूलों की छुट्टी समेत कई बड़े इंतजाम किए गए हैं.",
-    "source_url": "https://ndtv.in/delhi-ncr-news/brics-summit-2026-impenetrable-security-ring-in-delhi-7-000-personnel-deployed-traffic-plan-implemented-on-35-roads-12022982#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Wed, 09 Sep 2026 15:56:35 +0530",
-    "hook": "ब्रिक्स समिट दो हजार छब्बीस के लिए दिल्ली छावनी में तब्दील!",
-    "script_hi": "ब्रिक्स समिट दो हजार छब्बीस के मद्देनजर दिल्ली में सुरक्षा का अभेद्य घेरा बना दिया गया है. भारत मंडपम के आसपास सात हजार सुरक्षाकर्मी तैनात किए गए हैं. वीवीआईपी मूवमेंट को देखते हुए पैंतीस सड़कों पर विशेष ट्रैफिक प्लान लागू किया गया है और कई इलाकों में स्कूलों की छुट्टी के निर्देश दिए गए हैं.",
-    "tts_text_hi": "ब्रिक्स समिट दो हजार छब्बीस के मद्देनजर दिल्ली में सुरक्षा का अभेद्य घेरा बना दिया गया है. भारत मंडपम के आसपास सात हजार सुरक्षाकर्मी तैनात किए गए हैं. वीवीआईपी मूवमेंट को देखते हुए पैंतीस सड़कों पर विशेष ट्रैफिक प्लान लागू किया गया है और कई इलाकों में स्कूलों की छुट्टी के निर्देश दिए गए हैं.",
-    "title": "BRICS Summit 2026: दिल्ली में सुरक्षा का कड़ा पहरा, ट्रैफिक प्लान लागू",
-    "caption": "दिल्ली में ब्रिक्स समिट दो हजार छब्बीस को लेकर सुरक्षा के कड़े इंतजाम, भारत मंडपम के पास सात हजार जवान तैनात.",
-    "hashtags": [
-      "#BRICSSummit",
-      "#DelhiPolice",
-      "#IndiaNews",
-      "#DelhiTraffic",
-      "#BreakingNews"
-    ],
-    "visual_queries": [
-      "Bharat Mandapam India exterior",
-      "Delhi police security India",
-      "Indian traffic police street"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35379594/14990056_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "New Delhi traffic police",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35842144/15198685_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "government building India",
-        "credit": "Raaj Ugar",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi police security India",
-        "credit": "Frank van Dijk",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian traffic police street",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9672446/pexels-photo-9672446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi street view",
-        "credit": "Navneet Dholariya",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police patrolling",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/2574077/pexels-photo-2574077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "heavy traffic jam India",
-        "credit": "Rahul Bhor",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "BRICS Summit 2026: दिल्ली में 7 हजार जवान तैनात, 35 सड़कों पर ट्रैफिक बदला 🚨",
-        "caption": "दिल्ली में छावनी जैसा माहौल! ब्रिक्स समिट 2026 के लिए सुरक्षा का अभेद्य घेरा तैयार किया गया है।\n\nराजधानी की 35 से ज्यादा सड़कों पर विशेष ट्रैफिक प्लान लागू हुआ है ताकि वीआईपी मूवमेंट के दौरान आम जनता को परेशानी न हो। क्या आपने नया रूट देखा?\n\nपूरी जानकारी के लिए वीडियो पूरा देखें।\n\n#BRICSSummit2026 #DelhiTraffic #DelhiPolice #BreakingNews #DelhiNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दिल्ली छावनी में तब्दील! 🚨 ब्रिक्स समिट के लिए सुरक्षा का ऐसा घेरा कि परिंदा भी पर न मार सके।\n\nराजधानी की 35 सड़कों पर ट्रैफिक प्लान बदल चुका है। घर से निकलने से पहले जान लें पूरी डिटेल। शेयर करें उनके साथ जो कल इस रूट से गुजरने वाले हैं!\n\n#BRICSSummit2026 #DelhiTraffic #DelhiPolice #BreakingNews #DelhiNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दिल्ली में सुरक्षा के कड़े इंतजाम! ब्रिक्स समिट 2026 के मद्देनजर राजधानी को मानो छावनी में बदल दिया गया है। \n\nसुरक्षा व्यवस्था को पुख्ता करने के लिए 7 हजार से ज्यादा जवानों को तैनात किया गया है, जबकि 35 प्रमुख सड़कों पर नया ट्रैफिक प्लान लागू कर दिया गया है। अगर आप भी कल दिल्ली की सड़कों पर निकलने वाले हैं, तो घर से थोड़ा संभलकर निकलें।\n\nआपकी इस सुरक्षा व्यवस्था पर क्या राय है? कमेंट में बताएं।\n\n#BRICSSummit2026 #DelhiTraffic #DelhiPolice #BreakingNews #DelhiNews"
-      },
-      "hashtags": [
-        "BRICSSummit2026",
-        "DelhiTraffic",
-        "DelhiPolice",
-        "BreakingNews",
-        "DelhiNews"
-      ]
-    },
-    "audio_path": "audio/brics_summit_delhi_traffic_security.wav",
-    "audio_duration_sec": 21.11,
-    "video_path": "videos/brics_summit_delhi_traffic_security.mp4",
-    "video_duration_sec": 29.15,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T15:08:33.900441+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa1769b547186546129aea7",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली में सुरक्षा के कड़े इंतजाम! ब्रिक्स समिट 2026 के मद्देनजर राजधानी को मानो छावनी में बदल दिया गया है। \n\nसुरक्षा व्यवस्था को पुख्ता करने के लिए 7 हजार से ज्यादा जवानों को तैनात किया गया है, जबकि 35 प्रमुख सड़कों पर नया ट्रैफिक प्लान लागू कर दिया गया है। अगर आप भी कल दिल्ली की सड़कों पर निकलने वाले हैं, तो घर से थोड़ा संभलकर निकलें।\n\nआपकी इस सुरक्षा व्यवस्था पर क्या राय है? कमेंट में बताएं।\n\n#BRICSSummit2026 #DelhiTraffic #DelhiPolice #BreakingNews #DelhiNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788966549410_0m7ohe2n_brics_summit_delhi_traffic_security.mp4",
-                "_id": "6aa1769b547186546129aea8"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T15:09:13.898Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "12c0ae0a820750be7c7530c7f1bf8576",
-                "_id": "6aa1769b547186546129aea9",
-                "platformPostId": "986184637820368",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=986184637820368",
-                "publishedAt": "2026-09-09T15:09:22.519Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T15:09:13.898Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:09:15.234Z",
-            "updatedAt": "2026-09-09T15:09:22.668Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:09:15.362Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T15:09:22.929535+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa176baffc71d6aa6a67b3d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली छावनी में तब्दील! 🚨 ब्रिक्स समिट के लिए सुरक्षा का ऐसा घेरा कि परिंदा भी पर न मार सके।\n\nराजधानी की 35 सड़कों पर ट्रैफिक प्लान बदल चुका है। घर से निकलने से पहले जान लें पूरी डिटेल। शेयर करें उनके साथ जो कल इस रूट से गुजरने वाले हैं!\n\n#BRICSSummit2026 #DelhiTraffic #DelhiPolice #BreakingNews #DelhiNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788966583480_6xls8209_brics_summit_delhi_traffic_security.mp4",
-                "_id": "6aa176baffc71d6aa6a67b3e"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T15:09:44.922Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "0fdcc69886ad1d2f69b2ec51e5c749b3",
-                "_id": "6aa176baffc71d6aa6a67b3f"
-              }
-            ],
-            "scheduledFor": "2026-09-09T15:09:44.922Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:09:46.142Z",
-            "updatedAt": "2026-09-09T15:09:48.687Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:09:46.211Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T15:09:49.001468+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "germany_merz_afd_election_clash_global",
-    "virality_score": 7,
-    "reason": "High-profile political clash in Germany following the far-right AfD election victory is a significant global news item.",
-    "region": "global",
-    "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-    "source_summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-    "source_url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Wed, 09 Sep 2026 13:29:33 GMT",
-    "hook": "जर्मनी की संसद में तीखी झड़प!",
-    "script_hi": "जर्मनी की संसद में चुनावों के बाद भारी हंगामा देखने को मिला। चांसलर पद के दावेदार फ्रेडरिक मर्ज़ ने सुदूर-दक्षिणपंथी पार्टी एएफडी की नेता एलिस वेडेल पर तीखा हमला बोला। मर्ज़ ने आप्रवासन नीति को लेकर कड़े शब्दों का इस्तेमाल करते हुए इसे जातीय सफ़ाया करार दिया। यह बहस जर्मनी में बढ़ते राजनीतिक तनाव और ध्रुवीकरण को उजागर करती है।",
-    "tts_text_hi": "जर्मनी की संसद में चुनावों के बाद भारी हंगामा देखने को मिला। चांसलर पद के दावेदार फ्रेडरिक मर्ज़ ने सुदूर दक्षिणपंथी पार्टी एएफडी की नेता एलिस वेडेल पर तीखा हमला बोला। मर्ज़ ने आप्रवासन नीति को लेकर कड़े शब्दों का इस्तेमाल करते हुए इसे जातीय सफ़ाया करार दिया। यह बहस जर्मनी में बढ़ते राजनीतिक तनाव और ध्रुवीकरण को उजागर करती है।",
-    "title": "Germany Parliament Stormy Debate",
-    "heading": "जर्मनी की संसद में तीखी झड़प और तीखा हमला",
-    "caption": "जर्मनी की संसद में चुनावों के बाद हुआ भारी हंगामा, फ्रेडरिक मर्ज़ ने एएफडी की नेता एलिस वेडेल पर बोला तीखा हमला।",
-    "hashtags": [
-      "Germany",
-      "AfD",
-      "FriedrichMerz",
-      "AliceWeidel",
-      "WorldNews",
-      "GermanPolitics"
-    ],
-    "visual_queries": [
-      "German parliament building exterior",
-      "politicians arguing in parliament",
-      "European political debate"
-    ],
-    "named_person": "Friedrich Merz",
-    "named_person_hi": "फ्रेडरिक मर्ज़",
-    "secondary_persons": [
-      "Alice Weidel"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "फ्रेडरिक मर्ज़",
-        "source": "fallback",
-        "query": "Friedrich Merz",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34475611/pexels-photo-34475611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "German parliament building exterior",
-        "credit": "Nazar Dzhmola",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37442715/pexels-photo-37442715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "politicians arguing in parliament",
-        "credit": "Emın Alper",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6950157/pexels-photo-6950157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "European political debate",
-        "credit": "Werner Pfennig",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "जर्मनी की संसद में तीखी झड़प! फ्रेडरिक मर्ज़ ने AfD पर बोला हमला 🇩🇪",
-        "caption": "जर्मनी की संसद में ऐसा क्या हुआ कि सारे नेता आमने-सामने आ गए? ⚡\n\nदक्षिणपंथी पार्टी AfD की हालिया चुनावी जीत के बाद जर्मन संसद में जबरदस्त हंगामा देखने को मिला। चांसलर पद के दावेदार फ्रेडरिक मर्ज़ ने तीखा हमला बोलते हुए राजनीतिक माहौल गरमा दिया है।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#GermanyNews #FriedrichMerz #AfD #GermanParliament #WorldNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "जर्मनी की संसद में तीखी झड़प! ⚡ फ्रेडरिक मर्ज़ और AfD के बीच छिड़ी इस जंग के पीछे की पूरी कहानी क्या है? \n\nदक्षिणपंथी पार्टी की जीत के बाद संसद का माहौल पूरी तरह बदल गया है। \n\nपूरी कहानी देखें और अपनी राय कमेंट करें।\n\n#GermanyNews #FriedrichMerz #AfD #GermanParliament #WorldNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "जर्मनी की संसद में मची खलबली! 🇩🇪\n\nचुनाव में मिली जीत के बाद दक्षिणपंथी पार्टी AfD और मुख्यधारा के नेताओं के बीच तनातनी चरम पर पहुंच गई है। संसद में हुई इस तीखी झड़प में फ्रेडरिक मर्ज़ ने तीखा हमला बोला है, जिसके बाद यूरोप की राजनीति गरमा गई है। \n\nदेखिए इस पूरी घटना का वीडियो और बताइए आपको क्या लगता है।\n\n#GermanyNews #FriedrichMerz #AfD #GermanParliament #WorldNews"
-      },
-      "hashtags": [
-        "GermanyNews",
-        "FriedrichMerz",
-        "AfD",
-        "GermanParliament",
-        "WorldNews"
-      ]
-    },
-    "audio_path": "audio/germany_merz_afd_election_clash_global.wav",
-    "audio_duration_sec": 24.81,
-    "video_path": "videos/germany_merz_afd_election_clash_global.mp4",
-    "video_duration_sec": 32.86,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T15:14:03.095413+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa177d2ba5dc390f6d52788",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "जर्मनी की संसद में मची खलबली! 🇩🇪\n\nचुनाव में मिली जीत के बाद दक्षिणपंथी पार्टी AfD और मुख्यधारा के नेताओं के बीच तनातनी चरम पर पहुंच गई है। संसद में हुई इस तीखी झड़प में फ्रेडरिक मर्ज़ ने तीखा हमला बोला है, जिसके बाद यूरोप की राजनीति गरमा गई है। \n\nदेखिए इस पूरी घटना का वीडियो और बताइए आपको क्या लगता है।\n\n#GermanyNews #FriedrichMerz #AfD #GermanParliament #WorldNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788966864299_7kmr39y8_germany_merz_afd_election_clash_global.mp4",
-                "_id": "6aa177d2ba5dc390f6d52789"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T15:14:25.678Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "8db9d468869240e9a36197430fbaffd4",
-                "_id": "6aa177d2ba5dc390f6d5278a",
-                "platformPostId": "28109998315359657",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=28109998315359657",
-                "publishedAt": "2026-09-09T15:14:32.849Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T15:14:25.678Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:14:26.581Z",
-            "updatedAt": "2026-09-09T15:14:33.116Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:14:26.660Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T15:14:33.339696+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa177f03aa17f3bc5709af9",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "जर्मनी की संसद में तीखी झड़प! ⚡ फ्रेडरिक मर्ज़ और AfD के बीच छिड़ी इस जंग के पीछे की पूरी कहानी क्या है? \n\nदक्षिणपंथी पार्टी की जीत के बाद संसद का माहौल पूरी तरह बदल गया है। \n\nपूरी कहानी देखें और अपनी राय कमेंट करें।\n\n#GermanyNews #FriedrichMerz #AfD #GermanParliament #WorldNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788966894482_1tzv9txi_germany_merz_afd_election_clash_global.mp4",
-                "_id": "6aa177f03aa17f3bc5709afa"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T15:14:55.414Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "c3cdc2eba39dc51ce4c3b59a08d6151c",
-                "_id": "6aa177f03aa17f3bc5709afb"
-              }
-            ],
-            "scheduledFor": "2026-09-09T15:14:55.414Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T15:14:56.487Z",
-            "updatedAt": "2026-09-09T15:14:58.377Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T15:14:56.567Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T15:14:58.705394+00:00"
+        "attempted_at": "2026-09-09T16:41:49.902156+00:00"
       }
     }
   }
