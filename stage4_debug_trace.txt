@@ -1,8 +1,9 @@
-ready_labels: ['apple_iphone_18_fold_ultra_launch_event', 'hanuman_ansh_blind_singer_viral_success', 'nse_30000_crore_ipo_record_launch', 'openai_solves_maths_problem_controversy', 'starlink_satellite_broadband_india_nod', 'us_iran_oil_tanker_strikes_hormuz_escalation']
+ready_labels: ['ammy_virk_convey_attacked_canada', 'rare_medical_case_uterus_found_in_man', 'september_monsoon_heavy_rainfall_alert', 'sheopur_bull_water_tank_rescue', 'ujjain_khade_hanuman_statue_removal_fails', 'us_iran_hormuz_strait_tanker_clash', 'vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter']
 
-us_iran_oil_tanker_strikes_hormuz_escalation: SUCCESS -> video_path=videos/us_iran_oil_tanker_strikes_hormuz_escalation.mp4 dur=38.22322
-apple_iphone_18_fold_ultra_launch_event: SUCCESS -> video_path=videos/apple_iphone_18_fold_ultra_launch_event.mp4 dur=20.92322
-hanuman_ansh_blind_singer_viral_success: SUCCESS -> video_path=videos/hanuman_ansh_blind_singer_viral_success.mp4 dur=28.665215
-starlink_satellite_broadband_india_nod: SUCCESS -> video_path=videos/starlink_satellite_broadband_india_nod.mp4 dur=31.689887
-nse_30000_crore_ipo_record_launch: SUCCESS -> video_path=videos/nse_30000_crore_ipo_record_launch.mp4 dur=26.52322
-openai_solves_maths_problem_controversy: SUCCESS -> video_path=videos/openai_solves_maths_problem_controversy.mp4 dur=23.627211
+rare_medical_case_uterus_found_in_man: SUCCESS -> video_path=videos/rare_medical_case_uterus_found_in_man.mp4 dur=31.356553
+ammy_virk_convey_attacked_canada: SUCCESS -> video_path=videos/ammy_virk_convey_attacked_canada.mp4 dur=28.22322
+september_monsoon_heavy_rainfall_alert: SUCCESS -> video_path=videos/september_monsoon_heavy_rainfall_alert.mp4 dur=34.556553
+vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter: SUCCESS -> video_path=videos/vaibhav_suryavanshi_tilak_verma_duleep_trophy_banter.mp4 dur=29.12322
+ujjain_khade_hanuman_statue_removal_fails: SUCCESS -> video_path=videos/ujjain_khade_hanuman_statue_removal_fails.mp4 dur=23.116213
+us_iran_hormuz_strait_tanker_clash: SUCCESS -> video_path=videos/us_iran_hormuz_strait_tanker_clash.mp4 dur=37.582222
+sheopur_bull_water_tank_rescue: SUCCESS -> video_path=videos/sheopur_bull_water_tank_rescue.mp4 dur=32.288231
