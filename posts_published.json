@@ -1,358 +1,32 @@
 [
   {
-    "topic_label": "apple_iphone_18_fold_ultra_launch",
+    "topic_label": "us_iran_strait_of_hormuz_tanker_attacks",
     "virality_score": 9,
-    "reason": "Apple launching the new iPhone 18 Pro series and its first foldable iPhone Ultra creates massive tech interest.",
+    "reason": "Major geopolitical conflict escalation as Iran targets US ships and oil tankers in the Strait of Hormuz.",
     "region": "india",
-    "headline": "Apple का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra",
-    "source_summary": "Apple का बुधवार (9 सितंबर) को एक बड़ा इवेंट होने जा रहा है, जिसमें कंपनी अपनी लेटेस्ट iPhone 18 Pro सीरीज और iPhone Fold Ultra को लॉन्च करेगी. साथ ही इस दौरान न्यू बड्स और वॉच भी लॉन्च होगी. आइए इसके बारे में डिटेल्स में जानते हैं.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-iphone-18-pro-max-iphone-fold-ultra-ttecr-dskc-2639130-2026-09-09?utm_source=rssfeed",
+    "headline": "होर्मुज फिर बना जंग का अखाड़ा, एक दिन में 10 जहाजों पर हमले... ईरान ने मचाया गदर",
+    "source_summary": "5 ईरानी टैंकरों पर अमेरिकी कार्रवाई के बाद ईरान ने खाड़ी में 2 अमेरिकी पोत और 8 तेल टैंकरों पर हमला करने का दावा किया. इसके साथ ही कुवैत और बहरीन के उन बंदरगाहों में मौजूद टैंकरों को भी खाली करने की चेतावनी दी गई, जहां अमेरिकी मौजूद हैं.",
+    "source_url": "https://www.aajtak.in/world/story/iran-attacks-10-ships-oil-tankers-after-us-tanker-strikes-ntc-mnrd-smsr-2639173-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-09T07:07:04+05:30",
-    "hook": "एप्पल का सबसे बड़ा धमाका आज!",
-    "script_hi": "एप्पल का आज बड़ा इवेंट होने जा रहा है, जिसमें कंपनी पहली बार अपना फोल्डेबल फोन आईफोन फोल्ड अल्ट्रा लॉन्च करेगी। इसके साथ ही लेटेस्ट आईफोन अठारह प्रो सीरीज, नए बड्स और नई वॉच भी पेश की जाएंगी।",
-    "tts_text_hi": "एप्पल का आज बड़ा इवेंट होने जा रहा है, जिसमें कंपनी पहली बार अपना फोल्डेबल फोन आईफोन फोल्ड अल्ट्रा लॉन्च करेगी। इसके साथ ही लेटेस्ट आईफोन अठारह प्रो सीरीज, नए बड्स और नई वॉच भी पेश की जाएंगी।",
-    "title": "Apple Launch Event 2026: iPhone Fold Ultra",
-    "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।",
+    "published": "2026-09-09T08:56:41+05:30",
+    "hook": "होर्मुज जलडमरूमध्य में भड़की जंग!",
+    "script_hi": "होर्मुज जलडमरूमध्य फिर से जंग का अखाड़ा बन गया है। पांच ईरानी टैंकरों पर अमेरिकी कार्रवाई के बाद ईरान ने खाड़ी में दो अमेरिकी पोत और आठ तेल टैंकरों पर हमला करने का दावा किया है। साथ ही कुवैत और बहरीन के उन बंदरगाहों में मौजूद टैंकरों को खाली करने की चेतावनी दी गई है जहां अमेरिकी सैनिक मौजूद हैं।",
+    "tts_text_hi": "होर्मुज जलडमरूमध्य फिर से जंग का अखाड़ा बन गया है। पाँच ईरानी टैंकरों पर अमेरिकी कार्रवाई के बाद ईरान ने खाड़ी में दो अमेरिकी पोत और आठ तेल टैंकरों पर हमला करने का दावा किया है। साथ ही कुवैत और बहरीन के उन बंदरगाहों में मौजूद टैंकरों को खाली करने की चेतावनी दी गई है जहाँ अमेरिकी सैनिक मौजूद हैं।",
+    "title": "होर्मुज में जंग: ईरान ने किए कई जहाजों पर हमले",
+    "caption": "होर्मुज जलडमरूमध्य में तनाव चरम पर, ईरान का अमेरिकी पोतों और टैंकरों पर हमले का दावा।",
     "hashtags": [
-      "#AppleEvent",
-      "#iPhoneFoldUltra",
-      "#iPhone18Pro",
-      "#AppleNews",
-      "#TechNews",
-      "#Gadgets"
-    ],
-    "visual_queries": [
-      "Apple event stage India",
-      "futuristic folding smartphone India",
-      "modern smartwatch India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "consumer electronics store",
-        "credit": "Kuiyibo Campos",
-        "source_duration_sec": 3,
-        "duration_sec": 3
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6612457/6612457-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "people buying new phone",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/28315399/12358385_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "consumer electronics store",
-        "credit": "Kuiyibo Campos",
-        "source_duration_sec": 3,
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19281810/pexels-photo-19281810.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic folding smartphone India",
-        "credit": "Rohit Sharma",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18259150/pexels-photo-18259150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern smartwatch India",
-        "credit": "Akshay Anil",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/23856859/pexels-photo-23856859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone launch event",
-        "credit": "Катерина  Жосул",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person using smartphone India",
-        "credit": "Kewal Nagda",
-        "duration_sec": 4.5
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "Apple Launch Event 2026: iPhone Fold Ultra",
-        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews"
-      },
-      "hashtags": [
-        "#AppleEvent",
-        "#iPhoneFoldUltra",
-        "#iPhone18Pro",
-        "#AppleNews",
-        "#TechNews"
-      ]
-    },
-    "audio_path": "audio/apple_iphone_18_fold_ultra_launch.wav",
-    "audio_duration_sec": 14.18,
-    "video_path": "videos/apple_iphone_18_fold_ultra_launch.mp4",
-    "video_duration_sec": 22.23,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T02:40:45.931723+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0c746f569f2c36fe14395",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788921669089_x24jbynz_apple_iphone_18_fold_ultra_launch.mp4",
-                "_id": "6aa0c746f569f2c36fe14396"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T02:41:10.223Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "abe5c357321769f11cee4302f33206ef",
-                "_id": "6aa0c746f569f2c36fe14397",
-                "platformPostId": "1630573351907915",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1630573351907915",
-                "publishedAt": "2026-09-09T02:41:17.325Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T02:41:10.223Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:41:10.853Z",
-            "updatedAt": "2026-09-09T02:41:17.464Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:41:10.925Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T02:41:17.628004+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa0c76c6777f5f4763ac1b1",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एप्पल का आज बड़ा इवेंट, पहली बार लॉन्च होगा iPhone Fold Ultra और iPhone 18 Pro सीरीज।\n\n##AppleEvent ##iPhoneFoldUltra ##iPhone18Pro ##AppleNews ##TechNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788921706938_9jotipxl_apple_iphone_18_fold_ultra_launch.mp4",
-                "_id": "6aa0c76c6777f5f4763ac1b2"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T02:41:47.820Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "c78336b6faf6bb7def242becc13a9f85",
-                "_id": "6aa0c76c6777f5f4763ac1b3"
-              }
-            ],
-            "scheduledFor": "2026-09-09T02:41:47.820Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:41:48.578Z",
-            "updatedAt": "2026-09-09T02:41:50.044Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:41:48.637Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T02:41:50.362029+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "guwahati_wife_murder_husband_confession",
-    "virality_score": 8,
-    "reason": "Chilling confession by a husband in Guwahati regarding a brutal murder with a severed head found in a fridge.",
-    "region": "india",
-    "headline": "कुत्ते को बॉडी खिलाने का था प्लान... रिया हत्याकांड में पति का कुबूलनामा",
-    "source_summary": "असम के गुवाहाटी में 25 वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में जांच के दौरान खौफनाक खुलासा हुआ है. पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने कथित तौर पर बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी. रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा मिला था.",
-    "source_url": "https://www.aajtak.in/india/news/story/husband-killed-hot-wife-sugar-daddy-affaire-head-put-fridge-plan-feed-to-dead-body-dog-riya-murder-case-horror-story-lcly-dskc-2639142-2026-09-09?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-09T07:25:43+05:30",
-    "hook": "असम के गुवाहाटी से एक दिल दहला देने वाला मामला सामने आया है!",
-    "script_hi": "असम के गुवाहाटी में पच्चीस वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में खौफनाक खुलासा हुआ है। पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने पूछताछ में बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी। रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा हुआ बरामद किया गया था।",
-    "tts_text_hi": "असम के गुवाहाटी में पच्चीस वर्षीय रिया तालुकदार गोस्वामी की हत्या के मामले में खौफनाक खुलासा हुआ है। पुलिस के मुताबिक आरोपी पति रामानुज गोस्वामी ने पूछताछ में बताया कि हत्या के बाद उसका प्लान पत्नी के शव को कुत्ते को खिलाने का था, लेकिन योजना पूरी नहीं हो सकी। रिया का कटा सिर फ्रिज के अंदर पॉलीथीन में लिपटा हुआ बरामद किया गया था।",
-    "title": "गुवाहाटी हत्याकांड: पत्नी के शव को कुत्ते को खिलाने का था प्लान",
-    "caption": "असम के गुवाहाटी में रिया हत्याकांड मामले में आरोपी पति रामानुज गोस्वामी का सनसनीखेज कबूलनामा सामने आया है।",
-    "hashtags": [
-      "GuwahatiNews",
-      "AssamPolice",
-      "CrimeNews",
-      "IndiaCrime",
-      "GuwahatiCrime"
-    ],
-    "visual_queries": [
-      "police station India",
-      "forensic investigation India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves an unproven criminal accusation and confession from a named individual before formal conviction, requiring manual review for defamation and legal risk.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "forensic investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "us_iran_oil_tanker_attacks_escalation",
-    "virality_score": 8,
-    "reason": "High-stakes global military escalation as the US destroys five Iranian oil tankers following missile attacks.",
-    "region": "india",
-    "headline": "अमेरिका-ईरान में फिर छिड़ी &#039;तेल की जंग&#039;, 5 ईरानी ऑयल टैंकर तबाह",
-    "source_summary": "ईरान ने तीन दिनों में दूसरी बार अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं. हालांकि, किसी जहाज को नुकसान नहीं पहुंचा. इसके जवाब में अमेरिका ने ईरान से जुड़े 5 तेल टैंकरों पर हमला किया. इससे खाड़ी क्षेत्र में तनाव बढ़ गया है",
-    "source_url": "https://www.aajtak.in/world/story/iran-launched-second-wave-of-attacks-on-us-navy-ships-middle-east-war-ntc-aktw-dskc-2639115-2026-09-09?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-09T02:23:49+05:30",
-    "hook": "अमेरिका और ईरान के बीच फिर भड़की तेल की जंग!",
-    "script_hi": "अमेरिका और ईरान के बीच तनाव चरम पर पहुँच गया है। ईरान ने अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। इसके जवाब में अमेरिका ने ईरान से जुड़े पाँच तेल टैंकरों को तबाह कर दिया है। इस कार्रवाई से खाड़ी क्षेत्र में युद्ध जैसे हालात बन गए हैं।",
-    "tts_text_hi": "अमेरिका और ईरान के बीच तनाव चरम पर पहुँच गया है। ईरान ने अमेरिकी नौसेना के जहाजों पर बैलिस्टिक मिसाइलें दागीं। इसके जवाब में अमेरिका ने ईरान से जुड़े पाँच तेल टैंकरों को तबाह कर दिया है। इस कार्रवाई से खाड़ी क्षेत्र में युद्ध जैसे हालात बन गए हैं।",
-    "title": "अमेरिका और ईरान में फिर छिड़ी तेल की जंग",
-    "caption": "अमेरिका और ईरान के बीच तनाव बढ़ा, पाँच ईरानी ऑयल टैंकर तबाह।",
-    "hashtags": [
-      "#USIran",
-      "#OilWar",
-      "#MiddleEast",
+      "#HormuzStrait",
+      "#IranVsUSA",
+      "#MiddleEastCrisis",
+      "#OilTanker",
       "#BreakingNews",
-      "#USA",
-      "#Iran"
+      "#WorldNews"
     ],
     "visual_queries": [
-      "US Navy warship ocean",
-      "missile launch smoke sky",
-      "burning oil tanker sea",
-      "Middle East military conflict"
+      "cargo ship Persian Gulf",
+      "oil tanker sea",
+      "military ship ocean",
+      "harbor port Middle East"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -363,35 +37,35 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/26329253/11948322_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Middle East military conflict",
-        "credit": "Content Factory",
-        "source_duration_sec": 15,
+        "query": "oil tankers in ocean",
+        "credit": "Thiago  Matos",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36676455/pexels-photo-36676455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32688485/pexels-photo-32688485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US Navy warship ocean",
-        "credit": "Monique Candido",
+        "query": "cargo ship Persian Gulf",
+        "credit": "byAmirli ‌‌",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil tankers at sea",
+        "query": "oil tanker sea",
         "credit": "Burak  Başgöze",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12366464/pexels-photo-12366464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30798981/pexels-photo-30798981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Middle East oil tankers sea",
-        "credit": "Bayu Prakosa",
+        "query": "harbor port Middle East",
+        "credit": "Reyyan",
         "duration_sec": 5
       }
     ],
@@ -400,34 +74,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️ जंग का नया मोर्चा",
-        "caption": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nमिडिल ईस्ट में तनाव एक बार फिर खतरनाक स्तर पर पहुंच गया है। अमेरिकी कार्रवाई के बाद ग्लोबल मार्केट में खलबली मच गई है।\n\nक्या ये तीसरे विश्व युद्ध की शुरुआत है? पूरी कहानी देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
+        "title": "होर्मुज में भड़की जंग! एक दिन में 10 जहाजों पर ताबड़तोड़ हमले 🚨",
+        "caption": "होर्मुज जलडमरूमध्य में भड़की जंग! 🌊\n\nमहज एक दिन के भीतर 10 बड़े कमर्शियल जहाजों को निशाना बनाया गया, जिससे खाड़ी देशों में खलबली मच गई है। ईरान के इस आक्रामक कदम से पूरी दुनिया में कच्चे तेल की सप्लाई को लेकर बड़ा खतरा मंडरा रहा है। \n\nक्या यह किसी बड़े विश्व युद्ध की शुरुआत है? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#hormuzstrait #iran #worldnews #globalcrisis #shipping"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nसमुद्र के बीचों-बीच अचानक भड़की इस जंग ने सबको हैरान कर दिया है। कच्चे तेल की सप्लाई पर मंडरा रहे इस बड़े संकट का असर क्या होगा?\n\nकमेंट में बताएं आपको क्या लगता है।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
+        "caption": "होर्मुज जलडमरूमध्य में भड़की जंग! 🚢🔥\n\nएक ही दिन में 10 जहाजों पर हमले से पूरी दुनिया के होश उड़ गए हैं। ईरान के इस कदम से ग्लोबल ट्रेड रूट पर भयंकर संकट खड़ा हो गया है। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें!\n\n#hormuzstrait #iran #worldnews #globalcrisis #shipping"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका और ईरान के बीच एक बार फिर सीधी जंग छिड़ गई है। अमेरिकी सेना ने कार्रवाई करते हुए ईरान के 5 बड़े ऑयल टैंकरों को पूरी तरह तबाह कर दिया है। 🛢️🔥\n\nइस अचानक हुए हमले से खाड़ी देशों में हड़कंप मच गया है और तेल की कीमतों पर भी इसका सीधा असर पड़ना तय है। पूरी कहानी वीडियो में देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews"
+        "caption": "होर्मुज जलडमरूमध्य में भड़की जंग! 🚢🔥\n\nमहज 24 घंटे के भीतर 10 अलग-अलग जहाजों पर ताबड़तोड़ हमले किए गए, जिससे ग्लोबल ट्रेड और क्रूड ऑयल की सप्लाई ठप होने की कगार पर पहुंच गई है। ईरान के इस आक्रामक रुख ने अमेरिका समेत तमाम ताकतवर देशों की नींद उड़ा दी है। \n\nक्या यह संघर्ष अब महायुद्ध का रूप लेगा? वीडियो देखकर पूरी सच्चाई समझें और शेयर जरूर करें।\n\n#hormuzstrait #iran #worldnews #globalcrisis #shipping"
       },
       "hashtags": [
-        "USIranConflict",
-        "OilTanker",
-        "BreakingNews",
-        "MiddleEast",
-        "WorldNews"
+        "hormuzstrait",
+        "iran",
+        "worldnews",
+        "globalcrisis",
+        "shipping"
       ]
     },
-    "audio_path": "audio/us_iran_oil_tanker_attacks_escalation.wav",
-    "audio_duration_sec": 18.2,
-    "video_path": "videos/us_iran_oil_tanker_attacks_escalation.mp4",
-    "video_duration_sec": 26.22,
+    "audio_path": "audio/us_iran_strait_of_hormuz_tanker_attacks.wav",
+    "audio_duration_sec": 23.35,
+    "video_path": "videos/us_iran_strait_of_hormuz_tanker_attacks.mp4",
+    "video_duration_sec": 31.39,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T02:46:03.446750+00:00"
+        "attempted_at": "2026-09-09T04:45:06.600004+00:00"
       },
       "facebook": {
         "success": true,
@@ -440,15 +114,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0c88881d80bb347199f89",
+            "_id": "6aa0e4642e8d8151e4452c09",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका और ईरान के बीच एक बार फिर सीधी जंग छिड़ गई है। अमेरिकी सेना ने कार्रवाई करते हुए ईरान के 5 बड़े ऑयल टैंकरों को पूरी तरह तबाह कर दिया है। 🛢️🔥\n\nइस अचानक हुए हमले से खाड़ी देशों में हड़कंप मच गया है और तेल की कीमतों पर भी इसका सीधा असर पड़ना तय है। पूरी कहानी वीडियो में देखें।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews",
+            "content": "होर्मुज जलडमरूमध्य में भड़की जंग! 🚢🔥\n\nमहज 24 घंटे के भीतर 10 अलग-अलग जहाजों पर ताबड़तोड़ हमले किए गए, जिससे ग्लोबल ट्रेड और क्रूड ऑयल की सप्लाई ठप होने की कगार पर पहुंच गई है। ईरान के इस आक्रामक रुख ने अमेरिका समेत तमाम ताकतवर देशों की नींद उड़ा दी है। \n\nक्या यह संघर्ष अब महायुद्ध का रूप लेगा? वीडियो देखकर पूरी सच्चाई समझें और शेयर जरूर करें।\n\n#hormuzstrait #iran #worldnews #globalcrisis #shipping",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788921990759_il5eidl6_us_iran_oil_tanker_attacks_escalation.mp4",
-                "_id": "6aa0c88881d80bb347199f8a"
+                "url": "https://media.zernio.com/media/1788929121843_o2yguwcg_us_iran_strait_of_hormuz_tanker_attacks.mp4",
+                "_id": "6aa0e4642e8d8151e4452c0a"
               }
             ],
             "platforms": [
@@ -465,17 +139,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:46:32.015Z",
+                "scheduledFor": "2026-09-09T04:45:23.335Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "87a4b83af1ab599eb147c1d95025ce8b",
-                "_id": "6aa0c88881d80bb347199f8b",
-                "platformPostId": "1807790114005394",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1807790114005394",
-                "publishedAt": "2026-09-09T02:46:40.727Z"
+                "contentHash": "0c237625d38b216a002fc8cd3c949f35",
+                "_id": "6aa0e4642e8d8151e4452c0b",
+                "platformPostId": "915899618260311",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=915899618260311",
+                "publishedAt": "2026-09-09T04:45:31.121Z"
               }
             ],
-            "scheduledFor": "2026-09-09T02:46:32.015Z",
+            "scheduledFor": "2026-09-09T04:45:23.335Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -487,14 +161,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:46:32.642Z",
-            "updatedAt": "2026-09-09T02:46:40.837Z",
+            "createdAt": "2026-09-09T04:45:24.241Z",
+            "updatedAt": "2026-09-09T04:45:31.242Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:46:32.758Z"
+            "publishingClaimedAt": "2026-09-09T04:45:24.354Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:46:41.011607+00:00"
+        "attempted_at": "2026-09-09T04:45:31.443809+00:00"
       },
       "instagram": {
         "success": true,
@@ -507,15 +181,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0c8a85836cf0f405fa4a0",
+            "_id": "6aa0e48986458083f691f5cc",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "अमेरिका ने तबाह किए 5 ईरानी ऑयल टैंकर! 🛢️\n\nसमुद्र के बीचों-बीच अचानक भड़की इस जंग ने सबको हैरान कर दिया है। कच्चे तेल की सप्लाई पर मंडरा रहे इस बड़े संकट का असर क्या होगा?\n\nकमेंट में बताएं आपको क्या लगता है।\n\n#USIranConflict #OilTanker #BreakingNews #MiddleEast #WorldNews",
+            "content": "होर्मुज जलडमरूमध्य में भड़की जंग! 🚢🔥\n\nएक ही दिन में 10 जहाजों पर हमले से पूरी दुनिया के होश उड़ गए हैं। ईरान के इस कदम से ग्लोबल ट्रेड रूट पर भयंकर संकट खड़ा हो गया है। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें!\n\n#hormuzstrait #iran #worldnews #globalcrisis #shipping",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788922023171_obvb7lr4_us_iran_oil_tanker_attacks_escalation.mp4",
-                "_id": "6aa0c8a85836cf0f405fa4a1"
+                "url": "https://media.zernio.com/media/1788929158670_vw6w2czs_us_iran_strait_of_hormuz_tanker_attacks.mp4",
+                "_id": "6aa0e48986458083f691f5cd"
               }
             ],
             "platforms": [
@@ -532,14 +206,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:47:04.069Z",
+                "scheduledFor": "2026-09-09T04:46:00.522Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "55e1191dc8385249d2e4a2b8a1001b22",
-                "_id": "6aa0c8a85836cf0f405fa4a2"
+                "contentHash": "e03769766f06575ac1226822e437e349",
+                "_id": "6aa0e48986458083f691f5ce"
               }
             ],
-            "scheduledFor": "2026-09-09T02:47:04.069Z",
+            "scheduledFor": "2026-09-09T04:46:00.522Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -551,47 +225,111 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:47:04.634Z",
-            "updatedAt": "2026-09-09T02:47:06.369Z",
+            "createdAt": "2026-09-09T04:46:01.348Z",
+            "updatedAt": "2026-09-09T04:46:03.074Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:47:04.703Z"
+            "publishingClaimedAt": "2026-09-09T04:46:01.412Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:47:06.685959+00:00"
+        "attempted_at": "2026-09-09T04:46:03.464515+00:00"
       }
     }
   },
   {
-    "topic_label": "mumbai_pm_modi_event_fake_pmo_arrest",
+    "topic_label": "xiaomi_redmi_note_17_pro_10000mah_battery",
     "virality_score": 8,
-    "reason": "Security scare in Mumbai with the arrest of a fake PMO officer and armed bodyguard near PM Modi's venue.",
+    "reason": "High-interest tech news about a smartphone launching in India with a massive 10,000mAh battery.",
     "region": "india",
-    "headline": "PM मोदी के इवेंट वाली जगह बंदूक लेकर पहुंचे संदिग्ध, पुलिस ने पकड़ा",
-    "source_summary": "मुंबई में पीएम मोदी की मंगलवार को रैली से पहले दो संदिग्धों को पुलिस ने हिरासत में लिया. जिनके पास से बंदूक बरामद हुई है. एक संदिग्ध खुद को पीएमओ का अधिकारी बता रहा था. उनके पास से PMO का फर्जी आई़डी कार्ड भी मिला. नीता मुकेश अंबानी अंबानी कल्चरल सेंटर से ये दोनों संदिग्ध डिटेन किए गए. देखें वीडियो.",
-    "source_url": "https://www.aajtak.in/india/news/video/pm-modi-mumbai-event-nita-ambani-cultural-center-security-scare-fake-pmo-officer-suspect-detained-vdot-2638910-2026-09-08?utm_source=rssfeed",
+    "headline": "Xiaomi ला रहा 10,000mAh बैटरी वाला फोन, भारत में इस दिन होगा लॉन्च",
+    "source_summary": "Xiaomi ने X प्लेटफॉर्म पर पोस्ट करके बताया है कि Redmi Note 17 Pro सीरीज भारत में 15 सितंबर को लॉन्च होने जा रही है. Xiaomi ने ये भी कंफर्म किया है कि उसमें 10,000mAh की बैटरी मिलेगी. आइए इसके बारे में डिटेल्स में जानते हैं.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/xiaomi-redmi-note-17-pro-india-launch-date-confirm-ttecr-dskc-2639183-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-08T17:29:47+05:30",
-    "hook": "मुंबई में प्रधानमंत्री मोदी की रैली से पहले बड़ा सुरक्षा खतरा टला!",
-    "script_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को पकड़ा गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
-    "tts_text_hi": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम से पहले दो संदिग्धों को पकड़ा गया है। नीता मुकेश अंबानी कल्चरल सेंटर के पास से पकड़े गए इन संदिग्धों के पास से एक बंदूक और प्रधानमंत्री कार्यालय का फर्जी पहचान पत्र बरामद हुआ है। एक संदिग्ध खुद को प्रधानमंत्री कार्यालय का अधिकारी बता रहा था। पुलिस दोनों से पूछताछ कर रही है।",
-    "title": "मुंबई में पीएम मोदी के इवेंट से पहले दो संदिग्ध गिरफ्तार",
-    "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम स्थल के पास से दो संदिग्धों को पकड़ा गया, जिनके पास से बंदूक और पीएमओ का फर्जी आईडी कार्ड बरामद हुआ।",
+    "published": "2026-09-09T08:45:49+05:30",
+    "hook": "दस हजार एमएएच बैटरी वाला नया स्मार्टफोन भारत में आ रहा है!",
+    "script_hi": "शाओमी ने भारत में रेडमी नोट सत्रह प्रो सीरीज के लॉन्च की तारीख का ऐलान कर दिया है. कंपनी के मुताबिक यह फोन पंद्रह सितंबर को लॉन्च होगा और इसमें दस हजार एमएएच की दमदार बैटरी मिलेगी.",
+    "tts_text_hi": "शाओमी ने भारत में रेडमी नोट सत्रह प्रो सीरीज के लॉन्च की तारीख का ऐलान कर दिया है. कंपनी के मुताबिक यह फोन पंद्रह सितंबर को लॉन्च होगा और इसमें दस हजार एमएएच की दमदार बैटरी मिलेगी.",
+    "title": "Xiaomi लेकर आ रहा 10,000mAh बैटरी वाला फोन",
+    "caption": "Xiaomi का नया स्मार्टफोन Redmi Note 17 Pro भारत में 15 सितंबर को होगा लॉन्च, मिलेगी 10,000mAh की दमदार बैटरी।",
     "hashtags": [
-      "MumbaiNews",
-      "PMModi",
-      "SecurityAlert",
-      "BreakingNews",
-      "MaharashtraPolice",
-      "IndiaNews"
+      "Xiaomi",
+      "RedmiNote17Pro",
+      "TechNews",
+      "Smartphone",
+      "India"
     ],
     "visual_queries": [
-      "Mumbai police checkpoint India",
-      "police interrogation room India",
-      "security force India"
+      "Xiaomi smartphone India",
+      "mobile phone battery India",
+      "tech product launch India"
     ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32858913/pexels-photo-32858913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Xiaomi smartphone India",
+        "credit": "Sagar Gaikwad",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19335258/pexels-photo-19335258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile phone battery India",
+        "credit": "Masood Aslami",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6956451/pexels-photo-6956451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "tech product launch India",
+        "credit": "Eva Bronzini",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "canada_us_50_percent_tariff_retaliation",
+    "virality_score": 8,
+    "reason": "Escalating US-Canada trade war with Canada imposing 50% tariffs on American goods.",
+    "region": "india",
+    "headline": "ट्रंप को मुंहतोड़ जवाब, इस देश ने US सामान पर लगाया 50% टैरिफ",
+    "source_summary": "US-Canada Tariff War: अमेरिका और कनाडा में ट्रेड टेंशन के बीच टैरिफ अटैक का सिलसिला शुरू हो गया है. ट्रंप के सितंबर के अंत में एक्स्ट्रा टैरिफ लगाने के ऐलान के बीच कनाडा ने सैकड़ों अमेरिकी सामानों पर 50% तक टैरिफ लगा दिया है.",
+    "source_url": "https://www.aajtak.in/business/news/story/us-canada-trade-war-canada-slaps-50-percent-tariff-on-american-products-after-trump-tax-tutc-dskc-2639166-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T08:24:58+05:30",
+    "hook": "अमेरिका को कनाडा का करारा जवाब!",
+    "script_hi": "अमेरिका और कनाडा के बीच ट्रेड वार छिड़ गई है। डोनाल्ड ट्रंप के टैरिफ वाले ऐलान के बाद कनाडा ने अमेरिका को झटका देते हुए सैकड़ों अमेरिकी सामानों पर पचास प्रतिशत तक का भारी टैरिफ लगा दिया है। इससे दोनों देशों के बीच तनाव और बढ़ गया है।",
+    "tts_text_hi": "अमेरिका और कनाडा के बीच ट्रेड वार छिड़ गई है। डोनाल्ड ट्रंप के टैरिफ वाले ऐलान के बाद कनाडा ने अमेरिका को झटका देते हुए सैकड़ों अमेरिकी सामानों पर पचास प्रतिशत तक का भारी टैरिफ लगा दिया है। इससे दोनों देशों के बीच तनाव और बढ़ गया है।",
+    "title": "अमेरिका को कनाडा का करारा जवाब, लगाया पचास प्रतिशत टैरिफ",
+    "caption": "अमेरिका और कनाडा के बीच ट्रेड वॉर तेज, कनाडा ने अमेरिकी सामानों पर लगाया पचास प्रतिशत टैरिफ।",
+    "hashtags": [
+      "USCanada",
+      "TradeWar",
+      "DonaldTrump",
+      "Tariff",
+      "AmericaNews",
+      "Canada"
+    ],
+    "visual_queries": [
+      "US Capitol building USA",
+      "Canadian flag Ottawa",
+      "cargo container port USA",
+      "stock market graph red"
+    ],
+    "named_person": "Donald Trump",
+    "named_person_hi": "डोनाल्ड ट्रंप",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -599,71 +337,77 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "नरेंद्र मोदी",
+        "text": "डोनाल्ड ट्रंप",
         "source": "fallback",
-        "query": "Narendra Modi",
+        "query": "Donald Trump",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34446072/14595543_720_1280_60fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33705055/pexels-photo-33705055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai police checkpoint India",
-        "credit": "RAJU THAPA",
-        "source_duration_sec": 85,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6125281/6125281-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "police interrogation room India",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 18,
-        "duration_sec": 6
+        "query": "US Capitol building USA",
+        "credit": "Bastian Riccardi",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282265/pexels-photo-13282265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39432209/pexels-photo-39432209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "security force India",
-        "credit": "Devansh Bose",
+        "query": "Canadian flag Ottawa",
+        "credit": "Mathias Reding",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35173640/pexels-photo-35173640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo container port USA",
+        "credit": "Enzo Renz",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7108043/pexels-photo-7108043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stock market graph red",
+        "credit": "Tiger Lily",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पीएम मोदी की रैली से ठीक पहले पकड़े गए संदिग्ध! 🚨",
-        "caption": "पीएम मोदी के कार्यक्रम से ठीक पहले सुरक्षा एजेंसियों ने दो संदिग्धों को दबोच लिया है। उनके पास से हथियार भी बरामद हुए हैं, जिससे हड़कंप मच गया है। 🔍\n\nइतनी कड़ी सुरक्षा के बावजूद आखिर ये लोग वहां तक कैसे पहुंचे? पूरी कहानी देखें। 👇\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+        "title": "ट्रंप की धमकी का कनाडा ने दिया तगड़ा जवाब! लगाया 50% टैरिफ 🇨🇦",
+        "caption": "अमेरिका को कनाडा का करारा जवाब! 🇨🇦\n\nडोनाल्ड ट्रंप की टैरिफ की धमकी के बाद कनाडा ने भी कड़ा कदम उठाते हुए अमेरिकी सामान पर सीधा 50% टैक्स ठोक दिया है। ट्रेड वॉर का यह नया रूप दुनिया भर के बाजारों को हिला सकता है।\n\nआपकी क्या राय है, इस फैसले से किसे ज्यादा नुकसान होगा? कमेंट में बताएं और पूरी कहानी देखें।\n\n#DonaldTrump #CanadaNews #USEconomy #TradeWar #GlobalNews"
       },
       "instagram": {
         "title": null,
-        "caption": "पीएम मोदी के इवेंट से पहले पकड़े गए हथियारबंद संदिग्ध! 🚨 सुरक्षा में यह चूक कैसे हुई और पुलिस ने इन्हें कैसे दबोचा? देखिए पूरी कहानी। 👁️\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+        "caption": "अमेरिका को कनाडा का करारा जवाब! 🇨🇦 ट्रंप की धमकियों के बीच कनाडा ने अमेरिकी सामान पर 50% टैरिफ लगाकर सबको हैरान कर दिया है। \n\nग्लोबल ट्रेड वॉर का यह नया मोड़ अर्थव्यवस्था पर क्या असर डालेगा? वीडियो में जानें पूरी बात।\n\nक्या कनाडा का यह फैसला सही है? अपनी राय नीचे शेयर करें।\n\n#DonaldTrump #CanadaNews #USEconomy #TradeWar #GlobalNews"
       },
       "facebook": {
         "title": null,
-        "caption": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम वाली जगह पर उस वक्त हड़कंप मच गया जब सुरक्षा एजेंसियों ने बंदूक के साथ घूम रहे संदिग्धों को दबोच लिया। 🚨\n\nआखिर ये संदिग्ध वहां किस इरादे से पहुंचे थे और पुलिस ने इन्हें कैसे पकड़ा? जानिए पूरी बात।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra"
+        "caption": "अमेरिका को कनाडा का करारा जवाब! 🇨🇦\n\nडोनाल्ड ट्रंप के आक्रामक तेवर के बाद अब कनाडा ने भी बड़ा दांव चल दिया है। अमेरिकी सामानों पर सीधे 50 प्रतिशत का भारी-भरकम टैरिफ लगाकर कनाडा ने साफ कर दिया है कि वह झुकने वाला नहीं है। दुनिया की दो बड़ी अर्थव्यवस्थाओं के बीच छिड़ी इस ट्रेड वॉर का असर अब ग्लोबल मार्केट पर साफ दिखने लगा है। \n\nयह फैसला आने वाले समय में क्या रंग दिखाएगा, देखिए इस वीडियो में। वीडियो को शेयर करें और अपनी राय कमेंट में बताएं।\n\n#DonaldTrump #CanadaNews #USEconomy #TradeWar #GlobalNews"
       },
       "hashtags": [
-        "PMModi",
-        "MumbaiNews",
-        "SecurityAlert",
-        "BreakingNews",
-        "Maharashtra"
+        "DonaldTrump",
+        "CanadaNews",
+        "USEconomy",
+        "TradeWar",
+        "GlobalNews"
       ]
     },
-    "audio_path": "audio/mumbai_pm_modi_event_fake_pmo_arrest.wav",
-    "audio_duration_sec": 25.89,
-    "video_path": "videos/mumbai_pm_modi_event_fake_pmo_arrest.mp4",
-    "video_duration_sec": 33.92,
+    "audio_path": "audio/canada_us_50_percent_tariff_retaliation.wav",
+    "audio_duration_sec": 17.55,
+    "video_path": "videos/canada_us_50_percent_tariff_retaliation.mp4",
+    "video_duration_sec": 25.49,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T02:51:51.794374+00:00"
+        "attempted_at": "2026-09-09T04:50:33.579609+00:00"
       },
       "facebook": {
         "success": true,
@@ -676,15 +420,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0c9df31c6c7e01cdbf57a",
+            "_id": "6aa0e5b2443a6024e34bade4",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "मुंबई में प्रधानमंत्री नरेंद्र मोदी के कार्यक्रम वाली जगह पर उस वक्त हड़कंप मच गया जब सुरक्षा एजेंसियों ने बंदूक के साथ घूम रहे संदिग्धों को दबोच लिया। 🚨\n\nआखिर ये संदिग्ध वहां किस इरादे से पहुंचे थे और पुलिस ने इन्हें कैसे पकड़ा? जानिए पूरी बात।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra",
+            "content": "अमेरिका को कनाडा का करारा जवाब! 🇨🇦\n\nडोनाल्ड ट्रंप के आक्रामक तेवर के बाद अब कनाडा ने भी बड़ा दांव चल दिया है। अमेरिकी सामानों पर सीधे 50 प्रतिशत का भारी-भरकम टैरिफ लगाकर कनाडा ने साफ कर दिया है कि वह झुकने वाला नहीं है। दुनिया की दो बड़ी अर्थव्यवस्थाओं के बीच छिड़ी इस ट्रेड वॉर का असर अब ग्लोबल मार्केट पर साफ दिखने लगा है। \n\nयह फैसला आने वाले समय में क्या रंग दिखाएगा, देखिए इस वीडियो में। वीडियो को शेयर करें और अपनी राय कमेंट में बताएं।\n\n#DonaldTrump #CanadaNews #USEconomy #TradeWar #GlobalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788922333025_us2rmurs_mumbai_pm_modi_event_fake_pmo_arrest.mp4",
-                "_id": "6aa0c9df31c6c7e01cdbf57b"
+                "url": "https://media.zernio.com/media/1788929456896_b6cpham3_canada_us_50_percent_tariff_retaliation.mp4",
+                "_id": "6aa0e5b2443a6024e34bade5"
               }
             ],
             "platforms": [
@@ -696,22 +440,22 @@
                   "platform": "facebook",
                   "displayName": "Ssd News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
                   "username": "lets.quote.up"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:52:14.656Z",
+                "scheduledFor": "2026-09-09T04:50:58.121Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "52cc9e6e87c4026023cd673092e293c7",
-                "_id": "6aa0c9df31c6c7e01cdbf57c",
-                "platformPostId": "2748901875511312",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2748901875511312",
-                "publishedAt": "2026-09-09T02:52:21.369Z"
+                "contentHash": "9a285435888f2614070ba3030b744edb",
+                "_id": "6aa0e5b2443a6024e34bade6",
+                "platformPostId": "38231626826482153",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=38231626826482153",
+                "publishedAt": "2026-09-09T04:51:04.744Z"
               }
             ],
-            "scheduledFor": "2026-09-09T02:52:14.656Z",
+            "scheduledFor": "2026-09-09T04:50:58.121Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -723,14 +467,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:52:15.451Z",
-            "updatedAt": "2026-09-09T02:52:21.465Z",
+            "createdAt": "2026-09-09T04:50:58.678Z",
+            "updatedAt": "2026-09-09T04:51:04.883Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:52:15.511Z"
+            "publishingClaimedAt": "2026-09-09T04:50:58.755Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:52:21.630692+00:00"
+        "attempted_at": "2026-09-09T04:51:05.105344+00:00"
       },
       "instagram": {
         "success": true,
@@ -743,15 +487,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0ca00b2e5b0f6c0284475",
+            "_id": "6aa0e5cdc6d4f907e5688a61",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "पीएम मोदी के इवेंट से पहले पकड़े गए हथियारबंद संदिग्ध! 🚨 सुरक्षा में यह चूक कैसे हुई और पुलिस ने इन्हें कैसे दबोचा? देखिए पूरी कहानी। 👁️\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PMModi #MumbaiNews #SecurityAlert #BreakingNews #Maharashtra",
+            "content": "अमेरिका को कनाडा का करारा जवाब! 🇨🇦 ट्रंप की धमकियों के बीच कनाडा ने अमेरिकी सामान पर 50% टैरिफ लगाकर सबको हैरान कर दिया है। \n\nग्लोबल ट्रेड वॉर का यह नया मोड़ अर्थव्यवस्था पर क्या असर डालेगा? वीडियो में जानें पूरी बात।\n\nक्या कनाडा का यह फैसला सही है? अपनी राय नीचे शेयर करें।\n\n#DonaldTrump #CanadaNews #USEconomy #TradeWar #GlobalNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788922365838_88u8pnk3_mumbai_pm_modi_event_fake_pmo_arrest.mp4",
-                "_id": "6aa0ca00b2e5b0f6c0284476"
+                "url": "https://media.zernio.com/media/1788929482311_6xfkwt67_canada_us_50_percent_tariff_retaliation.mp4",
+                "_id": "6aa0e5cdc6d4f907e5688a62"
               }
             ],
             "platforms": [
@@ -763,19 +507,19 @@
                   "profileId": "6a8efb7ab8c42db6c3e1415e",
                   "displayName": "SSD News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
                   "username": "ssdnewsdaily"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:52:47.478Z",
+                "scheduledFor": "2026-09-09T04:51:24.475Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "a8fc18c3b3911f2f530a3de7dc27eca9",
-                "_id": "6aa0ca00b2e5b0f6c0284477"
+                "contentHash": "fd9850ba3831673b5b71ecd9b9d3c3a7",
+                "_id": "6aa0e5cdc6d4f907e5688a63"
               }
             ],
-            "scheduledFor": "2026-09-09T02:52:47.478Z",
+            "scheduledFor": "2026-09-09T04:51:24.475Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -787,44 +531,343 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:52:48.323Z",
-            "updatedAt": "2026-09-09T02:52:50.547Z",
+            "createdAt": "2026-09-09T04:51:25.260Z",
+            "updatedAt": "2026-09-09T04:51:26.672Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:52:48.410Z"
+            "publishingClaimedAt": "2026-09-09T04:51:25.323Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:52:50.928050+00:00"
+        "attempted_at": "2026-09-09T04:51:27.006517+00:00"
       }
     }
   },
   {
-    "topic_label": "ai_guided_heart_surgery_success_china",
+    "topic_label": "gujarat_stunt_youth_survives_overpass_fall",
     "virality_score": 8,
-    "reason": "Groundbreaking medical milestone in China where AI independently performed a complex heart surgery.",
+    "reason": "Shocking viral video of a youth surviving a 40-foot fall from a railway bridge onto an autorickshaw.",
     "region": "india",
-    "headline": "बिना सीना चीरे AI ने बंद किया दिल का छेद, चीनी डॉक्टरों ने रचा इतिहास, रोबोट ने खुद फैसले लेकर पूरी की हार्ट सर्जरी",
-    "source_summary": "चीन में डॉक्टर्स ने AI की मदद से दिल की बेहद मुश्किल सर्जरी को सफल तरीके से पूरा कर इतिहास रच दिया है। दरअसल इससे पहले तक रोबोटिक आर्म की मदद से सर्जरी होती रही है, जिसमें कंट्रोल पूरी तरह से डॉक्टरों के हाथ में रहता था। वहीं इस सर्जरी में AI ने डॉक्टरों की मदद की और कई काम खुद भी किए। बड़ी बात रही कि इस सर्जरी में मरीज का सीना नहीं चीरा गया था। ऐसा AI के बिना संभव नहीं हो सकता था।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/ai-news/china-doctors-ai-robot-autonomous-heart-surgery-transcatheter-closure-hole-repair/articleshow/133918457.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 09 Sep 2026 06:48:00 +0530",
-    "hook": "बिना सीना चीरे आर्टिफिशियल इंटेलिजेंस ने कर दी दिल के छेद की सर्जरी!",
-    "script_hi": "चीन के डॉक्टरों ने आर्टिफिशियल इंटेलिजेंस की मदद से दिल की बेहद मुश्किल सर्जरी को सफल कर इतिहास रच दिया है। इस सर्जरी में मरीज का सीना नहीं चीरा गया। खास बात यह रही कि इसमें रोबोट ने खुद कई फैसले लेकर सर्जरी पूरी की।",
-    "tts_text_hi": "चीन के डॉक्टरों ने आर्टिफिशियल इंटेलिजेंस की मदद से दिल की बेहद मुश्किल सर्जरी को सफल कर इतिहास रच दिया है। इस सर्जरी में मरीज का सीना नहीं चीरा गया। खास बात यह रही कि इसमें रोबोट ने खुद कई फैसले लेकर सर्जरी पूरी की।",
-    "title": "AI ने बिना सीना चीरे की दिल की सर्जरी",
-    "caption": "चीन में डॉक्टरों और AI ने मिलकर रचा इतिहास, बिना सीना चीरे सफलतापूर्वक की दिल की सर्जरी।",
+    "headline": "रील के चक्कर में 40 फीट ऊंचे रेलवे ओवरब्रिज से गिरा युवक, Video",
+    "source_summary": "सोशल मीडिया पर वायरल होने का जुनून कई बार जान पर भारी पड़ सकता है. गुजरात के सूरत में 21 साल का युवक रेलवे ओवरब्रिज पर स्टंट करने के दौरान करीब 40 फीट नीचे जा गिरा. गनीमत रही कि युवक सीधे सड़क पर गिरने के बजाय नीचे खड़े ऑटो रिक्शा पर गिरा, जिससे उसकी जान बच गई. घटना का CCTV वीडियो सामने आया है.",
+    "source_url": "https://www.aajtak.in/india/gujarat/story/surat-youth-falls-40-feet-railway-overbridge-lands-on-auto-survives-lcla-strc-2639187-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T09:04:05+05:30",
+    "hook": "रील के चक्कर में चालीस फीट ऊपर से नीचे गिरा युवक!",
+    "script_hi": "सोशल मीडिया पर वायरल होने का जुनून कई बार जान पर भारी पड़ सकता है। गुजरात के सूरत में इक्कीस साल का युवक रेलवे ओवरब्रिज पर स्टंट करने के दौरान करीब चालीस फीट नीचे जा गिरा। गनीमत रही कि युवक सीधे सड़क पर गिरने के बजाय नीचे खड़े ऑटो रिक्शा पर गिरा, जिससे उसकी जान बच गई। घटना का सीसीटीवी वीडियो सामने आया है।",
+    "tts_text_hi": "सोशल मीडिया पर वायरल होने का जुनून कई बार जान पर भारी पड़ सकता है। गुजरात के सूरत में इक्कीस साल का युवक रेलवे ओवरब्रिज पर स्टंट करने के दौरान करीब चालीस फीट नीचे जा गिरा। गनीमत रही कि युवक सीधे सड़क पर गिरने के बजाय नीचे खड़े ऑटो रिक्शा पर गिरा, जिससे उसकी जान बच गई। घटना का सीसीटीवी वीडियो सामने आया है।",
+    "title": "सूरत में रील बनाने के चक्कर में ओवरब्रिज से गिरा युवक",
+    "caption": "गुजरात के सूरत में रील के चक्कर में चालीस फीट ऊंचे रेलवे ओवरब्रिज से गिरा युवक, ऑटो रिक्शा पर गिरने से बची जान।",
     "hashtags": [
-      "AI",
-      "MedicalNews",
-      "HeartSurgery",
-      "ChinaNews",
-      "TechNews",
-      "HealthUpdates"
+      "#Surat",
+      "#ViralVideo",
+      "#StuntGoneWrong",
+      "#GujaratNews",
+      "#ReelsDanger"
     ],
     "visual_queries": [
-      "medical laboratory China",
-      "advanced robotic surgery",
-      "artificial intelligence concept"
+      "smartphone social media India",
+      "railway overbridge India",
+      "autorickshaw street India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story revolves around a specific viral CCTV video of a unique incident in Surat that generic stock B-roll cannot accurately represent; the real video footage needs to be added manually.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone social media India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37414663/pexels-photo-37414663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "railway overbridge India",
+        "credit": "Rounak Kayal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11832470/pexels-photo-11832470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "autorickshaw street India",
+        "credit": "Adhwaith Chandran",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "lg_smart_tv_eavesdropping_investigation_report",
+    "virality_score": 8,
+    "reason": "Alarming tech investigation report claiming smart TVs secretly listen to users and monitor linked devices.",
+    "region": "india",
+    "headline": "​मशहूर टीवी ब्रैंड को लेकर सनसनीखेज दावा, बंद होकर भी सुन रहा आपकी बातें, नजर आपके फोन और वॉच पर भी",
+    "source_summary": "आपका टीवी सिर्फ आपका मनोरंजन ही नहीं कर रहा बल्कि चुपके से आप पर नजर भी रख रहा है। दरअसल टेक यूट्यूब चैनल Gamers Nexus, Level1Techs और सिक्योरिटी रिसर्चर्स ने अपनी एक जांच रिपोर्ट में LG के स्मार्ट टीवी को लेकर चौंकाने वाला खुलासा किया है। रिपोर्ट्स के अनुसार 135 मिनट की इनवेस्टिगेटिव वीडियो में दावा किया गया है कि LG के टीवी बंद होने के बाद भी आपकी बातें सुन सकते हैं और उन्हें रिकॉर्ड कर सकते हैं। इतना ही नहीं ये टीवी आपके घर के फोन, वॉच और पूरे Wi-Fi नेटवर्क की मैपिंग करते हैं। हालांकि कंपनी ने इन आरोपों को सिरे से खारिज किया है।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/lg-smart-tv-listening-audio-standby-mode-scanning-phones-smartwatches-home-network-security-risk/articleshow/133937226.cms",
+    "source_name": "Navbharat Times",
+    "published": "Wed, 09 Sep 2026 08:51:00 +0530",
+    "hook": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है?",
+    "script_hi": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है? एलजी स्मार्ट टीवी को लेकर एक बड़ा दावा सामने आया है। टेक रिपोर्ट्स के मुताबिक एलजी के टीवी बंद होने के बाद भी ऑडियो रिकॉर्ड कर सकते हैं। इतना ही नहीं ये आपके घर के वाई-फाई नेटवर्क और फोन की मैपिंग भी करते हैं। हालांकि कंपनी ने इन सभी आरोपों को खारिज कर दिया है।",
+    "tts_text_hi": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है? एलजी स्मार्ट टीवी को लेकर एक बड़ा दावा सामने आया है। टेक रिपोर्ट्स के मुताबिक एलजी के टीवी बंद होने के बाद भी ऑडियो रिकॉर्ड कर सकते हैं। इतना ही नहीं ये आपके घर के वाई-फाई नेटवर्क और फोन की मैपिंग भी करते हैं। हालांकि कंपनी ने इन सभी आरोपों को खारिज कर दिया है।",
+    "title": "एलजी स्मार्ट टीवी पर जासूसी का गंभीर आरोप",
+    "caption": "क्या आपका बंद एलजी स्मार्ट टीवी आपकी जासूसी कर रहा है? एक नई रिपोर्ट में चौंकाने वाला दावा सामने आया है।",
+    "hashtags": [
+      "LGTv",
+      "SmartTV",
+      "TechNews",
+      "Privacy",
+      "NewsShorts",
+      "IndiaTech"
+    ],
+    "visual_queries": [
+      "modern smart tv India",
+      "person using smartphone India",
+      "wi fi router device India",
+      "digital security tech India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4009407/pexels-photo-4009407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern smart tv India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person using smartphone India",
+        "credit": "Kewal Nagda",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wi fi router device India",
+        "credit": "Aditya Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7522609/pexels-photo-7522609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital security tech India",
+        "credit": "Gustavo Galeano Maz",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बंद टीवी भी सुन रहा है आपकी बातें? एलजी स्मार्ट टीवी पर लगे गंभीर आरोप 📺",
+        "caption": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है? 😳\n\nमशहूर टीवी ब्रैंड एलजी को लेकर एक चौंकाने वाला दावा सामने आया है। रिपोर्ट्स के मुताबिक, टीवी बंद होने के बावजूद यूजर्स की बातें और फोन-स्मार्टवॉच का डेटा रिकॉर्ड किया जा रहा है।\n\nक्या स्मार्ट डिवाइसेज हमारी प्राइवेसी में सेंध लगा रहे हैं? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#LGSmartTV #SmartTVSpying #TechNews #PrivacyAlert #Gadgets"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है? 😳\n\nएलजी स्मार्ट टीवी पर जासूसी करने का गंभीर आरोप लगा है। दावा है कि डिवाइस बंद होने पर भी यूजर की पर्सनल बातें और फोन का डेटा ट्रैक हो रहा है। \n\nअपनों को सतर्क करने के लिए यह वीडियो शेयर जरूर करें! ⚠️\n\n#LGSmartTV #SmartTVSpying #TechNews #PrivacyAlert #Gadgets"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या आपका बंद टीवी भी चुपके से आपकी बातें सुन रहा है? 😳\n\nमशहूर टीवी ब्रैंड एलजी को लेकर एक ऐसा सनसनीखेज दावा सामने आया है जिसने सबको हैरान कर दिया है। आरोप है कि टीवी बंद होने के बाद भी यह आपकी पर्सनल बातें सुन सकता है और आपके फोन तथा स्मार्टवॉच की गतिविधियों पर भी नजर रख रहा है।\n\nप्राइवेसी से जुड़ा यह मामला बेहद गंभीर है। क्या स्मार्ट डिवाइसेज पर अब भरोसा करना मुश्किल हो गया है? अपनी राय हमें कमेंट में बताएं और वीडियो पूरा देखें।\n\n#LGSmartTV #SmartTVSpying #TechNews #PrivacyAlert #Gadgets"
+      },
+      "hashtags": [
+        "LGSmartTV",
+        "SmartTVSpying",
+        "TechNews",
+        "PrivacyAlert",
+        "Gadgets"
+      ]
+    },
+    "audio_path": "audio/lg_smart_tv_eavesdropping_investigation_report.wav",
+    "audio_duration_sec": 21.41,
+    "video_path": "videos/lg_smart_tv_eavesdropping_investigation_report.mp4",
+    "video_duration_sec": 29.46,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-09T04:54:58.122171+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0e6b63087a0c154d9d08a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या आपका बंद टीवी भी चुपके से आपकी बातें सुन रहा है? 😳\n\nमशहूर टीवी ब्रैंड एलजी को लेकर एक ऐसा सनसनीखेज दावा सामने आया है जिसने सबको हैरान कर दिया है। आरोप है कि टीवी बंद होने के बाद भी यह आपकी पर्सनल बातें सुन सकता है और आपके फोन तथा स्मार्टवॉच की गतिविधियों पर भी नजर रख रहा है।\n\nप्राइवेसी से जुड़ा यह मामला बेहद गंभीर है। क्या स्मार्ट डिवाइसेज पर अब भरोसा करना मुश्किल हो गया है? अपनी राय हमें कमेंट में बताएं और वीडियो पूरा देखें।\n\n#LGSmartTV #SmartTVSpying #TechNews #PrivacyAlert #Gadgets",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788929716408_ij2kmpu9_lg_smart_tv_eavesdropping_investigation_report.mp4",
+                "_id": "6aa0e6b63087a0c154d9d08b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T04:55:17.739Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a52445fa5965d4bea5327cd56492004d",
+                "_id": "6aa0e6b63087a0c154d9d08c",
+                "platformPostId": "1383420987320506",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1383420987320506",
+                "publishedAt": "2026-09-09T04:55:24.029Z"
+              }
+            ],
+            "scheduledFor": "2026-09-09T04:55:17.739Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T04:55:18.398Z",
+            "updatedAt": "2026-09-09T04:55:24.162Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T04:55:18.460Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T04:55:24.360660+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa0e6ce51e0c887f693eac3",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या आपका बंद टीवी भी आपकी बातें सुन रहा है? 😳\n\nएलजी स्मार्ट टीवी पर जासूसी करने का गंभीर आरोप लगा है। दावा है कि डिवाइस बंद होने पर भी यूजर की पर्सनल बातें और फोन का डेटा ट्रैक हो रहा है। \n\nअपनों को सतर्क करने के लिए यह वीडियो शेयर जरूर करें! ⚠️\n\n#LGSmartTV #SmartTVSpying #TechNews #PrivacyAlert #Gadgets",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1788929740613_g01n3x9m_lg_smart_tv_eavesdropping_investigation_report.mp4",
+                "_id": "6aa0e6ce51e0c887f693eac4"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-09T04:55:41.782Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "db492b7ac0092472499fe2de00212be1",
+                "_id": "6aa0e6ce51e0c887f693eac5"
+              }
+            ],
+            "scheduledFor": "2026-09-09T04:55:41.782Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-09T04:55:42.823Z",
+            "updatedAt": "2026-09-09T04:55:44.647Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-09T04:55:42.914Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-09T04:55:44.980401+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "madhya_pradesh_bull_water_tank_rescue",
+    "virality_score": 7,
+    "reason": "Bizarre and engaging local incident of a bull climbing a 60-foot water tank and staying there for 42 hours.",
+    "region": "india",
+    "headline": "मध्य प्रदेश के श्योपुर में सांड का हाईवोल्टेज ड्रामा!",
+    "source_summary": "मध्य प्रदेश के श्योपुर के ददूनी गांव में 60 फीट ऊंची पानी की टंकी पर सांड चढ़ गया. ग्रामीणों की भीड़ और कई कोशिशों के बावजूद वह करीब 42 घंटे तक नीचे नहीं उतरा. मंगलवार को प्रशासन ने क्रेन मंगाई. पशुपालन विभाग ने सांड को बेहोशी की दवा दी, जिसके बाद पुलिस और टीम ने करीब दो घंटे की मशक्कत में उसे सुरक्षित नीचे उतार लिया. गांव में राहत की सांस ली.",
+    "source_url": "https://www.aajtak.in/short-videos/video/sheopur-bull-stuck-water-tank-60-feet-42-hours-rescue-crane-administration-veterinary-team-madhya-pradesh-mmta-2639172-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T09:22:15+05:30",
+    "hook": "मध्य प्रदेश के श्योपुर में सांड का अजीब ड्रामा!",
+    "script_hi": "मध्य प्रदेश के श्योपुर के ददूनी गांव में साठ फीट ऊंची पानी की टंकी पर एक सांड चढ़ गया। ग्रामीणों की भीड़ और तमाम कोशिशों के बाद भी वह करीब बयालीस घंटे तक नीचे नहीं उतरा। मंगलवार को प्रशासन ने क्रेन मंगाई और पशुपालन विभाग ने बेहोशी की दवा दी। इसके बाद पुलिस और टीम ने करीब दो घंटे की मशक्कत से उसे सुरक्षित नीचे उतार लिया, जिससे सभी ने राहत की सांस ली।",
+    "tts_text_hi": "मध्य प्रदेश के श्योपुर के ददूनी गांव में साठ फीट ऊंची पानी की टंकी पर एक सांड चढ़ गया। ग्रामीणों की भीड़ और तमाम कोशिशों के बाद भी वह करीब बयालीस घंटे तक नीचे नहीं उतरा। मंगलवार को प्रशासन ने क्रेन मंगाई और पशुपालन विभाग ने बेहोशी की दवा दी। इसके बाद पुलिस और टीम ने करीब दो घंटे की मशक्कत से उसे सुरक्षित नीचे उतार लिया, जिससे सभी ने राहत की सांस ली।",
+    "title": "मध्य प्रदेश के श्योपुर में टंकी पर चढ़ा सांड",
+    "caption": "मध्य प्रदेश के श्योपुर में साठ फीट ऊंची टंकी पर चढ़ा सांड, बयालीस घंटे बाद हुआ रेस्क्यू।",
+    "hashtags": [
+      "MadhyaPradesh",
+      "Sheopur",
+      "ViralNews",
+      "AnimalRescue",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian village water tank",
+      "stray bull India",
+      "crane machine India",
+      "animal rescue operation India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -835,137 +878,70 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14829613/pexels-photo-14829613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11264068/pexels-photo-11264068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "medical laboratory China",
-        "credit": "Ayşenur",
+        "query": "Indian village water tank",
+        "credit": "Renjith Tomy Pkm",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36101262/pexels-photo-36101262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6099493/pexels-photo-6099493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "advanced robotic surgery",
-        "credit": "Fernando Capetillo",
+        "query": "stray bull India",
+        "credit": "Nishant Aneja",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29502196/pexels-photo-29502196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "artificial intelligence concept",
-        "credit": "Tara Winstead",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "shahrukh_ajay_vimal_notice_delhi_hc",
-    "virality_score": 7,
-    "reason": "High court involvement in the Vimal Elaichi advertising notice issued to major Bollywood stars.",
-    "region": "india",
-    "headline": "&#039;इलायची के नाम पर...&#039;, शाहरुख-अजय को नोटिस, HC पहुंचा मामला",
-    "source_summary": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती देते हुए इसे रद्द करने की मांग की है. ये नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
-    "source_url": "https://www.aajtak.in/business/news/story/vimal-elaichi-ad-case-shahrukh-khan-ajay-devgan-tiger-shroff-notice-delhi-high-court-jurisdiction-dpmx-smsr-2638784-2026-09-09?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-09T06:59:53+05:30",
-    "hook": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में!",
-    "script_hi": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती दी है. यह नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
-    "tts_text_hi": "विमल इलायची के विज्ञापन को लेकर विवाद अब दिल्ली हाई कोर्ट पहुंच गया है. कंपनी पीबी एग्रो ने महाराष्ट्र एफडीए के शो कॉज नोटिस को चुनौती दी है. यह नोटिस शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को जारी किए गए थे.",
-    "title": "शाहरुख और अजय देवगन को नोटिस, इलायची विज्ञापन विवाद पहुंचा दिल्ली हाई कोर्ट",
-    "caption": "विमल इलायची विज्ञापन विवाद में शाहरुख खान, अजय देवगन और टाइगर श्रॉफ को मिले नोटिस का मामला दिल्ली हाई कोर्ट पहुंच गया है.",
-    "hashtags": [
-      "VimalElaichi",
-      "ShahRukhKhan",
-      "AjayDevgn",
-      "TigerShroff",
-      "DelhiHighCourt",
-      "NewsUpdates",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Delhi High Court building India",
-      "Bollywood actor India",
-      "court legal notice India"
-    ],
-    "named_person": "Shah Rukh Khan",
-    "named_person_hi": "शाहरुख खान",
-    "secondary_persons": [
-      "Ajay Devgn",
-      "Tiger Shroff"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "शाहरुख खान",
-        "source": "fallback",
-        "query": "Shah Rukh Khan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35616896/pexels-photo-35616896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi High Court building India",
-        "credit": "Saksham Vikram",
+        "query": "crane machine India",
+        "credit": "Action Construction  Equipment Ltd. - ACE",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39187572/pexels-photo-39187572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Bollywood actor India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "court legal notice India",
-        "credit": "KATRIN  BOLOVTSOVA",
+        "query": "animal rescue operation India",
+        "credit": "Jayesh Krishna Althi",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "शाहरुख और अजय देवगन को नोटिस! इलायची विज्ञापन विवाद पहुंचा हाई कोर्ट ⚖️",
-        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nदिल्ली हाई कोर्ट में शाहरुख खान और अजय देवगन के खिलाफ दायर याचिका पर सुनवाई शुरू हो गई है। आरोप है कि ब्रांड के विज्ञापन के जरिए गलत संदेश दिया जा रहा है। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
+        "title": "श्योपुर में टंकी पर चढ़ा सांड! हाईवोल्टेज ड्रामा 🐂",
+        "caption": "मध्य प्रदेश के श्योपुर में जो हुआ, उसे देख लोग दंग रह गए। 🤯\n\nयहाँ एक सांड अचानक पानी की टंकी पर जा चढ़ा। इसे नीचे उतारने के लिए घंटों मशक्कत करनी पड़ी।\n\nपूरी कहानी देखें और बताएं कि आपने कभी ऐसा नजारा देखा है?\n\n#SheopurNews #MadhyaPradesh #ViralVideo #BullRescue #MPNews"
       },
       "instagram": {
         "title": null,
-        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nशाहरुख खान और अजय देवगन के खिलाफ दिल्ली हाई कोर्ट में मामला पहुंच गया है। क्या है पूरा विवाद, आइए जानते हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं! 👇\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
+        "caption": "मध्य प्रदेश के श्योपुर में जो हुआ, उसे देख लोग दंग रह गए! 🤯\n\nएक सांड अचानक पानी की टंकी पर जा चढ़ा और हाईवोल्टेज ड्रामा शुरू हो गया। इसे नीचे उतारने के प्रशासन के पसीने छूट गए।\n\nवीडियो पूरा देखें और शेयर करें!\n\n#SheopurNews #MadhyaPradesh #ViralVideo #BullRescue #MPNews"
       },
       "facebook": {
         "title": null,
-        "caption": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nमामला अब दिल्ली हाई कोर्ट तक पहुंच गया है जहां शाहरुख खान और अजय देवगन के विज्ञापनों को लेकर सवाल उठाए गए हैं। क्या इन सितारों की मुश्किलें बढ़ने वाली हैं?\n\nवीडियो में देखें पूरी जानकारी और शेयर करें अपने दोस्तों के साथ।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice"
+        "caption": "मध्य प्रदेश के श्योपुर में ऐसा ड्रामा देखने को मिला जिसने सबको हैरान कर दिया। 🤯\n\nयहाँ एक सांड अचानक पानी की टंकी पर जा चढ़ा। भारी मशक्कत के बाद उसे सुरक्षित नीचे उतारा गया। इस अजीबोगरीब वाकये का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरी कहानी वीडियो में देखें।\n\n#SheopurNews #MadhyaPradesh #ViralVideo #BullRescue #MPNews"
       },
       "hashtags": [
-        "ShahRukhKhan",
-        "AjayDevgn",
-        "DelhiHighCourt",
-        "VimalElaichi",
-        "LegalNotice"
+        "SheopurNews",
+        "MadhyaPradesh",
+        "ViralVideo",
+        "BullRescue",
+        "MPNews"
       ]
     },
-    "audio_path": "audio/shahrukh_ajay_vimal_notice_delhi_hc.wav",
-    "audio_duration_sec": 17.1,
-    "video_path": "videos/shahrukh_ajay_vimal_notice_delhi_hc.mp4",
-    "video_duration_sec": 25.16,
+    "audio_path": "audio/madhya_pradesh_bull_water_tank_rescue.wav",
+    "audio_duration_sec": 25.33,
+    "video_path": "videos/madhya_pradesh_bull_water_tank_rescue.mp4",
+    "video_duration_sec": 33.36,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T02:57:17.009634+00:00"
+        "attempted_at": "2026-09-09T05:01:23.089788+00:00"
       },
       "facebook": {
         "success": true,
@@ -978,15 +954,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0cb2cb597791a736a0608",
+            "_id": "6aa0e83e991a71d9f6a22559",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nमामला अब दिल्ली हाई कोर्ट तक पहुंच गया है जहां शाहरुख खान और अजय देवगन के विज्ञापनों को लेकर सवाल उठाए गए हैं। क्या इन सितारों की मुश्किलें बढ़ने वाली हैं?\n\nवीडियो में देखें पूरी जानकारी और शेयर करें अपने दोस्तों के साथ।\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice",
+            "content": "मध्य प्रदेश के श्योपुर में ऐसा ड्रामा देखने को मिला जिसने सबको हैरान कर दिया। 🤯\n\nयहाँ एक सांड अचानक पानी की टंकी पर जा चढ़ा। भारी मशक्कत के बाद उसे सुरक्षित नीचे उतारा गया। इस अजीबोगरीब वाकये का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरी कहानी वीडियो में देखें।\n\n#SheopurNews #MadhyaPradesh #ViralVideo #BullRescue #MPNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788922667294_p6ypxqz1_shahrukh_ajay_vimal_notice_delhi_hc.mp4",
-                "_id": "6aa0cb2cb597791a736a0609"
+                "url": "https://media.zernio.com/media/1788930107419_9clowanj_madhya_pradesh_bull_water_tank_rescue.mp4",
+                "_id": "6aa0e83e991a71d9f6a2255a"
               }
             ],
             "platforms": [
@@ -998,22 +974,22 @@
                   "platform": "facebook",
                   "displayName": "Ssd News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=Hyn3ts7SMvUQ7kNvwE2xk2C&_nc_oc=Ado6O11HDBqIP43GaBDleUVrl6fP5gpAZcErU7xuVXNVqaI1wLTzeUb3XeTM88i8ZWo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=TME-flELNyTUTTXX20MO9A&_nc_tpa=Q5bMBQIGqrcMigkj-ztYnL6_tSPqQgfvXK_BN69dMHdAMvwqWviejzyKoKOBEwZnVCzyVfsjOAJPsOOP&oh=00_AQJYu3KCEotyOLb1u_dpGA17Hh5FgY1MvnEesRJTOl7yng&oe=6AA55F94",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
                   "username": "lets.quote.up"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:57:48.215Z",
+                "scheduledFor": "2026-09-09T05:01:49.559Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "65003af61720b05e393f90b653d6d0e5",
-                "_id": "6aa0cb2cb597791a736a060a",
-                "platformPostId": "1081577627749929",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1081577627749929",
-                "publishedAt": "2026-09-09T02:57:56.268Z"
+                "contentHash": "b2225ed86967e14e44b7901f6d8bff8b",
+                "_id": "6aa0e83e991a71d9f6a2255b",
+                "platformPostId": "1095022923107896",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1095022923107896",
+                "publishedAt": "2026-09-09T05:01:56.034Z"
               }
             ],
-            "scheduledFor": "2026-09-09T02:57:48.215Z",
+            "scheduledFor": "2026-09-09T05:01:49.559Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1025,14 +1001,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:57:48.745Z",
-            "updatedAt": "2026-09-09T02:57:56.366Z",
+            "createdAt": "2026-09-09T05:01:50.422Z",
+            "updatedAt": "2026-09-09T05:01:56.147Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:57:48.815Z"
+            "publishingClaimedAt": "2026-09-09T05:01:50.486Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:57:56.516999+00:00"
+        "attempted_at": "2026-09-09T05:01:56.342374+00:00"
       },
       "instagram": {
         "success": true,
@@ -1045,15 +1021,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa0cb4a63b1fc4f5daeae99",
+            "_id": "6aa0e859f01534d7c8df5cb2",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "विमल इलायची का विज्ञापन फंसा कानूनी पचड़े में! 🚨\n\nशाहरुख खान और अजय देवगन के खिलाफ दिल्ली हाई कोर्ट में मामला पहुंच गया है। क्या है पूरा विवाद, आइए जानते हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं! 👇\n\n#ShahRukhKhan #AjayDevgn #DelhiHighCourt #VimalElaichi #LegalNotice",
+            "content": "मध्य प्रदेश के श्योपुर में जो हुआ, उसे देख लोग दंग रह गए! 🤯\n\nएक सांड अचानक पानी की टंकी पर जा चढ़ा और हाईवोल्टेज ड्रामा शुरू हो गया। इसे नीचे उतारने के प्रशासन के पसीने छूट गए।\n\nवीडियो पूरा देखें और शेयर करें!\n\n#SheopurNews #MadhyaPradesh #ViralVideo #BullRescue #MPNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1788922696669_hiqy0txg_shahrukh_ajay_vimal_notice_delhi_hc.mp4",
-                "_id": "6aa0cb4a63b1fc4f5daeae9a"
+                "url": "https://media.zernio.com/media/1788930135573_q60b5tvg_madhya_pradesh_bull_water_tank_rescue.mp4",
+                "_id": "6aa0e859f01534d7c8df5cb3"
               }
             ],
             "platforms": [
@@ -1065,19 +1041,19 @@
                   "profileId": "6a8efb7ab8c42db6c3e1415e",
                   "displayName": "SSD News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwFEIDtY&_nc_oc=AdqRQpOXQXdDUunOcLfGoO13f5B5rlM66U9B8X__b47tVWe__LjG1lvVkbl8CX5bkzc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DUvB47NnA6-2OK24t6plsA&_nc_tpa=Q5bMBQJ20lKfiVSDnVeazPt3_HmQsHfvvn30lu1ip9WSjhJ3MWyd_ErhsIcaHU018U24ulBrdklCBic8Yg&oh=00_AQIX9pnOMUgLOtFPyyCxsnmOHfOTNbchPQe_uq4Z-QgBLA&oe=6AA5533B",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
                   "username": "ssdnewsdaily"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-09T02:58:17.520Z",
+                "scheduledFor": "2026-09-09T05:02:16.989Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "92e76a88c57481f9c49fcbbcc5c3b653",
-                "_id": "6aa0cb4a63b1fc4f5daeae9b"
+                "contentHash": "6c08d6c26ebb51cbcabf306926386067",
+                "_id": "6aa0e859f01534d7c8df5cb4"
               }
             ],
-            "scheduledFor": "2026-09-09T02:58:17.520Z",
+            "scheduledFor": "2026-09-09T05:02:16.989Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1089,14 +1065,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-09T02:58:18.107Z",
-            "updatedAt": "2026-09-09T02:58:20.329Z",
+            "createdAt": "2026-09-09T05:02:17.666Z",
+            "updatedAt": "2026-09-09T05:02:19.251Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-09T02:58:18.202Z"
+            "publishingClaimedAt": "2026-09-09T05:02:17.747Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-09T02:58:20.748355+00:00"
+        "attempted_at": "2026-09-09T05:02:19.589445+00:00"
       }
     }
   }
