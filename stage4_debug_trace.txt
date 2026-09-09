@@ -1,7 +1,9 @@
-ready_labels: ['ahmedabad_sofia_farooq_honor_killing', 'drishyam_3_trailer_release', 'south_korea_record_divorce_settlement_1_87bn', 'us_iran_hormuz_strait_escalation']
+ready_labels: ['andhra_woman_stomach_pens_bolts_surgery', 'delhi_man_uterus_fallopian_tube_rare_medical_case', 'odisha_balasore_smuggled_orangutans_found', 'us_iran_strait_of_hormuz_oil_tanker_strikes', 'us_open_carlos_alcaraz_ousted_by_ben_shelton']
 
-drishyam_3_trailer_release: SUCCESS -> video_path=videos/drishyam_3_trailer_release.mp4 dur=23.975215
-us_iran_hormuz_strait_escalation: SUCCESS -> video_path=videos/us_iran_hormuz_strait_escalation.mp4 dur=38.22322
-south_korea_record_divorce_settlement_1_87bn: SUCCESS -> video_path=videos/south_korea_record_divorce_settlement_1_87bn.mp4 dur=20.52322
-ahmedabad_sofia_farooq_honor_killing: SUCCESS -> video_path=videos/ahmedabad_sofia_farooq_honor_killing.mp4 dur=28.356553
-rajpal_yapal_supreme_court_5_crore_condition: SKIPPED (not in ready set)
+kanpur_pharma_tycoon_murder_wife_party_dance: SKIPPED (not in ready set)
+andhra_woman_stomach_pens_bolts_surgery: SUCCESS -> video_path=videos/andhra_woman_stomach_pens_bolts_surgery.mp4 dur=26.02322
+odisha_balasore_smuggled_orangutans_found: SUCCESS -> video_path=videos/odisha_balasore_smuggled_orangutans_found.mp4 dur=30.42322
+us_iran_strait_of_hormuz_oil_tanker_strikes: SUCCESS -> video_path=videos/us_iran_strait_of_hormuz_oil_tanker_strikes.mp4 dur=38.255215
+us_open_carlos_alcaraz_ousted_by_ben_shelton: SUCCESS -> video_path=videos/us_open_carlos_alcaraz_ousted_by_ben_shelton.mp4 dur=25.656553
+delhi_man_uterus_fallopian_tube_rare_medical_case: SUCCESS -> video_path=videos/delhi_man_uterus_fallopian_tube_rare_medical_case.mp4 dur=26.456553
+bhopal_thar_driver_crushes_cars_escaping_cctv: SKIPPED (not in ready set)
