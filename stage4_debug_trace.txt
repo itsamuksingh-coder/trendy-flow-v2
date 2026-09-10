@@ -1,10 +1,8 @@
-ready_labels: ['brics_summit_delhi_security', 'east_zone_duleep_trophy_win']
+ready_labels: ['xi_jinping_india_brics_summit']
 
+xi_jinping_india_brics_summit: SUCCESS -> video_path=videos/xi_jinping_india_brics_summit.mp4 dur=25.322222
 apple_iphone_duo_launch: SKIPPED (not in ready set)
-brics_summit_delhi_security: SUCCESS -> video_path=videos/brics_summit_delhi_security.mp4 dur=27.13322
-nepal_flood_death_toll_rising: SKIPPED (not in ready set)
-mumbai_chembur_cat_killings: SKIPPED (not in ready set)
-east_zone_duleep_trophy_win: SUCCESS -> video_path=videos/east_zone_duleep_trophy_win.mp4 dur=32.54322
-philippines_ferry_fire_tragedy: SKIPPED (not in ready set)
-isro_ce20_engine_success: SKIPPED (not in ready set)
-up_baghpat_electrician_murder: SKIPPED (not in ready set)
+man_declared_dead_found_alive: SKIPPED (not in ready set)
+bipasha_basu_protein_product_worms: SKIPPED (not in ready set)
+daman_collector_heroics_shame: SKIPPED (not in ready set)
+china_cargo_ship_fire: SKIPPED (not in ready set)
