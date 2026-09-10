@@ -2,155 +2,486 @@
   {
     "topic_label": "apple_iphone_duo_launch",
     "virality_score": 9,
-    "reason": "High interest in Apple's first-ever foldable phone with premium pricing creates significant buzz.",
+    "reason": "Major global tech launch of Apple's first foldable phone with significant Indian market interest and price controversy.",
     "region": "india",
     "headline": "Apple ने लॉन्च किया पहला फोल्डेबल iPhone Duo, जानें कीमत",
     "source_summary": "Apple ने अपना पहला फोल्डेबल iPhone Duo लॉन्च किया है. इसकी शुरुआती कीमत 2,99,900 रुपये है और इसमें 256GB स्टोरेज मिलता है. फोन खोलने पर 7.6 इंच का Super Retina XDR डिस्प्ले और बाहर 5.4 इंच की स्क्रीन मिलती है. इसमें A20 Pro चिप, टाइटेनियम बॉडी, प्रिसीजन हिंज, डुअल बैटरी और वेपर चैंबर दिया गया है. कंपनी के मुताबिक यह फोन बेहतर प्रदर्शन और मल्टीटास्किंग देगा.",
     "source_url": "https://www.aajtak.in/short-videos/video/apple-iphone-duo-foldable-smartphone-launch-price-specifications-7-6-inch-display-a20-pro-chip-titanium-design-mmta-2639867-2026-09-10?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-10T08:10:20+05:30",
-    "hook": "एप्पल ने पेश कर दिया अपना पहला फोल्डेबल आईफोन डुओ!",
-    "script_hi": "एप्पल ने पेश कर दिया अपना पहला फोल्डेबल आईफोन डुओ! इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये रखी गई है। इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है। फोन खोलने पर सात दशमलव छह इंच का सुपर रेटिना एक्स डी आर डिस्प्ले मिलता है। यह नया फोन बेहतर मल्टीटास्किंग के लिए डिज़ाइन किया गया है।",
-    "tts_text_hi": "एप्पल ने पेश कर दिया अपना पहला फोल्डेबल आईफोन डुओ! इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये रखी गई है। इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है। फोन खोलने पर सात दशमलव छह इंच का सुपर रेटिना एक्स डी आर डिस्प्ले मिलता है। यह नया फोन बेहतर मल्टीटास्किंग के लिए डिज़ाइन किया गया है।",
+    "hook": "एप्पल का पहला फोल्डेबल आईफोन आ गया है, क्या आप इसे खरीदने के लिए तैयार हैं?",
+    "script_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये है। इस शानदार फोन में सात दशमलव छह इंच का सुपर रेटिना डिस्प्ले मिलता है। साथ ही इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है, जो इसे बेहद खास बनाती है।",
+    "tts_text_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये है। इस शानदार फोन में सात दशमलव छह इंच का सुपर रेटिना डिस्प्ले मिलता है। साथ ही इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है, जो इसे बेहद खास बनाती है।",
     "title": "Apple का पहला फोल्डेबल iPhone Duo लॉन्च",
-    "caption": "Apple ने अपना पहला फोल्डेबल iPhone Duo लॉन्च कर दिया है, जिसकी शुरुआती कीमत 2,99,900 रुपये है।",
+    "caption": "एप्पल ने पेश किया अपना पहला फोल्डेबल आईफोन डुओ, जानें फीचर्स और कीमत।",
     "hashtags": [
       "Apple",
       "iPhoneDuo",
       "FoldablePhone",
       "TechNews",
-      "GadgetLaunch",
+      "Gadgets",
       "AppleIndia"
     ],
     "visual_queries": [
-      "futuristic smartphone design",
-      "premium titanium texture",
-      "smartphone screen display",
-      "digital multitasking interface"
+      "modern smartphone design",
+      "high end electronics store",
+      "abstract futuristic screen",
+      "luxury titanium metal texture"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story describes a specific new product model (iPhone Duo) which does not exist in reality; this is a hallucinated/fictional news item based on the prompt's source text, requiring human verification before publishing as real tech news.",
+    "flag_reason": "This is a product announcement for a specific new device (iPhone Duo); the visual queries use generic tech imagery, but the actual product press-kit images need to be added manually to represent the device accurately.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36434287/15449140_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "premium titanium texture",
-        "credit": "Efrem  Efre",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36768424/pexels-photo-36768424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14486283/pexels-photo-14486283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "futuristic smartphone design",
-        "credit": "Prashant pacific",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14486282/pexels-photo-14486282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone screen display",
+        "query": "modern smartphone design",
         "credit": "I'm Zion",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20044366/pexels-photo-20044366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34625035/pexels-photo-34625035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "digital multitasking interface",
-        "credit": "Airam Dato-on",
+        "query": "high end electronics store",
+        "credit": "Matheus Bertelli",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9783818/pexels-photo-9783818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "abstract futuristic screen",
+        "credit": "Ron Lach",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4854365/pexels-photo-4854365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury titanium metal texture",
+        "credit": "David Underland",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "turkish_influencer_gold_arrest",
-    "virality_score": 8,
-    "reason": "Viral gold-heavy wedding leads to shocking arrest, combining luxury lifestyle with crime.",
+    "topic_label": "80s_retro_ai_trend",
+    "virality_score": 9,
+    "reason": "Highly viral social media trend involving politicians and celebrities using AI to create retro looks, ensuring high engagement.",
     "region": "india",
-    "headline": "दुल्हन ने पहना 8 करोड़ का गोल्ड, दूल्हे को उठा ले गई पुलिस",
-    "source_summary": "तुर्की में 8 करोड़ रुपये के सोने से सजी शादी का वीडियो सोशल मीडिया पर वायरल होने के बाद मामला चर्चा में आ गया. शादी के कुछ समय बाद दूल्हे ‘वैनली कारा हैदर’ को पुलिस ने गिरफ्तार कर लिया. अब उनकी पत्नी और सोशल मीडिया इन्फ्लुएंसर Çağla Öz को भी हिरासत में लिया गया है.",
-    "source_url": "https://www.aajtak.in/trending/story/vanli-kara-haydar-mehmet-fatih-tancalan-bride-cagla-oz-marriage-8-crore-jewellery-rttw-dskc-2640029-2026-09-10?utm_source=rssfeed",
+    "headline": "रेट्रो लुक में तस्वीरें...यूपी के नेताओं पर भी चढ़ा 80sVibes का खुमार",
+    "source_summary": "सोशल मीडिया पर '80sVibes' ट्रेंड तेजी से लोकप्रिय हो रहा है, जिसमें उत्तर प्रदेश के कई दिग्गज नेता भी शामिल हो गए हैं. उप मुख्यमंत्री, अपर्णा यादव, विधायक अदिति सिंह और सुनील कुमार शर्मा सहित कई नेताओं ने 1980 के दशक के रेट्रो अंदाज और फैशन वाली अपनी एआई तस्वीरें साझा की हैं.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/up-leaders-join-80svibes-trend-share-retro-photos-and-nostalgic-throwback-looks-aditi-singh-mla-lclam-strc-2640097-2026-09-10?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-10T12:08:02+05:30",
-    "hook": "आठ करोड़ का सोना पहनना दुल्हन को पड़ा भारी, दूल्हे के बाद अब दुल्हन भी गिरफ्तार!",
-    "script_hi": "तुर्की में एक शादी इन दिनों चर्चा में है। यहाँ दुल्हन ने आठ करोड़ रुपये का सोना पहना था। लेकिन शादी के कुछ ही समय बाद दूल्हे 'वैनली कारा हैदर' को पुलिस ने गिरफ्तार कर लिया। अब खबर है कि सोशल मीडिया इन्फ्लुएंसर और दुल्हन 'चागला ओज़' को भी पुलिस ने हिरासत में ले लिया है। मामला वायरल वीडियो के बाद सामने आया है।",
-    "tts_text_hi": "तुर्की में एक शादी इन दिनों चर्चा में है। यहाँ दुल्हन ने आठ करोड़ रुपये का सोना पहना था। लेकिन शादी के कुछ ही समय बाद दूल्हे 'वैनली कारा हैदर' को पुलिस ने गिरफ्तार कर लिया। अब खबर है कि सोशल मीडिया इन्फ्लुएंसर और दुल्हन 'चागला ओज़' को भी पुलिस ने हिरासत में ले लिया है। मामला वायरल वीडियो के बाद सामने आया है।",
-    "title": "8 करोड़ का सोना पहनना पड़ा महंगा",
-    "caption": "तुर्की में आठ करोड़ रुपये के सोने से सजी शादी के बाद दूल्हा-दुल्हन की गिरफ्तारी।",
+    "published": "2026-09-10T13:33:17+05:30",
+    "hook": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज?",
+    "script_hi": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज? सोशल मीडिया पर अस्सी के दशक का क्रेज छाया है। उत्तर प्रदेश के कई दिग्गज नेता अब एआई की मदद से रेट्रो लुक में नजर आ रहे हैं। उपमुख्यमंत्री केशव प्रसाद मौर्य से लेकर अपर्णा यादव और अदिति सिंह तक, सभी अपने अस्सी के दशक वाले अवतार में दिख रहे हैं। तस्वीरें इंटरनेट पर तेजी से वायरल हो रही हैं।",
+    "tts_text_hi": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज? सोशल मीडिया पर अस्सी के दशक का क्रेज छाया है। उत्तर प्रदेश के कई दिग्गज नेता अब एआई की मदद से रेट्रो लुक में नजर आ रहे हैं। उपमुख्यमंत्री केशव प्रसाद मौर्य से लेकर अपर्णा यादव और अदिति सिंह तक, सभी अपने अस्सी के दशक वाले अवतार में दिख रहे हैं। तस्वीरें इंटरनेट पर तेजी से वायरल हो रही हैं।",
+    "title": "यूपी के नेताओं पर चढ़ा 80s का खुमार",
+    "caption": "सोशल मीडिया पर वायरल हो रहा '80sVibes' ट्रेंड, एआई की मदद से बदले यूपी के नेताओं के लुक।",
     "hashtags": [
-      "TurkeyNews",
-      "ViralWedding",
-      "GoldJewelry",
-      "InternationalNews",
-      "CrimeNews",
+      "UttarPradesh",
+      "80sVibes",
+      "RetroLook",
+      "AI",
+      "Politics",
       "Trending",
-      "HindiNews"
+      "Viral"
     ],
     "visual_queries": [
-      "lavish gold wedding jewelry",
-      "Turkish city architecture",
-      "police handcuffs on table",
-      "social media influencer phone screen",
-      "police station building exterior"
+      "Indian vintage style photography",
+      "Social media interface smartphone",
+      "Indian politician portrait",
+      "Artificial intelligence digital art",
+      "Retro aesthetic vintage India"
     ],
-    "named_person": "Cagla Oz",
-    "named_person_hi": "चागला ओज़",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [
-      "Vanli Kara Haydar"
+      "Keshav Prasad Maurya",
+      "Aparna Yadav",
+      "Aditi Singh"
     ],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video which serves as the core evidence of the event; generic stock footage cannot replace the actual viral content.",
+    "flag_reason": "The story relies on specific AI-generated images of public figures shared on social media which are not available in stock libraries; these need to be manually sourced or verified.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33019772/pexels-photo-33019772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian vintage style photography",
+        "credit": "Himanshu Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Social media interface smartphone",
+        "credit": "Connor Scott McManus",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38461572/pexels-photo-38461572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian politician portrait",
+        "credit": "Farman Ansari",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37911158/pexels-photo-37911158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Artificial intelligence digital art",
+        "credit": "Shubham Dhage",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31151039/pexels-photo-31151039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Retro aesthetic vintage India",
+        "credit": "Shrinivas A. Ghodake",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "modi_xi_jinping_brics_meeting",
+    "virality_score": 8,
+    "reason": "Geopolitically significant event: first meeting between PM Modi and President Xi Jinping on Indian soil in seven years.",
+    "region": "india",
+    "headline": "गलवान विवाद के बाद पहली बार भारत आएंगे जिनपिंग!",
+    "source_summary": "चीन के राष्ट्रपति शी जिनपिंग के भारत आने की संभावना है. वह नई दिल्ली में 12 और 13 सितंबर को होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं. प्रधानमंत्री नरेंद्र मोदी के साथ भारत मंडपम में उनकी द्विपक्षीय बैठक भी प्रस्तावित है. करीब सात साल बाद दोनों नेताओं की भारतीय जमीन पर मुलाकात होगी. गलवान झड़पों के बाद यह भारत में उनकी पहली द्विपक्षीय बैठक मानी जा रही है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/xi-jinping-india-visit-brics-summit-2026-modi-meeting-delhi-bharat-mandapam-china-relations-galwan-mmta-2640003-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T12:02:23+05:30",
+    "hook": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे?",
+    "script_hi": "गलवान विवाद के बाद क्या शी जिन*पिंग पहली बार भारत आएंगे? खबर है कि चीन के राष्ट्रपति शी जिन*पिंग बार-ह और तेरह सितंबर को नई दिल्ली में होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं। भारत मंडपम में प्रधानमंत्री नरेंद्र मोदी के साथ उनकी द्विपक्षीय बैठक भी प्रस्तावित है। सात साल बाद दोनों नेता भारतीय जमीन पर मिलेंगे। गलवान झड़प के बाद से भारत में यह उनकी पहली बड़ी बैठक होगी।",
+    "tts_text_hi": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? खबर है कि चीन के राष्ट्रपति शी जिनपिंग बारह और तेरह सितंबर को नई दिल्ली में होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं। भारत मंडपम में प्रधानमंत्री नरेंद्र मोदी के साथ उनकी द्विपक्षीय बैठक भी प्रस्तावित है। सात साल बाद दोनों नेता भारतीय जमीन पर मिलेंगे। गलवान झड़प के बाद से भारत में यह उनकी पहली बड़ी बैठक होगी।",
+    "title": "शी जिनपिंग की भारत यात्रा की संभावना",
+    "caption": "गलवान विवाद के बाद क्या भारत आएंगे चीनी राष्ट्रपति शी जिनपिंग? जानिए पूरी खबर।",
+    "hashtags": [
+      "IndiaChina",
+      "XiJinping",
+      "NarendraModi",
+      "BRICS",
+      "Delhi",
+      "Diplomacy",
+      "ForeignPolicy"
+    ],
+    "visual_queries": [
+      "Indian flag fluttering",
+      "Bharat Mandapam convention center New Delhi",
+      "BRICS summit banner",
+      "New Delhi aerial cityscape India"
+    ],
+    "named_person": "Xi Jinping",
+    "named_person_hi": "शी जिनपिंग",
+    "secondary_persons": [
+      "Narendra Modi"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "चागला ओज़",
+        "text": "शी जिनपिंग",
         "source": "fallback",
-        "query": "Cagla Oz",
+        "query": "Xi Jinping",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7232002/7232002-hd_720_1280_25fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/21852333/pexels-photo-21852333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police handcuffs on table",
-        "credit": "MART  PRODUCTION",
-        "source_duration_sec": 22,
+        "query": "Indian flag fluttering",
+        "credit": "Tubai Garai",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33984560/pexels-photo-33984560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "international diplomatic meeting",
+        "credit": "Sayed Masoumi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16138196/pexels-photo-16138196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "BRICS summit banner",
+        "credit": "aboodi vesakaran",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12931571/pexels-photo-12931571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "New Delhi aerial cityscape India",
+        "credit": "Mayur Sable",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? 🇨🇳🇮🇳",
+        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? \n\nपिछले कुछ सालों से दोनों देशों के बीच तनाव बना हुआ है। अब जी20 समिट के बहाने हलचल तेज़ है। आखिर चीन के राष्ट्रपति का ये दौरा भारत-चीन रिश्तों के लिए क्या मायने रखता है? \n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? 🤔\n\nलंबे समय से ठंडे बस्ते में पड़े भारत-चीन रिश्तों पर इस मुमकिन दौरे का क्या असर होगा? हर अपडेट के लिए वीडियो को सेव कर लें।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? \n\nसाल 2020 की घटना के बाद से भारत और चीन के रिश्तों में जो कड़वाहट आई है, क्या उसे खत्म करने की कोशिश हो रही है? बीजिंग की तरफ से आए नए संकेतों ने भू-राजनीति में खलबली मचा दी है। इस दौरे की पूरी सच्चाई और इसके पीछे की कूटनीति को समझिए।\n\nआपकी इस बारे में क्या राय है, कमेंट्स में बताएं।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
+      },
+      "hashtags": [
+        "XiJinping",
+        "IndiaChinaRelations",
+        "GalwanValley",
+        "Geopolitics",
+        "Diplomacy"
+      ]
+    },
+    "audio_path": "audio/modi_xi_jinping_brics_meeting.wav",
+    "audio_duration_sec": 29.16
+  },
+  {
+    "topic_label": "satya_niketan_pg_collapse_arrest",
+    "virality_score": 8,
+    "reason": "Updates on a major recent tragedy involving illegal construction and negligence leading to student deaths, with high local relevance.",
+    "region": "india",
+    "headline": "सत्य निकेतन हादसा: दुकान बनाने के लिए दीवार हटाई, ढह गई पूरी बिल्डिंग; ठेकेदार ने खोले राज",
+    "source_summary": "दिल्ली पुलिस की जांच में खुलासा हुआ है कि बेसमेंट में तीन ट्रक मलबा भरने और ग्राउंड फ्लोर पर दुकान के लिए दीवार तोड़ने के बाद इमारत का संतुलन बिगड़ गया था. मामले में मजदूर ठेकेदार सानोज कुमार और पीजह संचालक सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया गया है.",
+    "source_url": "https://ndtv.in/india/satya-niketan-pg-building-collapse-wall-removed-basement-work-contractor-sanoj-kumar-arrested-pg-operator-hostel-daze-delhi-police-mcd-action-12026902#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 10 Sep 2026 12:08:16 +0530",
+    "hook": "दिल्ली के सत्य निकेतन में गिरी इमारत के पीछे का खौफनाक सच सामने आया है!",
+    "script_hi": "दिल्ली के सत्य निकेतन हादसे में बड़ा खुलासा हुआ है। दुकान बनाने के लिए एक दीवार हटाई गई और देखते ही देखते पूरी बिल्डिंग ढह गई। जांच में पता चला है कि बेसमेंट में तीन ट्रक मलबा भरा गया था। पुलिस ने ठेकेदार सानोज कुमार और सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया है।",
+    "tts_text_hi": "दिल्ली के सत्य निकेतन हादसे में बड़ा खुलासा हुआ है। दुकान बनाने के लिए एक दीवार हटाई गई और देखते ही देखते पूरी बिल्डिंग ढह गई। जांच में पता चला है कि बेसमेंट में तीन ट्रक मलबा भरा गया था। पुलिस ने ठेकेदार सानोज कुमार और सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया है।",
+    "title": "सत्य निकेतन हादसा: दीवार तोड़ने से गिरी बिल्डिंग",
+    "caption": "दिल्ली के सत्य निकेतन में इमारत गिरने के मामले में पुलिस की जांच तेज, आरोपी गिरफ्तार।",
+    "hashtags": [
+      "DelhiNews",
+      "SatyaNiketan",
+      "BuildingCollapse",
+      "DelhiPolice",
+      "CrimeNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "collapsed building debris India",
+      "demolished wall construction site India",
+      "police investigation scene India",
+      "arrested suspects handcuffs India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story refers to a specific, unique local building collapse in Satya Niketan. Generic stock footage of collapsed buildings would misrepresent the actual site of this specific incident, which requires the real footage/photo to be added manually.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "demolished wall construction site India",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 32,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30167013/pexels-photo-30167013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "lavish gold wedding jewelry",
-        "credit": "Gursher  Gill",
+        "query": "collapsed building debris India",
+        "credit": "Dhong Wang",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16358788/pexels-photo-16358788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Turkish city architecture",
-        "credit": "Eliza Ari",
+        "query": "arrested suspects handcuffs India",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "us_iran_escalation_missile_strikes",
+    "virality_score": 8,
+    "reason": "High-stakes global conflict affecting fuel prices and geopolitics; strong visual story for news shorts.",
+    "region": "india",
+    "headline": "ईरान ने अमेरिकी ठिकानों पर फिर दागीं मिसाइलें, देखें US Top-10",
+    "source_summary": "अमेरिका और ईरान के बीच नए दौर की जंग शुरू हो गई है. ईरान ने जॉर्डन में अमेरिकी ठिकानों पर फिर से मिसाइलें दागीं. इससे पहले ईरान ने होर्मुज में एक अमेरिकी पनडुब्बी को कब्जे में लिया. अमेरिकी सेना ने दावा किया कि उसने ईरान के 5 तेल टैंकरों को नष्ट कर दिया. देखें यूएस टॉप-10.",
+    "source_url": "https://www.aajtak.in/world/us-top-10/video/us-iran-war-irgc-attack-on-american-bases-in-jordan-oil-tankers-destroyed-vdot-2639997-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T10:58:50+05:30",
+    "hook": "ईरान और अमेरिका के बीच जंग का नया अध्याय शुरू हो गया है!",
+    "script_hi": "ईरान और अमेरिका के बीच तनाव चरम पर है। ईरान ने जॉर्डन में अमेरिकी ठिकानों पर मिसाइलें दागीं। इससे पहले होर्मुज में अमेरिकी पनडुब्बी को कब्जे में लेने के बाद, अमेरिकी सेना ने ईरान के पांच तेल टैंकर नष्ट करने का दावा किया है। देखिए यूएस टॉप-दस।",
+    "tts_text_hi": "ईरान और अमेरिका के बीच तनाव चरम पर है। ईरान ने जॉर्डन में अमेरिकी ठिकानों पर मिसाइलें दागीं। इससे पहले होर्मुज में अमेरिकी पनडुब्बी को कब्जे में लेने के बाद, अमेरिकी सेना ने ईरान के पांच तेल टैंकर नष्ट करने का दावा किया है। देखिए यूएस टॉप-दस।",
+    "title": "ईरान-अमेरिका में फिर तनातनी",
+    "caption": "ईरान और अमेरिका के बीच बढ़ता तनाव, जॉर्डन में अमेरिकी ठिकानों पर हमला।",
+    "hashtags": [
+      "Iran",
+      "USA",
+      "BreakingNews",
+      "Geopolitics",
+      "MiddleEast",
+      "WorldNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "military missile launch",
+      "Jordan desert landscape",
+      "US navy submarine",
+      "oil tanker explosion",
+      "world map news graphic"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story reports on specific military escalations between nations involving missile strikes and destruction of assets which requires careful visual verification to ensure news footage accuracy.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "military conflict global",
+        "credit": "Content Factory",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7431504/7431504-hd_720_1366_30fps.mp4",
+        "source": "pexels",
+        "query": "world map news graphic",
+        "credit": "Monstera Production",
+        "source_duration_sec": 30,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27500118/pexels-photo-27500118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Middle East conflict",
+        "credit": "Omar Ramadan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7481281/pexels-photo-7481281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31350766/pexels-photo-31350766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "social media influencer phone screen",
-        "credit": "MART  PRODUCTION",
+        "query": "Jordan desert landscape",
+        "credit": "Reyyan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "begusarai_flood_relief_anger",
+    "virality_score": 7,
+    "reason": "Viral video of flood victims confronting officials highlights real-time issues and public anger, perfect for short-form news.",
+    "region": "india",
+    "headline": "&#039;ए सीओ साहब, इधर आइए... उधर कहां भाग रहे&#039;... शिकायत पर भड़के पूर्व मंत्री",
+    "source_summary": "बिहार के बेगूसराय में बाढ़ पीड़ितों को राहत सामग्री नहीं मिलने और वितरण के दौरान कथित तौर पर लूटपाट की शिकायत का एक वीडियो सोशल मीडिया पर वायरल हो रहा है. वीडियो में बाढ़ पीड़ित की शिकायत सुनकर स्थानीय विधायक सुरेंद्र मेहता नाराज नजर आ रहे हैं. उन्होंने मौके पर मौजूद अंचलाधिकारी यानी सीओ को फटकार लगाते हुए राहत सामग्री पुलिस की निगरानी में बांटने के निर्देश देने की बात कही.",
+    "source_url": "https://www.aajtak.in/bihar/story/begusarai-flood-victim-relief-looting-former-minister-rebukes-co-video-viral-lcla-strc-2640071-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T13:29:24+05:30",
+    "hook": "बिहार के बेगूसराय में विधायक का पारा सातवें आसमान पर पहुंच गया।",
+    "script_hi": "बिहार के बेगूसराय में बाढ़ पीड़ितों की आपबीती सुनकर विधायक सुरेंद्र मेहता भड़क गए। राहत सामग्री के वितरण में कथित लूटपाट की शिकायत मिलने पर उन्होंने मौके पर मौजूद अंचलाधिकारी को सरेआम फटकार लगाई। उन्होंने आदेश दिया कि अब राहत सामग्री पुलिस की निगरानी में ही बांटी जाए।",
+    "tts_text_hi": "बिहार के बेगूसराय में बाढ़ पीड़ितों की आपबीती सुनकर विधायक सुरेंद्र मेहता भड़क गए। राहत सामग्री के वितरण में कथित लूटपाट की शिकायत मिलने पर उन्होंने मौके पर मौजूद अंचलाधिकारी को सरेआम फटकार लगाई। उन्होंने आदेश दिया कि अब राहत सामग्री पुलिस की निगरानी में ही बांटी जाए।",
+    "title": "बेगूसराय में विधायक का गुस्सा",
+    "caption": "बिहार के बेगूसराय में राहत सामग्री वितरण में लापरवाही पर विधायक का फूटा गुस्सा।",
+    "hashtags": [
+      "Bihar",
+      "Begusarai",
+      "FloodRelief",
+      "ViralVideo",
+      "Politics",
+      "NewsShorts"
+    ],
+    "visual_queries": [
+      "flood affected area India",
+      "Indian local politician speaking",
+      "Indian police officer standing",
+      "relief distribution India"
+    ],
+    "named_person": "Surendra Mehta",
+    "named_person_hi": "सुरेंद्र मेहता",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story is centered on a specific viral video of a confrontation; generic stock footage will not capture the actual event.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "सुरेंद्र मेहता",
+        "source": "fallback",
+        "query": "Surendra Mehta",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12545170/12545170-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "relief distribution India",
+        "credit": "AVIRAJ BHADAURIA",
+        "source_duration_sec": 31,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flood affected area India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian local politician speaking",
+        "credit": "Voters Party International",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police officer standing",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       }
     ],
@@ -159,162 +490,77 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "iran_us_hormuz_conflict_escalation",
+    "topic_label": "motihari_water_dispute_murder",
     "virality_score": 7,
-    "reason": "Rising global oil prices and military escalation between Iran and US impacts broad audience.",
+    "reason": "A sensational crime story from Bihar involving a water dispute, highly relevant for the target audience.",
     "region": "india",
-    "headline": "मिडिल ईस्ट में फिर भड़का युद्ध, होर्मुज में 15 जहाज तबाह!",
-    "source_summary": "स्ट्रेट ऑफ होर्मुज में ईरान और अमेरिका के बीच बढ़ते सैन्य तनाव से समुद्री यातायात और वैश्विक ऊर्जा आपूर्ति पर खतरा बढ़ा है. हालिया घटनाक्रम में दोनों पक्षों ने कई जहाजों और तेल टैंकरों को निशाना बनाने का दावा किया है. हमलों के बाद ब्रेंट कच्चे तेल की कीमत 100 डॉलर प्रति बैरल के पार पहुंच गई. जॉर्डन में अमेरिकी सैन्य अड्डे पर मिसाइल हमले की खबर भी सामने आई है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/iran-us-hormuz-strait-war-ships-tankers-attacks-oil-prices-brent-crude-missiles-jordan-energy-crisis-mmta-2639900-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T08:41:03+05:30",
-    "hook": "मिडिल ईस्ट में एक बार फिर जंग के बादल छा गए हैं, होर्मुज के जलडमरूमध्य में पंद्रह जहाज तबाह हो गए हैं!",
-    "script_hi": "मिडिल ईस्ट में एक बार फिर जंग के बादल छा गए हैं। स्ट्रेट ऑफ होर्मुज में ईरान और अमेरिका के बीच बढ़ते तनाव के चलते पंद्रह जहाज तबाह हो गए हैं। इस हमले के बाद कच्चे तेल की कीमतें सौ डॉलर प्रति बैरल के पार पहुंच गई हैं। जॉर्डन स्थित अमेरिकी सैन्य अड्डे पर भी मिसाइल हमले की खबर है, जिससे वैश्विक ऊर्जा आपूर्ति पर बड़ा खतरा मंडरा रहा है।",
-    "tts_text_hi": "मिडिल ईस्ट में एक बार फिर जंग के बादल छा गए हैं। स्ट्रेट ऑफ होर्मुज में ईरान और अमेरिका के बीच बढ़ते तनाव के चलते पंद्रह जहाज तबाह हो गए हैं। इस हमले के बाद कच्चे तेल की कीमतें सौ डॉलर प्रति बैरल के पार पहुंच गई हैं। जॉर्डन स्थित अमेरिकी सैन्य अड्डे पर भी मिसाइल हमले की खबर है, जिससे वैश्विक ऊर्जा आपूर्ति पर बड़ा खतरा मंडरा रहा है।",
-    "title": "मिडिल ईस्ट में फिर भड़का युद्ध",
-    "caption": "स्ट्रेट ऑफ होर्मुज में ईरान-अमेरिका के बीच बढ़ा तनाव, तेल की कीमतें हुई आसमान छूतीं।",
+    "headline": "मोतिहारी में पानी के विवाद में बहा खून! दो लोगों की चाकू से हत्या तीन बच्चों के पिता और पांच बच्चों की मां की मौत",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/motihari-murder.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"मोतिहारी में पानी के विवाद में बहा खून! दो लोगों की चाकू से हत्या तीन बच्चों के पिता और पांच बच्चों की मां की मौत\" /></figure>मोतिहारी में पानी गिराने को लेकर शुरू हुआ विवाद खूनी संघर्ष में बदल गया. चाकूबाजी में दो लोगों की मौत हो गई, जबकि एक व्यक्ति गंभीर रूप से घायल है. पुलिस ने तीन लोगों को हिरासत में लिया है.",
+    "source_url": "https://www.tv9hindi.com/state/bihar/motihari-murder-water-dispute-turns-violent-two-killed-in-knife-attack-3903249.html",
+    "source_name": "TV9 Hindi",
+    "published": "Thu, 10 Sep 2026 13:03:11 +0530",
+    "hook": "मोतिहारी में पानी के विवाद ने ली दो जिंदगियां!",
+    "script_hi": "बिहार के मोतिहारी में पानी गिराने को लेकर हुआ विवाद खूनी संघर्ष में बदल गया। चाकू से हमले में तीन बच्चों के पिता और पांच बच्चों की मां की दर्दनाक मौत हो गई। इस हमले में एक अन्य व्यक्ति गंभीर रूप से घायल है। पुलिस ने मामले में तीन आरोपियों को हिरासत में लिया है और आगे की कार्रवाई जारी है।",
+    "tts_text_hi": "बिहार के मोतिहारी में पानी गिराने को लेकर हुआ विवाद खूनी संघर्ष में बदल गया। चाकू से हमले में तीन बच्चों के पिता और पांच बच्चों की मां की दर्दनाक मौत हो गई। इस हमले में एक अन्य व्यक्ति गंभीर रूप से घायल है। पुलिस ने मामले में तीन आरोपियों को हिरासत में लिया है और आगे की कार्रवाई जारी है।",
+    "title": "मोतिहारी में पानी को लेकर खूनी संघर्ष",
+    "caption": "बिहार के मोतिहारी में पानी गिराने के मामूली विवाद में दो लोगों की चाकू घोंपकर हत्या कर दी गई।",
     "hashtags": [
-      "MiddleEast",
-      "Iran",
-      "USA",
-      "StraitOfHormuz",
-      "CrudeOil",
-      "WarNews",
-      "InternationalNews"
-    ],
-    "visual_queries": [
-      "Middle East oil tanker",
-      "Strait of Hormuz map",
-      "burning oil tanker sea",
-      "oil refinery industry",
-      "military missile base"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves specific claims of military destruction that require real, verified news footage of the event rather than generic stock imagery, which would be misleading here.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/11245736/11245736-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Strait of Hormuz map",
-        "credit": "Bahram Yaghooti",
-        "source_duration_sec": 22,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/14114363/14114363-hd_720_960_25fps.mp4",
-        "source": "pexels",
-        "query": "global oil tanker fleet",
-        "credit": "Dogukan Bilgin",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5760014/5760014-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "oil refinery industry",
-        "credit": "Kamlesh Panchal",
-        "source_duration_sec": 1,
-        "duration_sec": 1
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12366464/pexels-photo-12366464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Middle East oil tanker",
-        "credit": "Bayu Prakosa",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18641968/pexels-photo-18641968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cargo ship ocean",
-        "credit": "𝗚𝗮𝗯𝘆  Cueto",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 23,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "hansi_fort_selfie_accident",
-    "virality_score": 7,
-    "reason": "Warning-driven story about the dangers of extreme selfie trends in popular tourist spots.",
-    "region": "india",
-    "headline": "हरियाणा में सेल्फी का जानलेवा शौक: 50 फीट खाई में गिरी छात्रा",
-    "source_summary": "हरियाणा के हांसी में ऐतिहासिक पृथ्वीराज चौहान किले पर सेल्फी लेते समय 20 वर्षीय बीएससी छात्रा अंजलि करीब 50 फीट गहरी खाई में गिर गई. बच्चों ने हादसा देखकर पुलिस को सूचना दी. होमगार्ड राजेश ने छात्रा को खाई से निकालकर अस्पताल पहुंचाया. गंभीर चोटों के चलते उसे हिसार रेफर किया गया. मौके पर मौजूद लोगों पर घायल छात्रा की मदद करने के बजाय वीडियो बनाने का आरोप लगा है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/hansi-prithviraj-chauhan-fort-student-selfie-falls-50-feet-gorge-injured-rescue-hospital-hisar-treatment-police-investigation-mmta-2639944-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T11:14:30+05:30",
-    "hook": "सेल्फी का शौक बना जानलेवा, हरियाणा में पचास फीट गहरी खाई में गिरी छात्रा।",
-    "script_hi": "हरियाणा के हांसी में सेल्फी लेते वक्त एक छात्रा पचास फीट गहरी खाई में गिर गई। अंजलि नाम की छात्रा पृथ्वीराज चौहान किले पर फोटो ले रही थी। हादसे के दौरान लोग मदद के बजाय वीडियो बनाते रहे। होमगार्ड राजेश ने अपनी जान पर खेलकर उसे बाहर निकाला। अब उसे गंभीर हालत में हिसार रेफर किया गया है।",
-    "tts_text_hi": "हरियाणा के हांसी में सेल्फी लेते वक्त एक छात्रा पचास फीट गहरी खाई में गिर गई। अंजलि नाम की छात्रा पृथ्वीराज चौहान किले पर फोटो ले रही थी। हादसे के दौरान लोग मदद के बजाय वीडियो बनाते रहे। होमगार्ड राजेश ने अपनी जान पर खेलकर उसे बाहर निकाला। अब उसे गंभीर हालत में हिसार रेफर किया गया है।",
-    "title": "हरियाणा: सेल्फी लेते वक्त खाई में गिरी छात्रा",
-    "caption": "हरियाणा के हांसी में सेल्फी के चक्कर में बड़ा हादसा, पचास फीट गहरी खाई में गिरी छात्रा।",
-    "hashtags": [
-      "HaryanaNews",
-      "Hansi",
-      "SelfieAccident",
-      "BreakingNews",
+      "Motihari",
+      "BiharNews",
+      "CrimeNews",
       "HindiNews",
-      "SafetyAlert"
+      "LatestUpdate"
     ],
     "visual_queries": [
-      "ancient Indian stone fort ruins",
-      "panoramic view deep valley India",
-      "Indian police officer in uniform",
-      "hospital building facade India"
+      "Indian police crime scene investigation",
+      "Indian village street residential",
+      "Indian hospital exterior",
+      "Police car lights at night India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific local incident at Prithviraj Chauhan Fort involving a specific named student; generic stock footage cannot depict the actual event location or the specific scene described.",
+    "flag_reason": "The story involves specific local crime footage from Motihari which cannot be represented accurately by generic stock B-roll without misleading the viewer.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36909958/pexels-photo-36909958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "ancient Indian stone fort ruins",
-        "credit": "Anurag Kothare",
+        "query": "Indian police crime scene investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30934944/pexels-photo-30934944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village street residential",
+        "credit": "Prem Cool",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32262514/pexels-photo-32262514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481245/pexels-photo-10481245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "panoramic view deep valley India",
-        "credit": "urtimud.89",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officer in uniform",
-        "credit": "Aakash Panwar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34264627/pexels-photo-34264627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital building facade India",
-        "credit": "shubh gupta",
+        "query": "crime scene investigation",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 22,
     "review_status": "pending_review"
   }
 ]
