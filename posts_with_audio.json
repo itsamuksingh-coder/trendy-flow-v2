@@ -2,69 +2,274 @@
   {
     "topic_label": "apple_iphone_duo_launch",
     "virality_score": 9,
-    "reason": "Major global tech launch of Apple's first foldable phone with significant Indian market interest and price controversy.",
+    "reason": "High-interest tech launch of Apple's first foldable phone, generating massive social media chatter.",
     "region": "india",
     "headline": "Apple ने लॉन्च किया पहला फोल्डेबल iPhone Duo, जानें कीमत",
     "source_summary": "Apple ने अपना पहला फोल्डेबल iPhone Duo लॉन्च किया है. इसकी शुरुआती कीमत 2,99,900 रुपये है और इसमें 256GB स्टोरेज मिलता है. फोन खोलने पर 7.6 इंच का Super Retina XDR डिस्प्ले और बाहर 5.4 इंच की स्क्रीन मिलती है. इसमें A20 Pro चिप, टाइटेनियम बॉडी, प्रिसीजन हिंज, डुअल बैटरी और वेपर चैंबर दिया गया है. कंपनी के मुताबिक यह फोन बेहतर प्रदर्शन और मल्टीटास्किंग देगा.",
     "source_url": "https://www.aajtak.in/short-videos/video/apple-iphone-duo-foldable-smartphone-launch-price-specifications-7-6-inch-display-a20-pro-chip-titanium-design-mmta-2639867-2026-09-10?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-10T08:10:20+05:30",
-    "hook": "एप्पल का पहला फोल्डेबल आईफोन आ गया है, क्या आप इसे खरीदने के लिए तैयार हैं?",
-    "script_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये है। इस शानदार फोन में सात दशमलव छह इंच का सुपर रेटिना डिस्प्ले मिलता है। साथ ही इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है, जो इसे बेहद खास बनाती है।",
-    "tts_text_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये है। इस शानदार फोन में सात दशमलव छह इंच का सुपर रेटिना डिस्प्ले मिलता है। साथ ही इसमें ए बीस प्रो चिप और टाइटेनियम बॉडी दी गई है, जो इसे बेहद खास बनाती है।",
+    "hook": "एप्पल का पहला फोल्डेबल फोन आ गया है, जिसकी कीमत जानकर आप दंग रह जाएंगे।",
+    "script_hi": "एप्पल ने अपना पहला फोल्डेबल स्मार्टफोन, आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये रखी गई है। इसमें सात दशमलव छह इंच का सुपर रेटिना एक्सडीआर डिस्प्ले और शानदार टाइटेनियम बॉडी दी गई है। यह फोन ए-बीस प्रो चिप और बेहतर मल्टीटास्किंग के साथ आता है।",
+    "tts_text_hi": "एप्पल ने अपना पहला फोल्डेबल स्मार्टफोन, आईफोन डुओ लॉन्च कर दिया है। इसकी शुरुआती कीमत दो लाख निन्यानवे हजार नौ सौ रुपये रखी गई है। इसमें सात दशमलव छह इंच का सुपर रेटिना एक्सडीआर डिस्प्ले और शानदार टाइटेनियम बॉडी दी गई है। यह फोन ए-बीस प्रो चिप और बेहतर मल्टीटास्किंग के साथ आता है।",
     "title": "Apple का पहला फोल्डेबल iPhone Duo लॉन्च",
-    "caption": "एप्पल ने पेश किया अपना पहला फोल्डेबल आईफोन डुओ, जानें फीचर्स और कीमत।",
+    "caption": "एप्पल ने अपना पहला फोल्डेबल स्मार्टफोन आईफोन डुओ लॉन्च किया है।",
     "hashtags": [
       "Apple",
       "iPhoneDuo",
       "FoldablePhone",
       "TechNews",
-      "Gadgets",
+      "Smartphone",
       "AppleIndia"
     ],
     "visual_queries": [
-      "modern smartphone design",
-      "high end electronics store",
-      "abstract futuristic screen",
-      "luxury titanium metal texture"
+      "modern smartphone technology",
+      "luxury digital device",
+      "high tech gadget display",
+      "sleek titanium metal texture",
+      "modern mobile processor chip"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This is a product announcement for a specific new device (iPhone Duo); the visual queries use generic tech imagery, but the actual product press-kit images need to be added manually to represent the device accurately.",
+    "flag_reason": "This is a product announcement for a specific new, potentially high-profile device; generic stock footage cannot accurately represent the specific 'iPhone Duo' design, so manual replacement with official Apple imagery is required.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6374182/6374182-hd_720_1366_30fps.mp4",
+        "source": "pexels",
+        "query": "luxury digital device",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "source_duration_sec": 26,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6374205/6374205-hd_720_1366_30fps.mp4",
+        "source": "pexels",
+        "query": "high tech gadget display",
+        "credit": "KATRIN  BOLOVTSOVA",
+        "source_duration_sec": 31,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern smartphone technology",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17709770/pexels-photo-17709770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sleek titanium metal texture",
+        "credit": "Chris F",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38745172/pexels-photo-38745172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern mobile processor chip",
+        "credit": "Modem kg",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 27,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "brics_summit_delhi_security",
+    "virality_score": 8,
+    "reason": "Top-tier national security news with visuals of heavy deployments, highly relevant to broad Indian audience.",
+    "region": "india",
+    "headline": "BRICS: एंटी ड्रोन सिस्टम एक्टिवेट, एंटी-एयरक्राफ्ट गन रेडी, दिल्ली पर नजर भी डाली तो...",
+    "source_summary": "दिल्ली में हो रहे ब्रिक्स सम्मेलन की सुरक्षा अभूतपूर्व होगी. इसके लिए 25 हजार पुलिसकर्मी तैनात किए जा रहे हैं. मेहमानों की सुरक्षा के लिए एंटी ड्रोन सिस्टम एक्टिवेट,  एंटी-एयरक्राफ्ट गन और एंटी सबोटाज टीमें तैनात की गई हैं.",
+    "source_url": "https://www.aajtak.in/india/news/story/delhi-brics-summit-2026-hi-tech-security-system-drone-vip-guest-ntcppl-rptc-2640176-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T15:01:08+05:30",
+    "hook": "ब्रिक्स सम्मेलन के लिए दिल्ली का सुरक्षा कवच हुआ और भी सख्त!",
+    "script_hi": "दिल्ली में होने वाले ब्रिक्स सम्मेलन के लिए अभूतपूर्व सुरक्षा इंतजाम किए गए हैं। मेहमानों की सुरक्षा के लिए एंटी ड्रोन सिस्टम को एक्टिवेट कर दिया गया है। साथ ही एंटी-एयरक्राफ्ट गन और एंटी-सबोटाज टीमें भी तैनात हैं। कुल पच्चीस हजार पुलिसकर्मी इस सुरक्षा घेरे को संभालेंगे।",
+    "tts_text_hi": "दिल्ली में होने वाले ब्रिक्स सम्मेलन के लिए अभूतपूर्व सुरक्षा इंतजाम किए गए हैं। मेहमानों की सुरक्षा के लिए एंटी ड्रोन सिस्टम को एक्टिवेट कर दिया गया है। साथ ही एंटी-एयरक्राफ्ट गन और एंटी-सबोटाज टीमें भी तैनात हैं। कुल पच्चीस हजार पुलिसकर्मी इस सुरक्षा घेरे को संभालेंगे।",
+    "title": "ब्रिक्स सम्मेलन: दिल्ली की अभूतपूर्व सुरक्षा",
+    "caption": "ब्रिक्स सम्मेलन के लिए दिल्ली पूरी तरह तैयार, चप्पे-चप्पे पर सुरक्षा बलों की तैनाती।",
+    "hashtags": [
+      "BRICS",
+      "Delhi",
+      "Security",
+      "India",
+      "News",
+      "DelhiPolice"
+    ],
+    "visual_queries": [
+      "New Delhi aerial view India",
+      "Indian police security deployment",
+      "Anti drone military technology",
+      "Anti aircraft artillery India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14486283/pexels-photo-14486283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12931571/pexels-photo-12931571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern smartphone design",
-        "credit": "I'm Zion",
+        "query": "New Delhi aerial view India",
+        "credit": "Mayur Sable",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30505490/pexels-photo-30505490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high security zone",
+        "credit": "Vtane Art",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36249405/pexels-photo-36249405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high security India",
+        "credit": "Harshith K S",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian military parade",
+        "credit": "Max Drew",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4740157/pexels-photo-4740157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high security surveillance",
+        "credit": "Paul Oor",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30575028/pexels-photo-30575028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "New Delhi cityscape",
+        "credit": "Monojit Dutta",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11033448/pexels-photo-11033448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high security Delhi",
+        "credit": "Nishant Sharma",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ब्रिक्स के लिए दिल्ली का सुरक्षा चक्र: एंटी-ड्रोन से लैस आसमान 🛡️",
+        "caption": "दिल्ली के आसमान में परिंदा भी पर नहीं मार पाएगा! ब्रिक्स सम्मेलन के लिए दिल्ली की सुरक्षा में अभूतपूर्व बदलाव किए गए हैं।\n\nएंटी-ड्रोन सिस्टम से लेकर एंटी-एयरक्राफ्ट गन तक, दिल्ली को एक अभेद्य किले में बदल दिया गया है। चप्पे-चप्पे पर कमांडो तैनात हैं। 🚁\n\nक्या भारत की सुरक्षा व्यवस्था दुनिया में सबसे सटीक है? कमेंट में बताएं।\n\n#BRICSSummit #DelhiSecurity #IndianDefense #AntiDroneSystem #DelhiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दिल्ली के आसमान में परिंदा भी पर नहीं मार पाएगा! 🛡️\n\nब्रिक्स सम्मेलन के लिए सुरक्षा इतनी सख्त है कि हर ड्रोन और संदिग्ध हरकत पर लेजर जैसी नजर रखी जा रही है। एंटी-एयरक्राफ्ट गन और आधुनिक सिस्टम्स के साथ दिल्ली एक अभेद्य किले में तब्दील हो गई है। 🇮🇳\n\nअपनी राय कमेंट में दें!\n\n#BRICSSummit #DelhiSecurity #IndianDefense #AntiDroneSystem #DelhiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दिल्ली के आसमान में परिंदा भी पर नहीं मार पाएगा! ब्रिक्स सम्मेलन के लिए दिल्ली की सुरक्षा का जो घेरा तैयार किया गया है, उसने सबको चौंका दिया है। \n\nएंटी-ड्रोन सिस्टम एक्टिवेट हैं और एंटी-एयरक्राफ्ट गन किसी भी खतरे को पलक झपकते ही ढेर करने के लिए तैयार हैं। चप्पे-चप्पे पर सुरक्षा बलों की पैनी नजर है। दिल्ली अब एक अभेद्य किला बन चुका है। 🛡️🚨\n\nसुरक्षा के इन इंतजामों पर आपकी क्या राय है? कमेंट में लिखकर जरूर बताएं।\n\n#BRICSSummit #DelhiSecurity #IndianDefense #AntiDroneSystem #DelhiNews"
+      },
+      "hashtags": [
+        "BRICSSummit",
+        "DelhiSecurity",
+        "IndianDefense",
+        "AntiDroneSystem",
+        "DelhiNews"
+      ]
+    },
+    "audio_path": "audio/brics_summit_delhi_security.wav",
+    "audio_duration_sec": 19.09
+  },
+  {
+    "topic_label": "nepal_flood_death_toll_rising",
+    "virality_score": 8,
+    "reason": "Significant tragedy in neighboring Nepal with high humanitarian stakes and large death toll.",
+    "region": "india",
+    "headline": "नेपाल में कुदरत का कहर! 1,377 की मौत, 5,130 लोग अब भी लापता",
+    "source_summary": "नेपाल की तबाही का दर्द अब भी कम नहीं हुआ है. फ्लैश फ्लड के बाद मलबे और तबाही के बीच शव मिलने का सिलसिला जारी है. मौतों का आंकड़ा 1,377 पहुंच गया है, जबकि 5 हजार से ज्यादा लोग अब भी लापता हैं. हजारों लोगों को सुरक्षित निकाला जा चुका है, लेकिन कई परिवार अभी भी अपनों की तलाश में हैं.",
+    "source_url": "https://www.aajtak.in/world/story/nepal-flood-death-toll-1377-more-than-5000-missing-search-rescue-operations-ntc-dskc-2640173-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T14:40:27+05:30",
+    "hook": "नेपाल में कुदरत का बड़ा कहर, मरने वालों का आंकड़ा तेरह सौ के पार!",
+    "script_hi": "नेपाल में कुदरत का कहर थमने का नाम नहीं ले रहा है। हालिया फ्लैश फ्लड और तबाही के बाद अब तक एक हजार तीन सौ सतहत्तर लोगों की मौत हो चुकी है। हालात ये हैं कि पांच हजार एक सौ तीस लोग अभी भी लापता बताए जा रहे हैं। राहत और बचाव कार्य जारी है, लेकिन मलबे के बीच अपनों को ढूंढते परिवार बेहद मुश्किल दौर से गुजर रहे हैं।",
+    "tts_text_hi": "नेपाल में कुदरत का कहर थमने का नाम नहीं ले रहा है। हालिया फ्लैश फ्लड और तबाही के बाद अब तक एक हजार तीन सौ सतहत्तर लोगों की मौत हो चुकी है। हालात ये हैं कि पांच हजार एक सौ तीस लोग अभी भी लापता बताए जा रहे हैं। राहत और बचाव कार्य जारी है, लेकिन मलबे के बीच अपनों को ढूंढते परिवार बेहद मुश्किल दौर से गुजर रहे हैं।",
+    "title": "नेपाल में तबाही: 1377 की मौत",
+    "caption": "नेपाल में आई भीषण आपदा में मौतों का आंकड़ा 1377 के पार पहुंच गया है, हजारों लोग अभी भी लापता हैं। #Nepal #Disaster #FlashFlood #RescueOperations #NepalNews",
+    "hashtags": [
+      "#Nepal",
+      "#NepalDisaster",
+      "#FlashFlood",
+      "#Rescue",
+      "#BreakingNews",
+      "#NaturalDisaster"
+    ],
+    "visual_queries": [
+      "Nepal flood aftermath",
+      "emergency rescue operation Nepal",
+      "devastated landscape debris",
+      "grieving family searching"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The casualty numbers provided are highly specific and indicate a massive, ongoing disaster event. Generic stock footage of Nepal floods may not accurately depict the scale of this specific reported tragedy; manual review is advised to ensure appropriate sensitivity and accuracy.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35264574/14939521_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Himalayan flood disaster",
+        "credit": "Shubhrox Films",
+        "source_duration_sec": 5,
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34625035/pexels-photo-34625035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32946018/pexels-photo-32946018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "high end electronics store",
-        "credit": "Matheus Bertelli",
+        "query": "Nepal flood aftermath",
+        "credit": "Sabbir Bhuiyan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9783818/pexels-photo-9783818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "abstract futuristic screen",
-        "credit": "Ron Lach",
+        "query": "emergency rescue operation Nepal",
+        "credit": "samimibirfotografci",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4854365/pexels-photo-4854365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18940342/pexels-photo-18940342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "luxury titanium metal texture",
-        "credit": "David Underland",
+        "query": "devastated landscape debris",
+        "credit": "akın  akdağ",
         "duration_sec": 5
       }
     ],
@@ -73,466 +278,41 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "80s_retro_ai_trend",
-    "virality_score": 9,
-    "reason": "Highly viral social media trend involving politicians and celebrities using AI to create retro looks, ensuring high engagement.",
-    "region": "india",
-    "headline": "रेट्रो लुक में तस्वीरें...यूपी के नेताओं पर भी चढ़ा 80sVibes का खुमार",
-    "source_summary": "सोशल मीडिया पर '80sVibes' ट्रेंड तेजी से लोकप्रिय हो रहा है, जिसमें उत्तर प्रदेश के कई दिग्गज नेता भी शामिल हो गए हैं. उप मुख्यमंत्री, अपर्णा यादव, विधायक अदिति सिंह और सुनील कुमार शर्मा सहित कई नेताओं ने 1980 के दशक के रेट्रो अंदाज और फैशन वाली अपनी एआई तस्वीरें साझा की हैं.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/up-leaders-join-80svibes-trend-share-retro-photos-and-nostalgic-throwback-looks-aditi-singh-mla-lclam-strc-2640097-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T13:33:17+05:30",
-    "hook": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज?",
-    "script_hi": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज? सोशल मीडिया पर अस्सी के दशक का क्रेज छाया है। उत्तर प्रदेश के कई दिग्गज नेता अब एआई की मदद से रेट्रो लुक में नजर आ रहे हैं। उपमुख्यमंत्री केशव प्रसाद मौर्य से लेकर अपर्णा यादव और अदिति सिंह तक, सभी अपने अस्सी के दशक वाले अवतार में दिख रहे हैं। तस्वीरें इंटरनेट पर तेजी से वायरल हो रही हैं।",
-    "tts_text_hi": "क्या आपने देखे यूपी के नेताओं के रेट्रो अंदाज? सोशल मीडिया पर अस्सी के दशक का क्रेज छाया है। उत्तर प्रदेश के कई दिग्गज नेता अब एआई की मदद से रेट्रो लुक में नजर आ रहे हैं। उपमुख्यमंत्री केशव प्रसाद मौर्य से लेकर अपर्णा यादव और अदिति सिंह तक, सभी अपने अस्सी के दशक वाले अवतार में दिख रहे हैं। तस्वीरें इंटरनेट पर तेजी से वायरल हो रही हैं।",
-    "title": "यूपी के नेताओं पर चढ़ा 80s का खुमार",
-    "caption": "सोशल मीडिया पर वायरल हो रहा '80sVibes' ट्रेंड, एआई की मदद से बदले यूपी के नेताओं के लुक।",
-    "hashtags": [
-      "UttarPradesh",
-      "80sVibes",
-      "RetroLook",
-      "AI",
-      "Politics",
-      "Trending",
-      "Viral"
-    ],
-    "visual_queries": [
-      "Indian vintage style photography",
-      "Social media interface smartphone",
-      "Indian politician portrait",
-      "Artificial intelligence digital art",
-      "Retro aesthetic vintage India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [
-      "Keshav Prasad Maurya",
-      "Aparna Yadav",
-      "Aditi Singh"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific AI-generated images of public figures shared on social media which are not available in stock libraries; these need to be manually sourced or verified.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33019772/pexels-photo-33019772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian vintage style photography",
-        "credit": "Himanshu Singh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Social media interface smartphone",
-        "credit": "Connor Scott McManus",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38461572/pexels-photo-38461572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician portrait",
-        "credit": "Farman Ansari",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37911158/pexels-photo-37911158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Artificial intelligence digital art",
-        "credit": "Shubham Dhage",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31151039/pexels-photo-31151039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Retro aesthetic vintage India",
-        "credit": "Shrinivas A. Ghodake",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "modi_xi_jinping_brics_meeting",
+    "topic_label": "mumbai_chembur_cat_killings",
     "virality_score": 8,
-    "reason": "Geopolitically significant event: first meeting between PM Modi and President Xi Jinping on Indian soil in seven years.",
+    "reason": "Emotional, high-outrage story regarding animal cruelty that usually goes very viral on Indian social media.",
     "region": "india",
-    "headline": "गलवान विवाद के बाद पहली बार भारत आएंगे जिनपिंग!",
-    "source_summary": "चीन के राष्ट्रपति शी जिनपिंग के भारत आने की संभावना है. वह नई दिल्ली में 12 और 13 सितंबर को होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं. प्रधानमंत्री नरेंद्र मोदी के साथ भारत मंडपम में उनकी द्विपक्षीय बैठक भी प्रस्तावित है. करीब सात साल बाद दोनों नेताओं की भारतीय जमीन पर मुलाकात होगी. गलवान झड़पों के बाद यह भारत में उनकी पहली द्विपक्षीय बैठक मानी जा रही है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/xi-jinping-india-visit-brics-summit-2026-modi-meeting-delhi-bharat-mandapam-china-relations-galwan-mmta-2640003-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T12:02:23+05:30",
-    "hook": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे?",
-    "script_hi": "गलवान विवाद के बाद क्या शी जिन*पिंग पहली बार भारत आएंगे? खबर है कि चीन के राष्ट्रपति शी जिन*पिंग बार-ह और तेरह सितंबर को नई दिल्ली में होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं। भारत मंडपम में प्रधानमंत्री नरेंद्र मोदी के साथ उनकी द्विपक्षीय बैठक भी प्रस्तावित है। सात साल बाद दोनों नेता भारतीय जमीन पर मिलेंगे। गलवान झड़प के बाद से भारत में यह उनकी पहली बड़ी बैठक होगी।",
-    "tts_text_hi": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? खबर है कि चीन के राष्ट्रपति शी जिनपिंग बारह और तेरह सितंबर को नई दिल्ली में होने वाले ब्रिक्स शिखर सम्मेलन में शामिल हो सकते हैं। भारत मंडपम में प्रधानमंत्री नरेंद्र मोदी के साथ उनकी द्विपक्षीय बैठक भी प्रस्तावित है। सात साल बाद दोनों नेता भारतीय जमीन पर मिलेंगे। गलवान झड़प के बाद से भारत में यह उनकी पहली बड़ी बैठक होगी।",
-    "title": "शी जिनपिंग की भारत यात्रा की संभावना",
-    "caption": "गलवान विवाद के बाद क्या भारत आएंगे चीनी राष्ट्रपति शी जिनपिंग? जानिए पूरी खबर।",
-    "hashtags": [
-      "IndiaChina",
-      "XiJinping",
-      "NarendraModi",
-      "BRICS",
-      "Delhi",
-      "Diplomacy",
-      "ForeignPolicy"
-    ],
-    "visual_queries": [
-      "Indian flag fluttering",
-      "Bharat Mandapam convention center New Delhi",
-      "BRICS summit banner",
-      "New Delhi aerial cityscape India"
-    ],
-    "named_person": "Xi Jinping",
-    "named_person_hi": "शी जिनपिंग",
-    "secondary_persons": [
-      "Narendra Modi"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "शी जिनपिंग",
-        "source": "fallback",
-        "query": "Xi Jinping",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/21852333/pexels-photo-21852333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian flag fluttering",
-        "credit": "Tubai Garai",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33984560/pexels-photo-33984560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "international diplomatic meeting",
-        "credit": "Sayed Masoumi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16138196/pexels-photo-16138196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "BRICS summit banner",
-        "credit": "aboodi vesakaran",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12931571/pexels-photo-12931571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi aerial cityscape India",
-        "credit": "Mayur Sable",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? 🇨🇳🇮🇳",
-        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? \n\nपिछले कुछ सालों से दोनों देशों के बीच तनाव बना हुआ है। अब जी20 समिट के बहाने हलचल तेज़ है। आखिर चीन के राष्ट्रपति का ये दौरा भारत-चीन रिश्तों के लिए क्या मायने रखता है? \n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? 🤔\n\nलंबे समय से ठंडे बस्ते में पड़े भारत-चीन रिश्तों पर इस मुमकिन दौरे का क्या असर होगा? हर अपडेट के लिए वीडियो को सेव कर लें।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "गलवान विवाद के बाद क्या शी जिनपिंग पहली बार भारत आएंगे? \n\nसाल 2020 की घटना के बाद से भारत और चीन के रिश्तों में जो कड़वाहट आई है, क्या उसे खत्म करने की कोशिश हो रही है? बीजिंग की तरफ से आए नए संकेतों ने भू-राजनीति में खलबली मचा दी है। इस दौरे की पूरी सच्चाई और इसके पीछे की कूटनीति को समझिए।\n\nआपकी इस बारे में क्या राय है, कमेंट्स में बताएं।\n\n#XiJinping #IndiaChinaRelations #GalwanValley #Geopolitics #Diplomacy"
-      },
-      "hashtags": [
-        "XiJinping",
-        "IndiaChinaRelations",
-        "GalwanValley",
-        "Geopolitics",
-        "Diplomacy"
-      ]
-    },
-    "audio_path": "audio/modi_xi_jinping_brics_meeting.wav",
-    "audio_duration_sec": 29.16
-  },
-  {
-    "topic_label": "satya_niketan_pg_collapse_arrest",
-    "virality_score": 8,
-    "reason": "Updates on a major recent tragedy involving illegal construction and negligence leading to student deaths, with high local relevance.",
-    "region": "india",
-    "headline": "सत्य निकेतन हादसा: दुकान बनाने के लिए दीवार हटाई, ढह गई पूरी बिल्डिंग; ठेकेदार ने खोले राज",
-    "source_summary": "दिल्ली पुलिस की जांच में खुलासा हुआ है कि बेसमेंट में तीन ट्रक मलबा भरने और ग्राउंड फ्लोर पर दुकान के लिए दीवार तोड़ने के बाद इमारत का संतुलन बिगड़ गया था. मामले में मजदूर ठेकेदार सानोज कुमार और पीजह संचालक सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया गया है.",
-    "source_url": "https://ndtv.in/india/satya-niketan-pg-building-collapse-wall-removed-basement-work-contractor-sanoj-kumar-arrested-pg-operator-hostel-daze-delhi-police-mcd-action-12026902#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Thu, 10 Sep 2026 12:08:16 +0530",
-    "hook": "दिल्ली के सत्य निकेतन में गिरी इमारत के पीछे का खौफनाक सच सामने आया है!",
-    "script_hi": "दिल्ली के सत्य निकेतन हादसे में बड़ा खुलासा हुआ है। दुकान बनाने के लिए एक दीवार हटाई गई और देखते ही देखते पूरी बिल्डिंग ढह गई। जांच में पता चला है कि बेसमेंट में तीन ट्रक मलबा भरा गया था। पुलिस ने ठेकेदार सानोज कुमार और सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया है।",
-    "tts_text_hi": "दिल्ली के सत्य निकेतन हादसे में बड़ा खुलासा हुआ है। दुकान बनाने के लिए एक दीवार हटाई गई और देखते ही देखते पूरी बिल्डिंग ढह गई। जांच में पता चला है कि बेसमेंट में तीन ट्रक मलबा भरा गया था। पुलिस ने ठेकेदार सानोज कुमार और सुधांशु लवनीश समेत कई आरोपियों को गिरफ्तार किया है।",
-    "title": "सत्य निकेतन हादसा: दीवार तोड़ने से गिरी बिल्डिंग",
-    "caption": "दिल्ली के सत्य निकेतन में इमारत गिरने के मामले में पुलिस की जांच तेज, आरोपी गिरफ्तार।",
-    "hashtags": [
-      "DelhiNews",
-      "SatyaNiketan",
-      "BuildingCollapse",
-      "DelhiPolice",
-      "CrimeNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "collapsed building debris India",
-      "demolished wall construction site India",
-      "police investigation scene India",
-      "arrested suspects handcuffs India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story refers to a specific, unique local building collapse in Satya Niketan. Generic stock footage of collapsed buildings would misrepresent the actual site of this specific incident, which requires the real footage/photo to be added manually.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "demolished wall construction site India",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 32,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "collapsed building debris India",
-        "credit": "Dhong Wang",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "arrested suspects handcuffs India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "us_iran_escalation_missile_strikes",
-    "virality_score": 8,
-    "reason": "High-stakes global conflict affecting fuel prices and geopolitics; strong visual story for news shorts.",
-    "region": "india",
-    "headline": "ईरान ने अमेरिकी ठिकानों पर फिर दागीं मिसाइलें, देखें US Top-10",
-    "source_summary": "अमेरिका और ईरान के बीच नए दौर की जंग शुरू हो गई है. ईरान ने जॉर्डन में अमेरिकी ठिकानों पर फिर से मिसाइलें दागीं. इससे पहले ईरान ने होर्मुज में एक अमेरिकी पनडुब्बी को कब्जे में लिया. अमेरिकी सेना ने दावा किया कि उसने ईरान के 5 तेल टैंकरों को नष्ट कर दिया. देखें यूएस टॉप-10.",
-    "source_url": "https://www.aajtak.in/world/us-top-10/video/us-iran-war-irgc-attack-on-american-bases-in-jordan-oil-tankers-destroyed-vdot-2639997-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T10:58:50+05:30",
-    "hook": "ईरान और अमेरिका के बीच जंग का नया अध्याय शुरू हो गया है!",
-    "script_hi": "ईरान और अमेरिका के बीच तनाव चरम पर है। ईरान ने जॉर्डन में अमेरिकी ठिकानों पर मिसाइलें दागीं। इससे पहले होर्मुज में अमेरिकी पनडुब्बी को कब्जे में लेने के बाद, अमेरिकी सेना ने ईरान के पांच तेल टैंकर नष्ट करने का दावा किया है। देखिए यूएस टॉप-दस।",
-    "tts_text_hi": "ईरान और अमेरिका के बीच तनाव चरम पर है। ईरान ने जॉर्डन में अमेरिकी ठिकानों पर मिसाइलें दागीं। इससे पहले होर्मुज में अमेरिकी पनडुब्बी को कब्जे में लेने के बाद, अमेरिकी सेना ने ईरान के पांच तेल टैंकर नष्ट करने का दावा किया है। देखिए यूएस टॉप-दस।",
-    "title": "ईरान-अमेरिका में फिर तनातनी",
-    "caption": "ईरान और अमेरिका के बीच बढ़ता तनाव, जॉर्डन में अमेरिकी ठिकानों पर हमला।",
-    "hashtags": [
-      "Iran",
-      "USA",
-      "BreakingNews",
-      "Geopolitics",
-      "MiddleEast",
-      "WorldNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "military missile launch",
-      "Jordan desert landscape",
-      "US navy submarine",
-      "oil tanker explosion",
-      "world map news graphic"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story reports on specific military escalations between nations involving missile strikes and destruction of assets which requires careful visual verification to ensure news footage accuracy.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30166083/12935732_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "military conflict global",
-        "credit": "Content Factory",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7431504/7431504-hd_720_1366_30fps.mp4",
-        "source": "pexels",
-        "query": "world map news graphic",
-        "credit": "Monstera Production",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27500118/pexels-photo-27500118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Middle East conflict",
-        "credit": "Omar Ramadan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31350766/pexels-photo-31350766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Jordan desert landscape",
-        "credit": "Reyyan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "begusarai_flood_relief_anger",
-    "virality_score": 7,
-    "reason": "Viral video of flood victims confronting officials highlights real-time issues and public anger, perfect for short-form news.",
-    "region": "india",
-    "headline": "&#039;ए सीओ साहब, इधर आइए... उधर कहां भाग रहे&#039;... शिकायत पर भड़के पूर्व मंत्री",
-    "source_summary": "बिहार के बेगूसराय में बाढ़ पीड़ितों को राहत सामग्री नहीं मिलने और वितरण के दौरान कथित तौर पर लूटपाट की शिकायत का एक वीडियो सोशल मीडिया पर वायरल हो रहा है. वीडियो में बाढ़ पीड़ित की शिकायत सुनकर स्थानीय विधायक सुरेंद्र मेहता नाराज नजर आ रहे हैं. उन्होंने मौके पर मौजूद अंचलाधिकारी यानी सीओ को फटकार लगाते हुए राहत सामग्री पुलिस की निगरानी में बांटने के निर्देश देने की बात कही.",
-    "source_url": "https://www.aajtak.in/bihar/story/begusarai-flood-victim-relief-looting-former-minister-rebukes-co-video-viral-lcla-strc-2640071-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T13:29:24+05:30",
-    "hook": "बिहार के बेगूसराय में विधायक का पारा सातवें आसमान पर पहुंच गया।",
-    "script_hi": "बिहार के बेगूसराय में बाढ़ पीड़ितों की आपबीती सुनकर विधायक सुरेंद्र मेहता भड़क गए। राहत सामग्री के वितरण में कथित लूटपाट की शिकायत मिलने पर उन्होंने मौके पर मौजूद अंचलाधिकारी को सरेआम फटकार लगाई। उन्होंने आदेश दिया कि अब राहत सामग्री पुलिस की निगरानी में ही बांटी जाए।",
-    "tts_text_hi": "बिहार के बेगूसराय में बाढ़ पीड़ितों की आपबीती सुनकर विधायक सुरेंद्र मेहता भड़क गए। राहत सामग्री के वितरण में कथित लूटपाट की शिकायत मिलने पर उन्होंने मौके पर मौजूद अंचलाधिकारी को सरेआम फटकार लगाई। उन्होंने आदेश दिया कि अब राहत सामग्री पुलिस की निगरानी में ही बांटी जाए।",
-    "title": "बेगूसराय में विधायक का गुस्सा",
-    "caption": "बिहार के बेगूसराय में राहत सामग्री वितरण में लापरवाही पर विधायक का फूटा गुस्सा।",
-    "hashtags": [
-      "Bihar",
-      "Begusarai",
-      "FloodRelief",
-      "ViralVideo",
-      "Politics",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "flood affected area India",
-      "Indian local politician speaking",
-      "Indian police officer standing",
-      "relief distribution India"
-    ],
-    "named_person": "Surendra Mehta",
-    "named_person_hi": "सुरेंद्र मेहता",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is centered on a specific viral video of a confrontation; generic stock footage will not capture the actual event.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "सुरेंद्र मेहता",
-        "source": "fallback",
-        "query": "Surendra Mehta",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/12545170/12545170-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "relief distribution India",
-        "credit": "AVIRAJ BHADAURIA",
-        "source_duration_sec": 31,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "flood affected area India",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian local politician speaking",
-        "credit": "Voters Party International",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13282258/pexels-photo-13282258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officer standing",
-        "credit": "Devansh Bose",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "motihari_water_dispute_murder",
-    "virality_score": 7,
-    "reason": "A sensational crime story from Bihar involving a water dispute, highly relevant for the target audience.",
-    "region": "india",
-    "headline": "मोतिहारी में पानी के विवाद में बहा खून! दो लोगों की चाकू से हत्या तीन बच्चों के पिता और पांच बच्चों की मां की मौत",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/motihari-murder.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"मोतिहारी में पानी के विवाद में बहा खून! दो लोगों की चाकू से हत्या तीन बच्चों के पिता और पांच बच्चों की मां की मौत\" /></figure>मोतिहारी में पानी गिराने को लेकर शुरू हुआ विवाद खूनी संघर्ष में बदल गया. चाकूबाजी में दो लोगों की मौत हो गई, जबकि एक व्यक्ति गंभीर रूप से घायल है. पुलिस ने तीन लोगों को हिरासत में लिया है.",
-    "source_url": "https://www.tv9hindi.com/state/bihar/motihari-murder-water-dispute-turns-violent-two-killed-in-knife-attack-3903249.html",
+    "headline": "मुंबई के चेंबूर में 20 बिल्लियों को किसने मारा? बताने वाले को मिलेगा इनाम, FIR दर्ज",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/mumbai-chembur-cat-deaths.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"मुंबई के चेंबूर में 20 बिल्लियों को किसने मारा? बताने वाले को मिलेगा इनाम, FIR दर्ज\" /></figure>मुंबई के चेंबूर में करीब 20 बिल्लियां मृत मिलने से हड़कंप मच गया है. कई बिल्लियों के शरीर पर चोट के निशान मिले हैं. पुलिस ने FIR दर्ज कर CCTV फुटेज की जांच शुरू कर दी है.",
+    "source_url": "https://www.tv9hindi.com/state/maharashtra/mumbai-chembur-cat-deaths-20-cats-found-dead-police-probe-begins-3903410.html",
     "source_name": "TV9 Hindi",
-    "published": "Thu, 10 Sep 2026 13:03:11 +0530",
-    "hook": "मोतिहारी में पानी के विवाद ने ली दो जिंदगियां!",
-    "script_hi": "बिहार के मोतिहारी में पानी गिराने को लेकर हुआ विवाद खूनी संघर्ष में बदल गया। चाकू से हमले में तीन बच्चों के पिता और पांच बच्चों की मां की दर्दनाक मौत हो गई। इस हमले में एक अन्य व्यक्ति गंभीर रूप से घायल है। पुलिस ने मामले में तीन आरोपियों को हिरासत में लिया है और आगे की कार्रवाई जारी है।",
-    "tts_text_hi": "बिहार के मोतिहारी में पानी गिराने को लेकर हुआ विवाद खूनी संघर्ष में बदल गया। चाकू से हमले में तीन बच्चों के पिता और पांच बच्चों की मां की दर्दनाक मौत हो गई। इस हमले में एक अन्य व्यक्ति गंभीर रूप से घायल है। पुलिस ने मामले में तीन आरोपियों को हिरासत में लिया है और आगे की कार्रवाई जारी है।",
-    "title": "मोतिहारी में पानी को लेकर खूनी संघर्ष",
-    "caption": "बिहार के मोतिहारी में पानी गिराने के मामूली विवाद में दो लोगों की चाकू घोंपकर हत्या कर दी गई।",
+    "published": "Thu, 10 Sep 2026 15:25:00 +0530",
+    "hook": "मुंबई में बीस बिल्लियों की संदिग्ध मौत से मचा हड़कंप!",
+    "script_hi": "मुंबई के चेंबूर इलाके में एक साथ बीस बिल्लियों की मौत से हड़कंप मच गया है। कई बिल्लियों के शरीर पर चोट के निशान मिले हैं। पुलिस ने अज्ञात व्यक्ति के खिलाफ एफआईआर दर्ज कर ली है और सीसीटीवी फुटेज की जांच की जा रही है। दोषी का सुराग देने वाले को इनाम भी दिया जाएगा।",
+    "tts_text_hi": "मुंबई के चेंबूर इलाके में एक साथ बीस बिल्लियों की मौत से हड़कंप मच गया है। कई बिल्लियों के शरीर पर चोट के निशान मिले हैं। पुलिस ने अज्ञात व्यक्ति के खिलाफ एफआईआर दर्ज कर ली है और सीसीटीवी फुटेज की जांच की जा रही है। दोषी का सुराग देने वाले को इनाम भी दिया जाएगा।",
+    "title": "मुंबई: 20 बिल्लियों की संदिग्ध मौत",
+    "caption": "मुंबई के चेंबूर में 20 बिल्लियों की मौत से हड़कंप, पुलिस जांच में जुटी।",
     "hashtags": [
-      "Motihari",
-      "BiharNews",
-      "CrimeNews",
-      "HindiNews",
-      "LatestUpdate"
+      "Mumbai",
+      "Chembur",
+      "AnimalCruelty",
+      "MumbaiNews",
+      "JusticeForAnimals",
+      "Maharashtra"
     ],
     "visual_queries": [
-      "Indian police crime scene investigation",
-      "Indian village street residential",
-      "Indian hospital exterior",
-      "Police car lights at night India"
+      "Mumbai India urban street",
+      "stray cats in India",
+      "Indian police investigation",
+      "CCTV camera surveillance India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story involves specific local crime footage from Motihari which cannot be represented accurately by generic stock B-roll without misleading the viewer.",
+    "flag_reason": "The story centers on a specific local criminal incident (animal cruelty) where the investigation is ongoing and relies on specific CCTV evidence not available in generic stock libraries.",
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police crime scene investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
@@ -544,17 +324,329 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30934944/pexels-photo-30934944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian village street residential",
-        "credit": "Prem Cool",
+        "query": "Mumbai India urban street",
+        "credit": "Rizwan Sayyed",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481245/pexels-photo-10481245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32550006/pexels-photo-32550006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation",
+        "query": "stray cats in India",
+        "credit": "Aj33",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV camera surveillance India",
+        "credit": "Rakesh Teja",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "east_zone_duleep_trophy_win",
+    "virality_score": 7,
+    "reason": "Major sporting event win featuring a 350-run haul by ईशान किशन, clear visual potential.",
+    "region": "india",
+    "headline": "ईस्ट जोन ने रचा इतिहास, जीती दलीप ट्रॉफी, ईशान ने जड़े 350 रन",
+    "source_summary": "दलीप ट्रॉफी 2026 के फाइनल में ईस्ट जोन ने साउथ जोन को पहली पारी की बढ़त के आधार पर हराकर 13 साल बाद खिताब अपने नाम कर लिया. कप्तान ईशान किशन ने मैच में 270 और 80 रन बनाकर 350 रन जोड़े. डेब्यू कर रहे मोहम्मद कोनैन कुरैशी ने भी नाबाद शतक जड़ा, जबकि मोहम्मद सिराज ने शानदार जुझारूपन दिखाया.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/duleep-trophy-2026-east-zone-champion-ishan-kishan-350-runs-vaibhav-sooryavanshi-tspok-dskc-2640180-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T14:48:48+05:30",
+    "hook": "तेरह साल का सूखा खत्म! ईस्ट जोन ने दलीप ट्रॉफी पर किया कब्जा।",
+    "script_hi": "तेरह साल का लंबा इंतजार आखिरकार खत्म हुआ! ईस्ट जोन ने दलीप ट्रॉफी के फाइनल में साउथ जोन को हराकर ऐतिहासिक जीत दर्ज की है। कप्तान ईशान किशन ने पूरे मैच में शानदार प्रदर्शन करते हुए तीन सौ पचास रन बनाए। वहीं, डेब्यू कर रहे मोहम्मद कोनैन कुरैशी ने नाबाद शतक जड़कर सबको प्रभावित किया। मोहम्मद सिराज की गेंदबाजी ने भी मैच में जान डाल दी।",
+    "tts_text_hi": "तेरह साल का लंबा इंतजार आखिरकार खत्म हुआ! ईस्ट जोन ने दलीप ट्रॉफी के फाइनल में साउथ जोन को हराकर ऐतिहासिक जीत दर्ज की है। कप्तान ईशान किशन ने पूरे मैच में शानदार प्रदर्शन करते हुए तीन सौ पचास रन बनाए। वहीं, डेब्यू कर रहे मोहम्मद कोनैन कुरैशी ने नाबाद शतक जड़कर सबको प्रभावित किया। मोहम्मद सिराज की गेंदबाजी ने भी मैच में जान डाल दी।",
+    "title": "ईस्ट जोन ने जीती दलीप ट्रॉफी",
+    "caption": "तेरह साल बाद ईस्ट जोन ने दलीप ट्रॉफी जीतकर इतिहास रच दिया, ईशान किशन और युवा खिलाड़ियों का शानदार प्रदर्शन।",
+    "hashtags": [
+      "DuleepTrophy",
+      "CricketNews",
+      "IshanKishan",
+      "EastZone",
+      "CricketIndia",
+      "SportsUpdate"
+    ],
+    "visual_queries": [
+      "Indian cricket team celebrating trophy",
+      "cricket stadium India atmosphere",
+      "Indian batsman hitting cricket ball",
+      "young Indian cricketer celebrating",
+      "Indian fast bowler bowling"
+    ],
+    "named_person": "Ishan Kishan",
+    "named_person_hi": "ईशान किशन",
+    "secondary_persons": [
+      "Mohammed Siraj"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "ईशान किशन",
+        "source": "fallback",
+        "query": "Ishan Kishan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36631395/15530479_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Indian cricket team celebrating trophy",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36088029/15304808_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "young Indian cricketer celebrating",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India atmosphere",
+        "credit": "Ajay Parab",
+        "duration_sec": 4.7
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian batsman hitting cricket ball",
+        "credit": "Princeton dsouza",
+        "duration_sec": 4.7
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37144719/pexels-photo-37144719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian fast bowler bowling",
+        "credit": "Imtiaz Ahmed",
+        "duration_sec": 4.7
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ईशान के बल्ले से निकला तूफान, ईस्ट जोन ने जीती दलीप ट्रॉफी! 🏆",
+        "caption": "13 साल का लंबा इंतजार खत्म! ईस्ट जोन ने दलीप ट्रॉफी पर अपना कब्जा जमा लिया है।\n\nइस खिताबी जीत के हीरो रहे ईशान किशन, जिन्होंने बल्ले से शानदार प्रदर्शन करते हुए पूरे टूर्नामेंट में 350 से ज्यादा रन कूट दिए। ईस्ट जोन की यह ऐतिहासिक जीत लंबे समय तक याद रखी जाएगी।\n\nआपको क्या लगता है, क्या ईशान की इस पारी से भारतीय टीम में उनकी वापसी पक्की हो गई है? अपनी राय कमेंट में बताएं।\n\n#DuleepTrophy #IshanKishan #CricketNews #EastZone #CricketUpdate"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "13 साल का सूखा खत्म! ईस्ट जोन ने दलीप ट्रॉफी पर किया कब्जा। 🏆\n\nईशान किशन का बल्ला जमकर बोला, पूरे टूर्नामेंट में 350 रन ठोककर टीम को ऐतिहासिक जीत दिलाई। क्या यह ईशान की टीम इंडिया में वापसी का संकेत है? \n\nपूरी कहानी देखें और अपनी राय कमेंट में लिखें।\n\n#DuleepTrophy #IshanKishan #CricketNews #EastZone #CricketUpdate"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "13 साल का इंतजार आखिरकार खत्म हुआ! ईस्ट जोन ने दलीप ट्रॉफी जीतकर इतिहास रच दिया है। 🏏\n\nइस जीत में ईशान किशन का प्रदर्शन यादगार रहा। ईशान ने टूर्नामेंट के दौरान शानदार बल्लेबाजी करते हुए 350 से ज्यादा रन बनाए और विरोधी गेंदबाजों की धज्जियां उड़ा दीं। ईस्ट जोन का यह प्रदर्शन बताता है कि क्यों उन्हें इस जीत का सबसे बड़ा दावेदार माना जा रहा था।\n\nईशान की इस शानदार फॉर्म पर आपकी क्या राय है? क्या उन्हें अब इंटरनेशनल क्रिकेट में मौका मिलना चाहिए?\n\n#DuleepTrophy #IshanKishan #CricketNews #EastZone #CricketUpdate"
+      },
+      "hashtags": [
+        "DuleepTrophy",
+        "IshanKishan",
+        "CricketNews",
+        "EastZone",
+        "CricketUpdate"
+      ]
+    },
+    "audio_path": "audio/east_zone_duleep_trophy_win.wav",
+    "audio_duration_sec": 24.5
+  },
+  {
+    "topic_label": "philippines_ferry_fire_tragedy",
+    "virality_score": 7,
+    "reason": "Global disaster story involving fire on a passenger ferry with significant casualties.",
+    "region": "india",
+    "headline": "Philippines Ferry Boat Massive Fire: यात्रियों से भरी फेरी बोट में भीषण आग, 5 की मौत-86 लोग लापता",
+    "source_summary": "Philippines Ferry Boat Massive Fire: फिलीपींस में यात्रियों से भरी एक फेरी बोट में भीषण आग लगने से कम से कम 5 लोगों की मौत हो गई, जबकि 86 लोग अभी लापता बताए जा रहे हैं। हादसे में 43 लोगों को",
+    "source_url": "https://hindi.oneindia.com/news/international/philippines-ferry-fire-blaze-on-passenger-ferry-kills-5-leaves-86-missing-dozens-feared-trapped-1646001.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Thu, 10 Sep 2026 15:27:10 +0530",
+    "hook": "फिलीपींस में समुद्र के बीच एक फेरी बोट बनी आग का गोला, दर्जनों लोग लापता!",
+    "script_hi": "फिलीपींस में यात्रियों से भरी एक फेरी बोट में भीषण आग लग गई है। इस हादसे में अब तक पांच लोगों की मौत की पुष्टि हो चुकी है, जबकि छियासी यात्री अभी भी लापता बताए जा रहे हैं। राहत और बचाव दल लगातार लोगों की तलाश कर रहे हैं, जबकि तैंतालीस लोगों को सुरक्षित बचा लिया गया है।",
+    "tts_text_hi": "फिलीपींस में यात्रियों से भरी एक फेरी बोट में भीषण आग लग गई है। इस हादसे में अब तक पांच लोगों की मौत की पुष्टि हो चुकी है, जबकि छियासी यात्री अभी भी लापता बताए जा रहे हैं। राहत और बचाव दल लगातार लोगों की तलाश कर रहे हैं, जबकि तैंतालीस लोगों को सुरक्षित बचा लिया गया है।",
+    "title": "Philippines Ferry Fire Tragedy",
+    "caption": "फिलीपींस के समुद्र में फेरी बोट में लगी भीषण आग, रेस्क्यू ऑपरेशन जारी।",
+    "hashtags": [
+      "Philippines",
+      "FerryFire",
+      "BreakingNews",
+      "Accident",
+      "RescueOperation",
+      "InternationalNews"
+    ],
+    "visual_queries": [
+      "burning passenger ferry boat",
+      "rescue boat at sea",
+      "coast guard emergency operation",
+      "ocean water horizon"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves a specific, breaking international maritime disaster where generic stock footage will not represent the actual event; requires manual insertion of authentic incident footage.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37659737/pexels-photo-37659737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "maritime rescue operation",
+        "credit": "Anoop VS",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37659729/pexels-photo-37659729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue boat at sea",
+        "credit": "Anoop VS",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37659746/pexels-photo-37659746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "coast guard emergency operation",
+        "credit": "Anoop VS",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31742157/pexels-photo-31742157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ocean water horizon",
+        "credit": "gi gi",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "isro_ce20_engine_success",
+    "virality_score": 7,
+    "reason": "National pride event with clear science-tech appeal, crucial for Gaganyaan context.",
+    "region": "india",
+    "headline": "इसरो के हाथ बड़ी कामयाबी: सीई20 इंजन का सफल परीक्षण, बढ़ेगी एलवीएम3 की क्षमता; गगनयान मिशन के लिए क्यों अहम?",
+    "source_summary": "इसरो के हाथ बड़ी कामयाबी: सीई20 इंजन का सफल परीक्षण, बढ़ेगी LVM3 की क्षमता; गगनयान मिशन के लिए क्यों अहम? Major success ISRO Successful test CE20 engine  boost LVM3 capability; why crucial for the Gaganyaan mission?",
+    "source_url": "https://www.amarujala.com/india-news/major-success-isro-successful-test-ce20-engine-boost-lvm3-capability-why-crucial-for-the-gaganyaan-mission-2026-09-10",
+    "source_name": "Amar Ujala",
+    "published": "Thu, 10 Sep 2026 02:25:26 +0530",
+    "hook": "इसरो ने रचा इतिहास, गगनयान मिशन की तैयारी हुई और भी मजबूत!",
+    "script_hi": "इसरो ने एक बार फिर दुनिया को अपनी ताकत दिखाई है। इसरो ने सीई बीस यानी सीई-२० इंजन का सफलतापूर्वक परीक्षण कर लिया है। इस कामयाबी से एलवीएम-तीन रॉकेट की क्षमता में बड़ा इजाफा होगा। यह इंजन गगनयान मिशन के लिए बेहद महत्वपूर्ण है, जो भारत के पहले मानव अंतरिक्ष मिशन को नई उड़ान देगा।",
+    "tts_text_hi": "इसरो ने एक बार फिर दुनिया को अपनी ताकत दिखाई है। इसरो ने सीई बीस इंजन का सफलतापूर्वक परीक्षण कर लिया है। इस कामयाबी से एलवीएम-तीन रॉकेट की क्षमता में बड़ा इजाफा होगा। यह इंजन गगनयान मिशन के लिए बेहद महत्वपूर्ण है, जो भारत के पहले मानव अंतरिक्ष मिशन को नई उड़ान देगा।",
+    "title": "ISRO CE-20 Engine Test Success",
+    "caption": "इसरो को मिली बड़ी कामयाबी, सीई-२० इंजन का सफल परीक्षण! #ISRO #Gaganyaan #SpaceNews #India #ScienceNews #LVM3",
+    "hashtags": [
+      "ISRO",
+      "Gaganyaan",
+      "SpaceNews",
+      "India",
+      "ScienceNews",
+      "LVM3"
+    ],
+    "visual_queries": [
+      "Indian space agency scientist",
+      "rocket engine testing fire",
+      "LVM3 rocket model India",
+      "Gaganyaan mission launchpad"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves specific technical testing footage of the CE-20 engine which is unique; generic stock footage may not accurately represent the specific hardware and test site.",
+    "assets": [],
+    "asset_count": 0,
+    "timeline_covered_sec": 0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "up_baghpat_electrician_murder",
+    "virality_score": 6,
+    "reason": "Crime thriller element involving illicit affairs, high engagement for regional news shorts.",
+    "region": "india",
+    "headline": "बीवी का अश्लील वीडयो, ब्लैकमेलिंग... शख्स को हथौड़े से पीटकर मार डाला",
+    "source_summary": "यूपी के बागपत में एक इलेक्ट्रीशियन की हत्या से हड़कंप मच गया. अवैध संबंध और पैसों के लेनदेन की बात सामने आ रही है. फिलहाल, पुलिस इस पूरे मामले की जांच कर रही है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/wifes-obscene-video-blackmail-and-then-murder-couple-in-baghpat-beat-electrician-to-death-with-hammer-lclam-strc-2640209-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T15:23:52+05:30",
+    "hook": "बीवी का अश्लील वीडियो, ब्लैकमेलिंग और फिर खौफनाक मौत!",
+    "script_hi": "यूपी के बागपत में इलेक्ट्रीशियन की बेरहमी से हत्या। मामला अवैध संबंधों और ब्लैकमेलिंग से जुड़ा बताया जा रहा है। आरोपी ने हथौड़े से वार कर शख्स की जान ले ली।",
+    "tts_text_hi": "उत्तर प्रदेश के बागपत में एक इलेक्ट्रीशियन की बेरहमी से हत्या कर दी गई है। शुरुआती जांच में मामला अवैध संबंधों और पैसों के लेनदेन से जुड़ा हुआ सामने आ रहा है। आरोपी ने इलेक्ट्रीशियन की बीवी के कथित अश्लील वीडियो का इस्तेमाल करके ब्लैकमेलिंग की और फिर हथौड़े से पीट-पीटकर शख्स की जान ले ली। फिलहाल पुलिस पूरे मामले की गंभीरता से जांच कर रही है और आरोपियों की तलाश जारी है।",
+    "title": "बागपत में इलेक्ट्रीशियन की हत्या",
+    "caption": "यूपी के बागपत में अवैध संबंधों और ब्लैकमेलिंग के चलते इलेक्ट्रीशियन की हथौड़े से पीटकर हत्या। पुलिस कर रही मामले की जांच।",
+    "hashtags": [
+      "BaghpatNews",
+      "CrimeNews",
+      "UttarPradesh",
+      "PoliceInvestigation",
+      "CrimeUpdate",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "police investigation India",
+      "Baghpat city street India",
+      "hammer tool metal",
+      "grieving or crime scene atmosphere"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves specific local crime footage or imagery related to a unique incident in Baghpat which cannot be accurately represented by generic stock footage.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35234729/14927326_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Baghpat city street India",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15827212/pexels-photo-15827212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hammer tool metal",
+        "credit": "FFD Restorations",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481284/pexels-photo-10481284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "grieving or crime scene atmosphere",
         "credit": "cottonbro studio",
         "duration_sec": 5
       }
