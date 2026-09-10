@@ -1,237 +1,129 @@
 [
   {
-    "topic_label": "russian_military_aircraft_noida_airport_brics",
+    "topic_label": "apple_iphone_duo_foldable_launch",
     "virality_score": 9,
-    "reason": "First-ever landing of Russian military transport planes at Noida Airport ahead of the BRICS summit creates major buzz.",
+    "reason": "Apple launched its first foldable phone iPhone Duo with high price tag, great tech curiosity.",
     "region": "india",
-    "headline": "ब्रिक्स समिट के लिए नोएडा एयरपोर्ट पर पहली बार उतरे रूसी सेना के विमान, Photos",
-    "source_summary": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं. यह विदेशी सैन्य विमानों की पहली लैंडिंग है.",
-    "source_url": "https://www.aajtak.in/india/news/story/noida-airport-russian-military-planes-landing-putin-india-visit-brics-summit-preparations-ntcpvp-dskc-2639787-2026-09-09?utm_source=rssfeed",
+    "headline": "Apple का पहला स्क्रीन मुड़ने वाला iPhone Duo लॉन्च, 4.5 लाख है कीमत",
+    "source_summary": "Apple ने लंबे इंतजार के बाद आखिरकार अपना पहला फोल्ड हैंडसेट लॉन्च कर दिया है, जिसका iPhone Duo है. यह पासपोर्ट स्टाइल फोल्ड हैंडसेट है, जिसमें यूजर्स को अनफोल्ड करने के बाद वाइड स्क्रीन देखने को मिलेगा.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-first-iphone-duo-launched-price-ttecr-dskc-2639830-2026-09-09?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-09T22:17:32+05:30",
-    "hook": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान!",
-    "script_hi": "नोएडा के जेवर एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं। यह रूसी राष्ट्रपति व्लादिमीर पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़ा है। एयरपोर्ट पर विदेशी सैन्य विमानों की यह पहली लैंडिंग है।",
-    "tts_text_hi": "नोएडा के जेवर एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं। यह रूसी राष्ट्रपति व्लादिमीर पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़ा है। एयरपोर्ट पर विदेशी सैन्य विमानों की यह पहली लैंडिंग है।",
-    "title": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान",
-    "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।",
+    "published": "2026-09-09T23:49:51+05:30",
+    "hook": "एप्पल का पहला फोल्डेबल आईफोन हुआ लॉन्च!",
+    "script_hi": "एप्पल ने अपना पहला स्क्रीन मुड़ने वाला आईफोन डुओ भारत में लॉन्च कर दिया है. इस पासपोर्ट स्टाइल फोल्ड हैंडसेट की कीमत चार लाख पचास हजार रुपये है. अनफोल्ड करने पर इसमें वाइड स्क्रीन मिलती है.",
+    "tts_text_hi": "एप्पल ने अपना पहला स्क्रीन मुड़ने वाला आईफोन डुओ भारत में लॉन्च कर दिया है. इस पासपोर्ट स्टाइल फोल्ड हैंडसेट की कीमत चार लाख पचास हजार रुपये है. अनफोल्ड करने पर इसमें वाइड स्क्रीन मिलती है.",
+    "title": "Apple iPhone Duo Launched",
+    "caption": "एप्पल का पहला फोल्डेबल आईफोन आईफोन डुओ लॉन्च, कीमत जानकर चौंक जाएंगे आप!",
     "hashtags": [
-      "NoidaAirport",
-      "BRICS",
-      "Russia",
-      "IndiaNews",
-      "BreakingNews",
-      "JewarAirport"
+      "Apple",
+      "iPhoneDuo",
+      "TechNews",
+      "FoldablePhone",
+      "AppleNews",
+      "Gadgets"
     ],
     "visual_queries": [
-      "commercial airport runway India",
-      "military transport aircraft India",
-      "Brics summit meeting India"
+      "Apple smartphone India",
+      "foldable smartphone India",
+      "luxury mobile phone India"
     ],
-    "named_person": "Vladimir Putin",
-    "named_person_hi": "व्लादिमीर पुतिन",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "downloaded_assets/person_4f880ea470.jpg",
-        "source": "wikimedia",
-        "query": "Vladimir Putin",
-        "credit": "Wikipedia",
+        "url": "https://images.pexels.com/photos/8204032/pexels-photo-8204032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple smartphone India",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38652992/pexels-photo-38652992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19022753/pexels-photo-19022753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airport runway India",
-        "credit": "Karthick s",
+        "query": "foldable smartphone India",
+        "credit": "Imad Clicks",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28763506/pexels-photo-28763506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12997975/pexels-photo-12997975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "military transport aircraft India",
-        "credit": "Barış  Karagöz",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9262639/pexels-photo-9262639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Brics summit meeting India",
-        "credit": "Devansh Bose",
+        "query": "luxury mobile phone India",
+        "credit": "Lens Of Pritam",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "नोएडा एयरपोर्ट पर उतरे रूसी सेना के विमान",
-        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "guwahati_wife_decapitation_fridge_murder",
+    "virality_score": 8,
+    "reason": "Horrific murder case in Guwahati where a woman's head was kept in a fridge.",
+    "region": "india",
+    "headline": "पत्नी का स‍िर काटा, गि‍रफ्तारी पर बोला- अब इसके शुगर डैडी को मारूंगा",
+    "source_summary": "असम की राजधानी गुवाहाटी के नूनमाटी इलाके में 25 साल की रिया तालुकदार की लाश उसी के घर में मिली. रिया का सिर फ्रिज में रखा था. जबकी जिस्म फर्श पर पड़ा था. उसके हाथों की ऊंगलियां भी कटी हुई थी. असल में रविवार 6 अगस्त की रात करीब पौने दस बजे नूनमाटी पुलिस को वशिष्ठपुर बाइलेन के एक मकान से तेज बदबू की शिकायत मिली. घर में कोई नहीं था.यहां रहने वाले पति-पत्नी दोनों का मोबाइल फोन स्विच्ड ऑफ था. ऐसे में पुलिस की टीम दरवाजा तोड़ कर अंदर दाखिल हुई और इसके बाद उन्हें जो मंजर नजर आया, वो भयानक था.",
+    "source_url": "https://www.aajtak.in/india/news/video/assam-guwahati-husband-kills-wife-chops-head-and-kept-in-fridge-vdoj-2639629-2026-09-09?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-09T17:20:04+05:30",
+    "hook": "गुवाहाटी में दिल दहला देने वाली वारदात, पत्नी का सिर काटकर फ्रिज में रखा!",
+    "script_hi": "असम के गुवाहाटी में दिल दहला देने वाली वारदात सामने आई है। नूनमाटी इलाके में पच्चीस साल की रिया तालुकदार की लाश उसके ही घर से मिली। रिया का सिर फ्रिज में और शरीर फर्श पर पड़ा था, साथ ही हाथों की उंगलियां भी कटी हुई थीं। पुलिस ने दरवाजा तोड़कर शव बरामद किया। गिरफ्तारी के बाद आरोपी पति ने चौंकाने वाला बयान दिया।",
+    "tts_text_hi": "असम के गुवाहाटी में दिल दहला देने वाली वारदात सामने आई है। नूनमाटी इलाके में पच्चीस साल की रिया तालुकदार की लाश उसके ही घर से मिली। रिया का सिर फ्रिज में और शरीर फर्श पर पड़ा था, साथ ही हाथों की उंगलियां भी कटी हुई थीं। पुलिस ने दरवाजा तोड़कर शव बरामद किया। गिरफ्तारी के बाद आरोपी पति ने चौंकाने वाला बयान दिया।",
+    "title": "Guwahati Murder Case: पत्नी की हत्या कर फ्रिज में रखा सिर",
+    "caption": "गुवाहाटी के नूनमाटी इलाके में दिल दहला देने वाली घटना। रिया तालुकदार की हत्या कर उसका सिर फ्रिज में छिपाया गया। पुलिस जांच जारी।",
+    "hashtags": [
+      "#GuwahatiNews",
+      "#AssamPolice",
+      "#CrimeNews",
+      "#IndiaNews",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "India police station exterior",
+      "Guwahati street India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37155332/pexels-photo-37155332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police station exterior",
+        "credit": "Niyas Pt",
+        "duration_sec": 5
       },
-      "instagram": {
-        "title": null,
-        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2282036/pexels-photo-2282036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Guwahati street India",
+        "credit": "Joydeep Dey",
+        "duration_sec": 5
       },
-      "facebook": {
-        "title": null,
-        "caption": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews"
-      },
-      "hashtags": [
-        "NoidaAirport",
-        "BRICS",
-        "Russia",
-        "IndiaNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/russian_military_aircraft_noida_airport_brics.wav",
-    "audio_duration_sec": 16.74,
-    "video_path": "videos/russian_military_aircraft_noida_airport_brics.mp4",
-    "video_duration_sec": 24.79,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-09T17:09:20.930544+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa192d2e3a02b1762a45d9d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788973776105_q5gjwjpi_russian_military_aircraft_noida_airport_brics.mp4",
-                "_id": "6aa192d2e3a02b1762a45d9e"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=eBr8ig3HG-cQ7kNvwEnFoch&_nc_oc=Adr48a82X7MIapyn4i3QOzN_5G3b2af31L2LtcaVoOCDAk76PMlcBDwfJbc4OkPaqd4&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=jmSk_c3BzzZcFmkVe2JxFQ&_nc_tpa=Q5bMBQIO2HpYRYeUE5gMW-evfd_ZLFDKC4xs1fe9poe0A8E1D0jwL6xfjCUzIznwa8N74gPsVasoINS7&oh=00_AQKrBVhyJxzKpV3Vm5Wdq-yy_uU6SvGGhZhiAGbE1VDFuA&oe=6AA6B114",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T17:09:37.459Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "bcffd43b2f0b095e2847fc7f1a61102a",
-                "_id": "6aa192d2e3a02b1762a45d9f",
-                "platformPostId": "1416048753783762",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1416048753783762",
-                "publishedAt": "2026-09-09T17:09:44.416Z"
-              }
-            ],
-            "scheduledFor": "2026-09-09T17:09:37.459Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T17:09:38.279Z",
-            "updatedAt": "2026-09-09T17:09:44.544Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T17:09:38.345Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T17:09:44.745864+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa192ecb93e2d3919cbd5df",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "नोएडा एयरपोर्ट पर पहली बार रूसी सेना के तीन सैन्य विमान उतरे हैं, जो पुतिन के भारत दौरे और ब्रिक्स शिखर सम्मेलन की तैयारियों से जुड़े हैं।\n\n#NoidaAirport #BRICS #Russia #IndiaNews #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1788973799936_3dth8zgz_russian_military_aircraft_noida_airport_brics.mp4",
-                "_id": "6aa192ecb93e2d3919cbd5e0"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AotU-cOca9oQ7kNvwGUeWOA&_nc_oc=AdrLdkSMlOeEoPGSLqgUuAO3apNH7unx8leGL6eH79WN0U9eLA1efA3IqxH6wBUYiBw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bnoaemHkZjzn_8eMLJbAVg&_nc_tpa=Q5bMBQKTaqMvej7-e4mOsQIll8vLEb471puxz9l4n5pMJ8Zn5YPMWvTFHJI5x7vchGtgMBfc8kgHx9Y9XA&oh=00_AQK-mPb7d3n6McYqEX-92dNoy32N9x_w2CwM2kFQRYd26w&oe=6AA6A4BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-09T17:10:02.862Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "64ec66ef3f678bbb8f5899d79526693e",
-                "_id": "6aa192ecb93e2d3919cbd5e1"
-              }
-            ],
-            "scheduledFor": "2026-09-09T17:10:02.862Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-09T17:10:04.474Z",
-            "updatedAt": "2026-09-09T17:10:06.984Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-09T17:10:04.549Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-09T17:10:07.333294+00:00"
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
       }
-    }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   }
 ]
