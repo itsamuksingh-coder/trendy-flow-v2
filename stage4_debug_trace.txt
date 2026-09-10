@@ -1,2 +1,6 @@
-ready_labels: []
+ready_labels: ['apple_iphone_duo_foldable_launch', 'mumbai_ahmedabad_bullet_train_update']
 
+apple_iphone_duo_foldable_launch: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_launch.mp4 dur=21.746213
+train_travel_family_kitchen_viral_video: SKIPPED (not in ready set)
+mumbai_ahmedabad_bullet_train_update: SUCCESS -> video_path=videos/mumbai_ahmedabad_bullet_train_update.mp4 dur=38.139229
+gandhinagar_building_slab_collapse_rescue: SKIPPED (not in ready set)
