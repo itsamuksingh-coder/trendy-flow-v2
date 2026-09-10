@@ -1,8 +1,7 @@
-ready_labels: ['xi_jinping_india_brics_summit']
+ready_labels: ['apple_iphone_duo_foldable_launch_india', 'brics_summit_delhi_putin_jinping_security', 'kanpur_businessman_vineet_minocha_murder_bhu', 'tanya_chaudhary_breaks_national_record_hammer_throw', 'trump_5000_dollar_payout_pledge_midterms']
 
-xi_jinping_india_brics_summit: SUCCESS -> video_path=videos/xi_jinping_india_brics_summit.mp4 dur=25.322222
-apple_iphone_duo_launch: SKIPPED (not in ready set)
-man_declared_dead_found_alive: SKIPPED (not in ready set)
-bipasha_basu_protein_product_worms: SKIPPED (not in ready set)
-daman_collector_heroics_shame: SKIPPED (not in ready set)
-china_cargo_ship_fire: SKIPPED (not in ready set)
+apple_iphone_duo_foldable_launch_india: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_launch_india.mp4 dur=34.156553
+brics_summit_delhi_putin_jinping_security: SUCCESS -> video_path=videos/brics_summit_delhi_putin_jinping_security.mp4 dur=31.986213
+kanpur_businessman_vineet_minocha_murder_bhu: SUCCESS -> video_path=videos/kanpur_businessman_vineet_minocha_murder_bhu.mp4 dur=23.02322
+trump_5000_dollar_payout_pledge_midterms: SUCCESS -> video_path=videos/trump_5000_dollar_payout_pledge_midterms.mp4 dur=25.789887
+tanya_chaudhary_breaks_national_record_hammer_throw: SUCCESS -> video_path=videos/tanya_chaudhary_breaks_national_record_hammer_throw.mp4 dur=32.148231
