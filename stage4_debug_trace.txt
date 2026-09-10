@@ -1,6 +1,8 @@
-ready_labels: ['apple_iphone_duo_foldable_launch', 'mumbai_ahmedabad_bullet_train_update']
+ready_labels: ['modi_jinping_brics_meeting', 'petrol_diesel_price_hike_risk']
 
-apple_iphone_duo_foldable_launch: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_launch.mp4 dur=21.746213
-train_travel_family_kitchen_viral_video: SKIPPED (not in ready set)
-mumbai_ahmedabad_bullet_train_update: SUCCESS -> video_path=videos/mumbai_ahmedabad_bullet_train_update.mp4 dur=38.139229
-gandhinagar_building_slab_collapse_rescue: SKIPPED (not in ready set)
+apple_iphone_duo_launch: SKIPPED (not in ready set)
+petrol_diesel_price_hike_risk: SUCCESS -> video_path=videos/petrol_diesel_price_hike_risk.mp4 dur=38.255215
+modi_jinping_brics_meeting: SUCCESS -> video_path=videos/modi_jinping_brics_meeting.mp4 dur=29.849229
+gandhinagar_building_collapse: SKIPPED (not in ready set)
+bangladesh_tank_explosion: SKIPPED (not in ready set)
+philippines_ferry_fire_global: SKIPPED (not in ready set)
