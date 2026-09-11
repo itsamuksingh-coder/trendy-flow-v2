@@ -1,7 +1,8 @@
-ready_labels: ['apple_iphone_duo_foldable_price_launch', 'bipasha_basu_protein_powder_worm_controversy', 'daman_collector_thar_fortuner_safety_pledge', 'sonipat_nandu_gang_police_encounter']
+ready_labels: ['apple_iphone_duo_launch_india_price', 'bihar_flood_relief_ration_boat_chaos', 'indigo_flight_dammam_bomb_threat_tissue', 'kanpur_fake_currency_printer_arrest', 'maharashtra_bhandara_truck_car_accident_deaths', 'putin_delhi_brics_visit_defense_deals']
 
-apple_iphone_duo_foldable_price_launch: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_price_launch.mp4 dur=26.99322
-daman_collector_thar_fortuner_safety_pledge: SUCCESS -> video_path=videos/daman_collector_thar_fortuner_safety_pledge.mp4 dur=28.556553
-assam_elephant_tractor_tire_stuck_rescue: SKIPPED (not in ready set)
-bipasha_basu_protein_powder_worm_controversy: SUCCESS -> video_path=videos/bipasha_basu_protein_powder_worm_controversy.mp4 dur=23.046213
-sonipat_nandu_gang_police_encounter: SUCCESS -> video_path=videos/sonipat_nandu_gang_police_encounter.mp4 dur=28.02322
+putin_delhi_brics_visit_defense_deals: SUCCESS -> video_path=videos/putin_delhi_brics_visit_defense_deals.mp4 dur=29.826213
+apple_iphone_duo_launch_india_price: SUCCESS -> video_path=videos/apple_iphone_duo_launch_india_price.mp4 dur=27.226213
+kanpur_fake_currency_printer_arrest: SUCCESS -> video_path=videos/kanpur_fake_currency_printer_arrest.mp4 dur=37.889887
+bihar_flood_relief_ration_boat_chaos: SUCCESS -> video_path=videos/bihar_flood_relief_ration_boat_chaos.mp4 dur=20.856553
+maharashtra_bhandara_truck_car_accident_deaths: SUCCESS -> video_path=videos/maharashtra_bhandara_truck_car_accident_deaths.mp4 dur=30.556553
+indigo_flight_dammam_bomb_threat_tissue: SUCCESS -> video_path=videos/indigo_flight_dammam_bomb_threat_tissue.mp4 dur=27.889887
