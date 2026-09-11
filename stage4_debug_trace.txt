@@ -1,9 +1,7 @@
-ready_labels: ['assam_police_officer_oil_theft_mastermind', 'brics_summit_2026_delhi_putin_pezeshkian', 'nagpur_sbi_bank_chilli_powder_robbery', 'philippines_ferry_boat_massive_fire_global']
+ready_labels: ['apple_iphone_18_launch_india_pricing', 'israel_destroys_underground_hezbollah_base_global', 'pm_modi_gifts_thirukkural_to_putin_brics', 'pm_modi_putin_car_ride_diplomacy_delhi']
 
-brics_summit_2026_delhi_putin_pezeshkian: SUCCESS -> video_path=videos/brics_summit_2026_delhi_putin_pezeshkian.mp4 dur=38.156553
-mongolia_president_100kg_bench_press_viral: SKIPPED (not in ready set)
-jaipur_man_kills_wife_three_daughters_stone: SKIPPED (not in ready set)
-nagpur_sbi_bank_chilli_powder_robbery: SUCCESS -> video_path=videos/nagpur_sbi_bank_chilli_powder_robbery.mp4 dur=25.345215
-assam_police_officer_oil_theft_mastermind: SUCCESS -> video_path=videos/assam_police_officer_oil_theft_mastermind.mp4 dur=34.156553
-muzaffarpur_asi_rape_extortion_influencer: SKIPPED (not in ready set)
-philippines_ferry_boat_massive_fire_global: SUCCESS -> video_path=videos/philippines_ferry_boat_massive_fire_global.mp4 dur=21.156553
+pm_modi_gifts_thirukkural_to_putin_brics: SUCCESS -> video_path=videos/pm_modi_gifts_thirukkural_to_putin_brics.mp4 dur=22.489887
+apple_iphone_18_launch_india_pricing: SUCCESS -> video_path=videos/apple_iphone_18_launch_india_pricing.mp4 dur=29.72322
+bipasha_basu_protein_powder_worms_fda: SKIPPED (not in ready set)
+pm_modi_putin_car_ride_diplomacy_delhi: SUCCESS -> video_path=videos/pm_modi_putin_car_ride_diplomacy_delhi.mp4 dur=25.368231
+israel_destroys_underground_hezbollah_base_global: SUCCESS -> video_path=videos/israel_destroys_underground_hezbollah_base_global.mp4 dur=25.925215
