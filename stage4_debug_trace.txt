@@ -1,7 +1,10 @@
-ready_labels: ['apple_iphone_duo_foldable_launch_india', 'brics_summit_delhi_putin_jinping_security', 'kanpur_businessman_vineet_minocha_murder_bhu', 'tanya_chaudhary_breaks_national_record_hammer_throw', 'trump_5000_dollar_payout_pledge_midterms']
+ready_labels: ['apple_iphone_duo_india_price_shock', 'delhi_mcd_bulldozer_action_pg_buildings', 'guwahati_wife_head_fridge_murder_update', 'india_womens_asia_cup_final_entry', 'jhansi_railway_officer_ai_blackmail_arrest', 'putin_delhi_arrival_brics_summit', 'swiss_alps_dutch_tour_bus_crash', 'us_h1b_visa_60_day_grace_period_scrap']
 
-apple_iphone_duo_foldable_launch_india: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_launch_india.mp4 dur=34.156553
-brics_summit_delhi_putin_jinping_security: SUCCESS -> video_path=videos/brics_summit_delhi_putin_jinping_security.mp4 dur=31.986213
-kanpur_businessman_vineet_minocha_murder_bhu: SUCCESS -> video_path=videos/kanpur_businessman_vineet_minocha_murder_bhu.mp4 dur=23.02322
-trump_5000_dollar_payout_pledge_midterms: SUCCESS -> video_path=videos/trump_5000_dollar_payout_pledge_midterms.mp4 dur=25.789887
-tanya_chaudhary_breaks_national_record_hammer_throw: SUCCESS -> video_path=videos/tanya_chaudhary_breaks_national_record_hammer_throw.mp4 dur=32.148231
+putin_delhi_arrival_brics_summit: SUCCESS -> video_path=videos/putin_delhi_arrival_brics_summit.mp4 dur=26.689887
+delhi_mcd_bulldozer_action_pg_buildings: SUCCESS -> video_path=videos/delhi_mcd_bulldozer_action_pg_buildings.mp4 dur=25.656553
+guwahati_wife_head_fridge_murder_update: SUCCESS -> video_path=videos/guwahati_wife_head_fridge_murder_update.mp4 dur=21.92322
+india_womens_asia_cup_final_entry: SUCCESS -> video_path=videos/india_womens_asia_cup_final_entry.mp4 dur=26.989887
+jhansi_railway_officer_ai_blackmail_arrest: SUCCESS -> video_path=videos/jhansi_railway_officer_ai_blackmail_arrest.mp4 dur=32.659229
+apple_iphone_duo_india_price_shock: SUCCESS -> video_path=videos/apple_iphone_duo_india_price_shock.mp4 dur=24.555215
+us_h1b_visa_60_day_grace_period_scrap: SUCCESS -> video_path=videos/us_h1b_visa_60_day_grace_period_scrap.mp4 dur=31.42322
+swiss_alps_dutch_tour_bus_crash: SUCCESS -> video_path=videos/swiss_alps_dutch_tour_bus_crash.mp4 dur=22.187211
