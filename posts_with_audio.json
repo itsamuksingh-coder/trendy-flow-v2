@@ -1,8 +1,8 @@
 [
   {
-    "topic_label": "putin_delhi_arrival_brics_summit",
+    "topic_label": "vladimir_putin_arrives_delhi_brics_summit",
     "virality_score": 9,
-    "reason": "Russian President Putin arriving in Delhi for the major BRICS summit is a top global and national geo-political event.",
+    "reason": "Russian President Vladimir Putin arrived in Delhi for the high-profile BRICS summit and will meet PM Modi.",
     "region": "india",
     "headline": "BRICS समिट के लिए दिल्ली पहुंचे रूसी राष्ट्रपति पुतिन, आज PM मोदी से होगी मुलाकात",
     "source_summary": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच गए हैं. पुतिन का विमान पालम एयरपोर्ट पर उतरा. वे  BRICS Summit में शामिल होने के लिए दिल्ली आएं हैं. एयरपोर्ट पर विदेश राज्य मंत्री कीर्ति वर्धन सिंह ने उनका स्वागत किया.",
@@ -10,21 +10,24 @@
     "source_name": "Aaj Tak",
     "published": "2026-09-11T03:20:50+05:30",
     "hook": "रूसी राष्ट्रपति व्लादिमीर पुतिन पहुंचे दिल्ली!",
-    "script_hi": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच गए हैं। पालम एयरपोर्ट पर उनके विमान ने लैंड किया, जहां विदेश राज्य मंत्री कीर्ति वर्धन सिंह ने उनका स्वागत किया। पुतिन यहां ब्रिक्स समिट में शामिल होने आए हैं और आज प्रधानमंत्री नरेंद्र मोदी से उनकी अहम मुलाकात होगी।",
-    "tts_text_hi": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच गए हैं। पालम एयरपोर्ट पर उनके विमान ने लैंड किया, जहां विदेश राज्य मंत्री कीर्ति वर्धन सिंह ने उनका स्वागत किया। पुतिन यहां ब्रिक्स समिट में शामिल होने आए हैं और आज प्रधानमंत्री नरेंद्र मोदी से उनकी अहम मुलाकात होगी।",
-    "title": "पुतिन पहुंचे दिल्ली, मोदी से होगी मुलाकात",
-    "caption": "रूसी राष्ट्रपति व्लादिमीर पुतिन ब्रिक्स समिट में शामिल होने के लिए दिल्ली पहुंच गए हैं। पालम एयरपोर्ट पर उनका स्वागत किया गया।",
+    "script_hi": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच गए हैं। पुतिन का विमान पालम एयरपोर्ट पर उतरा। वे बीआरआईसीस समिट में शामिल होने के लिए भारत आए हैं। एयरपोर्ट पर विदेश राज्य मंत्री कीर्ति वर्धन सिंह ने उनका स्वागत किया। आज प्रधानमंत्री नरेंद्र मोदी से उनकी मुलाकात होगी।",
+    "tts_text_hi": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच गए हैं। पुतिन का विमान पालम एयरपोर्ट पर उतरा। वे बीआरआईसीस समिट में शामिल होने के लिए भारत आए हैं। एयरपोर्ट पर विदेश राज्य मंत्री कीर्ति वर्धन सिंह ने उनका स्वागत किया। आज प्रधानमंत्री नरेंद्र मोदी से उनकी मुलाकात होगी।",
+    "title": "पुतिन पहुंचे दिल्ली",
+    "caption": "रूसी राष्ट्रपति व्लादिमीर पुतिन BRICS समिट के लिए दिल्ली पहुंचे, पीएम मोदी से होगी अहम मुलाकात।",
     "hashtags": [
       "VladimirPutin",
       "BRICSSummit",
-      "IndiaRussia",
       "DelhiNews",
-      "NarendraModi"
+      "PMModi",
+      "IndiaRussia",
+      "NewsShorts"
     ],
     "visual_queries": [
       "Palam airport Delhi India",
-      "Indian minister greeting official India",
-      "BRICS summit meeting India"
+      "Russian flag plane India",
+      "Indian politician greeting official India",
+      "New Delhi India skyline",
+      "Meeting handshake official India"
     ],
     "named_person": "Vladimir Putin",
     "named_person_hi": "व्लादिमीर पुतिन",
@@ -37,12 +40,21 @@
     "flag_reason": null,
     "assets": [
       {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35432051/15011850_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Russian flag plane India",
+        "credit": "Shubhrox Films",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
         "type": "image",
         "url": "downloaded_assets/person_4f880ea470.jpg",
         "source": "wikimedia",
         "query": "Vladimir Putin",
         "credit": "Wikipedia",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
@@ -50,7 +62,7 @@
         "source": "wikimedia",
         "query": "Narendra Modi",
         "credit": "Wikipedia",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
@@ -58,80 +70,279 @@
         "source": "pexels",
         "query": "Palam airport Delhi India",
         "credit": "Dhananjay Shinde",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/13282261/pexels-photo-13282261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian minister greeting official India",
+        "query": "Indian politician greeting official India",
         "credit": "Devansh Bose",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16960242/pexels-photo-16960242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "New Delhi India skyline",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Meeting handshake official India",
+        "credit": "Kampus Production",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "🇷🇺 रूसी राष्ट्रपति पुतिन दिल्ली पहुंचे! PM मोदी के साथ आज होगी बड़ी बैठक",
+        "caption": "रूसी राष्ट्रपति व्लादिमीर पुतिन दिल्ली पहुंच चुके हैं। आज प्रधानमंत्री नरेंद्र मोदी के साथ उनकी द्विपक्षीय बैठक होगी, जिस पर पूरी दुनिया की नजरें टिकी हैं।\n\nइस मुलाकात में रक्षा समझौतों से लेकर वैश्विक व्यापार तक कई अहम मुद्दों पर बड़े फैसले होने की उम्मीद है।\n\nआपको क्या लगता है, इस दौरे से भारत-रूस के रिश्ते किस दिशा में जाएंगे? कमेंट में बताएं और पूरी जानकारी के लिए वीडियो देखें।\n\n#PutinInDelhi #ModiPutinMeeting #BRICSSummit #IndiaRussiaRelations #DelhiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "🇷🇺 पुतिन के दिल्ली कदम रखते ही गर्माई ग्लोबल सियासत! आज पीएम मोदी के साथ होने वाली इस मुलाकात के मायने क्या हैं?\n\nदोनों नेताओं के बीच रक्षा और व्यापार को लेकर बड़ी डील पर मुहर लग सकती है। \n\nपूरी खबर के लिए वीडियो अंत तक देखें और ऐसे अपडेट्स के लिए पेज फॉलो करना न भूलें।\n\n#PutinInDelhi #ModiPutinMeeting #BRICSSummit #IndiaRussiaRelations #DelhiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूसी राष्ट्रपति व्लादिमीर पुतिन के दिल्ली पहुंचते ही अंतरराष्ट्रीय राजनीति में हलचल तेज हो गई है। आज प्रधानमंत्री नरेंद्र मोदी के साथ उनकी आमने-सामने की मुलाकात होनी है। \n\nइस हाई-प्रोफाइल बैठक में रणनीतिक साझेदारी और कई बड़े रक्षा समझौतों पर बातचीत तय मानी जा रही है। \n\nआपकी इस पर क्या राय है? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#PutinInDelhi #ModiPutinMeeting #BRICSSummit #IndiaRussiaRelations #DelhiNews"
+      },
+      "hashtags": [
+        "PutinInDelhi",
+        "ModiPutinMeeting",
+        "BRICSSummit",
+        "IndiaRussiaRelations",
+        "DelhiNews"
+      ]
+    },
+    "audio_path": "audio/vladimir_putin_arrives_delhi_brics_summit.wav",
+    "audio_duration_sec": 18.96
+  },
+  {
+    "topic_label": "vinesh_phogat_delhi_hc_world_championship_trial",
+    "virality_score": 8,
+    "reason": "Delhi High Court denied interim relief to wrestler Vinesh Phogat for the World Championship selection trials.",
+    "region": "india",
+    "headline": "विनेश फोगाट को बड़ा झटका, वर्ल्ड चैम्प‍ियनश‍िप ट्रायल में नही खेलेंगी",
+    "source_summary": "विनेश फोगाट की इंटरनेशनल रेसल‍िंग में वापसी की कोशिशों को बड़ा झटका लगा है. दिल्ली हाई कोर्ट ने 2026 सीनियर वर्ल्ड चैम्प‍ियनश‍िप के सेलेक्शन ट्रायल में उन्हें अंतरिम राहत देने से इनकार कर दिया. WFI के नियमों के मुताबिक विनेश ट्रायल के लिए पात्र नहीं हैं. 14 सितंबर को दिल्ली में होने वाले ट्रायल में अब वह हिस्सा नहीं ले पाएंगी.",
+    "source_url": "https://www.aajtak.in/sports/news/story/vinesh-phogat-barred-world-championship-trials-wfi-rules-delhi-high-court-tspok-dskc-2640512-2026-09-11?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-11T07:21:38+05:30",
+    "hook": "विनेश फोगाट को लगा बड़ा झटका!",
+    "script_hi": "विनेश फोगाट की इंटरनेशनल रेसलिंग में वापसी की कोशिशों को बड़ा झटका लगा है. दिल्ली हाई कोर्ट ने दो हज़ार छब्बीस सीनियर वर्ल्ड चैंपियनशिप के सिलेक्शन ट्रायल में उन्हें अंतरिम राहत देने से इनकार कर दिया है. कुश्ती संघ के नियमों के मुताबिक विनेश ट्रायल के लिए पात्र नहीं हैं. चौदह सितंबर को दिल्ली में होने वाले ट्रायल में अब वह हिस्सा नहीं ले पाएंगी.",
+    "tts_text_hi": "विनेश फोगाट की इंटरनेशनल रेसलिंग में वापसी की कोशिशों को बड़ा झटका लगा है. दिल्ली हाई कोर्ट ने दो हज़ार छब्बीस सीनियर वर्ल्ड चैंपियनशिप के सिलेक्शन ट्रायल में उन्हें अंतरिम राहत देने से इनकार कर दिया है. कुश्ती संघ के नियमों के मुताबिक विनेश ट्रायल के लिए पात्र नहीं हैं. चौदह सितंबर को दिल्ली में होने वाले ट्रायल में अब वह हिस्सा नहीं ले पाएंगी.",
+    "title": "विनेश फोगाट को वर्ल्ड चैंपियनशिप ट्रायल में नहीं मिली राहत",
+    "caption": "दिल्ली हाई कोर्ट ने विनेश फोगाट को दो हज़ार छब्बीस सीनियर वर्ल्ड चैंपियनशिप ट्रायल में राहत देने से किया इनकार, चौदह सितंबर के ट्रायल में नहीं लेंगी हिस्सा।",
+    "hashtags": [
+      "#VineshPhogat",
+      "#Wrestling",
+      "#DelhiHighCourt",
+      "#WFI",
+      "#SportsNews",
+      "#WrestlingTrials"
+    ],
+    "visual_queries": [
+      "Indian wrestling mat arena",
+      "Delhi High Court building India",
+      "Indian female wrestler training India"
+    ],
+    "named_person": "Vinesh Phogat",
+    "named_person_hi": "विनेश फोगाट",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "विनेश फोगाट",
+        "source": "fallback",
+        "query": "Vinesh Phogat",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/37991746/16122458_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian wrestling mat arena",
+        "credit": "Huzaifa  Irfan",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39336831/16740142_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian female wrestler training India",
+        "credit": "Eudes cs",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35616896/pexels-photo-35616896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi High Court building India",
+        "credit": "Saksham Vikram",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "विनेश फोगाट को बड़ा झटका! ट्रायल से बाहर हुईं स्टार रेसलर 🚨",
+        "caption": "ट्रायल के दौरान विनेश फोगाट के साथ जो हुआ, उसने सबको हैरान कर दिया! 😱\n\nवर्ल्ड चैंपियनशिप ट्रायल में विनेश को नहीं मिली राहत, मैट पर उतरने से पहले ही बड़ा झटका लगा है। कुश्ती जगत में इस फैसले के बाद हलचल मच गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#VineshPhogat #WrestlingTrials #WrestlingNews #IndianWrestling #SportsNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ट्रायल के दौरान विनेश फोगाट के साथ जो हुआ, उसने सबको हैरान कर दिया! 😱 वर्ल्ड चैंपियनशिप ट्रायल में विनेश को नहीं मिली राहत, मैट पर उतरने से पहले ही बड़ा झटका लगा है। क्या है पूरा मामला, जानने के लिए वीडियो देखें और शेयर करें।\n\n#VineshPhogat #WrestlingTrials #WrestlingNews #IndianWrestling #SportsNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कुश्ती के अखाड़े से एक बड़ी और चौंकाने वाली खबर सामने आ रही है। वर्ल्ड चैंपियनशिप ट्रायल में स्टार रेसलर विनेश फोगाट को बड़ा झटका लगा है, जिससे उनके फैंस भी निराश हैं।\n\nआखिर ऐसा क्या हुआ कि उन्हें ट्रायल में राहत नहीं मिली? जानिए पूरी कहानी इस वीडियो में। वीडियो को लाइक और शेयर जरूर करें।\n\n#VineshPhogat #WrestlingTrials #WrestlingNews #IndianWrestling #SportsNews"
+      },
+      "hashtags": [
+        "VineshPhogat",
+        "WrestlingTrials",
+        "WrestlingNews",
+        "IndianWrestling",
+        "SportsNews"
+      ]
+    },
+    "audio_path": "audio/vinesh_phogat_delhi_hc_world_championship_trial.wav",
+    "audio_duration_sec": 24.3
+  },
+  {
+    "topic_label": "sonipat_nandu_gang_shooters_encounter",
+    "virality_score": 8,
+    "reason": "Police and Nandu gang shooters engaged in an encounter in Sonipat after a Rs 2 crore extortion demand.",
+    "region": "india",
+    "headline": "सोनीपत में नंदू गैंग के शूटरों का एनकाउंटर, 2 करोड़ की मांगी थी रंगदारी",
+    "source_summary": "सोनीपत में 2 करोड़ रुपये की फिरौती मांगने वाले नंदू गैंग से जुड़े बदमाशों और स्पेशल एंटी गैंगस्टर यूनिट के बीच मुठभेड़ हुई. पुलिस की जवाबी कार्रवाई में अंकित और हर्ष घायल हुए. पुलिस ने दोनों को गिरफ्तार कर 3 देशी पिस्तौल और वारदात में इस्तेमाल बाइक बरामद की.",
+    "source_url": "https://www.aajtak.in/india/haryana/story/sonipat-police-encounter-2-crore-extortion-nandu-gang-two-criminals-shot-ntc-apdy-rpti-2640513-2026-09-11?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-11T07:22:36+05:30",
+    "hook": "सोनीपत में नंदू गैंग के शूटरों के साथ पुलिस की जबरदस्त मुठभेड़!",
+    "script_hi": "हरियाणा के सोनीपत में दो करोड़ रुपये की फिरौती मांगने वाले नंदू गैंग के बदमाशों और स्पेशल एंटी गैंगस्टर यूनिट के बीच मुठभेड़ हो गई। पुलिस की जवाबी कार्रवाई में अंकित और हर्ष नाम के दो बदमाश घायल हो गए। पुलिस ने दोनों को गिरफ्तार कर तीन देशी पिस्तौल और वारदात में इस्तेमाल बाइक बरामद कर ली है।",
+    "tts_text_hi": "हरियाणा के सोनीपत में दो करोड़ रुपये की फिरौती मांगने वाले नंदू गैंग के बदमाशों और स्पेशल एंटी गैंगस्टर यूनिट के बीच मुठभेड़ हो गई। पुलिस की जवाबी कार्रवाई में अंकित और हर्ष नाम के दो बदमाश घायल हो गए। पुलिस ने दोनों को गिरफ्तार कर तीन देशी पिस्तौल और वारदात में इस्तेमाल बाइक बरामद कर ली है।",
+    "title": "सोनीपत में नंदू गैंग के शूटरों का एनकाउंटर",
+    "caption": "हरियाणा के सोनीपत में दो करोड़ की फिरौती मांगने वाले नंदू गैंग के बदमाशों का पुलिस के साथ एनकाउंटर, दो बदमाश घायल।",
+    "hashtags": [
+      "SonipatEncounter",
+      "HaryanaPolice",
+      "NanduGang",
+      "CrimeNews",
+      "SonipatNews",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Haryana police barricade India",
+      "police investigation India",
+      "recovered pistol ammunition India",
+      "police patrol motorcycle India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10977893/pexels-photo-10977893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Haryana police barricade India",
+        "credit": "saikat ghosh",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9262639/pexels-photo-9262639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "BRICS summit meeting India",
-        "credit": "Devansh Bose",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11280919/pexels-photo-11280919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "recovered pistol ammunition India",
+        "credit": "Terrance Barksdale",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police operation India",
+        "credit": "Nishant Sharma",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "🇷🇺 पुतिन पहुंचे दिल्ली! पीएम मोदी के साथ आज होगी अहम मुलाकात",
-        "caption": "व्लादिमीर पुतिन के दिल्ली कदम रखते ही राजनीतिक हलचल तेज हो गई है। 🇷🇺\n\nआज प्रधानमंत्री नरेंद्र मोदी के साथ उनकी इस मुलाकात पर पूरी दुनिया की नजरें टिकी हैं, क्योंकि कई बड़े रणनीतिक समझौतों पर मुहर लग सकती है। \n\nआखिर इस बैठक के क्या हैं बड़े मायने? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#PutinInDelhi #PMModi #BRISSmit #IndiaRussia #Geopolitics"
+        "title": "सोनीपत एनकाउंटर: 2 करोड़ की रंगदारी मांगने वाले नंदू गैंग के शूटर ढेर! 🚨",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨 सोनीपत में नंदू गैंग के बदमाशों ने एक कारोबारी से 2 करोड़ की रंगदारी मांगी थी। पुलिस ने जब घेराबंदी की तो दोनों तरफ से ताबड़तोड़ गोलियां चलीं।\n\nआखिर कैसे बिछाया गया इस एनकाउंटर का जाल? पूरी कहानी देखें वीडियो में।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
       },
       "instagram": {
         "title": null,
-        "caption": "पुतिन पहुंचे दिल्ली! 🇷🇺\n\nआज पीएम मोदी के साथ होने वाली इस खास मुलाकात से ग्लोबल पॉलिटिक्स में बड़ा भूचाल आ सकता है। किन मुद्दों पर होगी बात? \n\nपूरी खबर के लिए वीडियो अंत तक देखें। शेयर करें इस अहम अपडेट को। 🔄\n\n#PutinInDelhi #PMModi #BRISSmit #IndiaRussia #Geopolitics"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨 सोनीपत में नंदू गैंग के शूटरों और पुलिस के बीच जबरदस्त मुठभेड़ हुई। 2 करोड़ की रंगदारी मांगने वाले ये बदमाश अब पुलिस की गिरफ्त में हैं।\n\nक्या है पूरी कहानी? वीडियो पूरा देखें और शेयर करें।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
       },
       "facebook": {
         "title": null,
-        "caption": "रूसी राष्ट्रपति व्लादिमीर पुतिन के दिल्ली पहुंचते ही कूटनीतिक गलियारों में हलचल तेज हो गई है। 🇷🇺 आज प्रधानमंत्री नरेंद्र मोदी के साथ उनकी यह आमने-सामने की बैठक कई मायनों में ऐतिहासिक होने वाली है।\n\nकिन खास मुद्दों पर होगी चर्चा और क्या बदलेगा इससे? जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया साझा करें।\n\n#PutinInDelhi #PMModi #BRISSmit #IndiaRussia #Geopolitics"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nसोनीपत में नंदू गैंग के शूटरों के साथ पुलिस की जबरदस्त मुठभेड़ हुई है। इन बदमाशों ने कुछ दिन पहले ही एक कारोबारी से 2 करोड़ रुपये की रंगदारी मांगी थी और न देने पर अंजाम भुगतने की धमकी दी थी। पुलिस ने जब इन्हें घेरने की कोशिश की, तो इन्होंने फायरिंग शुरू कर दी।\n\nआखिर कैसे पुलिस ने इस खतरनाक गैंग को घेरा? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
       },
       "hashtags": [
-        "PutinInDelhi",
-        "PMModi",
-        "BRISSmit",
-        "IndiaRussia",
-        "Geopolitics"
+        "SonipatEncounter",
+        "NanduGang",
+        "HaryanaPolice",
+        "CrimeNews",
+        "SonipatNews"
       ]
     },
-    "audio_path": "audio/putin_delhi_arrival_brics_summit.wav",
-    "audio_duration_sec": 18.66
+    "audio_path": "audio/sonipat_nandu_gang_shooters_encounter.wav",
+    "audio_duration_sec": 21.5
   },
   {
-    "topic_label": "delhi_mcd_bulldozer_action_pg_buildings",
-    "virality_score": 9,
-    "reason": "MCD's aggressive statewide crackdown and bulldozer action on illegal PGs after the Satya Niketan tragedy.",
+    "topic_label": "indigo_lucknow_dammam_flight_bomb_threat_ahmedabad",
+    "virality_score": 8,
+    "reason": "An IndiGo flight made an emergency landing in Ahmedabad following a bomb threat written on a tissue paper.",
     "region": "india",
-    "headline": "सत्य निकेतन के बाद दिल्ली में बुलडोजर! MCD का एक्शन",
-    "source_summary": "दिल्ली में अब सिर्फ नोटिस नहीं... सीधा हथौड़ा चल रहा है..सत्य निकेतन में PG बिल्डिंग गिरने से 7 लोगों की मौत के बाद MCD एक्शन मोड में है.जामा मस्जिद से लेकर द्वारका तक... कई इमारतों पर बुलडोजर चल चुका है, और कुछ ऐसी इमारतें हैं जिन्हें पूरी तरह जमीन में मिलाने की तैयारी है..यही नहीं पीजी मालिकों की बढ़ती मनमानी पर लगाम लगाने के लिए दिल्ली सरकार लगाम लगाने की तैयारी कर रही है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/delhi-pg-new-rules-mcd-action-survey-satya-niketan-building-collapse-case-mmtm-2640274-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T16:36:15+05:30",
-    "hook": "सत्य निकेतन हादसे के बाद दिल्ली में MCD का बड़ा बुलडोजर एक्शन!",
-    "script_hi": "सत्य निकेतन में पीजी बिल्डिंग गिरने से सात लोगों की मौत के बाद दिल्ली में एमसीडी एक्शन मोड में है. जामा मस्जिद से लेकर द्वारका तक अवैध इमारतों पर बुलडोजर चलाया जा रहा है. दिल्ली सरकार पीजी मालिकों की मनमानी पर लगाम कसने की तैयारी कर रही है.",
-    "tts_text_hi": "सत्य निकेतन में पीजी बिल्डिंग गिरने से सात लोगों की मौत के बाद दिल्ली में एमसीडी एक्शन मोड में है. जामा मस्जिद से लेकर द्वारका तक अवैध इमारतों पर बुलडोजर चलाया जा रहा है. दिल्ली सरकार पीजी मालिकों की मनमानी पर लगाम कसने की तैयारी कर रही है.",
-    "title": "दिल्ली में MCD का बुलडोजर एक्शन",
-    "caption": "सत्य निकेतन हादसे के बाद दिल्ली में एमसीडी का बुलडोजर एक्शन शुरू हो गया है। जामा मस्जिद से द्वारका तक अवैध इमारतों पर कार्रवाई की जा रही है।",
+    "headline": "IndiGo Flight की अहमदाबाद में इमरजेंसी लैंडिंग, टिशू पेपर पर लिखा 'Bomb', 10 दिन में दूसरी धमकी",
+    "source_summary": "IndiGo Flight Bomb Threat: लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की अंतरराष्ट्रीय उड़ान में गुरुवार (10 सितंबर) को बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में टिशू पेपर पर 'बम' लिखे होने की सूचना मिलने के",
+    "source_url": "https://hindi.oneindia.com/news/india/indigo-flight-bomb-threat-ahmedabad-emergency-landing-after-tissue-paper-bomb-threats-news-hindi-1646251.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Thu, 10 Sep 2026 19:50:07 +0530",
+    "hook": "इंडिगो की फ्लाइट में बम की धमकी से मचा हड़कंप!",
+    "script_hi": "लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की उड़ान में बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में एक टिशू पेपर पर बम लिखा हुआ मिला जिसके बाद अहमदाबाद में इमरजेंसी लैंडिंग कराई गई। पिछले दस दिनों में किसी विमान को मिली यह दूसरी धमकी है। सुरक्षा एजेंसियां मामले की जांच कर रही हैं।",
+    "tts_text_hi": "लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की उड़ान में बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में एक टिशू पेपर पर बम लिखा हुआ मिला जिसके बाद अहमदाबाद में इमरजेंसी लैंडिंग कराई गई। पिछले दस दिनों में किसी विमान को मिली यह दूसरी धमकी है। सुरक्षा एजेंसियां मामले की जांच कर रही हैं।",
+    "title": "IndiGo Flight Bomb Threat: अहमदाबाद में इंडिगो फ्लाइट की इमरजेंसी लैंडिंग",
+    "caption": "लखनऊ से दम्माम जा रही इंडिगो की फ्लाइट में टिशू पेपर पर बम लिखे होने की धमकी मिली, जिसके बाद अहमदाबाद में इमरजेंसी लैंडिंग करानी पड़ी। दस दिन में यह दूसरी धमकी है।",
     "hashtags": [
-      "DelhiNews",
-      "MCDAction",
-      "Bulldozer",
-      "DelhiPolice",
+      "IndiGo",
+      "BombThreat",
+      "AhmedabadAirport",
       "BreakingNews",
-      "IndiaNews"
+      "IndiaNews",
+      "FlightSafety"
     ],
     "visual_queries": [
-      "Delhi building collapse India",
-      "bulldozer demolition street India",
-      "Jama Masjid area Delhi India",
-      "Dwarka Delhi street India"
+      "IndiGo airplane India",
+      "Ahmedabad airport runway India",
+      "security check India airport"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -142,35 +353,430 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/31007230/13253664_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34579678/14652984_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "bulldozer demolition street India",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 32,
+        "query": "airplane passenger panic",
+        "credit": "Narli's Journey Book",
+        "source_duration_sec": 12,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34579678/14652984_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "airplane passenger panic",
+        "credit": "Narli's Journey Book",
+        "source_duration_sec": 12,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11904941/pexels-photo-11904941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38865292/pexels-photo-38865292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Delhi building collapse India",
-        "credit": "Shantum Singh",
+        "query": "IndiGo airplane India",
+        "credit": "Karthick s",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7701595/pexels-photo-7701595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ahmedabad airport runway India",
+        "credit": "THE JD Darshan Solanki",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12692959/pexels-photo-12692959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane interior",
+        "credit": "Pew Nguyen",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10640271/pexels-photo-10640271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airport security screening",
+        "credit": "El gringo photo",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17754867/pexels-photo-17754867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "passenger flight in sky",
+        "credit": "Luis Quintero",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "10 दिन में दूसरी धमकी: इंडिगो फ्लाइट की इमरजेंसी लैंडिंग ✈️",
+        "caption": "टिशू पेपर पर लिखा मिला 'बॉम्ब'! 10 दिन के अंदर इंडिगो की फ्लाइट में दोबारा ऐसी धमकी मिलने से हड़कंप मच गया है। अहमदाबाद में आनन-फानन में विमान की इमरजेंसी लैंडिंग करानी पड़ी।\n\nपूरी कहानी देखें और बताएं, ऐसी धमकियों के पीछे आखिर किसका हाथ हो सकता है?\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightEmergency"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "टिशू पेपर पर मिला 'बॉम्ब' वाला नोट! ✈️ 10 दिन के भीतर इंडिगो की फ्लाइट में फिर धमकी मिलने से यात्रियों की सांसें थम गईं। अहमदाबाद में हुई इस इमरजेंसी लैंडिंग की पूरी सच्चाई जानिए।\n\nपूरी कहानी देखें और कमेंट में बताएं आपकी इस पर क्या राय है!\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightEmergency"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सफर के दौरान टिशू पेपर पर लिखा मिला 'बॉम्ब' का संदेश! सिर्फ 10 दिन के अंदर इंडिगो की फ्लाइट में दोबारा ऐसी धमकी मिलने से सुरक्षा एजेंसियों के कान खड़े हो गए हैं। अहमदाबाद एयरपोर्ट पर विमान की सुरक्षित इमरजेंसी लैंडिंग कराई गई और हर कोने की तलाशी ली गई।\n\nक्या ये किसी की शरारत है या गहरी साजिश? पूरी कहानी देखें और अपनी राय शेयर करें।\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightEmergency"
+      },
+      "hashtags": [
+        "IndiGoFlight",
+        "BombThreat",
+        "AhmedabadAirport",
+        "BreakingNews",
+        "FlightEmergency"
+      ]
+    },
+    "audio_path": "audio/indigo_lucknow_dammam_flight_bomb_threat_ahmedabad.wav",
+    "audio_duration_sec": 23.65
+  },
+  {
+    "topic_label": "greater_noida_hotel_window_electrocution_death",
+    "virality_score": 8,
+    "reason": "A tragic CCTV-captured incident where a youth was electrocuted after touching an 11,000-volt line from a hotel window.",
+    "region": "india",
+    "headline": "होटल की खिड़की से बाहर देखना पड़ा भारी, 11000 वोल्ट की लाइन की चपेट में आया युवक; CCTV में कैद हुआ हादसा",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/greater-noida-news-1.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"होटल की खिड़की से बाहर देखना पड़ा भारी, 11000 वोल्ट की लाइन की चपेट में आया युवक; CCTV में कैद हुआ हादसा\" /></figure>ग्रेटर नोएडा के एक होटल में युवक की हाईटेंशन लाइन की चपेट में आने से मौत हो गई. मृतक गौरव होटल की गैलरी में खिड़की से बाहर देख रहा था, तभी करीब 11 हजार वोल्ट की लाइन के संपर्क में आ गया.",
+    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/greater-noida-hotel-youth-death-11000-volt-high-tension-line-badlapur-cctv-3903792.html",
+    "source_name": "TV9 Hindi",
+    "published": "Thu, 10 Sep 2026 23:54:18 +0530",
+    "hook": "ग्रेटर नोएडा में होटल की खिड़की से बाहर देखना युवक को पड़ा भारी!",
+    "script_hi": "ग्रेटर नोएडा के एक होटल में दिल दहला देने वाला हादसा हुआ है। मृतक गौरव होटल की गैलरी में खिड़की से बाहर देख रहा था, तभी वह ग्यारह हजार वोल्ट की हाईटेंशन लाइन की चपेट में आ गया। इस भयानक हादसे का सीसीटीवी फुटेज भी सामने आया है।",
+    "tts_text_hi": "ग्रेटर नोएडा के एक होटल में दिल दहला देने वाला हादसा हुआ है। मृतक गौरव होटल की गैलरी में खिड़की से बाहर देख रहा था, तभी वह ग्यारह हजार वोल्ट की हाईटेंशन लाइन की चपेट में आ गया। इस भयानक हादसे का सीसीटीवी फुटेज भी सामने आया है।",
+    "title": "ग्रेटर नोएडा: होटल की खिड़की से बाहर देखना पड़ा भारी, 11000 वोल्ट की लाइन की चपेट में आया युवक",
+    "caption": "ग्रेटर नोएडा के एक होटल में हाईटेंशन लाइन की चपेट में आने से युवक की दर्दनाक मौत। खिड़की से बाहर झांकते वक्त हुआ हादसा, सीसीटीवी में कैद हुई घटना।",
+    "hashtags": [
+      "GreaterNoida",
+      "NoidaNews",
+      "AccidentNews",
+      "CCTVFootage",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Greater Noida hotel building India",
+      "hotel corridor window India",
+      "electric high tension wire India",
+      "CCTV security camera India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific real CCTV footage of the incident which generic stock B-roll cannot replace; it needs the actual video added manually.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30407482/pexels-photo-30407482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Greater Noida hotel building India",
+        "credit": "Splendid Images",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34337580/pexels-photo-34337580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33803734/pexels-photo-33803734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Jama Masjid area Delhi India",
-        "credit": "Abdus Samad Mahkri",
+        "query": "hotel corridor window India",
+        "credit": "Abhishek  Navlakha",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25469898/pexels-photo-25469898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19177467/pexels-photo-19177467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Dwarka Delhi street India",
-        "credit": "framesbypc",
+        "query": "electric high tension wire India",
+        "credit": "Rio Chandra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV security camera India",
+        "credit": "Rakesh Teja",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pm_surya_ghar_yojana_rooftop_solar_subsidy",
+    "virality_score": 7,
+    "reason": "Explains the government subsidy of up to Rs 78,000 for installing rooftop solar panels under PM Surya Ghar Yojana.",
+    "region": "india",
+    "headline": "घर की छत पर सोलर पैनल लगवाएं, ₹78 हज़ार तक सब्सिडी",
+    "source_summary": "PM Surya Ghar Yojana के तहत रूफटॉप सोलर लगवाने पर केंद्र सरकार से ₹78 हजार तक सब्सिडी मिल सकती है. पात्र परिवारों को 300 यूनिट तक मुफ्त बिजली का लाभ भी मिलता है. यूपी, बिहार, झारखंड, राजस्थान और दिल्ली में अतिरिक्त सहायता के प्रावधान बताए गए हैं. वीडियो में जानें इस सब्सिडी के लिए कैसे करें अप्लाई.",
+    "source_url": "https://www.aajtak.in/short-videos/video/pm-surya-ghar-yojana-solar-subsidy-free-electricity-state-wise-list-explained-mmtm-2640296-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T17:34:30+05:30",
+    "hook": "क्या आप भी चाहते हैं मुफ्त बिजली और भारी सब्सिडी?",
+    "script_hi": "पीएम सूर्य घर योजना के तहत अब घर की छत पर सोलर पैनल लगवाने पर केंद्र सरकार से अठहत्तर हजार रुपये तक की सब्सिडी मिल रही है. पात्र परिवारों को तीन सौ यूनिट तक मुफ्त बिजली का लाभ भी दिया जा रहा है. उत्तर प्रदेश, बिहार, झारखंड, राजस्थान और दिल्ली में इसके लिए अतिरिक्त सहायता के प्रावधान भी किए गए हैं.",
+    "tts_text_hi": "पीएम सूर्य घर योजना के तहत अब घर की छत पर सोलर पैनल लगवाने पर केंद्र सरकार से अठहत्तर हजार रुपये तक की सब्सिडी मिल रही है. पात्र परिवारों को तीन सौ यूनिट तक मुफ्त बिजली का लाभ भी दिया जा रहा है. उत्तर प्रदेश, बिहार, झारखंड, राजस्थान और दिल्ली में इसके लिए अतिरिक्त सहायता के प्रावधान भी किए गए हैं.",
+    "title": "सोलर पैनल पर पाएं अठहत्तर हजार की सब्सिडी",
+    "caption": "पीएम सूर्य घर योजना के तहत घर की छत पर सोलर पैनल लगवाएं और पाएं भारी सब्सिडी और मुफ्त बिजली।",
+    "hashtags": [
+      "SolarYojana",
+      "PMSuryaGhar",
+      "FreeBijli",
+      "SolarPanel",
+      "GovernmentScheme",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian rooftop solar panels",
+      "solar panels installation India",
+      "happy Indian family electricity"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/21832812/pexels-photo-21832812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian rooftop solar panels",
+        "credit": "Vg Bingi",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6158868/pexels-photo-6158868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "solar panels installation India",
+        "credit": "Nadeem Jafar",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12985803/pexels-photo-12985803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy Indian family electricity",
+        "credit": "Mornie  Jeremiah",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern Indian house rooftop",
+        "credit": "Muhammed zeya",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13992359/pexels-photo-13992359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "electric meter reading India",
+        "credit": "Airam Dato-on",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9786040/pexels-photo-9786040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "saving electricity conceptual",
+        "credit": "Dmitriy Tarasenko",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8819124/pexels-photo-8819124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy family home India",
+        "credit": "Yan Krukau",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "सोलर पैनल पर पाएं अठहत्तर हजार की सब्सिडी",
+        "caption": "पीएम सूर्य घर योजना के तहत घर की छत पर सोलर पैनल लगवाएं और पाएं भारी सब्सिडी और मुफ्त बिजली।\n\n#SolarYojana #PMSuryaGhar #FreeBijli #SolarPanel #GovernmentScheme"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पीएम सूर्य घर योजना के तहत घर की छत पर सोलर पैनल लगवाएं और पाएं भारी सब्सिडी और मुफ्त बिजली।\n\n#SolarYojana #PMSuryaGhar #FreeBijli #SolarPanel #GovernmentScheme"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पीएम सूर्य घर योजना के तहत घर की छत पर सोलर पैनल लगवाएं और पाएं भारी सब्सिडी और मुफ्त बिजली।\n\n#SolarYojana #PMSuryaGhar #FreeBijli #SolarPanel #GovernmentScheme"
+      },
+      "hashtags": [
+        "SolarYojana",
+        "PMSuryaGhar",
+        "FreeBijli",
+        "SolarPanel",
+        "GovernmentScheme"
+      ]
+    },
+    "audio_path": "audio/pm_surya_ghar_yojana_rooftop_solar_subsidy.wav",
+    "audio_duration_sec": 21.91
+  },
+  {
+    "topic_label": "machine_mehendi_application_viral_debate",
+    "virality_score": 7,
+    "reason": "A viral video showing an automated machine applying mehendi sparked fresh debates about job losses due to automation.",
+    "region": "india",
+    "headline": "&#039;अब मेहंदी भी मशीन से...&#039;, लोग बोले- एक और नौकरी गई, छिड़ी बहस",
+    "source_summary": "मेहंदी लगाने के लिए अब कलाकार की जरूरत नहीं पड़ेगी? सोशल मीडिया पर वायरल एक वीडियो में मशीन महिला के हाथ पर खुद मेहंदी का डिजाइन बनाती नजर आ रही है. बिजमेसमेन हर्ष गोयनका ने वीडियो शेयर कर लिखा- ‘Some more jobs gone’. इसके बाद मशीन और AI की वजह से नौकरियों पर पड़ने वाले असर को लेकर बहस छिड़ गई.",
+    "source_url": "https://www.aajtak.in/trending/story/mehendi-applying-machine-harsh-goenka-video-jobs-ai-rttw-dskc-2640508-2026-09-11?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-11T07:25:26+05:30",
+    "hook": "अब मेहंदी भी मशीन लगाएगी, लोगों की नौकरियां खतरे में!",
+    "script_hi": "अब मेहंदी लगाने के लिए कलाकार की जरूरत नहीं पड़ेगी। सोशल मीडिया पर वायरल एक वीडियो में मशीन महिला के हाथ पर खुद मेहंदी का डिजाइन बनाती नजर आ रही है। जाने माने व्यवसायी हर्ष गोयनका ने यह वीडियो शेयर कर लिखा कि कुछ और नौकरियां चली गईं। इसके बाद से सोशल मीडिया पर मशीन और कृत्रिम बुद्धिमत्ता की वजह से नौकरियों पर पड़ने वाले असर को लेकर एक बड़ी बहस छिड़ गई है।",
+    "tts_text_hi": "अब मेहंदी लगाने के लिए कलाकार की जरूरत नहीं पड़ेगी। सोशल मीडिया पर वायरल एक वीडियो में मशीन महिला के हाथ पर खुद मेहंदी का डिजाइन बनाती नजर आ रही है। जाने माने व्यवसायी हर्ष गोयनका ने यह वीडियो शेयर कर लिखा कि कुछ और नौकरियां चली गईं। इसके बाद से सोशल मीडिया पर मशीन और कृत्रिम बुद्धिमत्ता की वजह से नौकरियों पर पड़ने वाले असर को लेकर एक बड़ी बहस छिड़ गई है।",
+    "title": "अब मेहंदी भी मशीन से, सोशल मीडिया पर छिड़ी बहस",
+    "caption": "मेहंदी लगाने वाली मशीन का वीडियो वायरल होने के बाद नौकरियों पर असर को लेकर बहस छिड़ गई है।",
+    "hashtags": [
+      "MehndiMachine",
+      "HarshGoenka",
+      "ArtificialIntelligence",
+      "JobLoss",
+      "ViralVideo",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian woman applying henna",
+      "futuristic machine technology India",
+      "social media smartphone India",
+      "empty office worried worker India"
+    ],
+    "named_person": "Harsh Goenka",
+    "named_person_hi": "हर्ष गोयनका",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video of a machine; generic stock B-roll cannot replace the actual real footage required for this story.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "हर्ष गोयनका",
+        "source": "fallback",
+        "query": "Harsh Goenka",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29373727/pexels-photo-29373727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian woman applying henna",
+        "credit": "DNA. Art Club",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic machine technology India",
+        "credit": "Marstion",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "social media smartphone India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12911950/pexels-photo-12911950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty office worried worker India",
+        "credit": "Mizuno K",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "yemen_houthis_seize_mokha_red_sea_port_global",
+    "virality_score": 7,
+    "reason": "Houthi forces in Yemen reportedly seized the strategic Red Sea port of Mokha, escalating regional shipping tensions.",
+    "region": "global",
+    "headline": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+    "source_summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Thu, 10 Sep 2026 18:15:47 GMT",
+    "hook": "लाल सागर में बड़ा संकट! यमन के हूती विद्रोहियों ने मोखा बंदरगाह पर किया कब्जा!",
+    "script_hi": "लाल सागर में तनाव और बढ़ गया है। खबर है कि यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है। इस रणनीतिक बंदरगाह के हाथ लगने से ईरान समर्थित ये समूह अहम जलमार्ग बाब अल मंडेब स्ट्रेट के और करीब पहुंच गया है। वैश्विक व्यापार के लिए यह मुख्य शिपिंग रूट बेहद संवेदनशील माना जाता है।",
+    "tts_text_hi": "लाल सागर में तनाव और बढ़ गया है। खबर है कि यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है। इस रणनीतिक बंदरगाह के हाथ लगने से ईरान समर्थित ये समूह अहम जलमार्ग बाब अल मंडेब स्ट्रेट के और करीब पहुंच गया है। वैश्विक व्यापार के लिए यह मुख्य शिपिंग रूट बेहद संवेदनशील माना जाता है।",
+    "title": "यमन के हूती विद्रोहियों ने मोखा बंदरगाह पर किया कब्जा",
+    "caption": "लाल सागर में बड़ा संकट! यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है, जिससे अहम शिपिंग रूट पर खतरा मंडरा रहा है।",
+    "hashtags": [
+      "#Yemen",
+      "#Houthis",
+      "#RedSea",
+      "#MokhaPort",
+      "#BabAlMandab",
+      "#WorldNews",
+      "#GlobalCrisis"
+    ],
+    "visual_queries": [
+      "Red Sea shipping route",
+      "Yemeni port city",
+      "cargo ship ocean",
+      "Middle East conflict"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/18919067/18919067-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Yemeni port city",
+        "credit": "Dani  A.M",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36271362/pexels-photo-36271362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Red Sea shipping route",
+        "credit": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18641968/pexels-photo-18641968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo ship ocean",
+        "credit": "𝗚𝗮𝗯𝘆  Cueto",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27500118/pexels-photo-27500118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Middle East conflict",
+        "credit": "Omar Ramadan",
         "duration_sec": 5
       }
     ],
@@ -179,700 +785,26 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सत्य निकेतन हादसे के बाद MCD का बड़ा बुलडोजर एक्शन! 🚜",
-        "caption": "सत्य निकेतन हादसे के बाद दिल्ली में MCD का बड़ा बुलडोजर एक्शन! 🚨\n\nहादसे के बाद प्रशासन अब पूरी तरह सख्त हो गया है। अवैध निर्माण और नियमों की अनदेखी करने वालों पर ताबड़तोड़ कार्रवाई जारी है।\n\nआपकी इस कार्रवाई पर क्या राय है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#DelhiMCD #BulldozerAction #SatyaNiketan #DelhiNews #MCDAction"
+        "title": "यमन के हूती विद्रोहियों ने मोखा बंदरगाह पर किया कब्जा",
+        "caption": "लाल सागर में बड़ा संकट! यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है, जिससे अहम शिपिंग रूट पर खतरा मंडरा रहा है।\n\n##Yemen ##Houthis ##RedSea ##MokhaPort ##BabAlMandab"
       },
       "instagram": {
         "title": null,
-        "caption": "सत्य निकेतन हादसे के बाद दिल्ली में MCD का बड़ा बुलडोजर एक्शन! 🚨\n\nहादसे के बाद प्रशासन पूरी तरह एक्शन मोड में आ गया है। नियमों की धज्जियां उड़ाने वालों पर लगातार शिकंजा कसा जा रहा है।\n\nक्या ऐसी कार्रवाई से हादसों पर रोक लगेगी? अपनी राय शेयर करें। 🚜\n\n#DelhiMCD #BulldozerAction #SatyaNiketan #DelhiNews #MCDAction"
+        "caption": "लाल सागर में बड़ा संकट! यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है, जिससे अहम शिपिंग रूट पर खतरा मंडरा रहा है।\n\n##Yemen ##Houthis ##RedSea ##MokhaPort ##BabAlMandab"
       },
       "facebook": {
         "title": null,
-        "caption": "सत्य निकेतन हादसे के बाद दिल्ली में MCD का बड़ा बुलडोजर एक्शन शुरू हो गया है। 🚨\n\nहादसे से सबक लेते हुए प्रशासन अब अवैध निर्माण पर बिना किसी ढिलाई के बुलडोजर चला रहा है। सुरक्षा मानकों को ताक पर रखकर बनाए गए ढांचे गिराए जा रहे हैं।\n\nक्या प्रशासन का यह कदम सही है? हमें कमेंट करके जरूर बताएं और पूरी खबर देखें। 🚜\n\n#DelhiMCD #BulldozerAction #SatyaNiketan #DelhiNews #MCDAction"
+        "caption": "लाल सागर में बड़ा संकट! यमन के हूती विद्रोहियों ने रणनीतिक रूप से अहम मोखा बंदरगाह पर कब्जा कर लिया है, जिससे अहम शिपिंग रूट पर खतरा मंडरा रहा है।\n\n##Yemen ##Houthis ##RedSea ##MokhaPort ##BabAlMandab"
       },
       "hashtags": [
-        "DelhiMCD",
-        "BulldozerAction",
-        "SatyaNiketan",
-        "DelhiNews",
-        "MCDAction"
+        "#Yemen",
+        "#Houthis",
+        "#RedSea",
+        "#MokhaPort",
+        "#BabAlMandab"
       ]
     },
-    "audio_path": "audio/delhi_mcd_bulldozer_action_pg_buildings.wav",
-    "audio_duration_sec": 17.61
-  },
-  {
-    "topic_label": "guwahati_wife_head_fridge_murder_update",
-    "virality_score": 9,
-    "reason": "Chilling crime update as police seize the fridge used to store a decapitated wife's head in Guwahati.",
-    "region": "india",
-    "headline": "पत्नी का सिर काटकर जिस फ्रिज में रखा था, पुलिस ने किया जब्त",
-    "source_summary": "गुवाहाटी में पत्नी रिया तालुकदार गोस्वामी की हत्या के आरोपी रामानुज गोस्वामी के फ्लैट से पुलिस ने वह फ्रिज जब्त किया है, जिसमें उसने पत्नी का कटा हुआ सिर रखा था. पढ़ें ये सनसनीखेज कहानी.",
-    "source_url": "https://www.aajtak.in/crime/police-and-intelligence/story/guwahati-murder-ramanuj-goswami-wife-riya-talukdar-refrigerator-seized-pvzs-dskc-2640309-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T17:56:50+05:30",
-    "hook": "गुवाहाटी से एक दिल दहला देने वाली सनसनीखेज खबर सामने आई है!",
-    "script_hi": "गुवाहाटी में पत्नी रिया तालुकदार गोस्वामी की हत्या के आरोपी रामानुज गोस्वामी के फ्लैट से पुलिस ने वह फ्रिज जब्त किया है, जिसमें उसने पत्नी का कटा हुआ सिर रखा था। पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "गुवाहाटी में पत्नी रिया तालुकदार गोस्वामी की हत्या के आरोपी रामानुज गोस्वामी के फ्लैट से पुलिस ने वह फ्रिज जब्त किया है, जिसमें उसने पत्नी का कटा हुआ सिर रखा था। पुलिस मामले की जांच कर रही है।",
-    "title": "गुवाहाटी मर्डर केस: पत्नी का सिर छिपाने वाला फ्रिज जब्त",
-    "caption": "गुवाहाटी में पत्नी की हत्या के बाद उसका कटा हुआ सिर फ्रिज में रखने वाले आरोपी का फ्रिज पुलिस ने जब्त कर लिया है।",
-    "hashtags": [
-      "#GuwahatiCrime",
-      "#AssamPolice",
-      "#CrimeNews",
-      "#IndiaNews",
-      "#NewsShorts"
-    ],
-    "visual_queries": [
-      "Guwahati police station India",
-      "police investigation India apartment",
-      "refrigerator in apartment India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36747519/15573653_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Guwahati police station India",
-        "credit": "Souhityo Das",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India apartment",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4375718/pexels-photo-4375718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "refrigerator in apartment India",
-        "credit": "Chander Mohan",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481269/pexels-photo-10481269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian forensic team crime scene",
-        "credit": "cottonbro studio",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31325988/pexels-photo-31325988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "apartment building India exterior",
-        "credit": "Shubh Agrawal",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police tape crime scene",
-        "credit": "Srujan J.",
-        "duration_sec": 3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "गुवाहाटी मर्डर केस: पत्नी का सिर छिपाने वाला फ्रिज जब्त",
-        "caption": "गुवाहाटी में पत्नी की हत्या के बाद उसका कटा हुआ सिर फ्रिज में रखने वाले आरोपी का फ्रिज पुलिस ने जब्त कर लिया है।\n\n##GuwahatiCrime ##AssamPolice ##CrimeNews ##IndiaNews ##NewsShorts"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "गुवाहाटी में पत्नी की हत्या के बाद उसका कटा हुआ सिर फ्रिज में रखने वाले आरोपी का फ्रिज पुलिस ने जब्त कर लिया है।\n\n##GuwahatiCrime ##AssamPolice ##CrimeNews ##IndiaNews ##NewsShorts"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "गुवाहाटी में पत्नी की हत्या के बाद उसका कटा हुआ सिर फ्रिज में रखने वाले आरोपी का फ्रिज पुलिस ने जब्त कर लिया है।\n\n##GuwahatiCrime ##AssamPolice ##CrimeNews ##IndiaNews ##NewsShorts"
-      },
-      "hashtags": [
-        "#GuwahatiCrime",
-        "#AssamPolice",
-        "#CrimeNews",
-        "#IndiaNews",
-        "#NewsShorts"
-      ]
-    },
-    "audio_path": "audio/guwahati_wife_head_fridge_murder_update.wav",
-    "audio_duration_sec": 13.91
-  },
-  {
-    "topic_label": "india_womens_asia_cup_final_entry",
-    "virality_score": 8,
-    "reason": "Indian women's cricket team storming into the Asia Cup final after defeating Bangladesh has huge national sports appeal.",
-    "region": "india",
-    "headline": "बांग्लादेश को हराकर टीम इंडिया फाइनल में, शेफाली-दीप्ति छाईं",
-    "source_summary": "India vs Bangladesh Women's Asia Cup Semi Final: हरमनप्रीत कौर की अगुवाई वाली भारतीय टीम ने ग्रुप स्टेज में थाईलैंड, हॉन्ग कॉन्ग और पाकिस्तान को धूल चटाई थी. भारत ने ग्रुुप-ए में शीर्ष स्थान हासिल किया था. अब भारत ने बांग्लादेश को सेमीफाइनल में पराजित किया.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/ind-vs-ban-womens-asia-cup-2026-semi-final-highlights-india-vs-bangladesh-tspoa-dskc-2640447-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T23:09:27+05:30",
-    "hook": "टीम इंडिया एशिया कप के फाइनल में पहुंच गई है!",
-    "script_hi": "भारतीय महिला क्रिकेट टीम ने बांग्लादेश को सेमीफाइनल में हराकर एशिया कप के फाइनल में जगह बना ली है. कप्तान हरमनप्रीत कौर की अगुवाई में टीम ने ग्रुप स्टेज में शानदार प्रदर्शन करते हुए अपने सभी मुकाबले जीते थे. अब खिताबी मुकाबले में भारत का मुकाबला तय हो गया है.",
-    "tts_text_hi": "भारतीय महिला क्रिकेट टीम ने बांग्लादेश को सेमीफाइनल में हराकर एशिया कप के फाइनल में जगह बना ली है। कप्तान हरमनप्रीत कौर की अगुवाई में टीम ने ग्रुप स्टेज में शानदार प्रदर्शन करते हुए अपने सभी मुकाबले जीते थे। अब खिताबी मुकाबले में भारत का मुकाबला तय हो गया है।",
-    "title": "टीम इंडिया एशिया कप के फाइनल में",
-    "caption": "भारतीय महिला क्रिकेट टीम ने बांग्लादेश को हराकर एशिया कप के फाइनल में बनाई जगह।",
-    "hashtags": [
-      "TeamIndia",
-      "WomensAsiaCup",
-      "CricketNews",
-      "IndianCricket",
-      "HarmanpreetKaur",
-      "AsiaCup2024"
-    ],
-    "visual_queries": [
-      "Indian women cricket team celebration India",
-      "Harmanpreet Kaur captain India cricket",
-      "Indian cricket stadium match India"
-    ],
-    "named_person": "Harmanpreet Kaur",
-    "named_person_hi": "हरमनप्रीत कौर",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "हरमनप्रीत कौर",
-        "source": "fallback",
-        "query": "Harmanpreet Kaur",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket stadium match India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "women cricket match India",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket stadium crowd India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17628708/pexels-photo-17628708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "female cricketers practice India",
-        "credit": "B M  Rauf",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket trophy celebration",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 29.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शेफाली और दीप्ति का कमाल! टीम इंडिया एशिया कप फाइनल में 🇮🇳",
-        "caption": "शेफाली और दीप्ति के दम पर टीम इंडिया ने फाइनल में मारी धांसू एंट्री! 🏏\n\nबांग्लादेश के खिलाफ सेमीफाइनल मुकाबले में भारतीय खिलाड़ियों ने शानदार प्रदर्शन करते हुए यह बड़ी जीत हासिल की। अब खिताब के लिए टीम का मुकाबला बेहद रोमांचक होने वाला है।\n\nपूरी कहानी देखें और बताएं, इस बार एशिया कप कौन जीतेगा?\n\n#TeamIndia #AsiaCup2024 #ShafaliVerma #DeeptiSharma #WomensCricket"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बांग्लादेश को रौंदकर टीम इंडिया सीधे एशिया कप के फाइनल में! 🔥\n\nशेफाली और दीप्ति शर्मा की शानदार पारियों के आगे विपक्षी टीम टिक नहीं पाई। इस जीत के साथ भारतीय टीम ने खिताब के एक और कदम बढ़ा लिया है।\n\nवीडियो पूरा देखें और अपने दोस्तों के साथ शेयर करें।\n\n#TeamIndia #AsiaCup2024 #ShafaliVerma #DeeptiSharma #WomensCricket"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बांग्लादेश को हराकर टीम इंडिया ने एक बार फिर साबित कर दिया कि उनका जलवा कायम है! 🏆\n\nएशिया कप के इस अहम मुकाबले में शेफाली वर्मा और दीप्ति शर्मा ने अपने बेहतरीन खेल से पूरे देश का दिल जीत लिया। गेंदबाजों और बल्लेबाजों के शानदार तालमेल से टीम अब सीधे फाइनल में पहुंच गई है।\n\nआपको क्या लगता है, क्या इस बार एशिया कप की ट्रॉफी भारत आएगी? कमेंट में अपनी राय जरूर बताएं और पूरी खबर देखें।\n\n#TeamIndia #AsiaCup2024 #ShafaliVerma #DeeptiSharma #WomensCricket"
-      },
-      "hashtags": [
-        "TeamIndia",
-        "AsiaCup2024",
-        "ShafaliVerma",
-        "DeeptiSharma",
-        "WomensCricket"
-      ]
-    },
-    "audio_path": "audio/india_womens_asia_cup_final_entry.wav",
-    "audio_duration_sec": 19.03
-  },
-  {
-    "topic_label": "jhansi_railway_officer_ai_blackmail_arrest",
-    "virality_score": 8,
-    "reason": "A shocking cybercrime case where a woman used AI to morph a railway officer's photo to extort 15 lakhs.",
-    "region": "india",
-    "headline": "झांसी में रेलवे अधिकारी की AI से बनाई आपत्तिजनक तस्वीर, मांगे 15 लाख",
-    "source_summary": "झांसी में रेलवे के एक बड़े अधिकारी की AI से आपत्तिजनक तस्वीर बनाकर ब्लैकमेल करने के आरोप में 27 वर्षीय युवती को प्रयागराज से गिरफ्तार किया गया है. पुलिस के मुताबिक, आरोपी महिला अधिकारी और उसके परिवार से लगातार रुपये मांग रही थी. 31 जुलाई को AI से बनाई तस्वीर भेजकर 15 लाख रुपये मांगे और परिवार की अन्य महिलाओं की तस्वीरें वायरल करने की धमकी दी.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/jhansi-railway-officer-ai-obscene-photo-blackmail-15-lakh-woman-arrested-prayagraj-lclar-strc-2640428-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T21:32:37+05:30",
-    "hook": "झांसी के रेलवे अधिकारी को एआई तस्वीर से ब्लैकमेल!",
-    "script_hi": "झांसी में रेलवे के एक बड़े अधिकारी की एआई से आपत्तिजनक तस्वीर बनाकर ब्लैकमेल करने के आरोप में सत्ताईस वर्षीय युवती को प्रयागराज से गिरफ्तार किया गया है। पुलिस के मुताबिक आरोपी महिला अधिकारी और उसके परिवार से लगातार रुपये मांग रही थी। इकतीस जुलाई को एआई से बनाई तस्वीर भेजकर पंद्रह लाख रुपये मांगे और परिवार की अन्य महिलाओं की तस्वीरें वायरल करने की धमकी दी।",
-    "tts_text_hi": "झांसी में रेलवे के एक बड़े अधिकारी की एआई से आपत्तिजनक तस्वीर बनाकर ब्लैकमेल करने के आरोप में सत्ताईस वर्षीय युवती को प्रयागराज से गिरफ्तार किया गया है। पुलिस के मुताबिक आरोपी महिला अधिकारी और उसके परिवार से लगातार रुपये मांग रही थी। इकतीस जुलाई को एआई से बनाई तस्वीर भेजकर पंद्रह लाख रुपये मांगे और परिवार की अन्य महिलाओं की तस्वीरें वायरल करने की धमकी दी।",
-    "title": "झांसी: रेलवे अधिकारी को AI तस्वीर से ब्लैकमेल करने वाली गिरफ्तार",
-    "caption": "झांसी में रेलवे अधिकारी को एआई से बनाई गई आपत्तिजनक तस्वीर के जरिए ब्लैकमेल करने और पंद्रह लाख रुपये मांगने के आरोप में प्रयागराज से एक युवती को गिरफ्तार किया गया है।",
-    "hashtags": [
-      "JhansiNews",
-      "CyberCrime",
-      "Prayagraj",
-      "AIBlackmail",
-      "IndianPolice",
-      "CrimeNews"
-    ],
-    "visual_queries": [
-      "Uttar Pradesh police station India",
-      "cyber crime investigation India",
-      "Prayagraj city street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8649666/pexels-photo-8649666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Uttar Pradesh police station India",
-        "credit": "Amit Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6266308/pexels-photo-6266308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cyber crime investigation India",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4053538/pexels-photo-4053538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Prayagraj city street India",
-        "credit": "Kishore Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police arrest India",
-        "credit": "Kindel Media",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12912010/pexels-photo-12912010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "woman using mobile phone",
-        "credit": "Mizuno K",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9902413/pexels-photo-9902413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone typing India",
-        "credit": "Ron Lach",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6266308/pexels-photo-6266308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "extortion money threat",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "झांसी: AI से बनाई आपत्तिजनक तस्वीर, अधिकारी से मांगे 15 लाख! 🚨",
-        "caption": "झांसी के रेलवे अधिकारी को एआई तस्वीर से ब्लैकमेल! 🚨\n\nऑब्जेक्टिव और डीपफेक तकनीक का इस्तेमाल कर रेलवे अधिकारी को बदनाम करने की धमकी दी गई और फिर 15 लाख रुपये की फिरौती मांगी गई। पुलिस ने जाल बिछाकर आरोपी को दबोच लिया।\n\nपूरी कहानी देखें और शेयर करें।\n\n#JhansiNews #AIFraud #CyberCrime #Deepfake #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "झांसी के रेलवे अधिकारी को एआई तस्वीर से ब्लैकमेल! 🚨\n\nतकनीक का ऐसा खतरनाक इस्तेमाल उड़ा देगा होश। आपत्तिजनक तस्वीर वायरल करने की धमकी देकर मांगे गए 15 लाख रुपये।\n\nक्या आप सुरक्षित हैं? कमेंट में अपनी राय बताएं और पूरी कहानी देखें।\n\n#JhansiNews #AIFraud #CyberCrime #Deepfake #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "झांसी के रेलवे अधिकारी को एआई तस्वीर से ब्लैकमेल! 🚨\n\nआजकल टेक्नोलॉजी का किस हद तक गलत इस्तेमाल हो रहा है, इसकी बानोगी झांसी में सामने आई है। एक रेलवे अधिकारी की फर्जी और आपत्तिजनक तस्वीर एआई के जरिए बनाकर उसे वायरल करने की धमकी दी गई। आरोपियों ने चुपचाप 15 लाख रुपये देने का दबाव बनाया, लेकिन पुलिस की सतर्कता से सच सामने आ गया।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#JhansiNews #AIFraud #CyberCrime #Deepfake #CrimeNews"
-      },
-      "hashtags": [
-        "JhansiNews",
-        "AIFraud",
-        "CyberCrime",
-        "Deepfake",
-        "CrimeNews"
-      ]
-    },
-    "audio_path": "audio/jhansi_railway_officer_ai_blackmail_arrest.wav",
-    "audio_duration_sec": 24.6
-  },
-  {
-    "topic_label": "apple_iphone_duo_india_price_shock",
-    "virality_score": 8,
-    "reason": "Enormous consumer interest and shock over the massive 3 lakh rupee price tag of Apple's first foldable iPhone Duo in India.",
-    "region": "india",
-    "headline": "Apple iPhone Duo की भारत में कीमत कितनी? कब से कर पाएंगे खरीदारी, पाकिस्तानी कीमत सुनकर कहेंगे- रहने दो भाई!",
-    "source_summary": "Apple ने आखिरकार अपना पहला फोल्डेबल आईफोन iPhone Duo लॉन्च कर दिया है और भारत में इसकी शुरुआती कीमत ₹2,99,900 रखी गई है। यानी इसे खरीदने के लिए भारतीय ग्राहकों को करीब 3 लाख रुपये खर्च करने होंगे। लेकिन पाकिस्तान में",
-    "source_url": "https://hindi.oneindia.com/news/india/apple-iphone-duo-first-foldable-iphone-india-price-vs-pakistan-rate-iphone-18-pro-max-sale-1645813.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Thu, 10 Sep 2026 10:12:55 +0530",
-    "hook": "एप्पल का नया फोल्डेबल आईफोन भारत में लॉन्च!",
-    "script_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन आईफोन डुओ लॉन्च कर दिया है। भारत में इसकी शुरुआती कीमत दो लाख निनानवे हजार नौ सौ रुपये रखी गई है। यानी इसे खरीदने के लिए ग्राहकों को करीब तीन लाख रुपये खर्च करने होंगे।",
-    "tts_text_hi": "एप्पल ने अपना पहला फोल्डेबल आईफोन आईफोन डुओ लॉन्च कर दिया है। भारत में इसकी शुरुआती कीमत दो लाख निनानवे हजार नौ सौ रुपये रखी गई है। यानी इसे खरीदने के लिए ग्राहकों को करीब तीन लाख रुपये खर्च करने होंगे।",
-    "title": "भारत में लॉन्च हुआ Apple iPhone Duo, कीमत उड़ा देगी होश",
-    "caption": "एप्पल का नया फोल्डेबल आईफोन भारत में लॉन्च हो गया है और इसकी कीमत जानकर आपके होश उड़ जाएंगे!",
-    "hashtags": [
-      "Apple",
-      "iPhoneDuo",
-      "TechNews",
-      "India",
-      "Smartphones"
-    ],
-    "visual_queries": [
-      "Apple smartphone India",
-      "folded mobile phone India",
-      "luxury shopping India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8204032/pexels-photo-8204032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple smartphone India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19281808/pexels-photo-19281808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "folded mobile phone India",
-        "credit": "Rohit Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36493389/pexels-photo-36493389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury shopping India",
-        "credit": "H",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18831090/pexels-photo-18831090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "latest smartphone launch",
-        "credit": "Ejov Igor",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6927372/pexels-photo-6927372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "expensive modern technology",
-        "credit": "Polina Tankilevitch",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34444234/pexels-photo-34444234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile store display",
-        "credit": "aju.bee",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31963790/pexels-photo-31963790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person holding new phone",
-        "credit": "Darksight Image",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ऐप्पल का नया फोल्डेबल आईफोन भारत में लॉन्च! 📱 कीमत जान उड़ जाएंगे होश",
-        "caption": "पड़ोसी देश में इस फोन की कीमत सुनेंगे तो कहेंगे- रहने दो भाई! 🤯\n\nApple iPhone Duo आखिरकार भारत में आ चुका है। इसके फीचर्स और कीमत को लेकर मार्केट में हलचल तेज है।\n\nक्या आप भी इसे खरीदने का प्लान बना रहे हैं? कमेंट में बताएं। पूरी कहानी देखें वीडियो में।\n\n#AppleiPhoneDuo #iPhoneFoldable #TechNewsHindi #AppleIndia #SmartphoneNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पड़ोसी देश में इस फोन की कीमत सुनेंगे तो कहेंगे- रहने दो भाई! 🤯\n\nApple iPhone Duo भारत में लॉन्च हो चुका है। इसके फीचर्स और कीमत ने सबको चौंका दिया है।\n\nदोस्तों के साथ शेयर करें जो आईफोन खरीदने का सोच रहे हैं!\n\n#AppleiPhoneDuo #iPhoneFoldable #TechNewsHindi #AppleIndia #SmartphoneNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ऐप्पल का नया फोल्डेबल आईफोन भारत में लॉन्च! कीमत ऐसी कि पड़ोसी देश का हाल देख कहेंगे- रहने दो भाई! 🤯\n\nApple iPhone Duo के भारत आने के बाद से ही हर तरफ इसकी चर्चा हो रही है। इसकी कीमत और खासियतें उड़ा देंगी आपके होश।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#AppleiPhoneDuo #iPhoneFoldable #TechNewsHindi #AppleIndia #SmartphoneNews"
-      },
-      "hashtags": [
-        "AppleiPhoneDuo",
-        "iPhoneFoldable",
-        "TechNewsHindi",
-        "AppleIndia",
-        "SmartphoneNews"
-      ]
-    },
-    "audio_path": "audio/apple_iphone_duo_india_price_shock.wav",
-    "audio_duration_sec": 16.5
-  },
-  {
-    "topic_label": "us_h1b_visa_60_day_grace_period_scrap",
-    "virality_score": 8,
-    "reason": "US proposed rule change on H-1B visas eliminating the 60-day grace period directly impacts thousands of Indian tech workers.",
-    "region": "india",
-    "headline": "H-1B वीजा पर ट्रंप का बड़ा वार, नौकरी गई तो 60 दिन की राहत भी होगी खत्म",
-    "source_summary": "ट्रंप प्रशासन ने H-1B वीजा नियमों में बड़े बदलाव का प्रस्ताव रखा है. इसमें 60 दिन के ग्रेस पीरियड खत्म करने की भी जानकारी है. इससे विदेशी कर्मचारियों को नौकरी खत्म होने के बाद अमेरिका छोड़ना होगा. यह नियम 2017 से लागू था और कर्मचारियों को नई नौकरी खोजने का समय देता था। नए प्रस्ताव के तहत यह सुविधा खत्म हो जाएगी, जिससे नौकरी बदलना मुश्किल हो जाएगा.",
-    "source_url": "https://www.aajtak.in/world/story/h-1b-visa-trump-administration-scrap-60-day-grace-period-h-1b-workers-lose-jobs-ntc-aktw-dskc-2640490-2026-09-11?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-11T03:24:47+05:30",
-    "hook": "एच वन बी वीजा धारकों के लिए बड़ी बुरी खबर",
-    "script_hi": "ट्रंप प्रशासन ने एच वन बी वीजा नियमों में बड़े बदलाव का प्रस्ताव रखा है. इसके तहत नौकरी जाने पर मिलने वाला साठ दिन का ग्रेस पीरियड खत्म किया जा सकता है. इस नियम के हटने से विदेशी कर्मचारियों को नौकरी छूटते ही अमेरिका छोड़ना होगा. दो हजार सत्रह से लागू यह नियम कर्मचारियों को नई नौकरी तलाशने का समय देता था, जो अब खत्म हो जाएगा.",
-    "tts_text_hi": "ट्रंप प्रशासन ने एच वन बी वीजा नियमों में बड़े बदलाव का प्रस्ताव रखा है. इसके तहत नौकरी जाने पर मिलने वाला साठ दिन का ग्रेस पीरियड खत्म किया जा सकता है. इस नियम के हटने से विदेशी कर्मचारियों को नौकरी छूटते ही अमेरिका छोड़ना होगा. दो हजार सत्रह से लागू यह नियम कर्मचारियों को नई नौकरी तलाशने का समय देता था, जो अब खत्म हो जाएगा.",
-    "title": "H-1B वीजा नियमों में बड़ा बदलाव",
-    "caption": "ट्रंप प्रशासन के नए H-1B वीजा प्रस्ताव से विदेशी कर्मचारियों की बढ़ी मुश्किलें.",
-    "hashtags": [
-      "USVisa",
-      "H1BVisa",
-      "DonaldTrump",
-      "America",
-      "VisaRules",
-      "BreakingNews",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "Donald Trump press conference",
-      "US Capitol building Washington",
-      "corporate office worker India"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
-        "source": "fallback",
-        "query": "Donald Trump",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36790447/15590360_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Donald Trump press conference",
-        "credit": "NewLA",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "US Capitol building Washington",
-        "credit": "Jackie Friedlander",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "corporate office worker India",
-        "credit": "Fahad Puthawala",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "H-1B वीजा पर ट्रंप का बड़ा वार! खत्म होगी 60 दिन की राहत?",
-        "caption": "नौकरी जाते ही अमेरिका से तुरंत भगाए जाएंगे कर्मचारी? 🚨\n\nअमेरिका के नए राष्ट्रपति डोनाल्ड ट्रंप H-1B वीजा नियमों को और सख्त करने की तैयारी में हैं। अगर प्रस्ताव पास हुआ, तो नौकरी छूटने के बाद मिलने वाला 60 दिन का ग्रेस पीरियड भी खत्म हो सकता है। इससे लाखों भारतीय प्रोफेशनल्स की मुश्किलें बढ़ सकती हैं।\n\nआपकी इस पर क्या राय है? पूरी कहानी देखें।\n\n#H1BVisa #USNews #DonaldTrump #VisaRules #IndiansInUS"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नौकरी गई तो अमेरिका में रुकने का समय भी खत्म! 🇺🇸✈️\n\nट्रंप प्रशासन H-1B वीजा धारकों के लिए नियमों को बेहद कड़क करने जा रहा है। नौकरी जाने पर मिलने वाले 60 दिन अब इतिहास बन सकते हैं।\n\nशेयर करें इस वीडियो को हर उस इंसान के साथ जो अमेरिका में जॉब कर रहा है! 🔄\n\n#H1BVisa #USNews #DonaldTrump #VisaRules #IndiansInUS"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "अमेरिका में नौकरी करने वालों के लिए बड़ी और परेशान करने वाली खबर सामने आ रही है। 📉\n\nH-1B वीजा नियमों में बड़े बदलाव की तैयारी हो चुकी है। अब तक नियम ये था कि नौकरी जाने के बाद भारत लौटने या दूसरी जॉब ढूंढने के लिए 60 दिन का समय मिलता था, लेकिन ट्रंप के नए प्लान में इस राहत को पूरी तरह खत्म करने की बात कही जा रही है।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और कमेंट में बताएं कि इस फैसले का कितना असर पड़ेगा।\n\n#H1BVisa #USNews #DonaldTrump #VisaRules #IndiansInUS"
-      },
-      "hashtags": [
-        "H1BVisa",
-        "USNews",
-        "DonaldTrump",
-        "VisaRules",
-        "IndiansInUS"
-      ]
-    },
-    "audio_path": "audio/us_h1b_visa_60_day_grace_period_scrap.wav",
-    "audio_duration_sec": 23.42
-  },
-  {
-    "topic_label": "swiss_alps_dutch_tour_bus_crash",
-    "virality_score": 7,
-    "reason": "A major fatal international coach crash in Switzerland carrying Dutch passengers provides strong global interest.",
-    "region": "india",
-    "headline": "स्विट्जरलैंड में बस हादसा: डच टूर बस दुर्घटना में कई लोगों की मौत, 48 यात्री थे सवार; बचाव कार्य जारी",
-    "source_summary": "स्विट्जरलैंड में बस हादसा: डच टूर बस दुर्घटना में कई लोगों की मौत, 48 यात्री थे सवार; बचाव कार्य जारी",
-    "source_url": "https://www.amarujala.com/world/switzerland-bus-overturns-updates-dutch-tour-bus-accident-several-dead-casualties-rescue-police-hindi-news-2026-09-11",
-    "source_name": "Amar Ujala",
-    "published": "Fri, 11 Sep 2026 01:53:41 +0530",
-    "hook": "स्विट्जरलैंड में भीषण बस हादसा!",
-    "script_hi": "स्विट्जरलैंड में एक डच टूर बस दुर्घटनाग्रस्त हो गई है। इस भयानक हादसे में कई लोगों की मौत की खबर है। बस में कुल अड़तालीस यात्री सवार थे। घटनास्थल पर बचाव और राहत कार्य तेजी से जारी है।",
-    "tts_text_hi": "स्विट्जरलैंड में एक डच टूर बस दुर्घटनाग्रस्त हो गई है। इस भयानक हादसे में कई लोगों की मौत की खबर है। बस में कुल अड़तालीस यात्री सवार थे। घटनास्थल पर बचाव और राहत कार्य तेजी से जारी है।",
-    "title": "स्विट्जरलैंड में भीषण बस हादसा",
-    "caption": "स्विट्जरलैंड में डच टूर बस दुर्घटना, कई लोगों की मौत, बचाव कार्य जारी।",
-    "hashtags": [
-      "SwitzerlandBusAccident",
-      "BusCrash",
-      "BreakingNews",
-      "WorldNews",
-      "SwissNews"
-    ],
-    "visual_queries": [
-      "Switzerland mountain road",
-      "emergency rescue operation",
-      "ambulance emergency vehicle"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33900786/pexels-photo-33900786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Switzerland mountain road",
-        "credit": "Dźmitryj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9424560/pexels-photo-9424560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescue operation accident",
-        "credit": "Roman Apaza",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33707844/pexels-photo-33707844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "European highway traffic",
-        "credit": "Oliver Schröder",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police tape crime scene",
-        "credit": "Srujan J.",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15057644/pexels-photo-15057644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency rescue operation",
-        "credit": "Floris Mulder",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12936001/pexels-photo-12936001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency services flashing lights",
-        "credit": "Jonathan Cooper",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "स्विट्जरलैंड में भीषण बस हादसा: 48 यात्रियों से भरी बस पलटी, कई की मौत 🚌",
-        "caption": "स्विट्जरलैंड में भीषण बस हादसा! 🚨\n\nडच टूरिस्ट्स से भरी बस अचानक दुर्घटना का शिकार हो गई, जिसमें 48 लोग सवार थे। हादसे में कई लोगों की मौत की खबर है और मौके पर राहत-बचाव कार्य तेजी से जारी है।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#SwitzerlandBusAccident #SwitzerlandNews #BusAccident #WorldNews #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "स्विट्जरलैंड में भीषण बस हादसा! 🚨\n\nडच टूरिस्ट्स से भरी बस दुर्घटनाग्रस्त हो गई, जिसमें 48 यात्री सवार थे। कई लोगों के मारे जाने की आशंका है और रेस्क्यू ऑपरेशन जारी है।\n\nऐसी हर बड़ी खबर से अपडेट रहने के लिए फॉलो करें।\n\n#SwitzerlandBusAccident #SwitzerlandNews #BusAccident #WorldNews #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "स्विट्जरलैंड में भीषण बस हादसा! 🚨\n\nडच टूरिस्ट्स को ले जा रही एक बस अचानक भयानक हादसे का शिकार हो गई। इस बस में कुल 48 यात्री सवार थे, और शुरुआती रिपोर्ट्स के मुताबिक कई लोगों की जान चली गई है। प्रशासन और रेस्क्यू टीमें मौके पर डटी हुई हैं, बचाव कार्य युद्धस्तर पर जारी है।\n\nआपकी इस पर क्या राय है, हमें कमेंट्स में जरूर बताएं।\n\n#SwitzerlandBusAccident #SwitzerlandNews #BusAccident #WorldNews #BreakingNews"
-      },
-      "hashtags": [
-        "SwitzerlandBusAccident",
-        "SwitzerlandNews",
-        "BusAccident",
-        "WorldNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/swiss_alps_dutch_tour_bus_crash.wav",
-    "audio_duration_sec": 14.14
+    "audio_path": "audio/yemen_houthis_seize_mokha_red_sea_port_global.wav",
+    "audio_duration_sec": 26.83
   }
 ]
