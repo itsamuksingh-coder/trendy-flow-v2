@@ -1,10 +1,7 @@
-ready_labels: ['indigo_lucknow_dammam_flight_bomb_threat_ahmedabad', 'pm_surya_ghar_yojana_rooftop_solar_subsidy', 'sonipat_nandu_gang_shooters_encounter', 'vinesh_phogat_delhi_hc_world_championship_trial', 'vladimir_putin_arrives_delhi_brics_summit', 'yemen_houthis_seize_mokha_red_sea_port_global']
+ready_labels: ['apple_iphone_duo_foldable_price_launch', 'bipasha_basu_protein_powder_worm_controversy', 'daman_collector_thar_fortuner_safety_pledge', 'sonipat_nandu_gang_police_encounter']
 
-vladimir_putin_arrives_delhi_brics_summit: SUCCESS -> video_path=videos/vladimir_putin_arrives_delhi_brics_summit.mp4 dur=27.017211
-vinesh_phogat_delhi_hc_world_championship_trial: SUCCESS -> video_path=videos/vinesh_phogat_delhi_hc_world_championship_trial.mp4 dur=32.32322
-sonipat_nandu_gang_shooters_encounter: SUCCESS -> video_path=videos/sonipat_nandu_gang_shooters_encounter.mp4 dur=29.489887
-indigo_lucknow_dammam_flight_bomb_threat_ahmedabad: SUCCESS -> video_path=videos/indigo_lucknow_dammam_flight_bomb_threat_ahmedabad.mp4 dur=31.656553
-greater_noida_hotel_window_electrocution_death: SKIPPED (not in ready set)
-pm_surya_ghar_yojana_rooftop_solar_subsidy: SUCCESS -> video_path=videos/pm_surya_ghar_yojana_rooftop_solar_subsidy.mp4 dur=29.956553
-machine_mehendi_application_viral_debate: SKIPPED (not in ready set)
-yemen_houthis_seize_mokha_red_sea_port_global: SUCCESS -> video_path=videos/yemen_houthis_seize_mokha_red_sea_port_global.mp4 dur=34.888231
+apple_iphone_duo_foldable_price_launch: SUCCESS -> video_path=videos/apple_iphone_duo_foldable_price_launch.mp4 dur=26.99322
+daman_collector_thar_fortuner_safety_pledge: SUCCESS -> video_path=videos/daman_collector_thar_fortuner_safety_pledge.mp4 dur=28.556553
+assam_elephant_tractor_tire_stuck_rescue: SKIPPED (not in ready set)
+bipasha_basu_protein_powder_worm_controversy: SUCCESS -> video_path=videos/bipasha_basu_protein_powder_worm_controversy.mp4 dur=23.046213
+sonipat_nandu_gang_police_encounter: SUCCESS -> video_path=videos/sonipat_nandu_gang_police_encounter.mp4 dur=28.02322
