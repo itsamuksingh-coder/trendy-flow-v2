@@ -1,9 +1,9 @@
-ready_labels: ['gold_silver_price_sharp_drop_september', 'mp_hooch_tragedy_accused_encounter', 'nitin_gadkari_barrier_free_toll_system', 'pm_modi_putin_brics_summit_delhi', 'sunil_gavaskar_criticizes_icc_player_workload', 'swiss_alps_tourist_bus_crash_global']
+ready_labels: ['assam_police_officer_oil_theft_mastermind', 'brics_summit_2026_delhi_putin_pezeshkian', 'nagpur_sbi_bank_chilli_powder_robbery', 'philippines_ferry_boat_massive_fire_global']
 
-pm_modi_putin_brics_summit_delhi: SUCCESS -> video_path=videos/pm_modi_putin_brics_summit_delhi.mp4 dur=33.62322
-apple_iphone_duo_foldable_price_india: SKIPPED (not in ready set)
-sunil_gavaskar_criticizes_icc_player_workload: SUCCESS -> video_path=videos/sunil_gavaskar_criticizes_icc_player_workload.mp4 dur=27.017211
-gold_silver_price_sharp_drop_september: SUCCESS -> video_path=videos/gold_silver_price_sharp_drop_september.mp4 dur=25.056553
-nitin_gadkari_barrier_free_toll_system: SUCCESS -> video_path=videos/nitin_gadkari_barrier_free_toll_system.mp4 dur=26.156553
-mp_hooch_tragedy_accused_encounter: SUCCESS -> video_path=videos/mp_hooch_tragedy_accused_encounter.mp4 dur=28.224218
-swiss_alps_tourist_bus_crash_global: SUCCESS -> video_path=videos/swiss_alps_tourist_bus_crash_global.mp4 dur=24.439229
+brics_summit_2026_delhi_putin_pezeshkian: SUCCESS -> video_path=videos/brics_summit_2026_delhi_putin_pezeshkian.mp4 dur=38.156553
+mongolia_president_100kg_bench_press_viral: SKIPPED (not in ready set)
+jaipur_man_kills_wife_three_daughters_stone: SKIPPED (not in ready set)
+nagpur_sbi_bank_chilli_powder_robbery: SUCCESS -> video_path=videos/nagpur_sbi_bank_chilli_powder_robbery.mp4 dur=25.345215
+assam_police_officer_oil_theft_mastermind: SUCCESS -> video_path=videos/assam_police_officer_oil_theft_mastermind.mp4 dur=34.156553
+muzaffarpur_asi_rape_extortion_influencer: SKIPPED (not in ready set)
+philippines_ferry_boat_massive_fire_global: SUCCESS -> video_path=videos/philippines_ferry_boat_massive_fire_global.mp4 dur=21.156553
