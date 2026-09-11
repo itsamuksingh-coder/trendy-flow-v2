@@ -1,8 +1,113 @@
 [
   {
-    "topic_label": "apple_iphone_duo_foldable_price_launch",
+    "topic_label": "putin_delhi_brics_visit_defense_deals",
     "virality_score": 9,
-    "reason": "Apple's first foldable phone launch with a massive price tag is a huge tech trend.",
+    "reason": "Russian President Putin arrived in Delhi for the BRICS summit, sparking massive interest in potential S-400 and Su-57 defense deals.",
+    "region": "india",
+    "headline": "पुतिन भारत में... S-400 से Su-57 तक, किन हथियारों पर होगी डील?",
+    "source_summary": "ब्रिक्स समिट के लिए रूसी राष्ट्रपति पुतिन भारत दौरे पर हैं. मोदी-पुतिन मुलाकात में S-400 की बची डिलीवरी, अतिरिक्त बैटरियां, ब्रह्मोस-एनजी अपग्रेड, Su-30MKI का सुपर सुखोई अपग्रेड और Su-57E पर चर्चा संभव है.",
+    "source_url": "https://www.aajtak.in/defence-news/story/putin-modi-bricks-s-400-su-57-brahmos-ng-weapon-deal-dskc-2640628-2026-09-11?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-11T10:44:20+05:30",
+    "hook": "रूसी राष्ट्रपति पुतिन के भारत दौरे पर किन बड़े रक्षा सौदों पर होगी बात?",
+    "script_hi": "ब्रिक्स समिट के लिए रूसी राष्ट्रपति व्लादिमीर पुतिन भारत दौरे पर हैं। प्रधानमंत्री नरेंद्र मोदी और पुतिन की मुलाकात में एस-चार सौ डिफेंस सिस्टम की बची हुई डिलीवरी, ब्रह्मोस-एनजी अपग्रेड, सुखोई-तीस-एमकेआई का सुपर सुखोई अपग्रेड और एस-पचपन-ई यानी फिफ्टीन जनरेशन फाइटर जेट पर चर्चा संभव है। इस दौरान कई बड़े रक्षा समझौतों पर मुहर लग सकती है।",
+    "tts_text_hi": "ब्रिक्स समिट के लिए रूसी राष्ट्रपति व्लादिमीर पुतिन भारत दौरे पर हैं। प्रधानमंत्री नरेंद्र मोदी और पुतिन की मुलाकात में एस चार सौ डिफेंस सिस्टम की बची हुई डिलीवरी, ब्रह्मोस एनजी अपग्रेड, सुखोई तीस एमकेआई का सुपर सुखोई अपग्रेड और एस सत्तावन ई फाइटर जेट पर चर्चा संभव है। इस दौरान कई बड़े रक्षा समझौतों पर मुहर लग सकती है।",
+    "title": "पुतिन का भारत दौरा और बड़े रक्षा सौदे",
+    "caption": "ब्रिक्स समिट के लिए भारत आए रूसी राष्ट्रपति व्लादिमीर पुतिन और पीएम मोदी के बीच रक्षा सौदों पर बड़ी चर्चा।",
+    "hashtags": [
+      "PutinInIndia",
+      "BRICSSummit",
+      "IndiaRussia",
+      "DefenceDeal",
+      "ModiPutin"
+    ],
+    "visual_queries": [
+      "Russian flag India flag meeting India",
+      "Indian military equipment India",
+      "fighter jet India"
+    ],
+    "named_person": "Vladimir Putin",
+    "named_person_hi": "व्लादिमीर पुतिन",
+    "secondary_persons": [
+      "Narendra Modi"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12954782/12954782-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "fighter jet India",
+        "credit": "Rachel Lustiva",
+        "source_duration_sec": 6,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_4f880ea470.jpg",
+        "source": "wikimedia",
+        "query": "Vladimir Putin",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_53628df314.jpg",
+        "source": "wikimedia",
+        "query": "Narendra Modi",
+        "credit": "Wikipedia",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11349464/pexels-photo-11349464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "military defense exhibition",
+        "credit": "Etkin Celep",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian military equipment India",
+        "credit": "Max Drew",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पुतिन के भारत दौरे पर होगी सबसे बड़ी डिफेंस डील? S-400 से Su-57 तक सब निशाने पर 🇷🇺🇮🇳",
+        "caption": "पुतिन के इस एक दौरे से भारत की सैन्य ताकत में कितना बड़ा बदलाव आने वाला है? 🚨\n\nरूस के राष्ट्रपति व्लादिमीर पुतिन के भारत दौरे पर S-400 एयर डिफेंस सिस्टम से लेकर अगली पीढ़ी के Su-57 फाइटर जेट तक कई मेगा डिफेंस डील्स पर मुहर लग सकती है। इस मीटिंग में होने वाले फैसले दोनों देशों के रक्षा समीकरण बदल देंगे।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#PutinIndiaVisit #S400 #Su57 #IndiaRussiaRelations #IndianDefence"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पुतिन के भारत दौरे पर तय होगी देश की अगली बड़ी डिफेंस डील! 🤫✈️\n\nS-400 से लेकर घातक Su-57 फाइटर जेट्स तक, जानिए कौन से बड़े हथियार इस बार भारत आ सकते हैं। वीडियो में देखिए पूरी अंदर की बात।\n\nक्या भारत को रूस से ये हथियार लेने चाहिए? शेयर करें अपना जवाब!\n\n#PutinIndiaVisit #S400 #Su57 #IndiaRussiaRelations #IndianDefence"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पुतिन के भारत दौरे से ठीक पहले रक्षा गलियारों में हलचल क्यों तेज हो गई है? 🇷🇺🇮🇳\n\nइस बार की मुलाकात सिर्फ कूटनीति तक सीमित नहीं है, बल्कि S-400 और अत्याधुनिक Su-57 फाइटर जेट्स जैसे घातक हथियारों की खरीद पर बड़े फैसले होने की उम्मीद है। ये डील भारत की सैन्य ताकत को एक अलग ही स्तर पर ले जाएगी।\n\nवीडियो पूरा देखें और समझें कि इस मेगा डिफेंस डील के पीछे की असल कहानी क्या है।\n\n#PutinIndiaVisit #S400 #Su57 #IndiaRussiaRelations #IndianDefence"
+      },
+      "hashtags": [
+        "PutinIndiaVisit",
+        "S400",
+        "Su57",
+        "IndiaRussiaRelations",
+        "IndianDefence"
+      ]
+    },
+    "audio_path": "audio/putin_delhi_brics_visit_defense_deals.wav",
+    "audio_duration_sec": 21.78
+  },
+  {
+    "topic_label": "apple_iphone_duo_launch_india_price",
+    "virality_score": 9,
+    "reason": "Apple launched its first foldable phone, iPhone Duo, with an eye-popping price tag starting at nearly 3 lakh rupees in India.",
     "region": "india",
     "headline": "पहला Fold iPhone Duo है खास, ये 5 फीचर्स बना रहे सबसे अलग",
     "source_summary": "Apple का पहला फोल्ड हैंडसेट iPhone Duo है, जिसको कंपनी ने लॉन्च कर दिया है. फोल्ड सेगमेंट का अब तक का सबसे महंगा हैंडसेट है, जिसकी भारत में शुरुआती कीमत 2.99 लाख रुपये है और टॉप एंड वेरिएंट की कीमत 4.50 लाख रुपये है. आइये इसके 5 खास फीचर्स के बारे में जानते हैं, जो इसको सबसे अलग बनाते हैं.",
@@ -10,23 +115,142 @@
     "source_name": "Aaj Tak",
     "published": "2026-09-11T09:31:09+05:30",
     "hook": "एप्पल का सबसे महंगा फोल्डेबल फोन भारत में लॉन्च!",
-    "script_hi": "एप्पल ने अपना पहला फोल्ड हैंडसेट आईफोन ड्यूो लॉन्च कर दिया है। यह फोल्ड सेगमेंट का अब तक का सबसे महंगा फोन है, जिसकी भारत में शुरुआती कीमत दो लाख निन्नानवे हजार रुपये और टॉप वेरिएंट की कीमत चार लाख पचास हजार रुपये है। इसके पांच खास फीचर्स इसे सबसे अलग बनाते हैं।",
-    "tts_text_hi": "एप्पल ने अपना पहला फोल्ड हैंडसेट आईफोन ड्यूो लॉन्च कर दिया है। यह फोल्ड सेगमेंट का अब तक का सबसे महंगा फोन है, जिसकी भारत में शुरुआती कीमत दो लाख निन्नानवे हजार रुपये और टॉप वेरिएंट की कीमत चार लाख पचास हजार रुपये है। इसके पांच खास फीचर्स इसे सबसे अलग बनाते हैं।",
+    "script_hi": "एप्पल ने अपना पहला फोल्ड हैंडसेट आईफोन ड्यूो लॉन्च कर दिया है। यह फोल्ड सेगमेंट का अब तक का सबसे महंगा हैंडसेट है, जिसकी भारत में शुरुआती कीमत दो लाख নিরানব্বই हजार रुपये और टॉप वेरिएंट की कीमत चार लाख पचास हजार रुपये है। इसके पांच खास फीचर्स इसे सबसे अलग बनाते हैं।",
+    "tts_text_hi": "एप्पल ने अपना पहला फोल्ड हैंडसेट आईफोन ड्यूो लॉन्च कर दिया है। यह फोल्ड सेगमेंट का अब तक का सबसे महंगा हैंडसेट है, जिसकी भारत में शुरुआती कीमत दो लाख নিরানব্বই हजार रुपये और टॉप वेरिएंट की कीमत चार लाख पचास हजार रुपये है। इसके पांच खास फीचर्स इसे सबसे अलग बनाते हैं।",
     "title": "Apple iPhone Duo Launched in India",
-    "caption": "Apple का पहला फोल्डेबल फोन iPhone Duo भारत में लॉन्च, जानिए कीमत और फीचर्स।",
+    "caption": "एप्पल का पहला फोल्डेबल फोन आईफोन ड्यूो भारत में लॉन्च हो गया है। जानिए इसकी कीमत और पांच खास फीचर्स।",
     "hashtags": [
       "Apple",
       "iPhoneDuo",
       "TechNews",
       "FoldablePhone",
-      "AppleIndia",
-      "Gadgets",
-      "NewsShorts"
+      "IndiaTech"
     ],
     "visual_queries": [
-      "Apple flagship smartphone India",
-      "foldable smartphone display India",
-      "luxury mobile phone India"
+      "Apple smartphone India",
+      "luxury mobile phone India",
+      "modern technology India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34829282/14764439_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "expensive smartphone market",
+        "credit": "Jakub Zerdzicki",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8204032/pexels-photo-8204032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple smartphone India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12997975/pexels-photo-12997975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury mobile phone India",
+        "credit": "Lens Of Pritam",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19851981/pexels-photo-19851981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern technology India",
+        "credit": "Nishant Aneja",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27668946/pexels-photo-27668946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "latest gadget unboxing",
+        "credit": "Adriel Arevalo",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30666637/pexels-photo-30666637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "premium consumer electronics",
+        "credit": "Paul Raymond",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19022751/pexels-photo-19022751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person using folding phone",
+        "credit": "Imad Clicks",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एप्पल का सबसे महंगा फोल्डेबल फोन भारत में लॉन्च! 📱 ये 5 फीचर्स उड़ा देंगे होश",
+        "caption": "एप्पल का सबसे महंगा फोल्डेबल फोन भारत में लॉन्च! 📱\n\nआईफोन ड्यूओ ने आते ही टेक मार्केट में तहलका मचा दिया है। इसमें दिए गए 5 नए फीचर्स इसे बाकी सभी फोल्डेबल फोन से बिल्कुल अलग बनाते हैं। \n\nक्या आप भी इस फोन को खरीदना चाहेंगे? हमें कमेंट में बताएं और पूरी कहानी देखें!\n\n#AppleiPhoneDuo #FoldablePhone #TechNews #AppleIndia #Smartphone"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "एप्पल का सबसे महंगा फोल्डेबल फोन भारत में लॉन्च! 📱\n\nआईफोन ड्यूओ के ये 5 धांसू फीचर्स देखकर हर कोई हैरान है। आखिर क्या खास है इसमें जो इसे सबसे अलग बना रहा है?\n\nपूरी कहानी के लिए वीडियो पूरा देखें और टेक लवर्स के साथ शेयर करें!\n\n#AppleiPhoneDuo #FoldablePhone #TechNews #AppleIndia #Smartphone"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एप्पल का सबसे महंगा फोल्डेबल फोन भारत में लॉन्च! 📱\n\nमार्केट में आते ही आईफोन ड्यूओ चर्चा का विषय बन गया है। इसमें ऐसे 5 दमदार फीचर्स दिए गए हैं जो किसी भी अन्य स्मार्टफोन में मिलना मुश्किल हैं।\n\nक्या यह फोन अपनी कीमत के हिसाब से सही है? अपनी राय नीचे कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#AppleiPhoneDuo #FoldablePhone #TechNews #AppleIndia #Smartphone"
+      },
+      "hashtags": [
+        "AppleiPhoneDuo",
+        "FoldablePhone",
+        "TechNews",
+        "AppleIndia",
+        "Smartphone"
+      ]
+    },
+    "audio_path": "audio/apple_iphone_duo_launch_india_price.wav",
+    "audio_duration_sec": 19.18
+  },
+  {
+    "topic_label": "kanpur_fake_currency_printer_arrest",
+    "virality_score": 8,
+    "reason": "A 52-year-old 5th-pass man running a fake currency printing factory in Kanpur was busted with lakhs in counterfeit notes.",
+    "region": "india",
+    "headline": "5वीं पास शेर सिंह का &#039;नोट छापने का कारखाना&#039;! प्रिंटर से बनाता था करेंसी",
+    "source_summary": "कानपुर में नकली नोटों के खेल का ऐसा खुलासा हुआ, जिसने पुलिस को भी चौंका दिया. पांचवीं पास 52 वर्षीय शेर सिंह किराए के कमरे में प्रिंटर से नकली करेंसी तैयार करता था. पुलिस ने उसके दो साथियों समेत तीन लोगों को गिरफ्तार कर 2.04 लाख के नकली नोट बरामद किए. गिरोह रेलवे स्टेशन और भीड़भाड़ वाले बाजारों की छोटी दुकानों पर जाली नोट खपाता था. अब पुलिस पूरे नेटवर्क की तलाश कर रही है.",
+    "source_url": "https://www.aajtak.in/india/news/story/sher-singh-currency-printing-factory-studie-only-5th-class-print-fake-currency-in-kanpur-lclg-strc-2640581-2026-09-11?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-11T09:50:40+05:30",
+    "hook": "कानपुर में पांचवीं पास शख्स ने चलाया नकली नोटों का कारखाना!",
+    "script_hi": "कानपुर में नकली नोटों के खेल का ऐसा खुलासा हुआ जिसने पुलिस को चौंका दिया। पांचवीं पास शेर सिंह किराए के कमरे में प्रिंटर से नकली करेंसी तैयार करता था। पुलिस ने उसके दो साथियों समेत तीन लोगों को गिरफ्तार कर दो लाख चार हजार रुपये के नकली नोट बरामद किए। गिरोह रेलवे स्टेशन और भीड़भाड़ वाले बाजारों की छोटी दुकानों पर जाली नोट खपाता था। अब पुलिस पूरे नेटवर्क की तलाश कर रही है।",
+    "tts_text_hi": "कानपुर में नकली नोटों के खेल का ऐसा खुलासा हुआ जिसने पुलिस को चौंका दिया। पांचवीं पास शेर सिंह किराए के कमरे में प्रिंटर से नकली करेंसी तैयार करता था। पुलिस ने उसके दो साथियों समेत तीन लोगों को गिरफ्तार कर दो लाख चार हजार रुपये के नकली नोट बरामद किए। गिरोह रेलवे स्टेशन और भीड़भाड़ वाले बाजारों की छोटी दुकानों पर जाली नोट खपाता था। अब पुलिस पूरे नेटवर्क की तलाश कर रही है।",
+    "title": "कानपुर में नकली नोट छापने वाले का भंडाफोड़",
+    "caption": "कानपुर में पांचवीं पास शेर सिंह प्रिंटर से नकली नोट छापता था। पुलिस ने तीन आरोपियों को गिरफ्तार कर दो लाख चार हजार के जाली नोट बरामद किए हैं।",
+    "hashtags": [
+      "KanpurNews",
+      "FakeCurrency",
+      "CrimeNews",
+      "UPPolice",
+      "BreakingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Kanpur city street India",
+      "Indian police station building",
+      "fake currency notes India",
+      "Indian railway station crowd"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -37,58 +261,153 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33806550/pexels-photo-33806550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10963370/pexels-photo-10963370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Apple flagship smartphone India",
-        "credit": "Andy Lee",
+        "query": "Kanpur city street India",
+        "credit": "Ayush Gautam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8139402/pexels-photo-8139402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fake currency notes India",
+        "credit": "DEV ROY",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37272147/pexels-photo-37272147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway station crowd",
+        "credit": "Syed Umair Ali",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "5वीं पास शेर सिंह का नोट छापने का कारखाना! 🖨️ #KanpurNews",
+        "caption": "कानपुर में पांचवीं पास शख्स ने चलाया नकली नोटों का कारखाना! 🚨\n\nप्रिप्रिंटर और सादे कागजों से असली जैसी दिखने वाली करेंसी धड़ल्ले से बाजार में उतारी जा रही थी। पुलिस ने जब इस मास्टरमाइंड के ठिकाने पर छापा मारा, तो घर के अंदर का नजारा देखकर उनके भी होश उड़ गए।\n\nआखिर कैसे चलता था ये पूरा खेल? पूरी कहानी देखें और वीडियो को शेयर करें।\n\n#KanpurNews #FakeCurrency #CrimeNews #KanpurPolice #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कानपुर में पांचवीं पास शख्स ने चलाया नकली नोटों का कारखाना! 🚨\n\nप्रिंटर और सादे कागजों से घर बैठे छाप रहा था नोट। पुलिस ने जब छापा मारा तो देखकर उड़ गए होश।\n\nपूरी कहानी देखें और शेयर करें।\n\n#KanpurNews #FakeCurrency #CrimeNews #KanpurPolice #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कानपुर में पांचवीं पास शख्स ने चलाया नकली नोटों का कारखाना! 🚨\n\nपढ़ाई लिखाई महज पांचवीं तक, लेकिन दिमाग ऐसा कि बड़े-बड़े शातिर भी फेल हो जाएं। प्रिंटर और साधारण कागजों की मदद से घर के अंदर ही नकली नोट छापने का यह काला कारोबार चल रहा था। पुलिस को जब इसकी भनक लगी और छापा पड़ा, तो अंदर का नजारा देख अफसरों के भी होश उड़ गए।\n\nयह शख्स आखिर कैसे इस खेल को अंजाम दे रहा था? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#KanpurNews #FakeCurrency #CrimeNews #KanpurPolice #BreakingNews"
+      },
+      "hashtags": [
+        "KanpurNews",
+        "FakeCurrency",
+        "CrimeNews",
+        "KanpurPolice",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/kanpur_fake_currency_printer_arrest.wav",
+    "audio_duration_sec": 29.97
+  },
+  {
+    "topic_label": "bihar_flood_relief_ration_boat_chaos",
+    "virality_score": 8,
+    "reason": "Dramatic visuals from Bihar showed desperate flood victims swarming a relief boat for ration packets, risking their lives.",
+    "region": "india",
+    "headline": "राशन की नाव देखते ही उमड़ी भीड़, दिखी लोगों की परेशानी",
+    "source_summary": "बिहार के दानापुर दियारा की मानस पंचायत में राहत राशन लेकर पहुंची सरकारी नाव के पास बाढ़ पीड़ितों की भीड़ जुट गई. लोग पानी में उतरकर राशन के पैकेट लेने लगे, जिससे नाव का संतुलन बिगड़ने लगा. SDM के मुताबिक, कर्मचारियों ने सुरक्षा को देखते हुए मौके पर ही राशन बांट दिया.",
+    "source_url": "https://www.aajtak.in/short-videos/video/bihar-flood-relief-ration-boat-video-viral-difficulties-while-distribution-danapur-diyara-mmtm-2640425-2026-09-10?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-10T22:04:01+05:30",
+    "hook": "राशन की नाव देखते ही पानी में कूदे बाढ़ पीड़ित!",
+    "script_hi": "बिहार के दानापुर दियारा में बाढ़ पीड़ितों का दर्द सामने आया है. राहत राशन की नाव पहुंचते ही लोग पानी में उतरकर राशन लेने लगे, जिससे नाव का संतुलन बिगड़ने लगा. अधिकारियों ने सुरक्षा को देखते हुए मौके पर ही राशन बांटने का फैसला किया.",
+    "tts_text_hi": "बिहार के दानापुर दियारा में बाढ़ पीड़ितों का दर्द सामने आया है. राहत राशन की नाव पहुंचते ही लोग पानी में उतरकर राशन लेने लगे, जिससे नाव का संतुलन बिगड़ने लगा. अधिकारियों ने सुरक्षा को देखते हुए मौके पर ही राशन बांटने का फैसला किया.",
+    "title": "बिहार के दानापुर में बाढ़ पीड़ितों की भीड़",
+    "caption": "बिहार के दानापुर दियारा में राहत राशन की नाव पहुंचते ही उमड़ी भीड़, पानी में उतरकर पैकेट लेने लगे लोग.",
+    "hashtags": [
+      "BiharFloods",
+      "Danapur",
+      "FloodRelief",
+      "BiharNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "flooded river India",
+      "boat in flood water India",
+      "crowd in flood water India",
+      "flood relief distribution India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flooded river India",
+        "credit": "Arto Suraj",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19022731/pexels-photo-19022731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "foldable smartphone display India",
-        "credit": "Imad Clicks",
+        "query": "boat in flood water India",
+        "credit": "Arto Suraj",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12997975/pexels-photo-12997975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38551002/pexels-photo-38551002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "luxury mobile phone India",
-        "credit": "Lens Of Pritam",
+        "query": "crowd in flood water India",
+        "credit": "Faisal Ibne Kalam",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8183844/pexels-photo-8183844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17750945/pexels-photo-17750945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "expensive smartphone unboxing",
-        "credit": "ENESFİLM",
+        "query": "people standing in flood water India",
+        "credit": "aamir dukanwala",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_903df3899c.jpg",
-        "source": "wikimedia_commons",
-        "query": "latest mobile phone launch",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flood relief distribution India",
+        "credit": "Arto Suraj",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30172648/pexels-photo-30172648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19063418/pexels-photo-19063418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "tech gadget showroom India",
-        "credit": "Shojol Islam",
+        "query": "rural flood situation Bihar",
+        "credit": "K",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30666637/pexels-photo-30666637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37180510/pexels-photo-37180510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "premium consumer electronics",
-        "credit": "Paul Raymond",
+        "query": "crowd gathered near water India",
+        "credit": "Pranav nav",
         "duration_sec": 4.3
       }
     ],
@@ -97,390 +416,218 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Apple iPhone Duo Launched in India",
-        "caption": "Apple का पहला फोल्डेबल फोन iPhone Duo भारत में लॉन्च, जानिए कीमत और फीचर्स।\n\n#Apple #iPhoneDuo #TechNews #FoldablePhone #AppleIndia"
+        "title": "राशन की नाव देखते ही पानी में कूदे बाढ़ पीड़ित! 🌊",
+        "caption": "राशन की नाव देखते ही पानी में कूदे बाढ़ पीड़ित! 🌊\n\nबिहार के दानापुर में बाढ़ के बीच फंसे लोगों का दर्द उस वक्त छलका जब राहत सामग्री लेकर नाव पहुंची। मदद पाने के लिए लोग अपनी जान जोखिम में डालकर पानी में उतर पड़े।\n\nपूरी कहानी वीडियो में देखें।\n\n#BiharFlood #Danapur #FloodRelief #BiharNews #GroundReport"
       },
       "instagram": {
         "title": null,
-        "caption": "Apple का पहला फोल्डेबल फोन iPhone Duo भारत में लॉन्च, जानिए कीमत और फीचर्स।\n\n#Apple #iPhoneDuo #TechNews #FoldablePhone #AppleIndia"
+        "caption": "राशन की नाव देखते ही पानी में कूदे बाढ़ पीड़ित! 🌊\n\nबिहार के दानापुर से सामने आए इस मंजर ने बता दिया कि हालात कितने भयानक हैं। मदद की एक झलक पाने के लिए लोगों को किस हद तक संघर्ष करना पड़ रहा है।\n\nक्या प्रशासन की ये तैयारी काफी है? कमेंट में बताएं।\n\n#BiharFlood #Danapur #FloodRelief #BiharNews #GroundReport"
       },
       "facebook": {
         "title": null,
-        "caption": "Apple का पहला फोल्डेबल फोन iPhone Duo भारत में लॉन्च, जानिए कीमत और फीचर्स।\n\n#Apple #iPhoneDuo #TechNews #FoldablePhone #AppleIndia"
+        "caption": "राशन की नाव देखते ही पानी में कूदे बाढ़ पीड़ित! 🌊\n\nबिहार के दानापुर में बाढ़ से घिरे इलाकों का यह हाल दिल दहला देने वाला है। जैसे ही राहत सामग्री से भरी नाव पहुंची, अपनी और अपने परिवार की भूख मिटाने के लिए लोग बेकाबू होकर पानी में कूद पड़े। \n\nहालात कितने गंभीर हैं, यह इस एक तस्वीर से साफ है। पूरी रिपोर्ट देखें।\n\n#BiharFlood #Danapur #FloodRelief #BiharNews #GroundReport"
       },
       "hashtags": [
-        "Apple",
-        "iPhoneDuo",
-        "TechNews",
-        "FoldablePhone",
-        "AppleIndia"
+        "BiharFlood",
+        "Danapur",
+        "FloodRelief",
+        "BiharNews",
+        "GroundReport"
       ]
     },
-    "audio_path": "audio/apple_iphone_duo_foldable_price_launch.wav",
-    "audio_duration_sec": 18.95
+    "audio_path": "audio/bihar_flood_relief_ration_boat_chaos.wav",
+    "audio_duration_sec": 12.81
   },
   {
-    "topic_label": "daman_collector_thar_fortuner_safety_pledge",
-    "virality_score": 9,
-    "reason": "Unique administrative action forcing large SUV owners to take traffic safety pledges is quirky and viral.",
+    "topic_label": "maharashtra_bhandara_truck_car_accident_deaths",
+    "virality_score": 8,
+    "reason": "A horrific road collision in Maharashtra's Bhandara killed 8 people, including three children, requiring heavy machinery to extricate victims.",
     "region": "india",
-    "headline": "‘Thar मतलब जिम्मेदारी…’, दमन कलेक्टर ने SUV मालिकों को क्यों दिलाई शपथ? आनंद महिंद्रा को भी किया टैग",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/add-a-heading-31.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"‘Thar मतलब जिम्मेदारी…’, दमन कलेक्टर ने SUV मालिकों को क्यों दिलाई शपथ? आनंद महिंद्रा को भी किया टैग\" /></figure>Bhaigiri Is Not Cool: दमन के कलेक्टर सौरभ मिश्रा ने एक अनोखी मुहिम चलाई. उन्होंने Thar-Fortuner मालिकों को सुरक्षित ड्राइविंग और सड़कों पर 'भाईगिरी' न करने की शपथ दिलाई.",
-    "source_url": "https://www.tv9hindi.com/state/daman-collector-saurabh-mishra-makes-thar-fortuner-owners-take-safe-driving-pledge-3903876.html",
-    "source_name": "TV9 Hindi",
-    "published": "Fri, 11 Sep 2026 08:48:27 +0530",
-    "hook": "थार मतलब भाईगिरी नहीं, जिम्मेदारी!",
-    "script_hi": "दमन के कलेक्टर सौरभ मिश्रा ने एक अनोखी मुहिम चलाई है। उन्होंने थार और फॉर्च्यूनर जैसी एसयूवी के मालिकों को सुरक्षित ड्राइविंग की शपथ दिलाई। कलेक्टर ने साफ कहा कि सड़कों पर भाईगिरी बिल्कुल कूल नहीं है। इस खास पहल में आनंद महिंद्रा को भी टैग किया गया है।",
-    "tts_text_hi": "दमन के कलेक्टर सौरभ मिश्रा ने एक अनोखी मुहिम चलाई है। उन्होंने थार और फॉर्च्यूनर जैसी एसयूवी के मालिकों को सुरक्षित ड्राइविंग की शपथ दिलाई। कलेक्टर ने साफ कहा कि सड़कों पर भाईगिरी बिल्कुल कूल नहीं है। इस खास पहल में आनंद महिंद्रा को भी टैग किया गया है।",
-    "title": "दमन कलेक्टर की अनोखी मुहिम, Thar-Fortuner मालिकों को दिलाई शपथ",
-    "caption": "थार मतलब भाईगिरी नहीं, जिम्मेदारी! दमन के कलेक्टर ने SUV मालिकों को दिलाई सुरक्षित ड्राइविंग की शपथ।",
+    "headline": "महाराष्ट्र में बड़ा हादसा, भंडारा में ट्रक-कार की टक्कर में 8 की मौत, 2 जेसीबी से निकालनी पड़ी फंसी कार",
+    "source_summary": "महाराष्ट्र के भंडारा जिले में शुक्रवार की सुबह भीषण सड़क हादसे में 8 लोगों की मौत हो गई, जिसमें तीन मासूम भी शामिल हैं. तीन लोग गंभीर रूप से घायल हैं, जिनका साकोली में इलाज जारी है.",
+    "source_url": "https://ndtv.in/maharashtra-news/maharashtra-bhandara-road-accident-today-8-killed-and-nanded-van-truck-collision-6-death-12031409#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 11 Sep 2026 10:08:49 +0530",
+    "hook": "महाराष्ट्र के भंडारा में दर्दनाक सड़क हादसा!",
+    "script_hi": "महाराष्ट्र के भंडारा जिले में सुबह भीषण सड़क हादसे में आठ लोगों की मौत हो गई, जिसमें तीन मासूम भी शामिल हैं। टक्कर इतनी जोरदार थी कि कार ट्रक के नीचे घुस गई, जिसे निकालने के लिए दो जेसीबी मशीनों का इस्तेमाल करना पड़ा। इस हादसे में तीन लोग गंभीर रूप से घायल हैं, जिनका साकोली के अस्पताल में इलाज जारी है।",
+    "tts_text_hi": "महाराष्ट्र के भंडारा जिले में सुबह भीषण सड़क हादसे में आठ लोगों की मौत हो गई, जिसमें तीन मासूम भी शामिल हैं। टक्कर इतनी जोरदार थी कि कार ट्रक के नीचे घुस गई, जिसे निकालने के लिए दो जेसीबी मशीनों का इस्तेमाल करना पड़ा। इस हादसे में तीन लोग गंभीर रूप से घायल हैं, जिनका साकोली के अस्पताल में इलाज जारी है।",
+    "title": "महाराष्ट्र के भंडारा में भीषण सड़क हादसा, ट्रक और कार की टक्कर में आठ लोगों की मौत",
+    "caption": "महाराष्ट्र के भंडारा में दर्दनाक सड़क हादसा, ट्रक-कार की टक्कर में आठ लोगों की जान गई। #Maharashtra #Bhandara #RoadAccident #NewsUpdates",
     "hashtags": [
-      "MahindraThar",
-      "Daman",
-      "RoadSafety",
-      "AnandMahindra",
-      "SUV",
-      "TrendingNews"
+      "Maharashtra",
+      "Bhandara",
+      "RoadAccident",
+      "AccidentNews",
+      "Sakoli",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian administrative official office",
-      "Mahindra Thar SUV India",
-      "Indian traffic safety campaign"
-    ],
-    "named_person": "Anand Mahindra",
-    "named_person_hi": "आनंद महिंद्रा",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "आनंद महिंद्रा",
-        "source": "fallback",
-        "query": "Anand Mahindra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian administrative official office",
-        "credit": "Nishant Malik",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20707186/pexels-photo-20707186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mahindra Thar SUV India",
-        "credit": "Rubaitul Azad",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38826679/pexels-photo-38826679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian traffic safety campaign",
-        "credit": "Votso Sothu",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "थार मतलब भाईगिरी नहीं, जिम्मेदारी! दमन कलेक्टर की अनोखी मुहिम 🚙",
-        "caption": "थार मतलब भाईगिरी नहीं, जिम्मेदारी! 🚙\n\nदमन कलेक्टर ने SUV मालिकों को थाने बुलाकर ऐसी शपथ दिलाई कि वीडियो सोशल मीडिया पर छा गया है। इस अनोखी मुहिम में आनंद महिंद्रा को भी टैग किया गया है।\n\nक्या आपकी गाड़ी की पहचान सिर्फ स्टंट से है या जिम्मेदारी से? पूरी कहानी देखें और अपनी राय बताएं।\n\n#DamanNews #TharLovers #AnandMahindra #RoadSafetyIndia #ViralVideo"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "थार मतलब भाईगिरी नहीं, जिम्मेदारी! 🚙\n\nदमन कलेक्टर ने SUV मालिकों को सड़क पर अनुशासन की ऐसी शपथ दिलाई कि सब हैरान रह गए। आनंद महिंद्रा को भी टैग किया गया इस मुहिम में। \n\nक्या ऐसे नियमों से सच में सड़क हादसे रुकेंगे? कमेंट में बताएं।\n\n#DamanNews #TharLovers #AnandMahindra #RoadSafetyIndia #ViralVideo"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "थार मतलब भाईगिरी नहीं, जिम्मेदारी! 🚙\n\nदमन कलेक्टर ने Thar और Fortuner चलाने वालों को लेकर एक ऐसा कदम उठाया जिसकी चर्चा हर तरफ हो रही है। गाड़ी मालिकों को थाने बुलाकर जो शपथ दिलाई गई, उसका वीडियो आनंद महिंद्रा तक पहुंच गया है। \n\nक्या आपकी कॉलोनी या शहर में भी ऐसा नियम होना चाहिए? वीडियो पूरा देखकर अपनी राय ज़रूर साझा करें।\n\n#DamanNews #TharLovers #AnandMahindra #RoadSafetyIndia #ViralVideo"
-      },
-      "hashtags": [
-        "DamanNews",
-        "TharLovers",
-        "AnandMahindra",
-        "RoadSafetyIndia",
-        "ViralVideo"
-      ]
-    },
-    "audio_path": "audio/daman_collector_thar_fortuner_safety_pledge.wav",
-    "audio_duration_sec": 20.54
-  },
-  {
-    "topic_label": "assam_elephant_tractor_tire_stuck_rescue",
-    "virality_score": 9,
-    "reason": "Heartwarming and unusual wildlife rescue story of an elephant with a tire stuck around its neck.",
-    "region": "india",
-    "headline": "टायर फंसे हाथी को देख हैरान हुए लोग, VIDEO वायरल",
-    "source_summary": "असम के नुमालीगढ़ के बोकीयाल इलाके में एक जंगली हाथी गले में ट्रैक्टर का टायर फंसा हुआ चाय बागान में दिखाई दिया. तस्वीरें और वीडियो सामने आने के बाद हाथी की सुरक्षा को लेकर चिंता जताई जा रही है. टायर उसके गले में कैसे फंसा, इसकी स्पष्ट जानकारी अभी सामने नहीं आई है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/elephant-tractor-tyre-stuck-neck-assam-viral-video-details-mmtm-2640410-2026-09-10?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-10T21:25:03+05:30",
-    "hook": "असम के चाय बागान में गले में टायर फंसा हाथी देखा गया!",
-    "script_hi": "असम के नुमालीगढ़ के बोकीयाल इलाके में एक अजीब घटना सामने आई, जहाँ एक जंगली हाथी के गले में ट्रैक्टर का टायर फंसा हुआ चाय बागान में दिखाई दिया। इस घटना के वीडियो और तस्वीरें सामने आने के बाद हाथी की सुरक्षा को लेकर गहरी चिंता जताई जा रही है। वन विभाग के अधिकारी अब हाथी की तलाश में जुटे हैं। टायर उसके गले में कैसे फंसा, इसकी स्पष्ट जानकारी अभी तक सामने नहीं आई है।",
-    "tts_text_hi": "असम के नुमालीगढ़ के बोकीयाल इलाके में एक अजीब घटना सामने आई, जहाँ एक जंगली हाथी के गले में ट्रैक्टर का टायर फंसा हुआ चाय बागान में दिखाई दिया। इस घटना के वीडियो और तस्वीरें सामने आने के बाद हाथी की सुरक्षा को लेकर गहरी चिंता जताई जा रही है। वन विभाग के अधिकारी अब हाथी की तलाश में जुटे हैं। टायर उसके गले में कैसे फंसा, इसकी स्पष्ट जानकारी अभी तक सामने नहीं आई है।",
-    "title": "असम के चाय बागान में दिखा गले में टायर फंसा हाथी",
-    "caption": "असम के नुमालीगढ़ में एक जंगली हाथी के गले में ट्रैक्टर का टायर फंसा हुआ नजर आया, जिससे उसकी सुरक्षा पर सवाल खड़े हो गए हैं।",
-    "hashtags": [
-      "#Assam",
-      "#ElephantRescue",
-      "#WildLife",
-      "#Numaligarh",
-      "#ViralVideo",
-      "#News"
-    ],
-    "visual_queries": [
-      "wild elephant India",
-      "tea garden India",
-      "forest department India"
+      "India highway road",
+      "damaged car accident India",
+      "heavy traffic police India",
+      "hospital emergency India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is centered around a specific viral video of a wild elephant with a tyre stuck on its neck, which requires the actual real footage rather than generic stock b-roll.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11094477/pexels-photo-11094477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "wild elephant India",
-        "credit": "Swarup Sarkar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36906757/pexels-photo-36906757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "tea garden India",
-        "credit": "Mohit Gupta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14826026/pexels-photo-14826026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "forest department India",
-        "credit": "Amanjot  Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bipasha_basu_protein_powder_worm_controversy",
-    "virality_score": 8,
-    "reason": "Celebrity consumer complaint regarding worms in a protein product has high viral appeal.",
-    "region": "india",
-    "headline": "बिपाशा बसु के प्रोटीन पाउडर में निकले कीड़े, वीडियो शेयर कर तुकाराम मुंढे से मांगी मदद, कहा- आपसे ही है उम्मीद",
-    "source_summary": "एक्ट्रेस बिपाशा बसु ने प्रोटीन पाउडर की गुणवत्ता पर सवाल उठाते हुए महाराष्ट्र के FDA कमिश्नर तुकाराम मुंडे से गुहार लगाई है. दरअसल, एक्ट्रेस ने दावा किया कि उनके नए खुले प्रोटीन पाउडर की बोटल में एक छोटा कीड़ा मिला है.",
-    "source_url": "https://ndtv.in/bollywood/bipasha-basu-found-tiny-worms-in-protein-powder-shares-video-and-asked-tukaram-mude-for-help-12031028#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 11 Sep 2026 07:24:06 +0530",
-    "hook": "बिपाशा बसु के प्रोटीन पाउडर में निकला कीड़ा!",
-    "script_hi": "अभिनेत्री बिपाशा बसु के नए खुले प्रोटीन पाउडर के डिब्बे में एक छोटा कीड़ा मिला है। बिपाशा ने इस घटिया गुणवत्ता पर सवाल उठाते हुए महाराष्ट्र के एफ डी ए कमिश्नर तुकाराम मुंडे से मदद की गुहार लगाई है।",
-    "tts_text_hi": "अभिनेत्री बिपाशा बसु के नए खुले प्रोटीन पाउडर के डिब्बे में एक छोटा कीड़ा मिला है। बिपाशा ने इस घटिया गुणवत्ता पर सवाल उठाते हुए महाराष्ट्र के एफ डी ए कमिश्नर तुकाराम मुंडे से मदद की गुहार लगाई है।",
-    "title": "बिपाशा बसु के प्रोटीन पाउडर में निकले कीड़े",
-    "caption": "एक्ट्रेस बिपाशा बसु के प्रोटीन पाउडर में कीड़ा निकलने का मामला सामने आया है। उन्होंने महाराष्ट्र के FDA कमिश्नर से मदद मांगी है।",
-    "hashtags": [
-      "BipashaBasu",
-      "MaharashtraNews",
-      "ProteinPowder",
-      "FoodSafety",
-      "NewsUpdates"
-    ],
-    "visual_queries": [
-      "Indian celebrity India",
-      "protein powder jar India",
-      "food safety officer India"
-    ],
-    "named_person": "Bipasha Basu",
-    "named_person_hi": "बिपाशा बसु",
-    "secondary_persons": [
-      "Tukaram Mundhe"
-    ],
-    "est_duration_sec": 27,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "बिपाशा बसु",
-        "source": "fallback",
-        "query": "Bipasha Basu",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9345708/pexels-photo-9345708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38065657/pexels-photo-38065657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian celebrity India",
-        "credit": "Anna Pou",
+        "query": "India highway road",
+        "credit": "Hb  zee",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16216617/pexels-photo-16216617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30893737/pexels-photo-30893737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "protein powder jar India",
-        "credit": "ibrahim hafedh",
+        "query": "damaged car accident India",
+        "credit": "Алексей Веретенников",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10915256/pexels-photo-10915256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "protein supplement jar",
-        "credit": "Александр Полепкин",
+        "query": "heavy traffic police India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency India",
+        "credit": "Chauhan Dixant",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "बिपाशा बसु के प्रोटीन पाउडर में निकले कीड़े! 🪱",
-        "caption": "बिपाशा बसु के प्रोटीन पाउडर में निकला कीड़ा! 🪱\n\nएक्ट्रेस बिपाशा बसु ने ब्रांडेड प्रोटीन पाउडर में कीड़े निकलने का वीडियो शेयर किया है। उन्होंने सीनियर आईएएस अधिकारी तुकाराम मुंढे से मदद की गुहार लगाई है।\n\nक्या बड़े ब्रांड्स की सेफ्टी पर अब भरोसा करना मुश्किल हो गया है? पूरी कहानी देखें।\n\n#BipashaBasu #ProteinPowder #TukaramMunde #HealthAlert #BollywoodNews"
+        "title": "भंडारा में भीषण हादसा: ट्रक और कार की टक्कर में 8 की मौत 🚨",
+        "caption": "ट्रक और कार की ऐसी टक्कर कि 2 जेसीबी बुलानी पड़ गईं! 🚛💥\n\nमहाराष्ट्र के भंडारा जिले में हुए इस दर्दनाक हादसे में एक ही परिवार के 8 लोगों की जान चली गई। कार पूरी तरह से ट्रक के नीचे फंस गई थी जिसे निकालने में घंटों मशक्कत करनी पड़ी। \n\nआखिर ये हादसा कैसे हुआ? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#BhandaraAccident #MaharashtraNews #RoadAccident #BhandaraNews #LatestHindiNews"
       },
       "instagram": {
         "title": null,
-        "caption": "बिपाशा बसु के प्रोटीन पाउडर में निकला कीड़ा! 🪱\n\nफेमस ब्रांड के प्रोटीन में जिंदा कीड़े देखकर एक्ट्रेस हैरान रह गईं। वीडियो शेयर कर उन्होंने तुरंत एक्शन की मांग की है।\n\nआपके साथ ऐसा हो तो आप क्या करेंगे? कमेंट में बताएं।\n\n#BipashaBasu #ProteinPowder #TukaramMunde #HealthAlert #BollywoodNews"
+        "caption": "ट्रक के नीचे ऐसे फंसी कार कि बाहर निकालने के लिए लानी पड़ीं 2 जेसीबी! 🚜\n\nमहाराष्ट्र के भंडारा में हुए इस भीषण हादसे ने हर किसी को दहला दिया है, जिसमें 8 लोगों की दर्दनाक मौत हो गई। \n\nये भयानक मंजर देख रोंगटे खड़े हो जाएंगे। पूरी कहानी देखें।\n\n#BhandaraAccident #MaharashtraNews #RoadAccident #BhandaraNews #LatestHindiNews"
       },
       "facebook": {
         "title": null,
-        "caption": "बिपाशा बसु के प्रोटीन पाउडर में निकला कीड़ा! 🪱\n\nफिटनेस के लिए जिस प्रोटीन पर लोग आंख बंद करके भरोसा करते हैं, उसी में कीड़े निकल आएं तो क्या होगा? एक्ट्रेस बिपाशा बसु के साथ कुछ ऐसा ही हुआ। उन्होंने वीडियो शेयर कर आईएएस तुकाराम मुंढे से मदद मांगी है।\n\nक्या बड़े ब्रांड्स अब पैसों के लिए सेहत से खिलवाड़ कर रहे हैं? पूरी कहानी देखें और अपनी राय दें।\n\n#BipashaBasu #ProteinPowder #TukaramMunde #HealthAlert #BollywoodNews"
+        "caption": "एक गलत रफ्तार और चली गईं 8 जानें! महाराष्ट्र के भंडारा से दिल दहला देने वाली खबर सामने आई है। 💔\n\nयहाँ एक तेज रफ्तार ट्रक और कार की आमने-सामने की टक्कर इतनी भयानक थी कि कार ट्रक के नीचे बुरी तरह पिचक गई। हालात ऐसे थे कि दबे हुए शवों और गाड़ी को बाहर निकालने के लिए 2-2 जेसीबी बुलानी पड़ीं। \n\nसड़क पर चलती गाड़ियों की ये लापरवाही कब थमेगी? वीडियो पूरा देखें और दूसरों के साथ भी शेयर करें ताकि सब सतर्क रहें।\n\n#BhandaraAccident #MaharashtraNews #RoadAccident #BhandaraNews #LatestHindiNews"
       },
       "hashtags": [
-        "BipashaBasu",
-        "ProteinPowder",
-        "TukaramMunde",
-        "HealthAlert",
-        "BollywoodNews"
+        "BhandaraAccident",
+        "MaharashtraNews",
+        "RoadAccident",
+        "BhandaraNews",
+        "LatestHindiNews"
       ]
     },
-    "audio_path": "audio/bipasha_basu_protein_powder_worm_controversy.wav",
-    "audio_duration_sec": 14.99
+    "audio_path": "audio/maharashtra_bhandara_truck_car_accident_deaths.wav",
+    "audio_duration_sec": 22.6
   },
   {
-    "topic_label": "sonipat_nandu_gang_police_encounter",
+    "topic_label": "indigo_flight_dammam_bomb_threat_tissue",
     "virality_score": 8,
-    "reason": "High-octane police encounter involving extortion and gangsters creates strong local engagement.",
+    "reason": "An international IndiGo flight made an emergency landing after a bomb threat was discovered written on a tissue paper.",
     "region": "india",
-    "headline": "सोनीपत में नंदू गैंग के दो शूटरों का एनकाउंटर, 2 करोड़ की रंगदारी से जुड़ा मामला",
-    "source_summary": "सोनीपत में नंदू गैंग के नाम पर खरखौदा निवासी से 2 करोड़ रुपये की फिरौती मांगी गई। रकम नहीं देने पर कार्यालय में फायरिंग हुई। पुलिस ने हरसाना के पास मुठभेड़ में दोनों आरोपियों को पकड़ लिया। दोनों के पैरों में गोली लगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/chandigarh/nandu-gang-two-shooters-encounter-in-sonipat-of-haryana/articleshow/134043860.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 11 Sep 2026 09:17:00 +0530",
-    "hook": "सोनीपत में नंदू गैंग के शूटरों और पुलिस के बीच हुई ताबड़तोड़ मुठभेड़!",
-    "script_hi": "हरियाणा के सोनीपत में नंदू गैंग के नाम पर दो करोड़ रुपये की फिरौती मांगने वाले दो शूटरों को पुलिस ने मुठभेड़ के बाद दबोच लिया है। आरोपियों ने रंगदारी न मिलने पर एक कार्यालय में फायरिंग की थी। हरसाना के पास हुई इस मुठभेड़ में दोनों आरोपियों के पैरों में गोली लगी है।",
-    "tts_text_hi": "हरियाणा के सोनीपत में नंदू गैंग के नाम पर दो करोड़ रुपये की फिरौती मांगने वाले दो शूटरों को पुलिस ने मुठभेड़ के बाद दबोच लिया है। आरोपियों ने रंगदारी न मिलने पर एक कार्यालय में फायरिंग की थी। हरसाना के पास हुई इस मुठभेड़ में दोनों आरोपियों के पैरों में गोली लगी है।",
-    "title": "सोनीपत में नंदू गैंग के शूटरों का एनकाउंटर",
-    "caption": "सोनीपत में नंदू गैंग के शूटरों का एनकाउंटर, दो करोड़ की रंगदारी से जुड़ा मामला।",
+    "headline": "IndiGo Flight की अहमदाबाद में इमरजेंसी लैंडिंग, टिशू पेपर पर लिखा 'Bomb', 10 दिन में दूसरी धमकी",
+    "source_summary": "IndiGo Flight Bomb Threat: लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की अंतरराष्ट्रीय उड़ान में गुरुवार (10 सितंबर) को बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में टिशू पेपर पर 'बम' लिखे होने की सूचना मिलने के",
+    "source_url": "https://hindi.oneindia.com/news/india/indigo-flight-bomb-threat-ahmedabad-emergency-landing-after-tissue-paper-bomb-threats-news-hindi-1646251.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Thu, 10 Sep 2026 19:50:07 +0530",
+    "hook": "इंडिगो की फ्लाइट में फिर बम की धमकी से हड़कंप!",
+    "script_hi": "लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की उड़ान में बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में एक टिशू पेपर पर बम लिखे होने की सूचना मिली, जिसके बाद विमान की अहमदाबाद में इमरजेंसी लैंडिंग कराई गई। पिछले दस दिनों में किसी विमान को मिली यह दूसरी धमकी है।",
+    "tts_text_hi": "लखनऊ से सऊदी अरब के दम्माम जा रही इंडिगो की उड़ान में बम की धमकी मिलने से हड़कंप मच गया। फ्लाइट में एक टिशू पेपर पर बम लिखे होने की सूचना मिली, जिसके बाद विमान की अहमदाबाद में इमरजेंसी लैंडिंग कराई गई। पिछले दस दिनों में किसी विमान को मिली यह दूसरी धमकी है।",
+    "title": "IndiGo Flight Bomb Threat: अहमदाबाद में इंडिगो की इमरजेंसी लैंडिंग",
+    "caption": "लखनऊ से दम्माम जा रही इंडिगो फ्लाइट में टिशू पेपर पर मिला बम का संदेश, अहमदाबाद में आपात लैंडिंग।",
     "hashtags": [
-      "Sonipat",
-      "HaryanaPolice",
-      "Encounter",
-      "NanduGang",
-      "CrimeNews",
+      "IndiGo",
+      "BombThreat",
+      "AhmedabadAirport",
+      "BreakingNews",
+      "FlightSafety",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Indian police station exterior India",
-      "police barricade checkpoint India",
-      "injured criminal hospital bed India"
+      "IndiGo airplane India",
+      "tissue paper note India",
+      "Ahmedabad airport runway India",
+      "airport security police India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38865292/pexels-photo-38865292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police barricade checkpoint India",
-        "credit": "Sonika Agarwal",
+        "query": "IndiGo airplane India",
+        "credit": "Karthick s",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5909787/pexels-photo-5909787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police operation India",
-        "credit": "Nishant Sharma",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38910526/pexels-photo-38910526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police sirens flashing night",
-        "credit": "Anderson Alves",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation india",
+        "query": "tissue paper note India",
         "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6754159/pexels-photo-6754159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7701595/pexels-photo-7701595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "medical emergency stretcher hospital",
-        "credit": "Pavel Danilyuk",
+        "query": "Ahmedabad airport runway India",
+        "credit": "THE JD Darshan Solanki",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28288655/pexels-photo-28288655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police operation tactical team",
-        "credit": "Orhan Boran  Şahin",
+        "query": "airport security police India",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सोनीपत में नंदू गैंग के शूटरों से मुठभेड़! 💥 2 करोड़ की रंगदारी का सनसनीखेज मामला",
-        "caption": "2 करोड़ की रंगदारी न देने पर खून-खराबा करने आए थे नंदू गैंग के बदमाश, फिर पुलिस से आमना-सामना होते ही...\n\nसोनीपत में पुलिस और कुख्यात नंदू गैंग के शूटरों के बीच ताबड़तोड़ फायरिंग हुई। दोनों तरफ से कई राउंड गोलियां चलीं, जिसके बाद पुलिस ने मुख्य आरोपियों को धर दबोचा।\n\nपूरी कहानी वीडियो में देखें।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
+        "title": "10 दिन में दूसरी बार! इंडिगो फ्लाइट में बम की धमकी से मचा हड़कंप ✈️",
+        "caption": "टिशू पेपर पर लिखा मिला 'Bomb' और फिर अहमदाबाद में करानी पड़ी इमरजेंसी लैंडिंग! 🧻✈️\n\nमहज 10 दिनों के भीतर इंडिगो फ्लाइट को दूसरी बार ऐसी धमकी मिलने से सुरक्षा एजेंसियां भी हैरान हैं। \n\nआखिर इस धमकी के पीछे कौन है? पूरी कहानी देखें वीडियो में।\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightSafety"
       },
       "instagram": {
         "title": null,
-        "caption": "2 करोड़ की रंगदारी न मिलने पर मचाना था कोहराम, उससे पहले ही पुलिस ने घेर लिया! 🚨\n\nसोनीपत में नंदू गैंग के शूटरों और पुलिस के बीच जबरदस्त मुठभेड़ हुई। फायरिंग के बाद दोनों बदमाशों को दबोच लिया गया।\n\nक्या रंगदारी के मामलों पर लगाम लग पाएगी? कमेंट में बताएं।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
+        "caption": "टिशू पेपर पर लिखा मिला 'Bomb' और उड़ गए सबके होश! 🧻✈️\n\n10 दिन के अंदर इंडिगो की फ्लाइट में दोबारा ऐसी धमकी मिलने से सनसनी फैल गई है। अहमदाबाद में तुरंत इमरजेंसी लैंडिंग करानी पड़ी। \n\nआपकी इस पर क्या राय है? कॉमेंट में बताएं।\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightSafety"
       },
       "facebook": {
         "title": null,
-        "caption": "सिर्फ 2 करोड़ की रंगदारी वसूलने के लिए शहर में बड़ा तांडव करने की तैयारी थी, लेकिन पुलिस ने वक्त रहते खेल बिगाड़ दिया।\n\nसोनीपत में पुलिस और कुख्यात नंदू गैंग के शूटरों के बीच हुई इस ताबड़तोड़ मुठभेड़ का पूरा सच जानिए। दोनों तरफ से कई राउंड गोलियां चलीं जिसके बाद बदमाशों के मंसूबे धरे के धरे रह गए।\n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#SonipatEncounter #NanduGang #HaryanaPolice #CrimeNews #SonipatNews"
+        "caption": "टिशू पेपर पर एक छोटा सा नोट लिखा था और फ्लाइट में बैठे यात्रियों की सांसें थम गईं। 🧻✈️\n\nअहमदाबाद जा रही इंडिगो की उड़ान को बम से उड़ाने की धमकी मिलने के बाद तुरंत इमरजेंसी लैंडिंग कराई गई। हैरान करने वाली बात यह है कि महज 10 दिनों के भीतर इस एयरलाइन को दूसरी बार ऐसी धमकी मिली है। \n\nसुरक्षा एजेंसियों की जांच जारी है, पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#IndiGoFlight #BombThreat #AhmedabadAirport #BreakingNews #FlightSafety"
       },
       "hashtags": [
-        "SonipatEncounter",
-        "NanduGang",
-        "HaryanaPolice",
-        "CrimeNews",
-        "SonipatNews"
+        "IndiGoFlight",
+        "BombThreat",
+        "AhmedabadAirport",
+        "BreakingNews",
+        "FlightSafety"
       ]
     },
-    "audio_path": "audio/sonipat_nandu_gang_police_encounter.wav",
-    "audio_duration_sec": 20.02
+    "audio_path": "audio/indigo_flight_dammam_bomb_threat_tissue.wav",
+    "audio_duration_sec": 19.91
   }
 ]
