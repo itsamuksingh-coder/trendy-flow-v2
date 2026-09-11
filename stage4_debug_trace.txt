@@ -1,8 +1,9 @@
-ready_labels: ['apple_iphone_duo_launch_india_price', 'bihar_flood_relief_ration_boat_chaos', 'indigo_flight_dammam_bomb_threat_tissue', 'kanpur_fake_currency_printer_arrest', 'maharashtra_bhandara_truck_car_accident_deaths', 'putin_delhi_brics_visit_defense_deals']
+ready_labels: ['gold_silver_price_sharp_drop_september', 'mp_hooch_tragedy_accused_encounter', 'nitin_gadkari_barrier_free_toll_system', 'pm_modi_putin_brics_summit_delhi', 'sunil_gavaskar_criticizes_icc_player_workload', 'swiss_alps_tourist_bus_crash_global']
 
-putin_delhi_brics_visit_defense_deals: SUCCESS -> video_path=videos/putin_delhi_brics_visit_defense_deals.mp4 dur=29.826213
-apple_iphone_duo_launch_india_price: SUCCESS -> video_path=videos/apple_iphone_duo_launch_india_price.mp4 dur=27.226213
-kanpur_fake_currency_printer_arrest: SUCCESS -> video_path=videos/kanpur_fake_currency_printer_arrest.mp4 dur=37.889887
-bihar_flood_relief_ration_boat_chaos: SUCCESS -> video_path=videos/bihar_flood_relief_ration_boat_chaos.mp4 dur=20.856553
-maharashtra_bhandara_truck_car_accident_deaths: SUCCESS -> video_path=videos/maharashtra_bhandara_truck_car_accident_deaths.mp4 dur=30.556553
-indigo_flight_dammam_bomb_threat_tissue: SUCCESS -> video_path=videos/indigo_flight_dammam_bomb_threat_tissue.mp4 dur=27.889887
+pm_modi_putin_brics_summit_delhi: SUCCESS -> video_path=videos/pm_modi_putin_brics_summit_delhi.mp4 dur=33.62322
+apple_iphone_duo_foldable_price_india: SKIPPED (not in ready set)
+sunil_gavaskar_criticizes_icc_player_workload: SUCCESS -> video_path=videos/sunil_gavaskar_criticizes_icc_player_workload.mp4 dur=27.017211
+gold_silver_price_sharp_drop_september: SUCCESS -> video_path=videos/gold_silver_price_sharp_drop_september.mp4 dur=25.056553
+nitin_gadkari_barrier_free_toll_system: SUCCESS -> video_path=videos/nitin_gadkari_barrier_free_toll_system.mp4 dur=26.156553
+mp_hooch_tragedy_accused_encounter: SUCCESS -> video_path=videos/mp_hooch_tragedy_accused_encounter.mp4 dur=28.224218
+swiss_alps_tourist_bus_crash_global: SUCCESS -> video_path=videos/swiss_alps_tourist_bus_crash_global.mp4 dur=24.439229
