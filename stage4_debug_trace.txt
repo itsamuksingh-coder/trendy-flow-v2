@@ -1,6 +1,5 @@
-ready_labels: ['brics_summit_delhi_modi_putin_pezeshkian', 'hardoi_wild_animal_attack_elderly_woman', 'harish_rawat_pa_ed_raid_cash_watches']
+ready_labels: ['brics_summit_delhi_modi_putin_jinping']
 
-brics_summit_delhi_modi_putin_pezeshkian: SUCCESS -> video_path=videos/brics_summit_delhi_modi_putin_pezeshkian.mp4 dur=27.411224
-harish_rawat_pa_ed_raid_cash_watches: SUCCESS -> video_path=videos/harish_rawat_pa_ed_raid_cash_watches.mp4 dur=33.750227
-houthi_ai_voice_clone_mokka_port_seizure: SKIPPED (not in ready set)
-hardoi_wild_animal_attack_elderly_woman: SUCCESS -> video_path=videos/hardoi_wild_animal_attack_elderly_woman.mp4 dur=33.889887
+brics_summit_delhi_modi_putin_jinping: SUCCESS -> video_path=videos/brics_summit_delhi_modi_putin_jinping.mp4 dur=33.689887
+jaipur_man_kills_family_makes_tea: SKIPPED (not in ready set)
+vaishali_liquor_smuggling_truck_chase: SKIPPED (not in ready set)
