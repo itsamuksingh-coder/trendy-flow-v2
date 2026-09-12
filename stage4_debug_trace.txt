@@ -1,10 +1,9 @@
-ready_labels: ['bihar_children_jugaad_boat_school', 'bihar_woman_found_alive_after_12_years_murder_case', 'delhi_man_rare_uterus_fallopian_tubes_medical', 'jindal_steel_world_record_slag_road', 'pm_modi_xi_jinping_brics_bilateral_meeting', 'west_bengal_drdo_missile_testing_center']
+ready_labels: ['modi_xi_jinping_brics_meeting_three_mutuals', 'moldova_extradites_punjab_gangster_amritpal_singh', 'mp_ladli_bahna_yojana_40th_installment', 'nitin_gadkari_insurance_premium_safe_driving', 'trump_united_ireland_fantastic_global']
 
-pm_modi_xi_jinping_brics_bilateral_meeting: SUCCESS -> video_path=videos/pm_modi_xi_jinping_brics_bilateral_meeting.mp4 dur=28.02322
-bihar_woman_found_alive_after_12_years_murder_case: SUCCESS -> video_path=videos/bihar_woman_found_alive_after_12_years_murder_case.mp4 dur=28.32322
-delhi_man_rare_uterus_fallopian_tubes_medical: SUCCESS -> video_path=videos/delhi_man_rare_uterus_fallopian_tubes_medical.mp4 dur=26.22322
-rishikesh_bulls_fight_scooter_woman: SKIPPED (not in ready set)
-indore_mahindra_thar_bridge_fall_accident: SKIPPED (not in ready set)
-bihar_children_jugaad_boat_school: SUCCESS -> video_path=videos/bihar_children_jugaad_boat_school.mp4 dur=38.255215
-jindal_steel_world_record_slag_road: SUCCESS -> video_path=videos/jindal_steel_world_record_slag_road.mp4 dur=31.489887
-west_bengal_drdo_missile_testing_center: SUCCESS -> video_path=videos/west_bengal_drdo_missile_testing_center.mp4 dur=24.82322
+modi_xi_jinping_brics_meeting_three_mutuals: SUCCESS -> video_path=videos/modi_xi_jinping_brics_meeting_three_mutuals.mp4 dur=25.956553
+moldova_extradites_punjab_gangster_amritpal_singh: SUCCESS -> video_path=videos/moldova_extradites_punjab_gangster_amritpal_singh.mp4 dur=23.836213
+nitin_gadkari_insurance_premium_safe_driving: SUCCESS -> video_path=videos/nitin_gadkari_insurance_premium_safe_driving.mp4 dur=26.42322
+bihar_jehanabad_fracture_cartoon_bandage: SKIPPED (not in ready set)
+mp_ladli_bahna_yojana_40th_installment: SUCCESS -> video_path=videos/mp_ladli_bahna_yojana_40th_installment.mp4 dur=23.696213
+trump_united_ireland_fantastic_global: SUCCESS -> video_path=videos/trump_united_ireland_fantastic_global.mp4 dur=24.256553
+rajasthan_rto_inspector_dance_orchestra_viral: SKIPPED (not in ready set)
