@@ -1,5 +1,10 @@
-ready_labels: ['amritpal_gangster_moldova_extradition']
+ready_labels: ['adani_power_plant_failure_bangladesh_crisis', 'iphone_duo_price_comparison_household_items', 'jasprit_bumrah_vs_vaibhav_suryavanshi_practice', 'paralyzed_nsg_commando_voting_determination', 'xi_jinping_bombproof_car_brics_delhi', 'yemen_houthi_ai_missile_guidance_claude']
 
-jaipur_man_kills_wife_daughters_tea: SKIPPED (not in ready set)
-amritpal_gangster_moldova_extradition: SUCCESS -> video_path=videos/amritpal_gangster_moldova_extradition.mp4 dur=21.089887
-farmer_giant_wind_turbine_income: SKIPPED (not in ready set)
+xi_jinping_bombproof_car_brics_delhi: SUCCESS -> video_path=videos/xi_jinping_bombproof_car_brics_delhi.mp4 dur=24.989887
+jaipur_man_murders_wife_three_daughters: SKIPPED (not in ready set)
+paralyzed_nsg_commando_voting_determination: SUCCESS -> video_path=videos/paralyzed_nsg_commando_voting_determination.mp4 dur=26.689887
+iphone_duo_price_comparison_household_items: SUCCESS -> video_path=videos/iphone_duo_price_comparison_household_items.mp4 dur=26.134218
+jasprit_bumrah_vs_vaibhav_suryavanshi_practice: SUCCESS -> video_path=videos/jasprit_bumrah_vs_vaibhav_suryavanshi_practice.mp4 dur=26.289887
+luxury_government_bus_service_505_rupees: SKIPPED (not in ready set)
+adani_power_plant_failure_bangladesh_crisis: SUCCESS -> video_path=videos/adani_power_plant_failure_bangladesh_crisis.mp4 dur=33.22322
+yemen_houthi_ai_missile_guidance_claude: SUCCESS -> video_path=videos/yemen_houthi_ai_missile_guidance_claude.mp4 dur=38.255215
