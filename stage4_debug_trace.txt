@@ -1,8 +1,10 @@
-ready_labels: ['france_passenger_train_derailment_injuries', 'greater_noida_society_owl_attacks_viral']
+ready_labels: ['brics_modi_putin_xi_handshake', 'philippines_ferry_fire_death_toll', 'rohtas_woman_returns_alive_after_12_years']
 
-sitamarhi_district_council_husband_murder_mob: SKIPPED (not in ready set)
-greater_noida_society_owl_attacks_viral: SUCCESS -> video_path=videos/greater_noida_society_owl_attacks_viral.mp4 dur=25.289887
-shahjahanpur_crocodile_house_rescue_video: SKIPPED (not in ready set)
-bihar_fracture_cartoon_bandage_doctor_negligence: SKIPPED (not in ready set)
-bhopal_sandwich_business_success_story: SKIPPED (not in ready set)
-france_passenger_train_derailment_injuries: SUCCESS -> video_path=videos/france_passenger_train_derailment_injuries.mp4 dur=20.62322
+brics_modi_putin_xi_handshake: SUCCESS -> video_path=videos/brics_modi_putin_xi_handshake.mp4 dur=23.000227
+delhi_man_found_with_uterus: SKIPPED (not in ready set)
+muzaffarnagar_boy_erickshaw_spiti_valley: SKIPPED (not in ready set)
+shahjahanpur_crocodile_house_entry: SKIPPED (not in ready set)
+ceo_sues_ex_girlfriend_3_crores: SKIPPED (not in ready set)
+rohtas_woman_returns_alive_after_12_years: SUCCESS -> video_path=videos/rohtas_woman_returns_alive_after_12_years.mp4 dur=29.989887
+mahoba_survey_agents_dressed_in_petticoats: SKIPPED (not in ready set)
+philippines_ferry_fire_death_toll: SUCCESS -> video_path=videos/philippines_ferry_fire_death_toll.mp4 dur=24.82322
