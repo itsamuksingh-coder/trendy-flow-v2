@@ -1,5 +1,4 @@
-ready_labels: ['brics_summit_delhi_2026_start']
+ready_labels: ['man_found_with_uterus_medical_rare_case_delhi']
 
-brics_summit_delhi_2026_start: SUCCESS -> video_path=videos/brics_summit_delhi_2026_start.mp4 dur=23.089887
-delhi_man_uterus_found_medical_rare_case: SKIPPED (not in ready set)
-kerala_twins_death_chemical_taste: SKIPPED (not in ready set)
+man_found_with_uterus_medical_rare_case_delhi: SUCCESS -> video_path=videos/man_found_with_uterus_medical_rare_case_delhi.mp4 dur=29.617211
+jaipur_family_murder_wife_daughters: SKIPPED (not in ready set)
