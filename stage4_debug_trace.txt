@@ -1,9 +1,10 @@
-ready_labels: ['bihar_hospital_power_outage_torchlight_surgery', 'malaysian_pm_sings_kishore_kumar_brics_dinner', 'pm_modi_pauses_speech_xi_jinping_brics']
+ready_labels: ['air_india_captain_found_dead_delhi_hotel', 'brics_dinner_menu_non_veg_controversy', 'diljit_dosanjh_narendra_modi_stadium_concert', 'malaysian_pm_singing_kishore_kumar_brics_dinner', 'secunderabad_armory_heist_ak47_stolen', 'surat_elderly_man_bitten_by_snake_hospital_bag']
 
-pm_modi_pauses_speech_xi_jinping_brics: SUCCESS -> video_path=videos/pm_modi_pauses_speech_xi_jinping_brics.mp4 dur=24.689887
-iran_president_touches_feet_hindu_saint: SKIPPED (not in ready set)
-delhi_police_constable_brics_gun_reel: SKIPPED (not in ready set)
-pm_modi_childhood_friend_asgarali_cbi_probe: SKIPPED (not in ready set)
-bihar_hospital_power_outage_torchlight_surgery: SUCCESS -> video_path=videos/bihar_hospital_power_outage_torchlight_surgery.mp4 dur=20.52322
-malaysian_pm_sings_kishore_kumar_brics_dinner: SUCCESS -> video_path=videos/malaysian_pm_sings_kishore_kumar_brics_dinner.mp4 dur=27.551224
-indonesia_java_sea_ferry_disaster_missing: SKIPPED (not in ready set)
+malaysian_pm_singing_kishore_kumar_brics_dinner: SUCCESS -> video_path=videos/malaysian_pm_singing_kishore_kumar_brics_dinner.mp4 dur=31.312222
+secunderabad_armory_heist_ak47_stolen: SUCCESS -> video_path=videos/secunderabad_armory_heist_ak47_stolen.mp4 dur=32.148231
+iranian_president_touches_feet_hindu_saint: SKIPPED (not in ready set)
+brics_dinner_menu_non_veg_controversy: SUCCESS -> video_path=videos/brics_dinner_menu_non_veg_controversy.mp4 dur=27.656553
+diljit_dosanjh_narendra_modi_stadium_concert: SUCCESS -> video_path=videos/diljit_dosanjh_narendra_modi_stadium_concert.mp4 dur=23.74322
+surat_elderly_man_bitten_by_snake_hospital_bag: SUCCESS -> video_path=videos/surat_elderly_man_bitten_by_snake_hospital_bag.mp4 dur=27.789887
+yavatmal_ferris_wheel_hair_scalp_accident: SKIPPED (not in ready set)
+air_india_captain_found_dead_delhi_hotel: SUCCESS -> video_path=videos/air_india_captain_found_dead_delhi_hotel.mp4 dur=22.056553
