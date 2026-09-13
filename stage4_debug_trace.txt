@@ -1,10 +1,8 @@
-ready_labels: ['brics_2026_top_5_decisions_delhi', 'brics_dinner_menu_veg_nonveg_controversy', 'gulab_sidhu_punjabi_singer_house_firing', 'jaipur_wife_daughters_murder_arrest_khatushyam', 'secunderabad_army_armory_heist_ak47_weapons', 'semicon_india_funding_surge_semiconductor', 'surat_elderly_man_kills_snake_hospital', 'zomato_cash_on_delivery_extra_fee']
+ready_labels: ['indonesia_java_sea_ferry_capsizes', 'mahira_khan_pregnancy_announcement', 'secunderabad_army_armory_heist_ak47']
 
-jaipur_wife_daughters_murder_arrest_khatushyam: SUCCESS -> video_path=videos/jaipur_wife_daughters_murder_arrest_khatushyam.mp4 dur=29.432222
-zomato_cash_on_delivery_extra_fee: SUCCESS -> video_path=videos/zomato_cash_on_delivery_extra_fee.mp4 dur=27.22322
-secunderabad_army_armory_heist_ak47_weapons: SUCCESS -> video_path=videos/secunderabad_army_armory_heist_ak47_weapons.mp4 dur=35.980227
-brics_2026_top_5_decisions_delhi: SUCCESS -> video_path=videos/brics_2026_top_5_decisions_delhi.mp4 dur=23.556553
-brics_dinner_menu_veg_nonveg_controversy: SUCCESS -> video_path=videos/brics_dinner_menu_veg_nonveg_controversy.mp4 dur=27.689887
-surat_elderly_man_kills_snake_hospital: SUCCESS -> video_path=videos/surat_elderly_man_kills_snake_hospital.mp4 dur=24.689887
-gulab_sidhu_punjabi_singer_house_firing: SUCCESS -> video_path=videos/gulab_sidhu_punjabi_singer_house_firing.mp4 dur=27.179229
-semicon_india_funding_surge_semiconductor: SUCCESS -> video_path=videos/semicon_india_funding_surge_semiconductor.mp4 dur=23.116213
+secunderabad_army_armory_heist_ak47: SUCCESS -> video_path=videos/secunderabad_army_armory_heist_ak47.mp4 dur=34.911224
+jaipur_quadruple_murder_rahul_jha: SKIPPED (not in ready set)
+tripti_singh_rajput_fake_ias_video: SKIPPED (not in ready set)
+china_robot_dog_pulling_rickshaw: SKIPPED (not in ready set)
+mahira_khan_pregnancy_announcement: SUCCESS -> video_path=videos/mahira_khan_pregnancy_announcement.mp4 dur=32.961224
+indonesia_java_sea_ferry_capsizes: SUCCESS -> video_path=videos/indonesia_java_sea_ferry_capsizes.mp4 dur=26.056553
