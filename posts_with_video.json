@@ -1,109 +1,34 @@
 [
   {
-    "topic_label": "du_professor_ai_obscene_video_husband",
-    "virality_score": 9,
-    "reason": "High shock value and relevance due to AI misuse allegations by a DU professor against her husband.",
-    "region": "india",
-    "headline": "गाजियाबाद में DU की प्रोफेसर ने पति पर AI से अश्लील वीडियो बनाने का लगाया आरोप, 3 पर केस दर्ज",
-    "source_summary": "गाजियाबाद में डीयू की प्रोफेसर ने पति और ससुराल के अन्य दो लोगों पर एआई की मदद से अश्लील वीडियो बनाकर वायरल करने का आरोप लगाया है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/du-professor-accuses-husband-of-creating-video-using-ai-case-registered-against-three/articleshow/134178934.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 13 Sep 2026 10:27:00 +0530",
-    "hook": "एआई के जरिए अश्लील वीडियो बनाने का सनसनीखेज मामला सामने आया है!",
-    "script_hi": "गाजियाबाद में दिल्ली विश्वविद्यालय की एक प्रोफेसर ने अपने पति पर आर्टिफिशियल इंटेलिजेंस यानी एआई की मदद से अश्लील वीडियो बनाने और उसे वायरल करने का गंभीर आरोप लगाया है। पीड़िता की शिकायत पर पुलिस ने पति समेत कुल तीन लोगों के खिलाफ मुकदमा दर्ज कर लिया है और मामले की जांच शुरू कर दी है।",
-    "tts_text_hi": "गाजियाबाद में दिल्ली विश्वविद्यालय की एक प्रोफेसर ने अपने पति पर आर्टिफिशियल इंटेलिजेंस यानी एआई की मदद से अश्लील वीडियो बनाने और उसे वायरल करने का गंभीर आरोप लगाया है। पीड़िता की शिकायत पर पुलिस ने पति समेत कुल तीन लोगों के खिलाफ मुकदमा दर्ज कर लिया है और मामले की जांच शुरू कर दी है.",
-    "title": "गाजियाबाद में डीयू प्रोफेसर का आरोप, पति ने एआई से बनाया अश्लील वीडियो",
-    "caption": "गाजियाबाद में डीयू की एक प्रोफेसर ने अपने पति और ससुराल वालों पर एआई की मदद से अश्लील वीडियो बनाने और उसे वायरल करने का गंभीर आरोप लगाया है। पुलिस ने केस दर्ज कर जांच शुरू कर दी है।",
-    "hashtags": [
-      "Ghaziabad",
-      "DelhiUniversity",
-      "AIFraud",
-      "CyberCrime",
-      "CrimeNews",
-      "UPPolice"
-    ],
-    "visual_queries": [
-      "Ghaziabad city street India",
-      "Delhi University campus India",
-      "police station building India",
-      "cyber crime investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Unproven criminal allegation against specific named/implicated individuals who have not been convicted, requiring manual review for defamation risk.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29644171/pexels-photo-29644171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Ghaziabad city street India",
-        "credit": "Splendid Images",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28932304/pexels-photo-28932304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi University campus India",
-        "credit": "Rishabh Dhiman",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station building India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6266308/pexels-photo-6266308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cyber crime investigation India",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "jio_satellite_internet_1600_satellites",
+    "topic_label": "hanuman_ansh_box_office_milestone",
     "virality_score": 8,
-    "reason": "Major tech development as Jio plans satellite internet to rival Starlink across India.",
+    "reason": "Neem Karoli Baba biopic Hanuman Ansh is closing in on 250 crore and sparking heavy emotional reactions.",
     "region": "india",
-    "headline": "Jio की बड़ी तैयारी, 1600 सैटेलाइट से हर जगह पहुंचेगा इंटरनेट",
-    "source_summary": "Jio अब इंटरनेट की दुनिया में बड़ा दांव खेलने की तैयारी में है. कंपनी करीब 1600 सैटेलाइट स्पेस में भेजकर देश के दूर-दराज इलाकों तक इंटरनेट पहुंचाना चाहती है. अगर प्लान सफल रहा, तो जहां मोबाइल टावर या फाइबर पहुंचाना मुश्किल है, वहां भी इंटरनेट मिल सकेगा. जियो की यह तैयारी सीधे starlink को टक्कर दे सकती है और भारत के सैटेलाइट इंटरनेट मार्केट को बदल सकती है.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/jio-1600-satellites-satellite-internet-like-starlink-prym-dskc-2641837-2026-09-13?utm_source=rssfeed",
+    "headline": "250 करोड़ की ओर &#039;हनुमान अंश&#039;, फिल्म देख रो पड़ीं सुशांत की बहन",
+    "source_summary": "नीम करोली बाबा के जीवन पर आधारित फिल्म 'हनुमान अंश' बॉक्स ऑफिस पर शानदार प्रदर्शन कर रही है. फिल्म जल्द ही 250 करोड़ के क्लब में शामिल होने की ओर बढ़ रही है. फिल्म देखकर सुशांत सिंह राजपूत की बहन काफी भावुक हो गईं. वो रोती हुई नजर आईं.",
+    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-250-crores-box-office-sushant-singh-rajput-sister-cried-neem-karoli-baba-emotional-video-tmovf-dskc-2641780-2026-09-13?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-13T10:18:41+05:30",
-    "hook": "जियो का बड़ा दांव! अंतरिक्ष से चमकेगा इंटरनेट!",
-    "script_hi": "जियो अब इंटरनेट की दुनिया में बड़ा कदम उठाने जा रहा है। कंपनी अंतरिक्ष में सोलह सौ सैटेलाइट भेजकर देश के दूर-दराज इलाकों तक इंटरनेट पहुंचाएगी। जहां टावर या फाइबर पहुंचाना मुश्किल है, वहां भी इंटरनेट मिलेगा। यह तैयारी स्टारलिंक को टक्कर देगी और भारत के सैटेलाइट इंटरनेट मार्केट को बदल देगी।",
-    "tts_text_hi": "जियो अब इंटरनेट की दुनिया में बड़ा कदम उठाने जा रहा है। कंपनी अंतरिक्ष में सोलह सौ सैटेलाइट भेजकर देश के दूर-दराज इलाकों तक इंटरनेट पहुंचाएगी। जहां टावर या फाइबर पहुंचाना मुश्किल है, वहां भी इंटरनेट मिलेगा। यह तैयारी स्टारलिंक को टक्कर देगी और भारत के सैटेलाइट इंटरनेट मार्केट को बदल देगी।",
-    "title": "Jio Satellite Internet Plans",
-    "caption": "जियो की बड़ी तैयारी, सोलह सौ सैटेलाइट से हर जगह पहुंचेगा इंटरनेट।",
+    "published": "2026-09-13T10:08:02+05:30",
+    "hook": "ढाई सौ करोड़ के करीब पहुँच रही है फिल्म हनुमान अंश!",
+    "script_hi": "नीम करोली बाबा के जीवन पर आधारित फिल्म हनुमान अंश बॉक्स ऑफिस पर धूम मचा रही है। यह फिल्म जल्द ही दो सौ पचास करोड़ रुपये के क्लब में शामिल होने वाली है। फिल्म को देखकर दिवंगत अभिनेता सुशांत सिंह राजपूत की बहन श्वेता सिंह कीर्ति काफी भावुक हो गईं और सिनेमाघर से निकलते वक्त उनकी आँखें नम नजर आईं।",
+    "tts_text_hi": "नीम करोली बाबा के जीवन पर आधारित फिल्म हनुमान अंश बॉक्स ऑफिस पर धूम मचा रही है। यह फिल्म जल्द ही दो सौ पचास करोड़ रुपये के क्लब में शामिल होने वाली है। फिल्म को देखकर दिवंगत अभिनेता सुशांत सिंह राजपूत की बहन श्वेता सिंह कीर्ति काफी भावुक हो गईं और सिनेमाघर से निकलते वक्त उनकी आँखें नम नजर आईं।",
+    "title": "हनुमान अंश फिल्म बॉक्स ऑफिस और सुशांत की बहन",
+    "caption": "नीम करोली बाबा पर बनी फिल्म 'हनुमान अंश' दो सौ पचास करोड़ के करीब, फिल्म देख भावुक हुईं सुशांत सिंह राजपूत की बहन।",
     "hashtags": [
-      "Jio",
-      "SatelliteInternet",
-      "TechNews",
-      "IndiaTech",
-      "JioSpace",
-      "Starlink",
-      "InternetUpdates"
+      "HanumanAnsh",
+      "NeemKaroliBaba",
+      "BollywoodNews",
+      "SushantSinghRajput",
+      "BoxOffice",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian telecom office building India",
-      "space satellite orbit India",
-      "remote village internet India",
-      "modern communication technology India"
+      "Indian cinema hall building India",
+      "film screening audience India",
+      "emotional woman crying India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Sushant Singh Rajput",
+    "named_person_hi": "सुशांत सिंह राजपूत",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -111,34 +36,34 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13970482/pexels-photo-13970482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian telecom office building India",
-        "credit": "Saikat  Das",
+        "url": "downloaded_assets/person_877dfb368e.jpg",
+        "source": "wikimedia",
+        "query": "Sushant Singh Rajput",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19513329/pexels-photo-19513329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "space satellite orbit India",
-        "credit": "Allan Carvalho",
+        "query": "Indian cinema hall building India",
+        "credit": "Pragyan Bezbaruah",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19211472/pexels-photo-19211472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14746411/pexels-photo-14746411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "remote village internet India",
-        "credit": "Darryl Jaison",
+        "query": "film screening audience India",
+        "credit": "İNZİLE DAL",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19851981/pexels-photo-19851981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6716238/pexels-photo-6716238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern communication technology India",
-        "credit": "Nishant Aneja",
+        "query": "emotional woman crying India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
@@ -147,183 +72,87 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Jio Satellite Internet Plans",
-        "caption": "जियो की बड़ी तैयारी, सोलह सौ सैटेलाइट से हर जगह पहुंचेगा इंटरनेट।\n\n#Jio #SatelliteInternet #TechNews #IndiaTech #JioSpace"
+        "title": "हनुमान अंश फिल्म बॉक्स ऑफिस और सुशांत की बहन",
+        "caption": "नीम करोली बाबा पर बनी फिल्म 'हनुमान अंश' दो सौ पचास करोड़ के करीब, फिल्म देख भावुक हुईं सुशांत सिंह राजपूत की बहन।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodNews #SushantSinghRajput #BoxOffice"
       },
       "instagram": {
         "title": null,
-        "caption": "जियो की बड़ी तैयारी, सोलह सौ सैटेलाइट से हर जगह पहुंचेगा इंटरनेट।\n\n#Jio #SatelliteInternet #TechNews #IndiaTech #JioSpace"
+        "caption": "नीम करोली बाबा पर बनी फिल्म 'हनुमान अंश' दो सौ पचास करोड़ के करीब, फिल्म देख भावुक हुईं सुशांत सिंह राजपूत की बहन।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodNews #SushantSinghRajput #BoxOffice"
       },
       "facebook": {
         "title": null,
-        "caption": "जियो की बड़ी तैयारी, सोलह सौ सैटेलाइट से हर जगह पहुंचेगा इंटरनेट।\n\n#Jio #SatelliteInternet #TechNews #IndiaTech #JioSpace"
+        "caption": "नीम करोली बाबा पर बनी फिल्म 'हनुमान अंश' दो सौ पचास करोड़ के करीब, फिल्म देख भावुक हुईं सुशांत सिंह राजपूत की बहन।\n\n#HanumanAnsh #NeemKaroliBaba #BollywoodNews #SushantSinghRajput #BoxOffice"
       },
       "hashtags": [
-        "Jio",
-        "SatelliteInternet",
-        "TechNews",
-        "IndiaTech",
-        "JioSpace"
+        "HanumanAnsh",
+        "NeemKaroliBaba",
+        "BollywoodNews",
+        "SushantSinghRajput",
+        "BoxOffice"
       ]
     },
-    "audio_path": "audio/jio_satellite_internet_1600_satellites.wav",
-    "audio_duration_sec": 13.39,
-    "video_path": "videos/jio_satellite_internet_1600_satellites.mp4",
-    "video_duration_sec": 21.44
+    "audio_path": "audio/hanuman_ansh_box_office_milestone.wav",
+    "audio_duration_sec": 21.84,
+    "video_path": "videos/hanuman_ansh_box_office_milestone.mp4",
+    "video_duration_sec": 29.89
   },
   {
-    "topic_label": "ips_bhanu_pratap_wife_police_station_sit_in",
+    "topic_label": "tata_sons_ipo_rbi_rejection",
     "virality_score": 8,
-    "reason": "High drama involving an IPS officer's wife sitting outside a police station over a family dispute.",
+    "reason": "RBI rejects Tata Sons' bid to stay private, clearing the path for a massive public listing.",
     "region": "india",
-    "headline": "IPS भानुप्रताप सिंह की पत्‍नी रात को थाने बैठी रहीं, ससुराल वालों ने नहीं खोला गेट, चर्चा में आई प्रेम कहानी",
-    "source_summary": "बिहार के खगड़िया एसपी आईपीएस भानुप्रताप सिंह और उनकी पत्नी पूजा का पारिवारिक विवाद राजस्‍थान के भरतपुर थाने पहुंचा. पत्नी ने ससुराल पक्ष पर 6 साल की बेटी को दूर करने का आरोप लगाया. दरवाजा न खुलने पर देर रात तक थाने में बैठी रहीं पत्नी. जानिए पूरा मामला.",
-    "source_url": "https://ndtv.in/education/ips-bhanu-pratap-singh-khagaria-sp-wife-pooja-family-dispute-12038891#publisher=newsstand",
+    "headline": "Tata Sons का आएगा IPO? RBI के फैसले के बाद अब शेयर बाजार में लिस्टिंग का रास्ता साफ",
+    "source_summary": "Tata Sons IPO: आरबीआई के इस फैसले के बाद टाटा सन्स को अब जल्द ही अपने आईपीओ (IPO) और शेयर बाजार लिस्टिंग की प्रक्रिया शुरू करनी होगी, क्योंकि 100% प्राइवेट रहने का रास्ता बंद हो गया है.",
+    "source_url": "https://ndtv.in/business-news/tata-sons-ipo-rbi-rejects-plea-to-remain-private-tata-sons-public-listing-now-becomes-mandatory-12039642#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Sun, 13 Sep 2026 06:15:54 +0530",
-    "hook": "बिहार के आईपीएस अधिकारी की पत्नी रातभर थाने में क्यों बैठी रहीं?",
-    "script_hi": "बिहार के खगड़िया जिले के एसपी आईपीएस भानुप्रताप सिंह और उनकी पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर तक पहुंच गया है। पत्नी ने ससुराल पक्ष पर उनकी छह साल की बेटी को उनसे दूर करने का गंभीर आरोप लगाया है। ससुराल वालों द्वारा दरवाजा न खोले जाने के कारण पत्नी देर रात तक थाने के बाहर बैठी रहीं। इस अनोखी प्रेम कहानी और पारिवारिक कलह की चर्चा हर तरफ हो रही है।",
-    "tts_text_hi": "बिहार के खगड़िया जिले के एस पी आई पी एस भानुप्रताप सिंह और उनकी पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर तक पहुंच गया है। पत्नी ने ससुराल पक्ष पर उनकी छह साल की बेटी को उनसे दूर करने का गंभीर आरोप लगाया है। ससुराल वालों द्वारा दरवाजा न खोले जाने के कारण पत्नी देर रात तक थाने के बाहर बैठी रहीं। इस अनोखी प्रेम कहानी और पारिवारिक कलह की चर्चा हर तरफ हो रही है。",
-    "title": "आईपीएस भानुप्रताप सिंह की पत्नी का थाने में हंगामा",
-    "caption": "बिहार के खगड़िया एसपी आईपीएस भानुप्रताप सिंह की पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर थाने पहुंचा। जानिए पूरा मामला।",
+    "published": "Sun, 13 Sep 2026 09:17:10 +0530",
+    "hook": "क्या टाटा सन्स आने वाला है शेयर बाजार में?",
+    "script_hi": "टाटा सन्स का आईपीओ जल्द आ सकता है। भारतीय रिजर्व बैंक के एक अहम फैसले के बाद टाटा सन्स के शेयर बाजार में लिस्टिंग का रास्ता साफ हो गया है, क्योंकि अब कंपनी के लिए सौ प्रतिशत प्राइवेट रहना मुमकिन नहीं रहा है।",
+    "tts_text_hi": "टाटा सन्स का आईपीओ जल्द आ सकता है। भारतीय रिजर्व बैंक के एक अहम फैसले के बाद टाटा सन्स के शेयर बाजार में लिस्टिंग का रास्ता साफ हो गया है, क्योंकि अब कंपनी के लिए सौ प्रतिशत प्राइवेट रहना मुमकिन नहीं रहा है।",
+    "title": "Tata Sons IPO: टाटा सन्स के शेयर बाजार में आने का रास्ता साफ",
+    "caption": "आरबीआई के नए नियमों के बाद टाटा सन्स के आईपीओ और शेयर बाजार में लिस्टिंग की प्रक्रिया जल्द शुरू होने की उम्मीद है।",
     "hashtags": [
-      "IPSBhanuPratapSingh",
-      "BiharNews",
-      "RajasthanPolice",
-      "Khagaria",
-      "TrendingNews",
-      "LatestNews"
+      "TataSons",
+      "IPO",
+      "ShareMarket",
+      "RBI",
+      "BusinessNews",
+      "StockMarket"
     ],
     "visual_queries": [
-      "police station building India",
-      "distressed woman sitting India",
-      "family dispute court India"
-    ],
-    "named_person": "Bhanu Pratap Singh",
-    "named_person_hi": "भानुप्रताप सिंह",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "भानुप्रताप सिंह",
-        "source": "fallback",
-        "query": "Bhanu Pratap Singh",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station building India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31233478/pexels-photo-31233478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "distressed woman sitting India",
-        "credit": "Soumyojit Sinha",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7876290/pexels-photo-7876290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "family dispute court India",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "आईपीएस भानुप्रताप सिंह की पत्नी का थाने में हंगामा",
-        "caption": "बिहार के खगड़िया एसपी आईपीएस भानुप्रताप सिंह की पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर थाने पहुंचा। जानिए पूरा मामला।\n\n#IPSBhanuPratapSingh #BiharNews #RajasthanPolice #Khagaria #TrendingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बिहार के खगड़िया एसपी आईपीएस भानुप्रताप सिंह की पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर थाने पहुंचा। जानिए पूरा मामला।\n\n#IPSBhanuPratapSingh #BiharNews #RajasthanPolice #Khagaria #TrendingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बिहार के खगड़िया एसपी आईपीएस भानुप्रताप सिंह की पत्नी पूजा का पारिवारिक विवाद राजस्थान के भरतपुर थाने पहुंचा। जानिए पूरा मामला।\n\n#IPSBhanuPratapSingh #BiharNews #RajasthanPolice #Khagaria #TrendingNews"
-      },
-      "hashtags": [
-        "IPSBhanuPratapSingh",
-        "BiharNews",
-        "RajasthanPolice",
-        "Khagaria",
-        "TrendingNews"
-      ]
-    },
-    "audio_path": "audio/ips_bhanu_pratap_wife_police_station_sit_in.wav",
-    "audio_duration_sec": 27.38,
-    "video_path": "videos/ips_bhanu_pratap_wife_police_station_sit_in.mp4",
-    "video_duration_sec": 35.39
-  },
-  {
-    "topic_label": "raebareli_couple_monkey_property_inheritance",
-    "virality_score": 8,
-    "reason": "Bizarre and highly engaging viral story about a couple leaving their property to a monkey.",
-    "region": "india",
-    "headline": "रायबरेली के इस कपल ने बंदर के नाम क्यों कर दी करोड़ों की जायदाद? रुला देगी ये कहानी",
-    "source_summary": "UP Couple Monkey Property: रायबरेली के इस आलीशान घर में रहने वाले लाडले के कमरे में AC-हीटर लगा है और नाश्ते में उसे काजू-अनार परोसे जाते हैं. जानिए कौन है यह वीआईपी 'बेटा'.",
-    "source_url": "https://ndtv.in/zara-hatke/raebareli-up-couple-leaves-property-to-pet-monkey-chunmun-12039700#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 13 Sep 2026 09:39:41 +0530",
-    "hook": "उत्तर प्रदेश के रायबरेली से एक बेहद हैरान करने वाली और भावुक कर देने वाली खबर सामने आई है!",
-    "script_hi": "उत्तर प्रदेश के रायबरेली से एक बेहद हैरान करने वाली और भावुक कर देने वाली खबर सामने आई है. यहाँ एक নিঃসंतार दंपति ने अपनी करोड़ों रुपए की पूरी जायदाद एक बंदर के नाम कर दी है. इस आलीशान घर में रहने वाले इस लाडले के कमरे में एसी और हीटर लगा है, और नाश्ते में इसे काजू और अनार परोसे जाते हैं. इस दंपति का कहना है कि वे इस बंदर को अपनी औलाद की तरह मानते हैं.",
-    "tts_text_hi": "उत्तर प्रदेश के रायबरेली से एक बेहद हैरान करने वाली और भावुक कर देने वाली खबर सामने आई है। यहाँ एक নিঃসंतार दंपति ने अपनी करोड़ों रुपए की पूरी जायदाद एक बंदर के नाम कर दी है। इस आलीशान घर में रहने वाले इस लाडले के कमरे में एसी और हीटर लगा है, और नाश्ते में इसे काजू और अनार परोसे जाते हैं। इस दंपति का कहना है कि वे इस बंदर को अपनी औलाद की तरह मानते हैं।",
-    "title": "रायबरेली के इस कपल ने बंदर के नाम की करोड़ों की जायदाद",
-    "caption": "उत्तर प्रदेश के रायबरेली में एक निःसंतान दंपति ने अपनी करोड़ों की संपत्ति एक बंदर के नाम कर दी है। जानिए क्या है पूरी कहानी।",
-    "hashtags": [
-      "UttarPradesh",
-      "Raebareli",
-      "Monkey",
-      "ViralNews",
-      "IndiaNews",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "Indian residential house India",
-      "Indian couple portrait India",
-      "rhesus macaque monkey India"
+      "Indian stock exchange building India",
+      "Mumbai financial district India",
+      "corporate office building India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17499591/pexels-photo-17499591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/23515131/pexels-photo-23515131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian residential house India",
-        "credit": "Muhammed zeya",
+        "query": "Indian stock exchange building India",
+        "credit": "Jayant V Nath",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6661606/pexels-photo-6661606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17223739/pexels-photo-17223739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian couple portrait India",
-        "credit": "Sandeep Singh",
+        "query": "Mumbai financial district India",
+        "credit": "Keval Waghela",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16051679/pexels-photo-16051679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36926207/pexels-photo-36926207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rhesus macaque monkey India",
-        "credit": "Tony  Wu",
+        "query": "corporate office building India",
+        "credit": "Deekshith Rao",
         "duration_sec": 5
       }
     ],
@@ -332,135 +161,37 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "cia_files_osama_bin_laden_hit_list_india",
+    "topic_label": "pm_modi_school_friend_asgar_ali",
     "virality_score": 8,
-    "reason": "Major historical revelation from CIA documents about India being on Osama bin Laden's pre-9/11 hit list.",
+    "reason": "An 81-year-old man met PM Modi to seek help in a land dispute, turning out to be his old schoolmate.",
     "region": "india",
-    "headline": "9/11 हमले से पहले लादेन की हिट लिस्ट में था भारत, CIA की खुफ‍िया र‍िपोर्ट में खुलासा",
-    "source_summary": "CIA ने शुक्रवार को बिन लादेन से जुड़ी 70 से ज़्यादा प्रेसिडेंशियल इंटेलिजेंस ब्रीफ जारी कीं. इनमें 100 से ज़्यादा पन्नों की जानकारी शामिल है. ये दस्तावेज़ 2001 में न्यूयॉर्क शहर के वर्ल्ड ट्रेड सेंटर पर हुए 9/11 हमलों की 25वीं बरसी के मौके पर जारी किए गए.",
-    "source_url": "https://ndtv.in/world-news/india-was-on-osama-bin-laden-hit-list-prior-to-9-11-attacks-cia-released-documents-on-25th-anniversary-of-world-trade-center-attack-12039671#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 13 Sep 2026 09:47:13 +0530",
-    "hook": "नौ ग्यारह हमले से पहले ओसामा बिन लादेन की हिट लिस्ट में था भारत!",
-    "script_hi": "सीआईए की खुफिया रिपोर्ट में बड़ा खुलासा हुआ है। एजेंसी ने बिन लादेन से जुड़ी सत्तर से ज़्यादा प्रेसिडेंशियल इंटेलिजेंस ब्रीफ जारी की हैं। ये दस्तावेज दो हज़ार एक में न्यूयॉर्क के वर्ल्ड ट्रेड सेंटर पर हुए हमले की पच्चीसवीं बरसी के मौके पर सामने आए हैं, जिनमें सौ से ज़्यादा पन्नों की जानकारी शामिल है।",
-    "tts_text_hi": "सीआईए की खुफिया रिपोर्ट में बड़ा खुलासा हुआ है। एजेंसी ने बिन लादेन से जुड़ी सत्तर से ज़्यादा प्रेसिडेंशियल इंटेलिजेंस ब्रीफ जारी की हैं। ये दस्तावेज दो हज़ार एक में न्यूयॉर्क के वर्ल्ड ट्रेड सेंटर पर हुए हमले की पच्चीसवीं बरसी के मौके पर सामने आए हैं, जिनमें सौ से ज़्यादा पन्नों की जानकारी शामिल है।",
-    "title": "9/11 हमले से पहले लादेन की हिट लिस्ट में था भारत",
-    "caption": "CIA की खुफिया रिपोर्ट में बड़ा खुलासा, 9/11 हमले से पहले भारत था ओसामा बिन लादेन की हिट लिस्ट में।",
+    "headline": "जमीन विवाद ने कराई दो पुराने क्लासमेट्स की मुलाकात, 81 साल के असगर अली ने PM मोदी से लगाई गुहार",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-13-at-11.03.50.jpeg\" class=\"attachment-large size-large wp-post-image\" alt=\"जमीन विवाद ने कराई दो पुराने क्लासमेट्स की मुलाकात, 81 साल के असगर अली ने PM मोदी से लगाई गुहार\" /></figure>81 साल के असगर अली बोहरा ने अपने क्लासमेट रहे PM मोदी से जमीन विवाद में न्याय और CBI जांच की मांग को लेकर मुलाकात की. पीएम  की सकारात्मक प्रतिक्रिया से उन्हें न्याय की उम्मीद जगी है.",
+    "source_url": "https://www.tv9hindi.com/india/maharashtra-pm-narendra-modi-classmate-asgar-ali-vohra-seeks-justice-in-mira-road-land-dispute-demands-cbi-inquiry-3905636.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sun, 13 Sep 2026 10:40:53 +0530",
+    "hook": "बचपन के दोस्त से मिले प्रधानमंत्री मोदी!",
+    "script_hi": "जमीन विवाद ने कराई दो पुराने क्लासमेट्स की मुलाकात। इक्यासी साल के असगर अली बोहरा ने अपने पुराने स्कूल के साथी प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। असगर अली ने जमीन विवाद में न्याय और सीबीआई जांच की मांग को लेकर गुहार लगाई। प्रधानमंत्री की सकारात्मक प्रतिक्रिया से उन्हें न्याय की पूरी उम्मीद जगी है।",
+    "tts_text_hi": "जमीन विवाद ने कराई दो पुराने क्लासमेट्स की मुलाकात। इक्यासी साल के असगर अली बोहरा ने अपने पुराने स्कूल के साथी प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। असगर अली ने जमीन विवाद में न्याय और सीबीआई जांच की मांग को लेकर गुहार लगाई। प्रधानमंत्री की सकारात्मक प्रतिक्रिया से उन्हें न्याय की पूरी उम्मीद जगी है।",
+    "title": "जमीन विवाद में पुराने क्लासमेट असगर अली ने PM मोदी से लगाई गुहार",
+    "caption": "इक्यासी साल के असगर अली बोहरा ने अपने क्लासमेट रहे प्रधानमंत्री नरेंद्र मोदी से मुलाकात कर जमीन विवाद में न्याय और सीबीआई जांच की मांग की है।",
     "hashtags": [
-      "OsamaBinLaden",
-      "CIA",
+      "NarendraModi",
+      "LandDispute",
+      "PMModi",
       "IndiaNews",
-      "WorldNews",
-      "BreakingNews",
-      "History"
+      "AsgarAli"
     ],
     "visual_queries": [
-      "CIA headquarters building India",
-      "intelligence report documents India",
-      "New York skyline India"
-    ],
-    "named_person": "Osama bin Laden",
-    "named_person_hi": "ओसामा बिन लादेन",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "ओसामा बिन लादेन",
-        "source": "fallback",
-        "query": "Osama bin Laden",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CIA headquarters building India",
-        "credit": "Nishant Malik",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5717712/pexels-photo-5717712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "intelligence report documents India",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32479337/pexels-photo-32479337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New York skyline India",
-        "credit": "André Eusébio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "9/11 हमले से पहले लादेन की हिट लिस्ट में था भारत",
-        "caption": "CIA की खुफिया रिपोर्ट में बड़ा खुलासा, 9/11 हमले से पहले भारत था ओसामा बिन लादेन की हिट लिस्ट में।\n\n#OsamaBinLaden #CIA #IndiaNews #WorldNews #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "CIA की खुफिया रिपोर्ट में बड़ा खुलासा, 9/11 हमले से पहले भारत था ओसामा बिन लादेन की हिट लिस्ट में।\n\n#OsamaBinLaden #CIA #IndiaNews #WorldNews #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "CIA की खुफिया रिपोर्ट में बड़ा खुलासा, 9/11 हमले से पहले भारत था ओसामा बिन लादेन की हिट लिस्ट में।\n\n#OsamaBinLaden #CIA #IndiaNews #WorldNews #BreakingNews"
-      },
-      "hashtags": [
-        "OsamaBinLaden",
-        "CIA",
-        "IndiaNews",
-        "WorldNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/cia_files_osama_bin_laden_hit_list_india.wav",
-    "audio_duration_sec": 21.65,
-    "video_path": "videos/cia_files_osama_bin_laden_hit_list_india.mp4",
-    "video_duration_sec": 29.59
-  },
-  {
-    "topic_label": "modi_xi_jinping_brics_meeting_outcomes",
-    "virality_score": 7,
-    "reason": "Key geopolitical development following the Modi-Xi bilateral meeting at the BRICS summit.",
-    "region": "india",
-    "headline": "सरहद, रिश्ते और शांति.... मोदी-जिनपिंग की मीटिंग के बाद दोनों देशों के बयानों में क्या खास?",
-    "source_summary": "मोदी-शी जिनपिंग की मुलाकात के बाद भारत और चीन ने रिश्तों को आगे बढ़ाने के साथ सीमा पर शांति की जरूरत पर जोर दिया. दोनों देशों की प्रेस रिलीज में कई बातें एक जैसी रहीं, लेकिन सीमा के मुद्दे को रखने का अंदाज अलग दिखा. आखिर दोनों बयानों में क्या खास रहा?",
-    "source_url": "https://www.aajtak.in/india/news/story/brics-summit-modi-xi-jinping-meeting-india-china-relations-border-peace-statements-ntc-dhrj-rpti-2641773-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T09:11:25+05:30",
-    "hook": "मोदी और जिनपिंग की मुलाकात के बाद भारत और चीन के बयानों में क्या है बड़ा अंतर?",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग की मुलाकात के बाद दोनों देशों ने रिश्तों को आगे बढ़ाने और सीमा पर शांति की जरूरत पर जोर दिया है। भारत और चीन की प्रेस रिलीज में कई बातें एक जैसी रहीं, लेकिन सीमा के मुद्दे को रखने का अंदाज बिल्कुल अलग दिखा। दोनों देशों के इन बयानों पर अब पूरी दुनिया की नजर टिकी है।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग की मुलाकात के बाद दोनों देशों ने रिश्तों को आगे बढ़ाने और सीमा पर शांति की जरूरत पर जोर दिया है। भारत और चीन की प्रेस रिलीज में कई बातें एक जैसी रहीं, लेकिन सीमा के मुद्दे को रखने का अंदाज बिल्कुल अलग दिखा। दोनों देशों के इन बयानों पर अब पूरी दुनिया की नजर टिकी है।",
-    "title": "मोदी-जिनपिंग मीटिंग के बाद भारत और चीन के बयानों में क्या खास?",
-    "caption": "प्रधानमंत्री नरेंद्र मोदी और शी जिनपिंग की मुलाकात के बाद भारत और चीन के बयानों में सीमा के मुद्दे पर दिखा अलग अंदाज।",
-    "hashtags": [
-      "#ModiJinping",
-      "#IndiaChina",
-      "#NarendraModi",
-      "#XiJinping",
-      "#IndianNews",
-      "#Geopolitics"
-    ],
-    "visual_queries": [
-      "Indian flag and Chinese flag India",
-      "parliament building New Delhi India",
-      "diplomatic meeting room India"
+      "Indian elderly man portrait India",
+      "Indian school old friends India",
+      "Parliament House New Delhi India",
+      "Indian government office building India"
     ],
     "named_person": "Narendra Modi",
     "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [
-      "Xi Jinping"
-    ],
-    "est_duration_sec": 28.0,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -472,57 +203,193 @@
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28668409/pexels-photo-28668409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35842144/15198685_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Indian flag and Chinese flag India",
-        "credit": "Nikhil Manan",
+        "query": "Indian government office building India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19306619/pexels-photo-19306619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian elderly man portrait India",
+        "credit": "Kushagra Sahu",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18347328/pexels-photo-18347328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/3092648/pexels-photo-3092648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "parliament building New Delhi India",
-        "credit": "Sahil Captures",
+        "query": "Indian school old friends India",
+        "credit": "ritesh  arya",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33810140/pexels-photo-33810140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34662732/pexels-photo-34662732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "diplomatic meeting room India",
-        "credit": "Abhishek  Navlakha",
+        "query": "Parliament House New Delhi India",
+        "credit": "PSRVSKY PI",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "मोदी-जिनपिंग मीटिंग के बाद भारत और चीन के बयानों में क्या खास?",
-        "caption": "प्रधानमंत्री नरेंद्र मोदी और शी जिनपिंग की मुलाकात के बाद भारत और चीन के बयानों में सीमा के मुद्दे पर दिखा अलग अंदाज।\n\n##ModiJinping ##IndiaChina ##NarendraModi ##XiJinping ##IndianNews"
+        "title": "जमीन विवाद में पुराने क्लासमेट असगर अली ने PM मोदी से लगाई गुहार",
+        "caption": "इक्यासी साल के असगर अली बोहरा ने अपने क्लासमेट रहे प्रधानमंत्री नरेंद्र मोदी से मुलाकात कर जमीन विवाद में न्याय और सीबीआई जांच की मांग की है।\n\n#NarendraModi #LandDispute #PMModi #IndiaNews #AsgarAli"
       },
       "instagram": {
         "title": null,
-        "caption": "प्रधानमंत्री नरेंद्र मोदी और शी जिनपिंग की मुलाकात के बाद भारत और चीन के बयानों में सीमा के मुद्दे पर दिखा अलग अंदाज।\n\n##ModiJinping ##IndiaChina ##NarendraModi ##XiJinping ##IndianNews"
+        "caption": "इक्यासी साल के असगर अली बोहरा ने अपने क्लासमेट रहे प्रधानमंत्री नरेंद्र मोदी से मुलाकात कर जमीन विवाद में न्याय और सीबीआई जांच की मांग की है।\n\n#NarendraModi #LandDispute #PMModi #IndiaNews #AsgarAli"
       },
       "facebook": {
         "title": null,
-        "caption": "प्रधानमंत्री नरेंद्र मोदी और शी जिनपिंग की मुलाकात के बाद भारत और चीन के बयानों में सीमा के मुद्दे पर दिखा अलग अंदाज।\n\n##ModiJinping ##IndiaChina ##NarendraModi ##XiJinping ##IndianNews"
+        "caption": "इक्यासी साल के असगर अली बोहरा ने अपने क्लासमेट रहे प्रधानमंत्री नरेंद्र मोदी से मुलाकात कर जमीन विवाद में न्याय और सीबीआई जांच की मांग की है।\n\n#NarendraModi #LandDispute #PMModi #IndiaNews #AsgarAli"
       },
       "hashtags": [
-        "#ModiJinping",
-        "#IndiaChina",
-        "#NarendraModi",
-        "#XiJinping",
-        "#IndianNews"
+        "NarendraModi",
+        "LandDispute",
+        "PMModi",
+        "IndiaNews",
+        "AsgarAli"
       ]
     },
-    "audio_path": "audio/modi_xi_jinping_brics_meeting_outcomes.wav",
-    "audio_duration_sec": 23.12,
-    "video_path": "videos/modi_xi_jinping_brics_meeting_outcomes.mp4",
-    "video_duration_sec": 31.12
+    "audio_path": "audio/pm_modi_school_friend_asgar_ali.wav",
+    "audio_duration_sec": 20.49,
+    "video_path": "videos/pm_modi_school_friend_asgar_ali.mp4",
+    "video_duration_sec": 28.46
+  },
+  {
+    "topic_label": "uttarakhand_railway_tunnel_breakthrough",
+    "virality_score": 7,
+    "reason": "Major engineering feat achieved in Uttarakhand as an 11km long railway escape tunnel is successfully broken through.",
+    "region": "india",
+    "headline": "उत्तराखंड में पहाड़ के नीचे दौड़ेगी ट्रेन, 11 किमी लंबी सुरंग हुई आर-पार, T-49 के बाद दूसरी बड़ी कामयाबी",
+    "source_summary": "उत्तराखंड के पहाड़ों में रेल पहुंचाने की महत्वाकांक्षी योजना ने शुक्रवार को एक और बड़ा पड़ाव पार कर लिया। ऋषिकेश-कर्णप्रयाग रेल परियोजना के तहत टिहरी जिले के ढालवाला में बन रही पहली एस्केप टनल का ब्रेकथ्रू पूरा हो गया। यानी सुरंग के दोनों छोर आखिरकार आपस में जुड़ गए। इस ब्रेकथ्रू के साथ ही 10.847 किलोमीटर लंबी एस्केप टनल-1 पूरी तरह आर-पार हो गई है। यह देश की दूसरी सबसे लंबी रेलवे सुरंग है।",
+    "source_url": "https://navbharattimes.indiatimes.com/business/business-news/rishikesh-karnaprayag-rail-project-rvnl-dhalwala-first-escape-tunnel-breakthrough/articleshow/134181634.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 13 Sep 2026 11:26:00 +0530",
+    "hook": "उत्तराखंड के पहाड़ों के नीचे आर-पार हुई देश की दूसरी सबसे लंबी रेलवे सुरंग!",
+    "script_hi": "उत्तराखंड के पहाड़ों में रेल पहुंचाने की महत्वाकांक्षी योजना के तहत टिहरी जिले में ग्यारह किलोमीटर लंबी एस्केप टनल का ब्रेकथ्रू पूरा हो गया है। ऋषिकेश-कर्णप्रयाग रेल परियोजना के तहत बनी यह सुरंग देश की दूसरी सबसे लंबी रेलवे सुरंग है।",
+    "tts_text_hi": "उत्तराखंड के पहाड़ों में रेल पहुंचाने की महत्वाकांक्षी योजना के तहत टिहरी जिले में ग्यारह किलोमीटर लंबी एस्केप टनल का ब्रेकथ्रू पूरा हो गया है। ऋषिकेश-कर्णप्रयाग रेल परियोजना के तहत बनी यह सुरंग देश की दूसरी सबसे लंबी रेलवे सुरंग है।",
+    "title": "उत्तराखंड में पहाड़ के नीचे दौड़ेगी ट्रेन, बनी लंबी सुरंग",
+    "caption": "उत्तराखंड के पहाड़ों में रेल परियोजना के तहत ग्यारह किलोमीटर लंबी एस्केप टनल आर-पार हो गई है। यह देश की दूसरी सबसे लंबी रेलवे सुरंग है।",
+    "hashtags": [
+      "Uttarakhand",
+      "IndianRailways",
+      "RishikeshKarnaprayag",
+      "Tunnel",
+      "IndianNews"
+    ],
+    "visual_queries": [
+      "Uttarakhand mountain landscape India",
+      "Indian railway construction tunnel",
+      "India train tracks mountains"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7861519/pexels-photo-7861519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttarakhand mountain landscape India",
+        "credit": "Anuj Yadav",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12807016/pexels-photo-12807016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway construction tunnel",
+        "credit": "kunal sagar",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16143764/pexels-photo-16143764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India train tracks mountains",
+        "credit": "Iqbal farooz",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "iphone_18_pro_prebooking_rush",
+    "virality_score": 7,
+    "reason": "High consumer interest and pre-booking rush begin for the newly announced iPhone 18 Pro series.",
+    "region": "india",
+    "headline": "iPhone 18 Pro की बुकिंग शुरू, देर की तो हाथ से निकल जाएगा फोन",
+    "source_summary": "iPhone 18 Pro और iPhone 18 Pro Max की प्री-बुकिंग शुरू हो गई है. अगर आप नया iPhone 18 सितंबर को ही पाना चाहते हैं, तो बुकिंग में देर करना भारी पड़ सकता है. Apple की नई सीरीज को लेकर पहले से काफी चर्चा है. ऐसे में अभी बुकिंग करने से आपको फोन जल्दी पाने का मौका मिल सकता है.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/iphone-18-pro-max-pre-orders-start-today-september-18-prym-dskc-2641858-2026-09-13?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-13T11:19:29+05:30",
+    "hook": "क्या आप भी खरीदना चाहते हैं नया आईफोन?",
+    "script_hi": "आईफोन अठारह प्रो और आईफोन अठारह प्रो मैक्स की प्री-बुकिंग शुरू हो गई है। अगर आप अठारह सितंबर को ही नया फोन पाना चाहते हैं, तो बुकिंग में देर करना भारी पड़ सकता है। एप्पल की नई सीरीज को लेकर बाजार में भारी चर्चा है। अभी बुकिंग करने से आपको फोन जल्दी मिलने का मौका मिल सकता है।",
+    "tts_text_hi": "आईफोन अठारह प्रो और आईफोन अठारह प्रो मैक्स की प्री-बुकिंग शुरू हो गई है। अगर आप अठारह सितंबर को ही नया फोन पाना चाहते हैं, तो बुकिंग में देर करना भारी पड़ सकता है। एप्पल की नई सीरीज को लेकर बाजार में भारी चर्चा है। अभी बुकिंग करने से आपको फोन जल्दी मिलने का मौका मिल सकता है।",
+    "title": "iPhone 18 Pro की प्री-बुकिंग शुरू",
+    "caption": "आईफोन अठारह प्रो और प्रो मैक्स की प्री-बुकिंग शुरू, जानिए कैसे मिलेगा फोन जल्दी।",
+    "hashtags": [
+      "Apple",
+      "iPhone18Pro",
+      "TechNews",
+      "Smartphones",
+      "PreBooking",
+      "Gadgets"
+    ],
+    "visual_queries": [
+      "Apple smartphone display India",
+      "modern mobile phone store India",
+      "customer unboxing phone India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19281836/pexels-photo-19281836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple smartphone display India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern mobile phone store India",
+        "credit": "Eva Bronzini",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19936700/pexels-photo-19936700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "customer unboxing phone India",
+        "credit": "ahmed akeri",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   }
 ]
