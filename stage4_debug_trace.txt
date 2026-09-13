@@ -1,7 +1,8 @@
-ready_labels: ['brics_modi_xi_jinping_bilateral_meeting', 'philippines_ferry_fire_death_toll_rise', 'rai_bareli_couple_monkey_property_inheritance', 'ukraine_russian_missile_attacks_nine_dead']
+ready_labels: ['cia_files_osama_bin_laden_hit_list_india', 'ips_bhanu_pratap_wife_police_station_sit_in', 'jio_satellite_internet_1600_satellites', 'modi_xi_jinping_brics_meeting_outcomes']
 
-brics_modi_xi_jinping_bilateral_meeting: SUCCESS -> video_path=videos/brics_modi_xi_jinping_bilateral_meeting.mp4 dur=28.82322
-ukraine_russian_missile_attacks_nine_dead: SUCCESS -> video_path=videos/ukraine_russian_missile_attacks_nine_dead.mp4 dur=28.356553
-rai_bareli_couple_monkey_property_inheritance: SUCCESS -> video_path=videos/rai_bareli_couple_monkey_property_inheritance.mp4 dur=36.956553
-gwalior_school_bus_firing_dispute: SKIPPED (not in ready set)
-philippines_ferry_fire_death_toll_rise: SUCCESS -> video_path=videos/philippines_ferry_fire_death_toll_rise.mp4 dur=22.95322
+du_professor_ai_obscene_video_husband: SKIPPED (not in ready set)
+jio_satellite_internet_1600_satellites: SUCCESS -> video_path=videos/jio_satellite_internet_1600_satellites.mp4 dur=21.444218
+ips_bhanu_pratap_wife_police_station_sit_in: SUCCESS -> video_path=videos/ips_bhanu_pratap_wife_police_station_sit_in.mp4 dur=35.389887
+raebareli_couple_monkey_property_inheritance: SKIPPED (not in ready set)
+cia_files_osama_bin_laden_hit_list_india: SUCCESS -> video_path=videos/cia_files_osama_bin_laden_hit_list_india.mp4 dur=29.589887
+modi_xi_jinping_brics_meeting_outcomes: SUCCESS -> video_path=videos/modi_xi_jinping_brics_meeting_outcomes.mp4 dur=31.12322
