@@ -1,335 +1,33 @@
 [
   {
-    "topic_label": "iran_president_strait_of_hormuz_condition_us",
+    "topic_label": "brics_modi_xi_jinping_bilateral_meeting",
     "virality_score": 9,
-    "reason": "Exclusive interview statement from the Iranian president regarding the reopening of the strategic Strait of Hormuz if US blockade ends.",
+    "reason": "PM Modi and Xi Jinping's high-stakes bilateral meeting at the Delhi BRICS summit is a major geopolitical story.",
     "region": "india",
-    "headline": "भारत के लिए खुलेगा होर्मुज? ईरानी राष्ट्रपति ने बता दी शर्त, US को लेकर कही बड़ी बात",
-    "source_summary": "स्ट्रेट ऑफ होर्मुज को लेकर ईरानी राष्ट्रपति मसूद पेजेश्कियान ने बड़ा बयान दिया है. आजतक को दिए एक्सक्लूसिव इंटरव्यू में उन्होंने कहा कि अमेरिका अपनी नाकेबंदी और प्रतिबंध खत्म करे तो होर्मुज को अंतरराष्ट्रीय नियमों के तहत खोलने की दिशा में काम किया जा सकता है. ईरान ओमान और अरब देशों के साथ समुद्री व्यवस्था पर बातचीत कर रहा है. भारत के लिए यह रास्ता ऊर्जा सप्लाई के लिहाज से बेहद अहम है.",
-    "source_url": "https://www.aajtak.in/india/news/story/iran-strait-of-hormuz-india-energy-crisis-oman-talks-imo-pezeshkian-ntc-mnrd-dskc-2641371-2026-09-12?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-12T20:25:16+05:30",
-    "hook": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता?",
-    "script_hi": "ईरानी राष्ट्रपति मसूद पेजेश्कियान ने आजतक को दिए इंटरव्यू में बड़ा बयान दिया है। उन्होंने कहा कि यदि अमेरिका अपनी नाकेबंदी और प्रतिबंध खत्म करता है, तो स्ट्रेट ऑफ होर्मुज को अंतरराष्ट्रीय नियमों के तहत खोला जा सकता है। भारत के लिए ऊर्जा सप्लाई के लिहाज से यह बेहद अहम रास्ता है।",
-    "tts_text_hi": "ईरानी राष्ट्रपति मसूद पेजेश्कियान ने आजतक को दिए इंटरव्यू में बड़ा बयान दिया है। उन्होंने कहा कि यदि अमेरिका अपनी नाकेबंदी और प्रतिबंध खत्म करता है, तो स्ट्रेट ऑफ होर्मुज को अंतरराष्ट्रीय नियमों के तहत खोला जा सकता है। भारत के लिए ऊर्जा सप्लाई के लिहाज से यह बेहद अहम रास्ता है।",
-    "title": "भारत के लिए खुलेगा होर्मुज? ईरानी राष्ट्रपति ने बताई शर्त",
-    "caption": "स्ट्रेट ऑफ होर्मुज को लेकर ईरानी राष्ट्रपति मसूद पेजेश्कियान का बड़ा बयान, अमेरिका के प्रतिबंध हटाने पर हो सकता है विचार।",
-    "hashtags": [
-      "Iran",
-      "StraitOfHormuz",
-      "IndiaEnergy",
-      "MasoudPezeshkian",
-      "USSanctions",
-      "NewsUpdates"
-    ],
-    "visual_queries": [
-      "Iranian flag India",
-      "oil tanker ship India",
-      "cargo ship sea India"
-    ],
-    "named_person": "Masoud Pezeshkian",
-    "named_person_hi": "मसूद पेजेश्कियान",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_6a137ec148.jpg",
-        "source": "wikimedia",
-        "query": "Masoud Pezeshkian",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13992106/pexels-photo-13992106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Iranian flag India",
-        "credit": "aboodi vesakaran",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20412610/pexels-photo-20412610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "oil tanker ship India",
-        "credit": "Burak  Başgöze",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cargo ship sea India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता? 🇮🇳",
-        "caption": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता?\n\nईरानी राष्ट्रपति ने अमेरिका को लेकर एक बड़ी शर्त रखी है, जिसका सीधा असर भारत की एनर्जी सप्लाई और तेल के दामों पर पड़ सकता है।\n\nपूरी कहानी देखें और समझें कि इसके पीछे का असली दांव क्या है।\n\n#HormuzStrait #IranNews #IndiaUs #CrudeOil #Geopolitics"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता? 🚨\n\nईरानी राष्ट्रपति ने अमेरिका के सामने एक ऐसी शर्त रख दी है जो भारत के लिए बेहद अहम है। क्या इससे तेल सस्ता होगा?\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#HormuzStrait #IranNews #IndiaUs #CrudeOil #Geopolitics"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता? 🇮🇳\n\nईरानी राष्ट्रपति ने अमेरिका को लेकर एक बड़ा बयान दिया है और साथ ही एक ऐसी शर्त रखी है, जो भारत के व्यापार और तेल बाजार को सीधे तौर पर प्रभावित कर सकती है। \n\nआखिर इस फैसले के पीछे की पूरी सच्चाई क्या है? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#HormuzStrait #IranNews #IndiaUs #CrudeOil #Geopolitics"
-      },
-      "hashtags": [
-        "HormuzStrait",
-        "IranNews",
-        "IndiaUs",
-        "CrudeOil",
-        "Geopolitics"
-      ]
-    },
-    "audio_path": "audio/iran_president_strait_of_hormuz_condition_us.wav",
-    "audio_duration_sec": 22.27,
-    "video_path": "videos/iran_president_strait_of_hormuz_condition_us.mp4",
-    "video_duration_sec": 30.29,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-13T02:42:12.061042+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa60d954c6235eee77f720d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता? 🇮🇳\n\nईरानी राष्ट्रपति ने अमेरिका को लेकर एक बड़ा बयान दिया है और साथ ही एक ऐसी शर्त रखी है, जो भारत के व्यापार और तेल बाजार को सीधे तौर पर प्रभावित कर सकती है। \n\nआखिर इस फैसले के पीछे की पूरी सच्चाई क्या है? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#HormuzStrait #IranNews #IndiaUs #CrudeOil #Geopolitics",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789267348170_uwf3rydh_iran_president_strait_of_hormuz_condition_us.mp4",
-                "_id": "6aa60d954c6235eee77f720e"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwHTF_LI&_nc_oc=AdpLZNg1Q88quGm7Hgb9SN7Gd-dd0L943dheFVTFkNyrY6KWo8CqYOSffdz7r2d8NAY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3zegyPu5JNPncO-LGT70xA&_nc_tpa=Q5bMBQJyAdiURr1tR-fxodbRi7yVrFmMrlTxCyZfxkJfZ2ZvSqkJScuBV4S3Q9UrXlUSGyEgIGjYPG0C&oh=00_AQLw1APNAi_PYilLyAdvZHB6ZnglGDfWdoQ1T15AQIfZJg&oe=6AAAA594",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-13T02:42:29.038Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "71918eb44157496b569e0a4736b9c81e",
-                "_id": "6aa60d954c6235eee77f720f",
-                "platformPostId": "28302776772741150",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=28302776772741150",
-                "publishedAt": "2026-09-13T02:42:39.311Z"
-              }
-            ],
-            "scheduledFor": "2026-09-13T02:42:29.038Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:42:29.654Z",
-            "updatedAt": "2026-09-13T02:42:39.426Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:42:29.717Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-13T02:42:39.585332+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa60db5c34c0241b5af3600",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या भारत के लिए खुलेगा होर्मुज का रास्ता? 🚨\n\nईरानी राष्ट्रपति ने अमेरिका के सामने एक ऐसी शर्त रख दी है जो भारत के लिए बेहद अहम है। क्या इससे तेल सस्ता होगा?\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#HormuzStrait #IranNews #IndiaUs #CrudeOil #Geopolitics",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789267379734_x52e54w5_iran_president_strait_of_hormuz_condition_us.mp4",
-                "_id": "6aa60db5c34c0241b5af3601"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwH0UDel&_nc_oc=Ado83vhD8P_mFWvmijZetMeYb0wNAmex0ta0-374KwmWjaU8Pio-r2Eh6MerGsE9dGM&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mCSC0Ys_ZxzFGPDodinL9g&_nc_tpa=Q5bMBQKtVXU4ibOfQE40WY47PmqPpjlysQ0zb4WC_StWzAZ-NKr5SePg54iFJre6vhj48j36lmz3EnolwA&oh=00_AQLX5Qno6ovp3xGKvqWa3kGcyugrrwkiYTzcwE_CZEqgNQ&oe=6AAA993B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-13T02:43:00.549Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "dedd6d27310982f8774f97223d8fbb2d",
-                "_id": "6aa60db5c34c0241b5af3602"
-              }
-            ],
-            "scheduledFor": "2026-09-13T02:43:00.549Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:43:01.267Z",
-            "updatedAt": "2026-09-13T02:43:03.141Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:43:01.359Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-13T02:43:03.511333+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "us_indian_woman_anila_baby_double_murder",
-    "virality_score": 9,
-    "reason": "Chilling double murder case in the US where an Indian-origin woman killed a friend and ran over another in a rampage.",
-    "region": "india",
-    "headline": "90 minutes, 2 murders: Indian-origin woman in US stabs friend, runs over another",
-    "source_summary": "Accused Anila Baby first stabbed and killed her friend Ann Mary Mathew in San Jose and then drove 20 kms to Milpitas where she mowed down Anjana Hari.",
-    "source_url": "https://www.hindustantimes.com/india-news/90-minutes-2-murders-indian-origin-woman-in-us-stabs-friend-runs-over-another-101789204403734.html",
+    "headline": "PM Modi, Xi welcome 'steady progress' in India-China ties at BRICS meet, bat for mutual resolution of border dispute",
+    "source_summary": "Xi travelled to India for the first time in seven years to attend the BRICS Summit.",
+    "source_url": "https://www.hindustantimes.com/india-news/pm-modi-xi-welcome-steady-progress-in-india-china-ties-at-brics-meet-bat-for-mutual-resolution-for-border-dispute-101789224814027.html",
     "source_name": "Hindustan Times - India News",
-    "published": "Sat, 12 Sep 2026 16:10:52 +0530",
-    "hook": "अमेरिका में भारतीय मूल की महिला का खौफनाक कदम",
-    "script_hi": "अमेरिका के सैन होसे में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो लोगों की हत्या कर दी। आरोपी महिला ने पहले अपनी दोस्त एन मेरी मैथ्यू को चाकू से गोदा। इसके बाद बीस किलोमीटर दूर मिलपिटास जाकर अंजना हरि को गाड़ी से कुचल डाला।",
-    "tts_text_hi": "अमेरिका के सैन होसे में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो लोगों की हत्या कर दी। आरोपी महिला ने पहले अपनी दोस्त एन मेरी मैथ्यू को चाकू से गोदा। इसके बाद बीस किलोमीटर दूर मिलपिटास जाकर अंजना हरि को गाड़ी से कुचल डाला।",
-    "title": "अमेरिका में भारतीय मूल की महिला ने की दो हत्याएं",
-    "caption": "अमेरिका के सैन होसे और मिलपिटास में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो महिलाओं की हत्या कर दी।",
+    "published": "Sat, 12 Sep 2026 20:39:23 +0530",
+    "hook": "पीएम मोदी और शी जिनपिंग की ऐतिहासिक मुलाकात!",
+    "script_hi": "प्रधानमंत्री नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग ने ब्रिक्स सम्मेलन के दौरान भारत-चीन संबंधों में हुई स्थिर प्रगति का स्वागत किया है। शी जिनपिंग सात वर्षों में पहली बार ब्रिक्स शिखर सम्मेलन में शामिल होने भारत आए। दोनों नेताओं ने सीमा विवाद को आपसी सहमति से सुलझाने पर जोर दिया है।",
+    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग ने ब्रिक्स सम्मेलन के दौरान भारत-चीन संबंधों में हुई स्थिर प्रगति का स्वागत किया है। शी जिनपिंग सात वर्षों में पहली बार ब्रिक्स शिखर सम्मेलन में शामिल होने भारत आए। दोनों नेताओं ने सीमा विवाद को आपसी सहमति से सुलझाने पर जोर दिया है।",
+    "title": "पीएम मोदी और शी जिनपिंग की ब्रिक्स में अहम मुलाकात",
+    "caption": "प्रधानमंत्री नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग ने ब्रिक्स सम्मेलन में सीमा विवाद और द्विपक्षीय संबंधों पर चर्चा की।",
     "hashtags": [
-      "USNews",
-      "CrimeNews",
-      "SanJose",
-      "IndianOrigin",
-      "BreakingNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "San Jose California street",
-      "police investigation crime scene India",
-      "highway road India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Specific ongoing murder case involving a named accused abroad; requires careful handling of unproven allegations and legal status before widespread publication.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation crime scene India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17978468/pexels-photo-17978468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "San Jose California street",
-        "credit": "Tef Guarachi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38065657/pexels-photo-38065657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "highway road India",
-        "credit": "Hb  zee",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "brics_modi_jinping_translators_viral",
-    "virality_score": 8,
-    "reason": "Behind-the-scenes viral curiosity about PM Modi and Xi Jinping's personal translators at the Delhi BRICS summit.",
-    "region": "india",
-    "headline": "ब्रिक्स की मीटिंग में PM मोदी और जिनपिंग के साथ मुस्कुराते दिखते ये दो चेहरे कौन हैं?",
-    "source_summary": "दिल्ली BRICS समिट की तस्वीरों में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के बगल में दो परिचित चेहरे फिर नजर आए. ये कोई सामान्य अधिकारी नहीं, बल्कि दोनों नेताओं के सबसे भरोसेमंद व्यक्तिगत अनुवादक हैं. शी के साथ सन निंग और PM मोदी के साथ सिद्धार्थ बाबू. हर महत्वपूर्ण दौरे और बैठक में मौजूद ये दोनों चुपचाप कूटनीति की सबसे अहम कड़ी बनकर काम करते हैं.",
-    "source_url": "https://www.aajtak.in/india/news/story/pm-narendra-modi-president-jinping-translator-brics-delhi-summit-2026-ntcppl-dskc-2641675-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T06:35:12+05:30",
-    "hook": "ब्रिक्स समिट की तस्वीरों में पीएम मोदी के साथ नजर आए ये दो खास चेहरे कौन हैं?",
-    "script_hi": "दिल्ली ब्रिक्स समिट की तस्वीरों में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के बगल में दो परिचित चेहरे नजर आए। ये दोनों नेताओं के सबसे भरोसेमंद व्यक्तिगत अनुवादक हैं। शी जिनपिंग के साथ सन निंग और प्रधानमंत्री मोदी के साथ सिद्धार्थ बाबू। हर महत्वपूर्ण बैठक में मौजूद ये दोनों चुपचाप कूटनीति की सबसे अहम कड़ी बनकर काम करते हैं。",
-    "tts_text_hi": "दिल्ली ब्रिक्स समिट की तस्वीरों में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के बगल में दो परिचित चेहरे नजर आए। ये दोनों नेताओं के सबसे भरोसेमंद व्यक्तिगत अनुवादक हैं। शी जिनपिंग के साथ सन निंग और प्रधानमंत्री मोदी के साथ सिद्धार्थ बाबू। हर महत्वपूर्ण बैठक में मौजूद ये दोनों चुपचाप कूटनीति की सबसे अहम कड़ी बनकर काम करते हैं。",
-    "title": "ब्रिक्स समिट में पीएम मोदी और जिनपिंग के साथ नजर आए ये दो खास चेहरे",
-    "caption": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।",
-    "hashtags": [
-      "BRICSSummit",
-      "Narendra Modi",
-      "Xi Jinping",
+      "PMModi",
+      "XiJinping",
+      "BRICS",
       "IndiaChina",
-      "Diplomacy",
-      "NewsShorts",
-      "Delhi"
+      "NewsUpdates",
+      "CurrentAffairs"
     ],
     "visual_queries": [
-      "Delhi summit conference India",
-      "Indian politician meeting India",
-      "Chinese official meeting India"
+      "BRICS summit meeting India",
+      "India China diplomatic handshake India"
     ],
     "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
+    "named_person_hi": "नरेन्द्र मोदी",
     "secondary_persons": [
       "Xi Jinping"
     ],
@@ -338,396 +36,35 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "नरेंद्र मोदी",
-        "source": "fallback",
+        "type": "image",
+        "url": "downloaded_assets/person_b358b4a556.jpg",
+        "source": "wikimedia",
         "query": "Narendra Modi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14864067/pexels-photo-14864067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi summit conference India",
-        "credit": "Shantanu Goyal",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician meeting India",
-        "credit": "Balotra News",
+        "url": "downloaded_assets/person_ee4aab2796.jpg",
+        "source": "wikimedia",
+        "query": "Xi Jinping",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29605216/pexels-photo-29605216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9262639/pexels-photo-9262639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Chinese official meeting India",
-        "credit": "Xiaodong Zhang",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ब्रिक्स समिट में पीएम मोदी और जिनपिंग के साथ नजर आए ये दो खास चेहरे",
-        "caption": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।\n\n#BRICSSummit #Narendra Modi #Xi Jinping #IndiaChina #Diplomacy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।\n\n#BRICSSummit #Narendra Modi #Xi Jinping #IndiaChina #Diplomacy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।\n\n#BRICSSummit #Narendra Modi #Xi Jinping #IndiaChina #Diplomacy"
-      },
-      "hashtags": [
-        "BRICSSummit",
-        "Narendra Modi",
-        "Xi Jinping",
-        "IndiaChina",
-        "Diplomacy"
-      ]
-    },
-    "audio_path": "audio/brics_modi_jinping_translators_viral.wav",
-    "audio_duration_sec": 23.56,
-    "video_path": "videos/brics_modi_jinping_translators_viral.mp4",
-    "video_duration_sec": 31.59,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-13T02:47:46.589785+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa60eeeb58426ff29a47edb",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।\n\n#BRICSSummit #Narendra Modi #Xi Jinping #IndiaChina #Diplomacy",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789267692906_pqllqq7x_brics_modi_jinping_translators_viral.mp4",
-                "_id": "6aa60eeeb58426ff29a47edc"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwHTF_LI&_nc_oc=AdpLZNg1Q88quGm7Hgb9SN7Gd-dd0L943dheFVTFkNyrY6KWo8CqYOSffdz7r2d8NAY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3zegyPu5JNPncO-LGT70xA&_nc_tpa=Q5bMBQJyAdiURr1tR-fxodbRi7yVrFmMrlTxCyZfxkJfZ2ZvSqkJScuBV4S3Q9UrXlUSGyEgIGjYPG0C&oh=00_AQLw1APNAi_PYilLyAdvZHB6ZnglGDfWdoQ1T15AQIfZJg&oe=6AAAA594",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-13T02:48:13.890Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "09203dcbd730d20cacc3795afe7f6b9b",
-                "_id": "6aa60eeeb58426ff29a47edd",
-                "platformPostId": "1395646625294295",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1395646625294295",
-                "publishedAt": "2026-09-13T02:48:19.636Z"
-              }
-            ],
-            "scheduledFor": "2026-09-13T02:48:13.890Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:48:14.616Z",
-            "updatedAt": "2026-09-13T02:48:19.878Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:48:14.686Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-13T02:48:20.046243+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aa60f0aa49c672aa2a72269",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "दिल्ली ब्रिक्स समिट में प्रधानमंत्री मोदी और राष्ट्रपति शी जिनपिंग के साथ नजर आए उनके भरोसेमंद व्यक्तिगत अनुवादक सन निंग और सिद्धार्थ बाबू।\n\n#BRICSSummit #Narendra Modi #Xi Jinping #IndiaChina #Diplomacy",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789267720192_hce90i80_brics_modi_jinping_translators_viral.mp4",
-                "_id": "6aa60f0aa49c672aa2a7226a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwH0UDel&_nc_oc=Ado83vhD8P_mFWvmijZetMeYb0wNAmex0ta0-374KwmWjaU8Pio-r2Eh6MerGsE9dGM&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mCSC0Ys_ZxzFGPDodinL9g&_nc_tpa=Q5bMBQKtVXU4ibOfQE40WY47PmqPpjlysQ0zb4WC_StWzAZ-NKr5SePg54iFJre6vhj48j36lmz3EnolwA&oh=00_AQLX5Qno6ovp3xGKvqWa3kGcyugrrwkiYTzcwE_CZEqgNQ&oe=6AAA993B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-13T02:48:41.548Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "79c4163c82d4728d9696471988133f53",
-                "_id": "6aa60f0aa49c672aa2a7226b"
-              }
-            ],
-            "scheduledFor": "2026-09-13T02:48:41.548Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:48:42.413Z",
-            "updatedAt": "2026-09-13T02:48:44.566Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:48:42.523Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-13T02:48:45.087105+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "california_indian_woman_shalini_thakur_murder",
-    "virality_score": 8,
-    "reason": "High-impact crime story involving an Indian-origin woman targeted by a stalker in California.",
-    "region": "india",
-    "headline": "कैलिफोर्निया में भारतीय मूल की महिला की गोली मारकर हत्या",
-    "source_summary": "अमेरिका के कैलिफोर्निया में 38 वर्षीय भारतीय मूल की महिला शालिनी ठाकुर की एक रेस्टोरेंट के बाहर गोली मारकर हत्या कर दी गई. अमेरिकी होमलैंड सुरक्षा विभाग (DHS) के अनुसार, 22 वर्षीय भारतीय नागरिक रोहित महीनों से उनका पीछा कर रहा था. हालांकि, वारदात के बाद आरोपी ने खुद को गोली मार ली.",
-    "source_url": "https://www.aajtak.in/world/story/indian-origin-woman-shalini-thakur-murder-sacramento-undocumented-immigrant-rohit-ntc-ntyv-dskc-2641715-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T04:26:48+05:30",
-    "hook": "अमेरिका में भारतीय मूल की महिला की गोली मारकर हत्या!",
-    "script_hi": "अमेरिका के कैलिफोर्निया में अड़तीस वर्षीय भारतीय मूल की महिला शालिनी ठाकुर की एक रेस्टोरेंट के बाहर गोली मारकर हत्या कर दी गई। अमेरिकी होमलैंड सुरक्षा विभाग के अनुसार, बाईस वर्षीय भारतीय नागरिक रोहित महीनों से उनका पीछा कर रहा था। वारदात के बाद आरोपी ने खुद को भी गोली से उड़ा लिया।",
-    "tts_text_hi": "अमेरिका के कैलिफोर्निया में अड़तीस वर्षीय भारतीय मूल की महिला शालिनी ठाकुर की एक रेस्टोरेंट के बाहर गोली मारकर हत्या कर दी गई। अमेरिकी होमलैंड सुरक्षा विभाग के अनुसार, बाईस वर्षीय भारतीय नागरिक रोहित महीनों से उनका पीछा कर रहा था। वारदात के बाद आरोपी ने खुद को भी गोली से उड़ा लिया।",
-    "title": "कैलिफोर्निया में भारतीय महिला की हत्या",
-    "caption": "अमेरिका के कैलिफोर्निया में भारतीय मूल की महिला शालिनी ठाकुर की गोली मारकर हत्या, आरोपी ने भी की आत्महत्या।",
-    "hashtags": [
-      "California",
-      "CrimeNews",
-      "India",
-      "USNews",
-      "BreakingNews",
-      "ShaliniThakur"
-    ],
-    "visual_queries": [
-      "California restaurant exterior USA",
-      "police investigation crime scene USA",
-      "American police car flashing lights"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15921893/pexels-photo-15921893.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "California restaurant exterior USA",
-        "credit": "Dimitri Baret",
+        "query": "BRICS summit meeting India",
+        "credit": "Devansh Bose",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16138196/pexels-photo-16138196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police investigation crime scene USA",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10543088/pexels-photo-10543088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "American police car flashing lights",
-        "credit": "Gabriel Hohol",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "fatehpur_villagers_tie_telecom_engineer_to_tower",
-    "virality_score": 8,
-    "reason": "Outrage-driven viral local incident where angry villagers tied a telecom engineer to a tower over poor network.",
-    "region": "india",
-    "headline": "5G network poor, villagers tie telecom techie to mobile tower in UP's Fatehpur",
-    "source_summary": "The incident reportedly took place on Thursday at the Hardauli village in Bindki area of Fatehpur district.",
-    "source_url": "https://www.hindustantimes.com/india-news/5g-network-poor-villagers-tie-telecom-techie-aditya-bhan-singh-to-mobile-tower-in-up-fatehpur-video-101789189095807.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Sat, 12 Sep 2026 10:40:42 +0530",
-    "hook": "उत्तर प्रदेश के फतेहपुर में नेटवर्क खराब होने पर ग्रामीणों का गुस्सा फूटा!",
-    "script_hi": "उत्तर प्रदेश के फतेहपुर जिले के एक गांव में फौजी नेटवर्क और खराब पांच जी सर्विस से परेशान ग्रामीणों ने हद कर दी। ग्रामीणों ने एक टेलीकॉम टेक्नीशियन को पकड़कर मोबाइल टावर से बांध दिया। यह घटना थरियांव या बिंदकी क्षेत्र के हरदौली गांव की बताई जा रही है। सोशल मीडिया पर इसका वीडियो तेजी से वायरल हो रहा है।",
-    "tts_text_hi": "उत्तर प्रदेश के फतेहपुर जिले के एक गांव में खराब नेटवर्क और खराब पांच जी सर्विस से परेशान ग्रामीणों ने हद कर दी। ग्रामीणों ने एक टेलीकॉम टेक्नीशियन को पकड़कर मोबाइल टावर से बांध दिया। यह घटना बिंदकी क्षेत्र के हरदौली गांव की बताई जा रही है। सोशल मीडिया पर इसका वीडियो तेजी से वायरल हो रहा है।",
-    "title": "फतेहपुर में खराब 5G नेटवर्क से परेशान ग्रामीणों ने टेक्नीशियन को टावर से बांधा",
-    "caption": "उत्तर प्रदेश के फतेहपुर जिले में खराब 5G नेटवर्क से परेशान ग्रामीणों ने टेलीकॉम टेक्नीशियन को मोबाइल टावर से बांध दिया। घटना का वीडियो वायरल हो रहा है।",
-    "hashtags": [
-      "Fatehpur",
-      "UttarPradesh",
-      "5GNetwork",
-      "ViralVideo",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian mobile tower village",
-      "angry villagers protest India",
-      "telecom technician India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a technician tied to a tower that generic stock B-roll cannot accurately represent; needs the real footage added manually.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/25252651/pexels-photo-25252651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian mobile tower village",
-        "credit": "Umar Andrabi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry villagers protest India",
-        "credit": "Rahul Sapra",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11320755/pexels-photo-11320755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "telecom technician India",
-        "credit": "Omar Tapia",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bihar_children_jugaad_boat_school_commute",
-    "virality_score": 7,
-    "reason": "Visually striking local struggle story of children using a makeshift capsule boat to cross a flooded river for school.",
-    "region": "india",
-    "headline": "बिहार में पढ़ाई के लिए जुगाड़ की नाव से नदी पार कर रहे बच्चे!",
-    "source_summary": "बिहार के बाढ़ जिले में करीब दस बच्चे रोजाना स्कूल जाने के लिए मुहाने नदी को जुगाड़ की नाव से पार करते हैं. गांव वालों ने पीपा पुल के पुराने लोहे के कैप्सूल को रस्सी से बांधकर नाव जैसा रास्ता बनाया है. बच्चे खुद रस्सी खींचकर नदी पार करते हैं और उनके साथ कोई वयस्क नहीं होता. तेज बहाव या संतुलन बिगड़ने पर हादसे का खतरा बना रहता है. अधिकारी सुरक्षित सड़क मार्ग अपनाने की सलाह दे रहे हैं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/bihar-flood-school-children-cross-river-using-rope-boat-daily-to-attend-school-dangerous-journey-safety-concerns-mmta-2641477-2026-09-12?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-12T17:00:10+05:30",
-    "hook": "बिहार के इस गांव में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं!",
-    "script_hi": "बिहार के बाढ़ जिले में करीब दस बच्चे रोजाना स्कूल जाने के लिए मुहाने नदी को जुगाड़ की नाव से पार करते हैं। गांव वालों ने पीपा पुल के पुराने लोहे के कैप्सूल को रस्सी से बांधकर नाव जैसा रास्ता बनाया है। बच्चे खुद रस्सी खींचकर नदी पार करते हैं और उनके साथ कोई वयस्क नहीं होता। तेज बहाव या संतुलन बिगड़ने पर हादसे का खतरा बना रहता है। अधिकारी सुरक्षित सड़क मार्ग अपनाने की सलाह दे रहे हैं।",
-    "tts_text_hi": "बिहार के बाढ़ जिले में करीब दस बच्चे रोजाना स्कूल जाने के लिए मुहाने नदी को जुगाड़ की नाव से पार करते हैं। गांव वालों ने पीपा पुल के पुराने लोहे के कैप्सूल को रस्सी से बांधकर नाव जैसा रास्ता बनाया है। बच्चे खुद रस्सी खींचकर नदी पार करते हैं और उनके साथ कोई वयस्क नहीं होता। तेज बहाव या संतुलन बिगड़ने पर हादसे का खतरा बना रहता है। अधिकारी सुरक्षित सड़क मार्ग अपनाने की सलाह दे रहे हैं।",
-    "title": "बिहार के बाढ़ में जुगाड़ की नाव से नदी पार करते बच्चे",
-    "caption": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।",
-    "hashtags": [
-      "BiharNews",
-      "SchoolChildren",
-      "Barh",
-      "LocalNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India flooded river",
-      "children walking to school India",
-      "rural India river bridge",
-      "Indian village school children"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India flooded river",
-        "credit": "Arto Suraj",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39229156/pexels-photo-39229156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "children walking to school India",
-        "credit": "\"Beyond India by Shubham Thakur\"",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4143599/pexels-photo-4143599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rural India river bridge",
-        "credit": "Sanjeev Kumar",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15119089/pexels-photo-15119089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village school children",
-        "credit": "Pallav Suthar",
+        "query": "international summit meeting",
+        "credit": "aboodi vesakaran",
         "duration_sec": 5
       }
     ],
@@ -736,34 +73,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "बिहार के बाढ़ में जुगाड़ की नाव से नदी पार करते बच्चे",
-        "caption": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।\n\n#BiharNews #SchoolChildren #Barh #LocalNews #IndiaNews"
+        "title": "पीएम मोदी और शी जिनपिंग में क्या हुई बात? ब्रिक्स में बड़ी मुलाकात 🤝",
+        "caption": "ब्रिक्स सम्मेलन के दौरान पीएम मोदी और शी जिनपिंग की आमने-सामने हुई चर्चा ने पूरी दुनिया का ध्यान खींच लिया है। दोनों नेताओं ने भारत-चीन रिश्तों में आ रही स्थिरता का स्वागत किया और सीमा विवाद को आपसी बातचीत से सुलझाने पर जोर दिया। इस मुलाकात के क्या हैं मायने, पूरी कहानी देखें। 👇\n\n#PmModi #XiJinping #BricsSummit #IndiaChinaRelations #Geopolitics"
       },
       "instagram": {
         "title": null,
-        "caption": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।\n\n#BiharNews #SchoolChildren #Barh #LocalNews #IndiaNews"
+        "caption": "ब्रिक्स में हुई पीएम मोदी और शी जिनपिंग की इस मुलाकात ने बदल दिए कूटनीति के समीकरण! 🤝\n\nदोनों नेताओं ने सीमा विवाद को आपसी सहमति से सुलझाने और रिश्तों में प्रगति का स्वागत किया है। \n\nआपको क्या लगता है, क्या इससे दोनों देशों के बीच बर्फ पिघलेगी? कमेंट में बताएं।\n\n#PmModi #XiJinping #BricsSummit #IndiaChinaRelations #Geopolitics"
       },
       "facebook": {
         "title": null,
-        "caption": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।\n\n#BiharNews #SchoolChildren #Barh #LocalNews #IndiaNews"
+        "caption": "ब्रिक्स मंच पर भारत और चीन के रिश्तों को लेकर एक बहुत बड़ा अपडेट सामने आया है। पीएम मोदी और शी जिनपिंग के बीच हुई इस अहम बैठक में सीमा विवाद को शांतिपूर्ण तरीके से सुलझाने और आपसी संबंधों को आगे बढ़ाने पर गंभीर चर्चा हुई। इस मुलाकात के बाद कूटनीतिक गलियारों में हलचल तेज हो गई है। पूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#PmModi #XiJinping #BricsSummit #IndiaChinaRelations #Geopolitics"
       },
       "hashtags": [
-        "BiharNews",
-        "SchoolChildren",
-        "Barh",
-        "LocalNews",
-        "IndiaNews"
+        "PmModi",
+        "XiJinping",
+        "BricsSummit",
+        "IndiaChinaRelations",
+        "Geopolitics"
       ]
     },
-    "audio_path": "audio/bihar_children_jugaad_boat_school_commute.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/bihar_children_jugaad_boat_school_commute.mp4",
-    "video_duration_sec": 38.26,
+    "audio_path": "audio/brics_modi_xi_jinping_bilateral_meeting.wav",
+    "audio_duration_sec": 20.86,
+    "video_path": "videos/brics_modi_xi_jinping_bilateral_meeting.mp4",
+    "video_duration_sec": 28.82,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-13T02:51:50.177459+00:00"
+        "attempted_at": "2026-09-13T04:43:39.906367+00:00"
       },
       "facebook": {
         "success": true,
@@ -776,15 +113,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa60fe5f074a9584d6f56ea",
+            "_id": "6aa62a1a29f6f07bbe1dcfe5",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।\n\n#BiharNews #SchoolChildren #Barh #LocalNews #IndiaNews",
+            "content": "ब्रिक्स मंच पर भारत और चीन के रिश्तों को लेकर एक बहुत बड़ा अपडेट सामने आया है। पीएम मोदी और शी जिनपिंग के बीच हुई इस अहम बैठक में सीमा विवाद को शांतिपूर्ण तरीके से सुलझाने और आपसी संबंधों को आगे बढ़ाने पर गंभीर चर्चा हुई। इस मुलाकात के बाद कूटनीतिक गलियारों में हलचल तेज हो गई है। पूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#PmModi #XiJinping #BricsSummit #IndiaChinaRelations #Geopolitics",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789267939449_4sm1e2ow_bihar_children_jugaad_boat_school_commute.mp4",
-                "_id": "6aa60fe5f074a9584d6f56eb"
+                "url": "https://media.zernio.com/media/1789274648108_yikeevss_brics_modi_xi_jinping_bilateral_meeting.mp4",
+                "_id": "6aa62a1a29f6f07bbe1dcfe6"
               }
             ],
             "platforms": [
@@ -801,17 +138,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-13T02:52:20.834Z",
+                "scheduledFor": "2026-09-13T04:44:09.746Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "07e315cb58f4a78b2793613ecf9ab7d1",
-                "_id": "6aa60fe5f074a9584d6f56ec",
-                "platformPostId": "1066751422611075",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1066751422611075",
-                "publishedAt": "2026-09-13T02:52:29.256Z"
+                "contentHash": "4aae341610b64d8ffad189cfcd2d9214",
+                "_id": "6aa62a1a29f6f07bbe1dcfe7",
+                "platformPostId": "1107978868330045",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1107978868330045",
+                "publishedAt": "2026-09-13T04:44:18.579Z"
               }
             ],
-            "scheduledFor": "2026-09-13T02:52:20.834Z",
+            "scheduledFor": "2026-09-13T04:44:09.746Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -823,14 +160,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:52:21.396Z",
-            "updatedAt": "2026-09-13T02:52:29.344Z",
+            "createdAt": "2026-09-13T04:44:10.433Z",
+            "updatedAt": "2026-09-13T04:44:18.718Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:52:21.460Z"
+            "publishingClaimedAt": "2026-09-13T04:44:10.508Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-13T02:52:29.491090+00:00"
+        "attempted_at": "2026-09-13T04:44:18.915599+00:00"
       },
       "instagram": {
         "success": true,
@@ -843,15 +180,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa61001f074a9584d6f5dd1",
+            "_id": "6aa62a3a660dea33745e1be7",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "बिहार के बाढ़ जिले में बच्चे अपनी जान जोखिम में डालकर स्कूल जाने को मजबूर हैं।\n\n#BiharNews #SchoolChildren #Barh #LocalNews #IndiaNews",
+            "content": "ब्रिक्स में हुई पीएम मोदी और शी जिनपिंग की इस मुलाकात ने बदल दिए कूटनीति के समीकरण! 🤝\n\nदोनों नेताओं ने सीमा विवाद को आपसी सहमति से सुलझाने और रिश्तों में प्रगति का स्वागत किया है। \n\nआपको क्या लगता है, क्या इससे दोनों देशों के बीच बर्फ पिघलेगी? कमेंट में बताएं।\n\n#PmModi #XiJinping #BricsSummit #IndiaChinaRelations #Geopolitics",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789267967635_va3hln0o_bihar_children_jugaad_boat_school_commute.mp4",
-                "_id": "6aa61001f074a9584d6f5dd2"
+                "url": "https://media.zernio.com/media/1789274680223_adxmq7vm_brics_modi_xi_jinping_bilateral_meeting.mp4",
+                "_id": "6aa62a3a660dea33745e1be8"
               }
             ],
             "platforms": [
@@ -868,14 +205,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-13T02:52:49.151Z",
+                "scheduledFor": "2026-09-13T04:44:41.921Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "447a5d8c123efd303f3ad3c92df5db65",
-                "_id": "6aa61001f074a9584d6f5dd3"
+                "contentHash": "4f2860529ca6a1183c821a389735e4e9",
+                "_id": "6aa62a3a660dea33745e1be9"
               }
             ],
-            "scheduledFor": "2026-09-13T02:52:49.151Z",
+            "scheduledFor": "2026-09-13T04:44:41.921Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -887,44 +224,622 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:52:49.692Z",
-            "updatedAt": "2026-09-13T02:52:51.556Z",
+            "createdAt": "2026-09-13T04:44:42.753Z",
+            "updatedAt": "2026-09-13T04:44:44.286Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:52:49.751Z"
+            "publishingClaimedAt": "2026-09-13T04:44:42.816Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-13T02:52:51.786679+00:00"
+        "attempted_at": "2026-09-13T04:44:44.724667+00:00"
       }
     }
   },
   {
-    "topic_label": "france_passenger_train_derailment_malicious_act_global",
+    "topic_label": "ukraine_russian_missile_attacks_nine_dead",
     "virality_score": 7,
-    "reason": "International mystery and safety story investigating a malicious act behind a major passenger train derailment in France.",
-    "region": "global",
-    "headline": "French officials investigate if malicious act caused train derailment",
-    "source_summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-    "source_url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sat, 12 Sep 2026 15:05:53 GMT",
-    "hook": "फ्रांस में ट्रेन हादसे के पीछे क्या कोई बड़ी साजिश थी?",
-    "script_hi": "फ्रांस में शुक्रवार को हुए भीषण पैसेंजर ट्रेन हादसे के मामले में अधिकारी अब एक दुर्भावनापूर्ण कृत्य यानी साजिश की जांच कर रहे हैं। इस दुर्घटना में चौवालीस लोग घायल हो गए थे। जांच के दौरान पटरी पर एक रेल का टुकड़ा मिला है, जिसके बाद से यह आशंका जताई जा रही है।",
-    "tts_text_hi": "फ्रांस में शुक्रवार को हुए भीषण पैसेंजर ट्रेन हादसे के मामले में अधिकारी अब एक दुर्भावनापूर्ण कृत्य यानी साजिश की जांच कर रहे हैं। इस दुर्घटना में चौवालीस लोग घायल हो गए थे। जांच के दौरान पटरी पर एक रेल का टुकड़ा मिला है, जिसके बाद से यह आशंका जताई जा रही है।",
-    "title": "फ्रांस ट्रेन हादसा: साजिश की जांच",
-    "caption": "फ्रांस में हुए पैसेंजर ट्रेन हादसे के बाद अब साजिश की आशंका जताई जा रही है। हादसे में चौवालीस लोग घायल हुए थे।",
+    "reason": "Heavy Russian airstrikes across Ukraine resulting in casualties make for a compelling global news brief.",
+    "region": "india",
+    "headline": "रूसी हमलों से यूक्रेन में तबाही, नौ लोगों की गई जान",
+    "source_summary": "रूस ने 12 सितंबर को यूक्रेन के कई इलाकों में बड़े हवाई हमले किए, जिनमें नौ लोगों की मौत और 12 से अधिक लोग घायल हुए। हमलों में रिहायशी इमारतों और बुनियादी ढांचे को नुकसान पहुंचा। जेलेंस्की के मुताबिक करीब 500 ड्रोन दागे गए।",
+    "source_url": "https://www.aajtak.in/short-videos/video/russian-military-drone-attack-on-ukraine-civilian-casualties-zelensky-kramatorsk-putin-mmtc-2641768-2026-09-13?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-13T09:06:45+05:30",
+    "hook": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन!",
+    "script_hi": "बारह सितंबर को रूस ने यूक्रेन पर बड़े हवाई हमले किए, जिनमें नौ लोगों की मौत हो गई और बारह से अधिक लोग घायल हुए। इन हमलों में कई रिहायशी इमारतों और बुनियादी ढांचे को भारी नुकसान पहुंचा है। यूक्रेनी राष्ट्रपति जेलेंस्की के मुताबिक, रूस ने इस दौरान करीब पांच सौ ड्रोन दागे।",
+    "tts_text_hi": "बारह सितंबर को रूस ने यूक्रेन पर बड़े हवाई हमले किए, जिनमें नौ लोगों की मौत हो गई और बारह से अधिक लोग घायल हुए। इन हमलों में कई रिहायशी इमारतों और बुनियादी ढांचे को भारी नुकसान पहुंचा है। यूक्रेनी राष्ट्रपति जेलेंस्की के मुताबिक, रूस ने इस दौरान करीब पांच सौ ड्रोन दागे।",
+    "title": "रूस के हवाई हमलों से यूक्रेन में तबाही",
+    "caption": "रूस के हवाई हमलों से यूक्रेन में मची तबाही, नौ लोगों की मौत और बारह से ज्यादा घायल।",
     "hashtags": [
-      "FranceTrainCrash",
-      "TrainAccident",
+      "RussiaUkraineWar",
+      "UkraineNews",
       "WorldNews",
-      "BreakingNews",
-      "France"
+      "BreakingNews"
     ],
     "visual_queries": [
-      "damaged train derailment track",
-      "railway tracks wreckage",
-      "investigation crime scene railway",
-      "police investigation France"
+      "destroyed building Ukraine",
+      "smoke rising city Ukraine",
+      "military drone sky"
+    ],
+    "named_person": "Volodymyr Zelenskyy",
+    "named_person_hi": "वोलोडिमिर ज़ेलेंस्की",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "वोलोडिमिर ज़ेलेंस्की",
+        "source": "fallback",
+        "query": "Volodymyr Zelenskyy",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31082976/13281983_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "urban destruction aftermath",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30928424/13225219_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "damaged residential buildings",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 30,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31778051/pexels-photo-31778051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "destroyed building Ukraine",
+        "credit": "Алесь Усцінаў",
+        "duration_sec": 3.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11489911/pexels-photo-11489911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smoke rising city Ukraine",
+        "credit": "Алесь Усцінаў",
+        "duration_sec": 3.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16558859/pexels-photo-16558859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "destroyed building ruins",
+        "credit": "Elina Volkova",
+        "duration_sec": 3.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38848222/pexels-photo-38848222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smoke over city skyline",
+        "credit": "Sajal Niraula",
+        "duration_sec": 3.5
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रूस के भयानक हमलों से दहला यूक्रेन! 9 की मौत 🚨",
+        "caption": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन! 🇷🇺💥\n\nकीएव समेत कई बड़े शहरों में ताबड़तोड़ मिसाइलें गिरी हैं, जिसमें अब तक 9 लोगों की जान जा चुकी है और कई इमारतें मलबे में तब्दील हो गई हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#RussiaUkraineWar #UkraineNews #WorldNews #RussiaAttacks #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन! 🇷🇺💥\n\nताजा हमलों में 9 लोगों की मौत हो गई है और चारों तरफ सिर्फ तबाही का मंजर दिख रहा है। \n\nअपडेट्स के लिए फॉलो करें।\n\n#RussiaUkraineWar #UkraineNews #WorldNews #RussiaAttacks #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन! 🇷🇺💥\n\nकीएव और अन्य प्रमुख शहरों को निशाना बनाकर किए गए इन हमलों में अब तक 9 लोगों की जान जा चुकी है, जबकि रेस्क्यू ऑपरेशन अभी भी जारी है। हालात लगातार बिगड़ते जा रहे हैं।\n\nपूरी कहानी जानने के लिए वीडियो देखें और शेयर करें।\n\n#RussiaUkraineWar #UkraineNews #WorldNews #RussiaAttacks #BreakingNews"
+      },
+      "hashtags": [
+        "RussiaUkraineWar",
+        "UkraineNews",
+        "WorldNews",
+        "RussiaAttacks",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/ukraine_russian_missile_attacks_nine_dead.wav",
+    "audio_duration_sec": 20.38,
+    "video_path": "videos/ukraine_russian_missile_attacks_nine_dead.mp4",
+    "video_duration_sec": 28.36,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-13T04:48:55.838371+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa62b59f3ac554b41499cf2",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन! 🇷🇺💥\n\nकीएव और अन्य प्रमुख शहरों को निशाना बनाकर किए गए इन हमलों में अब तक 9 लोगों की जान जा चुकी है, जबकि रेस्क्यू ऑपरेशन अभी भी जारी है। हालात लगातार बिगड़ते जा रहे हैं।\n\nपूरी कहानी जानने के लिए वीडियो देखें और शेयर करें।\n\n#RussiaUkraineWar #UkraineNews #WorldNews #RussiaAttacks #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789274966114_hzts5hyx_ukraine_russian_missile_attacks_nine_dead.mp4",
+                "_id": "6aa62b59f3ac554b41499cf3"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwHTF_LI&_nc_oc=AdpLZNg1Q88quGm7Hgb9SN7Gd-dd0L943dheFVTFkNyrY6KWo8CqYOSffdz7r2d8NAY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3zegyPu5JNPncO-LGT70xA&_nc_tpa=Q5bMBQJyAdiURr1tR-fxodbRi7yVrFmMrlTxCyZfxkJfZ2ZvSqkJScuBV4S3Q9UrXlUSGyEgIGjYPG0C&oh=00_AQLw1APNAi_PYilLyAdvZHB6ZnglGDfWdoQ1T15AQIfZJg&oe=6AAAA594",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-13T04:49:29.009Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "96ea37abcb778de24f1bfa22bdce3da9",
+                "_id": "6aa62b59f3ac554b41499cf4",
+                "platformPostId": "3260024137517498",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=3260024137517498",
+                "publishedAt": "2026-09-13T04:49:39.570Z"
+              }
+            ],
+            "scheduledFor": "2026-09-13T04:49:29.009Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-13T04:49:29.809Z",
+            "updatedAt": "2026-09-13T04:49:39.771Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-13T04:49:29.869Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-13T04:49:40.003917+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa62b86bc3a368df52ab4ec",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "रूस के भयानक हवाई हमलों से दहल उठा यूक्रेन! 🇷🇺💥\n\nताजा हमलों में 9 लोगों की मौत हो गई है और चारों तरफ सिर्फ तबाही का मंजर दिख रहा है। \n\nअपडेट्स के लिए फॉलो करें।\n\n#RussiaUkraineWar #UkraineNews #WorldNews #RussiaAttacks #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789275011463_eoqh3n9k_ukraine_russian_missile_attacks_nine_dead.mp4",
+                "_id": "6aa62b86bc3a368df52ab4ed"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwH0UDel&_nc_oc=Ado83vhD8P_mFWvmijZetMeYb0wNAmex0ta0-374KwmWjaU8Pio-r2Eh6MerGsE9dGM&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mCSC0Ys_ZxzFGPDodinL9g&_nc_tpa=Q5bMBQKtVXU4ibOfQE40WY47PmqPpjlysQ0zb4WC_StWzAZ-NKr5SePg54iFJre6vhj48j36lmz3EnolwA&oh=00_AQLX5Qno6ovp3xGKvqWa3kGcyugrrwkiYTzcwE_CZEqgNQ&oe=6AAA993B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-13T04:50:13.411Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "03d34843b26d13d57af75c6400e4459c",
+                "_id": "6aa62b86bc3a368df52ab4ee"
+              }
+            ],
+            "scheduledFor": "2026-09-13T04:50:13.411Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-13T04:50:14.416Z",
+            "updatedAt": "2026-09-13T04:50:16.754Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-13T04:50:14.526Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-13T04:50:17.156977+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "rai_bareli_couple_monkey_property_inheritance",
+    "virality_score": 7,
+    "reason": "A quirky human-interest story about a UP couple willing their multi-million property to a pet monkey.",
+    "region": "india",
+    "headline": "रायबरेली के इस कपल ने बंदर के नाम क्यों कर दी करोड़ों की जायदाद? रुला देगी ये कहानी",
+    "source_summary": "UP Couple Monkey Property: रायबरेली के इस आलीशान घर में रहने वाले लाडले के कमरे में AC-हीटर लगा है और नाश्ते में उसे काजू-अनार परोसे जाते हैं. जानिए कौन है यह वीआईपी 'बेटा'.",
+    "source_url": "https://ndtv.in/zara-hatke/raebareli-up-couple-leaves-property-to-pet-monkey-chunmun-12039700#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 13 Sep 2026 09:39:41 +0530",
+    "hook": "उत्तर प्रदेश के रायबरेली से एक बेहद हैरान करने वाली खबर सामने आई है!",
+    "script_hi": "उत्तर प्रदेश के रायबरेली से एक हैरान करने वाली खबर सामने आई है, जहाँ एक दंपति ने अपनी करोड़ों रुपये की संपत्ति एक बंदर के नाम कर दी है। इस आलीशान घर में रहने वाले लाडले बंदर के कमरे में एसी और हीटर लगा है, और नाश्ते में उसे काजू और अनार परोसे जाते हैं। संतान न होने के कारण इस दंपति ने बंदर को ही अपना बेटा मान लिया है और उसकी पूरी देखभाल की जा रही है।",
+    "tts_text_hi": "उत्तर प्रदेश के रायबरेली से एक हैरान करने वाली खबर सामने आई है, जहाँ एक दंपति ने अपनी करोड़ों रुपये की संपत्ति एक बंदर के नाम कर दी है। इस आलीशान घर में रहने वाले लाडले बंदर के कमरे में एसी और हीटर लगा है, और नाश्ते में उसे काजू और अनार परोसे जाते हैं। संतान न होने के कारण इस दंपति ने बंदर को ही अपना बेटा मान लिया है और उसकी पूरी देखभाल की जा रही है।",
+    "title": "रायबरेली के कपल ने बंदर के नाम की करोड़ों की जायदाद",
+    "caption": "उत्तर प्रदेश के रायबरेली में एक निःसंतान दंपति ने अपनी करोड़ों की संपत्ति एक बंदर के नाम कर दी है।",
+    "hashtags": [
+      "Raebareli",
+      "UttarPradesh",
+      "ViralNews",
+      "MonkeyLove",
+      "NewsShorts",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian luxury house exterior",
+      "Indian monkey sitting calmly",
+      "luxury living room India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32031452/pexels-photo-32031452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian luxury house exterior",
+        "credit": "Sahil Hansda",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30959528/pexels-photo-30959528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian monkey sitting calmly",
+        "credit": "Monojit Dutta",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20418771/pexels-photo-20418771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury living room India",
+        "credit": "Sandeep Lasar",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39315198/pexels-photo-39315198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wealthy Indian home interior",
+        "credit": "Elvis Ynojosa",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28970617/pexels-photo-28970617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pet monkey in India",
+        "credit": "hashtagKaran ‎",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12641365/pexels-photo-12641365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rich Indian couple portrait",
+        "credit": "𝖆𝖒𝖆𝖓 𝖆𝖏𝖎𝖒𝖆𝖑 𝕱𝖆𝖘𝖍𝖎𝖔𝖓 𝕾𝖙𝖞𝖑𝖎𝖘𝖙",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38816767/pexels-photo-38816767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury Indian property exterior",
+        "credit": "Trust Stone",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रायबरेली के इस कपल ने बंदर के नाम क्यों कर दी करोड़ों की जायदाद? 🐒",
+        "caption": "जिंदगी भर की कमाई एक बंदर के नाम! 🐒 उत्तर प्रदेश के रायबरेली से एक ऐसी हैरान करने वाली खबर सामने आई है जिसे जानकर आपकी आंखें नम हो जाएंगी। आखिर इस बुजुर्ग जोड़े ने ऐसा क्यों किया? पूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#RaebareliNews #ViralStory #MonkeyLove #UPNews #EmotionalStory"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "करोड़ों की जायदाद एक बंदर के नाम! 🐒 रायबरेली के इस कपल का फैसला सुनकर पुलिस और रिश्तेदार भी हैरान रह गए। रुला देने वाली इस पूरी कहानी को जानें।\n\n#RaebareliNews #ViralStory #MonkeyLove #UPNews #EmotionalStory"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के रायबरेली से एक ऐसी अनोखी और भावुक करने वाली खबर सामने आई है जिसे सुनकर हर कोई हैरान है। एक निसंतान जोड़े ने अपनी करोड़ों की पूरी जायदाद एक बंदर के नाम कर दी है। आखिर क्या थी इसके पीछे की असली वजह? जानिए इस वीडियो में।\n\n#RaebareliNews #ViralStory #MonkeyLove #UPNews #EmotionalStory"
+      },
+      "hashtags": [
+        "RaebareliNews",
+        "ViralStory",
+        "MonkeyLove",
+        "UPNews",
+        "EmotionalStory"
+      ]
+    },
+    "audio_path": "audio/rai_bareli_couple_monkey_property_inheritance.wav",
+    "audio_duration_sec": 28.92,
+    "video_path": "videos/rai_bareli_couple_monkey_property_inheritance.mp4",
+    "video_duration_sec": 36.96,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-13T04:54:59.281546+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa62cbaf0390bc60ef5657a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश के रायबरेली से एक ऐसी अनोखी और भावुक करने वाली खबर सामने आई है जिसे सुनकर हर कोई हैरान है। एक निसंतान जोड़े ने अपनी करोड़ों की पूरी जायदाद एक बंदर के नाम कर दी है। आखिर क्या थी इसके पीछे की असली वजह? जानिए इस वीडियो में।\n\n#RaebareliNews #ViralStory #MonkeyLove #UPNews #EmotionalStory",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789275320015_3t1qo9a5_rai_bareli_couple_monkey_property_inheritance.mp4",
+                "_id": "6aa62cbaf0390bc60ef5657b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwGrxolQ&_nc_oc=Adr8r8rS6m1zq8PUMpIwKCrXpuAJ5KDE9vf9_GdHL69-uZwmV-ksbEHHnlQ5qxJcRmQ&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=x77ylCFM8RDijiiowzL0eg&_nc_tpa=Q5bMBQL6KBkrQsAU76535r-56G9GRBlVOW2eNCMlzmm_EiVOuL5H4mwqunbwn_VJBkWafHS5G0zN72PN&oh=00_AQI6vd4noz8g3DhuzddF4L_a1aG4FDaS5ymNroyA1oTm1g&oe=6AABF714",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-13T04:55:21.754Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "bd5a41c97370243aa9af4777b069eb0a",
+                "_id": "6aa62cbaf0390bc60ef5657c",
+                "platformPostId": "1796813688145212",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1796813688145212",
+                "publishedAt": "2026-09-13T04:55:32.021Z"
+              }
+            ],
+            "scheduledFor": "2026-09-13T04:55:21.754Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-13T04:55:22.874Z",
+            "updatedAt": "2026-09-13T04:55:32.118Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-13T04:55:22.932Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-13T04:55:32.318412+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aa62cd8b171a37562b55276",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "करोड़ों की जायदाद एक बंदर के नाम! 🐒 रायबरेली के इस कपल का फैसला सुनकर पुलिस और रिश्तेदार भी हैरान रह गए। रुला देने वाली इस पूरी कहानी को जानें।\n\n#RaebareliNews #ViralStory #MonkeyLove #UPNews #EmotionalStory",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789275350551_n6eti925_rai_bareli_couple_monkey_property_inheritance.mp4",
+                "_id": "6aa62cd8b171a37562b55277"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwFKs9MR&_nc_oc=AdonlmpXjxxluGKQXtsaT68-mHBESl9VN5ZfwtEw4rYEseK-s_pPk_R0cNXCMWZmllU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=EZD7Cm0EQzuAmHvqC3RZJA&_nc_tpa=Q5bMBQIevCeOi6BwJ8Hqg2VM54GwO0UVYLOgaJntHXMdZzj-yvSKftR21bcoWZ5T0_mMUdW2jUmrIoI34Q&oh=00_AQLeAh3868tTq54_KgX_6Sm0XSb33O5Jv309ZfhjKQxftw&oe=6AABEABB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-13T04:55:52.018Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "e3d859b0be57c03e0d9bdbd747809cac",
+                "_id": "6aa62cd8b171a37562b55278"
+              }
+            ],
+            "scheduledFor": "2026-09-13T04:55:52.018Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-13T04:55:52.835Z",
+            "updatedAt": "2026-09-13T04:55:54.532Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-13T04:55:53.091Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-13T04:55:54.819654+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gwalior_school_bus_firing_dispute",
+    "virality_score": 6,
+    "reason": "Shocking incident in Gwalior where miscreants opened fire on a school bus filled with children after a road dispute.",
+    "region": "india",
+    "headline": "बच्चों से भरी स्कूल बस पर फायरिंग! पहले ड्राइवर को पीटा, फिर दागीं 4 गोलियां",
+    "source_summary": "मध्य प्रदेश के ग्वालियर में बच्चों से भरी स्कूल बस पर फायरिंग का सनसनीखेज मामला सामने आया है. यहां बड़ी अकबई गांव के पास सड़क पर खड़ी कार हटाने को लेकर बस चालक और कार सवार युवकों के बीच विवाद हो गया था. आरोप है कि युवकों ने पहले बस चालक के साथ मारपीट की. फिर कट्टे से चार फायर कर दिए. घटना के वक्त बस में करीब 50 बच्चे सवार थे.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/gwalior-school-bus-firing-driver-assaulted-50-children-onboard-lcla-strc-2641743-2026-09-13?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-13T08:48:40+05:30",
+    "hook": "बच्चों से भरी स्कूल बस पर फायरिंग, ग्वालियर में सनसनी!",
+    "script_hi": "मध्य प्रदेश के ग्वालियर में बच्चों से भरी स्कूल बस पर फायरिंग का सनसनीखेज मामला सामने आया है। बड़ी अकबई गांव के पास कार हटाने को लेकर हुए विवाद में युवकों ने बस चालक से मारपीट की और कट्टे से चार गोलियां दाग दीं। गनीमत रही कि घटना के वक्त बस में सवार पचास बच्चों को कोई नुकसान नहीं पहुंचा। पुलिस आरोपियों की तलाश कर रही है।",
+    "tts_text_hi": "मध्य प्रदेश के ग्वालियर में बच्चों से भरी स्कूल बस पर फायरिंग का सनसनीखेज मामला सामने आया है। बड़ी अकबई गांव के पास कार हटाने को लेकर हुए विवाद में युवकों ने बस चालक से मारपीट की और कट्टे से चार गोलियां दाग दीं। गनीमत रही कि घटना के वक्त बस में सवार पचास बच्चों को कोई नुकसान नहीं पहुंचा। पुलिस आरोपियों की तलाश कर रही है।",
+    "title": "ग्वालियर में स्कूल बस पर फायरिंग",
+    "caption": "मध्य प्रदेश के ग्वालियर में बच्चों से भरी स्कूल बस पर फायरिंग। कार हटाने के विवाद में युवकों ने बस चालक को पीटा और चलाईं गोलियां।",
+    "hashtags": [
+      "GwaliorNews",
+      "SchoolBus",
+      "MadhyaPradesh",
+      "CrimeNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian school bus road",
+      "India highway car traffic",
+      "Indian police station investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Unproven criminal allegations against specific unnamed/named suspects in an ongoing incident report.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30473509/pexels-photo-30473509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian school bus road",
+        "credit": "Rajeev Negi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37702876/pexels-photo-37702876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India highway car traffic",
+        "credit": "Votso Sothu",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19290719/pexels-photo-19290719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "road rage India",
+        "credit": "Umar Andrabi",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "philippines_ferry_fire_death_toll_rise",
+    "virality_score": 6,
+    "reason": "The death toll rising significantly in the tragic Philippines ferry fire incident is a striking international news item.",
+    "region": "global",
+    "headline": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+    "source_summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Sat, 12 Sep 2026 15:09:55 GMT",
+    "hook": "फिलिपीन्स में फेरी में लगी भीषण आग!",
+    "script_hi": "फिलिपीन्स में एक फेरी में लगी आग से मरने वालों की संख्या बढ़कर छिहत्तर हो गई है। जहरीले धुएं और तेज गर्मी के कारण जले हुए जहाज तक पहुंचना मुश्किल हो गया है। कई लोग अभी भी लापता हैं और तलाश जारी है।",
+    "tts_text_hi": "फिलिपीन्स में एक फेरी में लगी आग से मरने वालों की संख्या बढ़कर छिहत्तर हो गई है। जहरीले धुएं और तेज गर्मी के कारण जले हुए जहाज तक पहुंचना मुश्किल हो गया है। कई लोग अभी भी लापता हैं और तलाश जारी है।",
+    "title": "फिलिपीन्स फेरी अग्निकांड",
+    "caption": "फिलिपीन्स में फेरी में लगी भीषण आग से मरने वालों की संख्या बढ़कर छिहत्तर हुई।",
+    "hashtags": [
+      "Philippines",
+      "FerryFire",
+      "BreakingNews",
+      "WorldNews"
+    ],
+    "visual_queries": [
+      "burnt boat wreckage",
+      "coast guard rescue operation",
+      "smoke rising from sea"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -935,72 +850,94 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/27407765/12137017_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/36184236/15345584_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "damaged train tracks",
-        "credit": "Travelling Tourist",
-        "source_duration_sec": 44,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation France",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "burnt ship disaster",
+        "credit": "Zb travel",
+        "source_duration_sec": 10,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11615189/pexels-photo-11615189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15834221/pexels-photo-15834221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "damaged train derailment track",
-        "credit": "Matthias Groeneveld",
-        "duration_sec": 5
+        "query": "burnt ship wreckage ocean",
+        "credit": "Camilo Ospina",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34550012/pexels-photo-34550012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37659746/pexels-photo-37659746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "train derailment accident",
-        "credit": "Juraj Vice",
-        "duration_sec": 5
+        "query": "coast guard rescue operation",
+        "credit": "Anoop VS",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37659737/pexels-photo-37659737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "maritime rescue operation",
+        "credit": "Anoop VS",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33710292/pexels-photo-33710292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "port authority boat",
+        "credit": "Arian Fernandez",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8215955/pexels-photo-8215955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "firefighter smoke rescue",
+        "credit": "Ezequiel Guerrero",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30460321/pexels-photo-30460321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ocean emergency vessel",
+        "credit": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "फ्रांस ट्रेन हादसे में साजिश का शक! रेलवे ट्रैक पर टालमटोल या बड़ा खेल? 🚆",
-        "caption": "फ्रांस में ट्रेन हादसे के पीछे क्या कोई बड़ी साजिश थी? 🚨\n\nअधिकारियों की जांच में अब एक नया एंगल सामने आ रहा है कि यह सिर्फ हादसा नहीं, बल्कि जानबूझकर किया गया कृत्य हो सकता है। हाई-स्पीड रेल नेटवर्क पर इस खुलासे ने सनसनी फैला दी है।\n\nपूरी कहानी देखें और अपनी राय बताएं।\n\n#FranceTrainCrash #RailwayInvestigation #WorldNews #BreakingNews #TrainDerailment"
+        "title": "76 मौतें और कई लापता: फिलिपीन्स फेरी में भीषण आग 🚢",
+        "caption": "76 लोगों की दर्दनाक मौत और कई अभी भी लापता! फिलिपीन्स के समंदर में दौड़ती फेरी अचानक आग का गोला बन गई। इस भयानक हादसे में जान बचाने के लिए लोगों को समंदर में कूदना पड़ा। पूरी कहानी वीडियो में देखें।\n\n#philippinesferryfire #worldnews #ferryaccident #breakingnews"
       },
       "instagram": {
         "title": null,
-        "caption": "फ्रांस में ट्रेन हादसे के पीछे क्या कोई बड़ी साजिश थी? 🚨\n\nजांच एजेंसियों के हाथ लगे सबूत कुछ और ही इशारा कर रहे हैं। क्या यह महज एक इत्तेफाक था या सुनियोजित हमला?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#FranceTrainCrash #RailwayInvestigation #WorldNews #BreakingNews #TrainDerailment"
+        "caption": "76 लोगों की मौत और कई अभी भी लापता! 🚢 समंदर के बीचों-बीच फेरी में अचानक लगी आग ने सब कुछ तबाह कर दिया। क्या था इस भीषण हादसे का सच?\n\nपूरी कहानी देखें और शेयर करें।\n\n#philippinesferryfire #worldnews #ferryaccident #breakingnews"
       },
       "facebook": {
         "title": null,
-        "caption": "फ्रांस में हुए भयानक ट्रेन हादसे को लेकर अब एक बहुत बड़ा खुलासा सामने आया है। अधिकारी इस बात की गहराई से जांच कर रहे हैं कि क्या इसके पीछे किसी दुर्भावनापूर्ण ताकत या साजिश का हाथ था। 🚆\n\nशुरुआती पड़ताल में जो बातें सामने आई हैं, उन्होंने सुरक्षा एजेंसियों की नींद उड़ा दी है। क्या ट्रेन को पलटाने की कोई गहरी चाल थी? \n\nपूरी जानकारी के लिए वीडियो अंत तक देखें और कमेंट में बताएं कि आपको क्या लगता है।\n\n#FranceTrainCrash #RailwayInvestigation #WorldNews #BreakingNews #TrainDerailment"
+        "caption": "76 लोगों की मौत और कई अभी भी लापता! फिलिपीन्स से आ रही इस दिल दहला देने वाली खबर ने सबको सन्न कर दिया है। समंदर के बीच चल रही एक फेरी अचानक आग की लपटों में घिर गई, जिससे यात्रियों को जान बचाने के लिए कूदना पड़ा। \n\nआखिर बीच समंदर में यह हादसा कैसे हुआ? पूरी कहानी वीडियो में देखें।\n\n#philippinesferryfire #worldnews #ferryaccident #breakingnews"
       },
       "hashtags": [
-        "FranceTrainCrash",
-        "RailwayInvestigation",
-        "WorldNews",
-        "BreakingNews",
-        "TrainDerailment"
+        "philippinesferryfire",
+        "worldnews",
+        "ferryaccident",
+        "breakingnews"
       ]
     },
-    "audio_path": "audio/france_passenger_train_derailment_malicious_act_global.wav",
-    "audio_duration_sec": 19.04,
-    "video_path": "videos/france_passenger_train_derailment_malicious_act_global.mp4",
-    "video_duration_sec": 27.09,
+    "audio_path": "audio/philippines_ferry_fire_death_toll_rise.wav",
+    "audio_duration_sec": 14.9,
+    "video_path": "videos/philippines_ferry_fire_death_toll_rise.mp4",
+    "video_duration_sec": 22.95,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-13T02:58:38.871806+00:00"
+        "attempted_at": "2026-09-13T05:00:50.934763+00:00"
       },
       "facebook": {
         "success": true,
@@ -1013,15 +950,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa61174ab86dcb14efbb26a",
+            "_id": "6aa62e208a95f521daeabcc3",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "फ्रांस में हुए भयानक ट्रेन हादसे को लेकर अब एक बहुत बड़ा खुलासा सामने आया है। अधिकारी इस बात की गहराई से जांच कर रहे हैं कि क्या इसके पीछे किसी दुर्भावनापूर्ण ताकत या साजिश का हाथ था। 🚆\n\nशुरुआती पड़ताल में जो बातें सामने आई हैं, उन्होंने सुरक्षा एजेंसियों की नींद उड़ा दी है। क्या ट्रेन को पलटाने की कोई गहरी चाल थी? \n\nपूरी जानकारी के लिए वीडियो अंत तक देखें और कमेंट में बताएं कि आपको क्या लगता है।\n\n#FranceTrainCrash #RailwayInvestigation #WorldNews #BreakingNews #TrainDerailment",
+            "content": "76 लोगों की मौत और कई अभी भी लापता! फिलिपीन्स से आ रही इस दिल दहला देने वाली खबर ने सबको सन्न कर दिया है। समंदर के बीच चल रही एक फेरी अचानक आग की लपटों में घिर गई, जिससे यात्रियों को जान बचाने के लिए कूदना पड़ा। \n\nआखिर बीच समंदर में यह हादसा कैसे हुआ? पूरी कहानी वीडियो में देखें।\n\n#philippinesferryfire #worldnews #ferryaccident #breakingnews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789268338042_p4xlah6d_france_passenger_train_derailment_malicious_act_global.mp4",
-                "_id": "6aa61174ab86dcb14efbb26b"
+                "url": "https://media.zernio.com/media/1789275677230_vc1zdeor_philippines_ferry_fire_death_toll_rise.mp4",
+                "_id": "6aa62e208a95f521daeabcc4"
               }
             ],
             "platforms": [
@@ -1033,22 +970,22 @@
                   "platform": "facebook",
                   "displayName": "Ssd News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwHTF_LI&_nc_oc=AdpLZNg1Q88quGm7Hgb9SN7Gd-dd0L943dheFVTFkNyrY6KWo8CqYOSffdz7r2d8NAY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3zegyPu5JNPncO-LGT70xA&_nc_tpa=Q5bMBQJyAdiURr1tR-fxodbRi7yVrFmMrlTxCyZfxkJfZ2ZvSqkJScuBV4S3Q9UrXlUSGyEgIGjYPG0C&oh=00_AQLw1APNAi_PYilLyAdvZHB6ZnglGDfWdoQ1T15AQIfZJg&oe=6AAAA594",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=beF7i4NYI6oQ7kNvwGrxolQ&_nc_oc=Adr8r8rS6m1zq8PUMpIwKCrXpuAJ5KDE9vf9_GdHL69-uZwmV-ksbEHHnlQ5qxJcRmQ&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=x77ylCFM8RDijiiowzL0eg&_nc_tpa=Q5bMBQL6KBkrQsAU76535r-56G9GRBlVOW2eNCMlzmm_EiVOuL5H4mwqunbwn_VJBkWafHS5G0zN72PN&oh=00_AQI6vd4noz8g3DhuzddF4L_a1aG4FDaS5ymNroyA1oTm1g&oe=6AABF714",
                   "username": "lets.quote.up"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-13T02:58:59.667Z",
+                "scheduledFor": "2026-09-13T05:01:19.312Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "032564f503baa1b10c3e89973847c37f",
-                "_id": "6aa61174ab86dcb14efbb26c",
-                "platformPostId": "1068346975984944",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1068346975984944",
-                "publishedAt": "2026-09-13T02:59:04.967Z"
+                "contentHash": "7ec23de78258091ea4d932278e84906d",
+                "_id": "6aa62e208a95f521daeabcc5",
+                "platformPostId": "1643718140748701",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1643718140748701",
+                "publishedAt": "2026-09-13T05:01:28.945Z"
               }
             ],
-            "scheduledFor": "2026-09-13T02:58:59.667Z",
+            "scheduledFor": "2026-09-13T05:01:19.312Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1060,14 +997,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:59:00.602Z",
-            "updatedAt": "2026-09-13T02:59:05.129Z",
+            "createdAt": "2026-09-13T05:01:20.198Z",
+            "updatedAt": "2026-09-13T05:01:29.111Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:59:00.919Z"
+            "publishingClaimedAt": "2026-09-13T05:01:20.262Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-13T02:59:05.325087+00:00"
+        "attempted_at": "2026-09-13T05:01:29.320785+00:00"
       },
       "instagram": {
         "success": true,
@@ -1080,15 +1017,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aa61191279f4d9cf8987cd2",
+            "_id": "6aa62e4705afcd82f62b5e62",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "फ्रांस में ट्रेन हादसे के पीछे क्या कोई बड़ी साजिश थी? 🚨\n\nजांच एजेंसियों के हाथ लगे सबूत कुछ और ही इशारा कर रहे हैं। क्या यह महज एक इत्तेफाक था या सुनियोजित हमला?\n\nवीडियो पूरा देखें और शेयर करें।\n\n#FranceTrainCrash #RailwayInvestigation #WorldNews #BreakingNews #TrainDerailment",
+            "content": "76 लोगों की मौत और कई अभी भी लापता! 🚢 समंदर के बीचों-बीच फेरी में अचानक लगी आग ने सब कुछ तबाह कर दिया। क्या था इस भीषण हादसे का सच?\n\nपूरी कहानी देखें और शेयर करें।\n\n#philippinesferryfire #worldnews #ferryaccident #breakingnews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789268366455_ainb7dou_france_passenger_train_derailment_malicious_act_global.mp4",
-                "_id": "6aa61191279f4d9cf8987cd3"
+                "url": "https://media.zernio.com/media/1789275716547_a1nqh2j8_philippines_ferry_fire_death_toll_rise.mp4",
+                "_id": "6aa62e4705afcd82f62b5e63"
               }
             ],
             "platforms": [
@@ -1100,19 +1037,19 @@
                   "profileId": "6a8efb7ab8c42db6c3e1415e",
                   "displayName": "SSD News",
                   "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwH0UDel&_nc_oc=Ado83vhD8P_mFWvmijZetMeYb0wNAmex0ta0-374KwmWjaU8Pio-r2Eh6MerGsE9dGM&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mCSC0Ys_ZxzFGPDodinL9g&_nc_tpa=Q5bMBQKtVXU4ibOfQE40WY47PmqPpjlysQ0zb4WC_StWzAZ-NKr5SePg54iFJre6vhj48j36lmz3EnolwA&oh=00_AQLX5Qno6ovp3xGKvqWa3kGcyugrrwkiYTzcwE_CZEqgNQ&oe=6AAA993B",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1aW9fSUH-VAQ7kNvwFKs9MR&_nc_oc=AdonlmpXjxxluGKQXtsaT68-mHBESl9VN5ZfwtEw4rYEseK-s_pPk_R0cNXCMWZmllU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=EZD7Cm0EQzuAmHvqC3RZJA&_nc_tpa=Q5bMBQIevCeOi6BwJ8Hqg2VM54GwO0UVYLOgaJntHXMdZzj-yvSKftR21bcoWZ5T0_mMUdW2jUmrIoI34Q&oh=00_AQLeAh3868tTq54_KgX_6Sm0XSb33O5Jv309ZfhjKQxftw&oe=6AABEABB",
                   "username": "ssdnewsdaily"
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-13T02:59:27.871Z",
+                "scheduledFor": "2026-09-13T05:01:59.076Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "9602a1cc0e7a7e6e5bdc3f013bbd8b72",
-                "_id": "6aa61191279f4d9cf8987cd4"
+                "contentHash": "327ba411979724f86614ea772800b3d4",
+                "_id": "6aa62e4705afcd82f62b5e64"
               }
             ],
-            "scheduledFor": "2026-09-13T02:59:27.871Z",
+            "scheduledFor": "2026-09-13T05:01:59.076Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1124,14 +1061,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-13T02:59:29.040Z",
-            "updatedAt": "2026-09-13T02:59:31.022Z",
+            "createdAt": "2026-09-13T05:01:59.814Z",
+            "updatedAt": "2026-09-13T05:02:01.459Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-13T02:59:29.114Z"
+            "publishingClaimedAt": "2026-09-13T05:01:59.874Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-13T02:59:31.410840+00:00"
+        "attempted_at": "2026-09-13T05:02:01.846290+00:00"
       }
     }
   }
