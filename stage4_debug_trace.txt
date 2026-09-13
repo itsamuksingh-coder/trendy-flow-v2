@@ -1,9 +1,7 @@
-ready_labels: ['bihar_children_jugaad_boat_school_commute', 'brics_modi_jinping_translators_viral', 'france_passenger_train_derailment_malicious_act_global', 'iran_president_strait_of_hormuz_condition_us']
+ready_labels: ['brics_modi_xi_jinping_bilateral_meeting', 'philippines_ferry_fire_death_toll_rise', 'rai_bareli_couple_monkey_property_inheritance', 'ukraine_russian_missile_attacks_nine_dead']
 
-iran_president_strait_of_hormuz_condition_us: SUCCESS -> video_path=videos/iran_president_strait_of_hormuz_condition_us.mp4 dur=30.289887
-us_indian_woman_anila_baby_double_murder: SKIPPED (not in ready set)
-brics_modi_jinping_translators_viral: SUCCESS -> video_path=videos/brics_modi_jinping_translators_viral.mp4 dur=31.589887
-california_indian_woman_shalini_thakur_murder: SKIPPED (not in ready set)
-fatehpur_villagers_tie_telecom_engineer_to_tower: SKIPPED (not in ready set)
-bihar_children_jugaad_boat_school_commute: SUCCESS -> video_path=videos/bihar_children_jugaad_boat_school_commute.mp4 dur=38.255215
-france_passenger_train_derailment_malicious_act_global: SUCCESS -> video_path=videos/france_passenger_train_derailment_malicious_act_global.mp4 dur=27.086213
+brics_modi_xi_jinping_bilateral_meeting: SUCCESS -> video_path=videos/brics_modi_xi_jinping_bilateral_meeting.mp4 dur=28.82322
+ukraine_russian_missile_attacks_nine_dead: SUCCESS -> video_path=videos/ukraine_russian_missile_attacks_nine_dead.mp4 dur=28.356553
+rai_bareli_couple_monkey_property_inheritance: SUCCESS -> video_path=videos/rai_bareli_couple_monkey_property_inheritance.mp4 dur=36.956553
+gwalior_school_bus_firing_dispute: SKIPPED (not in ready set)
+philippines_ferry_fire_death_toll_rise: SUCCESS -> video_path=videos/philippines_ferry_fire_death_toll_rise.mp4 dur=22.95322
