@@ -1,8 +1,9 @@
-ready_labels: ['indonesia_ferry_sinks_java_sea_global', 'lucknow_cyber_fraud_pakistan_pulwama_scare']
+ready_labels: ['bihar_hospital_power_outage_torchlight_surgery', 'malaysian_pm_sings_kishore_kumar_brics_dinner', 'pm_modi_pauses_speech_xi_jinping_brics']
 
-malaysian_pm_singing_kishore_kumar_song_brics: SKIPPED (not in ready set)
-west_bengal_man_carrying_girlfriend_body_sack: SKIPPED (not in ready set)
-lucknow_cyber_fraud_pakistan_pulwama_scare: SUCCESS -> video_path=videos/lucknow_cyber_fraud_pakistan_pulwama_scare.mp4 dur=28.42322
-ips_bhanu_pratap_love_marriage_dispute: SKIPPED (not in ready set)
-gurugram_techie_monthly_expense_breakdown_viral: SKIPPED (not in ready set)
-indonesia_ferry_sinks_java_sea_global: SUCCESS -> video_path=videos/indonesia_ferry_sinks_java_sea_global.mp4 dur=15.256553
+pm_modi_pauses_speech_xi_jinping_brics: SUCCESS -> video_path=videos/pm_modi_pauses_speech_xi_jinping_brics.mp4 dur=24.689887
+iran_president_touches_feet_hindu_saint: SKIPPED (not in ready set)
+delhi_police_constable_brics_gun_reel: SKIPPED (not in ready set)
+pm_modi_childhood_friend_asgarali_cbi_probe: SKIPPED (not in ready set)
+bihar_hospital_power_outage_torchlight_surgery: SUCCESS -> video_path=videos/bihar_hospital_power_outage_torchlight_surgery.mp4 dur=20.52322
+malaysian_pm_sings_kishore_kumar_brics_dinner: SUCCESS -> video_path=videos/malaysian_pm_sings_kishore_kumar_brics_dinner.mp4 dur=27.551224
+indonesia_java_sea_ferry_disaster_missing: SKIPPED (not in ready set)
