@@ -1,10 +1,9 @@
-ready_labels: ['apple_iphone_duo_price_comparison_household_items', 'brics_delhi_declaration_pahalgam_condemnation', 'chile_nursing_home_fire_deaths_global', 'malaysian_pm_sings_kishore_kumar_song_brics', 'pm_modi_xi_jinping_brics_meeting_three_mutuals', 'ratlam_doctors_remove_3_5_ft_iron_rod_face']
+ready_labels: ['bihar_children_jugaad_boat_school_commute', 'brics_modi_jinping_translators_viral', 'france_passenger_train_derailment_malicious_act_global', 'iran_president_strait_of_hormuz_condition_us']
 
-pm_modi_xi_jinping_brics_meeting_three_mutuals: SUCCESS -> video_path=videos/pm_modi_xi_jinping_brics_meeting_three_mutuals.mp4 dur=25.489887
-iranian_president_pezeshkian_touches_hindu_guru_feet: SKIPPED (not in ready set)
-malaysian_pm_sings_kishore_kumar_song_brics: SUCCESS -> video_path=videos/malaysian_pm_sings_kishore_kumar_song_brics.mp4 dur=26.901224
-apple_iphone_duo_price_comparison_household_items: SUCCESS -> video_path=videos/apple_iphone_duo_price_comparison_household_items.mp4 dur=24.156553
-indian_origin_woman_us_double_murder: SKIPPED (not in ready set)
-ratlam_doctors_remove_3_5_ft_iron_rod_face: SUCCESS -> video_path=videos/ratlam_doctors_remove_3_5_ft_iron_rod_face.mp4 dur=35.289887
-brics_delhi_declaration_pahalgam_condemnation: SUCCESS -> video_path=videos/brics_delhi_declaration_pahalgam_condemnation.mp4 dur=16.82322
-chile_nursing_home_fire_deaths_global: SUCCESS -> video_path=videos/chile_nursing_home_fire_deaths_global.mp4 dur=19.958231
+iran_president_strait_of_hormuz_condition_us: SUCCESS -> video_path=videos/iran_president_strait_of_hormuz_condition_us.mp4 dur=30.289887
+us_indian_woman_anila_baby_double_murder: SKIPPED (not in ready set)
+brics_modi_jinping_translators_viral: SUCCESS -> video_path=videos/brics_modi_jinping_translators_viral.mp4 dur=31.589887
+california_indian_woman_shalini_thakur_murder: SKIPPED (not in ready set)
+fatehpur_villagers_tie_telecom_engineer_to_tower: SKIPPED (not in ready set)
+bihar_children_jugaad_boat_school_commute: SUCCESS -> video_path=videos/bihar_children_jugaad_boat_school_commute.mp4 dur=38.255215
+france_passenger_train_derailment_malicious_act_global: SUCCESS -> video_path=videos/france_passenger_train_derailment_malicious_act_global.mp4 dur=27.086213
