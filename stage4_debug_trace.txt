@@ -1,9 +1,10 @@
-ready_labels: ['modi_xi_jinping_brics_meeting_three_mutuals', 'moldova_extradites_punjab_gangster_amritpal_singh', 'mp_ladli_bahna_yojana_40th_installment', 'nitin_gadkari_insurance_premium_safe_driving', 'trump_united_ireland_fantastic_global']
+ready_labels: ['apple_iphone_duo_price_comparison_household_items', 'brics_delhi_declaration_pahalgam_condemnation', 'chile_nursing_home_fire_deaths_global', 'malaysian_pm_sings_kishore_kumar_song_brics', 'pm_modi_xi_jinping_brics_meeting_three_mutuals', 'ratlam_doctors_remove_3_5_ft_iron_rod_face']
 
-modi_xi_jinping_brics_meeting_three_mutuals: SUCCESS -> video_path=videos/modi_xi_jinping_brics_meeting_three_mutuals.mp4 dur=25.956553
-moldova_extradites_punjab_gangster_amritpal_singh: SUCCESS -> video_path=videos/moldova_extradites_punjab_gangster_amritpal_singh.mp4 dur=23.836213
-nitin_gadkari_insurance_premium_safe_driving: SUCCESS -> video_path=videos/nitin_gadkari_insurance_premium_safe_driving.mp4 dur=26.42322
-bihar_jehanabad_fracture_cartoon_bandage: SKIPPED (not in ready set)
-mp_ladli_bahna_yojana_40th_installment: SUCCESS -> video_path=videos/mp_ladli_bahna_yojana_40th_installment.mp4 dur=23.696213
-trump_united_ireland_fantastic_global: SUCCESS -> video_path=videos/trump_united_ireland_fantastic_global.mp4 dur=24.256553
-rajasthan_rto_inspector_dance_orchestra_viral: SKIPPED (not in ready set)
+pm_modi_xi_jinping_brics_meeting_three_mutuals: SUCCESS -> video_path=videos/pm_modi_xi_jinping_brics_meeting_three_mutuals.mp4 dur=25.489887
+iranian_president_pezeshkian_touches_hindu_guru_feet: SKIPPED (not in ready set)
+malaysian_pm_sings_kishore_kumar_song_brics: SUCCESS -> video_path=videos/malaysian_pm_sings_kishore_kumar_song_brics.mp4 dur=26.901224
+apple_iphone_duo_price_comparison_household_items: SUCCESS -> video_path=videos/apple_iphone_duo_price_comparison_household_items.mp4 dur=24.156553
+indian_origin_woman_us_double_murder: SKIPPED (not in ready set)
+ratlam_doctors_remove_3_5_ft_iron_rod_face: SUCCESS -> video_path=videos/ratlam_doctors_remove_3_5_ft_iron_rod_face.mp4 dur=35.289887
+brics_delhi_declaration_pahalgam_condemnation: SUCCESS -> video_path=videos/brics_delhi_declaration_pahalgam_condemnation.mp4 dur=16.82322
+chile_nursing_home_fire_deaths_global: SUCCESS -> video_path=videos/chile_nursing_home_fire_deaths_global.mp4 dur=19.958231

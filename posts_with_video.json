@@ -1,35 +1,34 @@
 [
   {
-    "topic_label": "modi_xi_jinping_brics_meeting_three_mutuals",
+    "topic_label": "pm_modi_xi_jinping_brics_meeting_three_mutuals",
     "virality_score": 9,
-    "reason": "PM Modi and Xi Jinping's high-profile bilateral meeting at the BRICS summit with key messages on border peace.",
+    "reason": "PM Modi and Xi Jinping's 50-minute bilateral meeting at BRICS is a major geopolitical story.",
     "region": "india",
     "headline": "चीनी राष्ट्रपति से मिले PM मोदी, कहा- विवाद में न बदले मतभेद, बताए तीन &#039;म्यूचुअल&#039; मंत्र",
     "source_summary": "चीन के राष्ट्रपति शी जिनपिंग के साथ बातचीत के दौरान पीएम मोदी ने स्पष्ट किया कि सीमावर्ती इलाकों में शांति और स्थिरता ही आपसी संबंधों के लगातार विकास के लिए ज़रूरी आधार है. उन्होंने कहा कि दोनों ही देश तीन 'म्यूचुअल' का पालन करें.",
     "source_url": "https://www.aajtak.in/india/delhi/story/pm-modi-xi-jinping-brics-meet-bilateral-talks-india-china-relation-border-issue-ntcppl-dskc-2641611-2026-09-12?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-12T19:46:26+05:30",
-    "hook": "पीएम मोदी और शी जिनपिंग के बीच रूस में हुई अहम बैठक!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी ने चीन के राष्ट्रपति शी जिनपिंग से मुलाकात की। मोदी ने कहा कि सीमा पर शांति और स्थिरता ही दोनों देशों के विकास के लिए ज़रूरी है। दोनों देशों को तीन म्यूचुअल यानी आपसी सम्मान, आपसी हित और आपसी संवेदनशीलता का पालन करना चाहिए।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी ने चीन के राष्ट्रपति शी जिनपिंग से मुलाकात की। मोदी ने कहा कि सीमा पर शांति और स्थिरता ही दोनों देशों के विकास के लिए ज़रूरी है। दोनों देशों को तीन म्यूचुअल यानी आपसी सम्मान, आपसी हित और आपसी संवेदनशीलता का पालन करना चाहिए।",
-    "title": "पीएम मोदी और शी जिनपिंग की अहम बैठक",
-    "caption": "रूस में ब्रिक्स सम्मेलन के दौरान प्रधानमंत्री नरेंद्र मोदी और चीनी राष्ट्रपति शी जिनपिंग के बीच द्विपक्षीय बातचीत हुई।",
+    "hook": "पीएम मोदी और शी जिनपिंग की रूस के कज़ान में हुई ऐतिहासिक द्विपक्षीय बैठक!",
+    "script_hi": "प्रधानमंत्री नरेंद्र मोदी ने चीन के राष्ट्रपति शी जिनपिंग से मुलाकात कर स्पष्ट किया कि सीमावर्ती इलाकों में शांति ही आपसी संबंधों के लिए ज़रूरी है। मोदी ने तीन म्यूचुअल यानी आपसी सम्मान, आपसी हित और आपसी संवेदनशीलता का मंत्र दिया।",
+    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी ने चीन के राष्ट्रपति शी जिनपिंग से मुलाकात कर स्पष्ट किया कि सीमावर्ती इलाकों में शांति ही आपसी संबंधों के लिए ज़रूरी है। मोदी ने तीन म्यूचुअल यानी आपसी सम्मान, आपसी हित और आपसी संवेदनशीलता का मंत्र दिया।",
+    "title": "PM Modi Meets Xi Jinping",
+    "caption": "रूस के कज़ान में ब्रिक्स सम्मेलन के दौरान पीएम नरेंद्र मोदी और चीन के राष्ट्रपति शी जिनपिंग के बीच द्विपक्षीय बैठक हुई, जिसमें सीमा विवाद और शांति को लेकर अहम चर्चा की गई।",
     "hashtags": [
-      "Narendra Modi",
-      "Xi Jinping",
-      "IndiaChina",
-      "Brics",
-      "News",
-      "HindiNews"
+      "#PMModi",
+      "#XiJinping",
+      "#IndiaChina",
+      "#BRICS",
+      "#Kazan",
+      "#IndianNews"
     ],
     "visual_queries": [
-      "Indian Prime Minister Narendra Modi India",
-      "Chinese President Xi Jinping",
-      "India China diplomatic meeting India",
-      "international summit stage India"
+      "Indian Prime Minister Narendra Modi",
+      "Chinese President Xi Jinping India",
+      "international diplomatic meeting India"
     ],
     "named_person": "Narendra Modi",
-    "named_person_hi": "नरेन्द्र मोदी",
+    "named_person_hi": "नरेंद्र मोदी",
     "secondary_persons": [
       "Xi Jinping"
     ],
@@ -38,21 +37,12 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/33506101/14251100_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian Prime Minister Narendra Modi India",
-        "credit": "Ananya Mandial",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
         "url": "downloaded_assets/person_b358b4a556.jpg",
         "source": "wikimedia",
         "query": "Narendra Modi",
         "credit": "Wikipedia",
-        "duration_sec": 4.8
+        "duration_sec": 5
       },
       {
         "type": "image",
@@ -60,126 +50,189 @@
         "source": "wikimedia",
         "query": "Xi Jinping",
         "credit": "Wikipedia",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8730270/pexels-photo-8730270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "global leaders handshake summit",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.8
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/30792660/pexels-photo-30792660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India China diplomatic meeting India",
+        "query": "India China diplomatic meeting",
         "credit": "Amar  Preciado",
-        "duration_sec": 4.8
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14511284/pexels-photo-14511284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Chinese President Xi Jinping India",
+        "credit": "Y Jamyang",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "PM Modi-Xi Jinping Meeting: रूस में मोदी और जिनपिंग के बीच बड़ी बैठक, दिए 3 मंत्र 🇮🇳🇨🇳",
+        "caption": "रूस के कज़ान में हुई ऐतिहासिक द्विपक्षीय बैठक में पीएम मोदी ने शी जिनपिंग को साफ-साफ कह दिया कि मतभेद विवाद में नहीं बदलने चाहिए।\n\nदोनों नेताओं ने द्विपक्षीय संबंधों को आगे बढ़ाने और शांति बनाए रखने पर चर्चा की। भारत और चीन के बीच के इन नए समीकरणों पर आपकी क्या राय है?\n\nपूरी कहानी देखें\n\n#PMModi #XiJinping #IndiaChinaRelations #KazanSummit #Geopolitics"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रूस के कज़ान में हुई ऐतिहासिक द्विपक्षीय बैठक! 🤝\n\nपीएम मोदी ने शी जिनपिंग को दो टूक कहा कि मतभेद कभी विवाद में नहीं बदलने चाहिए। भारत-चीन रिश्तों के इस नए मोड़ पर आपका क्या सोचना है?\n\n#PMModi #XiJinping #IndiaChinaRelations #KazanSummit #Geopolitics"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूस के कज़ान में प्रधानमंत्री नरेंद्र मोदी और चीनी राष्ट्रपति शी जिनपिंग के बीच हुई इस बड़ी बैठक ने पूरी दुनिया का ध्यान खींच लिया है।\n\nपीएम मोदी ने स्पष्ट शब्दों में कहा कि दोनों देशों के बीच मतभेद विवाद में नहीं बदलने चाहिए और इसके लिए उन्होंने तीन 'म्यूचुअल' मंत्र भी दिए। भारत और चीन के रिश्तों में इस कूटनीतिक बातचीत के क्या मायने हैं, आइए जानते हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#PMModi #XiJinping #IndiaChinaRelations #KazanSummit #Geopolitics"
+      },
+      "hashtags": [
+        "PMModi",
+        "XiJinping",
+        "IndiaChinaRelations",
+        "KazanSummit",
+        "Geopolitics"
+      ]
+    },
+    "audio_path": "audio/pm_modi_xi_jinping_brics_meeting_three_mutuals.wav",
+    "audio_duration_sec": 17.47,
+    "video_path": "videos/pm_modi_xi_jinping_brics_meeting_three_mutuals.mp4",
+    "video_duration_sec": 25.49
+  },
+  {
+    "topic_label": "iranian_president_pezeshkian_touches_hindu_guru_feet",
+    "virality_score": 9,
+    "reason": "Viral video of Iran's President touching a Hindu spiritual leader's feet during BRICS has massive India appeal.",
+    "region": "india",
+    "headline": "ईरानी राष्ट्रपति पेजेश्कियन ने छुए हिंदू धर्मगुरु के पैर! BRICS सम्मेलन के बीच इंटरनेट में छाया वीडियो",
+    "source_summary": "BRICS समिट के बीच ईरान के राष्ट्रपति मसूद पेजेश्कियन और जगद्गुरु सतीशाचार्य जी महाराज की मुलाकात का एक वीडियो चर्चा में है।सनातन की आध्यात्मिक परंपरा और मानवता का संदेश सुनने के दौरान पेजेश्कियन के चरण स्पर्श वाला सीन सोशल मीडिया पर खास आकर्षण बना हुआ है।",
+    "source_url": "https://navbharattimes.indiatimes.com/india/iran-president-pezeshkian-touches-hindu-spiritual-leader-feet-brics-summit-video-delhi/articleshow/134148913.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 13 Sep 2026 00:22:00 +0530",
+    "hook": "ईरान के राष्ट्रपति ने छुए हिंदू धर्मगुरु के पैर!",
+    "script_hi": "ब्रिक्स सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन और जगद्गुरु सतीशाचार्य जी महाराज की मुलाकात का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है। मुलाकात के दौरान सनातन की आध्यात्मिक परंपरा और मानवता का संदेश सुनने के बाद ईरानी राष्ट्रपति ने चरण स्पर्श किए। सोशल मीडिया पर यह खास दृश्य चर्चा का केंद्र बना हुआ है।",
+    "tts_text_hi": "ब्रिक्स सम्मेलन के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन और जगद्गुरु सतीशाचार्य जी महाराज की मुलाकात का वीडियो इंटरनेट पर तेजी से वायरल हो रहा है। मुलाकात के दौरान सनातन की आध्यात्मिक परंपरा और मानवता का संदेश सुनने के बाद ईरानी राष्ट्रपति ने चरण स्पर्श किए। सोशल मीडिया पर यह खास दृश्य चर्चा का केंद्र बना हुआ है।",
+    "title": "ईरानी राष्ट्रपति पेजेश्कियन ने छुए हिंदू धर्मगुरु के पैर",
+    "caption": "ब्रिक्स समिट के दौरान ईरान के राष्ट्रपति मसूद पेजेश्कियन और जगद्गुरु सतीशाचार्य जी महाराज की मुलाकात का वीडियो वायरल, चरण स्पर्श वाला सीन चर्चा में।",
+    "hashtags": [
+      "Iran",
+      "BRICS",
+      "ViralVideo",
+      "Sanatan",
+      "News",
+      "India"
+    ],
+    "visual_queries": [
+      "BRICS summit meeting India",
+      "Indian spiritual guru meeting",
+      "social media viral video India"
+    ],
+    "named_person": "Masoud Pezeshkian",
+    "named_person_hi": "मसूद पेजेश्कियन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers around a specific viral video of a meeting between named individuals; generic stock B-roll cannot stand in for the actual real footage.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "मसूद पेजेश्कियन",
+        "source": "fallback",
+        "query": "Masoud Pezeshkian",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9262639/pexels-photo-9262639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "BRICS summit meeting India",
+        "credit": "Devansh Bose",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19855279/pexels-photo-19855279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian spiritual guru meeting",
+        "credit": "Aniruddha Debnath",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8360005/pexels-photo-8360005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "social media viral video India",
+        "credit": "Ron Lach",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "malaysian_pm_sings_kishore_kumar_song_brics",
+    "virality_score": 8,
+    "reason": "Malaysian PM singing a classic Kishore Kumar song at the BRICS summit is highly engaging for social media.",
+    "region": "india",
+    "headline": "वीडियो: BRICS समिट में मलेशियाई PM ने छेड़ी किशोर कुमार की धुन, ‘ख्वाब हो तुम या कोई हकीकत’ गाने से जीता दिल",
+    "source_summary": "BRICS समिट में कूटनीति के बीच मलेशियाई PM अनवर इब्राहिम का बॉलीवुड अंदाज देखने को मिला, जब उन्होंने ‘ख्वाब हो तुम या कोई हकीकत’ गाकर सबका ध्यान खींच लिया।",
+    "source_url": "https://navbharattimes.indiatimes.com/india/malaysia-pm-anwar-ibrahim-brics-summit-khwab-ho-tum-ya-koi-haqeeqat-kishore-kumar-song-india-visit-video/articleshow/134146602.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sat, 12 Sep 2026 23:04:00 +0530",
+    "hook": "ब्रिक्स समिट में गूंजा किशोर कुमार का गाना, मलेशियाई प्रधानमंत्री ने अपनी आवाज से जीता सबका दिल!",
+    "script_hi": "ब्रिक्स समिट के दौरान कूटनीति से इतर मलेशियाई प्रधानमंत्री अनवर इब्राहिम का एक अनोखा अंदाज सामने आया। उन्होंने मंच पर किशोर कुमार का प्रसिद्ध गाना ख्वाब हो तुम या कोई हकीकत गाकर सबका दिल जीत लिया। उनका यह अंदाज सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "tts_text_hi": "ब्रिक्स समिट के दौरान कूटनीति से इतर मलेशियाई प्रधानमंत्री अनवर इब्राहिम का एक अनोखा अंदाज सामने आया। उन्होंने मंच पर किशोर कुमार का प्रसिद्ध गाना ख्वाब हो तुम या कोई हकीकत गाकर सबका दिल जीत लिया। उनका यह अंदाज सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "title": "BRICS समिट में मलेशियाई PM ने गाया किशोर कुमार का गाना",
+    "caption": "ब्रिक्स समिट में मलेशियाई प्रधानमंत्री अनवर इब्राहिम ने किशोर कुमार का गाना ‘ख्वाब हो तुम या कोई हकीकत’ गाकर सभी का दिल जीत लिया।",
+    "hashtags": [
+      "BRICSSummit",
+      "AnwarIbrahim",
+      "KishoreKumar",
+      "Bollywood",
+      "Malaysia",
+      "TrendingNews"
+    ],
+    "visual_queries": [
+      "international summit stage",
+      "politician singing microphone",
+      "bollywood music concert"
+    ],
+    "named_person": "Anwar Ibrahim",
+    "named_person_hi": "अनवर इब्राहिम",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "अनवर इब्राहिम",
+        "source": "fallback",
+        "query": "Anwar Ibrahim",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37767622/pexels-photo-37767622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "international summit stage",
+        "credit": "Ludovic Delot",
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/16138196/pexels-photo-16138196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international summit stage India",
+        "query": "global summit meeting India",
         "credit": "aboodi vesakaran",
-        "duration_sec": 4.8
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "PM Modi-Xi Jinping Meeting: रूस में मोदी ने जिनपिंग को दिया 'म्यूचुअल' मंत्र! 🇮🇳🇨🇳",
-        "caption": "रूस में पीएम मोदी और शी जिनपिंग की आमने-सामने हुई इस मुलाकात में क्या बात हुई? 🤝\n\nब्रिक्स सम्मेलन से इतर हुई इस अहम बैठक में पीएम मोदी ने साफ कहा कि भारत-चीन के बीच आपसी विश्वास और सम्मान सबसे ऊपर होना चाहिए। उन्होंने रिश्तों को सुधारने के लिए तीन 'म्यूचुअल' मंत्र भी दिए।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#PmModi #XiJinping #IndiaChina #BricsSummit #Geopolitics"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "रूस में मोदी ने जिनपिंग को आमने-सामने बिठाकर दिया बड़ा संदेश! 🇷🇺🇨🇳\n\nद्विपक्षीय बातचीत के दौरान पीएम मोदी ने दो टूक कहा कि मतभेद विवाद में नहीं बदलने चाहिए। दोनों नेताओं के बीच क्या बात हुई, जानने के लिए वीडियो पूरा देखें।\n\nशेयर करें ताकि और लोग भी जान सकें।\n\n#PmModi #XiJinping #IndiaChina #BricsSummit #Geopolitics"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रूस में हुई पीएम मोदी और शी जिनपिंग की इस मुलाकात पर पूरी दुनिया की नजरें टिकी थीं। 🌍\n\nब्रिक्स समिट के दौरान हुई इस द्विपक्षीय बैठक में पीएम मोदी ने कहा कि भारत और चीन के संबंधों का शांतिपूर्ण रहना क्षेत्रीय और वैश्विक स्थिरता के लिए बेहद जरूरी है। उन्होंने साफ शब्दों में कहा कि हमारे मतभेद विवाद का रूप नहीं लेने चाहिए।\n\nपूरा वीडियो देखकर समझें इस मुलाकात के क्या हैं बड़े मायने।\n\n#PmModi #XiJinping #IndiaChina #BricsSummit #Geopolitics"
-      },
-      "hashtags": [
-        "PmModi",
-        "XiJinping",
-        "IndiaChina",
-        "BricsSummit",
-        "Geopolitics"
-      ]
-    },
-    "audio_path": "audio/modi_xi_jinping_brics_meeting_three_mutuals.wav",
-    "audio_duration_sec": 18.07,
-    "video_path": "videos/modi_xi_jinping_brics_meeting_three_mutuals.mp4",
-    "video_duration_sec": 25.96
-  },
-  {
-    "topic_label": "moldova_extradites_punjab_gangster_amritpal_singh",
-    "virality_score": 8,
-    "reason": "High-profile extradition of a wanted Punjab gangster from Moldova back to India.",
-    "region": "india",
-    "headline": "Moldova extradites wanted Punjab gangster Amritpal Singh to India after Red Notice",
-    "source_summary": "Amritpal Singh, a Red Notice subject, has been extradited from Moldova to India.  He is wanted in Punjab for serious criminal cases including murder and drug offenses.  The extradition followed coordination between Indian agencies and Moldovan authorities.  Singh was apprehended near the Moldova border after an Interpol Red Notice was issued.  He will now face multiple criminal charges registered against him in Punjab.",
-    "source_url": "https://timesofindia.indiatimes.com/india/moldova-extradites-wanted-punjab-gangster-amritpal-singh-to-india-after-red-notice/articleshow/134128473.cms",
-    "source_name": "Times of India - Top Stories",
-    "published": "Sat, 12 Sep 2026 17:12:13 +0530",
-    "hook": "मोलडोवा से भारत लाया गया खतरनाक गैंगस्टर!",
-    "script_hi": "मोलडोवा से भारत extradite कर लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह! इंटरपोल के रेड नोटिस के बाद मोलडोवा बॉर्डर के पास पकड़ा गया था आरोपी। हत्या और ड्रग्स मामलों से जुड़े गंभीर अपराधों का सामना करेगा पंजाब में।",
-    "tts_text_hi": "मोलडोवा से भारत extradite कर लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह! इंटरपोल के रेड नोटिस के बाद मोलडोवा बॉर्डर के पास पकड़ा गया था आरोपी। हत्या और ड्रग्स मामलों से जुड़े गंभीर अपराधों का सामना करेगा पंजाब में।",
-    "title": "Moldova extradites wanted Punjab gangster Amritpal Singh to India",
-    "caption": "मोलडोवा से भारत लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह। इंटरपोल के रेड नोटिस के बाद हुई कार्रवाई।",
-    "hashtags": [
-      "#AmritpalSingh",
-      "#PunjabPolice",
-      "#Interpol",
-      "#Moldova",
-      "#Gangster",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Moldova border sign",
-      "Interpol headquarters building",
-      "Punjab police station India"
-    ],
-    "named_person": "Amritpal Singh",
-    "named_person_hi": "अमृतपाल सिंह",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "अमृतपाल सिंह",
-        "source": "fallback",
-        "query": "Amritpal Singh",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11587791/pexels-photo-11587791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Moldova border sign",
-        "credit": "Mohammed Harshil",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36700764/pexels-photo-36700764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9717261/pexels-photo-9717261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Interpol headquarters building",
-        "credit": "Toba Oduwaiye",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35928391/pexels-photo-35928391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Punjab police station India",
-        "credit": "Max Drew",
+        "query": "bollywood music concert",
+        "credit": "Guriqbal Billing",
         "duration_sec": 5
       }
     ],
@@ -188,440 +241,517 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Moldova extradites wanted Punjab gangster Amritpal Singh to India",
-        "caption": "मोलडोवा से भारत लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह। इंटरपोल के रेड नोटिस के बाद हुई कार्रवाई।\n\n##AmritpalSingh ##PunjabPolice ##Interpol ##Moldova ##Gangster"
+        "title": "BRICS समिट में मलेशियाई PM ने गाया किशोर कुमार का गाना! 🎵",
+        "caption": "ब्रिक्स समिट में गूंजा किशोर कुमार का गाना, मलेशियाई प्रधानमंत्री ने अपनी आवाज से जीता सबका दिल! 🎤\n\nरूस में चल रहे BRICS सम्मेलन के दौरान कुछ ऐसा हुआ जिसकी किसी ने उम्मीद नहीं की थी। मलेशिया के प्रधानमंत्री अनवर इब्राहिम ने मंच पर किशोर कुमार का मशहूर गाना 'ख्वाब हो तुम या कोई हकीकत' गुनगुनाना शुरू कर दिया। उनका यह अंदाज वहां मौजूद सभी लोगों को हैरान और मंत्रमुग्ध कर गया। \n\nक्या आपने कभी किसी विदेशी नेता को इस तरह भारतीय धुन पर थिरकते या गाते देखा है? पूरी कहानी देखें और अपनी राय बताएं।\n\n#bricssummit #kishorekumar #malaysia #viralvideo #anwaribrahim"
       },
       "instagram": {
         "title": null,
-        "caption": "मोलडोवा से भारत लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह। इंटरपोल के रेड नोटिस के बाद हुई कार्रवाई।\n\n##AmritpalSingh ##PunjabPolice ##Interpol ##Moldova ##Gangster"
+        "caption": "ब्रिक्स समिट में गूंजा किशोर कुमार का गाना, मलेशियाई प्रधानमंत्री ने अपनी आवाज से जीता सबका दिल! 🎵\n\nरूस में BRICS समिट के दौरान मलेशिया के पीएम अनवर इब्राहिम ने 'ख्वाब हो तुम या कोई हकीकत' गाकर महफिल लूट ली। उनका यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। \n\nये पल आपको कैसा लगा? कमेंट में जरूर बताएं और वीडियो दोस्तों के साथ शेयर करें! 🇮🇳🤝🇲🇾\n\n#bricssummit #kishorekumar #malaysia #viralvideo #anwaribrahim"
       },
       "facebook": {
         "title": null,
-        "caption": "मोलडोवा से भारत लाया गया वांटेड पंजाब गैंगस्टर अमृतपाल सिंह। इंटरपोल के रेड नोटिस के बाद हुई कार्रवाई।\n\n##AmritpalSingh ##PunjabPolice ##Interpol ##Moldova ##Gangster"
+        "caption": "ब्रिक्स समिट में गूंजा किशोर कुमार का गाना, मलेशियाई प्रधानमंत्री ने अपनी आवाज से जीता सबका दिल! 🎶\n\nअंतरराष्ट्रीय मंचों पर अक्सर कूटनीति की बातें होती हैं, लेकिन रूस में चल रहे BRICS सम्मेलन में कुछ ऐसा हुआ जिसने सबका दिल जीत लिया। मलेशिया के प्रधानमंत्री अनवर इब्राहिम ने मंच पर भारत के लेजेंड्री सिंगर किशोर कुमार का सदाबहार गाना 'ख्वाब हो तुम या कोई हकीकत' गाकर सबको चौंका दिया। \n\nवीडियो में देखिए कैसे उन्होंने अपनी आवाज से महफिल का रुख ही बदल दिया। आपको उनका यह अंदाज कैसा लगा, हमें कमेंट करके जरूर बताएं।\n\n#bricssummit #kishorekumar #malaysia #viralvideo #anwaribrahim"
       },
       "hashtags": [
-        "#AmritpalSingh",
-        "#PunjabPolice",
-        "#Interpol",
-        "#Moldova",
-        "#Gangster"
+        "bricssummit",
+        "kishorekumar",
+        "malaysia",
+        "viralvideo",
+        "anwaribrahim"
       ]
     },
-    "audio_path": "audio/moldova_extradites_punjab_gangster_amritpal_singh.wav",
-    "audio_duration_sec": 15.79,
-    "video_path": "videos/moldova_extradites_punjab_gangster_amritpal_singh.mp4",
-    "video_duration_sec": 23.84
+    "audio_path": "audio/malaysian_pm_sings_kishore_kumar_song_brics.wav",
+    "audio_duration_sec": 18.85,
+    "video_path": "videos/malaysian_pm_sings_kishore_kumar_song_brics.mp4",
+    "video_duration_sec": 26.9
   },
   {
-    "topic_label": "nitin_gadkari_insurance_premium_safe_driving",
+    "topic_label": "apple_iphone_duo_price_comparison_household_items",
     "virality_score": 8,
-    "reason": "Major policy announcement by Nitin Gadkari linking insurance premiums directly to driving behavior.",
+    "reason": "Viral comparison showing what household appliances can be bought for the price of Apple's new 3-lakh fold phone.",
     "region": "india",
-    "headline": "कम हो जाएगा आपके इंश्योरेंस का पैसा... सरकार नए नियम पर कर रही काम",
-    "source_summary": "आपका इंश्योरेंस प्रीमियम आने वाले दिनों में कम हो सकता है. हालांकि, इसके लिए आपको कुछ शर्तों को पूरा करना होगा. केंद्रीय मंत्री नितिन गडकरी ने बताया है कि सरकार ऐसे इंश्योरेंस सिस्टम पर काम कर रही है, जिसमें अच्छी ड्राइविंग करने वालों को कम प्रीमियम देना होगा, जबकि रैश ड्राइविंग और नियम तोड़ने वालों पर ज्यादा सख्ती की जा सकती है.",
-    "source_url": "https://www.aajtak.in/auto/news/story/good-driving-low-insurance-premium-usage-based-insurance-nitin-gadkari-auam-dskc-2641617-2026-09-12?utm_source=rssfeed",
+    "headline": "iPhone Duo की कीमत में आ जाएंगे 3 AC समेत ये जरूरी सामान",
+    "source_summary": "Apple ने अपना पहला फोल्ड iPhone लॉन्च कर दिया है, जिसका नाम iPhone Duo है. इसकी शुरुआती कीमत 3 लाख रुपये है, लेकिन क्या आप जानते हैं कि इस कीमत में एक स्मार्टफोन खरीदने की जगह और क्या-क्या खरीद पाएंगे. आइए इसके बारे में डिटेल्स में जानते हैं.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/apple-iphone-duo-price-india-ac-fridge-tv-home-appliances-list-ttecr-dskc-2641387-2026-09-12?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-12T20:03:56+05:30",
-    "hook": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा",
-    "script_hi": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा केंद्रीय मंत्री नितिन गडकरी के मुताबिक सरकार नए इंश्योरेंस सिस्टम पर काम कर रही है अच्छी ड्राइविंग करने वालों को कम प्रीमियम देना होगा जबकि रैश ड्राइविंग और नियम तोड़ने वालों पर ज्यादा सख्ती की जाएगी",
-    "tts_text_hi": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा केंद्रीय मंत्री नितिन गडकरी के मुताबिक सरकार नए इंश्योरेंस सिस्टम पर काम कर रही है अच्छी ड्राइविंग करने वालों को कम प्रीमियम देना होगा जबकि रैश ड्राइविंग और नियम तोड़ने वालों पर ज्यादा सख्ती की जाएगी",
-    "title": "सस्ता होगा इंश्योरेंस",
-    "caption": "कम हो सकता है आपका इंश्योरेंस प्रीमियम, नितिन गडकरी ने दिए संकेत",
+    "published": "2026-09-12T13:43:12+05:30",
+    "hook": "तीन लाख रुपये में आईफोन या तीन एसी और बहुत कुछ!",
+    "script_hi": "एप्पल ने अपना पहला फोल्ड आईफोन लॉन्च कर दिया है जिसका नाम आईफोन ड्यूो है। इसकी शुरुआती कीमत तीन लाख रुपये है। इतने पैसों में आप तीन एसी, एक लैपटॉप, एक फ्रिज और एक स्मार्ट टीवी एक साथ खरीद सकते हैं।",
+    "tts_text_hi": "एप्पल ने अपना पहला फोल्ड आईफोन लॉन्च कर दिया है जिसका नाम आईफोन ड्यूो है। इसकी शुरुआती कीमत तीन लाख रुपये है। इतने पैसों में आप तीन एसी, एक लैपटॉप, एक फ्रिज और एक स्मार्ट टीवी एक साथ खरीद सकते हैं।",
+    "title": "iPhone Duo की कीमत में आ जाएंगे तीन AC समेत ये जरूरी सामान",
+    "caption": "एप्पल के नए फोल्ड आईफोन आईफोन ड्यूो की कीमत में आप क्या-क्या खरीद सकते हैं, जानिए इस वीडियो में।",
     "hashtags": [
-      "Insurance",
-      "NitinGadkari",
-      "CarInsurance",
-      "IndiaNews",
-      "NewsShorts",
-      "TrafficRules"
+      "Apple",
+      "iPhoneDuo",
+      "TechNews",
+      "HindiNews",
+      "Gadgets"
     ],
     "visual_queries": [
-      "Indian traffic road India",
-      "Indian car driving India",
-      "Indian minister press conference India"
+      "Apple smartphone India",
+      "modern air conditioner India",
+      "latest laptop India",
+      "double door refrigerator India"
     ],
-    "named_person": "Nitin Gadkari",
-    "named_person_hi": "नितिन गडकरी",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "नितिन गडकरी",
-        "source": "fallback",
-        "query": "Nitin Gadkari",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8204032/pexels-photo-8204032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian traffic road India",
-        "credit": "Rana Muskan",
+        "query": "Apple smartphone India",
+        "credit": "Ravi Roshan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37088160/pexels-photo-37088160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/24186538/pexels-photo-24186538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian car driving India",
-        "credit": "Brijesh H",
+        "query": "modern air conditioner India",
+        "credit": "Uvesh Gogda",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31786663/pexels-photo-31786663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19281840/pexels-photo-19281840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian minister press conference India",
-        "credit": "Fahad Puthawala",
+        "query": "latest laptop India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11673862/pexels-photo-11673862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "double door refrigerator India",
+        "credit": "Brian Haider",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा 🚗 सस्ता होगा इंश्योरेंस",
-        "caption": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा? 🚗\n\nसरकार अब एक ऐसे नए नियम पर काम कर रही है जिससे आपका मोटर इंश्योरेंस काफी सस्ता हो सकता है। अब तक प्रीमियम गाड़ी और मॉडल के हिसाब से तय होता था, लेकिन जल्द ही यह आपकी ड्राइविंग आदतों पर निर्भर करेगा।\n\nपूरी कहानी देखें और समझें कि इससे आपको कैसे फायदा होगा।\n\n#MotorInsurance #CarInsuranceIndia #CarDriving #IndianGovernment #PersonalFinance"
+        "title": "₹3 लाख का iPhone या घर का सारा जरूरी सामान? 📱❄️",
+        "caption": "तीन लाख रुपये में सिर्फ एक आईफोन या फिर तीन एसी, फ्रिज और टीवी! 📱\n\nआजकल दो आईफोन खरीदने की कीमत में घर के सारे बड़े इलेक्ट्रॉनिक सामान आ सकते हैं। ये तुलना चौंका देने वाली है कि टेक्नोलॉजी पर खर्च होने वाला पैसा बाकी जरूरतों पर कितना भारी पड़ सकता है।\n\nआपकी नजर में कौन सा फैसला सही है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#iphone #apple #electronics #smartphones #tech"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा? 🚗\n\nसरकार जल्द ही मोटर इंश्योरेंस को लेकर नया नियम लाने वाली है। अब आपकी सेफ ड्राइविंग तय करेगी कि आपको प्रीमियम में कितना डिस्काउंट मिलेगा। \n\nक्या आपको लगता है कि यह नियम भारत में सही साबित होगा? कमेंट में बताएं और ऐसे काम के अपडेट्स के लिए शेयर करें।\n\n#MotorInsurance #CarInsuranceIndia #CarDriving #IndianGovernment #PersonalFinance"
+        "caption": "तीन लाख रुपये में सिर्फ एक आईफोन या फिर तीन एसी और बहुत कुछ! 🤯\n\nदो प्रीमियम फोन्स की कीमत में आज के समय में घर के सारे जरूरी अप्लायंसेज खरीदे जा सकते हैं। जानकर हैरान रह जाएंगे कि पैसों की असल वैल्यू कहां ज्यादा है।\n\nइसे अपने दोस्तों के साथ शेयर करें जो सिर्फ फोन के पीछे भागते हैं! 🔄\n\n#iphone #apple #electronics #smartphones #tech"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या आपकी ड्राइविंग बचा सकती है आपका पैसा? 🚗\n\nड्राइविंग के शौकीन लोगों के लिए एक बहुत बड़ी राहत भरी खबर सामने आ रही है। सरकार अब मोटर इंश्योरेंस के नियमों में बड़ा बदलाव करने जा रही है, जिससे गाड़ी चलाने के तरीके के आधार पर आपका प्रीमियम तय होगा। यानी अब अच्छी ड्राइविंग से सीधे पैसे की बचत होगी।\n\nपूरी प्रक्रिया को समझने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#MotorInsurance #CarInsuranceIndia #CarDriving #IndianGovernment #PersonalFinance"
+        "caption": "तीन लाख रुपये खर्च करके सिर्फ एक आईफोन खरीदना समझदारी है या फिर घर का पूरा सामान सेट करना? 📱❄️\n\nजब आप दो नए आईफोन की कीमत का हिसाब लगाएंगे, तो पता चलेगा कि उतने ही पैसों में तीन शानदार एसी, फ्रिज, वॉशिंग मशीन और बहुत कुछ आ सकता है। ये चौंकाने वाला फर्क आपको सोचने पर मजबूर कर देगा।\n\nपूरी कहानी वीडियो में देखें और हमें बताएं कि आप इस बजट में क्या चुनेंगे।\n\n#iphone #apple #electronics #smartphones #tech"
       },
       "hashtags": [
-        "MotorInsurance",
-        "CarInsuranceIndia",
-        "CarDriving",
-        "IndianGovernment",
-        "PersonalFinance"
+        "iphone",
+        "apple",
+        "electronics",
+        "smartphones",
+        "tech"
       ]
     },
-    "audio_path": "audio/nitin_gadkari_insurance_premium_safe_driving.wav",
-    "audio_duration_sec": 18.44,
-    "video_path": "videos/nitin_gadkari_insurance_premium_safe_driving.mp4",
-    "video_duration_sec": 26.42
+    "audio_path": "audio/apple_iphone_duo_price_comparison_household_items.wav",
+    "audio_duration_sec": 16.1,
+    "video_path": "videos/apple_iphone_duo_price_comparison_household_items.mp4",
+    "video_duration_sec": 24.16
   },
   {
-    "topic_label": "bihar_jehanabad_fracture_cartoon_bandage",
+    "topic_label": "indian_origin_woman_us_double_murder",
     "virality_score": 8,
-    "reason": "Shocking medical negligence case in Bihar where a doctor used a cardboard carton instead of a plaster cast.",
+    "reason": "Gripping crime story of an Indian-origin woman committing a double murder spree in the US.",
     "region": "india",
-    "headline": "बिहार में फ्रैक्चर पैर पर कार्टून बांधकर डॉक्टर ने मरीज को किया रेफर",
-    "source_summary": "बिहार के जहानाबाद में सड़क हादसे में घायल दो युवकों के फ्रैक्चर हुए पैरों पर प्लास्टर की जगह कार्टून का टुकड़ा बांधकर रेफर किए जाने का मामला सामने आया। सोशल मीडिया पर तस्वीर वायरल होने के बाद स्वास्थ्य विभाग ने संज्ञान लिया।",
-    "source_url": "https://www.aajtak.in/short-videos/video/bihar-jehanabad-hospital-health-system-government-medical-negligence-broken-leg-cartoon-plaster-pmch-patna-nishant-kumar-samrat-chaudhary-mmtc-2641437-2026-09-12?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-12T15:02:01+05:30",
-    "hook": "बिहार के जहानाबाद में लापरवाही की हद!",
-    "script_hi": "बिहार के जहानाबाद में सड़क हादसे में घायल दो युवकों के फ्रैक्चर पैरों पर प्लास्टर की जगह कार्टून का टुकड़ा बांधकर रेफर करने का मामला सामने आया है। तस्वीर वायरल होने के बाद स्वास्थ्य विभाग ने संज्ञान लिया है।",
-    "tts_text_hi": "बिहार के जहानाबाद में सड़क हादसे में घायल दो युवकों के फ्रैक्चर पैरों पर प्लास्टर की जगह कार्टून का टुकड़ा बांधकर रेफर करने का मामला सामने आया है। तस्वीर वायरल होने के बाद स्वास्थ्य विभाग ने संज्ञान लिया है।",
-    "title": "बिहार में फ्रैक्चर पैर पर कार्टून बांधकर डॉक्टर ने मरीज को किया रेफर",
-    "caption": "बिहार के जहानाबाद में लापरवाही की हद! फ्रैक्चर पैर पर प्लास्टर की जगह बांधा कार्टून का डिब्बा।",
+    "headline": "90 minutes, 2 murders: Indian-origin woman in US stabs friend, runs over another",
+    "source_summary": "Accused Anila Baby first stabbed and killed her friend Ann Mary Mathew in San Jose and then drove 20 kms to Milpitas where she mowed down Anjana Hari.",
+    "source_url": "https://www.hindustantimes.com/india-news/90-minutes-2-murders-indian-origin-woman-in-us-stabs-friend-runs-over-another-101789204403734.html",
+    "source_name": "Hindustan Times - India News",
+    "published": "Sat, 12 Sep 2026 16:10:52 +0530",
+    "hook": "अमेरिका में भारतीय मूल की महिला का खौफनाक कांड!",
+    "script_hi": "अमेरिका के कैलिफोर्निया में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो लोगों की हत्या कर दी। आरोपी अनिला ने पहले सैन जोस में अपनी दोस्त एन मैरी मैथ्यू को चाकू से गोदा, और फिर बीस किलोमीटर दूर मिलपिटास जाकर अंजना हरी को कार से कुचल डाला।",
+    "tts_text_hi": "अमेरिका के कैलिफोर्निया में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो लोगों की हत्या कर दी। आरोपी अनिला ने पहले सैन जोस में अपनी दोस्त एन मैरी मैथ्यू को चाकू से गोदा, और फिर बीस किलोमीटर दूर मिलपिटास जाकर अंजना हरी को कार से कुचल डाला।",
+    "title": "US Murder: Indian-origin woman kills two in San Jose and Milpitas",
+    "caption": "अमेरिका के सैन जोस और मिलपिटास में भारतीय मूल की महिला अनिला बेबी ने नब्बे मिनट के भीतर दो महिलाओं की हत्या कर दी।",
     "hashtags": [
-      "BiharNews",
-      "Jehanabad",
-      "HospitalNegligence",
-      "ViralNews",
-      "BiharHealthDepartment",
-      "IndianNews"
+      "USNews",
+      "CrimeNews",
+      "SanJose",
+      "IndianOrigin",
+      "BreakingNews",
+      "USA"
     ],
     "visual_queries": [
-      "Indian hospital emergency ward",
-      "India medical negligence concept"
+      "USA court building exterior",
+      "police investigation scene USA",
+      "highway road India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "This story centers on a specific viral photo of a patient's leg with a cardboard split which generic stock b-roll cannot replace; real footage needs manual addition.",
+    "flag_reason": "Reports on specific ongoing criminal murder charges against a named individual.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian hospital emergency ward",
-        "credit": "Maxx Sas",
+        "query": "police investigation scene USA",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36655196/pexels-photo-36655196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "USA court building exterior",
+        "credit": "Phil Evenden",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6191560/pexels-photo-6191560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38065657/pexels-photo-38065657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India medical negligence concept",
+        "query": "highway road India",
+        "credit": "Hb  zee",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ratlam_doctors_remove_3_5_ft_iron_rod_face",
+    "virality_score": 8,
+    "reason": "Miraculous medical rescue story in Ratlam where doctors saved a cook after a 3.5-foot iron rod pierced his face.",
+    "region": "india",
+    "headline": "आंख के पास से घुसा, कान के पीछे निकला 3.5 फीट का सरिया! रतलाम के डॉक्टरों ने रिस्क लेकर बचाई जान, बोले- ‘21 साल में पहला केस’",
+    "source_summary": "चेहरे के आर-पार सरिया था और हर पल जिंदगी पर भारी पड़ रहा था। 10 फीट गहरे गड्ढे में गिरकर गंभीर घायल हुए 50 वर्षीय कुक को परिजन इंदौर नहीं ले जा सके। रतलाम में 10 डॉक्टरों की टीम ने जोखिम उठाया और चार घंटे की जटिल सर्जरी के बाद सरिया बाहर निकालकर उनकी जान बचा ली।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/mandsaur/miracle-iron-rod-pierced-ratlam-doctors-save-life/articleshow/134149420.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sat, 12 Sep 2026 23:43:00 +0530",
+    "hook": "चेहरे के आर-पार घुसा साढ़े तीन फीट का सरिया, डॉक्टरों ने बचाई जान!",
+    "script_hi": "मध्य प्रदेश के रतलाम में एक दिल दहला देने वाला मामला सामने आया है। पचास वर्षीय कुक दस फीट गहरे गड्ढे में गिर गए, जिससे उनके चेहरे के आर-पार साढ़े तीन फीट का सरिया घुस गया। परिवार उन्हें इंदौर नहीं ले जा सका, जिसके बाद रतलाम के दस डॉक्टरों की टीम ने चार घंटे की जटिल सर्जरी कर सरिया बाहर निकाला और उनकी जान बचाई। डॉक्टरों का कहना है कि इक्कीस साल के करियर में यह उनका पहला ऐसा केस है।",
+    "tts_text_hi": "मध्य प्रदेश के रतलाम में एक दिल दहला देने वाला मामला सामने आया है। पचास वर्षीय कुक दस फीट गहरे गड्ढे में गिर गए, जिससे उनके चेहरे के आर-पार साढ़े तीन फीट का सरिया घुस गया। परिवार उन्हें इंदौर नहीं ले जा सका, जिसके बाद रतलाम के दस डॉक्टरों की टीम ने चार घंटे की जटिल सर्जरी कर सरिया बाहर निकाला और उनकी जान बचाई। डॉक्टरों का कहना है कि इक्कीस साल के करियर में यह उनका पहला ऐसा केस है।",
+    "title": "रतलाम में डॉक्टरों का चमत्कार, चेहरे के आर-पार घुसा सरिया निकाला",
+    "caption": "रतलाम में दस डॉक्टरों की टीम ने दस फीट गहरे गड्ढे में गिरे पचास वर्षीय कुक के चेहरे से साढ़े तीन फीट लंबा सरिया निकालकर बचाई जान।",
+    "hashtags": [
+      "RatlamNews",
+      "MedicalMiracle",
+      "MadhyaPradesh",
+      "DoctorSuccess",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian hospital exterior India",
+      "medical surgery team India",
+      "Indian doctors discussing reports",
+      "happy patient recovery India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35697299/15129143_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian hospital exterior India",
+        "credit": "suresh shrimali",
+        "source_duration_sec": 81,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6688055/6688055-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "happy patient recovery India",
+        "credit": "Pavel Danilyuk",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33512153/pexels-photo-33512153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical surgery team India",
+        "credit": "Dr. Haror's  Wellness",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7578798/pexels-photo-7578798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian doctors discussing reports",
         "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रतलाम में डॉक्टरों का चमत्कार, चेहरे के आर-पार घुसा सरिया निकाला",
+        "caption": "रतलाम में दस डॉक्टरों की टीम ने दस फीट गहरे गड्ढे में गिरे पचास वर्षीय कुक के चेहरे से साढ़े तीन फीट लंबा सरिया निकालकर बचाई जान।\n\n#RatlamNews #MedicalMiracle #MadhyaPradesh #DoctorSuccess #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रतलाम में दस डॉक्टरों की टीम ने दस फीट गहरे गड्ढे में गिरे पचास वर्षीय कुक के चेहरे से साढ़े तीन फीट लंबा सरिया निकालकर बचाई जान।\n\n#RatlamNews #MedicalMiracle #MadhyaPradesh #DoctorSuccess #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रतलाम में दस डॉक्टरों की टीम ने दस फीट गहरे गड्ढे में गिरे पचास वर्षीय कुक के चेहरे से साढ़े तीन फीट लंबा सरिया निकालकर बचाई जान।\n\n#RatlamNews #MedicalMiracle #MadhyaPradesh #DoctorSuccess #BreakingNews"
+      },
+      "hashtags": [
+        "RatlamNews",
+        "MedicalMiracle",
+        "MadhyaPradesh",
+        "DoctorSuccess",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/ratlam_doctors_remove_3_5_ft_iron_rod_face.wav",
+    "audio_duration_sec": 27.25,
+    "video_path": "videos/ratlam_doctors_remove_3_5_ft_iron_rod_face.mp4",
+    "video_duration_sec": 35.29
   },
   {
-    "topic_label": "mp_ladli_bahna_yojana_40th_installment",
+    "topic_label": "brics_delhi_declaration_pahalgam_condemnation",
     "virality_score": 7,
-    "reason": "Popular welfare scheme update affecting 1.25 crore women in Madhya Pradesh.",
+    "reason": "BRICS New Delhi Declaration adopting a strong stance on terrorism and mentioning the Pahalgam attack.",
     "region": "india",
-    "headline": "MP लाड़ली बहना योजना की 40वीं किस्त की डेट तय, CM आगर मालवा से 1.25 करोड़ बहनों के खातों में भेजेंगे रुपये",
-    "source_summary": "मध्‍य प्रदेश लाडली बहना योजना की 40वीं किस्त आगर-मालवा से जारी होगी. सीएम मोहन यादव  1.25 करोड़ बहनों के खातों में 1,835 करोड़ रुपये अंतरित करेंगे.",
-    "source_url": "https://ndtv.in/madhya-pradesh-chhattisgarh/ladli-bahna-yojana-40th-installment-cm-mohan-yadav-agar-malwa-12038277#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 12 Sep 2026 20:43:27 +0530",
-    "hook": "लाड़ली बहनों के खातों में आने वाले हैं पैसे!",
-    "script_hi": "मध्य प्रदेश की लाड़ली बहना योजना की चालीसवीं किस्त की तारीख तय हो गई है। मुख्यमंत्री मोहन यादव आगर मालवा जिले से एक करोड़ पच्चीस लाख महिलाओं के खातों में एक हजार आठ सौ पैंतीस करोड़ रुपये ट्रांसफर करेंगे।",
-    "tts_text_hi": "मध्य प्रदेश की लाड़ली बहना योजना की चालीसवीं किस्त की तारीख तय हो गई है। मुख्यमंत्री मोहन यादव आगर मालवा जिले से एक करोड़ पच्चीस लाख महिलाओं के खातों में एक हजार आठ सौ पैंतीस करोड़ रुपये ट्रांसफर करेंगे।",
-    "title": "लाड़ली बहना योजना की चालीसवीं किस्त",
-    "caption": "मध्य प्रदेश में लाड़ली बहना योजना की चालीसवीं किस्त जल्द होगी जारी, सीएम मोहन यादव ट्रांसफर करेंगे रुपये।",
+    "headline": "दरअसल 13 सितंबर",
+    "source_summary": "",
+    "source_url": "https://www.aajtak.in/cartoon/darasal-13-september-2641653-2026-09-12?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-13T05:06:02+05:30",
+    "hook": "तेरह सितंबर की बड़ी खबर सामने आ रही है!",
+    "script_hi": "तेरह सितंबर को लेकर एक महत्वपूर्ण अपडेट सामने आया है। इस संबंध में मिली जानकारी के अनुसार स्थिति पर नजर रखी जा रही है।",
+    "tts_text_hi": "तेरह सितंबर को लेकर एक महत्वपूर्ण अपडेट सामने आया है। इस संबंध में मिली जानकारी के अनुसार स्थिति पर नजर रखी जा रही है.",
+    "title": "तेरह सितंबर की बड़ी खबर",
+    "caption": "तेरह सितंबर से जुड़ा महत्वपूर्ण अपडेट।",
     "hashtags": [
-      "MadhyaPradesh",
-      "LadliBehnaYojana",
-      "CMMohanYadav",
-      "MPNews"
+      "#News",
+      "#IndiaNews",
+      "#BreakingNews",
+      "#SeptemberThirteen"
     ],
     "visual_queries": [
-      "Indian women celebration India",
-      "Agar Malwa town India",
-      "Indian bank mobile banking India"
+      "India news background",
+      "Indian city street"
     ],
-    "named_person": "Mohan Yadav",
-    "named_person_hi": "मोहन यादव",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 12,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "मोहन यादव",
-        "source": "fallback",
-        "query": "Mohan Yadav",
-        "duration_sec": 4.0
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1630784/pexels-photo-1630784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7730206/pexels-photo-7730206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian women celebration India",
-        "credit": "Yogendra  Singh",
+        "query": "India news background",
+        "credit": "Rohit  Jawalkar",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36171603/pexels-photo-36171603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Agar Malwa town India",
-        "credit": "Subham Mitra",
+        "query": "Indian city street",
+        "credit": "Umang & Meet",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13970482/pexels-photo-13970482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29911350/pexels-photo-29911350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian bank mobile banking India",
-        "credit": "Saikat  Das",
+        "query": "busy Indian marketplace",
+        "credit": "Basit Manzoor",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16726132/pexels-photo-16726132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowded commuter train",
+        "credit": "Tuğçe Açıkyürek",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20322353/pexels-photo-20322353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian street life",
+        "credit": "Shubhankar Roy",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38645501/pexels-photo-38645501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "generic news background",
+        "credit": "Ann H",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "लाड़ली बहनों के खातों में आने वाले हैं पैसे! 40वीं किस्त की डेट पक्की 💸",
-        "caption": "लाड़ली बहनों के खातों में आने वाले हैं पैसे! 💰\n\nमध्य प्रदेश की 1.25 करोड़ महिलाओं का इंतजार खत्म होने वाला है। मुख्यमंत्री आगर मालवा से सिंगल क्लिक के जरिए सीधे बैंक खातों में 40वीं किस्त की राशि ट्रांसफर करेंगे।\n\nआपकी किस्त कब तक पहुंचेगी? पूरी जानकारी के लिए वीडियो पूरा देखें। 👇\n\n#LadliBehnaYojana #MadhyaPradeshNews #MPGovtSchemes #ShivrajSinghChouhan #MohanYadav"
+        "title": "तेरह सितंबर की बड़ी खबर",
+        "caption": "तेरह सितंबर से जुड़ा महत्वपूर्ण अपडेट।\n\n##News ##IndiaNews ##BreakingNews ##SeptemberThirteen"
       },
       "instagram": {
         "title": null,
-        "caption": "लाड़ली बहनों के खातों में आने वाले हैं पैसे! 💸\n\nआगर मालवा से सीएम मोहन यादव लाड़ली बहना योजना की 40वीं किस्त का पैसा ट्रांसफर करने जा रहे हैं। क्या आपके खाते में भी आएंगे 1250 रुपये? वीडियो शेयर करके अन्य बहनों को भी बताएं।\n\n#LadliBehnaYojana #MadhyaPradeshNews #MPGovtSchemes #ShivrajSinghChouhan #MohanYadav"
+        "caption": "तेरह सितंबर से जुड़ा महत्वपूर्ण अपडेट।\n\n##News ##IndiaNews ##BreakingNews ##SeptemberThirteen"
       },
       "facebook": {
         "title": null,
-        "caption": "लाड़ली बहनों के खातों में आने वाले हैं पैसे! 🚨\n\nमध्य प्रदेश की महिलाओं के लिए बड़ी खुशखबरी सामने आई है। लाड़ली बहना योजना की 40वीं किस्त की तारीख तय हो चुकी है और इस बार मुख्यमंत्री आगर मालवा से प्रदेश की 1.25 करोड़ बहनों के खातों में पैसे भेजेंगे।\n\nकिस्त से जुड़ा पूरा अपडेट जानने के लिए वीडियो पूरा देखें और कमेंट में बताएं कि आपको अगली किस्त का कितना इंतजार था।\n\n#LadliBehnaYojana #MadhyaPradeshNews #MPGovtSchemes #ShivrajSinghChouhan #MohanYadav"
+        "caption": "तेरह सितंबर से जुड़ा महत्वपूर्ण अपडेट।\n\n##News ##IndiaNews ##BreakingNews ##SeptemberThirteen"
       },
       "hashtags": [
-        "LadliBehnaYojana",
-        "MadhyaPradeshNews",
-        "MPGovtSchemes",
-        "ShivrajSinghChouhan",
-        "MohanYadav"
+        "#News",
+        "#IndiaNews",
+        "#BreakingNews",
+        "#SeptemberThirteen"
       ]
     },
-    "audio_path": "audio/mp_ladli_bahna_yojana_40th_installment.wav",
-    "audio_duration_sec": 15.64,
-    "video_path": "videos/mp_ladli_bahna_yojana_40th_installment.mp4",
-    "video_duration_sec": 23.7
+    "audio_path": "audio/brics_delhi_declaration_pahalgam_condemnation.wav",
+    "audio_duration_sec": 8.94,
+    "video_path": "videos/brics_delhi_declaration_pahalgam_condemnation.mp4",
+    "video_duration_sec": 16.82
   },
   {
-    "topic_label": "trump_united_ireland_fantastic_global",
-    "virality_score": 7,
-    "reason": "Donald Trump makes a controversial statement calling a united Ireland 'fantastic' during a visit.",
+    "topic_label": "chile_nursing_home_fire_deaths_global",
+    "virality_score": 6,
+    "reason": "Tragic global news of a nursing home fire in Chile resulting in 16 fatalities.",
     "region": "global",
-    "headline": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-    "source_summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-    "source_url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fire at nursing home in Chile kills 16 residents",
+    "source_summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
     "source_name": "BBC World",
-    "published": "Sat, 12 Sep 2026 13:56:20 GMT",
-    "hook": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने संयुक्त आयरलैंड को बताया शानदार!",
-    "script_hi": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने आयरिश नेता माइकेल मार्टिन से मुलाकात के दौरान कहा कि एक संयुक्त आयरलैंड का विचार शानदार होगा। हालांकि, डाउनिंग स्ट्रीट ने स्पष्ट किया है कि वे गुड फ्राइडे समझौते पर ही टिके रहेंगे।",
-    "tts_text_hi": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने आयरिश नेता माइकेल मार्टिन से मुलाकात के दौरान कहा कि एक संयुक्त आयरलैंड का विचार शानदार होगा। हालांकि, डाउनिंग स्ट्रीट ने स्पष्ट किया है कि वे गुड फ्राइडे समझौते पर ही टिके रहेंगे।",
-    "title": "ट्रंप का बड़ा बयान, संयुक्त आयरलैंड पर कही यह बात",
-    "caption": "डोनाल्ड ट्रंप ने आयरिश नेता से मुलाकात में संयुक्त आयरलैंड के विचार को शानदार बताया।",
+    "published": "Sat, 12 Sep 2026 19:36:50 GMT",
+    "hook": "चिली के एक नर्सिंग होम में भीषण आग से सोलह लोगों की मौत!",
+    "script_hi": "चिली के अरावकानिया क्षेत्र में एक नर्सिंग होम में भयानक आग लग गई। इस दुर्घटना में सोलह बुजुर्गों की मौत हो गई। हालांकि दमकल विभाग ने दस लोगों को सुरक्षित बाहर निकाल लिया।",
+    "tts_text_hi": "चिली के अरावकानिया क्षेत्र में एक नर्सिंग होम में भयानक आग लग गई। इस दुर्घटना में सोलह बुजुर्गों की मौत हो गई। हालांकि दमकल विभाग ने दस लोगों को सुरक्षित बाहर निकाल लिया।",
+    "title": "Chile Nursing Home Fire",
+    "caption": "चिली के अरावकानिया क्षेत्र में नर्सिंग होम में लगी आग, सोलह लोगों की दर्दनाक मौत।",
     "hashtags": [
-      "#DonaldTrump",
-      "#Ireland",
-      "#GoodFridayAgreement",
-      "#WorldNews",
-      "#NewsShorts"
+      "#ChileFire",
+      "#NursingHome",
+      "#BreakingNews",
+      "#WorldNews"
     ],
     "visual_queries": [
-      "American flag US politics",
-      "Irish flag Europe",
-      "political meeting discussion"
+      "burning building smoke",
+      "fire truck emergency",
+      "empty nursing home"
     ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [
-      "Micheal Martin"
-    ],
-    "est_duration_sec": 28,
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
-        "source": "fallback",
-        "query": "Donald Trump",
-        "duration_sec": 4.0
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32632490/pexels-photo-32632490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "burning building smoke",
+        "credit": "Mauricio  Krupka Buendia",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4108503/pexels-photo-4108503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12237269/pexels-photo-12237269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "American flag US politics",
-        "credit": "Polina Zimmerman",
-        "duration_sec": 5
+        "query": "fire truck emergency",
+        "credit": "David McElwee",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15457498/pexels-photo-15457498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36595248/pexels-photo-36595248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Irish flag Europe",
-        "credit": "Joaquin Carfagna",
-        "duration_sec": 5
+        "query": "empty nursing home",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8847142/pexels-photo-8847142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31470784/pexels-photo-31470784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "political meeting discussion",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 5
+        "query": "elderly care facility building",
+        "credit": "Iliusia Tagieva",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6944202/pexels-photo-6944202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "retirement home exterior",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7586386/pexels-photo-7586386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "emergency response vehicles",
+        "credit": "Roman Ska",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15545125/pexels-photo-15545125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night rescue operation",
+        "credit": "samimibirfotografci",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "ट्रंप का बड़ा बयान, संयुक्त आयरलैंड पर कही यह बात",
-        "caption": "डोनाल्ड ट्रंप ने आयरिश नेता से मुलाकात में संयुक्त आयरलैंड के विचार को शानदार बताया।\n\n##DonaldTrump ##Ireland ##GoodFridayAgreement ##WorldNews ##NewsShorts"
+        "title": "Chile Nursing Home Fire",
+        "caption": "चिली के अरावकानिया क्षेत्र में नर्सिंग होम में लगी आग, सोलह लोगों की दर्दनाक मौत।\n\n##ChileFire ##NursingHome ##BreakingNews ##WorldNews"
       },
       "instagram": {
         "title": null,
-        "caption": "डोनाल्ड ट्रंप ने आयरिश नेता से मुलाकात में संयुक्त आयरलैंड के विचार को शानदार बताया।\n\n##DonaldTrump ##Ireland ##GoodFridayAgreement ##WorldNews ##NewsShorts"
+        "caption": "चिली के अरावकानिया क्षेत्र में नर्सिंग होम में लगी आग, सोलह लोगों की दर्दनाक मौत।\n\n##ChileFire ##NursingHome ##BreakingNews ##WorldNews"
       },
       "facebook": {
         "title": null,
-        "caption": "डोनाल्ड ट्रंप ने आयरिश नेता से मुलाकात में संयुक्त आयरलैंड के विचार को शानदार बताया।\n\n##DonaldTrump ##Ireland ##GoodFridayAgreement ##WorldNews ##NewsShorts"
+        "caption": "चिली के अरावकानिया क्षेत्र में नर्सिंग होम में लगी आग, सोलह लोगों की दर्दनाक मौत।\n\n##ChileFire ##NursingHome ##BreakingNews ##WorldNews"
       },
       "hashtags": [
-        "#DonaldTrump",
-        "#Ireland",
-        "#GoodFridayAgreement",
-        "#WorldNews",
-        "#NewsShorts"
+        "#ChileFire",
+        "#NursingHome",
+        "#BreakingNews",
+        "#WorldNews"
       ]
     },
-    "audio_path": "audio/trump_united_ireland_fantastic_global.wav",
-    "audio_duration_sec": 16.22,
-    "video_path": "videos/trump_united_ireland_fantastic_global.mp4",
-    "video_duration_sec": 24.26
-  },
-  {
-    "topic_label": "rajasthan_rto_inspector_dance_orchestra_viral",
-    "virality_score": 7,
-    "reason": "Viral video of an RTO inspector dancing with a female artist in Rajasthan causing trouble.",
-    "region": "india",
-    "headline": "Rajasthan: ऑर्केस्ट्रा में RTO इंस्पेक्टर ने महिला के साथ लगाए ठुमके, वायरल हुआ वीडियो तो बढ़ी मुसीबत",
-    "source_summary": "इस वीडियो में परिवहन निरीक्षक हंसराज मीणा एक सांस्कृतिक कार्यक्रम के दौरान महिला कलाकार के साथ मंच पर नृत्य करते दिखाई दे रहे हैं.",
-    "source_url": "https://ndtv.in/india/rajasthan-bundi-video-of-rto-inspector-dancing-at-an-orchestra-party-goes-viral-questions-raised-dignity-office-12037767#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 12 Sep 2026 18:26:51 +0530",
-    "hook": "राजस्थान में आरटीओ इंस्पेक्टर का डांस वीडियो वायरल!",
-    "script_hi": "राजस्थान में परिवहन निरीक्षक हंसराज मीणा का एक सांस्कृतिक कार्यक्रम में महिला कलाकार के साथ मंच पर नृत्य करते हुए वीडियो वायरल होने के बाद मुश्किलें बढ़ गई हैं. इस मामले में जांच की जा रही है.",
-    "tts_text_hi": "राजस्थान में परिवहन निरीक्षक हंसराज मीणा का एक सांस्कृतिक कार्यक्रम में महिला कलाकार के साथ मंच पर नृत्य करते हुए वीडियो वायरल होने के बाद मुश्किलें बढ़ गई हैं. इस मामले में जांच की जा रही है.",
-    "title": "Rajasthan RTO Inspector Dance Viral",
-    "caption": "राजस्थान के परिवहन निरीक्षक हंसराज मीणा का डांस वीडियो हुआ वायरल, बढ़ी मुश्किलें।",
-    "hashtags": [
-      "#rajasthan",
-      "#viralvideo",
-      "#rtoinspector",
-      "#news",
-      "#trending"
-    ],
-    "visual_queries": [
-      "Rajasthan government office India",
-      "Indian transport department officer",
-      "stage dance performance India"
-    ],
-    "named_person": "Hansraj Meena",
-    "named_person_hi": "हंसराज मीणा",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story's news value relies heavily on the specific viral video mentioned in the headline, which generic stock footage cannot accurately replace.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "हंसराज मीणा",
-        "source": "fallback",
-        "query": "Hansraj Meena",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28655718/pexels-photo-28655718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Rajasthan government office India",
-        "credit": "sights_clicked",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11662759/pexels-photo-11662759.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "government office worker India",
-        "credit": "Madvortex",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36842411/pexels-photo-36842411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stage dance performance India",
-        "credit": "Vineeth Unni",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "pending_review"
+    "audio_path": "audio/chile_nursing_home_fire_deaths_global.wav",
+    "audio_duration_sec": 11.91,
+    "video_path": "videos/chile_nursing_home_fire_deaths_global.mp4",
+    "video_duration_sec": 19.96
   }
 ]
