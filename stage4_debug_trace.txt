@@ -1,9 +1,8 @@
-ready_labels: ['ajmer_municipal_election_congress_win', 'india_artificial_sun_temperature_breakthrough', 'meerut_family_pet_dog_tehrahvi', 'russia_strike_ukrainian_train_boris_johnson', 'saif_ali_khan_home_attack_fear', 'womens_asia_cup_trophy_snub_nakvi']
+ready_labels: ['bihar_severe_floods_50_million_affected', 'crude_oil_100_dollars_inflation_impact', 'delhi_ayanagar_gym_trainer_murder', 'supreme_court_hindi_judgments_audio_bulletins', 'up_woman_uses_ai_to_frame_lover']
 
-womens_asia_cup_trophy_snub_nakvi: SUCCESS -> video_path=videos/womens_asia_cup_trophy_snub_nakvi.mp4 dur=32.659229
-disha_salian_cbi_fir_aditya_thackeray: SKIPPED (not in ready set)
-meerut_family_pet_dog_tehrahvi: SUCCESS -> video_path=videos/meerut_family_pet_dog_tehrahvi.mp4 dur=26.32322
-india_artificial_sun_temperature_breakthrough: SUCCESS -> video_path=videos/india_artificial_sun_temperature_breakthrough.mp4 dur=22.256553
-russia_strike_ukrainian_train_boris_johnson: SUCCESS -> video_path=videos/russia_strike_ukrainian_train_boris_johnson.mp4 dur=21.989887
-saif_ali_khan_home_attack_fear: SUCCESS -> video_path=videos/saif_ali_khan_home_attack_fear.mp4 dur=26.556553
-ajmer_municipal_election_congress_win: SUCCESS -> video_path=videos/ajmer_municipal_election_congress_win.mp4 dur=27.856553
+crude_oil_100_dollars_inflation_impact: SUCCESS -> video_path=videos/crude_oil_100_dollars_inflation_impact.mp4 dur=25.52322
+gurugram_road_rage_biker_car_chase: SKIPPED (not in ready set)
+bihar_severe_floods_50_million_affected: SUCCESS -> video_path=videos/bihar_severe_floods_50_million_affected.mp4 dur=31.02322
+delhi_ayanagar_gym_trainer_murder: SUCCESS -> video_path=videos/delhi_ayanagar_gym_trainer_murder.mp4 dur=21.356553
+up_woman_uses_ai_to_frame_lover: SUCCESS -> video_path=videos/up_woman_uses_ai_to_frame_lover.mp4 dur=27.85322
+supreme_court_hindi_judgments_audio_bulletins: SUCCESS -> video_path=videos/supreme_court_hindi_judgments_audio_bulletins.mp4 dur=30.22322
