@@ -1,8 +1,9 @@
-ready_labels: ['amit_shah_ucc_2029_nda_states', 'jaipur_man_murders_wife_daughters_khatushyam', 'womens_asia_cup_india_srilanka_trophy_refusal']
+ready_labels: ['amit_shah_ucc_21_states_2029', 'pm_modi_school_friend_asgar_ali_cbi_demand', 'russia_strike_ukraine_train_boris_johnson_global']
 
-womens_asia_cup_india_srilanka_trophy_refusal: SUCCESS -> video_path=videos/womens_asia_cup_india_srilanka_trophy_refusal.mp4 dur=24.456553
-jaipur_man_murders_wife_daughters_khatushyam: SUCCESS -> video_path=videos/jaipur_man_murders_wife_daughters_khatushyam.mp4 dur=33.62322
-meerut_shooter_surrender_ssp_office_apology: SKIPPED (not in ready set)
-amit_shah_ucc_2029_nda_states: SUCCESS -> video_path=videos/amit_shah_ucc_2029_nda_states.mp4 dur=30.289887
-manipur_fresh_violence_four_deaths: SKIPPED (not in ready set)
-garhwal_land_digging_iron_box_dispute: SKIPPED (not in ready set)
+assam_guwahati_husband_decapitates_wife_encounter: SKIPPED (not in ready set)
+amit_shah_ucc_21_states_2029: SUCCESS -> video_path=videos/amit_shah_ucc_21_states_2029.mp4 dur=30.156553
+gurugram_car_rams_woman_biker: SKIPPED (not in ready set)
+manipur_violence_fresh_clashes_deaths: SKIPPED (not in ready set)
+pm_modi_school_friend_asgar_ali_cbi_demand: SUCCESS -> video_path=videos/pm_modi_school_friend_asgar_ali_cbi_demand.mp4 dur=20.840227
+west_bengal_madrassas_closed_survey: SKIPPED (not in ready set)
+russia_strike_ukraine_train_boris_johnson_global: SUCCESS -> video_path=videos/russia_strike_ukraine_train_boris_johnson_global.mp4 dur=26.32322

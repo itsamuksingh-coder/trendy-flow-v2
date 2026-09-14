@@ -1,155 +1,30 @@
 [
   {
-    "topic_label": "womens_asia_cup_india_srilanka_trophy_refusal",
-    "virality_score": 10,
-    "reason": "Team India refused to take the trophy from PCB chief Mohsin Naqvi after winning the Women's Asia Cup final, creating a massive viral controversy.",
-    "region": "india",
-    "headline": "विमेंस एशिया कप: टीम इंडिया का मोहसिन नकवी को करारा जवाब, ट्रॉफी लेने से किया इनकार",
-    "source_summary": "भारतीय महिला क्रिकेट टीम ने महिला एशिया कप फाइनल में श्रीलंका को 72 रनों से मात देकर खिताब अपने नाम कर लिया है. भारतीय टीम ने एशियन क्रिकेट बोर्ड के अध्यक्ष और पाकिस्तानी मंत्री मोहसिन नकवी के हाथों ट्रॉफी लेने से साफ इनकार कर दिया.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/asia-cup-india-womens-cricket-team-wins-trophy-dispute-mohsin-naqvi-ntc-ntyv-rpti-2642276-2026-09-14?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-14T00:56:07+05:30",
-    "hook": "एशिया कप जीत के बाद भारतीय महिला टीम ने किया बड़ा इनकार!",
-    "script_hi": "विमेंस एशिया कप के फाइनल में भारतीय महिला क्रिकेट टीम ने श्रीलंका को बहत्तर रनों से हरा दिया। लेकिन इसके बाद जो हुआ उसने सुर्खियां बटोर लीं। भारतीय टीम ने एशियन क्रिकेट बोर्ड के अध्यक्ष मोहसिन नकवी के हाथों ट्रॉफी लेने से साफ इनकार कर दिया।",
-    "tts_text_hi": "विमेंस एशिया कप के फाइनल में भारतीय महिला क्रिकेट टीम ने श्रीलंका को बहत्तर रनों से हरा दिया। लेकिन इसके बाद जो हुआ उसने सुर्खियां बटोर लीं। भारतीय टीम ने एशियन क्रिकेट बोर्ड के अध्यक्ष मोहसिन नकवी के हाथों ट्रॉफी लेने से साफ इनकार कर दिया।",
-    "title": "विमेंस एशिया कप: टीम इंडिया का मोहसिन नकवी को करारा जवाब",
-    "caption": "भारतीय महिला क्रिकेट टीम ने श्रीलंका को हराकर विमेंस एशिया कप का खिताब जीता, लेकिन मोहसिन नकवी के हाथों ट्रॉफी लेने से किया इनकार।",
-    "hashtags": [
-      "#WomensAsiaCup",
-      "#TeamIndia",
-      "#BCCI",
-      "#IndianCricket",
-      "#AsiaCupFinal",
-      "#CricketNews"
-    ],
-    "visual_queries": [
-      "Indian cricket stadium India",
-      "Indian women cricket team India",
-      "trophy presentation ceremony India"
-    ],
-    "named_person": "Mohsin Naqvi",
-    "named_person_hi": "मोहसिन नकवी",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36088031/15304811_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "women cricket celebration",
-        "credit": "Shulabh Singh  Chauhan",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/9517751/9517751-hd_720_1366_24fps.mp4",
-        "source": "pexels",
-        "query": "sports trophy lifting",
-        "credit": "Anastasia  Shuraeva",
-        "source_duration_sec": 6,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_d2c0050205.jpg",
-        "source": "wikimedia",
-        "query": "Mohsin Naqvi",
-        "credit": "Wikipedia",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "trophy presentation ceremony India",
-        "credit": "Monojit Dutta",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15347613/pexels-photo-15347613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket match victory india",
-        "credit": "Dhruv Khichi",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket stadium crowd cheering",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "एशिया कप जीत के बाद भारतीय महिला टीम का बड़ा इनकार! 🏆",
-        "caption": "एशिया कप जीत के बाद भारतीय महिला टीम ने ट्रॉफी लेने से साफ इनकार कर दिया। 🇮🇳\n\nमोहसिन नकवी के हाथों ट्रॉफी लेने पर टीम इंडिया ने कड़ा ऐतराज़ जताया और करारा जवाब दिया है। पूरा मामला क्या है?\n\nपूरी कहानी वीडियो में देखें।\n\n#WomensAsiaCup #TeamIndia #MohsinNaqvi #BCCI #CricketNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "एशिया कप जीत के बाद भारतीय महिला टीम ने किया बड़ा इनकार! 🚨\n\nमोहसिन नकवी से ट्रॉफी लेने से टीम इंडिया का साफ इनकार, सामने आया करारा जवाब।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#WomensAsiaCup #TeamIndia #MohsinNaqvi #BCCI #CricketNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एशिया कप जीतने के बाद मैदान पर कुछ ऐसा हुआ जिसने सबको हैरान कर दिया। 🏏\n\nभारतीय महिला टीम ने मोहसिन नकवी के हाथों ट्रॉफी लेने से साफ इनकार कर दिया और अपना कड़ा रुख साफ कर दिया।\n\nवीडियो में देखिए पूरी खबर और जानिए क्यों लिया गया यह बड़ा फैसला।\n\n#WomensAsiaCup #TeamIndia #MohsinNaqvi #BCCI #CricketNews"
-      },
-      "hashtags": [
-        "WomensAsiaCup",
-        "TeamIndia",
-        "MohsinNaqvi",
-        "BCCI",
-        "CricketNews"
-      ]
-    },
-    "audio_path": "audio/womens_asia_cup_india_srilanka_trophy_refusal.wav",
-    "audio_duration_sec": 16.46,
-    "video_path": "videos/womens_asia_cup_india_srilanka_trophy_refusal.mp4",
-    "video_duration_sec": 24.46
-  },
-  {
-    "topic_label": "jaipur_man_murders_wife_daughters_khatushyam",
+    "topic_label": "assam_guwahati_husband_decapitates_wife_encounter",
     "virality_score": 9,
-    "reason": "A gruesome crime story where a man killed his wife and three daughters before fleeing to Khatu Shyam temple and getting caught.",
+    "reason": "Guwahati husband who stored decapitated wife's head in fridge killed in police encounter.",
     "region": "india",
-    "headline": "पत्नी-3 बेटियों को मारा, फिर खाटू श्याम पहुंचा... रींगस से पकड़ा गया हत्यारा",
-    "source_summary": "जयपुर में पत्नी और तीन बेटियों की हत्या के आरोपी राहुल झा को पुलिस ने रींगस से हिरासत में लिया है. हत्याकांड के बाद वह खाटूश्यामजी पहुंचा और दर्शन करने के बाद होटल में रुका था. पैसे खत्म होने पर उसने अंगूठी बेचने की कोशिश की, लेकिन होटल वाले ने इनकार कर दिया. पुलिस की शुरुआती पूछताछ में कर्ज की बात सामने आई है.",
-    "source_url": "https://www.aajtak.in/rajasthan/story/jaipur-wife-three-daughters-murder-accused-rahul-jha-arrested-lclcn-rptc-2642158-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T18:32:31+05:30",
-    "hook": "जयपुर में दिल दहला देने वाला हत्याकांड!",
-    "script_hi": "जयपुर में अपनी पत्नी और तीन मासूम बेटियों की हत्या करने वाले आरोपी राहुल झा को रींगस से हिरासत में ले लिया गया है। हत्या के बाद आरोपी खाटू श्याम पहुंचा और दर्शन करने के बाद एक होटल में रुका था। पैसे खत्म होने पर उसने अंगूठी बेचने की कोशिश की, लेकिन होटल वाले ने मना कर दिया। शुरुआती पूछताछ में कर्ज के चलते यह कदम उठाने की बात सामने आई है।",
-    "tts_text_hi": "जयपुर में अपनी पत्नी और तीन मासूम बेटियों की हत्या करने वाले आरोपी राहुल झा को रींगस से हिरासत में ले लिया गया है। हत्या के बाद आरोपी खाटू श्याम पहुंचा और दर्शन करने के बाद एक होटल में रुका था। पैसे खत्म होने पर उसने अंगूठी बेचने की कोशिश की, लेकिन होटल वाले ने मना कर दिया। शुरुआती पूछताछ में कर्ज के चलते यह कदम उठाने की बात सामने आई है।",
-    "title": "जयपुर हत्याकांड: पत्नी और तीन बेटियों को मारकर खाटू श्याम पहुंचा आरोपी",
-    "caption": "जयपुर में पत्नी और तीन बेटियों की हत्या करने वाला आरोपी राहुल झा रींगस से गिरफ्तार। खाटू श्याम मंदिर दर्शन करने के बाद होटल में रुका था।",
+    "headline": "असम: पत्नी का कत्ल, सिर फ्रिज में रखा… अब एनकाउंटर में ढेर हुआ कातिल पति",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/wife-murder-case-2.jpeg\" class=\"attachment-large size-large wp-post-image\" alt=\"असम: पत्नी का कत्ल, सिर फ्रिज में रखा… अब एनकाउंटर में ढेर हुआ कातिल पति\" /></figure>गुवाहाटी के रिया तालुकदार हत्याकांड में आरोपी रामानुज गोस्वामी की पुलिस मुठभेड़ में मौत हो गई. आरोपी ने रविवार रात पुलिस के सामने सरेंडर किया था और अदालत ने उसे सात दिन की रिमांड पर भेजा था.",
+    "source_url": "https://www.tv9hindi.com/state/assam-guwahati-ria-talukdar-murder-accused-ramanuj-goswami-encounter-3906361.html",
+    "source_name": "TV9 Hindi",
+    "published": "Mon, 14 Sep 2026 09:58:33 +0530",
+    "hook": "असम में पत्नी के खौफनाक कत्ल का आरोपी एनकाउंटर में ढेर!",
+    "script_hi": "असम के गुवाहाटी में चर्चित रिया तालुकदार हत्याकांड का आरोपी रामानुज गोस्वामी पुलिस मुठभेड़ में मारा गया। आरोपी ने रविवार रात सरेंडर किया था और अदालत ने उसे सात दिन की पुलिस रिमांड पर भेजा था।",
+    "tts_text_hi": "असम के गुवाहाटी में चर्चित रिया तालुकदार हत्याकांड का आरोपी रामानुज गोस्वामी पुलिस मुठभेड़ में मारा गया। आरोपी ने रविवार रात सरेंडर किया था और अदालत ने उसे सात दिन की पुलिस रिमांड पर भेजा था।",
+    "title": "असम हत्याकांड: पत्नी का कातिल पति एनकाउंटर में ढेर",
+    "caption": "असम के गुवाहाटी में रिया तालुकदार हत्याकांड का आरोपी रामानुज गोस्वामी पुलिस एनकाउंटर में मारा गया।",
     "hashtags": [
-      "JaipurNews",
+      "AssamNews",
+      "Guwahati",
+      "Encounter",
       "CrimeNews",
-      "RajasthanNews",
-      "KhatuShyam",
-      "BreakingNews",
-      "IndiaCrime"
+      "IndiaNews"
     ],
     "visual_queries": [
-      "police station India",
-      "KhatuShyam temple India",
-      "hotel room India",
-      "gold ring India"
+      "Guwahati city street India",
+      "Indian police station night",
+      "police investigation crime scene India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -159,167 +34,62 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
+        "query": "police investigation crime scene india",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10576296/pexels-photo-10576296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Guwahati city street India",
+        "credit": "Gyanongkur Das",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35282449/pexels-photo-35282449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "KhatuShyam temple India",
-        "credit": "Dhananjay Shinde",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34496702/pexels-photo-34496702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hotel room India",
-        "credit": "Chrislyn Dsouza",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7875025/pexels-photo-7875025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gold ring India",
-        "credit": "Anoop VS",
+        "query": "police investigation crime scene India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पत्नी और 3 बेटियों का कातिल रींगस से गिरफ्तार, खाटू श्याम भागने की फिराक में था 🚨",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 😱\n\nजयपुर में एक शख्स ने अपनी पत्नी और तीन मासूम बेटियों की बेरहमी से हत्या कर दी और खुद खाटू श्याम भाग निकला। पुलिस ने पीछा कर उसे रींगस से दबोच लिया।\n\nआखिर इस खौफनाक कदम के पीछे की असली वजह क्या थी? पूरी कहानी वीडियो में देखें।\n\n#jaipurmurdermystery #rajasthanpolice #jaipurcrime #khatushyam #crimeupdate"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 😱\n\nजयपुर में एक शख्स ने अपनी पत्नी और तीन मासूम बेटियों की जान ले ली और खाटू श्याम भाग गया। पुलिस ने उसे रींगस से धर दबोचा।\n\nआपकी क्या राय है ऐसे दरिंदों के बारे में? कमेंट में बताएं।\n\n#jaipurmurdermystery #rajasthanpolice #jaipurcrime #khatushyam #crimeupdate"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 😱\n\nजयपुर से एक दिल दहला देने वाली घटना सामने आई है जहाँ एक आरोपी ने अपनी ही पत्नी और तीन मासूम बेटियों को मौत के घाट उतार दिया। हत्या के बाद वो सीधा खाटू श्याम भागने की कोशिश कर रहा था, लेकिन पुलिस ने मुस्तैदी दिखाते हुए उसे रींगस से गिरफ्तार कर लिया।\n\nपरिवार को इस तरह खत्म करने वाला ये शख्स कौन था और इसके पीछे क्या वजह थी, पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#jaipurmurdermystery #rajasthanpolice #jaipurcrime #khatushyam #crimeupdate"
-      },
-      "hashtags": [
-        "jaipurmurdermystery",
-        "rajasthanpolice",
-        "jaipurcrime",
-        "khatushyam",
-        "crimeupdate"
-      ]
-    },
-    "audio_path": "audio/jaipur_man_murders_wife_daughters_khatushyam.wav",
-    "audio_duration_sec": 25.66,
-    "video_path": "videos/jaipur_man_murders_wife_daughters_khatushyam.mp4",
-    "video_duration_sec": 33.62
-  },
-  {
-    "topic_label": "meerut_shooter_surrender_ssp_office_apology",
-    "virality_score": 9,
-    "reason": "A dramatic video of a criminal surrendering at the SSP office out of fear of police encounters, apologizing directly.",
-    "region": "india",
-    "headline": "Video: &#039;योगी आदित्यनाथ जी से माफी...&#039;, SSP ऑफिस में शूटर का सरेंडर",
-    "source_summary": "यूपी के मेरठ में हाफ एनकाउंटर के डर से एक आरोपी खुद सरेंडर करने SSP ऑफिस पहुंच गया. दरअसल, मेरठ पुलिस स्क्रैप कारोबारी पर जानलेवा हमले के आरोपी रवीश की तलाश में जुटी थी. इस बीच आरोपी खुद ही SSP ऑफिस पहुंच गया और पुलिस के सामने सरेंडर कर दिया. देखें वीडियो.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/video/meerut-scrap-trader-shooting-accused-surrender-encounter-fear-up-police-vdot-2642143-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T18:19:47+05:30",
-    "hook": "योगी आदित्यनाथ जी से माफी... मेरठ में एनकाउंटर के डर से शूटर ने किया सरेंडर!",
-    "script_hi": "उत्तर प्रदेश के मेरठ में एनकाउंटर के डर से एक आरोपी ने खुद एसएसपी कार्यालय पहुंचकर सरेंडर कर दिया। पुलिस स्क्रैप कारोबारी पर जानलेवा हमले के मामले में आरोपी रवीश की तलाश कर रही थी, जिसके बाद आरोपी ने खुद थाने पहुंचकर आत्मसमर्पण कर दिया।",
-    "tts_text_hi": "उत्तर प्रदेश के मेरठ में एनकाउंटर के डर से एक आरोपी ने खुद एस एस पी कार्यालय पहुंचकर सरेंडर कर दिया। पुलिस स्क्रैप कारोबारी पर जानलेवा हमले के मामले में आरोपी रवीश की तलाश कर रही थी, जिसके बाद आरोपी ने खुद थाने पहुंचकर आत्मसमर्पण कर दिया।",
-    "title": "मेरठ में एनकाउंटर के डर से शूटर ने किया सरेंडर",
-    "caption": "उत्तर प्रदेश के मेरठ में हाफ एनकाउंटर के डर से आरोपी रवीश खुद एसएसपी ऑफिस पहुंचा और सरेंडर कर दिया।",
-    "hashtags": [
-      "Meerut",
-      "UttarPradesh",
-      "Encounter",
-      "Police",
-      "CrimeNews",
-      "YogiAdityanath",
-      "BreakingNews",
-      "India"
-    ],
-    "visual_queries": [
-      "police office building India",
-      "Indian police station exterior",
-      "criminal surrender India"
-    ],
-    "named_person": "Yogi Adityanath",
-    "named_person_hi": "योगी आदित्यनाथ",
-    "secondary_persons": [],
-    "est_duration_sec": 27,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video mentioned in the headline ('देखें वीडियो') which generic stock footage cannot replace; requires manual insertion of the real video.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "योगी आदित्यनाथ",
-        "source": "fallback",
-        "query": "Yogi Adityanath",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police office building India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37155332/pexels-photo-37155332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station exterior",
-        "credit": "Niyas Pt",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785048/pexels-photo-7785048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "criminal surrender India",
-        "credit": "Kindel Media",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "amit_shah_ucc_2029_nda_states",
+    "topic_label": "amit_shah_ucc_21_states_2029",
     "virality_score": 8,
-    "reason": "Major political announcement by Union Home Minister Amit Shah regarding the rollout of UCC across NDA states before 2029.",
+    "reason": "Amit Shah announces UCC will be implemented in 21 NDA-ruled states before 2029.",
     "region": "india",
-    "headline": "&#039;2029 से पहले NDA के 21 राज्यों में लागू होगा UCC&#039;, अमित शाह का बड़ा ऐलान",
-    "source_summary": "मुंबई में केंद्रीय गृह मंत्री अमित शाह ने प्रेस कॉन्फ्रेंस की. उन्होंने कहा कि 2029 से पहले बीजेपी नेतृत्व वाले NDA के सभी 21 राज्यों में यूनिफॉर्म सिविल कोड (UCC) लागू हो जाएगा. उन्होंने देश की सुरक्षा नीति, आर्थिक प्रगति और अवैध घुसपैठ के खिलाफ सरकार की प्रतिबद्धता पर भी जोर दिया.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/story/amit-shah-ucc-uniform-civil-code-mumbai-press-conference-devendra-fadanvis-ntc-aktw-rptc-2642146-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T18:22:44+05:30",
-    "hook": "दो हज़ार उनतीस से पहले पूरे देश में लागू होगा यूसीसी!",
-    "script_hi": "मुंबई में केंद्रीय गृह मंत्री अमित शाह ने बड़ा ऐलान किया है। उन्होंने कहा कि दो हज़ार उनतीस से पहले बीजेपी नेतृत्व वाले एनडीए के इक्कीस राज्यों में यूनिफॉर्म सिविल कोड यानी यूसीसी लागू हो जाएगा। इस दौरान उन्होंने देश की सुरक्षा, आर्थिक प्रगति और अवैध घुसपैठ के खिलाफ सरकार की कड़ी प्रतिबद्धता पर भी जोर दिया।",
-    "tts_text_hi": "मुंबई में केंद्रीय गृह मंत्री अमित शाह ने बड़ा ऐलान किया है। उन्होंने कहा कि दो हज़ार उनतीस से पहले बीजेपी नेतृत्व वाले एनडीए के इक्कीस राज्यों में यूनिफॉर्म सिविल कोड यानी यूसीसी लागू हो जाएगा। इस दौरान उन्होंने देश की सुरक्षा, आर्थिक प्रगति और अवैध घुसपैठ के खिलाफ सरकार की कड़ी प्रतिबद्धता पर भी जोर दिया।",
-    "title": "2029 से पहले NDA के 21 राज्यों में लागू होगा UCC, अमित शाह का बड़ा ऐलान",
-    "caption": "केंद्रीय गृह मंत्री अमित शाह ने मुंबई में प्रेस कॉन्फ्रेंस के दौरान बड़ा ऐलान किया है कि दो हज़ार उनतीस से पहले एनडीए के इक्कीस राज्यों में यूसीसी लागू कर दिया जाएगा।",
+    "headline": "UCC पर अमित शाह का बड़ा ऐलान, 2029 से पहले 21 राज्यों में लागू होगा समान नागरिक संहिता",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/amit-shah-1.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"UCC पर अमित शाह का बड़ा ऐलान, 2029 से पहले 21 राज्यों में लागू होगा समान नागरिक संहिता\" /></figure>अमित शाह ने दावा किया है कि 2029 के लोकसभा चुनावों से पहले 21 BJP-NDA शासित राज्यों में समान नागरिक संहिता (UCC) लागू हो जाएगी.  उत्तराखंड, गुजरात और असम में यह प्रक्रिया पहले ही शुरू हो चुकी है.",
+    "source_url": "https://www.tv9hindi.com/india/amit-shah-says-ucc-in-all-21-nda-ruled-states-before-2029-mumbai-maharashtra-3906294.html",
+    "source_name": "TV9 Hindi",
+    "published": "Mon, 14 Sep 2026 08:36:40 +0530",
+    "hook": "यूसीसी पर अमित शाह का बहुत बड़ा ऐलान सामने आया है!",
+    "script_hi": "समान नागरिक संहिता यानी यूसीसी को लेकर केंद्रीय गृह मंत्री अमित शाह ने बड़ा दावा किया है। उनका कहना है कि दो हजार उन्तीस के लोकसभा चुनावों से पहले इक्कीस भाजपा और एनडीए शासित राज्यों में यूसीसी लागू कर दिया जाएगा। उत्तराखंड, गुजरात और असम में इस पर काम पहले ही शुरू हो चुका है।",
+    "tts_text_hi": "समान नागरिक संहिता यानी यूसीसी को लेकर केंद्रीय गृह मंत्री अमित शाह ने बड़ा दावा किया है। उनका कहना है कि दो हजार उन्तीस के लोकसभा चुनावों से पहले इक्कीस भाजपा और एनडीए शासित राज्यों में यूसीसी लागू कर दिया जाएगा। उत्तराखंड, गुजरात और असम में इस पर काम पहले ही शुरू हो चुका है।",
+    "title": "UCC पर अमित शाह का बड़ा ऐलान",
+    "caption": "केंद्रीय गृह मंत्री अमित शाह ने ऐलान किया है कि 2029 के लोकसभा चुनावों से पहले 21 राज्यों में UCC लागू हो जाएगा।",
     "hashtags": [
-      "AmitShah",
-      "UCC",
-      "NDA",
-      "IndianNews",
-      "BreakingNews",
-      "Politics"
+      "#UCC",
+      "#AmitShah",
+      "#UniformCivilCode",
+      "#BJP",
+      "#IndianPolitics",
+      "#NewsShorts"
     ],
     "visual_queries": [
-      "Mumbai cityscape India",
-      "Indian home minister press conference",
-      "Indian Parliament building Delhi"
+      "Indian Parliament building New Delhi",
+      "BJP meeting India",
+      "Uttarakhand landscape India"
     ],
     "named_person": "Amit Shah",
     "named_person_hi": "अमित शाह",
@@ -329,125 +99,372 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "अमित शाह",
-        "source": "fallback",
+        "type": "image",
+        "url": "downloaded_assets/person_1a2b47c93c.jpg",
+        "source": "wikimedia",
         "query": "Amit Shah",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7581228/7581228-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian politicians meeting",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian politician press conference",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
-        "duration_sec": 6
+        "credit": "Wikipedia",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai cityscape India",
-        "credit": "Deepak Bhandari",
+        "url": "downloaded_assets/commons_f570fdad55.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian Parliament building New Delhi",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_2d76d49efa.jpg",
+        "source": "wikimedia_commons",
+        "query": "BJP meeting India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_1f4c11f89d.jpg",
+        "source": "wikimedia_commons",
+        "query": "Uttarakhand landscape India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 21.0,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "2029 से पहले NDA के इतने राज्यों में लागू होगा UCC! अमित शाह का बड़ा ऐलान 🇮🇳",
-        "caption": "दो हज़ार उनतीस से पहले पूरे देश में लागू होगा यूसीसी! 🇮🇳\n\nअमित शाह ने साफ कर दिया है कि चुनाव से पहले एनडीए शासित राज्यों में इसे उतारने की तैयारी पूरी हो चुकी है। इसका दायरा देश के ज्यादातर हिस्सों तक फैलने वाला है।\n\nआपकी इस बड़े फैसले पर क्या राय है, कमेंट में बताएं और पूरी कहानी देखें।\n\n#UCC #AmitShah #NDA #UniformCivilCode #IndianPolitics"
+        "title": "2029 से पहले देश के 21 राज्यों में लागू होगा UCC! अमित शाह का बड़ा ऐलान 🇮🇳",
+        "caption": "2029 से पहले देश के 21 राज्यों में लागू होने जा रहा है UCC, अमित शाह का सबसे बड़ा ऐलान सामने आया है! 🇮🇳\n\nकेंद्रीय गृह मंत्री ने साफ कर दिया है कि समान नागरिक संहिता को जमीन पर उतारने की तैयारी तेज हो चुकी है। कई राज्यों में इस पर काम लगभग पूरा हो चुका है।\n\nआपको क्या लगता है, देश भर में UCC लागू होने से क्या बदलाव आएंगे? कमेंट में अपनी राय जरूर बताएं। पूरी खबर के लिए वीडियो देखें।\n\n#UCC #AmitShah #UniformCivilCode #IndianPolitics #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "दो हज़ार उनतीस से पहले पूरे देश में लागू होगा यूसीसी! 🇮🇳\n\nअमित शाह के इस नए ऐलान के बाद राजनीतिक हलचल तेज हो गई है। एनडीए के 21 राज्यों में इसे उतारने का पूरा प्लान तैयार है।\n\nक्या इससे देश में बड़े बदलाव आएंगे? अपनी राय शेयर करें और पूरी कहानी देखें।\n\n#UCC #AmitShah #NDA #UniformCivilCode #IndianPolitics"
+        "caption": "2029 से पहले देश के 21 राज्यों में लागू होगा UCC! अमित शाह का यह ऐलान गेमचेंजर साबित हो सकता है। 🇮🇳\n\nसमान नागरिक संहिता को लेकर सरकार अब फुल एक्शन मोड में है। किन राज्यों में इसकी सबसे पहले तैयारी है और क्या होगा इसका असर?\n\nअपनी राय कमेंट में शेयर करें और ऐसे ही बड़े अपडेट्स के लिए पेज को फॉलो करें!\n\n#UCC #AmitShah #UniformCivilCode #IndianPolitics #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "दो हज़ार उनतीस से पहले पूरे देश में लागू होगा यूसीसी! 🇮🇳\n\nअमित शाह के एक बड़े ऐलान ने सियासी गलियारों में हलचल मचा दी है। रणनीति के तहत एनडीए शासित 21 राज्यों में इसे लागू करने की पूरी रूपरेखा तैयार कर ली गई है।\n\nकानून के मोर्चे पर यह मोदी सरकार का अब तक का सबसे बड़ा कदम माना जा रहा है। इस फैसले का आपके राज्य पर क्या असर होगा, कमेंट करके जरूर बताएं और पूरी कहानी देखें।\n\n#UCC #AmitShah #NDA #UniformCivilCode #IndianPolitics"
+        "caption": "2029 से पहले देश के 21 राज्यों में लागू हो जाएगा UCC! अमित शाह के इस एक ऐलान ने देश की राजनीति में हलचल तेज कर दी है। 🇮🇳\n\nसमान नागरिक संहिता यानी यूनिफॉर्म सिविल कोड को लेकर सरकार की रणनीति अब बिल्कुल साफ है। कई राज्यों में कानून के ड्राफ्ट पर काम आखिरी चरण में है और इसे जल्द जमीन पर उतारा जाएगा।\n\nआपके इलाके या राज्य में इस फैसले का क्या असर होगा? हमें कमेंट करके बताएं और वीडियो पूरा जरूर देखें।\n\n#UCC #AmitShah #UniformCivilCode #IndianPolitics #BreakingNews"
       },
       "hashtags": [
         "UCC",
         "AmitShah",
-        "NDA",
         "UniformCivilCode",
-        "IndianPolitics"
+        "IndianPolitics",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/amit_shah_ucc_2029_nda_states.wav",
-    "audio_duration_sec": 22.24,
-    "video_path": "videos/amit_shah_ucc_2029_nda_states.mp4",
-    "video_duration_sec": 30.29
+    "audio_path": "audio/amit_shah_ucc_21_states_2029.wav",
+    "audio_duration_sec": 22.15,
+    "video_path": "videos/amit_shah_ucc_21_states_2029.mp4",
+    "video_duration_sec": 30.16
   },
   {
-    "topic_label": "manipur_fresh_violence_four_deaths",
+    "topic_label": "gurugram_car_rams_woman_biker",
     "virality_score": 8,
-    "reason": "Fresh violence erupts in Manipur resulting in four deaths including a child, sparking severe regional concern and outrage.",
+    "reason": "Terrifying viral video shows a car driver intentionally ramming a woman biker in Gurugram.",
     "region": "india",
-    "headline": "मणिपुर में फिर हिंसा, चार लोगों की मौत, छह साल के मासूम को भी लगी गोली",
-    "source_summary": "मणिपुर के तामेंगलोंग जिले में हुई ताजा हिंसा में एक कपल समेत चार लोगों की मौत हो गई. वहीं, इस हिंसा में एक छह साल का मासूम भी घायल हो गया है.",
-    "source_url": "https://www.aajtak.in/india/news/story/manipur-violence-four-people-died-six-year-old-injured-ntc-acwi-rpti-2642235-2026-09-13?utm_source=rssfeed",
+    "headline": "VIDEO: महिला बाइकर को जानबूझकर मारी टक्कर, कार सवार की खौफनाक करतूत",
+    "source_summary": "गुरुग्राम के गोल्फ कोर्स रोड पर तेज रफ्तार कार ने कथित तौर पर एक महिला बाइक सवार को टक्कर मार दी. हादसे में महिला गंभीर रूप से घायल हो गई. पूरी घटना कैमरे में कैद हो गई, जिसका वीडियो सोशल मीडिया पर वायरल है.",
+    "source_url": "https://www.aajtak.in/india/haryana/story/female-biker-deliberately-rammed-by-car-driver-and-flees-shocking-incident-in-gurugram-video-lcly-strc-2642380-2026-09-14?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-13T22:22:47+05:30",
-    "hook": "मणिपुर में फिर भड़की हिंसा, चार लोगों की दर्दनाक मौत!",
-    "script_hi": "मणिपुर के तामेंगलोंग जिले में ताजा हिंसा ने एक बार फिर सनसनी फैला दी है। इस हिंसक घटना में एक दंपती समेत चार लोगों की मौत हो गई है। वहीं, छह साल का एक मासूम भी गोली लगने से घायल हो गया है।",
-    "tts_text_hi": "मणिपुर के तामेंगलोंग जिले में ताजा हिंसा ने एक बार फिर सनसनी फैला दी है। इस हिंसक घटना में एक दंपती समेत चार लोगों की मौत हो गई है। वहीं, छह साल का एक मासूम भी गोली लगने से घायल हो गया है।",
-    "title": "मणिपुर के तामेंगलोंग में फिर हिंसा, चार की मौत",
-    "caption": "मणिपुर के तामेंगलोंग जिले में ताजा हिंसा में चार लोगों की मौत हो गई है और एक बच्चा घायल है।",
+    "published": "2026-09-14T10:13:08+05:30",
+    "hook": "गुरुग्राम से दिल दहला देने वाला मामला सामने आया है!",
+    "script_hi": "गुरुग्राम के गोल्फ कोर्स रोड पर एक तेज रफ्तार कार ने महिला बाइक सवार को जानबूझकर टक्कर मार दी। इस भयानक हादसे में महिला गंभीर रूप से घायल हो गई है। यह पूरी खौफनाक घटना कैमरे में कैद हो गई और इसका वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "गुरुग्राम के गोल्फ कोर्स रोड पर एक तेज रफ्तार कार ने महिला बाइक सवार को जानबूझकर टक्कर मार दी। इस भयानक हादसे में महिला गंभीर रूप से घायल हो गई है। यह पूरी खौफनाक घटना कैमरे में कैद हो गई और इसका वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। पुलिस मामले की जांच कर रही है।",
+    "title": "गुरुग्राम में महिला बाइकर को कार ने मारी टक्कर",
+    "caption": "गुरुग्राम के गोल्फ कोर्स रोड पर तेज रफ्तार कार ने महिला बाइक सवार को टक्कर मार दी, जिससे वह गंभीर रूप से घायल हो गई। पूरी घटना का वीडियो सोशल मीडिया पर वायरल है।",
     "hashtags": [
-      "#Manipur",
-      "#ManipurViolence",
-      "#Tamenglong",
-      "#BreakingNews",
-      "#IndiaNews"
+      "Gurugram",
+      "RoadAccident",
+      "ViralVideo",
+      "HaryanaNews",
+      "CrimeNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Manipur landscape India",
-      "police investigation India",
-      "injured child hospital India"
+      "Gurugram road traffic India",
+      "damaged car street India",
+      "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Communal or regional violence/tension specifically -- India-specific misinformation and incitement risk.",
+    "flag_reason": "The story centers on a specific viral video of a car deliberately hitting a biker which requires the real footage to be added manually rather than generic stock B-roll.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38431673/pexels-photo-38431673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35193887/pexels-photo-35193887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Manipur landscape India",
-        "credit": "Noor Zaman",
+        "query": "Gurugram road traffic India",
+        "credit": "Prashant Fanshal",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3905544/pexels-photo-3905544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "downloaded_assets/commons_86515d525a.jpg",
+        "source": "wikimedia_commons",
+        "query": "road accident India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_55e633f10f.jpg",
+        "source": "wikimedia_commons",
+        "query": "police investigation India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "manipur_violence_fresh_clashes_deaths",
+    "virality_score": 8,
+    "reason": "Fresh violence breaks out in Manipur resulting in four deaths including a 6-year-old child.",
+    "region": "india",
+    "headline": "मणिपुर में फिर भड़की हिंसा, 24 घंटे में चार लोगों की मौत, 6 साल के बच्चे को भी लगी गोली",
+    "source_summary": "मणिपुर में एक बार फिर हिंसा भड़क गई है. तामेंगलोंग और नोनी जिलों में उग्रवादियों के हमले में कुकी समुदाय के चार लोगों की मौत हो गई है, 6 साल के एक मासूम बच्चे को भी गोली लगी है. घटना के बाद इलाके अलर्ट पर हैं.",
+    "source_url": "https://ndtv.in/india/manipur-violence-flares-up-again-4-members-of-kuki-community-killed-tamenglong-district-affected-12042941#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 14 Sep 2026 07:31:23 +0530",
+    "hook": "मणिपुर में फिर भड़की हिंसक झड़प, चौबीस घंटे के भीतर चार लोगों की मौत!",
+    "script_hi": "मणिपुर में एक बार फिर हिंसा भड़क गई है। तामेंगलोंग और नोनी जिलों में उग्रवादियों के हमलों में चार लोगों की मौत की खबर सामने आई है। इस हिंसक घटना में छह साल के एक मासूम बच्चे को भी गोली लगी है, जिससे इलाके में तनाव का माहौल है। प्रशासन ने सुरक्षा बढ़ा दी है और इलाके को अलर्ट पर रखा गया है।",
+    "tts_text_hi": "मणिपुर में एक बार फिर हिंसा भड़क गई है। तामेंगलोंग और नोनी जिलों में उग्रवादियों के हमलों में चार लोगों की मौत की खबर सामने आई है। इस हिंसक घटना में छह साल के एक मासूम बच्चे को भी गोली लगी है, जिससे इलाके में तनाव का माहौल है। प्रशासन ने सुरक्षा बढ़ा दी है और इलाके को अलर्ट पर रखा गया है.",
+    "title": "मणिपुर में फिर भड़की हिंसा, चार की मौत",
+    "caption": "मणिपुर के तामेंगलोंग और नोनी जिलों में उग्रवादियों के हमले में चार लोगों की मौत, छह साल का बच्चा भी घायल।",
+    "hashtags": [
+      "#ManipurViolence",
+      "#ManipurNews",
+      "#BreakingNews",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Manipur landscape India",
+      "police patrol India",
+      "security forces India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Communal or regional violence/tension specifically in India, requiring manual review for sensitive content handling.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_3214fc76d3.jpg",
+        "source": "wikimedia_commons",
+        "query": "Manipur landscape India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_08d420b3b8.jpg",
+        "source": "wikimedia_commons",
+        "query": "police patrol India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_dcb4327046.jpg",
+        "source": "wikimedia_commons",
+        "query": "security forces India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pm_modi_school_friend_asgar_ali_cbi_demand",
+    "virality_score": 7,
+    "reason": "PM Modi's 81-year-old childhood Muslim friend meets him to demand CBI probe against BJP MLA.",
+    "region": "india",
+    "headline": "कौन हैं मोदी के बचपन के मुस्लिम दोस्त असगर अली वोहरा? PM से मिलकर क्यों BJP MLA के खिलाफ की CBI जांच की मांग!",
+    "source_summary": "प्रधानमंत्री नरेंद्र मोदी से 8 सितंबर 2026 को मिलने पहुंचे एक 81 वर्षीय शख्स की कहानी अब राजनीतिक और कानूनी हलकों में चर्चा का विषय बन गई है। इनका नाम असगर अली वोहरा है। खास बात यह है कि असगर अली",
+    "source_url": "https://hindi.oneindia.com/news/india/who-is-asgar-ali-vohra-pm-modi-childhood-friend-land-dispute-cbi-probe-bjp-mla-1648107.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Mon, 14 Sep 2026 08:18:14 +0530",
+    "hook": "पीएम मोदी के बचपन के मुस्लिम दोस्त, जिन्होंने बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग की!",
+    "script_hi": "प्रधानमंत्री नरेंद्र मोदी से आठ सितंबर दो हजार छब्बीस को मिलने पहुंचे इक्यासी वर्षीय असगर अली वोहरा चर्चा में हैं। उन्होंने एक बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग की है।",
+    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी से आठ सितंबर दो हजार छब्बीस को मिलने पहुंचे इक्यासी वर्षीय असगर अली वोहरा चर्चा में हैं। उन्होंने एक बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग की है।",
+    "title": "कौन हैं पीएम मोदी के बचपन के दोस्त असगर अली वोहरा?",
+    "caption": "प्रधानमंत्री नरेंद्र मोदी के बचपन के मुस्लिम दोस्त असगर अली वोहरा ने एक बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग की है, जिससे राजनीतिक हलकों में हलचल मच गई है।",
+    "hashtags": [
+      "Narendra Modi",
+      "Asgar Ali Vohra",
+      "BJP",
+      "CBI Inquiry",
+      "Political News",
+      "India News"
+    ],
+    "visual_queries": [
+      "Indian politician portrait India",
+      "India political meeting office",
+      "Indian government building New Delhi"
+    ],
+    "named_person": "Narendra Modi",
+    "named_person_hi": "नरेंद्र मोदी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "injured child hospital India",
-        "credit": "Anna Shvets",
+        "query": "Indian politician meeting citizens",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 25,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/person_b358b4a556.jpg",
+        "source": "wikimedia",
+        "query": "Narendra Modi",
+        "credit": "Wikipedia",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27583886/pexels-photo-27583886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "elderly Indian man portrait",
+        "credit": "Manish Jangid",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian government building New Delhi",
+        "credit": "Nishant Malik",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36818392/pexels-photo-36818392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "senior citizen portrait India",
+        "credit": "pierre matile",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36711135/pexels-photo-36711135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "two elderly men talking India",
+        "credit": "Atharv Ingle",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8847046/pexels-photo-8847046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "politician press conference India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कौन हैं पीएम मोदी के बचपन के मुस्लिम दोस्त असगर अली? 🤝",
+        "caption": "पीएम मोदी के बचपन के मुस्लिम दोस्त असगर अली ने बीजेपी विधायक के खिलाफ क्यों मांगी सीबीआई जांच? 🧐\n\nवडनगर के दिनों की दोस्ती और मौजूदा सियासी हलचल के बीच असगर अली का यह कदम सुर्खियों में है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AsgarAliVohra #NarendraModi #Vadnagar #CBIProbe #PoliticalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पीएम मोदी के बचपन के मुस्लिम दोस्त, जिन्होंने बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग कर दी! 🤯\n\nवडनगर के उन दिनों को याद करते हुए असगर अली वोहरा ने आखिर ऐसा क्या देखा कि उन्हें सीधे केंद्रीय एजेंसी का दरवाजा खटखटाना पड़ा? \n\nशेयर करें ताकि और लोग भी जान सकें सच।\n\n#AsgarAliVohra #NarendraModi #Vadnagar #CBIProbe #PoliticalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "प्रधानमंत्री नरेंद्र मोदी के बचपन के मुस्लिम दोस्त असगर अली वोहरा अचानक चर्चा में क्यों आ गए हैं? 🚨\n\nउन्होंने अपनी ही पार्टी से जुड़े एक बीजेपी विधायक के खिलाफ सीबीआई जांच की मांग करके सबको चौंका दिया है। वडनगर के दिनों की इस दोस्ती और मौजूदा विवाद के पीछे की पूरी सच्चाई क्या है, आइए जानते हैं इस वीडियो में।\n\nवीडियो को पूरा देखें और शेयर करें।\n\n#AsgarAliVohra #NarendraModi #Vadnagar #CBIProbe #PoliticalNews"
+      },
+      "hashtags": [
+        "AsgarAliVohra",
+        "NarendraModi",
+        "Vadnagar",
+        "CBIProbe",
+        "PoliticalNews"
+      ]
+    },
+    "audio_path": "audio/pm_modi_school_friend_asgar_ali_cbi_demand.wav",
+    "audio_duration_sec": 12.78,
+    "video_path": "videos/pm_modi_school_friend_asgar_ali_cbi_demand.mp4",
+    "video_duration_sec": 20.84
+  },
+  {
+    "topic_label": "west_bengal_madrassas_closed_survey",
+    "virality_score": 7,
+    "reason": "West Bengal government orders closure of 252 madrassas citing lack of approvals.",
+    "region": "india",
+    "headline": "बंगाल में बंद हुए 252 मदरसे, मंत्री बोले- हर आतंकी हमले के तार मदरसों से जुड़े",
+    "source_summary": "पश्चिम बंगाल सरकार ने सर्वे के बाद 252 मदरसों को बंद करने का आदेश दिया है और करीब 100 अन्य को कारण बताओ नोटिस भेजा है. सरकार के मुताबिक, कई मदरसों के पास जरूरी मंजूरी और बुनियादी ढांचा नहीं था.",
+    "source_url": "https://www.aajtak.in/west-bengal/story/west-bengal-orders-closure-of-252-madrassas-dilip-ghosh-statement-ntc-apdy-rptc-2642351-2026-09-14?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-14T09:18:01+05:30",
+    "hook": "पश्चिम बंगाल में दो सौ बावन मदरसे बंद!",
+    "script_hi": "पश्चिम बंगाल सरकार ने सर्वे के बाद दो सौ बावन मदरसों को बंद करने का आदेश दिया है। सरकार के मुताबिक कई मदरसों के पास जरूरी मंजूरी और बुनियादी ढांचा नहीं था। इसके अलावा करीब एक सौ अन्य मदरसों को कारण बताओ नोटिस भेजा गया है।",
+    "tts_text_hi": "पश्चिम बंगाल सरकार ने सर्वे के बाद दो सौ बावन मदरसों को बंद करने का आदेश दिया है। सरकार के मुताबिक कई मदरसों के पास जरूरी मंजूरी और बुनियादी ढांचा नहीं था। इसके अलावा करीब एक सौ अन्य मदरसों को कारण बताओ नोटिस भेजा गया है।",
+    "title": "बंगाल में दो सौ बावन मदरसे बंद",
+    "caption": "पश्चिम बंगाल सरकार ने सर्वे के बाद दो सौ बावन मदरसों को बंद करने का आदेश दिया है।",
+    "hashtags": [
+      "#WestBengal",
+      "#Madrasa",
+      "#KolkataNews",
+      "#BreakingNews",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "West Bengal government building India",
+      "closed school gate India",
+      "official notice document India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The headline mentions a sensitive political statement regarding terrorism and religious institutions which requires careful review to ensure accurate contextual framing in compliance with safety guidelines.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "government office India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28003471/pexels-photo-28003471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "West Bengal government building India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16096528/pexels-photo-16096528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "closed school gate India",
+        "credit": "Sachin Mamtora",
         "duration_sec": 5
       }
     ],
@@ -456,66 +473,123 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "garhwal_land_digging_iron_box_dispute",
+    "topic_label": "russia_strike_ukraine_train_boris_johnson_global",
     "virality_score": 7,
-    "reason": "Quirky local news where an old iron box found underground during construction led to 40 families claiming ownership.",
-    "region": "india",
-    "headline": "गढ़वा में जमीन खोदते समय मिला लोहे का संदूक",
-    "source_summary": "झारखंड के गढ़वा में घर बनाने के लिए जमीन की खुदाई के दौरान जेसीबी से मिट्टी के नीचे दबा लोहे का संदूक मिला। संदूक को लेकर इलाके में चर्चा फैल गई और करीब 40 परिवारों ने उस पर अपना दावा जता दिया।",
-    "source_url": "https://www.aajtak.in/short-videos/video/jharkhand-garhwa-iron-chest-found-garhwa-excavation-treasure-during-digging-40-families-claim-police-investigation-mmtc-2642011-2026-09-13?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-13T14:56:02+05:30",
-    "hook": "झारखंड में जमीन खोदते समय मिला रहस्यमयी लोहे का संदूक!",
-    "script_hi": "झारखंड के गढ़वा में घर बनाने के लिए जमीन की खुदाई के दौरान एक लोहे का संदूक मिला। मिट्टी के नीचे दबे इस संदूक के मिलते ही पूरे इलाके में सनसनी फैल गई। हैरानी की बात यह है कि संदूक पर करीब चालीस परिवारों ने अपना दावा ठोक दिया है।",
-    "tts_text_hi": "झारखंड के गढ़वा में घर बनाने के लिए जमीन की खुदाई के दौरान एक लोहे का संदूक मिला। मिट्टी के नीचे दबे इस संदूक के मिलते ही पूरे इलाके में सनसनी फैल गई। हैरानी की बात यह है कि संदूक पर करीब चालीस परिवारों ने अपना दावा ठोक दिया है।",
-    "title": "गढ़वा में जमीन खोदते समय मिला लोहे का संदूक, चालीस परिवारों ने जताया दावा",
-    "caption": "झारखंड के गढ़वा में जमीन की खुदाई के दौरान मिला लोहे का संदूक, चालीस परिवारों ने जताया मालिकाना हक।",
+    "reason": "Russian drone strikes Ukrainian train station shortly after Boris Johnson departs.",
+    "region": "global",
+    "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "source_summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+    "source_url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Mon, 14 Sep 2026 03:38:13 GMT",
+    "hook": "बोरिस जॉनसन के जाते ही रूस का बड़ा हमला!",
+    "script_hi": "ब्रिटेन के पूर्व प्रधानमंत्री बोरिस जॉनसन और यूरोपीय अधिकारियों के स्टेशन से निकलते ही रूस ने यूक्रेनी ट्रेन पर हमला कर दिया। बोरिस जॉनसन ने कहा कि उन्हें समझ नहीं आता कि पुतिन ने पोलिश सीमा पर एक स्थिर यूक्रेनी लोकोमोटिव को उड़ाने का कौन सा विकृत फैसला लिया।",
+    "tts_text_hi": "ब्रिटेन के पूर्व प्रधानमंत्री बोरिस जॉनसन और यूरोपीय अधिकारियों के स्टेशन से निकलते ही रूस ने यूक्रेनी ट्रेन पर हमला कर दिया। बोरिस जॉनसन ने कहा कि उन्हें समझ नहीं आता कि पुतिन ने पोलिश सीमा पर एक स्थिर यूक्रेनी लोकोमोटिव को उड़ाने का कौन सा विकृत फैसला लिया।",
+    "title": "रूस ने यूक्रेनी ट्रेन पर बोला हमला",
+    "caption": "ब्रिटेन के पूर्व प्रधानमंत्री बोरिस जॉनसन के रवाना होते ही रूस ने यूक्रेनी सीमा पर ट्रेन को निशाना बनाया।",
     "hashtags": [
-      "JharkhandNews",
-      "Garhwa",
-      "ViralNews",
-      "IndiaNews",
-      "MysteryBox"
+      "RussiaUkraineWar",
+      "BorisJohnson",
+      "UkraineNews",
+      "BreakingNews",
+      "WorldNews"
     ],
     "visual_queries": [
-      "India construction site digging",
-      "old iron box India",
-      "crowded village India"
+      "train station platform Europe",
+      "military train explosion smoke",
+      "railway border crossing Europe"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Boris Johnson",
+    "named_person_hi": "बोरिस जॉनसन",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30401740/pexels-photo-30401740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "text_card",
+        "text": "बोरिस जॉनसन",
+        "source": "fallback",
+        "query": "Boris Johnson",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/15620398/15620398-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "India construction site digging",
-        "credit": "aksinfo7 universe",
-        "duration_sec": 5
+        "query": "war damage railway track",
+        "credit": "Matthias Groeneveld",
+        "source_duration_sec": 27,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29582936/pexels-photo-29582936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15615500/pexels-photo-15615500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "old iron box India",
-        "credit": "aboodi vesakaran",
-        "duration_sec": 5
+        "query": "train station platform Europe",
+        "credit": "Deyaar Rumi",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19010051/pexels-photo-19010051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5068747/pexels-photo-5068747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crowded village India",
-        "credit": "Soubhagya Maharana",
-        "duration_sec": 5
+        "query": "railway border crossing Europe",
+        "credit": "Max Avans",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38917031/pexels-photo-38917031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ukraine train station",
+        "credit": "Liubava Fedoryshyn",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27451106/pexels-photo-27451106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smoke rising from tracks",
+        "credit": "Matheus Santana",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/22504677/pexels-photo-22504677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "border crossing europe",
+        "credit": "Ozan Tabakoğlu",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बोरिस जॉनसन के स्टेशन से निकलते ही रूस का बड़ा हमला! 🚨",
+        "caption": "बोरिस जॉनसन और यूरोपीय नेताओं के रवाना होते ही रूस ने यूक्रेन की ट्रेन को बना दिया निशाना। 🚆\n\nआखिर कैसे रूस को मिली इस वीवीआईपी मूवमेंट की सटीक खबर? क्या यह किसी बड़ी साजिश का हिस्सा था?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#RussiaUkraineWar #BorisJohnson #UkraineNews #WorldNews #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "जैसे ही बोरिस जॉनसन का काफिला निकला, रूस ने ट्रेन पर बरसा दीं मिसाइलें। ⚡\n\nइस खतरनाक हमले के पीछे की असली सच्चाई क्या है? वीडियो में देखें पूरी डिटेल।\n\nक्या यह सिर्फ इत्तेफाक था या सुनियोजित हमला? शेयर करें अपने विचार।\n\n#RussiaUkraineWar #BorisJohnson #UkraineNews #WorldNews #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "यूक्रेन से एक चौंकाने वाली खबर सामने आ रही है। जैसे ही ब्रिटेन के पूर्व पीएम बोरिस जॉनसन और यूरोपीय अधिकारी स्टेशन से बाहर निकले, ठीक उसके तुरंत बाद रूस ने वहां हमला बोल दिया। 🚆💥\n\nइस वीवीआईपी दौरे के ठीक बाद हुए इस धमाके ने कई गंभीर सवाल खड़े कर दिए हैं। क्या रूस की नजर इस हाई-प्रोफाइल डेलीगेशन पर थी?\n\nपूरी खबर जानिए इस वीडियो में और शेयर करें अपनी राय।\n\n#RussiaUkraineWar #BorisJohnson #UkraineNews #WorldNews #BreakingNews"
+      },
+      "hashtags": [
+        "RussiaUkraineWar",
+        "BorisJohnson",
+        "UkraineNews",
+        "WorldNews",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/russia_strike_ukraine_train_boris_johnson_global.wav",
+    "audio_duration_sec": 18.31,
+    "video_path": "videos/russia_strike_ukraine_train_boris_johnson_global.mp4",
+    "video_duration_sec": 26.32
   }
 ]
