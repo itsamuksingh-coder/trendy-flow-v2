@@ -1,9 +1,10 @@
-ready_labels: ['assam_wife_beheader_death_police_custody', 'gurugram_kargil_hero_attacked_parking_row', 'india_wins_womens_asia_cup_snubs_nakvi', 'rajasthan_nikay_chunav_vasundhara_gadh_bjp_loss']
+ready_labels: ['amit_shah_ucc_2029_nda_states_jdu_rejection', 'chandrashekhar_azad_convoy_attacked_barabanki', 'delhi_man_pmds_syndrome_uterus_found', 'dri_seizes_pakistani_dry_dates_via_uae']
 
-india_wins_womens_asia_cup_snubs_nakvi: SUCCESS -> video_path=videos/india_wins_womens_asia_cup_snubs_nakvi.mp4 dur=27.017211
-abu_dhabi_crown_prince_returns_for_indian_driver: SKIPPED (not in ready set)
-rajasthan_nikay_chunav_vasundhara_gadh_bjp_loss: SUCCESS -> video_path=videos/rajasthan_nikay_chunav_vasundhara_gadh_bjp_loss.mp4 dur=28.015215
-saharanpur_interstate_fake_coin_gang_busted: SKIPPED (not in ready set)
-assam_wife_beheader_death_police_custody: SUCCESS -> video_path=videos/assam_wife_beheader_death_police_custody.mp4 dur=26.789887
-disha_salian_case_cbi_fir_lodged: SKIPPED (not in ready set)
-gurugram_kargil_hero_attacked_parking_row: SUCCESS -> video_path=videos/gurugram_kargil_hero_attacked_parking_row.mp4 dur=31.82322
+womens_asia_cup_india_snubs_mohsin_naqvi_trophy: SKIPPED (not in ready set)
+disha_salian_death_cbi_fir_aditya_thackeray: SKIPPED (not in ready set)
+delhi_man_pmds_syndrome_uterus_found: SUCCESS -> video_path=videos/delhi_man_pmds_syndrome_uterus_found.mp4 dur=28.921224
+rajasthan_municipal_election_bjp_sweep: SKIPPED (not in ready set)
+mohammad_kaif_fir_shadi_ka_vada_lucknow: SKIPPED (not in ready set)
+chandrashekhar_azad_convoy_attacked_barabanki: SUCCESS -> video_path=videos/chandrashekhar_azad_convoy_attacked_barabanki.mp4 dur=26.789887
+amit_shah_ucc_2029_nda_states_jdu_rejection: SUCCESS -> video_path=videos/amit_shah_ucc_2029_nda_states_jdu_rejection.mp4 dur=26.715215
+dri_seizes_pakistani_dry_dates_via_uae: SUCCESS -> video_path=videos/dri_seizes_pakistani_dry_dates_via_uae.mp4 dur=33.089887
