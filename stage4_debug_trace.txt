@@ -1,8 +1,8 @@
-ready_labels: ['indonesia_java_sea_ferry_capsizes', 'mahira_khan_pregnancy_announcement', 'secunderabad_army_armory_heist_ak47']
+ready_labels: ['amit_shah_ucc_2029_nda_states', 'jaipur_man_murders_wife_daughters_khatushyam', 'womens_asia_cup_india_srilanka_trophy_refusal']
 
-secunderabad_army_armory_heist_ak47: SUCCESS -> video_path=videos/secunderabad_army_armory_heist_ak47.mp4 dur=34.911224
-jaipur_quadruple_murder_rahul_jha: SKIPPED (not in ready set)
-tripti_singh_rajput_fake_ias_video: SKIPPED (not in ready set)
-china_robot_dog_pulling_rickshaw: SKIPPED (not in ready set)
-mahira_khan_pregnancy_announcement: SUCCESS -> video_path=videos/mahira_khan_pregnancy_announcement.mp4 dur=32.961224
-indonesia_java_sea_ferry_capsizes: SUCCESS -> video_path=videos/indonesia_java_sea_ferry_capsizes.mp4 dur=26.056553
+womens_asia_cup_india_srilanka_trophy_refusal: SUCCESS -> video_path=videos/womens_asia_cup_india_srilanka_trophy_refusal.mp4 dur=24.456553
+jaipur_man_murders_wife_daughters_khatushyam: SUCCESS -> video_path=videos/jaipur_man_murders_wife_daughters_khatushyam.mp4 dur=33.62322
+meerut_shooter_surrender_ssp_office_apology: SKIPPED (not in ready set)
+amit_shah_ucc_2029_nda_states: SUCCESS -> video_path=videos/amit_shah_ucc_2029_nda_states.mp4 dur=30.289887
+manipur_fresh_violence_four_deaths: SKIPPED (not in ready set)
+garhwal_land_digging_iron_box_dispute: SKIPPED (not in ready set)
