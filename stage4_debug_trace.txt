@@ -1,8 +1,10 @@
-ready_labels: ['bihar_severe_floods_50_million_affected', 'crude_oil_100_dollars_inflation_impact', 'delhi_ayanagar_gym_trainer_murder', 'supreme_court_hindi_judgments_audio_bulletins', 'up_woman_uses_ai_to_frame_lover']
+ready_labels: ['bijnor_women_jewelry_theft_mouth', 'delhi_airport_itailan_passengers_immigration_lapse', 'india_artificial_sun_plasma_temperature', 'rajasthan_civic_elections_bjp_win', 'russia_strikes_ukraine_train_boris_johnson', 'womens_asia_cup_trophy_snub_mohsin_nakvi']
 
-crude_oil_100_dollars_inflation_impact: SUCCESS -> video_path=videos/crude_oil_100_dollars_inflation_impact.mp4 dur=25.52322
-gurugram_road_rage_biker_car_chase: SKIPPED (not in ready set)
-bihar_severe_floods_50_million_affected: SUCCESS -> video_path=videos/bihar_severe_floods_50_million_affected.mp4 dur=31.02322
-delhi_ayanagar_gym_trainer_murder: SUCCESS -> video_path=videos/delhi_ayanagar_gym_trainer_murder.mp4 dur=21.356553
-up_woman_uses_ai_to_frame_lover: SUCCESS -> video_path=videos/up_woman_uses_ai_to_frame_lover.mp4 dur=27.85322
-supreme_court_hindi_judgments_audio_bulletins: SUCCESS -> video_path=videos/supreme_court_hindi_judgments_audio_bulletins.mp4 dur=30.22322
+womens_asia_cup_trophy_snub_mohsin_nakvi: SUCCESS -> video_path=videos/womens_asia_cup_trophy_snub_mohsin_nakvi.mp4 dur=30.789887
+jaipur_man_murders_wife_and_daughters: SKIPPED (not in ready set)
+mumbai_mla_parag_shah_beggar_for_a_day: SKIPPED (not in ready set)
+delhi_airport_itailan_passengers_immigration_lapse: SUCCESS -> video_path=videos/delhi_airport_itailan_passengers_immigration_lapse.mp4 dur=26.22322
+rajasthan_civic_elections_bjp_win: SUCCESS -> video_path=videos/rajasthan_civic_elections_bjp_win.mp4 dur=21.72322
+bijnor_women_jewelry_theft_mouth: SUCCESS -> video_path=videos/bijnor_women_jewelry_theft_mouth.mp4 dur=23.812222
+india_artificial_sun_plasma_temperature: SUCCESS -> video_path=videos/india_artificial_sun_plasma_temperature.mp4 dur=24.02322
+russia_strikes_ukraine_train_boris_johnson: SUCCESS -> video_path=videos/russia_strikes_ukraine_train_boris_johnson.mp4 dur=25.159229
