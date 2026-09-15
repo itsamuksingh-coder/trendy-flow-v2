@@ -1,5 +1,9 @@
-ready_labels: ['gurugram_hit_and_run_kalyan_bainsla_arrest']
+ready_labels: ['gurugram_hit_and_run_arrest', 'mahoba_husband_trishul_murder', 'nato_downs_drone_lithuanian_airspace', 'patna_bpsc_daroga_student_protest', 'russia_evolga_high_speed_train_offer', 'saudi_oil_routes_drone_attack_crisis', 'upi_payment_2000_free_announcement']
 
-gurugram_hit_and_run_kalyan_bainsla_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_kalyan_bainsla_arrest.mp4 dur=27.056553
-lucknow_mobile_emi_forced_blood_donation: SKIPPED (not in ready set)
-bangladesh_plastic_bottle_house_dentist: SKIPPED (not in ready set)
+gurugram_hit_and_run_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_arrest.mp4 dur=31.52322
+patna_bpsc_daroga_student_protest: SUCCESS -> video_path=videos/patna_bpsc_daroga_student_protest.mp4 dur=29.856553
+saudi_oil_routes_drone_attack_crisis: SUCCESS -> video_path=videos/saudi_oil_routes_drone_attack_crisis.mp4 dur=36.792222
+upi_payment_2000_free_announcement: SUCCESS -> video_path=videos/upi_payment_2000_free_announcement.mp4 dur=26.99322
+mahoba_husband_trishul_murder: SUCCESS -> video_path=videos/mahoba_husband_trishul_murder.mp4 dur=32.056553
+russia_evolga_high_speed_train_offer: SUCCESS -> video_path=videos/russia_evolga_high_speed_train_offer.mp4 dur=30.685215
+nato_downs_drone_lithuanian_airspace: SUCCESS -> video_path=videos/nato_downs_drone_lithuanian_airspace.mp4 dur=30.289887
