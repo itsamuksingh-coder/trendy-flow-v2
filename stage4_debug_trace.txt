@@ -1,10 +1,9 @@
-ready_labels: ['bijnor_women_jewelry_theft_mouth', 'delhi_airport_itailan_passengers_immigration_lapse', 'india_artificial_sun_plasma_temperature', 'rajasthan_civic_elections_bjp_win', 'russia_strikes_ukraine_train_boris_johnson', 'womens_asia_cup_trophy_snub_mohsin_nakvi']
+ready_labels: ['apple_ios_27_release_features', 'delhi_airport_italian_passengers_immigration_lapse', 'gurugram_lady_biker_hit_and_run_update', 'russia_strike_ukraine_train_boris_johnson', 'upi_payment_2000_free']
 
-womens_asia_cup_trophy_snub_mohsin_nakvi: SUCCESS -> video_path=videos/womens_asia_cup_trophy_snub_mohsin_nakvi.mp4 dur=30.789887
-jaipur_man_murders_wife_and_daughters: SKIPPED (not in ready set)
-mumbai_mla_parag_shah_beggar_for_a_day: SKIPPED (not in ready set)
-delhi_airport_itailan_passengers_immigration_lapse: SUCCESS -> video_path=videos/delhi_airport_itailan_passengers_immigration_lapse.mp4 dur=26.22322
-rajasthan_civic_elections_bjp_win: SUCCESS -> video_path=videos/rajasthan_civic_elections_bjp_win.mp4 dur=21.72322
-bijnor_women_jewelry_theft_mouth: SUCCESS -> video_path=videos/bijnor_women_jewelry_theft_mouth.mp4 dur=23.812222
-india_artificial_sun_plasma_temperature: SUCCESS -> video_path=videos/india_artificial_sun_plasma_temperature.mp4 dur=24.02322
-russia_strikes_ukraine_train_boris_johnson: SUCCESS -> video_path=videos/russia_strikes_ukraine_train_boris_johnson.mp4 dur=25.159229
+upi_payment_2000_free: SUCCESS -> video_path=videos/upi_payment_2000_free.mp4 dur=24.556553
+mumbai_billionaire_mla_beggar_stunt: SKIPPED (not in ready set)
+delhi_airport_italian_passengers_immigration_lapse: SUCCESS -> video_path=videos/delhi_airport_italian_passengers_immigration_lapse.mp4 dur=31.889887
+rajasthan_civic_election_bjp_win: SKIPPED (not in ready set)
+apple_ios_27_release_features: SUCCESS -> video_path=videos/apple_ios_27_release_features.mp4 dur=30.175215
+gurugram_lady_biker_hit_and_run_update: SUCCESS -> video_path=videos/gurugram_lady_biker_hit_and_run_update.mp4 dur=28.990227
+russia_strike_ukraine_train_boris_johnson: SUCCESS -> video_path=videos/russia_strike_ukraine_train_boris_johnson.mp4 dur=25.159229
