@@ -1,7 +1,5 @@
-ready_labels: ['himachal_9th_pass_grows_apples_in_warm_climate', 'north_india_heavy_rainfall_alert_september', 'upi_payment_2000_charges_clarification']
+ready_labels: ['gurugram_hit_and_run_kalyan_bainsla_arrest']
 
-himachal_9th_pass_grows_apples_in_warm_climate: SUCCESS -> video_path=videos/himachal_9th_pass_grows_apples_in_warm_climate.mp4 dur=38.12322
+gurugram_hit_and_run_kalyan_bainsla_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_kalyan_bainsla_arrest.mp4 dur=27.056553
 lucknow_mobile_emi_forced_blood_donation: SKIPPED (not in ready set)
-mathura_jewellery_shop_14_crore_theft: SKIPPED (not in ready set)
-upi_payment_2000_charges_clarification: SUCCESS -> video_path=videos/upi_payment_2000_charges_clarification.mp4 dur=27.295215
-north_india_heavy_rainfall_alert_september: SUCCESS -> video_path=videos/north_india_heavy_rainfall_alert_september.mp4 dur=28.02322
+bangladesh_plastic_bottle_house_dentist: SKIPPED (not in ready set)
