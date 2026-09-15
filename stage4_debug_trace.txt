@@ -1,8 +1,10 @@
-ready_labels: ['agra_train_theft_neet_passing_accused', 'ai_brain_implant_paralyzed_patients_speech', 'gujarat_heavy_rains_flooding_disruptions', 'gurugram_hit_and_run_lady_biker_kalyan_arrest', 'xiaomi_redmi_note_17_pro_max_10000mah_battery']
+ready_labels: ['amitabh_bachchan_dharmshala_ayodhya_land', 'dhaka_university_jinnah_entry_mujibur_exit', 'gurugram_lady_biker_hit_and_run_accused_arrested', 'india_artificial_sun_plasma_temperature_breakthrough', 'mathura_12_crore_jewellery_shop_theof_arrest', 'neet_qualified_thief_arrested_train_theft_agra', 'up_youths_missing_russia_forced_army_recruitment', 'upi_transaction_charges_2000_above_free_for_users']
 
-ai_brain_implant_paralyzed_patients_speech: SUCCESS -> video_path=videos/ai_brain_implant_paralyzed_patients_speech.mp4 dur=32.845215
-gurugram_hit_and_run_lady_biker_kalyan_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_lady_biker_kalyan_arrest.mp4 dur=31.289887
-xiaomi_redmi_note_17_pro_max_10000mah_battery: SUCCESS -> video_path=videos/xiaomi_redmi_note_17_pro_max_10000mah_battery.mp4 dur=28.015215
-agra_train_theft_neet_passing_accused: SUCCESS -> video_path=videos/agra_train_theft_neet_passing_accused.mp4 dur=29.556553
-delivery_boy_adidas_shoes_gift_viral: SKIPPED (not in ready set)
-gujarat_heavy_rains_flooding_disruptions: SUCCESS -> video_path=videos/gujarat_heavy_rains_flooding_disruptions.mp4 dur=19.075215
+upi_transaction_charges_2000_above_free_for_users: SUCCESS -> video_path=videos/upi_transaction_charges_2000_above_free_for_users.mp4 dur=36.689887
+gurugram_lady_biker_hit_and_run_accused_arrested: SUCCESS -> video_path=videos/gurugram_lady_biker_hit_and_run_accused_arrested.mp4 dur=29.315215
+neet_qualified_thief_arrested_train_theft_agra: SUCCESS -> video_path=videos/neet_qualified_thief_arrested_train_theft_agra.mp4 dur=29.556553
+up_youths_missing_russia_forced_army_recruitment: SUCCESS -> video_path=videos/up_youths_missing_russia_forced_army_recruitment.mp4 dur=25.82322
+india_artificial_sun_plasma_temperature_breakthrough: SUCCESS -> video_path=videos/india_artificial_sun_plasma_temperature_breakthrough.mp4 dur=27.22322
+amitabh_bachchan_dharmshala_ayodhya_land: SUCCESS -> video_path=videos/amitabh_bachchan_dharmshala_ayodhya_land.mp4 dur=23.856553
+mathura_12_crore_jewellery_shop_theof_arrest: SUCCESS -> video_path=videos/mathura_12_crore_jewellery_shop_theof_arrest.mp4 dur=25.04322
+dhaka_university_jinnah_entry_mujibur_exit: SUCCESS -> video_path=videos/dhaka_university_jinnah_entry_mujibur_exit.mp4 dur=26.92322
