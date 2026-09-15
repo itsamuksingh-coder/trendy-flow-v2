@@ -1,9 +1,7 @@
-ready_labels: ['apple_ios_27_release_features', 'delhi_airport_italian_passengers_immigration_lapse', 'gurugram_lady_biker_hit_and_run_update', 'russia_strike_ukraine_train_boris_johnson', 'upi_payment_2000_free']
+ready_labels: ['himachal_9th_pass_grows_apples_in_warm_climate', 'north_india_heavy_rainfall_alert_september', 'upi_payment_2000_charges_clarification']
 
-upi_payment_2000_free: SUCCESS -> video_path=videos/upi_payment_2000_free.mp4 dur=24.556553
-mumbai_billionaire_mla_beggar_stunt: SKIPPED (not in ready set)
-delhi_airport_italian_passengers_immigration_lapse: SUCCESS -> video_path=videos/delhi_airport_italian_passengers_immigration_lapse.mp4 dur=31.889887
-rajasthan_civic_election_bjp_win: SKIPPED (not in ready set)
-apple_ios_27_release_features: SUCCESS -> video_path=videos/apple_ios_27_release_features.mp4 dur=30.175215
-gurugram_lady_biker_hit_and_run_update: SUCCESS -> video_path=videos/gurugram_lady_biker_hit_and_run_update.mp4 dur=28.990227
-russia_strike_ukraine_train_boris_johnson: SUCCESS -> video_path=videos/russia_strike_ukraine_train_boris_johnson.mp4 dur=25.159229
+himachal_9th_pass_grows_apples_in_warm_climate: SUCCESS -> video_path=videos/himachal_9th_pass_grows_apples_in_warm_climate.mp4 dur=38.12322
+lucknow_mobile_emi_forced_blood_donation: SKIPPED (not in ready set)
+mathura_jewellery_shop_14_crore_theft: SKIPPED (not in ready set)
+upi_payment_2000_charges_clarification: SUCCESS -> video_path=videos/upi_payment_2000_charges_clarification.mp4 dur=27.295215
+north_india_heavy_rainfall_alert_september: SUCCESS -> video_path=videos/north_india_heavy_rainfall_alert_september.mp4 dur=28.02322
