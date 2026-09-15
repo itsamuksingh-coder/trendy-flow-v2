@@ -1,9 +1,7 @@
-ready_labels: ['gurugram_hit_and_run_arrest', 'mahoba_husband_trishul_murder', 'nato_downs_drone_lithuanian_airspace', 'patna_bpsc_daroga_student_protest', 'russia_evolga_high_speed_train_offer', 'saudi_oil_routes_drone_attack_crisis', 'upi_payment_2000_free_announcement']
+ready_labels: ['guwahati_wife_murder_husband_death', 'patna_bpsc_students_protest_clash', 'redmi_note_17_pro_max_10000mah_battery', 'stock_market_crash_1400_points']
 
-gurugram_hit_and_run_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_arrest.mp4 dur=31.52322
-patna_bpsc_daroga_student_protest: SUCCESS -> video_path=videos/patna_bpsc_daroga_student_protest.mp4 dur=29.856553
-saudi_oil_routes_drone_attack_crisis: SUCCESS -> video_path=videos/saudi_oil_routes_drone_attack_crisis.mp4 dur=36.792222
-upi_payment_2000_free_announcement: SUCCESS -> video_path=videos/upi_payment_2000_free_announcement.mp4 dur=26.99322
-mahoba_husband_trishul_murder: SUCCESS -> video_path=videos/mahoba_husband_trishul_murder.mp4 dur=32.056553
-russia_evolga_high_speed_train_offer: SUCCESS -> video_path=videos/russia_evolga_high_speed_train_offer.mp4 dur=30.685215
-nato_downs_drone_lithuanian_airspace: SUCCESS -> video_path=videos/nato_downs_drone_lithuanian_airspace.mp4 dur=30.289887
+guwahati_wife_murder_husband_death: SUCCESS -> video_path=videos/guwahati_wife_murder_husband_death.mp4 dur=23.62322
+kanpur_businessman_murder_google_search: SKIPPED (not in ready set)
+stock_market_crash_1400_points: SUCCESS -> video_path=videos/stock_market_crash_1400_points.mp4 dur=28.456553
+redmi_note_17_pro_max_10000mah_battery: SUCCESS -> video_path=videos/redmi_note_17_pro_max_10000mah_battery.mp4 dur=32.289887
+patna_bpsc_students_protest_clash: SUCCESS -> video_path=videos/patna_bpsc_students_protest_clash.mp4 dur=28.02322
