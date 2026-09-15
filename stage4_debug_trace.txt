@@ -1,7 +1,8 @@
-ready_labels: ['guwahati_wife_murder_husband_death', 'patna_bpsc_students_protest_clash', 'redmi_note_17_pro_max_10000mah_battery', 'stock_market_crash_1400_points']
+ready_labels: ['agra_train_theft_neet_passing_accused', 'ai_brain_implant_paralyzed_patients_speech', 'gujarat_heavy_rains_flooding_disruptions', 'gurugram_hit_and_run_lady_biker_kalyan_arrest', 'xiaomi_redmi_note_17_pro_max_10000mah_battery']
 
-guwahati_wife_murder_husband_death: SUCCESS -> video_path=videos/guwahati_wife_murder_husband_death.mp4 dur=23.62322
-kanpur_businessman_murder_google_search: SKIPPED (not in ready set)
-stock_market_crash_1400_points: SUCCESS -> video_path=videos/stock_market_crash_1400_points.mp4 dur=28.456553
-redmi_note_17_pro_max_10000mah_battery: SUCCESS -> video_path=videos/redmi_note_17_pro_max_10000mah_battery.mp4 dur=32.289887
-patna_bpsc_students_protest_clash: SUCCESS -> video_path=videos/patna_bpsc_students_protest_clash.mp4 dur=28.02322
+ai_brain_implant_paralyzed_patients_speech: SUCCESS -> video_path=videos/ai_brain_implant_paralyzed_patients_speech.mp4 dur=32.845215
+gurugram_hit_and_run_lady_biker_kalyan_arrest: SUCCESS -> video_path=videos/gurugram_hit_and_run_lady_biker_kalyan_arrest.mp4 dur=31.289887
+xiaomi_redmi_note_17_pro_max_10000mah_battery: SUCCESS -> video_path=videos/xiaomi_redmi_note_17_pro_max_10000mah_battery.mp4 dur=28.015215
+agra_train_theft_neet_passing_accused: SUCCESS -> video_path=videos/agra_train_theft_neet_passing_accused.mp4 dur=29.556553
+delivery_boy_adidas_shoes_gift_viral: SKIPPED (not in ready set)
+gujarat_heavy_rains_flooding_disruptions: SUCCESS -> video_path=videos/gujarat_heavy_rains_flooding_disruptions.mp4 dur=19.075215
