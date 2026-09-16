@@ -1,8 +1,5 @@
-ready_labels: ['indigo_flight_cargo_smoke_emergency_lucknow', 'strait_of_hormuz_tanker_attack_missing_sailors_global', 'up_youths_missing_russia_forced_army', 'upi_merchant_discount_rate_rules_2026']
+ready_labels: ['ias_megheshree_pregnant_collector_duty', 'upi_mdr_charges_october_2026']
 
-upi_merchant_discount_rate_rules_2026: SUCCESS -> video_path=videos/upi_merchant_discount_rate_rules_2026.mp4 dur=38.255215
-mathura_jewellery_store_12_crore_heist: SKIPPED (not in ready set)
-indigo_flight_cargo_smoke_emergency_lucknow: SUCCESS -> video_path=videos/indigo_flight_cargo_smoke_emergency_lucknow.mp4 dur=36.956553
-up_youths_missing_russia_forced_army: SUCCESS -> video_path=videos/up_youths_missing_russia_forced_army.mp4 dur=29.256553
-strait_of_hormuz_tanker_attack_missing_sailors_global: SUCCESS -> video_path=videos/strait_of_hormuz_tanker_attack_missing_sailors_global.mp4 dur=38.02322
-uttarakhand_vikasnagar_flash_flood_shimla_bypass: SKIPPED (not in ready set)
+upi_mdr_charges_october_2026: SUCCESS -> video_path=videos/upi_mdr_charges_october_2026.mp4 dur=24.556553
+ias_megheshree_pregnant_collector_duty: SUCCESS -> video_path=videos/ias_megheshree_pregnant_collector_duty.mp4 dur=36.12322
+nato_downs_drone_lithuanian_airspace_global: SKIPPED (not in ready set)
