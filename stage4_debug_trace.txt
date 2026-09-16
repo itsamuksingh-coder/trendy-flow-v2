@@ -1,47 +1,8 @@
-ready_labels: ['hardoi_man_decapitates_wife_surrenders', 'japan_village_scallop_shells_helmets_global', 'maharashtra_fda_tukaram_munde_surgical_device_prices', 'mecca_air_raid_alert_houthi_drones_saudi', 'modi_schoolmate_asgar_ali_land_returned_palghar', 'upi_merchant_discount_rate_charges_october']
+ready_labels: ['ayodhya_nsg_hub_free_land_yogi', 'india_upi_tax_rahul_gandhi_protest', 'indian_warship_pakistan_navy_collision_arabian_sea', 'motihari_dm_teaches_students_in_school', 'pm_modi_school_friend_land_returned']
 
-hardoi_man_decapitates_wife_surrenders: SUCCESS -> video_path=videos/hardoi_man_decapitates_wife_surrenders.mp4 dur=26.32322
-upi_merchant_discount_rate_charges_october: SUCCESS -> video_path=videos/upi_merchant_discount_rate_charges_october.mp4 dur=28.62322
-maharashtra_fda_tukaram_munde_surgical_device_prices: EXCEPTION -> FAILED: normalize-fill https://videos.pexels.com/video-files/8657615/8657615-hd_720_1366_25fps.mp4 -> render_work/maharashtra_fda_tukaram_munde_surgical_device_prices/seg_1.mp4
-CMD: ffmpeg -y -i https://videos.pexels.com/video-files/8657615/8657615-hd_720_1366_25fps.mp4 -t 4.626923076923077 -vf scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,format=yuv420p -an -c:v libx264 -pix_fmt yuv420p render_work/maharashtra_fda_tukaram_munde_surgical_device_prices/seg_1.mp4
-STDERR:
-ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
-  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
-  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
-  libavutil      58. 29.100 / 58. 29.100
-  libavcodec     60. 31.102 / 60. 31.102
-  libavformat    60. 16.100 / 60. 16.100
-  libavdevice    60.  3.100 / 60.  3.100
-  libavfilter     9. 12.100 /  9. 12.100
-  libswscale      7.  5.100 /  7.  5.100
-  libswresample   4. 12.100 /  4. 12.100
-  libpostproc    57.  3.100 / 57.  3.100
-[tls @ 0x5641321af540] Error in the pull function.
-[tls @ 0x5641321af540] IO error: Connection reset by peer
-[in#0 @ 0x5641321eddc0] Error opening input: Connection reset by peer
-Error opening input file https://videos.pexels.com/video-files/8657615/8657615-hd_720_1366_25fps.mp4.
-Error opening input files: Connection reset by peer
-
-modi_schoolmate_asgar_ali_land_returned_palghar: SUCCESS -> video_path=videos/modi_schoolmate_asgar_ali_land_returned_palghar.mp4 dur=14.571224
-neet_qualified_thief_arrested_agra_trains: SKIPPED (not in ready set)
-mecca_air_raid_alert_houthi_drones_saudi: EXCEPTION -> FAILED: normalize-fill https://videos.pexels.com/video-files/35189263/14908240_720_1280_30fps.mp4 -> render_work/mecca_air_raid_alert_houthi_drones_saudi/seg_0.mp4
-CMD: ffmpeg -y -i https://videos.pexels.com/video-files/35189263/14908240_720_1280_30fps.mp4 -t 2.396 -vf scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,format=yuv420p -an -c:v libx264 -pix_fmt yuv420p render_work/mecca_air_raid_alert_houthi_drones_saudi/seg_0.mp4
-STDERR:
-ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
-  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
-  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
-  libavutil      58. 29.100 / 58. 29.100
-  libavcodec     60. 31.102 / 60. 31.102
-  libavformat    60. 16.100 / 60. 16.100
-  libavdevice    60.  3.100 / 60.  3.100
-  libavfilter     9. 12.100 /  9. 12.100
-  libswscale      7.  5.100 /  7.  5.100
-  libswresample   4. 12.100 /  4. 12.100
-  libpostproc    57.  3.100 / 57.  3.100
-[tls @ 0x5578f5681540] Error in the pull function.
-[tls @ 0x5578f5681540] IO error: Connection reset by peer
-[in#0 @ 0x5578f56bfdc0] Error opening input: Connection reset by peer
-Error opening input file https://videos.pexels.com/video-files/35189263/14908240_720_1280_30fps.mp4.
-Error opening input files: Connection reset by peer
-
-japan_village_scallop_shells_helmets_global: SUCCESS -> video_path=videos/japan_village_scallop_shells_helmets_global.mp4 dur=26.356553
+india_upi_tax_rahul_gandhi_protest: SUCCESS -> video_path=videos/india_upi_tax_rahul_gandhi_protest.mp4 dur=38.22322
+indian_warship_pakistan_navy_collision_arabian_sea: SUCCESS -> video_path=videos/indian_warship_pakistan_navy_collision_arabian_sea.mp4 dur=23.489887
+ayodhya_nsg_hub_free_land_yogi: SUCCESS -> video_path=videos/ayodhya_nsg_hub_free_land_yogi.mp4 dur=28.556553
+pm_modi_school_friend_land_returned: SUCCESS -> video_path=videos/pm_modi_school_friend_land_returned.mp4 dur=32.62322
+news_helicopter_crash_reporting_bus_collision_global: SKIPPED (not in ready set)
+motihari_dm_teaches_students_in_school: SUCCESS -> video_path=videos/motihari_dm_teaches_students_in_school.mp4 dur=38.255215
