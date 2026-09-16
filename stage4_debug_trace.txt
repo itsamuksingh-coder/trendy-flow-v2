@@ -1,7 +1,8 @@
-ready_labels: ['epfo_wage_limit_increase_25000', 'jhiram_valley_naxal_attack_death_sentence', 'upi_mdr_charges_supreme_court_petition']
+ready_labels: ['ccpa_fines_rapido_dark_patterns', 'epfo_wage_limit_hike_25000', 'eu_offers_canada_associate_membership_global', 'guwahati_wife_decapitation_husband_suicide', 'indian_navy_warship_pns_hunain_collision']
 
-upi_mdr_charges_supreme_court_petition: SUCCESS -> video_path=videos/upi_mdr_charges_supreme_court_petition.mp4 dur=25.056553
-belagavi_property_dispute_father_daughter_murder: SKIPPED (not in ready set)
-jhansi_grandfather_murdered_by_granddaughter_lover: SKIPPED (not in ready set)
-epfo_wage_limit_increase_25000: SUCCESS -> video_path=videos/epfo_wage_limit_increase_25000.mp4 dur=32.915215
-jhiram_valley_naxal_attack_death_sentence: SUCCESS -> video_path=videos/jhiram_valley_naxal_attack_death_sentence.mp4 dur=25.02322
+indian_navy_warship_pns_hunain_collision: SUCCESS -> video_path=videos/indian_navy_warship_pns_hunain_collision.mp4 dur=30.384218
+guwahati_wife_decapitation_husband_suicide: SUCCESS -> video_path=videos/guwahati_wife_decapitation_husband_suicide.mp4 dur=33.389887
+epfo_wage_limit_hike_25000: SUCCESS -> video_path=videos/epfo_wage_limit_hike_25000.mp4 dur=26.956553
+lucknow_ex_girlfriend_car_dragging_case: SKIPPED (not in ready set)
+ccpa_fines_rapido_dark_patterns: SUCCESS -> video_path=videos/ccpa_fines_rapido_dark_patterns.mp4 dur=31.591224
+eu_offers_canada_associate_membership_global: SUCCESS -> video_path=videos/eu_offers_canada_associate_membership_global.mp4 dur=22.72322
