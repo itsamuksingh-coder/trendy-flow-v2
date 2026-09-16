@@ -1,9 +1,8 @@
-ready_labels: ['indigo_flight_smoke_warning_lucknow_emergency', 'jasprit_bumrah_maiden_over_world_record', 'mathura_jewellery_shop_12_crore_theft', 'patna_bpsc_bssc_student_protest_clash', 'rinku_singh_priya_saroj_wedding_date', 'russia_warship_fires_flares_danish_helicopter_global', 'upi_payment_fee_rules_clarification']
+ready_labels: ['indigo_flight_cargo_smoke_emergency_lucknow', 'strait_of_hormuz_tanker_attack_missing_sailors_global', 'up_youths_missing_russia_forced_army', 'upi_merchant_discount_rate_rules_2026']
 
-upi_payment_fee_rules_clarification: SUCCESS -> video_path=videos/upi_payment_fee_rules_clarification.mp4 dur=30.685215
-jasprit_bumrah_maiden_over_world_record: SUCCESS -> video_path=videos/jasprit_bumrah_maiden_over_world_record.mp4 dur=25.345215
-rinku_singh_priya_saroj_wedding_date: SUCCESS -> video_path=videos/rinku_singh_priya_saroj_wedding_date.mp4 dur=24.021224
-patna_bpsc_bssc_student_protest_clash: SUCCESS -> video_path=videos/patna_bpsc_bssc_student_protest_clash.mp4 dur=26.456553
-indigo_flight_smoke_warning_lucknow_emergency: SUCCESS -> video_path=videos/indigo_flight_smoke_warning_lucknow_emergency.mp4 dur=30.72322
-mathura_jewellery_shop_12_crore_theft: SUCCESS -> video_path=videos/mathura_jewellery_shop_12_crore_theft.mp4 dur=29.556553
-russia_warship_fires_flares_danish_helicopter_global: SUCCESS -> video_path=videos/russia_warship_fires_flares_danish_helicopter_global.mp4 dur=27.156553
+upi_merchant_discount_rate_rules_2026: SUCCESS -> video_path=videos/upi_merchant_discount_rate_rules_2026.mp4 dur=38.255215
+mathura_jewellery_store_12_crore_heist: SKIPPED (not in ready set)
+indigo_flight_cargo_smoke_emergency_lucknow: SUCCESS -> video_path=videos/indigo_flight_cargo_smoke_emergency_lucknow.mp4 dur=36.956553
+up_youths_missing_russia_forced_army: SUCCESS -> video_path=videos/up_youths_missing_russia_forced_army.mp4 dur=29.256553
+strait_of_hormuz_tanker_attack_missing_sailors_global: SUCCESS -> video_path=videos/strait_of_hormuz_tanker_attack_missing_sailors_global.mp4 dur=38.02322
+uttarakhand_vikasnagar_flash_flood_shimla_bypass: SKIPPED (not in ready set)
