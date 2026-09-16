@@ -1,5 +1,2 @@
-ready_labels: ['ias_megheshree_pregnant_collector_duty', 'upi_mdr_charges_october_2026']
+ready_labels: []
 
-upi_mdr_charges_october_2026: SUCCESS -> video_path=videos/upi_mdr_charges_october_2026.mp4 dur=24.556553
-ias_megheshree_pregnant_collector_duty: SUCCESS -> video_path=videos/ias_megheshree_pregnant_collector_duty.mp4 dur=36.12322
-nato_downs_drone_lithuanian_airspace_global: SKIPPED (not in ready set)
