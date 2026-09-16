@@ -1,2 +1,3 @@
-ready_labels: []
+ready_labels: ['monsoon_withdrawal_heavy_rain_alert']
 
+monsoon_withdrawal_heavy_rain_alert: SUCCESS -> video_path=videos/monsoon_withdrawal_heavy_rain_alert.mp4 dur=35.489887
