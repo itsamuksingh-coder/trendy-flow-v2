@@ -1,8 +1,10 @@
-ready_labels: ['dusu_polls_violence_hc_warning', 'upi_mdr_charges_merchant_impact', 'us_russia_oil_tariff_double_standard', 'virendra_sehwag_yama_look_reality_show']
+ready_labels: ['gold_silver_price_sharp_crash_mcx', 'hyderabad_engineer_suspicious_death_usa', 'supposedly_dead_woman_found_alive_surat', 'upi_charge_merchant_discontent_delhi', 'us_russia_sanctions_100_percent_tariff_india']
 
-us_russia_oil_tariff_double_standard: SUCCESS -> video_path=videos/us_russia_oil_tariff_double_standard.mp4 dur=29.089887
-maharashtra_waterfall_snake_falls_on_tourists: SKIPPED (not in ready set)
-dusu_polls_violence_hc_warning: SUCCESS -> video_path=videos/dusu_polls_violence_hc_warning.mp4 dur=24.509229
-upi_mdr_charges_merchant_impact: SUCCESS -> video_path=videos/upi_mdr_charges_merchant_impact.mp4 dur=25.62322
-virendra_sehwag_yama_look_reality_show: SUCCESS -> video_path=videos/virendra_sehwag_yama_look_reality_show.mp4 dur=28.967211
-kanpur_delivery_boy_open_sewer_accident: SKIPPED (not in ready set)
+upi_charge_merchant_discontent_delhi: SUCCESS -> video_path=videos/upi_charge_merchant_discontent_delhi.mp4 dur=33.425215
+us_russia_sanctions_100_percent_tariff_india: SUCCESS -> video_path=videos/us_russia_sanctions_100_percent_tariff_india.mp4 dur=34.02322
+pitbull_attack_baby_sonipat: SKIPPED (not in ready set)
+supposedly_dead_woman_found_alive_surat: SUCCESS -> video_path=videos/supposedly_dead_woman_found_alive_surat.mp4 dur=26.456553
+gold_silver_price_sharp_crash_mcx: SUCCESS -> video_path=videos/gold_silver_price_sharp_crash_mcx.mp4 dur=38.255215
+former_bjp_mla_gangrape_case_thane: SKIPPED (not in ready set)
+hyderabad_engineer_suspicious_death_usa: SUCCESS -> video_path=videos/hyderabad_engineer_suspicious_death_usa.mp4 dur=24.489887
+houthi_rebels_shoot_down_saudi_f15: SKIPPED (not in ready set)
