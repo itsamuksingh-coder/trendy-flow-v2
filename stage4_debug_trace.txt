@@ -1,9 +1,8 @@
-ready_labels: ['eu_social_media_ban_under_15_global', 'muslim_community_prays_for_pm_modi_birthday']
+ready_labels: ['dusu_polls_violence_hc_warning', 'upi_mdr_charges_merchant_impact', 'us_russia_oil_tariff_double_standard', 'virendra_sehwag_yama_look_reality_show']
 
-gold_silver_price_crash_september_2026: SKIPPED (not in ready set)
-kanpur_hospital_driver_prescribing_medicine: SKIPPED (not in ready set)
-ambोली_waterfall_snake_drops_on_tourists: SKIPPED (not in ready set)
-kanpur_delivery_boy_falls_in_open_sewer: SKIPPED (not in ready set)
-former_bjp_mla_dismissed_cop_booked_for_gangrape: SKIPPED (not in ready set)
-muslim_community_prays_for_pm_modi_birthday: SUCCESS -> video_path=videos/muslim_community_prays_for_pm_modi_birthday.mp4 dur=31.452222
-eu_social_media_ban_under_15_global: SUCCESS -> video_path=videos/eu_social_media_ban_under_15_global.mp4 dur=20.856553
+us_russia_oil_tariff_double_standard: SUCCESS -> video_path=videos/us_russia_oil_tariff_double_standard.mp4 dur=29.089887
+maharashtra_waterfall_snake_falls_on_tourists: SKIPPED (not in ready set)
+dusu_polls_violence_hc_warning: SUCCESS -> video_path=videos/dusu_polls_violence_hc_warning.mp4 dur=24.509229
+upi_mdr_charges_merchant_impact: SUCCESS -> video_path=videos/upi_mdr_charges_merchant_impact.mp4 dur=25.62322
+virendra_sehwag_yama_look_reality_show: SUCCESS -> video_path=videos/virendra_sehwag_yama_look_reality_show.mp4 dur=28.967211
+kanpur_delivery_boy_open_sewer_accident: SKIPPED (not in ready set)
