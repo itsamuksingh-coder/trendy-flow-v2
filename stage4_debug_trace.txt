@@ -1,10 +1,9 @@
-ready_labels: ['gold_silver_price_sharp_crash_mcx', 'hyderabad_engineer_suspicious_death_usa', 'supposedly_dead_woman_found_alive_surat', 'upi_charge_merchant_discontent_delhi', 'us_russia_sanctions_100_percent_tariff_india']
+ready_labels: ['abhishek_sharma_fastest_t20i_century', 'laddu_eating_competition_record_surendranagar', 'nyc_thrift_store_bowl_worth_millions', 'upi_mdr_charges_2000_above', 'us_sanctions_bill_100_percent_tariff_india']
 
-upi_charge_merchant_discontent_delhi: SUCCESS -> video_path=videos/upi_charge_merchant_discontent_delhi.mp4 dur=33.425215
-us_russia_sanctions_100_percent_tariff_india: SUCCESS -> video_path=videos/us_russia_sanctions_100_percent_tariff_india.mp4 dur=34.02322
-pitbull_attack_baby_sonipat: SKIPPED (not in ready set)
-supposedly_dead_woman_found_alive_surat: SUCCESS -> video_path=videos/supposedly_dead_woman_found_alive_surat.mp4 dur=26.456553
-gold_silver_price_sharp_crash_mcx: SUCCESS -> video_path=videos/gold_silver_price_sharp_crash_mcx.mp4 dur=38.255215
-former_bjp_mla_gangrape_case_thane: SKIPPED (not in ready set)
-hyderabad_engineer_suspicious_death_usa: SUCCESS -> video_path=videos/hyderabad_engineer_suspicious_death_usa.mp4 dur=24.489887
-houthi_rebels_shoot_down_saudi_f15: SKIPPED (not in ready set)
+abhishek_sharma_fastest_t20i_century: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20i_century.mp4 dur=24.689887
+us_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/us_sanctions_bill_100_percent_tariff_india.mp4 dur=38.12322
+upi_mdr_charges_2000_above: SUCCESS -> video_path=videos/upi_mdr_charges_2000_above.mp4 dur=24.718231
+laddu_eating_competition_record_surendranagar: SUCCESS -> video_path=videos/laddu_eating_competition_record_surendranagar.mp4 dur=34.756553
+nyc_thrift_store_bowl_worth_millions: SUCCESS -> video_path=videos/nyc_thrift_store_bowl_worth_millions.mp4 dur=30.267211
+bihar_lover_climbs_mobile_tower_marriage: SKIPPED (not in ready set)
+kanpur_delivery_boy_open_sewer_accident: SKIPPED (not in ready set)
