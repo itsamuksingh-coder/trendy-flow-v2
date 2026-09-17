@@ -1,144 +1,352 @@
 [
   {
-    "topic_label": "indian_navy_warship_pns_hunain_collision",
+    "topic_label": "us_russia_sanctions_bill_india_tariffs",
     "virality_score": 9,
-    "reason": "A direct collision between an Indian warship and a Pakistani naval vessel in the Arabian Sea is a high-stakes geo-political story.",
+    "reason": "US bill proposing up to 100% tariffs on countries buying Russian oil directly impacts India and China.",
+    "region": "india",
+    "headline": "रूस पर प्रतिबंध का बिल अमेरिकी हाउस में पास, भारत-चीन पर टैरिफ की तलवार?",
+    "source_summary": "यह कानून उन देशों पर 100% तक टैरिफ लगाने की अनुमति देता है जो रूस से तेल और गैस खरीदना जारी रखते हैं. हाउस में हुई बहस में भारत और चीन को खास तौर पर उन बड़े खरीदारों के तौर पर पहचाना गया है जिन पर इस प्रावधान का असर पड़ सकता है.",
+    "source_url": "https://www.aajtak.in/world/story/us-house-passes-lindsey-o-graham-sanctioning-russia-iran-india-china-tarrif-ntc-acwi-dskc-2644203-2026-09-17?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-17T04:37:21+05:30",
+    "hook": "रूस से तेल खरीदने वाले देशों पर अमरीका का बड़ा शिकंजा!",
+    "script_hi": "अमरीकी हाउस में रूस पर प्रतिबंध का बिल पास हो गया है। इस कानून के तहत रूस से तेल और गैस खरीदने वाले देशों पर सौ प्रतिशत तक टैरिफ लग सकता है। बहस के दौरान भारत और चीन को इसके मुख्य खरीदार के तौर पर चिन्हित किया गया है, जिससे दोनों देशों पर भारी टैरिफ का खतरा मंडरा रहा है।",
+    "tts_text_hi": "अमरीकी हाउस में रूस पर प्रतिबंध का बिल पास हो गया है। इस कानून के तहत रूस से तेल और गैस खरीदने वाले देशों पर सौ प्रतिशत तक टैरिफ लग सकता है। बहस के दौरान भारत और चीन को इसके मुख्य खरीदार के तौर पर चिन्हित किया गया है, जिससे दोनों देशों पर भारी टैरिफ का खतरा मंडरा रहा है।",
+    "title": "रूस पर प्रतिबंध का बिल अमरीकी हाउस में पास, भारत-चीन पर टैरिफ की तलवार",
+    "caption": "अमरीकी हाउस में रूस पर प्रतिबंध का नया बिल पास, भारत और चीन जैसे बड़े खरीदारों पर सौ प्रतिशत तक टैरिफ का खतरा।",
+    "hashtags": [
+      "USNews",
+      "RussiaSanctions",
+      "IndiaChina",
+      "Tariff",
+      "BreakingNews",
+      "GlobalNews"
+    ],
+    "visual_queries": [
+      "US Capitol building India",
+      "oil refinery India",
+      "cargo ship sea India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33705055/pexels-photo-33705055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US Capitol building India",
+        "credit": "Bastian Riccardi",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "oil refinery India",
+        "credit": "Balotra News",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cargo ship sea India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15981221/pexels-photo-15981221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crude oil barrels warehouse",
+        "credit": "Alimurat Üral",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8243354/pexels-photo-8243354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "international trade shipping port",
+        "credit": "Ana Benet",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32396570/pexels-photo-32396570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "global stock market graphs",
+        "credit": "Jakub Zerdzicki",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11653323/pexels-photo-11653323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "government parliament building exterior",
+        "credit": "Iakub Arifulin",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रूस से तेल खरीदने पर अमरीका का बड़ा शिकंजा! भारत पर क्या होगा असर?",
+        "caption": "रूस से तेल खरीदने वाले देशों पर अमरीका का बड़ा शिकंजा! 🚨\n\nअमेरिकी हाउस में रूस पर प्रतिबंध का एक नया बिल पास हो गया है। इसके दायरे में भारत और चीन जैसे देश भी आ सकते हैं, जिन पर भारी टैरिफ लगाने की तैयारी चल रही है।\n\nपूरी कहानी देखें और समझें कि इससे ग्लोबल मार्केट में क्या हलचल मचेगी।\n\n#USSanctions #RussiaOil #IndiaUSRelations #GlobalTrade #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रूस से तेल खरीदने वाले देशों पर अमरीका का बड़ा शिकंजा! 🚨 अमरीकी हाउस में पास हुए इस नए बिल से भारत और चीन पर भारी टैरिफ का खतरा मंडराने लगा है। पूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#USSanctions #RussiaOil #IndiaUSRelations #GlobalTrade #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "रूस से तेल खरीदने वाले देशों पर अमरीका का बड़ा शिकंजा! 🚨\n\nअमेरिकी हाउस में रूस पर प्रतिबंध लगाने वाला एक अहम बिल पास कर दिया गया है। इस कदम के बाद भारत और चीन जैसे देशों पर कड़े टैरिफ की तलवार लटक रही है, जो ग्लोबल ट्रेड पर बड़ा असर डाल सकता है। \n\nपूरी कहानी देखें और अपनी राय हमें कमेंट में बताएं।\n\n#USSanctions #RussiaOil #IndiaUSRelations #GlobalTrade #BreakingNews"
+      },
+      "hashtags": [
+        "USSanctions",
+        "RussiaOil",
+        "IndiaUSRelations",
+        "GlobalTrade",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/us_russia_sanctions_bill_india_tariffs.wav",
+    "audio_duration_sec": 21.57,
+    "video_path": "videos/us_russia_sanctions_bill_india_tariffs.mp4",
+    "video_duration_sec": 29.49
+  },
+  {
+    "topic_label": "pakistan_naval_ship_collides_with_indian_warship",
+    "virality_score": 9,
+    "reason": "High-tension maritime incident where a Pakistani naval ship collided with an Indian warship in the Arabian Sea.",
     "region": "india",
     "headline": "PAK का जंगी जहाज अपने से 3 गुना ताकतवर भारतीय युद्धपोत से ले रहा था पंगा!",
     "source_summary": "15 सितंबर शाम उत्तरी अरब सागर में पाकिस्तानी PNS हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मारी. पाकिस्तान नेवी युद्धाभ्यास कर रही थी. भारतीय नौसेना गश्त पर थी. भारत ने विरोध जताया. दोनों जहाजों की क्षमता में बड़ा अंतर है.",
     "source_url": "https://www.aajtak.in/defence-news/story/ins-kolkata-class-destroyer-pns-hunain-north-arabian-sea-collision-rpti-2644022-2026-09-16?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-16T18:18:59+05:30",
-    "hook": "उत्तर अरब सागर में पाकिस्तानी जंगी जहाज ने भारतीय युद्धपोत से लिया पंगा!",
-    "script_hi": "पंद्रह सितंबर की शाम उत्तरी अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मार दी! पाकिस्तान नेवी वहां युद्धाभ्यास कर रही थी जबकि भारतीय नौसेना गश्त पर थी। भारत ने इस घटना पर कड़ा विरोध जताया है। दोनों जहाजों की सैन्य क्षमता में बहुत बड़ा अंतर है।",
-    "tts_text_hi": "पंद्रह सितंबर की शाम उत्तरी अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मार दी! पाकिस्तान नेवी वहां युद्धाभ्यास कर रही थी जबकि भारतीय नौसेना गश्त पर थी। भारत ने इस घटना पर कड़ा विरोध जताया है। दोनों जहाजों की सैन्य क्षमता में बहुत बड़ा अंतर है।",
-    "title": "पाकिस्तानी जंगी जहाज ने भारतीय युद्धपोत से लिया पंगा",
-    "caption": "उत्तर अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को मारी टक्कर। भारत ने जताया विरोध।",
+    "hook": "उत्तरी अरब सागर में पाकिस्तानी नौसेना की बड़ी नापाक हरकत!",
+    "script_hi": "पंद्रह सितंबर की शाम उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मार दी। पाकिस्तानी नेवी वहां युद्धाभ्यास कर रही थी जबकि भारतीय नौसेना गश्त पर थी। भारत ने इस घटना पर कड़ा विरोध जताया है। दोनों जहाजों की क्षमता में बहुत बड़ा अंतर है।",
+    "tts_text_hi": "पंद्रह सितंबर की शाम उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मार दी। पाकिस्तानी नेवी वहां युद्धाभ्यास कर रही थी जबकि भारतीय नौसेना गश्त पर थी। भारत ने इस घटना पर कड़ा विरोध जताया है। दोनों जहाजों की क्षमता में बहुत बड़ा अंतर है।",
+    "title": "पाक युद्धपोत ने भारतीय जहाज को मारी टक्कर",
+    "caption": "उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मारी। भारत ने जताया कड़ा विरोध।",
     "hashtags": [
-      "IndianNavy",
-      "ArabSea",
-      "PakistanNavy",
-      "IndianWarship",
-      "DefenceNews",
-      "India"
+      "#IndianNavy",
+      "#ArabSea",
+      "#PakistanNavy",
+      "#IndianWarship",
+      "#DefenceNews",
+      "#India"
     ],
     "visual_queries": [
-      "Arabian Sea water India",
-      "Indian Navy warship India",
-      "Pakistani naval ship India",
-      "Indian naval defense India"
+      "Arabian sea India",
+      "Pakistan navy ship India",
+      "Indian navy destroyer India",
+      "Indian navy warship India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "downloaded_assets/commons_d88da2e5e2.jpg",
-        "source": "wikimedia_commons",
-        "query": "Arabian Sea water India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_57771798d5.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian Navy warship India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30386540/pexels-photo-30386540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/26737538/11997403_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indian naval defense India",
-        "credit": "Pramod  Tiwari",
+        "query": "naval fleet sunset ocean",
+        "credit": "zeki subaşı",
+        "source_duration_sec": 24,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20691836/pexels-photo-20691836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Arabian sea India",
+        "credit": "Manthan Mer",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35173620/pexels-photo-35173620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8798479/pexels-photo-8798479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "warship at sea",
-        "credit": "Enzo Renz",
+        "query": "Indian navy warship India",
+        "credit": "Alexandr Ivanov",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19434292/pexels-photo-19434292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27816213/pexels-photo-27816213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sea collision accident",
-        "credit": "Pok Rie",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12707055/pexels-photo-12707055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "naval fleet operation",
-        "credit": "Nicholas Espinosa",
+        "query": "indian coastline aerial view",
+        "credit": "Chandrakanth Tejomurthula",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पाकिस्तानी जंगी जहाज ने भारतीय युद्धपोत से लिया पंगा",
-        "caption": "उत्तर अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को मारी टक्कर। भारत ने जताया विरोध।\n\n#IndianNavy #ArabSea #PakistanNavy #IndianWarship #DefenceNews"
+        "title": "पाक युद्धपोत ने भारतीय जहाज को मारी टक्कर",
+        "caption": "उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मारी। भारत ने जताया कड़ा विरोध।\n\n##IndianNavy ##ArabSea ##PakistanNavy ##IndianWarship ##DefenceNews"
       },
       "instagram": {
         "title": null,
-        "caption": "उत्तर अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को मारी टक्कर। भारत ने जताया विरोध।\n\n#IndianNavy #ArabSea #PakistanNavy #IndianWarship #DefenceNews"
+        "caption": "उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मारी। भारत ने जताया कड़ा विरोध।\n\n##IndianNavy ##ArabSea ##PakistanNavy ##IndianWarship ##DefenceNews"
       },
       "facebook": {
         "title": null,
-        "caption": "उत्तर अरब सागर में पाकिस्तानी नौसेना के जहाज पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को मारी टक्कर। भारत ने जताया विरोध।\n\n#IndianNavy #ArabSea #PakistanNavy #IndianWarship #DefenceNews"
+        "caption": "उत्तरी अरब सागर में पाकिस्तानी युद्धपोत पीएनएस हुनैन ने भारतीय कोलकाता क्लास डेस्ट्रॉयर को टक्कर मारी। भारत ने जताया कड़ा विरोध।\n\n##IndianNavy ##ArabSea ##PakistanNavy ##IndianWarship ##DefenceNews"
       },
       "hashtags": [
-        "IndianNavy",
-        "ArabSea",
-        "PakistanNavy",
-        "IndianWarship",
-        "DefenceNews"
+        "#IndianNavy",
+        "#ArabSea",
+        "#PakistanNavy",
+        "#IndianWarship",
+        "#DefenceNews"
       ]
     },
-    "audio_path": "audio/indian_navy_warship_pns_hunain_collision.wav",
-    "audio_duration_sec": 22.33,
-    "video_path": "videos/indian_navy_warship_pns_hunain_collision.mp4",
-    "video_duration_sec": 30.38
+    "audio_path": "audio/pakistan_naval_ship_collides_with_indian_warship.wav",
+    "audio_duration_sec": 21.18,
+    "video_path": "videos/pakistan_naval_ship_collides_with_indian_warship.mp4",
+    "video_duration_sec": 29.19
   },
   {
-    "topic_label": "guwahati_wife_decapitation_husband_suicide",
-    "virality_score": 9,
-    "reason": "The chilling Guwahati murder case involving a decapitated head in a fridge and the accused husband's dramatic death in custody has extreme shock value.",
+    "topic_label": "upi_mdr_charges_political_clash_congress_bjp",
+    "virality_score": 8,
+    "reason": "Intense political clash between BJP and Congress over UPI MDR charges and Rahul Gandhi's remarks.",
     "region": "india",
-    "headline": "पुलिस हिरासत में पहाड़ी से कूदा आरोपी पति, ऐसे उलझी गुवाहाटी की मिस्ट्री!",
-    "source_summary": "गुवाहाटी के नूनमाटी में पहले कमरे में रिया तालुकदार की सिर कटी लाश मिली और फिर फ्रिज से कटा हुआ सिर भी बरामद हो गया. इसके बाद पति रामानुजम गोस्वामी ने सरेंडर किया, लेकिन बाद में पुलिस हिरासत में पहाड़ी से गिरकर उसकी मौत हो गई. जानिए क्या है पूरा मामला?",
-    "source_url": "https://www.aajtak.in/crime/big-crime/story/guwahati-riya-talukdar-murder-case-husband-ramanujam-goswami-death-pvzs-dskc-2643999-2026-09-16?utm_source=rssfeed",
+    "headline": "UPI पर MDR चार्ज के सपोर्ट में थे चिदंबरम समेत 5 कांग्रेस सांसद, हंगामे के बीच BJP का दावा",
+    "source_summary": "2,000 रुपये से ज्यादा के UPI भुगतान पर शुल्क लगाने के फैसले को लेकर राहुल गांधी की आलोचना पर सरकारी सूत्रों और बीजेपी ने पलटवार किया है. सरकारी सूत्रों का कहना है कि वित्त मामलों की संसदीय स्थायी समिति ने चरणबद्ध MDR व्यवस्था लागू करने की सिफारिश की थी और समिति की बैठक में मौजूद कांग्रेस सांसदों ने इसका विरोध नहीं किया था.",
+    "source_url": "https://www.aajtak.in/india/news/story/upi-payment-charge-above-2000-government-congress-mps-mdr-parliamentary-panel-ntc-rlch-rpti-2644190-2026-09-16?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-16T17:42:16+05:30",
-    "hook": "गुवाहाटी में दिल दहला देने वाली वारदात, सिर कटी लाश के बाद आरोपी की मौत!",
-    "script_hi": "गुवाहाटी के नूनमाटी इलाके में एक कमरे से रिया तालुकदार की सिर कटी लाश और फ्रिज से कटा हुआ सिर बरामद हुआ। इसके बाद मृतका के पति रामानुजम गोस्वामी ने पुलिस के सामने आत्मसमर्पण कर दिया। पूछताछ के दौरान पुलिस हिरासत में आरोपी पति पहाड़ी से कूद गया, जिससे उसकी भी मौत हो गई। इस सनसनीखेज मामले की गुत्थी सुलझाने में पुलिस जुटी है।",
-    "tts_text_hi": "गुवाहाटी के नूनमाटी इलाके में एक कमरे से रिया तालुकदार की सिर कटी लाश और फ्रिज से कटा हुआ सिर बरामद हुआ। इसके बाद मृतका के पति रामानुजम गोस्वामी ने पुलिस के सामने आत्मसमर्पण कर दिया। पूछताछ के दौरान पुलिस हिरासत में आरोपी पति पहाड़ी से कूद गया, जिससे उसकी भी मौत हो गई। इस सनसनीखेज मामले की गुत्थी सुलझाने में पुलिस जुटी है।",
-    "title": "गुवाहाटी में दिल दहला देने वाली वारदात, सिर कटी लाश के बाद आरोपी की मौत",
-    "caption": "गुवाहाटी के नूनमाटी में रिया तालुकदार हत्याकांड और आरोपी पति रामानुजम गोस्वामी की पुलिस हिरासत में मौत का पूरा मामला।",
+    "published": "2026-09-16T23:47:44+05:30",
+    "hook": "यूपीआई भुगतान पर शुल्क के मुद्दे पर सियासत गरमा गई है!",
+    "script_hi": "यूपीआई भुगतान पर शुल्क लगाने के फैसले को लेकर राहुल गांधी की आलोचना पर बीजेपी ने पलटवार किया है। सरकारी सूत्रों का दावा है कि वित्त मामलों की संसदीय स्थायी समिति ने चरणबद्ध एमडीआर व्यवस्था लागू करने की सिफारिश की थी। इस बैठक में मौजूद कांग्रेस के पांच सांसदों ने इसका विरोध नहीं किया था, जिसमें पी चिदंबरम भी शामिल थे।",
+    "tts_text_hi": "यूपीआई भुगतान पर शुल्क लगाने के फैसले को लेकर राहुल गांधी की आलोचना पर बीजेपी ने पलटवार किया है। सरकारी सूत्रों का दावा है कि वित्त मामलों की संसदीय स्थायी समिति ने चरणबद्ध एमडीआर व्यवस्था लागू करने की सिफारिश की थी। इस बैठक में मौजूद कांग्रेस के पांच सांसदों ने इसका विरोध नहीं किया था, जिसमें पी चिदंबरम भी शामिल थे।",
+    "title": "यूपीआई चार्ज पर सियासत तेज",
+    "caption": "यूपीआई भुगतान पर शुल्क के मुद्दे पर राहुल गांधी और बीजेपी आमने-सामने, समिति की बैठक का दावा।",
     "hashtags": [
-      "GuwahatiNews",
-      "AssamPolice",
-      "CrimeNews",
-      "GuwahatiCrime",
-      "IndiaNews"
+      "#UPI",
+      "#RahulGandhi",
+      "#BJP",
+      "#Congress",
+      "#PChidambaram",
+      "#IndianPolitics",
+      "#News"
     ],
     "visual_queries": [
-      "Guwahati street India",
-      "police station India",
-      "police investigation India"
+      "smartphone digital payment India",
+      "parliament building India",
+      "Indian politician speaking press"
+    ],
+    "named_person": "Rahul Gandhi",
+    "named_person_hi": "राहुल गांधी",
+    "secondary_persons": [
+      "P. Chidambaram"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "राहुल गांधी",
+        "source": "fallback",
+        "query": "Rahul Gandhi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian politicians in meeting",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 25,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847883/8847883-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian politician speaking press",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 36,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone digital payment India",
+        "credit": "SHVETS production",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "UPI पर चार्ज के समर्थन में थे 5 कांग्रेसी सांसद? बीजेपी का बड़ा दावा 🚨",
+        "caption": "चिदंबरम समेत 5 कांग्रेस सांसदों ने क्या UPI पर MDR चार्ज का समर्थन किया था? 🛑\n\nसंसद से लेकर सोशल मीडिया तक इस खुलासे के बाद सियासी घमासान मच गया है। बीजेपी ने कागजी दस्तावेजों के साथ बड़ा दावा पेश किया है।\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#UPI #Congress #BJP #IndianPolitics #MDRCharge"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "UPI भुगतान पर शुल्क को लेकर छिड़ गई है नई राजनीतिक जंग! 💸\n\nचिदंबरम समेत 5 कांग्रेस सांसदों पर यूपीआई पर MDR चार्ज के समर्थन का आरोप लगा है। हंगामे के बीच बीजेपी ने क्या कुछ कहा, जानिए इस वीडियो में।\n\nशेयर करें इस वीडियो को और बताएं आपका इस पर क्या सोचना है?\n\n#UPI #Congress #BJP #IndianPolitics #MDRCharge"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या कांग्रेस नेताओं ने UPI पर चार्ज लगाने का समर्थन किया था? 📉\n\nसंसद से लेकर बयानों के बाज़ारों तक इन दिनों इसी बात की चर्चा है। पी. चिदंबरम समेत 5 सांसदों पर लगे इन आरोपों के बाद सियासत गरमा गई है और बीजेपी ने इसे लेकर मोर्चा खोल दिया है।\n\nदेखिए पूरी रिपोर्ट और जानिए क्या है इसके पीछे का पूरा सच। वीडियो को लाइक और शेयर जरूर करें।\n\n#UPI #Congress #BJP #IndianPolitics #MDRCharge"
+      },
+      "hashtags": [
+        "UPI",
+        "Congress",
+        "BJP",
+        "IndianPolitics",
+        "MDRCharge"
+      ]
+    },
+    "audio_path": "audio/upi_mdr_charges_political_clash_congress_bjp.wav",
+    "audio_duration_sec": 23.82,
+    "video_path": "videos/upi_mdr_charges_political_clash_congress_bjp.mp4",
+    "video_duration_sec": 31.86
+  },
+  {
+    "topic_label": "bulandshahr_elderly_couple_partition_four_sons",
+    "virality_score": 8,
+    "reason": "Emotional and shocking story of elderly parents getting split among four sons with mandated maintenance.",
+    "region": "india",
+    "headline": "चार बेटों के बीच मां-बाप का &#039;बंटवारा&#039;, बुजुर्ग को निर्देश- पत्नी को ₹5000 भी देना",
+    "source_summary": "बुलंदशहर के सिकंदराबाद में चार बेटों के कारण 75 वर्षीय पति और 70 वर्षीय पत्नी अलग-अलग रहने लगे. दो बेटे मां के साथ हैं तो दो पिता के साथ. पत्नी की तबीयत खराब हुई और इलाज व गुजारे के लिए पैसे की जरूरत पड़ी तो उसने पति से मदद मांगी. महिला सेल की काउंसलिंग के बाद पति ₹5000 मासिक गुजारा भत्ता देने को तैयार हुआ.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/bulandshahr-old-couple-separated-by-sons-wife-gets-5000-maintenance-after-police-counselling-lclar-strc-2644159-2026-09-16?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-16T22:58:53+05:30",
+    "hook": "बुलंदशहर में चार बेटों ने कर दिया मां-बाप का अजीब बंटवारा!",
+    "script_hi": "बुलंदशहर के सिकंदराबाद में चार बेटों के कारण पचहत्तर वर्षीय पति और सत्तर वर्षीय पत्नी अलग-अलग रहने को मजबूर हो गए हैं। दो बेटे मां के साथ हैं तो दो पिता के साथ। पत्नी की तबीयत बिगड़ने पर जब उसने मदद मांगी, तो महिला सेल की काउंसलिंग के बाद पति पांच हजार रुपये मासिक गुजारा भत्ता देने को राजी हो गया है।",
+    "tts_text_hi": "बुलंदशहर के सिकंदराबाद में चार बेटों के कारण पचहत्तर वर्षीय पति और सत्तर वर्षीय पत्नी अलग-अलग रहने को मजबूर हो गए हैं। दो बेटे मां के साथ हैं तो दो पिता के साथ। पत्नी की तबीयत बिगड़ने पर जब उसने मदद मांगी, तो महिला सेल की काउंसलिंग के बाद पति पांच हजार रुपये मासिक गुजारा भत्ता देने को राजी हो गया है।",
+    "title": "बुलंदशहर में चार बेटों के बीच मां-बाप का बंटवारा",
+    "caption": "बुलंदशहर के सिकंदराबाद में चार बेटों के कारण बुजुर्ग मां-बाप हुए अलग, महिला सेल की पहल पर पति देगा पांच हजार रुपये गुजारा भत्ता।",
+    "hashtags": [
+      "Bulandshahr",
+      "UttarPradesh",
+      "NewsUpdate",
+      "FamilyDispute",
+      "IndianNews"
+    ],
+    "visual_queries": [
+      "Uttar Pradesh city street India",
+      "Indian elderly couple sad",
+      "police station India building",
+      "Indian family dispute counseling"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -149,61 +357,60 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6975849/6975849-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "forensic crime lab India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "elderly couple arguing India",
+        "credit": "T Leish",
+        "source_duration_sec": 95,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/2282036/pexels-photo-2282036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18887175/pexels-photo-18887175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Guwahati street India",
-        "credit": "Joydeep Dey",
-        "duration_sec": 3.6
+        "query": "Uttar Pradesh city street India",
+        "credit": "Mustang Dinesh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6603345/pexels-photo-6603345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "family dispute india",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police station India",
+        "query": "police station India building",
         "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30607807/pexels-photo-30607807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 3.6
+        "query": "elderly couple argument India",
+        "credit": "Divyam Arora",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7544918/pexels-photo-7544918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police custody handcuffs India",
-        "credit": "Kindel Media",
-        "duration_sec": 3.6
+        "query": "elderly couple argument",
+        "credit": "SHVETS production",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6077328/pexels-photo-6077328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6975208/pexels-photo-6975208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "courtroom legal trial India",
-        "credit": "KATRIN  BOLOVTSOVA",
-        "duration_sec": 3.6
+        "query": "stressed old couple home",
+        "credit": "T Leish",
+        "duration_sec": 4.0
       }
     ],
     "asset_count": 7,
@@ -211,370 +418,60 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पुलिस हिरासत से पहाड़ी से कूदा आरोपी! गुवाहाटी मर्डर मिस्ट्री में नया मोड़ 😱",
-        "caption": "पुलिस हिरासत से भागने की कोशिश में पहाड़ी से कूदा आरोपी, गुवाहाटी मर्डर मिस्ट्री में उलझती जा रही है हर एक कड़ी। 🚨\n\nपत्नी की सिर कटी लाश मिलने के बाद मुख्य आरोपी अमरज्योति देई को पुलिस गिरफ्तार कर जांच के लिए ले जा रही थी, तभी उसने ऐसा कदम उठाया जिसने सबको सन्न कर दिया।\n\nपूरी कहानी देखें और बताएं, क्या यह महज हादसा था या कुछ और? 🔍\n\n#GuwahatiNews #CrimeNews #AssamPolice #CrimeMystery #BreakingNews"
+        "title": "चार बेटों ने किया मां-बाप का 'बंटवारा'! 🤯",
+        "caption": "चार बेटों ने कर दिया मां-बाप का अजीब बंटवारा! 🛑\n\nबुलंदशहर से एक ऐसा मामला सामने आया है जिसे सुनकर हर कोई हैरान है। कोर्ट के समझौते के तहत बुजुर्ग पिता एक बेटे के पास रहेंगे और मां को हर महीने 5000 रुपये खर्च देना होगा।\n\nआपकी इस फैसले पर क्या राय है? पूरी कहानी देखें।\n\n#BulandshahrNews #ParentalDivision #SocialIssue #UttarPradesh #FamilyDispute"
       },
       "instagram": {
         "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🤯\n\nगुवाहाटी में पत्नी की हत्या के बाद पुलिस हिरासत से पहाड़ी से कूदकर भागने की कोशिश करने वाले आरोपी की मौत ने इस मिस्ट्री को और उलझा दिया है।\n\nक्या इसके पीछे कोई बड़ा राज़ छिपा है? कमेंट में अपनी राय बताएं और पूरी कहानी देखें। 👇\n\n#GuwahatiNews #CrimeNews #AssamPolice #CrimeMystery #BreakingNews"
+        "caption": "चार बेटों ने कर दिया मां-बाप का अजीब बंटवारा! 🤯\n\nबुलंदशहर में चारों बेटों ने मिलकर मां-बाप को ही आपस में बांट लिया। समझौते के मुताबिक पिता एक बेटे के पास रहेंगे और मां को हर महीने 5000 रुपये गुजारा भत्ता मिलेगा।\n\nवीडियो शेयर करें और बताएं ऐसे बेटों पर क्या कार्रवाई होनी चाहिए?\n\n#BulandshahrNews #ParentalDivision #SocialIssue #UttarPradesh #FamilyDispute"
       },
       "facebook": {
         "title": null,
-        "caption": "गुवाहाटी मर्डर मिस्ट्री में एक और दिल दहला देने वाला मोड़ सामने आया है। 🚨\n\nपत्नी की सिर कटी लाश मिलने के बाद मुख्य आरोपी अमरज्योति देई को पुलिस क्राइम सीन रीक्रिएट करने ले गई थी। पुलिस हिरासत में ही उसने पहाड़ी से छलांग लगा दी, जिससे उसकी भी मौत हो गई। अब इस खौफनाक मामले के राज़ किसके साथ दफन हो गए हैं?\n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#GuwahatiNews #CrimeNews #AssamPolice #CrimeMystery #BreakingNews"
+        "caption": "चार बेटों ने कर दिया मां-बाप का अजीब बंटवारा! 🛑\n\nबुलंदशहर में एक हैरान करने वाला मामला सामने आया है जहां चार बेटों ने मिलकर अपने ही मां-बाप को अलग-अलग बांट लिया। समझौते के तहत बुजुर्ग पिता एक बेटे के साथ रहेंगे, जबकि मां को खर्च के लिए हर महीने 5000 रुपये दिए जाएंगे। \n\nआज के समय में ऐसी اولاد देखकर आपका क्या सोचना है? पूरी कहानी वीडियो में देखें और अपनी राय साझा करें।\n\n#BulandshahrNews #ParentalDivision #SocialIssue #UttarPradesh #FamilyDispute"
       },
       "hashtags": [
-        "GuwahatiNews",
-        "CrimeNews",
-        "AssamPolice",
-        "CrimeMystery",
-        "BreakingNews"
+        "BulandshahrNews",
+        "ParentalDivision",
+        "SocialIssue",
+        "UttarPradesh",
+        "FamilyDispute"
       ]
     },
-    "audio_path": "audio/guwahati_wife_decapitation_husband_suicide.wav",
-    "audio_duration_sec": 25.43,
-    "video_path": "videos/guwahati_wife_decapitation_husband_suicide.mp4",
-    "video_duration_sec": 33.39
+    "audio_path": "audio/bulandshahr_elderly_couple_partition_four_sons.wav",
+    "audio_duration_sec": 22.45,
+    "video_path": "videos/bulandshahr_elderly_couple_partition_four_sons.mp4",
+    "video_duration_sec": 30.5
   },
   {
-    "topic_label": "epfo_wage_limit_hike_25000",
+    "topic_label": "tamil_nadu_cm_vijay_deepfake_video_arrest",
     "virality_score": 8,
-    "reason": "Raising the EPFO mandatory wage ceiling to 25,000 impacts millions of salaried employees and formal workers.",
+    "reason": "AI deepfake fraud case involving Tamil Nadu CM Vijay leading to an arrest in Rajasthan.",
     "region": "india",
-    "headline": "PF पेंशन की सैलरी लिमिट बढ़ी, ₹25,000 तक वालों पर असर?",
-    "source_summary": "केंद्रीय कैबिनेट ने EPFO की अनिवार्य वेतन सीमा ₹15,000 से बढ़ाकर ₹25,000 प्रति माह करने को मंजूरी दी है. 17 सितंबर 2026 से लागू होने वाले इस फैसले से 51 लाख से अधिक अतिरिक्त कर्मचारी EPF और EPS के दायरे में आ सकते हैं. वीडियो में जानें सैलरी पर क्या असर पड़ेगा.",
-    "source_url": "https://www.aajtak.in/short-videos/video/epfo-wage-ceiling-25000-pf-pension-eps-india-employment-salary-details-mmtm-2643951-2026-09-16?utm_source=rssfeed",
+    "headline": "CM विजय का फर्जी VIDEO बनाकर लोगों को लगाया चूना, आरोपी गिरफ्तार",
+    "source_summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय का AI से तैयार डीपफेक वीडियो बनाकर लोगों से आर्थिक मदद के नाम पर ठगी करने के मामले में राजस्थान के अलवर से आरोपी गिरफ्तार हुआ है. तमिलनाडु क्राइम ब्रांच-CID की जांच में डिजिटल सुरागों के जरिए पुलिस लक्ष्मणगढ़ पहुंची. आरोपी के मोबाइल से कथित तौर पर डीपफेक वीडियो और ठगी से जुड़े सबूत मिले हैं.",
+    "source_url": "https://www.aajtak.in/rajasthan/story/tamil-nadu-cm-vijay-deepfake-video-scam-alwar-accused-arrested-lclcn-strc-2644189-2026-09-16?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-16T17:05:17+05:30",
-    "hook": "पीएफ पेंशन पाने वालों के लिए बहुत बड़ी खुशखबरी आई है!",
-    "script_hi": "केंद्रीय कैबिनेट ने ईपीएफओ की अनिवार्य वेतन सीमा पंद्रह हजार से बढ़ाकर पच्चीस हजार रुपए प्रति माह करने को मंजूरी दे दी है। सत्रह सितंबर दो हजार छब्बीस से लागू होने वाले इस फैसले से इकसठ लाख से अधिक अतिरिक्त कर्मचारी ईपीएफ और ईपीएस के दायरे में आ जाएंगे।",
-    "tts_text_hi": "केंद्रीय कैबिनेट ने ईपीएफओ की अनिवार्य वेतन सीमा पंद्रह हजार से बढ़ाकर पच्चीस हजार रुपए प्रति माह करने को मंजूरी दे दी है। सत्रह सितंबर दो हजार छब्बीस से लागू होने वाले इस फैसले से इकसठ लाख से अधिक अतिरिक्त कर्मचारी ईपीएफ और ईपीएस के दायरे में आ जाएंगे।",
-    "title": "पीएफ पेंशन की सैलरी लिमिट बढ़ी",
-    "caption": "केंद्रीय कैबिनेट ने EPFO की अनिवार्य वेतन सीमा ₹15,000 से बढ़ाकर ₹25,000 प्रति माह करने को मंजूरी दी है.",
+    "published": "2026-09-16T23:46:22+05:30",
+    "hook": "तमिलनाडु के मुख्यमंत्री का एआई डीपफेक वीडियो बनाकर करोड़ों की ठगी!",
+    "script_hi": "तमिलनाडु के मुख्यमंत्री सी जोसेफ विजय का ए आई से तैयार डीपफेक वीडियो बनाकर लोगों से ठगी करने वाले आरोपी को राजस्थान के अलवर से गिरफ्तार कर लिया गया है। तमिलनाडु क्राइम ब्रांच सी आई डी की जांच में डिजिटल सुराग मिले, जिसके बाद पुलिस ने लक्ष्मणगढ़ में दबिश दी। आरोपी के मोबाइल से डीपफेक वीडियो और ठगी के कई सबूत बरामद हुए हैं।",
+    "tts_text_hi": "तमिलनाडु के मुख्यमंत्री सी जोसेफ विजय का ए आई से तैयार डीपफेक वीडियो बनाकर लोगों से ठगी करने वाले आरोपी को राजस्थान के अलवर से गिरफ्तार कर लिया गया है। तमिलनाडु क्राइम ब्रांच सी आई डी की जांच में डिजिटल सुराग मिले, जिसके बाद पुलिस ने लक्ष्मणगढ़ में दबिश दी। आरोपी के मोबाइल से डीपफेक वीडियो और ठगी के कई सबूत बरामद हुए हैं।",
+    "title": "CM विजय का फर्जी वीडियो बना ठगी, आरोपी गिरफ्तार",
+    "caption": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय का डीपफेक वीडियो बनाकर ठगी करने वाला अलवर से गिरफ्तार।",
     "hashtags": [
-      "#EPFO",
-      "#PFPension",
-      "#ModiCabinet",
-      "#IndianEconomy",
-      "#SalaryHike",
-      "#News"
+      "#Deepfake",
+      "#TamilNaduCM",
+      "#AlwarPolice",
+      "#CyberCrime",
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "Indian Parliament building New Delhi",
-      "Indian office workers corporate India",
-      "Indian currency rupees notes India"
+      "artificial intelligence deepfake technology India",
+      "police investigation India office",
+      "Rajasthan police station India",
+      "mobile phone digital evidence India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7687957/7687957-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "salaried Indian office workers",
-        "credit": "Kindel Media",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34829282/14764439_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "calculating salary expenses India",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31786661/pexels-photo-31786661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian office workers corporate India",
-        "credit": "Fahad Puthawala",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8139402/pexels-photo-8139402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian currency rupees notes India",
-        "credit": "DEV ROY",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7581046/pexels-photo-7581046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian salaried employee working",
-        "credit": "RDNE Stock project",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18495291/pexels-photo-18495291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "corporate office desk India",
-        "credit": "Soulkid Photography",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14907453/pexels-photo-14907453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian bank financial planning",
-        "credit": "Ravi Roshan",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "PF पेंशन की सैलरी लिमिट बढ़ी! अब ₹25,000 तक वालों को मिलेगा फायदा? 🚨",
-        "caption": "क्या आपकी सैलरी भी बढ़ गई है और PF पेंशन का दायरा बदलने वाला है? 💸\n\nसरकार ने एंप्लॉयी प्रोविडेंट फंड की वेतन सीमा बढ़ाने पर बड़ा फैसला लिया है। इससे करोड़ों कर्मचारियों की पेंशन और कंट्रीब्यूशन पर सीधा असर पड़ेगा।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#PFPension #EmployeeProvidentFund #SalaryLimitUpdate #PFNews #Pensions"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "₹25,000 सैलरी वालों की मौज या चिंता? PF पेंशन के नियमों में होने जा रहा है बड़ा बदलाव! 📉📈\n\nअगर आपका पीएफ कटता है, तो यह नया अपडेट आपके लिए जानना बेहद जरूरी है। जानिए किसे मिलेगा इसका असली फायदा।\n\nक्या आपको लगता है यह बदलाव सही है? कमेंट में बताएं! 👇\n\n#PFPension #EmployeeProvidentFund #SalaryLimitUpdate #PFNews #Pensions"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नौकरीपेशा लोगों के लिए बहुत बड़ी खबर सामने आई है! PF पेंशन की सैलरी लिमिट बढ़ाने को लेकर चर्चा तेज हो गई है और अगर आपकी सैलरी ₹25,000 तक है, तो यह बदलाव आपकी जेब पर सीधा असर डालेगा।\n\nआखिर इस नए नियम से किसे फायदा होगा और किसका नुकसान? वीडियो में देखिए पूरी डीटेल।\n\nपूरी कहानी देखें और अपने साथियों के साथ जरूर शेयर करें।\n\n#PFPension #EmployeeProvidentFund #SalaryLimitUpdate #PFNews #Pensions"
-      },
-      "hashtags": [
-        "PFPension",
-        "EmployeeProvidentFund",
-        "SalaryLimitUpdate",
-        "PFNews",
-        "Pensions"
-      ]
-    },
-    "audio_path": "audio/epfo_wage_limit_hike_25000.wav",
-    "audio_duration_sec": 18.98,
-    "video_path": "videos/epfo_wage_limit_hike_25000.mp4",
-    "video_duration_sec": 26.96
-  },
-  {
-    "topic_label": "lucknow_ex_girlfriend_car_dragging_case",
-    "virality_score": 8,
-    "reason": "A viral hit-and-run and alleged identity concealment case in Lucknow featuring dramatic footage has high local crime outrage potential.",
-    "region": "india",
-    "headline": "&#039;मरूंगी नहीं...&#039;, च‍ीखती रही लड़की, कार से कुचलकर भागा आरोपी; Video",
-    "source_summary": "लखनऊ में जनेश्वर मिश्र पार्क के सामने युवती को कार से टक्कर मारने का मामला सामने आया है. इस घटना का वीडियो वायरल हो रहा है. युवती को टक्कर मारकर कार सवार फरार हो गया. आरोप है कि पहचान छिपाकर मुस्लिम युवक शाहनवाज ने हिंदू बनकर प्रेमजाल फंसाया और इस वारदात को अंजाम दिया. जब लड़की को इसकी सच्चाई पता चली तो वो आरोपी से बात करना चाहती थी. लेकिन आरोपी ने उसे कार से रौंद दिया. वीडियो वायरल होने के बाद पुलिस जांच में जुटी है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/video/lucknow-muslim-man-shahnawaz-ran-girl-over-with-his-car-viral-video-vdoj-2643938-2026-09-16?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-16T16:33:37+05:30",
-    "hook": "लखनऊ में प्यार का खौफनाक अंत! युवती को कार से कुचला!",
-    "script_hi": "लखनऊ के जनेश्वर मिश्र पार्क के सामने एक युवती को कार से टक्कर मारने का सनसनीखेज मामला सामने आया है। आरोप है कि शाहनवाज नामक युवक ने हिंदू बनकर युवती को प्रेम जाल में फंसाया। सच्चाई सामने आने पर जब युवती ने बात करनी चाही, तो आरोपी ने उसे कार से रौंद दिया और फरार हो गया। पुलिस मामले की जांच में जुटी है।",
-    "tts_text_hi": "लखनऊ के जनेश्वर मिश्र पार्क के सामने एक युवती को कार से टक्कर मारने का सनसनीखेज मामला सामने आया है। आरोप है कि शाहनवाज नामक युवक ने हिंदू बनकर युवती को प्रेम जाल में फंसाया। सच्चाई सामने आने पर जब युवती ने बात करनी चाही, तो आरोपी ने उसे कार से रौंद दिया और फरार हो गया। पुलिस मामले की जांच में जुटी है।",
-    "title": "लखनऊ में कार से कुचलकर युवती की हत्या की कोशिश, वीडियो वायरल",
-    "caption": "लखनऊ के जनेश्वर मिश्र पार्क के पास युवती को कार से कुचलने का मामला सामने आया है। आरोपी पर पहचान छिपाकर धोखा देने और जान से मारने की कोशिश का आरोप है।",
-    "hashtags": [
-      "LucknowNews",
-      "CrimeNews",
-      "UttarPradesh",
-      "ViralVideo",
-      "PoliceInvestigation",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India city park street",
-      "police investigation India",
-      "car accident street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves communal allegations and a specific viral video of the incident which requires the real footage rather than generic stock B-roll.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34759745/14736138_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "car accident street India",
-        "credit": "Raaj Ugar",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36867768/pexels-photo-36867768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India city park street",
-        "credit": "Anurag Kothare",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 17,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ccpa_fines_rapido_dark_patterns",
-    "virality_score": 7,
-    "reason": "CCPA penalizing Rapido over Rs 10 lakh for dark patterns and tip prompts relates directly to everyday ride-hailing users.",
-    "region": "india",
-    "headline": "ज्यादा पैसे दो वरना नहीं मिलेगी राइड! रैपिडो ऐप पर लगा 10 लाख का जुर्माना",
-    "source_summary": "CCPA ने रैपिडो चलाने वाली कंपनी रोप्पेन ट्रांसपोर्टेशन पर डार्क पैटर्न और भ्रामक टिपिंग प्रॉम्प्ट के लिए 10 लाख रुपये का जुर्माना लगाया है. जांच में पता चला कि ऐप पर यात्रियों को बुकिंग के दौरान ज्यादा पैसे देने के लिए मानसिक दबाव डाला जाता था, जिसे \"कन्फर्म शेमिंग\" कहा गया.",
-    "source_url": "https://www.aajtak.in/auto/news/story/rapido-fined-10-lakh-ccpa-dark-pattern-confirm-shaming-tipping-set-your-price-ntc-agkp-rpti-2643517-2026-09-16?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-16T07:24:26+05:30",
-    "hook": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज!",
-    "script_hi": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज! केंद्रीय उपभोक्ता संरक्षण प्राधिकरण यानी सीसीपीए ने रैपिडो की मूल कंपनी रोप्पेन ट्रांसपोर्टेशन पर दस लाख रुपये का जुर्माना ठोका है। जांच में सामने आया कि ऐप यात्रियों को बुकिंग के दौरान ज्यादा पैसे देने के लिए मानसिक दबाव डालता था, जिसे कन्फर्म शेमिंग कहा जाता है।",
-    "tts_text_hi": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज! केंद्रीय उपभोक्ता संरक्षण प्राधिकरण यानी सीसीपीए ने रैपिडो की मूल कंपनी रोप्पेन ट्रांसपोर्टेशन पर दस लाख रुपये का जुर्माना ठोका है। जांच में सामने आया कि ऐप यात्रियों को बुकिंग के दौरान ज्यादा पैसे देने के लिए मानसिक दबाव डालता था, जिसे कन्फर्म शेमिंग कहा जाता है।",
-    "title": "रैपिडो पर दस लाख का जुर्माना",
-    "caption": "बुकिंग के दौरान ज्यादा पैसे मांगने और कन्फर्म शेमिंग के मामले में सीसीपीए ने रैपिडो पर दस लाख रुपये का जुर्माना लगाया है।",
-    "hashtags": [
-      "#Rapido",
-      "#CCPA",
-      "#ConsumerRights",
-      "#NewsIndia",
-      "#BusinessNews",
-      "#TrendingNews"
-    ],
-    "visual_queries": [
-      "mobile phone app India",
-      "online ride booking India",
-      "consumer court India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/4612796/4612796-hd_720_1366_50fps.mp4",
-        "source": "pexels",
-        "query": "ride sharing app smartphone",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 37,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8204031/pexels-photo-8204031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mobile phone app India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6559393/pexels-photo-6559393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "online ride booking India",
-        "credit": "Rizwan Patel",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person using smartphone india",
-        "credit": "Kewal Nagda",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7580845/pexels-photo-7580845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry customer service call",
-        "credit": "RDNE Stock project",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7621358/pexels-photo-7621358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "digital payment app screen",
-        "credit": "Ivan S",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "business penalty office desk",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "रैपिडो पर 10 लाख का जुर्माना! ज्यादा पैसे मांगने पर हुई बड़ी कार्रवाई 🛑",
-        "caption": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज! 🛑\n\nकम पैसे में बाइक राइड बुक कराने के बाद ज्यादा रुपयों की डिमांड करने पर रैपिडो कंपनी पर 10 लाख रुपये का तगड़ा जुर्माना लगाया गया है। मनमाने किराए वसूलने की इस शिकायत पर आखिरकार प्रशासन ने कड़ा एक्शन ले लिया है।\n\nक्या आपके साथ भी कभी ऐसा हुआ है? कमेंट में बताएं और पूरी सच्चाई जानने के लिए वीडियो देखें।\n\n#Rapido #ConsumerRights #BikeTaxi #ViralNews #IndiaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज! 🛑\n\nबुक की गई राइड के बाद ज्यादा पैसों की डिमांड करने वाली रैपिडो कंपनी पर 10 लाख का जुर्माना ठोका गया है। \n\nपूरी कहानी जानिए इस वीडियो में। शेयर करें उनके साथ जो रोज बाइक टैक्सी इस्तेमाल करते हैं।\n\n#Rapido #ConsumerRights #BikeTaxi #ViralNews #IndiaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ज्यादा पैसे दो वरना राइड कैंसिल! रैपिडो पर गिर गई भारी गाज! 🛑\n\nअक्सर बाइक टैक्सी बुक करने के बाद पैसेंजर्स को ड्राइवर की तरफ से ज्यादा रुपयों की डिमांड का सामना करना पड़ता है। इसी मनमानी के खिलाफ बड़ा एक्शन लेते हुए रैपिडो पर 10 लाख रुपये का जुर्माना लगाया गया है। \n\nक्या आपको लगता है कि इस तरह के एक्शन से राइड शेयरिंग ऐप्स में सुधार आएगा? अपनी राय नीचे कमेंट्स में जरूर साझा करें और वीडियो पूरा देखें।\n\n#Rapido #ConsumerRights #BikeTaxi #ViralNews #IndiaNews"
-      },
-      "hashtags": [
-        "Rapido",
-        "ConsumerRights",
-        "BikeTaxi",
-        "ViralNews",
-        "IndiaNews"
-      ]
-    },
-    "audio_path": "audio/ccpa_fines_rapido_dark_patterns.wav",
-    "audio_duration_sec": 23.55,
-    "video_path": "videos/ccpa_fines_rapido_dark_patterns.mp4",
-    "video_duration_sec": 31.59
-  },
-  {
-    "topic_label": "eu_offers_canada_associate_membership_global",
-    "virality_score": 7,
-    "reason": "The EU offering Canada associate membership amid trade tensions with the US is a major global geopolitical development.",
-    "region": "global",
-    "headline": "EU chief backs plan for Canada to become 'associate member'",
-    "source_summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-    "source_url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Wed, 16 Sep 2026 12:36:51 GMT",
-    "hook": "अमेरिका से तनातनी के बाद क्या कनाडा अब यूरोपीय संघ का हिस्सा बनेगा",
-    "script_hi": "अमेरिका और राष्ट्रपति डॉनल्ड ट्रंप के साथ रिश्तों में आई खटास के बाद कनाडा अब यूरोपीय संघ के करीब जाने की कोशिश कर रहा है। यूरोपीय संघ की प्रमुख ने कनाडा को एसोसिएट मेंबर बनाने के प्लान का समर्थन किया है।",
-    "tts_text_hi": "अमेरिका और राष्ट्रपति डॉनल्ड ट्रंप के साथ रिश्तों में आई खटास के बाद कनाडा अब यूरोपीय संघ के करीब जाने की कोशिश कर रहा है। यूरोपीय संघ की प्रमुख ने कनाडा को एसोसिएट मेंबर बनाने के प्लान का समर्थन किया है।",
-    "title": "कनाडा और यूरोपीय संघ की नजदीकी",
-    "caption": "अमेरिका से तनातनी के बीच कनाडा और यूरोपीय संघ आ रहे हैं करीब, जानिए पूरी खबर।",
-    "hashtags": [
-      "Canada",
-      "EuropeanUnion",
-      "DonaldTrump",
-      "WorldNews",
-      "GlobalPolitics"
-    ],
-    "visual_queries": [
-      "Canadian flag Canada",
-      "European Union flag",
-      "political meeting room"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डॉनल्ड ट्रंप",
+    "named_person": "Vijay",
+    "named_person_hi": "विजय",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -582,63 +479,293 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "डॉनल्ड ट्रंप",
+        "text": "विजय",
         "source": "fallback",
-        "query": "Donald Trump",
+        "query": "Vijay",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7144750/pexels-photo-7144750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8295025/pexels-photo-8295025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Canadian flag Canada",
-        "credit": "Hanna Pad",
+        "query": "artificial intelligence deepfake technology India",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15871440/pexels-photo-15871440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "European Union flag",
-        "credit": "Viktorya  Sergeeva 🫂",
+        "query": "police investigation India office",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8847142/pexels-photo-8847142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11662759/pexels-photo-11662759.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "political meeting room",
-        "credit": "Mikhail Nilov",
+        "query": "Rajasthan police station India",
+        "credit": "Madvortex",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16632926/pexels-photo-16632926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile phone digital evidence India",
+        "credit": "Umang & Meet",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "तमिलनाडु के CM विजय का डीपफेक वीडियो बना करोड़ों की ठगी! 🚨",
+        "caption": "तमिलनाडु के मुख्यमंत्री का एआई डीपफेक वीडियो बनाकर करोड़ों की ठगी! 🛑\n\nसाउथ सुपरस्टार और सीएम विजय का चेहरा इस्तेमाल कर साइबर ठगों ने ऐसा जाल बिछाया कि अच्छे-अच्छे चकमा खा गए। पुलिस ने मुख्य आरोपी को दबोच लिया है और पूछताछ में बड़े खुलासे हुए हैं।\n\nपूरी कहानी देखें और शेयर करें ताकि दूसरे लोग भी सतर्क रहें!\n\n#DeepfakeScam #TamilNaduCM #CyberCrime #VijayNews #TechFraud"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "तमिलनाडु के मुख्यमंत्री का एआई डीपफेक वीडियो बनाकर करोड़ों की ठगी! 🛑\n\nआरोपी ने तकनीक का गलत इस्तेमाल कर ऐसा फर्जी वीडियो बनाया कि लोग असली और नकली में फर्क ही नहीं कर पाए।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#DeepfakeScam #TamilNaduCM #CyberCrime #VijayNews #TechFraud"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "तमिलनाडु के मुख्यमंत्री का एआई डीपफेक वीडियो बनाकर करोड़ों की ठगी! 🛑\n\nसाइबर ठगों ने तकनीक का ऐसा खतरनाक इस्तेमाल किया कि सीएम विजय का हूबहू फर्जी वीडियो बनाकर लोगों को चूना लगा दिया। जब पुलिस ने मामले की तह तक जाकर छापा मारा, तो होश उड़ गए। \n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#DeepfakeScam #TamilNaduCM #CyberCrime #VijayNews #TechFraud"
+      },
+      "hashtags": [
+        "DeepfakeScam",
+        "TamilNaduCM",
+        "CyberCrime",
+        "VijayNews",
+        "TechFraud"
+      ]
+    },
+    "audio_path": "audio/tamil_nadu_cm_vijay_deepfake_video_arrest.wav",
+    "audio_duration_sec": 23.55,
+    "video_path": "videos/tamil_nadu_cm_vijay_deepfake_video_arrest.mp4",
+    "video_duration_sec": 31.59
+  },
+  {
+    "topic_label": "epfo_wage_limit_increase_to_25000",
+    "virality_score": 8,
+    "reason": "Major government policy update raising the mandatory EPFO wage ceiling from 15,000 to 25,000 rupees.",
+    "region": "india",
+    "headline": "PF पेंशन पर सरकार का बड़ा ऐलान, 15000 से ₹25000 हुई सैलरी लिमिट",
+    "source_summary": "सरकार ने पीएफ पेंशन को लेकर बड़ा ऐलान किया है.  अब पीएफ पेंशन कटौती की अनिवार्य सैलरी लिमिट को बढ़ाकर 25,000 रुपये कर दिया गया है, जबकि पहले 15000 रुपये थी.",
+    "source_url": "https://www.aajtak.in/business/news/story/cabinet-big-decision-eps-pf-pension-mandatory-coverage-ceiling-hike-tutd-dskc-2643869-2026-09-16?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-16T15:26:29+05:30",
+    "hook": "पीएफ पेंशनर्स के लिए बड़ी खुशखबरी आई है!",
+    "script_hi": "पीएफ पेंशन पर सरकार ने बड़ा ऐलान किया है। अब पीएफ पेंशन कटौती की अनिवार्य सैलरी लिमिट पंद्रह हजार रुपये से बढ़ाकर पच्चीस हजार रुपये कर दी गई है। इस बदलाव से देश के लाखों कर्मचारियों को सीधा फायदा मिलने की उम्मीद है।",
+    "tts_text_hi": "पीएफ पेंशन पर सरकार ने बड़ा ऐलान किया है। अब पीएफ पेंशन कटौती की अनिवार्य सैलरी लिमिट पंद्रह हजार रुपये से बढ़ाकर पच्चीस हजार रुपये कर दी गई है। इस बदलाव से देश के लाखों कर्मचारियों को सीधा फायदा मिलने की उम्मीद है।",
+    "title": "PF Pension Salary Limit Increased",
+    "caption": "कर्मचारियों के लिए बड़ी राहत! पीएफ पेंशन की सैलरी लिमिट अब पंद्रह हजार से बढ़कर पच्चीस हजार रुपये हुई।",
+    "hashtags": [
+      "PFPension",
+      "EmployeeNews",
+      "GovernmentUpdate",
+      "IndiaNews",
+      "PensionLimit",
+      "BusinessNews"
+    ],
+    "visual_queries": [
+      "Indian office worker smiling India",
+      "Indian currency bank notes India",
+      "happy Indian employees office India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "government office India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34993441/14825522_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "bank employee counting cash",
+        "credit": "Jakub Zerdzicki",
+        "source_duration_sec": 26,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34685880/pexels-photo-34685880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian office worker smiling India",
+        "credit": "Pete Miller Portraits",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4246844/pexels-photo-4246844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian currency bank notes India",
+        "credit": "Subhankar  kumar Mahato",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31786665/pexels-photo-31786665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy Indian employees office India",
+        "credit": "Fahad Puthawala",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12911260/pexels-photo-12911260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "salaried employee working office",
+        "credit": "Mizuno K",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/23990941/pexels-photo-23990941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "office worker desk india",
+        "credit": "Muhammed Kens",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पीएफ पेंशनर्स की मौज! ₹15,000 से बढ़कर हुई सैलरी लिमिट 🚨",
+        "caption": "आखिरकार सालों का इंतजार खत्म, ₹15,000 से बढ़ाकर हुई सैलरी लिमिट! 💰\n\nसरकार ने ईपीएफओ पेंशनर्स के लिए बहुत बड़ा ऐलान किया है। अब सैलरी लिमिट ₹15,000 से बढ़ाकर ₹25,000 किए जाने का रास्ता साफ हो गया है, जिससे लाखों कर्मचारियों की पेंशन में सीधा इजाफा होगा। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और कमेंट में बताएं कि इस फैसले से आपको कितना फायदा होगा।\n\n#PFPension #EPFO #EmployeeNews #PensionLimit #GovernmentUpdate"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "आखिरकार सालों का इंतजार खत्म, ₹15,000 से बढ़कर हुई सैलरी लिमिट! 💰\n\nसरकार ने ईपीएफओ पेंशनर्स के लिए बहुत बड़ा ऐलान किया है। नई लिमिट लागू होने से अब करोड़ों कर्मचारियों की मंथली पेंशन और पीएफ कंट्रीब्यूशन दोनों में बड़ा बदलाव आएगा। \n\nअपने किसी जॉब करने वाले दोस्त के साथ जरूर शेयर करें यह काम की खबर!\n\n#PFPension #EPFO #EmployeeNews #PensionLimit #GovernmentUpdate"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "नौकरीपेशा लोगों के लिए बहुत बड़ी राहत की खबर सामने आई है। सरकार ने पीएफ पेंशन के लिए सैलरी लिमिट ₹15,000 से बढ़ाकर ₹25,000 करने का बड़ा फैसला ले लिया है। 💸\n\nसालों से अ अटकी इस मांग के पूरे होने से अब देश के लाखों पीएफ खाताधारकों और पेंशनर्स की रिटायरमेंट सेविंग्स पर सीधा असर पड़ेगा। किस-किस को मिलेगा इसका फायदा? आइए जानते हैं पूरी डिटेल।\n\n#PFPension #EPFO #EmployeeNews #PensionLimit #GovernmentUpdate"
+      },
+      "hashtags": [
+        "PFPension",
+        "EPFO",
+        "EmployeeNews",
+        "PensionLimit",
+        "GovernmentUpdate"
+      ]
+    },
+    "audio_path": "audio/epfo_wage_limit_increase_to_25000.wav",
+    "audio_duration_sec": 15.46,
+    "video_path": "videos/epfo_wage_limit_increase_to_25000.mp4",
+    "video_duration_sec": 23.39
+  },
+  {
+    "topic_label": "mgnrega_worker_daughter_sridhanya_suresh_ias",
+    "virality_score": 7,
+    "reason": "Inspiring success story of a MGNREGA worker's daughter becoming a district collector and tribal IAS officer.",
+    "region": "india",
+    "headline": "IAS श्रीधन्या सुरेश: मनरेगा मजदूर की बेटी बनीं कलेक्टर, 40 हजार उधार ले UPSC इंटरव्‍यू देने दिल्ली पहुंचीं",
+    "source_summary": "IAS श्रीधन्या सुरेश कासरगोड के जिला कलेक्टर और जिला मजिस्ट्रेट पद का पदभार संभाला है. मनरेगा मजदूर की बेटी से केरल की पहली आदिवासी महिला आईएएस बनने वालीं श्रीधन्या सुरेश की सक्‍सेस स्‍टोरी यहां जान‍िए.",
+    "source_url": "https://ndtv.in/education/ias-sreedhanya-suresh-district-collector-kasaragod-kerala-upsc-success-story-12056521#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 16 Sep 2026 23:57:58 +0530",
+    "hook": "मनरेगा मजदूर की बेटी बनीं देश की प्रेरणादायक आईएएस!",
+    "script_hi": "मनरेगा मजदूर की बेटी श्रीधन्या सुरेश ने केरल के कासरगोड जिले की कलेक्टर और जिला मजिस्ट्रेट के रूप में पदभार संभाल लिया है। कभी चालीस हजार रुपये उधार लेकर वे यूपीएससी इंटरव्यू देने दिल्ली पहुंची थीं। उनकी यह संघर्ष भरी सफलता की कहानी हर युवा के लिए मिसाल है।",
+    "tts_text_hi": "मनरेगा मजदूर की बेटी श्रीधन्या सुरेश ने केरल के कासरगोड जिले की कलेक्टर और जिला मजिस्ट्रेट के रूप में पदभार संभाल लिया है। कभी चालीस हजार रुपये उधार लेकर वे यूपीएससी इंटरव्यू देने दिल्ली पहुंची थीं। उनकी यह संघर्ष भरी सफलता की कहानी हर युवा के लिए मिसाल है।",
+    "title": "मनरेगा मजदूर की बेटी बनीं IAS",
+    "caption": "मनरेगा मजदूर की बेटी श्रीधन्या सुरेश ने संभाला कासरगोड के जिला कलेक्टर का पदभार। जानिये उनकी संघर्ष और प्रेरणा से भरी सफलता की कहानी।",
+    "hashtags": [
+      "#IAS",
+      "#SreedhanyaSuresh",
+      "#UPSC",
+      "#SuccessStory",
+      "#Inspiration",
+      "#KeralaNews",
+      "#IndianCivilServices"
+    ],
+    "visual_queries": [
+      "Indian woman civil servant India",
+      "government office building India",
+      "proud Indian student studying India"
+    ],
+    "named_person": "Sreedhanya Suresh",
+    "named_person_hi": "श्रीधन्या सुरेश",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "श्रीधन्या सुरेश",
+        "source": "fallback",
+        "query": "Sreedhanya Suresh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34625622/14674373_720_1238_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian woman civil servant India",
+        "credit": "Michael Takahashi",
+        "source_duration_sec": 5,
+        "duration_sec": 5
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "government office building India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15092993/pexels-photo-15092993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "proud Indian student studying India",
+        "credit": "Uddab Bogati",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "timeline_covered_sec": 20.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका से तनातनी के बाद क्या EU का हिस्सा बनेगा कनाडा? 🇪🇺",
-        "caption": "अमेरिका से तनातनी के बाद क्या कनाडा अब यूरोपीय संघ का हिस्सा बनेगा 🇨🇦\n\nEU चीफ ने एक ऐसा प्लान सामने रखा है जिससे ग्लोबल पॉलिटिक्स में हलचल मच गई है। कनाडा को इसका एसोसिएट मेंबर बनाने की बात चल रही है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#CanadaNews #EuropeanUnion #USCanada #WorldNews #GlobalPolitics"
+        "title": "40 हजार उधार लेकर दिया UPSC इंटरव्यू, मनरेगा मजदूर की बेटी बनीं IAS 🌟",
+        "caption": "40 हजार रुपये उधार लेकर एक लड़की UPSC का इंटरव्यू देने दिल्ली पहुंची थी।\n\nकेरल के वायनाड की रहने वाली श्रीधन्या सुरेश के पिता मनरेगा मजदूर और मां मनरेगा में दिहाड़ी मजदूरी करती थीं। तमाम तंगहाली को पीछे छोड़ते हुए उन्होंने साल 2018 में सिविल सेवा परीक्षा पास कर इतिहास रच दिया।\n\nसंघर्ष से सफलता तक की पूरी कहानी देखें।\n\n#IAS Sreedhanya Suresh #UPSC Success Story #Motivational Story #Inspiring Women #Civil Services"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका से तनातनी के बाद क्या कनाडा अब यूरोपीय संघ का हिस्सा बनेगा 🇪🇺\n\nEU चीफ ने कनाडा को 'एसोसिएट मेंबर' बनाने का प्लान पेश किया है। इस बड़े बदलाव के बाद ग्लोबल ट्रेड और पॉलिटिक्स पर क्या असर पड़ेगा?\n\nशेयर करें इस दिलचस्प खबर को और कमेंट में बताएं आपकी क्या राय है।\n\n#CanadaNews #EuropeanUnion #USCanada #WorldNews #GlobalPolitics"
+        "caption": "40 हजार उधार ले UPSC इंटरव्‍यू देने पहुंची थी, आज वही मनरेगा मजदूर की बेटी कलेक्टर है! 📚✨\n\nकेरल के वायनाड की श्रीधन्या सुरेश के पास कभी कोचिंग के पैसे नहीं थे। माता-पिता मजदूरी करते थे, लेकिन हौसला इतना बुलंद था कि सारी मुश्किलों को हरा दिया।\n\nकमेंट में बताएं, आपकी प्रेरणा कौन है?\n\n#IAS Sreedhanya Suresh #UPSC Success Story #Motivational Story #Inspiring Women #Civil Services"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका के साथ रिश्तों में खटास के बीच अब कनाडा को लेकर एक बहुत बड़ा कयास लगाया जा रहा है। अमेरिका से तनातनी के बाद क्या कनाडा अब यूरोपीय संघ का हिस्सा बनेगा 🇪🇺\n\nEU चीफ ने एक बड़ा प्लान समर्थन किया है जिसके तहत कनाडा को यूरोपीय संघ का 'एसोसिएट मेंबर' बनाया जा सकता है। इस फैसले के पीछे की असली वजह क्या है और इससे दुनिया पर क्या असर पड़ेगा, पूरी कहानी वीडियो में देखिए।\n\nहमें कमेंट करके बताएं कि क्या कनाडा का यह कदम सही होगा।\n\n#CanadaNews #EuropeanUnion #USCanada #WorldNews #GlobalPolitics"
+        "caption": "जब घर की आर्थिक स्थिति ऐसी हो कि दो वक्त की रोटी का जुगाड़ करना भी मुश्किल हो, तब देश की सबसे कठिन परीक्षा पास करना किसी चमत्कार से कम नहीं लगता। 🎯\n\nकेरल की श्रीधन्या सुरेश के पिता मनरेगा मजदूर थे। उनके पास यूपीएससी इंटरव्यू के लिए दिल्ली जाने तक के पैसे नहीं थे, तब दोस्तों और रिश्तेदारों से 40 हजार रुपये उधार लेकर वह दिल्ली पहुंची थीं। आज वह आईएएस अधिकारी बनकर न सिर्फ अपने परिवार बल्कि पूरे देश का नाम रोशन कर रही हैं।\n\nऐसी जांबाज बेटियों की कहानी हर किसी तक पहुंचनी चाहिए। वीडियो पूरा जरूर देखें।\n\n#IAS Sreedhanya Suresh #UPSC Success Story #Motivational Story #Inspiring Women #Civil Services"
       },
       "hashtags": [
-        "CanadaNews",
-        "EuropeanUnion",
-        "USCanada",
-        "WorldNews",
-        "GlobalPolitics"
+        "IAS Sreedhanya Suresh",
+        "UPSC Success Story",
+        "Motivational Story",
+        "Inspiring Women",
+        "Civil Services"
       ]
     },
-    "audio_path": "audio/eu_offers_canada_associate_membership_global.wav",
-    "audio_duration_sec": 14.69,
-    "video_path": "videos/eu_offers_canada_associate_membership_global.mp4",
-    "video_duration_sec": 22.72
+    "audio_path": "audio/mgnrega_worker_daughter_sridhanya_suresh_ias.wav",
+    "audio_duration_sec": 20.17,
+    "video_path": "videos/mgnrega_worker_daughter_sridhanya_suresh_ias.mp4",
+    "video_duration_sec": 28.22
   }
 ]

@@ -1,8 +1,9 @@
-ready_labels: ['ccpa_fines_rapido_dark_patterns', 'epfo_wage_limit_hike_25000', 'eu_offers_canada_associate_membership_global', 'guwahati_wife_decapitation_husband_suicide', 'indian_navy_warship_pns_hunain_collision']
+ready_labels: ['bulandshahr_elderly_couple_partition_four_sons', 'epfo_wage_limit_increase_to_25000', 'mgnrega_worker_daughter_sridhanya_suresh_ias', 'pakistan_naval_ship_collides_with_indian_warship', 'tamil_nadu_cm_vijay_deepfake_video_arrest', 'upi_mdr_charges_political_clash_congress_bjp', 'us_russia_sanctions_bill_india_tariffs']
 
-indian_navy_warship_pns_hunain_collision: SUCCESS -> video_path=videos/indian_navy_warship_pns_hunain_collision.mp4 dur=30.384218
-guwahati_wife_decapitation_husband_suicide: SUCCESS -> video_path=videos/guwahati_wife_decapitation_husband_suicide.mp4 dur=33.389887
-epfo_wage_limit_hike_25000: SUCCESS -> video_path=videos/epfo_wage_limit_hike_25000.mp4 dur=26.956553
-lucknow_ex_girlfriend_car_dragging_case: SKIPPED (not in ready set)
-ccpa_fines_rapido_dark_patterns: SUCCESS -> video_path=videos/ccpa_fines_rapido_dark_patterns.mp4 dur=31.591224
-eu_offers_canada_associate_membership_global: SUCCESS -> video_path=videos/eu_offers_canada_associate_membership_global.mp4 dur=22.72322
+us_russia_sanctions_bill_india_tariffs: SUCCESS -> video_path=videos/us_russia_sanctions_bill_india_tariffs.mp4 dur=29.489887
+pakistan_naval_ship_collides_with_indian_warship: SUCCESS -> video_path=videos/pakistan_naval_ship_collides_with_indian_warship.mp4 dur=29.189887
+upi_mdr_charges_political_clash_congress_bjp: SUCCESS -> video_path=videos/upi_mdr_charges_political_clash_congress_bjp.mp4 dur=31.856553
+bulandshahr_elderly_couple_partition_four_sons: SUCCESS -> video_path=videos/bulandshahr_elderly_couple_partition_four_sons.mp4 dur=30.500227
+tamil_nadu_cm_vijay_deepfake_video_arrest: SUCCESS -> video_path=videos/tamil_nadu_cm_vijay_deepfake_video_arrest.mp4 dur=31.591224
+epfo_wage_limit_increase_to_25000: SUCCESS -> video_path=videos/epfo_wage_limit_increase_to_25000.mp4 dur=23.389887
+mgnrega_worker_daughter_sridhanya_suresh_ias: SUCCESS -> video_path=videos/mgnrega_worker_daughter_sridhanya_suresh_ias.mp4 dur=28.22322
