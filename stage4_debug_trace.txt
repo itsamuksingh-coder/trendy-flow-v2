@@ -1,6 +1,3 @@
-ready_labels: ['upi_merchant_discount_rate_charges_september', 'us_fed_interest_rate_hike_global_impact', 'us_sanctions_bill_100_percent_tariff_india_threat']
+ready_labels: []
 
-upi_merchant_discount_rate_charges_september: SUCCESS -> video_path=videos/upi_merchant_discount_rate_charges_september.mp4 dur=34.589887
-us_sanctions_bill_100_percent_tariff_india_threat: SUCCESS -> video_path=videos/us_sanctions_bill_100_percent_tariff_india_threat.mp4 dur=31.637211
-nashik_stray_dog_protest_officer_money_garland: SKIPPED (not in ready set)
-us_fed_interest_rate_hike_global_impact: SUCCESS -> video_path=videos/us_fed_interest_rate_hike_global_impact.mp4 dur=18.820227
+pakistan_navy_warship_collides_indian_warship_arabian_sea: SKIPPED (not in ready set)
