@@ -1,9 +1,6 @@
-ready_labels: ['indore_dilapidated_building_collapse_four_deaths', 'odisha_ganesh_immersion_drowning_tragedy_12_dead', 'petrol_diesel_atf_windfall_tax_cut_september', 'pm_modi_76th_birthday_celebrations_2026', 'upi_merchant_fee_supreme_court_petition', 'us_fed_rate_hike_global_market_impact', 'us_russia_sanctions_bill_100_percent_tariff_india']
+ready_labels: ['upi_merchant_discount_rate_charges_september', 'us_fed_interest_rate_hike_global_impact', 'us_sanctions_bill_100_percent_tariff_india_threat']
 
-us_russia_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/us_russia_sanctions_bill_100_percent_tariff_india.mp4 dur=29.617211
-pm_modi_76th_birthday_celebrations_2026: SUCCESS -> video_path=videos/pm_modi_76th_birthday_celebrations_2026.mp4 dur=29.789887
-petrol_diesel_atf_windfall_tax_cut_september: SUCCESS -> video_path=videos/petrol_diesel_atf_windfall_tax_cut_september.mp4 dur=38.255215
-upi_merchant_fee_supreme_court_petition: SUCCESS -> video_path=videos/upi_merchant_fee_supreme_court_petition.mp4 dur=27.02322
-us_fed_rate_hike_global_market_impact: SUCCESS -> video_path=videos/us_fed_rate_hike_global_market_impact.mp4 dur=21.65322
-indore_dilapidated_building_collapse_four_deaths: SUCCESS -> video_path=videos/indore_dilapidated_building_collapse_four_deaths.mp4 dur=21.258231
-odisha_ganesh_immersion_drowning_tragedy_12_dead: SUCCESS -> video_path=videos/odisha_ganesh_immersion_drowning_tragedy_12_dead.mp4 dur=28.02322
+upi_merchant_discount_rate_charges_september: SUCCESS -> video_path=videos/upi_merchant_discount_rate_charges_september.mp4 dur=34.589887
+us_sanctions_bill_100_percent_tariff_india_threat: SUCCESS -> video_path=videos/us_sanctions_bill_100_percent_tariff_india_threat.mp4 dur=31.637211
+nashik_stray_dog_protest_officer_money_garland: SKIPPED (not in ready set)
+us_fed_interest_rate_hike_global_impact: SUCCESS -> video_path=videos/us_fed_interest_rate_hike_global_impact.mp4 dur=18.820227
