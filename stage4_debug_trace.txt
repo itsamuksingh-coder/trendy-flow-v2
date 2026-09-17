@@ -1,9 +1,9 @@
-ready_labels: ['bulandshahr_elderly_couple_partition_four_sons', 'epfo_wage_limit_increase_to_25000', 'mgnrega_worker_daughter_sridhanya_suresh_ias', 'pakistan_naval_ship_collides_with_indian_warship', 'tamil_nadu_cm_vijay_deepfake_video_arrest', 'upi_mdr_charges_political_clash_congress_bjp', 'us_russia_sanctions_bill_india_tariffs']
+ready_labels: ['indore_dilapidated_building_collapse_four_deaths', 'odisha_ganesh_immersion_drowning_tragedy_12_dead', 'petrol_diesel_atf_windfall_tax_cut_september', 'pm_modi_76th_birthday_celebrations_2026', 'upi_merchant_fee_supreme_court_petition', 'us_fed_rate_hike_global_market_impact', 'us_russia_sanctions_bill_100_percent_tariff_india']
 
-us_russia_sanctions_bill_india_tariffs: SUCCESS -> video_path=videos/us_russia_sanctions_bill_india_tariffs.mp4 dur=29.489887
-pakistan_naval_ship_collides_with_indian_warship: SUCCESS -> video_path=videos/pakistan_naval_ship_collides_with_indian_warship.mp4 dur=29.189887
-upi_mdr_charges_political_clash_congress_bjp: SUCCESS -> video_path=videos/upi_mdr_charges_political_clash_congress_bjp.mp4 dur=31.856553
-bulandshahr_elderly_couple_partition_four_sons: SUCCESS -> video_path=videos/bulandshahr_elderly_couple_partition_four_sons.mp4 dur=30.500227
-tamil_nadu_cm_vijay_deepfake_video_arrest: SUCCESS -> video_path=videos/tamil_nadu_cm_vijay_deepfake_video_arrest.mp4 dur=31.591224
-epfo_wage_limit_increase_to_25000: SUCCESS -> video_path=videos/epfo_wage_limit_increase_to_25000.mp4 dur=23.389887
-mgnrega_worker_daughter_sridhanya_suresh_ias: SUCCESS -> video_path=videos/mgnrega_worker_daughter_sridhanya_suresh_ias.mp4 dur=28.22322
+us_russia_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/us_russia_sanctions_bill_100_percent_tariff_india.mp4 dur=29.617211
+pm_modi_76th_birthday_celebrations_2026: SUCCESS -> video_path=videos/pm_modi_76th_birthday_celebrations_2026.mp4 dur=29.789887
+petrol_diesel_atf_windfall_tax_cut_september: SUCCESS -> video_path=videos/petrol_diesel_atf_windfall_tax_cut_september.mp4 dur=38.255215
+upi_merchant_fee_supreme_court_petition: SUCCESS -> video_path=videos/upi_merchant_fee_supreme_court_petition.mp4 dur=27.02322
+us_fed_rate_hike_global_market_impact: SUCCESS -> video_path=videos/us_fed_rate_hike_global_market_impact.mp4 dur=21.65322
+indore_dilapidated_building_collapse_four_deaths: SUCCESS -> video_path=videos/indore_dilapidated_building_collapse_four_deaths.mp4 dur=21.258231
+odisha_ganesh_immersion_drowning_tragedy_12_dead: SUCCESS -> video_path=videos/odisha_ganesh_immersion_drowning_tragedy_12_dead.mp4 dur=28.02322
