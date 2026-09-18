@@ -1,9 +1,10 @@
-ready_labels: ['abhishek_sharma_century_yuvraj_tips', 'assam_woman_murders_lover_decapitates', 'india_pakistan_warship_collision_dismissal', 'indore_sons_refuse_mothers_funeral_flat', 'iphone_18_launch_queues_india', 'nithari_accused_surendra_koli_suicide']
+ready_labels: ['abhishek_sharma_fastest_t20_century_yuvraj_tips', 'amreli_father_kills_daughter_fridge_suicide', 'assam_woman_murders_lover_decapitates_head', 'brazilian_tiktoker_duda_alves_surgery_death', 'iphone_18_pro_launch_queues_surat_mumbai', 'nithari_case_surendra_koli_death_questions', 'pakistan_kohat_mosque_suicide_bombing']
 
-abhishek_sharma_century_yuvraj_tips: SUCCESS -> video_path=videos/abhishek_sharma_century_yuvraj_tips.mp4 dur=36.119229
-nithari_accused_surendra_koli_suicide: SUCCESS -> video_path=videos/nithari_accused_surendra_koli_suicide.mp4 dur=25.647211
-assam_woman_murders_lover_decapitates: SUCCESS -> video_path=videos/assam_woman_murders_lover_decapitates.mp4 dur=36.281224
-india_pakistan_warship_collision_dismissal: SUCCESS -> video_path=videos/india_pakistan_warship_collision_dismissal.mp4 dur=36.789887
-iphone_18_launch_queues_india: SUCCESS -> video_path=videos/iphone_18_launch_queues_india.mp4 dur=17.775215
-indore_sons_refuse_mothers_funeral_flat: SUCCESS -> video_path=videos/indore_sons_refuse_mothers_funeral_flat.mp4 dur=26.156553
-begusarai_automatic_handpump_viral: SKIPPED (not in ready set)
+nithari_case_surendra_koli_death_questions: SUCCESS -> video_path=videos/nithari_case_surendra_koli_death_questions.mp4 dur=25.252222
+abhishek_sharma_fastest_t20_century_yuvraj_tips: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20_century_yuvraj_tips.mp4 dur=38.189887
+amreli_father_kills_daughter_fridge_suicide: SUCCESS -> video_path=videos/amreli_father_kills_daughter_fridge_suicide.mp4 dur=30.476213
+assam_woman_murders_lover_decapitates_head: SUCCESS -> video_path=videos/assam_woman_murders_lover_decapitates_head.mp4 dur=31.956553
+pakistan_kohat_mosque_suicide_bombing: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_bombing.mp4 dur=28.02322
+iphone_18_pro_launch_queues_surat_mumbai: SUCCESS -> video_path=videos/iphone_18_pro_launch_queues_surat_mumbai.mp4 dur=30.430227
+kanpur_hotel_youth_chained_beaten_girls: SKIPPED (not in ready set)
+brazilian_tiktoker_duda_alves_surgery_death: SUCCESS -> video_path=videos/brazilian_tiktoker_duda_alves_surgery_death.mp4 dur=26.956553
