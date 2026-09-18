@@ -1,74 +1,517 @@
 [
   {
-    "topic_label": "hyderabad_it_company_python_carry_away",
-    "virality_score": 8,
-    "reason": "Viral video of a man casually carrying a giant python on his shoulder outside an IT park in Hyderabad.",
+    "topic_label": "nithari_case_surendra_koli_suicide",
+    "virality_score": 9,
+    "reason": "High-profile criminal case accused Surendra Koli committed suicide in Haridwar, driving massive public interest.",
     "region": "india",
-    "headline": "IT कंपनी के बाहर निकला विशाल अजगर, युवक कंधे पर लादकर ले गया!",
-    "source_summary": "हैदराबाद के दुर्गम चेरुवु इलाके में IT कंपनी के बाहर विशाल अजगर दिखाई देने से हड़कंप मच गया. सोशल मीडिया पर वायरल वीडियो में एक युवक अजगर को हाथों से पकड़ता है, फिर उसे कंधे पर लादकर ले जाता नजर आ रहा है. वीडियो में युवक बाद में अजगर को दोपहिया वाहन से ले जाता भी दिखाई देता है.",
-    "source_url": "https://www.aajtak.in/india/telangana/story/hyderabad-it-company-durgam-cheruvu-python-viral-video-software-professional-lcla-rptc-2645618-2026-09-18?utm_source=rssfeed",
+    "headline": "निठारी कांड: सुरेंद्र कोली ने की आत्महत्या, हरिद्वार में चाय की दुकान में लगाई फांसी",
+    "source_summary": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली. वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था. पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है.",
+    "source_url": "https://www.aajtak.in/india/uttarakhand/story/nithari-case-surendra-koli-commits-suicide-in-haridwar-ntc-apdy-rpti-2645882-2026-09-18?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-18T11:22:47+05:30",
-    "hook": "हैदराबाद में आईटी कंपनी के बाहर निकला विशाल अजगर!",
-    "script_hi": "हैदराबाद के दुर्गम चेरुवु इलाके में एक आईटी कंपनी के बाहर विशाल अजगर दिखाई देने से हड़कंप मच गया। सोशल मीडिया पर वायरल हुए वीडियो में एक युवक ने अजगर को हाथों से पकड़ा और फिर उसे अपने कंधे पर लादकर ले गया। इसके बाद युवक उस अजगर को दोपहिया वाहन पर बैठाकर ले जाता हुआ भी नजर आया। गनीमत रही कि इस दौरान किसी को नुकसान नहीं पहुंचा।",
-    "tts_text_hi": "हैदराबाद के दुर्गम चेरुवु इलाके में एक आईटी कंपनी के बाहर विशाल अजगर दिखाई देने से हड़कंप मच गया। सोशल मीडिया पर वायरल हुए वीडियो में एक युवक ने अजगर को हाथों से पकड़ा और फिर उसे अपने कंधे पर लादकर ले गया। इसके बाद युवक उस अजगर को दोपहिया वाहन पर बैठाकर ले जाता हुआ भी नजर आया। गनीमत रही कि इस दौरान किसी को नुकसान नहीं पहुंचा।",
-    "title": "हैदराबाद में आईटी कंपनी के बाहर दिखा विशाल अजगर",
-    "caption": "हैदराबाद के दुर्गम चेरुवु इलाके में आईटी कंपनी के बाहर एक विशाल अजगर दिखने से सनसनी फैल गई। युवक ने अजगर को कंधे पर लादकर दोपहिया वाहन से ले गया।",
+    "published": "2026-09-18T13:32:28+05:30",
+    "hook": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या!",
+    "script_hi": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली। वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था। पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है।",
+    "tts_text_hi": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली। वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था। पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है।",
+    "title": "निठारी कांड: सुरेंद्र कोली ने की आत्महत्या",
+    "caption": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार में आत्महत्या कर ली।",
     "hashtags": [
-      "#Hyderabad",
-      "#Python",
-      "#ViralVideo",
-      "#SnakeCatching",
-      "#IndiaNews"
+      "NithariCase",
+      "SurenderKoli",
+      "Haridwar",
+      "BreakingNews",
+      "CrimeNews"
     ],
     "visual_queries": [
-      "India IT park building exterior",
-      "large python snake India",
-      "man carrying snake India",
-      "scooter motorcycle street India"
+      "India police station exterior",
+      "Haridwar street India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 25,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37155332/pexels-photo-37155332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police station exterior",
+        "credit": "Niyas Pt",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32197896/pexels-photo-32197896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Haridwar street India",
+        "credit": "Umang & Meet",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34324342/pexels-photo-34324342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian tea stall",
+        "credit": "Jinshu Pulpatta",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian street market",
+        "credit": "Umang & Meet",
+        "duration_sec": 4.5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "निठारी कांड: आरोपी सुरेंद्र कोली ने की आत्महत्या! 🚨",
+        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में चाय की दुकान के अंदर फांसी लगाकर अपनी जान दे दी। देश को झकझोर देने वाले इस बहुचर्चित मामले में अब यह नया मोड़ आया है। पूरी कहानी देखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में चाय की दुकान पर लगाई फांसी। इस खौफनाक मामले के मुख्य आरोपी के इस कदम ने सबको हैरान कर दिया है। क्या सच कभी सामने आ पाएगा?\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में जिस दुकान पर वो काम करता था, वहीं उसका शव मिलने से सनसनी फैल गई है। देश को दहला देने वाले इस वीभत्स मामले में अब तक का सबसे बड़ा मोड़ आया है।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "hashtags": [
+        "NithariCase",
+        "SurendraKoli",
+        "HaridwarNews",
+        "CrimeNews",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/nithari_case_surendra_koli_suicide.wav",
+    "audio_duration_sec": 14.08
+  },
+  {
+    "topic_label": "abhishek_sharma_fastest_t20_century_record",
+    "virality_score": 9,
+    "reason": "Abhishek Sharma breaks Rohit Sharma's record by hitting a 30-ball century against Afghanistan.",
+    "region": "india",
+    "headline": "रोहित शर्मा का रिकॉर्ड तोड़ अभिषेक बने सबसे तेज शतकवीर",
+    "source_summary": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी20 में 34 गेंदों पर 108 रन की तूफानी पारी खेली। उन्होंने 30 गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ा। भारत ने 127 रन से मैच जीतकर सीरीज 3-0 से अपने नाम की।",
+    "source_url": "https://www.aajtak.in/short-videos/video/abhishek-sharma-fastest-t-20i-century-ind-vs-afg-rohit-sharma-finn-allen-sikandar-raza-mmtc-2645590-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T10:18:25+05:30",
+    "hook": "अभिषेक शर्मा ने तोड़ा रोहित शर्मा का बड़ा रिकॉर्ड!",
+    "script_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर सीरीज तीन-शून्य से अपने नाम कर ली।",
+    "tts_text_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर सीरीज तीन-शून्य से अपने नाम कर ली।",
+    "title": "अभिषेक शर्मा ने तोड़ा रोहित शर्मा का रिकॉर्ड",
+    "caption": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी20 में 34 गेंदों पर 108 रन की तूफानी पारी खेली।",
+    "hashtags": [
+      "#AbhishekSharma",
+      "#RohitSharma",
+      "#TeamIndia",
+      "#CricketNews",
+      "#T20Cricket"
+    ],
+    "visual_queries": [
+      "Indian cricket stadium celebration India",
+      "cricketer batting celebration India"
+    ],
+    "named_person": "Abhishek Sharma",
+    "named_person_hi": "अभिषेक शर्मा",
+    "secondary_persons": [
+      "Rohit Sharma"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "अभिषेक शर्मा",
+        "source": "fallback",
+        "query": "Abhishek Sharma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36088029/15304808_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cricket player celebration india",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket stadium celebration India",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricketer batting celebration India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket match stadium crowd",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "batsman hitting big shot",
+        "credit": "Princeton dsouza",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31852382/pexels-photo-31852382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "excited cricket fans stadium",
+        "credit": "Harish R",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "रोहित शर्मा का बड़ा रिकॉर्ड टूटा! अभिषेक बने सबसे तेज शतकवीर 🏏",
+        "caption": "सिर्फ 46 गेंदों में सब कुछ बदल गया! रोहित शर्मा का सबसे तेज शतकवीर बनने का रिकॉर्ड अब खतरे में नहीं, बल्कि टूट चुका है। 🇮🇳\n\nयुवा बल्लेबाज अभिषेक शर्मा ने ताबड़तोड़ बल्लेबाजी करते हुए क्रिकेट जगत में खलबली मचा दी है। उनकी इस ऐतिहासिक पारी ने हर किसी को हैरान कर दिया है।\n\nआपकी नजर में क्या अभिषेक आने वाले समय में सारे रिकॉर्ड तोड़ देंगे? कमेंट में बताएं और पूरी कहानी देखें।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "रोहित शर्मा का रिकॉर्ड ध्वस्त! 🔥 अभिषेक शर्मा ने महज़ इतनी गेंदों में रच दिया इतिहास कि क्रिकेट वर्ल्ड देखता रह गया। \n\nयुवा खिलाड़ी की इस तूफानी पारी ने सबको चौंका दिया है। क्या आपने ये मैच देखा था? \n\nशेयर करें उस दोस्त के साथ जो क्रिकेट का सबसे बड़ा फैन है!\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्रिकेट के मैदान पर एक नया इतिहास लिखा गया है। जिस रिकॉर्ड को तोड़ने के लिए बड़े-बड़े धुरंधर तरसते रह गए, उसे युवा बल्लेबाज अभिषेक शर्मा ने बेहद आसानी से अपने नाम कर लिया। रोहित शर्मा का यह बड़ा रिकॉर्ड टूटने के बाद अब हर तरफ इसी की चर्चा हो रही है। \n\nआखिर कैसे खेली गई यह ऐतिहासिक पारी और क्या रहा पूरा माजरा, जानिए इस वीडियो में। \n\nआपको क्या लगता है, क्या अभिषेक भारतीय क्रिकेट का अगला सबसे बड़ा सितारा बनने वाले हैं? हमें कमेंट करके जरूर बताएं।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+      },
+      "hashtags": [
+        "AbhishekSharma",
+        "RohitSharma",
+        "TeamIndia",
+        "CricketNews",
+        "IndianCricket"
+      ]
+    },
+    "audio_path": "audio/abhishek_sharma_fastest_t20_century_record.wav",
+    "audio_duration_sec": 21.51
+  },
+  {
+    "topic_label": "india_women_cricket_japan_asian_games",
+    "virality_score": 8,
+    "reason": "Indian women's cricket team completely demolishes Japan, bowling them out for 57 in the Asian Games.",
+    "region": "india",
+    "headline": "भारत का तूफानी वार, जापान 57 पर ढेर... 30 गेंदों में मैच खत्म",
+    "source_summary": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को 8 विकेट से रौंदकर सेमीफाइनल में जगह बना ली. भारतीय स्पिनरों ने जापान को महज 57 रनों पर समेट दिया, जिसमें श्री चरणी ने 4 और शेफाली वर्मा ने 2 विकेट झटके. जवाब में शेफाली ने सिर्फ 15 गेंदों में नाबाद 40 रन ठोककर भारत को 5 ओवर में ही जीत दिला दी.",
+    "source_url": "https://www.aajtak.in/sports/asian-games/story/india-beat-japan-by-8-wickets-enter-asian-games-womens-cricket-semifinal-bmsp-dskc-2645837-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T12:51:52+05:30",
+    "hook": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम का तूफानी प्रदर्शन!",
+    "script_hi": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से रौंदकर सेमीफाइनल में जगह बना ली है। भारतीय स्पिनरों ने जापान की पूरी टीम को मात्र सत्तावन रनों पर समेट दिया। जवाब में शेफाली वर्मा ने सिर्फ पंद्रह गेंदों में नाबाद चालीस रन ठोककर भारत को पांच ओवर में ही जीत दिला दी। श्री चरणी ने चार और शेफाली वर्मा ने दो विकेट झटके।",
+    "tts_text_hi": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से रौंदकर सेमीफाइनल में जगह बना ली है। भारतीय स्पिनरों ने जापान की पूरी टीम को मात्र सत्तावन रनों पर समेट दिया। जवाब में शेफाली वर्मा ने सिर्फ पंद्रह गेंदों में नाबाद चालीस रन ठोककर भारत को पांच ओवर में ही जीत दिला दी। श्री चरणी ने चार और शेफाली वर्मा ने दो विकेट झटके।",
+    "title": "भारत का तूफानी वार, जापान सत्तावन पर ढेर",
+    "caption": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से हराया।",
+    "hashtags": [
+      "AsianGames",
+      "IndianCricket",
+      "WomenCricket",
+      "TeamIndia",
+      "ShafaliVerma",
+      "SportsNews"
+    ],
+    "visual_queries": [
+      "Indian cricket team India",
+      "Asian Games stadium India",
+      "woman cricket player India",
+      "celebrating cricket victory India"
+    ],
+    "named_person": "Shafali Verma",
+    "named_person_hi": "शेफाली वर्मा",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "शेफाली वर्मा",
+        "source": "fallback",
+        "query": "Shafali Verma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket team India",
+        "credit": "Umang & Meet",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "celebrating cricket victory India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket match stadium crowd",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37144640/pexels-photo-37144640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "female cricket players practice",
+        "credit": "Imtiaz Ahmed",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket ball hitting bat",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29873465/pexels-photo-29873465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports victory celebration india",
+        "credit": "Mustafa  Fatemi",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 29.8,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जापान सिर्फ 57 पर ढेर! 30 गेंदों में भारत की तूफानी जीत 🏏",
+        "caption": "सिर्फ 30 गेंदों में खत्म हो गया मैच, जब भारतीय शेरों ने जापान को 57 रन पर समेट दिया! 🤯\n\nएशियन गेम्स के मैदान पर भारत की महिला क्रिकेट टीम ने ऐसा खौफनाक और तूफानी खेल दिखाया कि विरोधी टीम टिक ही नहीं पाई। गेंदबाजों के इस कहर के बाद बल्लेबाजों ने ताबड़तोड़ अंदाज में लक्ष्य को महज़ चंद मिनटों में हासिल कर लिया।\n\nक्या आपने यह मुकाबला देखा? कमेंट में बताएं! 👇\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सिर्फ 30 गेंदों में खत्म हो गया मैच, जब जापान को 57 रन पर समेट दिया! 🤯\n\nएशियन गेम्स में भारतीय महिला टीम का ऐसा खौफनाक और तूफानी खेल देखकर सब हैरान रह गए। गेंदबाजों की आंधी के बाद बल्लेबाजों ने पलक झपकते ही मैच अपने नाम कर लिया। \n\nपूरी कहानी देखें और शेयर करें! ⚡️\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्रिकेट के मैदान पर ऐसा तूफान शायद ही कभी देखा गया हो! भारत ने जापान की पूरी टीम को महज 57 रन पर ढेर कर दिया और कमाल की बात तो यह रही कि मैच सिर्फ 30 गेंदों में ही खत्म हो गया। 🏏🔥\n\nएशियन गेम्स में हमारी महिला टीम ने अपनी गेंदबाजी और बल्लेबाजी दोनों से इतिहास रच दिया है। विरोधी टीम को संभलने तक का मौका नहीं मिला। \n\nपूरी खबर और इस धमाकेदार जीत की पूरी कहानी जानने के लिए वीडियो पूरा देखें। आपको यह प्रदर्शन कैसा लगा, हमें जरूर बताएं!\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+      },
+      "hashtags": [
+        "IndianCricketTeam",
+        "AsianGames",
+        "WomensCricket",
+        "TeamIndia",
+        "CricketNews"
+      ]
+    },
+    "audio_path": "audio/india_women_cricket_japan_asian_games.wav",
+    "audio_duration_sec": 24.93
+  },
+  {
+    "topic_label": "delhi_swaroop_nagar_teen_gangrape_murder",
+    "virality_score": 8,
+    "reason": "Shocking and gruesome Delhi gangrape and murder case solved via CCTV footage after victim's body found in a field.",
+    "region": "india",
+    "headline": "खेत में पड़ी थी लाश, कुत्ते नोच रहे थे शरीर... CCTV ने खोली दिल्ली में लड़की के गैंगरेप और हत्या की गुत्थी",
+    "source_summary": "दिल्ली के स्वरूप नगर में 17 वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है. खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी. पुलिस ने 50 से ज्यादा CCTV कैमरों की जांच के बाद 3 नाबालिग समेत 4 आरोपियों को गिरफ्तार किया है.",
+    "source_url": "https://ndtv.in/india/delhi-gangrape-murder-case-dogs-chewing-body-cctv-solves-case-four-accused-arrested-12062938#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 18 Sep 2026 10:53:27 +0530",
+    "hook": "खेत में मिला सड़ चुका शव, कुत्ते नोच रहे थे शरीर!",
+    "script_hi": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है। खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी। पुलिस ने पचास से ज्यादा सीसीटीवी कैमरों की जांच के बाद तीन नाबालिग समेत चार आरोपियों को गिरफ्तार किया है।",
+    "tts_text_hi": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है। खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी। पुलिस ने पचास से ज्यादा सीसीटीवी कैमरों की जांच के बाद तीन नाबालिग समेत चार आरोपियों को गिरफ्तार किया है।",
+    "title": "दिल्ली में लड़की की हत्या और गैंगरेप",
+    "caption": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की की हत्या और गैंगरेप के मामले में पुलिस ने चार आरोपियों को गिरफ्तार किया है।",
+    "hashtags": [
+      "DelhiNews",
+      "CrimeNews",
+      "SwaroopNagar",
+      "DelhiPolice",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "Delhi police station India",
+      "crime scene investigation India",
+      "CCTV camera street India",
+      "police handcuffs India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video showing a unique incident with a live python that generic stock B-roll cannot accurately represent; the real video footage needs manual inclusion.",
+    "flag_reason": "Content involves minors in a sensitive case of gang rape and murder, requiring manual review.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20030658/pexels-photo-20030658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10977893/pexels-photo-10977893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India IT park building exterior",
-        "credit": "Shivam ‎",
+        "query": "Delhi police station India",
+        "credit": "saikat ghosh",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18120741/pexels-photo-18120741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "large python snake India",
-        "credit": "Viktoriia Kondratiuk",
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35006498/pexels-photo-35006498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "man carrying snake India",
-        "credit": "Huzaifa  Irfan",
+        "query": "CCTV camera street India",
+        "credit": "Rakesh Teja",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13328575/pexels-photo-13328575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "scooter motorcycle street India",
-        "credit": "Deepak Bhandari",
+        "query": "police handcuffs India",
+        "credit": "Kindel Media",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
     "review_status": "pending_review"
+  },
+  {
+    "topic_label": "canada_eu_associate_membership_proposal",
+    "virality_score": 7,
+    "reason": "Major global geopolitical shift as the EU offers Canada associate membership amid trade tensions with the US.",
+    "region": "global",
+    "headline": "Canada welcomes EU proposal to become 'associate member'",
+    "source_summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+    "hook": "कनाडा और यूरोपीय संघ की ऐतिहासिक साझेदारी!",
+    "script_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया है। उन्होंने कहा कि यह गठबंधन अन्य लोकतंत्रों के लिए एक मिसाल बनेगा।",
+    "tts_text_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया है। उन्होंने कहा कि यह गठबंधन अन्य लोकतंत्रों के लिए एक मिसाल बनेगा।",
+    "title": "Canada welcomes EU proposal",
+    "caption": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया।",
+    "hashtags": [
+      "Canada",
+      "EuropeanUnion",
+      "MarkCarney",
+      "WorldNews",
+      "Geopolitics"
+    ],
+    "visual_queries": [
+      "Canadian flag Ottawa",
+      "European Union flag Brussels",
+      "international diplomacy meeting"
+    ],
+    "named_person": "Mark Carney",
+    "named_person_hi": "मार्क कार्नी",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "मार्क कार्नी",
+        "source": "fallback",
+        "query": "Mark Carney",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19025933/pexels-photo-19025933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Canadian flag Ottawa",
+        "credit": "Yusuf Sh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33401027/pexels-photo-33401027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "European Union flag Brussels",
+        "credit": "aleksandre lomadze",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6950157/pexels-photo-6950157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "international diplomacy meeting",
+        "credit": "Werner Pfennig",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कनाडा बनेगा यूरोपीय संघ का 'एसोसिएट मेंबर'! 🇪🇺🇨🇦",
+        "caption": "कनाडा और यूरोपीय संघ की इस साझेदारी ने दुनिया भर के समीकरण बदल दिए हैं। 🌍\n\nयूरोपीय संघ के इस बड़े प्रस्ताव पर कनाडा ने खुलकर सहमति जताई है। इससे दोनों के बीच व्यापार और सुरक्षा के रास्ते पूरी तरह बदल जाएंगे।\n\nपूरी कहानी देखें और समझें कि इसके क्या मायने हैं।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कनाडा और यूरोपीय संघ की इस डील ने चौंका दिया है! 🤝\n\nयूरोपीय संघ के 'एसोसिएट मेंबर' बनने के प्रस्ताव को कनाडा ने हरी झंडी दे दी है। इस ऐतिहासिक कदम के बाद ग्लोबल लेवल पर बड़े बदलाव तय माने जा रहे हैं। \n\nपूरी कहानी वीडियो में देखें।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कनाडा और यूरोपीय संघ के बीच कुछ ऐसा होने जा रहा है जिसकी किसी को उम्मीद नहीं थी। 🇨🇦🇪🇺\n\nयूरोपीय संघ ने कनाडा को 'एसोसिएट मेंबर' बनने का बड़ा प्रस्ताव दिया है, जिसे कनाडा ने स्वीकार कर लिया है। इस फैसले से आने वाले समय में ग्लोबल ट्रेड और स्ट्रैटेजिक रिश्तों पर बहुत गहरा असर पड़ेगा। \n\nवीडियो में देखें पूरी खबर, और शेयर करें अपनी राय।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+      },
+      "hashtags": [
+        "CanadaNews",
+        "EuropeanUnion",
+        "GlobalPolitics",
+        "CanadaEU",
+        "InternationalNews"
+      ]
+    },
+    "audio_path": "audio/canada_eu_associate_membership_proposal.wav",
+    "audio_duration_sec": 10.48
   }
 ]
