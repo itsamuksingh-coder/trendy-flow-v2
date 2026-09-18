@@ -1,9 +1,10 @@
-ready_labels: ['abhishek_sharma_fastest_t20i_century', 'laddu_eating_competition_record_surendranagar', 'nyc_thrift_store_bowl_worth_millions', 'upi_mdr_charges_2000_above', 'us_sanctions_bill_100_percent_tariff_india']
+ready_labels: ['abhishek_sharma_fastest_t20i_century_record', 'allahabad_hc_sbi_fd_recovery_refund_order', 'supreme_court_ioc_job_denial_lpg_cylinder_compensation', 'us_russia_oil_tariff_100_percent_india_impact']
 
-abhishek_sharma_fastest_t20i_century: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20i_century.mp4 dur=24.689887
-us_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/us_sanctions_bill_100_percent_tariff_india.mp4 dur=38.12322
-upi_mdr_charges_2000_above: SUCCESS -> video_path=videos/upi_mdr_charges_2000_above.mp4 dur=24.718231
-laddu_eating_competition_record_surendranagar: SUCCESS -> video_path=videos/laddu_eating_competition_record_surendranagar.mp4 dur=34.756553
-nyc_thrift_store_bowl_worth_millions: SUCCESS -> video_path=videos/nyc_thrift_store_bowl_worth_millions.mp4 dur=30.267211
+us_russia_oil_tariff_100_percent_india_impact: SUCCESS -> video_path=videos/us_russia_oil_tariff_100_percent_india_impact.mp4 dur=29.52322
+abhishek_sharma_fastest_t20i_century_record: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20i_century_record.mp4 dur=24.22322
+supreme_court_ioc_job_denial_lpg_cylinder_compensation: SUCCESS -> video_path=videos/supreme_court_ioc_job_denial_lpg_cylinder_compensation.mp4 dur=27.179229
+allahabad_hc_sbi_fd_recovery_refund_order: SUCCESS -> video_path=videos/allahabad_hc_sbi_fd_recovery_refund_order.mp4 dur=21.52322
+nyc_thrift_store_bowl_auction_18_crore: SKIPPED (not in ready set)
+kanpur_delivery_boy_falls_in_open_sewer: SKIPPED (not in ready set)
+sonipat_pitbull_attack_six_month_baby: SKIPPED (not in ready set)
 bihar_lover_climbs_mobile_tower_marriage: SKIPPED (not in ready set)
-kanpur_delivery_boy_open_sewer_accident: SKIPPED (not in ready set)
