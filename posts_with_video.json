@@ -1,835 +1,633 @@
 [
   {
-    "topic_label": "nithari_case_surendra_koli_death_questions",
+    "topic_label": "bareilly_man_bitten_by_snake_hospital_bag",
     "virality_score": 9,
-    "reason": "Family members claim Surendra Koli was murdered rather than dying by suicide, reviving massive public interest in the Nithari case.",
+    "reason": "A man bringing the snake that bit him to the hospital in a bag has high viral and visual shock value.",
     "region": "india",
-    "headline": "&#039;इतने साल बाद फांसी क्यों लगाएगा?&#039;, कोली की मौत पर बोले निठारी पीड़ित",
-    "source_summary": "Nithari Case Surendra Koli Death: हरिद्वार जेल में सुरेंद्र कोली की कथित फांसी पर निठारी कांड के पीड़ित परिवार ने उठाए सवाल. झब्बू लाल-सुनीता का आरोप- 'कोली को मारा गया है, उसे कई राज पता थे.'",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/nithari-case-surendra-koli-haridwar-jail-hanging-victim-family-allegations-pandher-lcln-lcln-strc-2646311-2026-09-18?utm_source=rssfeed",
+    "headline": "&#039;डॉक्टर साहब! इसी ने काटा है...&#039; सांप को थैली में बंद कर अस्पताल पहुंचा युवक",
+    "source_summary": "बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक सांप को थैली में लेकर पहुंच गया. युवक ने डॉक्टरों को बताया कि इसी सांप ने उसे काटा है. 24 घंटे में बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने डसा. सभी को जिला अस्पताल में एंटी स्नेक वेनम दिया गया और इलाज के बाद उनकी जान बच गई.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/bareilly-snake-bite-man-brings-snake-in-bag-district-hospital-four-cases-lclar-strc-2646390-2026-09-18?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-18T19:34:55+05:30",
-    "hook": "निठारी कांड के सुरेंद्र कोली की मौत पर उठे गंभीर सवाल!",
-    "script_hi": "हरिद्वार जेल में सुरेंद्र कोली की कथित मौत के बाद निठारी कांड के पीड़ितों ने बड़े सवाल खड़े कर दिए हैं। पीड़ित परिवार का आरोप है कि कोली को मारा गया है क्योंकि उसे कई बड़े राज पता थे। परिजनों ने पूछा है कि इतने साल बाद वह फांसी क्यों लगाएगा?",
-    "tts_text_hi": "हरिद्वार जेल में सुरेंद्र कोली की कथित मौत के बाद निठारी कांड के पीड़ितों ने बड़े सवाल खड़े कर दिए हैं। पीड़ित परिवार का आरोप है कि कोली को मारा गया है क्योंकि उसे कई बड़े राज पता थे। परिजनों ने पूछा है कि इतने साल बाद वह फांसी क्यों लगाएगा?",
-    "title": "निठारी कांड के सुरेंद्र कोली की मौत पर परिजनों के गंभीर आरोप",
-    "caption": "हरिद्वार जेल में सुरेंद्र कोली की कथित मौत पर निठारी कांड के पीड़ितों ने सवाल उठाए हैं। परिजनों का आरोप है कि उसे मारा गया है।",
+    "published": "2026-09-18T21:42:25+05:30",
+    "hook": "डॉक्टर साहब! इसी सांप ने मुझे काटा है!",
+    "script_hi": "बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक जिंदा सांप को थैली में लेकर पहुंच गया। युवक ने डॉक्टरों से कहा कि इसी सांप ने उसे डसा है। चौबीस घंटे के भीतर बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने काटा। गनीमत रही कि सभी को समय पर एंटी स्नेक वेनम मिल गया और सबकी जान बच गई।",
+    "tts_text_hi": "बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक जिंदा सांप को थैली में लेकर पहुंच गया। युवक ने डॉक्टरों से कहा कि इसी सांप ने उसे डसा है। चौबीस घंटे के भीतर बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने काटा। गनीमत रही कि सभी को समय पर एंटी स्नेक वेनम मिल गया और सबकी जान बच गई।",
+    "title": "सांप को थैली में बंद कर अस्पताल पहुंचा युवक",
+    "caption": "बरेली में एक युवक सांप को थैली में लेकर जिला अस्पताल पहुंच गया। चौबीस घंटे में चार लोगों को सांप काटने का मामला सामने आया है।",
     "hashtags": [
-      "NithariCase",
-      "SurendraKoli",
-      "HaridwarJail",
-      "CrimeNews",
+      "#BareillyNews",
+      "#SnakeBite",
+      "#UttarPradesh",
+      "#BreakingNews",
+      "#HospitalDrama",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian hospital emergency ward",
+      "Indian man holding bag",
+      "poisonous snake India",
+      "medical treatment India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian hospital emergency ward",
+        "credit": "Juan Moccagatta",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17525481/pexels-photo-17525481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian man holding bag",
+        "credit": "framesbypc",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10430115/pexels-photo-10430115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "poisonous snake India",
+        "credit": "Nivedh P",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31499386/pexels-photo-31499386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical treatment India",
+        "credit": "Adarsh Mp",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "डॉक्टर साहब! इसी ने काटा है... सांप को थैली में बंद कर अस्पताल पहुंचा युवक 🐍",
+        "caption": "डॉक्टर साहब! इसी सांप ने मुझे काटा है! 😲\n\nबिहार के एक शख्स ने गजब कर दिया। सांप के डसने के बाद उसने उस जहरीले सांप को पकड़ा, थैली में बंद किया और सीधे अस्पताल पहुंच गया। डॉक्टरों और वहां मौजूद लोगों की आंखें खुली की खुली रह गईं।\n\nक्या आपने कभी ऐसा नजारा देखा है? पूरी कहानी देखें और अपनी राय बताएं।\n\n#snakebite #viralvideo #biharnews #shockingnews #trending"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "डॉक्टर साहब! इसी सांप ने मुझे काटा है! 🐍 जब शख्स ने थैली खोलकर अंदर का नजारा दिखाया, तो डॉक्टर के भी होश उड़ गए। \n\nसांप काटने पर घबराने की बजाय उसने जो किया, जानकर हैरान रह जाएंगे।\n\nवीडियो पूरा देखें और शेयर करें! 🔁\n\n#snakebite #viralvideo #biharnews #shockingnews #trending"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "डॉक्टर साहब! इसी सांप ने मुझे काटा है! 😲\n\nसांप काटने के बाद जहां लोग डर से बेहोश हो जाते हैं, वहीं इस शख्स ने ऐसा कदम उठाया कि अस्पताल में हड़कंप मच गया। उसने जहरीले सांप को खुद पकड़ा, थैली में बंद किया और सबूत के तौर पर डॉक्टर के सामने पेश कर दिया।\n\nसीसीटीवी और अस्पताल का यह वाकया सोशल मीडिया पर तेजी से वायरल हो रहा है। वीडियो पूरा देखें और बताएं कि आपकी जगह होते तो आप क्या करते?\n\n#snakebite #viralvideo #biharnews #shockingnews #trending"
+      },
+      "hashtags": [
+        "snakebite",
+        "viralvideo",
+        "biharnews",
+        "shockingnews",
+        "trending"
+      ]
+    },
+    "audio_path": "audio/bareilly_man_bitten_by_snake_hospital_bag.wav",
+    "audio_duration_sec": 22.33,
+    "video_path": "videos/bareilly_man_bitten_by_snake_hospital_bag.mp4",
+    "video_duration_sec": 30.38
+  },
+  {
+    "topic_label": "sonipat_pit_bull_mauls_baby_cctv",
+    "virality_score": 9,
+    "reason": "A horrifying CCTV-captured pet pit bull attack on an infant in Sonipat will drive massive engagement and outrage.",
+    "region": "india",
+    "headline": "6-month-old boy mauled by pit bull in Sonipat, CCTV captures terrifying attack",
+    "source_summary": "In a shocking incident, a six-month-old baby was severely injured by a pet pit bull that escaped from a neighboring house. The aggressive dog lunged at the infant, dragging him by the jaw until quick-thinking bystanders intervened. The child underwent over twenty stitches and was later transferred to PGIMS Rohtak for advanced treatment. Officials are still awaiting a formal complaint concerning this alarming dog attack.",
+    "source_url": "https://timesofindia.indiatimes.com/city/gurgaon/6-month-old-boy-mauled-by-pit-bull-in-sonipat-cctv-captures-terrifying-attack/articleshow/134334291.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Fri, 18 Sep 2026 17:23:41 +0530",
+    "hook": "सोनीपत में पिटबुल कुत्ते का खौफनाक हमला!",
+    "script_hi": "हरियाणा के सोनीपत में एक छह महीने के मासूम बच्चे पर पड़ोसी के पालतू पिटबुल कुत्ते ने जानलेवा हमला कर दिया। सीसीटीवी में कैद हुई इस खौफनाक घटना में कुत्ता बच्चे को जबड़े से खींचता नजर आया। गनीमत रही कि मौके पर मौजूद लोगों ने सूझबूझ दिखाते हुए बच्चे को बचाया। बच्चे को बीस से ज्यादा टांके आए हैं और बेहतर इलाज के लिए उसे रोहतक पीजीआईएमएस रेफर किया गया है। पुलिस अधिकारियों का कहना है कि इस मामले में अभी औपचारिक शिकायत का इंतजार किया जा रहा है।",
+    "tts_text_hi": "हरियाणा के सोनीपत में एक छह महीने के मासूम बच्चे पर पड़ोसी के पालतू पिटबुल कुत्ते ने जानलेवा हमला कर दिया। सीसीटीवी में कैद हुई इस खौफनाक घटना में कुत्ता बच्चे को जबड़े से खींचता नजर आया। गनीमत रही कि मौके पर मौजूद लोगों ने सूझबूझ दिखाते हुए बच्चे को बचाया। बच्चे को बीस से ज्यादा टांके आए हैं और बेहतर इलाज के लिए उसे रोहतक पीजीआईएमएस रेफर किया गया है। पुलिस अधिकारियों का कहना है कि इस मामले में अभी औपचारिक शिकायत का इंतजार किया जा रहा है।",
+    "title": "सोनीपत में पिटबुल कुत्ते का छह महीने के बच्चे पर हमला",
+    "caption": "हरियाणा के सोनीपत में पिटबुल कुत्ते के हमले से छह महीने का बच्चा गंभीर रूप से घायल, सीसीटीवी में कैद हुई खौफनाक घटना।",
+    "hashtags": [
+      "Sonipat",
+      "PitbullAttack",
+      "DogAttack",
+      "HaryanaNews",
+      "BreakingNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Indian prison exterior",
-      "police investigation India",
-      "grieving family India"
-    ],
-    "named_person": "Surendra Koli",
-    "named_person_hi": "सुरेंद्र कोली",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "सुरेंद्र कोली",
-        "source": "fallback",
-        "query": "Surendra Koli",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31844909/pexels-photo-31844909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian prison exterior",
-        "credit": "Photos Hub",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11125104/pexels-photo-11125104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "grieving family India",
-        "credit": "PRIYA MISHRA",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "निठारी कांड के सुरेंद्र कोली की मौत पर उठे गंभीर सवाल! 🚨",
-        "caption": "निठारी कांड के सुरेंद्र कोली की मौत पर उठे गंभीर सवाल! 🚨\n\n'इतने साल बाद फांसी क्यों लगाएगा?' - यह सवाल अब निठारी कांड के पीड़ित परिवारों ने उठाया है। सुरेंद्र की मौत के बाद कई अनसुने पहलू सामने आ रहे हैं।\n\nपूूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय हमें कमेंट में बताएं।\n\n#NithariCase #SurenderKoli #CrimeNews #HindiNews #InvestigativeReport"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "निठारी कांड के सुरेंद्र कोली की मौत पर उठे गंभीर सवाल! 🚨\n\n'इतने साल बाद फांसी क्यों लगाएगा?' - पीड़ित परिवारों ने प्रशासन पर कई गंभीर सवाल खड़े कर दिए हैं। क्या है इसके पीछे का सच?\n\nपूरी कहानी देखें और शेयर करें।\n\n#NithariCase #SurenderKoli #CrimeNews #HindiNews #InvestigativeReport"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "निठारी कांड के सुरेंद्र कोली की मौत पर उठे गंभीर सवाल! 🚨\n\n'इतने साल बाद फांसी क्यों लगाएगा?' - सुरेंद्र कोली की मौत के बाद अब निठारी के पीड़ित परिवार खुलकर सामने आ गए हैं और उन्होंने कई बड़े आरोप लगाए हैं। इस मामले में हर नया दिन एक नया मोड़ ले रहा है।\n\nवीडियो को पूरा देखें और अपनी प्रतिक्रिया जरूर दें।\n\n#NithariCase #SurenderKoli #CrimeNews #HindiNews #InvestigativeReport"
-      },
-      "hashtags": [
-        "NithariCase",
-        "SurenderKoli",
-        "CrimeNews",
-        "HindiNews",
-        "InvestigativeReport"
-      ]
-    },
-    "audio_path": "audio/nithari_case_surendra_koli_death_questions.wav",
-    "audio_duration_sec": 17.21,
-    "video_path": "videos/nithari_case_surendra_koli_death_questions.mp4",
-    "video_duration_sec": 25.25
-  },
-  {
-    "topic_label": "abhishek_sharma_fastest_t20_century_yuvraj_tips",
-    "virality_score": 9,
-    "reason": "Brilliant 30-ball century by Abhishek Sharma following Yuvraj Singh's crucial advice.",
-    "region": "india",
-    "headline": "युवराज के गुरुमंत्र से चमके अभिषेक, 30 गेंदों में जड़ा शतक",
-    "source_summary": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ टी20 मुकाबले में 30 गेंदों पर शतक जड़कर नया रिकॉर्ड बनाया. इस पारी से पहले उन्हें मेंटर युवराज सिंह का खास संदेश मिला था. युवराज ने हर गेंद पर बड़ा शॉट खेलने के बजाय खराब गेंदों पर सिंगल डबल लेकर स्ट्राइक रोटेट करने की सलाह दी. अभिषेक ने इसे अपनाया और 108 रन बनाकर भारत को जीत दिलाई. सीरीज में उन्होंने 229 रन बनाए.",
-    "source_url": "https://www.aajtak.in/short-videos/video/abhishek-sharma-yuvraj-singh-message-fastest-t20i-century-afghanistan-india-delhi-record-breaking-innings-mmta-2646056-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T17:00:02+05:30",
-    "hook": "युवराज सिंह के एक गुरुमंत्र ने बदल दी अभिषेक शर्मा की किस्मत!",
-    "script_hi": "क्रिकेटर अभिषेक शर्मा ने अफगानिस्तान के खिलाफ टी ट्वेंटी मुकाबले में मात्र तीस गेंदों पर तूफानी शतक जड़कर नया इतिहास रच दिया है। इस रिकॉर्ड पारी से ठीक पहले उन्हें पूर्व दिग्गज युवराज सिंह का खास संदेश मिला था। युवराज ने उन्हें हर गेंद पर बड़ा शॉट खेलने के बजाय खराब गेंदों पर सिंगल डबल लेकर स्ट्राइक रोटेट करने की सलाह दी थी। अभिषेक ने इस सलाह पर पूरी तरह अमल किया और एक सौ आठ रनों की शानदार पारी खेलकर भारत को धमाकेदार जीत दिलाई। इस पूरी सीरीज में अभिषेक ने कुल दो सौ उन्नतिस रन बनाए।",
-    "tts_text_hi": "क्रिकेटर अभिषेक शर्मा ने अफगानिस्तान के खिलाफ टी ट्वेंटी मुकाबले में मात्र तीस गेंदों पर तूफानी शतक जड़कर नया इतिहास रच दिया है। इस रिकॉर्ड पारी से ठीक पहले उन्हें पूर्व दिग्गज युवराज सिंह का खास संदेश मिला था। युवराज ने उन्हें हर गेंद पर बड़ा शॉट खेलने के बजाय खराब गेंदों पर सिंगल डबल लेकर स्ट्राइक रोटेट करने की सलाह दी थी। अभिषेक ने इस सलाह पर पूरी तरह अमल किया और एक सौ आठ रनों की शानदार पारी खेलकर भारत को धमाकेदार जीत दिलाई। इस पूरी सीरीज में अभिषेक ने कुल दो सौ उन्नतिस रन बनाए।",
-    "title": "युवराज के गुरुमंत्र से चमके अभिषेक",
-    "caption": "युवराज सिंह के खास टिप्स ने बदली अभिषेक शर्मा की किस्मत, टी ट्वेंटी में जड़ा तूफानी शतक।",
-    "hashtags": [
-      "AbhishekSharma",
-      "YuvrajSingh",
-      "TeamIndia",
-      "CricketNews",
-      "T20Cricket"
-    ],
-    "visual_queries": [
-      "Indian cricket stadium India",
-      "cricket batsman celebrating India",
-      "cricket coach giving advice India",
-      "cricket player training India"
-    ],
-    "named_person": "Abhishek Sharma",
-    "named_person_hi": "अभिषेक शर्मा",
-    "secondary_persons": [
-      "Yuvraj Singh"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "अभिषेक शर्मा",
-        "source": "fallback",
-        "query": "Abhishek Sharma",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36088029/15304808_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "cricket player training India",
-        "credit": "Shulabh Singh  Chauhan",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15347613/pexels-photo-15347613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket batsman celebrating India",
-        "credit": "Dhruv Khichi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13509630/pexels-photo-13509630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket coach giving advice India",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "युवराज का एक गुरुमंत्र और 30 गेंदों में शतक! 🏏",
-        "caption": "युवराज सिंह के एक गुरुमंत्र ने बदल दी अभिषेक शर्मा की किस्मत! 🤯 मैदान पर उतरते ही ऐसी आंधी आई कि विरोधी टीम देखती रह गई। सिर्फ 30 गेंदों में शतक ठोककर अभिषेक ने सभी को हैरान कर दिया। युवराज की उस सलाह में ऐसा क्या था?\n\nपूरी कहानी देखें और अपनी राय दें!\n\n#AbhishekSharma #YuvrajSingh #TeamIndia #CricketNews #IPL2024"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "युवराज सिंह के एक गुरुमंत्र ने बदल दी अभिषेक शर्मा की किस्मत! 🤯\n\nसिर्फ 30 गेंदों में तूफानी शतक जड़कर अभिषेक ने महफिल लूट ली। गुरु युवराज का वो सीक्रेट टिप क्या था जिसने मैदान का नक्शा ही बदल दिया?\n\nवीडियो पूरा देखें और शेयर करें! 🏏🔥\n\n#AbhishekSharma #YuvrajSingh #TeamIndia #CricketNews #IPL2024"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "युवराज सिंह के एक गुरुमंत्र ने बदल दी अभिषेक शर्मा की किस्मत! 🤯\n\nजब मैदान पर अभिषेक उतरे तो किसी को अंदाजा नहीं था कि क्या होने वाला है। सिर्फ 30 गेंदों में ताबड़तोड़ शतक ठोककर उन्होंने साबित कर दिया कि सही मार्गदर्शन इंसान को कहां से कहां पहुंचा सकता है। युवराज की वो खास सीख क्या थी, आइए जानते हैं इस वीडियो में।\n\nपूरा वीडियो देखें और कमेंट में बताएं आपकी इस पारी पर क्या राय है। 👇\n\n#AbhishekSharma #YuvrajSingh #TeamIndia #CricketNews #IPL2024"
-      },
-      "hashtags": [
-        "AbhishekSharma",
-        "YuvrajSingh",
-        "TeamIndia",
-        "CricketNews",
-        "IPL2024"
-      ]
-    },
-    "audio_path": "audio/abhishek_sharma_fastest_t20_century_yuvraj_tips.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/abhishek_sharma_fastest_t20_century_yuvraj_tips.mp4",
-    "video_duration_sec": 38.19
-  },
-  {
-    "topic_label": "amreli_father_kills_daughter_fridge_suicide",
-    "virality_score": 9,
-    "reason": "Deeply shocking crime story involving financial distress, child murder, and fridge storage before suicide.",
-    "region": "india",
-    "headline": "कमरा सजाया, फिर फ्रिज में बेटी की लाश रख पिता ने दे दी जान!",
-    "source_summary": "गुजरात के अमरेली में आर्थिक तंगी से परेशान एक पिता ने अपनी 5 साल की बेटी की हत्या कर दी और फिर खुदकुशी कर ली. घर के एक कमरे में गुब्बारे, मोमबत्तियां और पूजा की तैयारी थी, जबकि बच्ची का शव फ्रिज में रखा मिला. पुलिस को तीन नोट मिले, जिनमें पिता ने वारदात और इसके पीछे की वजह का जिक्र किया था.",
-    "source_url": "https://www.aajtak.in/india/gujarat/story/amreli-father-kills-daughter-keeps-body-in-fridge-suicide-lclcn-dskc-2646078-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T16:24:50+05:30",
-    "hook": "गुजरात के अमरेली में दिल दहला देने वाली घटना सामने आई है!",
-    "script_hi": "गुजरात के अमरेली में आर्थिक तंगी से परेशान एक पिता ने अपनी पांच साल की बेटी की हत्या कर दी और फिर खुदकुशी कर ली। घर के एक कमरे में गुब्बारे और मोमबत्तियों से सजावट की गई थी, जबकि मासूम बच्ची का शव फ्रिज में रखा मिला। पुलिस को मौके से तीन सुसाइड नोट मिले हैं, जिनमें उसने अपनी मजबूरी का जिक्र किया है।",
-    "tts_text_hi": "गुजरात के अमरेली में आर्थिक तंगी से परेशान एक पिता ने अपनी पांच साल की बेटी की हत्या कर दी और फिर खुदकुशी कर ली। घर के एक कमरे में गुब्बारे और मोमबत्तियों से सजावट की गई थी, जबकि मासूम बच्ची का शव फ्रिज में रखा मिला। पुलिस को मौके से तीन सुसाइड नोट मिले हैं, जिनमें उसने अपनी मजबूरी का जिक्र किया है।",
-    "title": "अमरेली में पिता ने बेटी की हत्या कर की खुदकुशी",
-    "caption": "गुजरात के अमरेली में आर्थिक तंगी के चलते एक पिता ने अपनी पांच साल की मासूम बेटी को मारने के बाद खुद भी जान दे दी।",
-    "hashtags": [
-      "GujaratNews",
-      "Amreli",
-      "CrimeNews",
-      "BreakingNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Amreli Gujarat police station India",
-      "India police investigation room",
-      "sad empty room India"
+      "Sonipat India street",
+      "angry pit bull dog India",
+      "CCTV camera footage India",
+      "medical hospital emergency India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34658141/14690348_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Amreli Gujarat police station India",
-        "credit": "Niihar Doshi",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7230788/7230788-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "India police investigation room",
-        "credit": "MART  PRODUCTION",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8555702/8555702-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "sad Indian family crisis",
-        "credit": "Timur Weber",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7230788/7230788-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India room",
-        "credit": "MART  PRODUCTION",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33557157/pexels-photo-33557157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sad empty room India",
-        "credit": "Bushra Islam",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33986172/pexels-photo-33986172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "poverty struggle India homes",
-        "credit": "Mrj   Cinematic",
-        "duration_sec": 3
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "कमरा सजाया और फिर फ्रिज में रख दी बेटी की लाश! 😱",
-        "caption": "कमरे को सजाने के बाद पिता ने ऐसा खौफनाक कदम उठाया कि पूरा अमरेली दहल उठा। 🛑\n\nगुजरात के अमरेली से एक झकझोर देने वाली घटना सामने आई है जहाँ एक पिता ने पहले अपनी बेटी की हत्या की और फिर खुद भी जान दे दी। पुलिस जब मौके पर पहुँची तो अंदर का नजारा देख सन्न रह गई।\n\nआखिर इस तबाही के पीछे की वजह क्या थी? पूरी कहानी वीडियो में देखें।\n\n#AmreliNews #GujaratCrime #CrimeNews #BreakingNews #PoliceInvestigation"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कमरे को सजाया और फिर फ्रिज में रख दी बेटी की लाश! 😱 गुजरात के अमरेली से सामने आई इस रूह कंपा देने वाली घटना ने सबको झकझोर दिया है।\n\nपुलिस भी हैरान है कि एक पिता ऐसा कैसे कर सकता है। क्या थी इस खौफनाक कदम की असली वजह? \n\nपूरी कहानी देखें और अपनी राय बताएं।\n\n#AmreliNews #GujaratCrime #CrimeNews #BreakingNews #PoliceInvestigation"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "कमरा सजाया, और फिर फ्रिज में रख दी बेटी की लाश! गुजरात के अमरेली से एक ऐसी खौफनाक घटना सामने आई है जिसने सुनने वालों के रोंगटे खड़े कर दिए हैं। 🛑\n\nपुलिस मौके पर पहुँची तो घर का मंजर देख उनके भी होश उड़ गए। पिता ने पहले अपनी ही बेटी की जान ली और फिर खुद भी आत्महत्या कर ली। आखिर इस तबाही के पीछे क्या वजह रही होगी?\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया दें।\n\n#AmreliNews #GujaratCrime #CrimeNews #BreakingNews #PoliceInvestigation"
-      },
-      "hashtags": [
-        "AmreliNews",
-        "GujaratCrime",
-        "CrimeNews",
-        "BreakingNews",
-        "PoliceInvestigation"
-      ]
-    },
-    "audio_path": "audio/amreli_father_kills_daughter_fridge_suicide.wav",
-    "audio_duration_sec": 22.42,
-    "video_path": "videos/amreli_father_kills_daughter_fridge_suicide.mp4",
-    "video_duration_sec": 30.48
-  },
-  {
-    "topic_label": "assam_woman_murders_lover_decapitates_head",
-    "virality_score": 9,
-    "reason": "Grizzly murder case in Assam where a woman and accomplices decapitated a lover and dumped the head.",
-    "region": "india",
-    "headline": "महिला ने चाय बागान में बुलाकर किया प्रेमी का कत्ल, फिर तीन लोगों के साथ काटा सिर; पैकेट में बांधकर फेंका",
-    "source_summary": "असम के जोरहाट में एक दिल दहला देने वाला हत्याकांड सामने आया है, जहां 31 वर्षीय अनिल राजगढ़ की हत्या कर उसका सिर धड़ से अलग कर दिया गया.",
-    "source_url": "https://ndtv.in/india/jorhat-murder-case-four-arrested-for-beheading-neighbour-in-assam-12064214#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 18 Sep 2026 16:30:15 +0530",
-    "hook": "असम के जोरहाट से दिल दहला देने वाला मामला सामने आया है!",
-    "script_hi": "असम के जोरहाट में एक महिला ने अपने प्रेमी को चाय बागान में बुलाया और बेरहमी से कत्ल कर दिया। आरोपी महिला ने तीन अन्य लोगों के साथ मिलकर मृतक का सिर धड़ से अलग कर दिया और फिर सिर को एक पैकेट में बांधकर फेंक दिया। मृतक की पहचान इकतीस वर्षीय अनिल राजगढ़ के रूप में हुई है। पुलिस इस भयानक हत्याकांड की गहराई से जांच कर रही है।",
-    "tts_text_hi": "असम के जोरहाट में एक महिला ने अपने प्रेमी को चाय बागान में बुलाया और बेरहमी से कत्ल कर दिया। आरोपी महिला ने तीन अन्य लोगों के साथ मिलकर मृतक का सिर धड़ से अलग कर दिया और फिर सिर को एक पैकेट में बांधकर फेंक दिया। मृतक की पहचान इकतीस वर्षीय अनिल राजगढ़ के रूप में हुई है। पुलिस इस भयानक हत्याकांड की गहराई से जांच कर रही है।",
-    "title": "असम के जोरहाट में प्रेमी की निर्मम हत्या",
-    "caption": "असम के जोरहाट में दिल दहला देने वाली घटना, महिला ने प्रेमी का सिर काटकर फेंका।",
-    "hashtags": [
-      "#AssamNews",
-      "#CrimeNews",
-      "#Jorhat",
-      "#BreakingNews",
-      "#IndiaCrime",
-      "#PoliceInvestigation"
-    ],
-    "visual_queries": [
-      "Assam tea garden India",
-      "police investigation India",
-      "police station India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 27,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "crime scene police tape India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 23,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36906757/pexels-photo-36906757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Assam tea garden India",
-        "credit": "Mohit Gupta",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32262517/pexels-photo-32262517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "forest bushes aerial view India",
-        "credit": "urtimud.89",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10543088/pexels-photo-10543088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police patrol car flashing lights",
-        "credit": "Gabriel Hohol",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "प्रेमी को चाय बागान में बुलाया और फिर... असम से खौफनाक सच 😱",
-        "caption": "पुलिस ने जब बैग खोला तो सबके होश उड़ गए 🤯 असम के जोरहाट में एक महिला ने अपने ही प्रेमी को चाय बागान में मिलने बुलाया और बेरहमी से कत्ल कर दिया। इसके बाद तीन साथियों की मदद से सिर काटकर पैकेट में फेंका।\n\nआखिर क्या थी इस खौफनाक साजिश की वजह? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AssamNews #JorhatCrime #TrueCrimeHindi #CrimeNews #AssamPolice"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पुलिस ने जब बैग खोला तो सबके होश उड़ गए 🤯\n\nअसम के जोरहाट में एक महिला ने प्रेमी को चाय बागान में बुलाया और फिर तीन लोगों के साथ मिलकर सिर काटकर पैकेट में फेंक दिया।\n\nये खौफनाक सच जानकर रोंगटे खड़े हो जाएंगे। शेयर करें इस हैरान करने वाली खबर को ↗️\n\n#AssamNews #JorhatCrime #TrueCrimeHindi #CrimeNews #AssamPolice"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "पुलिस ने जब बैग खोला तो सबके होश उड़ गए! असम के जोरहाट से एक ऐसा खौफनाक मामला सामने आया है जिसे सुनकर किसी का भी दिल दहल जाए।\n\nएक महिला ने अपने प्रेमी को चाय बागान में मिलने के बहाने बुलाया और बेरहमी से कत्ल कर दिया। बात यहीं खत्म नहीं हुई, इसके बाद तीन अन्य लोगों के साथ मिलकर शव का सिर काटा और पैकेट में भरकर फेंक दिया।\n\nइंसानियत को शर्मसार कर देने वाली इस घटना के पीछे की असली वजह क्या थी? पूरी कहानी वीडियो में देखें और शेयर करें।\n\n#AssamNews #JorhatCrime #TrueCrimeHindi #CrimeNews #AssamPolice"
-      },
-      "hashtags": [
-        "AssamNews",
-        "JorhatCrime",
-        "TrueCrimeHindi",
-        "CrimeNews",
-        "AssamPolice"
-      ]
-    },
-    "audio_path": "audio/assam_woman_murders_lover_decapitates_head.wav",
-    "audio_duration_sec": 24.04,
-    "video_path": "videos/assam_woman_murders_lover_decapitates_head.mp4",
-    "video_duration_sec": 31.96
-  },
-  {
-    "topic_label": "pakistan_kohat_mosque_suicide_bombing",
-    "virality_score": 8,
-    "reason": "High-casualty suicide bombing inside a mosque in Kohat, Pakistan with intense security force clashes.",
-    "region": "india",
-    "headline": "7 फिदायीन हमलावर, दो ब्लास्ट, टारगेट पर नमाजी, PAK में अब तक 23 मौतें",
-    "source_summary": "पाकिस्तान के कोहट में धमाके के बाद पुलिस लाइन परिसर के भीतर हथियारबंद हमलावरों और सुरक्षा बलों के बीच गोलियां चलने लगीं. दरअसल धमाके के बाद ही कुल सात सशस्त्र हमलावर परिसर में घुस गए थे. इसके बाद सुरक्षा बलों और आतंकियों के बीच मुठभेड़ शुरू हो गई.  पाकिस्तान का दावा है कि सभी 7 हमलावरों को मार गिराया गया है.",
-    "source_url": "https://www.aajtak.in/world/story/pakistan-khyber-pakhtunkhwa-suicide-blast-kohat-district-ittehad-ul-mujahideen-ntcppl-dskc-2646283-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T19:11:54+05:30",
-    "hook": "पाकिस्तान में बड़ा आतंकी हमला, सात फिदायीन ढेर!",
-    "script_hi": "पाकिस्तान के कोहट में पुलिस लाइन परिसर पर फिदायीन हमला हुआ है। सात सशस्त्र हमलावरों ने परिसर में घुसकर धमाके किए और अंधाधुंध गोलियां चलाईं। सुरक्षा बलों के साथ हुई भीषण मुठभेड़ में सभी सात हमलावरों को मार गिराया गया है, जबकि इस हिंसा में अब तक तेईस लोगों की मौत हो चुकी है।",
-    "tts_text_hi": "पाकिस्तान के कोहट में पुलिस लाइन परिसर पर फिदायीन हमला हुआ है। सात सशस्त्र हमलावरों ने परिसर में घुसकर धमाके किए और अंधाधुंध गोलियां चलाईं। सुरक्षा बलों के साथ हुई भीषण मुठभेड़ में सभी सात हमलावरों को मार गिराया गया है, जबकि इस हिंसा में अब तक तेईस लोगों की मौत हो चुकी है।",
-    "title": "Pakistan Kohat Attack: कोहट में पुलिस लाइन पर फिदायीन हमला",
-    "caption": "पाकिस्तान के कोहट में पुलिस लाइन परिसर पर फिदायीन हमला, सुरक्षा बलों और आतंकियों की मुठभेड़ में तेईस मौतें।",
-    "hashtags": [
-      "PakistanAttack",
-      "KohatBlast",
-      "BreakingNews",
-      "PakistanNews",
-      "TerrorAttack"
-    ],
-    "visual_queries": [
-      "Pakistan police building",
-      "military operation aftermath",
-      "security forces patrol"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35583675/15078314_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Pakistan police building",
-        "credit": "Umar Khan",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33978437/pexels-photo-33978437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "pakistan city street chaos",
-        "credit": "Muhammad Shamaoon Malik",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11033448/pexels-photo-11033448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "armed security forces street",
-        "credit": "Nishant Sharma",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency services rescue india",
-        "credit": "vikesh zen",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पाकिस्तान में बड़ा आतंकी हमला, 7 फिदायीन ढेर! 🚨",
-        "caption": "सात फिदायीन हमलावर और दो धमाके... पाकिस्तान के कोहट में पुलिस लाइन को दहलाने की पूरी साजिश का पर्दाफाश हुआ है। 💥 इस बड़े हमले में अब तक 23 लोगों की मौत की खबर है।\n\nपूरी कहानी वीडियो में देखें।\n\n#PakistanAttack #KohatBlast #PakistanNews #FidayeenAttack #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पाकिस्तान के कोहट में पुलिस लाइन पर बड़ा आतंकी हमला! सात फिदायीन और दो ब्लास्ट ने हिला दिया। 🚨 23 मौतें और डराने वाले खुलासे।\n\nवीडियो पूरा देखें और अपनी राय बताएं।\n\n#PakistanAttack #KohatBlast #PakistanNews #FidayeenAttack #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "पाकिस्तान में एक बार फिर आतंकियों ने तांडव मचाया है। कोहट में पुलिस लाइन को निशाना बनाकर किए गए दो भीषण धमाकों और सात फिदायीन हमलों में अब तक 23 लोगों की जान जा चुकी है। 💥\n\nनमाजियों को टारगेट करने की इस साजिश के पीछे आखिर किसका हाथ है? पूरी कहानी वीडियो में देखें और शेयर करें।\n\n#PakistanAttack #KohatBlast #PakistanNews #FidayeenAttack #BreakingNews"
-      },
-      "hashtags": [
-        "PakistanAttack",
-        "KohatBlast",
-        "PakistanNews",
-        "FidayeenAttack",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/pakistan_kohat_mosque_suicide_bombing.wav",
-    "audio_duration_sec": 20.0,
-    "video_path": "videos/pakistan_kohat_mosque_suicide_bombing.mp4",
-    "video_duration_sec": 28.02
-  },
-  {
-    "topic_label": "iphone_18_pro_launch_queues_surat_mumbai",
-    "virality_score": 8,
-    "reason": "Massive consumer frenzy over iPhone 18 Pro launch with a man traveling from Surat and waiting 12 hours.",
-    "region": "india",
-    "headline": "iPhone 18 Pro के लिए सूरत से मुंबई आया शख्स, 12 घंटे लाइन में रहा, फिर...",
-    "source_summary": "iPhone 18 Pro की सेल शुरू होते ही इसे खरीदने का क्रेज देखने को मिला. सूरत का एक शख्स खास तौर पर नया iPhone लेने के लिए मुंबई पहुंच गया. वह Apple Store के बाहर करीब 12 घंटे तक लाइन में खड़ा रहा. शख्स ने बताया कि वह रात में ही सूरत से मुंबई आया था और स्टोर के बाहर पहुंचकर सबसे आगे लाइन में खड़ा हो गया.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/iphone-18-pro-surat-man-mumbai-12-hours-queue-apple-store-prym-dskc-2645925-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T17:55:29+05:30",
-    "hook": "नया आईफोन खरीदने के लिए सूरत से मुंबई आया शख्स, बारह घंटे तक लाइन में खड़ा रहा!",
-    "script_hi": "आईफोन अट्ठारह प्रो की सेल शुरू होते ही इसे खरीदने का गजब क्रेज देखने को मिला। सूरत का एक शख्स खास तौर पर नया आईफोन लेने के लिए मुंबई पहुंच गया। वह एप्पल स्टोर के बाहर करीब बारह घंटे तक लाइन में खड़ा रहा। शख्स ने बताया कि वह रात में ही सूरत से मुंबई आया था और स्टोर के बाहर पहुंचकर सबसे सबसे आगे लाइन में खड़ा हो गया।",
-    "tts_text_hi": "आईफोन अट्ठारह प्रो की सेल शुरू होते ही इसे खरीदने का गजब क्रेज देखने को मिला। सूरत का एक शख्स खास तौर पर नया आईफोन लेने के लिए मुंबई पहुंच गया। वह एप्पल स्टोर के बाहर करीब बारह घंटे तक लाइन में खड़ा रहा। शख्स ने बताया कि वह रात में ही सूरत से मुंबई आया था और स्टोर के बाहर पहुंचकर सबसे सबसे आगे लाइन में खड़ा हो गया।",
-    "title": "iPhone 18 Pro के लिए सूरत से मुंबई आया शख्स, 12 घंटे लाइन में रहा",
-    "caption": "नया iPhone 18 Pro खरीदने के लिए सूरत से मुंबई पहुंचे शख्स का दिखा जबरदस्त क्रेज, Apple Store के बाहर 12 घंटे तक लाइन में खड़ा रहा।",
-    "hashtags": [
-      "iPhone18Pro",
-      "AppleStore",
-      "Mumbai",
-      "Surat",
-      "Apple",
-      "TechNews",
-      "ViralNews"
-    ],
-    "visual_queries": [
-      "Apple store Mumbai India",
-      "crowded queue India",
-      "holding new smartphone India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6565809/6565809-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "queuing outside retail store",
-        "credit": "Tim Douglas",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20849104/pexels-photo-20849104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded queue India",
-        "credit": "Abhijeet Gourav",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16349338/pexels-photo-16349338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "holding new smartphone India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37678058/pexels-photo-37678058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people waiting in line India",
-        "credit": "Niraj Yadav",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/2570241/pexels-photo-2570241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "tech store crowd India",
-        "credit": "Anas Jawed",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5622849/pexels-photo-5622849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "excited customer shopping India",
-        "credit": "Gustavo Fring",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6207752/pexels-photo-6207752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "purchasing new smartphone",
-        "credit": "Antoni Shkraba",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "iPhone 18 Pro के लिए सूरत से मुंबई, 12 घंटे लाइन में और फिर... 📱🔥",
-        "caption": "नया आईफोन खरीदने के लिए सूरत से मुंबई आया शख्स, बारह घंटे तक लाइन में खड़ा रहा!\n\nलेकिन जब स्टोर के अंदर जाने की बारी आई, तो वहां कुछ ऐसा हुआ जिसकी किसी ने उम्मीद नहीं की थी। दीवानगी की ये हद देखकर वहां मौजूद लोग भी हैरान रह गए।\n\nपूरी कहानी वीडियो में देखें, और अपनी राय कमेंट में बताएं।\n\n#iPhone18Pro #AppleStoreMumbai #SuratToMumbai #TechNewsHindi #ViralVideo"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "नया आईफोन खरीदने के लिए सूरत से मुंबई आया शख्स, बारह घंटे तक लाइन में खड़ा रहा! 📱✨\n\n12 घंटे की लंबी थकान और इंतजार के बाद जब वह काउंटर पर पहुंचा, तो उसके साथ ऐसा कुछ हुआ जो वायरल हो रहा है। क्या आप कभी किसी फोन के लिए इतनी दूर गए हैं?\n\nपूरी कहानी देखें और शेयर करें।\n\n#iPhone18Pro #AppleStoreMumbai #SuratToMumbai #TechNewsHindi #ViralVideo"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "नया आईफोन खरीदने के लिए सूरत से मुंबई आया शख्स, बारह घंटे तक लाइन में खड़ा रहा! 📱🏃‍♂️\n\nसोशल मीडिया पर इन दिनों एक शख्स की दीवानगी चर्चा का विषय बनी हुई है। सूरत से चलकर मुंबई सिर्फ एक फोन खरीदने पहुंचे इस शख्स ने लाइन में 12 घंटे बिताए, लेकिन इसके बाद जो ट्विस्ट आया उसने सबको चौंका दिया। \n\nवीडियो पूरा देखें और बताएं कि क्या किसी फोन के लिए इतनी मेहनत करना सही है?\n\n#iPhone18Pro #AppleStoreMumbai #SuratToMumbai #TechNewsHindi #ViralVideo"
-      },
-      "hashtags": [
-        "iPhone18Pro",
-        "AppleStoreMumbai",
-        "SuratToMumbai",
-        "TechNewsHindi",
-        "ViralVideo"
-      ]
-    },
-    "audio_path": "audio/iphone_18_pro_launch_queues_surat_mumbai.wav",
-    "audio_duration_sec": 22.38,
-    "video_path": "videos/iphone_18_pro_launch_queues_surat_mumbai.mp4",
-    "video_duration_sec": 30.43
-  },
-  {
-    "topic_label": "kanpur_hotel_youth_chained_beaten_girls",
-    "virality_score": 8,
-    "reason": "Viral and shocking video from a Kanpur hotel showing a youth tied in chains and beaten by two girls.",
-    "region": "india",
-    "headline": "कानपुर: एक होटल, दो लड़कियां और युवक संग बर्बरता!",
-    "source_summary": "कानपुर के माल रोड स्थित ओयो ग्रैंड होटल में दो लड़कियों द्वारा एक युवक को जंजीर से बांधकर पीटने का खौफनाक वीडियो सामने आया है. चिल्लाने की आवाज सुनकर आसपास के लोगों की सूचना पर पहुंची पुलिस ने पीड़ित को छुड़ाया और आरोपियों के खिलाफ केस दर्ज कर जांच शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/kanpur-two-girls-chained-boy-in-oyo-grand-hotel-forced-him-to-strip-then-brutal-treatment-lclam-strc-2646198-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T17:45:34+05:30",
-    "hook": "कानपुर के एक होटल में युवक को जंजीर से बांधकर पीटा!",
-    "script_hi": "कानपुर के माल रोड स्थित ओयो ग्रैंड होटल में एक हैरान करने वाला मामला सामने आया है। यहाँ दो लड़कियों ने एक युवक को जंजीर से बांधकर बेरहमी से पीटा। चीख-पुकार सुनकर स्थानीय लोगों ने पुलिस को सूचना दी। पुलिस ने मौके पर पहुँचकर पीड़ित युवक को छुड़ाया और आरोपियों के खिलाफ मामला दर्ज कर जाँच शुरू कर दी है।",
-    "tts_text_hi": "कानपुर के माल रोड स्थित ओयो ग्रैंड होटल में एक हैरान करने वाला मामला सामने आया है। यहाँ दो लड़कियों ने एक युवक को जंजीर से बांधकर बेरहमी से पीटा। चीख-पुकार सुनकर स्थानीय लोगों ने पुलिस को सूचना दी। पुलिस ने मौके पर पहुँचकर पीड़ित युवक को छुड़ाया और आरोपियों के खिलाफ मामला दर्ज कर जाँच शुरू कर दी है।",
-    "title": "कानपुर: होटल में युवक को जंजीर से बांधकर पीटा",
-    "caption": "कानपुर के माल रोड पर ओयो ग्रैंड होटल के अंदर का मामला, दो लड़कियों ने युवक को जंजीर से बांधकर पीटा। पुलिस ने किया रेस्क्यू।",
-    "hashtags": [
-      "Kanpur",
-      "KanpurNews",
-      "CrimeNews",
-      "UPPolice",
-      "BreakingNews",
-      "ViralVideo"
-    ],
-    "visual_queries": [
-      "hotel building India",
-      "police station India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral video of an incident; generic stock B-roll cannot stand in for the actual real footage.",
+    "flag_reason": "The story centers on a specific viral CCTV video of a dog attack that generic stock B-roll cannot accurately represent; real footage needs manual addition.",
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13975057/pexels-photo-13975057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5837545/pexels-photo-5837545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hotel building India",
-        "credit": "Swapnil Sharma",
+        "query": "Sonipat India street",
+        "credit": "Shantanu Goyal",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7087788/pexels-photo-7087788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
+        "query": "angry pit bull dog India",
+        "credit": "kush  laigude",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV camera footage India",
+        "credit": "Florian Süß",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "medical hospital emergency India",
+        "credit": "Chauhan Dixant",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "brazilian_tiktoker_duda_alves_surgery_death",
-    "virality_score": 8,
-    "reason": "Tragic viral story of 22-year-old Brazilian influencer Duda Alves dying following breast reduction surgery.",
+    "topic_label": "gujarat_man_kills_daughter_keeps_body_in_fridge_suicide",
+    "virality_score": 9,
+    "reason": "A gruesome crime story involving a body kept in a fridge followed by suicide has high true-crime interest.",
     "region": "india",
-    "headline": "TikToker Duda Alves कौन थीं? 22 साल की उम्र में ब्रेस्ट सर्जरी के बाद क्या दर्द से मौत? हो गई थी बुरी हालत",
-    "source_summary": "Brazilian TikToker Duda Alves Death Reason: ब्राजील की मशहूर टिकटॉकर डूडा अल्वेस की 22 साल की उम्र में मौत हो गई। उनके निधन की खबर सामने आने के बाद उनके हालिया वीडियो चर्चा में हैं। इनमें वह ब्रेस्ट रिडक्शन सर्जरी के",
-    "source_url": "https://hindi.oneindia.com/news/entertainment/brazilian-tiktoker-duda-alves-death-reason-at-22-after-breast-surgery-news-hindi-1650355.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Thu, 17 Sep 2026 19:19:56 +0530",
-    "hook": "महज बाईस साल की उम्र में मशहूर टिकटॉकर की रहस्यमयी मौत!",
-    "script_hi": "ब्राजील की मशहूर टिकटॉकर डूडा अल्वेस का बाईस साल की उम्र में निधन हो गया है। मौत से पहले उन्होंने ब्रेस्ट रिडक्शन सर्जरी कराई थी जिसके बाद उनकी तबीयत काफी बिगड़ गई थी। उनके हालिया वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहे हैं और फैंस उनकी अचानक हुई मौत से सदमे में हैं।",
-    "tts_text_hi": "ब्राजील की मशहूर टिकटॉकर डूडा अल्वेस का बाईस साल की उम्र में निधन हो गया है। मौत से पहले उन्होंने ब्रेस्ट रिडक्शन सर्जरी कराई थी जिसके बाद उनकी तबीयत काफी बिगड़ गई थी। उनके हालिया वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहे हैं और फैंस उनकी अचानक हुई मौत से सदमे में हैं।",
-    "title": "TikToker Duda Alves Death",
-    "caption": "ब्राजील की मशहूर टिकटॉकर डूडा अल्वेस का बाईस साल की उम्र में निधन। सर्जरी के बाद बिगड़ी थी तबीयत।",
+    "headline": "Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found",
+    "source_summary": "Police discovered the deaths after Dhanak's wife Manjuben, who had gone to her father's house on September 14, was unable to reach him by phone.",
+    "source_url": "https://www.hindustantimes.com/india-news/gujarat-man-kills-daughter-keeps-body-in-fridge-dies-by-suicide-3-notes-found-101789743338414.html",
+    "source_name": "Hindustan Times - India News",
+    "published": "Fri, 18 Sep 2026 20:53:45 +0530",
+    "hook": "गुजरात से दहला देने वाली खबर! पिता ने बेटी की हत्या कर शव को फ्रिज में रखा और खुद भी कर ली आत्महत्या।",
+    "script_hi": "गुजरात में एक दिल दहला देने वाली घटना सामने आई है। पुलिस ने बताया कि एक पिता ने अपनी बेटी की हत्या कर उसका शव फ्रिज में छुपा दिया और बाद में खुद भी आत्महत्या कर ली। घटनास्थल से तीन सुसाइड नोट भी बरामद हुए हैं। घटना का खुलासा तब हुआ जब आरोपी की पत्नी चौदह सितंबर को अपने मायके गई थीं और फोन पर पति से संपर्क नहीं हो पा रहा था। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "गुजरात में एक दिल दहला देने वाली घटना सामने आई है। पुलिस ने बताया कि एक पिता ने अपनी बेटी की हत्या कर उसका शव फ्रिज में छुपा दिया और बाद में खुद भी आत्महत्या कर ली। घटनास्थल से तीन सुसाइड नोट भी बरामद हुए हैं। घटना का खुलासा तब हुआ जब आरोपी की पत्नी चौदह सितंबर को अपने मायके गई थीं और फोन पर पति से संपर्क नहीं हो पा रहा था। पुलिस मामले की जांच कर रही है।",
+    "title": "Gujarat Man Kills Daughter, Keeps Body in Fridge, Dies by Suicide",
+    "caption": "गुजरात के एक घर से दिल दहला देने वाली घटना सामने आई है जहाँ पिता ने बेटी की हत्या कर शव फ्रिज में रखा और खुद आत्महत्या कर ली।",
     "hashtags": [
-      "DudaAlves",
-      "TikToker",
+      "GujaratNews",
+      "CrimeNews",
       "BreakingNews",
-      "Brazil",
-      "NewsUpdate"
+      "IndiaNews",
+      "PoliceInvestigation",
+      "Gujarat"
     ],
     "visual_queries": [
-      "Brazil flag background",
-      "social media smartphone screen",
-      "medical hospital room",
-      "sad candles grieving"
+      "police station India",
+      "police investigation crime scene India",
+      "forensic team India"
     ],
-    "named_person": "Duda Alves",
-    "named_person_hi": "डूडा अल्वेस",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "डूडा अल्वेस",
-        "source": "fallback",
-        "query": "Duda Alves",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34263157/14517211_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "medical hospital room",
-        "credit": "ibnu cipta",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6998342/6998342-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "medical clinic waiting room",
-        "credit": "Pavel Danilyuk",
-        "source_duration_sec": 30,
-        "duration_sec": 6
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35765333/pexels-photo-35765333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Brazil flag background",
-        "credit": "Andre Moura",
-        "duration_sec": 5
+        "query": "police investigation crime scene India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481269/pexels-photo-10481269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "social media smartphone screen",
-        "credit": "ready made",
-        "duration_sec": 5
+        "query": "forensic team India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "Srujan J.",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34698628/pexels-photo-34698628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian house exterior day",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28368185/pexels-photo-28368185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene india",
+        "credit": "Boys in Bristol Photography",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29720899/pexels-photo-29720899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty street india night",
+        "credit": "Sohan Maharjan",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "TikToker Duda Alves की सर्जरी के दौरान मौत? 22 साल की उम्र में क्या हुआ था",
-        "caption": "महज बाईस साल की उम्र में मशहूर टिकटॉकर की रहस्यमयी मौत! 🚨\n\nब्रस्ट सर्जरी के बाद तबीयत इतनी बिगड़ गई कि इस युवा क्रिएटर की जान चली गई। परिवार ने इस पूरी प्रक्रिया पर गंभीर सवाल उठाए हैं और मामला अब सुर्खियों में है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DudaAlves #TikTokerDeath #BreastSurgeryRisk #BreakingNews #TrendingNews"
+        "title": "बेटी की हत्या कर शव फ्रिज में रखा, फिर पिता ने खुद को भी खत्म किया | Gujarat Crime",
+        "caption": "गुजरात से एक बेहद दहला देने वाली घटना सामने आई है। एक पिता ने अपनी ही बेटी की हत्या करने के बाद उसके शव को फ्रिज में छुपा दिया और खुद भी आत्महत्या कर ली। 🧊\n\nमौके से पुलिस को तीन सुसाइड नोट भी मिले हैं, जिनमें दिल दहला देने वाले राज़ छिपे हैं। \n\nपूरी घटना की सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#GujaratCrime #CrimeNews #SuratNews #PoliceInvestigation #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "महज बाईस साल की उम्र में मशहूर टिकटॉकर की रहस्यमयी मौत! 🚨\n\nब्रस्ट सर्जरी के बाद अचानक ऐसा क्या हुआ कि इस युवा क्रिएटर की हालत बिगड़ गई और जान चली गई?\n\nआपकी इस बारे में क्या राय है, हमें कमेंट में बताएं।\n\n#DudaAlves #TikTokerDeath #BreastSurgeryRisk #BreakingNews #TrendingNews"
+        "caption": "फ्रीज में बेटी की लाश और पास में पिता की खुदकुशी... 🥶 गुजरात की इस खौफनाक वारदात ने सबको सन्न कर दिया है। \n\nमौके से मिले तीन सुसाइड नोट में आखिर क्या लिखा था? जानिए पूरी कहानी।\n\n#GujaratCrime #CrimeNews #SuratNews #PoliceInvestigation #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "महज बाईस साल की उम्र में मशहूर टिकटॉकर की रहस्यमयी मौत! 🚨\n\nसोशल मीडिया पर अपनी पहचान बनाने वाली Duda Alves ने हाल ही में ब्रस्ट सर्जरी कराई थी, जिसके बाद उनकी तबीयत लगातार बिगड़ती चली गई। परिवार अब इस पूरी मेडिकल प्रक्रिया पर सवाल उठा रहा है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#DudaAlves #TikTokerDeath #BreastSurgeryRisk #BreakingNews #TrendingNews"
+        "caption": "गुजरात से एक ऐसी सनसनीखेज खबर सामने आई है जिसने सुनने वालों के रोंगटे खड़े कर दिए हैं। एक पिता ने अपनी ही बेटी की बेरहमी से हत्या करने के बाद उसके शव को फ्रिज के अंदर रख दिया और खुद भी आत्महत्या कर ली। 🚨\n\nजांच के दौरान पुलिस को मौके से तीन सुसाइड नोट बरामद हुए हैं, जो इस खौफनाक कदम के पीछे की वजह पर से पर्दा उठा रहे हैं। आखिर ऐसी क्या नौबत आई कि एक पिता ने यह खौफनाक कदम उठाया? पूरी सच्चाई जानने के लिए वीडियो देखें।\n\n#GujaratCrime #CrimeNews #SuratNews #PoliceInvestigation #BreakingNews"
       },
       "hashtags": [
-        "DudaAlves",
-        "TikTokerDeath",
-        "BreastSurgeryRisk",
-        "BreakingNews",
-        "TrendingNews"
+        "GujaratCrime",
+        "CrimeNews",
+        "SuratNews",
+        "PoliceInvestigation",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/brazilian_tiktoker_duda_alves_surgery_death.wav",
-    "audio_duration_sec": 18.95,
-    "video_path": "videos/brazilian_tiktoker_duda_alves_surgery_death.mp4",
-    "video_duration_sec": 26.96
+    "audio_path": "audio/gujarat_man_kills_daughter_keeps_body_in_fridge_suicide.wav",
+    "audio_duration_sec": 27.77,
+    "video_path": "videos/gujarat_man_kills_daughter_keeps_body_in_fridge_suicide.mp4",
+    "video_duration_sec": 35.79
+  },
+  {
+    "topic_label": "kuno_national_park_cheetah_cubs_born",
+    "virality_score": 8,
+    "reason": "Positive wildlife news about four new cheetah cubs born at Kuno National Park reaching a milestone population.",
+    "region": "india",
+    "headline": "MP News : कूनो में फिर गूंजी चीतों की किलकारी, मादा चीता KGP12 ने दिया 4 शावकों को जन्म; संख्या बढ़कर 56",
+    "source_summary": "कूनो नेशनल पार्क में केजीपी12 को चार शावकों का जन्म भारत में चीता पुनर्प्रस्तुति में एक मील का पत्थर है, जिससे जीवित चीतों की कुल संख्या 56 हो गई है।",
+    "source_url": "https://hindi.oneindia.com/news/india/india-cheetah-reintroduction-four-cubs-born-at-kuno-2026-012-1651101.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Fri, 18 Sep 2026 20:01:08 +0530",
+    "hook": "कूनो नेशनल पार्क से आई बड़ी खुशखबरी!",
+    "script_hi": "मध्य प्रदेश के कूनो नेशनल पार्क में चीतों की संख्या में बड़ा इज़ाफ़ा हुआ है। मादा चीता केजीपी बारह ने चार शावकों को जन्म दिया है। इसके साथ ही भारत में चीतों की कुल संख्या बढ़कर छप्पन हो गई है। यह देश में चीता पुनर्प्रस्तुति प्रोजेक्ट के लिए एक बहुत बड़ा मील का पत्थर है।",
+    "tts_text_hi": "मध्य प्रदेश के कूनो नेशनल पार्क में चीतों की संख्या में बड़ा इज़ाफ़ा हुआ है। मादा चीता केजीपी बारह ने चार शावकों को जन्म दिया है। इसके साथ ही भारत में चीतों की कुल संख्या बढ़कर छप्पन हो गई है। यह देश में चीता पुनर्प्रस्तुति प्रोजेक्ट के लिए एक बहुत बड़ा मील का पत्थर है।",
+    "title": "कूनो नेशनल पार्क में चीतों की संख्या बढ़ी",
+    "caption": "मध्य प्रदेश के कूनो नेशनल पार्क से खुशखबरी, मादा चीता ने चार शावकों को दिया जन्म।",
+    "hashtags": [
+      "#KunoNationalPark",
+      "#Cheetah",
+      "#MadhyaPradesh",
+      "#GoodNews",
+      "#WildlifeIndia",
+      "#CheetahReintroduction"
+    ],
+    "visual_queries": [
+      "Kuno National Park India landscape",
+      "wild cheetah mother India",
+      "baby cheetah cubs India",
+      "Indian wildlife sanctuary forest"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38013914/pexels-photo-38013914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kuno National Park India landscape",
+        "credit": "Mangalam Bhargava",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15079537/pexels-photo-15079537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wildlife sanctuary India",
+        "credit": "Shoyab Khan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35631480/pexels-photo-35631480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "baby cheetah cubs India",
+        "credit": "Ahmet Yüksek ✪",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33353853/pexels-photo-33353853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian wildlife sanctuary forest",
+        "credit": "Animesh Paul",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कूनो नेशनल पार्क में गूंजी किलकारी! मादा चीता ने दिए 4 शावक 🐅",
+        "caption": "सीसीटीवी में कैद हुआ वो पल जब कूनो से आई इस खुशखबरी ने सबको चौंका दिया। 🐅\n\nमध्य प्रदेश के कूनो नेशनल पार्क में चीतों की संख्या अब बढ़कर 56 हो गई है। मादा चीता KGP12 ने चार नए शावकों को जन्म दिया है, जिससे वन्यजीव प्रेमियों में जबरदस्त उत्साह है।\n\nपूरी कहानी वीडियो में देखें और बताएं, आपको यह अपडेट कैसा लगा?\n\n#KunoNationalPark #CheetahInIndia #MPNews #WildlifeIndia #CheetahCubs"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में कैद हुआ वो पल जब कूनो से आई इस खुशखबरी ने सबको चौंका दिया! 🐅\n\nमादा चीता KGP12 ने एक साथ चार शावकों को जन्म दिया है। इसके साथ ही कूनो नेशनल पार्क में चीतों का कुल आंकड़ा अब बढ़कर 56 पर पहुंच गया है।\n\nवन्यजीव प्रेमियों के साथ इस खुशखबरी को जरूर शेयर करें!\n\n#KunoNationalPark #CheetahInIndia #MPNews #WildlifeIndia #CheetahCubs"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जब अचानक सामने आया यह वीडियो, तो वन विभाग के भी होश उड़ गए! 🐅\n\nमध्य प्रदेश के कूनो नेशनल पार्क से एक बहुत ही शानदार खबर सामने आई है। यहां मादा चीता KGP12 ने चार नए शावकों को जन्म दिया है, जिसके बाद पार्क में चीतों की कुल संख्या अब 56 हो गई है। भारत में चीता प्रोजेक्ट के लिए यह एक बहुत बड़ी सफलता मानी जा रही है।\n\nवीडियो पूरा देखें और कमेंट में अपनी राय जरूर शेयर करें।\n\n#KunoNationalPark #CheetahInIndia #MPNews #WildlifeIndia #CheetahCubs"
+      },
+      "hashtags": [
+        "KunoNationalPark",
+        "CheetahInIndia",
+        "MPNews",
+        "WildlifeIndia",
+        "CheetahCubs"
+      ]
+    },
+    "audio_path": "audio/kuno_national_park_cheetah_cubs_born.wav",
+    "audio_duration_sec": 19.61,
+    "video_path": "videos/kuno_national_park_cheetah_cubs_born.mp4",
+    "video_duration_sec": 27.67
+  },
+  {
+    "topic_label": "ladakh_high_altitude_flower_garden",
+    "virality_score": 8,
+    "reason": "World's highest twin flower fields opening in Ladakh with 2.5 million flowers is visually striking and unique.",
+    "region": "india",
+    "headline": "10,600 फीट की ऊंचाई पर खिले 25 लाख फूल, लद्दाख में खुला फ्लावर गार्डन, मात्र इतने की है टिकट",
+    "source_summary": "लद्दाख में 10,600 फीट की ऊंचाई पर 25 लाख फूलों से सजा शानदार फ्लावर गार्डन पर्यटकों के लिए खुल गया है. प्रशासन का दावा है कि ये दुनिया के सबसे ऊंचाई पर स्थित ट्विन फ्लावर फील्ड्स हैं.",
+    "source_url": "https://ndtv.in/lifestyle/flower-garden-in-ladakh-opens-with-25-lakh-flowers-know-ticket-price-and-details-12064684#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 18 Sep 2026 17:03:46 +0530",
+    "hook": "दस हजार छह सौ फीट की ऊंचाई पर खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन!",
+    "script_hi": "लद्दाख में दस हजार छह सौ फीट की ऊंचाई पर पच्चीस लाख फूलों से सजा शानदार फ्लावर गार्डन पर्यटकों के लिए खुल गया है। प्रशासन का दावा है कि ये दुनिया के सबसे ऊंचाई पर स्थित ट्विन फ्लावर फील्ड्स हैं।",
+    "tts_text_hi": "लद्दाख में दस हजार छह सौ फीट की ऊंचाई पर पच्चीस लाख फूलों से सजा शानदार फ्लावर गार्डन पर्यटकों के लिए खुल गया है। प्रशासन का दावा है कि ये दुनिया के सबसे ऊंचाई पर स्थित ट्विन फ्लावर फील्ड्स हैं।",
+    "title": "लद्दाख में खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन",
+    "caption": "लद्दाख में दस हजार छह सौ फीट की ऊंचाई पर पच्चीस लाख फूलों से सजा शानदार फ्लावर गार्डन पर्यटकों के लिए खुल गया है।",
+    "hashtags": [
+      "#Ladakh",
+      "#FlowerGarden",
+      "#LadakhTourism",
+      "#TravelIndia",
+      "#BeautifulLadakh",
+      "#NewsShorts"
+    ],
+    "visual_queries": [
+      "Ladakh mountain landscape India",
+      "flower garden blooming India",
+      "tourists visiting Ladakh India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5202028/pexels-photo-5202028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ladakh mountain landscape India",
+        "credit": "Julia Volk",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29137860/pexels-photo-29137860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "flower garden blooming India",
+        "credit": "Anurag Jamwal",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37764874/pexels-photo-37764874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "tourists visiting Ladakh India",
+        "credit": "Harsh  Kukadiya",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31756518/pexels-photo-31756518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high altitude mountain road India",
+        "credit": "Harsh  Kukadiya",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19966820/pexels-photo-19966820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "tourists walking in garden India",
+        "credit": "Ranjeet  Chauhan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38393250/pexels-photo-38393250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "colorful flower field landscape",
+        "credit": "Ebra",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14864072/pexels-photo-14864072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people visiting tourist attraction India",
+        "credit": "Shantanu Goyal",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "10,600 फीट की ऊंचाई पर खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन! 🌸",
+        "caption": "दस हजार छह सौ फीट की ऊंचाई पर खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन!\n\nलद्दाख की सूखी और ठंडी वादियों में 25 लाख से ज्यादा रंग-बिरंगे फूल खिले हैं। ऑक्सीजन की कमी और माइनस तापमान को मात देकर तैयार हुए इस गार्डन की टिकट मात्र कुछ ही रुपये है।\n\nपूरी कहानी देखें और बताएं कैसा लगा यह नजारा।\n\n#Ladakh #FlowerGarden #LehLadakh #TravelIndia #UniquePlaces"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दस हजार छह सौ फीट की ऊंचाई पर खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन! 🌸\n\nलद्दाख की बंजर पहाड़ियों के बीच 25 लाख फूलों की यह बहार किसी चमत्कार से कम नहीं है। माइनस तापमान में कैसे तैयार हुआ यह गार्डन?\n\nवीडियो पूरा देखें और ऐसे ही अनोखे सफर के लिए फॉलो करें।\n\n#Ladakh #FlowerGarden #LehLadakh #TravelIndia #UniquePlaces"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "दस हजार छह सौ फीट की ऊंचाई पर खुला दुनिया का सबसे ऊंचा फ्लावर गार्डन! 🌸\n\nजहां सांस लेना भी मुश्किल होता है, लद्दाख की उसी ठंडी और बंजर ज़मीन पर अब 25 लाख से ज्यादा रंग-बिरंगे फूल खिल उठे हैं। ऑक्सीजन की कमी को हराकर वैज्ञानिकों और स्थानीय लोगों ने इस नामुमकिन काम को मुमकिन कर दिखाया है।\n\nइस अनोखे गार्डन की टिकट भी बेहद कम रखी गई है ताकि हर कोई इसका दीदार कर सके। वीडियो में देखिए इस खूबसूरत जगह की पूरी झलक।\n\n#Ladakh #FlowerGarden #LehLadakh #TravelIndia #UniquePlaces"
+      },
+      "hashtags": [
+        "Ladakh",
+        "FlowerGarden",
+        "LehLadakh",
+        "TravelIndia",
+        "UniquePlaces"
+      ]
+    },
+    "audio_path": "audio/ladakh_high_altitude_flower_garden.wav",
+    "audio_duration_sec": 14.43,
+    "video_path": "videos/ladakh_high_altitude_flower_garden.mp4",
+    "video_duration_sec": 22.49
+  },
+  {
+    "topic_label": "philippines_school_shooting_global",
+    "virality_score": 7,
+    "reason": "A tragic school shooting in the Philippines involving multiple casualties is a significant international news item.",
+    "region": "global",
+    "headline": "Three dead and eight injured in Philippines school shooting",
+    "source_summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Fri, 18 Sep 2026 11:01:46 GMT",
+    "hook": "फिलिपींस के स्कूल में अंधाधुंध गोलीबारी!",
+    "script_hi": "फिलिपींस के एक स्कूल में हुई गोलीबारी में तीन लोगों की मौत हो गई है और आठ अन्य घायल हो गए हैं। हमलावर भी मृतकों में शामिल है। जून के बाद से देश में स्कूल गोलीबारी की यह तीसरी घटना है।",
+    "tts_text_hi": "फिलिपींस के एक स्कूल में हुई गोलीबारी में तीन लोगों की मौत हो गई है और आठ अन्य घायल हो गए हैं। हमलावर भी मृतकों में शामिल है। जून के बाद से देश में स्कूल गोलीबारी की यह तीसरी घटना है।",
+    "title": "फिलिपींस स्कूल गोलीबारी",
+    "caption": "फिलिपींस के एक स्कूल में गोलीबारी की घटना में तीन लोगों की मौत, हमलावर भी ढेर।",
+    "hashtags": [
+      "Philippines",
+      "SchoolShooting",
+      "BreakingNews",
+      "WorldNews",
+      "CrimeNews"
+    ],
+    "visual_queries": [
+      "school building exterior",
+      "police tape crime scene",
+      "ambulance emergency lights"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17565045/pexels-photo-17565045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "school building exterior",
+        "credit": "Elina Volkova",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "Srujan J.",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance emergency lights",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481257/pexels-photo-10481257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation outside",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12936001/pexels-photo-12936001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "emergency vehicles flashing",
+        "credit": "Jonathan Cooper",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17565045/pexels-photo-17565045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "generic school building",
+        "credit": "Elina Volkova",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464471/pexels-photo-10464471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "asian breaking news",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फिलिपींस के स्कूल में खूनी खेल: 3 की मौत, 8 घायल 🏫🔫",
+        "caption": "फिलिपींस के स्कूल में अंधाधुंध गोलीबारी! 🏫🔫\n\nएक सामान्य दिन अचानक चीख-पुकार में बदल गया जब स्कूल परिसर गोलियों की आवाज़ से गूंज उठा। इस भयानक हमले में 3 लोगों की जान चली गई और 8 अन्य गंभीर रूप से घायल हो गए। \n\nपूरी कहानी देखें और जानें क्या है पूरा मामला।\n\n#PhilippinesSchoolShooting #GlobalNews #BreakingNews #WorldNews #SchoolSafety"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "फिलिपींस के स्कूल में अंधाधुंध गोलीबारी! 🏫🔫\n\nस्कूल के अंदर हुई इस खूनी झड़प में 3 बेकसूरों की मौत हो गई और 8 लोग बुरी तरह घायल हैं। \n\nक्या स्कूल अब बच्चों के लिए भी सुरक्षित नहीं रहे? अपनी राय कमेंट में बताएं।\n\n#PhilippinesSchoolShooting #GlobalNews #BreakingNews #WorldNews #SchoolSafety"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "फिलिपींस के स्कूल में अंधाधुंध गोलीबारी! 🏫🔫\n\nहर दिन की तरह स्कूल खुला था, लेकिन कुछ ही पलों में सबकुछ बदल गया। अंधाधुंध फायरिंग की इस घटना ने पूरे इलाके को दहला दिया है, जिसमें 3 लोगों की दर्दनाक मौत हो गई और 8 लोग गंभीर रूप से घायल हैं। \n\nसुरक्षा व्यवस्था पर अब गंभीर सवाल उठ रहे हैं। पूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PhilippinesSchoolShooting #GlobalNews #BreakingNews #WorldNews #SchoolSafety"
+      },
+      "hashtags": [
+        "PhilippinesSchoolShooting",
+        "GlobalNews",
+        "BreakingNews",
+        "WorldNews",
+        "SchoolSafety"
+      ]
+    },
+    "audio_path": "audio/philippines_school_shooting_global.wav",
+    "audio_duration_sec": 14.02,
+    "video_path": "videos/philippines_school_shooting_global.mp4",
+    "video_duration_sec": 22.02
   }
 ]

@@ -1,10 +1,8 @@
-ready_labels: ['abhishek_sharma_fastest_t20_century_yuvraj_tips', 'amreli_father_kills_daughter_fridge_suicide', 'assam_woman_murders_lover_decapitates_head', 'brazilian_tiktoker_duda_alves_surgery_death', 'iphone_18_pro_launch_queues_surat_mumbai', 'nithari_case_surendra_koli_death_questions', 'pakistan_kohat_mosque_suicide_bombing']
+ready_labels: ['bareilly_man_bitten_by_snake_hospital_bag', 'gujarat_man_kills_daughter_keeps_body_in_fridge_suicide', 'kuno_national_park_cheetah_cubs_born', 'ladakh_high_altitude_flower_garden', 'philippines_school_shooting_global']
 
-nithari_case_surendra_koli_death_questions: SUCCESS -> video_path=videos/nithari_case_surendra_koli_death_questions.mp4 dur=25.252222
-abhishek_sharma_fastest_t20_century_yuvraj_tips: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20_century_yuvraj_tips.mp4 dur=38.189887
-amreli_father_kills_daughter_fridge_suicide: SUCCESS -> video_path=videos/amreli_father_kills_daughter_fridge_suicide.mp4 dur=30.476213
-assam_woman_murders_lover_decapitates_head: SUCCESS -> video_path=videos/assam_woman_murders_lover_decapitates_head.mp4 dur=31.956553
-pakistan_kohat_mosque_suicide_bombing: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_bombing.mp4 dur=28.02322
-iphone_18_pro_launch_queues_surat_mumbai: SUCCESS -> video_path=videos/iphone_18_pro_launch_queues_surat_mumbai.mp4 dur=30.430227
-kanpur_hotel_youth_chained_beaten_girls: SKIPPED (not in ready set)
-brazilian_tiktoker_duda_alves_surgery_death: SUCCESS -> video_path=videos/brazilian_tiktoker_duda_alves_surgery_death.mp4 dur=26.956553
+bareilly_man_bitten_by_snake_hospital_bag: SUCCESS -> video_path=videos/bareilly_man_bitten_by_snake_hospital_bag.mp4 dur=30.384218
+sonipat_pit_bull_mauls_baby_cctv: SKIPPED (not in ready set)
+gujarat_man_kills_daughter_keeps_body_in_fridge_suicide: SUCCESS -> video_path=videos/gujarat_man_kills_daughter_keeps_body_in_fridge_suicide.mp4 dur=35.789887
+kuno_national_park_cheetah_cubs_born: SUCCESS -> video_path=videos/kuno_national_park_cheetah_cubs_born.mp4 dur=27.667211
+ladakh_high_altitude_flower_garden: SUCCESS -> video_path=videos/ladakh_high_altitude_flower_garden.mp4 dur=22.489229
+philippines_school_shooting_global: SUCCESS -> video_path=videos/philippines_school_shooting_global.mp4 dur=22.02322
