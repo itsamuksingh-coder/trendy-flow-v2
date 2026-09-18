@@ -1,7 +1,9 @@
-ready_labels: ['abhishek_sharma_fastest_t20_century_record', 'canada_eu_associate_membership_proposal', 'india_women_cricket_japan_asian_games', 'nithari_case_surendra_koli_suicide']
+ready_labels: ['gujarat_heavy_rains_flooding_imd_alert', 'iphone_18_pro_launch_sales_queues', 'kannauj_car_accident_reel_stunt_deaths', 'nithari_case_accused_surendra_koli_suicide', 'pakistan_kohat_mosque_suicide_blast', 'rohit_sharma_record_broken_abhishek_sharma']
 
-nithari_case_surendra_koli_suicide: SUCCESS -> video_path=videos/nithari_case_surendra_koli_suicide.mp4 dur=22.140227
-abhishek_sharma_fastest_t20_century_record: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20_century_record.mp4 dur=29.556553
-india_women_cricket_japan_asian_games: SUCCESS -> video_path=videos/india_women_cricket_japan_asian_games.mp4 dur=32.984218
-delhi_swaroop_nagar_teen_gangrape_murder: SKIPPED (not in ready set)
-canada_eu_associate_membership_proposal: SUCCESS -> video_path=videos/canada_eu_associate_membership_proposal.mp4 dur=18.541224
+rohit_sharma_record_broken_abhishek_sharma: SUCCESS -> video_path=videos/rohit_sharma_record_broken_abhishek_sharma.mp4 dur=28.410227
+nithari_case_accused_surendra_koli_suicide: SUCCESS -> video_path=videos/nithari_case_accused_surendra_koli_suicide.mp4 dur=27.356553
+iphone_18_pro_launch_sales_queues: SUCCESS -> video_path=videos/iphone_18_pro_launch_sales_queues.mp4 dur=26.556553
+gujarat_heavy_rains_flooding_imd_alert: SUCCESS -> video_path=videos/gujarat_heavy_rains_flooding_imd_alert.mp4 dur=26.289887
+pakistan_kohat_mosque_suicide_blast: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_blast.mp4 dur=30.22322
+delhi_rk_puram_hit_and_drag_bike_video: SKIPPED (not in ready set)
+kannauj_car_accident_reel_stunt_deaths: SUCCESS -> video_path=videos/kannauj_car_accident_reel_stunt_deaths.mp4 dur=38.12322
