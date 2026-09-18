@@ -1,3 +1,7 @@
-ready_labels: []
+ready_labels: ['abhishek_sharma_fastest_t20_century_record', 'canada_eu_associate_membership_proposal', 'india_women_cricket_japan_asian_games', 'nithari_case_surendra_koli_suicide']
 
-hyderabad_it_company_python_carry_away: SKIPPED (not in ready set)
+nithari_case_surendra_koli_suicide: SUCCESS -> video_path=videos/nithari_case_surendra_koli_suicide.mp4 dur=22.140227
+abhishek_sharma_fastest_t20_century_record: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20_century_record.mp4 dur=29.556553
+india_women_cricket_japan_asian_games: SUCCESS -> video_path=videos/india_women_cricket_japan_asian_games.mp4 dur=32.984218
+delhi_swaroop_nagar_teen_gangrape_murder: SKIPPED (not in ready set)
+canada_eu_associate_membership_proposal: SUCCESS -> video_path=videos/canada_eu_associate_membership_proposal.mp4 dur=18.541224
