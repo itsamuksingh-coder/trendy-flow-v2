@@ -1,260 +1,8 @@
 [
   {
-    "topic_label": "nithari_case_surendra_koli_suicide",
+    "topic_label": "rohit_sharma_record_broken_abhishek_sharma",
     "virality_score": 9,
-    "reason": "High-profile criminal case accused Surendra Koli committed suicide in Haridwar, driving massive public interest.",
-    "region": "india",
-    "headline": "निठारी कांड: सुरेंद्र कोली ने की आत्महत्या, हरिद्वार में चाय की दुकान में लगाई फांसी",
-    "source_summary": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली. वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था. पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है.",
-    "source_url": "https://www.aajtak.in/india/uttarakhand/story/nithari-case-surendra-koli-commits-suicide-in-haridwar-ntc-apdy-rpti-2645882-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T13:32:28+05:30",
-    "hook": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या!",
-    "script_hi": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली। वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था। पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है।",
-    "tts_text_hi": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार के भूपतवाला क्षेत्र में फांसी लगाकर आत्महत्या कर ली। वह पिछले कुछ दिनों से वहां चाय की दुकान चला रहा था। पुलिस ने शव को कब्जे में लेकर जांच शुरू कर दी है।",
-    "title": "निठारी कांड: सुरेंद्र कोली ने की आत्महत्या",
-    "caption": "बहुचर्चित निठारी कांड के सुरेंद्र कोली ने हरिद्वार में आत्महत्या कर ली।",
-    "hashtags": [
-      "NithariCase",
-      "SurenderKoli",
-      "Haridwar",
-      "BreakingNews",
-      "CrimeNews"
-    ],
-    "visual_queries": [
-      "India police station exterior",
-      "Haridwar street India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 25,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37155332/pexels-photo-37155332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India police station exterior",
-        "credit": "Niyas Pt",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32197896/pexels-photo-32197896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Haridwar street India",
-        "credit": "Umang & Meet",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34324342/pexels-photo-34324342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian tea stall",
-        "credit": "Jinshu Pulpatta",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian street market",
-        "credit": "Umang & Meet",
-        "duration_sec": 4.5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "निठारी कांड: आरोपी सुरेंद्र कोली ने की आत्महत्या! 🚨",
-        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में चाय की दुकान के अंदर फांसी लगाकर अपनी जान दे दी। देश को झकझोर देने वाले इस बहुचर्चित मामले में अब यह नया मोड़ आया है। पूरी कहानी देखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में चाय की दुकान पर लगाई फांसी। इस खौफनाक मामले के मुख्य आरोपी के इस कदम ने सबको हैरान कर दिया है। क्या सच कभी सामने आ पाएगा?\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में जिस दुकान पर वो काम करता था, वहीं उसका शव मिलने से सनसनी फैल गई है। देश को दहला देने वाले इस वीभत्स मामले में अब तक का सबसे बड़ा मोड़ आया है।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
-      },
-      "hashtags": [
-        "NithariCase",
-        "SurendraKoli",
-        "HaridwarNews",
-        "CrimeNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/nithari_case_surendra_koli_suicide.wav",
-    "audio_duration_sec": 14.08,
-    "video_path": "videos/nithari_case_surendra_koli_suicide.mp4",
-    "video_duration_sec": 22.14,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-18T08:43:38.665522+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aacf9d13d9349be83e10c9f",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में जिस दुकान पर वो काम करता था, वहीं उसका शव मिलने से सनसनी फैल गई है। देश को दहला देने वाले इस वीभत्स मामले में अब तक का सबसे बड़ा मोड़ आया है।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789721038890_nou6l8j1_nithari_case_surendra_koli_suicide.mp4",
-                "_id": "6aacf9d13d9349be83e10ca0"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwHSPEfY&_nc_oc=AdrXv8xxDwQmxZpDSAXUs6_Or0EBue4HlVriWyM2FKdDPCrJ2U2ITGqj2q6sRdFutqM&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=iGEl9_12fMLwGmbqQf6MgQ&_nc_tpa=Q5bMBQLTLCzWGp5nwaiogBzX-ZsfIkwU-rTdc-oW2E8rgLRKDXhaNEBtco5YVv8xG5-_XnGBZ8AI5TA-&oh=00_AQK89aA-rWRYg3WA4IDZB_w-0_fyxhAZDkxtiLjnOA7A_A&oe=6AB28E94",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-18T08:44:00.811Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "e980f9468c593492224c27c1412528a2",
-                "_id": "6aacf9d13d9349be83e10ca1",
-                "platformPostId": "2269071357212872",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2269071357212872",
-                "publishedAt": "2026-09-18T08:44:07.696Z"
-              }
-            ],
-            "scheduledFor": "2026-09-18T08:44:00.811Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:44:01.895Z",
-            "updatedAt": "2026-09-18T08:44:07.792Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:44:02.323Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-18T08:44:07.986934+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aacf9f263ba7c8ae87e9529",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "निठारी कांड का आरोपी सुरेंद्र कोली ने की आत्महत्या! हरिद्वार में चाय की दुकान पर लगाई फांसी। इस खौफनाक मामले के मुख्य आरोपी के इस कदम ने सबको हैरान कर दिया है। क्या सच कभी सामने आ पाएगा?\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789721071187_76drdhcp_nithari_case_surendra_koli_suicide.mp4",
-                "_id": "6aacf9f263ba7c8ae87e952a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CJ0_yRNLTkcQ7kNvwG5vHx1&_nc_oc=AdpCocvLPe0MdwPLX7N6FLntwLBaNyGlrzxiHM6Zi49jDvcmjNAxHUl3ysqjzTyrNwQ&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UxYI42QI3HtTM_uAkjz1uQ&_nc_tpa=Q5bMBQJxZEgc07F82510xkq0QOjKYxFyI1xFropOTyGvBLdLP3b442-h78P0lKU8L3Y273s7is3Bi8RTYQ&oh=00_AQIiDUheOEOQxGGBMz-OkeFfJ-3KgqNhAESD0J7W3_Uu_Q&oe=6AB2823B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-18T08:44:32.912Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "4b84cf4827ad48254120b04662488cf9",
-                "_id": "6aacf9f263ba7c8ae87e952b"
-              }
-            ],
-            "scheduledFor": "2026-09-18T08:44:32.912Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:44:34.288Z",
-            "updatedAt": "2026-09-18T08:44:36.704Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:44:34.403Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-18T08:44:37.075929+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "abhishek_sharma_fastest_t20_century_record",
-    "virality_score": 9,
-    "reason": "Abhishek Sharma breaks Rohit Sharma's record by hitting a 30-ball century against Afghanistan.",
+    "reason": "Abhishek Sharma shatters Rohit Sharma's long-standing Indian T20 century record.",
     "region": "india",
     "headline": "रोहित शर्मा का रिकॉर्ड तोड़ अभिषेक बने सबसे तेज शतकवीर",
     "source_summary": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी20 में 34 गेंदों पर 108 रन की तूफानी पारी खेली। उन्होंने 30 गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ा। भारत ने 127 रन से मैच जीतकर सीरीज 3-0 से अपने नाम की।",
@@ -262,20 +10,22 @@
     "source_name": "Aaj Tak",
     "published": "2026-09-18T10:18:25+05:30",
     "hook": "अभिषेक शर्मा ने तोड़ा रोहित शर्मा का बड़ा रिकॉर्ड!",
-    "script_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर सीरीज तीन-शून्य से अपने नाम कर ली।",
-    "tts_text_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर सीरीज तीन-शून्य से अपने नाम कर ली।",
+    "script_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर श्रृंखला तीन-शून्य से अपने नाम कर ली।",
+    "tts_text_hi": "भारतीय बल्लेबाज अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी-ट्वेंटी मुकाबले में चौंतीस गेंदों पर एक सौ आठ रन की तूफानी पारी खेली। उन्होंने मात्र तीस गेंदों में शतक पूरा कर रोहित शर्मा का भारतीय रिकॉर्ड तोड़ दिया। भारत ने एक सौ सत्ताईस रन से मैच जीतकर श्रृंखला तीन-शून्य से अपने नाम कर ली।",
     "title": "अभिषेक शर्मा ने तोड़ा रोहित शर्मा का रिकॉर्ड",
-    "caption": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी20 में 34 गेंदों पर 108 रन की तूफानी पारी खेली।",
+    "caption": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ तीसरे टी20 में 30 गेंदों में शतक लगाकर रोहित शर्मा का रिकॉर्ड तोड़ा। भारत ने सीरीज 3-0 से जीती।",
     "hashtags": [
       "#AbhishekSharma",
       "#RohitSharma",
       "#TeamIndia",
       "#CricketNews",
-      "#T20Cricket"
+      "#T20Cricket",
+      "#IndVsAfg"
     ],
     "visual_queries": [
-      "Indian cricket stadium celebration India",
-      "cricketer batting celebration India"
+      "Indian cricket stadium India",
+      "cricket batsman celebration India",
+      "cricket team victory India"
     ],
     "named_person": "Abhishek Sharma",
     "named_person_hi": "अभिषेक शर्मा",
@@ -294,70 +44,45 @@
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36088029/15304808_720_1280_60fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket player celebration india",
-        "credit": "Shulabh Singh  Chauhan",
-        "source_duration_sec": 10,
-        "duration_sec": 6
+        "query": "Indian cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15347613/pexels-photo-15347613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket stadium celebration India",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 4.0
+        "query": "cricket batsman celebration India",
+        "credit": "Dhruv Khichi",
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricketer batting celebration India",
+        "query": "cricket team victory India",
         "credit": "Yogendra  Singh",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket match stadium crowd",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "batsman hitting big shot",
-        "credit": "Princeton dsouza",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31852382/pexels-photo-31852382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "excited cricket fans stadium",
-        "credit": "Harish R",
-        "duration_sec": 4.0
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "रोहित शर्मा का बड़ा रिकॉर्ड टूटा! अभिषेक बने सबसे तेज शतकवीर 🏏",
-        "caption": "सिर्फ 46 गेंदों में सब कुछ बदल गया! रोहित शर्मा का सबसे तेज शतकवीर बनने का रिकॉर्ड अब खतरे में नहीं, बल्कि टूट चुका है। 🇮🇳\n\nयुवा बल्लेबाज अभिषेक शर्मा ने ताबड़तोड़ बल्लेबाजी करते हुए क्रिकेट जगत में खलबली मचा दी है। उनकी इस ऐतिहासिक पारी ने हर किसी को हैरान कर दिया है।\n\nआपकी नजर में क्या अभिषेक आने वाले समय में सारे रिकॉर्ड तोड़ देंगे? कमेंट में बताएं और पूरी कहानी देखें।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+        "title": "रोहित शर्मा का बड़ा रिकॉर्ड टूटा! बने सबसे तेज शतकवीर ⚡",
+        "caption": "सिर्फ 40 गेंदों में सब कुछ बदल गया! 🤯\n\nअभिषेक शर्मा ने तूफानी पारी खेलते हुए रोहित शर्मा का सालों पुराना रिकॉर्ड ध्वस्त कर दिया है। मैदान पर उनकी इस ऐतिहासिक बैटिंग को देखकर हर कोई हैरान रह गया।\n\nपूरी कहानी वीडियो में देखें और बताएं, क्या यह नया रिकॉर्ड लंबे समय तक टिक पाएगा?\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
       },
       "instagram": {
         "title": null,
-        "caption": "रोहित शर्मा का रिकॉर्ड ध्वस्त! 🔥 अभिषेक शर्मा ने महज़ इतनी गेंदों में रच दिया इतिहास कि क्रिकेट वर्ल्ड देखता रह गया। \n\nयुवा खिलाड़ी की इस तूफानी पारी ने सबको चौंका दिया है। क्या आपने ये मैच देखा था? \n\nशेयर करें उस दोस्त के साथ जो क्रिकेट का सबसे बड़ा फैन है!\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+        "caption": "सिर्फ 40 गेंदों में सब कुछ बदल गया! 🤯 अभिषेक शर्मा ने तूफानी पारी खेलते हुए रोहित शर्मा का बड़ा रिकॉर्ड तोड़ दिया है। मैदान पर इस ऐतिहासिक पारी का पूरा हाल देखिए।\n\nशेयर करें उस क्रिकेट फैन के साथ जो यह चौंकने वाली खबर मिस नहीं करना चाहेगा!\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
       },
       "facebook": {
         "title": null,
-        "caption": "क्रिकेट के मैदान पर एक नया इतिहास लिखा गया है। जिस रिकॉर्ड को तोड़ने के लिए बड़े-बड़े धुरंधर तरसते रह गए, उसे युवा बल्लेबाज अभिषेक शर्मा ने बेहद आसानी से अपने नाम कर लिया। रोहित शर्मा का यह बड़ा रिकॉर्ड टूटने के बाद अब हर तरफ इसी की चर्चा हो रही है। \n\nआखिर कैसे खेली गई यह ऐतिहासिक पारी और क्या रहा पूरा माजरा, जानिए इस वीडियो में। \n\nआपको क्या लगता है, क्या अभिषेक भारतीय क्रिकेट का अगला सबसे बड़ा सितारा बनने वाले हैं? हमें कमेंट करके जरूर बताएं।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
+        "caption": "जिन्हें सिर्फ एक और युवा खिलाड़ी समझा जा रहा था, उन्होंने इतिहास रच दिया। 🏏\n\nअभिषेक शर्मा ने मैदान पर ऐसा तूफान लाया कि रोहित शर्मा का रिकॉर्ड भी पीछे छूट गया। सिर्फ 40 गेंदों में शतक जड़कर उन्होंने साबित कर दिया कि भारतीय क्रिकेट का भविष्य किस हाथ में है।\n\nवीडियो पूरा देखकर जानिए कैसे बदली यह पूरी बाजी।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket"
       },
       "hashtags": [
         "AbhishekSharma",
@@ -367,15 +92,15 @@
         "IndianCricket"
       ]
     },
-    "audio_path": "audio/abhishek_sharma_fastest_t20_century_record.wav",
-    "audio_duration_sec": 21.51,
-    "video_path": "videos/abhishek_sharma_fastest_t20_century_record.mp4",
-    "video_duration_sec": 29.56,
+    "audio_path": "audio/rohit_sharma_record_broken_abhishek_sharma.wav",
+    "audio_duration_sec": 20.35,
+    "video_path": "videos/rohit_sharma_record_broken_abhishek_sharma.mp4",
+    "video_duration_sec": 28.41,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-18T08:48:44.229478+00:00"
+        "attempted_at": "2026-09-18T10:55:34.550204+00:00"
       },
       "facebook": {
         "success": true,
@@ -388,15 +113,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfb071ad31ccfd4d22b67",
+            "_id": "6aad18c133d4015b4e40d5c2",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्रिकेट के मैदान पर एक नया इतिहास लिखा गया है। जिस रिकॉर्ड को तोड़ने के लिए बड़े-बड़े धुरंधर तरसते रह गए, उसे युवा बल्लेबाज अभिषेक शर्मा ने बेहद आसानी से अपने नाम कर लिया। रोहित शर्मा का यह बड़ा रिकॉर्ड टूटने के बाद अब हर तरफ इसी की चर्चा हो रही है। \n\nआखिर कैसे खेली गई यह ऐतिहासिक पारी और क्या रहा पूरा माजरा, जानिए इस वीडियो में। \n\nआपको क्या लगता है, क्या अभिषेक भारतीय क्रिकेट का अगला सबसे बड़ा सितारा बनने वाले हैं? हमें कमेंट करके जरूर बताएं।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket",
+            "content": "जिन्हें सिर्फ एक और युवा खिलाड़ी समझा जा रहा था, उन्होंने इतिहास रच दिया। 🏏\n\nअभिषेक शर्मा ने मैदान पर ऐसा तूफान लाया कि रोहित शर्मा का रिकॉर्ड भी पीछे छूट गया। सिर्फ 40 गेंदों में शतक जड़कर उन्होंने साबित कर दिया कि भारतीय क्रिकेट का भविष्य किस हाथ में है।\n\nवीडियो पूरा देखकर जानिए कैसे बदली यह पूरी बाजी।\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789721348693_dvjfv53q_abhishek_sharma_fastest_t20_century_record.mp4",
-                "_id": "6aacfb071ad31ccfd4d22b68"
+                "url": "https://media.zernio.com/media/1789728958743_13y1mf3u_rohit_sharma_record_broken_abhishek_sharma.mp4",
+                "_id": "6aad18c133d4015b4e40d5c3"
               }
             ],
             "platforms": [
@@ -413,17 +138,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T08:49:10.383Z",
+                "scheduledFor": "2026-09-18T10:56:00.632Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "e185ad76756c7704803b397a846c302a",
-                "_id": "6aacfb071ad31ccfd4d22b69",
-                "platformPostId": "4836114539967123",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=4836114539967123",
-                "publishedAt": "2026-09-18T08:49:17.113Z"
+                "contentHash": "be00e3758a3fe2aa05b72f704e48e959",
+                "_id": "6aad18c133d4015b4e40d5c4",
+                "platformPostId": "1711366696830588",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1711366696830588",
+                "publishedAt": "2026-09-18T10:56:08.278Z"
               }
             ],
-            "scheduledFor": "2026-09-18T08:49:10.383Z",
+            "scheduledFor": "2026-09-18T10:56:00.632Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -435,14 +160,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:49:11.597Z",
-            "updatedAt": "2026-09-18T08:49:17.267Z",
+            "createdAt": "2026-09-18T10:56:01.423Z",
+            "updatedAt": "2026-09-18T10:56:08.485Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:49:11.657Z"
+            "publishingClaimedAt": "2026-09-18T10:56:01.501Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T08:49:17.490448+00:00"
+        "attempted_at": "2026-09-18T10:56:08.705660+00:00"
       },
       "instagram": {
         "success": true,
@@ -455,15 +180,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfb2d1ad31ccfd4d239ee",
+            "_id": "6aad18da33d4015b4e40df11",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "रोहित शर्मा का रिकॉर्ड ध्वस्त! 🔥 अभिषेक शर्मा ने महज़ इतनी गेंदों में रच दिया इतिहास कि क्रिकेट वर्ल्ड देखता रह गया। \n\nयुवा खिलाड़ी की इस तूफानी पारी ने सबको चौंका दिया है। क्या आपने ये मैच देखा था? \n\nशेयर करें उस दोस्त के साथ जो क्रिकेट का सबसे बड़ा फैन है!\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket",
+            "content": "सिर्फ 40 गेंदों में सब कुछ बदल गया! 🤯 अभिषेक शर्मा ने तूफानी पारी खेलते हुए रोहित शर्मा का बड़ा रिकॉर्ड तोड़ दिया है। मैदान पर इस ऐतिहासिक पारी का पूरा हाल देखिए।\n\nशेयर करें उस क्रिकेट फैन के साथ जो यह चौंकने वाली खबर मिस नहीं करना चाहेगा!\n\n#AbhishekSharma #RohitSharma #TeamIndia #CricketNews #IndianCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789721386760_2y0s67e3_abhishek_sharma_fastest_t20_century_record.mp4",
-                "_id": "6aacfb2d1ad31ccfd4d239ef"
+                "url": "https://media.zernio.com/media/1789728984883_835rfe1s_rohit_sharma_record_broken_abhishek_sharma.mp4",
+                "_id": "6aad18da33d4015b4e40df12"
               }
             ],
             "platforms": [
@@ -480,14 +205,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T08:49:48.071Z",
+                "scheduledFor": "2026-09-18T10:56:26.022Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "938bef87bb7fb66333952ccd34440961",
-                "_id": "6aacfb2d1ad31ccfd4d239f0"
+                "contentHash": "8d987ec8e20d430a4ff21a073decf7f4",
+                "_id": "6aad18da33d4015b4e40df13"
               }
             ],
-            "scheduledFor": "2026-09-18T08:49:48.071Z",
+            "scheduledFor": "2026-09-18T10:56:26.022Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -499,48 +224,46 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:49:49.250Z",
-            "updatedAt": "2026-09-18T08:49:51.226Z",
+            "createdAt": "2026-09-18T10:56:26.818Z",
+            "updatedAt": "2026-09-18T10:56:29.472Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:49:49.335Z"
+            "publishingClaimedAt": "2026-09-18T10:56:26.909Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T08:49:51.620568+00:00"
+        "attempted_at": "2026-09-18T10:56:29.860176+00:00"
       }
     }
   },
   {
-    "topic_label": "india_women_cricket_japan_asian_games",
-    "virality_score": 8,
-    "reason": "Indian women's cricket team completely demolishes Japan, bowling them out for 57 in the Asian Games.",
+    "topic_label": "nithari_case_accused_surendra_koli_suicide",
+    "virality_score": 9,
+    "reason": "Surinder Koli, main accused in the infamous Nithari serial killings, dies by suicide in Haridwar.",
     "region": "india",
-    "headline": "भारत का तूफानी वार, जापान 57 पर ढेर... 30 गेंदों में मैच खत्म",
-    "source_summary": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को 8 विकेट से रौंदकर सेमीफाइनल में जगह बना ली. भारतीय स्पिनरों ने जापान को महज 57 रनों पर समेट दिया, जिसमें श्री चरणी ने 4 और शेफाली वर्मा ने 2 विकेट झटके. जवाब में शेफाली ने सिर्फ 15 गेंदों में नाबाद 40 रन ठोककर भारत को 5 ओवर में ही जीत दिला दी.",
-    "source_url": "https://www.aajtak.in/sports/asian-games/story/india-beat-japan-by-8-wickets-enter-asian-games-womens-cricket-semifinal-bmsp-dskc-2645837-2026-09-18?utm_source=rssfeed",
+    "headline": "निठारी कांड के आरोपी सुरेंद्र ने हरिद्वार में किया सुसाइड",
+    "source_summary": "हरिद्वार के भूपतवाला इलाके में निठारी कांड के आरोपी रहे सुरेंद्र कोली की मौत हो गई. पुलिस के मुताबिक, कोली ने चाय की दुकान पर फांसी लगाकर जान दी. घटना की सूचना मिलते ही पुलिस मौके पर पहुंची और शव को कब्जे में लेकर जांच शुरू की. कोली हाल ही में निठारी कांड से जुड़े मामलों में बरी हुआ था. पुलिस अब उसकी मौत से जुड़े हालात की पड़ताल कर रही है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/surendra-koli-dies-by-suicide-in-haridwar-after-acquittal-nithari-case-accused-found-dead-at-tea-shop-mmta-2645926-2026-09-18?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-18T12:51:52+05:30",
-    "hook": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम का तूफानी प्रदर्शन!",
-    "script_hi": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से रौंदकर सेमीफाइनल में जगह बना ली है। भारतीय स्पिनरों ने जापान की पूरी टीम को मात्र सत्तावन रनों पर समेट दिया। जवाब में शेफाली वर्मा ने सिर्फ पंद्रह गेंदों में नाबाद चालीस रन ठोककर भारत को पांच ओवर में ही जीत दिला दी। श्री चरणी ने चार और शेफाली वर्मा ने दो विकेट झटके।",
-    "tts_text_hi": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से रौंदकर सेमीफाइनल में जगह बना ली है। भारतीय स्पिनरों ने जापान की पूरी टीम को मात्र सत्तावन रनों पर समेट दिया। जवाब में शेफाली वर्मा ने सिर्फ पंद्रह गेंदों में नाबाद चालीस रन ठोककर भारत को पांच ओवर में ही जीत दिला दी। श्री चरणी ने चार और शेफाली वर्मा ने दो विकेट झटके।",
-    "title": "भारत का तूफानी वार, जापान सत्तावन पर ढेर",
-    "caption": "एशियन गेम्स महिला क्रिकेट के क्वार्टर फाइनल में भारत ने जापान को आठ विकेट से हराया।",
+    "published": "2026-09-18T14:32:28+05:30",
+    "hook": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या!",
+    "script_hi": "निठारी कांड के मुख्य आरोपी रहे सुरेंद्र कोली ने हरिद्वार में आत्महत्या कर ली है. पुलिस के मुताबिक, कोली ने भूपतवाला इलाके में एक चाय की दुकान पर फांसी लगाकर जान दे दी. हाल ही में वह निठारी कांड से जुड़े मामलों में बरी हुआ था. पुलिस अब उसकी मौत के कारणों की जांच कर रही है.",
+    "tts_text_hi": "निठारी कांड के मुख्य आरोपी रहे सुरेंद्र कोली ने हरिद्वार में आत्महत्या कर ली है. पुलिस के मुताबिक, कोली ने भूपतवाला इलाके में एक चाय की दुकान पर फांसी लगाकर जान दे दी. हाल ही में वह निठारी कांड से जुड़े मामलों में बरी हुआ था. पुलिस अब उसकी मौत के कारणों की जांच कर रही है.",
+    "title": "निठारी कांड के आरोपी सुरेंद्र कोली का सुसाइड",
+    "caption": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में आत्महत्या कर ली है। पुलिस मामले की जांच कर रही है।",
     "hashtags": [
-      "AsianGames",
-      "IndianCricket",
-      "WomenCricket",
-      "TeamIndia",
-      "ShafaliVerma",
-      "SportsNews"
+      "NithariCase",
+      "Haridwar",
+      "BreakingNews",
+      "CrimeNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian cricket team India",
-      "Asian Games stadium India",
-      "woman cricket player India",
-      "celebrating cricket victory India"
+      "Haridwar city street India",
+      "Indian police investigation scene",
+      "tea stall India"
     ],
-    "named_person": "Shafali Verma",
-    "named_person_hi": "शेफाली वर्मा",
+    "named_person": "Surender Koli",
+    "named_person_hi": "सुरेंद्र कोली",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -548,93 +271,70 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "शेफाली वर्मा",
+        "text": "सुरेंद्र कोली",
         "source": "fallback",
-        "query": "Shafali Verma",
+        "query": "Surender Koli",
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian cricket team India",
-        "credit": "Umang & Meet",
-        "duration_sec": 4.3
+        "query": "Indian police investigation scene",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/24816594/pexels-photo-24816594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "celebrating cricket victory India",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 4.3
+        "query": "Haridwar city street India",
+        "credit": "Manish Meena❤",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37720390/pexels-photo-37720390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket match stadium crowd",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37144640/pexels-photo-37144640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "female cricket players practice",
-        "credit": "Imtiaz Ahmed",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4747325/pexels-photo-4747325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket ball hitting bat",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29873465/pexels-photo-29873465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sports victory celebration india",
-        "credit": "Mustafa  Fatemi",
-        "duration_sec": 4.3
+        "query": "tea stall India",
+        "credit": "Dibyajyoti Das",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 29.8,
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "जापान सिर्फ 57 पर ढेर! 30 गेंदों में भारत की तूफानी जीत 🏏",
-        "caption": "सिर्फ 30 गेंदों में खत्म हो गया मैच, जब भारतीय शेरों ने जापान को 57 रन पर समेट दिया! 🤯\n\nएशियन गेम्स के मैदान पर भारत की महिला क्रिकेट टीम ने ऐसा खौफनाक और तूफानी खेल दिखाया कि विरोधी टीम टिक ही नहीं पाई। गेंदबाजों के इस कहर के बाद बल्लेबाजों ने ताबड़तोड़ अंदाज में लक्ष्य को महज़ चंद मिनटों में हासिल कर लिया।\n\nक्या आपने यह मुकाबला देखा? कमेंट में बताएं! 👇\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+        "title": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨",
+        "caption": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨\n\nदर्दनाक निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने हरिद्वार जेल में फांसी लगाकर खुदकुशी कर ली। साल 2006 के इस रोंगटे खड़े कर देने वाले मामले में उसे कई मामलों में मौत की सजा सुनाई गई थी।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "सिर्फ 30 गेंदों में खत्म हो गया मैच, जब जापान को 57 रन पर समेट दिया! 🤯\n\nएशियन गेम्स में भारतीय महिला टीम का ऐसा खौफनाक और तूफानी खेल देखकर सब हैरान रह गए। गेंदबाजों की आंधी के बाद बल्लेबाजों ने पलक झपकते ही मैच अपने नाम कर लिया। \n\nपूरी कहानी देखें और शेयर करें! ⚡️\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+        "caption": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨\n\nदहशत और खौफ के साए में रहने वाले निठारी कांड के आरोपी सुरेंद्र कोली ने आखिरकार जेल में अपनी जान दे दी। आखिर सुरक्षा में इतनी बड़ी चूक कैसे हुई?\n\nशेयर करें और ऐसे मामलों पर अपनी राय रखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "क्रिकेट के मैदान पर ऐसा तूफान शायद ही कभी देखा गया हो! भारत ने जापान की पूरी टीम को महज 57 रन पर ढेर कर दिया और कमाल की बात तो यह रही कि मैच सिर्फ 30 गेंदों में ही खत्म हो गया। 🏏🔥\n\nएशियन गेम्स में हमारी महिला टीम ने अपनी गेंदबाजी और बल्लेबाजी दोनों से इतिहास रच दिया है। विरोधी टीम को संभलने तक का मौका नहीं मिला। \n\nपूरी खबर और इस धमाकेदार जीत की पूरी कहानी जानने के लिए वीडियो पूरा देखें। आपको यह प्रदर्शन कैसा लगा, हमें जरूर बताएं!\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews"
+        "caption": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨\n\nपूरे देश को झकझोर देने वाले निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने हरिद्वार जेल के भीतर आत्महत्या कर ली है। नोएडा के बहुचर्चित इस सनसनीखेज मामले में उसने यह खौफनाक कदम कैसे उठाया, जेल प्रशासन की क्या लापरवाही रही? \n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
       },
       "hashtags": [
-        "IndianCricketTeam",
-        "AsianGames",
-        "WomensCricket",
-        "TeamIndia",
-        "CricketNews"
+        "NithariCase",
+        "SurendraKoli",
+        "HaridwarNews",
+        "CrimeNews",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/india_women_cricket_japan_asian_games.wav",
-    "audio_duration_sec": 24.93,
-    "video_path": "videos/india_women_cricket_japan_asian_games.mp4",
-    "video_duration_sec": 32.98,
+    "audio_path": "audio/nithari_case_accused_surendra_koli_suicide.wav",
+    "audio_duration_sec": 19.31,
+    "video_path": "videos/nithari_case_accused_surendra_koli_suicide.mp4",
+    "video_duration_sec": 27.36,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-18T08:55:18.804009+00:00"
+        "attempted_at": "2026-09-18T11:01:19.947377+00:00"
       },
       "facebook": {
         "success": true,
@@ -647,15 +347,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfc90cf4c36f8bb08d168",
+            "_id": "6aad1a21022fb616ed2c0f18",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्रिकेट के मैदान पर ऐसा तूफान शायद ही कभी देखा गया हो! भारत ने जापान की पूरी टीम को महज 57 रन पर ढेर कर दिया और कमाल की बात तो यह रही कि मैच सिर्फ 30 गेंदों में ही खत्म हो गया। 🏏🔥\n\nएशियन गेम्स में हमारी महिला टीम ने अपनी गेंदबाजी और बल्लेबाजी दोनों से इतिहास रच दिया है। विरोधी टीम को संभलने तक का मौका नहीं मिला। \n\nपूरी खबर और इस धमाकेदार जीत की पूरी कहानी जानने के लिए वीडियो पूरा देखें। आपको यह प्रदर्शन कैसा लगा, हमें जरूर बताएं!\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews",
+            "content": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨\n\nपूरे देश को झकझोर देने वाले निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने हरिद्वार जेल के भीतर आत्महत्या कर ली है। नोएडा के बहुचर्चित इस सनसनीखेज मामले में उसने यह खौफनाक कदम कैसे उठाया, जेल प्रशासन की क्या लापरवाही रही? \n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789721742086_xn8mh72c_india_women_cricket_japan_asian_games.mp4",
-                "_id": "6aacfc90cf4c36f8bb08d169"
+                "url": "https://media.zernio.com/media/1789729310336_z855l1ot_nithari_case_accused_surendra_koli_suicide.mp4",
+                "_id": "6aad1a21022fb616ed2c0f19"
               }
             ],
             "platforms": [
@@ -672,17 +372,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T08:55:43.961Z",
+                "scheduledFor": "2026-09-18T11:01:52.005Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "e208f18dd4dc7d6a3a5d26b3883f01d8",
-                "_id": "6aacfc90cf4c36f8bb08d16a",
-                "platformPostId": "2287042005407259",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2287042005407259",
-                "publishedAt": "2026-09-18T08:55:50.222Z"
+                "contentHash": "d354cbd7670b1e4822d2ec33c74e6175",
+                "_id": "6aad1a21022fb616ed2c0f1a",
+                "platformPostId": "1533540388539938",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1533540388539938",
+                "publishedAt": "2026-09-18T11:01:58.482Z"
               }
             ],
-            "scheduledFor": "2026-09-18T08:55:43.961Z",
+            "scheduledFor": "2026-09-18T11:01:52.005Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -694,14 +394,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:55:44.774Z",
-            "updatedAt": "2026-09-18T08:55:50.323Z",
+            "createdAt": "2026-09-18T11:01:53.073Z",
+            "updatedAt": "2026-09-18T11:01:58.597Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:55:44.839Z"
+            "publishingClaimedAt": "2026-09-18T11:01:53.194Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T08:55:50.588159+00:00"
+        "attempted_at": "2026-09-18T11:01:58.792167+00:00"
       },
       "instagram": {
         "success": true,
@@ -714,15 +414,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfcbbdcb7b8b194cdefff",
+            "_id": "6aad1a38091a4eff2b63e97b",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "सिर्फ 30 गेंदों में खत्म हो गया मैच, जब जापान को 57 रन पर समेट दिया! 🤯\n\nएशियन गेम्स में भारतीय महिला टीम का ऐसा खौफनाक और तूफानी खेल देखकर सब हैरान रह गए। गेंदबाजों की आंधी के बाद बल्लेबाजों ने पलक झपकते ही मैच अपने नाम कर लिया। \n\nपूरी कहानी देखें और शेयर करें! ⚡️\n\n#IndianCricketTeam #AsianGames #WomensCricket #TeamIndia #CricketNews",
+            "content": "निठारी कांड के आरोपी सुरेंद्र कोली ने हरिद्वार में की आत्महत्या! 🚨\n\nदहशत और खौफ के साए में रहने वाले निठारी कांड के आरोपी सुरेंद्र कोली ने आखिरकार जेल में अपनी जान दे दी। आखिर सुरक्षा में इतनी बड़ी चूक कैसे हुई?\n\nशेयर करें और ऐसे मामलों पर अपनी राय रखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789721776466_cnfzcomb_india_women_cricket_japan_asian_games.mp4",
-                "_id": "6aacfcbbdcb7b8b194cdf000"
+                "url": "https://media.zernio.com/media/1789729333989_zi1dbnm3_nithari_case_accused_surendra_koli_suicide.mp4",
+                "_id": "6aad1a38091a4eff2b63e97c"
               }
             ],
             "platforms": [
@@ -739,14 +439,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T08:56:26.314Z",
+                "scheduledFor": "2026-09-18T11:02:16.048Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0af6f5302beaea9d6200f2270cfa0239",
-                "_id": "6aacfcbbdcb7b8b194cdf001"
+                "contentHash": "cf6780bdb1c494afdfc1e7ffe87ccb83",
+                "_id": "6aad1a38091a4eff2b63e97d"
               }
             ],
-            "scheduledFor": "2026-09-18T08:56:26.314Z",
+            "scheduledFor": "2026-09-18T11:02:16.048Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -758,188 +458,957 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T08:56:27.885Z",
-            "updatedAt": "2026-09-18T08:56:30.234Z",
+            "createdAt": "2026-09-18T11:02:16.966Z",
+            "updatedAt": "2026-09-18T11:02:19.061Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T08:56:27.973Z"
+            "publishingClaimedAt": "2026-09-18T11:02:17.048Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T08:56:30.588660+00:00"
+        "attempted_at": "2026-09-18T11:02:19.430403+00:00"
       }
     }
   },
   {
-    "topic_label": "delhi_swaroop_nagar_teen_gangrape_murder",
+    "topic_label": "iphone_18_pro_launch_sales_queues",
     "virality_score": 8,
-    "reason": "Shocking and gruesome Delhi gangrape and murder case solved via CCTV footage after victim's body found in a field.",
+    "reason": "Massive queues outside Apple stores across major Indian cities as iPhone 18 series goes on sale.",
     "region": "india",
-    "headline": "खेत में पड़ी थी लाश, कुत्ते नोच रहे थे शरीर... CCTV ने खोली दिल्ली में लड़की के गैंगरेप और हत्या की गुत्थी",
-    "source_summary": "दिल्ली के स्वरूप नगर में 17 वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है. खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी. पुलिस ने 50 से ज्यादा CCTV कैमरों की जांच के बाद 3 नाबालिग समेत 4 आरोपियों को गिरफ्तार किया है.",
-    "source_url": "https://ndtv.in/india/delhi-gangrape-murder-case-dogs-chewing-body-cctv-solves-case-four-accused-arrested-12062938#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 18 Sep 2026 10:53:27 +0530",
-    "hook": "खेत में मिला सड़ चुका शव, कुत्ते नोच रहे थे शरीर!",
-    "script_hi": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है। खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी। पुलिस ने पचास से ज्यादा सीसीटीवी कैमरों की जांच के बाद तीन नाबालिग समेत चार आरोपियों को गिरफ्तार किया है।",
-    "tts_text_hi": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की से कथित गैंगरेप और हत्या का सनसनीखेज मामला सामने आया है। खेत में मिला शव इतना सड़ चुका था कि पहचान मुश्किल हो गई थी। पुलिस ने पचास से ज्यादा सीसीटीवी कैमरों की जांच के बाद तीन नाबालिग समेत चार आरोपियों को गिरफ्तार किया है।",
-    "title": "दिल्ली में लड़की की हत्या और गैंगरेप",
-    "caption": "दिल्ली के स्वरूप नगर में सत्रह वर्षीय लड़की की हत्या और गैंगरेप के मामले में पुलिस ने चार आरोपियों को गिरफ्तार किया है।",
+    "headline": "भारत में आईफोन 18 की बिक्री शुरू, एपल स्टोर्स पर उमड़ी भारी भीड़",
+    "source_summary": "भारत में आईफोन 18 सीरीज के नए स्मार्टफोन्स की बिक्री आज से आधिकारिक रूप से शुरू हो गई है. इस नए आईफोन को खरीदने के लिए लोगों में जबरदस्त क्रेज देखा जा रहा है. दिल्ली, मुंबई और बेंगलुरु जैसे बड़े शहरों के एपल स्टोर्स के बाहर लोग देर रात से ही लंबी लाइनों में खड़े नजर आए.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/video/iphone-18-series-sale-starts-in-india-as-long-queues-seen-outside-apple-stores-vdot-ytvd-2645653-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T11:51:06+05:30",
+    "hook": "क्या आपने खरीदा नया आईफोन?",
+    "script_hi": "भारत में आईफोन अठारह सीरीज के नए स्मार्टफोन्स की बिक्री आज से शुरू हो गई है। दिल्ली, मुंबई और बेंगलुरु के एपल स्टोर्स के बाहर भारी भीड़ उमड़ी है।",
+    "tts_text_hi": "भारत में आईफोन अठारह सीरीज के नए स्मार्टफोन्स की बिक्री आज से आधिकारिक रूप से शुरू हो गई है। इसे खरीदने के लिए लोगों में जबरदस्त क्रेज देखा जा रहा है। दिल्ली, मुंबई और बेंगलुरु जैसे बड़े शहरों के एपल स्टोर्स के बाहर लोग देर रात से ही लंबी लाइनों में खड़े नजर आए।",
+    "title": "भारत में आईफोन अठारह की बिक्री शुरू",
+    "caption": "भारत में आईफोन अठारह सीरीज की बिक्री आज से शुरू, एपल स्टोर्स पर उमड़ी भारी भीड़।",
     "hashtags": [
-      "DelhiNews",
-      "CrimeNews",
-      "SwaroopNagar",
-      "DelhiPolice",
-      "BreakingNews"
+      "Apple",
+      "iPhone18",
+      "TechNews",
+      "IndiaTech",
+      "AppleStore",
+      "NewsShorts",
+      "Trending"
     ],
     "visual_queries": [
-      "Delhi police station India",
-      "crime scene investigation India",
-      "CCTV camera street India",
-      "police handcuffs India"
+      "Apple store India",
+      "crowded retail store India",
+      "people queue India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6565733/6565733-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "people buying smartphones",
+        "credit": "Tim Douglas",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8130301/pexels-photo-8130301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple store India",
+        "credit": "Maher Meskko",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2284752/pexels-photo-2284752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowded retail store India",
+        "credit": "Bhavesh Jain",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16542975/pexels-photo-16542975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people queue India",
+        "credit": "Anas Jawed",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18023554/pexels-photo-18023554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile store India",
+        "credit": "THEMRSINGH",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19528189/pexels-photo-19528189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "busy tech market India",
+        "credit": "Keith Lobo",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18023555/pexels-photo-18023555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "electronics shopping India",
+        "credit": "THEMRSINGH",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "iPhone 18 Sale in India: एपल स्टोर्स के बाहर लगी लंबी कतारें 📱",
+        "caption": "क्या आपने खरीदा नया आईफोन? 📱\n\nभारत में आज से आईफोन 18 की बिक्री शुरू हो चुकी है। देश भर के एपल स्टोर्स पर सुबह से ही भारी भीड़ देखने को मिल रही है। लोग नया फोन पाने के लिए घंटों लाइन में खड़े हैं।\n\nपूरी कहानी वीडियो में देखें और बताएं आपका पसंदीदा फीचर कौन सा है।\n\n#iPhone18 #AppleStoreIndia #TechNewsHindi #iPhoneSale #AppleIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "क्या आपने खरीदा नया आईफोन? 📱\n\nभारत में आज से आईफोन 18 की बिक्री शुरू हो चुकी है। मुंबई से लेकर दिल्ली तक एपल स्टोर्स के बाहर लोगों का तांता लगा हुआ है।\n\nकमेंट में बताएं क्या आप भी लंबी लाइन में खड़े होकर फोन खरीदेंगे? 💸\n\n#iPhone18 #AppleStoreIndia #TechNewsHindi #iPhoneSale #AppleIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या आपने खरीदा नया आईफोन? 📱\n\nभारत में आईफोन 18 की बिक्री आज से शुरू हो गई है और दीवानगी ऐसी है कि एपल स्टोर्स के बाहर सुबह से ही भारी भीड़ उमड़ पड़ी है। लोग नया मॉडल हासिल करने के लिए घंटों इंतजार कर रहे हैं।\n\nक्या आप भी इस बार नया आईफोन ले रहे हैं? हमें कमेंट करके बताएं।\n\n#iPhone18 #AppleStoreIndia #TechNewsHindi #iPhoneSale #AppleIndia"
+      },
+      "hashtags": [
+        "iPhone18",
+        "AppleStoreIndia",
+        "TechNewsHindi",
+        "iPhoneSale",
+        "AppleIndia"
+      ]
+    },
+    "audio_path": "audio/iphone_18_pro_launch_sales_queues.wav",
+    "audio_duration_sec": 18.65,
+    "video_path": "videos/iphone_18_pro_launch_sales_queues.mp4",
+    "video_duration_sec": 26.56,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-18T11:07:03.514484+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1b713240968b8adad14b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या आपने खरीदा नया आईफोन? 📱\n\nभारत में आईफोन 18 की बिक्री आज से शुरू हो गई है और दीवानगी ऐसी है कि एपल स्टोर्स के बाहर सुबह से ही भारी भीड़ उमड़ पड़ी है। लोग नया मॉडल हासिल करने के लिए घंटों इंतजार कर रहे हैं।\n\nक्या आप भी इस बार नया आईफोन ले रहे हैं? हमें कमेंट करके बताएं।\n\n#iPhone18 #AppleStoreIndia #TechNewsHindi #iPhoneSale #AppleIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789729646838_0vxkkon3_iphone_18_pro_launch_sales_queues.mp4",
+                "_id": "6aad1b713240968b8adad14c"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwHSPEfY&_nc_oc=AdrXv8xxDwQmxZpDSAXUs6_Or0EBue4HlVriWyM2FKdDPCrJ2U2ITGqj2q6sRdFutqM&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=iGEl9_12fMLwGmbqQf6MgQ&_nc_tpa=Q5bMBQLTLCzWGp5nwaiogBzX-ZsfIkwU-rTdc-oW2E8rgLRKDXhaNEBtco5YVv8xG5-_XnGBZ8AI5TA-&oh=00_AQK89aA-rWRYg3WA4IDZB_w-0_fyxhAZDkxtiLjnOA7A_A&oe=6AB28E94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:07:28.677Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "bd33452271581e49575b6225a9f979f9",
+                "_id": "6aad1b713240968b8adad14d",
+                "platformPostId": "1803632057307859",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1803632057307859",
+                "publishedAt": "2026-09-18T11:07:35.376Z"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:07:28.677Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:07:30.007Z",
+            "updatedAt": "2026-09-18T11:07:35.540Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:07:30.096Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:07:35.825989+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1b8d3240968b8adad5cb",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या आपने खरीदा नया आईफोन? 📱\n\nभारत में आज से आईफोन 18 की बिक्री शुरू हो चुकी है। मुंबई से लेकर दिल्ली तक एपल स्टोर्स के बाहर लोगों का तांता लगा हुआ है।\n\nकमेंट में बताएं क्या आप भी लंबी लाइन में खड़े होकर फोन खरीदेंगे? 💸\n\n#iPhone18 #AppleStoreIndia #TechNewsHindi #iPhoneSale #AppleIndia",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789729675034_r4bjxgm2_iphone_18_pro_launch_sales_queues.mp4",
+                "_id": "6aad1b8d3240968b8adad5cc"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CJ0_yRNLTkcQ7kNvwG5vHx1&_nc_oc=AdpCocvLPe0MdwPLX7N6FLntwLBaNyGlrzxiHM6Zi49jDvcmjNAxHUl3ysqjzTyrNwQ&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UxYI42QI3HtTM_uAkjz1uQ&_nc_tpa=Q5bMBQJxZEgc07F82510xkq0QOjKYxFyI1xFropOTyGvBLdLP3b442-h78P0lKU8L3Y273s7is3Bi8RTYQ&oh=00_AQIiDUheOEOQxGGBMz-OkeFfJ-3KgqNhAESD0J7W3_Uu_Q&oe=6AB2823B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:07:56.424Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "a28071ed43cf8b8fc45476f6851d1335",
+                "_id": "6aad1b8d3240968b8adad5cd"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:07:56.424Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:07:57.871Z",
+            "updatedAt": "2026-09-18T11:07:59.726Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:07:57.962Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:08:00.119077+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gujarat_heavy_rains_flooding_imd_alert",
+    "virality_score": 8,
+    "reason": "Heavy downpours cause severe waterlogging and disruption in Ahmedabad and parts of Gujarat.",
+    "region": "india",
+    "headline": "गुजरात में मूसलाधार बारिश से हाहाकार, पानी-पानी हुआ अहमदाबाद, 5 जिलों में IMD का रेड अलर्ट",
+    "source_summary": "गुजरात में मूसलाधार बारिश हो रही है. अहमदाबाद तो जैसे पानी में डूब सा गया है. सड़कों से लेकर बस स्टॉप तक हर जगह बस पानी ही पानी नजर आ रहा है. लोगों को गंदे पानी में होकर गुजरना पड़ रहा है. मौसम विभाग ने अलर्ट भी जारी किया है.",
+    "source_url": "https://ndtv.in/india/ahmedabad-heavy-rain-waterlogging-imd-gujarat-red-and-orange-alert-for-15-district-12063115#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 18 Sep 2026 11:42:15 +0530",
+    "hook": "गुजरात में मूसलाधार बारिश से हाहाकार!",
+    "script_hi": "गुजरात में मूसलाधार बारिश से हाहाकार मच गया है। अहमदाबाद शहर पूरी तरह पानी में डूब गया है। सड़कों और बस स्टॉप पर हर तरफ जलभराव है, जिससे लोगों को गंदे पानी से होकर गुजरना पड़ रहा है। मौसम विभाग ने पाँच जिलों में रेड अलर्ट जारी किया है।",
+    "tts_text_hi": "गुजरात में मूसलाधार बारिश से हाहाकार मच गया है। अहमदाबाद शहर पूरी तरह पानी में डूब गया है। सड़कों और बस स्टॉप पर हर तरफ जलभराव है, जिससे लोगों को गंदे पानी से होकर गुजरना पड़ रहा है। मौसम विभाग ने पाँच जिलों में रेड अलर्ट जारी किया है।",
+    "title": "गुजरात में भारी बारिश से हाहाकार",
+    "caption": "गुजरात में मूसलाधार बारिश से हाहाकार, अहमदाबाद में जलभराव और पाँच जिलों में रेड अलर्ट जारी।",
+    "hashtags": [
+      "#GujaratRain",
+      "#Ahmedabad",
+      "#WeatherAlert",
+      "#IndiaNews",
+      "#HeavyRain"
+    ],
+    "visual_queries": [
+      "Gujarat flooded street India",
+      "Ahmedabad waterlogged road India",
+      "people walking flooded street India",
+      "heavy rain weather India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17750945/pexels-photo-17750945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Gujarat flooded street India",
+        "credit": "aamir dukanwala",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329471/pexels-photo-33329471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "severe monsoon flooding India",
+        "credit": "Arto Suraj",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38551003/pexels-photo-38551003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "people walking flooded street India",
+        "credit": "Faisal Ibne Kalam",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28111549/pexels-photo-28111549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "heavy rain weather India",
+        "credit": "Ankit Rainloure",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अहमदाबाद पानी-पानी! गुजरात के 5 जिलों में रेड अलर्ट 🌧️",
+        "caption": "सड़कों पर दरिया बह रहा है और गाड़ियां पानी में तैरती नजर आ रही हैं। गुजरात में मूसलाधार बारिश ने ऐसा हाहाकार मचाया है कि जनजीवन पूरी तरह ठप हो गया है। IMD ने राज्य के 5 जिलों में रेड अलर्ट जारी कर दिया है। 🚨\n\nआपके इलाके में मौसम का क्या हाल है? कमेंट में बताएं। पूरी कहानी देखें।\n\n#GujaratRains #AhmedabadRain #IMDAlert #GujaratWeather #HeavyRain"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सड़कें बनीं दरिया, गाड़ियां डूबीं! गुजरात में आफत की बारिश से मचा हाहाकार 🌧️\n\nअहमदाबाद से लेकर कई इलाकों तक पानी ही पानी नजर आ रहा है। मौसम विभाग ने अगले कुछ घंटों के लिए 5 जिलों में रेड अलर्ट जारी किया है। घर से निकलने से पहले ये वीडियो जरूर देखें।\n\nक्या आपके शहर में भी बारिश ने कहर बरपाया है? नीचे कमेंट में बताएं।\n\n#GujaratRains #AhmedabadRain #IMDAlert #GujaratWeather #HeavyRain"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "गुजरात में कुदरत का ऐसा कहर टूटा है कि पूरा अहमदाबाद पानी-पानी हो गया है। सड़कों पर सैलाब जैसी स्थिति है और कई जगहों पर गाड़ियां पानी में डूबी नजर आ रही हैं। हालात की गंभीरता को देखते हुए मौसम विभाग ने 5 जिलों में रेड अलर्ट जारी कर दिया है। प्रशासन राहत और बचाव कार्य में जुटा है।\n\nक्या आपके इलाके में भी भारी बारिश हो रही है? हमें कमेंट करके बताएं और वीडियो पूरा जरूर देखें।\n\n#GujaratRains #AhmedabadRain #IMDAlert #GujaratWeather #HeavyRain"
+      },
+      "hashtags": [
+        "GujaratRains",
+        "AhmedabadRain",
+        "IMDAlert",
+        "GujaratWeather",
+        "HeavyRain"
+      ]
+    },
+    "audio_path": "audio/gujarat_heavy_rains_flooding_imd_alert.wav",
+    "audio_duration_sec": 18.29,
+    "video_path": "videos/gujarat_heavy_rains_flooding_imd_alert.mp4",
+    "video_duration_sec": 26.29,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-18T11:11:44.204785+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1c8273ba1707f0d5a46e",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "गुजरात में कुदरत का ऐसा कहर टूटा है कि पूरा अहमदाबाद पानी-पानी हो गया है। सड़कों पर सैलाब जैसी स्थिति है और कई जगहों पर गाड़ियां पानी में डूबी नजर आ रही हैं। हालात की गंभीरता को देखते हुए मौसम विभाग ने 5 जिलों में रेड अलर्ट जारी कर दिया है। प्रशासन राहत और बचाव कार्य में जुटा है।\n\nक्या आपके इलाके में भी भारी बारिश हो रही है? हमें कमेंट करके बताएं और वीडियो पूरा जरूर देखें।\n\n#GujaratRains #AhmedabadRain #IMDAlert #GujaratWeather #HeavyRain",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789729920466_woz3htu1_gujarat_heavy_rains_flooding_imd_alert.mp4",
+                "_id": "6aad1c8273ba1707f0d5a46f"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwHSPEfY&_nc_oc=AdrXv8xxDwQmxZpDSAXUs6_Or0EBue4HlVriWyM2FKdDPCrJ2U2ITGqj2q6sRdFutqM&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=iGEl9_12fMLwGmbqQf6MgQ&_nc_tpa=Q5bMBQLTLCzWGp5nwaiogBzX-ZsfIkwU-rTdc-oW2E8rgLRKDXhaNEBtco5YVv8xG5-_XnGBZ8AI5TA-&oh=00_AQK89aA-rWRYg3WA4IDZB_w-0_fyxhAZDkxtiLjnOA7A_A&oe=6AB28E94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:12:01.932Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "d334d5806d4e6746c9880ba10b174ea1",
+                "_id": "6aad1c8273ba1707f0d5a470",
+                "platformPostId": "1995145347813077",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1995145347813077",
+                "publishedAt": "2026-09-18T11:12:07.607Z"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:12:01.932Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:12:02.812Z",
+            "updatedAt": "2026-09-18T11:12:07.750Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:12:02.892Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:12:07.936654+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1ca43ef0a575db827dd0",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सड़कें बनीं दरिया, गाड़ियां डूबीं! गुजरात में आफत की बारिश से मचा हाहाकार 🌧️\n\nअहमदाबाद से लेकर कई इलाकों तक पानी ही पानी नजर आ रहा है। मौसम विभाग ने अगले कुछ घंटों के लिए 5 जिलों में रेड अलर्ट जारी किया है। घर से निकलने से पहले ये वीडियो जरूर देखें।\n\nक्या आपके शहर में भी बारिश ने कहर बरपाया है? नीचे कमेंट में बताएं।\n\n#GujaratRains #AhmedabadRain #IMDAlert #GujaratWeather #HeavyRain",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789729954141_nn2buztf_gujarat_heavy_rains_flooding_imd_alert.mp4",
+                "_id": "6aad1ca43ef0a575db827dd1"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CJ0_yRNLTkcQ7kNvwG5vHx1&_nc_oc=AdpCocvLPe0MdwPLX7N6FLntwLBaNyGlrzxiHM6Zi49jDvcmjNAxHUl3ysqjzTyrNwQ&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UxYI42QI3HtTM_uAkjz1uQ&_nc_tpa=Q5bMBQJxZEgc07F82510xkq0QOjKYxFyI1xFropOTyGvBLdLP3b442-h78P0lKU8L3Y273s7is3Bi8RTYQ&oh=00_AQIiDUheOEOQxGGBMz-OkeFfJ-3KgqNhAESD0J7W3_Uu_Q&oe=6AB2823B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:12:35.491Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "02243001a6aa766f7f5bc0640d7dd1bf",
+                "_id": "6aad1ca43ef0a575db827dd2"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:12:35.491Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:12:36.400Z",
+            "updatedAt": "2026-09-18T11:12:38.492Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:12:36.479Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:12:38.875515+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "pakistan_kohat_mosque_suicide_blast",
+    "virality_score": 8,
+    "reason": "Deadly suicide bombing at a mosque during Friday prayers in Pakistan's Kohat district.",
+    "region": "india",
+    "headline": "पाकिस्तान: खैबर पख्तूनख्वा में नमाज के वक्त &#039;सुसाइड ब्लास्ट&#039;, 15 की मौत, मस्जिद बुरी तरह क्षतिग्रस्त",
+    "source_summary": "पाकिस्तान के खैबर पख्तूनख्वा के कोहाट में शुक्रवार की नमाज के दौरान ओल्ड पुलिस लाइंस के पास विस्फोट हुआ. पुलिस के मुताबिक, विस्फोटकों से लदा एक वाहन गेट से टकराया, जिसके बाद धमाका और गोलीबारी हुई. घटना में 25 घायल लोगों को DHQ अस्पताल ले जाया गया.",
+    "source_url": "https://www.aajtak.in/world/story/pakistan-khyber-pakhtunkhwa-kohat-explosion-police-lines-attack-friday-prayers-ntc-apdy-rptc-2646027-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T15:10:16+05:30",
+    "hook": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका!",
+    "script_hi": "पाकिस्तान के खैबर पख्तूनख्वा के कोहाट में शुक्रवार की नमाज के दौरान बड़ा आतंकवादी हमला हुआ है। ओल्ड पुलिस लाइंस के पास हुए इस सुसाइड ब्लास्ट में पंद्रह लोगों की मौत हो गई है और पच्चीस से ज्यादा लोग घायल बताए जा रहे हैं। पुलिस के मुताबिक विस्फोटकों से लदा वाहन गेट से टकराया जिसके बाद धमाका और गोलीबारी हुई।",
+    "tts_text_hi": "पाकिस्तान के खैबर पख्तूनख्वा के कोहाट में शुक्रवार की नमाज के दौरान बड़ा आतंकवादी हमला हुआ है। ओल्ड पुलिस लाइंस के पास हुए इस सुसाइड ब्लास्ट में पंद्रह लोगों की मौत हो गई है और पच्चीस से ज्यादा लोग घायल बताए जा रहे हैं। पुलिस के मुताबिक विस्फोटकों से लदा वाहन गेट से टकराया जिसके बाद धमाका और गोलीबारी हुई।",
+    "title": "Pakistan Suicide Blast: खैबर पख्तूनख्वा में मस्जिद के पास धमाका",
+    "caption": "पाकिस्तान के खैबर पख्तूनख्वा में जुमे की नमाज के दौरान बड़ा धमाका, पंद्रह लोगों की मौत और कई घायल।",
+    "hashtags": [
+      "PakistanBlast",
+      "KhyberPakhtunkhwa",
+      "BreakingNews",
+      "PakistanNews",
+      "WorldNews"
+    ],
+    "visual_queries": [
+      "pakistan mosque building",
+      "emergency ambulance Pakistan",
+      "police barricade street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6520224/6520224-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "emergency ambulance Pakistan",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police barricade street",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2383832/pexels-photo-2383832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pakistan mosque building",
+        "credit": "Usama Ishtiaq",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11287929/pexels-photo-11287929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "damaged building rubble",
+        "credit": "ali Saleh",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency entrance",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28368185/pexels-photo-28368185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation street cordon",
+        "credit": "Boys in Bristol Photography",
+        "duration_sec": 4.5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "पाकिस्तान की मस्जिद में नमाज के दौरान सुसाइड ब्लास्ट, 15 की मौत 🚨",
+        "caption": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका! 💥\n\nजुमे की नमाज के ठीक वक्त हुए इस सुसाइड ब्लास्ट में 15 लोगों की मौत हो गई है और कई घायल हैं। मस्जिद का बड़ा हिस्सा बुरी तरह क्षतिग्रस्त हो गया है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PakistanBlast #KhyberPakhtunkhwa #PakistanNews #SuicideBlast #WorldNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका! 💥\n\nनमाज के वक्त हुए इस सुसाइड ब्लास्ट में 15 लोगों की जान चली गई। धमाका इतना तेज था कि मस्जिद की इमारत मलबे में बदल गई। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#PakistanBlast #KhyberPakhtunkhwa #PakistanNews #SuicideBlast #WorldNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका! 💥\n\nजुमे की नमाज अदा की जा रही थी, तभी अचानक हुए इस सुसाइड ब्लास्ट ने सबको दहला दिया। इस भीषण हमले में 15 बेकसूर लोगों की मौत हो गई है और कई अन्य गंभीर रूप से घायल हैं। मस्जिद की इमारत भी बुरी तरह क्षतिग्रस्त हो गई है। \n\nपूरी जानकारी के लिए वीडियो देखें और अपनी राय साझा करें।\n\n#PakistanBlast #KhyberPakhtunkhwa #PakistanNews #SuicideBlast #WorldNews"
+      },
+      "hashtags": [
+        "PakistanBlast",
+        "KhyberPakhtunkhwa",
+        "PakistanNews",
+        "SuicideBlast",
+        "WorldNews"
+      ]
+    },
+    "audio_path": "audio/pakistan_kohat_mosque_suicide_blast.wav",
+    "audio_duration_sec": 22.23,
+    "video_path": "videos/pakistan_kohat_mosque_suicide_blast.mp4",
+    "video_duration_sec": 30.22,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-18T11:17:40.946424+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1ded697a8bce6c0d5a93",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका! 💥\n\nजुमे की नमाज अदा की जा रही थी, तभी अचानक हुए इस सुसाइड ब्लास्ट ने सबको दहला दिया। इस भीषण हमले में 15 बेकसूर लोगों की मौत हो गई है और कई अन्य गंभीर रूप से घायल हैं। मस्जिद की इमारत भी बुरी तरह क्षतिग्रस्त हो गई है। \n\nपूरी जानकारी के लिए वीडियो देखें और अपनी राय साझा करें।\n\n#PakistanBlast #KhyberPakhtunkhwa #PakistanNews #SuicideBlast #WorldNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789730283235_vmj6ipdr_pakistan_kohat_mosque_suicide_blast.mp4",
+                "_id": "6aad1ded697a8bce6c0d5a94"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwHSPEfY&_nc_oc=AdrXv8xxDwQmxZpDSAXUs6_Or0EBue4HlVriWyM2FKdDPCrJ2U2ITGqj2q6sRdFutqM&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=iGEl9_12fMLwGmbqQf6MgQ&_nc_tpa=Q5bMBQLTLCzWGp5nwaiogBzX-ZsfIkwU-rTdc-oW2E8rgLRKDXhaNEBtco5YVv8xG5-_XnGBZ8AI5TA-&oh=00_AQK89aA-rWRYg3WA4IDZB_w-0_fyxhAZDkxtiLjnOA7A_A&oe=6AB28E94",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:18:04.601Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "00a486d8955b2b11fe6899b1b311fadb",
+                "_id": "6aad1ded697a8bce6c0d5a95",
+                "platformPostId": "2015613725757419",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2015613725757419",
+                "publishedAt": "2026-09-18T11:18:17.406Z"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:18:04.601Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:18:05.737Z",
+            "updatedAt": "2026-09-18T11:18:17.564Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:18:05.905Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:18:17.793532+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aad1e14688ab5e56491d795",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पाकिस्तान के खैबर पख्तूनख्वा में मस्जिद के बाहर भयानक धमाका! 💥\n\nनमाज के वक्त हुए इस सुसाइड ब्लास्ट में 15 लोगों की जान चली गई। धमाका इतना तेज था कि मस्जिद की इमारत मलबे में बदल गई। \n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#PakistanBlast #KhyberPakhtunkhwa #PakistanNews #SuicideBlast #WorldNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789730322125_e9jcv5ne_pakistan_kohat_mosque_suicide_blast.mp4",
+                "_id": "6aad1e14688ab5e56491d796"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CJ0_yRNLTkcQ7kNvwG5vHx1&_nc_oc=AdpCocvLPe0MdwPLX7N6FLntwLBaNyGlrzxiHM6Zi49jDvcmjNAxHUl3ysqjzTyrNwQ&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UxYI42QI3HtTM_uAkjz1uQ&_nc_tpa=Q5bMBQJxZEgc07F82510xkq0QOjKYxFyI1xFropOTyGvBLdLP3b442-h78P0lKU8L3Y273s7is3Bi8RTYQ&oh=00_AQIiDUheOEOQxGGBMz-OkeFfJ-3KgqNhAESD0J7W3_Uu_Q&oe=6AB2823B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-18T11:18:43.547Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "438cf765eecd46501a0ad366e87e6907",
+                "_id": "6aad1e14688ab5e56491d797"
+              }
+            ],
+            "scheduledFor": "2026-09-18T11:18:43.547Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-18T11:18:44.705Z",
+            "updatedAt": "2026-09-18T11:18:46.409Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-18T11:18:44.812Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-18T11:18:46.907510+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "delhi_rk_puram_hit_and_drag_bike_video",
+    "virality_score": 8,
+    "reason": "Shocking hit-and-drag incident in Delhi where a car collides with a bike and drags it for meters.",
+    "region": "india",
+    "headline": "गुरुग्राम के बाद अब दिल्ली में 'हिट एंड ड्रैग'! कार से टक्कर के बाद कई मीटर तक घिसटती रही बाइक, VIDEO वायरल",
+    "source_summary": "दिल्ली के RK Puram में हिट एंड ड्रैग का मामला सामने आया है. Honda Amaze ने सड़क किनारे खड़ी बाइक को टक्कर मार दी, जिसके बाद बाइक कई मीटर तक घिसटती रही. वायरल VIDEO के बाद 73 वर्षीय चालक को गिरफ्तार कर लिया गया.",
+    "source_url": "https://ndtv.in/india/delhi-rk-puram-hit-and-drag-case-bike-dragged-by-honda-amaze-driver-arrested-12062704#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 18 Sep 2026 10:55:29 +0530",
+    "hook": "गुरुग्राम के बाद अब दिल्ली में डरावना हिट एंड ड्रैग मामला आया सामने!",
+    "script_hi": "दिल्ली के आर के पुरम इलाके में एक डरावनी घटना सामने आई है। एक होंडा अमेज़ कार ने सड़क किनारे खड़ी बाइक को ज़ोरदार टक्कर मार दी, जिसके बाद बाइक कई मीटर तक सड़क पर घिसटती चली गई। इस घटना का वीडियो वायरल होने के बाद पुलिस ने कार्रवाई करते हुए तिहत्तर वर्षीय कार चालक को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "दिल्ली के आर के पुरम इलाके में एक डरावनी घटना सामने आई है। एक होंडा अमेज़ कार ने सड़क किनारे खड़ी बाइक को ज़ोरदार टक्कर मार दी, जिसके बाद बाइक कई मीटर तक सड़क पर घिसटती चली गई। इस घटना का वीडियो वायरल होने के बाद पुलिस ने कार्रवाई करते हुए तिहत्तर वर्षीय कार चालक को गिरफ्तार कर लिया है।",
+    "title": "दिल्ली के आर के पुरम में हिट एंड ड्रैग, बाइक घसीटने वाला बुजुर्ग गिरफ्तार",
+    "caption": "दिल्ली के आर के पुरम में हिट एंड ड्रैग की चौंकाने वाली घटना सामने आई है। कार से टक्कर के बाद बाइक कई मीटर तक घिसटती रही। वायरल वीडियो के आधार पर तिहत्तर वर्षीय ड्राइवर को गिरफ्तार कर लिया गया है।",
+    "hashtags": [
+      "#DelhiNews",
+      "#HitAndDrag",
+      "#RKPuram",
+      "#DelhiPolice",
+      "#ViralVideo",
+      "#CrimeNews"
+    ],
+    "visual_queries": [
+      "Delhi street India",
+      "damaged motorcycle India",
+      "police station India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves minors in a sensitive case of gang rape and murder, requiring manual review.",
+    "flag_reason": "The story centers on a specific viral video of the incident; generic stock B-roll is used as placeholders and the actual video needs to be added manually.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10977893/pexels-photo-10977893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30031066/12884466_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "Delhi police station India",
-        "credit": "saikat ghosh",
+        "query": "damaged motorcycle India",
+        "credit": "Manish Khandagale",
+        "source_duration_sec": 60,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi street India",
+        "credit": "Roman Saienko",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera street India",
-        "credit": "Rakesh Teja",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police handcuffs India",
-        "credit": "Kindel Media",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "canada_eu_associate_membership_proposal",
+    "topic_label": "kannauj_car_accident_reel_stunt_deaths",
     "virality_score": 7,
-    "reason": "Major global geopolitical shift as the EU offers Canada associate membership amid trade tensions with the US.",
-    "region": "global",
-    "headline": "Canada welcomes EU proposal to become 'associate member'",
-    "source_summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-    "source_url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
-    "hook": "कनाडा और यूरोपीय संघ की ऐतिहासिक साझेदारी!",
-    "script_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया है। उन्होंने कहा कि यह गठबंधन अन्य लोकतंत्रों के लिए एक मिसाल बनेगा।",
-    "tts_text_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया है। उन्होंने कहा कि यह गठबंधन अन्य लोकतंत्रों के लिए एक मिसाल बनेगा।",
-    "title": "Canada welcomes EU proposal",
-    "caption": "कनाडा के प्रधानमंत्री मार्क कार्नी ने यूरोपीय संघ के प्रस्ताव का स्वागत किया।",
+    "reason": "Two youths tragically killed in Kannauj after crashing their car into a pole while making social media reels.",
+    "region": "india",
+    "headline": "कन्नौज में रील के चक्कर में पोल से टकराने के बाद पेड़ में घुसी कार, दो दोस्तों की मौत, कटर से काटकर निकाले गए शव",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/kannauj-accident.jpeg\" class=\"attachment-large size-large wp-post-image\" alt=\"कन्नौज में रील के चक्कर में पोल से टकराने के बाद पेड़ में घुसी कार, दो दोस्तों की मौत, कटर से काटकर निकाले गए शव\" /></figure>कन्नौज-तिर्वा मार्ग पर तेज रफ्तार कार अनियंत्रित होकर बिजली के पोल और पेड़ से टकरा गई. हादसे में दो युवकों की मौके पर मौत हो गई, जबकि दो अन्य गंभीर रूप से घायल हैं.",
+    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/kannauj-accident-two-youths-killed-as-speeding-car-crashes-into-pole-and-tree-3910218.html",
+    "source_name": "TV9 Hindi",
+    "published": "Fri, 18 Sep 2026 14:22:07 +0530",
+    "hook": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई!",
+    "script_hi": "उत्तर प्रदेश के कन्नौज में रील बनाने के चक्कर में एक बड़ा हादसा हो गया। कन्नौज-तिर्वा मार्ग पर तेज रफ्तार कार अनियंत्रित होकर पहले बिजली के पोल से टकराई और फिर एक पेड़ में जा घुसी। इस भयानक हादसे में दो दोस्तों की मौके पर ही मौत हो गई, जबकि दो अन्य युवक गंभीर रूप से घायल हैं। पुलिस ने मौके पर पहुंचकर शवों को कटर से कार काटकर बाहर निकाला और घायलों को अस्पताल पहुंचाया।",
+    "tts_text_hi": "उत्तर प्रदेश के कन्नौज में रील बनाने के चक्कर में एक बड़ा हादसा हो गया। कन्नौज-तिर्वा मार्ग पर तेज रफ्तार कार अनियंत्रित होकर पहले बिजली के पोल से टकराई और फिर एक पेड़ में जा घुसी। इस भयानक हादसे में दो दोस्तों की मौके पर ही मौत हो गई, जबकि दो अन्य युवक गंभीर रूप से घायल हैं। पुलिस ने मौके पर पहुंचकर शवों को कटर से कार काटकर बाहर निकाला और घायलों को अस्पताल पहुंचाया।",
+    "title": "कन्नौज में रील के चक्कर में भीषण सड़क हादसा, दो दोस्तों की मौत",
+    "caption": "कन्नौज-तिर्वा मार्ग पर रील बनाने के दौरान तेज रफ्तार कार बिजली के पोल और पेड़ से टकरा गई, जिससे दो युवकों की दर्दनाक मौत हो गई।",
     "hashtags": [
-      "Canada",
-      "EuropeanUnion",
-      "MarkCarney",
-      "WorldNews",
-      "Geopolitics"
+      "Kannauj",
+      "CarAccident",
+      "RoadSafety",
+      "UttarPradesh",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Canadian flag Ottawa",
-      "European Union flag Brussels",
-      "international diplomacy meeting"
+      "Indian highway road India",
+      "damaged car accident India",
+      "police investigation India"
     ],
-    "named_person": "Mark Carney",
-    "named_person_hi": "मार्क कार्नी",
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "मार्क कार्नी",
-        "source": "fallback",
-        "query": "Mark Carney",
-        "duration_sec": 4.0
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30207865/12951540_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "speeding car highway india",
+        "credit": "abshky .",
+        "source_duration_sec": 25,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34182526/14490269_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "wrecked car towing India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 11,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19025933/pexels-photo-19025933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Canadian flag Ottawa",
-        "credit": "Yusuf Sh",
-        "duration_sec": 5
+        "query": "Indian highway road India",
+        "credit": "Rana Muskan",
+        "duration_sec": 3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33401027/pexels-photo-33401027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "European Union flag Brussels",
-        "credit": "aleksandre lomadze",
-        "duration_sec": 5
+        "query": "fatal road accident India",
+        "credit": "Aleksandar Rasic",
+        "duration_sec": 3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6950157/pexels-photo-6950157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international diplomacy meeting",
-        "credit": "Werner Pfennig",
-        "duration_sec": 5
+        "query": "speeding car highway India",
+        "credit": "Sourabh Narwade",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36782648/pexels-photo-36782648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police ambulance roadside India",
+        "credit": "Rohan",
+        "duration_sec": 3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कनाडा बनेगा यूरोपीय संघ का 'एसोसिएट मेंबर'! 🇪🇺🇨🇦",
-        "caption": "कनाडा और यूरोपीय संघ की इस साझेदारी ने दुनिया भर के समीकरण बदल दिए हैं। 🌍\n\nयूरोपीय संघ के इस बड़े प्रस्ताव पर कनाडा ने खुलकर सहमति जताई है। इससे दोनों के बीच व्यापार और सुरक्षा के रास्ते पूरी तरह बदल जाएंगे।\n\nपूरी कहानी देखें और समझें कि इसके क्या मायने हैं।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+        "title": "कन्नौज: रील के चक्कर में पेड़ से घुसी कार, दोनों दोस्तों की दर्दनाक मौत 🚗💥",
+        "caption": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई! 🚨\n\nगाड़ी की रफ्तार इतनी तेज थी कि टक्कर के बाद परखच्चे उड़ गए। दोनों दोस्तों के शवों को कटर से कार काटकर बाहर निकालना पड़ा। एक सेकंड की लापरवाही ने दो घरों के चिराग बुझा दिए।\n\nऐसी खतरनाक रील्स पर आपकी क्या राय है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#KannaujAccident #RoadSafety #ReelsDanger #KannaujNews #UttarPradesh"
       },
       "instagram": {
         "title": null,
-        "caption": "कनाडा और यूरोपीय संघ की इस डील ने चौंका दिया है! 🤝\n\nयूरोपीय संघ के 'एसोसिएट मेंबर' बनने के प्रस्ताव को कनाडा ने हरी झंडी दे दी है। इस ऐतिहासिक कदम के बाद ग्लोबल लेवल पर बड़े बदलाव तय माने जा रहे हैं। \n\nपूरी कहानी वीडियो में देखें।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+        "caption": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई! 🚨\n\nगाड़ी की हालत देखकर किसी की भी रूह कांप जाए। कटर से कार काटकर दोनों दोस्तों के शव बाहर निकाले गए। \n\nशेयर करें ताकि दूसरों तक यह चेतावनी पहुंचे।\n\n#KannaujAccident #RoadSafety #ReelsDanger #KannaujNews #UttarPradesh"
       },
       "facebook": {
         "title": null,
-        "caption": "कनाडा और यूरोपीय संघ के बीच कुछ ऐसा होने जा रहा है जिसकी किसी को उम्मीद नहीं थी। 🇨🇦🇪🇺\n\nयूरोपीय संघ ने कनाडा को 'एसोसिएट मेंबर' बनने का बड़ा प्रस्ताव दिया है, जिसे कनाडा ने स्वीकार कर लिया है। इस फैसले से आने वाले समय में ग्लोबल ट्रेड और स्ट्रैटेजिक रिश्तों पर बहुत गहरा असर पड़ेगा। \n\nवीडियो में देखें पूरी खबर, और शेयर करें अपनी राय।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews"
+        "caption": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई! 🚨\n\nस्टंट का शौक किस हद तक भारी पड़ सकता है, इसकी दर्दनाक तस्वीर कन्नौज से सामने आई है। गाड़ी इतनी बुरी तरह फंसी थी कि शवों को निकालने के लिए कटर का इस्तेमाल करना पड़ा। एक छोटी सी वीडियो बनाने की जिद ने दो हंसते-खेलते परिवारों को हमेशा के लिए उजाड़ दिया। \n\nक्या सोशल मीडिया का यह भूत सिर से उतरना जरूरी नहीं है? अपनी राय दें।\n\n#KannaujAccident #RoadSafety #ReelsDanger #KannaujNews #UttarPradesh"
       },
       "hashtags": [
-        "CanadaNews",
-        "EuropeanUnion",
-        "GlobalPolitics",
-        "CanadaEU",
-        "InternationalNews"
+        "KannaujAccident",
+        "RoadSafety",
+        "ReelsDanger",
+        "KannaujNews",
+        "UttarPradesh"
       ]
     },
-    "audio_path": "audio/canada_eu_associate_membership_proposal.wav",
-    "audio_duration_sec": 10.48,
-    "video_path": "videos/canada_eu_associate_membership_proposal.mp4",
-    "video_duration_sec": 18.54,
+    "audio_path": "audio/kannauj_car_accident_reel_stunt_deaths.wav",
+    "audio_duration_sec": 30.16,
+    "video_path": "videos/kannauj_car_accident_reel_stunt_deaths.mp4",
+    "video_duration_sec": 38.12,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-18T09:01:00.729790+00:00"
+        "attempted_at": "2026-09-18T11:24:09.001173+00:00"
       },
       "facebook": {
         "success": true,
@@ -952,15 +1421,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfde469e45df1ccad9106",
+            "_id": "6aad1f6e52beb024200ae3f8",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कनाडा और यूरोपीय संघ के बीच कुछ ऐसा होने जा रहा है जिसकी किसी को उम्मीद नहीं थी। 🇨🇦🇪🇺\n\nयूरोपीय संघ ने कनाडा को 'एसोसिएट मेंबर' बनने का बड़ा प्रस्ताव दिया है, जिसे कनाडा ने स्वीकार कर लिया है। इस फैसले से आने वाले समय में ग्लोबल ट्रेड और स्ट्रैटेजिक रिश्तों पर बहुत गहरा असर पड़ेगा। \n\nवीडियो में देखें पूरी खबर, और शेयर करें अपनी राय।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews",
+            "content": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई! 🚨\n\nस्टंट का शौक किस हद तक भारी पड़ सकता है, इसकी दर्दनाक तस्वीर कन्नौज से सामने आई है। गाड़ी इतनी बुरी तरह फंसी थी कि शवों को निकालने के लिए कटर का इस्तेमाल करना पड़ा। एक छोटी सी वीडियो बनाने की जिद ने दो हंसते-खेलते परिवारों को हमेशा के लिए उजाड़ दिया। \n\nक्या सोशल मीडिया का यह भूत सिर से उतरना जरूरी नहीं है? अपनी राय दें।\n\n#KannaujAccident #RoadSafety #ReelsDanger #KannaujNews #UttarPradesh",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789722081090_v26e8dgb_canada_eu_associate_membership_proposal.mp4",
-                "_id": "6aacfde469e45df1ccad9107"
+                "url": "https://media.zernio.com/media/1789730668263_etonjxem_kannauj_car_accident_reel_stunt_deaths.mp4",
+                "_id": "6aad1f6e52beb024200ae3f9"
               }
             ],
             "platforms": [
@@ -977,17 +1446,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T09:01:23.802Z",
+                "scheduledFor": "2026-09-18T11:24:29.671Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "745a26fb71721daa090f61a447018962",
-                "_id": "6aacfde469e45df1ccad9108",
-                "platformPostId": "28867204426219607",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=28867204426219607",
-                "publishedAt": "2026-09-18T09:01:31.551Z"
+                "contentHash": "158e6985d458f9d51063981ce522bcd8",
+                "_id": "6aad1f6e52beb024200ae3fa",
+                "platformPostId": "1870588580582346",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1870588580582346",
+                "publishedAt": "2026-09-18T11:24:36.924Z"
               }
             ],
-            "scheduledFor": "2026-09-18T09:01:23.802Z",
+            "scheduledFor": "2026-09-18T11:24:29.671Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -999,14 +1468,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T09:01:24.771Z",
-            "updatedAt": "2026-09-18T09:01:31.705Z",
+            "createdAt": "2026-09-18T11:24:30.866Z",
+            "updatedAt": "2026-09-18T11:24:37.155Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T09:01:24.889Z"
+            "publishingClaimedAt": "2026-09-18T11:24:30.937Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T09:01:32.234534+00:00"
+        "attempted_at": "2026-09-18T11:24:37.364482+00:00"
       },
       "instagram": {
         "success": true,
@@ -1019,15 +1488,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aacfe0a69e45df1ccad9cb8",
+            "_id": "6aad1f90b4dff31de986aab3",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "कनाडा और यूरोपीय संघ की इस डील ने चौंका दिया है! 🤝\n\nयूरोपीय संघ के 'एसोसिएट मेंबर' बनने के प्रस्ताव को कनाडा ने हरी झंडी दे दी है। इस ऐतिहासिक कदम के बाद ग्लोबल लेवल पर बड़े बदलाव तय माने जा रहे हैं। \n\nपूरी कहानी वीडियो में देखें।\n\n#CanadaNews #EuropeanUnion #GlobalPolitics #CanadaEU #InternationalNews",
+            "content": "कन्नौज में रील बनाने के चक्कर में तेज रफ्तार कार पेड़ से जा टकराई! 🚨\n\nगाड़ी की हालत देखकर किसी की भी रूह कांप जाए। कटर से कार काटकर दोनों दोस्तों के शव बाहर निकाले गए। \n\nशेयर करें ताकि दूसरों तक यह चेतावनी पहुंचे।\n\n#KannaujAccident #RoadSafety #ReelsDanger #KannaujNews #UttarPradesh",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789722120482_jsps35rt_canada_eu_associate_membership_proposal.mp4",
-                "_id": "6aacfe0a69e45df1ccad9cb9"
+                "url": "https://media.zernio.com/media/1789730701603_123hn3dj_kannauj_car_accident_reel_stunt_deaths.mp4",
+                "_id": "6aad1f90b4dff31de986aab4"
               }
             ],
             "platforms": [
@@ -1044,14 +1513,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-18T09:02:02.151Z",
+                "scheduledFor": "2026-09-18T11:25:03.081Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "a139a455730168c6d180a2f1ce155792",
-                "_id": "6aacfe0a69e45df1ccad9cba"
+                "contentHash": "b9bf7b3d5c8fc4e4a5dd28a9128617be",
+                "_id": "6aad1f90b4dff31de986aab5"
               }
             ],
-            "scheduledFor": "2026-09-18T09:02:02.151Z",
+            "scheduledFor": "2026-09-18T11:25:03.081Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1063,14 +1532,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-18T09:02:02.855Z",
-            "updatedAt": "2026-09-18T09:02:04.724Z",
+            "createdAt": "2026-09-18T11:25:04.569Z",
+            "updatedAt": "2026-09-18T11:25:06.728Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-18T09:02:02.931Z"
+            "publishingClaimedAt": "2026-09-18T11:25:04.647Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-18T09:02:05.172515+00:00"
+        "attempted_at": "2026-09-18T11:25:07.150951+00:00"
       }
     }
   }
