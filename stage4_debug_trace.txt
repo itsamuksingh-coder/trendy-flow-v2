@@ -1,10 +1,4 @@
-ready_labels: ['abhishek_sharma_fastest_t20i_century_afghanistan', 'iphone_18_pro_launch_queues_india', 'kanpur_delivery_boy_falls_in_open_sewer', 'thrift_store_bowl_auctioned_millions', 'us_sanctions_bill_100_percent_tariff_india_oil']
+ready_labels: ['delhi_dtc_bus_driver_strike_fare_hike']
 
-iphone_18_pro_launch_queues_india: SUCCESS -> video_path=videos/iphone_18_pro_launch_queues_india.mp4 dur=32.497211
-abhishek_sharma_fastest_t20i_century_afghanistan: SUCCESS -> video_path=videos/abhishek_sharma_fastest_t20i_century_afghanistan.mp4 dur=31.92322
-sonipat_pitbull_dog_attacks_infant: SKIPPED (not in ready set)
-junagadh_lions_walking_on_street_rain_video: SKIPPED (not in ready set)
-us_sanctions_bill_100_percent_tariff_india_oil: SUCCESS -> video_path=videos/us_sanctions_bill_100_percent_tariff_india_oil.mp4 dur=29.92322
-kanpur_delivery_boy_falls_in_open_sewer: SUCCESS -> video_path=videos/kanpur_delivery_boy_falls_in_open_sewer.mp4 dur=22.02322
-gujarat_laddu_eating_competition_record: SKIPPED (not in ready set)
-thrift_store_bowl_auctioned_millions: SUCCESS -> video_path=videos/thrift_store_bowl_auctioned_millions.mp4 dur=24.32322
+delhi_dtc_bus_driver_strike_fare_hike: SUCCESS -> video_path=videos/delhi_dtc_bus_driver_strike_fare_hike.mp4 dur=30.92322
+us_approves_f35_jets_saudi_arabia_global: SKIPPED (not in ready set)
