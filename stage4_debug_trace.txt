@@ -1,9 +1,9 @@
-ready_labels: ['canada_pm_carney_reduces_us_reliance_eu_alliance', 'iphone_18_pro_launch_queues_mumbai_surat', 'north_korean_anthem_played_for_south_korea_asian_games', 'pakistan_kohat_mosque_suicide_bombing_deaths', 'trump_russia_sanctions_bill_100_percent_tariff_india']
+ready_labels: ['chandigarh_iphone_free_distribution_event', 'lucknow_wife_murders_husband_with_lover', 'mamata_banerjee_tmc_new_symbol_footballer', 'nithari_case_accused_surendra_koli_found_dead', 'pakistan_peshawar_mosque_suicide_bombing_global', 'trump_signs_russia_sanctions_bill_100_percent_tariff_india']
 
-trump_russia_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/trump_russia_sanctions_bill_100_percent_tariff_india.mp4 dur=24.956553
-jyotiraditya_sc सिंधिया_collector_sp_reprimand_video: SKIPPED (not in ready set)
-pakistan_kohat_mosque_suicide_bombing_deaths: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_bombing_deaths.mp4 dur=29.356553
-north_korean_anthem_played_for_south_korea_asian_games: SUCCESS -> video_path=videos/north_korean_anthem_played_for_south_korea_asian_games.mp4 dur=22.956553
-bareilly_man_brings_snake_in_bag_hospital: SKIPPED (not in ready set)
-iphone_18_pro_launch_queues_mumbai_surat: SUCCESS -> video_path=videos/iphone_18_pro_launch_queues_mumbai_surat.mp4 dur=20.22322
-canada_pm_carney_reduces_us_reliance_eu_alliance: SUCCESS -> video_path=videos/canada_pm_carney_reduces_us_reliance_eu_alliance.mp4 dur=25.507211
+trump_signs_russia_sanctions_bill_100_percent_tariff_india: SUCCESS -> video_path=videos/trump_signs_russia_sanctions_bill_100_percent_tariff_india.mp4 dur=24.489887
+nithari_case_accused_surendra_koli_found_dead: SUCCESS -> video_path=videos/nithari_case_accused_surendra_koli_found_dead.mp4 dur=38.12322
+chandigarh_iphone_free_distribution_event: SUCCESS -> video_path=videos/chandigarh_iphone_free_distribution_event.mp4 dur=24.689887
+neuralink_brain_chip_patient_speaks_love: SKIPPED (not in ready set)
+pakistan_peshawar_mosque_suicide_bombing_global: SUCCESS -> video_path=videos/pakistan_peshawar_mosque_suicide_bombing_global.mp4 dur=21.490227
+mamata_banerjee_tmc_new_symbol_footballer: SUCCESS -> video_path=videos/mamata_banerjee_tmc_new_symbol_footballer.mp4 dur=27.922222
+lucknow_wife_murders_husband_with_lover: SUCCESS -> video_path=videos/lucknow_wife_murders_husband_with_lover.mp4 dur=36.676213
