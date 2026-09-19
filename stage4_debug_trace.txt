@@ -1,10 +1,8 @@
-ready_labels: ['golmaal_5_release_date_announcement', 'google_ai_gemini_hacks_three_companies', 'hardoi_wife_husband_mutual_assault_dispute', 'iit_bombay_student_suicide_chatgpt_controversy', 'madhya_pradesh_agar_malwa_car_drain_accident', 'nsa_ajit_doval_sikkim_china_agent_story', 'telangana_ganesha_idol_decorated_with_notes', 'trump_russia_sanctions_100_percent_tariff_india']
+ready_labels: ['anthropic_ai_hacks_chatgpt_security_test', 'dusu_elections_deepanshu_shokeen_independent_lead', 'gondhal_marathi_film_india_oscars_entry', 'iit_bombay_student_suicide_chatgpt_exam', 'tamil_nadu_gold_ring_newborns_scheme_vijay']
 
-trump_russia_sanctions_100_percent_tariff_india: SUCCESS -> video_path=videos/trump_russia_sanctions_100_percent_tariff_india.mp4 dur=28.156553
-iit_bombay_student_suicide_chatgpt_controversy: SUCCESS -> video_path=videos/iit_bombay_student_suicide_chatgpt_controversy.mp4 dur=32.289887
-madhya_pradesh_agar_malwa_car_drain_accident: SUCCESS -> video_path=videos/madhya_pradesh_agar_malwa_car_drain_accident.mp4 dur=27.52322
-hardoi_wife_husband_mutual_assault_dispute: SUCCESS -> video_path=videos/hardoi_wife_husband_mutual_assault_dispute.mp4 dur=30.056553
-nsa_ajit_doval_sikkim_china_agent_story: SUCCESS -> video_path=videos/nsa_ajit_doval_sikkim_china_agent_story.mp4 dur=38.22322
-google_ai_gemini_hacks_three_companies: SUCCESS -> video_path=videos/google_ai_gemini_hacks_three_companies.mp4 dur=21.789887
-telangana_ganesha_idol_decorated_with_notes: SUCCESS -> video_path=videos/telangana_ganesha_idol_decorated_with_notes.mp4 dur=28.789887
-golmaal_5_release_date_announcement: SUCCESS -> video_path=videos/golmaal_5_release_date_announcement.mp4 dur=33.12322
+iit_bombay_student_suicide_chatgpt_exam: SUCCESS -> video_path=videos/iit_bombay_student_suicide_chatgpt_exam.mp4 dur=33.12322
+uk_returned_grad_kidnaps_kills_bengaluru_boy: SKIPPED (not in ready set)
+dusu_elections_deepanshu_shokeen_independent_lead: SUCCESS -> video_path=videos/dusu_elections_deepanshu_shokeen_independent_lead.mp4 dur=31.756553
+tamil_nadu_gold_ring_newborns_scheme_vijay: SUCCESS -> video_path=videos/tamil_nadu_gold_ring_newborns_scheme_vijay.mp4 dur=30.639229
+anthropic_ai_hacks_chatgpt_security_test: SUCCESS -> video_path=videos/anthropic_ai_hacks_chatgpt_security_test.mp4 dur=28.944218
+gondhal_marathi_film_india_oscars_entry: SUCCESS -> video_path=videos/gondhal_marathi_film_india_oscars_entry.mp4 dur=27.481224
