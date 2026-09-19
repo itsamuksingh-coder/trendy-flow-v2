@@ -1,8 +1,10 @@
-ready_labels: ['amritsar_influencer_iphone_langar_announcement', 'asian_games_2026_nagoya_opening_manu_bhaker', 'asian_games_north_korean_anthem_south_korea_blunder', 'dusu_elections_2026_deepanshu_shokeen_vice_president', 'madhya_pradesh_agar_malwa_car_drowned_tragedy']
+ready_labels: ['deepika_padukone_ranveer_singh_second_baby_girl', 'epfo_wage_limit_increased_to_25000', 'gurugram_black_thar_cab_ramming_terror', 'openai_chatgpt_account_hacked_anthropic_ai', 'pakistan_kohat_mosque_suicide_bombing_global', 'salman_khan_bigg_boss_angry_paparazzi_remark']
 
-dusu_elections_2026_deepanshu_shokeen_vice_president: SUCCESS -> video_path=videos/dusu_elections_2026_deepanshu_shokeen_vice_president.mp4 dur=30.22322
-delhi_man_sells_family_gold_for_iphone_18: SKIPPED (not in ready set)
-asian_games_2026_nagoya_opening_manu_bhaker: SUCCESS -> video_path=videos/asian_games_2026_nagoya_opening_manu_bhaker.mp4 dur=34.056553
-madhya_pradesh_agar_malwa_car_drowned_tragedy: SUCCESS -> video_path=videos/madhya_pradesh_agar_malwa_car_drowned_tragedy.mp4 dur=30.685215
-amritsar_influencer_iphone_langar_announcement: SUCCESS -> video_path=videos/amritsar_influencer_iphone_langar_announcement.mp4 dur=26.456553
-asian_games_north_korean_anthem_south_korea_blunder: SUCCESS -> video_path=videos/asian_games_north_korean_anthem_south_korea_blunder.mp4 dur=23.856553
+deepika_padukone_ranveer_singh_second_baby_girl: SUCCESS -> video_path=videos/deepika_padukone_ranveer_singh_second_baby_girl.mp4 dur=26.970227
+salman_khan_bigg_boss_angry_paparazzi_remark: SUCCESS -> video_path=videos/salman_khan_bigg_boss_angry_paparazzi_remark.mp4 dur=22.37322
+openai_chatgpt_account_hacked_anthropic_ai: SUCCESS -> video_path=videos/openai_chatgpt_account_hacked_anthropic_ai.mp4 dur=24.788231
+gurugram_black_thar_cab_ramming_terror: SUCCESS -> video_path=videos/gurugram_black_thar_cab_ramming_terror.mp4 dur=37.930227
+dusu_election_results_abvp_sweep: SKIPPED (not in ready set)
+pakistan_kohat_mosque_suicide_bombing_global: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_bombing_global.mp4 dur=31.405215
+lpg_cylinder_booking_biometric_mandatory_oct_1: SKIPPED (not in ready set)
+epfo_wage_limit_increased_to_25000: SUCCESS -> video_path=videos/epfo_wage_limit_increased_to_25000.mp4 dur=38.156553
