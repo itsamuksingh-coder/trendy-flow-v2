@@ -1,55 +1,46 @@
 [
   {
-    "topic_label": "trump_russia_sanctions_bill_100_percent_tariff_india",
+    "topic_label": "trump_signs_russia_sanctions_bill_100_percent_tariff_india",
     "virality_score": 9,
-    "reason": "Donald Trump signs law allowing up to 100% tariffs on countries buying Russian energy like India.",
+    "reason": "US President Trump signs sanctions law giving authority to impose up to 100% tariffs on countries buying Russian oil, impacting India.",
     "region": "india",
-    "headline": "भारत-चीन पर 100% टैरिफ? रूस-ईरान पर प्रतिबंध वाले कानून पर ट्रंप के हस्ताक्षर",
+    "headline": "भारत-चीन पर 100% टैरिफ? रूसी तेल खरीद से जुड़े कानून पर ट्रंप ने किए दस्तखत",
     "source_summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 'रूस और ईरान पर प्रतिबंध लगाने वाले कानून' पर हस्ताक्षर किए हैं, जो ट्रंप को रूस से ऊर्जा खरीदने वाले देशों जैसे भारत और चीन पर 100% तक टैरिफ लगाने का अधिकार देता है.",
     "source_url": "https://www.aajtak.in/world/story/donald-trump-signs-russia-iran-sanctions-law-tariffs-on-india-china-ntc-acwi-dskc-2646538-2026-09-19?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-19T05:18:24+05:30",
     "hook": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ?",
-    "script_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस और ईरान पर प्रतिबंध लगाने वाले कानून पर हस्ताक्षर कर दिए हैं। इस नए कानून के तहत ट्रंप को रूस से ऊर्जा खरीदने वाले देशों, जैसे भारत और चीन पर सौ प्रतिशत तक टैरिफ लगाने का अधिकार मिल गया है।",
-    "tts_text_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस और ईरान पर प्रतिबंध लगाने वाले कानून पर हस्ताक्षर कर दिए हैं। इस नए कानून के तहत ट्रंप को रूस से ऊर्जा खरीदने वाले देशों, जैसे भारत और चीन पर सौ प्रतिशत तक टैरिफ लगाने का अधिकार मिल गया है।",
-    "title": "ट्रंप का नया कानून: भारत और चीन पर सौ प्रतिशत टैरिफ का खतरा",
-    "caption": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक नए कानून पर हस्ताक्षर किए हैं जो रूस से ऊर्जा खरीदने वाले देशों पर सौ प्रतिशत तक टैरिफ लगाने का अधिकार देता है।",
+    "script_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस और ईरान पर प्रतिबंध लगाने वाले कानून पर हस्ताक्षर कर दिए हैं। इस नए कानून के तहत ट्रंप को रूस से ऊर्जा खरीदने वाले देशों जैसे भारत और चीन पर सौ प्रतिशत तक टैरिफ लगाने का अधिकार मिल गया है।",
+    "tts_text_hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस और ईरान पर प्रतिबंध लगाने वाले कानून पर हस्ताक्षर कर दिए हैं। इस नए कानून के तहत ट्रंप को रूस से ऊर्जा खरीदने वाले देशों जैसे भारत और चीन पर सौ प्रतिशत तक टैरिफ लगाने का अधिकार मिल गया है।",
+    "title": "भारत-चीन पर सौ प्रतिशत टैरिफ? ट्रंप ने किए दस्तखत",
+    "caption": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने रूस और ईरान पर प्रतिबंध के कानून पर हस्ताक्षर किए, जिससे भारत और चीन जैसे देशों पर सौ प्रतिशत तक टैरिफ लगाने का रास्ता साफ हो गया है।",
     "hashtags": [
       "DonaldTrump",
       "IndiaChina",
       "USNews",
+      "RussianOil",
       "Tariff",
-      "RussiaIran",
       "BreakingNews",
-      "GlobalNews"
+      "HindiNews"
     ],
     "visual_queries": [
-      "Donald Trump signing document India",
-      "US Capitol building Washington India",
-      "oil refinery factory Russia India",
-      "international trade meeting India"
+      "White House Washington DC USA",
+      "Donald Trump speaking India",
+      "Indian flag and Chinese flag",
+      "oil refinery India"
     ],
     "named_person": "Donald Trump",
     "named_person_hi": "डोनाल्ड ट्रंप",
     "secondary_persons": [],
-    "est_duration_sec": 27,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/34719410/14717156_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Donald Trump signing document India",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
         "url": "https://videos.pexels.com/video-files/8348721/8348721-hd_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "international trade meeting India",
+        "query": "global trade sanction meeting",
         "credit": "Kampus Production",
         "source_duration_sec": 10,
         "duration_sec": 6
@@ -64,191 +55,225 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "US Capitol building Washington India",
-        "credit": "Jackie Friedlander",
+        "url": "downloaded_assets/commons_28e60ee6a3.jpg",
+        "source": "wikimedia_commons",
+        "query": "White House Washington DC USA",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15970027/pexels-photo-15970027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8133993/pexels-photo-8133993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil refinery factory Russia India",
-        "credit": "Jakub Pabis",
+        "query": "global trade sanction meeting",
+        "credit": "Alena Darmel",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "oil refinery India",
+        "credit": "Balotra News",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
-    "timeline_covered_sec": 27,
+    "timeline_covered_sec": 26,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका का नया कानून! क्या भारत पर लगेगा 100% टैरिफ? 🇺🇸",
-        "caption": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ? 🚨\n\nडोनाल्ड ट्रंप ने एक ऐसे सख्त कानून पर साइन कर दिए हैं जो भारत और चीन समेत कई देशों की टेंशन बढ़ा सकता है। रूस और ईरान जैसे देशों पर प्रतिबंध लगाने वाले इस नए प्रावधान का असर ग्लोबल ट्रेड पर क्या होगा?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DonaldTrump #USIndiaRelations #GlobalTrade #USPolitics #InternationalNews"
+        "title": "अमेरिका का नया कानून! क्या भारत पर लगेगा 100% टैरिफ? 🚨",
+        "caption": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ? 🇺🇸\n\nरूसी तेल खरीद से जुड़े एक सख्त कानून पर डोनाल्ड ट्रंप ने दस्तखत कर दिए हैं। इस फैसले से दुनिया भर के बाजारों में हलचल मच गई है और इसका असर भारत जैसे बड़े खरीदारों पर भी पड़ सकता है।\n\nक्या भारत अपनी रणनीति बदलेगा? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DonaldTrump #USIndiaRelations #RussianOil #GlobalEconomy #Geopolitics"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ? 🇺🇸\n\nट्रंप के इस नए कदम से दुनिया भर के बाजारों में हलचल मच गई है। रूस-ईरान पर सख्ती और 100% टैरिफ के इस दांव का भारत पर क्या असर होगा?\n\nवीडियो को शेयर करें और सोचिए, आगे क्या होने वाला है।\n\n#DonaldTrump #USIndiaRelations #GlobalTrade #USPolitics #InternationalNews"
+        "caption": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ? 🚨 रूसी तेल खरीद पर ट्रंप के नए दस्तखतों ने वैश्विक राजनीति में खलबली मचा दी है।\n\nइस कदम से भारत और चीन जैसे देशों पर क्या असर पड़ेगा? क्या सच में भारी जुर्माना या टैक्स चुकाना होगा? \n\nवीडियो में देखिए पूरी अंदर की बात। शेयर करें ताकि और लोग भी जान सकें! 📲\n\n#DonaldTrump #USIndiaRelations #RussianOil #GlobalEconomy #Geopolitics"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका का नया कानून! क्या भारत पर लगेगा सौ प्रतिशत टैरिफ? 🇺🇸\n\nडोनॉल्ड ट्रंप ने एक बार फिर ऐसा कदम उठाया है जिसने वैश्विक राजनीति में हलचल मचा दी है। रूस और ईरान पर प्रतिबंध लगाने वाले जिस कानून पर उन्होंने हस्ताक्षर किए हैं, उसके दायरे में भारत और चीन जैसे देश भी आ सकते हैं।\n\nजानिए क्या है इस नए कानून के पीछे की पूरी सच्चाई और इसका भारत पर क्या असर पड़ेगा। वीडियो पूरा देखें।\n\n#DonaldTrump #USIndiaRelations #GlobalTrade #USPolitics #InternationalNews"
+        "caption": "अमेरिका का एक नया फैसला और पूरी दुनिया की नजरें भारत और चीन पर टिक गईं हैं! 🌍\n\nरूसी तेल की खरीद से जुड़े एक बेहद कड़े कानून पर डोनाल्ड ट्रंप ने दस्तखत कर दिए हैं। सवाल ये है कि क्या वाकई अब भारत जैसे देशों पर 100% टैरिफ का खतरा मंडरा रहा है या इसके पीछे कोई और कूटनीतिक चाल है?\n\nपूरी खबर जानिए इस वीडियो में और हमें बताइए, क्या भारत को अपनी तेल नीति में बदलाव करना चाहिए? 👇\n\n#DonaldTrump #USIndiaRelations #RussianOil #GlobalEconomy #Geopolitics"
       },
       "hashtags": [
         "DonaldTrump",
         "USIndiaRelations",
-        "GlobalTrade",
-        "USPolitics",
-        "InternationalNews"
+        "RussianOil",
+        "GlobalEconomy",
+        "Geopolitics"
       ]
     },
-    "audio_path": "audio/trump_russia_sanctions_bill_100_percent_tariff_india.wav",
-    "audio_duration_sec": 16.92
+    "audio_path": "audio/trump_signs_russia_sanctions_bill_100_percent_tariff_india.wav",
+    "audio_duration_sec": 16.49
   },
   {
-    "topic_label": "jyotiraditya_sc सिंधिया_collector_sp_reprimand_video",
-    "virality_score": 8,
-    "reason": "Viral video shows Union Minister Jyotiraditya Scindia reprimanding a collector and expressing anger over a murder case.",
+    "topic_label": "nithari_case_accused_surendra_koli_found_dead",
+    "virality_score": 9,
+    "reason": "Surendra الكोली, main accused in the infamous Nithari serial killings, found dead by hanging in Haridwar months after acquittal.",
     "region": "india",
-    "headline": "&#039;कलेक्टर कहां हैं, बुलाइए&#039;, सिंधिया का वीडियो सोशल मीडिया पर वायरल",
-    "source_summary": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का एक वीडियो सोशल मीडिया पर वायरल हो रहा है. वीडियो में वह कलेक्टर किशोर कुमार कन्याल को फटकारते और महिला एसपी हितिका वासल से नाराज नजर आ रहे हैं. सिंधिया बीजेपी मंडल अध्यक्ष मोहन बारेला के भाई ताराचंद की मौत पर शोक जताने पहुंचे थे. हत्या की शिकायत सुनकर उन्होंने तत्काल कलेक्टर और एसपी को बुलाया.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/jyotiraditya-scindia-video-viral-collector-sp-reprimanded-tribal-village-lclar-strc-2646453-2026-09-18?utm_source=rssfeed",
+    "headline": "फंदे पर लटका मिला निठारी कांड का आरोपी कोली, पुलिस ने क्या बताया?",
+    "source_summary": "नोएडा के चर्चित निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने उत्तराखंड के हरिद्वार में कथित तौर पर खुदकुशी कर ली. हाल ही में सुप्रीम कोर्ट ने उसे इस मामले में बरी कर दिया था, जिसके बाद वह हरिद्वार में रहने लगा था. जानकारी के अनुसार, कोली हरिद्वार के भूपतवाला क्षेत्र में लाल माता मंदिर के पास एक छोटी सी चाय की दुकान चला रहा था और उसी दुकान में फांसी के फंदे से उसका शव लटका हुआ मिला.",
+    "source_url": "https://www.aajtak.in/india/uttarakhand/video/nithari-case-accused-surender-koli-suicide-in-haridwar-tea-shop-death-vdot-ytvd-2645921-2026-09-18?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-18T23:24:38+05:30",
-    "hook": "कलेक्टर कहां हैं, बुलाइए! सिंधिया का वीडियो वायरल!",
-    "script_hi": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। वीडियो में वह कलेक्टर किशोर कुमार कन्याल को फटकारते और महिला एसपी हितिका वासल से नाराज नजर आ रहे हैं। सिंधिया बीजेपी मंडल अध्यक्ष के भाई की मौत पर शोक जताने पहुंचे थे। हत्या की शिकायत सुनकर उन्होंने तत्काल अधिकारियों को बुलाया।",
-    "tts_text_hi": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का एक वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। वीडियो में वह कलेक्टर किशोर कुमार कन्याल को फटकारते और महिला एसपी हितिका वासल से नाराज नजर आ रहे हैं। सिंधिया बीजेपी मंडल अध्यक्ष के भाई की मौत पर शोक जताने पहुंचे थे। हत्या की शिकायत सुनकर उन्होंने तत्काल अधिकारियों को बुलाया।",
-    "title": "सिंधिया का वायरल वीडियो",
-    "caption": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया का वीडियो सोशल मीडिया पर वायरल, कलेक्टर और एसपी पर भड़के.",
+    "published": "2026-09-18T14:27:14+05:30",
+    "hook": "निठारी कांड का मुख्य आरोपी सुरेंद्र कोली हरिद्वार में मृत पाया गया!",
+    "script_hi": "नोएडा के चर्चित निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने उत्तराखंड के हरिद्वार में कथित तौर पर खुदकुशी कर ली है. हाल ही में सुप्रीम कोर्ट ने उसे इस मामले में बरी कर दिया था, जिसके बाद वह हरिद्वार के भूपतवाला क्षेत्र में लाल माता मंदिर के पास एक छोटी सी चाय की दुकान चला रहा था. पुलिस के मुताबिक, उसी दुकान में फांसी के फंदे से उसका शव लटका हुआ मिला है.",
+    "tts_text_hi": "नोएडा के चर्चित निठारी कांड के मुख्य आरोपी सुरेंद्र कोली ने उत्तराखंड के हरिद्वार में कथित तौर पर खुदकुशी कर ली है. हाल ही में सुप्रीम कोर्ट ने उसे इस मामले में बरी कर दिया था, जिसके बाद वह हरिद्वार के भूपतवाला क्षेत्र में लाल माता मंदिर के पास एक छोटी सी चाय की दुकान चला रहा था. पुलिस के मुताबिक, उसी दुकान में फांसी के फंदे से उसका शव लटका हुआ मिला है.",
+    "title": "निठारी कांड का आरोपी सुरेंद्र कोली हरिद्वार में मृत मिला",
+    "caption": "निठारी कांड के मुख्य आरोपी सुरेंद्र कोली का शव हरिद्वार में एक चाय की दुकान में फंदे से लटका मिला। सुप्रीम कोर्ट ने हाल ही में उसे बरी किया था।",
     "hashtags": [
-      "#Scindia",
-      "#ViralVideo",
-      "#MadhyaPradesh",
-      "#BreakingNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian politician speaking",
-      "Indian district collector office India",
-      "angry Indian police officer India",
-      "Indian political meeting India"
-    ],
-    "named_person": "Jyotiraditya Scindia",
-    "named_person_hi": "ज्योतिरादित्य सिंधिया",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of named individuals which requires manual sourcing of the actual real footage rather than generic stock b-roll.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "ज्योतिरादित्य सिंधिया",
-        "source": "fallback",
-        "query": "Jyotiraditya Scindia",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33451090/pexels-photo-33451090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry government official India",
-        "credit": "Rajat Sahu",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39266223/pexels-photo-39266223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian district collector office India",
-        "credit": "Aditya Kornginnaya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry Indian police officer India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian political meeting India",
-        "credit": "Satyam Pixels",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pakistan_kohat_mosque_suicide_bombing_deaths",
-    "virality_score": 8,
-    "reason": "Major terrorist attack and suicide bombing inside a mosque in Kohat, Pakistan, results in multiple casualties.",
-    "region": "india",
-    "headline": "7 फिदायीन हमलावर, दो ब्लास्ट, टारगेट पर नमाजी, PAK में अब तक 23 मौतें",
-    "source_summary": "पाकिस्तान के कोहट में धमाके के बाद पुलिस लाइन परिसर के भीतर हथियारबंद हमलावरों और सुरक्षा बलों के बीच गोलियां चलने लगीं. दरअसल धमाके के बाद ही कुल सात सशस्त्र हमलावर परिसर में घुस गए थे. इसके बाद सुरक्षा बलों और आतंकियों के बीच मुठभेड़ शुरू हो गई.  पाकिस्तान का दावा है कि सभी 7 हमलावरों को मार गिराया गया है.",
-    "source_url": "https://www.aajtak.in/world/story/pakistan-khyber-pakhtunkhwa-suicide-blast-kohat-district-ittehad-ul-mujahideen-ntcppl-dskc-2646283-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T19:11:54+05:30",
-    "hook": "पाकिस्तान में बड़ा आतंकी हमला, कोहट में फिदायीन हमलों से थर्राया देश!",
-    "script_hi": "पाकिस्तान के कोहट में पुलिस लाइन परिसर पर बड़ा फिदायीन हमला हुआ है। धमाकों के बाद सात सशस्त्र हमलावर अंदर घुस गए और सुरक्षा बलों के साथ मुठभेड़ शुरू हो गई। इस भीषण हमले में अब तक तेईस लोगों की मौत की खबर है। पाकिस्तानी बलों का दावा है कि सभी सातों हमलावरों को ढेर कर दिया गया है।",
-    "tts_text_hi": "पाकिस्तान के कोहट में पुलिस लाइन परिसर पर बड़ा फिदायीन हमला हुआ है। धमाकों के बाद सात सशस्त्र हमलावर अंदर घुस गए और सुरक्षा बलों के साथ मुठभेड़ शुरू हो गई। इस भीषण हमले में अब तक तेईस लोगों की मौत की खबर है। पाकिस्तानी बलों का दावा है कि सभी सातों हमलावरों को ढेर कर दिया गया है।",
-    "title": "पाकिस्तान के कोहट में फिदायीन हमला, तेईस मौतें",
-    "caption": "पाकिस्तान के कोहट में पुलिस लाइन पर फिदायीन हमला, सात हमलावर ढेर, तेईस की मौत।",
-    "hashtags": [
-      "PakistanNews",
-      "KohatAttack",
+      "NithariCase",
+      "SurendraKoli",
+      "HaridwarNews",
+      "CrimeNews",
       "BreakingNews",
-      "TerrorAttack",
-      "WorldNews"
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Pakistan police station exterior",
-      "security forces operation Pakistan",
-      "emergency ambulance Pakistan street"
+      "Supreme Court of India building",
+      "Haridwar city street India",
+      "Indian tea stall shop",
+      "police investigation India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Surendra Koli",
+    "named_person_hi": "सुरेंद्र कोली",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
+        "type": "text_card",
+        "text": "सुरेंद्र कोली",
+        "source": "fallback",
+        "query": "Surendra Koli",
+        "duration_sec": 4.0
+      },
+      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17975886/pexels-photo-17975886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17843099/pexels-photo-17843099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "security forces operation Pakistan",
-        "credit": "Ch  Jawad",
+        "query": "Supreme Court of India building",
+        "credit": "Phung Touch",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/24816594/pexels-photo-24816594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police checkpoint India",
-        "credit": "GOWTHAM AGM",
+        "query": "Haridwar city street India",
+        "credit": "Manish Meena❤",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39035585/pexels-photo-39035585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34324342/pexels-photo-34324342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "emergency rescue ambulance city",
-        "credit": "Ro Berto",
+        "query": "Indian tea stall shop",
+        "credit": "Jinshu Pulpatta",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19152081/pexels-photo-19152081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "security forces street patrol",
-        "credit": "Audy of  Course",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "निठारी कांड का मुख्य आरोपी सुरेंद्र कोली हरिद्वार में मृत मिला! 🚨",
+        "caption": "निठारी कांड का मुख्य आरोपी सुरेंद्र कोली हरिद्वार में मृत पाया गया! 🚨\n\nरोशनपुरा जेल में बंद सुरेंद्र कोली का शव फंदे से लटका मिला। पुलिस अब इस पूरे मामले की गहनता से जांच कर रही है।\n\nआखिर जेल के अंदर ऐसा क्या हुआ? पूरी कहानी देखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "निठारी कांड का मुख्य आरोपी सुरेंद्र कोली हरिद्वार में मृत पाया गया! 🚨\n\nरोशनपुरा जेल में बंद कोली का शव फंदे पर लटका मिला। इस सनसनीखेज खुलासे के बाद पुलिस-प्रशासन में हड़कंप मच गया है।\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "निठारी कांड का मुख्य आरोपी सुरेंद्र कोली हरिद्वार में मृत पाया गया! 🚨\n\nरोशनपुरा जेल के अंदर बंद सुरेंद्र कोली का शव संदिग्ध परिस्थितियों में फंदे से लटका मिला। कई साल तक देश को झकझोर देने वाले इस मामले में अब इस नए मोड़ ने सबको हैरान कर दिया है। पुलिस मामले की हर एंगल से जांच कर रही है।\n\nपूरी खबर जानने के लिए वीडियो देखें।\n\n#NithariCase #SurendraKoli #HaridwarNews #CrimeNews #BreakingNews"
+      },
+      "hashtags": [
+        "NithariCase",
+        "SurendraKoli",
+        "HaridwarNews",
+        "CrimeNews",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/nithari_case_accused_surendra_koli_found_dead.wav",
+    "audio_duration_sec": 30.2
+  },
+  {
+    "topic_label": "chandigarh_iphone_free_distribution_event",
+    "virality_score": 8,
+    "reason": "Viral news about free iPhone distribution event in Chandigarh with live lucky draws.",
+    "region": "india",
+    "headline": "iPhone का लंगर! मुफ्त में Apple के फोन, इस तारीख को यहां मिलेंगे",
+    "source_summary": "Apple iPhone का लंगर होने जा रहा है, जिसमें लोगों को मुफ्त में आईफोन बांटे जाएंगे. यह कार्यक्रम चंड़ीगढ़ में 22 सितंबर को आयोजित होगा, जिसमें सभी के सामने ड्रॉ निकाले जाएंगे और चुने लोगों को सभी के सामने iPhone दिया जाएगा.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/iphone-langar-chandigarh-september-22-iphone-17-ttecr-dskc-2646558-2026-09-19?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-19T07:39:15+05:30",
+    "hook": "मुफ्त में मिल रहा है आईफोन! चंडीगढ़ में होने जा रहा है अनोखा कार्यक्रम।",
+    "script_hi": "आईफोन प्रेमियों के लिए बड़ी खबर है। चंडीगढ़ में होने जा रहे एक कार्यक्रम में मुफ्त में एप्पल के फोन बांटे जाएंगे। यह आयोजन बाईस सितंबर को होगा, जिसमें सबके सामने लकी ड्रॉ निकाला जाएगा। चुने गए लोगों को मौके पर ही आईफोन दिया जाएगा।",
+    "tts_text_hi": "आईफोन प्रेमियों के लिए बड़ी खबर है। चंडीगढ़ में होने जा रहे एक कार्यक्रम में मुफ्त में एप्पल के फोन बांटे जाएंगे। यह आयोजन बाईस सितंबर को होगा, जिसमें सबके सामने लकी ड्रॉ निकाला जाएगा। चुने गए लोगों को मौके पर ही आईफोन दिया जाएगा।",
+    "title": "चंडीगढ़ में मुफ्त आईफोन बांटने का एलान, बाईस सितंबर को होगा बड़ा कार्यक्रम",
+    "caption": "चंडीगढ़ में बाईस सितंबर को होने जा रहा है अनोखा कार्यक्रम, जहां लोगों को मुफ्त में बांटे जाएंगे एप्पल आईफोन।",
+    "hashtags": [
+      "Apple",
+      "iPhone",
+      "Chandigarh",
+      "FreeiPhone",
+      "TechNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Apple store India",
+      "Chandigarh city street India",
+      "crowd waiting India",
+      "holding smartphone India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19281840/pexels-photo-19281840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Apple store India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19509996/pexels-photo-19509996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Chandigarh city street India",
+        "credit": "Ananya Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11974182/pexels-photo-11974182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd waiting India",
+        "credit": "Shantanu Goyal",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17426070/pexels-photo-17426070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "holding smartphone India",
+        "credit": "Vishal Adhikari",
         "duration_sec": 5
       }
     ],
@@ -257,55 +282,124 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पाकिस्तान में फिदायीन हमला: कोहट मस्जिद में 2 ब्लास्ट, 23 की मौत 🚨",
-        "caption": "7 फिदायीन हमलावर और 2 भीषण धमाके! पाकिस्तान के कोहट में नमाजियों को निशाना बनाकर किए गए इस आतंकी हमले में अब तक 23 लोगों की मौत हो चुकी है और आंकड़ा बढ़ सकता है।\n\nआखिर सुरक्षा घेरे को भेदकर हमलावर अंदर कैसे घुसे? पूरी कहानी देखें।\n\n#PakistanAttack #KohatBlast #BreakingNews #TerrorAttack #WorldNews"
+        "title": "चंडीगढ़ में मुफ्त आईफोन बांटने का एलान, बाईस सितंबर को होगा बड़ा कार्यक्रम",
+        "caption": "चंडीगढ़ में बाईस सितंबर को होने जा रहा है अनोखा कार्यक्रम, जहां लोगों को मुफ्त में बांटे जाएंगे एप्पल आईफोन।\n\n#Apple #iPhone #Chandigarh #FreeiPhone #TechNews"
       },
       "instagram": {
         "title": null,
-        "caption": "7 फिदायीन हमलावर, दो भीषण धमाके और टारगेट पर थे सिर्फ नमाजी! 🚨 पाकिस्तान के कोहट में हुए इस खौफनाक आतंकी हमले ने सबको दहला दिया है।\n\nअब तक 23 बेकसूरों की जान जा चुकी है। पूरी कहानी जानने के लिए वीडियो देखें।\n\n#PakistanAttack #KohatBlast #BreakingNews #TerrorAttack #WorldNews"
+        "caption": "चंडीगढ़ में बाईस सितंबर को होने जा रहा है अनोखा कार्यक्रम, जहां लोगों को मुफ्त में बांटे जाएंगे एप्पल आईफोन।\n\n#Apple #iPhone #Chandigarh #FreeiPhone #TechNews"
       },
       "facebook": {
         "title": null,
-        "caption": "पाकिस्तान एक बार फिर दहल उठा है। कोहट में हुए भीषण फिदायीन हमलों में ठीक नमाज के वक्त दो धमाके किए गए, जिनमें अब तक 23 लोगों की मौत की पुष्टि हो चुकी है। \n\n7 हमलावरों का यह सुसाइड मिशन कितना बड़ा सुरक्षा फेल्योर था? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#PakistanAttack #KohatBlast #BreakingNews #TerrorAttack #WorldNews"
+        "caption": "चंडीगढ़ में बाईस सितंबर को होने जा रहा है अनोखा कार्यक्रम, जहां लोगों को मुफ्त में बांटे जाएंगे एप्पल आईफोन।\n\n#Apple #iPhone #Chandigarh #FreeiPhone #TechNews"
       },
       "hashtags": [
-        "PakistanAttack",
-        "KohatBlast",
-        "BreakingNews",
-        "TerrorAttack",
-        "WorldNews"
+        "Apple",
+        "iPhone",
+        "Chandigarh",
+        "FreeiPhone",
+        "TechNews"
       ]
     },
-    "audio_path": "audio/pakistan_kohat_mosque_suicide_bombing_deaths.wav",
-    "audio_duration_sec": 21.32
+    "audio_path": "audio/chandigarh_iphone_free_distribution_event.wav",
+    "audio_duration_sec": 16.64
   },
   {
-    "topic_label": "north_korean_anthem_played_for_south_korea_asian_games",
+    "topic_label": "neuralink_brain_chip_patient_speaks_love",
     "virality_score": 8,
-    "reason": "Organisers mistakenly play the North Korean national anthem for South Korea's hockey team at the Asian Games.",
-    "region": "global",
-    "headline": "North Korean anthem played for South Korea at Asian Games",
-    "source_summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-    "source_url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Fri, 18 Sep 2026 17:18:09 GMT",
-    "hook": "एशियन गेम्स में बड़ी चूक!",
-    "script_hi": "एशियन गेम्स में एक अजीब घटना घटी, जहां दक्षिण कोरियाई पुरुष हॉकी टीम के लिए गलती से उत्तर कोरिया का राष्ट्रगान बजा दिया गया। जापान में हुए इस आयोजन के बाद आयोजकों ने इस बड़ी गलती के लिए माफी मांगी है।",
-    "tts_text_hi": "एशियन गेम्स में एक अजीब घटना घटी, जहां दक्षिण कोरियाई पुरुष हॉकी टीम के लिए गलती से उत्तर कोरिया का राष्ट्रगान बजा दिया गया। जापान में हुए इस आयोजन के बाद आयोजकों ने इस बड़ी गलती के लिए माफी मांगी है।",
-    "title": "दक्षिण कोरियाई टीम के लिए बजा उत्तर कोरिया का राष्ट्रगान",
-    "caption": "एशियन गेम्स के दौरान जापान में हुई एक अजीब चूक, दक्षिण कोरियाई हॉकी टीम के लिए बजा उत्तर कोरियाई राष्ट्रगान। आयोजकों ने मांगी माफी।",
+    "reason": "Fascinating tech breakthrough showing a non-verbal patient expressing 'I love you' using a Neuralink brain computer interface chip.",
+    "region": "india",
+    "headline": "बोल नहीं सकता था शख्स, दिमाग में लगी चिप और पार्टनर से कहा I Love You",
+    "source_summary": "एलॉन मस्क की कंपनी Nuralink काफी समय से ब्रेन कंप्यूटर इंटरफेस चिप बना रही है. फिलहाल इसका क्लिनिकल ट्रायल चल रहा है. इसी दौरान एक वीडियो आया है. वीडियो में ना बोलने वाला शख्स भी I love you एक्सप्रेस करता हुआ दिख रहा है.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/neuralink-brain-chip-speech-i-love-you-elon-musk-ttecm-dskc-2646363-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T20:46:32+05:30",
+    "hook": "ब्रेन चिप का कमाल! बिना बोले शख्स ने कहा आई लव यू!",
+    "script_hi": "एलॉन मस्क की कंपनी न्यूरालिंक ने एक बार फिर मेडिकल साइंस में इतिहास रच दिया है। कंपनी की ब्रेन कंप्यूटर इंटरफेस चिप की मदद से एक ऐसा शख्स, जो बोल नहीं सकता था, उसने अपने पार्टनर से आई लव यू कहा है। फिलहाल इस तकनीक का क्लिनिकल ट्रायल जारी है, जो भविष्य में पूरी दुनिया की तस्वीर बदल सकता है।",
+    "tts_text_hi": "एलॉन मस्क की कंपनी न्यूरालिंक ने एक बार फिर मेडिकल साइंस में इतिहास रच दिया है। कंपनी की ब्रेन कंप्यूटर इंटरफेस चिप की मदद से एक ऐसा शख्स, जो बोल नहीं सकता था, उसने अपने पार्टनर से आई लव यू कहा है। फिलहाल इस तकनीक का क्लिनिकल ट्रायल जारी है, जो भविष्य में पूरी दुनिया की तस्वीर बदल सकता है।",
+    "title": "ब्रेन चिप का कमाल, बिना बोले शख्स ने कहा I Love You",
+    "caption": "एलॉन मस्क की कंपनी न्यूरालिंक की ब्रेन चिप ने किया कमाल, बिना बोले शख्स ने पार्टनर से कहा आई लव यू।",
     "hashtags": [
-      "AsianGames",
-      "SouthKorea",
-      "NorthKorea",
-      "Hockey",
-      "SportsNews",
-      "Japan"
+      "Neuralink",
+      "ElonMusk",
+      "BrainChip",
+      "TechNews",
+      "ScienceNews",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Asian Games stadium",
-      "field hockey match",
-      "apology press conference"
+      "Elon Musk presentation India",
+      "brain computer interface India",
+      "modern medical laboratory India"
+    ],
+    "named_person": "Elon Musk",
+    "named_person_hi": "एलॉन मस्क",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific viral video showing the patient's reaction, which cannot be adequately captured by generic stock footage and requires manual addition of the real video clip.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "एलॉन मस्क",
+        "source": "fallback",
+        "query": "Elon Musk",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9336326/pexels-photo-9336326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Elon Musk presentation India",
+        "credit": "Mouktik Joshi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5207233/pexels-photo-5207233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "brain computer interface India",
+        "credit": "https://kaboompics.com/",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern medical laboratory India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "pakistan_peshawar_mosque_suicide_bombing_global",
+    "virality_score": 8,
+    "reason": "Major global-interest terror attack during Friday prayers at a mosque in Pakistan resulting in multiple casualties.",
+    "region": "india",
+    "headline": "जुमे की नमाज पढ़ रहे थे लोग, तभी हो गया आत्मघाती हमला... पाकिस्तान की मस्जिद में ब्लास्ट; 21 की मौत",
+    "source_summary": "पाकिस्तान के पेशावर में मस्जिद के अंदर धमाका हुआ है. जिस वक्त धमाका हुआ, उस वक्त नमाज पढ़ी जा रही थी.",
+    "source_url": "https://ndtv.in/world-news/major-blast-in-pakistan-khyber-pakhtunkhwa-reports-of-several-people-injured-12063989#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 19 Sep 2026 00:09:07 +0530",
+    "hook": "नमाज के दौरान मस्जिद में भीषण धमाका!",
+    "script_hi": "पाकिस्तान के पेशावर में एक मस्जिद के अंदर भीषण आत्मघाती हमला हुआ है। जिस वक्त यह धमाका हुआ, उस वक्त जुमे की नमाज पढ़ी जा रही थी। इस दर्दनाक हादसे में इकतीस लोगों की मौत हो गई है।",
+    "tts_text_hi": "पाकिस्तान के पेशावर में एक मस्जिद के अंदर भीषण आत्मघाती हमला हुआ है। जिस वक्त यह धमाका हुआ, उस वक्त जुमे की नमाज पढ़ी जा रही थी। इस दर्दनाक हादसे में इकतीस लोगों की मौत हो गई है।",
+    "title": "Pakistan Peshawar Mosque Blast",
+    "caption": "पाकिस्तान के पेशावर में मस्जिद के अंदर जुमे की नमाज के दौरान आत्मघाती हमला, इकतीस लोगों की मौत।",
+    "hashtags": [
+      "#PakistanNews",
+      "#PeshawarBlast",
+      "#MosqueAttack",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "Pakistan mosque building exterior",
+      "emergency rescue operation India",
+      "hospital emergency ward India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -316,58 +410,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38539516/pexels-photo-38539516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5285703/pexels-photo-5285703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Asian Games stadium",
-        "credit": "Timo Volz",
+        "query": "Pakistan mosque building exterior",
+        "credit": "Usman Yousaf",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29356316/pexels-photo-29356316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "field hockey match",
-        "credit": "Franco Monsalvo",
+        "query": "emergency rescue operation India",
+        "credit": "Arto Suraj",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14567615/pexels-photo-14567615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "apology press conference",
-        "credit": "Mücahit Beyhan",
+        "query": "hospital emergency ward India",
+        "credit": "Juan Moccagatta",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34649310/pexels-photo-34649310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33978435/pexels-photo-33978435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sports stadium mistake",
-        "credit": "El gringo photo",
+        "query": "pakistan emergency rescue",
+        "credit": "Muhammad Shamaoon Malik",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1657323/pexels-photo-1657323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15558868/pexels-photo-15558868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "confused sports fans",
-        "credit": "Unknown User",
+        "query": "aftermath disaster rescue india",
+        "credit": "Mohammed Soufy",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13086761/pexels-photo-13086761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international sports event",
-        "credit": "Raunaq Sachdev",
+        "query": "crowded public place explosion",
+        "credit": "Juan Soler Campello",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8731034/pexels-photo-8731034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "apologetic press conference",
-        "credit": "Mikhail Nilov",
+        "query": "ambulance rush hospital india",
+        "credit": "Chauhan Dixant",
         "duration_sec": 4.3
       }
     ],
@@ -376,253 +470,57 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "एशियन गेम्स में ऐसी गलती! दक्षिण कोरिया के लिए बजा उत्तर कोरिया का गान 🇰🇵",
-        "caption": "एशियन गेम्स में ऐसा क्या हुआ कि दक्षिण कोरियाई खिलाड़ियों के सामने उत्तर कोरिया का राष्ट्रगान बज गया?\n\nहांगकांग में खेले जा रहे एशियाई खेलों के दौरान एक बड़ी तकनीकी भूल ने सबको हैरान कर दिया। आयोजकों की इस भारी गलती पर खिलाड़ी भी अवाक रह गए।\n\nपूरी कहानी देखें और बताएं कि इतनी बड़ी गलती कैसे हो सकती है?\n\n#AsianGames #SouthKorea #NorthKorea #ViralNews #SportsNews"
+        "title": "Pakistan Peshawar Mosque Blast",
+        "caption": "पाकिस्तान के पेशावर में मस्जिद के अंदर जुमे की नमाज के दौरान आत्मघाती हमला, इकतीस लोगों की मौत।\n\n##PakistanNews ##PeshawarBlast ##MosqueAttack ##BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "एशियन गेम्स में हुई ऐसी गजब की चूक, जिसे देखकर हर कोई हैरान रह गया! 😳\n\nदक्षिण कोरियाई खिलाड़ियों की जीत के बाद उनका नहीं बल्कि उत्तर कोरिया का राष्ट्रगान बजा दिया गया। \n\nपूरी कहानी वीडियो में देखें और शेयर करें!\n\n#AsianGames #SouthKorea #NorthKorea #ViralNews #SportsNews"
+        "caption": "पाकिस्तान के पेशावर में मस्जिद के अंदर जुमे की नमाज के दौरान आत्मघाती हमला, इकतीस लोगों की मौत।\n\n##PakistanNews ##PeshawarBlast ##MosqueAttack ##BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "एशियन गेम्स में एक ऐसी बड़ी चूक सामने आई जिसने सबको सकते में डाल दिया। मैच जीतने वाली दक्षिण कोरियाई टीम के सम्मान में उनका नहीं बल्कि उत्तर कोरिया का राष्ट्रगान बजा दिया गया। आयोजकों की इस बड़ी गलती का वीडियो सोशल मीडिया पर काफी वायरल हो रहा है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#AsianGames #SouthKorea #NorthKorea #ViralNews #SportsNews"
+        "caption": "पाकिस्तान के पेशावर में मस्जिद के अंदर जुमे की नमाज के दौरान आत्मघाती हमला, इकतीस लोगों की मौत।\n\n##PakistanNews ##PeshawarBlast ##MosqueAttack ##BreakingNews"
       },
       "hashtags": [
-        "AsianGames",
-        "SouthKorea",
-        "NorthKorea",
-        "ViralNews",
-        "SportsNews"
+        "#PakistanNews",
+        "#PeshawarBlast",
+        "#MosqueAttack",
+        "#BreakingNews"
       ]
     },
-    "audio_path": "audio/north_korean_anthem_played_for_south_korea_asian_games.wav",
-    "audio_duration_sec": 14.97
+    "audio_path": "audio/pakistan_peshawar_mosque_suicide_bombing_global.wav",
+    "audio_duration_sec": 13.44
   },
   {
-    "topic_label": "bareilly_man_brings_snake_in_bag_hospital",
-    "virality_score": 7,
-    "reason": "Man arrives at a district hospital carrying the snake that bit him inside a plastic bag.",
+    "topic_label": "mamata_banerjee_tmc_new_symbol_footballer",
+    "virality_score": 8,
+    "reason": "Election Commission allots a new 'football player' symbol to Mamata Banerjee's TMC faction amid ongoing political feud.",
     "region": "india",
-    "headline": "&#039;डॉक्टर साहब! इसी ने काटा है...&#039; सांप को थैली में बंद कर अस्पताल पहुंचा युवक",
-    "source_summary": "बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक सांप को थैली में लेकर पहुंच गया. युवक ने डॉक्टरों को बताया कि इसी सांप ने उसे काटा है. 24 घंटे में बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने डसा. सभी को जिला अस्पताल में एंटी स्नेक वेनम दिया गया और इलाज के बाद उनकी जान बच गई.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/bareilly-snake-bite-man-brings-snake-in-bag-district-hospital-four-cases-lclar-strc-2646390-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T21:42:25+05:30",
-    "hook": "डॉक्टर साहब! इसी सांप ने काटा है!",
-    "script_hi": "डॉक्टर साहब! इसी ने काटा है! उत्तर प्रदेश के बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक सांप को थैली में लेकर पहुंच गया। युवक ने डॉक्टरों को बताया कि इसी सांप ने उसे काटा है। चौबीस घंटे में बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने डसा। गनीमत रही कि सभी को जिला अस्पताल में एंटी स्नेक वेनम समय पर मिल गया और इलाज के बाद सबकी जान बच गई।",
-    "tts_text_hi": "डॉक्टर साहब! इसी ने काटा है! उत्तर प्रदेश के बरेली जिला अस्पताल में उस समय अफरा-तफरी मच गई, जब एक युवक सांप को थैली में लेकर पहुंच गया। युवक ने डॉक्टरों को बताया कि इसी सांप ने उसे काटा है। चौबीस घंटे में बरेली में अलग-अलग जगहों पर चार लोगों को सांप ने डसा। गनीमत रही कि सभी को जिला अस्पताल में एंटी स्नेक वेनम समय पर मिल गया और इलाज के बाद सबकी जान बच गई।",
-    "title": "सांप को थैली में बंद कर अस्पताल पहुंचा युवक",
-    "caption": "उत्तर प्रदेश के बरेली में अजीब मामला सामने आया जहाँ युवक सांप को थैली में लेकर अस्पताल पहुँच गया।",
+    "headline": "पूर्व CM ममता बनर्जी की पार्टी की नई पहचान, सामने आया MAITC का चुनाव चिन्ह",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/mamata-banerjee-1.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"पूर्व CM ममता बनर्जी की पार्टी की नई पहचान, सामने आया MAITC का चुनाव चिन्ह\" /></figure>चुनाव आयोग से ममता बनर्जी गुट को 'ममता ऑल इंडिया तृणमूल कांग्रेस' नाम और 'फुटबॉल खिलाड़ी' चिन्ह मिला है, जबकि प्रतिद्वंद्वी गुट को 'डेमोक्रेटिक तृणमूल कांग्रेस' और 'लिफाफा' चिन्ह आवंटित मिला.",
+    "source_url": "https://www.tv9hindi.com/india/west-bangal-tmc-split-ec-freezes-original-name-mamata-gets-football-player-symbol-for-polls-3910745.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sat, 19 Sep 2026 07:25:17 +0530",
+    "hook": "ममता बनर्जी की पार्टी को मिला नया नाम और चुनाव चिन्ह!",
+    "script_hi": "पश्चिम बंगाल की राजनीति में एक बड़ा बदलाव आया है। चुनाव आयोग ने पूर्व मुख्यमंत्री ममता बनर्जी के गुट को ममता ऑल इंडिया तृणमूल कांग्रेस नाम और फुटबॉल खिलाड़ी चिन्ह दिया है। वहीं प्रतिद्वंद्वी गुट को डेमोक्रेटिक तृणमूल कांग्रेस नाम और लिफाफा चिन्ह आवंटित किया गया है।",
+    "tts_text_hi": "पश्चिम बंगाल की राजनीति में एक बड़ा बदलाव आया है। चुनाव आयोग ने पूर्व मुख्यमंत्री ममता बनर्जी के गुट को ममता ऑल इंडिया तृणमूल कांग्रेस नाम और फुटबॉल खिलाड़ी चिन्ह दिया है। वहीं प्रतिद्वंद्वी गुट को डेमोक्रेटिक तृणमूल कांग्रेस नाम और लिफाफा चिन्ह आवंटित किया गया है।",
+    "title": "ममता बनर्जी की पार्टी को मिला नया नाम और चुनाव चिन्ह",
+    "caption": "चुनाव आयोग से ममता बनर्जी गुट को मिला नया नाम और फुटबॉल खिलाड़ी चुनाव चिन्ह।",
     "hashtags": [
-      "Bareilly",
-      "SnakeBite",
-      "UPNews",
-      "DistrictHospital",
+      "MamataBanerjee",
+      "TMC",
+      "ElectionCommission",
+      "WestBengal",
+      "PoliticalNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Indian hospital emergency ward",
-      "man holding bag in India",
-      "medical snake anti venom India",
-      "doctor patient India"
+      "Election Commission of India building",
+      "Indian political party meeting India",
+      "football player sports icon India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific real incident involving a man bringing a live snake in a bag to a hospital in Bareilly, which requires the actual real footage or photo rather than generic stock B-roll to properly illustrate the news.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7579837/7579837-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "doctor patient India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 29,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian hospital emergency ward",
-        "credit": "Juan Moccagatta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17525481/pexels-photo-17525481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "man holding bag in India",
-        "credit": "framesbypc",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17877846/pexels-photo-17877846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical snake anti venom India",
-        "credit": "Abhishek  Shekhawat",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "iphone_18_pro_launch_queues_mumbai_surat",
-    "virality_score": 7,
-    "reason": "Man travels from Surat to Mumbai and queues for 12 hours to buy the new iPhone 18 Pro.",
-    "region": "india",
-    "headline": "iPhone 18 Pro के लिए 12 घंटे खड़े रहकर खरीदा फोन",
-    "source_summary": "iPhone 18 Pro की पहली सेल के दौरान सूरत का एक शख्स नया फोन खरीदने के लिए मुंबई पहुंचा. उसने Apple Store के बाहर करीब 12 घंटे इंतजार किया. शख्स के मुताबिक, वह रात में ही सूरत से मुंबई आया था और कतार में सबसे आगे खड़ा हो गया. वीडियो में जानें आईफोन फैन ने क्या कुछ बताया.",
-    "source_url": "https://www.aajtak.in/short-videos/video/iphone-18-pro-sale-surat-fan-mumbai-12-hours-line-apple-launch-excitement-mmtm-2646350-2026-09-18?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-18T20:22:47+05:30",
-    "hook": "आईफोन के लिए बारह घंटे की लाइन!",
-    "script_hi": "आईफोन अट्ठारह प्रो की पहली सेल के लिए सूरत का एक शख्स मुंबई पहुँचा। उसने एप्पल स्टोर के बाहर करीब बारह घंटे इंतजार किया और कतार में सबसे आगे खड़ा रहा।",
-    "tts_text_hi": "आईफोन अट्ठारह प्रो की पहली सेल के लिए सूरत का एक शख्स मुंबई पहुँचा। उसने एप्पल स्टोर के बाहर करीब बारह घंटे इंतजार किया और कतार में सबसे आगे खड़ा रहा।",
-    "title": "iPhone 18 Pro के लिए 12 घंटे इंतजार",
-    "caption": "आईफोन अट्ठारह प्रो की पहली सेल के दौरान सूरत से मुंबई पहुंचा शख्स, एप्पल स्टोर के बाहर बारह घंटे किया इंतजार।",
-    "hashtags": [
-      "AppleStore",
-      "iPhone18Pro",
-      "Mumbai",
-      "Surat",
-      "TechNews",
-      "AppleFans",
-      "TrendingNews"
-    ],
-    "visual_queries": [
-      "Apple store exterior India",
-      "people queue outside store India",
-      "excited customer holding new smartphone India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37215067/15765035_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "people waiting in queue",
-        "credit": "iPhone Snaps 🇨🇦",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37215067/15765035_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "people waiting in line",
-        "credit": "iPhone Snaps 🇨🇦",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/2284752/pexels-photo-2284752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "people queue outside store India",
-        "credit": "Bhavesh Jain",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6214132/pexels-photo-6214132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "excited customer holding new smartphone India",
-        "credit": "Nataliya Vaitkevich",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11832470/pexels-photo-11832470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night city street India",
-        "credit": "Adhwaith Chandran",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13570146/pexels-photo-13570146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "holding new smartphone",
-        "credit": "Luis Quintero",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31389238/pexels-photo-31389238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd outside retail store",
-        "credit": "M K",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "आईफोन के लिए 12 घंटे की लाइन! 📱 आखिर ऐसा क्या था इस फोन में?",
-        "caption": "सिर्फ एक फोन के लिए बारह घंटे तक धूप में खड़े रहना... क्या आप ऐसा कर सकते हैं? 🤯\n\nमुंबई या दिल्ली नहीं, बल्कि दीवानगी ऐसी कि लोग सुबह से लाइन में लग गए ताकि नया iPhone 18 Pro सबसे पहले उनके हाथ में हो।\n\nपूरी कहानी वीडियो में देखें और कमेंट में बताएं क्या आप भी ऐसा करते?\n\n#Apple #iPhone18Pro #TechNews #ViralVideo #Gadgets"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "आईफोन के लिए 12 घंटे की लाइन! 📱\n\nनया फोन खरीदने के लिए लोगों ने रातभर इंतजार किया और 12 घंटे तक लाइन में खड़े रहे। इस दीवानगी को देखकर हर कोई हैरान है।\n\nआपका क्या सोचना है इस पागलपन के बारे में? नीचे कमेंट में बताएं! 👇\n\n#Apple #iPhone18Pro #TechNews #ViralVideo #Gadgets"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "आईफोन के लिए बारह घंटे की लाइन! 🤯 सुनने में अजीब लग सकता है लेकिन दीवानों ने ये कर दिखाया। \n\nनया iPhone 18 Pro पाने के लिए लोग सुबह से भूखे-प्यासे स्टोर के बाहर खड़े हो गए। सोशल मीडिया पर अब इस लम्बे इंतजार की तस्वीरें और वीडियो जमकर वायरल हो रहे हैं।\n\nक्या आप कभी किसी चीज़ के लिए इतने घंटे लाइन में खड़े हुए हैं? हमें कमेंट करके जरूर बताएं।\n\n#Apple #iPhone18Pro #TechNews #ViralVideo #Gadgets"
-      },
-      "hashtags": [
-        "Apple",
-        "iPhone18Pro",
-        "TechNews",
-        "ViralVideo",
-        "Gadgets"
-      ]
-    },
-    "audio_path": "audio/iphone_18_pro_launch_queues_mumbai_surat.wav",
-    "audio_duration_sec": 12.23
-  },
-  {
-    "topic_label": "canada_pm_carney_reduces_us_reliance_eu_alliance",
-    "virality_score": 7,
-    "reason": "Canadian PM Mark Carney announces major shift to reduce reliance on the US and form new European alliances.",
-    "region": "india",
-    "headline": "अमेरिका से दूरी, यूरोप से नजदीकी! कनाडाई PM कार्नी बोले- नया गठबंधन जरूरी",
-    "source_summary": "कनाडा के प्रधानमंत्री मार्क कार्नी ने अमेरिका पर निर्भरता कम करने और यूरोप के साथ नए गठबंधन की शुरुआत की घोषणा की है. उन्होंने व्यापार नीतियों में बदलाव और वित्तीय बाजारों में मजबूती पर जोर देते हुए कहा कि कनाडा अब किसी एक देश पर निर्भर नहीं रह सकता.",
-    "source_url": "https://www.aajtak.in/world/story/canada-pm-mark-carney-says-moving-beyond-us-dependence-ntc-acwi-dskc-2646533-2026-09-19?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-19T03:44:50+05:30",
-    "hook": "अमेरिका पर निर्भरता खत्म करेगा कनाडा!",
-    "script_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने अमेरिका पर निर्भरता कम करने और यूरोप के साथ नए गठबंधन की घोषणा की है। उन्होंने व्यापार नीतियों में बदलाव और वित्तीय बाजारों में मजबूती पर जोर देते हुए कहा कि कनाडा अब किसी एक देश पर निर्भर नहीं रह सकता।",
-    "tts_text_hi": "कनाडा के प्रधानमंत्री मार्क कार्नी ने अमेरिका पर निर्भरता कम करने और यूरोप के साथ नए गठबंधन की घोषणा की है। उन्होंने व्यापार नीतियों में बदलाव और वित्तीय बाजारों में मजबूती पर जोर देते हुए कहा कि कनाडा अब किसी एक देश पर निर्भर नहीं रह सकता।",
-    "title": "कनाडा का नया गठबंधन",
-    "caption": "कनाडा के प्रधानमंत्री मार्क कार्नी ने अमेरिका पर निर्भरता कम करने और यूरोप के साथ नए गठबंधन की घोषणा की है।",
-    "hashtags": [
-      "CanadaNews",
-      "MarkCarney",
-      "USCanada",
-      "Europe",
-      "WorldNews",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "Canadian flag Ottawa",
-      "European Union flags",
-      "global stock market graphs"
-    ],
-    "named_person": "Mark Carney",
-    "named_person_hi": "मार्क कार्नी",
+    "named_person": "Mamata Banerjee",
+    "named_person_hi": "ममता बनर्जी",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -630,33 +528,33 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "मार्क कार्नी",
+        "text": "ममता बनर्जी",
         "source": "fallback",
-        "query": "Mark Carney",
+        "query": "Mamata Banerjee",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39432209/pexels-photo-39432209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/2529185/pexels-photo-2529185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Canadian flag Ottawa",
-        "credit": "Mathias Reding",
+        "query": "Election Commission of India building",
+        "credit": "Guillaume Meurice",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14232002/pexels-photo-14232002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "European Union flags",
-        "credit": "Ali Levlog",
+        "query": "Indian political party meeting India",
+        "credit": "Satyam Pixels",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32396570/pexels-photo-32396570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5609028/pexels-photo-5609028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "global stock market graphs",
-        "credit": "Jakub Zerdzicki",
+        "query": "football player sports icon India",
+        "credit": "Yogendra  Singh",
         "duration_sec": 5
       }
     ],
@@ -665,26 +563,121 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका पर निर्भरता खत्म करेगा कनाडा! नया गठबंधन जरूरी 🚨",
-        "caption": "अमेरिका पर निर्भरता खत्म करेगा कनाडा! 🛑 कनाडाई पीएम कार्नी का ये नया बयान ग्लोबल राजनीति में भूचाल ला रहा है। अमेरिका से दूरी बनाकर अब यूरोप से नजदीकी बढ़ाने का बड़ा दांव चला गया है।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट में बताएं! 👇\n\n#CanadaNews #JustinTrudeau #USCanada #GlobalPolitics #BreakingNews"
+        "title": "ममता बनर्जी की पार्टी को मिला नया नाम और चुनाव चिन्ह",
+        "caption": "चुनाव आयोग से ममता बनर्जी गुट को मिला नया नाम और फुटबॉल खिलाड़ी चुनाव चिन्ह।\n\n#MamataBanerjee #TMC #ElectionCommission #WestBengal #PoliticalNews"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका पर निर्भरता खत्म करेगा कनाडा! 🇺🇸❌ कनाडाई पीएम कार्नी के इस नए एलान ने सबको चौंका दिया है। यूरोप के साथ मिलकर नया गठबंधन बनाने की तैयारी शुरू हो चुकी है। \n\nशेयर करें इस शॉकिंग अपडेट को! 🔄\n\n#CanadaNews #JustinTrudeau #USCanada #GlobalPolitics #BreakingNews"
+        "caption": "चुनाव आयोग से ममता बनर्जी गुट को मिला नया नाम और फुटबॉल खिलाड़ी चुनाव चिन्ह।\n\n#MamataBanerjee #TMC #ElectionCommission #WestBengal #PoliticalNews"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका पर निर्भरता खत्म करेगा कनाडा! 🌍 कनाडाई पीएम कार्नी ने यूरोप के साथ मिलकर एक नया गठबंधन बनाने की बात कहकर सबको हैरान कर दिया है। अमेरिका से दूरी और यूरोप से बढ़ती नजदीकियों के पीछे की पूरी कहानी क्या है? \n\nवीडियो पूरा देखें और कमेंट में बताएं कि क्या कनाडा का यह दांव कामयाब होगा? 👇\n\n#CanadaNews #JustinTrudeau #USCanada #GlobalPolitics #BreakingNews"
+        "caption": "चुनाव आयोग से ममता बनर्जी गुट को मिला नया नाम और फुटबॉल खिलाड़ी चुनाव चिन्ह।\n\n#MamataBanerjee #TMC #ElectionCommission #WestBengal #PoliticalNews"
       },
       "hashtags": [
-        "CanadaNews",
-        "JustinTrudeau",
-        "USCanada",
-        "GlobalPolitics",
-        "BreakingNews"
+        "MamataBanerjee",
+        "TMC",
+        "ElectionCommission",
+        "WestBengal",
+        "PoliticalNews"
       ]
     },
-    "audio_path": "audio/canada_pm_carney_reduces_us_reliance_eu_alliance.wav",
-    "audio_duration_sec": 17.45
+    "audio_path": "audio/mamata_banerjee_tmc_new_symbol_footballer.wav",
+    "audio_duration_sec": 19.86
+  },
+  {
+    "topic_label": "lucknow_wife_murders_husband_with_lover",
+    "virality_score": 7,
+    "reason": "Crime thriller style murder case in Lucknow where a woman and her lover killed her husband and dumped the body in a trunk.",
+    "region": "india",
+    "headline": "रामकिशोर से निकाह, मुच्छड़ से प्यार, फिर सूफिया ने खेला खूनी खेल!",
+    "source_summary": "लखनऊ में अवैध संबंधों के चलते दूसरी पत्नी सूफिया बानो ने प्रेमी मुन्ना और साथी संग मिलकर पति रामकिशोर की चाकू गोदकर हत्या कर दी. साक्ष्य मिटाने के लिए शव बक्से में बंद कर नहर में फेंक दिया।. पुलिस ने मुख्य आरोपी महिला, प्रेमी समेत तीन लोगों को गिरफ्तार कर लिया है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/sufiya-married-already-wed-ramkishore-then-fell-in-love-with-mucchad-wife-killed-husband-with-premi-lclam-strc-2646146-2026-09-18?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-18T19:30:05+05:30",
+    "hook": "लखनऊ में अवैध संबंधों के चलते पत्नी ने रची खूनी साजिश!",
+    "script_hi": "लखनऊ में अवैध संबंधों के चलते एक दिल दहला देने वाला मामला सामने आया है। दूसरी पत्नी सूफिया बानो ने अपने प्रेमी मुन्ना और एक अन्य साथी के साथ मिलकर पति रामकिशोर की चाकू गोदकर हत्या कर दी। हत्या के बाद साक्ष्य मिटाने के लिए शव को एक बक्से में बंद कर नहर में फेंक दिया गया। पुलिस ने त्वरित कार्रवाई करते हुए मुख्य आरोपी महिला और उसके प्रेमी समेत तीन लोगों को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "लखनऊ में अवैध संबंधों के चलते एक दिल दहला देने वाला मामला सामने आया है। दूसरी पत्नी सूफिया बानो ने अपने प्रेमी मुन्ना और एक अन्य साथी के साथ मिलकर पति रामकिशोर की चाकू गोदकर हत्या कर दी। हत्या के बाद साक्ष्य मिटाने के लिए शव को एक बक्से में बंद कर नहर में फेंक दिया गया। पुलिस ने त्वरित कार्रवाई करते हुए मुख्य आरोपी महिला और उसके प्रेमी समेत तीन लोगों को गिरफ्तार कर लिया है।",
+    "title": "लखनऊ में अवैध संबंधों के चलते पत्नी ने की पति की हत्या",
+    "caption": "लखनऊ के पारा क्षेत्र में अवैध संबंधों के शक और विवाद के चलते एक महिला ने अपने प्रेमी के साथ मिलकर पति रामकिशोर की निर्मम हत्या कर दी और शव को बक्से में बंद कर नहर में फेंक दिया। पुलिस ने तीनों आरोपियों को गिरफ्तार कर लिया है।",
+    "hashtags": [
+      "LucknowNews",
+      "CrimeNews",
+      "UttarPradesh",
+      "BreakingNews",
+      "IndiaCrime"
+    ],
+    "visual_queries": [
+      "India police station building",
+      "police investigation India",
+      "India canal water view",
+      "police handcuffs India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police station building",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35080149/pexels-photo-35080149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India canal water view",
+        "credit": "Renjith Tomy Pkm",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7714896/pexels-photo-7714896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police handcuffs India",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "लखनऊ में अवैध संबंधों के चलते पत्नी ने की पति की हत्या",
+        "caption": "लखनऊ के पारा क्षेत्र में अवैध संबंधों के शक और विवाद के चलते एक महिला ने अपने प्रेमी के साथ मिलकर पति रामकिशोर की निर्मम हत्या कर दी और शव को बक्से में बंद कर नहर में फेंक दिया। पुलिस ने तीनों आरोपियों को गिरफ्तार कर लिया है।\n\n#LucknowNews #CrimeNews #UttarPradesh #BreakingNews #IndiaCrime"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "लखनऊ के पारा क्षेत्र में अवैध संबंधों के शक और विवाद के चलते एक महिला ने अपने प्रेमी के साथ मिलकर पति रामकिशोर की निर्मम हत्या कर दी और शव को बक्से में बंद कर नहर में फेंक दिया। पुलिस ने तीनों आरोपियों को गिरफ्तार कर लिया है।\n\n#LucknowNews #CrimeNews #UttarPradesh #BreakingNews #IndiaCrime"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "लखनऊ के पारा क्षेत्र में अवैध संबंधों के शक और विवाद के चलते एक महिला ने अपने प्रेमी के साथ मिलकर पति रामकिशोर की निर्मम हत्या कर दी और शव को बक्से में बंद कर नहर में फेंक दिया। पुलिस ने तीनों आरोपियों को गिरफ्तार कर लिया है।\n\n#LucknowNews #CrimeNews #UttarPradesh #BreakingNews #IndiaCrime"
+      },
+      "hashtags": [
+        "LucknowNews",
+        "CrimeNews",
+        "UttarPradesh",
+        "BreakingNews",
+        "IndiaCrime"
+      ]
+    },
+    "audio_path": "audio/lucknow_wife_murders_husband_with_lover.wav",
+    "audio_duration_sec": 28.63
   }
 ]
