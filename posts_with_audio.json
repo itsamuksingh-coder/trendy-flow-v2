@@ -1,30 +1,29 @@
 [
   {
-    "topic_label": "mumbai_coastal_road_bmw_crash",
+    "topic_label": "mumbai_coastal_road_bmw_bridge_accident",
     "virality_score": 9,
-    "reason": "Shocking CCTV footage of a speeding BMW plunging off a Mumbai bridge makes this highly visual and viral.",
+    "reason": "Dramatic CCTV footage of a speeding luxury car plunging off a Mumbai bridge makes this highly visual and viral.",
     "region": "india",
-    "headline": "On Camera, Speeding BMW Falls Off Mumbai Coast Road Bridge, 3 Dead",
-    "source_summary": "The car, a black BMW, was travelling from Marine Drive towards Haji Ali on the Coastal Road when the driver allegedly lost control.",
-    "source_url": "https://www.ndtv.com/mumbai-news/3-dead-as-speeding-bmw-crashes-on-mumbai-coastal-road-falls-off-bridge-12071139#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 20 Sep 2026 13:42:07 +0530",
-    "hook": "मुंबई कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू कार पुल से नीचे जा गिरी!",
-    "script_hi": "मुंबई कोस्टल रोड पर एक तेज रफ्तार बीएमडब्लू कार अनियंत्रित होकर पुल से नीचे जा गिरी। इस भयानक हादसे में तीन लोगों की मौत हो गई। मरीन ड्राइव से हाजी अली की तरफ जा रही इस काले रंग की कार का वीडियो कैमरे में कैद हो गया।",
-    "tts_text_hi": "मुंबई कोस्टल रोड पर एक तेज रफ्तार बीएमडब्लू कार अनियंत्रित होकर पुल से नीचे जा गिरी। इस भयानक हादसे में तीन लोगों की मौत हो गई। मरीन ड्राइव से हाजी अली की तरफ जा रही इस काले रंग की कार का वीडियो कैमरे में कैद हो गया।",
-    "title": "Mumbai Coastal Road BMW Accident",
-    "caption": "मुंबई कोस्टल रोड पर दर्दनाक हादसा, तेज रफ्तार बीएमडब्ल्यू पुल से गिरी, तीन की मौत।",
+    "headline": "CCTV shows BMW crashing through barrier, falling off Mumbai's Coastal Road bridge; 3 dead",
+    "source_summary": "In a devastating early morning crash, a speeding BMW plunged off Mumbai's Coastal Road bridge. This unfortunate event occurred at a construction site, resulting from the driver's loss of control. Three lives were claimed in the accident, with Shanay Gajjal and Dhirya Seth identified among the deceased; the third passenger’s identity remains unknown. Meanwhile, one individual is critically injured, leading authorities to start a thorough investigation into the circumstances.",
+    "source_url": "https://timesofindia.indiatimes.com/city/mumbai/cctv-shows-bmw-crashing-through-barrier-falling-off-mumbai-coastal-road-bridge-3-dead/articleshow/134364553.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Sun, 20 Sep 2026 12:07:28 +0530",
+    "hook": "मुंबई के कोस्टल रोड पर दर्दनाक हादसा!",
+    "script_hi": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू कार बैरियर तोड़कर पुल से नीचे गिर गई। इस भयानक हादसे में तीन लोगों की मौत हो गई और एक व्यक्ति गंभीर रूप से घायल हो गया। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्लू कार बैरियर तोड़कर पुल से नीचे गिर गई। इस भयानक हादसे में तीन लोगों की मौत हो गई और एक व्यक्ति गंभीर रूप से घायल हो गया। पुलिस मामले की जांच कर रही है।",
+    "title": "मुंबई में बीएमडब्ल्यू कार पुल से नीचे गिरी, तीन की मौत",
+    "caption": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू पुल से नीचे जा गिरी, हादसे में तीन लोगों की मौत।",
     "hashtags": [
       "MumbaiNews",
-      "MumbaiAccident",
-      "CoastalRoad",
-      "BMW",
+      "BMWAccident",
+      "MumbaiCoastalRoad",
       "BreakingNews",
-      "MumbaiPolice"
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Mumbai coastal road bridge India",
-      "black luxury car driving India",
+      "Mumbai Coastal Road bridge India",
+      "damaged luxury car India",
       "police investigation accident India"
     ],
     "named_person": null,
@@ -32,8 +31,17 @@
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV/dashcam video of a car falling off a bridge ('On Camera, Speeding BMW Falls Off...'), which requires the real footage rather than generic stock B-roll.",
+    "flag_reason": "The story relies on specific CCTV footage of the accident and the exact vehicle involved, which generic stock B-roll cannot accurately represent.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34182526/14490269_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "damaged luxury car India",
+        "credit": "RAJU THAPA",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
       {
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
@@ -47,127 +55,129 @@
         "type": "image",
         "url": "https://images.pexels.com/photos/12474051/pexels-photo-12474051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai coastal road bridge India",
+        "query": "Mumbai Coastal Road bridge India",
         "credit": "Tejas Kamble",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35493249/pexels-photo-35493249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "black luxury car driving India",
-        "credit": "Akshay Shende",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 16,
+    "timeline_covered_sec": 17,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "mumbai_coastal_road_bmw_bridge_accident",
-    "virality_score": 8,
-    "reason": "Another angle or report on the dramatic Mumbai BMW bridge crash with strong visual appeal.",
+    "topic_label": "iphone_18_pro_launch_sells_family_gold",
+    "virality_score": 9,
+    "reason": "Bizarre and viral story of a man selling his family gold for an iPhone launch queue.",
     "region": "india",
-    "headline": "मुंबई में ब्रिज से नीचे जा गिरी तेज रफ्तार BMW, CCTV में कैद हादसा",
-    "source_summary": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है. मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई. यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, सीसीटीवी फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी. ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/video/mumbai-bmw-car-accident-cctv-footage-shows-vehicle-falling-off-bridge-vdot-ytvd-2647951-2026-09-20?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-20T13:30:17+05:30",
-    "hook": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू ब्रिज से नीचे जा गिरी!",
-    "script_hi": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है. मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई. यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी. ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी.",
-    "tts_text_hi": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है। मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई। यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी। ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी।",
-    "title": "मुंबई में ब्रिज से नीचे गिरी BMW कार",
-    "caption": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू ब्रिज से नीचे जा गिरी. दिल दहला देने वाला यह हादसा सीसीटीवी में कैद हो गया है.",
+    "headline": "पत्नी के iPhone के लिए बेच दिया दादी-परदादी का सोना, वीडियो देख उद्योगपति हर्ष गोयनका ने उठाए सवाल",
+    "source_summary": "भारत में आईफोन 18 प्रो की लॉन्चिंग के साथ ही एप्पल स्टोर्स के बाहर हमेशा की तरह खरीदारों की भारी भीड़ देखने को मिली। लेकिन इसी कतार में खड़ा दिल्ली का एक शख्स अपनी एक अनोखी वजह से अचानक सुर्खियों में आ गया। नोएडा के डीएलएफ मॉल ऑफ इंडिया स्थित एप्पल स्टोर के बाहर खड़े इस शख्स ने अपनी पत्नी की ख्वाहिश पूरी करने के लिए परिवार का पुश्तैनी सोना बेचकर आईफोन खरीदा। उद्योगपति हर्ष गोयनका द्वारा इस वीडियो को साझा करने के बाद इंटरनेट पर पारिवारिक प्राथमिकताओं, भावनात्मक मूल्यों और वित्तीय फैसलों को लेकर एक बड़ी बहस छिड़ गई है। आइए जानते हैं क्या है यह पूरा मामला।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/delhi-man-sells-ancestral-family-gold-buy-wife-burgundy-iphone-harsh-goenka-reaction-on-video/articleshow/134366784.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 20 Sep 2026 16:13:00 +0530",
+    "hook": "पत्नी के आईफोन के लिए बेच दिया खानदानी सोना!",
+    "script_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान दिल्ली और नोएडा के एप्पल स्टोर के बाहर एक शख्स ने अपनी पत्नी की ख्वाहिश पूरी करने के लिए पुश्तैनी सोना बेच दिया। उद्योगपति हर्ष गोयनका द्वारा यह वीडियो साझा करने के बाद इंटरनेट पर पारिवारिक प्राथमिकताओं और वित्तीय फैसलों को लेकर बड़ी बहस छिड़ गई है।",
+    "tts_text_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान दिल्ली और नोएडा के एप्पल स्टोर के बाहर एक शख्स ने अपनी पत्नी की ख्वाहिश पूरी करने के लिए पुश्तैनी सोना बेच दिया। उद्योगपति हर्ष गोयनका द्वारा यह वीडियो साझा करने के बाद इंटरनेट पर पारिवारिक प्राथमिकताओं और वित्तीय फैसलों को लेकर बड़ी बहस छिड़ गई है।",
+    "title": "पत्नी के iPhone के लिए बेचा पुश्तैनी सोना",
+    "caption": "पत्नी के आईफोन के लिए शख्स ने बेचा खानदानी सोना, हर्ष गोयनका के वीडियो पर छिड़ी बहस।",
     "hashtags": [
-      "#Mumbai",
-      "#MumbaiNews",
-      "#BMWAccident",
-      "#CoastalRoad",
-      "#CarAccident",
-      "#MaharashtraNews"
+      "AppleStore",
+      "iPhone18Pro",
+      "HarshGoenka",
+      "ViralVideo",
+      "IndiaNews",
+      "NoidaNews",
+      "Trending"
     ],
     "visual_queries": [
-      "Mumbai coastal road India",
-      "luxury car speeding India",
-      "broken bridge railing India",
-      "CCTV security camera India"
+      "Apple store India queue",
+      "Indian shopping mall exterior India",
+      "Gold jewellery India",
+      "Man using smartphone India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Harsh Goenka",
+    "named_person_hi": "हर्ष गोयनका",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV footage of a unique accident that generic stock B-roll cannot accurately represent; real footage needs to be added manually.",
+    "flag_reason": "The story revolves around a specific viral video shared by Harsh Goenka; generic stock B-roll is used as placeholders since the exact real video of the person in the queue is not available on stock platforms.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38523375/pexels-photo-38523375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "text_card",
+        "text": "हर्ष गोयनका",
+        "source": "fallback",
+        "query": "Harsh Goenka",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5699940/5699940-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "Mumbai coastal road India",
-        "credit": "Harsh  Kukadiya",
+        "query": "Apple store India queue",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34305868/14533495_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian shopping mall exterior India",
+        "credit": "Raj  Bala",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32780784/pexels-photo-32780784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Gold jewellery India",
+        "credit": "M Kamran Arvi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20435115/pexels-photo-20435115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18453078/pexels-photo-18453078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "luxury car speeding India",
-        "credit": "Mohit Hambiria",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8954274/pexels-photo-8954274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury car speeding road",
-        "credit": "REFARGOTOHP",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV security camera India",
-        "credit": "Rakesh Teja",
+        "query": "Man using smartphone India",
+        "credit": "Iqbal farooz",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "asset_count": 5,
+    "timeline_covered_sec": 26.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "india_women_cricket_asia_cup_final",
+    "topic_label": "shafali_verma_century_womens_asia_cup",
     "virality_score": 8,
-    "reason": "Crushing victory by the Indian women's cricket team reaching the Asian Games final has broad national relevance.",
+    "reason": "Stellar record-breaking century by Shafali Verma powering India into the Asian Games cricket final.",
     "region": "india",
     "headline": "Shafali’s ton helps India crush Bangladesh, storm into Asian Games final",
     "source_summary": "Shafali Verma’s historic 100 off 49 balls powered India Women to 195/4 before their bowlers bundled Bangladesh out for 81 in 15.4 overs, sealing a 114-run win in the Asian Games 2026 semi-final. India booked a place in the gold-medal match against Sri Lanka, while Shafali became the first player to score a century in women’s Asian Games cricket.",
     "source_url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms",
     "source_name": "Times of India - Top Stories",
     "published": "Sun, 20 Sep 2026 13:47:46 +0530",
-    "hook": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत!",
-    "script_hi": "शैफाली वर्मा ने उनचास गेंदों में सौ रनों की ऐतिहासिक पारी खेलकर भारत महिला टीम को एशियाई खेलों दो हजार छब्बीस के फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से करारी शिकस्त दी।",
-    "tts_text_hi": "शैफाली वर्मा ने उनचास गेंदों में सौ रनों की ऐतिहासिक पारी खेलकर भारत महिला टीम को एशियाई खेलों दो हजार छब्बीस के फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से करारी शिकस्त दी।",
-    "title": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत",
-    "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।",
+    "hook": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में!",
+    "script_hi": "शैफाली वर्मा ने उनचास गेंदों में ऐतिहासिक सौ रन बनाकर भारत को एशियाई खेलों के महिला क्रिकेट फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से हरा दिया है।",
+    "tts_text_hi": "शैफाली वर्मा ने उनचास गेंदों में ऐतिहासिक सौ रन बनाकर भारत को एशियाई खेलों के महिला क्रिकेट फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से हरा दिया है।",
+    "title": "शैफाली वर्मा का तूफानी शतक, एशियाई खेलों के फाइनल में पहुंचा भारत",
+    "caption": "भारतीय महिला क्रिकेट टीम ने एशियाई खेलों के सेमीफाइनल में बांग्लादेश को हराकर फाइनल में जगह बना ली है।",
     "hashtags": [
-      "#ShafaliVerma",
-      "#AsianGames",
-      "#TeamIndia",
-      "#CricketNews",
-      "#WomenCricket"
+      "ShafaliVerma",
+      "AsianGames",
+      "TeamIndia",
+      "WomensCricket",
+      "CricketNews"
     ],
     "visual_queries": [
       "Indian cricket stadium India",
-      "Indian woman cricketer celebration India",
-      "Indian cricket team victory India"
+      "woman cricket player batting India",
+      "Indian women cricket team celebration India"
     ],
     "named_person": "Shafali Verma",
     "named_person_hi": "शैफाली वर्मा",
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -188,10 +198,10 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37036600/pexels-photo-37036600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket team victory India",
-        "credit": "Umang & Meet",
+        "query": "woman cricket player batting India",
+        "credit": "Shulabh Singh  Chauhan",
         "duration_sec": 4.3
       },
       {
@@ -206,24 +216,24 @@
         "type": "image",
         "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium crowd",
+        "query": "cricket stadium celebration",
         "credit": "Raunaq Sachdev",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29047136/pexels-photo-29047136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket player celebration",
-        "credit": "Patrick Case",
+        "query": "cricket team victory",
+        "credit": "Yogendra  Singh",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36801081/pexels-photo-36801081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7005050/pexels-photo-7005050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sports trophy presentation",
-        "credit": "ENIO ENGENHEIRO",
+        "query": "sports trophy celebration",
+        "credit": "RDNE Stock project",
         "duration_sec": 4.3
       }
     ],
@@ -232,304 +242,55 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत",
-        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
+        "title": "शैफाली वर्मा का तूफानी शतक! एशियाई खेलों के फाइनल में पहुंचा भारत 🏏🔥",
+        "caption": "शैफाली वर्मा ने खेली ऐसी ऐतिहासिक पारी कि बांग्लादेश की टीम देखती रह गई! 🇮🇳\n\nएशियाई खेलों के सेमीफाइनल मुकाबले में भारत ने शानदार प्रदर्शन करते हुए फाइनल में पक्की जगह बना ली है। शैफाली का यह धमाकेदार शतक सोशल मीडिया पर छाया हुआ है।\n\nपूरा मुकाबला कैसे पलटा, आइए जानते हैं पूरी कहानी।\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
       },
       "instagram": {
         "title": null,
-        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
+        "caption": "शैफाली वर्मा का ऐसा तूफानी शतक देखा क्या? 🤯\n\nमहज इतने गेंदों पर इतिहास रचते हुए भारत को सीधे एशियाई खेलों के फाइनल में पहुंचा दिया। बांग्लादेश के खिलाफ इस महामुकाबले में क्या कुछ हुआ, देखिए वीडियो में। \n\nक्या इस बार गोल्ड हमारा होगा? कमेंट में बताओ! 🏆\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
       },
       "facebook": {
         "title": null,
-        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
+        "caption": "जब मैदान पर उतरीं शैफाली वर्मा, तो विरोधी टीम के सारे प्लान धरे के धरे रह गए! 🔥\n\nएशियाई खेलों के इस रोमांचक सेमीफाइनल में भारतीय महिला टीम ने दमदार खेल दिखाते हुए फाइनल का टिकट कटा लिया है। शैफाली के इस ऐतिहासिक शतक ने साबित कर दिया कि क्यों उन्हें खतरनाक खिलाड़ी माना जाता है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय शेयर करें।\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
       },
       "hashtags": [
-        "#ShafaliVerma",
-        "#AsianGames",
-        "#TeamIndia",
-        "#CricketNews",
-        "#WomenCricket"
+        "ShafaliVerma",
+        "AsianGames2023",
+        "IndianCricketTeam",
+        "WomensCricket",
+        "TeamIndia"
       ]
     },
-    "audio_path": "audio/india_women_cricket_asia_cup_final.wav",
-    "audio_duration_sec": 17.45
+    "audio_path": "audio/shafali_verma_century_womens_asia_cup.wav",
+    "audio_duration_sec": 12.32
   },
   {
-    "topic_label": "iphone_18_pro_gold_sold_for_wife",
+    "topic_label": "amritsar_asi_murder_accused_encounter",
     "virality_score": 8,
-    "reason": "A viral story of a man selling ancestral gold to buy his wife the new iPhone 18 Pro.",
+    "reason": "High-octane police encounter of an ASI murder suspect with confirmed cross-border terror links.",
     "region": "india",
-    "headline": "पत्नी के iPhone के लिए बेच दिया दादी-परदादी का सोना, वीडियो देख उद्योगपति हर्ष गोयनका ने उठाए सवाल",
-    "source_summary": "भारत में आईफोन 18 प्रो की लॉन्चिंग के साथ ही एप्पल स्टोर्स के बाहर हमेशा की तरह खरीदारों की भारी भीड़ देखने को मिली। लेकिन इसी कतार में खड़ा दिल्ली का एक शख्स अपनी एक अनोखी वजह से अचानक सुर्खियों में आ गया। नोएडा के डीएलएफ मॉल ऑफ इंडिया स्थित एप्पल स्टोर के बाहर खड़े इस शख्स ने अपनी पत्नी की ख्वाहिश पूरी करने के लिए परिवार का पुश्तैनी सोना बेचकर आईफोन खरीदा। उद्योगपति हर्ष गोयनका द्वारा इस वीडियो को साझा करने के बाद इंटरनेट पर पारिवारिक प्राथमिकताओं, भावनात्मक मूल्यों और वित्तीय फैसलों को लेकर एक बड़ी बहस छिड़ गई है। आइए जानते हैं क्या है यह पूरा मामला।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/delhi-man-sells-ancestral-family-gold-buy-wife-burgundy-iphone-harsh-goenka-reaction-on-video/articleshow/134366784.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 20 Sep 2026 16:13:00 +0530",
-    "hook": "पत्नी के आईफोन के लिए बेच दिया खानदानी सोना!",
-    "script_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान नोएडा के एप्पल स्टोर के बाहर एक शख्स ने पत्नी की ख्वाहिश पूरी करने के लिए अपना पुश्तैनी सोना बेच दिया। इस हैरान करने वाले वीडियो को उद्योगपति हर्ष गोयनका ने शेयर किया, जिसके बाद इंटरनेट पर वित्तीय फैसलों और पारिवारिक प्राथमिकताओं को लेकर एक बड़ी बहस छिड़ गई है। क्या ऐसा करना सही है?",
-    "tts_text_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान नोएडा के एप्पल स्टोर के बाहर एक शख्स ने पत्नी की ख्वाहिश पूरी करने के लिए अपना पुश्तैनी सोना बेच दिया। इस हैरान करने वाले वीडियो को उद्योगपति हर्ष गोयनका ने शेयर किया, जिसके बाद इंटरनेट पर वित्तीय फैसलों और पारिवारिक प्राथमिकताओं को लेकर एक बड़ी बहस छिड़ गई है। क्या ऐसा करना सही है?",
-    "title": "पत्नी के iPhone के लिए बेचा पुश्तैनी सोना, वीडियो पर छिड़ी बहस",
-    "caption": "नोएडा में एप्पल स्टोर के बाहर पत्नी के लिए आईफोन खरीदने के चक्कर में शख्स ने बेच दिया पुश्तैनी सोना। उद्योगपति हर्ष गोयनका के वीडियो शेयर करने के बाद सोशल मीडिया पर छिड़ी बड़ी बहस।",
+    "headline": "अमृतसर: ASI के हत्यारोपी का एनकाउंटर, पाक कनेक्शन आया सामने",
+    "source_summary": "पंजाब पुलिस के एएसआई हरजीत सिंह की हत्या करने वाले मुख्य आरोपी दीपक सिंह को पुलिस ने एक मुठभेड़ में ढेर कर दिया है. अमृतसर पुलिस की इस कार्रवाई के बाद कई बड़े और चौंकाने वाले खुलासे हुए हैं. पुलिस को मृत आरोपी के पास से एक मोबाइल फोन मिला है, जिससे यह साफ हुआ है कि दीपक सिंह सीधे तौर पर पाकिस्तानी हैंडलर्स के संपर्क में था. जांच में सामने आया है कि दीपक सिंह हाल ही में गृह मंत्रालय द्वारा आतंकवादी घोषित किए गए शहजाद भट्टी गैंग के लिए काम करता था.",
+    "source_url": "https://www.aajtak.in/india/punjab/video/amritsar-asi-murder-accused-killed-in-encounter-with-pak-terror-connection-vdot-ytvd-2648195-2026-09-20?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-20T19:13:09+05:30",
+    "hook": "अमृतसर में पुलिस का बड़ा एक्शन, एएसआई के हत्यारोपी का एनकाउंटर!",
+    "script_hi": "अमृतसर में पंजाब पुलिस के एएसआई हरजीत सिंह की हत्या करने वाले मुख्य आरोपी दीपक सिंह को पुलिस ने एक मुठभेड़ में ढेर कर दिया है। अमृतसर पुलिस की कार्रवाई में बड़ा खुलासा हुआ है कि आरोपी सीधे तौर पर पाकिस्तानी हैंडलर्स के संपर्क में था और गृह मंत्रालय द्वारा आतंकवादी घोषित शहजाद भट्टी गैंग के लिए काम करता था।",
+    "tts_text_hi": "अमृतसर में पंजाब पुलिस के एएसआई हरजीत सिंह की हत्या करने वाले मुख्य आरोपी दीपक सिंह को पुलिस ने एक मुठभेड़ में ढेर कर दिया है। अमृतसर पुलिस की कार्रवाई में बड़ा खुलासा हुआ है कि आरोपी सीधे तौर पर पाकिस्तानी हैंडलर्स के संपर्क में था और गृह मंत्रालय द्वारा आतंकवादी घोषित शहजाद भट्टी गैंग के लिए काम करता था।",
+    "title": "अमृतसर में एएसआई के हत्यारोपी का एनकाउंटर",
+    "caption": "अमृतसर पुलिस ने एएसआई हरजीत सिंह के हत्यारोपी दीपक सिंह को मुठभेड़ में मार गिराया है। जांच में उसका पाकिस्तानी कनेक्शन और आतंकवादी शहजाद भट्टी गैंग से जुड़ाव सामने आया है।",
     "hashtags": [
-      "AppleStoreIndia",
-      "iPhoneEighteen",
-      "HarshGoenka",
-      "ViralVideo",
-      "NoidaNews",
-      "Trending",
-      "India"
+      "Amritsar",
+      "PunjabPolice",
+      "Encounter",
+      "PakistanConnection",
+      "NewsUpdate",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Apple store queue India",
-      "Noida shopping mall India",
-      "gold jewelry India",
-      "smartphone box India"
-    ],
-    "named_person": "Harsh Goenka",
-    "named_person_hi": "हर्ष गोयनका",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story revolves around a specific viral video shared by Harsh Goenka showing a specific person at a Noida Apple store. While general B-roll can illustrate the concept, the specific person and video cannot be authentically represented by generic stock footage.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "हर्ष गोयनका",
-        "source": "fallback",
-        "query": "Harsh Goenka",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34305868/14533495_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Noida shopping mall India",
-        "credit": "Raj  Bala",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7287317/7287317-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "smartphone box India",
-        "credit": "Kampus Production",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8130301/pexels-photo-8130301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple store queue India",
-        "credit": "Maher Meskko",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19394248/pexels-photo-19394248.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gold jewelry India",
-        "credit": "Samir Ali",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ukraine_massive_drone_attack_moscow",
-    "virality_score": 8,
-    "reason": "Major global escalation with Ukraine launching over 1,600 drones at Moscow.",
-    "region": "india",
-    "headline": "Video: Massive Ukrainian Drone Barrage On Moscow Amid Elections In Russia",
-    "source_summary": "The capital's Mayor Sergei Sobyanin said that more than 1,600 drones had been intercepted and shot down, 450 of which were aimed at Moscow.",
-    "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-video-massive-ukrainian-drone-barrage-on-moscow-amid-elections-in-russia-12072111#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 20 Sep 2026 16:06:30 +0530",
-    "hook": "रूस में चुनावों के बीच मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला!",
-    "script_hi": "रूस में राष्ट्रपति चुनाव के दौरान यूक्रेन ने मॉस्को पर भारी ड्रोन हमला बोला है। मॉस्को के मेयर सर्गेई सोबियानान के अनुसार, कुल एक हजार छह सौ से ज्यादा ड्रोन रोके गए, जिनमें से चार सौ पचास ड्रोन सीधे मॉस्को को निशाना बना रहे थे।",
-    "tts_text_hi": "रूस में राष्ट्रपति चुनाव के दौरान यूक्रेन ने मॉस्को पर भारी ड्रोन हमला बोला है। मॉस्को के मेयर सर्गेई सोबियानान के अनुसार, कुल एक हजार छह सौ से ज्यादा ड्रोन रोके गए, जिनमें से चार सौ पचास ड्रोन सीधे मॉस्को को निशाना बना रहे थे।",
-    "title": "मॉस्को पर भारी यूक्रेनी ड्रोन हमला",
-    "caption": "रूस में चुनावों के दौरान मॉस्को पर बड़ा ड्रोन हमला हुआ, जहाँ सैकड़ों ड्रोन हवा में ही नष्ट किए गए।",
-    "hashtags": [
-      "#Russia",
-      "#Moscow",
-      "#UkraineWar",
-      "#DroneAttack",
-      "#BreakingNews"
-    ],
-    "visual_queries": [
-      "Moscow city skyline Russia",
-      "military drone in sky",
-      "explosion fire smoke Russia"
-    ],
-    "named_person": "Sergey Sobyanin",
-    "named_person_hi": "सर्गेई सोबियानान",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "सर्गेई सोबियानान",
-        "source": "fallback",
-        "query": "Sergey Sobyanin",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/29298521/12634614_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "air defense explosion night",
-        "credit": "Lone Pexels",
-        "source_duration_sec": 2,
-        "duration_sec": 2
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32122876/pexels-photo-32122876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Moscow city skyline Russia",
-        "credit": "Dmitry Alexandrovich",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38841752/pexels-photo-38841752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "explosion fire smoke Russia",
-        "credit": "Karol Tomsia",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 16.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "iit_bombay_student_chatgpt_suicide_case",
-    "virality_score": 8,
-    "reason": "High-profile case of an IIT student facing issues after using ChatGPT in an exam, leading to police action.",
-    "region": "india",
-    "headline": "IIT का छात्र ChatGPT से एग्जाम में कर रहा था चीटिंग! पकड़ा गया तो उठाया खौफनाक कदम, पूरी कहानी चौंका देगी",
-    "source_summary": "IIT Bombay Student Death: भारतीय प्रौद्योगिकी संस्थान (IIT) बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में हंगामा मच गया। परीक्षा के दौरान मोबाइल फोन से ChatGPT पर सवालों के जवाब तलाशने की बात सामने आई है।",
-    "source_url": "https://hindi.oneindia.com/news/india/iit-bombay-student-death-after-chatgpt-cheating-allegation-during-exam-full-story-1651339.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Sat, 19 Sep 2026 10:42:33 +0530",
-    "hook": "आईआईटी बॉम्बे में ऐसा क्या हुआ कि कैंपस में मच गया हंगामा?",
-    "script_hi": "आईआईटी बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में भारी हंगामा मच गया है। शुरुआती जांच में सामने आया है कि परीक्षा के दौरान छात्र मोबाइल फोन से चैटजीपीटी की मदद से सवालों के जवाब ढूंढ रहा था। पकड़े जाने के डर से उसने यह खौफनाक कदम उठाया। इस दुखद घटना ने शिक्षण संस्थानों में अनुशासन और छात्रों के मानसिक दबाव पर एक बार फिर गंभीर सवाल खड़े कर दिए हैं।",
-    "tts_text_hi": "आईआईटी बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में भारी हंगामा मच गया है। शुरुआती जांच में सामने आया है कि परीक्षा के दौरान छात्र मोबाइल फोन से चैटजीपीटी की मदद से सवालों के जवाब ढूंढ रहा था। पकड़े जाने के डर से उसने यह खौफनाक कदम उठाया। इस दुखद घटना ने शिक्षण संस्थानों में अनुशासन और छात्रों के मानसिक दबाव पर एक बार फिर गंभीर सवाल खड़े कर दिए हैं।",
-    "title": "IIT Bombay Student Death: एग्जाम में ChatGPT से चीटिंग और फिर खौफनाक कदम",
-    "caption": "आईआईटी बॉम्बे में परीक्षा के दौरान चीटिंग का मामला सामने आने के बाद छात्र की मौत से कैंपस में हंगामा मच गया है।",
-    "hashtags": [
-      "IITBombay",
-      "StudentDeath",
-      "BreakingNews",
-      "EducationNews",
-      "IndiaNews",
-      "CollegeCampus"
-    ],
-    "visual_queries": [
-      "IIT Bombay campus India",
-      "Indian college examination hall",
-      "student smartphone usage India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38523382/pexels-photo-38523382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "IIT Bombay campus India",
-        "credit": "Harsh  Kukadiya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8086359/pexels-photo-8086359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stressed student studying night",
-        "credit": "Ron Lach",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17785025/pexels-photo-17785025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "student smartphone usage India",
-        "credit": "Prasanth Inturi",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "IIT Bombay Student: ChatGPT से चीटिंग और फिर खौफनाक कदम! 🚨",
-        "caption": "आईआईटी बॉम्बे में एग्जाम के दौरान ऐसा क्या हुआ कि कैंपस में हड़कंप मच गया? 🚨\n\nChatGPT से चीटिंग करते पकड़े जाने के डर से एक छात्र ने ऐसा कदम उठाया जिसकी किसी ने कल्पना भी नहीं की थी। इस सनसनीखेज मामले की पूरी सच्चाई जानकर आप भी हैरान रह जाएंगे।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "आईआईटी बॉम्बे में ऐसा क्या हुआ कि पूरे कैंपस में हंगामा मच गया? 🚨\n\nएग्जाम में ChatGPT से चीटिंग करते पकड़े जाने के बाद छात्र ने उठाया खौफनाक कदम। इस पूरी घटना ने सबको झकझोर कर रख दिया है।\n\nपूरी कहानी जान3 के लिए वीडियो अंत तक देखें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "आईआईटी बॉम्बे के कैंपस में आखिर ऐसा क्या हुआ कि हर कोई सन्न रह गया? \n\nएग्जाम के दौरान छात्र द्वारा ChatGPT से चीटिंग करने का मामला सामने आया, और जब सच्चाई बाहर आई तो उसने ऐसा खौफनाक कदम उठाया जिसकी किसी को उम्मीद नहीं थी। \n\nपूरी कहानी देखें और वीडियो को शेयर जरूर करें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
-      },
-      "hashtags": [
-        "iitbombay",
-        "chatgptcheating",
-        "studentnews",
-        "breakingnews",
-        "iitnews"
-      ]
-    },
-    "audio_path": "audio/iit_bombay_student_chatgpt_suicide_case.wav",
-    "audio_duration_sec": 8.63
-  },
-  {
-    "topic_label": "telangana_neurosurgeon_car_fire_death",
-    "virality_score": 7,
-    "reason": "Tragic accident where a doctor was burnt alive after his car hit a divider has high emotional and shocking value.",
-    "region": "india",
-    "headline": "Telangana Neurosurgeon Burnt Alive After Car Crashes Into Divider, Burst Into Flames",
-    "source_summary": "The initial investigation suggests that drowsy driving may have caused the accident. The exact cause, however, is still under investigation.",
-    "source_url": "https://www.ndtv.com/telangana-news/telangana-neurosurgeon-burnt-alive-after-car-crashes-into-divider-burst-into-flames-12071488#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 20 Sep 2026 12:45:57 +0530",
-    "hook": "तेलंगाना में दिल दहला देने वाला हादसा!",
-    "script_hi": "तेलंगाना में एक दर्दनाक हादसे में नामी न्यूरोसर्जन की जिंदा जलकर मौत हो गई। उनकी कार डिवाइडर से टकराने के बाद आग की लपटों में घिर गई। शुरुआती जांच के मुताबिक, गाड़ी चलाते वक्त झपकी आना हादसे की वजह हो सकती है, हालांकि पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "तेलंगाना में एक दर्दनाक हादसे में नामी न्यूरोसर्जन की जिंदा जलकर मौत हो गई। उनकी कार डिवाइडर से टकराने के बाद आग की लपटों में घिर गई। शुरुआती जांच के मुताबिक, गाड़ी चलाते वक्त झपकी आना हादसे की वजह हो सकती है, हालांकि पुलिस मामले की जांच कर रही है।",
-    "title": "Telangana Neurosurgeon Burnt Alive in Car Crash",
-    "caption": "तेलंगाना में कार डिवाइडर से टकराने और उसमें आग लगने से एक न्यूरोसर्जन की जिंदा जलकर मौत। शुरुआती जांच में झपकी आने को वजह माना जा रहा है।",
-    "hashtags": [
-      "#TelanganaNews",
-      "#CarAccident",
-      "#BreakingNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "India highway divider road",
-      "burnt car wreckage India",
-      "police investigation India"
+      "Amritsar police station India",
+      "Punjab police officer India",
+      "crime scene investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -549,106 +310,99 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/22043799/pexels-photo-22043799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India highway divider road",
-        "credit": "Dhruv   Jangid",
-        "duration_sec": 4.0
+        "query": "police encounter operation India",
+        "credit": "Nishant Sharma",
+        "duration_sec": 4.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12502067/pexels-photo-12502067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "burnt car wreckage India",
-        "credit": "Vladyslav Huivyk",
-        "duration_sec": 4.0
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "night highway traffic India",
-        "credit": "Sourabh Narwade",
-        "duration_sec": 4.0
+        "query": "police operation India",
+        "credit": "Nishant Sharma",
+        "duration_sec": 4.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5403208/pexels-photo-5403208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7390415/pexels-photo-7390415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "car accident emergency lights",
-        "credit": "El Jundi",
-        "duration_sec": 4.0
+        "query": "Indian police officer uniform",
+        "credit": "Aakash Panwar",
+        "duration_sec": 4.8
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police tape crime scene",
+        "query": "crime scene tape India",
         "credit": "Srujan J.",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6505092/pexels-photo-6505092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "burnt vehicle on road",
-        "credit": "Mary Locuaz",
-        "duration_sec": 4.0
+        "duration_sec": 4.8
       }
     ],
-    "asset_count": 7,
+    "asset_count": 6,
     "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कार डिवाइडर से टकराई और जिंदा जल गए मशहूर न्यूरोसर्जन! 😱",
-        "caption": "चलती कार डिवाइडर से टकराई और कुछ ही सेकंड में आग का गोला बन गई, जिसमें देश के जाने-माने न्यूरोसर्जन की जिंदा जलकर मौत हो गई। 🚗🔥\n\nतेलंगाना के महबूबनगर में हुई इस दर्दनाक दुर्घटना ने हर किसी को झकझोर कर रख दिया है। हादसे की ये दिल दहला देने वाली पूरी डिटेल वीडियो में देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+        "title": "अमृतसर में ASI के हत्यारोपी का एनकाउंटर, पाक कनेक्शन आया सामने 🚨",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया। 🚨\n\nअमृतसर में ASI की हत्या के मुख्य आरोपी को पुलिस ने एनकाउंटर में ढेर कर दिया है। जांच में इसका सीधा पाकिस्तान कनेक्शन सामने आया है, जिससे कई बड़े खुलासे हुए हैं।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AmritsarEncounter #PunjabPolice #ASI1Murder #PakistanConnection #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "कार डिवाइडर से टकराई और कुछ ही सेकंड में जिंदा जल गए देश के जाने-माने न्यूरोसर्जन! 😱🔥\n\nतेलंगाना के महबूबनगर में हुए इस भयानक हादसे ने सबको हिला कर रख दिया है। आखिर कैसे हुआ ये सब? पूरी कहानी देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया। 🚨\n\nअमृतसर में ASI की हत्या करने वाला आरोपी अब पुलिस के एनकाउंटर में ढेर हो चुका है। शुरुआती जांच में इसके पाकिस्तान से जुड़े होने के पुख्ता सबूत मिले हैं। \n\nअपडेट्स के लिए फॉलो करें।\n\n#AmritsarEncounter #PunjabPolice #ASI1Murder #PakistanConnection #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "सड़क पर दौड़ती एक लग्जरी कार अचानक डिवाइडर से जा टकराई और कुछ ही पलों में आग के शोलो में बदल गई। इस दर्दनाक हादसे में किसी और की नहीं, बल्कि एक जाने-माने न्यूरोसर्जन की जिंदा जलकर जान चली गई। 🚗🔥\n\nतेलंगाना के महबूबनगर की इस घटना ने पूरे मेडिकल जगत और मृतकों के परिवार को गहरे सदमे में डाल दिया है। आखिर ये भयानक हादसा कैसे हुआ और उस वक्त क्या हालात थे, पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया। 🚨\n\nअमृतसर में ASI की हत्या के मामले में पुलिस ने बड़ा एक्शन लिया है। मुख्य आरोपी पुलिस के साथ मुठभेड़ में मारा गया है, और इस पूरे मामले में पाकिस्तान कनेक्शन की बात सामने आ रही है। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#AmritsarEncounter #PunjabPolice #ASI1Murder #PakistanConnection #CrimeNews"
       },
       "hashtags": [
-        "TelanganaNews",
-        "CarAccident",
-        "BreakingNews",
-        "DoctorDeath",
-        "RoadSafety"
+        "AmritsarEncounter",
+        "PunjabPolice",
+        "ASI1Murder",
+        "PakistanConnection",
+        "CrimeNews"
       ]
     },
-    "audio_path": "audio/telangana_neurosurgeon_car_fire_death.wav",
-    "audio_duration_sec": 19.4
+    "audio_path": "audio/amritsar_asi_murder_accused_encounter.wav",
+    "audio_duration_sec": 22.19
   },
   {
-    "topic_label": "india_womens_cricket_bangladesh_asian_games",
-    "virality_score": 7,
-    "reason": "Strong sports victory update as the Indian women's team storms into the Asian Games final.",
+    "topic_label": "indian_youths_hack_openai_bug_bounty",
+    "virality_score": 8,
+    "reason": "Tech triumph story of Indian cybersecurity researchers hacking OpenAI using Claude and winning cash.",
     "region": "india",
-    "headline": "बांग्लादेश को हराकर एशियन गेम्स फाइनल में पहुंचा भारत",
-    "source_summary": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स 2026 के फाइनल में जगह बना ली है। सेमीफाइनल में भारत ने बांग्लादेश को 114 रन से हराया। भारत ने 195 रन बनाए, जिसके जवाब में बांग्लादेश की टीम 81 रन पर ऑलआउट हो गई।",
-    "source_url": "https://www.aajtak.in/short-videos/video/india-vs-bangladesh-asian-games-2026-women-cricket-final-shafali-verma-100-runs-harmanpreet-smriti-srilanka-final-mmtc-2648064-2026-09-20?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-20T14:49:48+05:30",
-    "hook": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स के फाइनल में रच दिया इतिहास!",
-    "script_hi": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में जगह बना ली है। सेमीफाइनल मुकाबले में भारत ने बांग्लादेश को एक सौ चौदह रन से करारी शिकस्त दी है। भारत ने पहले बल्लेबाजी करते हुए एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेश की पूरी टीम इक्यासी रन पर ऑलआउट हो गई।",
-    "tts_text_hi": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में जगह बना ली है। सेमीफाइनल मुकाबले में भारत ने बांग्लादेश को एक सौ चौदह रन से करारी शिकस्त दी है। भारत ने पहले बल्लेबाजी करते हुए एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेश की पूरी टीम इक्यासी रन पर ऑलआउट हो गई।",
-    "title": "बांग्लादेश को हराकर एशियन गेम्स फाइनल में पहुंचा भारत",
-    "caption": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के सेमीफाइनल में बांग्लादेश को एक सौ चौदह रन से हराकर फाइनल में प्रवेश कर लिया है।",
+    "headline": "भारतीय मूल के 3 लड़कों का कमाल, हैक कर लिया OpenAI, जीते 5.5 लाख",
+    "source_summary": "AI के दौर में ऑनलाइन सुरक्षा बेहद गंभीर विषय हो जाता है। इस साल जुलाई में भारतीय मूल के तीन लड़कों ने एंथ्रोपिक के Claude AI की मदद से ChatGPT बनाने वाली OpenAI के सिस्टम में सेंध लगा दी। तीनों लड़के साइबर सुरक्षा शोधकर्ता थे और यह कोई अटैक नहीं बल्कि OpenAI के बग-बाउंटी प्रोग्राम के तहत की गई एक सेफ्टी टेस्टिंग थी।<br /><br />72 घंटे चले इस बग बाउंटी प्रोग्राम में तीनों रिसर्चर्स ने OpenAI के कर्मचारियों के खातों से लेकर प्राइवेट गिटहब तक को एक्ससे कर लिया था। बता दें कि बग बाउंटी प्रोग्राम कई टेक कंपनियां आयोजित करती हैं, जिसमें एथिकल हैकर्स कंपनी को उनके प्रोडक्ट की कंजोरियों से अवगत कराते हैं। इसके बदले कंपनियां एथिकल हैकर्स को अच्छा भुगतान भी करती हैं।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/ai-news/indian-origin-researchers-hack-openai-claude-ai-system-win-bug-bounty-reward/articleshow/134369218.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 20 Sep 2026 18:46:00 +0530",
+    "hook": "ओपन एआई का सिस्टम हुआ हैक, भारतीय मूल के लड़कों ने दिखाया कमाल!",
+    "script_hi": "भारतीय मूल के तीन साइबर सुरक्षा शोधकर्ताओं ने ओपन एआई के सिस्टम में सेंध लगा दी। इस साल जुलाई में बहत्तर घंटे चले बग बाउंटी प्रोग्राम के दौरान इन्होंने कंपनी के खातों और प्राइवेट गिटहब तक को एक्सेस कर लिया। यह कोई साइबर अटैक नहीं बल्कि एथिकल हैकिंग के जरिए की गई सेफ्टी टेस्टिंग थी, जिसके लिए इन लड़कों को पांच लाख पचास हजार रुपये जीते।",
+    "tts_text_hi": "भारतीय मूल के तीन साइबर सुरक्षा शोधकर्ताओं ने ओपन एआई के सिस्टम में सेंध लगा दी। इस साल जुलाई में बहत्तर घंटे चले बग बाउंटी प्रोग्राम के दौरान इन्होंने कंपनी के खातों और प्राइवेट गिटहब तक को एक्सेस कर लिया। यह कोई साइबर अटैक नहीं बल्कि एथिकल हैकिंग के जरिए की गई सेफ्टी टेस्टिंग थी, जिसके लिए इन लड़कों को पांच लाख पचास हजार रुपये जीते।",
+    "title": "भारतीय मूल के लड़कों ने हैक किया OpenAI",
+    "caption": "भारतीय मूल के तीन लड़कों ने OpenAI के सिस्टम को हैक कर जीता बड़ा इनाम।",
     "hashtags": [
-      "#IndianCricket",
-      "#AsianGames",
-      "#WomensCricket",
-      "#TeamIndia",
-      "#CricketNews"
+      "OpenAI",
+      "CyberSecurity",
+      "EthicalHacking",
+      "TechNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian female cricket team India",
-      "cricket stadium match India",
-      "happy Indian cricket fans India"
+      "cyber security expert India",
+      "artificial intelligence office India",
+      "hacker working computer screen",
+      "online money reward India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -659,23 +413,284 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5474040/pexels-photo-5474040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium match India",
-        "credit": "Princeton dsouza",
+        "query": "cyber security expert India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8386437/pexels-photo-8386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "happy Indian cricket fans India",
-        "credit": "Ajay Parab",
+        "query": "artificial intelligence office India",
+        "credit": "Tara Winstead",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6963937/pexels-photo-6963937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hacker working computer screen",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6289034/pexels-photo-6289034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "online money reward India",
+        "credit": "Monstera Production",
         "duration_sec": 5
       }
     ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "OpenAI हुआ हैक! भारतीय मूल के 3 लड़कों ने जीता दिल 💻🇮🇳",
+        "caption": "ओपन एआई का सिस्टम हुआ हैक, भारतीय मूल के लड़कों ने दिखाया कमाल!\n\nअमेरिका में रहने वाले इन तीनों युवा टैलेंट ने मिलकर दुनिया के सबसे ताकतवर AI सिस्टम की सुरक्षा में सेंध लगा दी। इसके बाद कंपनी ने खुद आगे आकर इन्हें बड़ा इनाम दिया।\n\nपूरी कहानी देखें और बताएं, क्या AI को पूरी तरह सुरक्षित करना मुमकिन है?\n\n#OpenAIHacked #IndianTeens #TechNewsHindi #ArtificialIntelligence #TechUpdates"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ओपन एआई का सिस्टम हुआ हैक, भारतीय मूल के लड़कों ने दिखाया कमाल!\n\nअमेरिका में स्कूली पढ़ाई करने वाले इन भारतीय मूल के लड़कों ने OpenAI में ऐसी कमी ढूंढी कि पूरी टेक इंडस्ट्री हैरान रह गई। कंपनी ने इन्हें 5.5 लाख रुपये का इनाम दिया।\n\nऐसी और दिलचस्प खबरों के लिए पेज को फॉलो करें!\n\n#OpenAIHacked #IndianTeens #TechNewsHindi #ArtificialIntelligence #TechUpdates"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ओपन एआई का सिस्टम हुआ हैक, भारतीय मूल के लड़कों ने दिखाया कमाल!\n\nजिज्ञासा और कोडिंग की सही समझ हो तो उम्र मायने नहीं रखती। अमेरिका में रहने वाले भारतीय मूल के तीन किशोरों ने दुनिया के सबसे बड़े AI प्लेटफॉर्म OpenAI के सुरक्षा तंत्र में सेंध लगा दी। उनकी इस खोज से कंपनी भी चौंक गई और उन्हें 5.5 लाख रुपये का इनाम देकर सम्मानित किया।\n\nआपकी इस शानदार सफलता पर क्या राय है, कमेंट में जरूर बताएं। पूरी कहानी वीडियो में देखें!\n\n#OpenAIHacked #IndianTeens #TechNewsHindi #ArtificialIntelligence #TechUpdates"
+      },
+      "hashtags": [
+        "OpenAIHacked",
+        "IndianTeens",
+        "TechNewsHindi",
+        "ArtificialIntelligence",
+        "TechUpdates"
+      ]
+    },
+    "audio_path": "audio/indian_youths_hack_openai_bug_bounty.wav",
+    "audio_duration_sec": 27.53
+  },
+  {
+    "topic_label": "telangana_neurosurgeon_car_fire_tragedy",
+    "virality_score": 8,
+    "reason": "Tragic and shocking accident where a leading neurosurgeon was burnt alive inside his luxury car.",
+    "region": "india",
+    "headline": "Neurosurgeon burnt alive after car slams into divider, bursts into flames in Telangana",
+    "source_summary": "In a heartbreaking event, Dr K Jagadeesh Babu, a leading neurosurgeon from Khammam, died when his car collided with a road divider and caught fire on NH-365BB. The incident, occurring near Pillalamarri in Suryapet district early Sunday, raises concerns as police attribute the crash to possible drowsiness, resulting in this devastating loss for the medical community and his loved ones.",
+    "source_url": "https://timesofindia.indiatimes.com/city/hyderabad/neurosurgeon-charred-to-death-after-car-hits-divider-catches-fire-in-telangana/articleshow/134365504.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Sun, 20 Sep 2026 13:58:16 +0530",
+    "hook": "तेलंगाना में दिल दहला देने वाला हादसा!",
+    "script_hi": "तेलंगाना के सूर्यपेट जिले में एक दर्दनाक सड़क हादसे में जाने-माने न्यूरोसर्जन डॉक्टर के जगदीश बाबू की जिंदा जलकर मौत हो गई। उनकी कार सड़क के डिवाइडर से टकराकर आग की लपटों में घिर गई। पुलिस के मुताबिक, यह हादसा ड्राइवर को नींद आने की वजह से हुआ। इस दुखद घटना से पूरे मेडिकल जगत में शोक की लहर दौड़ गई है।",
+    "tts_text_hi": "तेलंगाना के सूर्यपेट जिले में एक दर्दनाक सड़क हादसे में जाने-माने न्यूरोसर्जन डॉक्टर के जगदीश बाबू की जिंदा जलकर मौत हो गई। उनकी कार सड़क के डिवाइडर से टकराकर आग की लपटों में घिर गई। पुलिस के मुताबिक, यह हादसा ड्राइवर को नींद आने की वजह से हुआ। इस दुखद घटना से पूरे मेडिकल जगत में शोक की लहर दौड़ गई है।",
+    "title": "तेलंगाना में न्यूरोसर्जन की जिंदा जलकर मौत",
+    "caption": "तेलंगाना के सूर्यपेट में सड़क हादसे के दौरान कार में आग लगने से मशहूर न्यूरोसर्जन डॉक्टर के जगदीश बाबू का निधन हो गया।",
+    "hashtags": [
+      "TelanganaNews",
+      "CarAccident",
+      "BreakingNews",
+      "Doctor",
+      "Suryapet",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "India highway road divider",
+      "burning car India",
+      "Indian medical doctor portrait"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35664010/15113494_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "India highway road divider",
+        "credit": "md Jahangir alam",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7904406/pexels-photo-7904406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian medical doctor portrait",
+        "credit": "Anna Tarazevich",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17505790/pexels-photo-17505790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night highway car traffic",
+        "credit": "Claiton  Conto",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38065657/pexels-photo-38065657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty road street light india",
+        "credit": "Hb  zee",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28514072/pexels-photo-28514072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "steering wheel driving drowsy",
+        "credit": "Dinara Guseinova",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "तेलंगाना में दिल दहला देने वाला हादसा, कार डिवाइडर से टकराई और...",
+        "caption": "तेज रफ्तार कार डिवाइडर से टकराई और देखते ही देखते आग का गोला बन गई, जिसमें एक जाने-माने न्यूरोसर्जन की जिंदा जलकर मौत हो गई। 🚨\n\nयह दर्दनाक हादसा तेलंगाना में हुआ, जहां डॉक्टरों की दुनिया एक झटके में उजड़ गई। पूरी कहानी वीडियो में देखें।\n\n#TelanganaNews #CarAccident #TragicNews #BreakingNews #Neurosurgery"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "तेज रफ्तार कार डिवाइडर से टकराई और कुछ ही सेकंड में राख बन गई। भीतर फंसे जाने-माने न्यूरोसर्जन की जिंदा जलकर मौत हो गई। 🚗🔥\n\nतेलंगाना से सामने आए इस खौफनाक हादसे ने सबको झकझोर दिया है। पूरी कहानी जानें वीडियो में।\n\n#TelanganaNews #CarAccident #TragicNews #BreakingNews #Neurosurgery"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "तेलंगाना से एक बेहद दिल दहला देने वाली खबर सामने आई है। एक तेज रफ्तार कार अनियंत्रित होकर डिवाइडर से जा टकराई और पलक झपकते ही भीषण आग लग गई। 💔\n\nइस दर्दनाक हादसे में गाड़ी के भीतर फंसे एक नामी न्यूरोसर्जन की जिंदा जलकर मौत हो गई। शुरुआती जांच में क्या सामने आया है, पूरी कहानी देखें वीडियो में।\n\n#TelanganaNews #CarAccident #TragicNews #BreakingNews #Neurosurgery"
+      },
+      "hashtags": [
+        "TelanganaNews",
+        "CarAccident",
+        "TragicNews",
+        "BreakingNews",
+        "Neurosurgery"
+      ]
+    },
+    "audio_path": "audio/telangana_neurosurgeon_car_fire_tragedy.wav",
+    "audio_duration_sec": 24.5
+  },
+  {
+    "topic_label": "dhanbad_ground_subsidence_houses_collapse",
+    "virality_score": 7,
+    "reason": "Shocking visuals of ground suddenly sinking 30 feet and swallowing homes in Jharkhand.",
+    "region": "india",
+    "headline": "धनबाद में अचानक 30 फीट धंस गई जमीन, चार मकान जमींदोज…  दहशत में लोग",
+    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/jharkhand-news-1280-720-55.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"धनबाद में अचानक 30 फीट धंस गई जमीन, चार मकान जमींदोज…  दहशत में लोग\" /></figure>धनबाद के लोयाबाद में अचानक हुए भू-धंसान से चार घर जमीन में समा गए, जिससे इलाके में दहशत फैल गई. करीब 30 फीट गहराई तक धंसी जमीन के लिए स्थानीय लोग पुराने भूमिगत खनन को जिम्मेदार ठहरा रहे हैं.",
+    "source_url": "https://www.tv9hindi.com/state/jharkhand/dhanbad-loyabad-land-subsidence-four-homes-engulfed-mining-suspected-cause-3912019.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sun, 20 Sep 2026 19:22:19 +0530",
+    "hook": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए!",
+    "script_hi": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए! लोयाबाद इलाके में हुई इस घटना से स्थानीय लोगों में भारी दहशत फैल गई है। गनीमत रही कि कोई बड़ा जानमाल का नुकसान नहीं हुआ। स्थानीय लोग इस भयानक भू-धंसान के लिए पुराने भूमिगत खनन को जिम्मेदार ठहरा रहे हैं। प्रशासन मामले की जांच कर रहा है।",
+    "tts_text_hi": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए! लोयाबाद इलाके में हुई इस घटना से स्थानीय लोगों में भारी दहशत फैल गई है। गनीमत रही कि कोई बड़ा जानमाल का नुकसान नहीं हुआ। स्थानीय लोग इस भयानक भू-धंसान के लिए पुराने भूमिगत खनन को जिम्मेदार ठहरा रहे हैं। प्रशासन मामले की जांच कर रहा है।",
+    "title": "धनबाद में तीस फीट जमीन धंसी, चार मकान जमींदोज",
+    "caption": "झारखंड के धनबाद के लोयाबाद में अचानक जमीन धंसने से चार मकान जमींदोज हो गए। इलाके में दहशत का माहौल है।",
+    "hashtags": [
+      "DhanbadNews",
+      "JharkhandNews",
+      "LandSubsidence",
+      "BreakingNews",
+      "Dhanbad"
+    ],
+    "visual_queries": [
+      "damaged houses India",
+      "collapsed ground India",
+      "rescue operation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17596992/pexels-photo-17596992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "damaged houses India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11904941/pexels-photo-11904941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "collapsed ground India",
+        "credit": "Shantum Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue operation India",
+        "credit": "Arto Suraj",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31543700/pexels-photo-31543700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mining area India",
+        "credit": "Daniel Neves Cotta",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32827206/pexels-photo-32827206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cracked earth disaster",
+        "credit": "Suman Boipai",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4672037/pexels-photo-4672037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ground subsidence disaster",
+        "credit": "Ekaterina Belinskaya",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7553752/pexels-photo-7553752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "village destruction aerial",
+        "credit": "Wallace Silva",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "धनबाद में अचानक 30 फीट जमीन धंसी, 4 मकान जमींदोज! 😱",
+        "caption": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए! 😱\n\nधराशायी हुए इन मकानों को देखकर स्थानीय लोगों की सांसें अटक गईं। गनीमत रही कि समय रहते लोगों को सुरक्षित बाहर निकाल लिया गया, वरना बड़ा हादसा हो सकता था।\n\nपूरी कहानी देखें कि आखिर जमीन के भीतर ऐसा क्या हुआ था।\n\n#DhanbadNews #JharkhandNews #Land Subsidence #Dhanbad Sinking #Breaking News Hindi"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए! 😱\n\nदेखते ही देखते आशियाने मलबे में तब्दील हो गए और इलाके में दहशत फैल गई।\n\nपूरा सच जानने के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#DhanbadNews #JharkhandNews #Land Subsidence #Dhanbad Sinking #Breaking News Hindi"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "झारखंड के धनबाद में अचानक तीस फीट जमीन धंस गई, जिससे चार मकान जमींदोज हो गए! 😱\n\nअचानक धरती फटने से इलाके में हड़कंप मच गया और लोग जान बचाकर भागे। प्रशासन की टीम मौके पर पहुंच चुकी है और हालात का जायजा लिया जा रहा है। \n\nआखिर अचानक ऐसा क्या हुआ? पूरी कहानी वीडियो में देखें।\n\n#DhanbadNews #JharkhandNews #Land Subsidence #Dhanbad Sinking #Breaking News Hindi"
+      },
+      "hashtags": [
+        "DhanbadNews",
+        "JharkhandNews",
+        "Land Subsidence",
+        "Dhanbad Sinking",
+        "Breaking News Hindi"
+      ]
+    },
+    "audio_path": "audio/dhanbad_ground_subsidence_houses_collapse.wav",
+    "audio_duration_sec": 24.59
   }
 ]
