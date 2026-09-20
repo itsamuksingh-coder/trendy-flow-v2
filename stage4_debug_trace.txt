@@ -1,10 +1,9 @@
-ready_labels: ['iit_bombay_student_chatgpt_suicide_case', 'india_women_cricket_asia_cup_final', 'telangana_neurosurgeon_car_fire_death']
+ready_labels: ['amritsar_asi_murder_accused_encounter', 'dhanbad_ground_subsidence_houses_collapse', 'indian_youths_hack_openai_bug_bounty', 'shafali_verma_century_womens_asia_cup', 'telangana_neurosurgeon_car_fire_tragedy']
 
-mumbai_coastal_road_bmw_crash: SKIPPED (not in ready set)
 mumbai_coastal_road_bmw_bridge_accident: SKIPPED (not in ready set)
-india_women_cricket_asia_cup_final: SUCCESS -> video_path=videos/india_women_cricket_asia_cup_final.mp4 dur=25.507211
-iphone_18_pro_gold_sold_for_wife: SKIPPED (not in ready set)
-ukraine_massive_drone_attack_moscow: SKIPPED (not in ready set)
-iit_bombay_student_chatgpt_suicide_case: SUCCESS -> video_path=videos/iit_bombay_student_chatgpt_suicide_case.mp4 dur=16.589887
-telangana_neurosurgeon_car_fire_death: SUCCESS -> video_path=videos/telangana_neurosurgeon_car_fire_death.mp4 dur=27.458231
-india_womens_cricket_bangladesh_asian_games: SKIPPED (not in ready set)
+iphone_18_pro_launch_sells_family_gold: SKIPPED (not in ready set)
+shafali_verma_century_womens_asia_cup: SUCCESS -> video_path=videos/shafali_verma_century_womens_asia_cup.mp4 dur=20.289887
+amritsar_asi_murder_accused_encounter: SUCCESS -> video_path=videos/amritsar_asi_murder_accused_encounter.mp4 dur=30.244218
+indian_youths_hack_openai_bug_bounty: SUCCESS -> video_path=videos/indian_youths_hack_openai_bug_bounty.mp4 dur=35.489887
+telangana_neurosurgeon_car_fire_tragedy: SUCCESS -> video_path=videos/telangana_neurosurgeon_car_fire_tragedy.mp4 dur=32.54322
+dhanbad_ground_subsidence_houses_collapse: SUCCESS -> video_path=videos/dhanbad_ground_subsidence_houses_collapse.mp4 dur=32.636213
