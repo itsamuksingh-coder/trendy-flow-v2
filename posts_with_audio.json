@@ -1,189 +1,67 @@
 [
   {
-    "topic_label": "salman_khan_bigg_boss_health_scare",
-    "virality_score": 9,
-    "reason": "High public interest in Salman Khan and Bigg Boss health drama.",
+    "topic_label": "indian_womens_hockey_team_asian_games_win",
+    "virality_score": 8,
+    "reason": "Indian women's hockey team's historic 19-0 win at Asian Games with 8 goals from Deepika.",
     "region": "india",
-    "headline": "बिग बॉस में सलमान के सीने में हुआ दर्द? देर रात एक्टर ने बताई सच्चाई",
-    "source_summary": "सोशल मीडिया पर इस वक्त सिर्फ सलमान खान की ही चर्चा है. बिग बॉस में वीकेंड का वार पर जो हुआ, उसने सभी को हैरान कर दिया. एक्टर की शो के एंड में उनकी तबीयत बिगड़ती दिखी.",
-    "source_url": "https://www.aajtak.in/entertainment/ott/story/bigg-boss-20-salman-khan-ill-health-issues-scene-weekend-ka-vaar-update-tmovg-dskc-2647658-2026-09-20?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-20T07:30:04+05:30",
-    "hook": "क्या बिग बॉस के मंच पर सलमान खान की तबीयत सचमुच बिगड़ गई?",
-    "script_hi": "सोशल मीडिया पर इन दिनों सलमान खान की चर्चा तेज है. बिग बॉस के वीकेंड का वार के दौरान ऐसा कुछ हुआ जिसने सबको हैरान कर दिया. शो के अंत में अभिनेता की तबीयत बिगड़ती नजर आई. हालांकि देर रात खुद सलमान ने इस पर सच्चाई सामने ला दी है.",
-    "tts_text_hi": "सोशल मीडिया पर इन दिनों सलमान खान की चर्चा तेज है. बिग बॉस के वीकेंड का वार के दौरान ऐसा कुछ हुआ जिसने सबको हैरान कर दिया. शो के अंत में अभिनेता की तबीयत बिगड़ती नजर आई. हालांकि देर रात खुद सलमान ने इस पर सच्चाई सामने ला दी है.",
-    "title": "बिग बॉस में सलमान खान की तबीयत पर बड़ा अपडेट",
-    "caption": "बिग बॉस के वीकेंड का वार में सलमान खान की तबीयत बिगड़ने की चर्चा पर अभिनेता ने खुद देर रात सच्चाई बताई है।",
+    "headline": "भारतीय महिला हॉकी टीम का ऐतिहासिक तांडव! उज्बेकिस्तान को 19-0 से रौंदा, दीपिका ने अकेले दागे 8 गोल",
+    "source_summary": "एशियन गेम्स 2026 के अपने पहले महिला हॉकी मैच में भारत ने उज्बेकिस्तान को 19-0 से करारी शिकस्त दी। भारत की ओर से दीपिका सेहरावत ने रिकॉर्ड 8 गोल दागे, जबकि इशिका ने हैट्रिक जमाई।",
+    "source_url": "https://navbharattimes.indiatimes.com/sports/asian-games/news/asian-games-2026-india-women-hockey-beats-uzbekistan-19-0-deepika-record-8-goals/articleshow/134363311.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 20 Sep 2026 09:38:00 +0530",
+    "hook": "भारतीय महिला हॉकी टीम ने रचा इतिहास!",
+    "script_hi": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के अपने पहले मुकाबले में उज्बेकिस्तान को उन्नीस-शून्य से करारी शिकस्त दी। मैच में भारत की तरफ से दीपिका सेहरावत ने रिकॉर्ड आठ गोल दागे, जबकि इशिका ने शानदार हैट्रिक जमाई।",
+    "tts_text_hi": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के अपने पहले मुकाबले में उज्बेकिस्तान को उन्नीस-शून्य से करारी शिकस्त दी। मैच में भारत की तरफ से दीपिका सेहरावत ने रिकॉर्ड आठ गोल दागे, जबकि इशिका ने शानदार हैट्रिक जमाई।",
+    "title": "भारतीय महिला हॉकी टीम की ऐतिहासिक जीत",
+    "caption": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस में उज्बेकिस्तान के खिलाफ उन्नीस-शून्य से ऐतिहासिक जीत दर्ज की।",
     "hashtags": [
-      "SalmanKhan",
-      "BiggBoss",
-      "BollywoodNews",
-      "NewsShorts",
-      "EntertainmentNews"
+      "#IndianHockey",
+      "#AsianGames",
+      "#WomenHockey",
+      "#TeamIndia",
+      "#SportsNews"
     ],
     "visual_queries": [
-      "Indian reality television set",
-      "Bollywood actor India"
+      "Indian women hockey team India",
+      "hockey match stadium India",
+      "celebrating hockey players India"
     ],
-    "named_person": "Salman Khan",
-    "named_person_hi": "सलमान खान",
+    "named_person": "Deepika Sehrawat",
+    "named_person_hi": "दीपिका सेहरावत",
     "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39402054/16776814_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian reality television set",
-        "credit": "Kuiyibo Campos",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35315356/14961841_720_1280_50fps.mp4",
-        "source": "pexels",
-        "query": "worried audience studio",
-        "credit": "Orhan Pergel",
-        "source_duration_sec": 5,
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_2b3e286c5f.jpg",
-        "source": "wikimedia",
-        "query": "Salman Khan",
-        "credit": "Wikipedia",
-        "duration_sec": 3.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bollywood actor India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 3.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8795387/pexels-photo-8795387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "man holding chest pain",
-        "credit": "Anastasia  Shuraeva",
-        "duration_sec": 3.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6129492/pexels-photo-6129492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "worried person hospital",
-        "credit": "RDNE Stock project",
-        "duration_sec": 3.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36842411/pexels-photo-36842411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "celebrity on stage india",
-        "credit": "Vineeth Unni",
-        "duration_sec": 3.8
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बिग बॉस में सलमान खान की तबीयत पर बड़ा अपडेट 😲 सच क्या है?",
-        "caption": "क्या बिग बॉस के मंच पर सलमान खान की तबीयत सचमुच बिगड़ गई? 🩺\n\nसोशल मीडिया पर वायरल दावों के बीच खुद सलमान खान ने देर रात सामने आकर इस पूरी सच्चाई का खुलासा कर दिया है। \n\nआखिर क्या था माजरा? पूरी कहानी देखें और कमेंट में अपनी राय बताएं।\n\n#SalmanKhan #BiggBoss #BollywoodNews #SalmanKhanHealth #EntertainmentNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या बिग बॉस के मंच पर सलमान खान की तबीयत सचमुच बिगड़ गई? 🤫\n\nदेर रात एक्टर ने खुद सामने आकर उन तमाम अफवाहों पर चुप्पी तोड़ी जो तेजी से फैल रही थीं। \n\nआपके हिसाब से ऐसी खबरों पर कितना भरोसा करना चाहिए? शेयर करें अपने दोस्तों के साथ।\n\n#SalmanKhan #BiggBoss #BollywoodNews #SalmanKhanHealth #EntertainmentNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या बिग बॉस के मंच पर सलमान खान की तबीयत सचमुच बिगड़ गई? 🚨\n\nबीते कुछ घंटों से सोशल मीडिया पर चल रही तमाम अटकलों के बीच, खुद सलमान खान ने देर रात अपनी सेहत को लेकर सच्चाई सबके सामने रख दी है।\n\nवीडियो में देखिए आखिर माजरा क्या था और एक्टर ने क्या कुछ कहा।\n\n#SalmanKhan #BiggBoss #BollywoodNews #SalmanKhanHealth #EntertainmentNews"
-      },
-      "hashtags": [
-        "SalmanKhan",
-        "BiggBoss",
-        "BollywoodNews",
-        "SalmanKhanHealth",
-        "EntertainmentNews"
-      ]
-    },
-    "audio_path": "audio/salman_khan_bigg_boss_health_scare.wav",
-    "audio_duration_sec": 15.89
-  },
-  {
-    "topic_label": "deepika_ranveer_second_baby_girl",
-    "virality_score": 9,
-    "reason": "Major celebrity baby announcement capturing widespread audience attention.",
-    "region": "india",
-    "headline": "दीपिका-रणवीर दूसरी बार बने माता-पिता, घर में आई नन्हीं परी",
-    "source_summary": "दीपिका पादुकोण और रणवीर सिंह दूसरी बार माता पिता बन गए हैं. 19 सितंबर 2026 को दीपिका ने बेटी को जन्म दिया. कपल ने सोशल मीडिया पर नवजात बच्ची के पैरों की तस्वीर साझा कर खुशखबरी दी. उनकी पहली बेटी दुआ अब बड़ी बहन बन गई हैं. दीपिका और रणवीर ने अप्रैल में दूसरी गर्भावस्था की जानकारी दी थी. बेटी के जन्म पर कई सितारों ने उन्हें बधाई दी.",
-    "source_url": "https://www.aajtak.in/short-videos/video/deepika-padukone-ranveer-singh-welcome-second-baby-girl-family-shares-good-news-fans-celebrate-bollywood-couple-mmta-2647468-2026-09-19?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-19T21:22:27+05:30",
-    "hook": "दीपिका और रणवीर के घर आई नन्हीं परी!",
-    "script_hi": "बॉलीवुड के पावर कपल दीपिका पादुकोण और रणवीर सिंह दूसरी बार माता पिता बन गए हैं. उन्नीस सितंबर दो हजार छब्बीस को दीपिका ने एक बेटी को जन्म दिया है. कपल ने सोशल मीडिया पर बेटी के जन्म की खुशखबरी साझा की. उनकी पहली बेटी दुआ अब बड़ी बहन बन गई है. फैंस और तमाम सितारे दोनों को ढेरों बधाइयां दे रहे हैं.",
-    "tts_text_hi": "बॉलीवुड के पावर कपल दीपिका पादुकोण और रणवीर सिंह दूसरी बार माता पिता बन गए हैं. उन्नीस सितंबर दो हजार छब्बीस को दीपिका ने एक बेटी को जन्म दिया है. कपल ने सोशल मीडिया पर बेटी के जन्म की खुशखबरी साझा की. उनकी पहली बेटी दुआ अब बड़ी बहन बन गई है. फैंस और तमाम सितारे दोनों को ढेरों बधाइयां दे रहे हैं.",
-    "title": "दीपिका-रणवीर दूसरी बार बने माता-पिता",
-    "caption": "दीपिका पादुकोण और रणवीर सिंह के घर आई नन्हीं परी, फैंस दे रहे हैं बधाइयां।",
-    "hashtags": [
-      "DeepikaPadukone",
-      "RanveerSingh",
-      "BollywoodNews",
-      "BabyGirl",
-      "EntertainmentNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Indian celebrity couple",
-      "celebrity baby announcement India",
-      "happy Indian family"
-    ],
-    "named_person": "Deepika Padukone",
-    "named_person_hi": "दीपिका पादुकोण",
-    "secondary_persons": [
-      "Ranveer Singh"
-    ],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "दीपिका पादुकोण",
+        "text": "दीपिका सेहरावत",
         "source": "fallback",
-        "query": "Deepika Padukone",
+        "query": "Deepika Sehrawat",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19609201/pexels-photo-19609201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian celebrity couple",
-        "credit": "Fotographiya Wedding Photography",
+        "url": "downloaded_assets/commons_4f6bcd8a69.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian women hockey team India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30127849/pexels-photo-30127849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "celebrity baby announcement India",
-        "credit": "Nandhu Kumar",
+        "url": "downloaded_assets/commons_bae5485c49.jpg",
+        "source": "wikimedia_commons",
+        "query": "hockey match stadium India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12985803/pexels-photo-12985803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "happy Indian family",
-        "credit": "Mornie  Jeremiah",
+        "url": "downloaded_assets/commons_1f969b9ab4.jpg",
+        "source": "wikimedia_commons",
+        "query": "women field hockey match",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       }
     ],
@@ -192,276 +70,85 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दीपिका-रणवीर के घर गूंजी किलकारी! 👶 दूसरी बार बने माता-पिता",
-        "caption": "दीपिका और रणवीर के घर आई नन्हीं परी! 🍼\n\nबॉलीवुड के पावर कपल दीपिका पादुकोण और रणवीर सिंह के घर एक बार फिर किलकारी गूंजी है। दोनों दूसरी बार माता-पिता बन गए हैं और फैंस में खुशी की लहर दौड़ गई है।\n\nपूरी कहानी देखें और वीडियो को लाइक करना न भूलें।\n\n#DeepikaPadukone #RanveerSingh #BollywoodNews #DeepikaRanveer #EntertainmentNews"
+        "title": "उज्बेकिस्तान पर भारतीय महिला हॉकी टीम का तांडव! 19 गोल से रौंदा",
+        "caption": "उज्बेकिस्तान के खिलाफ मैदान पर उतरीं भारतीय बेटियां, और फिर जो हुआ उसने इतिहास रच दिया! 🏑🔥\n\nभारतीय महिला हॉकी टीम ने उज्बेकिस्तान को 19-0 के विशाल अंतर से करारी शिकस्त दी है। इस ऐतिहासिक मुकाबले में अकेले दीपिका ने शानदार प्रदर्शन करते हुए 8 गोल दागे।\n\nपूरी कहानी वीडियो में देखें और कमेंट में टीम को बधाई दें!\n\n#IndianWomensHockey #DeepikaHockey #IndianHockeyTeam #SportsNews #HockeyIndia"
       },
       "instagram": {
         "title": null,
-        "caption": "दीपिका और रणवीर के घर आई नन्हीं परी! 💖\n\nबॉलीवुड के चहेते कपल दीपिका पादुकोण और रणवीर सिंह दूसरी बार पेरेंट्स बन गए हैं। सोशल मीडिया पर फैंस और सेलेब्स लगातार बधाइयां दे रहे हैं।\n\nआपको क्या लगता है बेटी का नाम क्या होगा? कमेंट में बताएं।\n\n#DeepikaPadukone #RanveerSingh #BollywoodNews #DeepikaRanveer #EntertainmentNews"
+        "caption": "उज्बेकिस्तान के खिलाफ मैदान पर जो हुआ, उसने इतिहास बदल दिया! 🏑🔥\n\nभारतीय महिला हॉकी टीम ने विरोधी टीम को 19-0 से रौंद डाला। अकेले दीपिका ने 8 गोल दागकर तहलका मचा दिया। \n\nशेयर करें अगर इस जीत ने आपको भी गर्व महसूस कराया!\n\n#IndianWomensHockey #DeepikaHockey #IndianHockeyTeam #SportsNews #HockeyIndia"
       },
       "facebook": {
         "title": null,
-        "caption": "दीपिका और रणवीर के घर आई नन्हीं परी! 👶✨\n\nबॉलीवुड के सबसे लोकप्रिय कपल दीपिका पादुकोण और रणवीर सिंह के घर एक बार फिर से खुशियों ने दस्तक दी है। दोनों दूसरी बार माता-पिता बन चुके हैं और उनके घर नन्हीं परी का आगमन हुआ है। सोशल मीडिया पर फैंस इस खुशखबरी के बाद से लगातार अपनी प्रतिक्रिया दे रहे हैं और कपल को ढेरों बधाइयां मिल रही हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#DeepikaPadukone #RanveerSingh #BollywoodNews #DeepikaRanveer #EntertainmentNews"
+        "caption": "उज्बेकिस्तान के खिलाफ भारतीय महिला हॉकी टीम का ऐसा प्रदर्शन, जिसे देखकर पूरी दुनिया हैरान रह गई। 🏑🇮🇳\n\nमैच में एकतरफा खेलते हुए भारत ने 19-0 से ऐतिहासिक जीत दर्ज की। फॉरवर्ड खिलाड़ी दीपिका ने अकेले 8 गोल दागकर मैदान पर तहलका मचा दिया। \n\nआपकी इस ऐतिहासिक जीत पर क्या राय है? कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#IndianWomensHockey #DeepikaHockey #IndianHockeyTeam #SportsNews #HockeyIndia"
       },
       "hashtags": [
-        "DeepikaPadukone",
-        "RanveerSingh",
-        "BollywoodNews",
-        "DeepikaRanveer",
-        "EntertainmentNews"
+        "IndianWomensHockey",
+        "DeepikaHockey",
+        "IndianHockeyTeam",
+        "SportsNews",
+        "HockeyIndia"
       ]
     },
-    "audio_path": "audio/deepika_ranveer_second_baby_girl.wav",
-    "audio_duration_sec": 22.72
+    "audio_path": "audio/indian_womens_hockey_team_asian_games_win.wav",
+    "audio_duration_sec": 17.91
   },
   {
-    "topic_label": "chandigarh_iphone_langar_cancelled",
+    "topic_label": "dusu_elections_abvp_win_three_seats",
     "virality_score": 8,
-    "reason": "Quirky and viral story about an iPhone langar cancelled due to stampede fear.",
+    "reason": "ABVP sweeps 3 out of 4 seats in Delhi University student elections, high youth relevance.",
     "region": "india",
-    "headline": "चंडीगढ़ में रोका गया &#039;iPhone लंगर&#039;: भगदड़ की आशंका, मेगा इवेंट रद्द",
-    "source_summary": "Chandigarh iPhone Langar Stopped: चंडीगढ़ में 22 सितंबर को प्रस्तावित 'iPhone लंगर' को प्रशासन ने भगदड़ की आशंका के चलते रोका. आयोजक राकेश त्रेहान को नहीं मिली अनुमति. पढ़ें पूरी खबर...",
-    "source_url": "https://www.aajtak.in/india/news/story/chandigarh-iphone-langar-stopped-rakesh-trehan-raja-d-king-stampede-risk-police-lcln-dskc-2647602-2026-09-20?utm_source=rssfeed",
+    "headline": "DUSU में ABVP का परचम! 3 पदों पर जमाया अपना कब्जा",
+    "source_summary": "दिल्ली विश्वविद्यालय छात्र संघ चुनाव 2026 के नतीजे घोषित हो गए हैं. अध्यक्ष पद पर एबीवीपी के यश डबास, सचिव पद पर रिया छाबड़ी और संयुक्त सचिव पद पर लक्ष्य राज सिंह विजयी रहे. उपाध्यक्ष पद निर्दलीय उम्मीदवार दीपांशु शौकीन ने जीता. इस तरह चार केंद्रीय पदों में एबीवीपी को तीन सीटें मिलीं, जबकि एक सीट निर्दलीय उम्मीदवार के खाते में गई. मतगणना कड़ी सुरक्षा के बीच संपन्न हुई.",
+    "source_url": "https://www.aajtak.in/short-videos/video/dusu-election-results-2026-yash-dabas-riya-chhabri-lakshya-raj-singh-deepanshu-shokeen-win-key-posts-mmta-2647296-2026-09-19?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-20T06:42:03+05:30",
-    "hook": "चंडीगढ़ में आईफोन का लंगर! मची भगदड़ की आशंका!",
-    "script_hi": "चंडीगढ़ में बाईस सितंबर को होने वाला चर्चित आईफोन लंगर प्रशासन ने रोक दिया है। भारी भीड़ और भगदड़ की आशंका के चलते आयोजक राकेश त्रेहान को इस मेगा इवेंट की अनुमति नहीं मिली।",
-    "tts_text_hi": "चंडीगढ़ में बाईस सितंबर को होने वाला चर्चित आईफोन लंगर प्रशासन ने रोक दिया है। भारी भीड़ और भगदड़ की आशंका के चलते आयोजक राकेश त्रेहान को इस मेगा इवेंट की अनुमति नहीं मिली।",
-    "title": "चंडीगढ़ में रोका गया आईफोन लंगर",
-    "caption": "चंडीगढ़ प्रशासन ने भगदड़ की आशंका के चलते आईफोन लंगर का मेगा इवेंट रद्द कर दिया है।",
+    "published": "2026-09-19T18:38:39+05:30",
+    "hook": "दिल्ली विश्वविद्यालय छात्र संघ चुनाव में एबीवीपी का जलवा!",
+    "script_hi": "दिल्ली विश्वविद्यालय छात्र संघ चुनाव दो हजार छब्बीस के नतीजे आ गए हैं। एबीवीपी ने चार में से तीन केंद्रीय पदों पर कब्जा जमा लिया है। अध्यक्ष पद पर यश डबास, सचिव पद पर रिया छाबड़ी और संयुक्त सचिव पद पर लक्ष्य राज सिंह जीते हैं। वहीं उपाध्यक्ष पद पर निर्दलीय उम्मीदवार दीपांशु शौकीन ने जीत हासिल की है। मतगणना कड़ी सुरक्षा के बीच पूरी हुई।",
+    "tts_text_hi": "दिल्ली विश्वविद्यालय छात्र संघ चुनाव दो हजार छब्बीस के नतीजे आ गए हैं। एबीवीपी ने चार में से तीन केंद्रीय पदों पर कब्जा जमा लिया है। अध्यक्ष पद पर यश डबास, सचिव पद पर रिया छाबड़ी और संयुक्त सचिव पद पर लक्ष्य राज सिंह जीते हैं। वहीं उपाध्यक्ष पद पर निर्दलीय उम्मीदवार दीपांशु शौकीन ने जीत हासिल की है। मतगणना कड़ी सुरक्षा के बीच पूरी हुई।",
+    "title": "DUSU Elections 2026: ABVP Wins 3 Seats",
+    "caption": "दिल्ली विश्वविद्यालय छात्र संघ चुनाव दो हजार छब्बीस में एबीवीपी ने तीन सीटों पर दर्ज की शानदार जीत।",
     "hashtags": [
-      "Chandigarh",
-      "iPhoneLangar",
-      "BreakingNews",
-      "IndiaNews",
-      "Trending"
+      "#DUSU",
+      "#ABVP",
+      "#DelhiUniversity",
+      "#StudentElections",
+      "#DU"
     ],
     "visual_queries": [
-      "Chandigarh city street India",
-      "crowded public event India",
-      "police barricade India"
+      "Delhi University campus India",
+      "student election victory India",
+      "vote counting security India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26.0,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19509996/pexels-photo-19509996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Chandigarh city street India",
-        "credit": "Ananya Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38953147/pexels-photo-38953147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded public event India",
-        "credit": "Prashant  Mevada",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802053/pexels-photo-17802053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowd gathering India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crowded Indian market street",
-        "credit": "Himanshu Singh",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28042397/pexels-photo-28042397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police stopping crowd India",
-        "credit": "Candid Baba",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4934060/pexels-photo-4934060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "event permission denied India",
-        "credit": "Tim Mossholder",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "चंडीगढ़ में iPhone का लंगर! मची भगदड़, रातों-रात रद्द हुआ मेगा इवेंट 📱",
-        "caption": "चंडीगढ़ में iPhone का लंगर! मची भगदड़ की आशंका! 🚨\n\nफ्री में आईफोन मिलने की खबर फैलते ही ऐसा जनसैलाब उमड़ा कि प्रशासन के हाथ-पांव फूल गए। हालात बिगड़ते देख आखिरकार मेगा इवेंट को बीच में ही रद्द करना पड़ा।\n\nक्या इस तरह के इवेंट्स पर पूरी रोक लगनी चाहिए? कमेंट में बताएं। पूरी कहानी देखें वीडियो में।\n\n#ChandigarhNews #iPhoneLangar #ViralNews #ChandigarhPolice #TrendingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "चंडीगढ़ में iPhone का लंगर! मची भगदड़ की आशंका! 📱🔥\n\nफ्री आईफोन की उम्मीद में जुटे हजारों लोग। भीड़ इतनी बेकाबू हुई कि प्रशासन को तुरंत मेगा इवेंट रद्द करना पड़ा।\n\nपूरी कहानी देखें और दोस्तों के साथ शेयर करें!\n\n#ChandigarhNews #iPhoneLangar #ViralNews #ChandigarhPolice #TrendingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "चंडीगढ़ में iPhone का लंगर! मची भगदड़ की आशंका! 📱\n\nफ्री में आईफोन बांटने का ऐलान क्या हुआ, चंद मिनटों में सड़कों पर जनसैलाब उमड़ पड़ा। भगदड़ जैसे हालात बनते देख पुलिस और प्रशासन को तुरंत दखल देना पड़ा और रातों-रात इस मेगा इवेंट को रद्द करना पड़ा।\n\nऐसी भीड़भाड़ वाली जगहों पर सुरक्षा को लेकर आपकी क्या राय है? कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#ChandigarhNews #iPhoneLangar #ViralNews #ChandigarhPolice #TrendingNews"
-      },
-      "hashtags": [
-        "ChandigarhNews",
-        "iPhoneLangar",
-        "ViralNews",
-        "ChandigarhPolice",
-        "TrendingNews"
-      ]
-    },
-    "audio_path": "audio/chandigarh_iphone_langar_cancelled.wav",
-    "audio_duration_sec": 13.65
-  },
-  {
-    "topic_label": "gurugram_thar_ramming_cab_viral",
-    "virality_score": 8,
-    "reason": "Shocking road rage video incident involving a Thar in Gurugram.",
-    "region": "india",
-    "headline": "गुरुग्राम में काली थार का तांडव! नशे में रौंद दी पूरी कैब!",
-    "source_summary": "गुरुग्राम के सेक्टर 89 में देर रात दिल्ली नंबर की महिंद्रा थार के चालक ने कथित तौर पर रैपिडो कैब को बार बार टक्कर मारकर दहशत फैला दी. विवाद के बाद दो युवक कैब में बैठे थे, तभी चालक ने गाड़ी पीछे कर तेज रफ्तार से हमला किया. टक्कर में कैब बुरी तरह क्षतिग्रस्त हो गई, लेकिन एयरबैग खुलने से तीन लोगों की जान बच गई. पुलिस ने मामला दर्ज किया है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/gurugram-sector-89-thar-driver-attacks-rapido-cab-after-dispute-police-investigation-viral-video-accused-absconding-mmta-2647373-2026-09-19?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-19T19:58:47+05:30",
-    "hook": "गुरुग्राम में नशे में धुत थार चालक का खौफनाक तांडव!",
-    "script_hi": "गुरुग्राम के सेक्टर निवासी उन्यासी में देर रात दिल्ली नंबर की महिंद्रा थार के चालक ने एक रैपिडो कैब को बार-बार टक्कर मारकर दहशत फैला दी। विवाद के बाद जब दो युवक कैब के अंदर बैठे थे, तब थार चालक ने तेजी से गाड़ी पीछे कर कैब पर हमला बोल दिया। इस भयानक टक्कर में कैब बुरी तरह क्षतिग्रस्त हो गई, गनीमत यह रही कि एयरबैग खुलने से तीन लोगों की जान बाल-बाल बच गई। पुलिस ने इस मामले में केस दर्ज कर लिया है और जांच जारी है।",
-    "tts_text_hi": "गुरुग्राम के सेक्टर उन्यासी में देर रात दिल्ली नंबर की महिंद्रा थार के चालक ने एक रैपिडो कैब को बार-बार टक्कर मारकर दहशत फैला दी। विवाद के बाद जब दो युवक कैब के अंदर बैठे थे, तब थार चालक ने तेजी से गाड़ी पीछे कर कैब पर हमला बोल दिया। इस भयानक टक्कर में कैब बुरी तरह क्षतिग्रस्त हो गई, गनीमत यह रही कि एयरबैग खुलने से तीन लोगों की जान बाल-बाल बच गई। पुलिस ने इस मामले में केस दर्ज कर लिया है और जांच जारी है।",
-    "title": "गुरुग्राम में काली थार का तांडव, नशे में कैब को रौंदा",
-    "caption": "गुरुग्राम के सेक्टर उन्यासी में नशे में धुत महिंद्रा थार चालक ने रैपिडो कैब को बार-बार टक्कर मारकर उड़ाने की कोशिश की। एयरबैग खुलने से बची लोगों की जान।",
-    "hashtags": [
-      "Gurugram",
-      "TharAccident",
-      "GurugramPolice",
-      "CrimeNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Mahindra Thar car India",
-      "damaged taxi cab India",
-      "Gurugram city street India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Specific incident involving a particular vehicle and local clash in Gurugram; generic stock footage will be used unless real incident video or photos are manually sourced.",
-    "assets": [
-      {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/18037050/18037050-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "student election victory India",
+        "credit": "Manoo Media",
+        "source_duration_sec": 30,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8975647/pexels-photo-8975647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mahindra Thar car India",
-        "credit": "Shantanu Goyal",
+        "url": "downloaded_assets/commons_767931fc34.jpg",
+        "source": "wikimedia_commons",
+        "query": "Delhi University campus India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18434842/pexels-photo-18434842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8846407/pexels-photo-8846407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "damaged taxi cab India",
-        "credit": "Harshit Solanki",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16154229/pexels-photo-16154229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Gurugram city street India",
-        "credit": "Lokesh Kumar",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "pakistan_minor_hindu_sisters_forced_conversion",
-    "virality_score": 8,
-    "reason": "Emotive and significant cross-border news regarding minority persecution.",
-    "region": "india",
-    "headline": "&#039;किडनैपिंग, धर्म परिवर्तन और बाल विवाह...&#039; दर्द सुनाते हुए PAK की अदालत में रो पड़ीं हिंदू बहनें",
-    "source_summary": "पाकिस्तान के सिंध प्रांत की 13 और 14 साल की दो नाबालिग हिंदू बहनों का अपहरण कर जबरन धर्म परिवर्तन और विवाह करवाने का मामला सामने आया है. कोर्ट में सुनवाई के दौरान बच्चियां भावुक हो गईं और घर वापस जाने की गुहार लगाई.",
-    "source_url": "https://www.aajtak.in/world/story/pakistan-minor-hindu-sisters-kidnapped-converted-and-forcefully-married-ntc-acwi-rptc-2647665-2026-09-20?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-20T07:21:22+05:30",
-    "hook": "पाकिस्तान की अदालत में रो पड़ीं दो नाबालिग हिंदू बहनें!",
-    "script_hi": "पाकिस्तान के सिंध प्रांत से दिल दहला देने वाला मामला सामने आया है। तेरह और चौदह साल की दो नाबालिग हिंदू बहनों का अपहरण कर जबरन धर्म परिवर्तन और निकाह कराया गया। अदालत में सुनवाई के दौरान दोनों बच्चियां फूट-फूटकर रो पड़ीं और अपने घर वापस जाने की गुहार लगाई।",
-    "tts_text_hi": "पाकिस्तान के सिंध प्रांत से दिल दहला देने वाला मामला सामने आया है। तेरह और चौदह साल की दो नाबालिग हिंदू बहनों का अपहरण कर जबरन धर्म परिवर्तन और निकाह कराया गया। अदालत में सुनवाई के दौरान दोनों बच्चियां फूट-फूटकर रो पड़ीं और अपने घर वापस जाने की गुहार लगाई।",
-    "title": "Pakistan: अदालत में रो पड़ीं हिंदू बहनें",
-    "caption": "पाकिस्तान के सिंध प्रांत में दो नाबालिग हिंदू बहनों के अपहरण, जबरन धर्म परिवर्तन और बाल विवाह का मामला सामने आया है। अदालत में सुनवाई के दौरान बच्चियां भावुक हो गईं।",
-    "hashtags": [
-      "Pakistan",
-      "HinduMinorities",
-      "Sindh",
-      "HumanRights",
-      "News"
-    ],
-    "visual_queries": [
-      "Pakistan court building",
-      "crying teenage girl",
-      "Sindh Pakistan street"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves minors in sensitive circumstances (abduction and forced marriage) and touches upon religious conversion/tension in a cross-border context, requiring careful editorial review.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35583675/15078314_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Pakistan court building",
-        "credit": "Umar Khan",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6003560/pexels-photo-6003560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crying teenage girl",
-        "credit": "RDNE Stock project",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28183727/pexels-photo-28183727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Sindh Pakistan street",
-        "credit": "Tahamie Farooqui",
+        "query": "vote counting security India",
+        "credit": "Mikhail Nilov",
         "duration_sec": 5
       }
     ],
@@ -470,126 +157,33 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "trump_announces_ai_force",
+    "topic_label": "varanasi_naxal_commander_encounters_30_lakh_bounty",
     "virality_score": 8,
-    "reason": "Global tech-political story on Donald Trump creating a dedicated AI Force.",
+    "reason": "High-stakes police encounter in Varanasi where a 30-lakh-bounty Naxal commander was killed.",
     "region": "india",
-    "headline": "चीन से AI मुकाबले के बीच ट्रंप का बड़ा ऐलान, बनेगी &#039;AI फोर्स&#039;",
-    "source_summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक नया आर्टिफिशियल इंटेलिजेंस सलाहकार या 'AI ज़ार' नियुक्त करने और एक 'AI फ़ोर्स' बनाने की योजना की घोषणा की है. उनका उद्देश्य AI इंडस्ट्री के विकास को बढ़ावा देना है.",
-    "source_url": "https://www.aajtak.in/world/story/donald-trump-announces-new-ai-czar-and-ai-force-to-boost-us-ai-industry-ntc-acwi-dskc-2647656-2026-09-20?utm_source=rssfeed",
+    "headline": "वाराणसी में 30 लाख का इनामी नक्सली कमांडर मुठभेड़ में ढेर",
+    "source_summary": "वाराणसी में हुए एनकाउंटर में झारखंड का रहने वाला नक्सली कमांडर बृजेश गंझू मारा गया. उस पर 30 लाख का इनाम था. रविवार की सुबह रामनगर के लंका मैदान में यूपी ATS और नक्सली कमांडर के बीच मुठभेड़ हुई. नक्सली कमांडर टेंगरा मोड़ से मुगलसराय की तरफ जा रहा था. इसी दौरान पुलिस ने रोकने की कोशिश की तो उसने फायरिंग शुरू कर दी. क्रॉस फायरिंग में उसे गोली लगी.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/varanasi-up-ats-encounter-30-lakh-bounty-naxal-commander-brijesh-ganjhu-killed-lcla-strc-2647739-2026-09-20?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-20T04:40:27+05:30",
-    "hook": "अमेरिका बनाने जा रहा है नई 'एआई फोर्स'!",
-    "script_hi": "चीन से आर्टिफिशियल इंटेलिजेंस मुकाबले के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बड़ा ऐलान किया है। ट्रंप देश में एक नया 'एआई ज़ार' नियुक्त करेंगे और साथ ही एक विशेष 'एआई फोर्स' बनाई जाएगी। इस योजना का मुख्य उद्देश्य आर्टिफिशियल इंटेलिजेंस इंडस्ट्री के विकास को तेजी से बढ़ावा देना है।",
-    "tts_text_hi": "चीन से आर्टिफिशियल इंटेलिजेंस मुकाबले के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बड़ा ऐलान किया है। ट्रंप देश में एक नया एआई ज़ार नियुक्त करेंगे और साथ ही एक विशेष एआई फोर्स बनाई जाएगी। इस योजना का मुख्य उद्देश्य आर्टिफिशियल इंटेलिजेंस इंडस्ट्री के विकास को तेजी से बढ़ावा देना है।",
-    "title": "ट्रंप का बड़ा ऐलान, अमेरिका में बनेगी 'AI फोर्स'",
-    "caption": "चीन से एआई मुकाबले के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 'AI फोर्स' बनाने का ऐलान किया है।",
+    "published": "2026-09-20T08:41:42+05:30",
+    "hook": "वाराणसी में यूपी एटीएस के साथ मुठभेड़ में मारा गया तीस लाख का इनामी नक्सली कमांडर!",
+    "script_hi": "वाराणसी के रामनगर इलाके में यूपी एटीएस और झारखंड के कुख्यात नक्सली कमांडर बृजेश गंझू के बीच जबरदस्त मुठभेड़ हुई। रविवार की सुबह लंका मैदान के पास पुलिस ने जब उसे रोकने की कोशिश की, तो उसने फायरिंग शुरू कर दी। जवाबी कार्रवाई में तीस लाख रुपये का इनामी नक्सली ढेर हो गया। पुलिस के मुताबिक वह टेंगरा मोड़ से मुगलसराय की तरफ जा रहा था।",
+    "tts_text_hi": "वाराणसी के रामनगर इलाके में यूपी एटीएस और झारखंड के कुख्यात नक्सली कमांडर बृजेश गंझू के बीच जबरदस्त मुठभेड़ हुई। रविवार की सुबह लंका मैदान के पास पुलिस ने जब उसे रोकने की कोशिश की, तो उसने फायरिंग शुरू कर दी। जवाबी कार्रवाई में तीस लाख रुपये का इनामी नक्सली ढेर हो गया। पुलिस के मुताबिक वह टेंगरा मोड़ से मुगलसराय की तरफ जा रहा था।",
+    "title": "वाराणसी में मुठभेड़: तीस लाख का इनामी नक्सली कमांडर ढेर",
+    "caption": "वाराणसी में यूपी एटीएस और नक्सलियों के बीच हुई मुठभेड़ में तीस लाख का इनामी नक्सली कमांडर बृजेश गंझू ढेर हो गया।",
     "hashtags": [
-      "DonaldTrump",
-      "ArtificialIntelligence",
-      "AI",
-      "USA",
-      "China",
-      "TechNews",
-      "NewsUpdate"
+      "VaranasiEncounter",
+      "UPPolice",
+      "ATS",
+      "Naxalite",
+      "VaranasiNews",
+      "BreakingNews",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "US Capitol building Washington DC",
-      "Artificial Intelligence technology India",
-      "futuristic technology digital screen India"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
-        "source": "fallback",
-        "query": "Donald Trump",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "US Capitol building Washington DC",
-        "credit": "Jackie Friedlander",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8386437/pexels-photo-8386437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Artificial Intelligence technology India",
-        "credit": "Tara Winstead",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9784236/pexels-photo-9784236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic technology digital screen India",
-        "credit": "Ron Lach",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "चीन से मुकाबले के लिए अमेरिका बनाएगा 'AI फोर्स'! ट्रंप का बड़ा ऐलान 🚨",
-        "caption": "चीन को मात देने के लिए अमेरिका बनाने जा रहा है नई 'AI फोर्स'! 🤖\n\nडोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस की दुनिया में बड़ा कदम उठाते हुए एक खास फोर्स के गठन का ऐलान किया है। दुनिया की इस नई जंग में तकनीक ही सबसे बड़ा हथियार बनने जा रही है।\n\nक्या अमेरिका का यह दांव चीन पर भारी पड़ेगा? पूरी कहानी देखें और अपनी राय कमेंट करें!\n\n#AIForce #DonaldTrump #ChinaUS #ArtificialIntelligence #TechNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "चीन को पछाड़ने के लिए अमेरिका उठाने जा रहा है सबसे बड़ा कदम! 🚨\n\nट्रंप ने ऐलान किया है कि देश में अब एक समर्पित 'AI फोर्स' तैयार की जाएगी। तकनीक की दुनिया में इस नए कदम के क्या मायने हैं?\n\nशेयर करें इस वीडियो को और बताएं, भविष्य की जंग तकनीक लड़ेगी या इंसान?\n\n#AIForce #DonaldTrump #ChinaUS #ArtificialIntelligence #TechNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ड्रैगन से मुकाबले के लिए अमेरिका अब मैदान में उतारने जा रहा है अपनी 'AI फोर्स'! 🤖\n\nडोनाल्ड ट्रंप के इस बड़े ऐलान ने टेक वर्ल्ड में खलबली मचा दी है। अमेरिका अब आर्टिफिशियल इंटेलिजेंस को अपनी सबसे बड़ी ताकत बनाने की तैयारी में है।\n\nक्या आने वाले समय में तकनीक ही तय करेगी देशों की तकदीर? पूरी कहानी वीडियो में देखें।\n\n#AIForce #DonaldTrump #ChinaUS #ArtificialIntelligence #TechNews"
-      },
-      "hashtags": [
-        "AIForce",
-        "DonaldTrump",
-        "ChinaUS",
-        "ArtificialIntelligence",
-        "TechNews"
-      ]
-    },
-    "audio_path": "audio/trump_announces_ai_force.wav",
-    "audio_duration_sec": 21.3
-  },
-  {
-    "topic_label": "dusu_elections_abvp_win_independent_vp",
-    "virality_score": 7,
-    "reason": "High-profile student union election results with strong political narrative.",
-    "region": "india",
-    "headline": "DUSU में इस विभाग का दबदबा, यश से दीपांशु... सब यहीं के छात्र",
-    "source_summary": "दिल्ली विश्वविद्यालय छात्रसंघ (DUSU) चुनाव में केंद्रीय पैनल के 10 उम्मीदवारों में से 7 बौद्ध अध्ययन विभाग से थे. इस विभाग के ABVP उम्मीदवार यश डबास ने अध्यक्ष पद जीता, जबकि स्वतंत्र उम्मीदवार दीपांशु शोकीन उपाध्यक्ष बने.",
-    "source_url": "https://www.aajtak.in/india/news/story/dusu-results-yash-dabas-dipanshu-shokeen-why-student-leaders-choose-du-buddhist-studies-course-ntc-apdy-dskc-2647670-2026-09-20?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-20T07:12:30+05:30",
-    "hook": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव में किस विभाग का रहा दबदबा",
-    "script_hi": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव में केंद्रीय पैनल के दस उम्मीदवारों में से सात बौद्ध अध्ययन विभाग से थे। इस विभाग के एबीवीपी उम्मीदवार यश डबास ने अध्यक्ष पद जीता, जबकि स्वतंत्र उम्मीदवार दीपांशु शोकीन उपाध्यक्ष बने।",
-    "tts_text_hi": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव में केंद्रीय पैनल के दस उम्मीदवारों में से सात बौद्ध अध्ययन विभाग से थे। इस विभाग के एबीवीपी उम्मीदवार यश डबास ने अध्यक्ष पद जीता, जबकि स्वतंत्र उम्मीदवार दीपांशु शोकीन उपाध्यक्ष बने।",
-    "title": "DUSU Elections: बौद्ध अध्ययन विभाग का दबदबा",
-    "caption": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव में बौद्ध अध्ययन विभाग के छात्रों का जलवा, अध्यक्ष और उपाध्यक्ष पद पर कब्जा।",
-    "hashtags": [
-      "DUSU",
-      "DelhiUniversity",
-      "DUSUElections",
-      "ABVP",
-      "DelhiNews"
-    ],
-    "visual_queries": [
-      "Delhi University campus India",
-      "Indian college students protest",
-      "student election celebration India"
+      "Indian police station building India",
+      "police tactical team India",
+      "police operation street India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -599,88 +193,198 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35446427/15017559_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Delhi University campus crowd",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 12,
-        "duration_sec": 6
+        "type": "image",
+        "url": "downloaded_assets/commons_855caf99d3.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian police station building India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/28932304/pexels-photo-28932304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi University campus India",
-        "credit": "Rishabh Dhiman",
-        "duration_sec": 4.0
+        "url": "downloaded_assets/commons_4ff6ddd5f1.jpg",
+        "source": "wikimedia_commons",
+        "query": "police tactical team India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11033440/pexels-photo-11033440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian college students protest",
-        "credit": "Satyam Pixels",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18142332/pexels-photo-18142332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian university lecture hall",
-        "credit": "Sonu  :",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street protest India",
-        "credit": "Rahul Sapra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39006534/pexels-photo-39006534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "college students crowd India",
-        "credit": "Arto Suraj",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33070317/pexels-photo-33070317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian campus building exterior",
-        "credit": "Ananya Mandial",
-        "duration_sec": 4.0
+        "query": "police operation street India",
+        "credit": "Nishant Sharma",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "mumbai_bmw_bridge_accident_deaths",
+    "virality_score": 8,
+    "reason": "Shocking accident in Mumbai where a speeding BMW fell off a bridge, causing three deaths.",
+    "region": "india",
+    "headline": "मुंबई में ब्रिज से नीचे गिरी BMW कार, हादसे में 3 लोगों की दर्दनाक मौत",
+    "source_summary": "मुंबई में एक BMW कार ब्रिज से नीचे गिर गई थी. हादसे में कार सवार चार लोगों में से तीन की मौके पर ही मौत हो गई है, जबकि एक व्यक्ति को इलाज के लिए अस्पताल में भर्ती कराया गया है.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/mumbai-bmw-accident-coastal-road-hit-and-run-case-ntc-apdy-rpti-2647765-2026-09-20?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-20T09:21:35+05:30",
+    "hook": "मुंबई में दिल दहला देने वाला हादसा!",
+    "script_hi": "मुंबई में एक तेज रफ्तार बीएमडब्ल्यू कार ब्रिज से नीचे गिर गई. इस भयानक हादसे में कार में सवार तीन लोगों की मौके पर ही दर्दनाक मौत हो गई, जबकि एक गंभीर रूप से घायल व्यक्ति को अस्पताल में भर्ती कराया गया है.",
+    "tts_text_hi": "मुंबई में एक तेज रफ्तार बीएमडब्ल्यू कार ब्रिज से नीचे गिर गई. इस भयानक हादसे में कार में सवार तीन लोगों की मौके पर ही दर्दनाक मौत हो गई, जबकि एक गंभीर रूप से घायल व्यक्ति को अस्पताल में भर्ती कराया गया है.",
+    "title": "मुंबई में ब्रिज से गिरी BMW, तीन की मौत",
+    "caption": "मुंबई में दर्दनाक सड़क हादसा, ब्रिज से नीचे गिरी बीएमडब्ल्यू कार, तीन लोगों की मौत.",
+    "hashtags": [
+      "MumbaiAccident",
+      "BMW",
+      "MumbaiNews",
+      "BreakingNews",
+      "CarAccident",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Mumbai city street India",
+      "damaged car accident India",
+      "hospital emergency ward India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_3dfa2685c3.jpg",
+        "source": "wikimedia_commons",
+        "query": "Mumbai city street India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_47e7e16b39.jpg",
+        "source": "wikimedia_commons",
+        "query": "damaged car accident India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_10598cc490.jpg",
+        "source": "wikimedia_commons",
+        "query": "hospital emergency ward India",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "amritsar_influencer_iphone_langar",
+    "virality_score": 7,
+    "reason": "Unique viral story from Punjab where an influencer is organizing a 'langar' to distribute 1,000 iPhones.",
+    "region": "india",
+    "headline": "लगेगा लेटेस्ट iPhone का लंगर, बांटे जाएंगे 1000 फोन, जानें कब, कहां",
+    "source_summary": "पंजाब में iPhone का लंगर लगाए जाने की खबर आ रही है। यह लंगर अमृतसर के जाने-माने बिजनेसमैन और सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन लगाएंगे। इससे पहले वे पेट्रोल लंगर लगा चुके हैं। इस लंगर में पंजाब में 1000 लेटेस्ट iPhone बांटे जाने की बात की जा रही है।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/free-iphone-langar-punjab-chandigarh-giveaway-1000-latest-models-rules-eligibility-process/articleshow/134363300.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 20 Sep 2026 09:34:00 +0530",
+    "hook": "पंजाब में लगेगा आईफोन का लंगर!",
+    "script_hi": "पंजाब के अमृतसर में एक अनोखा लंगर लगने जा रहा है जहाँ लोगों को मुफ्त में एक हजार लेटेस्ट आईफोन बांटे जाएंगे। यह लंगर जाने-माने बिजनेसमैन और सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन लगा रहे हैं। इससे पहले वे पेट्रोल का लंगर भी लगा चुके हैं।",
+    "tts_text_hi": "पंजाब के अमृतसर में एक अनोखा लंगर लगने जा रहा है जहाँ लोगों को मुफ्त में एक हज़ार लेटेस्ट आईफोन बांटे जाएंगे। यह लंगर जाने-माने बिजनेसमैन और सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन लगा रहे हैं। इससे पहले वे पेट्रोल का लंगर भी लगा चुके हैं।",
+    "title": "पंजाब में लगेगा आईफोन का लंगर, बांटे जाएंगे एक हज़ार फोन",
+    "caption": "पंजाब के अमृतसर में लगने जा रहा है आईफोन का लंगर। सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन बांटेंगे एक हज़ार लेटेस्ट आईफोन। जानिए पूरी खबर।",
+    "hashtags": [
+      "PunjabNews",
+      "Amritsar",
+      "iPhoneLangar",
+      "ViralNews",
+      "Trending"
+    ],
+    "visual_queries": [
+      "Indian city street Amritsar",
+      "latest smartphone India",
+      "Indian businessman portrait",
+      "crowd market India"
+    ],
+    "named_person": "Rakesh Trehan",
+    "named_person_hi": "राकेश त्रेहन",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "राकेश त्रेहन",
+        "source": "fallback",
+        "query": "Rakesh Trehan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36535328/pexels-photo-36535328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city street Amritsar",
+        "credit": "Amanjot  Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7787287/pexels-photo-7787287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "latest smartphone India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_0b12fe9248.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian businessman portrait",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38179334/pexels-photo-38179334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crowd market India",
+        "credit": "Er.lalatendu.clicks",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "DUSU चुनाव में किस विभाग का रहा दबदबा? चौंक जाएंगे नाम जानकर 🤯",
-        "caption": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव में इस बार एक ही विभाग का ऐसा जलवा दिखा कि सब हैरान हैं।\n\nयश से लेकर दीपांशु तक, ज्यादातर बड़े चेहरे इसी खास विभाग से ताल्लुक रखते हैं। आखिर क्या है इस विभाग की सफलता का राज जो हर कोई जानना चाहता है?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DUSUElections #DelhiUniversity #DUSUPolitics #DUNews #StudentPolitics"
+        "title": "पंजाब में लगेगा आईफोन का लंगर, बांटे जाएंगे एक हज़ार फोन",
+        "caption": "पंजाब के अमृतसर में लगने जा रहा है आईफोन का लंगर। सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन बांटेंगे एक हज़ार लेटेस्ट आईफोन। जानिए पूरी खबर।\n\n#PunjabNews #Amritsar #iPhoneLangar #ViralNews #Trending"
       },
       "instagram": {
         "title": null,
-        "caption": "दिल्ली यूनिवर्सिटी चुनाव में सिर्फ एक ही विभाग का दबदबा क्यों है? यश और दीपांशु जैसे नाम यहीं से क्यों निकलते हैं 🤯\n\nडीयू चुनाव के इस अंदरूनी सच को जानकर आप भी चौंक जाएंगे। पूरी कहानी वीडियो में देखें।\n\nकिस विभाग की बात हो रही है, क्या आपको पता है?\n\n#DUSUElections #DelhiUniversity #DUSUPolitics #DUNews #StudentPolitics"
+        "caption": "पंजाब के अमृतसर में लगने जा रहा है आईफोन का लंगर। सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन बांटेंगे एक हज़ार लेटेस्ट आईफोन। जानिए पूरी खबर।\n\n#PunjabNews #Amritsar #iPhoneLangar #ViralNews #Trending"
       },
       "facebook": {
         "title": null,
-        "caption": "दिल्ली विश्वविद्यालय छात्रसंघ चुनाव के नतीजों ने सबको चौंका दिया है। इस बार चुनाव में किसी एक पार्टी का नहीं बल्कि एक खास विभाग का ऐसा दबदबा देखने को मिला है जिसकी चर्चा हर तरफ हो रही है।\n\nयश से लेकर दीपांशु तक, मैदान में उतरे कई दमदार छात्र इसी विभाग से आते हैं। आखिर क्यों यह विभाग डीयू की राजनीति का केंद्र बनता जा रहा है?\n\nपूरी खबर विस्तार से जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#DUSUElections #DelhiUniversity #DUSUPolitics #DUNews #StudentPolitics"
+        "caption": "पंजाब के अमृतसर में लगने जा रहा है आईफोन का लंगर। सोशल मीडिया इन्फ्लुएंसर राकेश त्रेहन बांटेंगे एक हज़ार लेटेस्ट आईफोन। जानिए पूरी खबर।\n\n#PunjabNews #Amritsar #iPhoneLangar #ViralNews #Trending"
       },
       "hashtags": [
-        "DUSUElections",
-        "DelhiUniversity",
-        "DUSUPolitics",
-        "DUNews",
-        "StudentPolitics"
+        "PunjabNews",
+        "Amritsar",
+        "iPhoneLangar",
+        "ViralNews",
+        "Trending"
       ]
     },
-    "audio_path": "audio/dusu_elections_abvp_win_independent_vp.wav",
-    "audio_duration_sec": 17.29
+    "audio_path": "audio/amritsar_influencer_iphone_langar.wav",
+    "audio_duration_sec": 18.62
   }
 ]
