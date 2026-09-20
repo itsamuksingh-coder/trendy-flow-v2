@@ -1,9 +1,7 @@
-ready_labels: ['amritsar_asi_harjit_singh_killer_encounter', 'india_bangladesh_womens_cricket_semi_final', 'lpg_subsidy_biometric_aadhaar_mandatory_october', 'nithari_case_surendra_koli_mysterious_death', 'upi_mdr_charges_15_october_new_rules', 'varanasi_naxal_commander_brijesh_ganjhu_encounter']
+ready_labels: ['india_women_cricket_crushes_bangladesh_asia_cup_final', 'ukraine_massive_drone_attack_moscow_oil_refinery']
 
-mumbai_coastal_road_bmw_car_accident: SKIPPED (not in ready set)
-upi_mdr_charges_15_october_new_rules: SUCCESS -> video_path=videos/upi_mdr_charges_15_october_new_rules.mp4 dur=36.142222
-india_bangladesh_womens_cricket_semi_final: SUCCESS -> video_path=videos/india_bangladesh_womens_cricket_semi_final.mp4 dur=34.888231
-amritsar_asi_harjit_singh_killer_encounter: SUCCESS -> video_path=videos/amritsar_asi_harjit_singh_killer_encounter.mp4 dur=24.579229
-nithari_case_surendra_koli_mysterious_death: SUCCESS -> video_path=videos/nithari_case_surendra_koli_mysterious_death.mp4 dur=35.256553
-varanasi_naxal_commander_brijesh_ganjhu_encounter: SUCCESS -> video_path=videos/varanasi_naxal_commander_brijesh_ganjhu_encounter.mp4 dur=35.92322
-lpg_subsidy_biometric_aadhaar_mandatory_october: SUCCESS -> video_path=videos/lpg_subsidy_biometric_aadhaar_mandatory_october.mp4 dur=25.670227
+mumbai_bmw_bridge_accident_deaths: SKIPPED (not in ready set)
+ukraine_massive_drone_attack_moscow_oil_refinery: SUCCESS -> video_path=videos/ukraine_massive_drone_attack_moscow_oil_refinery.mp4 dur=30.889887
+india_women_cricket_crushes_bangladesh_asia_cup_final: SUCCESS -> video_path=videos/india_women_cricket_crushes_bangladesh_asia_cup_final.mp4 dur=38.255215
+disha_salian_father_aditya_thackeray_500cr_notice: SKIPPED (not in ready set)
+mumbai_lalbaug_ganpati_pandal_electrocution_deaths: SKIPPED (not in ready set)
