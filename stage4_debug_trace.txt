@@ -1,9 +1,9 @@
-ready_labels: ['amritsar_asi_murder_key_accused_encounter', 'dusu_elections_abvp_win_3_seats', 'munger_woman_missing_7_years_found_with_lover', 'nato_welcomes_greenland_deal_trump_security', 'trump_ai_force_announcement']
+ready_labels: ['chandigarh_iphone_langar_cancelled', 'deepika_ranveer_second_baby_girl', 'dusu_elections_abvp_win_independent_vp', 'salman_khan_bigg_boss_health_scare', 'trump_announces_ai_force']
 
-dusu_elections_abvp_win_3_seats: SUCCESS -> video_path=videos/dusu_elections_abvp_win_3_seats.mp4 dur=25.789887
-trump_ai_force_announcement: SUCCESS -> video_path=videos/trump_ai_force_announcement.mp4 dur=25.389887
-lpg_cylinder_biometric_aadhaar_auth_october: SKIPPED (not in ready set)
-amritsar_asi_murder_key_accused_encounter: SUCCESS -> video_path=videos/amritsar_asi_murder_key_accused_encounter.mp4 dur=24.456553
-gurugram_thar_cab_ramming_viral: SKIPPED (not in ready set)
-munger_woman_missing_7_years_found_with_lover: SUCCESS -> video_path=videos/munger_woman_missing_7_years_found_with_lover.mp4 dur=23.952222
-nato_welcomes_greenland_deal_trump_security: SUCCESS -> video_path=videos/nato_welcomes_greenland_deal_trump_security.mp4 dur=22.88322
+salman_khan_bigg_boss_health_scare: SUCCESS -> video_path=videos/salman_khan_bigg_boss_health_scare.mp4 dur=23.82322
+deepika_ranveer_second_baby_girl: SUCCESS -> video_path=videos/deepika_ranveer_second_baby_girl.mp4 dur=30.72322
+chandigarh_iphone_langar_cancelled: SUCCESS -> video_path=videos/chandigarh_iphone_langar_cancelled.mp4 dur=21.699229
+gurugram_thar_ramming_cab_viral: SKIPPED (not in ready set)
+pakistan_minor_hindu_sisters_forced_conversion: SKIPPED (not in ready set)
+trump_announces_ai_force: SUCCESS -> video_path=videos/trump_announces_ai_force.mp4 dur=29.32322
+dusu_elections_abvp_win_independent_vp: SUCCESS -> video_path=videos/dusu_elections_abvp_win_independent_vp.mp4 dur=25.345215
