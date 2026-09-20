@@ -1,10 +1,9 @@
-ready_labels: ['deepika_padukone_ranveer_singh_second_baby_girl', 'epfo_wage_limit_increased_to_25000', 'gurugram_black_thar_cab_ramming_terror', 'openai_chatgpt_account_hacked_anthropic_ai', 'pakistan_kohat_mosque_suicide_bombing_global', 'salman_khan_bigg_boss_angry_paparazzi_remark']
+ready_labels: ['amritsar_asi_murder_key_accused_encounter', 'dusu_elections_abvp_win_3_seats', 'munger_woman_missing_7_years_found_with_lover', 'nato_welcomes_greenland_deal_trump_security', 'trump_ai_force_announcement']
 
-deepika_padukone_ranveer_singh_second_baby_girl: SUCCESS -> video_path=videos/deepika_padukone_ranveer_singh_second_baby_girl.mp4 dur=26.970227
-salman_khan_bigg_boss_angry_paparazzi_remark: SUCCESS -> video_path=videos/salman_khan_bigg_boss_angry_paparazzi_remark.mp4 dur=22.37322
-openai_chatgpt_account_hacked_anthropic_ai: SUCCESS -> video_path=videos/openai_chatgpt_account_hacked_anthropic_ai.mp4 dur=24.788231
-gurugram_black_thar_cab_ramming_terror: SUCCESS -> video_path=videos/gurugram_black_thar_cab_ramming_terror.mp4 dur=37.930227
-dusu_election_results_abvp_sweep: SKIPPED (not in ready set)
-pakistan_kohat_mosque_suicide_bombing_global: SUCCESS -> video_path=videos/pakistan_kohat_mosque_suicide_bombing_global.mp4 dur=31.405215
-lpg_cylinder_booking_biometric_mandatory_oct_1: SKIPPED (not in ready set)
-epfo_wage_limit_increased_to_25000: SUCCESS -> video_path=videos/epfo_wage_limit_increased_to_25000.mp4 dur=38.156553
+dusu_elections_abvp_win_3_seats: SUCCESS -> video_path=videos/dusu_elections_abvp_win_3_seats.mp4 dur=25.789887
+trump_ai_force_announcement: SUCCESS -> video_path=videos/trump_ai_force_announcement.mp4 dur=25.389887
+lpg_cylinder_biometric_aadhaar_auth_october: SKIPPED (not in ready set)
+amritsar_asi_murder_key_accused_encounter: SUCCESS -> video_path=videos/amritsar_asi_murder_key_accused_encounter.mp4 dur=24.456553
+gurugram_thar_cab_ramming_viral: SKIPPED (not in ready set)
+munger_woman_missing_7_years_found_with_lover: SUCCESS -> video_path=videos/munger_woman_missing_7_years_found_with_lover.mp4 dur=23.952222
+nato_welcomes_greenland_deal_trump_security: SUCCESS -> video_path=videos/nato_welcomes_greenland_deal_trump_security.mp4 dur=22.88322
