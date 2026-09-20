@@ -1,9 +1,7 @@
-ready_labels: ['chandigarh_iphone_langar_cancelled', 'deepika_ranveer_second_baby_girl', 'dusu_elections_abvp_win_independent_vp', 'salman_khan_bigg_boss_health_scare', 'trump_announces_ai_force']
+ready_labels: ['amritsar_influencer_iphone_langar', 'indian_womens_hockey_team_asian_games_win']
 
-salman_khan_bigg_boss_health_scare: SUCCESS -> video_path=videos/salman_khan_bigg_boss_health_scare.mp4 dur=23.82322
-deepika_ranveer_second_baby_girl: SUCCESS -> video_path=videos/deepika_ranveer_second_baby_girl.mp4 dur=30.72322
-chandigarh_iphone_langar_cancelled: SUCCESS -> video_path=videos/chandigarh_iphone_langar_cancelled.mp4 dur=21.699229
-gurugram_thar_ramming_cab_viral: SKIPPED (not in ready set)
-pakistan_minor_hindu_sisters_forced_conversion: SKIPPED (not in ready set)
-trump_announces_ai_force: SUCCESS -> video_path=videos/trump_announces_ai_force.mp4 dur=29.32322
-dusu_elections_abvp_win_independent_vp: SUCCESS -> video_path=videos/dusu_elections_abvp_win_independent_vp.mp4 dur=25.345215
+indian_womens_hockey_team_asian_games_win: SUCCESS -> video_path=videos/indian_womens_hockey_team_asian_games_win.mp4 dur=25.972222
+dusu_elections_abvp_win_three_seats: SKIPPED (not in ready set)
+varanasi_naxal_commander_encounters_30_lakh_bounty: SKIPPED (not in ready set)
+mumbai_bmw_bridge_accident_deaths: SKIPPED (not in ready set)
+amritsar_influencer_iphone_langar: SUCCESS -> video_path=videos/amritsar_influencer_iphone_langar.mp4 dur=26.62322
