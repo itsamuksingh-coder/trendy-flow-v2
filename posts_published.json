@@ -1,46 +1,46 @@
 [
   {
-    "topic_label": "mumbai_bmw_bridge_accident_deaths",
+    "topic_label": "mumbai_coastal_road_bmw_crash",
     "virality_score": 9,
-    "reason": "Horrific CCTV footage captures a speeding BMW plunging off a Mumbai bridge, killing three.",
+    "reason": "Shocking CCTV footage of a speeding BMW plunging off a Mumbai bridge makes this highly visual and viral.",
     "region": "india",
     "headline": "On Camera, Speeding BMW Falls Off Mumbai Coast Road Bridge, 3 Dead",
     "source_summary": "The car, a black BMW, was travelling from Marine Drive towards Haji Ali on the Coastal Road when the driver allegedly lost control.",
     "source_url": "https://www.ndtv.com/mumbai-news/3-dead-as-speeding-bmw-crashes-on-mumbai-coastal-road-falls-off-bridge-12071139#publisher=newsstand",
     "source_name": "NDTV English - Top Stories",
     "published": "Sun, 20 Sep 2026 13:42:07 +0530",
-    "hook": "मुंबई में रफ्तार का कहर! तेज रफ्तार बीएमडब्ल्यू कोस्टल रोड ब्रिज से नीचे गिरी!",
-    "script_hi": "मुंबई के कोस्टल रोड ब्रिज पर एक भीषण हादसा हुआ, जहाँ तेज रफ्तार बीएमडब्ल्यू मरीन ड्राइव से हाजी अली की तरफ जा रही थी। ड्राइवर के नियंत्रण खोने से कार पुल से नीचे जा गिरी। इस दर्दनाक हादसे में तीन लोगों की मौत हो गई।",
-    "tts_text_hi": "मुंबई के कोस्टल रोड ब्रिज पर एक भीषण हादसा हुआ, जहाँ तेज रफ्तार बीएमडब्ल्यू मरीन ड्राइव से हाजी अली की तरफ जा रही थी। ड्राइवर के नियंत्रण खोने से कार पुल से नीचे जा गिरी। इस दर्दनाक हादसे में तीन लोगों की मौत हो गई।",
-    "title": "मुंबई कोस्टल रोड पर भीषण हादसा, बीएमडब्ल्यू ब्रिज से गिरी",
-    "caption": "मुंबई के कोस्टल रोड ब्रिज पर तेज रफ्तार बीएमडब्ल्यू कार पुल से नीचे जा गिरी, जिससे तीन लोगों की मौत हो गई।",
+    "hook": "मुंबई कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू कार पुल से नीचे जा गिरी!",
+    "script_hi": "मुंबई कोस्टल रोड पर एक तेज रफ्तार बीएमडब्लू कार अनियंत्रित होकर पुल से नीचे जा गिरी। इस भयानक हादसे में तीन लोगों की मौत हो गई। मरीन ड्राइव से हाजी अली की तरफ जा रही इस काले रंग की कार का वीडियो कैमरे में कैद हो गया।",
+    "tts_text_hi": "मुंबई कोस्टल रोड पर एक तेज रफ्तार बीएमडब्लू कार अनियंत्रित होकर पुल से नीचे जा गिरी। इस भयानक हादसे में तीन लोगों की मौत हो गई। मरीन ड्राइव से हाजी अली की तरफ जा रही इस काले रंग की कार का वीडियो कैमरे में कैद हो गया।",
+    "title": "Mumbai Coastal Road BMW Accident",
+    "caption": "मुंबई कोस्टल रोड पर दर्दनाक हादसा, तेज रफ्तार बीएमडब्ल्यू पुल से गिरी, तीन की मौत।",
     "hashtags": [
       "MumbaiNews",
-      "BMWAccident",
-      "MumbaiCoastalRoad",
-      "CarAccident",
+      "MumbaiAccident",
+      "CoastalRoad",
+      "BMW",
       "BreakingNews",
       "MumbaiPolice"
     ],
     "visual_queries": [
       "Mumbai coastal road bridge India",
-      "luxury car speeding India",
-      "Mumbai accident police investigation India"
+      "black luxury car driving India",
+      "police investigation accident India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The headline mentions the incident was caught on camera, and specific real-time footage of this exact accident is likely expected by viewers, which generic stock B-roll cannot replace.",
+    "flag_reason": "The story centers on a specific viral CCTV/dashcam video of a car falling off a bridge ('On Camera, Speeding BMW Falls Off...'), which requires the real footage rather than generic stock B-roll.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/34446072/14595543_720_1280_60fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Mumbai accident police investigation India",
-        "credit": "RAJU THAPA",
-        "source_duration_sec": 85,
+        "query": "police investigation accident India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
@@ -53,10 +53,10 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/20435115/pexels-photo-20435115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35493249/pexels-photo-35493249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "luxury car speeding India",
-        "credit": "Mohit Hambiria",
+        "query": "black luxury car driving India",
+        "credit": "Akshay Shende",
         "duration_sec": 5
       }
     ],
@@ -65,290 +65,104 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "ukraine_massive_drone_attack_moscow_oil_refinery",
+    "topic_label": "mumbai_coastal_road_bmw_bridge_accident",
     "virality_score": 8,
-    "reason": "Ukraine launches an unprecedented massive drone attack on Moscow, striking an oil refinery.",
+    "reason": "Another angle or report on the dramatic Mumbai BMW bridge crash with strong visual appeal.",
     "region": "india",
-    "headline": "मॉस्को पर बड़ा अटैक... यूक्रेन ने दागे 1000 से अधिक ड्रोन, दहल उठा रूस",
-    "source_summary": "रूस में संसदीय चुनाव के आखिरी दिन मॉस्को की ऑयल रिफाइनरी पर ड्रोन हमला हुआ. इससे घटनास्थल पर आग लग गई. इस हमले में किसी के हताहत होने की खबर नहीं है. रूसी अधिकारियों ने यूक्रेन पर आरोप लगाया है, जबकि यूक्रेन ने जिम्मेदारी नहीं ली है.",
-    "source_url": "https://www.aajtak.in/world/story/russia-parliamentary-election-moscow-ukraine-drone-attack-oil-refinery-fire-election-ntc-aktw-dskc-2647918-2026-09-20?utm_source=rssfeed",
+    "headline": "मुंबई में ब्रिज से नीचे जा गिरी तेज रफ्तार BMW, CCTV में कैद हादसा",
+    "source_summary": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है. मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई. यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, सीसीटीवी फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी. ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/video/mumbai-bmw-car-accident-cctv-footage-shows-vehicle-falling-off-bridge-vdot-ytvd-2647951-2026-09-20?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-20T12:07:03+05:30",
-    "hook": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला!",
-    "script_hi": "रूस में संसदीय चुनाव के आखिरी दिन मॉस्को की ऑयल रिफाइनरी पर बड़ा ड्रोन हमला हुआ। इस हमले से घटनास्थल पर भीषण आग लग गई। गनीमत रही कि इस घटना में किसी के हताहत होने की खबर नहीं है। रूसी अधिकारियों ने इसके लिए सीधे तौर पर यूक्रेन पर गंभीर आरोप लगाए हैं, हालांकि यूक्रेन ने अभी तक इस हमले की जिम्मेदारी नहीं ली है।",
-    "tts_text_hi": "रूस में संसदीय चुनाव के आखिरी दिन मॉस्को की ऑयल रिफाइनरी पर बड़ा ड्रोन हमला हुआ। इस हमले से घटनास्थल पर भीषण आग लग गई। गनीमत रही कि इस घटना में किसी के हताहत होने की खबर नहीं है। रूसी अधिकारियों ने इसके लिए सीधे तौर पर यूक्रेन पर गंभीर आरोप लगाए हैं, हालांकि यूक्रेन ने अभी तक इस हमले की जिम्मेदारी नहीं ली है।",
-    "title": "मॉस्को पर बड़ा ड्रोन हमला",
-    "caption": "रूस के मॉस्को में ऑयल रिफाइनरी पर हुआ बड़ा ड्रोन हमला, संसदीय चुनाव के आखिरी दिन मची अफरातफरी।",
+    "published": "2026-09-20T13:30:17+05:30",
+    "hook": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू ब्रिज से नीचे जा गिरी!",
+    "script_hi": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है. मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई. यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी. ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी.",
+    "tts_text_hi": "मुंबई के कोस्टल रोड पर एक बेहद भयानक सड़क हादसा सामने आया है। मरीन ड्राइव से हाजी अली की तरफ जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर कोस्टल रोड के ब्रिज से नीचे गिर गई। यह पूरी घटना वहां लगे सीसीटीवी कैमरे में कैद हो गई है, फुटेज में साफ देखा जा सकता है कि कार की रफ्तार बहुत तेज थी। ब्रिज की रेलिंग को तोड़ते हुए यह लग्जरी कार सीधे नीचे जा गिरी।",
+    "title": "मुंबई में ब्रिज से नीचे गिरी BMW कार",
+    "caption": "मुंबई के कोस्टल रोड पर तेज रफ्तार बीएमडब्ल्यू ब्रिज से नीचे जा गिरी. दिल दहला देने वाला यह हादसा सीसीटीवी में कैद हो गया है.",
     "hashtags": [
-      "#Moscow",
-      "#RussiaUkraineWar",
-      "#DroneAttack",
-      "#BreakingNews",
-      "#WorldNews"
+      "#Mumbai",
+      "#MumbaiNews",
+      "#BMWAccident",
+      "#CoastalRoad",
+      "#CarAccident",
+      "#MaharashtraNews"
     ],
     "visual_queries": [
-      "Moscow city skyline",
-      "oil refinery fire night",
-      "emergency service vehicle India"
+      "Mumbai coastal road India",
+      "luxury car speeding India",
+      "broken bridge railing India",
+      "CCTV security camera India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral CCTV footage of a unique accident that generic stock B-roll cannot accurately represent; real footage needs to be added manually.",
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8412311/pexels-photo-8412311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38523375/pexels-photo-38523375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Moscow city skyline",
-        "credit": "Andrey Belavin",
-        "duration_sec": 4.3
+        "query": "Mumbai coastal road India",
+        "credit": "Harsh  Kukadiya",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13247379/pexels-photo-13247379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20435115/pexels-photo-20435115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil refinery fire night",
-        "credit": "Riyad Aljuboory",
-        "duration_sec": 4.3
+        "query": "luxury car speeding India",
+        "credit": "Mohit Hambiria",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8954274/pexels-photo-8954274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "emergency service vehicle India",
-        "credit": "Chauhan Dixant",
-        "duration_sec": 4.3
+        "query": "luxury car speeding road",
+        "credit": "REFARGOTOHP",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19116769/pexels-photo-19116769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "drone flying in sky",
-        "credit": "Masood Aslami",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/25003437/pexels-photo-25003437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "city skyline at night",
-        "credit": "Alberto Alvarez",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36397990/pexels-photo-36397990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "industrial fire smoke",
-        "credit": "Willians Huerta",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12936001/pexels-photo-12936001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "emergency vehicle flashing lights",
-        "credit": "Jonathan Cooper",
-        "duration_sec": 4.3
+        "query": "CCTV security camera India",
+        "credit": "Rakesh Teja",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 💥",
-        "caption": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 🚨\n\nयूक्रेन ने रूस की राजधानी पर एक साथ 1000 से ज्यादा ड्रोन दागकर हड़कंप मचा दिया है। इस भयानक हमले से पूरा रूस दहल उठा है और डिफेंस सिस्टम पर सवाल खड़े हो गए हैं।\n\nक्या रूस इस हमले का कोई बड़ा बदला लेगा? पूरी कहानी देखें।\n\n#MoscowAttack #RussiaUkraineWar #UkraineDrones #WorldNews #RussiaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 🚨 यूक्रेन ने 1000 से अधिक ड्रोन दागकर रूस को हिला दिया है। दहल उठा पूरा शहर।\n\nक्या है इसके पीछे की पूरी स्ट्रैटेजी? वीडियो में देखें।\n\n#MoscowAttack #RussiaUkraineWar #UkraineDrones #WorldNews #RussiaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 🚨\n\nयूक्रेन ने रूस की राजधानी को निशाना बनाते हुए एक साथ 1000 से अधिक ड्रोन दाग दिए हैं। इस ताबड़तोड़ हमले से पूरा रूस दहल उठा है और इस जंग ने एक नया मोड़ ले लिया है।\n\nइस खतरनाक हमले के बाद अब पुतिन क्या कदम उठाएंगे? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#MoscowAttack #RussiaUkraineWar #UkraineDrones #WorldNews #RussiaNews"
-      },
-      "hashtags": [
-        "MoscowAttack",
-        "RussiaUkraineWar",
-        "UkraineDrones",
-        "WorldNews",
-        "RussiaNews"
-      ]
-    },
-    "audio_path": "audio/ukraine_massive_drone_attack_moscow_oil_refinery.wav",
-    "audio_duration_sec": 22.99,
-    "video_path": "videos/ukraine_massive_drone_attack_moscow_oil_refinery.mp4",
-    "video_duration_sec": 30.89,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-20T10:32:43.854605+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aafb66afbc1169441601cd9",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 🚨\n\nयूक्रेन ने रूस की राजधानी को निशाना बनाते हुए एक साथ 1000 से अधिक ड्रोन दाग दिए हैं। इस ताबड़तोड़ हमले से पूरा रूस दहल उठा है और इस जंग ने एक नया मोड़ ले लिया है।\n\nइस खतरनाक हमले के बाद अब पुतिन क्या कदम उठाएंगे? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#MoscowAttack #RussiaUkraineWar #UkraineDrones #WorldNews #RussiaNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789900392039_jh3qoud3_ukraine_massive_drone_attack_moscow_oil_refinery.mp4",
-                "_id": "6aafb66afbc1169441601cda"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwFAACLw&_nc_oc=Adq8HaZwXShh9aZU-TECBsTRHMqvOisc3MlkAZRlvZQ4ccsyLhd_pAjojMugfFBJoIo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=HElpmO9iZhUWNDWJifZ4LQ&_nc_tpa=Q5bMBQLLentAguE0qgC1VLySCior7Rkd-YYjXMTieyP7CRWJg_JtRIv4PTVjVBTM1NawfTLNV7V5q4Go&oh=00_AQJbsARDogfBP_NbW5vc0NROz9gOk9iCCHZHLRGZB2kIDQ&oe=6AB53194",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-20T10:33:13.597Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "1c92f36aa5a048440178e5edb06d4453",
-                "_id": "6aafb66afbc1169441601cdb",
-                "platformPostId": "1643964160478742",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1643964160478742",
-                "publishedAt": "2026-09-20T10:33:19.406Z"
-              }
-            ],
-            "scheduledFor": "2026-09-20T10:33:13.597Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-20T10:33:14.555Z",
-            "updatedAt": "2026-09-20T10:33:19.558Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-20T10:33:14.647Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-20T10:33:19.769788+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6aafb68d5e197b2d6ee8f614",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला! 🚨 यूक्रेन ने 1000 से अधिक ड्रोन दागकर रूस को हिला दिया है। दहल उठा पूरा शहर।\n\nक्या है इसके पीछे की पूरी स्ट्रैटेजी? वीडियो में देखें।\n\n#MoscowAttack #RussiaUkraineWar #UkraineDrones #WorldNews #RussiaNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789900426976_lbiclwg2_ukraine_massive_drone_attack_moscow_oil_refinery.mp4",
-                "_id": "6aafb68d5e197b2d6ee8f615"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwF-8EH1&_nc_oc=AdpNPfhQC_XcN8IKc7qtwAaNz-PlZs3pW8DYiyGLQI9A8eTnqcPAVebWG1GYA9q0oAY&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FiACP6URT6_VJw2rzMYttg&_nc_tpa=Q5bMBQL05S4yv9Xp-azIvew9IQkANIkuVCElfpWomQXzqys7LOqf4hgBT0lFlOFkTxSChncKgbe32o3Szg&oh=00_AQIf9YUMaHTgnzFFEkx4I_00Ds1JZ4WaIHQ2D63LI9C_1A&oe=6AB5253B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-20T10:33:48.938Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "31f630a8ed965058bbc1207b4ba8eb96",
-                "_id": "6aafb68d5e197b2d6ee8f616"
-              }
-            ],
-            "scheduledFor": "2026-09-20T10:33:48.938Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-20T10:33:49.685Z",
-            "updatedAt": "2026-09-20T10:33:52.039Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-20T10:33:49.739Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-20T10:33:52.388915+00:00"
-      }
-    }
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "india_women_cricket_crushes_bangladesh_asia_cup_final",
+    "topic_label": "india_women_cricket_asia_cup_final",
     "virality_score": 8,
-    "reason": "Shafali Verma's historic century powers India into the Asian Games cricket final.",
+    "reason": "Crushing victory by the Indian women's cricket team reaching the Asian Games final has broad national relevance.",
     "region": "india",
     "headline": "Shafali’s ton helps India crush Bangladesh, storm into Asian Games final",
     "source_summary": "Shafali Verma’s historic 100 off 49 balls powered India Women to 195/4 before their bowlers bundled Bangladesh out for 81 in 15.4 overs, sealing a 114-run win in the Asian Games 2026 semi-final. India booked a place in the gold-medal match against Sri Lanka, while Shafali became the first player to score a century in women’s Asian Games cricket.",
     "source_url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms",
     "source_name": "Times of India - Top Stories",
     "published": "Sun, 20 Sep 2026 13:47:46 +0530",
-    "hook": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में!",
-    "script_hi": "शैफाली वर्मा ने उनचास गेंदों पर सौ रन बनाकर इतिहास रच दिया है। एशियाई खेलों के महिला क्रिकेट सेमीफाइनल में भारत ने बांग्लादेश को एक सौ चौदह रनों से हरा दिया है। पहले बल्लेबाजी करते हुए भारतीय महिला टीम ने चार विकेट पर एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेशी टीम पंद्रह दशमलव चार ओवर में इक्यासी रन पर ढेर हो गई। इस शानदार जीत के साथ भारत ने फाइनल में प्रवेश कर लिया है जहाँ उसका मुकाबला श्रीलंका से होगा।",
-    "tts_text_hi": "शैफाली वर्मा ने उनचास गेंदों पर सौ रन बनाकर इतिहास रच दिया है। एशियाई खेलों के महिला क्रिकेट सेमीफाइनल में भारत ने बांग्लादेश को एक सौ चौदह रनों से हरा दिया है। पहले बल्लेबाजी करते हुए भारतीय महिला टीम ने चार विकेट पर एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेशी टीम पंद्रह दशमलव चार ओवर में इक्यासी रन पर ढेर हो गई। इस शानदार जीत के साथ भारत ने फाइनल में प्रवेश कर लिया है जहाँ उसका मुकाबला श्रीलंका से होगा।",
-    "title": "Asian Games: Shafali Verma's century powers India into final",
-    "caption": "शैफाली वर्मा के ऐतिहासिक शतक के दम पर भारतीय महिला क्रिकेट टीम ने एशियाई खेलों के फाइनल में जगह बना ली है।",
+    "hook": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत!",
+    "script_hi": "शैफाली वर्मा ने उनचास गेंदों में सौ रनों की ऐतिहासिक पारी खेलकर भारत महिला टीम को एशियाई खेलों दो हजार छब्बीस के फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से करारी शिकस्त दी।",
+    "tts_text_hi": "शैफाली वर्मा ने उनचास गेंदों में सौ रनों की ऐतिहासिक पारी खेलकर भारत महिला टीम को एशियाई खेलों दो हजार छब्बीस के फाइनल में पहुंचा दिया है। भारत ने बांग्लादेश को एक सौ चौदह रनों से करारी शिकस्त दी।",
+    "title": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत",
+    "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।",
     "hashtags": [
-      "AsianGames",
-      "ShafaliVerma",
-      "IndianCricket",
-      "WomenCricket",
-      "TeamIndia",
-      "AsianGames2026"
+      "#ShafaliVerma",
+      "#AsianGames",
+      "#TeamIndia",
+      "#CricketNews",
+      "#WomenCricket"
     ],
     "visual_queries": [
       "Indian cricket stadium India",
-      "Indian cricket team celebration India",
-      "Asian Games cricket match India"
+      "Indian woman cricketer celebration India",
+      "Indian cricket team victory India"
     ],
     "named_person": "Shafali Verma",
     "named_person_hi": "शैफाली वर्मा",
@@ -370,58 +184,82 @@
         "source": "pexels",
         "query": "Indian cricket stadium India",
         "credit": "Ajay Parab",
-        "duration_sec": 5
+        "duration_sec": 4.3
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket team celebration India",
+        "query": "Indian cricket team victory India",
         "credit": "Umang & Meet",
-        "duration_sec": 5
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13509630/pexels-photo-13509630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32020828/pexels-photo-32020828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Asian Games cricket match India",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
+        "query": "stadium sports celebration",
+        "credit": "Vincent Rivaud",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium crowd",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29047136/pexels-photo-29047136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket player celebration",
+        "credit": "Patrick Case",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36801081/pexels-photo-36801081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports trophy presentation",
+        "credit": "ENIO ENGENHEIRO",
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 7,
+    "timeline_covered_sec": 29.8,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "शतकवीर शैफाली का कमाल! भारत एशियाई खेलों के फाइनल में 🏏🇮🇳",
-        "caption": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में! 🇮🇳🔥\n\nबांग्लादेश के खिलाफ सेमीफाइनल मुकाबले में शैफाली के बल्ले ने ऐसा तूफान लाया कि विरोधी टीम देखते रह गई। उनकी इस शानदार पारी के दम पर भारतीय महिला टीम ने फाइनल में धमाकेदार एंट्री कर ली है।\n\nपूरा स्कोरकार्ड और मैच का रोमांच जानने के लिए वीडियो पूरा देखें। 👇\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
+        "title": "शैफाली वर्मा का ऐतिहासिक शतक, एशियाई खेलों के फाइनल में पहुंचा भारत",
+        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
       },
       "instagram": {
         "title": null,
-        "caption": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में! 🔥🇮🇳\n\nबांग्लादेश के खिलाफ सेमीफाइनल में शैफाली ने खेली ऐसी ताबड़तोड़ पारी कि विरोधी टीम देखती रह गई। उनकी इस सेंचुरी ने टीम इंडिया की खिताबी जीत की उम्मीदें और मजबूत कर दी हैं।\n\nमैच का पूरा रोमांच देखने के लिए वीडियो अंत तक देखें और शेयर करें! 🏏✨\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
+        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
       },
       "facebook": {
         "title": null,
-        "caption": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में! 🇮🇳🔥\n\nबांग्लादेश के खिलाफ सेमीफाइनल मुकाबले में मैदान पर शैफाली वर्मा का बल्ला ऐसा गरजा कि विरोधी गेंदबाजों के पास कोई जवाब नहीं था। उनकी इस शानदार शतकीय पारी के दम पर भारतीय महिला क्रिकेट टीम ने फाइनल का टिकट पक्का कर लिया है।\n\nसोचिए, खिताबी मुकाबले में टीम इंडिया का सामना किस देश से होगा? कमेंट में अपनी राय बताएं और वीडियो पूरा देखें।\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia"
+        "caption": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket"
       },
       "hashtags": [
-        "ShafaliVerma",
-        "AsianGames2023",
-        "IndianCricketTeam",
-        "WomensCricket",
-        "TeamIndia"
+        "#ShafaliVerma",
+        "#AsianGames",
+        "#TeamIndia",
+        "#CricketNews",
+        "#WomenCricket"
       ]
     },
-    "audio_path": "audio/india_women_cricket_crushes_bangladesh_asia_cup_final.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/india_women_cricket_crushes_bangladesh_asia_cup_final.mp4",
-    "video_duration_sec": 38.26,
+    "audio_path": "audio/india_women_cricket_asia_cup_final.wav",
+    "audio_duration_sec": 17.45,
+    "video_path": "videos/india_women_cricket_asia_cup_final.mp4",
+    "video_duration_sec": 25.51,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-20T10:39:32.579384+00:00"
+        "attempted_at": "2026-09-20T12:39:14.867225+00:00"
       },
       "facebook": {
         "success": true,
@@ -434,15 +272,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aafb7f975f03bae1f131409",
+            "_id": "6aafd40bca00818271aa2037",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में! 🇮🇳🔥\n\nबांग्लादेश के खिलाफ सेमीफाइनल मुकाबले में मैदान पर शैफाली वर्मा का बल्ला ऐसा गरजा कि विरोधी गेंदबाजों के पास कोई जवाब नहीं था। उनकी इस शानदार शतकीय पारी के दम पर भारतीय महिला क्रिकेट टीम ने फाइनल का टिकट पक्का कर लिया है।\n\nसोचिए, खिताबी मुकाबले में टीम इंडिया का सामना किस देश से होगा? कमेंट में अपनी राय बताएं और वीडियो पूरा देखें।\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia",
+            "content": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789900791762_3vn0k1x9_india_women_cricket_crushes_bangladesh_asia_cup_final.mp4",
-                "_id": "6aafb7f975f03bae1f13140a"
+                "url": "https://media.zernio.com/media/1789907977138_7qmf9sfv_india_women_cricket_asia_cup_final.mp4",
+                "_id": "6aafd40bca00818271aa2038"
               }
             ],
             "platforms": [
@@ -459,17 +297,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-20T10:39:53.140Z",
+                "scheduledFor": "2026-09-20T12:39:38.335Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "ebc004b7f3a7ecb1ef05875d05571644",
-                "_id": "6aafb7f975f03bae1f13140b",
-                "platformPostId": "2353274222076176",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2353274222076176",
-                "publishedAt": "2026-09-20T10:40:03.417Z"
+                "contentHash": "9a79e974ed964e16b0d5125ca020c524",
+                "_id": "6aafd40bca00818271aa2039",
+                "platformPostId": "1601774154831665",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1601774154831665",
+                "publishedAt": "2026-09-20T12:39:44.263Z"
               }
             ],
-            "scheduledFor": "2026-09-20T10:39:53.140Z",
+            "scheduledFor": "2026-09-20T12:39:38.335Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -481,14 +319,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-20T10:39:53.758Z",
-            "updatedAt": "2026-09-20T10:40:04.939Z",
+            "createdAt": "2026-09-20T12:39:39.118Z",
+            "updatedAt": "2026-09-20T12:39:44.356Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-20T10:39:53.805Z"
+            "publishingClaimedAt": "2026-09-20T12:39:39.217Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-20T10:40:05.661692+00:00"
+        "attempted_at": "2026-09-20T12:39:44.542192+00:00"
       },
       "instagram": {
         "success": true,
@@ -501,15 +339,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6aafb81b75f03bae1f131d6d",
+            "_id": "6aafd42aca00818271aa27a1",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "शैफाली वर्मा का ऐतिहासिक शतक, भारत एशियाई खेलों के फाइनल में! 🔥🇮🇳\n\nबांग्लादेश के खिलाफ सेमीफाइनल में शैफाली ने खेली ऐसी ताबड़तोड़ पारी कि विरोधी टीम देखती रह गई। उनकी इस सेंचुरी ने टीम इंडिया की खिताबी जीत की उम्मीदें और मजबूत कर दी हैं।\n\nमैच का पूरा रोमांच देखने के लिए वीडियो अंत तक देखें और शेयर करें! 🏏✨\n\n#ShafaliVerma #AsianGames2023 #IndianCricketTeam #WomensCricket #TeamIndia",
+            "content": "शैफाली वर्मा की शानदार पारी के दम पर भारत ने एशियाई खेलों के फाइनल में बनाई जगह।\n\n##ShafaliVerma ##AsianGames ##TeamIndia ##CricketNews ##WomenCricket",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789900825837_7zilau6h_india_women_cricket_crushes_bangladesh_asia_cup_final.mp4",
-                "_id": "6aafb81b75f03bae1f131d6e"
+                "url": "https://media.zernio.com/media/1789908007811_beqsx35m_india_women_cricket_asia_cup_final.mp4",
+                "_id": "6aafd42aca00818271aa27a2"
               }
             ],
             "platforms": [
@@ -526,14 +364,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-20T10:40:26.970Z",
+                "scheduledFor": "2026-09-20T12:40:09.104Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "fc8820da8f8bab8b54b92a3f2fcb64d2",
-                "_id": "6aafb81b75f03bae1f131d6f"
+                "contentHash": "c7eb5b74549c6fe4949e0b21a6ba41d3",
+                "_id": "6aafd42aca00818271aa27a3"
               }
             ],
-            "scheduledFor": "2026-09-20T10:40:26.970Z",
+            "scheduledFor": "2026-09-20T12:40:09.104Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -545,122 +383,206 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-20T10:40:27.799Z",
-            "updatedAt": "2026-09-20T10:40:30.630Z",
+            "createdAt": "2026-09-20T12:40:10.053Z",
+            "updatedAt": "2026-09-20T12:40:12.793Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-20T10:40:27.853Z"
+            "publishingClaimedAt": "2026-09-20T12:40:10.150Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-20T10:40:31.507212+00:00"
+        "attempted_at": "2026-09-20T12:40:13.177677+00:00"
       }
     }
   },
   {
-    "topic_label": "disha_salian_father_aditya_thackeray_500cr_notice",
+    "topic_label": "iphone_18_pro_gold_sold_for_wife",
     "virality_score": 8,
-    "reason": "Disha Salian's father sends a 500 crore defamation notice to Aaditya Thackeray.",
+    "reason": "A viral story of a man selling ancestral gold to buy his wife the new iPhone 18 Pro.",
     "region": "india",
-    "headline": "Disha Salian Death: दिशा सालियान केस में नया मोड़, पिता सतीश ने आदित्य ठाकरे को भेजा 500 Cr. का मानहानि नोटिस",
-    "source_summary": "Disha Salian Death: दिशा सालियान के पिता सतीश सालियान ने शिवसेना (यूबीटी) नेता आदित्य ठाकरे के खिलाफ 500 करोड़ रुपये का मानहानि नोटिस भेजा है। सतीश सालियान अपने वकील नीलेश ओझा के साथ नोटिस देने आदित्य ठाकरे के आवास मातोश्री पहुंचे",
-    "source_url": "https://hindi.oneindia.com/news/entertainment/disha-salian-death-case-new-twist-father-sends-aditya-thackeray-500-crore-defamation-notice-1651713.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Sun, 20 Sep 2026 08:05:21 +0530",
-    "hook": "दिशा सालियान केस में आया भूचाल!",
-    "script_hi": "दिशा सालियान के पिता सतीश सालियान ने शिवसेना नेता आदित्य ठाकरे को पाँच सौ करोड़ रुपये का मानहानि नोटिस भेजा है। सतीश सालियान अपने वकील नीलेश ओझा के साथ नोटिस देने आदित्य ठाकरे के आवास मातोश्री पहुँचे।",
-    "tts_text_hi": "दिशा सालियान के पिता सतीश सालियान ने शिवसेना नेता आदित्य ठाकरे को पाँच सौ करोड़ रुपये का मानहानि नोटिस भेजा है। सतीश सालियान अपने वकील नीलेश ओझा के साथ नोटिस देने आदित्य ठाकरे के आवास मातोश्री पहुँचे।",
-    "title": "दिशा सालियान केस: आदित्य ठाकरे को मानहानि नोटिस",
-    "caption": "दिशा सालियान केस में नया मोड़, पिता सतीश ने आदित्य ठाकरे को भेजा पाँच सौ करोड़ रुपये का मानहानि नोटिस।",
+    "headline": "पत्नी के iPhone के लिए बेच दिया दादी-परदादी का सोना, वीडियो देख उद्योगपति हर्ष गोयनका ने उठाए सवाल",
+    "source_summary": "भारत में आईफोन 18 प्रो की लॉन्चिंग के साथ ही एप्पल स्टोर्स के बाहर हमेशा की तरह खरीदारों की भारी भीड़ देखने को मिली। लेकिन इसी कतार में खड़ा दिल्ली का एक शख्स अपनी एक अनोखी वजह से अचानक सुर्खियों में आ गया। नोएडा के डीएलएफ मॉल ऑफ इंडिया स्थित एप्पल स्टोर के बाहर खड़े इस शख्स ने अपनी पत्नी की ख्वाहिश पूरी करने के लिए परिवार का पुश्तैनी सोना बेचकर आईफोन खरीदा। उद्योगपति हर्ष गोयनका द्वारा इस वीडियो को साझा करने के बाद इंटरनेट पर पारिवारिक प्राथमिकताओं, भावनात्मक मूल्यों और वित्तीय फैसलों को लेकर एक बड़ी बहस छिड़ गई है। आइए जानते हैं क्या है यह पूरा मामला।",
+    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/delhi-man-sells-ancestral-family-gold-buy-wife-burgundy-iphone-harsh-goenka-reaction-on-video/articleshow/134366784.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sun, 20 Sep 2026 16:13:00 +0530",
+    "hook": "पत्नी के आईफोन के लिए बेच दिया खानदानी सोना!",
+    "script_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान नोएडा के एप्पल स्टोर के बाहर एक शख्स ने पत्नी की ख्वाहिश पूरी करने के लिए अपना पुश्तैनी सोना बेच दिया। इस हैरान करने वाले वीडियो को उद्योगपति हर्ष गोयनका ने शेयर किया, जिसके बाद इंटरनेट पर वित्तीय फैसलों और पारिवारिक प्राथमिकताओं को लेकर एक बड़ी बहस छिड़ गई है। क्या ऐसा करना सही है?",
+    "tts_text_hi": "पत्नी के आईफोन के लिए बेच दिया दादी परदादी का सोना! भारत में आईफोन अठारह प्रो की लॉन्चिंग के दौरान नोएडा के एप्पल स्टोर के बाहर एक शख्स ने पत्नी की ख्वाहिश पूरी करने के लिए अपना पुश्तैनी सोना बेच दिया। इस हैरान करने वाले वीडियो को उद्योगपति हर्ष गोयनका ने शेयर किया, जिसके बाद इंटरनेट पर वित्तीय फैसलों और पारिवारिक प्राथमिकताओं को लेकर एक बड़ी बहस छिड़ गई है। क्या ऐसा करना सही है?",
+    "title": "पत्नी के iPhone के लिए बेचा पुश्तैनी सोना, वीडियो पर छिड़ी बहस",
+    "caption": "नोएडा में एप्पल स्टोर के बाहर पत्नी के लिए आईफोन खरीदने के चक्कर में शख्स ने बेच दिया पुश्तैनी सोना। उद्योगपति हर्ष गोयनका के वीडियो शेयर करने के बाद सोशल मीडिया पर छिड़ी बड़ी बहस।",
     "hashtags": [
-      "DishaSalian",
-      "AdityaThackeray",
-      "MumbaiNews",
-      "MaharashtraNews",
-      "LatestNews",
-      "NewsShorts"
+      "AppleStoreIndia",
+      "iPhoneEighteen",
+      "HarshGoenka",
+      "ViralVideo",
+      "NoidaNews",
+      "Trending",
+      "India"
     ],
     "visual_queries": [
-      "Indian politician portrait",
-      "Mumbai high court India",
-      "legal notice document India"
+      "Apple store queue India",
+      "Noida shopping mall India",
+      "gold jewelry India",
+      "smartphone box India"
     ],
-    "named_person": "Aditya Thackeray",
-    "named_person_hi": "आदित्य ठाकरे",
+    "named_person": "Harsh Goenka",
+    "named_person_hi": "हर्ष गोयनका",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "An unproven legal accusation/defamation notice involving a named public figure; requires human verification before publishing.",
+    "flag_reason": "The story revolves around a specific viral video shared by Harsh Goenka showing a specific person at a Noida Apple store. While general B-roll can illustrate the concept, the specific person and video cannot be authentically represented by generic stock footage.",
     "assets": [
       {
         "type": "text_card",
-        "text": "आदित्य ठाकरे",
+        "text": "हर्ष गोयनका",
         "source": "fallback",
-        "query": "Aditya Thackeray",
+        "query": "Harsh Goenka",
         "duration_sec": 4.0
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34305868/14533495_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indian politician press conference",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
+        "query": "Noida shopping mall India",
+        "credit": "Raj  Bala",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7287317/7287317-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "smartphone box India",
+        "credit": "Kampus Production",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32003079/pexels-photo-32003079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8130301/pexels-photo-8130301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "legal notice India",
-        "credit": "Adarsh Mp",
+        "query": "Apple store queue India",
+        "credit": "Maher Meskko",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7926653/pexels-photo-7926653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19394248/pexels-photo-19394248.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "legal notice document India",
-        "credit": "Nicola Barts",
+        "query": "gold jewelry India",
+        "credit": "Samir Ali",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ukraine_massive_drone_attack_moscow",
+    "virality_score": 8,
+    "reason": "Major global escalation with Ukraine launching over 1,600 drones at Moscow.",
+    "region": "india",
+    "headline": "Video: Massive Ukrainian Drone Barrage On Moscow Amid Elections In Russia",
+    "source_summary": "The capital's Mayor Sergei Sobyanin said that more than 1,600 drones had been intercepted and shot down, 450 of which were aimed at Moscow.",
+    "source_url": "https://www.ndtv.com/world-news/russia-ukraine-war-video-massive-ukrainian-drone-barrage-on-moscow-amid-elections-in-russia-12072111#publisher=newsstand",
+    "source_name": "NDTV English - Top Stories",
+    "published": "Sun, 20 Sep 2026 16:06:30 +0530",
+    "hook": "रूस में चुनावों के बीच मॉस्को पर अब तक का सबसे बड़ा ड्रोन हमला!",
+    "script_hi": "रूस में राष्ट्रपति चुनाव के दौरान यूक्रेन ने मॉस्को पर भारी ड्रोन हमला बोला है। मॉस्को के मेयर सर्गेई सोबियानान के अनुसार, कुल एक हजार छह सौ से ज्यादा ड्रोन रोके गए, जिनमें से चार सौ पचास ड्रोन सीधे मॉस्को को निशाना बना रहे थे।",
+    "tts_text_hi": "रूस में राष्ट्रपति चुनाव के दौरान यूक्रेन ने मॉस्को पर भारी ड्रोन हमला बोला है। मॉस्को के मेयर सर्गेई सोबियानान के अनुसार, कुल एक हजार छह सौ से ज्यादा ड्रोन रोके गए, जिनमें से चार सौ पचास ड्रोन सीधे मॉस्को को निशाना बना रहे थे।",
+    "title": "मॉस्को पर भारी यूक्रेनी ड्रोन हमला",
+    "caption": "रूस में चुनावों के दौरान मॉस्को पर बड़ा ड्रोन हमला हुआ, जहाँ सैकड़ों ड्रोन हवा में ही नष्ट किए गए।",
+    "hashtags": [
+      "#Russia",
+      "#Moscow",
+      "#UkraineWar",
+      "#DroneAttack",
+      "#BreakingNews"
+    ],
+    "visual_queries": [
+      "Moscow city skyline Russia",
+      "military drone in sky",
+      "explosion fire smoke Russia"
+    ],
+    "named_person": "Sergey Sobyanin",
+    "named_person_hi": "सर्गेई सोबियानान",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "सर्गेई सोबियानान",
+        "source": "fallback",
+        "query": "Sergey Sobyanin",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/29298521/12634614_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "air defense explosion night",
+        "credit": "Lone Pexels",
+        "source_duration_sec": 2,
+        "duration_sec": 2
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32122876/pexels-photo-32122876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Moscow city skyline Russia",
+        "credit": "Dmitry Alexandrovich",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38841752/pexels-photo-38841752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "explosion fire smoke Russia",
+        "credit": "Karol Tomsia",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 16.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "mumbai_lalbaug_ganpati_pandal_electrocution_deaths",
+    "topic_label": "iit_bombay_student_chatgpt_suicide_case",
     "virality_score": 8,
-    "reason": "Tragic electrocution near a famous Mumbai Ganpati pandal claims two lives including an 8-year-old.",
+    "reason": "High-profile case of an IIT student facing issues after using ChatGPT in an exam, leading to police action.",
     "region": "india",
-    "headline": "मुंबई के लालबाग महागणपति पंडाल के पास फैला करंट, 8 साल की बच्ची समेत 2 लोगों की मौत",
-    "source_summary": "मुंबई के लालबाग गणपति पंडाल में बड़ा हादसा हो गया. यहां बिजली का करंट लगने से 8 साल की बच्ची की मौत हो गई. जबकि चार लोग गंभीर रूप से घायल हो गए. घटना रात में करीब 2 बजे की बताई जा रही है.",
-    "source_url": "https://ndtv.in/india/mumbai-lalbaug-mahaganpati-pandal-electric-shock-at-night-8-year-old-girl-dies-several-injured-12070889#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sun, 20 Sep 2026 10:15:54 +0530",
-    "hook": "मुंबई के लालबाग पंडाल में बड़ा हादसा, करंट लगने से बच्ची की मौत!",
-    "script_hi": "मुंबई के लालबाग महागणपति पंडाल के पास बिजली का करंट फैलने से बड़ा हादसा हो गया। इस दुर्घटना में आठ साल की एक बच्ची समेत दो लोगों की मौत हो गई, जबकि चार लोग गंभीर रूप से घायल हैं। हादसा रात में करीब दो बजे हुआ।",
-    "tts_text_hi": "मुंबई के लालबाग महागणपति पंडाल के पास बिजली का करंट फैलने से बड़ा हादसा हो गया। इस दुर्घटना में आठ साल की एक बच्ची समेत दो लोगों की मौत हो गई, जबकि चार लोग गंभीर रूप से घायल हैं। हादसा रात में करीब दो बजे हुआ।",
-    "title": "मुंबई: लालबाग पंडाल के पास करंट लगने से बच्ची की मौत",
-    "caption": "मुंबई के लालबाग गणपति पंडाल के पास बड़ा हादसा, करंट लगने से आठ साल की बच्ची समेत दो की मौत, चार घायल।",
+    "headline": "IIT का छात्र ChatGPT से एग्जाम में कर रहा था चीटिंग! पकड़ा गया तो उठाया खौफनाक कदम, पूरी कहानी चौंका देगी",
+    "source_summary": "IIT Bombay Student Death: भारतीय प्रौद्योगिकी संस्थान (IIT) बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में हंगामा मच गया। परीक्षा के दौरान मोबाइल फोन से ChatGPT पर सवालों के जवाब तलाशने की बात सामने आई है।",
+    "source_url": "https://hindi.oneindia.com/news/india/iit-bombay-student-death-after-chatgpt-cheating-allegation-during-exam-full-story-1651339.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Sat, 19 Sep 2026 10:42:33 +0530",
+    "hook": "आईआईटी बॉम्बे में ऐसा क्या हुआ कि कैंपस में मच गया हंगामा?",
+    "script_hi": "आईआईटी बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में भारी हंगामा मच गया है। शुरुआती जांच में सामने आया है कि परीक्षा के दौरान छात्र मोबाइल फोन से चैटजीपीटी की मदद से सवालों के जवाब ढूंढ रहा था। पकड़े जाने के डर से उसने यह खौफनाक कदम उठाया। इस दुखद घटना ने शिक्षण संस्थानों में अनुशासन और छात्रों के मानसिक दबाव पर एक बार फिर गंभीर सवाल खड़े कर दिए हैं।",
+    "tts_text_hi": "आईआईटी बॉम्बे में दूसरे वर्ष के एक छात्र की मौत के बाद कैंपस में भारी हंगामा मच गया है। शुरुआती जांच में सामने आया है कि परीक्षा के दौरान छात्र मोबाइल फोन से चैटजीपीटी की मदद से सवालों के जवाब ढूंढ रहा था। पकड़े जाने के डर से उसने यह खौफनाक कदम उठाया। इस दुखद घटना ने शिक्षण संस्थानों में अनुशासन और छात्रों के मानसिक दबाव पर एक बार फिर गंभीर सवाल खड़े कर दिए हैं।",
+    "title": "IIT Bombay Student Death: एग्जाम में ChatGPT से चीटिंग और फिर खौफनाक कदम",
+    "caption": "आईआईटी बॉम्बे में परीक्षा के दौरान चीटिंग का मामला सामने आने के बाद छात्र की मौत से कैंपस में हंगामा मच गया है।",
     "hashtags": [
-      "#Mumbai",
-      "#Lalbaug",
-      "#BreakingNews",
-      "#MumbaiNews",
-      "#Accident"
+      "IITBombay",
+      "StudentDeath",
+      "BreakingNews",
+      "EducationNews",
+      "IndiaNews",
+      "CollegeCampus"
     ],
     "visual_queries": [
-      "Mumbai street India",
-      "crowded Hindu temple India",
+      "IIT Bombay campus India",
+      "Indian college examination hall",
+      "student smartphone usage India",
       "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor victim in a tragic accident, requiring sensitivity in presentation and manual review.",
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "video",
@@ -673,23 +595,507 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1311046/pexels-photo-1311046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38523382/pexels-photo-38523382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai street India",
-        "credit": "Rizwan Sayyed",
+        "query": "IIT Bombay campus India",
+        "credit": "Harsh  Kukadiya",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15798145/pexels-photo-15798145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8086359/pexels-photo-8086359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "crowded Hindu temple India",
-        "credit": "Bhupesh Pal",
+        "query": "stressed student studying night",
+        "credit": "Ron Lach",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17785025/pexels-photo-17785025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "student smartphone usage India",
+        "credit": "Prasanth Inturi",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "IIT Bombay Student: ChatGPT से चीटिंग और फिर खौफनाक कदम! 🚨",
+        "caption": "आईआईटी बॉम्बे में एग्जाम के दौरान ऐसा क्या हुआ कि कैंपस में हड़कंप मच गया? 🚨\n\nChatGPT से चीटिंग करते पकड़े जाने के डर से एक छात्र ने ऐसा कदम उठाया जिसकी किसी ने कल्पना भी नहीं की थी। इस सनसनीखेज मामले की पूरी सच्चाई जानकर आप भी हैरान रह जाएंगे।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "आईआईटी बॉम्बे में ऐसा क्या हुआ कि पूरे कैंपस में हंगामा मच गया? 🚨\n\nएग्जाम में ChatGPT से चीटिंग करते पकड़े जाने के बाद छात्र ने उठाया खौफनाक कदम। इस पूरी घटना ने सबको झकझोर कर रख दिया है।\n\nपूरी कहानी जान3 के लिए वीडियो अंत तक देखें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "आईआईटी बॉम्बे के कैंपस में आखिर ऐसा क्या हुआ कि हर कोई सन्न रह गया? \n\nएग्जाम के दौरान छात्र द्वारा ChatGPT से चीटिंग करने का मामला सामने आया, और जब सच्चाई बाहर आई तो उसने ऐसा खौफनाक कदम उठाया जिसकी किसी को उम्मीद नहीं थी। \n\nपूरी कहानी देखें और वीडियो को शेयर जरूर करें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews"
+      },
+      "hashtags": [
+        "iitbombay",
+        "chatgptcheating",
+        "studentnews",
+        "breakingnews",
+        "iitnews"
+      ]
+    },
+    "audio_path": "audio/iit_bombay_student_chatgpt_suicide_case.wav",
+    "audio_duration_sec": 8.63,
+    "video_path": "videos/iit_bombay_student_chatgpt_suicide_case.mp4",
+    "video_duration_sec": 16.59,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-20T12:45:15.370659+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aafd573fa3928e88cbd573e",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "आईआईटी बॉम्बे के कैंपस में आखिर ऐसा क्या हुआ कि हर कोई सन्न रह गया? \n\nएग्जाम के दौरान छात्र द्वारा ChatGPT से चीटिंग करने का मामला सामने आया, और जब सच्चाई बाहर आई तो उसने ऐसा खौफनाक कदम उठाया जिसकी किसी को उम्मीद नहीं थी। \n\nपूरी कहानी देखें और वीडियो को शेयर जरूर करें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789908337592_vjcbb0xu_iit_bombay_student_chatgpt_suicide_case.mp4",
+                "_id": "6aafd573fa3928e88cbd573f"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwFAACLw&_nc_oc=Adq8HaZwXShh9aZU-TECBsTRHMqvOisc3MlkAZRlvZQ4ccsyLhd_pAjojMugfFBJoIo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=HElpmO9iZhUWNDWJifZ4LQ&_nc_tpa=Q5bMBQLLentAguE0qgC1VLySCior7Rkd-YYjXMTieyP7CRWJg_JtRIv4PTVjVBTM1NawfTLNV7V5q4Go&oh=00_AQJbsARDogfBP_NbW5vc0NROz9gOk9iCCHZHLRGZB2kIDQ&oe=6AB53194",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-20T12:45:39.034Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "73ddf342fded47cc4c2506da99220172",
+                "_id": "6aafd573fa3928e88cbd5740",
+                "platformPostId": "1592068275742177",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1592068275742177",
+                "publishedAt": "2026-09-20T12:45:45.790Z"
+              }
+            ],
+            "scheduledFor": "2026-09-20T12:45:39.034Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-20T12:45:39.973Z",
+            "updatedAt": "2026-09-20T12:45:45.926Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-20T12:45:40.060Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-20T12:45:46.132249+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aafd58cfa3928e88cbd5cf7",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "आईआईटी बॉम्बे में ऐसा क्या हुआ कि पूरे कैंपस में हंगामा मच गया? 🚨\n\nएग्जाम में ChatGPT से चीटिंग करते पकड़े जाने के बाद छात्र ने उठाया खौफनाक कदम। इस पूरी घटना ने सबको झकझोर कर रख दिया है।\n\nपूरी कहानी जान3 के लिए वीडियो अंत तक देखें।\n\n#iitbombay #chatgptcheating #studentnews #breakingnews #iitnews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789908361325_90xaugvc_iit_bombay_student_chatgpt_suicide_case.mp4",
+                "_id": "6aafd58cfa3928e88cbd5cf8"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwF-8EH1&_nc_oc=AdpNPfhQC_XcN8IKc7qtwAaNz-PlZs3pW8DYiyGLQI9A8eTnqcPAVebWG1GYA9q0oAY&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FiACP6URT6_VJw2rzMYttg&_nc_tpa=Q5bMBQL05S4yv9Xp-azIvew9IQkANIkuVCElfpWomQXzqys7LOqf4hgBT0lFlOFkTxSChncKgbe32o3Szg&oh=00_AQIf9YUMaHTgnzFFEkx4I_00Ds1JZ4WaIHQ2D63LI9C_1A&oe=6AB5253B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-20T12:46:03.620Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "c4d662bf704de2aa2bd6db8cbd739c6d",
+                "_id": "6aafd58cfa3928e88cbd5cf9"
+              }
+            ],
+            "scheduledFor": "2026-09-20T12:46:03.620Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-20T12:46:04.749Z",
+            "updatedAt": "2026-09-20T12:46:06.245Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-20T12:46:04.796Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-20T12:46:06.640795+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "telangana_neurosurgeon_car_fire_death",
+    "virality_score": 7,
+    "reason": "Tragic accident where a doctor was burnt alive after his car hit a divider has high emotional and shocking value.",
+    "region": "india",
+    "headline": "Telangana Neurosurgeon Burnt Alive After Car Crashes Into Divider, Burst Into Flames",
+    "source_summary": "The initial investigation suggests that drowsy driving may have caused the accident. The exact cause, however, is still under investigation.",
+    "source_url": "https://www.ndtv.com/telangana-news/telangana-neurosurgeon-burnt-alive-after-car-crashes-into-divider-burst-into-flames-12071488#publisher=newsstand",
+    "source_name": "NDTV English - Top Stories",
+    "published": "Sun, 20 Sep 2026 12:45:57 +0530",
+    "hook": "तेलंगाना में दिल दहला देने वाला हादसा!",
+    "script_hi": "तेलंगाना में एक दर्दनाक हादसे में नामी न्यूरोसर्जन की जिंदा जलकर मौत हो गई। उनकी कार डिवाइडर से टकराने के बाद आग की लपटों में घिर गई। शुरुआती जांच के मुताबिक, गाड़ी चलाते वक्त झपकी आना हादसे की वजह हो सकती है, हालांकि पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "तेलंगाना में एक दर्दनाक हादसे में नामी न्यूरोसर्जन की जिंदा जलकर मौत हो गई। उनकी कार डिवाइडर से टकराने के बाद आग की लपटों में घिर गई। शुरुआती जांच के मुताबिक, गाड़ी चलाते वक्त झपकी आना हादसे की वजह हो सकती है, हालांकि पुलिस मामले की जांच कर रही है।",
+    "title": "Telangana Neurosurgeon Burnt Alive in Car Crash",
+    "caption": "तेलंगाना में कार डिवाइडर से टकराने और उसमें आग लगने से एक न्यूरोसर्जन की जिंदा जलकर मौत। शुरुआती जांच में झपकी आने को वजह माना जा रहा है।",
+    "hashtags": [
+      "#TelanganaNews",
+      "#CarAccident",
+      "#BreakingNews",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "India highway divider road",
+      "burnt car wreckage India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/22043799/pexels-photo-22043799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India highway divider road",
+        "credit": "Dhruv   Jangid",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12502067/pexels-photo-12502067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "burnt car wreckage India",
+        "credit": "Vladyslav Huivyk",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "night highway traffic India",
+        "credit": "Sourabh Narwade",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5403208/pexels-photo-5403208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car accident emergency lights",
+        "credit": "El Jundi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29350311/pexels-photo-29350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police tape crime scene",
+        "credit": "Srujan J.",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6505092/pexels-photo-6505092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "burnt vehicle on road",
+        "credit": "Mary Locuaz",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कार डिवाइडर से टकराई और जिंदा जल गए मशहूर न्यूरोसर्जन! 😱",
+        "caption": "चलती कार डिवाइडर से टकराई और कुछ ही सेकंड में आग का गोला बन गई, जिसमें देश के जाने-माने न्यूरोसर्जन की जिंदा जलकर मौत हो गई। 🚗🔥\n\nतेलंगाना के महबूबनगर में हुई इस दर्दनाक दुर्घटना ने हर किसी को झकझोर कर रख दिया है। हादसे की ये दिल दहला देने वाली पूरी डिटेल वीडियो में देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कार डिवाइडर से टकराई और कुछ ही सेकंड में जिंदा जल गए देश के जाने-माने न्यूरोसर्जन! 😱🔥\n\nतेलंगाना के महबूबनगर में हुए इस भयानक हादसे ने सबको हिला कर रख दिया है। आखिर कैसे हुआ ये सब? पूरी कहानी देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सड़क पर दौड़ती एक लग्जरी कार अचानक डिवाइडर से जा टकराई और कुछ ही पलों में आग के शोलो में बदल गई। इस दर्दनाक हादसे में किसी और की नहीं, बल्कि एक जाने-माने न्यूरोसर्जन की जिंदा जलकर जान चली गई। 🚗🔥\n\nतेलंगाना के महबूबनगर की इस घटना ने पूरे मेडिकल जगत और मृतकों के परिवार को गहरे सदमे में डाल दिया है। आखिर ये भयानक हादसा कैसे हुआ और उस वक्त क्या हालात थे, पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety"
+      },
+      "hashtags": [
+        "TelanganaNews",
+        "CarAccident",
+        "BreakingNews",
+        "DoctorDeath",
+        "RoadSafety"
+      ]
+    },
+    "audio_path": "audio/telangana_neurosurgeon_car_fire_death.wav",
+    "audio_duration_sec": 19.4,
+    "video_path": "videos/telangana_neurosurgeon_car_fire_death.mp4",
+    "video_duration_sec": 27.46,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-20T12:50:05.848747+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aafd69dc45d21e8b0f8df25",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "सड़क पर दौड़ती एक लग्जरी कार अचानक डिवाइडर से जा टकराई और कुछ ही पलों में आग के शोलो में बदल गई। इस दर्दनाक हादसे में किसी और की नहीं, बल्कि एक जाने-माने न्यूरोसर्जन की जिंदा जलकर जान चली गई। 🚗🔥\n\nतेलंगाना के महबूबनगर की इस घटना ने पूरे मेडिकल जगत और मृतकों के परिवार को गहरे सदमे में डाल दिया है। आखिर ये भयानक हादसा कैसे हुआ और उस वक्त क्या हालात थे, पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789908634059_swxpoehp_telangana_neurosurgeon_car_fire_death.mp4",
+                "_id": "6aafd69dc45d21e8b0f8df26"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DRXQckbYO5sQ7kNvwFAACLw&_nc_oc=Adq8HaZwXShh9aZU-TECBsTRHMqvOisc3MlkAZRlvZQ4ccsyLhd_pAjojMugfFBJoIo&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=HElpmO9iZhUWNDWJifZ4LQ&_nc_tpa=Q5bMBQLLentAguE0qgC1VLySCior7Rkd-YYjXMTieyP7CRWJg_JtRIv4PTVjVBTM1NawfTLNV7V5q4Go&oh=00_AQJbsARDogfBP_NbW5vc0NROz9gOk9iCCHZHLRGZB2kIDQ&oe=6AB53194",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-20T12:50:36.379Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "2ebe28754b862c278473c538ddb0c95d",
+                "_id": "6aafd69dc45d21e8b0f8df27",
+                "platformPostId": "965537906607641",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=965537906607641",
+                "publishedAt": "2026-09-20T12:50:41.668Z"
+              }
+            ],
+            "scheduledFor": "2026-09-20T12:50:36.379Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-20T12:50:37.140Z",
+            "updatedAt": "2026-09-20T12:50:41.769Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-20T12:50:37.193Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-20T12:50:41.944695+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6aafd6b7cca497f64d6c9bcb",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "कार डिवाइडर से टकराई और कुछ ही सेकंड में जिंदा जल गए देश के जाने-माने न्यूरोसर्जन! 😱🔥\n\nतेलंगाना के महबूबनगर में हुए इस भयानक हादसे ने सबको हिला कर रख दिया है। आखिर कैसे हुआ ये सब? पूरी कहानी देखें।\n\n#TelanganaNews #CarAccident #BreakingNews #DoctorDeath #RoadSafety",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789908661233_c4ns63g6_telangana_neurosurgeon_car_fire_death.mp4",
+                "_id": "6aafd6b7cca497f64d6c9bcc"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwF-8EH1&_nc_oc=AdpNPfhQC_XcN8IKc7qtwAaNz-PlZs3pW8DYiyGLQI9A8eTnqcPAVebWG1GYA9q0oAY&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FiACP6URT6_VJw2rzMYttg&_nc_tpa=Q5bMBQL05S4yv9Xp-azIvew9IQkANIkuVCElfpWomQXzqys7LOqf4hgBT0lFlOFkTxSChncKgbe32o3Szg&oh=00_AQIf9YUMaHTgnzFFEkx4I_00Ds1JZ4WaIHQ2D63LI9C_1A&oe=6AB5253B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-20T12:51:02.510Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "6cc52fa963a1feffe84966d4ef128d8e",
+                "_id": "6aafd6b7cca497f64d6c9bcd"
+              }
+            ],
+            "scheduledFor": "2026-09-20T12:51:02.510Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-20T12:51:03.866Z",
+            "updatedAt": "2026-09-20T12:51:05.786Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-20T12:51:03.958Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-20T12:51:06.206440+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "india_womens_cricket_bangladesh_asian_games",
+    "virality_score": 7,
+    "reason": "Strong sports victory update as the Indian women's team storms into the Asian Games final.",
+    "region": "india",
+    "headline": "बांग्लादेश को हराकर एशियन गेम्स फाइनल में पहुंचा भारत",
+    "source_summary": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स 2026 के फाइनल में जगह बना ली है। सेमीफाइनल में भारत ने बांग्लादेश को 114 रन से हराया। भारत ने 195 रन बनाए, जिसके जवाब में बांग्लादेश की टीम 81 रन पर ऑलआउट हो गई।",
+    "source_url": "https://www.aajtak.in/short-videos/video/india-vs-bangladesh-asian-games-2026-women-cricket-final-shafali-verma-100-runs-harmanpreet-smriti-srilanka-final-mmtc-2648064-2026-09-20?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-20T14:49:48+05:30",
+    "hook": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स के फाइनल में रच दिया इतिहास!",
+    "script_hi": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में जगह बना ली है। सेमीफाइनल मुकाबले में भारत ने बांग्लादेश को एक सौ चौदह रन से करारी शिकस्त दी है। भारत ने पहले बल्लेबाजी करते हुए एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेश की पूरी टीम इक्यासी रन पर ऑलआउट हो गई।",
+    "tts_text_hi": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में जगह बना ली है। सेमीफाइनल मुकाबले में भारत ने बांग्लादेश को एक सौ चौदह रन से करारी शिकस्त दी है। भारत ने पहले बल्लेबाजी करते हुए एक सौ पचानवे रन बनाए, जिसके जवाब में बांग्लादेश की पूरी टीम इक्यासी रन पर ऑलआउट हो गई।",
+    "title": "बांग्लादेश को हराकर एशियन गेम्स फाइनल में पहुंचा भारत",
+    "caption": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स दो हजार छब्बीस के सेमीफाइनल में बांग्लादेश को एक सौ चौदह रन से हराकर फाइनल में प्रवेश कर लिया है।",
+    "hashtags": [
+      "#IndianCricket",
+      "#AsianGames",
+      "#WomensCricket",
+      "#TeamIndia",
+      "#CricketNews"
+    ],
+    "visual_queries": [
+      "Indian female cricket team India",
+      "cricket stadium match India",
+      "happy Indian cricket fans India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium match India",
+        "credit": "Princeton dsouza",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy Indian cricket fans India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
     "review_status": "pending_review"
   }
 ]
