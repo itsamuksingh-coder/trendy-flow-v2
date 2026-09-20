@@ -1,4 +1,9 @@
-ready_labels: ['diljit_dosanjh_birmingham_concert_construction_workers']
+ready_labels: ['amritsar_asi_harjit_singh_killer_encounter', 'india_bangladesh_womens_cricket_semi_final', 'lpg_subsidy_biometric_aadhaar_mandatory_october', 'nithari_case_surendra_koli_mysterious_death', 'upi_mdr_charges_15_october_new_rules', 'varanasi_naxal_commander_brijesh_ganjhu_encounter']
 
-amritsar_asi_harjit_murder_accused_encounter: SKIPPED (not in ready set)
-diljit_dosanjh_birmingham_concert_construction_workers: SUCCESS -> video_path=videos/diljit_dosanjh_birmingham_concert_construction_workers.mp4 dur=23.22322
+mumbai_coastal_road_bmw_car_accident: SKIPPED (not in ready set)
+upi_mdr_charges_15_october_new_rules: SUCCESS -> video_path=videos/upi_mdr_charges_15_october_new_rules.mp4 dur=36.142222
+india_bangladesh_womens_cricket_semi_final: SUCCESS -> video_path=videos/india_bangladesh_womens_cricket_semi_final.mp4 dur=34.888231
+amritsar_asi_harjit_singh_killer_encounter: SUCCESS -> video_path=videos/amritsar_asi_harjit_singh_killer_encounter.mp4 dur=24.579229
+nithari_case_surendra_koli_mysterious_death: SUCCESS -> video_path=videos/nithari_case_surendra_koli_mysterious_death.mp4 dur=35.256553
+varanasi_naxal_commander_brijesh_ganjhu_encounter: SUCCESS -> video_path=videos/varanasi_naxal_commander_brijesh_ganjhu_encounter.mp4 dur=35.92322
+lpg_subsidy_biometric_aadhaar_mandatory_october: SUCCESS -> video_path=videos/lpg_subsidy_biometric_aadhaar_mandatory_october.mp4 dur=25.670227
