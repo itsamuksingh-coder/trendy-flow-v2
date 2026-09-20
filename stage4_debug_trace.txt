@@ -1,9 +1,7 @@
-ready_labels: ['amritsar_asi_murder_accused_encounter', 'dhanbad_ground_subsidence_houses_collapse', 'indian_youths_hack_openai_bug_bounty', 'shafali_verma_century_womens_asia_cup', 'telangana_neurosurgeon_car_fire_tragedy']
+ready_labels: ['dusu_elections_abvp_win_analysis', 'india_women_cricket_asia_cup_final_shafali']
 
 mumbai_coastal_road_bmw_bridge_accident: SKIPPED (not in ready set)
-iphone_18_pro_launch_sells_family_gold: SKIPPED (not in ready set)
-shafali_verma_century_womens_asia_cup: SUCCESS -> video_path=videos/shafali_verma_century_womens_asia_cup.mp4 dur=20.289887
-amritsar_asi_murder_accused_encounter: SUCCESS -> video_path=videos/amritsar_asi_murder_accused_encounter.mp4 dur=30.244218
-indian_youths_hack_openai_bug_bounty: SUCCESS -> video_path=videos/indian_youths_hack_openai_bug_bounty.mp4 dur=35.489887
-telangana_neurosurgeon_car_fire_tragedy: SUCCESS -> video_path=videos/telangana_neurosurgeon_car_fire_tragedy.mp4 dur=32.54322
-dhanbad_ground_subsidence_houses_collapse: SUCCESS -> video_path=videos/dhanbad_ground_subsidence_houses_collapse.mp4 dur=32.636213
+disha_salian_case_aaditya_thackeray_notice: SKIPPED (not in ready set)
+dusu_elections_abvp_win_analysis: SUCCESS -> video_path=videos/dusu_elections_abvp_win_analysis.mp4 dur=26.589887
+india_women_cricket_asia_cup_final_shafali: SUCCESS -> video_path=videos/india_women_cricket_asia_cup_final_shafali.mp4 dur=34.842222
+saurav_gurjar_mahabharat_bheem_arrest: SKIPPED (not in ready set)
