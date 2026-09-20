@@ -1,7 +1,4 @@
-ready_labels: ['amritsar_influencer_iphone_langar', 'indian_womens_hockey_team_asian_games_win']
+ready_labels: ['diljit_dosanjh_birmingham_concert_construction_workers']
 
-indian_womens_hockey_team_asian_games_win: SUCCESS -> video_path=videos/indian_womens_hockey_team_asian_games_win.mp4 dur=25.972222
-dusu_elections_abvp_win_three_seats: SKIPPED (not in ready set)
-varanasi_naxal_commander_encounters_30_lakh_bounty: SKIPPED (not in ready set)
-mumbai_bmw_bridge_accident_deaths: SKIPPED (not in ready set)
-amritsar_influencer_iphone_langar: SUCCESS -> video_path=videos/amritsar_influencer_iphone_langar.mp4 dur=26.62322
+amritsar_asi_harjit_murder_accused_encounter: SKIPPED (not in ready set)
+diljit_dosanjh_birmingham_concert_construction_workers: SUCCESS -> video_path=videos/diljit_dosanjh_birmingham_concert_construction_workers.mp4 dur=23.22322
