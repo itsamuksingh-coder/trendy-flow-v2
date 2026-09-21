@@ -1,10 +1,6 @@
-ready_labels: ['florida_robot_rabbits_python_hunt', 'ladakh_yak_churpi_cheese_international_gold', 'lava_virat_curve_dual_screen_phone', 'pakistan_police_arrests_imran_khan_sisters', 'rahul_gandhi_event_modi_mimicry']
+ready_labels: ['baghpat_ankit_israr_murder_mahant_arrested_kolkata', 'google_403_million_euro_fine_ireland_gdpr', 'zaheer_khan_csk_head_coach']
 
-mumbai_bmw_coastal_road_crash: SKIPPED (not in ready set)
-father_first_flight_viral_video: SKIPPED (not in ready set)
-jamui_minor_girl_harassment_viral_video: SKIPPED (not in ready set)
-rahul_gandhi_event_modi_mimicry: SUCCESS -> video_path=videos/rahul_gandhi_event_modi_mimicry.mp4 dur=38.069229
-lava_virat_curve_dual_screen_phone: SUCCESS -> video_path=videos/lava_virat_curve_dual_screen_phone.mp4 dur=29.02322
-pakistan_police_arrests_imran_khan_sisters: SUCCESS -> video_path=videos/pakistan_police_arrests_imran_khan_sisters.mp4 dur=26.589887
-florida_robot_rabbits_python_hunt: SUCCESS -> video_path=videos/florida_robot_rabbits_python_hunt.mp4 dur=37.189887
-ladakh_yak_churpi_cheese_international_gold: SUCCESS -> video_path=videos/ladakh_yak_churpi_cheese_international_gold.mp4 dur=26.82322
+zaheer_khan_csk_head_coach: SUCCESS -> video_path=videos/zaheer_khan_csk_head_coach.mp4 dur=26.947211
+mumbai_coastal_road_bmw_crash_cctv: SKIPPED (not in ready set)
+baghpat_ankit_israr_murder_mahant_arrested_kolkata: SUCCESS -> video_path=videos/baghpat_ankit_israr_murder_mahant_arrested_kolkata.mp4 dur=30.941224
+google_403_million_euro_fine_ireland_gdpr: SUCCESS -> video_path=videos/google_403_million_euro_fine_ireland_gdpr.mp4 dur=22.721224
