@@ -1,40 +1,47 @@
 [
   {
-    "topic_label": "mumbai_coastal_road_bmw_crash",
+    "topic_label": "mumbai_bmw_coastal_road_crash",
     "virality_score": 9,
-    "reason": "Horrific CCTV footage of a speeding BMW plunging off the Mumbai Coastal Road bridge has high visual virality.",
+    "reason": "Horrific CCTV footage of a speeding BMW plunging off the Mumbai Coastal Road bridge has high visual and shock value.",
     "region": "india",
     "headline": "रोंगटे खड़े करने वाला हादसा, 200 की स्पीड से पुल से नीचे गिरी BMW",
     "source_summary": "मुंबई में एक बेहद दर्दनाक और रोंगटे खड़े कर देने वाला सड़क हादसा सामने आया है. मरीन ड्राइव से हाजी अली की ओर कोस्टल रोड पर जा रही एक तेज रफ्तार बीएमडब्ल्यू कार अनियंत्रित होकर ब्रिज की रेलिंग तोड़ते हुए नीचे गिर गई. इस हादसे का एक भयानक सीसीटीवी फुटेज भी सामने आया है, जिसमें कार को हवा में लहराते हुए और नीचे गिरते हुए साफ देखा जा सकता है. पुलिस की शुरुआती जांच के अनुसार, हादसे के समय कार की रफ्तार 200 किलोमीटर प्रति घंटे से भी अधिक थी.",
     "source_url": "https://www.aajtak.in/india/maharashtra/video/mumbai-bmw-car-accident-cctv-shows-car-falling-off-bridge-at-200-kmph-3-students-dead-ytvd-2648605-2026-09-21?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-21T11:12:14+05:30",
-    "hook": "मुंबई के कोस्टल रोड पर हुआ रोंगटे खड़े करने वाला हादसा!",
-    "script_hi": "मुंबई में दो सौ की स्पीड से दौड़ रही एक बीएमडब्लू कार पुल की रेलिंग तोड़कर नीचे गिर गई। मरीन ड्राइव से हाजी अली की ओर जा रही इस कार का भयानक सीसीटीवी फुटेज सामने आया है। पुलिस जांच के अनुसार हादसे के वक्त कार की रफ्तार दो सौ किलोमीटर प्रति घंटे से ज्यादा थी।",
-    "tts_text_hi": "मुंबई में दो सौ की स्पीड से दौड़ रही एक बीएमडब्लू कार पुल की रेलिंग तोड़कर नीचे गिर गई। मरीन ड्राइव से हाजी अली की ओर जा रही इस कार का भयानक सीसीटीवी फुटेज सामने आया है। पुलिस जांच के अनुसार हादसे के वक्त कार की रफ्तार दो सौ किलोमीटर प्रति घंटे से ज्यादा थी।",
-    "title": "मुंबई में बीएमडब्ल्यू कार का भयानक हादसा",
-    "caption": "मुंबई के कोस्टल रोड पर मरीन ड्राइव से हाजी अली की ओर जा रही तेज रफ्तार बीएमडब्ल्यू कार पुल से नीचे गिर गई।",
+    "hook": "मुंबई के कोस्टल रोड पर रोंगटे खड़े कर देने वाला हादसा!",
+    "script_hi": "मुंबई में दो सौ किलोमीटर प्रति घंटे की रफ्तार से दौड़ रही बीएमडब्ल्यू कार मरीन ड्राइव के पास ब्रिज की रेलिंग तोड़कर नीचे गिर गई। हादसे का सीसीटीवी फुटेज सामने आया है।",
+    "tts_text_hi": "मुंबई में दो सौ किलोमीटर प्रति घंटे की रफ्तार से दौड़ रही बीएमडब्ल्यू कार मरीन ड्राइव के पास ब्रिज की रेलिंग तोड़कर नीचे गिर गई। हादसे का सीसीटीवी फुटेज सामने आया है।",
+    "title": "मुंबई में दो सौ की स्पीड से पुल से गिरी BMW",
+    "caption": "मुंबई के कोस्टल रोड पर मरीन ड्राइव से हाजी अली की ओर जा रही तेज रफ्तार बीएमडब्ल्यू कार ब्रिज से नीचे गिर गई।",
     "hashtags": [
       "MumbaiAccident",
-      "BMW",
-      "CoastalRoad",
+      "BMWAccident",
       "MumbaiNews",
-      "CarAccident",
-      "IndiaNews"
+      "CoastalRoad",
+      "BreakingNews"
     ],
     "visual_queries": [
       "Mumbai coastal road India",
       "luxury car speeding India",
-      "damaged car accident India",
-      "police investigation traffic India"
+      "damaged car accident India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV footage of a unique accident that generic stock B-roll cannot accurately represent; the real footage must be added manually.",
+    "flag_reason": "The story centers on a specific viral CCTV footage of the crash which generic stock B-roll cannot replace; needs the real video added manually.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39590729/16874801_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "damaged car accident India",
+        "credit": "Tanha Tamanna  Syed",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/38523375/pexels-photo-38523375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -50,664 +57,156 @@
         "query": "luxury car speeding India",
         "credit": "Mohit Hambiria",
         "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_47e7e16b39.jpg",
-        "source": "wikimedia_commons",
-        "query": "damaged car accident India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37889699/pexels-photo-37889699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "high speed car crash",
-        "credit": "Andreas Berget",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "urine_blood_scan_needles_pins_found",
-    "virality_score": 8,
-    "reason": "Bizarre medical case of a patient finding needles and pins inside their bladder after noticing blood in urine.",
-    "region": "india",
-    "headline": "यूरीन से आया ब्लड... स्कैन करवाया तो शख्स के ब्लैडर में दिखी ये खतरनाक चीज!",
-    "source_summary": "एक शख्स के यूरीन में ब्लड आना शुरू किया. जब जांच के लिए उसने सीटी स्कैन करवाया तो हैरान कर देने वाला रिजल्ट सामने आया. उसके बॉडी में हार्ट, ब्लैडर और शरीर के दूसरे अंगों के बार ढेर सारी सुईयां, पिन और दूसरी धातु की नुकीली बाहरी चीजें मिली.",
-    "source_url": "https://www.aajtak.in/trending/story/china-man-blood-in-urine-needles-foreign-bodies-bladder-heart-self-embedding-medical-case-tstsd-dskc-2649096-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T15:19:17+05:30",
-    "hook": "यूरीन में ब्लड आने पर जब शख्स ने सीटी स्कैन करवाया, तो डॉक्टर भी हैरान रह गए!",
-    "script_hi": "यूरीन में ब्लड आने की समस्या के बाद जब एक शख्स ने सीटी स्कैन करवाया, तो डॉक्टरों के होश उड़ गए। स्कैन की रिपोर्ट में उसके ब्लैडर और शरीर के दूसरे अंगों के पास ढेर सारी सुईयां, पिन और धातु की नुकीली चीजें मिलीं। यह हैरान करने वाला मामला चिकित्सा जगत में चर्चा का विषय बन गया है।",
-    "tts_text_hi": "यूरीन में ब्लड आने की समस्या के बाद जब एक शख्स ने सीटी स्कैन करवाया, तो डॉक्टरों के होश उड़ गए। स्कैन की रिपोर्ट में उसके ब्लैडर और शरीर के दूसरे अंगों के पास ढेर सारी सुईयां, पिन और धातु की नुकीली चीजें मिलीं। यह हैरान करने वाला मामला चिकित्सा जगत में चर्चा का विषय बन गया है।",
-    "title": "शख्स के ब्लैडर में मिलीं सुईयां और पिन",
-    "caption": "यूरीन में ब्लड आने के बाद जब शख्स ने सीटी स्कैन करवाया, तो डॉक्टरों को उसके शरीर के अंदर कई नुकीली चीजें मिलीं।",
-    "hashtags": [
-      "#MedicalShock",
-      "#HealthNews",
-      "#IndiaNews",
-      "#ShockingNews",
-      "#HindiNews"
-    ],
-    "visual_queries": [
-      "Indian hospital medical scan India",
-      "doctor looking at x ray India",
-      "medical laboratory equipment India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_23291f2427.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian hospital medical scan India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5722159/pexels-photo-5722159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "doctor looking at x ray India",
-        "credit": "cottonbro studio",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_27605b1fda.jpg",
-        "source": "wikimedia_commons",
-        "query": "medical laboratory equipment India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "petrol_pump_upi_ban_above_2000_mp",
-    "virality_score": 8,
-    "reason": "Consumer-focused financial news about petrol pumps halting UPI transactions above Rs 2000 due to MDR disputes.",
+    "topic_label": "father_first_flight_viral_video",
+    "virality_score": 9,
+    "reason": "Heartwarming emotional story of a son fulfilling his 80-year-old father's dream of a first flight after losing his mother.",
     "region": "india",
-    "headline": "MDR का विरोध, पेट्रोल पंप पर ₹2000 से ज्यादा का UPI से पेमेंट नहीं, कैश देना होगा",
-    "source_summary": "देश के कई हिस्सों में MDR का विरोध हो रहा है, कुछ लोगों में MDR के नियम को लेकर भी कंफ्यूजन है. इस बीच मध्य प्रदेश के पेट्रोल पंप डीलर्स एसोसिएशन ने कहा है कि वे 16 अक्टूबर से 2000 रुपये से ज्यादा की पेट्रोल-डीजल की खरीद पर UPI भुगतान स्वीकार नहीं करेंगे.",
-    "source_url": "https://www.aajtak.in/business/utility/story/mp-petrol-pump-dealers-not-accepting-upi-payments-above-rs-2000-from-oct-16-over-mdr-charges-tuta-rpti-2649038-2026-09-21?utm_source=rssfeed",
+    "headline": "पापा ने पहली बार देखा जहाज... 80 साल की उम्र में बेटे ने पूरा किया सपना",
+    "source_summary": "80 साल के पिता की पहली हवाई यात्रा का वीडियो सोशल मीडिया पर वायरल है. एयरपोर्ट पर पहली बार जहाज देखकर उनका रिएक्शन लोगों को भावुक कर रहा है. बेटे ने अपने पिता की लंबे समय से चली आ रही हवाई यात्रा की इच्छा पूरी की.",
+    "source_url": "https://www.aajtak.in/trending/story/80-year-old-father-first-flight-son-fulfills-dream-tstf-dskc-2649169-2026-09-21?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-21T14:33:42+05:30",
-    "hook": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है?",
-    "script_hi": "मध्य प्रदेश के पेट्रोल पंप डीलर्स एसोसिएशन ने बड़ा फैसला लिया है। एसोसिएशन ने कहा है कि सोलह अक्टूबर से दो हजार रुपये से ज्यादा के पेट्रोल या डीजल की खरीद पर यूपीआई भुगतान स्वीकार नहीं किया जाएगा। यह फैसला मर्चेंट डिस्काउंट रेट यानी एमडीआर के विरोध में लिया गया है। देश के कई हिस्सों में इस नियम को लेकर कन्फ्यूजन और विरोध देखने को मिल रहा है।",
-    "tts_text_hi": "मध्य प्रदेश के पेट्रोल पंप डीलर्स एसोसिएशन ने बड़ा फैसला लिया है। एसोसिएशन ने कहा है कि सोलह अक्टूबर से दो हजार रुपये से ज्यादा के पेट्रोल या डीजल की खरीद पर यूपीआई भुगतान स्वीकार नहीं किया जाएगा। यह फैसला मर्चेंट डिस्काउंट रेट यानी एमडीआर के विरोध में लिया गया है। देश के कई हिस्सों में इस नियम को लेकर कन्फ्यूजन और विरोध देखने को मिल रहा है।",
-    "title": "पेट्रोल पंप पर दो हजार से ज्यादा के भुगतान पर यूपीआई बंद",
-    "caption": "मध्य प्रदेश में सोलह अक्टूबर से दो हजार रुपये से अधिक के पेट्रोल-डीजल पर यूपीआई पेमेंट नहीं लिया जाएगा।",
+    "published": "2026-09-21T17:13:36+05:30",
+    "hook": "अस्सी साल की उम्र में बुजुर्ग पिता ने पहली बार देखी फ्लाइट!",
+    "script_hi": "अस्सी साल के बुजुर्ग पिता ने जीवन में पहली बार हवाई जहाज देखा और हवा में उड़ान भरी। बेटे ने अपने पिता का लंबे समय से अधूरा सपना आखिरकार पूरा कर दिया है। एयरपोर्ट पर पिता के चेहरे की खुशी और उनका रिएक्शन सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई भावुक हो रहा है।",
+    "tts_text_hi": "अस्सी साल के बुजुर्ग पिता ने जीवन में पहली बार हवाई जहाज देखा और हवा में उड़ान भरी। बेटे ने अपने पिता का लंबे समय से अधूरा सपना आखिरकार पूरा कर दिया है। एयरपोर्ट पर पिता के चेहरे की खुशी और उनका रिएक्शन सोशल मीडिया पर तेजी से वायरल हो रहा है, जिसे देखकर हर कोई भावुक हो रहा है।",
+    "title": "पापा ने पहली बार देखा जहाज, अस्सी साल की उम्र में पूरा हुआ सपना",
+    "caption": "अस्सी साल की उम्र में बेटे ने पूरा किया पिता का हवाई यात्रा का सपना, एयरपोर्ट का यह इमोशनल वीडियो सोशल मीडिया पर हुआ वायरल।",
     "hashtags": [
-      "#PetrolPump",
-      "#UPI",
-      "#MadhyaPradesh",
-      "#MDR",
-      "#NewsInHindi",
-      "#IndiaNews"
+      "ViralVideo",
+      "FatherAndSon",
+      "Emotional",
+      "Airport",
+      "IndiaNews",
+      "GoodNews"
     ],
     "visual_queries": [
-      "Indian petrol pump station",
-      "digital payment scanner India",
-      "cash currency India"
+      "elderly Indian man smiling",
+      "Indian airport terminal interior",
+      "airplane taking off India",
+      "happy father and son India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral video of a real person's reaction which requires the actual real footage rather than generic stock B-roll.",
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7669659/7669659-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/4169143/4169143-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "digital payment smartphone India",
-        "credit": "Ivan S",
-        "source_duration_sec": 7,
+        "query": "airplane taking off India",
+        "credit": "Liza Dolin Bugtong",
+        "source_duration_sec": 234,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e3056334ce.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian petrol pump station",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6969846/pexels-photo-6969846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15693828/pexels-photo-15693828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "digital payment scanner India",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_5bd0cdfd63.jpg",
-        "source": "wikimedia_commons",
-        "query": "cash currency India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gas station pump India",
-        "credit": "Mehul",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33826154/pexels-photo-33826154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian man counting cash",
-        "credit": "its me",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_63556c8929.jpg",
-        "source": "wikimedia_commons",
-        "query": "fuel station highway India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पेट्रोल पंप पर ₹2000 से ज्यादा UPI पेमेंट बंद? ⛽",
-        "caption": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है? 🛑\n\nMDR चार्ज के विरोध में डीलर्स ने अब ₹2000 से ऊपर के डिजिटल पेमेंट पर रोक लगानी शुरू कर दी है। अब आपको इसके लिए कैश देना पड़ सकता है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#petrolpump #upi #digitalpayment #newsupdate #financenews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है? ⛽\n\nMDR विवाद के चलते अब ₹2000 से ज्यादा के ऑनलाइन पेमेंट पर संकट आ गया है। डीलर्स का साफ कहना है कि ज्यादा ट्रांजैक्शन पर नुकसान हो रहा है।\n\nक्या आप पेट्रोल भरवाने के लिए कैश लेकर चलते हैं? कमेंट में बताएं। 👇\n\n#petrolpump #upi #digitalpayment #newsupdate #financenews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है? 🛑\n\nडिजिटल इंडिया के इस दौर में एक बड़ा झटका लगा है। MDR चार्ज के विरोध में पेट्रोल पंप डीलर्स ने ₹2000 से ज्यादा के यूपीआई पेमेंट स्वीकार करने से मना करना शुरू कर दिया है। इसका सीधा असर आम जनता पर पड़ रहा है जिसे अब कैश का इंतजाम करना होगा।\n\nयह नियम आपके शहर में लागू हुआ या नहीं? वीडियो देखकर पूरी बात समझें और शेयर करें।\n\n#petrolpump #upi #digitalpayment #newsupdate #financenews"
-      },
-      "hashtags": [
-        "petrolpump",
-        "upi",
-        "digitalpayment",
-        "newsupdate",
-        "financenews"
-      ]
-    },
-    "audio_path": "audio/petrol_pump_upi_ban_above_2000_mp.wav",
-    "audio_duration_sec": 24.29,
-    "video_path": "videos/petrol_pump_upi_ban_above_2000_mp.mp4",
-    "video_duration_sec": 32.29,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-21T10:55:00.292250+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab10d1eafb2dfe4b0a363fb",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है? 🛑\n\nडिजिटल इंडिया के इस दौर में एक बड़ा झटका लगा है। MDR चार्ज के विरोध में पेट्रोल पंप डीलर्स ने ₹2000 से ज्यादा के यूपीआई पेमेंट स्वीकार करने से मना करना शुरू कर दिया है। इसका सीधा असर आम जनता पर पड़ रहा है जिसे अब कैश का इंतजाम करना होगा।\n\nयह नियम आपके शहर में लागू हुआ या नहीं? वीडियो देखकर पूरी बात समझें और शेयर करें।\n\n#petrolpump #upi #digitalpayment #newsupdate #financenews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789988123554_4y91n34i_petrol_pump_upi_ban_above_2000_mp.mp4",
-                "_id": "6ab10d1eafb2dfe4b0a363fc"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFepudF&_nc_oc=AdqARf80MkYFY77DhXUT0wy5hCzfTbDS35Y_u7JJazHNIg5tjIwTYCD46hWJVtXE8Uk&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=dZSwGxi6uuRsgfvSeOtXIQ&_nc_tpa=Q5bMBQKw7_hN06zlJxEHIYsDDylW3GaZwfY_LX2h20v0IjIuNzGTcHOZ0ujWpjsfZukTf6roQYmJxSiZ&oh=00_AQLma4qaE9VI2qZk7i1HnWEc8yxvnVpMnR2tN6RThxlNJg&oe=6AB68314",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-21T10:55:25.433Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "acae08ad49af996e68a0d6a32cfa8bc7",
-                "_id": "6ab10d1eafb2dfe4b0a363fd",
-                "platformPostId": "948883127681963",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=948883127681963",
-                "publishedAt": "2026-09-21T10:55:32.990Z"
-              }
-            ],
-            "scheduledFor": "2026-09-21T10:55:25.433Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-21T10:55:26.666Z",
-            "updatedAt": "2026-09-21T10:55:33.121Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-21T10:55:26.767Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-21T10:55:33.287840+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab10d44ff456349481abf29",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "क्या पेट्रोल पंप पर यूपीआई से पेमेंट करना अब बंद होने वाला है? ⛽\n\nMDR विवाद के चलते अब ₹2000 से ज्यादा के ऑनलाइन पेमेंट पर संकट आ गया है। डीलर्स का साफ कहना है कि ज्यादा ट्रांजैक्शन पर नुकसान हो रहा है।\n\nक्या आप पेट्रोल भरवाने के लिए कैश लेकर चलते हैं? कमेंट में बताएं। 👇\n\n#petrolpump #upi #digitalpayment #newsupdate #financenews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789988161648_eg04e6yq_petrol_pump_upi_ban_above_2000_mp.mp4",
-                "_id": "6ab10d44ff456349481abf2a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-21T10:56:03.631Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "33bc2d4a3d3d50bf819815880392b95c",
-                "_id": "6ab10d44ff456349481abf2b"
-              }
-            ],
-            "scheduledFor": "2026-09-21T10:56:03.631Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-21T10:56:04.476Z",
-            "updatedAt": "2026-09-21T10:56:06.344Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-21T10:56:04.529Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-21T10:56:06.704092+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "baghpat_killer_mahant_arrested_kolkata",
-    "virality_score": 8,
-    "reason": "Crime thriller story of a double-murder suspect priest hiding as a beggar in Kolkata after floods.",
-    "region": "india",
-    "headline": "मंदिर में गाड़ीं लाशें, ऊपर बिछाईं टाइल्स! बागपत का &#039;कातिल&#039; महंत अरेस्ट",
-    "source_summary": "बागपत के चर्चित अंकित-इसरार दोहरे हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार कर लिया. प्रेम-संबंध और ब्लैकमेलिंग के चलते आरोपी ने दोनों को नशीली चाय पिलाकर हत्या की और शव मंदिर में दफना दिए. वारदात के बाद नेपाल भागा महंत बाढ़ के कारण कोलकाता में भिखारी बन छिपा हुआ था.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-murderer-mahant-nareshnath-arrested-in-kolkata-disguised-as-beggar-love-affair-lclam-strc-2648870-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T12:36:20+05:30",
-    "hook": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! बागपत के सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी महंत कोलकाता से गिरफ्तार।",
-    "script_hi": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! बागपत के सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी महंत कोलकाता से गिरफ्तार। उत्तर प्रदेश के बागपत में अंकित और इसरार दोहरे हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से धर दबोचा। प्रेम संबंध और ब्लैकमेलिंग के चलते आरोपी ने दोनों को नशीली चाय पिलाई और उनकी हत्या कर शव मंदिर के अंदर ही दफना दिए। वारदात को अंजाम देने के बाद आरोपी महंत नेपाल भाग गया था, लेकिन बाढ़ के कारण वह कोलकाता पहुंचा और वहां भिखारी बनकर छिपकर रह रहा था। पुलिस अब आगे की कानूनी कार्रवाई में जुटी है।",
-    "tts_text_hi": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! बागपत के सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी महंत कोलकाता से गिरफ्तार। उत्तर प्रदेश के बागपत में अंकित और इसरार दोहरे हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से धर दबोचा। प्रेम संबंध और ब्लैकमेलिंग के चलते आरोपी ने दोनों को नशीली चाय पिलाई और उनकी हत्या कर शव मंदिर के अंदर ही दफना दिए। वारदात को अंजाम देने के बाद आरोपी महंत नेपाल भाग गया था, लेकिन बाढ़ के कारण वह कोलकाता पहुंचा और वहां भिखारी बनकर छिपकर रह रहा था। पुलिस अब आगे की कानूनी कार्रवाई में जुटी है।",
-    "title": "बागपत दोहरा हत्याकांड: मंदिर में दफनाई लाशें, कोलकाता में भिखारी बना महंत गिरफ्तार",
-    "caption": "बागपत के चर्चित अंकित-इसरार दोहरे हत्याकांड का मुख्य आरोपी महंत नरेशनाथ कोलकाता से गिरफ्तार। प्रेम-संबंध और ब्लैकमेलिंग के चलते मंदिर में की थी हत्या। #Baghpat #CrimeNews #UttarPradesh #PoliceArrest #HindiNews",
-    "hashtags": [
-      "Baghpat",
-      "CrimeNews",
-      "UttarPradesh",
-      "PoliceArrest",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "Hindu temple India",
-      "Uttar Pradesh police station India",
-      "police investigation India",
-      "beggar on street India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_dd8d62ff61.jpg",
-        "source": "wikimedia_commons",
-        "query": "Hindu temple India",
-        "credit": "Wikimedia Commons",
+        "query": "elderly Indian man smiling",
+        "credit": "Rubenstein Rebello",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e0cac21e17.jpg",
-        "source": "wikimedia_commons",
-        "query": "Uttar Pradesh police station India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/30703612/pexels-photo-30703612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian airport terminal interior",
+        "credit": "Janmesh Shah",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32298181/pexels-photo-32298181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12283121/pexels-photo-12283121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "beggar on street India",
-        "credit": "Ravi Kant",
+        "query": "happy father and son India",
+        "credit": "Binny Thomas",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मंदिर के अंदर गाड़ दीं दो लाशें! बागपत का कातिल महंत कोलकाता से अरेस्ट 🚨",
-        "caption": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! बागपत के इस सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी महंत आखिरकार कोलकाता से दबोच लिया गया।\n\nपूजा-पाठ की आड़ में चल रहे इस खौफनाक खेल का पर्दाफाश कैसे हुआ? पूरी कहानी देखें इस वीडियो में।\n\nक्या ऐसे लोगों को कभी माफ किया जा सकता है? अपनी राय कमेंट में बताएं।\n\n#BaghpatNews #CrimeNews #UpPolice #MandirMurder #LatestNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! 🏛️ बागपत के सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी कोलकाता से गिरफ्तार।\n\nसाधु के भेष में छिपा था ऐसा कातिल, पुलिस भी सन्न रह गई। पूरी सच्चाई जानने के लिए वीडियो अंत तक देखें।\n\nशेयर करें ताकि सबको सच पता चले।\n\n#BaghpatNews #CrimeNews #UpPolice #MandirMurder #LatestNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मंदिर के अंदर दो लाशें और ठीक उनके ऊपर बिछा दी गईं टाइल्स! बागपत से सामने आए इस दोहरे हत्याकांड ने पूरे इलाके कोहिलाकर रख दिया है।\n\nपूजा-पाठ करने वाला महंत ही इस खौफनाक वारदात का मास्टरमाइंड निकला, जो पुलिस से बचने के लिए कोलकाता में भिखारी बनकर छिपा था।\n\nआखिर पुलिस तक कैसे पहुंची इस शातिर कातिल की खबर? पूरी कहानी वीडियो में देखें और अपनी राय साझा करें।\n\n#BaghpatNews #CrimeNews #UpPolice #MandirMurder #LatestNews"
-      },
-      "hashtags": [
-        "BaghpatNews",
-        "CrimeNews",
-        "UpPolice",
-        "MandirMurder",
-        "LatestNews"
-      ]
-    },
-    "audio_path": "audio/baghpat_killer_mahant_arrested_kolkata.wav",
-    "audio_duration_sec": 30.2,
-    "video_path": "videos/baghpat_killer_mahant_arrested_kolkata.mp4",
-    "video_duration_sec": 38.26,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-21T11:00:12.827862+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab10e5491b35b4f9531dbe8",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मंदिर के अंदर दो लाशें और ठीक उनके ऊपर बिछा दी गईं टाइल्स! बागपत से सामने आए इस दोहरे हत्याकांड ने पूरे इलाके कोहिलाकर रख दिया है।\n\nपूजा-पाठ करने वाला महंत ही इस खौफनाक वारदात का मास्टरमाइंड निकला, जो पुलिस से बचने के लिए कोलकाता में भिखारी बनकर छिपा था।\n\nआखिर पुलिस तक कैसे पहुंची इस शातिर कातिल की खबर? पूरी कहानी वीडियो में देखें और अपनी राय साझा करें।\n\n#BaghpatNews #CrimeNews #UpPolice #MandirMurder #LatestNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789988434108_bfub1u78_baghpat_killer_mahant_arrested_kolkata.mp4",
-                "_id": "6ab10e5491b35b4f9531dbe9"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFepudF&_nc_oc=AdqARf80MkYFY77DhXUT0wy5hCzfTbDS35Y_u7JJazHNIg5tjIwTYCD46hWJVtXE8Uk&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=dZSwGxi6uuRsgfvSeOtXIQ&_nc_tpa=Q5bMBQKw7_hN06zlJxEHIYsDDylW3GaZwfY_LX2h20v0IjIuNzGTcHOZ0ujWpjsfZukTf6roQYmJxSiZ&oh=00_AQLma4qaE9VI2qZk7i1HnWEc8yxvnVpMnR2tN6RThxlNJg&oe=6AB68314",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-21T11:00:35.550Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "cee241e39cac5191f0cbfda6d699169e",
-                "_id": "6ab10e5491b35b4f9531dbea",
-                "platformPostId": "1396146878692381",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1396146878692381",
-                "publishedAt": "2026-09-21T11:00:43.207Z"
-              }
-            ],
-            "scheduledFor": "2026-09-21T11:00:35.550Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:00:36.855Z",
-            "updatedAt": "2026-09-21T11:00:43.371Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:00:37.236Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-21T11:00:43.571604+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab10e7ad59140d67eeab93b",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मंदिर के अंदर दो लाशें और ऊपर बिछाई गईं टाइल्स! 🏛️ बागपत के सनसनीखेज दोहरे हत्याकांड का मुख्य आरोपी कोलकाता से गिरफ्तार।\n\nसाधु के भेष में छिपा था ऐसा कातिल, पुलिस भी सन्न रह गई। पूरी सच्चाई जानने के लिए वीडियो अंत तक देखें।\n\nशेयर करें ताकि सबको सच पता चले।\n\n#BaghpatNews #CrimeNews #UpPolice #MandirMurder #LatestNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789988470832_n3wfx4pz_baghpat_killer_mahant_arrested_kolkata.mp4",
-                "_id": "6ab10e7ad59140d67eeab93c"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-21T11:01:12.890Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "6cf2f559839426fbd39e4afd000f63d3",
-                "_id": "6ab10e7ad59140d67eeab93d"
-              }
-            ],
-            "scheduledFor": "2026-09-21T11:01:12.890Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:01:14.225Z",
-            "updatedAt": "2026-09-21T11:01:16.156Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:01:14.293Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-21T11:01:16.578169+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "mahabharat_bheem_actor_sourav_gurjar_arrested",
-    "virality_score": 8,
-    "reason": "Celebrity crime news involving TV actor Saurav Gurjar's arrest over serious sexual exploitation charges.",
-    "region": "india",
-    "headline": "महाभारत के भीम सौरव गुर्जर को एयरपोर्ट से लिया हिरासत में, महिला ने लगाए शादी का झांसा देने और प्रताड़ित करने के आरोप",
-    "source_summary": "स्टार प्लस की महाभारत के भीम का किरदार निभाने वाले एक्टर और पहलवान सौरव गुर्जर को कथित तौर पर विवाह का झांसा देकर 29 वर्षीय महिला का यौन शोषण करने के आरोप में गिरफ्तार किया गया है.",
-    "source_url": "https://ndtv.in/television/mahabharat-bheem-saurav-gurjar-detained-at-airport-after-accused-of-harassment-and-deceiving-woman-with-false-marriage-promise-12074166#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 21 Sep 2026 11:30:49 +0530",
-    "hook": "महाभारत के भीम यानी सौरव गुर्जर मुश्किल में फंस गए हैं!",
-    "script_hi": "महाभारत धारावाहिक में भीम का किरदार निभाने वाले अभिनेता और पहलवान सौरव गुर्जर को पुलिस ने हिरासत में ले लिया है। उन पर एक उनतीस वर्षीय महिला ने शादी का झांसा देकर यौन शोषण करने और प्रताड़ित करने का गंभीर आरोप लगाया है। महिला की शिकायत के आधार पर यह कार्रवाई की गई है।",
-    "tts_text_hi": "महाभारत धारावाहिक में भीम का किरदार निभाने वाले अभिनेता और पहलवान सौरव गुर्जर को पुलिस ने हिरासत में ले लिया है। उन पर एक उनतीस वर्षीय महिला ने शादी का झांसा देकर यौन शोषण करने और प्रताड़ित करने का गंभीर आरोप लगाया है। महिला की शिकायत के आधार पर यह कार्रवाई की गई है।",
-    "title": "महाभारत के भीम सौरव गुर्जर हिरासत में",
-    "caption": "महाभारत में भीम का किरदार निभाने वाले सौरव गुर्जर पर एक महिला ने शादी का झांसा देकर यौन शोषण का आरोप लगाया है, जिसके बाद उन्हें हिरासत में लिया गया है।",
-    "hashtags": [
-      "#SourabhGourjjar",
-      "#Mahabharat",
-      "#CrimeNews",
-      "#EntertainmentNews",
-      "#PoliceAction",
-      "#LatestNews"
-    ],
-    "visual_queries": [
-      "Indian television actor portrait India",
-      "Indian police station building India"
-    ],
-    "named_person": "Sourabh Gajjar",
-    "named_person_hi": "सौरव गुर्जर",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": true,
-    "flag_reason": "An unproven criminal allegation against a specific named individual who has not been convicted.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "सौरव गुर्जर",
-        "source": "fallback",
-        "query": "Sourabh Gajjar",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian television actor portrait India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station building India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "rahul_gandhi_event_modi_mimicry_controversy",
+    "topic_label": "jamui_minor_girl_harassment_viral_video",
+    "virality_score": 9,
+    "reason": "Outrage-inducing viral video of teens being harassed in Bihar with high public interest and swift police arrests.",
+    "region": "india",
+    "headline": "जमुई में दोस्त के साथ घूम रही नाबालिग को लड़कों ने घेरकर छेड़ा, पीटा, वीडियो वायरल होने पर 3 गिरफ्तार",
+    "source_summary": "बिहार के जमुई में एक लड़की से बदसलूकी का मामला सामने आया है. लड़की अपने दोस्त के साथ घूमने निकली थी, तभी कुछ लड़कों ने उसे घेर लिया और फिर उसके साथ छेड़छाड़ की है. घटना का वीडियो भी सोशल मीडिया पर वायरल हुआ है.",
+    "source_url": "https://ndtv.in/bihar-news/jamui-minor-girl-harassment-video-flirtatious-youths-bihar-police-search-for-accused-12074966#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 21 Sep 2026 15:36:07 +0530",
+    "hook": "बिहार के जमुई में नाबालिग लड़की से बदसलूकी और मारपीट का वीडियो हुआ वायरल!",
+    "script_hi": "बिहार के जमुई में दोस्त के साथ घूम रही नाबालिग लड़की को कुछ लड़कों ने घेरकर छेड़ा और पीटा। घटना का वीडियो सोशल मीडिया पर वायरल होने के बाद पुलिस ने त्वरित कार्रवाई करते हुए तीन आरोपियों को गिरफ्तार कर लिया है। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "बिहार के जमुई में दोस्त के साथ घूम रही नाबालिग लड़की को कुछ लड़कों ने घेरकर छेड़ा और पीटा। घटना का वीडियो सोशल मीडिया पर वायरल होने के बाद पुलिस ने त्वरित कार्रवाई करते हुए तीन आरोपियों को गिरफ्तार कर लिया है। पुलिस मामले की जांच कर रही है।",
+    "title": "जमुई में नाबालिग से छेड़छाड़ और मारपीट, वीडियो वायरल होने पर तीन गिरफ्तार",
+    "caption": "बिहार के जमुई में दोस्त के साथ घूम रही नाबालिग लड़की के साथ बदसलूकी और मारपीट का मामला सामने आया है। वीडियो वायरल होने के बाद तीन आरोपियों को गिरफ्तार कर लिया गया है।",
+    "hashtags": [
+      "Jamui",
+      "BiharNews",
+      "CrimeNews",
+      "PoliceAction",
+      "ViralVideo",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Indian police station exterior India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": true,
+    "flag_reason": "Content involves a minor victim of a crime, requiring sensitive handling. Also, the story centers on a specific viral video which generic stock footage cannot replace.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12755778/pexels-photo-12755778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station exterior India",
+        "credit": "Chandan Suman 🇮🇳",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "rahul_gandhi_event_modi_mimicry",
     "virality_score": 8,
-    "reason": "High-profile political row over a comedian mimicking PM Modi at a Rahul Gandhi student event in Indore.",
+    "reason": "High political controversy involving PM Modi's mimicry at a Rahul Gandhi student event.",
     "region": "india",
     "headline": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री, बढ़ा सियासी विवाद",
     "source_summary": "इंदौर में कांग्रेस नेता राहुल गांधी के 'छात्रों की गूंज' कार्यक्रम में एक नया सियासी घमासान खड़ा हो गया है. इस कार्यक्रम के दौरान मंच पर स्टैंड-अप कॉमेडियन पुलकित मणि की एंट्री हुई, जिन्होंने प्रधानमंत्री नरेंद्र मोदी की मिमिक्री की. इस मिमिक्री के बाद मंच पर राहुल गांधी और कॉमेडियन के बीच हुए संवाद को लेकर अब बीजेपी और कांग्रेस आमने-सामने हैं. बीजेपी का आरोप है कि इस कार्यक्रम में प्रधानमंत्री नरेंद्र मोदी का न केवल मजाक उड़ाया गया, बल्कि 'मां' शब्द का इस्तेमाल कर उनका घोर अपमान किया गया है.",
     "source_url": "https://www.aajtak.in/india/news/video/controversy-erupts-over-pm-modi-mimicry-at-rahul-gandhi-indore-event-ytvd-2648589-2026-09-21?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-21T10:53:35+05:30",
-    "hook": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान!",
-    "script_hi": "इंदौर में कांग्रेस नेता राहुल गांधी के छात्रों की गूंज कार्यक्रम में एक नया सियासी विवाद खड़ा हो गया है। इस कार्यक्रम के दौरान मंच पर स्टैंड-अप कॉमेडियन पुलकित मणि ने प्रधानमंत्री नरेंद्र मोदी की मिमिक्री की। इस दौरान राहुल गांधी और कॉमेडियन के बीच हुए संवाद को लेकर अब बीजेपी और कांग्रेस आमने-सामने आ गए हैं। बीजेपी का आरोप है कि इस कार्यक्रम में प्रधानमंत्री मोदी का मजाक उड़ाया गया और उनका घोर अपमान किया गया है।",
-    "tts_text_hi": "इंदौर में कांग्रेस नेता राहुल गांधी के छात्रों की गूंज कार्यक्रम में एक नया सियासी विवाद खड़ा हो गया है। इस कार्यक्रम के दौरान मंच पर स्टैंड-अप कॉमेडियन पुलकित मणि ने प्रधानमंत्री नरेंद्र मोदी की मिमिक्री की। इस दौरान राहुल गांधी और कॉमेडियन के बीच हुए संवाद को लेकर अब बीजेपी और कांग्रेस आमने-सामने आ गए हैं। बीजेपी का आरोप है कि इस कार्यक्रम में प्रधानमंत्री मोदी का मजाक उड़ाया गया और उनका घोर अपमान किया गया है।",
-    "title": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर विवाद",
-    "caption": "इंदौर में राहुल गांधी के कार्यक्रम के दौरान पीएम मोदी की मिमिक्री को लेकर बीजेपी और कांग्रेस आमने-सामने।",
+    "hook": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर सियासी घमासान!",
+    "script_hi": "इंदौर में कांग्रेस नेता राहुल गांधी के छात्रों की गूंज कार्यक्रम में एक नया सियासी विवाद खड़ा हो गया है। कार्यक्रम के दौरान मंच पर स्टैंड-अप कॉमेडियन पुलकित मणि ने प्रधानमंत्री नरेंद्र मोदी की मिमिक्री की। इस मिमिक्री और आपसी संवाद को लेकर बीजेपी और कांग्रेस आमने-सामने आ गए हैं। बीजेपी का आरोप है कि इस दौरान प्रधानमंत्री मोदी का मजाक उड़ाया गया और उनका अपमान किया गया है।",
+    "tts_text_hi": "इंदौर में कांग्रेस नेता राहुल गांधी के छात्रों की गूंज कार्यक्रम में एक नया सियासी विवाद खड़ा हो गया है। कार्यक्रम के दौरान मंच पर स्टैंड-अप कॉमेडियन पुलकित मणि ने प्रधानमंत्री नरेंद्र मोदी की मिमिक्री की। इस मिमिक्री और आपसी संवाद को लेकर बीजेपी और कांग्रेस आमने-सामने आ गए हैं। बीजेपी का आरोप है कि इस दौरान प्रधानमंत्री मोदी का मजाक उड़ाया गया और उनका अपमान किया गया है।",
+    "title": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर बढ़ा सियासी विवाद",
+    "caption": "इंदौर में राहुल गांधी के कार्यक्रम के दौरान प्रधानमंत्री नरेंद्र मोदी की मिमिक्री को लेकर बीजेपी और कांग्रेस में तनातनी बढ़ गई है।",
     "hashtags": [
       "RahulGandhi",
       "NarendraModi",
@@ -717,9 +216,9 @@
       "IndiaNews"
     ],
     "visual_queries": [
-      "Indian political rally crowd India",
-      "Indian political speech stage India",
-      "angry politicians press conference India"
+      "Indian politician speech stage India",
+      "stand up comedian stage India",
+      "political debate protest India"
     ],
     "named_person": "Rahul Gandhi",
     "named_person_hi": "राहुल गांधी",
@@ -738,64 +237,63 @@
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "political rally India stage",
-        "credit": "Aditya Jaiswal",
-        "source_duration_sec": 14,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087857/pexels-photo-39087857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian political rally crowd India",
-        "credit": "Satyam Pixels",
+        "query": "Indian politician speech stage India",
+        "credit": "Voters Party International",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/35481826/pexels-photo-35481826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian stand up comedian on stage",
+        "query": "stand up comedian stage India",
         "credit": "Yahya Gopalani",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "political debate protest India",
+        "credit": "Rahul Sapra",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री! मचा सियासी घमासान 😲",
-        "caption": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान!\n\nकांग्रेस के मंच पर पीएम मोदी की नकल उतारने का वीडियो सामने आने के बाद सियासत गरमा गई है। सत्ता पक्ष और विपक्ष के बीच इस पर तीखे बयान सामने आ रहे हैं।\n\nपूरा मामला क्या है, वीडियो में देखिए।\n\n#RahulGandhi #NarendraModi #PoliticalNews #Congress #BJP"
+        "title": "राहुल गांधी के मंच पर पीएम मोदी की मिमिक्री, मचा बवाल 🎤🔥",
+        "caption": "मंच पर पीएम मोदी की मिमिक्री... और भड़क गई सियासत! 😡\n\nराहुल गांधी के एक कार्यक्रम के दौरान कुछ ऐसा हुआ जिस पर अब जमकर बवाल मचा हुआ है। राजनीतिक गलियारों में इस पर तीखी प्रतिक्रियाएं सामने आ रही हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#RahulGandhi #NarendraModi #PoliticalNews #IndianPolitics #LatestNews"
       },
       "instagram": {
         "title": null,
-        "caption": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान! 😲\n\nकांग्रेस के मंच से पीएम मोदी की नकल उतारने का यह वीडियो सामने आते ही राजनीतिक पारा चढ़ गया है। दोनों तरफ से तीखे वार-पलटवार शुरू हो चुके हैं।\n\nआपकी इस पर क्या राय है? कॉमेंट्स में बताएं।\n\n#RahulGandhi #NarendraModi #PoliticalNews #Congress #BJP"
+        "caption": "स्टेज पर पीएम मोदी की मिमिक्री और शुरू हो गया नया सियासी घमासान! 🎭🔥\n\nराहुल गांधी के कार्यक्रम का यह वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है। इस पर आपकी क्या राय है?\n\nपूरी कहानी देखें और दोस्तों के साथ शेयर करें।\n\n#RahulGandhi #NarendraModi #PoliticalNews #IndianPolitics #LatestNews"
       },
       "facebook": {
         "title": null,
-        "caption": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान!\n\nकांग्रेस के एक कार्यक्रम के दौरान पीएम मोदी की नकल उतारने का वीडियो सोशल मीडिया पर वायरल होने के बाद बड़ा विवाद खड़ा हो गया है। इस पर बीजेपी नेताओं ने तीखा हमला बोला है, जिससे राजनीतिक सरगर्मी काफी बढ़ गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#RahulGandhi #NarendraModi #PoliticalNews #Congress #BJP"
+        "caption": "मंच पर मिमिक्री और सियासत गरमा गई! 🇮🇳\n\nराहुल गांधी के एक कार्यक्रम के दौरान पीएम मोदी की नकल उतारने का मामला सामने आया है, जिसके बाद से दोनों दलों के बीच तनातनी काफी बढ़ गई है। आखिर इस पूरे वाकये के पीछे की असली सच्चाई क्या है?\n\nवीडियो अंत तक देखें और कमेंट करके बताएं कि क्या राजनीति में इस तरह की चीजें होनी चाहिए।\n\n#RahulGandhi #NarendraModi #PoliticalNews #IndianPolitics #LatestNews"
       },
       "hashtags": [
         "RahulGandhi",
         "NarendraModi",
         "PoliticalNews",
-        "Congress",
-        "BJP"
+        "IndianPolitics",
+        "LatestNews"
       ]
     },
-    "audio_path": "audio/rahul_gandhi_event_modi_mimicry_controversy.wav",
-    "audio_duration_sec": 28.41,
-    "video_path": "videos/rahul_gandhi_event_modi_mimicry_controversy.mp4",
-    "video_duration_sec": 36.47,
+    "audio_path": "audio/rahul_gandhi_event_modi_mimicry.wav",
+    "audio_duration_sec": 30.02,
+    "video_path": "videos/rahul_gandhi_event_modi_mimicry.mp4",
+    "video_duration_sec": 38.07,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-21T11:06:48.703194+00:00"
+        "attempted_at": "2026-09-21T12:53:39.811027+00:00"
       },
       "facebook": {
         "success": true,
@@ -808,15 +306,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab10fdc6148e76c089870a1",
+            "_id": "6ab128ef406d5e66c66ad12b",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान!\n\nकांग्रेस के एक कार्यक्रम के दौरान पीएम मोदी की नकल उतारने का वीडियो सोशल मीडिया पर वायरल होने के बाद बड़ा विवाद खड़ा हो गया है। इस पर बीजेपी नेताओं ने तीखा हमला बोला है, जिससे राजनीतिक सरगर्मी काफी बढ़ गई है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय साझा करें।\n\n#RahulGandhi #NarendraModi #PoliticalNews #Congress #BJP",
+            "content": "मंच पर मिमिक्री और सियासत गरमा गई! 🇮🇳\n\nराहुल गांधी के एक कार्यक्रम के दौरान पीएम मोदी की नकल उतारने का मामला सामने आया है, जिसके बाद से दोनों दलों के बीच तनातनी काफी बढ़ गई है। आखिर इस पूरे वाकये के पीछे की असली सच्चाई क्या है?\n\nवीडियो अंत तक देखें और कमेंट करके बताएं कि क्या राजनीति में इस तरह की चीजें होनी चाहिए।\n\n#RahulGandhi #NarendraModi #PoliticalNews #IndianPolitics #LatestNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789988825981_41s2knd9_rahul_gandhi_event_modi_mimicry_controversy.mp4",
-                "_id": "6ab10fdc6148e76c089870a2"
+                "url": "https://media.zernio.com/media/1789995245093_7918r0mz_rahul_gandhi_event_modi_mimicry.mp4",
+                "_id": "6ab128ef406d5e66c66ad12c"
               }
             ],
             "platforms": [
@@ -833,17 +331,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-21T11:07:07.587Z",
+                "scheduledFor": "2026-09-21T12:54:07.182Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "e645d6ebf33da89807dccdef1b6d3e1f",
-                "_id": "6ab10fdc6148e76c089870a3",
-                "platformPostId": "1120527350432458",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1120527350432458",
-                "publishedAt": "2026-09-21T11:07:14.190Z"
+                "contentHash": "932a4b276be46fbfe383b0662790aa4a",
+                "_id": "6ab128ef406d5e66c66ad12d",
+                "platformPostId": "1775909753714909",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1775909753714909",
+                "publishedAt": "2026-09-21T12:54:14.176Z"
               }
             ],
-            "scheduledFor": "2026-09-21T11:07:07.587Z",
+            "scheduledFor": "2026-09-21T12:54:07.182Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -855,14 +353,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:07:08.793Z",
-            "updatedAt": "2026-09-21T11:07:14.325Z",
+            "createdAt": "2026-09-21T12:54:08.001Z",
+            "updatedAt": "2026-09-21T12:54:14.292Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:07:08.899Z"
+            "publishingClaimedAt": "2026-09-21T12:54:08.144Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-21T11:07:14.589954+00:00"
+        "attempted_at": "2026-09-21T12:54:14.478869+00:00"
       },
       "instagram": {
         "success": true,
@@ -875,15 +373,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab10ff6c49ae1795f955c41",
+            "_id": "6ab129159893ba92fcefda7a",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "राहुल गांधी के कार्यक्रम में पीएम मोदी की मिमिक्री पर मचा घमासान! 😲\n\nकांग्रेस के मंच से पीएम मोदी की नकल उतारने का यह वीडियो सामने आते ही राजनीतिक पारा चढ़ गया है। दोनों तरफ से तीखे वार-पलटवार शुरू हो चुके हैं।\n\nआपकी इस पर क्या राय है? कॉमेंट्स में बताएं।\n\n#RahulGandhi #NarendraModi #PoliticalNews #Congress #BJP",
+            "content": "स्टेज पर पीएम मोदी की मिमिक्री और शुरू हो गया नया सियासी घमासान! 🎭🔥\n\nराहुल गांधी के कार्यक्रम का यह वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है। इस पर आपकी क्या राय है?\n\nपूरी कहानी देखें और दोस्तों के साथ शेयर करें।\n\n#RahulGandhi #NarendraModi #PoliticalNews #IndianPolitics #LatestNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789988850776_eltt401w_rahul_gandhi_event_modi_mimicry_controversy.mp4",
-                "_id": "6ab10ff6c49ae1795f955c42"
+                "url": "https://media.zernio.com/media/1789995282730_1bn9q5qa_rahul_gandhi_event_modi_mimicry.mp4",
+                "_id": "6ab129159893ba92fcefda7b"
               }
             ],
             "platforms": [
@@ -900,14 +398,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-21T11:07:32.885Z",
+                "scheduledFor": "2026-09-21T12:54:45.016Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "a4dc9a46dceb042904f106be7d103c6f",
-                "_id": "6ab10ff6c49ae1795f955c43"
+                "contentHash": "8c39ae4a619e841a19c1fec649c7691f",
+                "_id": "6ab129159893ba92fcefda7c"
               }
             ],
-            "scheduledFor": "2026-09-21T11:07:32.885Z",
+            "scheduledFor": "2026-09-21T12:54:45.016Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -919,217 +417,21 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:07:34.319Z",
-            "updatedAt": "2026-09-21T11:07:36.044Z",
+            "createdAt": "2026-09-21T12:54:45.948Z",
+            "updatedAt": "2026-09-21T12:54:47.602Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:07:34.383Z"
+            "publishingClaimedAt": "2026-09-21T12:54:45.998Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-21T11:07:36.443321+00:00"
+        "attempted_at": "2026-09-21T12:54:47.971373+00:00"
       }
     }
   },
   {
-    "topic_label": "indians_flying_to_dubai_cheaper_iphone_18",
+    "topic_label": "lava_virat_curve_dual_screen_phone",
     "virality_score": 8,
-    "reason": "Viral trend of Indian buyers flying to Dubai to save massive amounts on the new iPhone 18 Pro.",
-    "region": "india",
-    "headline": "iPhone 18 Pro खरीदने भारत से दुबई जा रहे लोग, बताया कितना पड़ रहा है सस्ता",
-    "source_summary": "iPhone 18 Pro और iPhone 18 Pro Max खरीदने के लिए भारतीय खरीदार दुबई पहुंच जा रहे हैं. आपको बता दें कि भारत के मुकाबले दुबई (UAE) में नया आईफोन 38 हजार रुपये तक सस्ता मिल रहा है.",
-    "source_url": "https://ndtv.in/tech/indians-are-flying-to-dubai-to-buy-iphone-18-pro-max-price-comparison-saving-maths-12074850#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Mon, 21 Sep 2026 11:40:15 +0530",
-    "hook": "क्या आईफोन खरीदने भारत से दुबई जा रहे हैं लोग?",
-    "script_hi": "ऐप्पल का नया आईफोन अट्ठारह प्रो खरीदने के लिए भारतीय खरीदार दुबई पहुंच रहे हैं। भारत के मुकाबले दुबई में यह फोन अड़तीस हजार रुपये तक सस्ता मिल रहा है, जिससे लोग विदेश जाकर फोन खरीद रहे हैं।",
-    "tts_text_hi": "ऐप्पल का नया आईफोन अट्ठारह प्रो खरीदने के लिए भारतीय खरीदार दुबई पहुंच रहे हैं। भारत के मुकाबले दुबई में यह फोन अड़तीस हजार रुपये तक सस्ता मिल रहा है, जिससे लोग विदेश जाकर फोन खरीद रहे हैं।",
-    "title": "भारत से दुबई जाकर लोग खरीद रहे हैं iPhone 18 Pro",
-    "caption": "भारत के मुकाबले दुबई में सस्ता मिल रहा है iPhone 18 Pro, खरीदने के लिए जा रहे हैं लोग।",
-    "hashtags": [
-      "iPhone18Pro",
-      "Dubai",
-      "Apple",
-      "TechNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Apple store Dubai India",
-      "shopping mall Dubai India",
-      "smartphone in hand India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15696834/pexels-photo-15696834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Apple store Dubai India",
-        "credit": "Dr Balagopal",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18669679/pexels-photo-18669679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "shopping mall Dubai India",
-        "credit": "Daniel  ..",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17426070/pexels-photo-17426070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone in hand India",
-        "credit": "Vishal Adhikari",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/3943884/pexels-photo-3943884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person holding phone airport",
-        "credit": "Anna Shvets",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37540293/pexels-photo-37540293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "international flight travel india",
-        "credit": "Dhananjay Shinde",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18669679/pexels-photo-18669679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "shopping bag dubai mall",
-        "credit": "Daniel  ..",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4199524/pexels-photo-4199524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person buying smartphone store",
-        "credit": "Jack Sparrow",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "iPhone 18 Pro खरीदने भारत से दुबई जा रहे लोग? जानिए कैसे बच रहे हैं लाखों रुपये 📱",
-        "caption": "फ्लाइट का खर्च निकालकर भी भारत से सस्ता मिल रहा है फोन! ✈️\n\nदुबई जाकर आईफोन खरीदने का यह ट्रेंड सोशल मीडिया पर तेजी से वायरल हो रहा है। आखिर लोग ऐसा क्यों कर रहे हैं और इससे असल में कितने पैसों की बचत हो रही है?\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#iPhone18Pro #DubaiShopping #TechNews #AppleIndia #SmartShopping"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "फ्लाइट का टिकट कटाओ, दुबई जाओ और फिर भी फोन सस्ता पड़ जाए? 🤯\n\niPhone 18 Pro खरीदने के लिए भारतीयों का दुबई जाना हैरान करने वाला लग सकता है, लेकिन कैलकुलेशन देखने के बाद आप भी सोच में पड़ जाएंगे।\n\nक्या आप भी ऐसा करना चाहेंगे? दोस्तों के साथ शेयर करें!\n\n#iPhone18Pro #DubaiShopping #TechNews #AppleIndia #SmartShopping"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दुबई जाकर आईफोन खरीदना भारत में खरीदने से ज्यादा सस्ता पड़ रहा है! 🇮🇳🇦🇪\n\nचौंकाने वाली बात यह है कि आने-जाने का फ्लाइट खर्चा निकालने के बाद भी लोगों के पैसे बच रहे हैं। यही वजह है कि इन दिनों लोगों का रुझान दुबई की तरफ तेजी से बढ़ रहा है।\n\nइस गणित के बारे में आपका क्या सोचना है, हमें कमेंट में जरूर बताएं।\n\n#iPhone18Pro #DubaiShopping #TechNews #AppleIndia #SmartShopping"
-      },
-      "hashtags": [
-        "iPhone18Pro",
-        "DubaiShopping",
-        "TechNews",
-        "AppleIndia",
-        "SmartShopping"
-      ]
-    },
-    "audio_path": "audio/indians_flying_to_dubai_cheaper_iphone_18.wav",
-    "audio_duration_sec": 14.06,
-    "video_path": "videos/indians_flying_to_dubai_cheaper_iphone_18.mp4",
-    "video_duration_sec": 22.02,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-21T11:13:01.604047+00:00"
-      },
-      "facebook": {
-        "success": false,
-        "error": "HTTPSConnectionPool(host='zernio.com', port=443): Read timed out. (read timeout=60)",
-        "attempted_at": "2026-09-21T11:14:25.661975+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab111a8ab52b6ee617d182c",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "फ्लाइट का टिकट कटाओ, दुबई जाओ और फिर भी फोन सस्ता पड़ जाए? 🤯\n\niPhone 18 Pro खरीदने के लिए भारतीयों का दुबई जाना हैरान करने वाला लग सकता है, लेकिन कैलकुलेशन देखने के बाद आप भी सोच में पड़ जाएंगे।\n\nक्या आप भी ऐसा करना चाहेंगे? दोस्तों के साथ शेयर करें!\n\n#iPhone18Pro #DubaiShopping #TechNews #AppleIndia #SmartShopping",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1789989285973_xdhcjdxd_indians_flying_to_dubai_cheaper_iphone_18.mp4",
-                "_id": "6ab111a8ab52b6ee617d182d"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-21T11:14:47.061Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "40fbe27b49a5a44dfa54d557f156dbd5",
-                "_id": "6ab111a8ab52b6ee617d182e"
-              }
-            ],
-            "scheduledFor": "2026-09-21T11:14:47.061Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:14:48.279Z",
-            "updatedAt": "2026-09-21T11:14:50.172Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:14:48.368Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-21T11:14:50.493319+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "lava_virat_curve_5g_dual_screen_phone",
-    "virality_score": 7,
-    "reason": "Tech news on Lava launching a unique dual-screen 5G smartphone under Rs 20,000 with a massive battery.",
+    "reason": "Unique tech launch featuring a secondary screen on the back of a budget-friendly 5G phone from an Indian brand.",
     "region": "india",
     "headline": "आगे ही नहीं, फोन के पीछे भी लगी है स्क्रीन, Lava ने लॉन्च किया अनोखा 5G फोन, बैटरी भी है तगड़ी",
     "source_summary": "देसी कंपनी Lava ने भारत में 19,999 रुपये की प्रभावी कीमत में Virat Curve 5G लॉन्च किया है. 6000mAh बैटरी, 3D कर्व्ड एमोलेड डिस्प्ले, 50MP सोनी कैमरा से लैस. जानें दूसरे फीचर्स.",
@@ -1137,45 +439,46 @@
     "source_name": "NDTV Hindi",
     "published": "Mon, 21 Sep 2026 14:46:47 +0530",
     "hook": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले?",
-    "script_hi": "भारत की देसी कंपनी लावा ने बाजार में एक नया और अनोखा पांच जी फोन उतारा है जिसका नाम विराट कर्व पांच जी है. इस फोन की प्रभावी कीमत उन्नीस हजार नौ सौ ن्यानवे रुपये रखी गई है. फोन में छह हजार एमएएच की तगड़ी बैटरी और पचास मेगापिक्सल का सोनी कैमरा दिया गया है. इसके अलावा इसमें थ्री डी कर्व्ड एमोलेड डिस्प्ले भी मौजूद है.",
-    "tts_text_hi": "भारत की देसी कंपनी लावा ने बाजार में एक नया और अनोखा पांच जी फोन उतारा है जिसका नाम विराट कर्व पांच जी है. इस फोन की प्रभावी कीमत उन्नीस हजार नौ सौ न्यानवे रुपये रखी गई है. फोन में छह हजार एमएएच की तगड़ी बैटरी और पचास मेगापिक्सल का सोनी कैमरा दिया गया है. इसके अलावा इसमें थ्री डी कर्व्ड एमोलेड डिस्प्ले भी मौजूद है.",
-    "title": "Lava का अनोखा 5G फोन लॉन्च, कीमत और फीचर्स",
-    "caption": "देशी कंपनी Lava ने भारत में Virat Curve 5G लॉन्च कर दिया है, जिसमें मिलती है 6000mAh बैटरी और 50MP कैमरा। जानिए कीमत और फीचर्स।",
+    "script_hi": "भारत की अपनी कंपनी लावा ने भारत में उन्नीस हजार नौ सौ ننانवे रुपये की प्रभावी कीमत में विराट कर्व फाइव जी लॉन्च कर दिया है। इस अनोखे फोन में आगे ही नहीं, बल्कि पीछे की तरफ भी स्क्रीन दी गई है। फोन में छह हजार एमएएच की तगड़ी बैटरी और पचास मेगापिक्सल का सोनी कैमरा मिलता है।",
+    "tts_text_hi": "भारत की अपनी कंपनी लावा ने भारत में उन्नीस हजार नौ सौ ننانवे रुपये की प्रभावी कीमत में विराट कर्व फाइव जी लॉन्च कर दिया है। इस अनोखे फोन में आगे ही नहीं, बल्कि पीछे की तरफ भी स्क्रीन दी गई है। फोन में छह हजार एमएएच की तगड़ी बैटरी और पचास मेगापिक्सल का सोनी कैमरा मिलता है।",
+    "title": "Lava ने लॉन्च किया पीछे स्क्रीन वाला अनोखा 5G फोन",
+    "caption": "देसी कंपनी Lava ने भारत में Virat Curve 5G लॉन्च किया है, जिसमें पीछे भी स्क्रीन दी गई है। जानिए इसके फीचर्स।",
     "hashtags": [
-      "Lava5G",
-      "TechNews",
-      "Smartphone",
-      "ViratCurve5G",
-      "IndianTech",
-      "Gadgets"
+      "#LavaMobile",
+      "#ViratCurve5G",
+      "#TechNews",
+      "#IndianTech",
+      "#Smartphone",
+      "#LavaPhone"
     ],
     "visual_queries": [
-      "Indian smartphone market India",
-      "modern mobile phone India",
+      "Indian smartphone manufacturing India",
+      "dual screen smartphone India",
       "mobile phone battery India",
       "smartphone camera lens India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27.5,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27786496/pexels-photo-27786496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36717013/15561775_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Indian smartphone market India",
-        "credit": "Kewal Nagda",
-        "duration_sec": 5
+        "query": "Indian smartphone manufacturing India",
+        "credit": "Mahadi Hassan Molla",
+        "source_duration_sec": 11,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16632926/pexels-photo-16632926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19281809/pexels-photo-19281809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "modern mobile phone India",
-        "credit": "Umang & Meet",
+        "query": "dual screen smartphone India",
+        "credit": "Rohit Sharma",
         "duration_sec": 5
       },
       {
@@ -1196,38 +499,38 @@
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Lava का अनोखा 5G फोन! फोन के पीछे भी लगी है स्क्रीन 📱",
-        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 😲\n\nLava ने एक ऐसा 5G स्मार्टफोन लॉन्च किया है जिसके आगे ही नहीं, बल्कि बैक पैनल पर भी एक एक्स्ट्रा स्क्रीन दी गई है। साथ ही इसमें पावरफुल बैटरी और दमदार फीचर्स भी मिलते हैं।\n\nपूरी कहानी देखें और बताएं आपको ये डिज़ाइन कैसा लगा?\n\n#Lava5G #TechNews #NewSmartphone #LavaMobiles #Gadgets"
+        "title": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? Lava का अनोखा 5G फोन",
+        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 📱\n\nलावा ने एक ऐसा 5G स्मार्टफोन लॉन्च किया है जिसके आगे ही नहीं बल्कि बैक पैनल पर भी एक पूरी स्क्रीन दी गई है। इसके साथ दमदार बैटरी और तगड़े फीचर्स भी मिलते हैं।\n\nआपको कैसी लगी ये अनोखी डिज़ाइन? पूरी कहानी देखें और कमेंट में बताएं! 👇\n\n#Lava5G #DualScreenPhone #TechNewsHindi #NewSmartphone #Gadgets"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 📱✨\n\nLava ने एक अनोखा 5G फोन मार्केट में उतारा है जिसके रियर में भी स्क्रीन मिलती है। लुक और फीचर्स के मामले में यह काफी अलग है।\n\nकमेंट में बताएं, क्या आप ऐसा फोन इस्तेमाल करना चाहेंगे?\n\n#Lava5G #TechNews #NewSmartphone #LavaMobiles #Gadgets"
+        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 🤯\n\nLava ने मार्केट में एक ऐसा 5G फोन उतारा है जिसके रियर में भी स्क्रीन दी गई है। फोन का ये लुक लोगों को हैरान कर रहा है।\n\nक्या आप ऐसा फोन खरीदना चाहेंगे? वीडियो शेयर करके दोस्तों को भी दिखाएं! 🔄\n\n#Lava5G #DualScreenPhone #TechNewsHindi #NewSmartphone #Gadgets"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 🤯\n\nस्मार्टफोन बाजार में Lava ने एक बिल्कुल अलग ही अंदाज़ में नया 5G फोन उतारा है, जिसके फ्रंट के साथ-साथ बैक साइड में भी स्क्रीन दी गई है। अनोखे डिज़ाइन के साथ इसमें बैटरी और परफॉर्मेंस का भी पूरा ध्यान रखा गया है।\n\nवीडियो पूरा देखें और शेयर करें अपने दोस्तों के साथ।\n\n#Lava5G #TechNews #NewSmartphone #LavaMobiles #Gadgets"
+        "caption": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 📱\n\nस्मार्टफोन बाजार में Lava ने एक ऐसा अनोखा 5G फोन उतार दिया है जिसके बैक साइड पर भी स्क्रीन लगी हुई है। आगे डिस्प्ले तो आम बात है, लेकिन पीछे स्क्रीन देने का यह नया ट्रेंड लोगों का ध्यान खींच रहा है। साथ ही इसमें तगड़ी बैटरी और शानदार फीचर्स भी दिए गए हैं।\n\nयह अनोखा फोन आपको कैसा लगा? कमेंट करके अपनी राय जरूर शेयर करें।\n\n#Lava5G #DualScreenPhone #TechNewsHindi #NewSmartphone #Gadgets"
       },
       "hashtags": [
         "Lava5G",
-        "TechNews",
+        "DualScreenPhone",
+        "TechNewsHindi",
         "NewSmartphone",
-        "LavaMobiles",
         "Gadgets"
       ]
     },
-    "audio_path": "audio/lava_virat_curve_5g_dual_screen_phone.wav",
-    "audio_duration_sec": 25.07,
-    "video_path": "videos/lava_virat_curve_5g_dual_screen_phone.mp4",
-    "video_duration_sec": 33.09,
+    "audio_path": "audio/lava_virat_curve_dual_screen_phone.wav",
+    "audio_duration_sec": 21.05,
+    "video_path": "videos/lava_virat_curve_dual_screen_phone.mp4",
+    "video_duration_sec": 29.02,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-21T11:18:27.654568+00:00"
+        "attempted_at": "2026-09-21T13:00:00.118351+00:00"
       },
       "facebook": {
         "success": true,
@@ -1240,15 +543,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab11298aeedb692acf79958",
+            "_id": "6ab12a63ae5f92e2dee8626f",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 🤯\n\nस्मार्टफोन बाजार में Lava ने एक बिल्कुल अलग ही अंदाज़ में नया 5G फोन उतारा है, जिसके फ्रंट के साथ-साथ बैक साइड में भी स्क्रीन दी गई है। अनोखे डिज़ाइन के साथ इसमें बैटरी और परफॉर्मेंस का भी पूरा ध्यान रखा गया है।\n\nवीडियो पूरा देखें और शेयर करें अपने दोस्तों के साथ।\n\n#Lava5G #TechNews #NewSmartphone #LavaMobiles #Gadgets",
+            "content": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 📱\n\nस्मार्टफोन बाजार में Lava ने एक ऐसा अनोखा 5G फोन उतार दिया है जिसके बैक साइड पर भी स्क्रीन लगी हुई है। आगे डिस्प्ले तो आम बात है, लेकिन पीछे स्क्रीन देने का यह नया ट्रेंड लोगों का ध्यान खींच रहा है। साथ ही इसमें तगड़ी बैटरी और शानदार फीचर्स भी दिए गए हैं।\n\nयह अनोखा फोन आपको कैसा लगा? कमेंट करके अपनी राय जरूर शेयर करें।\n\n#Lava5G #DualScreenPhone #TechNewsHindi #NewSmartphone #Gadgets",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789989525946_ye3x93jr_lava_virat_curve_5g_dual_screen_phone.mp4",
-                "_id": "6ab11298aeedb692acf79959"
+                "url": "https://media.zernio.com/media/1789995615529_3qg59pxc_lava_virat_curve_dual_screen_phone.mp4",
+                "_id": "6ab12a63ae5f92e2dee86270"
               }
             ],
             "platforms": [
@@ -1265,17 +568,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-21T11:18:47.684Z",
+                "scheduledFor": "2026-09-21T13:00:17.836Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "d705f8f63ade4ddd714670f71b44d150",
-                "_id": "6ab11298aeedb692acf7995a",
-                "platformPostId": "1554810025947898",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1554810025947898",
-                "publishedAt": "2026-09-21T11:18:57.262Z"
+                "contentHash": "ba6635f34075a7f946f51b06ce39a670",
+                "_id": "6ab12a63ae5f92e2dee86271",
+                "platformPostId": "2167555894194641",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2167555894194641",
+                "publishedAt": "2026-09-21T13:00:27.004Z"
               }
             ],
-            "scheduledFor": "2026-09-21T11:18:47.684Z",
+            "scheduledFor": "2026-09-21T13:00:17.836Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1287,14 +590,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:18:48.575Z",
-            "updatedAt": "2026-09-21T11:18:57.373Z",
+            "createdAt": "2026-09-21T13:00:19.102Z",
+            "updatedAt": "2026-09-21T13:00:27.143Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:18:48.645Z"
+            "publishingClaimedAt": "2026-09-21T13:00:19.432Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-21T11:18:57.532931+00:00"
+        "attempted_at": "2026-09-21T13:00:27.485170+00:00"
       },
       "instagram": {
         "success": true,
@@ -1307,15 +610,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab112b63bb24a12373da40f",
+            "_id": "6ab12a892aaa9db00ff373d7",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 📱✨\n\nLava ने एक अनोखा 5G फोन मार्केट में उतारा है जिसके रियर में भी स्क्रीन मिलती है। लुक और फीचर्स के मामले में यह काफी अलग है।\n\nकमेंट में बताएं, क्या आप ऐसा फोन इस्तेमाल करना चाहेंगे?\n\n#Lava5G #TechNews #NewSmartphone #LavaMobiles #Gadgets",
+            "content": "क्या आपने देखा है फोन के पीछे लगा दूसरा डिस्प्ले? 🤯\n\nLava ने मार्केट में एक ऐसा 5G फोन उतारा है जिसके रियर में भी स्क्रीन दी गई है। फोन का ये लुक लोगों को हैरान कर रहा है।\n\nक्या आप ऐसा फोन खरीदना चाहेंगे? वीडियो शेयर करके दोस्तों को भी दिखाएं! 🔄\n\n#Lava5G #DualScreenPhone #TechNewsHindi #NewSmartphone #Gadgets",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1789989555692_la3bjwku_lava_virat_curve_5g_dual_screen_phone.mp4",
-                "_id": "6ab112b63bb24a12373da410"
+                "url": "https://media.zernio.com/media/1789995654738_vcmno72b_lava_virat_curve_dual_screen_phone.mp4",
+                "_id": "6ab12a892aaa9db00ff373d8"
               }
             ],
             "platforms": [
@@ -1332,14 +635,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-21T11:19:17.271Z",
+                "scheduledFor": "2026-09-21T13:00:56.138Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "ec4d93529cd37a243b8a35c90a28885e",
-                "_id": "6ab112b63bb24a12373da411"
+                "contentHash": "c1e09afeb0cbd21026444ecf80b1c9d9",
+                "_id": "6ab12a892aaa9db00ff373d9"
               }
             ],
-            "scheduledFor": "2026-09-21T11:19:17.271Z",
+            "scheduledFor": "2026-09-21T13:00:56.138Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1351,14 +654,732 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-21T11:19:18.038Z",
-            "updatedAt": "2026-09-21T11:19:19.752Z",
+            "createdAt": "2026-09-21T13:00:57.063Z",
+            "updatedAt": "2026-09-21T13:00:59.434Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-21T11:19:18.089Z"
+            "publishingClaimedAt": "2026-09-21T13:00:57.154Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-21T11:19:20.108136+00:00"
+        "attempted_at": "2026-09-21T13:00:59.899891+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "pakistan_police_arrests_imran_khan_sisters",
+    "virality_score": 8,
+    "reason": "High-drama political crackdown in Pakistan with police breaking into the home of Imran Khan's sisters.",
+    "region": "india",
+    "headline": "इमरान खान की सोती बहन को उठाकर ले गई PAK पुलिस, दरवाजा तोड़ बेडरूम तक पहुंची",
+    "source_summary": "इमरान खान की रिहाई की मांग को लेकर पाकिस्तान में 27 सितंबर को PTI के प्रस्तावित प्रदर्शन से पहले पुलिस कार्रवाई तेज हो गई है. इमरान की तीन बहनों को हिरासत में लिया गया है. परिवार ने आरोप लगाया कि पुलिस उनके घरों में जबरन घुसी और बेडरूम तक पहुंची. प्रशासन ने तीनों को 30 दिनों के लिए हिरासत में रखने का आदेश दिया है.",
+    "source_url": "https://www.aajtak.in/world/story/imran-khan-sisters-arrested-lahore-police-in-bedroom-pti-pakistan-ntcppl-dskc-2649171-2026-09-21?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-21T17:02:37+05:30",
+    "hook": "पाकिस्तान में इमरान खान की बहनों पर बड़ा एक्शन!",
+    "script_hi": "पाकिस्तान में सत्ताईस सितंबर को होने वाले प्रदर्शन से पहले पुलिस ने इमरान खान की तीन बहनों को हिरासत में ले लिया है। परिवार का आरोप है कि पुलिस दरवाजा तोड़कर बेडरूम तक घुस गई। प्रशासन ने तीनों को तीस दिनों के लिए हिरासत में रखने का आदेश जारी किया है।",
+    "tts_text_hi": "पाकिस्तान में सत्ताईस सितंबर को होने वाले प्रदर्शन से पहले पुलिस ने इमरान खान की तीन बहनों को हिरासत में ले लिया है। परिवार का आरोप है कि पुलिस दरवाजा तोड़कर बेडरूम तक घुस गई। प्रशासन ने तीनों को तीस दिनों के लिए हिरासत में रखने का आदेश जारी किया है।",
+    "title": "Imran Khan's sisters detained in Pakistan",
+    "caption": "पाकिस्तान में इमरान खान की रिहाई की मांग से पहले पुलिस ने उनकी तीन बहनों को हिरासत में लिया है।",
+    "hashtags": [
+      "ImranKhan",
+      "PakistanNews",
+      "PTI",
+      "PakistanPolice",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "pakistan police station",
+      "pakistan protest street",
+      "police raid bedroom"
+    ],
+    "named_person": "Imran Khan",
+    "named_person_hi": "इमरान खान",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "इमरान खान",
+        "source": "fallback",
+        "query": "Imran Khan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476418/10476418-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police raid house asia",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 17,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11850278/pexels-photo-11850278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pakistan protest street",
+        "credit": "Mushtaq Hussain",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33047180/pexels-photo-33047180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police raid Pakistan",
+        "credit": "Muhammad Shamaoon Malik",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दरवाजा तोड़ बेडरूम तक पहुंची पाक पुलिस! इमरान खान की बहनें हिरासत में 🚨",
+        "caption": "दरवाजा तोड़कर बेडरूम तक पहुंच गई पुलिस! आधी रात को इमरान खान की सोती हुई बहनों पर हुआ ये बड़ा एक्शन। 🚨\n\nपाकिस्तान में राजनीतिक बवाल के बीच पुलिस ने बड़ा कदम उठाते हुए इमरान खान की बहनों को हिरासत में ले लिया है। इस कार्रवाई के बाद से वहां सियासी पारा हाई है।\n\nपूरी कहानी वीडियो में देखें।\n\n#ImranKhan #PakistanNews #PTI #PakistanPolitics #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "दरवाजा तोड़कर बेडरूम तक पहुंच गई पुलिस! आधी रात को इमरान खान की सोती हुई बहनों पर हुआ बड़ा एक्शन। 🚨\n\nपाकिस्तान में मचे सियासी घमासान के बीच पुलिस सीधे घर में घुसी और इमरान खान की बहनों को हिरासत में ले लिया। आखिर रातों-रात ऐसा क्या हुआ?\n\nपूरी कहानी देखें और अपनी राय बताएं! 🇮🇳\n\n#ImranKhan #PakistanNews #PTI #PakistanPolitics #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पाकिस्तान से एक बड़ी खबर सामने आ रही है जहाँ पुलिस ने सारी हदें पार करते हुए दरवाजा तोड़कर बेडरूम तक धावा बोल दिया। 🚨\n\nआधी रात को हुई इस कार्रवाई में इमरान खान की सोती हुई बहनों को पुलिस उठाकर ले गई। देश में चल रहे राजनीतिक तनाव के बीच इस घटना ने हालात को और ज्यादा तनावपूर्ण बना दिया है।\n\nपूरा मामला क्या है, जानने के लिए वीडियो अंत तक देखें।\n\n#ImranKhan #PakistanNews #PTI #PakistanPolitics #BreakingNews"
+      },
+      "hashtags": [
+        "ImranKhan",
+        "PakistanNews",
+        "PTI",
+        "PakistanPolitics",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/pakistan_police_arrests_imran_khan_sisters.wav",
+    "audio_duration_sec": 18.54,
+    "video_path": "videos/pakistan_police_arrests_imran_khan_sisters.mp4",
+    "video_duration_sec": 26.59,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-21T13:05:20.053183+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12ba54b8610179af69074",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पाकिस्तान से एक बड़ी खबर सामने आ रही है जहाँ पुलिस ने सारी हदें पार करते हुए दरवाजा तोड़कर बेडरूम तक धावा बोल दिया। 🚨\n\nआधी रात को हुई इस कार्रवाई में इमरान खान की सोती हुई बहनों को पुलिस उठाकर ले गई। देश में चल रहे राजनीतिक तनाव के बीच इस घटना ने हालात को और ज्यादा तनावपूर्ण बना दिया है।\n\nपूरा मामला क्या है, जानने के लिए वीडियो अंत तक देखें।\n\n#ImranKhan #PakistanNews #PTI #PakistanPolitics #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789995938389_x0apmzcd_pakistan_police_arrests_imran_khan_sisters.mp4",
+                "_id": "6ab12ba54b8610179af69075"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFepudF&_nc_oc=AdqARf80MkYFY77DhXUT0wy5hCzfTbDS35Y_u7JJazHNIg5tjIwTYCD46hWJVtXE8Uk&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=dZSwGxi6uuRsgfvSeOtXIQ&_nc_tpa=Q5bMBQKw7_hN06zlJxEHIYsDDylW3GaZwfY_LX2h20v0IjIuNzGTcHOZ0ujWpjsfZukTf6roQYmJxSiZ&oh=00_AQLma4qaE9VI2qZk7i1HnWEc8yxvnVpMnR2tN6RThxlNJg&oe=6AB68314",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:05:40.225Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "8e4a1434c2453dfd9489051bd21147c9",
+                "_id": "6ab12ba54b8610179af69076",
+                "platformPostId": "1088448827488001",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1088448827488001",
+                "publishedAt": "2026-09-21T13:05:52.857Z"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:05:40.225Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:05:41.600Z",
+            "updatedAt": "2026-09-21T13:05:53.013Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:05:41.658Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:05:53.211976+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12bd07b2290a3146154d2",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "दरवाजा तोड़कर बेडरूम तक पहुंच गई पुलिस! आधी रात को इमरान खान की सोती हुई बहनों पर हुआ बड़ा एक्शन। 🚨\n\nपाकिस्तान में मचे सियासी घमासान के बीच पुलिस सीधे घर में घुसी और इमरान खान की बहनों को हिरासत में ले लिया। आखिर रातों-रात ऐसा क्या हुआ?\n\nपूरी कहानी देखें और अपनी राय बताएं! 🇮🇳\n\n#ImranKhan #PakistanNews #PTI #PakistanPolitics #BreakingNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789995982458_j3yxj7nf_pakistan_police_arrests_imran_khan_sisters.mp4",
+                "_id": "6ab12bd07b2290a3146154d3"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:06:23.739Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "75eb082a6a437096f79bd2c6e12f6c0d",
+                "_id": "6ab12bd07b2290a3146154d4"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:06:23.739Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:06:24.782Z",
+            "updatedAt": "2026-09-21T13:06:27.058Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:06:24.832Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:06:27.463636+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "florida_robot_rabbits_python_hunt",
+    "virality_score": 7,
+    "reason": "Fascinating global tech story about solar-powered robotic rabbits used with AI cameras to hunt pythons in the Everglades.",
+    "region": "india",
+    "headline": "Florida used robot rabbits to hunt Burmese pythons threatening the Everglades",
+    "source_summary": "Florida is testing solar-powered robot rabbits to help locate invasive Burmese pythons in the Everglades. Developed by the South Florida Water Management District and University of Florida, the robotic decoys mimic prey using heat and scent while AI cameras detect approaching snakes. Officials can then alert trained removal agents, adding technology to Florida’s wider python control efforts.",
+    "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Mon, 21 Sep 2026 14:46:18 +0530",
+    "hook": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल!",
+    "script_hi": "अमेरिका के फ्लोरिडा में एवरग्लेड्स के जंगलों में अजगरों का शिकार करने के लिए सौर ऊर्जा से चलने वाले रोबोट खरगोशों का परीक्षण किया जा रहा है। दक्षिण फ्लोरिडा जल प्रबंधन जिला और फ्लोरिडा विश्वविद्यालय द्वारा विकसित ये रोबोट खरगोश गर्मी और गंध का उपयोग करके शिकार की नकल करते हैं। इसके बाद आर्टिफिशियल इंटेलिजेंस कैमरे पास आते सांपों का पता लगाते हैं और अधिकारियों को सचेत करते हैं।",
+    "tts_text_hi": "अमेरिका के फ्लोरिडा में एवरग्लेड्स के जंगलों में अजगरों का शिकार करने के लिए सौर ऊर्जा से चलने वाले रोबोट खरगोशों का परीक्षण किया जा रहा है। दक्षिण फ्लोरिडा जल प्रबंधन जिला और फ्लोरिडा विश्वविद्यालय द्वारा विकसित ये रोबोट खरगोश गर्मी और गंध का उपयोग करके शिकार की नकल करते हैं। इसके बाद आर्टिफिशियल इंटेलिजेंस कैमरे पास आते सांपों का पता लगाते हैं और अधिकारियों को सचेत करते हैं।",
+    "title": "Florida uses robot rabbits to catch pythons",
+    "caption": "फ्लोरिडा में अजगरों को पकड़ने के लिए रोबोट खरगोशों की मदद ली जा रही है।",
+    "hashtags": [
+      "Florida",
+      "Python",
+      "Everglades",
+      "RobotRabbit",
+      "TechNews",
+      "Wildlife",
+      "AI"
+    ],
+    "visual_queries": [
+      "everglades swamp landscape",
+      "robotic rabbit prototype",
+      "burmese python snake",
+      "artificial intelligence camera",
+      "wildlife conservation technology"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36060133/pexels-photo-36060133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "everglades swamp landscape",
+        "credit": "Felix Perez Mercado",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8294558/pexels-photo-8294558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "robotic rabbit prototype",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31717272/pexels-photo-31717272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "burmese python snake",
+        "credit": "Gerardo Pantoja",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9028875/pexels-photo-9028875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence camera",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/4577798/pexels-photo-4577798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "wildlife conservation technology",
+        "credit": "Rachel Claire",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फ्लोरिडा में अजगरों का शिकार करने उतरे रोबोट खरगोश! 🐇🐍",
+        "caption": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल! 🐍\n\nEverglades के जंगलों में फैल रहे खतरनाक बर्मीज पाइथन से निपटने के लिए वैज्ञानिकों ने रोबोटिक खरगोशों को मैदान में उतारा है। ये रोबोट अजगरों को ट्रैक करके उनकी लोकेशन अधिकारियों तक पहुँचाते हैं। \n\nक्या ऐसा तरीका भारत में भी अपनाया जाना चाहिए? कमेंट में बताएं और पूरी कहानी देखें।\n\n#FloridaPythons #RobotTechnology #Everglades #WildlifeNews #AmazingScience"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल! 🐇🐍\n\nEverglades के जंगलों में तबाही मचा रहे बर्मीज पाइथन को पकड़ने के लिए अब रोबोटिक खरगोशों की मदद ली जा रही है। प्रकृति और टेक्नोलॉजी का यह अनोखा मेल हैरान करने वाला है। \n\nशेयर करें इस अनोखी खबर को अपने दोस्तों के साथ!\n\n#FloridaPythons #RobotTechnology #Everglades #WildlifeNews #AmazingScience"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल! 🐇\n\nफ्लोरिडा के मशहूर एवरग्लेड्स नेशनल पार्क में बर्मीज पाइथन प्रजाति के अजगरों ने भारी तबाही मचा रखी है। इनसे निपटने के लिए वैज्ञानिकों ने रोबोट खरगोश तैयार किए हैं जो इन खतरनाक सांपों का शिकार करने में मदद कर रहे हैं। \n\nपूरी कहानी वीडियो में देखें और अपनी राय साझा करें।\n\n#FloridaPythons #RobotTechnology #Everglades #WildlifeNews #AmazingScience"
+      },
+      "hashtags": [
+        "FloridaPythons",
+        "RobotTechnology",
+        "Everglades",
+        "WildlifeNews",
+        "AmazingScience"
+      ]
+    },
+    "audio_path": "audio/florida_robot_rabbits_python_hunt.wav",
+    "audio_duration_sec": 29.26,
+    "video_path": "videos/florida_robot_rabbits_python_hunt.mp4",
+    "video_duration_sec": 37.19,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-21T13:10:51.619808+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12cfabf598e1c1b8d0984",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल! 🐇\n\nफ्लोरिडा के मशहूर एवरग्लेड्स नेशनल पार्क में बर्मीज पाइथन प्रजाति के अजगरों ने भारी तबाही मचा रखी है। इनसे निपटने के लिए वैज्ञानिकों ने रोबोट खरगोश तैयार किए हैं जो इन खतरनाक सांपों का शिकार करने में मदद कर रहे हैं। \n\nपूरी कहानी वीडियो में देखें और अपनी राय साझा करें।\n\n#FloridaPythons #RobotTechnology #Everglades #WildlifeNews #AmazingScience",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789996279945_9nezom3o_florida_robot_rabbits_python_hunt.mp4",
+                "_id": "6ab12cfabf598e1c1b8d0985"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFepudF&_nc_oc=AdqARf80MkYFY77DhXUT0wy5hCzfTbDS35Y_u7JJazHNIg5tjIwTYCD46hWJVtXE8Uk&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=dZSwGxi6uuRsgfvSeOtXIQ&_nc_tpa=Q5bMBQKw7_hN06zlJxEHIYsDDylW3GaZwfY_LX2h20v0IjIuNzGTcHOZ0ujWpjsfZukTf6roQYmJxSiZ&oh=00_AQLma4qaE9VI2qZk7i1HnWEc8yxvnVpMnR2tN6RThxlNJg&oe=6AB68314",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:11:21.346Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "60237a0d6c32ce73ba717d0139dfa05a",
+                "_id": "6ab12cfabf598e1c1b8d0986",
+                "platformPostId": "2066320500654102",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2066320500654102",
+                "publishedAt": "2026-09-21T13:11:27.869Z"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:11:21.346Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:11:22.582Z",
+            "updatedAt": "2026-09-21T13:11:28.017Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:11:22.632Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:11:28.199721+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12d1f04394a99b9a0cb80",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अमेरिका के फ्लोरिडा में अजगरों को पकड़ने के लिए अनोखी तकनीक का इस्तेमाल! 🐇🐍\n\nEverglades के जंगलों में तबाही मचा रहे बर्मीज पाइथन को पकड़ने के लिए अब रोबोटिक खरगोशों की मदद ली जा रही है। प्रकृति और टेक्नोलॉजी का यह अनोखा मेल हैरान करने वाला है। \n\nशेयर करें इस अनोखी खबर को अपने दोस्तों के साथ!\n\n#FloridaPythons #RobotTechnology #Everglades #WildlifeNews #AmazingScience",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789996316464_nyl9fu3n_florida_robot_rabbits_python_hunt.mp4",
+                "_id": "6ab12d1f04394a99b9a0cb81"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:11:58.488Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "6717be8fc9f3fcc8d156ac9eff41ba03",
+                "_id": "6ab12d1f04394a99b9a0cb82"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:11:58.488Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:11:59.294Z",
+            "updatedAt": "2026-09-21T13:12:01.118Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:11:59.349Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:12:01.504591+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "ladakh_yak_churpi_cheese_international_gold",
+    "virality_score": 7,
+    "reason": "Inspiring achievement story of traditional Ladakh yak cheese winning gold at an international competition in Brazil.",
+    "region": "india",
+    "headline": "Ladakh’s traditional yak churpi cheese wins gold at international competition",
+    "source_summary": "Ladakh’s traditional Yak Churpi has earned international recognition after winning a gold medal at the Mundial do Queijo do Brasil 2026 in São Paulo. Made from yak milk by pastoral communities, this unique Himalayan cheese has a distinctive taste and texture. Here’s how Ladakh Yak Churpi is traditionally made, what it tastes like, how it is eaten and what it costs.",
+    "source_url": "https://timesofindia.indiatimes.com/life-style/food-news/from-ladakhs-high-altitude-villages-to-brazil-yak-churpi-a-traditional-cheese-made-from-yak-milk-by-nomadic-families-for-generations-wins-gold-at-an-international-competition/articleshow/134387866.cms",
+    "source_name": "Times of India - Top Stories",
+    "published": "Mon, 21 Sep 2026 16:53:42 +0530",
+    "hook": "लद्दाख के याक चुरपी चीज ने जीता अंतरराष्ट्रीय गोल्ड मेडल!",
+    "script_hi": "लद्दाख का पारंपरिक याक चुरपी चीज ने ब्राजील के साओ पाउलो में आयोजित मुंडियाल दो क्जेइजो दो ब्राजील दो हजार छब्बीस में स्वर्ण पदक जीतकर अंतरराष्ट्रीय स्तर पर देश का नाम रोशन किया है। याक के दूध से बनने वाले इस हिमालयी चीज का स्वाद और बनावट बेहद खास होती है।",
+    "tts_text_hi": "लद्दाख का पारंपरिक याक चुरपी चीज ने ब्राजील के साओ पाउलो में आयोजित मुंडियाल दो क्जेइजो दो ब्राजील दो हजार छब्बीस में स्वर्ण पदक जीतकर अंतरराष्ट्रीय स्तर पर देश का नाम रोशन किया है। याक के दूध से बनने वाले इस हिमालयी चीज का स्वाद और बनावट बेहद खास होती है।",
+    "title": "Ladakh Yak Churpi Wins Gold",
+    "caption": "लद्दाख की पारंपरिक याक चुरपी ने ब्राजील में जीता स्वर्ण पदक।",
+    "hashtags": [
+      "Ladakh",
+      "YakChurpi",
+      "GoldMedal",
+      "MadeInIndia",
+      "HimalayanCheese",
+      "NewsUpdates"
+    ],
+    "visual_queries": [
+      "Ladakh landscape mountains India",
+      "yak grazing Himalayan pasture India",
+      "traditional cheese making India",
+      "gold medal celebration India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8064123/8064123-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "traditional cheese making India",
+        "credit": "Los Muertos Crew",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6265098/6265098-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "gold medal celebration India",
+        "credit": "Anna Shvets",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5202028/pexels-photo-5202028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Ladakh landscape mountains India",
+        "credit": "Julia Volk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37454958/pexels-photo-37454958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "yak grazing Himalayan pasture India",
+        "credit": "Harsh  Kukadiya",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "लद्दाख के इस दुर्लभ चीज को मिला ग्लोबल गोल्ड! 🧀",
+        "caption": "लद्दाख के याक चुरपी चीज ने जीत लिया पूरी दुनिया का दिल! 🏔️\n\nपारंपरिक तरीके से बनने वाले इस अनोखे हिमालयन चीज को अंतरराष्ट्रीय मंच पर गोल्ड मेडल मिला है। चूहों और कठिन मौसम के बीच पीढ़ियों से चली आ रही इस कला को अब ग्लोबल पहचान मिली है।\n\nपूरी कहानी वीडियो में देखें और बताएं, क्या आपने कभी इसका स्वाद चखा है?\n\n#LadakhNews #YakChurpi #IncredibleIndia #LadakhFood #GoldMedal"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "लद्दाख के याक चुरपी चीज ने जीत लिया ग्लोबल गोल्ड! 🏔️🧀\n\nपारंपरिक तरीके से बनने वाले इस हिमालयन चीज को अंतरराष्ट्रीय प्रतियोगिता में बड़ा सम्मान मिला है। पीढ़ियों से चली आ रही इस कला की अब पूरी दुनिया में चर्चा है।\n\nवीडियो पूरा देखें और शेयर करें इस गर्व की बात को!\n\n#LadakhNews #YakChurpi #IncredibleIndia #LadakhFood #GoldMedal"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "लद्दाख के इस पारंपरिक चीज ने ऐसा क्या कर दिया कि पूरी दुनिया हैरान रह गई? 🏔️🧀\n\nलेह-लद्दाख के याक चुरपी को एक प्रतिष्ठित अंतरराष्ट्रीय प्रतियोगिता में गोल्ड मेडल से नवाजा गया है। अत्यधिक ठंड और कठिन परिस्थितियों में याक के दूध से तैयार होने वाला यह अनोखा चीज अब ग्लोबल मंच पर छा गया है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय हमें कमेंट में बताएं।\n\n#LadakhNews #YakChurpi #IncredibleIndia #LadakhFood #GoldMedal"
+      },
+      "hashtags": [
+        "LadakhNews",
+        "YakChurpi",
+        "IncredibleIndia",
+        "LadakhFood",
+        "GoldMedal"
+      ]
+    },
+    "audio_path": "audio/ladakh_yak_churpi_cheese_international_gold.wav",
+    "audio_duration_sec": 18.83,
+    "video_path": "videos/ladakh_yak_churpi_cheese_international_gold.mp4",
+    "video_duration_sec": 26.82,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-21T13:15:32.649181+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12e0d66ee73f994f6e914",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "लद्दाख के इस पारंपरिक चीज ने ऐसा क्या कर दिया कि पूरी दुनिया हैरान रह गई? 🏔️🧀\n\nलेह-लद्दाख के याक चुरपी को एक प्रतिष्ठित अंतरराष्ट्रीय प्रतियोगिता में गोल्ड मेडल से नवाजा गया है। अत्यधिक ठंड और कठिन परिस्थितियों में याक के दूध से तैयार होने वाला यह अनोखा चीज अब ग्लोबल मंच पर छा गया है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय हमें कमेंट में बताएं।\n\n#LadakhNews #YakChurpi #IncredibleIndia #LadakhFood #GoldMedal",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789996555015_olitn7nf_ladakh_yak_churpi_cheese_international_gold.mp4",
+                "_id": "6ab12e0d66ee73f994f6e915"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFepudF&_nc_oc=AdqARf80MkYFY77DhXUT0wy5hCzfTbDS35Y_u7JJazHNIg5tjIwTYCD46hWJVtXE8Uk&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=dZSwGxi6uuRsgfvSeOtXIQ&_nc_tpa=Q5bMBQKw7_hN06zlJxEHIYsDDylW3GaZwfY_LX2h20v0IjIuNzGTcHOZ0ujWpjsfZukTf6roQYmJxSiZ&oh=00_AQLma4qaE9VI2qZk7i1HnWEc8yxvnVpMnR2tN6RThxlNJg&oe=6AB68314",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:15:56.582Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "e3c462bac7bcdc3a5a864a3f0d0f19a1",
+                "_id": "6ab12e0d66ee73f994f6e916",
+                "platformPostId": "1806449347151912",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1806449347151912",
+                "publishedAt": "2026-09-21T13:16:06.473Z"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:15:56.582Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:15:57.797Z",
+            "updatedAt": "2026-09-21T13:16:06.669Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:15:57.926Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:16:06.927388+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab12e33acf98d20829fe00a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "लद्दाख के याक चुरपी चीज ने जीत लिया ग्लोबल गोल्ड! 🏔️🧀\n\nपारंपरिक तरीके से बनने वाले इस हिमालयन चीज को अंतरराष्ट्रीय प्रतियोगिता में बड़ा सम्मान मिला है। पीढ़ियों से चली आ रही इस कला की अब पूरी दुनिया में चर्चा है।\n\nवीडियो पूरा देखें और शेयर करें इस गर्व की बात को!\n\n#LadakhNews #YakChurpi #IncredibleIndia #LadakhFood #GoldMedal",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1789996592212_86txbwa1_ladakh_yak_churpi_cheese_international_gold.mp4",
+                "_id": "6ab12e33acf98d20829fe00b"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwGVZWUh&_nc_oc=AdqEs1Z03MyZmUtM6TgmGxZRIwsZ10AmbERKX2mmoqe1RJTq6R9VWh4MGrfZq5-yuZw&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S3JSFXwZNnePqbRE30cz0g&_nc_tpa=Q5bMBQJQZ_3wS4UkJqFP248tIj_jFkCHPnkPiqf1VrfG-f25ZYonEBqfAVfX38q7_o065bY7wEJKFJr8Ig&oh=00_AQIoEZwoXA2vxIzSNEEcJlNzDi9nGRQJlc-WAEbxlVFwkw&oe=6AB676BB",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-21T13:16:34.425Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "156345537655892b6bd68dbc7f5a9a1d",
+                "_id": "6ab12e33acf98d20829fe00c"
+              }
+            ],
+            "scheduledFor": "2026-09-21T13:16:34.425Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-21T13:16:35.754Z",
+            "updatedAt": "2026-09-21T13:16:37.424Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-21T13:16:35.847Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-21T13:16:37.783432+00:00"
       }
     }
   }
