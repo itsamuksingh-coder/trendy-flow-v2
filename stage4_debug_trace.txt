@@ -1,9 +1,9 @@
-ready_labels: ['hyderabad_man_trapped_in_lift_90_minutes', 'openai_greg_brockman_forbes_wealth', 'patna_son_burns_mother_alive_god_claim']
+ready_labels: ['apple_boss_says_iphone_screen_guard_useless', 'hamid_ansari_hindu_communalism_yogi_reply', 'husband_sells_gold_for_iphone_18', 'hyderabad_lift_horror_90_minutes_trapped']
 
-bihar_jamui_couple_harassment_viral_video: SKIPPED (not in ready set)
-patna_son_burns_mother_alive_god_claim: SUCCESS -> video_path=videos/patna_son_burns_mother_alive_god_claim.mp4 dur=38.255215
-delhi_sir_voter_list_notices_vips: SKIPPED (not in ready set)
-openai_greg_brockman_forbes_wealth: SUCCESS -> video_path=videos/openai_greg_brockman_forbes_wealth.mp4 dur=32.148231
-maithili_thakur_rolls_royce_net_worth_controversy: SKIPPED (not in ready set)
-hyderabad_man_trapped_in_lift_90_minutes: SUCCESS -> video_path=videos/hyderabad_man_trapped_in_lift_90_minutes.mp4 dur=36.606213
-ukraine_massive_drone_attack_on_moscow: SKIPPED (not in ready set)
+husband_sells_gold_for_iphone_18: SUCCESS -> video_path=videos/husband_sells_gold_for_iphone_18.mp4 dur=23.209229
+man_gives_cpr_to_snake_gujarat: SKIPPED (not in ready set)
+smashan_ghat_chicken_party_shahjahanpur: SKIPPED (not in ready set)
+monkey_body_massage_at_salon_viral: SKIPPED (not in ready set)
+hyderabad_lift_horror_90_minutes_trapped: SUCCESS -> video_path=videos/hyderabad_lift_horror_90_minutes_trapped.mp4 dur=35.747211
+hamid_ansari_hindu_communalism_yogi_reply: SUCCESS -> video_path=videos/hamid_ansari_hindu_communalism_yogi_reply.mp4 dur=34.956553
+apple_boss_says_iphone_screen_guard_useless: SUCCESS -> video_path=videos/apple_boss_says_iphone_screen_guard_useless.mp4 dur=30.389887
