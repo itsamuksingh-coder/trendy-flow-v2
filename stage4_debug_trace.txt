@@ -1,7 +1,8 @@
-ready_labels: ['amritsar_businessman_iphone_langar_chandigarh', 'bihar_gopalganj_neet_student_mysterious_death', 'mohammad_shami_up_election_rumors']
+ready_labels: ['agra_ugc_protest_tractors_lathicharge', 'amritsar_asi_killer_encounter_pak_link', 'italy_burqa_niqab_ban_meloni', 'mohammad_shami_up_election_politics_jayant', 'op_rajbhar_uttar_pradesh_four_pieces']
 
-mumbai_coastal_road_bmw_bridge_accident: SKIPPED (not in ready set)
-amritsar_businessman_iphone_langar_chandigarh: SUCCESS -> video_path=videos/amritsar_businessman_iphone_langar_chandigarh.mp4 dur=22.512222
-mohammad_shami_up_election_rumors: SUCCESS -> video_path=videos/mohammad_shami_up_election_rumors.mp4 dur=38.255215
-bihar_gopalganj_neet_student_mysterious_death: SUCCESS -> video_path=videos/bihar_gopalganj_neet_student_mysterious_death.mp4 dur=28.642222
-bijnor_honeytrap_gang_ips_kk_bishnoi: SKIPPED (not in ready set)
+iit_bombay_director_resigns_student_suicide: SKIPPED (not in ready set)
+mohammad_shami_up_election_politics_jayant: SUCCESS -> video_path=videos/mohammad_shami_up_election_politics_jayant.mp4 dur=27.040227
+op_rajbhar_uttar_pradesh_four_pieces: SUCCESS -> video_path=videos/op_rajbhar_uttar_pradesh_four_pieces.mp4 dur=25.62322
+agra_ugc_protest_tractors_lathicharge: SUCCESS -> video_path=videos/agra_ugc_protest_tractors_lathicharge.mp4 dur=32.82322
+amritsar_asi_killer_encounter_pak_link: SUCCESS -> video_path=videos/amritsar_asi_killer_encounter_pak_link.mp4 dur=35.28322
+italy_burqa_niqab_ban_meloni: SUCCESS -> video_path=videos/italy_burqa_niqab_ban_meloni.mp4 dur=34.389887
