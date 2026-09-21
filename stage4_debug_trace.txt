@@ -1,6 +1,10 @@
-ready_labels: ['baghpat_ankit_israr_murder_mahant_arrested_kolkata', 'google_403_million_euro_fine_ireland_gdpr', 'zaheer_khan_csk_head_coach']
+ready_labels: ['baghpat_ankit_israr_murder_mahant_arrested', 'csk_appoints_zaheer_khan_head_coach', 'iit_bombay_ceiling_fans_removed_suicide_prevention', 'kuno_national_park_cheetah_gaurav_death', 'upi_split_apps_avoid_charges_viral']
 
-zaheer_khan_csk_head_coach: SUCCESS -> video_path=videos/zaheer_khan_csk_head_coach.mp4 dur=26.947211
-mumbai_coastal_road_bmw_crash_cctv: SKIPPED (not in ready set)
-baghpat_ankit_israr_murder_mahant_arrested_kolkata: SUCCESS -> video_path=videos/baghpat_ankit_israr_murder_mahant_arrested_kolkata.mp4 dur=30.941224
-google_403_million_euro_fine_ireland_gdpr: SUCCESS -> video_path=videos/google_403_million_euro_fine_ireland_gdpr.mp4 dur=22.721224
+iit_bombay_ceiling_fans_removed_suicide_prevention: SUCCESS -> video_path=videos/iit_bombay_ceiling_fans_removed_suicide_prevention.mp4 dur=27.156213
+mumbai_coastal_road_bmw_crash: SKIPPED (not in ready set)
+csk_appoints_zaheer_khan_head_coach: SUCCESS -> video_path=videos/csk_appoints_zaheer_khan_head_coach.mp4 dur=24.289887
+baghpat_ankit_israr_murder_mahant_arrested: SUCCESS -> video_path=videos/baghpat_ankit_israr_murder_mahant_arrested.mp4 dur=20.82322
+upi_split_apps_avoid_charges_viral: SUCCESS -> video_path=videos/upi_split_apps_avoid_charges_viral.mp4 dur=26.956553
+palamu_csp_robbery_brave_mother_son_fight: SKIPPED (not in ready set)
+kuno_national_park_cheetah_gaurav_death: SUCCESS -> video_path=videos/kuno_national_park_cheetah_gaurav_death.mp4 dur=25.182222
+rajasthan_municipal_election_bjp_win: SKIPPED (not in ready set)
