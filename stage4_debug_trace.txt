@@ -1,7 +1,7 @@
-ready_labels: ['bihar_elderly_man_traced_via_ai', 'sneha_ullal_aishwarya_lookalike_viral']
+ready_labels: ['amritsar_businessman_iphone_langar_chandigarh', 'bihar_gopalganj_neet_student_mysterious_death', 'mohammad_shami_up_election_rumors']
 
-man_sells_family_gold_for_iphone_18: SKIPPED (not in ready set)
-honeytrap_kathua_driver_pakistan_espionage: SKIPPED (not in ready set)
-nyc_subway_tragedy_couple_death: SKIPPED (not in ready set)
-bihar_elderly_man_traced_via_ai: SUCCESS -> video_path=videos/bihar_elderly_man_traced_via_ai.mp4 dur=27.71322
-sneha_ullal_aishwarya_lookalike_viral: SUCCESS -> video_path=videos/sneha_ullal_aishwarya_lookalike_viral.mp4 dur=33.756553
+mumbai_coastal_road_bmw_bridge_accident: SKIPPED (not in ready set)
+amritsar_businessman_iphone_langar_chandigarh: SUCCESS -> video_path=videos/amritsar_businessman_iphone_langar_chandigarh.mp4 dur=22.512222
+mohammad_shami_up_election_rumors: SUCCESS -> video_path=videos/mohammad_shami_up_election_rumors.mp4 dur=38.255215
+bihar_gopalganj_neet_student_mysterious_death: SUCCESS -> video_path=videos/bihar_gopalganj_neet_student_mysterious_death.mp4 dur=28.642222
+bijnor_honeytrap_gang_ips_kk_bishnoi: SKIPPED (not in ready set)
