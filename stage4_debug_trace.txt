@@ -1,8 +1,8 @@
-ready_labels: ['ahmedabad_airport_ganja_smuggling_arrest', 'csk_appoints_zaheer_khan_head_coach_ipl', 'shahrukh_khan_lalbaugcha_raja_darshan', 'us_air_traffic_control_system_failure_flights_grounded']
+ready_labels: ['ahmedabad_airport_ganja_smuggling_8_crore', 'baghpat_ankit_israr_murder_mahant_arrest', 'italy_burqa_niqab_ban_aimplb_reaction', 'ongc_mahanadi_basin_gas_discovery']
 
-jamui_minor_harassment_viral_video_outrage: SKIPPED (not in ready set)
-csk_appoints_zaheer_khan_head_coach_ipl: SUCCESS -> video_path=videos/csk_appoints_zaheer_khan_head_coach_ipl.mp4 dur=25.656553
-us_air_traffic_control_system_failure_flights_grounded: SUCCESS -> video_path=videos/us_air_traffic_control_system_failure_flights_grounded.mp4 dur=23.62322
-shahrukh_khan_lalbaugcha_raja_darshan: SUCCESS -> video_path=videos/shahrukh_khan_lalbaugcha_raja_darshan.mp4 dur=21.537211
-ahmedabad_airport_ganja_smuggling_arrest: SUCCESS -> video_path=videos/ahmedabad_airport_ganja_smuggling_arrest.mp4 dur=27.82322
-jk_assembly_first_day_bjp_protest_omar: SKIPPED (not in ready set)
+jamui_minor_harassment_viral_video_sit: SKIPPED (not in ready set)
+jalpaiguri_fishermen_rescue_baby_elephant: SKIPPED (not in ready set)
+ongc_mahanadi_basin_gas_discovery: SUCCESS -> video_path=videos/ongc_mahanadi_basin_gas_discovery.mp4 dur=28.688231
+italy_burqa_niqab_ban_aimplb_reaction: SUCCESS -> video_path=videos/italy_burqa_niqab_ban_aimplb_reaction.mp4 dur=30.941224
+baghpat_ankit_israr_murder_mahant_arrest: SUCCESS -> video_path=videos/baghpat_ankit_israr_murder_mahant_arrest.mp4 dur=32.02322
+ahmedabad_airport_ganja_smuggling_8_crore: SUCCESS -> video_path=videos/ahmedabad_airport_ganja_smuggling_8_crore.mp4 dur=24.92322

@@ -1,31 +1,30 @@
 [
   {
-    "topic_label": "jamui_minor_harassment_viral_video_outrage",
+    "topic_label": "jamui_minor_harassment_viral_video_sit",
     "virality_score": 9,
-    "reason": "High public outrage and viral video regarding minor harassment in Bihar with strong political reactions.",
+    "reason": "High public outrage over viral video of minor harassment in Bihar with opposition leaders reacting.",
     "region": "india",
     "headline": "जमुई की घटना पर फूटा विपक्ष का गुस्सा, ममता बोलीं- एक देश के तौर पर हम फेल रहे",
     "source_summary": "बिहार के जमुई में नाबालिग छात्र-छात्रा के साथ मारपीट और छात्रा से छेड़खानी का वीडियो वायरल होने के बाद मामला गरमाया है. राहुल गांधी, ममता बनर्जी और कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने घटना की कड़ी निंदा की है.",
     "source_url": "https://www.aajtak.in/bihar/story/bihar-jamui-minor-assault-viral-video-rahul-gandhi-mamata-banerjee-congress-condemnation-ntcpvp-dskc-2649432-2026-09-21?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-21T22:54:07+05:30",
-    "hook": "बिहार के जमुई से हैरान करने वाली घटना सामने आई है!",
-    "script_hi": "बिहार के जमुई में नाबालिग छात्र और छात्रा के साथ मारपीट और छेड़खानी का वीडियो वायरल होने के बाद राजनीतिक घमासान मच गया है। पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने कहा है कि एक देश के तौर पर हम सब फेल रहे हैं। वहीं कांग्रेस नेता राहुल गांधी और मल्लिकार्जुन खड़गे ने भी इस घटना की कड़ी निंदा की है।",
-    "tts_text_hi": "बिहार के जमुई में नाबालिग छात्र और छात्रा के साथ मारपीट और छेड़खानी का वीडियो वायरल होने के बाद राजनीतिक घमासान मच गया है। पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने कहा है कि एक देश के तौर पर हम सब फेल रहे हैं। वहीं कांग्रेस नेता राहुल गांधी और मल्लिकार्जुन खड़गे ने भी इस घटना की कड़ी निंदा की है।",
-    "title": "जमुई मारपीट मामले पर विपक्ष का गुस्सा",
-    "caption": "बिहार के जमुई में वायरल वीडियो पर राहुल गांधी और ममता बनर्जी ने जताई कड़ी नाराजगी।",
+    "hook": "बिहार के जमुई से एक दिल दहला देने वाला मामला सामने आया है!",
+    "script_hi": "बिहार के जमुई में नाबालिग छात्र और छात्रा के साथ मारपीट और छेड़खानी का वीडियो वायरल होने के बाद राजनीतिक घमासान मच गया है। पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने कहा कि एक देश के तौर पर हम फेल रहे हैं। राहुल गांधी और मल्लिकार्जुन खड़गे समेत तमाम विपक्षी नेताओं ने इस घटना की कड़ी निंदा की है और दोषियों पर सख्त कार्रवाई की मांग की है।",
+    "tts_text_hi": "बिहार के जमुई में नाबालिग छात्र और छात्रा के साथ मारपीट और छेड़खानी का वीडियो वायरल होने के बाद राजनीतिक घमासान मच गया है। पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने कहा कि एक देश के तौर पर हम फेल रहे हैं। राहुल गांधी और मल्लिकार्जुन खड़गे समेत तमाम विपक्षी नेताओं ने इस घटना की कड़ी निंदा की है और दोषियों पर सख्त कार्रवाई की मांग की है।",
+    "title": "जमुई घटना पर विपक्ष का गुस्सा",
+    "caption": "बिहार के जमुई में नाबालिगों के साथ मारपीट और छेड़खानी के वायरल वीडियो पर विपक्ष का फूटा गुस्सा। ममता बनर्जी और राहुल गांधी ने की कड़ी निंदा।",
     "hashtags": [
-      "JamuiNews",
-      "BiharNews",
-      "MamataBanerjee",
-      "RahulGandhi",
-      "BreakingNews",
-      "IndiaNews"
+      "#Jamui",
+      "#BiharNews",
+      "#MamataBanerjee",
+      "#RahulGandhi",
+      "#BreakingNews",
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "Bihar police station India",
-      "Indian politicians protesting",
-      "Indian flag protest mood"
+      "India protest street",
+      "Indian politicians speaking"
     ],
     "named_person": "Mamata Banerjee",
     "named_person_hi": "ममता बनर्जी",
@@ -35,8 +34,17 @@
     ],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor victim of a crime and a viral video incident that requires manual handling of visuals and sensitive subject check.",
+    "flag_reason": "The story revolves around a viral video of a specific local incident, which requires the real footage rather than generic stock B-roll.",
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847881/8847881-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "angry political leaders India",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 34,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "downloaded_assets/person_8fbff8cee6.jpg",
@@ -55,109 +63,253 @@
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_2a5d455b41.jpg",
-        "source": "wikimedia",
-        "query": "Mallikarjun Kharge",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Bihar police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "political protest India",
-        "credit": "Satyam Pixels",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian flag protest mood",
-        "credit": "Satyam Pixels",
+        "query": "India protest street",
+        "credit": "Rahul Sapra",
         "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "csk_appoints_zaheer_khan_head_coach_ipl",
-    "virality_score": 8,
-    "reason": "Major IPL team management change featuring World Cup hero Zaheer Khan taking over CSK.",
+    "topic_label": "jalpaiguri_fishermen_rescue_baby_elephant",
+    "virality_score": 9,
+    "reason": "Inspirational and heartwarming visual story of fishermen risking lives to save a baby elephant in Jalpaiguri.",
     "region": "india",
-    "headline": "IPL 2027 से पहले CSK में बड़ा बदलाव! जहीर बने हेड कोच",
-    "source_summary": "आईपीएल 2027 से पहले चेन्नई सुपर किंग्स ने अपनी कोचिंग व्यवस्था में बड़ा बदलाव किया है. स्टीफन फ्लेमिंग के हटने के बाद 2011 विश्व कप के नायक जहीर खान को नया मुख्य कोच बनाया गया है. जहीर के पास अंतरराष्ट्रीय और आईपीएल का लंबा अनुभव है. अब वह युवा गेंदबाजों को निखारने और टीम को मजबूत करने की जिम्मेदारी संभालेंगे. धोनी के साथ उनकी नई जोड़ी पर भी नजरें रहेंगी.",
-    "source_url": "https://www.aajtak.in/short-videos/video/zaheer-khan-csk-head-coach-ipl-2027-stephen-fleming-chennai-super-kings-ms-dhoni-coaching-change-mmta-2649358-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T20:39:10+05:30",
-    "hook": "आईपीएल सत्ताईस से पहले चेन्नई सुपर किंग्स में बहुत बड़ा बदलाव हुआ है!",
-    "script_hi": "आईपीएल सत्ताईस से पहले चेन्नई सुपर किंग्स ने अपनी कोचिंग व्यवस्था में बड़ा बदलाव किया है। स्टीफन फ्लेमिंग के हटने के बाद वर्ष दो हजार ग्यारह विश्व कप के नायक जहीर खान को नया मुख्य कोच बनाया गया है। जहीर के पास लंबा अनुभव है। अब वह युवा गेंदबाजों को निखारने की जिम्मेदारी संभालेंगे। महेंद्र सिंह धोनी के साथ उनकी नई जोड़ी पर सबकी नजरें रहेंगी।",
-    "tts_text_hi": "आईपीएल सत्ताईस से पहले चेन्नई सुपर किंग्स ने अपनी कोचिंग व्यवस्था में बड़ा बदलाव किया है। स्टीफन फ्लेमिंग के हटने के बाद वर्ष दो हजार ग्यारह विश्व कप के नायक जहीर खान को नया मुख्य कोच बनाया गया है। जहीर के पास लंबा अनुभव है। अब वह युवा गेंदबाजों को निखारने की जिम्मेदारी संभालेंगे। महेंद्र सिंह धोनी के साथ उनकी नई जोड़ी पर सबकी नजरें रहेंगी।",
-    "title": "IPL 2027: जहीर खान बने CSK के नए हेड कोच",
-    "caption": "आईपीएल सत्ताईस से पहले चेन्नई सुपर किंग्स में बड़ा बदलाव, जहीर खान बने नए हेड कोच।",
+    "headline": "तीस्ता नदी के तेज बहाव में बह रहा था हाथी का बच्चा, मछुआरों ने जान जोखिम में डाल 4 किमी तक पीछा कर डूबने से बचाया",
+    "source_summary": "जलपाईगुड़ी के पांच मछुआरों ने तीस्ता नदी में एक छोटी नाव पर सवार होकर हाथी के एक नवजात बच्चे को बचाकर कमाल कर दिखाया। यह बच्चा अपलचंद जंगल की काठांबारी रेंज के पास नदी पार करते समय नदी में गिर गया था।",
+    "source_url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/elephant-calf-rescued-from-teesta-river-reunited-with-mother-in-apalchand-forest-kathambari/articleshow/134400054.cms",
+    "source_name": "Navbharat Times",
+    "published": "Tue, 22 Sep 2026 07:02:00 +0530",
+    "hook": "जान जोखिम में डाल कर बचाया हाथी के बच्चे को!",
+    "script_hi": "पश्चिम बंगाल के जलपाईगुड़ी में तीस्ता नदी के तेज बहाव में एक हाथी का नवजात बच्चा बह रहा था। पांच साहसी मछुआरों ने बिना एक पल गंवाए अपनी छोटी नाव से चार किलोमीटर तक उसका पीछा किया। इन मछुआरों ने अपनी जान जोखिम में डालकर उस छोटे हाथी के बच्चे को डूबने से बचा लिया। यह बच्चा अपलचंद जंगल की काठांबारी रेंज के पास नदी पार कर रहा था।",
+    "tts_text_hi": "पश्चिम बंगाल के जलपाईगुड़ी में तीस्ता नदी के तेज बहाव में एक हाथी का नवजात बच्चा बह रहा था। पांच साहसी मछुआरों ने बिना एक पल गंवाए अपनी छोटी नाव से चार किलोमीटर तक उसका पीछा किया। इन मछुआरों ने अपनी जान जोखिम में डालकर उस छोटे हाथी के बच्चे को डूबने से बचा लिया। यह बच्चा अपलचंद जंगल की काठांबारी रेंज के पास नदी पार कर रहा था।",
+    "title": "मछुआरों ने बचाई हाथी के बच्चे की जान",
+    "caption": "जलपाईगुड़ी के पांच साहसी मछुआरों ने तीस्ता नदी के तेज बहाव में बह रहे हाथी के नवजात बच्चे को बचाकर दिखाई मानवता की मिसाल।",
     "hashtags": [
-      "#CSK",
-      "#IPL2027",
-      "#ZaheerKhan",
-      "#MSDhoni",
-      "#ChennaiSuperKings",
-      "#CricketNews",
-      "#IPLCricket"
+      "ElephantRescue",
+      "Jalpaiguri",
+      "TeestaRiver",
+      "GoodNews",
+      "IndiaWildlife",
+      "ViralVideo"
     ],
     "visual_queries": [
-      "Chennai Super Kings logo India",
-      "cricket stadium India",
-      "cricket coach training India"
+      "elephant calf in river India",
+      "small boat on river India",
+      "Indian fishermen in boat",
+      "dense Indian jungle river"
     ],
-    "named_person": "Zaheer Khan",
-    "named_person_hi": "जहीर खान",
-    "secondary_persons": [
-      "Stephen Fleming",
-      "MS Dhoni"
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "This story highlights a specific, unique rescue event (five specific fishermen rescuing an elephant calf in the Teesta River) where generic stock footage will not capture the actual event. Real media of this specific rescue should be added manually.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35170201/pexels-photo-35170201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "elephant calf in river India",
+        "credit": "Roshan Ravi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/23322242/pexels-photo-23322242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "small boat on river India",
+        "credit": "Rohit Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36946707/pexels-photo-36946707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian fishermen in boat",
+        "credit": "SKR",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17902181/pexels-photo-17902181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "dense Indian jungle river",
+        "credit": "Rajesh H P",
+        "duration_sec": 5
+      }
     ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ongc_mahanadi_basin_gas_discovery",
+    "virality_score": 8,
+    "reason": "Major economic and energy sector breakthrough with ONGC discovering a new gas reserve off the Odisha coast.",
+    "region": "india",
+    "headline": "गैस के भंडार को लेकर ओडिशा से आई बड़ी खबर, ऊर्जा सपनों को नई उड़ान",
+    "source_summary": "ओएनजीसी ने ओडिशा तट से 43 किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है. यह खोज 18 सितंबर को एमडीडब्ल्यू 28 नाम के कुएं में हुई, जहां तीन दिनों से लगातार गैस निकल रही है. भंडार की मात्रा अभी सार्वजनिक नहीं की गई है.",
+    "source_url": "https://www.aajtak.in/business/story/ongc-gas-discovery-mahanadi-basin-odisha-coast-deepwater-well-samudra-manthan-energy-imports-ntc-agkp-dskc-2649489-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T06:52:54+05:30",
+    "hook": "ओडिशा तट से आई बड़ी खबर, गहरे समुद्र में मिला गैस का विशाल भंडार!",
+    "script_hi": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है. यह खोज अट्ठारह सितंबर को एमडीडब्ल्यू अट्ठारह नाम के कुएं में हुई, जहां तीन दिनों से लगातार गैस निकल रही है. भंडार की मात्रा अभी सार्वजनिक नहीं की गई है, लेकिन इसे ऊर्जा क्षेत्र के लिए बड़ी सफलता माना जा रहा है.",
+    "tts_text_hi": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है. यह खोज अट्ठारह सितंबर को एमडीडब्ल्यू अट्ठारह नाम के कुएं में हुई, जहां तीन दिनों से लगातार गैस निकल रही है. भंडार की मात्रा अभी सार्वजनिक नहीं की गई है, लेकिन इसे ऊर्जा क्षेत्र के लिए बड़ी सफलता माना जा रहा है.",
+    "title": "ओडिशा तट के पास महानदी बेसिन में गैस का नया भंडार खोजा गया",
+    "caption": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है।",
+    "hashtags": [
+      "ONGC",
+      "OdishaNews",
+      "GasDiscovery",
+      "EnergyIndia",
+      "MahanadiBasin",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "ONGC offshore oil rig India",
+      "Bay of Bengal ocean India",
+      "natural gas flame India",
+      "energy infrastructure India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16830015/pexels-photo-16830015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ONGC offshore oil rig India",
+        "credit": "Anoop VS",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37266539/pexels-photo-37266539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Bay of Bengal ocean India",
+        "credit": "Prasang Yadav",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12590017/pexels-photo-12590017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "natural gas flame India",
+        "credit": "Kamel Ayman Ph",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29063598/pexels-photo-29063598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "energy infrastructure India",
+        "credit": "Shivam Pandey",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ओडिशा तट के पास महानदी बेसिन में गैस का नया भंडार खोजा गया",
+        "caption": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है।\n\n#ONGC #OdishaNews #GasDiscovery #EnergyIndia #MahanadiBasin"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है।\n\n#ONGC #OdishaNews #GasDiscovery #EnergyIndia #MahanadiBasin"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ओएनजीसी ने ओडिशा तट से उनतालीस किलोमीटर दूर महानदी बेसिन में गहरे समुद्र में गैस की नई खोज की है।\n\n#ONGC #OdishaNews #GasDiscovery #EnergyIndia #MahanadiBasin"
+      },
+      "hashtags": [
+        "ONGC",
+        "OdishaNews",
+        "GasDiscovery",
+        "EnergyIndia",
+        "MahanadiBasin"
+      ]
+    },
+    "audio_path": "audio/ongc_mahanadi_basin_gas_discovery.wav",
+    "audio_duration_sec": 20.63,
+    "video_path": "videos/ongc_mahanadi_basin_gas_discovery.mp4",
+    "video_duration_sec": 28.69
+  },
+  {
+    "topic_label": "italy_burqa_niqab_ban_aimplb_reaction",
+    "virality_score": 8,
+    "reason": "Global policy change by Italian PM Meloni on religious attire sparks sharp opposition in India.",
+    "region": "india",
+    "headline": "&#039;धार्मिक आजादी के खिलाफ&#039;, मेलोनी के बुर्का-नकाब बैन प्रस्ताव पर AIMPLB नाराज",
+    "source_summary": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने स्कूलों में बुर्का और नकाब पर बैन लगाने का फैसला किया है. मेलोनी के इस फैसले का भारत के ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) ने विरोध किया है. AIMPLB के सदस्य मौलाना खालिद रशीद फिरंगी महली ने इसे धार्मिक स्वतंत्रता के खिलाफ बताया हैऔर मेलोनी से इस फैसले पर दोबारा सोचने की अपील की है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/aimplb-opposes-italy-pm-giorgia-meloni-burqa-naqab-ban-schools-ntc-drmt-dskc-2649490-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T06:56:57+05:30",
+    "hook": "इटली में बुर्का बैन पर मचा घमासान!",
+    "script_hi": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने स्कूलों में बुर्का और नकाब पर बैन लगाने का फैसला किया है। भारत के ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड ने इस फैसले का कड़ा विरोध किया है। बोर्ड के सदस्य मौलाना खालिद रशीद फिरंगी महली ने इसे धार्मिक स्वतंत्रता के खिलाफ बताया है और मेलोनी से अपने फैसले पर दोबारा विचार करने की अपील की है।",
+    "tts_text_hi": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने स्कूलों में बुर्का और नकाब पर बैन लगाने का फैसला किया है। भारत के ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड ने इस फैसले का कड़ा विरोध किया है। बोर्ड के सदस्य मौलाना खालिद रशीद फिरंगी महली ने इसे धार्मिक स्वतंत्रता के खिलाफ बताया है और मेलोनी से अपने फैसले पर दोबारा विचार करने की अपील की है।",
+    "title": "बुर्का और नकाब बैन पर मेलोनी के फैसले के खिलाफ AIMPLB",
+    "caption": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी के स्कूलों में बुर्का और नकाब बैन करने के प्रस्ताव पर भारत के AIMPLB ने जताई नाराजगी।",
+    "hashtags": [
+      "ItalyNews",
+      "GiorgiaMeloni",
+      "AIMPLB",
+      "BurqaBan",
+      "NewsUpdates",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Rome Italy government building",
+      "Italian flag India",
+      "Islamic school students India"
+    ],
+    "named_person": "Giorgia Meloni",
+    "named_person_hi": "जॉर्जिया मेलोनी",
+    "secondary_persons": [],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
         "type": "text_card",
-        "text": "जहीर खान",
+        "text": "जॉर्जिया मेलोनी",
         "source": "fallback",
-        "query": "Zaheer Khan",
+        "query": "Giorgia Meloni",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37145697/pexels-photo-37145697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36576284/pexels-photo-36576284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket coach training ground",
-        "credit": "Imtiaz Ahmed",
+        "query": "Rome Italy government building",
+        "credit": "Marios Potsis",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33739152/pexels-photo-33739152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium India",
-        "credit": "Ajay Parab",
+        "query": "Italian flag India",
+        "credit": "Valentin Ivantsov",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13509630/pexels-photo-13509630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37350650/pexels-photo-37350650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket coach training India",
-        "credit": "Sandeep Singh",
+        "query": "Islamic school students India",
+        "credit": "Al  Hoque",
         "duration_sec": 5
       }
     ],
@@ -166,57 +318,156 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "IPL 2027 से पहले CSK का सबसे बड़ा फैसला! जहीर खान बने नए हेड कोच 🟡🏏",
-        "caption": "धोनी की टीम में अब शुरू होगा इस दिग्गज का नया दौर! 🚨\n\nIPL 2027 से पहले चेन्नई सुपर किंग्स ने कोचिंग स्टाफ में बहुत बड़ा बदलाव किया है। पूर्व भारतीय गेंदबाज जहीर खान को टीम का नया हेड कोच बनाया गया है।\n\nक्या जहीर की यह रणनीति CSK को फिर से चैंपियन बना पाएगी? कमेंट में अपनी राय बताएं और पूरी कहानी देखें।\n\n#CSK #IPL2027 #ZaheerKhan #MSDhoni #IPLNews"
+        "title": "बुर्का और नकाब बैन पर मेलोनी के फैसले के खिलाफ AIMPLB",
+        "caption": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी के स्कूलों में बुर्का और नकाब बैन करने के प्रस्ताव पर भारत के AIMPLB ने जताई नाराजगी।\n\n#ItalyNews #GiorgiaMeloni #AIMPLB #BurqaBan #NewsUpdates"
       },
       "instagram": {
         "title": null,
-        "caption": "धोनी की टीम में आया बड़ा भूचाल! 🚨\n\nIPL 2027 से पहले CSK ने बदल दिया अपना पूरा समीकरण। जहीर खान अब संभालेंगे चेन्नई की कमान के पीछे की कमान, बने नए हेड कोच।\n\nक्या लगता है, यह बदलाव टीम को जिता पाएगा ट्रॉफी? दोस्तों के साथ शेयर करें!\n\n#CSK #IPL2027 #ZaheerKhan #MSDhoni #IPLNews"
+        "caption": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी के स्कूलों में बुर्का और नकाब बैन करने के प्रस्ताव पर भारत के AIMPLB ने जताई नाराजगी।\n\n#ItalyNews #GiorgiaMeloni #AIMPLB #BurqaBan #NewsUpdates"
       },
       "facebook": {
         "title": null,
-        "caption": "चेन्नई सुपर किंग्स के खेमे से आ रही है सबसे बड़ी खबर! 🚨\n\nIPL 2027 के सीजन से पहले CSK मैनेजमेंट ने एक बेहद चौंकाने वाला और बड़ा फैसला लिया है। पूर्व भारतीय तेज गेंदबाज जहीर खान को टीम का नया हेड कोच नियुक्त किया गया है। अब देखना यह होगा कि धोनी के साथ मिलकर जहीर का यह नया संयोजन मैदान पर कैसा जादू दिखाता है।\n\nआपको क्या लगता है, क्या यह फैसला टीम की किस्मत बदल देगा? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#CSK #IPL2027 #ZaheerKhan #MSDhoni #IPLNews"
+        "caption": "इटली की प्रधानमंत्री जॉर्जिया मेलोनी के स्कूलों में बुर्का और नकाब बैन करने के प्रस्ताव पर भारत के AIMPLB ने जताई नाराजगी।\n\n#ItalyNews #GiorgiaMeloni #AIMPLB #BurqaBan #NewsUpdates"
       },
       "hashtags": [
-        "CSK",
-        "IPL2027",
-        "ZaheerKhan",
-        "MSDhoni",
-        "IPLNews"
+        "ItalyNews",
+        "GiorgiaMeloni",
+        "AIMPLB",
+        "BurqaBan",
+        "NewsUpdates"
       ]
     },
-    "audio_path": "audio/csk_appoints_zaheer_khan_head_coach_ipl.wav",
-    "audio_duration_sec": 17.62,
-    "video_path": "videos/csk_appoints_zaheer_khan_head_coach_ipl.mp4",
-    "video_duration_sec": 25.66
+    "audio_path": "audio/italy_burqa_niqab_ban_aimplb_reaction.wav",
+    "audio_duration_sec": 22.88,
+    "video_path": "videos/italy_burqa_niqab_ban_aimplb_reaction.mp4",
+    "video_duration_sec": 30.94
   },
   {
-    "topic_label": "us_air_traffic_control_system_failure_flights_grounded",
+    "topic_label": "baghpat_ankit_israr_murder_mahant_arrest",
     "virality_score": 8,
-    "reason": "Major global infrastructure disruption grounding numerous flights across key US hubs.",
+    "reason": "Bizarre crime story of an accused who hid as a beggar in Kolkata after murdering two friends.",
     "region": "india",
-    "headline": "अमेरिका में एयर ट्रैफिक सिस्टम फेल: न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें ठप; क्या है वजह?",
-    "source_summary": "अमेरिका में एयर ट्रैफिक सिस्टम फेल: न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें ठप; क्या है वजह?\n\nus flight disruption new york airports faa technical failure",
-    "source_url": "https://www.amarujala.com/world/us-flight-disruption-new-york-airports-faa-technical-failure-2026-09-22",
-    "source_name": "Amar Ujala",
-    "published": "Tue, 22 Sep 2026 02:26:10 +0530",
-    "hook": "अमेरिका में बड़ा तकनीकी संकट! न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें पूरी तरह ठप!",
-    "script_hi": "अमेरिका में एयर ट्रैफिक सिस्टम फेल होने से बड़ा संकट खड़ा हो गया है। न्यूयॉर्क के तीन बड़े हवाई अड्डों पर सभी उड़ानें ठप कर दी गईं। हालांकि, इस तकनीकी खराबी के कारणों की जांच की जा रही है और राहत के प्रयास जारी हैं।",
-    "tts_text_hi": "अमेरिका में एयर ट्रैफिक सिस्टम फेल होने से बड़ा संकट खड़ा हो गया है। न्यूयॉर्क के तीन बड़े हवाई अड्डों पर सभी उड़ानें ठप कर दी गईं। हालांकि, इस तकनीकी खराबी के कारणों की जांच की जा रही है और राहत के प्रयास जारी हैं।",
-    "title": "अमेरिका में एयर ट्रैफिक सिस्टम फेल, न्यूयॉर्क के एयरपोर्ट पर उड़ानें ठप",
-    "caption": "अमेरिका में एयर ट्रैफिक सिस्टम फेल होने के कारण न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें ठप हो गई हैं।",
+    "headline": "बागपत में मंदिर के नीचे लाशें! भिखारी बनकर छिपा था कातिल!",
+    "source_summary": "बागपत के चर्चित अंकित और इसरार हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार किया है. पुलिस के मुताबिक, पूछताछ में उसने 25 जुलाई को दोनों की हत्या कर शव मंदिर परिसर में दफनाने की बात कबूल की. जांच के अनुसार, अंकित की बहन से उसके संबंध थे और विरोध के चलते वारदात हुई. हत्या के बाद आरोपी हरिद्वार, नेपाल और फिर कोलकाता पहुंचा, जहां पहचान छिपाकर रह रहा था.",
+    "source_url": "https://www.aajtak.in/short-videos/video/baghpat-double-murder-mahant-nareshnath-arrested-kolkata-nepal-haridwar-ganesh-temple-ankit-israr-murder-case-mmta-2649406-2026-09-21?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-21T21:52:26+05:30",
+    "hook": "बागपत के मंदिर में मिले शवों का राज खुला!",
+    "script_hi": "बागपत के चर्चित दोहरे हत्याकांड का मुख्य आरोपी महंत नरेशनाथ कोलकाता से गिरफ्तार कर लिया गया है. पुलिस के मुताबिक, आरोपी ने पच्चीस जुलाई को दो लोगों की हत्या कर शव मंदिर परिसर में दफनाए थे. अंकित की बहन से संबंधों के विरोध पर इस वारदात को अंजाम दिया गया था. हत्या के बाद आरोपी हरिद्वार, नेपाल और फिर कोलकाता में भिखारी बनकर छिपा हुआ था.",
+    "tts_text_hi": "बागपत के चर्चित दोहरे हत्याकांड का मुख्य आरोपी महंत नरेशनाथ कोलकाता से गिरफ्तार कर लिया गया है. पुलिस के मुताबिक, आरोपी ने पच्चीस जुलाई को दो लोगों की हत्या कर शव मंदिर परिसर में दफनाए थे. अंकित की बहन से संबंधों के विरोध पर इस वारदात को अंजाम दिया गया था. हत्या के बाद आरोपी हरिद्वार, नेपाल और फिर कोलकाता में भिखारी बनकर छिपा हुआ था.",
+    "title": "बागपत हत्याकांड: मंदिर में दफनाए गए थे शव, कोलकाता से गिरफ्तार हुआ आरोपी",
+    "caption": "बागपत के चर्चित अंकित और इसरार हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार कर लिया है। आरोपी पहचान बदलकर छिपा हुआ था।",
     "hashtags": [
-      "USNews",
-      "NewYork",
-      "FlightDisruption",
+      "BaghpatNews",
+      "CrimeNews",
+      "UpPolice",
+      "Kolkata",
+      "TempleMurder",
       "BreakingNews",
-      "USA",
-      "AirTraffic"
+      "IndiaNews"
     ],
     "visual_queries": [
-      "empty airport terminal interior",
-      "commercial airplane grounded tarmac",
-      "airport control tower night"
+      "Indian police station building",
+      "Hindu temple courtyard India",
+      "Indian police investigation team",
+      "Kolkata street India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station building",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34071229/pexels-photo-34071229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hindu temple courtyard India",
+        "credit": "Ravi Kant",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest criminal India",
+        "credit": "Kindel Media",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20548184/pexels-photo-20548184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Kolkata street India",
+        "credit": "Prabhakar Prajapati",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बागपत हत्याकांड: मंदिर में दफनाए गए थे शव, कोलकाता से गिरफ्तार हुआ आरोपी",
+        "caption": "बागपत के चर्चित अंकित और इसरार हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार कर लिया है। आरोपी पहचान बदलकर छिपा हुआ था।\n\n#BaghpatNews #CrimeNews #UpPolice #Kolkata #TempleMurder"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "बागपत के चर्चित अंकित और इसरार हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार कर लिया है। आरोपी पहचान बदलकर छिपा हुआ था।\n\n#BaghpatNews #CrimeNews #UpPolice #Kolkata #TempleMurder"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "बागपत के चर्चित अंकित और इसरार हत्याकांड के मुख्य आरोपी महंत नरेशनाथ को पुलिस ने कोलकाता से गिरफ्तार कर लिया है। आरोपी पहचान बदलकर छिपा हुआ था।\n\n#BaghpatNews #CrimeNews #UpPolice #Kolkata #TempleMurder"
+      },
+      "hashtags": [
+        "BaghpatNews",
+        "CrimeNews",
+        "UpPolice",
+        "Kolkata",
+        "TempleMurder"
+      ]
+    },
+    "audio_path": "audio/baghpat_ankit_israr_murder_mahant_arrest.wav",
+    "audio_duration_sec": 23.99,
+    "video_path": "videos/baghpat_ankit_israr_murder_mahant_arrest.mp4",
+    "video_duration_sec": 32.02
+  },
+  {
+    "topic_label": "ahmedabad_airport_ganja_smuggling_8_crore",
+    "virality_score": 7,
+    "reason": "High-value drug seizure at Ahmedabad airport with narcotics smuggled inside clothing from Bangkok.",
+    "region": "india",
+    "headline": "बैंकॉक से कपड़ों के बीच छिपा कर लाया 8 करोड़ से ज्यादा का गांजा",
+    "source_summary": "अहमदाबाद एयरपोर्ट पर AIU ने बैंकॉक से आए 41 वर्षीय यात्री इमरान शेख को गिरफ्तार कर लिया. उसके सामान से कपड़ों के बीच छिपाकर रखे 14 पैकेट में 8.9 किलो गांजा बरामद हुआ, जिसकी कीमत 8.9 करोड़ रुपये है. पढ़ें पूरी कहानी.",
+    "source_url": "https://www.aajtak.in/crime/news/story/ahmedabad-airport-8-9-crore-hydroponic-marijuana-seized-bangkok-passenger-arrested-pvzs-dskc-2649279-2026-09-21?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-21T18:40:36+05:30",
+    "hook": "अहमदाबाद एयरपोर्ट पर पकड़ा गया करोड़ों का गांजा!",
+    "script_hi": "अहमदाबाद एयरपोर्ट पर एआईयू ने बैंकॉक से आए एक यात्री को गिरफ्तार किया है। आरोपी के पास से कपड़ों के बीच छिपाकर रखे चौदह पैकेट में आठ दशमलव नौ किलो गांजा बरामद हुआ, जिसकी कीमत आठ दशमलव नौ करोड़ रुपये बताई जा रही है।",
+    "tts_text_hi": "अहमदाबाद एयरपोर्ट पर एआईयू ने बैंकॉक से आए एक यात्री को गिरफ्तार किया है। आरोपी के पास से कपड़ों के बीच छिपाकर रखे चौदह पैकेट में आठ दशमलव नौ किलो गांजा बरामद हुआ, जिसकी कीमत आठ दशमलव नौ करोड़ रुपये बताई जा रही है।",
+    "title": "अहमदाबाद एयरपोर्ट पर बैंकॉक से लाया गया करोड़ों का गांजा बरामद",
+    "caption": "अहमदाबाद एयरपोर्ट पर बैंकॉक से कपड़ों के बीच छिपाकर लाया गया आठ करोड़ से ज्यादा का गांजा बरामद, एक गिरफ्तार।",
+    "hashtags": [
+      "AhmedabadAirport",
+      "DrugsSeized",
+      "CustomsIndia",
+      "CrimeNews",
+      "GujaratNews",
+      "Bangkok"
+    ],
+    "visual_queries": [
+      "Ahmedabad airport terminal India",
+      "airport customs officers India",
+      "illegal drugs seized India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -227,60 +478,60 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/13023818/13023818-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/27532361/12161254_720_1280_55fps.mp4",
         "source": "pexels",
-        "query": "busy new york airport",
-        "credit": "World Traveler Blog",
-        "source_duration_sec": 21,
+        "query": "Ahmedabad airport terminal India",
+        "credit": "Dilip Giri",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/35904845/15230033_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/13790667/13790667-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "stranded passengers airport terminal",
-        "credit": "Goran Mustafa",
-        "source_duration_sec": 7,
+        "query": "airport security baggage check",
+        "credit": "K",
+        "source_duration_sec": 15,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14370157/pexels-photo-14370157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19346867/pexels-photo-19346867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "empty airport terminal interior",
-        "credit": "Aaron Mugla",
+        "query": "airport customs officers India",
+        "credit": "Keith Lobo",
         "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10070382/pexels-photo-10070382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7231214/pexels-photo-7231214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane grounded tarmac",
-        "credit": "Nikita  Grishin",
+        "query": "illegal drugs seized India",
+        "credit": "MART  PRODUCTION",
         "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36388992/pexels-photo-36388992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14613848/pexels-photo-14613848.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airport control tower night",
-        "credit": "Felix",
+        "query": "customs inspection airport India",
+        "credit": "Madvortex",
         "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36056154/pexels-photo-36056154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7231214/pexels-photo-7231214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airplane on runway tarmac",
-        "credit": "Reyhan  🖤",
+        "query": "illegal drugs seized police",
+        "credit": "MART  PRODUCTION",
         "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/27271921/pexels-photo-27271921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19534209/pexels-photo-19534209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "busy new york airport",
-        "credit": "nathspov",
+        "query": "international airport arrival hall",
+        "credit": "Emre Ateşoğlu",
         "duration_sec": 3.6
       }
     ],
@@ -289,306 +540,28 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अमेरिका में बड़ा एयर ट्रैफिक संकट! न्यूयॉर्क के 3 बड़े एयरपोर्ट पर उड़ानें ठप ✈️",
-        "caption": "अमेरिका में बड़ा तकनीकी संकट! न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें पूरी तरह ठप! 🚨\n\nFAA के सिस्टम में अचानक आई तकनीकी खराबी के बाद न्यूयॉर्क के प्रमुख एयरपोर्ट्स पर अफरा-तफरी मच गई है। हजारों यात्री फंस गए हैं और उड़ानों का संचालन पूरी तरह रोक दिया गया है।\n\nआखिर क्या है इस बड़ी तकनीकी खराबी की असली वजह? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#USNews #NewYorkAirport #BreakingNews #AviationCrisis #America"
+        "title": "अहमदाबाद एयरपोर्ट पर पकड़ा गया 8 करोड़ का गांजा! 🌿",
+        "caption": "बैंकॉक से कपड़ों के बीच छुपाकर लाई गई करोड़ों की खेप ने सबको चौंका दिया। 🛄\n\nकस्टम विभाग ने अहमदाबाद एयरपोर्ट पर एक यात्री को पकड़ा जिसके पास से 8 करोड़ रुपये से ज्यादा का गांजा बरामद हुआ। आरोपी ने शातिर तरीके से इसे सूटकेस में सेट किया था।\n\nपूरी कहानी वीडियो में देखें, आपकी इस पर क्या राय है?\n\n#AhmedabadAirport #CustomsSeizure #BangkokSmuggling #GujaratNews #CrimeNews"
       },
       "instagram": {
         "title": null,
-        "caption": "अमेरिका में बड़ा तकनीकी संकट! न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें पूरी तरह ठप! 🚨\n\nFAA के सिस्टम फेल होने से न्यूयॉर्क के एयरपोर्ट्स पर हड़कंप मचा है। हजारों यात्री परेशान हैं।\n\nआपकी इस पर क्या राय है? शेयर करें।\n\n#USNews #NewYorkAirport #BreakingNews #AviationCrisis #America"
+        "caption": "बैंकॉक से कपड़ों के बीच छुपाकर लाया गया 8 करोड़ का गांजा! 🌿\n\nअहमदाबाद एयरपोर्ट पर कस्टम विभाग ने जब सूटकेस खोला, तो उसमें से निकली करोड़ों की खेप देख अफसरों के होश उड़ गए। शातिर तरीका जानकर आप भी हैरान रह जाएंगे।\n\nवीडियो पूरा देखें और शेयर करें!\n\n#AhmedabadAirport #CustomsSeizure #BangkokSmuggling #GujaratNews #CrimeNews"
       },
       "facebook": {
         "title": null,
-        "caption": "अमेरिका में बड़ा तकनीकी संकट! न्यूयॉर्क के तीन बड़े एयरपोर्ट पर उड़ानें पूरी तरह ठप! 🚨\n\nफेडरल एविएशन एडमिनिस्ट्रेशन के एयर ट्रैफिक सिस्टम में अचानक आई भारी तकनीकी खराबी के चलते न्यूयॉर्क के तीन सबसे बड़े एयरपोर्ट्स पर कामकाज पूरी तरह से रुक गया है। अचानक उड़ानों के ठप होने से देश-विदेश जाने वाले हजारों यात्री एयरपोर्ट पर ही फंस गए हैं और भारी परेशानी का सामना कर रहे हैं।\n\nक्या इसके पीछे कोई बड़ी लापरवाही है या कोई साइबर हमला? जानिए पूरी खबर वीडियो में।\n\n#USNews #NewYorkAirport #BreakingNews #AviationCrisis #America"
-      },
-      "hashtags": [
-        "USNews",
-        "NewYorkAirport",
-        "BreakingNews",
-        "AviationCrisis",
-        "America"
-      ]
-    },
-    "audio_path": "audio/us_air_traffic_control_system_failure_flights_grounded.wav",
-    "audio_duration_sec": 15.71,
-    "video_path": "videos/us_air_traffic_control_system_failure_flights_grounded.mp4",
-    "video_duration_sec": 23.62
-  },
-  {
-    "topic_label": "shahrukh_khan_lalbaugcha_raja_darshan",
-    "virality_score": 7,
-    "reason": "Celebrity engagement featuring Shah Rukh Khan visiting the famous Lalbaugcha Raja pandal.",
-    "region": "india",
-    "headline": "लालबागचा राजा के दर शाहरुख खान, साथ दिखीं गौरी और सुहाना",
-    "source_summary": "बॉलीवुड सुपरस्टार शाहरुख खान ने सोमवार को गणेशोत्सव के दौरान गणपति बप्पा का आशीर्वाद लेने के लिए मुंबई के मशहूर लालबागचा राजा पंडाल का दौरा किया.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/photo/shah-rukh-khan-visits-lalbaugcha-raja-with-gauri-khan-and-suhana-khan-to-seek-blessings-tmovg-2649412-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T21:54:43+05:30",
-    "hook": "शाहरुख खान पहुंचे लालबागचा राजा के दर!",
-    "script_hi": "बॉलीवुड सुपरस्टार शाहरुख खान ने सोमवार को गणेशोत्सव के दौरान मुंबई के मशहूर लालबागचा राजा पंडाल जाकर बप्पा का आशीर्वाद लिया। इस दौरान उनके साथ गौरी खान और सुहाना खान भी नजर आईं।",
-    "tts_text_hi": "बॉलीवुड सुपरस्टार शाहरुख खान ने सोमवार को गणेशोत्सव के दौरान मुंबई के मशहूर लालबागचा राजा पंडाल जाकर बप्पा का आशीर्वाद लिया। इस दौरान उनके साथ गौरी खान और सुहाना खान भी नजर आईं।",
-    "title": "शाहरुख खान पहुंचे लालबागचा राजा के दर",
-    "caption": "बॉलीवुड के किंग खान यानी शाहरुख खान परिवार सहित पहुंचे लालबागचा राजा के दर्शन करने।",
-    "hashtags": [
-      "ShahRukhKhan",
-      "LalbaugchaRaja",
-      "Ganeshotsav",
-      "MumbaiNews",
-      "Bollywood",
-      "GauriKhan",
-      "SohanaKhan"
-    ],
-    "visual_queries": [
-      "Bollywood actor India",
-      "Hindu temple festival India",
-      "Mumbai crowd street India"
-    ],
-    "named_person": "Shah Rukh Khan",
-    "named_person_hi": "शाहरुख खान",
-    "secondary_persons": [
-      "Gauri Khan",
-      "Suhana Khan"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "शाहरुख खान",
-        "source": "fallback",
-        "query": "Shah Rukh Khan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bollywood actor India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24862776/pexels-photo-24862776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hindu temple festival India",
-        "credit": "Manisha H",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15528028/pexels-photo-15528028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai crowd street India",
-        "credit": "Stijn Dijkstra",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शाहरुख खान पहुंचे लालबागचा राजा के दर! साथ दिखीं गौरी और सुहाना 🙏",
-        "caption": "लालबागचा राजा के दरबार में जब शाहरुख खान परिवार सहित पहुंचे, तो हर कोई देखता रह गया। 🌟\n\nसुपरस्टार शाहरुख ने पत्नी गौरी खान और बेटी सुहाना के साथ बप्पा के दर्शन किए और आशीर्वाद लिया। उनका यह वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nआपने इस साल किस पंडाल में बप्पा के दर्शन किए? कमेंट में बताएं! 👇\n\n#ShahRukhKhan #LalbaugchaRaja #GauriKhan #SuhanaKhan #GaneshUtsav2024"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लालबागचा राजा के दरबार में पहुंचे शाहरुख खान! गौरी और सुहाना के साथ बप्पा के दर्शन का यह खास पल कैमरे में कैद हो गया। ✨\n\nवीडियो देख कर बताइए, आपको किंग खान का यह अंदाज़ कैसा लगा? पूरी कहानी के लिए वीडियो अंत तक देखें।\n\n#ShahRukhKhan #LalbaugchaRaja #GauriKhan #SuhanaKhan #GaneshUtsav2024"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मुंबई के सबसे मशहूर लालबागचा राजा के दरबार में इस बार बॉलीवुड के किंग खान यानी शाहरुख खान हाजिरी लगाने पहुंचे। उनके साथ पत्नी गौरी खान और बेटी सुहाना खान भी नजर आईं। 🌺\n\nपारंपरिक अंदाज में बप्पा के दर्शन करने पहुंचे इस परिवार की तस्वीरें और वीडियो सोशल मीडिया पर फैंस का दिल जीत रहे हैं। क्या आपने भी इस गणेशोत्सव बप्पा के दर्शन किए? हमें कमेंट करके जरूर बताएं।\n\n#ShahRukhKhan #LalbaugchaRaja #GauriKhan #SuhanaKhan #GaneshUtsav2024"
-      },
-      "hashtags": [
-        "ShahRukhKhan",
-        "LalbaugchaRaja",
-        "GauriKhan",
-        "SuhanaKhan",
-        "GaneshUtsav2024"
-      ]
-    },
-    "audio_path": "audio/shahrukh_khan_lalbaugcha_raja_darshan.wav",
-    "audio_duration_sec": 13.49,
-    "video_path": "videos/shahrukh_khan_lalbaugcha_raja_darshan.mp4",
-    "video_duration_sec": 21.54
-  },
-  {
-    "topic_label": "ahmedabad_airport_ganja_smuggling_arrest",
-    "virality_score": 7,
-    "reason": "High-value drug smuggling bust with narcotics hidden inside clothes from Bangkok.",
-    "region": "india",
-    "headline": "बैंकॉक से कपड़ों के बीच छिपा कर लाया 8 करोड़ से ज्यादा का गांजा",
-    "source_summary": "अहमदाबाद एयरपोर्ट पर AIU ने बैंकॉक से आए 41 वर्षीय यात्री इमरान शेख को गिरफ्तार कर लिया. उसके सामान से कपड़ों के बीच छिपाकर रखे 14 पैकेट में 8.9 किलो गांजा बरामद हुआ, जिसकी कीमत 8.9 करोड़ रुपये है. पढ़ें पूरी कहानी.",
-    "source_url": "https://www.aajtak.in/crime/news/story/ahmedabad-airport-8-9-crore-hydroponic-marijuana-seized-bangkok-passenger-arrested-pvzs-dskc-2649279-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T18:40:36+05:30",
-    "hook": "अहमदाबाद एयरपोर्ट पर पकड़ा गया करोड़ों का गांजा!",
-    "script_hi": "अहमदाबाद एयरपोर्ट पर एयर इंटेलिजेंस यूनिट ने बैंकॉक से आए एक यात्री को गिरफ्तार किया है। आरोपी के सामान से कपड़ों के बीच छिपाकर रखे चौदह पैकेट में आठ दशमलव नौ किलो गांजा बरामद हुआ, जिसकी अंतरराष्ट्रीय बाजार में कीमत आठ करोड़ नौ लाख रुपये बताई जा रही है।",
-    "tts_text_hi": "अहमदाबाद एयरपोर्ट पर एयर इंटेलिजेंस यूनिट ने बैंकॉक से आए एक यात्री को गिरफ्तार किया है। आरोपी के सामान से कपड़ों के बीच छिपाकर रखे चौदह पैकेट में आठ दशमलव नौ किलो गांजा बरामद हुआ, जिसकी अंतरराष्ट्रीय बाजार में कीमत आठ करोड़ नौ लाख रुपये बताई जा रही है।",
-    "title": "अहमदाबाद एयरपोर्ट पर करोड़ों का गांजा जब्त",
-    "caption": "अहमदाबाद एयरपोर्ट पर बैंकॉक से आए यात्री के पास से कपड़ों के बीच छिपाकर लाया गया आठ करोड़ रुपये से ज्यादा का गांजा बरामद, आरोपी गिरफ्तार।",
-    "hashtags": [
-      "#AhmedabadAirport",
-      "#DrugSeizure",
-      "#CrimeNews",
-      "#GujaratPolice",
-      "#Smuggling",
-      "#HindiNews"
-    ],
-    "visual_queries": [
-      "Sardar Vallabhbhai Patel International Airport India terminal",
-      "airport custom check India",
-      "police drug seizure India",
-      "illegal cannabis packets India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/13790673/13790673-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "airport customs security",
-        "credit": "K",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16340979/pexels-photo-16340979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airport customs luggage check",
-        "credit": "Abdiel Hernandez Villegas",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9260002/pexels-photo-9260002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "illegal cannabis packets India",
-        "credit": "Jess Loiterton",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14613848/pexels-photo-14613848.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "customs inspection airport India",
-        "credit": "Madvortex",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7231214/pexels-photo-7231214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "illegal drugs seized police",
-        "credit": "MART  PRODUCTION",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37540293/pexels-photo-37540293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "international arrival airport India",
-        "credit": "Dhananjay Shinde",
-        "duration_sec": 4.8
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बैंकॉक से कपड़ों में छिपाकर लाया 8 करोड़ का गांजा 🚨",
-        "caption": "अहमदाबाद एयरपोर्ट पर कस्टम्स ने जब बैग खोला तो सब हैरान रह गए! 🛃\n\nबैंकॉक से कपड़ों के बीच बेहद शातिर तरीके से छिपाकर लाया गया 8 करोड़ रुपये से ज्यादा का गांजा जब्त किया गया है। तस्करों का यह नया पैंतरा अधिकारियों के भी होश उड़ा गया।\n\nपूरी कहानी देखें और शेयर करें।\n\n#AhmedabadAirport #CustomsSeizure #DrugSmuggling #ThailandNews #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "अहमदाबाद एयरपोर्ट पर पकड़ा गया 8 करोड़ का गांजा! 🌿\n\nबैंकॉक से कपड़ों के बीच छिपाकर आ रही इस खेप को कस्टम्स ने दबोच लिया। बैग खुलते ही अंदर का नजारा देख अधिकारी भी चौंक गए।\n\nयह वीडियो कैसा लगा? कमेंट में बताएं और ऐसे मामलों से अपडेट रहने के लिए फॉलो करें।\n\n#AhmedabadAirport #CustomsSeizure #DrugSmuggling #ThailandNews #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बैंकॉक से कपड़ों के बीच छिपाकर लाया जा रहा था 8 करोड़ से ज्यादा का गांजा, जब अहमदाबाद एयरपोर्ट पर बैग खुला तो खुली रह गईं आँखें! 🛑\n\nकस्टम विभाग की सतर्कता ने तस्करों के इस बड़े खेल का पर्दाफाश कर दिया है। इतनी भारी मात्रा में माल लाने का तरीका देखकर जांच एजेंसियां भी हैरान हैं।\n\nक्या कहना है आपका इस शातिर तस्करी पर? अपनी राय जरूर शेयर करें।\n\n#AhmedabadAirport #CustomsSeizure #DrugSmuggling #ThailandNews #CrimeNews"
+        "caption": "बैंकॉक से कपड़ों के बीच छुपाकर लाया जा रहा था 8 करोड़ का गांजा! 🛑\n\nअहमदाबाद एयरपोर्ट पर कस्टम अधिकारियों ने जब एक यात्री का सामान चेक किया, तो जो सच सामने आया उसने सबको हैरान कर दिया। कपड़ों की तह में शातिर तरीके से छिपाए गए इस नशे के सामान की कीमत 8 करोड़ रुपये से ज्यादा बताई जा रही है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#AhmedabadAirport #CustomsSeizure #BangkokSmuggling #GujaratNews #CrimeNews"
       },
       "hashtags": [
         "AhmedabadAirport",
         "CustomsSeizure",
-        "DrugSmuggling",
-        "ThailandNews",
+        "BangkokSmuggling",
+        "GujaratNews",
         "CrimeNews"
       ]
     },
-    "audio_path": "audio/ahmedabad_airport_ganja_smuggling_arrest.wav",
-    "audio_duration_sec": 19.84,
-    "video_path": "videos/ahmedabad_airport_ganja_smuggling_arrest.mp4",
-    "video_duration_sec": 27.82
-  },
-  {
-    "topic_label": "jk_assembly_first_day_bjp_protest_omar",
-    "virality_score": 7,
-    "reason": "Intense political showdown and uproar in the newly convened Jammu & Kashmir assembly session.",
-    "region": "india",
-    "headline": "J-K विधानसभा में हंगामा, उमर सरकार के ख‍िलाफ BJP का जोरदार प्रदर्शन",
-    "source_summary": "जम्मू-कश्मीर विधानसभा के सात दिवसीय सत्र के पहले ही दिन सदन में भारी हंगामा देखने को मिला. भारतीय जनता पार्टी के विधायकों ने बिजली दरों में बढ़ोतरी और संविदा कर्मचारियों को नियमित करने के मुद्दे पर उमर अब्दुल्ला सरकार के खिलाफ मोर्चा खोल दिया. भाजपा विधायकों ने सदन के वेल में प्रवेश कर जोरदार प्रदर्शन किया और अपने हाथों में बैनर तथा पोस्टर लेकर सरकार विरोधी नारे लगाए.",
-    "source_url": "https://www.aajtak.in/india/jammu-kashmir/video/uproar-in-jammu-and-kashmir-assembly-as-bjp-protests-against-omar-government-over-power-tariff-hike-ytvd-2648793-2026-09-21?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-21T13:39:44+05:30",
-    "hook": "जम्मू कश्मीर विधानसभा के पहले ही दिन जोरदार हंगामा!",
-    "script_hi": "जम्मू-कश्मीर विधानसभा के सात दिवसीय सत्र के पहले ही दिन सदन में भारी हंगामा हुआ। भारतीय जनता पार्टी के विधायकों ने बिजली दरों में बढ़ोतरी और संविदा कर्मचारियों को नियमित करने के मुद्दे पर उमर सरकार के खिलाफ मोर्चा खोल दिया। भाजपा विधायकों ने सदन के वेल में प्रवेश कर जोरदार प्रदर्शन किया और अपने हाथों में बैनर तथा पोस्टर लेकर सरकार विरोधी नारे लगाए।",
-    "tts_text_hi": "जम्मू-कश्मीर विधानसभा के सात दिवसीय सत्र के पहले ही दिन सदन में भारी हंगामा हुआ। भारतीय जनता पार्टी के विधायकों ने बिजली दरों में बढ़ोतरी और संविदा कर्मचारियों को नियमित करने के मुद्दे पर उमर सरकार के खिलाफ मोर्चा खोल दिया। भाजपा विधायकों ने सदन के वेल में प्रवेश कर जोरदार प्रदर्शन किया और अपने हाथों में बैनर तथा पोस्टर लेकर सरकार विरोधी नारे लगाए।",
-    "title": "J-K विधानसभा में हंगामा, उमर सरकार के खिलाफ BJP का प्रदर्शन",
-    "caption": "जम्मू-कश्मीर विधानसभा के पहले सत्र में बिजली दरों और संविदा कर्मचारियों के मुद्दे पर बीजेपी का जोरदार हंगामा।",
-    "hashtags": [
-      "JammuKashmir",
-      "JKAssembly",
-      "BJP",
-      "OmarAbdullah",
-      "IndianNews",
-      "PoliticalNews"
-    ],
-    "visual_queries": [
-      "Jammu and Kashmir legislative assembly building India",
-      "Indian politicians protesting inside parliament assembly",
-      "political protest banners India"
-    ],
-    "named_person": "Omar Abdullah",
-    "named_person_hi": "उमर अब्दुल्ला",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "उमर अब्दुल्ला",
-        "source": "fallback",
-        "query": "Omar Abdullah",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15488844/pexels-photo-15488844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politicians protesting inside parliament assembly",
-        "credit": "Czapp Árpád",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "political protest banners India",
-        "credit": "Rahul Sapra",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
-    "review_status": "pending_review"
+    "audio_path": "audio/ahmedabad_airport_ganja_smuggling_8_crore.wav",
+    "audio_duration_sec": 16.89,
+    "video_path": "videos/ahmedabad_airport_ganja_smuggling_8_crore.mp4",
+    "video_duration_sec": 24.92
   }
 ]
