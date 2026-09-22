@@ -1,3 +1,9 @@
-ready_labels: ['telangana_hospital_ac_blast_infants_death']
+ready_labels: ['honda_qc3_electric_scooter_launch', 'lithuania_pm_ready_to_fight_russia_threats_global', 'ongc_mhanadi_basin_gas_discovery', 'vande_mataram_played_japan_t20_match']
 
-telangana_hospital_ac_blast_infants_death: SUCCESS -> video_path=videos/telangana_hospital_ac_blast_infants_death.mp4 dur=9.114218
+jamui_molestation_case_accused_encounter: SKIPPED (not in ready set)
+woman_falls_in_hot_sambar_vessel_accident: SKIPPED (not in ready set)
+telangana_hospital_ac_blast_infants_tragedy: SKIPPED (not in ready set)
+honda_qc3_electric_scooter_launch: SUCCESS -> video_path=videos/honda_qc3_electric_scooter_launch.mp4 dur=25.056553
+vande_mataram_played_japan_t20_match: SUCCESS -> video_path=videos/vande_mataram_played_japan_t20_match.mp4 dur=28.572222
+ongc_mhanadi_basin_gas_discovery: SUCCESS -> video_path=videos/ongc_mhanadi_basin_gas_discovery.mp4 dur=30.889887
+lithuania_pm_ready_to_fight_russia_threats_global: SUCCESS -> video_path=videos/lithuania_pm_ready_to_fight_russia_threats_global.mp4 dur=31.289887
