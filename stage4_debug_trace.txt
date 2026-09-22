@@ -1,9 +1,7 @@
-ready_labels: ['canada_province_sues_openai_school_shooting', 'gold_silver_sharp_price_drop_mcx', 'greater_noida_iphone_18_pro_snatching', 'india_womens_cricket_asian_games_gold', 'trai_new_rules_voice_sms_only_plans', 'up_3567_teachers_appointment_letters_yogiji']
+ready_labels: ['npci_upi_mdr_gst_clarification']
 
-india_womens_cricket_asian_games_gold: SUCCESS -> video_path=videos/india_womens_cricket_asian_games_gold.mp4 dur=20.910227
-up_3567_teachers_appointment_letters_yogiji: SUCCESS -> video_path=videos/up_3567_teachers_appointment_letters_yogiji.mp4 dur=29.942222
-delhi_sadar_bazar_minor_rape_protest: SKIPPED (not in ready set)
-greater_noida_iphone_18_pro_snatching: SUCCESS -> video_path=videos/greater_noida_iphone_18_pro_snatching.mp4 dur=29.689887
-trai_new_rules_voice_sms_only_plans: SUCCESS -> video_path=videos/trai_new_rules_voice_sms_only_plans.mp4 dur=34.62322
-gold_silver_sharp_price_drop_mcx: SUCCESS -> video_path=videos/gold_silver_sharp_price_drop_mcx.mp4 dur=20.62322
-canada_province_sues_openai_school_shooting: SUCCESS -> video_path=videos/canada_province_sues_openai_school_shooting.mp4 dur=23.60322
+lakhimpur_kheri_teacher_murder_suicide: SKIPPED (not in ready set)
+delhi_kalkaji_temple_gangrape_fake_cops: SKIPPED (not in ready set)
+man_sells_family_gold_for_iphone_18_pro: SKIPPED (not in ready set)
+npci_upi_mdr_gst_clarification: SUCCESS -> video_path=videos/npci_upi_mdr_gst_clarification.mp4 dur=22.789887
+balrampur_girl_death_dj_noise_heart_attack: SKIPPED (not in ready set)
