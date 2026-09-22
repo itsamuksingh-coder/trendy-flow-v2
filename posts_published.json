@@ -1,555 +1,121 @@
 [
   {
-    "topic_label": "jamui_molestation_case_accused_encounter",
+    "topic_label": "india_womens_cricket_asian_games_gold",
     "virality_score": 9,
-    "reason": "High-impact breaking news about the police encounter of the main accused in the viral Jamui harassment case.",
+    "reason": "India winning its first gold medal at the Asian Games 2026 through the women's cricket team is a matter of immense national pride.",
     "region": "india",
-    "headline": "ट्रैक्टर चालक हैं जमुई कांड के 2 आरोपी, नंदन-हरेराम की पूरी कुंडली",
-    "source_summary": "जमुई में नाबालिग लड़का-लड़की के साथ बदसलूकी और बैड टच करने वाले आरोपियों का पुलिस ने मंगलवार को एनकाउंटर कर दिया. एक के पैर में गोली लगी है. जबकि एक का पैर टूट गया है. फिलहाल दोनों को गिरफ्तार कर लिया गया है.",
-    "source_url": "https://www.aajtak.in/bihar/story/jamui-couple-harassment-case-nandan-and-heraram-yadav-encounter-crime-kundali-tractor-driver-lcly-strc-2649982-2026-09-22?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-22T13:40:50+05:30",
-    "hook": "जमुई कांड के दो आरोपियों का पुलिस ने किया एनकाउंटर!",
-    "script_hi": "बिहार के जमुई में नाबालिग लड़का और लड़की के साथ बदसलूकी करने वाले दो आरोपियों का पुलिस ने एनकाउंटर कर दिया। आरोपी नंदन और हरेराम पेशे से ट्रैक्टर चालक हैं। मुठभेड़ में एक आरोपी के पैर में गोली लगी है जबकि दूसरे का पैर टूट गया है। पुलिस ने दोनों को गिरफ्तार कर लिया है।",
-    "tts_text_hi": "बिहार के जमुई में नाबालिग लड़का और लड़की के साथ बदसलूकी करने वाले दो आरोपियों का पुलिस ने एनकाउंटर कर दिया। आरोपी नंदन और हरेराम पेशे से ट्रैक्टर चालक हैं। मुठभेड़ में एक आरोपी के पैर में गोली लगी है जबकि दूसरे का पैर टूट गया है। पुलिस ने दोनों को गिरफ्तार कर लिया है।",
-    "title": "जमुई कांड के आरोपियों का एनकाउंटर",
-    "caption": "बिहार के जमुई में नाबालिगों के साथ बदसलूकी करने वाले दोनों आरोपियों का पुलिस ने एनकाउंटर कर दिया है।",
+    "headline": "Asian Games Gold: एशियन गेम्स में भारत को पहला गोल्ड मेडल, महिला क्रिकेट टीम ने रचा इतिहास",
+    "source_summary": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम ने शानदार प्रदर्शन करते हुए देश को पहला गोल्ड मेडल दिलाया है. श्रीलंका को हराकर टीम इंडिया ने यह ऐतिहासिक जीत दर्ज की.",
+    "source_url": "https://www.tv9hindi.com/videos/india-wins-first-asian-games-gold-medal-womens-cricket-team-triumph-3913653.html",
+    "source_name": "TV9 Hindi",
+    "published": "Tue, 22 Sep 2026 15:21:58 +0530",
+    "hook": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम ने रचा इतिहास!",
+    "script_hi": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम ने शानदार प्रदर्शन करते हुए देश को पहला गोल्ड मेडल दिला दिया है। श्रीलंका को हराकर टीम इंडिया ने यह ऐतिहासिक जीत दर्ज की है।",
+    "tts_text_hi": "एशियन गेम्स में भारतीय महिला क्रिकेट टीम ने शानदार प्रदर्शन करते हुए देश को पहला गोल्ड मेडल दिला दिया है। श्रीलंका को हराकर टीम इंडिया ने यह ऐतिहासिक जीत दर्ज की है।",
+    "title": "Asian Games Gold: महिला क्रिकेट टीम ने रचा इतिहास",
+    "caption": "भारतीय महिला क्रिकेट टीम ने एशियन गेम्स में श्रीलंका को हराकर देश को दिलाया पहला गोल्ड मेडल! देखिए पूरी खबर।",
     "hashtags": [
-      "Jamui",
-      "BiharPolice",
-      "Encounter",
-      "JamuiNews",
-      "CrimeNews"
+      "#AsianGames",
+      "#TeamIndia",
+      "#WomensCricket",
+      "#GoldMedal",
+      "#IndiaNews",
+      "#SportsNews"
     ],
     "visual_queries": [
-      "Indian police station India",
-      "Indian tractor driver India",
-      "police investigation India"
+      "Indian women cricket team celebration",
+      "gold medal India sports",
+      "cricket stadium India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of abuse/bad touch, requiring careful handling despite reporting factual police actions.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16924480/pexels-photo-16924480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian tractor driver India",
-        "credit": "Ankit Bhattacharjee",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "woman_falls_in_hot_sambar_vessel_accident",
-    "virality_score": 9,
-    "reason": "Extremely shocking and tragic freak accident with high viral shock value.",
-    "region": "india",
-    "headline": "बैलेंस बिगड़ने से खौलते सांभर में गिरी महिला, मौत- VIDEO",
-    "source_summary": "विजयवाड़ा में विनायका चविथि अन्नदानम की तैयारी के दौरान 46 साल की सुजाता खौलते सांभर के बड़े बर्तन में गिर गईं और बाद में उनकी मौत हो गई. सीसीटीवी में कैद इस हादसे के बाद पुलिस ने केस दर्ज किया है और अब इंतजाम में किसी लापरवाही की भी जांच कर रही है.",
-    "source_url": "https://www.aajtak.in/india/news/story/vijayawada-food-distribution-woman-dies-in-boiling-sambar-ntc-mnrd-smsr-2649805-2026-09-22?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-22T12:12:18+05:30",
-    "hook": "खौलते सांभर के बर्तन में गिरी महिला!",
-    "script_hi": "विजयवाड़ा में विनायका चविथि अन्नदानम की तैयारी के दौरान एक भयानक हादसा हुआ। छियालीस साल की सुजाता का बैलेंस बिगड़ने से वह खौलते सांभर के बड़े बर्तन में गिर गईं, जिससे उनकी दर्दनाक मौत हो गई। सीसीटीवी में कैद इस घटना के बाद पुलिस ने केस दर्ज कर लिया है और इंतजाम में लापरवाही की जांच शुरू कर दी है।",
-    "tts_text_hi": "विजयवाड़ा में विनायका चविथि अन्नदानम की तैयारी के दौरान एक भयानक हादसा हुआ। छियालीस साल की सुजाता का बैलेंस बिगड़ने से वह खौलते सांभर के बड़े बर्तन में गिर गईं, जिससे उनकी दर्दनाक मौत हो गई। सीसीटीवी में कैद इस घटना के बाद पुलिस ने केस दर्ज कर लिया है और इंतजाम में लापरवाही की जांच शुरू कर दी है।",
-    "title": "खौलते सांभर में गिरने से महिला की मौत",
-    "caption": "विजयवाड़ा में अन्नदानम की तैयारी के दौरान खौलते सांभर के बर्तन में गिरने से छियालीस साल की महिला की मौत हो गई।",
-    "hashtags": [
-      "Vijayawada",
-      "AndhraPradesh",
-      "AccidentNews",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian temple kitchen cooking India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific CCTV-captured viral video incident that requires the real footage added manually, as generic stock B-roll cannot accurately represent this specific event.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28232039/pexels-photo-28232039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian temple kitchen cooking India",
-        "credit": "rael frames",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 11,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "telangana_hospital_ac_blast_infants_tragedy",
-    "virality_score": 9,
-    "reason": "Devastating hospital fire incident caused by an AC blast resulting in infant casualties.",
-    "region": "india",
-    "headline": "तेलंगाना के सरकारी RIMS अस्पताल में AC फटने से तबाही, 5 दिन के मासूम समेत 3 बच्चों की मौत",
-    "source_summary": "तेलंगाना के आदिलाबाद में एक बेहद खौफनाक और दिल दहला देने वाला हादसा सामने आया है। यहां के राजीव गांधी इंस्टीट्यूट ऑफ मेडिकल साइंसेज (RIMS) के स्पेशल न्यूबॉर्न केयर यूनिट (SNCU) में अचानक आग लग गई। इस भीषण हादसे में अब",
-    "source_url": "https://hindi.oneindia.com/news/india/telangana-rims-hospital-fire-sncu-ac-fire-three-newborns-dead-1653211.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Tue, 22 Sep 2026 12:42:53 +0530",
-    "hook": "तेलंगाना के अस्पताल में बड़ा हादसा! एसी फटने से तीन मासूम बच्चों की मौत।",
-    "script_hi": "तेलंगाना के आदिलाबाद में रिम्स अस्पताल के विशेष नवजात शिशु देखभाल इकाई में एसी फटने से अचानक आग लग गई। इस भीषण हादसे में पांच दिन के एक नवजात समेत तीन बच्चों की दर्दनाक मौत हो गई। घटना के बाद अस्पताल में हड़कंप मच गया और परिजनों का रो रोकर बुरा हाल है। प्रशासन ने मामले की जांच के आदेश दे दिए हैं।",
-    "tts_text_hi": "तेलंगाना के आदिलाबाद में रिम्स अस्पताल के विशेष नवजात शिशु देखभाल इकाई में एसी फटने से अचानक आग लग गई। इस भीषण हादसे में पांच दिन के एक नवजात समेत तीन बच्चों की दर्दनाक मौत हो गई। घटना के बाद अस्पताल में हड़कंप मच गया और परिजनों का रो रोकर बुरा हाल है। प्रशासन ने मामले की जांच के आदेश दे दिए हैं।",
-    "title": "तेलंगाना: अस्पताल में एसी फटने से तीन बच्चों की मौत",
-    "caption": "तेलंगाना के आदिलाबाद स्थित रिम्स अस्पताल में एसी फटने से बड़ा हादसा, तीन मासूमों की मौत।",
-    "hashtags": [
-      "#TelanganaNews",
-      "#HospitalAccident",
-      "#Adilabad",
-      "#BreakingNews",
-      "#HindiNews",
-      "#RIMS"
-    ],
-    "visual_queries": [
-      "Indian government hospital building",
-      "hospital interior corridor India",
-      "mourning family crying India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves minor victims and a specific tragic accident where generic stock B-roll cannot fully represent the actual specific incident location.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39446752/16799552_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Indian government hospital building",
-        "credit": "Aryan",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36595248/pexels-photo-36595248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital interior corridor India",
-        "credit": "Juan Moccagatta",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12069228/pexels-photo-12069228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "mourning family crying India",
-        "credit": "Kuldeep Rajora",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "honda_qc3_electric_scooter_launch",
-    "virality_score": 8,
-    "reason": "Major EV vehicle launch with strong consumer interest and 145km range.",
-    "region": "india",
-    "headline": "145 KM रेंज... धांसू फीचर्स, HONDA का नया इलेक्ट्रिक स्कूटर लॉन्च",
-    "source_summary": "Honda QC3 कंपनी की तरफ से भारतीय बाजार में पेश किया जाने वाला तीसरा इलेक्ट्रिक स्कूटर है. कंपनी ने आज से ही इसकी आधिकारिक बुकिंग भी शुरू कर दी है, जो चुनिंदा शहरों के लिए है. ग्राहक इसे 5,000 रुपये के टोकन अमाउंट के साथ बुक कर सकते हैं.",
-    "source_url": "https://www.aajtak.in/auto/news/story/honda-qc3-electric-scooter-launched-india-price-1-35-lakh-range-auaw-dskc-2649991-2026-09-22?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-22T13:48:58+05:30",
-    "hook": "एक सौ पैंतालीस किलोमीटर रेंज वाला होंडा का नया इलेक्ट्रिक स्कूटर लॉन्च!",
-    "script_hi": "होंडा ने भारतीय बाजार में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन पेश कर दिया है। इसकी रेंज एक सौ पैंतालीस किलोमीटर है। ग्राहक इसे पांच हजार रुपये के टोकन अमाउंट के साथ बुक कर सकते हैं। बुकिंग आज से ही चुनिंदा शहरों में शुरू हो गई है।",
-    "tts_text_hi": "होंडा ने भारतीय बाजार में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन पेश कर दिया है। इसकी रेंज एक सौ पैंतालीस किलोमीटर है। ग्राहक इसे पांच हजार रुपये के टोकन अमाउंट के साथ बुक कर सकते हैं। बुकिंग आज से ही चुनिंदा शहरों में शुरू हो गई है।",
-    "title": "HONDA QC3 Electric Scooter Launched in India",
-    "caption": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।",
-    "hashtags": [
-      "#Honda",
-      "#ElectricScooter",
-      "#EV",
-      "#HondaQC3",
-      "#AutoNews",
-      "#India"
-    ],
-    "visual_queries": [
-      "Honda electric scooter India",
-      "modern electric scooter India",
-      "electric vehicle showroom India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38296443/pexels-photo-38296443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Honda electric scooter India",
-        "credit": "Taiye Salawu",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12199796/pexels-photo-12199796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern electric scooter India",
-        "credit": "Kazam  Charging Station",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10029875/pexels-photo-10029875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "electric vehicle showroom India",
-        "credit": "I'm Zion",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32503542/pexels-photo-32503542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "electric scooter charging station",
-        "credit": "Nadin P",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13429284/pexels-photo-13429284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "scooter showroom India customer",
-        "credit": "Labskiii",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35038739/pexels-photo-35038739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "person riding electric scooter",
-        "credit": "Erik Mclean",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17391302/pexels-photo-17391302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern urban traffic India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "HONDA QC3 Electric Scooter Launched in India",
-        "caption": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।\n\n##Honda ##ElectricScooter ##EV ##HondaQC3 ##AutoNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।\n\n##Honda ##ElectricScooter ##EV ##HondaQC3 ##AutoNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।\n\n##Honda ##ElectricScooter ##EV ##HondaQC3 ##AutoNews"
-      },
-      "hashtags": [
-        "#Honda",
-        "#ElectricScooter",
-        "#EV",
-        "#HondaQC3",
-        "#AutoNews"
-      ]
-    },
-    "audio_path": "audio/honda_qc3_electric_scooter_launch.wav",
-    "audio_duration_sec": 17.09,
-    "video_path": "videos/honda_qc3_electric_scooter_launch.mp4",
-    "video_duration_sec": 25.06,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-22T08:44:11.286924+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab23ff2b667a69b8b7da1c4",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।\n\n##Honda ##ElectricScooter ##EV ##HondaQC3 ##AutoNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1790066672414_42tquqv0_honda_qc3_electric_scooter_launch.mp4",
-                "_id": "6ab23ff2b667a69b8b7da1c5"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "platform": "facebook",
-                  "displayName": "Ssd News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFlSw4H&_nc_oc=AdrJntTEVW7eNDRcMerp-qZPbivocSI4_hrHDYPkSG0XG-bWZ9QWhWJYm35cbKV5ad8&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=7Ho6p9ZTwMQwM7_dTBIVgQ&_nc_tpa=Q5bMBQJaorgZkiXplrVUJ8582n4iau77tbahM8WsiDteqRBXuKfZjFBcMOpwyeBzuJoEZQfYbwI26rEA&oh=00_AQIz_3EEwD6KiplKoRDTFl47F_Do3IEYCl3JqDNlw6VGag&oe=6AB7D494",
-                  "username": "lets.quote.up"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-22T08:44:33.483Z",
-                "status": "published",
-                "publishAttempts": 0,
-                "contentHash": "32d85d8cb723f2d93c679f8938a80f6f",
-                "_id": "6ab23ff2b667a69b8b7da1c6",
-                "platformPostId": "1087737213887368",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1087737213887368",
-                "publishedAt": "2026-09-22T08:44:41.642Z"
-              }
-            ],
-            "scheduledFor": "2026-09-22T08:44:33.483Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:44:34.452Z",
-            "updatedAt": "2026-09-22T08:44:42.355Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:44:34.505Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-22T08:44:42.547080+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "_id": "6ab24012b667a69b8b7da799",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "होंडा ने भारत में अपना नया इलेक्ट्रिक स्कूटर क्यूसी तीन लॉन्च कर दिया है, जिसकी रेंज एक सौ पैंतालीस किलोमीटर है।\n\n##Honda ##ElectricScooter ##EV ##HondaQC3 ##AutoNews",
-            "mediaItems": [
-              {
-                "type": "video",
-                "url": "https://media.zernio.com/media/1790066703715_2f5ukgt8_honda_qc3_electric_scooter_launch.mp4",
-                "_id": "6ab24012b667a69b8b7da79a"
-              }
-            ],
-            "platforms": [
-              {
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "profileId": "6a8efb7ab8c42db6c3e1415e",
-                  "displayName": "SSD News",
-                  "isActive": true,
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwEQry4S&_nc_oc=AdqmVuP4K-9pDiEZfoQHEQhTkUAX0EVIxppffCXY-vzZ5Di-19iCZ4qHMRixG3_ABLs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mC-qTFe-H32pJJXzd4mN8w&_nc_tpa=Q5bMBQKJNztZCagszvocq6WkniHK2Yd4mYdS1MiBLyYMPPeOJUpy4cBXRMicM4nKjlrADFsXJDNNXmD_jw&oh=00_AQK1QlsX4Lni518qagjN5YbobRgtu2b5noimGqL1tmKSXA&oe=6AB7C83B",
-                  "username": "ssdnewsdaily"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-22T08:45:05.302Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "76ddaea34e347c4d365e91c7c08a6c5b",
-                "_id": "6ab24012b667a69b8b7da79b"
-              }
-            ],
-            "scheduledFor": "2026-09-22T08:45:05.302Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:45:06.072Z",
-            "updatedAt": "2026-09-22T08:45:08.780Z",
-            "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:45:06.122Z"
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-22T08:45:09.126608+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "vande_mataram_played_japan_t20_match",
-    "virality_score": 8,
-    "reason": "Historic moment of 'Vande Mataram' being played before an international cricket match in Japan.",
-    "region": "india",
-    "headline": "विदेशी धरती पर पहली बार ‘वंदे मातरम्’ की गूंज, बना ऐतिहासिक पल",
-    "source_summary": "जापान की धरती पर मंगलवार को क्रिकेट इतिहास में खास पल दर्ज हुआ. सानो इंटरनेशनल स्टेडियम में भारत-जापान के ऐतिहासिक टी20 इंटरनेशनल से पहले राष्ट्रगान से पहले ‘वंदे मातरम्’ बजाया गया. विदेशी सरजमीं पर किसी क्रिकेट मैच से पहले ‘वंदे मातरम्’ बजाए जाने का यह पहला मौका रहा.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/vande-mataram-played-before-india-japan-t20i-first-time-foreign-soil-bmsp-dskc-2649931-2026-09-22?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-22T13:22:33+05:30",
-    "hook": "जापान की धरती पर गूंजा वंदे मातरम्!",
-    "script_hi": "जापान की धरती पर मंगलवार को क्रिकेट इतिहास में एक ऐतिहासिक पल दर्ज हुआ। सानो इंटरनेशनल स्टेडियम में भारत और जापान के बीच टी ट्वेंटी इंटरनेशनल मैच से पहले राष्ट्रगान से पहले वंदे मातरम् बजाया गया। विदेशी सरजमीं पर किसी क्रिकेट मैच से पहले वंदे मातरम् बजाए जाने का यह पहला मौका रहा है।",
-    "tts_text_hi": "जापान की धरती पर मंगलवार को क्रिकेट इतिहास में एक ऐतिहासिक पल दर्ज हुआ। सानो इंटरनेशनल स्टेडियम में भारत और जापान के बीच टी ट्वेंटी इंटरनेशनल मैच से पहले राष्ट्रगान से पहले वंदे मातरम् बजाया गया। विदेशी सरजमीं पर किसी क्रिकेट मैच से पहले वंदे मातरम् बजाए जाने का यह पहला मौका रहा है।",
-    "title": "जापान में गूंजा वंदे मातरम्",
-    "caption": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।",
-    "hashtags": [
-      "VandeMataram",
-      "IndiaJapan",
-      "CricketNews",
-      "IndianCricket",
-      "History"
-    ],
-    "visual_queries": [
-      "Japan cricket stadium India",
-      "Indian cricket team India",
-      "Japanese flag stadium India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Japan cricket stadium India",
-        "credit": "Ajay Parab",
+        "url": "downloaded_assets/commons_501052400c.jpg",
+        "source": "wikimedia_commons",
+        "query": "gold medal India sports",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket team India",
-        "credit": "Umang & Meet",
+        "url": "downloaded_assets/commons_72c4069262.jpg",
+        "source": "wikimedia_commons",
+        "query": "cricket stadium India",
+        "credit": "Wikimedia Commons",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "international cricket match stadium",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "international cricket match",
-        "credit": "Raunaq Sachdev",
+        "query": "cricket match stadium",
+        "credit": "Princeton dsouza",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/17628624/pexels-photo-17628624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket players lineup",
+        "query": "cricket team celebration",
         "credit": "B M  Rauf",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6668821/pexels-photo-6668821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "gold medal victory",
+        "credit": "Nataliya Vaitkevich",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35588059/pexels-photo-35588059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stadium sports crowd",
+        "credit": "Spaxido Spaxido",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "जापान में गूंजा वंदे मातरम्",
-        "caption": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।\n\n#VandeMataram #IndiaJapan #CricketNews #IndianCricket #History"
+        "title": "एशियन गेम्स में भारत का पहला गोल्ड! 🥇 महिला क्रिकेट टीम ने रचा इतिहास",
+        "caption": "फाइनल मुकाबले में टीम इंडिया ने श्रीलंका को हराकर पहली बार पोडियम के सबसे ऊंचे स्थान पर कब्जा जमाया। देश का सिर गर्व से ऊंचा करने वाली इस ऐतिहासिक जीत की पूरी कहानी जानें वीडियो में। \n\nक्या आपको लगता है कि हमारी बेटियां क्रिकेट में और भी बड़े रिकॉर्ड बनाएंगी? कमेंट में बताएं।\n\n#AsianGames2023 #IndianCricketTeam #WomensCricket #GoldMedal #TeamIndia"
       },
       "instagram": {
         "title": null,
-        "caption": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।\n\n#VandeMataram #IndiaJapan #CricketNews #IndianCricket #History"
+        "caption": "फाइनल मुकाबले में श्रीलंका को मात देकर भारत की झोली में गिरा पहला गोल्ड! 🥇\n\nएशियन गेम्स के इतिहास में महिला क्रिकेट टीम ने वो कर दिखाया जिसका देश को सालों से इंतजार था। \n\nपूरी कहानी देखें और गर्व से शेयर करें! 🇮🇳\n\n#AsianGames2023 #IndianCricketTeam #WomensCricket #GoldMedal #TeamIndia"
       },
       "facebook": {
         "title": null,
-        "caption": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।\n\n#VandeMataram #IndiaJapan #CricketNews #IndianCricket #History"
+        "caption": "एशियन गेम्स के मैदान पर तिरंगा सबसे ऊपर लहराया है! 🇮🇳\n\nभारतीय महिला क्रिकेट टीम ने इतिहास रचते हुए देश को इस टूर्नामेंट का पहला गोल्ड मेडल दिला दिया है। फाइनल मुकाबले में श्रीलंका को शिकस्त देकर हमारी बेटियों ने जो मुकाम हासिल किया है, उसने हर भारतीय का सीना चौड़ा कर दिया है। \n\nपूरी जीत की कहानी जानने के लिए वीडियो पूरा देखें। क्या आपको उम्मीद थी कि टीम इस बार गोल्ड जीतेगी?\n\n#AsianGames2023 #IndianCricketTeam #WomensCricket #GoldMedal #TeamIndia"
       },
       "hashtags": [
-        "VandeMataram",
-        "IndiaJapan",
-        "CricketNews",
-        "IndianCricket",
-        "History"
+        "AsianGames2023",
+        "IndianCricketTeam",
+        "WomensCricket",
+        "GoldMedal",
+        "TeamIndia"
       ]
     },
-    "audio_path": "audio/vande_mataram_played_japan_t20_match.wav",
-    "audio_duration_sec": 20.53,
-    "video_path": "videos/vande_mataram_played_japan_t20_match.mp4",
-    "video_duration_sec": 28.57,
+    "audio_path": "audio/india_womens_cricket_asian_games_gold.wav",
+    "audio_duration_sec": 12.86,
+    "video_path": "videos/india_womens_cricket_asian_games_gold.mp4",
+    "video_duration_sec": 20.91,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-22T08:48:48.250151+00:00"
+        "attempted_at": "2026-09-22T10:45:15.875688+00:00"
       },
       "facebook": {
         "success": true,
@@ -562,15 +128,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab2410e8b8b3a50699252f2",
+            "_id": "6ab25c55532e73f770d9fb44",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।\n\n#VandeMataram #IndiaJapan #CricketNews #IndianCricket #History",
+            "content": "एशियन गेम्स के मैदान पर तिरंगा सबसे ऊपर लहराया है! 🇮🇳\n\nभारतीय महिला क्रिकेट टीम ने इतिहास रचते हुए देश को इस टूर्नामेंट का पहला गोल्ड मेडल दिला दिया है। फाइनल मुकाबले में श्रीलंका को शिकस्त देकर हमारी बेटियों ने जो मुकाम हासिल किया है, उसने हर भारतीय का सीना चौड़ा कर दिया है। \n\nपूरी जीत की कहानी जानने के लिए वीडियो पूरा देखें। क्या आपको उम्मीद थी कि टीम इस बार गोल्ड जीतेगी?\n\n#AsianGames2023 #IndianCricketTeam #WomensCricket #GoldMedal #TeamIndia",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790066955462_h8yci0uy_vande_mataram_played_japan_t20_match.mp4",
-                "_id": "6ab2410e8b8b3a50699252f3"
+                "url": "https://media.zernio.com/media/1790073939088_15c3vilo_india_womens_cricket_asian_games_gold.mp4",
+                "_id": "6ab25c55532e73f770d9fb45"
               }
             ],
             "platforms": [
@@ -587,17 +153,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T08:49:17.143Z",
+                "scheduledFor": "2026-09-22T10:45:40.698Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "b434d0511017c7cc7c5b525f05d055af",
-                "_id": "6ab2410e8b8b3a50699252f4",
-                "platformPostId": "1544742047341462",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1544742047341462",
-                "publishedAt": "2026-09-22T08:49:23.864Z"
+                "contentHash": "7bee8295ba7713145353922cff8cfc82",
+                "_id": "6ab25c55532e73f770d9fb46",
+                "platformPostId": "1432453742155338",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1432453742155338",
+                "publishedAt": "2026-09-22T10:45:47.652Z"
               }
             ],
-            "scheduledFor": "2026-09-22T08:49:17.143Z",
+            "scheduledFor": "2026-09-22T10:45:40.698Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -609,14 +175,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:49:18.035Z",
-            "updatedAt": "2026-09-22T08:49:24.129Z",
+            "createdAt": "2026-09-22T10:45:41.655Z",
+            "updatedAt": "2026-09-22T10:45:47.737Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:49:18.090Z"
+            "publishingClaimedAt": "2026-09-22T10:45:41.713Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T08:49:24.299228+00:00"
+        "attempted_at": "2026-09-22T10:45:47.932322+00:00"
       },
       "instagram": {
         "success": true,
@@ -629,15 +195,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab24133440d8aa2a38866d7",
+            "_id": "6ab25c798b021d33465ed160",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "जापान के सानो इंटरनेशनल स्टेडियम में भारत और जापान के टी ट्वेंटी मैच से पहले विदेशी धरती पर पहली बार वंदे मातरम् बजाया गया।\n\n#VandeMataram #IndiaJapan #CricketNews #IndianCricket #History",
+            "content": "फाइनल मुकाबले में श्रीलंका को मात देकर भारत की झोली में गिरा पहला गोल्ड! 🥇\n\nएशियन गेम्स के इतिहास में महिला क्रिकेट टीम ने वो कर दिखाया जिसका देश को सालों से इंतजार था। \n\nपूरी कहानी देखें और गर्व से शेयर करें! 🇮🇳\n\n#AsianGames2023 #IndianCricketTeam #WomensCricket #GoldMedal #TeamIndia",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790066993475_xv318c68_vande_mataram_played_japan_t20_match.mp4",
-                "_id": "6ab24133440d8aa2a38866d8"
+                "url": "https://media.zernio.com/media/1790073974150_unnbv87c_india_womens_cricket_asian_games_gold.mp4",
+                "_id": "6ab25c798b021d33465ed161"
               }
             ],
             "platforms": [
@@ -654,14 +220,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T08:49:54.514Z",
+                "scheduledFor": "2026-09-22T10:46:16.289Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "946c4a7de312df52e15055afd1dd98ff",
-                "_id": "6ab24133440d8aa2a38866d9"
+                "contentHash": "dd8746e28d3fe9eb6e177c82c6e28264",
+                "_id": "6ab25c798b021d33465ed162"
               }
             ],
-            "scheduledFor": "2026-09-22T08:49:54.514Z",
+            "scheduledFor": "2026-09-22T10:46:16.289Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -673,43 +239,587 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:49:55.303Z",
-            "updatedAt": "2026-09-22T08:49:57.034Z",
+            "createdAt": "2026-09-22T10:46:17.406Z",
+            "updatedAt": "2026-09-22T10:46:19.463Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:49:55.365Z"
+            "publishingClaimedAt": "2026-09-22T10:46:17.472Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T08:49:57.820741+00:00"
+        "attempted_at": "2026-09-22T10:46:19.852091+00:00"
       }
     }
   },
   {
-    "topic_label": "ongc_mhanadi_basin_gas_discovery",
+    "topic_label": "up_3567_teachers_appointment_letters_yogiji",
     "virality_score": 8,
-    "reason": "Major domestic energy discovery by ONGC boosting India's resources.",
+    "reason": "CM Yogi distributing thousands of appointment letters to teachers is a major positive news story with high engagement.",
     "region": "india",
-    "headline": "भारत को 'समुद्र मंथन' में बड़ी कामयाबी, ओडिशा में मिला गैस का भंडार, ONGC को पहले प्रयास में ही सफलता",
-    "source_summary": "समंदर की गहराई में भारत के हाथ लगा ऐसा खजाना, जिसने पूरी दुनिया को चौंका दिया है. वैश्विक संकट के बीच ONGC की इस बड़ी कामयाबी ने देश की किस्मत बदलने का संकेत दे दिया है, जानिए आखिर क्या मिला है.",
-    "source_url": "https://ndtv.in/business-news/ongc-gas-discovery-gas-found-in-deepwater-mahanadi-basin-with-good-flow-rate-amid-lpg-crisis-12078849#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Tue, 22 Sep 2026 10:40:10 +0530",
-    "hook": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना!",
-    "script_hi": "भारत को समुद्र मंथन में बड़ी कामयाबी मिली है। ओडिशा के पास समंदर की गहराई में गैस का विशाल भंडार मिला है। ओएनजीसी को अपने पहले ही प्रयास में यह ऐतिहासिक सफलता हासिल हुई है। इस खोज से देश की ऊर्जा सुरक्षा को बड़ा बढ़ावा मिलेगा। वैश्विक संकट के बीच इस खबर ने देश की किस्मत बदलने का संकेत दिया है।",
-    "tts_text_hi": "भारत को समुद्र मंथन में बड़ी कामयाबी मिली है। ओडिशा के पास समंदर की गहराई में गैस का विशाल भंडार मिला है। ओएनजीसी को अपने पहले ही प्रयास में यह ऐतिहासिक सफलता हासिल हुई है। इस खोज से देश की ऊर्जा सुरक्षा को बड़ा बढ़ावा मिलेगा। वैश्विक संकट के बीच इस खबर ने देश की किस्मत बदलने का संकेत दिया है।",
-    "title": "भारत को समंदर में मिला गैस का विशाल भंडार, ONGC को मिली बड़ी सफलता",
-    "caption": "भारत को समुद्र मंथन में मिली बड़ी कामयाबी, ओडिशा तट के पास ओएनजीसी को मिला गैस का बड़ा भंडार।",
+    "headline": "सीएम योगी बोले-हम नौकरी देते जाएंगे, वे गिनते रहें",
+    "source_summary": "लखनऊ में उत्तर प्रदेश शिक्षा सेवा चयन आयोग से चयनित 3,567 अभ्यर्थियों को मुख्यमंत्री योगी आदित्यनाथ ने नियुक्ति-पत्र बांटे। उन्होंने पारदर्शी भर्ती प्रक्रिया और नकल माफिया पर कार्रवाई पर जोर दिया।",
+    "source_url": "https://www.aajtak.in/short-videos/video/cm-yogi-up-job-appointment-letter-distribution-education-service-selection-commission-saifai-syndicate-lucknow-shivpal-utrat-mmtc-2650048-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T15:00:05+05:30",
+    "hook": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा!",
+    "script_hi": "लखनऊ में मुख्यमंत्री योगी आदित्यनाथ ने उत्तर प्रदेश शिक्षा सेवा चयन आयोग से चयनित तीन हजार पांच सौ सड़सठ अभ्यर्थियों को नियुक्ति-पत्र बांटे। इस दौरान उन्होंने पारदर्शी भर्ती प्रक्रिया और नकल माफिया पर कड़ी कार्रवाई का जिक्र किया। सीएम योगी ने कहा कि हम युवाओं को नौकरी देते जाएंगे और विरोधी सिर्फ गिनते रहें।",
+    "tts_text_hi": "लखनऊ में मुख्यमंत्री योगी आदित्यनाथ ने उत्तर प्रदेश शिक्षा सेवा चयन आयोग से चयनित तीन हजार पांच सौ सड़सठ अभ्यर्थियों को नियुक्ति पत्र बांटे। इस दौरान उन्होंने पारदर्शी भर्ती प्रक्रिया और नकल माफिया पर कड़ी कार्रवाई का जिक्र किया। सीएम योगी ने कहा कि हम युवाओं को नौकरी देते जाएंगे और विरोधी सिर्फ गिनते रहें।",
+    "title": "सीएम योगी ने बांटे नियुक्ति-पत्र",
+    "caption": "लखनऊ में सीएम योगी आदित्यनाथ ने तीन हजार पांच सौ सड़सठ चयनित अभ्यर्थियों को बांटे नियुक्ति-पत्र, पारदर्शिता पर दिया जोर।",
     "hashtags": [
-      "#ONGC",
-      "#IndiaNews",
-      "#EnergySecurity",
-      "#Odisha",
-      "#IndianEconomy"
+      "#YogiAdityanath",
+      "#UttarPradesh",
+      "#GovtJobs",
+      "#Lucknow",
+      "#UPNews",
+      "#Rozgar"
     ],
     "visual_queries": [
-      "Indian offshore oil rig India",
-      "natural gas flame India",
-      "Odisha coastline India"
+      "Indian politician speech stage Lucknow",
+      "Uttar Pradesh government office India",
+      "happy Indian job candidates documents"
+    ],
+    "named_person": "Yogi Adityanath",
+    "named_person_hi": "योगी आदित्यनाथ",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "योगी आदित्यनाथ",
+        "source": "fallback",
+        "query": "Yogi Adityanath",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian politician speech stage Lucknow",
+        "credit": "Voters Party International",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18683073/pexels-photo-18683073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh government office India",
+        "credit": "Prashant pacific",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7581013/pexels-photo-7581013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "happy Indian job candidates documents",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "3567 युवाओं को योगी का बड़ा तोहफा! 🎁 सरकारी नौकरी के नियुक्ति-पत्र जारी",
+        "caption": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा!\n\nमुख्यमंत्री योगी आदित्यनाथ ने अपने आवास पर निष्पक्ष और पारदर्शी प्रक्रिया के तहत चयनित अभ्यर्थियों को नियुक्ति-पत्र सौंपे। साथ ही विपक्ष पर भी साधा जोरदार निशाना।\n\nपूरी खबर के लिए वीडियो अंत तक देखें और अपनी राय कमेंट में बताएं।\n\n#YogiAdityanath #UPNews #SarkariNaukri #UttarPradesh #UPGovt"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा! 📜\n\nसीएम योगी ने साफ शब्दों में कहा कि भर्ती प्रक्रिया पूरी पारदर्शिता के साथ जारी रहेगी। \n\nक्या लगता है युवाओं को इसका कितना फायदा मिलेगा? शेयर करें वीडियो!\n\n#YogiAdityanath #UPNews #SarkariNaukri #UttarPradesh #UPGovt"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा!\n\nमुख्यमंत्री योगी आदित्यनाथ ने नियुक्ति-पत्र बांटते हुए कहा कि सरकार योग्यता के आधार पर युवाओं को लगातार रोजगार दे रही है, चाहे कोई कितने भी आंकड़े गिनता रहे।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया साझा करें।\n\n#YogiAdityanath #UPNews #SarkariNaukri #UttarPradesh #UPGovt"
+      },
+      "hashtags": [
+        "YogiAdityanath",
+        "UPNews",
+        "SarkariNaukri",
+        "UttarPradesh",
+        "UPGovt"
+      ]
+    },
+    "audio_path": "audio/up_3567_teachers_appointment_letters_yogiji.wav",
+    "audio_duration_sec": 21.88,
+    "video_path": "videos/up_3567_teachers_appointment_letters_yogiji.mp4",
+    "video_duration_sec": 29.94,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-22T10:52:02.978231+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab25dec0969e75878780598",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा!\n\nमुख्यमंत्री योगी आदित्यनाथ ने नियुक्ति-पत्र बांटते हुए कहा कि सरकार योग्यता के आधार पर युवाओं को लगातार रोजगार दे रही है, चाहे कोई कितने भी आंकड़े गिनता रहे।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया साझा करें।\n\n#YogiAdityanath #UPNews #SarkariNaukri #UttarPradesh #UPGovt",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790074346353_igh4pq2y_up_3567_teachers_appointment_letters_yogiji.mp4",
+                "_id": "6ab25dec0969e75878780599"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFlSw4H&_nc_oc=AdrJntTEVW7eNDRcMerp-qZPbivocSI4_hrHDYPkSG0XG-bWZ9QWhWJYm35cbKV5ad8&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=7Ho6p9ZTwMQwM7_dTBIVgQ&_nc_tpa=Q5bMBQJaorgZkiXplrVUJ8582n4iau77tbahM8WsiDteqRBXuKfZjFBcMOpwyeBzuJoEZQfYbwI26rEA&oh=00_AQIz_3EEwD6KiplKoRDTFl47F_Do3IEYCl3JqDNlw6VGag&oe=6AB7D494",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T10:52:27.601Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "0c547cfb17585fde192929f9c7a6184c",
+                "_id": "6ab25dec0969e7587878059a",
+                "platformPostId": "1962307284465069",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1962307284465069",
+                "publishedAt": "2026-09-22T10:52:33.880Z"
+              }
+            ],
+            "scheduledFor": "2026-09-22T10:52:27.601Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T10:52:28.639Z",
+            "updatedAt": "2026-09-22T10:52:33.977Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T10:52:28.804Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T10:52:34.141810+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab25e0e1a9ace9103b67d80",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश में तीन हजार पांच सौ सड़सठ युवाओं को मिला सरकारी नौकरी का तोहफा! 📜\n\nसीएम योगी ने साफ शब्दों में कहा कि भर्ती प्रक्रिया पूरी पारदर्शिता के साथ जारी रहेगी। \n\nक्या लगता है युवाओं को इसका कितना फायदा मिलेगा? शेयर करें वीडियो!\n\n#YogiAdityanath #UPNews #SarkariNaukri #UttarPradesh #UPGovt",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790074379435_b4dmoo5x_up_3567_teachers_appointment_letters_yogiji.mp4",
+                "_id": "6ab25e0e1a9ace9103b67d81"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwEQry4S&_nc_oc=AdqmVuP4K-9pDiEZfoQHEQhTkUAX0EVIxppffCXY-vzZ5Di-19iCZ4qHMRixG3_ABLs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mC-qTFe-H32pJJXzd4mN8w&_nc_tpa=Q5bMBQKJNztZCagszvocq6WkniHK2Yd4mYdS1MiBLyYMPPeOJUpy4cBXRMicM4nKjlrADFsXJDNNXmD_jw&oh=00_AQK1QlsX4Lni518qagjN5YbobRgtu2b5noimGqL1tmKSXA&oe=6AB7C83B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T10:53:01.080Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "857ef50a9840622c7f5abe96027cba16",
+                "_id": "6ab25e0e1a9ace9103b67d82"
+              }
+            ],
+            "scheduledFor": "2026-09-22T10:53:01.080Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T10:53:02.050Z",
+            "updatedAt": "2026-09-22T10:53:04.363Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T10:53:02.103Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T10:53:04.710908+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "delhi_sadar_bazar_minor_rape_protest",
+    "virality_score": 8,
+    "reason": "Heinous crime in the national capital followed by immediate public outrage and police station gherao creates a high-impact short.",
+    "region": "india",
+    "headline": "दिल्ली: सदर बाजार में मासूम से रेप पर जनआक्रोश, पुलिस से हुई झड़प",
+    "source_summary": "दिल्ली के सदर बाजार इलाके से एक बेहद ही दर्दनाक और शर्मनाक मामला सामने आया है. यहां एक मासूम नाबालिग बच्ची के साथ दरिंदगी की वारदात को अंजाम दिया गया है. इस घटना के बाद से पूरे इलाके में तनाव का माहौल है और स्थानीय लोगों का गुस्सा फूट पड़ा है. गुस्साए लोगों ने दिल्ली के देशबंधु गुप्ता रोड थाने का घेराव कर जोरदार हंगामा किया और इंसाफ की मांग की. इस प्रदर्शन के दौरान लोगों और पुलिस के बीच तीखी झड़प भी देखने को मिली.",
+    "source_url": "https://www.aajtak.in/india/delhi/video/protest-erupts-in-delhi-after-minor-raped-in-sadar-bazar-locals-clash-with-police-ytvd-2649775-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T12:29:55+05:30",
+    "hook": "दिल्ली के सदर बाजार में मासूम से दरिंदगी!",
+    "script_hi": "दिल्ली के सदर बाजार में एक मासूम नाबालिग बच्ची के साथ दरिंदगी का मामला सामने आया है। घटना के बाद इलाके में भारी तनाव है। गुस्साए लोगों ने देशबंधु गुप्ता रोड थाने का घेराव कर हंगामा किया। इस दौरान प्रदर्शनकारियों और पुलिस के बीच तीखी झड़प भी हुई।",
+    "tts_text_hi": "दिल्ली के सदर बाजार में एक मासूम नाबालिग बच्ची के साथ दरिंदगी का मामला सामने आया है। घटना के बाद इलाके में भारी तनाव है। गुस्साए लोगों ने देशबंधु गुप्ता रोड थाने का घेराव कर हंगामा किया। इस दौरान प्रदर्शनकारियों और पुलिस के बीच तीखी झड़प भी हुई।",
+    "title": "दिल्ली के सदर बाजार में मासूम से दरिंदगी पर हंगामा",
+    "caption": "दिल्ली के सदर बाजार में मासूम बच्ची के साथ हुई घटना के बाद लोगों का गुस्सा फूट पड़ा। देशबंधु गुप्ता रोड थाने के बाहर प्रदर्शन और पुलिस के साथ झड़प।",
+    "hashtags": [
+      "DelhiNews",
+      "SadarBazar",
+      "DelhiPolice",
+      "CrimeNews",
+      "JusticeForMinor"
+    ],
+    "visual_queries": [
+      "India police station exterior",
+      "angry crowd protest India",
+      "police barricade India street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Content involves a minor as a victim of sexual abuse/exploitation, requiring sensitive handling under safety guidelines.",
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police barricade India street",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37155332/pexels-photo-37155332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India police station exterior",
+        "credit": "Niyas Pt",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "angry crowd protest India",
+        "credit": "Satyam Pixels",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "greater_noida_iphone_18_pro_snatching",
+    "virality_score": 8,
+    "reason": "Audacious daylight snatching of the brand new iPhone 18 Pro right after asking if it's the new model is very viral.",
+    "region": "india",
+    "headline": "‘क्या यह नया iPhone है?’; हां सुनते ही मारा झपट्टा, ग्रेटर नोएडा में iPhone 18 Pro छीनकर फुर्र हो गए बदमाश",
+    "source_summary": "ग्रेटर नोएडा वेस्ट के बिसरख क्षेत्र में ऑफिस जा रही युवती से दो बाइक सवार बदमाशों ने नया iPhone 18 Pro झपट लिया. आरोपियों ने पहले रास्ता पूछा और फिर मोबाइल की पुष्टि कर वारदात को अंजाम दिया. पुलिस ने एफआईआर दर्ज कर जांच शुरू कर दी है.",
+    "source_url": "https://ndtv.in/india/new-iphone-18-pro-snatched-from-woman-in-greater-noida-bike-borne-snatchers-shubhi-bhandari-fir-iphone-theft-snatching-ncr-crime-12079457#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Tue, 22 Sep 2026 13:43:54 +0530",
+    "hook": "क्या यह नया आईफोन है? पूछते ही झपट लिया फोन!",
+    "script_hi": "ग्रेटर नोएडा वेस्ट के बिसरख क्षेत्र में ऑफिस जा रही एक युवती के साथ बड़ी वारदात हुई है। दो बाइक सवार बदमाशों ने नया आईफोन अठारह प्रो झपट लिया। आरोपियों ने पहले रास्ता पूछने के बहाने रोका, और फिर मोबाइल की पुष्टि करते ही फोन छीनकर फरार हो गए। पुलिस ने एफआईआर दर्ज कर जांच शुरू कर दी है।",
+    "tts_text_hi": "ग्रेटर नोएडा वेस्ट के बिसरख क्षेत्र में ऑफिस जा रही एक युवती के साथ बड़ी वारदात हुई है। दो बाइक सवार बदमाशों ने नया आईफोन अठारह प्रो झपट लिया। आरोपियों ने पहले रास्ता पूछने के बहाने रोका, और फिर मोबाइल की पुष्टि करते ही फोन छीनकर फरार हो गए। पुलिस ने एफआईआर दर्ज कर जांच शुरू कर दी है।",
+    "title": "ग्रेटर नोएडा में युवती से आईफोन अठारह प्रो की लूट",
+    "caption": "ग्रेटर नोएडा वेस्ट के बिसरख क्षेत्र में ऑफिस जा रही युवती से बाइक सवार बदमाशों ने नया iPhone 18 Pro झपट लिया। पुलिस मामले की जांच कर रही है।",
+    "hashtags": [
+      "GreaterNoida",
+      "CrimeNews",
+      "iPhoneSnatching",
+      "UPPolice",
+      "NoidaNews",
+      "CrimeUpdates"
+    ],
+    "visual_queries": [
+      "Greater Noida street India",
+      "Indian woman walking street",
+      "two motorcycle riders India",
+      "smartphone in hand India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10836504/pexels-photo-10836504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Greater Noida street India",
+        "credit": "Singh Saab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19800593/pexels-photo-19800593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian woman walking street",
+        "credit": "Diwakar Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14605438/pexels-photo-14605438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "two motorcycle riders India",
+        "credit": "Piyarul Sk",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17426070/pexels-photo-17426070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone in hand India",
+        "credit": "Vishal Adhikari",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 26,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "क्या यह नया iPhone है? पूछते ही ग्रेटर नोएडा में लूटा फोन 📱",
+        "caption": "क्या यह नया आईफोन है? पूछते ही बदमाशों ने ऐसा झपट्टा मारा कि युवती देखती रह गई। 🤯\n\nग्रेटर नोएडा में दिनदहाड़े नया iPhone 18 Pro छीनकर बदमाश फरार हो गए। पुलिस अब सीसीटीवी फुटेज खंगाल रही है।\n\nपूरी कहानी देखें और बताएं कि एनसीआर में सुरक्षित कौन है?\n\n#GreaterNoida #iPhoneSnatching #NoidaNews #CrimeNews #UttarPradesh"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "क्या यह नया आईफोन है? पूछते ही झपट लिया फोन! 📱\n\nग्रेटर नोएडा में युवती से नया iPhone 18 Pro छीनकर बदमाश फुर्र हो गए। वारदात देखकर हर कोई हैरान है।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#GreaterNoida #iPhoneSnatching #NoidaNews #CrimeNews #UttarPradesh"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या यह नया आईफोन है? बस इतना पूछने के बाद बदमाशों ने ऐसा झपट्टा मारा कि लड़की संभल ही नहीं पाई। 🤯\n\nग्रेटर नोएडा में हुई इस दुस्साहसिक वारदात में बदमाश नया iPhone 18 Pro लेकर हवा हो गए। पुलिस अब सीसीटीवी खंगाल रही है, लेकिन सवाल ये है कि ऐसे बेखौफ बदमाशों पर लगाम कब लगेगी?\n\nपूरी खबर के लिए वीडियो देखें और शेयर करें।\n\n#GreaterNoida #iPhoneSnatching #NoidaNews #CrimeNews #UttarPradesh"
+      },
+      "hashtags": [
+        "GreaterNoida",
+        "iPhoneSnatching",
+        "NoidaNews",
+        "CrimeNews",
+        "UttarPradesh"
+      ]
+    },
+    "audio_path": "audio/greater_noida_iphone_18_pro_snatching.wav",
+    "audio_duration_sec": 21.65,
+    "video_path": "videos/greater_noida_iphone_18_pro_snatching.mp4",
+    "video_duration_sec": 29.69,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-22T10:57:03.853838+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab25f171a93e381521f5999",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या यह नया आईफोन है? बस इतना पूछने के बाद बदमाशों ने ऐसा झपट्टा मारा कि लड़की संभल ही नहीं पाई। 🤯\n\nग्रेटर नोएडा में हुई इस दुस्साहसिक वारदात में बदमाश नया iPhone 18 Pro लेकर हवा हो गए। पुलिस अब सीसीटीवी खंगाल रही है, लेकिन सवाल ये है कि ऐसे बेखौफ बदमाशों पर लगाम कब लगेगी?\n\nपूरी खबर के लिए वीडियो देखें और शेयर करें।\n\n#GreaterNoida #iPhoneSnatching #NoidaNews #CrimeNews #UttarPradesh",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790074645230_zs6x7204_greater_noida_iphone_18_pro_snatching.mp4",
+                "_id": "6ab25f171a93e381521f599a"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFlSw4H&_nc_oc=AdrJntTEVW7eNDRcMerp-qZPbivocSI4_hrHDYPkSG0XG-bWZ9QWhWJYm35cbKV5ad8&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=7Ho6p9ZTwMQwM7_dTBIVgQ&_nc_tpa=Q5bMBQJaorgZkiXplrVUJ8582n4iau77tbahM8WsiDteqRBXuKfZjFBcMOpwyeBzuJoEZQfYbwI26rEA&oh=00_AQIz_3EEwD6KiplKoRDTFl47F_Do3IEYCl3JqDNlw6VGag&oe=6AB7D494",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T10:57:26.665Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "cb8112dd6c2e5c837d10dffb7fa4b4d0",
+                "_id": "6ab25f171a93e381521f599b",
+                "platformPostId": "941175549061249",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=941175549061249",
+                "publishedAt": "2026-09-22T10:57:32.626Z"
+              }
+            ],
+            "scheduledFor": "2026-09-22T10:57:26.665Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T10:57:27.434Z",
+            "updatedAt": "2026-09-22T10:57:32.730Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T10:57:27.497Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T10:57:32.932871+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab25f36dbdccc6ee34fca06",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या यह नया आईफोन है? पूछते ही झपट लिया फोन! 📱\n\nग्रेटर नोएडा में युवती से नया iPhone 18 Pro छीनकर बदमाश फुर्र हो गए। वारदात देखकर हर कोई हैरान है।\n\nआपकी इस पर क्या राय है? कमेंट में बताएं।\n\n#GreaterNoida #iPhoneSnatching #NoidaNews #CrimeNews #UttarPradesh",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790074676181_ktzd1kgg_greater_noida_iphone_18_pro_snatching.mp4",
+                "_id": "6ab25f36dbdccc6ee34fca07"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwEQry4S&_nc_oc=AdqmVuP4K-9pDiEZfoQHEQhTkUAX0EVIxppffCXY-vzZ5Di-19iCZ4qHMRixG3_ABLs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mC-qTFe-H32pJJXzd4mN8w&_nc_tpa=Q5bMBQKJNztZCagszvocq6WkniHK2Yd4mYdS1MiBLyYMPPeOJUpy4cBXRMicM4nKjlrADFsXJDNNXmD_jw&oh=00_AQK1QlsX4Lni518qagjN5YbobRgtu2b5noimGqL1tmKSXA&oe=6AB7C83B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T10:57:57.226Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "e86671f23efb0b3266a21921b5d2bdf8",
+                "_id": "6ab25f36dbdccc6ee34fca08"
+              }
+            ],
+            "scheduledFor": "2026-09-22T10:57:57.226Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T10:57:58.450Z",
+            "updatedAt": "2026-09-22T10:58:00.346Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T10:57:58.501Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T10:58:00.843153+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "trai_new_rules_voice_sms_only_plans",
+    "virality_score": 7,
+    "reason": "TRAI's mandate for cheap voice and SMS-only recharge plans directly benefits and interests every mobile user in India.",
+    "region": "india",
+    "headline": "TRAI का बड़ा फैसला, अब मिलेगा सिर्फ कॉल-SMS वाला सस्ता प्लान",
+    "source_summary": "TRAI new rules for telecom companies: TRAI ने नया नियम जारी करते हुए टेलीकॉम कंपनियों के लिए Voice और SMS Only रिचार्ज प्लान देना अनिवार्य कर दिया है. 30 दिन या उससे कम वैलिडिटी वाले ग्राहकों के लिए ऐसा प्लान देना जरूरी होगा, साथ ही हर महीने एक तय तारीख पर रिन्यू करने का विकल्प भी मिलेगा. 30 दिन से ज्यादा वैलिडिटी वाला कम से कम एक प्लान भी देना होगा.",
+    "source_url": "https://www.aajtak.in/technology/story/trai-voice-sms-only-recharge-plans-telecom-tariff-voucher-new-rules-2026-ntc-agkp-dskc-2650029-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T14:18:48+05:30",
+    "hook": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं?",
+    "script_hi": "भारतीय टेलीकॉम नियामक प्राधिकरण ने टेलीकॉम कंपनियों के लिए नया नियम जारी किया है. अब कंपनियों को सिर्फ कॉल और एसएमएस वाले सस्ते रिचार्ज प्लान देना अनिवार्य कर दिया गया है. तीस दिन या उससे कम वैलिडिटी वाले ग्राहकों के लिए ऐसा प्लान देना जरूरी होगा, साथ ही हर महीने एक तय तारीख पर रिन्यू करने का विकल्प भी मिलेगा. तीस दिन से ज्यादा वैलिडिटी वाला कम से कम एक प्लान भी देना होगा.",
+    "tts_text_hi": "भारतीय टेलीकॉम नियामक प्राधिकरण ने टेलीकॉम कंपनियों के लिए नया नियम जारी किया है. अब कंपनियों को सिर्फ कॉल और एसएमएस वाले सस्ते रिचार्ज प्लान देना अनिवार्य कर दिया गया है. तीस दिन या उससे कम वैलिडिटी वाले ग्राहकों के लिए ऐसा प्लान देना जरूरी होगा, साथ ही हर महीने एक तय तारीख पर रिन्यू करने का विकल्प भी मिलेगा. तीस दिन से ज्यादा वैलिडिटी वाला कम से कम एक प्लान भी देना होगा.",
+    "title": "TRAI का नया नियम, अब मिलेंगे सस्ते कॉल और SMS वाले रिचार्ज प्लान",
+    "caption": "TRAI ने टेलीकॉम कंपनियों के लिए नया नियम जारी किया है, जिसके तहत अब सिर्फ कॉल और एसएमएस वाले सस्ते रिचार्ज प्लान देना अनिवार्य कर दिया गया है.",
+    "hashtags": [
+      "TRAI",
+      "TelecomNews",
+      "MobileRecharge",
+      "IndianTelecom",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "Indian mobile phone user",
+      "telecom office building India",
+      "smartphone screen India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -720,58 +830,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16830015/pexels-photo-16830015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian offshore oil rig India",
-        "credit": "Anoop VS",
+        "query": "Indian mobile phone user",
+        "credit": "Ravi Roshan",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12590017/pexels-photo-12590017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12985112/pexels-photo-12985112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "natural gas flame India",
-        "credit": "Kamel Ayman Ph",
+        "query": "telecom office building India",
+        "credit": "Wallace Chuck",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17899478/pexels-photo-17899478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33835031/pexels-photo-33835031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Odisha coastline India",
-        "credit": "Shuvrasankha Paul",
+        "query": "smartphone screen India",
+        "credit": "Sharath G.",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36397990/pexels-photo-36397990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/26772287/pexels-photo-26772287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "industrial plant fire India",
-        "credit": "Willians Huerta",
+        "query": "person using smartphone outdoor",
+        "credit": "Nguyễn Hoàng Văn",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37793901/pexels-photo-37793901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "gas pipeline construction site",
-        "credit": "Asep  Fajar Sasmita",
+        "query": "mobile phone store India",
+        "credit": "Eva Bronzini",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36097310/pexels-photo-36097310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6963014/pexels-photo-6963014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "ocean waves aerial view",
-        "credit": "Marina Grechko",
+        "query": "person looking at phone bill",
+        "credit": "Mikhail Nilov",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19953791/pexels-photo-19953791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "energy sector business India",
-        "credit": "Adith Ajay",
+        "query": "hands holding smartphone close up",
+        "credit": "Pew Nguyen",
         "duration_sec": 4.3
       }
     ],
@@ -780,34 +890,34 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "भारत को समंदर में मिला गैस का विशाल भंडार! ONGC को पहले ही प्रयास में बड़ी सफलता 🛢️🇮🇳",
-        "caption": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना! 🛢️\n\nओडिशा के तट पर ONGC को पहले ही प्रयास में गैस का भारी भंडार मिला है। ऊर्जा के क्षेत्र में देश के लिए यह एक बहुत बड़ी कामयाबी मानी जा रही है।\n\nआपकी इस पर क्या राय है, कमेंट में बताएं और पूरी जानकारी के लिए वीडियो देखें।\n\n#ONGC #NaturalGas #OdishaNews #IndianEconomy #EnergySector"
+        "title": "महंगे रिचार्ज से राहत! TRAI का नया नियम ला रहा सस्ते कॉलिंग प्लान 📱",
+        "caption": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं? 🤔\n\nTRAI ने सभी टेलीकॉम कंपनियों को निर्देश दिया है कि ग्राहकों को केवल कॉलिंग और SMS वाले सस्ते प्रीपेड प्लान भी उपलब्ध कराए जाएं। अब जबरन महंगे डेटा पैक नहीं खरीदने होंगे।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें! 👇\n\n#TRAI #MobileRecharge #TelecomNews #CheapestPlan #IndianTelecom"
       },
       "instagram": {
         "title": null,
-        "caption": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना! 🛢️\n\nओडिशा के पास ONGC को नेचुरल गैस का विशाल भंडार मिला है। वो भी ठीक पहले ही प्रयास में। \n\nशेयर करें इस बड़ी खबर को और ऐसे ही अपडेट्स के लिए फॉलो करें!\n\n#ONGC #NaturalGas #OdishaNews #IndianEconomy #EnergySector"
+        "caption": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं? 🤔\n\nTRAI के नए नियम से अब उन लोगों को बड़ी राहत मिलने वाली है जो इंटरनेट इस्तेमाल नहीं करते। कंपनियों को अब सिर्फ कॉलिंग और SMS वाले सस्ते प्लान भी देने होंगे।\n\nवीडियो शेयर करके अपने दोस्तों को भी बताएं! 📲\n\n#TRAI #MobileRecharge #TelecomNews #CheapestPlan #IndianTelecom"
       },
       "facebook": {
         "title": null,
-        "caption": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना! 🛢️\n\nओडिशा के समुद्री तट पर ONGC ने इतिहास रच दिया है। कंपनी को तलाश के पहले ही प्रयास में गैस का इतना बड़ा भंडार मिल गया है, जो देश की ऊर्जा जरूरतों को नया आयाम दे सकता है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#ONGC #NaturalGas #OdishaNews #IndianEconomy #EnergySector"
+        "caption": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं? 🤔\n\nस्मार्टफोन के इस दौर में उन लोगों की परेशानी बढ़ गई थी जो सिर्फ कॉलिंग के लिए फोन इस्तेमाल करते हैं और जबरन महंगे डेटा वाले रिचार्ज कराने पड़ते हैं। इसे लेकर TRAI ने अब बड़ा कदम उठाया है और टेलीकॉम कंपनियों को केवल कॉल और SMS वाले सस्ते प्लान लाने के निर्देश दिए हैं।\n\nयह फैसला आपकी जेब पर कितना असर डालेगा? पूरी जानकारी के लिए वीडियो पूरा देखें।\n\n#TRAI #MobileRecharge #TelecomNews #CheapestPlan #IndianTelecom"
       },
       "hashtags": [
-        "ONGC",
-        "NaturalGas",
-        "OdishaNews",
-        "IndianEconomy",
-        "EnergySector"
+        "TRAI",
+        "MobileRecharge",
+        "TelecomNews",
+        "CheapestPlan",
+        "IndianTelecom"
       ]
     },
-    "audio_path": "audio/ongc_mhanadi_basin_gas_discovery.wav",
-    "audio_duration_sec": 22.94,
-    "video_path": "videos/ongc_mhanadi_basin_gas_discovery.mp4",
-    "video_duration_sec": 30.89,
+    "audio_path": "audio/trai_new_rules_voice_sms_only_plans.wav",
+    "audio_duration_sec": 26.7,
+    "video_path": "videos/trai_new_rules_voice_sms_only_plans.mp4",
+    "video_duration_sec": 34.62,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-22T08:55:52.938449+00:00"
+        "attempted_at": "2026-09-22T11:02:57.974393+00:00"
       },
       "facebook": {
         "success": true,
@@ -820,15 +930,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab242abcdf3d9058c42e43a",
+            "_id": "6ab260787fb976f267198a4e",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना! 🛢️\n\nओडिशा के समुद्री तट पर ONGC ने इतिहास रच दिया है। कंपनी को तलाश के पहले ही प्रयास में गैस का इतना बड़ा भंडार मिल गया है, जो देश की ऊर्जा जरूरतों को नया आयाम दे सकता है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#ONGC #NaturalGas #OdishaNews #IndianEconomy #EnergySector",
+            "content": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं? 🤔\n\nस्मार्टफोन के इस दौर में उन लोगों की परेशानी बढ़ गई थी जो सिर्फ कॉलिंग के लिए फोन इस्तेमाल करते हैं और जबरन महंगे डेटा वाले रिचार्ज कराने पड़ते हैं। इसे लेकर TRAI ने अब बड़ा कदम उठाया है और टेलीकॉम कंपनियों को केवल कॉल और SMS वाले सस्ते प्लान लाने के निर्देश दिए हैं।\n\nयह फैसला आपकी जेब पर कितना असर डालेगा? पूरी जानकारी के लिए वीडियो पूरा देखें।\n\n#TRAI #MobileRecharge #TelecomNews #CheapestPlan #IndianTelecom",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790067369131_6ar24pya_ongc_mhanadi_basin_gas_discovery.mp4",
-                "_id": "6ab242abcdf3d9058c42e43b"
+                "url": "https://media.zernio.com/media/1790074998245_uhfm5w8k_trai_new_rules_voice_sms_only_plans.mp4",
+                "_id": "6ab260787fb976f267198a4f"
               }
             ],
             "platforms": [
@@ -845,17 +955,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T08:56:10.593Z",
+                "scheduledFor": "2026-09-22T11:03:19.604Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "9b90e61c477bda794c401e677d8c610d",
-                "_id": "6ab242abcdf3d9058c42e43c",
-                "platformPostId": "1119219374394068",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1119219374394068",
-                "publishedAt": "2026-09-22T08:56:17.020Z"
+                "contentHash": "b081227a75fa1362e78038d613d85273",
+                "_id": "6ab260787fb976f267198a50",
+                "platformPostId": "1553846796047035",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1553846796047035",
+                "publishedAt": "2026-09-22T11:03:26.597Z"
               }
             ],
-            "scheduledFor": "2026-09-22T08:56:10.593Z",
+            "scheduledFor": "2026-09-22T11:03:19.604Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -867,14 +977,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:56:11.773Z",
-            "updatedAt": "2026-09-22T08:56:17.143Z",
+            "createdAt": "2026-09-22T11:03:20.611Z",
+            "updatedAt": "2026-09-22T11:03:26.686Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:56:11.828Z"
+            "publishingClaimedAt": "2026-09-22T11:03:20.661Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T08:56:17.346312+00:00"
+        "attempted_at": "2026-09-22T11:03:26.843042+00:00"
       },
       "instagram": {
         "success": true,
@@ -887,15 +997,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab242cc53d038788e65b020",
+            "_id": "6ab260921e7be1762e494990",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "भारत के हाथ लगा समंदर का सबसे बड़ा खजाना! 🛢️\n\nओडिशा के पास ONGC को नेचुरल गैस का विशाल भंडार मिला है। वो भी ठीक पहले ही प्रयास में। \n\nशेयर करें इस बड़ी खबर को और ऐसे ही अपडेट्स के लिए फॉलो करें!\n\n#ONGC #NaturalGas #OdishaNews #IndianEconomy #EnergySector",
+            "content": "क्या आपको सिर्फ बात करने और मैसेज भेजने के लिए महंगे रिचार्ज कराने पड़ते हैं? 🤔\n\nTRAI के नए नियम से अब उन लोगों को बड़ी राहत मिलने वाली है जो इंटरनेट इस्तेमाल नहीं करते। कंपनियों को अब सिर्फ कॉलिंग और SMS वाले सस्ते प्लान भी देने होंगे।\n\nवीडियो शेयर करके अपने दोस्तों को भी बताएं! 📲\n\n#TRAI #MobileRecharge #TelecomNews #CheapestPlan #IndianTelecom",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790067402489_r2n90fuh_ongc_mhanadi_basin_gas_discovery.mp4",
-                "_id": "6ab242cc53d038788e65b021"
+                "url": "https://media.zernio.com/media/1790075024128_tsx4qn2o_trai_new_rules_voice_sms_only_plans.mp4",
+                "_id": "6ab260921e7be1762e494991"
               }
             ],
             "platforms": [
@@ -912,14 +1022,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T08:56:43.569Z",
+                "scheduledFor": "2026-09-22T11:03:45.196Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "0ff9516ac41cdecf7818caa132041aa5",
-                "_id": "6ab242cc53d038788e65b022"
+                "contentHash": "f3589d9ffec254389d9347bc99abaf1b",
+                "_id": "6ab260921e7be1762e494992"
               }
             ],
-            "scheduledFor": "2026-09-22T08:56:43.569Z",
+            "scheduledFor": "2026-09-22T11:03:45.196Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -931,43 +1041,45 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T08:56:44.714Z",
-            "updatedAt": "2026-09-22T08:56:47.104Z",
+            "createdAt": "2026-09-22T11:03:46.149Z",
+            "updatedAt": "2026-09-22T11:03:48.733Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T08:56:44.776Z"
+            "publishingClaimedAt": "2026-09-22T11:03:46.238Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T08:56:47.443111+00:00"
+        "attempted_at": "2026-09-22T11:03:49.096940+00:00"
       }
     }
   },
   {
-    "topic_label": "lithuania_pm_ready_to_fight_russia_threats_global",
+    "topic_label": "gold_silver_sharp_price_drop_mcx",
     "virality_score": 7,
-    "reason": "Strong global geopolitical tensions as Lithuania prepares for potential Russian threats.",
-    "region": "global",
-    "headline": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-    "source_summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-    "source_url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Tue, 22 Sep 2026 01:04:16 GMT",
-    "hook": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान!",
-    "script_hi": "रूस की धमकियों के बीच लिथुआनिया ने कहा है कि देश हर स्थिति का मुकाबला करने के लिए तैयार है। प्रधानमंत्री ने बीबीसी को दिए इंटरव्यू में बताया कि लिथुआनिया के लोग लगातार खतरे महसूस करते हैं, लेकिन जरूरत पड़ने पर वे लड़ने और अपने देश की रक्षा करने से पीछे नहीं हटेंगे। इसके साथ ही आपातकालीन निकासी की योजनाएं भी तैयार कर ली गई हैं।",
-    "tts_text_hi": "रूस की धमकियों के बीच लिथुआनिया ने कहा है कि देश हर स्थिति का मुकाबला करने के लिए तैयार है। प्रधानमंत्री ने बीबीसी को दिए इंटरव्यू में बताया कि लिथुआनिया के लोग लगातार खतरे महसूस करते हैं, लेकिन जरूरत पड़ने पर वे लड़ने और अपने देश की रक्षा करने से पीछे नहीं हटेंगे। इसके साथ ही आपातकालीन निकासी की योजनाएं भी तैयार कर ली गई हैं।",
-    "title": "Lithuania Ready To Fight Back Against Russia Threats",
-    "caption": "रूस की धमकियों के बीच लिथुआनिया ने दिया कड़ा संदेश, कहा- मुकाबला करने के लिए पूरी तरह तैयार हैं।",
+    "reason": "Sudden and significant drop in gold and silver prices is a high-interest financial news topic for the general public.",
+    "region": "india",
+    "headline": "चांदी 2200 रुपये सस्ती, अचानक फिसला दाम, सोना भी धड़ाम",
+    "source_summary": "Silver Price में एक बार फिर तेज गिरावट आई है. मंगलवार को एमसीएक्स पर खुलने के साथ जहां ये बढ़त में नजर आई, तो अचानक चांदी की कीमत में तेज गिरावट तेज हो गई और ये 2200 रुपये प्रति किलो से ज्यादा सस्ती हो गई.",
+    "source_url": "https://www.aajtak.in/business/utility/story/silver-price-fall-more-crash-from-high-gold-also-plunges-check-10-gram-24-karat-rate-update-tutc-dskc-2649799-2026-09-22?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-22T13:03:16+05:30",
+    "hook": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम!",
+    "script_hi": "चांदी की कीमतों में एक बार फिर तेज गिरावट दर्ज की गई है। मंगलवार को बाजार खुलते ही चांदी दो हजार दो सौ रुपये प्रति किलो से ज्यादा सस्ती हो गई। इसके साथ ही सोने के दाम भी नीचे फिसल गए हैं।",
+    "tts_text_hi": "चांदी की कीमतों में एक बार फिर तेज गिरावट दर्ज की गई है। मंगलवार को बाजार खुलते ही चांदी दो हजार दो सौ रुपये प्रति किलो से ज्यादा सस्ती हो गई। इसके साथ ही सोने के दाम भी नीचे फिसल गए हैं।",
+    "title": "चांदी दो हजार दो सौ रुपये सस्ती, सोने के दाम भी गिरे",
+    "caption": "चांदी की कीमतों में आई भारी गिरावट, दो हजार दो सौ रुपये प्रति किलो से ज्यादा सस्ती हुई चांदी, सोने के दाम भी धड़ाम।",
     "hashtags": [
-      "#Lithuania",
-      "#Russia",
-      "#WorldNews",
-      "#BreakingNews",
-      "#GlobalPolitics"
+      "SilverPrice",
+      "GoldPrice",
+      "MarketNews",
+      "BusinessNews",
+      "HindiNews",
+      "GoldRate",
+      "SilverRate"
     ],
     "visual_queries": [
-      "Lithuania flag and government building",
-      "European military defense map",
-      "emergency evacuation plan concept"
+      "Indian silver market",
+      "gold and silver jewelry India",
+      "financial market India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -977,96 +1089,95 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/18922558/18922558-hd_720_1280_60fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37164317/pexels-photo-37164317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "military defense training",
-        "credit": "Jaxon Matthew Willis",
-        "source_duration_sec": 5,
-        "duration_sec": 5
+        "query": "Indian silver market",
+        "credit": "Jatin vashistha",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11905879/pexels-photo-11905879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6559610/pexels-photo-6559610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Lithuania flag and government building",
-        "credit": "Dovydas Pranka",
-        "duration_sec": 4.2
+        "query": "gold and silver jewelry India",
+        "credit": "Naveen Sahu",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13783210/pexels-photo-13783210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14907453/pexels-photo-14907453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Eastern Europe border security",
-        "credit": "Hernán Nikolajezyk",
-        "duration_sec": 4.2
+        "query": "financial market India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19443144/pexels-photo-19443144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6203470/pexels-photo-6203470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "emergency evacuation plan concept",
-        "credit": "Umar Andrabi",
-        "duration_sec": 4.2
+        "query": "falling graph stock market",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/17266183/pexels-photo-17266183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6534328/pexels-photo-6534328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "military defense training",
-        "credit": "Yakup  Polat",
-        "duration_sec": 4.2
+        "query": "indian currency and coins",
+        "credit": "Debraj Chanda",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36359516/pexels-photo-36359516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "geopolitical security meeting",
-        "credit": "Saifee Art",
-        "duration_sec": 4.2
+        "query": "digital trading screen",
+        "credit": "Vito Goričan",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35928395/pexels-photo-35928395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11496212/pexels-photo-11496212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "border security patrol",
-        "credit": "Max Drew",
-        "duration_sec": 4.2
+        "query": "market price drop india",
+        "credit": "Deepak Bhandari",
+        "duration_sec": 4.3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.2,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "रूस से सीधी टक्कर की तैयारी! लिथुआनिया ने बना लिया खतरनाक प्लान 🚨",
-        "caption": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान! 🚨\n\nरूस की बढ़ती धमकियों के सामने लिथुआनिया ने झुकने से साफ इनकार कर दिया है। प्रधानमंत्री ने साफ कहा है कि देश हर हमले का मुंहतोड़ जवाब देने के लिए तैयार है, साथ ही नागरिकों के लिए सीक्रेट इवेक्यूएशन प्लान भी तैयार हैं।\n\nयूरोप में सुलग रहे इस नए तनाव की पूरी कहानी देखें।\n\n#Lithuania #RussiaThreat #WorldNews #EuropeNews #GlobalPolitics"
+        "title": "चांदी के दाम में भारी गिरावट! ₹2200 सस्ती हुई चांदी 🥈",
+        "caption": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम! 📉\n\nसराफा बाजार में अचानक आई इस बड़ी गिरावट से ग्राहकों को राहत मिली है। चांदी एक झटके में 2200 रुपये सस्ती हो गई है, साथ ही सोने के भाव भी नीचे आए हैं।\n\nक्या आप इस समय सोना-चांदी खरीदने की सोच रहे हैं? हमें कमेंट में बताएं और पूरी कहानी देखें।\n\n#SilverPriceDrop #GoldRateToday #SilverRateUpdate #GoldAndSilver #MarketNews"
       },
       "instagram": {
         "title": null,
-        "caption": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान! 🚨\n\nरूस की धमकियों के आगे झुकने की बजाय लिथुआनिया अब आर-पार की मूड में है। देश ने युद्ध की स्थिति से निपटने के लिए प्लान तैयार कर लिया है।\n\nआपको क्या लगता है, क्या ये तनाव और भड़केगा? पूरी कहानी देखें!\n\n#Lithuania #RussiaThreat #WorldNews #EuropeNews #GlobalPolitics"
+        "caption": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम! 📉\n\nएक ही झटके में चांदी 2200 रुपये सस्ती हो गई है और सोने के दाम भी फिसल गए हैं। बाजार में मची इस उथल-पुथल का असर आपकी जेब पर कैसे पड़ेगा, पूरी कहानी देखें।\n\nये गिरावट आगे और जारी रहेगी या फिर से चढ़ेंगे भाव? अपनी राय शेयर करें! 👇\n\n#SilverPriceDrop #GoldRateToday #SilverRateUpdate #GoldAndSilver #MarketNews"
       },
       "facebook": {
         "title": null,
-        "caption": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान! 🚨\n\nरूस के लगातार बढ़ते खतरों के बीच यूरोपीय देश लिथुआनिया ने स्पष्ट कर दिया है कि वे डरने वाले नहीं हैं। प्रधानमंत्री ने बीबीसी को दिए इंटरव्यू में बताया कि देश जवाबी कार्रवाई की पूरी तैयारी कर चुका है, और आपातकाल के लिए सुरक्षित निकासी योजनाएं भी बन चुकी हैं।\n\nदुनिया के इस कोने में सुलग रहे हालातों के बारे में पूरी बात जानें।\n\n#Lithuania #RussiaThreat #WorldNews #EuropeNews #GlobalPolitics"
+        "caption": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम! 📉\n\nसोने-चांदी के बाजार से एक बड़ी अपडेट सामने आ रही है। अचानक आई इस गिरावट से चांदी 2200 रुपये तक सस्ती हो गई है, जिसका सीधा असर खरीदारों पर पड़ रहा है। सोने के भाव भी नीचे फिसले हैं।\n\nपूरी खबर जानिए इस वीडियो में और शेयर कीजिए उनके साथ जो खरीदारी करने की सोच रहे हैं।\n\n#SilverPriceDrop #GoldRateToday #SilverRateUpdate #GoldAndSilver #MarketNews"
       },
       "hashtags": [
-        "Lithuania",
-        "RussiaThreat",
-        "WorldNews",
-        "EuropeNews",
-        "GlobalPolitics"
+        "SilverPriceDrop",
+        "GoldRateToday",
+        "SilverRateUpdate",
+        "GoldAndSilver",
+        "MarketNews"
       ]
     },
-    "audio_path": "audio/lithuania_pm_ready_to_fight_russia_threats_global.wav",
-    "audio_duration_sec": 23.3,
-    "video_path": "videos/lithuania_pm_ready_to_fight_russia_threats_global.mp4",
-    "video_duration_sec": 31.29,
+    "audio_path": "audio/gold_silver_sharp_price_drop_mcx.wav",
+    "audio_duration_sec": 12.64,
+    "video_path": "videos/gold_silver_sharp_price_drop_mcx.mp4",
+    "video_duration_sec": 20.62,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-22T09:02:15.594001+00:00"
+        "attempted_at": "2026-09-22T11:07:52.217674+00:00"
       },
       "facebook": {
         "success": true,
@@ -1079,15 +1190,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab24432e90a14b53836e79a",
+            "_id": "6ab261a86fd3216f6f5ae7f1",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान! 🚨\n\nरूस के लगातार बढ़ते खतरों के बीच यूरोपीय देश लिथुआनिया ने स्पष्ट कर दिया है कि वे डरने वाले नहीं हैं। प्रधानमंत्री ने बीबीसी को दिए इंटरव्यू में बताया कि देश जवाबी कार्रवाई की पूरी तैयारी कर चुका है, और आपातकाल के लिए सुरक्षित निकासी योजनाएं भी बन चुकी हैं।\n\nदुनिया के इस कोने में सुलग रहे हालातों के बारे में पूरी बात जानें।\n\n#Lithuania #RussiaThreat #WorldNews #EuropeNews #GlobalPolitics",
+            "content": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम! 📉\n\nसोने-चांदी के बाजार से एक बड़ी अपडेट सामने आ रही है। अचानक आई इस गिरावट से चांदी 2200 रुपये तक सस्ती हो गई है, जिसका सीधा असर खरीदारों पर पड़ रहा है। सोने के भाव भी नीचे फिसले हैं।\n\nपूरी खबर जानिए इस वीडियो में और शेयर कीजिए उनके साथ जो खरीदारी करने की सोच रहे हैं।\n\n#SilverPriceDrop #GoldRateToday #SilverRateUpdate #GoldAndSilver #MarketNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790067759861_a5e5qvyk_lithuania_pm_ready_to_fight_russia_threats_global.mp4",
-                "_id": "6ab24432e90a14b53836e79b"
+                "url": "https://media.zernio.com/media/1790075295725_f55thn0a_gold_silver_sharp_price_drop_mcx.mp4",
+                "_id": "6ab261a86fd3216f6f5ae7f2"
               }
             ],
             "platforms": [
@@ -1104,17 +1215,17 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T09:02:40.988Z",
+                "scheduledFor": "2026-09-22T11:08:23.603Z",
                 "status": "published",
                 "publishAttempts": 0,
-                "contentHash": "5e006ca548de1e10a823001cc7315f79",
-                "_id": "6ab24432e90a14b53836e79c",
-                "platformPostId": "1142955564963600",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1142955564963600",
-                "publishedAt": "2026-09-22T09:02:48.513Z"
+                "contentHash": "4087c5c486561494b11955f7f421f942",
+                "_id": "6ab261a86fd3216f6f5ae7f3",
+                "platformPostId": "2366960080777108",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2366960080777108",
+                "publishedAt": "2026-09-22T11:08:31.762Z"
               }
             ],
-            "scheduledFor": "2026-09-22T09:02:40.988Z",
+            "scheduledFor": "2026-09-22T11:08:23.603Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1126,14 +1237,14 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T09:02:42.572Z",
-            "updatedAt": "2026-09-22T09:02:48.614Z",
+            "createdAt": "2026-09-22T11:08:24.793Z",
+            "updatedAt": "2026-09-22T11:08:31.912Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T09:02:42.621Z"
+            "publishingClaimedAt": "2026-09-22T11:08:24.898Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T09:02:48.757418+00:00"
+        "attempted_at": "2026-09-22T11:08:32.163005+00:00"
       },
       "instagram": {
         "success": true,
@@ -1146,15 +1257,15 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "_id": "6ab2445079d1d7bb06d8cf79",
+            "_id": "6ab261c2902a41f566b3e42d",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "रूस की धमकियों के बीच लिथुआनिया का बड़ा बयान! 🚨\n\nरूस की धमकियों के आगे झुकने की बजाय लिथुआनिया अब आर-पार की मूड में है। देश ने युद्ध की स्थिति से निपटने के लिए प्लान तैयार कर लिया है।\n\nआपको क्या लगता है, क्या ये तनाव और भड़केगा? पूरी कहानी देखें!\n\n#Lithuania #RussiaThreat #WorldNews #EuropeNews #GlobalPolitics",
+            "content": "चांदी खरीदने वालों के लिए बड़ी खबर, अचानक धड़ाम हुए दाम! 📉\n\nएक ही झटके में चांदी 2200 रुपये सस्ती हो गई है और सोने के दाम भी फिसल गए हैं। बाजार में मची इस उथल-पुथल का असर आपकी जेब पर कैसे पड़ेगा, पूरी कहानी देखें।\n\nये गिरावट आगे और जारी रहेगी या फिर से चढ़ेंगे भाव? अपनी राय शेयर करें! 👇\n\n#SilverPriceDrop #GoldRateToday #SilverRateUpdate #GoldAndSilver #MarketNews",
             "mediaItems": [
               {
                 "type": "video",
-                "url": "https://media.zernio.com/media/1790067789904_xjwjjgja_lithuania_pm_ready_to_fight_russia_threats_global.mp4",
-                "_id": "6ab2445079d1d7bb06d8cf7a"
+                "url": "https://media.zernio.com/media/1790075328461_i0tq31is_gold_silver_sharp_price_drop_mcx.mp4",
+                "_id": "6ab261c2902a41f566b3e42e"
               }
             ],
             "platforms": [
@@ -1171,14 +1282,14 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-22T09:03:11.914Z",
+                "scheduledFor": "2026-09-22T11:08:49.976Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "e9be8ff05b2622476e7adb7ddd46e4bd",
-                "_id": "6ab2445079d1d7bb06d8cf7b"
+                "contentHash": "eb95e7b0f516ed017af86496932b197d",
+                "_id": "6ab261c2902a41f566b3e42f"
               }
             ],
-            "scheduledFor": "2026-09-22T09:03:11.914Z",
+            "scheduledFor": "2026-09-22T11:08:49.976Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1190,14 +1301,273 @@
               "usageCounted": true
             },
             "publishAttempts": 0,
-            "createdAt": "2026-09-22T09:03:12.846Z",
-            "updatedAt": "2026-09-22T09:03:14.521Z",
+            "createdAt": "2026-09-22T11:08:50.785Z",
+            "updatedAt": "2026-09-22T11:08:52.468Z",
             "__v": 0,
-            "publishingClaimedAt": "2026-09-22T09:03:12.894Z"
+            "publishingClaimedAt": "2026-09-22T11:08:50.890Z"
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-22T09:03:14.819503+00:00"
+        "attempted_at": "2026-09-22T11:08:52.837714+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "canada_province_sues_openai_school_shooting",
+    "virality_score": 7,
+    "reason": "Global story of a Canadian province suing OpenAI over a school shooter's interactions with ChatGPT has high tech-crime intrigue.",
+    "region": "global",
+    "headline": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+    "source_summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Tue, 22 Sep 2026 01:44:17 GMT",
+    "hook": "ओपनएआई पर मुकदमा! कनाडा के इस प्रांत ने क्या आरोप लगाया?",
+    "script_hi": "कनाडा के ब्रिटिश कोलंबिया प्रांत ने ओपनएआई पर बड़ा मुकदमा दायर किया है। आरोप है कि कंपनी ने टम्बलर रिज स्कूल गोलीबारी की घटना से पहले शूटर की चैटजीपीटी के साथ खतरनाक बातचीत की सूचना पुलिस को नहीं दी।",
+    "tts_text_hi": "कनाडा के ब्रिटिश कोलंबिया प्रांत ने ओपनएआई पर बड़ा मुकदमा दायर किया है। आरोप है कि कंपनी ने टम्बलर रिज स्कूल गोलीबारी की घटना से पहले शूटर की चैटजीपीटी के साथ खतरनाक बातचीत की सूचना पुलिस को नहीं दी।",
+    "title": "कैनेडियन प्रांत का ओपनएआई पर मुकदमा",
+    "caption": "कनाडा के ब्रिटिश कोलंबिया प्रांत ने टम्बलर रिज स्कूल गोलीबारी मामले में ओपनएआई के खिलाफ कानूनी कार्रवाई शुरू की है।",
+    "hashtags": [
+      "OpenAI",
+      "CanadaNews",
+      "SchoolShooting",
+      "TechNews",
+      "BreakingNews",
+      "ArtificialIntelligence"
+    ],
+    "visual_queries": [
+      "artificial intelligence technology concept",
+      "police investigation office Canada",
+      "court building exterior Canada"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8849288/pexels-photo-8849288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence technology concept",
+        "credit": "Tara Winstead",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8439070/pexels-photo-8439070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence office",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18502392/pexels-photo-18502392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "court building exterior Canada",
+        "credit": "Connor Scott McManus",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7715197/pexels-photo-7715197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police officer writing report",
+        "credit": "Kindel Media",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16603615/pexels-photo-16603615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "canadian courthouse exterior",
+        "credit": "Jem Photography",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6611936/pexels-photo-6611936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern technology laptop screen",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38668771/pexels-photo-38668771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "government building hallway",
+        "credit": "Brett A",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ओपनएआई पर मुकदमा! कनाडा के इस प्रांत ने क्यों ठोका केस? ⚖️",
+        "caption": "पुलिस ने जब इस गोलीबारी की जांच की, तो कड़ियों का जो कनेक्शन निकला उसने सबको हिला दिया। 🚨\n\nकनाडा के ब्रिटिश कोलंबिया प्रांत ने OpenAI पर बड़ा मुकदमा ठोक दिया है। आरोप है कि टम्बलर रिज स्कूल गोलीबारी की घटना के पीछे AI चैटबॉट का खतरनाक इस्तेमाल था।\n\nपूरी कहानी देखें और अपनी राय हमें कमेंट में बताएं।\n\n#OpenAI #CanadaNews #ArtificialIntelligence #TumblerRidge #TechNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पुलिस ने जब इस गोलीबारी की जांच की, तो कनेक्शन सीधे AI से जा जुड़ा! 🚨\n\nकनाडा के ब्रिटिश कोलंबिया ने OpenAI पर मुकदमा कर दिया है। टम्बलर रिज स्कूल शूटिंग मामले में AI के रोल को लेकर गंभीर सवाल उठे हैं।\n\nक्या AI का ऐसा इस्तेमाल खतरनाक होता जा रहा है? नीचे कमेंट में बताएं। 💬\n\n#OpenAI #CanadaNews #ArtificialIntelligence #TumblerRidge #TechNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जब पुलिस ने टम्बलर रिज स्कूल गोलीबारी की तह तक जाने की कोशिश की, तो जो सामने आया उसने सबको चौंका दिया। 🚨\n\nकनाडा के ब्रिटिश कोलंबिया प्रांत ने अब सीधे तौर पर OpenAI पर केस दर्ज कर दिया है। आरोप है कि इस दुखद घटना में तकनीक और AI का वो पहलू सामने आया है जिसकी किसी को उम्मीद नहीं थी। \n\nयह मामला दुनियाभर में आर्टिफिशियल इंटेलिजेंस की जवाबदेही पर एक बहुत बड़ा सवाल खड़ा करता है। इस पर आपकी क्या राय है? हमें कमेंट करके जरूर बताएं।\n\n#OpenAI #CanadaNews #ArtificialIntelligence #TumblerRidge #TechNews"
+      },
+      "hashtags": [
+        "OpenAI",
+        "CanadaNews",
+        "ArtificialIntelligence",
+        "TumblerRidge",
+        "TechNews"
+      ]
+    },
+    "audio_path": "audio/canada_province_sues_openai_school_shooting.wav",
+    "audio_duration_sec": 15.56,
+    "video_path": "videos/canada_province_sues_openai_school_shooting.mp4",
+    "video_duration_sec": 23.6,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-22T11:14:19.992689+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab263294aeef29ae68ee648",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जब पुलिस ने टम्बलर रिज स्कूल गोलीबारी की तह तक जाने की कोशिश की, तो जो सामने आया उसने सबको चौंका दिया। 🚨\n\nकनाडा के ब्रिटिश कोलंबिया प्रांत ने अब सीधे तौर पर OpenAI पर केस दर्ज कर दिया है। आरोप है कि इस दुखद घटना में तकनीक और AI का वो पहलू सामने आया है जिसकी किसी को उम्मीद नहीं थी। \n\nयह मामला दुनियाभर में आर्टिफिशियल इंटेलिजेंस की जवाबदेही पर एक बहुत बड़ा सवाल खड़ा करता है। इस पर आपकी क्या राय है? हमें कमेंट करके जरूर बताएं।\n\n#OpenAI #CanadaNews #ArtificialIntelligence #TumblerRidge #TechNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790075686317_vfyr90ur_canada_province_sues_openai_school_shooting.mp4",
+                "_id": "6ab263294aeef29ae68ee649"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "platform": "facebook",
+                  "displayName": "Ssd News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=uy_M2AVKHo4Q7kNvwFlSw4H&_nc_oc=AdrJntTEVW7eNDRcMerp-qZPbivocSI4_hrHDYPkSG0XG-bWZ9QWhWJYm35cbKV5ad8&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=7Ho6p9ZTwMQwM7_dTBIVgQ&_nc_tpa=Q5bMBQJaorgZkiXplrVUJ8582n4iau77tbahM8WsiDteqRBXuKfZjFBcMOpwyeBzuJoEZQfYbwI26rEA&oh=00_AQIz_3EEwD6KiplKoRDTFl47F_Do3IEYCl3JqDNlw6VGag&oe=6AB7D494",
+                  "username": "lets.quote.up"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T11:14:48.358Z",
+                "status": "published",
+                "publishAttempts": 0,
+                "contentHash": "a1fa055ca2f83d84c0c5cb1b71faea1a",
+                "_id": "6ab263294aeef29ae68ee64a",
+                "platformPostId": "1077270638341993",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1077270638341993",
+                "publishedAt": "2026-09-22T11:14:54.992Z"
+              }
+            ],
+            "scheduledFor": "2026-09-22T11:14:48.358Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T11:14:49.104Z",
+            "updatedAt": "2026-09-22T11:14:55.102Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T11:14:49.154Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T11:14:55.270819+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "_id": "6ab26347e5594dbf2d3afcdf",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पुलिस ने जब इस गोलीबारी की जांच की, तो कनेक्शन सीधे AI से जा जुड़ा! 🚨\n\nकनाडा के ब्रिटिश कोलंबिया ने OpenAI पर मुकदमा कर दिया है। टम्बलर रिज स्कूल शूटिंग मामले में AI के रोल को लेकर गंभीर सवाल उठे हैं।\n\nक्या AI का ऐसा इस्तेमाल खतरनाक होता जा रहा है? नीचे कमेंट में बताएं। 💬\n\n#OpenAI #CanadaNews #ArtificialIntelligence #TumblerRidge #TechNews",
+            "mediaItems": [
+              {
+                "type": "video",
+                "url": "https://media.zernio.com/media/1790075716505_v0x2p216_canada_province_sues_openai_school_shooting.mp4",
+                "_id": "6ab26347e5594dbf2d3afce0"
+              }
+            ],
+            "platforms": [
+              {
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "profileId": "6a8efb7ab8c42db6c3e1415e",
+                  "displayName": "SSD News",
+                  "isActive": true,
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-dT6JtgIIXwQ7kNvwEQry4S&_nc_oc=AdqmVuP4K-9pDiEZfoQHEQhTkUAX0EVIxppffCXY-vzZ5Di-19iCZ4qHMRixG3_ABLs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mC-qTFe-H32pJJXzd4mN8w&_nc_tpa=Q5bMBQKJNztZCagszvocq6WkniHK2Yd4mYdS1MiBLyYMPPeOJUpy4cBXRMicM4nKjlrADFsXJDNNXmD_jw&oh=00_AQK1QlsX4Lni518qagjN5YbobRgtu2b5noimGqL1tmKSXA&oe=6AB7C83B",
+                  "username": "ssdnewsdaily"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-22T11:15:18.241Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "bc685cb00d45de2a2f773b631dcff30e",
+                "_id": "6ab26347e5594dbf2d3afce1"
+              }
+            ],
+            "scheduledFor": "2026-09-22T11:15:18.241Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishAttempts": 0,
+            "createdAt": "2026-09-22T11:15:19.356Z",
+            "updatedAt": "2026-09-22T11:15:20.983Z",
+            "__v": 0,
+            "publishingClaimedAt": "2026-09-22T11:15:19.419Z"
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-22T11:15:21.652963+00:00"
       }
     }
   }
