@@ -1,7 +1,9 @@
-ready_labels: ['lava_dual_screen_smartphone_launch', 'mahindra_thar_og_launch', 'mumbai_juhu_711_crore_tower_deal', 'noida_iphone_18_pro_snatching_viral']
+ready_labels: ['mahindra_thar_og_launch_price', 'mp_hawan_gold_silver_world_record', 'sri_lanka_easter_bombing_conviction_220_years', 'us_denmark_greenland_military_bases_deal']
 
-mahindra_thar_og_launch: SUCCESS -> video_path=videos/mahindra_thar_og_launch.mp4 dur=25.670227
-noida_iphone_18_pro_snatching_viral: SUCCESS -> video_path=videos/noida_iphone_18_pro_snatching_viral.mp4 dur=24.189887
-telangana_rims_hospital_ac_blast_infants_death: SKIPPED (not in ready set)
-lava_dual_screen_smartphone_launch: SUCCESS -> video_path=videos/lava_dual_screen_smartphone_launch.mp4 dur=22.256553
-mumbai_juhu_711_crore_tower_deal: SUCCESS -> video_path=videos/mumbai_juhu_711_crore_tower_deal.mp4 dur=28.089887
+ghaziabad_society_lift_urination_viral_cctv: SKIPPED (not in ready set)
+delhi_kalkaji_temple_gangrape_encounter: SKIPPED (not in ready set)
+sri_lanka_easter_bombing_conviction_220_years: SUCCESS -> video_path=videos/sri_lanka_easter_bombing_conviction_220_years.mp4 dur=25.02322
+bhopal_love_jihad_fake_name_fir: SKIPPED (not in ready set)
+mahindra_thar_og_launch_price: SUCCESS -> video_path=videos/mahindra_thar_og_launch_price.mp4 dur=21.746213
+mp_hawan_gold_silver_world_record: SUCCESS -> video_path=videos/mp_hawan_gold_silver_world_record.mp4 dur=25.32322
+us_denmark_greenland_military_bases_deal: SUCCESS -> video_path=videos/us_denmark_greenland_military_bases_deal.mp4 dur=24.789887
