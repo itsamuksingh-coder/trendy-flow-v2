@@ -1,4 +1,8 @@
-ready_labels: ['mirabai_chanu_asian_games_silver_medal']
+ready_labels: ['azamgarh_mass_murder_priests_wife_encounter', 'fuel_without_pucc_rule_october_1', 'jaipur_sitapura_mercedes_workshop_fire', 'mayawati_appoints_ishan_anand_bsp_national_coordinator', 'mirabai_chanu_silver_medal_asian_games_2026']
 
-mirabai_chanu_asian_games_silver_medal: SUCCESS -> video_path=videos/mirabai_chanu_asian_games_silver_medal.mp4 dur=26.556553
-kalkaji_park_minor_gangrape_arrests: SKIPPED (not in ready set)
+azamgarh_mass_murder_priests_wife_encounter: SUCCESS -> video_path=videos/azamgarh_mass_murder_priests_wife_encounter.mp4 dur=30.756553
+fuel_without_pucc_rule_october_1: SUCCESS -> video_path=videos/fuel_without_pucc_rule_october_1.mp4 dur=27.62322
+mirabai_chanu_silver_medal_asian_games_2026: SUCCESS -> video_path=videos/mirabai_chanu_silver_medal_asian_games_2026.mp4 dur=25.52322
+mayawati_appoints_ishan_anand_bsp_national_coordinator: SUCCESS -> video_path=videos/mayawati_appoints_ishan_anand_bsp_national_coordinator.mp4 dur=25.82322
+amritsar_influencer_iphone_langar_denied: SKIPPED (not in ready set)
+jaipur_sitapura_mercedes_workshop_fire: SUCCESS -> video_path=videos/jaipur_sitapura_mercedes_workshop_fire.mp4 dur=27.62322
