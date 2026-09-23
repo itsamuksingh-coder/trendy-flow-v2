@@ -1,10 +1,10 @@
-ready_labels: ['banks_open_sunday_september_27_strike', 'bihar_bppsc_daroga_mains_exam_cancelled', 'govinda_wife_sunita_ahuja_controversial_remark', 'hurricane_polo_category_5_storm_mexico', 'madhya_pradesh_merchants_no_upi_day_mdr', 'mirabai_chanu_asian_games_2026_silver_medal', 'nitin_gadkari_100_percent_ethanol_car_launch']
+ready_labels: ['azamgarh_mass_murder_encounter_niece_cremation', 'greater_noida_thar_hit_and_run_lawyer_death', 'hurun_india_rich_list_shah_rukh_salman', 'ipl_2026_auction_returns_to_india', 'mahoba_son_kills_mother_for_ganja_money', 'oman_ship_attack_indian_seafarer_killed', 'vivo_v80_7200mah_battery_launch']
 
-mirabai_chanu_asian_games_2026_silver_medal: SUCCESS -> video_path=videos/mirabai_chanu_asian_games_2026_silver_medal.mp4 dur=33.588231
-govinda_wife_sunita_ahuja_controversial_remark: SUCCESS -> video_path=videos/govinda_wife_sunita_ahuja_controversial_remark.mp4 dur=28.990227
-nitin_gadkari_100_percent_ethanol_car_launch: SUCCESS -> video_path=videos/nitin_gadkari_100_percent_ethanol_car_launch.mp4 dur=29.896213
-banks_open_sunday_september_27_strike: SUCCESS -> video_path=videos/banks_open_sunday_september_27_strike.mp4 dur=22.356553
-telangana_government_doctor_acb_raid_100_crore: SKIPPED (not in ready set)
-madhya_pradesh_merchants_no_upi_day_mdr: SUCCESS -> video_path=videos/madhya_pradesh_merchants_no_upi_day_mdr.mp4 dur=24.207211
-bihar_bppsc_daroga_mains_exam_cancelled: SUCCESS -> video_path=videos/bihar_bppsc_daroga_mains_exam_cancelled.mp4 dur=32.189887
-hurricane_polo_category_5_storm_mexico: SUCCESS -> video_path=videos/hurricane_polo_category_5_storm_mexico.mp4 dur=19.354218
+azamgarh_mass_murder_encounter_niece_cremation: SUCCESS -> video_path=videos/azamgarh_mass_murder_encounter_niece_cremation.mp4 dur=29.256553
+greater_noida_thar_hit_and_run_lawyer_death: SUCCESS -> video_path=videos/greater_noida_thar_hit_and_run_lawyer_death.mp4 dur=29.199229
+mahoba_son_kills_mother_for_ganja_money: SUCCESS -> video_path=videos/mahoba_son_kills_mother_for_ganja_money.mp4 dur=27.789887
+oman_ship_attack_indian_seafarer_killed: SUCCESS -> video_path=videos/oman_ship_attack_indian_seafarer_killed.mp4 dur=30.689887
+vivo_v80_7200mah_battery_launch: SUCCESS -> video_path=videos/vivo_v80_7200mah_battery_launch.mp4 dur=25.856213
+ipl_2026_auction_returns_to_india: SUCCESS -> video_path=videos/ipl_2026_auction_returns_to_india.mp4 dur=29.489887
+moradabad_ghee_tanker_overturn_loot_viral: SKIPPED (not in ready set)
+hurun_india_rich_list_shah_rukh_salman: SUCCESS -> video_path=videos/hurun_india_rich_list_shah_rukh_salman.mp4 dur=29.189887
