@@ -1,9 +1,8 @@
-ready_labels: ['mahindra_thar_og_launch_price', 'mp_hawan_gold_silver_world_record', 'sri_lanka_easter_bombing_conviction_220_years', 'us_denmark_greenland_military_bases_deal']
+ready_labels: ['apple_iphone_duo_first_sale_offers', 'azamgarh_man_murders_wife_priests_son_encounter', 'iits_student_suicides_sc_st_obc_data', 'supreme_court_cancer_drug_mrp_loot_remark', 'telangana_nims_doctor_disproportionate_assets_raid']
 
-ghaziabad_society_lift_urination_viral_cctv: SKIPPED (not in ready set)
-delhi_kalkaji_temple_gangrape_encounter: SKIPPED (not in ready set)
-sri_lanka_easter_bombing_conviction_220_years: SUCCESS -> video_path=videos/sri_lanka_easter_bombing_conviction_220_years.mp4 dur=25.02322
-bhopal_love_jihad_fake_name_fir: SKIPPED (not in ready set)
-mahindra_thar_og_launch_price: SUCCESS -> video_path=videos/mahindra_thar_og_launch_price.mp4 dur=21.746213
-mp_hawan_gold_silver_world_record: SUCCESS -> video_path=videos/mp_hawan_gold_silver_world_record.mp4 dur=25.32322
-us_denmark_greenland_military_bases_deal: SUCCESS -> video_path=videos/us_denmark_greenland_military_bases_deal.mp4 dur=24.789887
+azamgarh_man_murders_wife_priests_son_encounter: SUCCESS -> video_path=videos/azamgarh_man_murders_wife_priests_son_encounter.mp4 dur=29.896213
+delhi_kalkaji_minor_gang_rape_encounter: SKIPPED (not in ready set)
+iits_student_suicides_sc_st_obc_data: SUCCESS -> video_path=videos/iits_student_suicides_sc_st_obc_data.mp4 dur=33.289887
+apple_iphone_duo_first_sale_offers: SUCCESS -> video_path=videos/apple_iphone_duo_first_sale_offers.mp4 dur=19.456553
+supreme_court_cancer_drug_mrp_loot_remark: SUCCESS -> video_path=videos/supreme_court_cancer_drug_mrp_loot_remark.mp4 dur=23.156553
+telangana_nims_doctor_disproportionate_assets_raid: SUCCESS -> video_path=videos/telangana_nims_doctor_disproportionate_assets_raid.mp4 dur=38.22322
