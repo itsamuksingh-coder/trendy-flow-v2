@@ -1,10 +1,4 @@
-ready_labels: ['azamgarh_hostage_drama_triple_murder_encounter', 'trump_greenland_military_bases_deal_us', 'trump_ungas_speech_india_pakistan_war_claim', 'turkey_erdogan_ungh_kashmir_issue']
+ready_labels: ['mirabai_chanu_asian_games_silver_medal']
 
-trump_ungas_speech_india_pakistan_war_claim: SUCCESS -> video_path=videos/trump_ungas_speech_india_pakistan_war_claim.mp4 dur=33.02322
-azamgarh_hostage_drama_triple_murder_encounter: SUCCESS -> video_path=videos/azamgarh_hostage_drama_triple_murder_encounter.mp4 dur=27.922222
-kalkaji_temple_minor_gangrape_arrests: SKIPPED (not in ready set)
-supreme_court_cancer_drug_mrp_extortion_remark: SKIPPED (not in ready set)
-punjabi_youtuber_mani_shoker_arrested_weapons: SKIPPED (not in ready set)
-turkey_erdogan_ungh_kashmir_issue: SUCCESS -> video_path=videos/turkey_erdogan_ungh_kashmir_issue.mp4 dur=22.12322
-kashmiri_woman_criticizes_pakistan_unhrc: SKIPPED (not in ready set)
-trump_greenland_military_bases_deal_us: SUCCESS -> video_path=videos/trump_greenland_military_bases_deal_us.mp4 dur=38.255215
+mirabai_chanu_asian_games_silver_medal: SUCCESS -> video_path=videos/mirabai_chanu_asian_games_silver_medal.mp4 dur=26.556553
+kalkaji_park_minor_gangrape_arrests: SKIPPED (not in ready set)
