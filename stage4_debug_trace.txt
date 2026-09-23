@@ -1,8 +1,10 @@
-ready_labels: ['apple_iphone_duo_first_sale_offers', 'azamgarh_man_murders_wife_priests_son_encounter', 'iits_student_suicides_sc_st_obc_data', 'supreme_court_cancer_drug_mrp_loot_remark', 'telangana_nims_doctor_disproportionate_assets_raid']
+ready_labels: ['azamgarh_hostage_drama_triple_murder_encounter', 'trump_greenland_military_bases_deal_us', 'trump_ungas_speech_india_pakistan_war_claim', 'turkey_erdogan_ungh_kashmir_issue']
 
-azamgarh_man_murders_wife_priests_son_encounter: SUCCESS -> video_path=videos/azamgarh_man_murders_wife_priests_son_encounter.mp4 dur=29.896213
-delhi_kalkaji_minor_gang_rape_encounter: SKIPPED (not in ready set)
-iits_student_suicides_sc_st_obc_data: SUCCESS -> video_path=videos/iits_student_suicides_sc_st_obc_data.mp4 dur=33.289887
-apple_iphone_duo_first_sale_offers: SUCCESS -> video_path=videos/apple_iphone_duo_first_sale_offers.mp4 dur=19.456553
-supreme_court_cancer_drug_mrp_loot_remark: SUCCESS -> video_path=videos/supreme_court_cancer_drug_mrp_loot_remark.mp4 dur=23.156553
-telangana_nims_doctor_disproportionate_assets_raid: SUCCESS -> video_path=videos/telangana_nims_doctor_disproportionate_assets_raid.mp4 dur=38.22322
+trump_ungas_speech_india_pakistan_war_claim: SUCCESS -> video_path=videos/trump_ungas_speech_india_pakistan_war_claim.mp4 dur=33.02322
+azamgarh_hostage_drama_triple_murder_encounter: SUCCESS -> video_path=videos/azamgarh_hostage_drama_triple_murder_encounter.mp4 dur=27.922222
+kalkaji_temple_minor_gangrape_arrests: SKIPPED (not in ready set)
+supreme_court_cancer_drug_mrp_extortion_remark: SKIPPED (not in ready set)
+punjabi_youtuber_mani_shoker_arrested_weapons: SKIPPED (not in ready set)
+turkey_erdogan_ungh_kashmir_issue: SUCCESS -> video_path=videos/turkey_erdogan_ungh_kashmir_issue.mp4 dur=22.12322
+kashmiri_woman_criticizes_pakistan_unhrc: SKIPPED (not in ready set)
+trump_greenland_military_bases_deal_us: SUCCESS -> video_path=videos/trump_greenland_military_bases_deal_us.mp4 dur=38.255215
