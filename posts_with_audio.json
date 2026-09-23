@@ -1,147 +1,440 @@
 [
   {
-    "topic_label": "azamgarh_man_hostage_drama_murder_encounter",
+    "topic_label": "azamgarh_mass_murder_encounter_niece_cremation",
     "virality_score": 9,
-    "reason": "High-tension 8-hour hostage drama and multiple murders in Azamgarh have massive shock value and local-to-national interest.",
+    "reason": "Gripping crime story from Azamgarh involving a triple murder, encounter, and unique cremation by the niece.",
     "region": "india",
-    "headline": "सिसकने की आवाज, बंद कमरा और 8 घंटे... आजमगढ़ के मासूमों की कहानी!",
-    "source_summary": "आजमगढ़ में एक घर के अंदर करीब 8 घंटे तक तीन मासूम बच्चे खौफ के बीच रहे. बच्चों के पिता ने उन्हें बंधक बना लिया था. आरोप है कि इससे पहले उसने अपनी पत्नी और दो पुरोहितों की हत्या कर दी. पुलिस सरेंडर करने के लिए समझाती रही, लेकिन अंदर से गोली चलने के बाद ऑपरेशन को तेज करना पड़ा.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/sobs-locked-room-8-hours-heartbreaking-story-of-three-childrens-azamgarh-lcla-dskc-2650982-2026-09-23?utm_source=rssfeed",
+    "headline": "एक चिता पर हत्यारा पति, पत्नी और बेटा... आजमगढ़ में भतीजी ने दी मुखाग्नि",
+    "source_summary": "Azamgarh Encounter Case: आजमगढ़ में पत्नी, बेटे और दो पुजारियों की हत्या करने वाले अरविंद सिंह का एनकाउंटर. राजघाट पर कोई पुरुष नहीं बचा तो भतीजी ने दी आरोपी चाचा, चाची और भाई को मुखाग्नि. पुलिस रेस्क्यू में बचाई गईं दो बेटियां. पढ़ें खौफनाक वारदात की इनसाइड स्टोरी.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/azamgarh-mass-murder-arvind-singh-encounter-niece-performs-last-rites-rajghat-lcln-strc-2651402-2026-09-23?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-23T16:16:03+05:30",
-    "hook": "आजमगढ़ में खौफनाक वारदात, पिता ने आठ घंटे तक बच्चों को बनाया बंधक!",
-    "script_hi": "उत्तर प्रदेश के आजमगढ़ में एक दिल दहला देने वाली घटना सामने आई है। यहाँ एक पिता ने अपने ही तीन मासूम बच्चों को करीब आठ घंटे तक एक कमरे में बंधक बनाकर रखा। आरोप है कि इस सनकी पिता ने बच्चों को बंधक बनाने से पहले अपनी पत्नी और दो पुरोहितों की निर्मम हत्या कर दी। सूचना मिलते ही पुलिस मौके पर पहुँची और आरोपी को समझाने की कोशिश की। लेकिन अंदर से गोली चलने के बाद पुलिस को मजबूरन अपना ऑपरेशन तेज करना पड़ा। गनीमत रही कि पुलिस ने घंटों की मशक्कत के बाद तीनों मासूम बच्चों को सुरक्षित बाहर निकाल लिया।",
-    "tts_text_hi": "उत्तर प्रदेश के आजमगढ़ में एक दिल दहला देने वाली घटना सामने आई है। यहाँ एक पिता ने अपने ही तीन मासूम बच्चों को करीब आठ घंटे तक एक कमरे में बंधक बनाकर रखा। आरोप है कि इस सनकी पिता ने बच्चों को बंधक बनाने से पहले अपनी पत्नी और दो पुरोहितों की निर्मम हत्या कर दी। सूचना मिलते ही पुलिस मौके पर पहुँची और आरोपी को समझाने की कोशिश की। लेकिन अंदर से गोली चलने के बाद पुलिस को मजबूरन अपना ऑपरेशन तेज करना पड़ा। गनीमत रही कि पुलिस ने घंटों की मशक्कत के बाद तीनों मासूम बच्चों को सुरक्षित बाहर निकाल लिया।",
-    "title": "आजमगढ़ में खौफनाक वारदात, पिता ने बच्चों को बनाया बंधक",
-    "caption": "उत्तर प्रदेश के आजमगढ़ में दिल दहला देने वाली घटना। पिता ने आठ घंटे तक बच्चों को बनाया बंधक, पत्नी और दो पुरोहितों की हत्या का आरोप। पुलिस ने बच्चों को सुरक्षित बचाया।",
+    "published": "2026-09-23T22:52:50+05:30",
+    "hook": "आजमगढ़ में खौफनाक एनकाउंटर! एक ही चिता पर पति, पत्नी और बेटा!",
+    "script_hi": "आजमगढ़ में अपनी ही पत्नी, बेटे और दो पुजारियों की हत्या करने वाले अरविंद सिंह का पुलिस एनकाउंटर में अंत हो गया। राजघाट पर परिवार में कोई पुरुष नहीं बचने के कारण, आरोपी की भतीजी ने ही चाचा, चाची और भाई को मुखाग्नि दी। पुलिस ने इस खौफनाक वारदात के दौरान त्वरित कार्रवाई करते हुए दो बेटियों की जान बचा ली।",
+    "tts_text_hi": "आजमगढ़ में अपनी ही पत्नी, बेटे और दो पुजारियों की हत्या करने वाले अरविंद सिंह का पुलिस एनकाउंटर में अंत हो गया। राजघाट पर परिवार में कोई पुरुष नहीं बचने के कारण, आरोपी की भतीजी ने ही चाचा, चाची और भाई को मुखाग्नि दी। पुलिस ने इस खौफनाक वारदात के दौरान त्वरित कार्रवाई करते हुए दो बेटियों की जान बचा ली।",
+    "title": "Azamgarh Encounter: भतीजी ने दी एक ही चिता पर मुखाग्नि",
+    "caption": "आजमगढ़ में खौफनाक वारदात को अंजाम देने वाले अरविंद सिंह का एनकाउंटर। राजघाट पर पुरुष न बचने पर भतीजी ने दी मुखाग्नि।",
     "hashtags": [
-      "Azamgarh",
-      "CrimeNews",
-      "UttarPradesh",
-      "Police",
-      "BreakingNews",
-      "IndiaNews"
+      "AzamgarhEncounter",
+      "AzamgarhPolice",
+      "CrimeNewsIndia",
+      "UttarPradeshNews",
+      "NewsUpdate"
     ],
     "visual_queries": [
-      "Indian police station night India",
-      "police barricade street India",
-      "police rescue operation India"
+      "police encounter India",
+      "Uttar Pradesh police station India",
+      "Hindu cremation ground India",
+      "Indian police rescue operation"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves minor victims of a traumatic crime; requires careful handling to ensure privacy and sensitivity.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police encounter India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8649666/pexels-photo-8649666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh police station India",
+        "credit": "Amit Sharma",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35625312/pexels-photo-35625312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hindu cremation ground India",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35512361/pexels-photo-35512361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cremation ghat rituals",
+        "credit": "Himanshu Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35625312/pexels-photo-35625312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Cremation ground India",
+        "credit": "Abhishek Mishra",
+        "duration_sec": 4.3
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/28368185/pexels-photo-28368185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
         "query": "police tape crime scene India",
         "credit": "Boys in Bristol Photography",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_82b46e29c8.jpg",
-        "source": "wikimedia_commons",
-        "query": "police barricade street India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_ee5fed33cf.jpg",
-        "source": "wikimedia_commons",
-        "query": "police rescue operation India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
+        "duration_sec": 4.3
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एक ही चिता पर पति, पत्नी और बेटा! आजमगढ़ एनकाउंटर की खौफनाक दास्तान 🚨",
+        "caption": "एक ही चिता पर पति, पत्नी और बेटा... आजमगढ़ एनकाउंटर के बाद जब घर के दरवाजे खुले तो नजारा देख सबकी रूह कांप गई। 🛑\n\nजिस घर में कभी खुशियां हुआ करती थीं, वहां मातम पसरा है और एक मासूम भतीजी को अपने ही लोगों को मुखाग्नि देनी पड़ी।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#AzamgarhEncounter #AzamgarhNews #UPPolice #CrimeNews #UttarPradesh"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "एक ही चिता पर पति, पत्नी और बेटा! 💔 आजमगढ़ के इस खौफनाक एनकाउंटर ने पूरे इलाके को दहला दिया है।\n\nजिस घर में कभी किलकारी गूंजती थी, वहां अब सिर्फ सन्नाटा है। सोचिए उस भतीजी पर क्या बीती होगी जिसने अपने ही हाथों से सबको अग्नि दी।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#AzamgarhEncounter #AzamgarhNews #UPPolice #CrimeNews #UttarPradesh"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एक ही चिता पर पति, पत्नी और बेटा... आजमगढ़ से आई इस खबर ने हर किसी को झकझोर कर रख दिया है। 🛑\n\nएनकाउंटर के बाद जब सब खत्म हो गया, तो पीछे बची एक मासूम भतीजी, जिसे मजबूरन अपने परिवार के इन सदस्यों को मुखाग्नि देनी पड़ी। ऐसी खौफनाक दास्तान आपने शायद ही कभी सुनी होगी।\n\nपूरी घटना को विस्तार से जानने के लिए वीडियो अंत तक देखें।\n\n#AzamgarhEncounter #AzamgarhNews #UPPolice #CrimeNews #UttarPradesh"
+      },
+      "hashtags": [
+        "AzamgarhEncounter",
+        "AzamgarhNews",
+        "UPPolice",
+        "CrimeNews",
+        "UttarPradesh"
+      ]
+    },
+    "audio_path": "audio/azamgarh_mass_murder_encounter_niece_cremation.wav",
+    "audio_duration_sec": 21.34
   },
   {
-    "topic_label": "gautam_adani_dethrones_mukesh_ambani_richest_india",
+    "topic_label": "greater_noida_thar_hit_and_run_lawyer_death",
     "virality_score": 8,
-    "reason": "Major billionaire wealth milestone with Gautam Adani overtaking Mukesh Ambani as India's richest person.",
+    "reason": "High-profile hit-and-run case involving a Supreme Court lawyer killed by a speeding Thar in Greater Noida.",
     "region": "india",
-    "headline": "Gautam Adani dethrones Mukesh Ambani to become India's richest with  ₹9.22 lakh crore wealth",
-    "source_summary": "The industrialists were followed by Lakshmi Niwas Mittal and family with a net worth of  ₹ 3.39 lakh crore.",
-    "source_url": "https://www.hindustantimes.com/india-news/gautam-adani-indias-richest-m3m-hurun-india-rich-list-rs-9-22-lakh-crore-wealth-beats-mukesh-ambani-101790158525651.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Wed, 23 Sep 2026 16:30:04 +0530",
-    "hook": "गौतम अडानी बने देश के सबसे अमीर शख्स!",
-    "script_hi": "गौतम अडानी ने मुकेश अंबानी को पीछे छोड़ दिया है और नौ लाख बाईस हजार करोड़ रुपये की संपत्ति के साथ भारत के सबसे अमीर व्यक्ति बन गए हैं। इस सूची में लक्ष्मी निवास मित्तल और उनका परिवार तीन लाख उनचास हजार करोड़ रुपये की संपत्ति के साथ दूसरे स्थान पर है।",
-    "tts_text_hi": "गौतम अडानी ने मुकेश अंबानी को पीछे छोड़ दिया है और नौ लाख बाईस हजार करोड़ रुपये की संपत्ति के साथ भारत के सबसे अमीर व्यक्ति बन गए हैं। इस सूची में लक्ष्मी निवास मित्तल और उनका परिवार तीन लाख उनचास हजार करोड़ रुपये की संपत्ति के साथ दूसरे स्थान पर है।",
-    "title": "Gautam Adani becomes India's richest person",
-    "caption": "गौतम अडानी बने भारत के सबसे अमीर उद्योगपति, मुकेश अंबानी को छोड़ा पीछे।",
+    "headline": "थार की टक्कर से वकील की मौत, पत्नी गंभीर, हिट एंड रन का आरोपी अरेस्ट",
+    "source_summary": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार से स्कूटी सवार दंपति को टक्कर मारने और मौके से फरार होने के मामले में पुलिस ने आरोपी चालक आशीष पॉल को गिरफ्तार कर लिया है. हादसे में सुप्रीम कोर्ट के वकील नीरज कुमार सिन्हा की मौत हो गई, जबकि उनकी पत्नी निशी श्रीवास्तव गंभीर हालत में अस्पताल में भर्ती हैं. पुलिस ने कार्रवाई की.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-west-thar-hit-and-run-supreme-court-lawyer-death-driver-arrested-lclar-strc-2651366-2026-09-23?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-23T21:44:17+05:30",
+    "hook": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार का कहर, वकील की मौत और पत्नी गंभीर!",
+    "script_hi": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार गाड़ी ने स्कूटी सवार दंपति को जोरदार टक्कर मार दी। हादसे में सुप्रीम कोर्ट के वकील नीरज कुमार सिन्हा की मौत हो गई, जबकि उनकी पत्नी निशी श्रीवास्तव गंभीर रूप से घायल हैं। पुलिस ने हिट एंड रन के आरोपी चालक आशीष पॉल को गिरफ्तार कर लिया है।",
+    "tts_text_hi": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार गाड़ी ने स्कूटी सवार दंपति को जोरदार टक्कर मार दी। हादसे में सुप्रीम कोर्ट के वकील नीरज कुमार सिन्हा की मौत हो गई, जबकि उनकी पत्नी निशी श्रीवास्तव गंभीर रूप से घायल हैं। पुलिस ने हिट एंड रन के आरोपी चालक आशीष पॉल को गिरफ्तार कर लिया है।",
+    "title": "Greater Noida Hit and Run: थार की टक्कर से वकील की मौत, आरोपी गिरफ्तार",
+    "caption": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार गाड़ी से स्कूटी सवार दंपति को टक्कर मारने के मामले में पुलिस ने आरोपी आशीष पॉल को गिरफ्तार कर लिया है। हादसे में वकील नीरज कुमार सिन्हा की मौत हो गई।",
     "hashtags": [
-      "#GautamAdani",
-      "#MukeshAmbani",
-      "#IndiaRichest",
-      "#BusinessNews",
-      "#AdaniGroup",
-      "#WealthReport",
-      "#NewsShorts"
+      "#GreaterNoida",
+      "#HitAndRun",
+      "#CrimeNews",
+      "#DelhiNCR",
+      "#RoadAccident",
+      "#IndiaNews"
     ],
     "visual_queries": [
-      "wealthy Indian businessman",
-      "India stock market building",
-      "luxury corporate office India"
+      "Indian city road accident scene",
+      "police station India investigation",
+      "court building India exterior"
     ],
-    "named_person": "Gautam Adani",
-    "named_person_hi": "गौतम अडानी",
-    "secondary_persons": [
-      "Mukesh Ambani",
-      "Lakshmi Mittal"
-    ],
-    "est_duration_sec": 26,
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7581228/7581228-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "wealthy Indian businessman",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 8,
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7581266/7581266-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "wealthy Indian businessmen meeting",
+        "query": "police station India investigation",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34185651/14491079_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "urban traffic accident india",
+        "credit": "Trishik Bose",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest handcuffs India",
+        "credit": "Kindel Media",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest suspect india",
+        "credit": "Kindel Media",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hospital emergency entrance india",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6520080/pexels-photo-6520080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "injured patient in hospital bed",
         "credit": "RDNE Stock project",
+        "duration_sec": 3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ग्रेटर नोएडा में तेज रफ्तार थार का कहर, वकील की मौत 🚨",
+        "caption": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार ने स्कूटर सवार दंपति को कुचल दिया, जिससे वकील की मौके पर ही मौत हो गई और पत्नी गंभीर रूप से घायल है। 💔 पुलिस ने आरोपी ड्राइवर को गिरफ्तार कर लिया है। पूरी कहानी वीडियो में देखें।\n\n#GreaterNoida #HitAndRun #TharAccident #NoidaNews #CrimeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ग्रेटर नोएडा वेस्ट में तेज रफ्तार थार का कहर! स्कूटर सवार वकील की दर्दनाक मौत, पत्नी गंभीर रूप से घायल। 🚨 सीसीटीवी के आधार पर पुलिस ने आरोपी को दबोच लिया। पूरी घटना जानने के लिए वीडियो पूरा देखें।\n\n#GreaterNoida #HitAndRun #TharAccident #NoidaNews #CrimeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ग्रेटर नोएडा वेस्ट में रफ्तार का ऐसा कहर बरपा कि एक हंसता-खेलता परिवार उजड़ गया। तेज रफ्तार थार ने स्कूटर सवार वकील को जोरदार टक्कर मार दी, जिससे उनकी मौके पर ही मौत हो गई और उनकी पत्नी जिंदगी और मौत के बीच जूझ रही हैं। 💔 पुलिस ने सीसीटीवी फुटेज की मदद से फरार आरोपी ड्राइवर को गिरफ्तार कर लिया है। आखिर कब तक ऐसे लापरवाह ड्राइवर बेकसूरों की जान लेते रहेंगे? अपनी राय कमेंट में बताएं और वीडियो पूरा देखें।\n\n#GreaterNoida #HitAndRun #TharAccident #NoidaNews #CrimeNews"
+      },
+      "hashtags": [
+        "GreaterNoida",
+        "HitAndRun",
+        "TharAccident",
+        "NoidaNews",
+        "CrimeNews"
+      ]
+    },
+    "audio_path": "audio/greater_noida_thar_hit_and_run_lawyer_death.wav",
+    "audio_duration_sec": 21.14
+  },
+  {
+    "topic_label": "mahoba_son_kills_mother_for_ganja_money",
+    "virality_score": 8,
+    "reason": "Shocking local crime where a son killed his mother with an axe over 60 rupees for drugs in Mahoba.",
+    "region": "india",
+    "headline": "नशे के लिए मां से मांगे 60 रुपये, नहीं मिले तो कुल्हाड़ी से काट डाला",
+    "source_summary": "महोबा में नशे की लत ने मां-बेटे के रिश्ते को खून से रंग दिया. गांजा खरीदने के लिए 60 रुपये नहीं मिलने पर 28 वर्षीय युवक ने अपनी 51 साल की मां पर कुल्हाड़ी से हमला कर दिया. पांच से अधिक वार से महिला की मौत हो गई. आरोपी वारदात के बाद करीब दो घंटे तक शव के पास बैठा रहा, फिर पुलिस ने उसे हिरासत में लिया.",
+    "source_url": "https://www.aajtak.in/crime/news/story/mahoba-son-kills-mother-for-60-rupees-cannabis-addiction-lclcn-strc-2651387-2026-09-23?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-23T22:14:47+05:30",
+    "hook": "महज़ साठ रुपये के लिए कलयुगी बेटे ने मां को कुल्हाड़ी से काट डाला!",
+    "script_hi": "उत्तर प्रदेश के महोबा में नशे की लत ने रिश्तों को तार-तार कर दिया। गांजा खरीदने के लिए साठ रुपये नहीं मिलने पर अठ्ठाइस साल के बेटे ने अपनी इक्यावन साल की मां पर कुल्हाड़ी से ताबड़तोड़ वार कर हत्या कर दी। आरोपी दो घंटे तक शव के पास बैठा रहा, जिसके बाद पुलिस ने उसे हिरासत में ले लिया।",
+    "tts_text_hi": "उत्तर प्रदेश के महोबा में नशे की लत ने रिश्तों को तार-तार कर दिया। गांजा खरीदने के लिए साठ रुपये नहीं मिलने पर अठ्ठाइस साल के बेटे ने अपनी इक्यावन साल की मां पर कुल्हाड़ी से ताबड़तोड़ वार कर हत्या कर दी। आरोपी दो घंटे तक शव के पास बैठा रहा, जिसके बाद पुलिस ने उसे हिरासत में ले लिया।",
+    "title": "महोबा में नशे के लिए बेटे ने की मां की हत्या",
+    "caption": "उत्तर प्रदेश के महोबा में नशे की लत में अंधे कलयुगी बेटे ने गांजे के लिए पैसे न मिलने पर मां की कुल्हाड़ी से वार कर हत्या कर दी। पुलिस ने आरोपी को हिरासत में ले लिया है।",
+    "hashtags": [
+      "MahobaNews",
+      "CrimeNews",
+      "UttarPradesh",
+      "PoliceInvestigation",
+      "HindiNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Uttar Pradesh police station India",
+      "Indian village street India",
+      "police investigation crime scene India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation crime scene India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8649666/pexels-photo-8649666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh police station India",
+        "credit": "Amit Sharma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37467257/pexels-photo-37467257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village street India",
+        "credit": "DARKMODE CINEMA",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police arrest India crime scene",
+        "credit": "Kindel Media",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7276174/pexels-photo-7276174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sad Indian man portrait",
+        "credit": "Deepak Maurya",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12583291/pexels-photo-12583291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rural Indian home interior",
+        "credit": "Omaid Andrabi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18329048/pexels-photo-18329048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "village man sitting alone India",
+        "credit": "Iqbal farooz",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "महज़ 60 रुपये के लिए कलयुगी बेटे ने मां को काटा! 🪓",
+        "caption": "महज़ 60 रुपये के लिए कलयुगी बेटे ने अपनी ही मां को कुल्हाड़ी से काट डाला! 🪓\n\nउत्तर प्रदेश के महोबा में नशे की ऐसी खौफनाक तस्वीर सामने आई है जिसे सुनकर रूह कांप जाए। नशे के लिए पैसे न मिलने पर बेटे ने खूनी खेल खेला।\n\nपूरी कहानी वीडियो में देखें।\n\n#MahobaNews #CrimeNews #UPPolice #Shocker #HindiNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महज़ 60 रुपये के लिए कलयुगी बेटे ने मां को कुल्हाड़ी से काट डाला! 🪓\n\nनशे की लत में इंसानियत किस हद तक गिर सकती है, महोबा की इस घटना ने झकझोर कर रख दिया है। मां ने पैसे देने से इनकार किया तो गुस्से में बेटे ने खौफनाक कदम उठा लिया।\n\nक्या ऐसे दरिंदों को कभी माफ किया जा सकता है? अपनी राय कमेंट में बताएं।\n\n#MahobaNews #CrimeNews #UPPolice #Shocker #HindiNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "महज़ 60 रुपये के लिए कलयुगी बेटे ने मां को कुल्हाड़ी से काट डाला! 🪓\n\nउत्तर प्रदेश के महोबा से एक ऐसी दहला देने वाली घटना सामने आई है जो रिश्तों का कत्ल बयां करती है। नशे की लत पूरी करने के लिए बेटे ने अपनी ही मां से 60 रुपये मांगे थे। जब मां ने पैसे देने से मना किया, तो आरोपी ने गुस्से में आकर कुल्हाड़ी से वार कर उसकी जान ले ली।\n\nसोचिए, जिस मां ने पाला-पोषा, उसी की जिंदगी की कीमत महज़ 60 रुपये आंकी गई। इस पूरी दर्दनाक घटना के बारे में विस्तार से जानने के लिए वीडियो पूरा देखें।\n\n#MahobaNews #CrimeNews #UPPolice #Shocker #HindiNews"
+      },
+      "hashtags": [
+        "MahobaNews",
+        "CrimeNews",
+        "UPPolice",
+        "Shocker",
+        "HindiNews"
+      ]
+    },
+    "audio_path": "audio/mahoba_son_kills_mother_for_ganja_money.wav",
+    "audio_duration_sec": 19.9
+  },
+  {
+    "topic_label": "oman_ship_attack_indian_seafarer_killed",
+    "virality_score": 8,
+    "reason": "Geopolitical safety concern as an Indian seafarer from UP is killed in a commercial ship attack near Oman.",
+    "region": "india",
+    "headline": "ओमान के पास जहाज पर अटैक, एक भारतीय की मौत, UP का था शख्स",
+    "source_summary": "भारत आ रहे MV केप दाओ जहाज पर हुए हमले में एक भारतीय नागरिक की मौत हो गई. ओमान में भारतीय दूतावास ने कहा है कि वह क्रू की सुरक्षा सुनिश्चित करने और पीड़ित परिवार की मदद करने के लिए स्थानीय अधिकारियों और एक एजेंसी के साथ मिलकर काम कर रहा है.",
+    "source_url": "https://www.aajtak.in/world/story/indian-sailor-killed-oman-coast-mv-cape-dao-ship-attacked-ntcppl-dskc-2651365-2026-09-23?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-23T21:17:07+05:30",
+    "hook": "ओमान के पास जहाज पर बड़ा हमला! एक भारतीय नागरिक की दर्दनाक मौत।",
+    "script_hi": "ओमान के पास समुद्र में भारत आ रहे एक जहाज पर बड़ा हमला हुआ है। इस घातक हमले में उत्तर प्रदेश के रहने वाले एक भारतीय नागरिक की मौत हो गई है। ओमान में भारतीय दूतावास ने कहा है कि वह क्रू की सुरक्षा सुनिश्चित करने और पीड़ित परिवार की हरसंभव मदद के लिए स्थानीय अधिकारियों के साथ मिलकर काम कर रहा है।",
+    "tts_text_hi": "ओमान के पास समुद्र में भारत आ रहे एक जहाज पर बड़ा हमला हुआ है। इस घातक हमले में उत्तर प्रदेश के रहने वाले एक भारतीय नागरिक की मौत हो गई है। ओमान में भारतीय दूतावास ने कहा है कि वह क्रू की सुरक्षा सुनिश्चित करने और पीड़ित परिवार की हरसंभव मदद के लिए स्थानीय अधिकारियों के साथ मिलकर काम कर रहा है।",
+    "title": "ओमान के पास जहाज पर हमला, भारतीय की मौत",
+    "caption": "ओमान के पास भारत आ रहे जहाज पर हुए हमले में एक भारतीय नागरिक की मौत, दूतावास मदद में जुटा।",
+    "hashtags": [
+      "#OmanNews",
+      "#IndianNavy",
+      "#BreakingNews",
+      "#UttarPradesh",
+      "#IndiaNews",
+      "#LatestNews"
+    ],
+    "visual_queries": [
+      "Oman sea ocean India",
+      "commercial cargo ship India",
+      "Indian embassy building India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/15739058/15739058-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cargo ship at sea",
+        "credit": "Natural sound",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/15739058/15739058-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cargo ship at sea",
+        "credit": "Natural sound",
         "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_0f0928fe45.jpg",
-        "source": "wikimedia",
-        "query": "Gautam Adani",
-        "credit": "Wikipedia",
+        "url": "https://images.pexels.com/photos/31016036/pexels-photo-31016036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Oman sea ocean India",
+        "credit": "Reyyan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_da2beb2b10.jpg",
-        "source": "wikimedia",
-        "query": "Mukesh Ambani",
-        "credit": "Wikipedia",
+        "url": "https://images.pexels.com/photos/38724586/pexels-photo-38724586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial cargo ship India",
+        "credit": "Raj Bakshi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_6a034df60d.jpg",
-        "source": "wikimedia",
-        "query": "Lakshmi Mittal",
-        "credit": "Wikipedia",
+        "url": "https://images.pexels.com/photos/39013505/pexels-photo-39013505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian flag waving",
+        "credit": "Shubham Dhage",
         "duration_sec": 5
       }
     ],
@@ -150,237 +443,117 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "गौतम अडानी ने मुकेश अंबानी को पीछे छोड़ा, बने देश के सबसे अमीर! 📈",
-        "caption": "सिर्फ एक झटके में मुकेश अंबानी को पीछे छोड़कर गौतम अडानी बन गए हैं देश के सबसे अमीर शख्स। 🇮🇳\n\nउनकी कुल संपत्ति अब 9.22 लाख करोड़ रुपये पर पहुंच गई है, जिसने इस बड़े फेरबदल से सबको हैरान कर दिया है। \n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#GautamAdani #MukeshAmbani #RichestIndian #BusinessNews #IndianEconomy"
+        "title": "ओमान के पास जहाज पर हमला, यूपी के भारतीय की मौत 🚢",
+        "caption": "ओमान के पास समंदर में बड़ा हमला! जहाज पर हुए इस अटैक में उत्तर प्रदेश के रहने वाले एक भारतीय नागरिक की दर्दनाक मौत हो गई है। 🛑\n\nमिडिल ईस्ट में बढ़ते तनाव के बीच यह घटना सामने आई है, जिससे इलाके में सुरक्षा को लेकर चिंताएं और बढ़ गई हैं।\n\nपूरी कहानी वीडियो में देखें।\n\n#OmanShipAttack #IndianNationalDead #UPNews #MiddleEastTensions #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "₹9,22,000,000,000 की संपत्ति! 💰 गौतम अडानी ने मुकेश अंबानी को पीछे छोड़ते हुए रच दिया नया इतिहास। \n\nदेश के नंबर 1 अमीर की इस कुर्सी तक पहुंचने का सफर कैसा रहा? वीडियो में देखिए पूरी सच्चाई। \n\nशेयर करें इस शॉकिंग अपडेट को अपने दोस्तों के साथ!\n\n#GautamAdani #MukeshAmbani #RichestIndian #BusinessNews #IndianEconomy"
+        "caption": "ओमान के पास समंदर में बड़ा हमला! जहाज पर हुए इस अटैक में यूपी के एक भारतीय नागरिक की जान चली गई। 🌊\n\nघटना के बाद से इलाके में हड़कंप मचा हुआ है। आखिर यह हमला किसने और क्यों किया?\n\nपूरी खबर के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#OmanShipAttack #IndianNationalDead #UPNews #MiddleEastTensions #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "देश के सबसे अमीर शख्स की कुर्सी पर अब एक नया नाम जुड़ गया है। गौतम अडानी ने ₹9.22 लाख करोड़ की कुल संपत्ति के साथ मुकेश अंबानी को पीछे छोड़ दिया है और भारत के सबसे अमीर व्यक्ति बन गए हैं। 📉📈\n\nबाजार की इस हलचल और नंबर वन की रेस के पीछे की पूरी कहानी क्या है? \n\nवीडियो पूरा देखें और हमें बताएं कि आपको क्या लगता है।\n\n#GautamAdani #MukeshAmbani #RichestIndian #BusinessNews #IndianEconomy"
+        "caption": "ओमान के पास एक मालवाहक जहाज पर बड़ा हमला हुआ है, जिसमें उत्तर प्रदेश के रहने वाले एक भारतीय नागरिक की दर्दनाक मौत हो गई। 🚢⚠️\n\nइस खतरनाक हमले के बाद से समंदर में सुरक्षा एजेंसियों की टेंशन काफी बढ़ गई है। क्या है इस पूरी घटना की असल वजह?\n\nपूरी जानकारी के लिए वीडियो देखें।\n\n#OmanShipAttack #IndianNationalDead #UPNews #MiddleEastTensions #BreakingNews"
       },
       "hashtags": [
-        "GautamAdani",
-        "MukeshAmbani",
-        "RichestIndian",
-        "BusinessNews",
-        "IndianEconomy"
+        "OmanShipAttack",
+        "IndianNationalDead",
+        "UPNews",
+        "MiddleEastTensions",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/gautam_adani_dethrones_mukesh_ambani_richest_india.wav",
-    "audio_duration_sec": 19.09
+    "audio_path": "audio/oman_ship_attack_indian_seafarer_killed.wav",
+    "audio_duration_sec": 22.66
   },
   {
-    "topic_label": "supreme_court_cancer_drug_price_gap_loot",
+    "topic_label": "vivo_v80_7200mah_battery_launch",
     "virality_score": 8,
-    "reason": "Supreme Court's sharp reprimand over a 10-fold price gap in life-saving cancer drugs directly impacts common citizens emotionally.",
+    "reason": "Major tech launch from Vivo featuring a massive 7200mAh battery and iPhone-like design.",
     "region": "india",
-    "headline": "'Blatant daylight dacoity': SC questions 10-fold price gap in cancer drug, asks authorities why they failed to act",
-    "source_summary": "The court raised concerns over the burden on patients after hearing that a cancer medicine bought by retailers for  ₹2,700 reaches consumers at  ₹27,000.",
-    "source_url": "https://www.hindustantimes.com/india-news/blatant-daylight-dacoity-sc-on-10-fold-gap-in-cancer-drug-prices-101790105343688.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Wed, 23 Sep 2026 07:56:30 +0530",
-    "hook": "सुप्रीम कोर्ट ने कैंसर की दवा के दामों पर उठाए कड़े सवाल!",
-    "script_hi": "सुप्रीम कोर्ट ने कैंसर की दवा के दामों में दस गुना अंतर को लेकर अधिकारियों से तीखे सवाल किए हैं। कोर्ट ने इसे खुली लूट करार देते हुए पूछा है कि अधिकारियों ने इस पर कार्रवाई क्यों नहीं की। सुनवाई के दौरान सामने आया कि दो हजार सात सौ रुपये में मिलने वाली दवा मरीजों तक पहुंचते-पहुंचते सत्ताईस हजार रुपये की हो जाती है।",
-    "tts_text_hi": "सुप्रीम कोर्ट ने कैंसर की दवा के दामों में दस गुना अंतर को लेकर अधिकारियों से तीखे सवाल किए हैं। कोर्ट ने इसे खुली लूट करार देते हुए पूछा है कि अधिकारियों ने इस पर कार्रवाई क्यों नहीं की। सुनवाई के दौरान सामने आया कि दो हजार सात सौ रुपये में मिलने वाली दवा मरीजों तक पहुंचते-पहुंचते सत्ताईस हजार रुपये की हो जाती है।",
-    "title": "कैंसर दवा के दामों पर सुप्रीम कोर्ट सख्त",
-    "caption": "सुप्रीम कोर्ट ने कैंसर की दवा के भारी भरकम दामों पर चिंता जताई है और अधिकारियों से जवाब मांगा है।",
-    "hashtags": [
-      "SupremeCourt",
-      "CancerMedicine",
-      "MedicalNews",
-      "IndiaNews",
-      "HealthNews"
-    ],
-    "visual_queries": [
-      "Supreme Court of India building",
-      "Indian medical prescription hospital",
-      "Indian cancer medicine pharmacy"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8399343/8399343-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian cancer medicine pharmacy",
-        "credit": "Darina Belonogova",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8890656/8890656-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "medicine price protest India",
-        "credit": "Lara Jameson",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_665de3ea68.jpg",
-        "source": "wikimedia_commons",
-        "query": "Supreme Court of India building",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_8c65c59ba3.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian medical prescription hospital",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7904428/pexels-photo-7904428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "expensive medicine pills capsule",
-        "credit": "Anna Tarazevich",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7534769/pexels-photo-7534769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "frustrated patient looking at bill",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31406897/pexels-photo-31406897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medicine pills medical store",
-        "credit": "Deise Elen",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "कैंसर की दवा पर सुप्रीम कोर्ट सख्त, 10 गुना कीमत देखकर भड़के जज 🚨",
-        "caption": "10 गुना ज्यादा दाम और जानलेवा बीमारी... क्या ये इलाज है या खुली लूट? 🛑 सुप्रीम कोर्ट ने कैंसर की दवा के दामों में भारी अंतर देखकर अधिकारियों से कड़े सवाल किए हैं और पूछा है कि अब तक कार्रवाई क्यों नहीं हुई। पूरी कहानी देखें और अपनी राय कमेंट करें।\n\n#SupremeCourt #CancerDrugPrices #MedicalNews #IndianNews #HealthPolicy"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कैंसर की दवा के दाम में 10 गुना का अंतर! 🛑 सुप्रीम कोर्ट ने इसे 'खुली डकैती' बताते हुए अधिकारियों से जवाब मांगा है। आखिर कैसे आम आदमी इस बीमारी से लड़े? वीडियो पूरा देखें और शेयर करें।\n\n#SupremeCourt #CancerDrugPrices #MedicalNews #IndianNews #HealthPolicy"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "जिंदगी बचाने वाली दवा पर ऐसा मुनाफा कि सुप्रीम कोर्ट को भी इसे 'दिनदहाड़े डकैती' कहना पड़ गया। 🛑 अदालत ने कैंसर की दवा के दामों में 10 गुना के भारी अंतर पर कड़ा रुख अपनाते हुए पूछा है कि जिम्मेदार अधिकारियों ने अब तक कोई कार्रवाई क्यों नहीं की। पूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#SupremeCourt #CancerDrugPrices #MedicalNews #IndianNews #HealthPolicy"
-      },
-      "hashtags": [
-        "SupremeCourt",
-        "CancerDrugPrices",
-        "MedicalNews",
-        "IndianNews",
-        "HealthPolicy"
-      ]
-    },
-    "audio_path": "audio/supreme_court_cancer_drug_price_gap_loot.wav",
-    "audio_duration_sec": 24.02
-  },
-  {
-    "topic_label": "gujarat_ganpati_decoration_notes_dollars",
-    "virality_score": 7,
-    "reason": "Unique and visually striking Ganpati decoration using Rs 25 lakh in cash and US dollars draws massive public curiosity.",
-    "region": "india",
-    "headline": "गुजरात के अमरोली में नोटों और डॉलर से सजे गणपति बप्पा",
-    "source_summary": "गुजरात के अमरेली में गणपति बप्पा की अनोखी सजावट लोगों के आकर्षण का केंद्र बनी हुई है. सावरकुंडला में सद्भावना ग्रुप ने गणपति प्रतिमा को करीब 25 लाख रुपये की भारतीय करेंसी से सजाया है. मुकुट में 500 रुपये और गले में 200 रुपये के नोट लगाए गए हैं. खास बात ये है कि इस बार सजावट में अमेरिकी डॉलर भी शामिल किए गए हैं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/gujarat-amreli-ganpati-idol-currency-decoration-25-lakh-rupees-us-dollars-indian-notes-sadbhavna-group-mmtc-2651044-2026-09-23?utm_source=rssfeed",
+    "headline": "7200mAh बैटरी के साथ आ रहा Vivo का फोन, iPhone जैसा लुक",
+    "source_summary": "Vivo V80  भारत में 6 अक्तूबर को लॉन्च होगा, जिसकी जानकारी खुद कंपनी ने शेयर की है. साथ ही वीवो ने बताया है कि इसमें 50MP का ZEISS कैमरा मिलेगा और 7200mAh की बैटरी के साथ 90W का फ्लैश चार्जर भी दिया जाएगा. इसको ऐमेजॉन इंडिया पर लिस्ट किया है, जिससे इसके बारे में डिटेल्स में जानकारी दी है.",
+    "source_url": "https://www.aajtak.in/technology/tech-news/story/vivo-v80-set-to-launch-in-india-on-october-6-with-7200mah-battery-50mp-zeiss-cameras-ttecr-dskc-2650663-2026-09-23?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-23T15:03:40+05:30",
-    "hook": "गणपति बप्पा की ऐसी सजावट आपने कभी नहीं देखी होगी!",
-    "script_hi": "गुजरात के अमरेली में गणपति बप्पा की अनोखी सजावट लोगों के आकर्षण का केंद्र बनी हुई है। सावरकुंडला में सद्भावना ग्रुप ने गणेश प्रतिमा को करीब पच्चीस लाख रुपये की भारतीय करेंसी और अमेरिकी डॉलर से सजाया है। मुकुट में पांच सौ रुपये और गले में दो सौ रुपये के नोट लगाए गए हैं।",
-    "tts_text_hi": "गुजरात के अमरेली में गणपति बप्पा की अनोखी सजावट लोगों के आकर्षण का केंद्र बनी हुई है। सावरकुंडला में सद्भावना ग्रुप ने गणेश प्रतिमा को करीब पच्चीस लाख रुपये की भारतीय करेंसी और अमेरिकी डॉलर से सजाया है। मुकुट में पांच सौ रुपये और गले में दो सौ रुपये के नोट लगाए गए हैं।",
-    "title": "अमरेली में नोटों और डॉलर से सजे गणपति बप्पा",
-    "caption": "गुजरात के अमरेली में पच्चीस लाख रुपये की करेंसी और डॉलर से सजाए गए गणपति बप्पा, देखें अनोखी तस्वीर।",
+    "published": "2026-09-23T20:30:27+05:30",
+    "hook": "सात हजार दो सौ एमएएच बैटरी वाला नया वीवो फोन!",
+    "script_hi": "वीवो का नया फोन भारत में छह अक्तूबर को लॉन्च होने जा रहा है, जिसका लुक आईफोन जैसा है। इसमें पचास मेगापिक्सल का ज़ीस कैमरा और सात हजार दो सौ एमएएच की दमदार बैटरी के साथ नब्बे वॉट का फ्लैश चार्जर मिलेगा। इसे ऐमेजॉन इंडिया पर लिस्ट किया गया है।",
+    "tts_text_hi": "वीवो का नया फोन भारत में छह अक्तूबर को लॉन्च होने जा रहा है, जिसका लुक आईफोन जैसा है। इसमें पचास मेगापिक्सल का ज़ीस कैमरा और सात हजार दो सौ एमएएच की दमदार बैटरी के साथ नब्बे वॉट का फ्लैश चार्जर मिलेगा। इसे ऐमेजॉन इंडिया पर लिस्ट किया गया है।",
+    "title": "Vivo V80 Launch in India with 7200mAh Battery",
+    "caption": "Vivo V80 भारत में छह अक्तूबर को लॉन्च होगा, जिसमें मिलेगी 7200mAh बैटरी और 50MP ZEISS कैमरा।",
     "hashtags": [
-      "GaneshChaturthi",
-      "GujaratNews",
-      "Amreli",
-      "GanpatiBappa",
-      "ViralNews",
-      "IndiaNews"
+      "#VivoV80",
+      "#VivoIndia",
+      "#TechNews",
+      "#Smartphone",
+      "#AmazonIndia",
+      "#TechUpdates"
     ],
     "visual_queries": [
-      "India Hindu temple idol",
-      "Indian currency cash decoration India",
-      "US dollar notes India"
+      "modern smartphone India",
+      "smartphone camera lens India",
+      "online shopping India ecommerce"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e169434733.jpg",
-        "source": "wikimedia_commons",
-        "query": "India Hindu temple idol",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6484708/pexels-photo-6484708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12997975/pexels-photo-12997975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian currency cash decoration India",
-        "credit": "Mister Fotofreak",
+        "query": "modern smartphone India",
+        "credit": "Lens Of Pritam",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14820439/pexels-photo-14820439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16263134/pexels-photo-16263134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US dollar notes India",
-        "credit": "Jonathan Borba",
+        "query": "smartphone camera lens India",
+        "credit": "Umang & Meet",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_9351b65da9.jpg",
-        "source": "wikimedia_commons",
-        "query": "Indian festival celebration crowd",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_e013b7781f.jpg",
-        "source": "wikimedia_commons",
-        "query": "Hindu temple decoration lights",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8576783/pexels-photo-8576783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6214364/pexels-photo-6214364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian currency cash stack",
-        "credit": "Ravi Roshan",
+        "query": "online shopping India ecommerce",
+        "credit": "Nataliya Vaitkevich",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_f9ec64d2e6.jpg",
-        "source": "wikimedia_commons",
-        "query": "Ganesha festival street India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/27668946/pexels-photo-27668946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "new smartphone release India",
+        "credit": "Adriel Arevalo",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6611918/pexels-photo-6611918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person holding big smartphone",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3272280/pexels-photo-3272280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mobile phone battery charging",
+        "credit": "Szabó Viktor",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17094502/pexels-photo-17094502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smartphone unboxing video",
+        "credit": "Amar  Preciado",
         "duration_sec": 4.3
       }
     ],
@@ -389,135 +562,55 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "करोड़ों के नोटों और डॉलर से सजे अमरेली के बप्पा! 💵 गणेश चतुर्थी",
-        "caption": "करोड़ों के नोट और अमेरिकी डॉलर... गणपति बप्पा की ऐसी सजावट शायद ही कभी देखी होगी! 💰\n\nगुजरात के अमरेली में सजे इन अनोखे बप्पा के दर्शन करने के लिए भक्तों की भारी भीड़ उमड़ रही है। पंडाल में नोटों की गद्दियों से भव्य श्रृंगार किया गया है।\n\nपूरी कहानी देखें और बताएं, आपको यह सजावट कैसी लगी?\n\n#AmreliGanpati #GaneshChaturthi2024 #ViralGanpati #GujaratNews #BappaDarshan"
+        "title": "7200mAh बैटरी और iPhone जैसा लुक! Vivo का नया फोन 📱🔥",
+        "caption": "सात हजार दो सौ एमएएच बैटरी वाला नया वीवो फोन! 🔋\n\nआईफोन जैसे प्रीमियम लुक और दमदार फीचर्स के साथ वीवो जल्द ही अपना नया स्मार्टफोन मार्केट में उतारने की तैयारी कर रहा है। कम कीमत में लंबी बैटरी लाइफ चाहने वालों के लिए यह एक बड़ा सरप्राइज हो सकता है।\n\nआपको इसकी बैटरी क्षमता कैसी लगी? कमेंट में बताएं और पूरी डिटेल के लिए वीडियो देखें! 👇\n\n#VivoV80 #VivoSmartphone #TechNews #MobileLaunch #7200mAhBattery"
       },
       "instagram": {
         "title": null,
-        "caption": "करोड़ों के नोट और डॉलर से सजा ऐसा पंडाल कभी देखा है? 💵✨\n\nगुजरात के अमरेली में बप्पा का यह रूप सोशल मीडिया पर तेजी से वायरल हो रहा है। नोटों की गद्दियों से सजे इन गणपति के दर्शन करने दूर-दूर से लोग पहुंच रहे हैं।\n\nवीडियो को शेयर करें और कमेंट में बताएं बप्पा का यह श्रृंगार आपको कैसा लगा। 👇\n\n#AmreliGanpati #GaneshChaturthi2024 #ViralGanpati #GujaratNews #BappaDarshan"
+        "caption": "सात हजार दो सौ एमएएच बैटरी वाला नया वीवो फोन! 🔋\n\nआईफोन जैसा डिजाइन और इतनी भारी बैटरी? वीवो का यह नया फोन आते ही मार्केट में हलचल मचाने वाला है।\n\nअपने टेक लवर दोस्तों के साथ शेयर करना न भूलें! 📲✨\n\n#VivoV80 #VivoSmartphone #TechNews #MobileLaunch #7200mAhBattery"
       },
       "facebook": {
         "title": null,
-        "caption": "जब गणपति बप्पा के दरबार में बिछ गए करोड़ों रुपए और डॉलर! 💵✨\n\nगुजरात के अमरेली से गणेश चतुर्थी का एक ऐसा वीडियो सामने आया है जिसे देखकर हर कोई हैरान है। यहाँ बप्पा की भव्य मूर्ति को नोटों और अमेरिकी डॉलर से सजाया गया है। इस अनोखे और महंगे श्रृंगार को देखने के लिए पंडाल में भक्तों का तांता लगा हुआ है।\n\nआपकी इस अनोखी सजावट पर क्या राय है? कमेंट में जरूर बताएं और वीडियो पूरा देखें।\n\n#AmreliGanpati #GaneshChaturthi2024 #ViralGanpati #GujaratNews #BappaDarshan"
+        "caption": "सात हजार दो सौ एमएएच बैटरी वाला नया वीवो फोन! 🔋\n\nजब फोन का लुक आईफोन जैसा हो और बैटरी इतनी पावरफुल, तो बार-बार चार्जिंग की टेंशन खत्म समझो। वीवो के इस अपकमिंग स्मार्टफोन की चर्चा इस समय हर तरफ हो रही है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#VivoV80 #VivoSmartphone #TechNews #MobileLaunch #7200mAhBattery"
       },
       "hashtags": [
-        "AmreliGanpati",
-        "GaneshChaturthi2024",
-        "ViralGanpati",
-        "GujaratNews",
-        "BappaDarshan"
+        "VivoV80",
+        "VivoSmartphone",
+        "TechNews",
+        "MobileLaunch",
+        "7200mAhBattery"
       ]
     },
-    "audio_path": "audio/gujarat_ganpati_decoration_notes_dollars.wav",
-    "audio_duration_sec": 20.58
+    "audio_path": "audio/vivo_v80_7200mah_battery_launch.wav",
+    "audio_duration_sec": 17.8
   },
   {
-    "topic_label": "jyotiraditya_scindia_makes_dosa_bengaluru_cafe",
-    "virality_score": 7,
-    "reason": "Viral video of union minister Jyotiraditya Scindia playing chef and making dosas at a popular Bengaluru cafe.",
+    "topic_label": "ipl_2026_auction_returns_to_india",
+    "virality_score": 8,
+    "reason": "Exciting cricket news for fans as the IPL auction officially returns to India after years abroad.",
     "region": "india",
-    "headline": "Jyotiraditya Scindia dorns chef's role, makes ‘hot dosas, filter coffee’ at Rameshwaram Cafe in Bengaluru",
-    "source_summary": "Jyotiraditya Scindia was seen pouring dosa batter onto the hot tawa and spreading it into an oval shape as the staff clapped for him and recorded videos.",
-    "source_url": "https://www.hindustantimes.com/india-news/jyotiraditya-scindia-dorns-chefs-role-makes-hot-dosas-filter-coffee-at-rameshwaram-cafe-in-bengaluru-101790146437049.html",
-    "source_name": "Hindustan Times - India News",
-    "published": "Wed, 23 Sep 2026 15:41:35 +0530",
-    "hook": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने बेंगलुरु के मशहूर रामेश्वरम कैफे में खुद डोसा बनाया!",
-    "script_hi": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने बेंगलुरु के रामेश्वरम कैफे में एक नया अंदाज़ दिखाया। वह तवे पर डोसा बैटर फैलाते और फ़िल्टर कॉफ़ी बनाते नज़र आए। इस दौरान कैफ़े का स्टाफ़ उनके लिए ताली बजाता दिखा।",
-    "tts_text_hi": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने बेंगलुरु के रामेश्वरम कैफे में एक नया अंदाज़ दिखाया। वह तवे पर डोसा बैटर फैलाते और फ़िल्टर कॉफ़ी बनाते नज़र आए। इस दौरान कैफ़े का स्टाफ़ उनके लिए ताली बजाता दिखा।",
-    "title": "ज्योतिरादित्य सिंधिया बने शेफ, बेंगलुरु के रामेश्वरम कैफे में बनाया डोसा",
-    "caption": "केंद्रीय मंत्री ज्योतिरादित्य सिंधिया ने बेंगलुरु के प्रसिद्ध रामेश्वरम कैफे में शेफ की भूमिका निभाई और खुद गरमा-गरम डोसा और फ़िल्टर कॉफ़ी बनाई।",
-    "hashtags": [
-      "JyotiradityaScindia",
-      "RameshwaramCafe",
-      "Bengaluru",
-      "ViralVideo",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian politician portrait",
-      "popular restaurant India",
-      "making dosa India",
-      "filter coffee India"
-    ],
-    "named_person": "Jyotiraditya Scindia",
-    "named_person_hi": "ज्योतिरादित्य सिंधिया",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Story is based on a specific viral moment at a specific location requiring the actual real video/photos of Jyotiraditya Scindia at the cafe, which generic stock footage cannot replace.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_f09eeceed3.jpg",
-        "source": "wikimedia",
-        "query": "Jyotiraditya Scindia",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17108210/pexels-photo-17108210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "south indian restaurant kitchen",
-        "credit": "rael frames",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/26076354/pexels-photo-26076354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "popular restaurant India",
-        "credit": "Jorryn Morais",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35351659/pexels-photo-35351659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "making dosa India",
-        "credit": "prasanth silpy",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33932441/pexels-photo-33932441.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "filter coffee India",
-        "credit": "Baljinder Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "air_india_air_hostess_letter_to_passenger",
-    "virality_score": 7,
-    "reason": "Heartwarming viral story of an Air India air hostess writing an inspiring letter about loneliness to a content creator.",
-    "region": "india",
-    "headline": "‘डियर साहिल...’, फ्लाइट में एयर होस्टेस ने पैसेंजर को लिखा खत",
-    "source_summary": "अजनबियों से चिट्ठी मांगने निकले इंट्रोवर्ट कंटेंट क्रिएटर को एयर इंडिया की एयर होस्टेस ने ऐसा खत लिखा, जिसमें अकेलेपन और खुद की कंपनी में खुश रहना सीखने की कहानी थी.",
-    "source_url": "https://www.aajtak.in/trending/story/air-india-air-hostess-writes-letter-to-introvert-travel-creator-tstf-dskc-2651177-2026-09-23?utm_source=rssfeed",
+    "headline": "IPL ऑक्शन को लेकर BCCI का ऐलान...डेट और वेन्यू का हुआ खुलासा!",
+    "source_summary": "इस साल आईपीएल का ऑक्शन दिसंबर में गोवा में आयोजित किया जाएगा. पिछले कुछ सालों से विदेशों में ऑक्शन होते रहे हैं. लेकिन एक बार फिर भारत में ऑक्शन की वापसी हो गई है. बीसीसीआई के इस फैसले से फैन्स भी बेहद खुश हैं.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/when-is-ipl-2027-auction-bcci-finalises-dates-for-upcoming-season-player-bidding-event-aksp-dskc-2651151-2026-09-23?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-23T17:27:33+05:30",
-    "hook": "फ्लाइट में एयर होस्टेस ने पैसेंजर को दिया ऐसा खत!",
-    "script_hi": "फ्लाइट में एयर होस्टेस ने पैसेंजर को लिखा एक हैरान करने वाला खत। एक इंट्रोवर्ट कंटेंट क्रिएटर जब अजनबियों से चिट्ठी मांगने निकला, तब एयर इंडिया की एयर होस्टेस ने उसे यह खास खत दिया। इसमें अकेलेपन और खुद की कंपनी में खुश रहने की खूबसूरत कहानी बयां की गई है।",
-    "tts_text_hi": "फ्लाइट में एयर होस्टेस ने पैसेंजर को लिखा एक हैरान करने वाला खत। एक इंट्रोवर्ट कंटेंट क्रिएटर जब अजनबियों से चिट्ठी मांगने निकला, तब एयर इंडिया की एयर होस्टेस ने उसे यह खास खत दिया। इसमें अकेलेपन और खुद की कंपनी में खुश रहने की खूबसूरत कहानी बयां की गई है।",
-    "title": "एयर इंडिया की एयर होस्टेस ने पैसेंजर को लिखा खत",
-    "caption": "फ्लाइट में एयर होस्टेस ने पैसेंजर को लिखा दिल छू लेने वाला खत, जानिए क्या है पूरी कहानी।",
+    "published": "2026-09-23T16:49:16+05:30",
+    "hook": "आईपीएल प्रेमियों के लिए बड़ी खुशखबरी, भारत लौट रहा है ऑक्शन!",
+    "script_hi": "आईपीएल ऑक्शन को लेकर बीसीसीआई ने बड़ा ऐलान कर दिया है. इस साल आईपीएल का ऑक्शन दिसंबर महीने में गोवा में आयोजित किया जाएगा. पिछले कुछ सालों से यह आयोजन विदेशों में हो रहा था, लेकिन अब एक बार फिर भारत में इसकी वापसी हो गई है. बीसीसीआई के इस फैसले से क्रिकेट फैंस बेहद खुश हैं.",
+    "tts_text_hi": "आईपीएल ऑक्शन को लेकर बीसीसीआई ने बड़ा ऐलान कर दिया है. इस साल आईपीएल का ऑक्शन दिसंबर महीने में गोवा में आयोजित किया जाएगा. पिछले कुछ सालों से यह आयोजन विदेशों में हो रहा था, लेकिन अब एक बार फिर भारत में इसकी वापसी हो गई है. बीसीसीआई के इस फैसले से क्रिकेट फैंस बेहद खुश हैं.",
+    "title": "IPL 2025 Auction in Goa: बीसीसीआई का बड़ा ऐलान, भारत में होगा आईपीएल ऑक्शन!",
+    "caption": "आईपीएल ऑक्शन को लेकर बीसीसीआई ने बड़ा ऐलान कर दिया है! इस साल दिसंबर में गोवा में होगा ऑक्शन। जानिए पूरी डिटेल।",
     "hashtags": [
-      "#AirIndia",
-      "#AirHostess",
-      "#ViralNews",
-      "#Trending",
-      "#IndiaNews"
+      "IPL2025",
+      "IPLAuction",
+      "BCCI",
+      "Goa",
+      "CricketNews",
+      "IndianCricket"
     ],
     "visual_queries": [
-      "commercial airplane interior India",
-      "Air India cabin crew India",
-      "writing letter on airplane India",
-      "thoughtful traveler India"
+      "Indian cricket stadium India",
+      "Goa beach resort India",
+      "cricket fan celebration India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -528,179 +621,237 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36023562/pexels-photo-36023562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane interior India",
-        "credit": "Leonard Richards",
+        "query": "Indian cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35916755/pexels-photo-35916755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Goa beach resort India",
+        "credit": "Ritesh Mitha",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket fan celebration India",
+        "credit": "Ajay Parab",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33658226/pexels-photo-33658226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "luxury hotel resort India",
+        "credit": "Abhishek  Navlakha",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5378695/pexels-photo-5378695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "business meeting hotel lobby",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket trophy display showcase",
+        "credit": "Monojit Dutta",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15325472/pexels-photo-15325472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports press conference India",
+        "credit": "Luis Quintero",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "IPL 2025 Auction: भारत में होगा इस बार का ऑक्शन, बीसीसीआई का बड़ा ऐलान! 🏏",
+        "caption": "विदेश नहीं, इस बार देश में ही सजेगा आईपीएल ऑक्शन का बाजार! 🇮🇳\n\nबीसीसीआई ने आईपीएल 2025 के ऑक्शन की तारीख और वेन्यू का आधिकारिक ऐलान कर दिया है। इस बार मेगा नीलामी गोवा में होने जा रही है, जिसे लेकर फैंस में भारी उत्साह है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और कमेंट में बताएं आपकी फेवरेट टीम कौन सी है?\n\n#IPL2025 #IPL2025Auction #BCCI #CricketNews #GoaAuction"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "विदेश नहीं, इस बार देश में ही सजेगा आईपीएल ऑक्शन का बाजार! 🇮🇳\n\nबीसीसीआई ने आईपीएल 2025 के ऑक्शन की तारीख और वेन्यू का आधिकारिक ऐलान कर दिया है। इस बार की नीलामी बेहद रोमांचक होने वाली है।\n\nपूरी कहानी देखें और अपने दोस्तों के साथ शेयर करें!\n\n#IPL2025 #IPL2025Auction #BCCI #CricketNews #GoaAuction"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "विदेश नहीं, इस बार देश में ही सजेगा आईपीएल ऑक्शन का बाजार! 🇮🇳\n\nबीसीसीआई ने आखिरकार आईपीएल 2025 के ऑक्शन की तारीख और वेन्यू से पर्दा उठा दिया है। इस बार की नीलामी देश के अंदर ही होगी, जिससे फैंस का उत्साह और भी बढ़ गया है। किस टीम पर लगेगी सबसे बड़ी बोली? जानिए पूरी बात इस वीडियो में।\n\nपूरी कहानी देखें और वीडियो को लाइक करना न भूलें।\n\n#IPL2025 #IPL2025Auction #BCCI #CricketNews #GoaAuction"
+      },
+      "hashtags": [
+        "IPL2025",
+        "IPL2025Auction",
+        "BCCI",
+        "CricketNews",
+        "GoaAuction"
+      ]
+    },
+    "audio_path": "audio/ipl_2026_auction_returns_to_india.wav",
+    "audio_duration_sec": 21.63
+  },
+  {
+    "topic_label": "moradabad_ghee_tanker_overturn_loot_viral",
+    "virality_score": 8,
+    "reason": "Viral incident in Moradabad where people rushed with buckets to loot vanaspati ghee from an overturned tanker.",
+    "region": "india",
+    "headline": "हाईवे पर बहने लगा घी; वीडियो: डिब्बे-बाल्टी लेकर दौड़े लोग, पुलिस ने रोक दिया ट्रैफिक, नजारा देख सब दंग",
+    "source_summary": "यूपी के मुरादाबाद जिले के कटघर क्षेत्र में रामगंगा पुल पर मंगलवार की दोपहर करीब दो बजे वनस्पति घी से लदा कैंटर पलट गया।",
+    "source_url": "https://www.amarujala.com/uttar-pradesh/moradabad/tanker-loaded-with-ghee-overturns-on-highway-in-moradabad-2026-09-23",
+    "source_name": "Amar Ujala",
+    "published": "Wed, 23 Sep 2026 11:00:49 +0530",
+    "hook": "उत्तर प्रदेश के मुरादाबाद में हाईवे पर पलटा घी से भरा कैंटर!",
+    "script_hi": "उत्तर प्रदेश के मुरादाबाद जिले में रामगंगा पुल पर मंगलवार की दोपहर करीब दो बजे वनस्पति घी से लदा एक कैंटर पलट गया। हाईवे पर घी बहने लगा तो लोग डिब्बे और बाल्टी लेकर लूटने दौड़ पड़े। हालात संभालने के लिए पुलिस को ट्रैफिक रोकना पड़ा। इस अनोखे नजारे को देखकर सभी लोग दंग रह गए।",
+    "tts_text_hi": "उत्तर प्रदेश के मुरादाबाद जिले में रामगंगा पुल पर मंगलवार की दोपहर करीब दो बजे वनस्पति घी से लदा एक कैंटर पलट गया। हाईवे पर घी बहने लगा तो लोग डिब्बे और बाल्टी लेकर लूटने दौड़ पड़े। हालात संभालने के लिए पुलिस को ट्रैफिक रोकना पड़ा। इस अनोखे नजारे को देखकर सभी लोग दंग रह गए।",
+    "title": "मुरादाबाद हाईवे पर पलटा घी का कैंटर",
+    "caption": "उत्तर प्रदेश के मुरादाबाद में रामगंगा पुल पर घी से भरा कैंटर पलटने के बाद हाईवे पर घी की नदियां बह निकलीं। डिब्बे और बाल्टी लेकर लोग टूट पड़े।",
+    "hashtags": [
+      "Moradabad",
+      "UttarPradesh",
+      "ViralVideo",
+      "HighwayNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "India highway truck accident",
+      "Indian police controlling traffic",
+      "crowd gathering India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story centers on a specific viral local incident and video showing the overturned ghee tanker, which requires the actual real footage or photo to be added manually rather than generic stock B-roll.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39650470/pexels-photo-39650470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police controlling traffic",
+        "credit": "Tri Martono AS",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12692959/pexels-photo-12692959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38953147/pexels-photo-38953147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "flight attendant writing note",
-        "credit": "Pew Nguyen",
+        "query": "crowd gathering India",
+        "credit": "Prashant  Mevada",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "hurun_india_rich_list_shah_rukh_salman",
+    "virality_score": 7,
+    "reason": "Entertainment milestone with Shah Rukh Khan topping the rich list and Salman Khan's entry.",
+    "region": "india",
+    "headline": "शाहरुख की कायम बादशाहत, सबसे अमीर की लिस्ट में सलमान की एंट्री",
+    "source_summary": "हुरुन इंडिया रिच लिस्ट 2026 जारी हो गई है जिसमें शाहरुख खान 10,000 करोड़ रुपये की दौलत के साथ सबसे अमीर भारतीय एक्टर बने हैं.\nहालांकि, उनकी नेट वर्थ में पिछले साल की तुलना में 2,490 करोड़ रुपये की गिरावट आई है.",
+    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/shah-rukh-khan-tops-hurun-india-list-of-bollywood-richest-celebrities-10000-crore-net-worth-salman-khan-entry-amitabh-bachchan-tmovb-dskc-2651391-2026-09-23?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-23T22:35:17+05:30",
+    "hook": "शाहरुख खान बने देश के सबसे अमीर अभिनेता!",
+    "script_hi": "हुरुन इंडिया रिच लिस्ट 2026 जारी हो गई है! शाहरुख खान दस हजार करोड़ रुपये की कुल संपत्ति के साथ सबसे अमीर भारतीय एक्टर बन गए हैं। हालांकि, उनकी नेट वर्थ में पिछले साल की तुलना में दो हजार चार सौ नब्बे करोड़ रुपये की गिरावट आई है। इस सूची में सलमान खान की भी एंट्री हो गई है।",
+    "tts_text_hi": "हुरुन इंडिया रिच लिस्ट दो हजार छब्बीस जारी हो गई है! शाहरुख खान दस हजार करोड़ रुपये की कुल संपत्ति के साथ सबसे अमीर भारतीय एक्टर बन गए हैं। हालांकि, उनकी नेट वर्थ में पिछले साल की तुलना में दो हजार चार सौ नब्बे करोड़ रुपये की गिरावट आई है। इस सूची में सलमान खान की भी एंट्री हो गई है।",
+    "title": "शाहरुख खान बने सबसे अमीर एक्टर",
+    "caption": "हुरुन इंडिया रिच लिस्ट 2026 में शाहरुख खान सबसे अमीर भारतीय अभिनेता बने हैं, कुल संपत्ति दस हजार करोड़ रुपये।",
+    "hashtags": [
+      "ShahRukhKhan",
+      "SalmanKhan",
+      "HurunIndia",
+      "BollywoodNews",
+      "RichList",
+      "EntertainmentNews"
+    ],
+    "visual_queries": [
+      "Indian billionaire celebrity",
+      "Bollywood film set India",
+      "luxury home Mumbai India"
+    ],
+    "named_person": "Shah Rukh Khan",
+    "named_person_hi": "शाहरुख खान",
+    "secondary_persons": [
+      "Salman Khan"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "शाहरुख खान",
+        "source": "fallback",
+        "query": "Shah Rukh Khan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/24399484/pexels-photo-24399484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian billionaire celebrity",
+        "credit": "Aaffaq Khan",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10402278/pexels-photo-10402278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39015138/pexels-photo-39015138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "person reading book flight",
-        "credit": "Maxyne  Barcel",
+        "query": "Bollywood film set India",
+        "credit": "Uday Ahir",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37835755/pexels-photo-37835755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14042835/pexels-photo-14042835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "thoughtful traveler India",
-        "credit": "Harsh  Kukadiya",
+        "query": "wealthy Indian actor lifestyle",
+        "credit": "Ajay Gill",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "फ्लाइट में एयर होस्टेस ने पैसेंजर को थमाया खत! ✈️",
-        "caption": "फ्लाइट में एयर होस्टेस ने पैसेंजर को दिया ऐसा खत, जिसे पढ़कर हर कोई हैरान रह गया! ✈️\n\nजब इस पैसेंजर ने एयर इंडिया की फ्लाइट में सफर के दौरान अपना नोट खोला, तो अंदर का माजरा ही कुछ अलग था। सोशल मीडिया पर अब यह पर्ची तेजी से वायरल हो रही है।\n\nआपकी नजर में एयर होस्टेस का यह कदम सही था या गलत? कमेंट में बताएं और पूरी कहानी देखें।\n\n#AirIndia #AirHostess #ViralNews #FlightIncident #Trending"
+        "title": "शाहरुख खान बने देश के सबसे अमीर अभिनेता! 👑",
+        "caption": "शाहरुख खान बने देश के सबसे अमीर अभिनेता! 👑\n\nइतनी है किंग खान की नेट वर्थ, लिस्ट में सलमान खान की भी हुई धमाकेदार एंट्री।\n\nबॉलीवुड के इन सितारों के पास कुल कितनी संपत्ति है? पूरी कहानी देखें! 👇\n\n#ShahRukhKhan #SalmanKhan #BollywoodNews #RichestActor #EntertainmentNews"
       },
       "instagram": {
         "title": null,
-        "caption": "फ्लाइट में एयर होस्टेस ने पैसेंजर को दिया ऐसा खत! ✈️\n\nएयर इंडिया की इस उड़ान में जो हुआ, उसकी किसी ने उम्मीद नहीं की थी। पैसेंजर को थमाया गया यह नोट अब इंटरनेट पर चर्चा का विषय बन गया है।\n\nइस पर आपकी क्या राय है? दोस्तों के साथ शेयर करें और पूरी कहानी जानें।\n\n#AirIndia #AirHostess #ViralNews #FlightIncident #Trending"
+        "caption": "शाहरुख खान बने देश के सबसे अमीर अभिनेता! 👑 लिस्ट में सलमान खान की एंट्री ने चौंकाया।\n\nबॉलीवुड के बादशाह ने कमाई के मामले में सबको पीछे छोड़ दिया है। देखिए पूरी लिस्ट।\n\nपूरी कहानी देखें और शेयर करें! 🔁\n\n#ShahRukhKhan #SalmanKhan #BollywoodNews #RichestActor #EntertainmentNews"
       },
       "facebook": {
         "title": null,
-        "caption": "फ्लाइट में एयर होस्टेस ने पैसेंजर को थमाया एक ऐसा खत, जिसे देखकर सब चौंक गए! ✈️\n\nमामला एयर इंडिया की एक फ्लाइट का है, जहां सफर के दौरान कुछ ऐसा हुआ कि एयर होस्टेस ने पैसेंजर के नाम एक पर्सनल नोट लिख डाला। यह वाकया अब सोशल मीडिया पर हर जगह छाया हुआ है और लोग इस पर तरह-तरह की बातें कर रहे हैं।\n\nक्या एयर होस्टेस को ऐसा करना चाहिए था? हमें कमेंट करके अपनी राय जरूर बताएं और वीडियो पूरा देखें।\n\n#AirIndia #AirHostess #ViralNews #FlightIncident #Trending"
+        "caption": "शाहरुख खान बने देश के सबसे अमीर अभिनेता! 👑\n\nबॉलीवुड के किंग खान ने संपत्ति के मामले में नया रिकॉर्ड बनाया है, वहीं इस लिस्ट में सलमान खान की एंट्री ने भी सुर्खियां बटोरी हैं। जानिए किस स्टार के पास है कितनी दौलत।\n\nपूरी कहानी देखें और अपनी राय बताएं! 👇\n\n#ShahRukhKhan #SalmanKhan #BollywoodNews #RichestActor #EntertainmentNews"
       },
       "hashtags": [
-        "AirIndia",
-        "AirHostess",
-        "ViralNews",
-        "FlightIncident",
-        "Trending"
+        "ShahRukhKhan",
+        "SalmanKhan",
+        "BollywoodNews",
+        "RichestActor",
+        "EntertainmentNews"
       ]
     },
-    "audio_path": "audio/air_india_air_hostess_letter_to_passenger.wav",
-    "audio_duration_sec": 10.72
-  },
-  {
-    "topic_label": "south_africa_mass_shooting_house_deaths",
-    "virality_score": 6,
-    "reason": "Shocking global mass shooting incident in South Africa resulting in eleven deaths, keeping within the 10% global mix limit.",
-    "region": "global",
-    "headline": "Eleven killed in mass shooting at house in South Africa",
-    "source_summary": "One of those killed is believed to be a pregnant woman, police said.",
-    "source_url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Wed, 23 Sep 2026 07:02:52 GMT",
-    "hook": "दक्षिण अफ्रीका में दिल दहला देने वाली घटना!",
-    "script_hi": "दक्षिण अफ्रीका के एक घर में सामूहिक गोलीबारी हुई, जिसमें ग्यारह लोगों की मौत हो गई। पुलिस के अनुसार मरने वालों में एक गर्भवती महिला भी शामिल है।",
-    "tts_text_hi": "दक्षिण अफ्रीका के एक घर में सामूहिक गोलीबारी हुई, जिसमें ग्यारह लोगों की मौत हो गई। पुलिस के अनुसार मरने वालों में एक गर्भवती महिला भी शामिल है।",
-    "title": "दक्षिण अफ्रीका में सामूहिक गोलीबारी, ग्यारह लोगों की मौत",
-    "caption": "दक्षिण अफ्रीका में एक घर पर हुई गोलीबारी में ग्यारह लोगों की जान चली गई। पुलिस मामले की जांच कर रही है।",
-    "hashtags": [
-      "SouthAfrica",
-      "MassShooting",
-      "BreakingNews",
-      "WorldNews"
-    ],
-    "visual_queries": [
-      "South Africa house exterior",
-      "police investigation crime scene",
-      "police tape barrier"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13408564/pexels-photo-13408564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "South Africa house exterior",
-        "credit": "Yiğit  KARAALİOĞLU",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481294/pexels-photo-10481294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation crime scene",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481285/pexels-photo-10481285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police tape barrier",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10464809/pexels-photo-10464809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police investigation exterior",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28368185/pexels-photo-28368185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "yellow crime scene tape",
-        "credit": "Boys in Bristol Photography",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6843125/pexels-photo-6843125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "South Africa neighborhood",
-        "credit": "Band of Travellers",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10543088/pexels-photo-10543088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police lights emergency",
-        "credit": "Gabriel Hohol",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "दक्षिण अफ्रीका में नरसंहार: एक ही घर में 11 लोगों की गोली मारकर हत्या",
-        "caption": "एक ही घर में अंधाधुंध गोलियां चलीं और देखते ही देखते 11 लोगों की मौत हो गई। 🚨\n\nदक्षिण अफ्रीका के एक छोटे से इलाके में हुई इस सामूहिक गोलीबारी ने पूरे देश को दहला दिया है। पुलिस हमलावरों की तलाश में जुटी है लेकिन अभी तक कोई सुराग नहीं मिला है।\n\nक्या आपसी रंजिश थी या इसके पीछे कोई बड़ी साजिश? पूरी कहानी जानने के लिए वीडियो पूरा देखें। 👇\n\n#SouthAfrica #MassShooting #InternationalNews #CrimeNews #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दक्षिण अफ्रीका के एक घर में घुसकर 11 लोगों को गोलियों से भून दिया गया। 💔\n\nवारदात के बाद से इलाके में मातम और डर का माहौल है। पुलिस के हाथ अभी भी खाली हैं।\n\nआपकी इस घटना पर क्या राय है? कमेंट में बताएं।\n\n#SouthAfrica #MassShooting #InternationalNews #CrimeNews #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सोचिए, कोई घर के अंदर बैठा हो और अचानक गोलियों की बौछार हो जाए। दक्षिण अफ्रीका में एक ऐसा ही दिल दहला देने वाला मामला सामने आया है जहां एक ही घर में 11 लोगों की निर्मम हत्या कर दी गई। 🚨\n\nघटना की जानकारी मिलते ही पुलिस और प्रशासन में हड़कंप मच गया। शुरुआती जांच में यह किसी रंजिश का मामला लग रहा है, लेकिन असली वजह का खुलासा अभी बाकी है। \n\nवीडियो में देखें इस खौफनाक वारदात से जुड़ी पूरी डिटेल।\n\n#SouthAfrica #MassShooting #InternationalNews #CrimeNews #BreakingNews"
-      },
-      "hashtags": [
-        "SouthAfrica",
-        "MassShooting",
-        "InternationalNews",
-        "CrimeNews",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/south_africa_mass_shooting_house_deaths.wav",
-    "audio_duration_sec": 10.24
+    "audio_path": "audio/hurun_india_rich_list_shah_rukh_salman.wav",
+    "audio_duration_sec": 21.18
   }
 ]
