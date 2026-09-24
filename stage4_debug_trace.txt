@@ -1,7 +1,10 @@
-ready_labels: ['auto_driver_son_becomes_doctor_kgmu_success', 'govinda_wife_sunita_ahuja_controversial_statement', 'xi_jinping_us_visit_trump_protocol_break', 'xi_jinping_us_visit_trump_welcome']
+ready_labels: ['akhilesh_yadav_pda_yatra_raebareli', 'bengaluru_ceo_hiring_ban_north_indian_men', 'oman_coast_commercial_ship_attack_indian_death', 'roshibina_devi_asian_games_silver_medal']
 
-xi_jinping_us_visit_trump_welcome: SUCCESS -> video_path=videos/xi_jinping_us_visit_trump_welcome.mp4 dur=25.62322
-xi_jinping_us_visit_trump_protocol_break: SUCCESS -> video_path=videos/xi_jinping_us_visit_trump_protocol_break.mp4 dur=23.487211
-auto_driver_son_becomes_doctor_kgmu_success: SUCCESS -> video_path=videos/auto_driver_son_becomes_doctor_kgmu_success.mp4 dur=29.687211
-vtr_bihar_tiger_attack_woman_fodder: SKIPPED (not in ready set)
-govinda_wife_sunita_ahuja_controversial_statement: SUCCESS -> video_path=videos/govinda_wife_sunita_ahuja_controversial_statement.mp4 dur=27.504218
+greater_noida_yamuna_expressway_bus_fire: SKIPPED (not in ready set)
+bengaluru_ceo_hiring_ban_north_indian_men: SUCCESS -> video_path=videos/bengaluru_ceo_hiring_ban_north_indian_men.mp4 dur=33.98322
+govinda_komal_rani_lalbagcha_raja_darshan: SKIPPED (not in ready set)
+roshibina_devi_asian_games_silver_medal: SUCCESS -> video_path=videos/roshibina_devi_asian_games_silver_medal.mp4 dur=31.22322
+us_navy_uss_lincoln_suicide_attempts: SKIPPED (not in ready set)
+akhilesh_yadav_pda_yatra_raebareli: SUCCESS -> video_path=videos/akhilesh_yadav_pda_yatra_raebareli.mp4 dur=31.034218
+srikakulam_rajdhani_express_student_accident: SKIPPED (not in ready set)
+oman_coast_commercial_ship_attack_indian_death: SUCCESS -> video_path=videos/oman_coast_commercial_ship_attack_indian_death.mp4 dur=19.756553

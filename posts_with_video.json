@@ -1,456 +1,222 @@
 [
   {
-    "topic_label": "xi_jinping_us_visit_trump_welcome",
+    "topic_label": "greater_noida_yamuna_expressway_bus_fire",
     "virality_score": 9,
-    "reason": "High-profile diplomatic meeting between US and China with Trump receiving Xi on the tarmac.",
+    "reason": "Major tragic accident on Yamuna Expressway with 9 deaths has massive local and national audience impact.",
     "region": "india",
-    "headline": "10 साल बाद US पहुंचे जिनपिंग, ट्रंप ने प्रोटोकॉल तोड़कर खुद किया स्वागत",
-    "source_summary": "चीनी राष्ट्रपति शी जिनपिंग अपनी पत्नी के साथ तीन दिवसीय दौरे पर अमेरिका पहुंचे हैं. यहां अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने उनका शानदार स्वागत किया. इस दौरान फर्स्ट लेडी मेलानिया ट्रंप भी एंड्रयूज एयर बेस पर नजर आईं. गुरुवार को जिनपिंग के लिए व्हाइस हाउस में स्पेशल डिनर भी होस्ट किया जाएगा.",
-    "source_url": "https://www.aajtak.in/world/story/china-president-xi-jinping-landed-us-trump-welcome-with-melania-ntc-drmt-dskc-2651476-2026-09-24?utm_source=rssfeed",
+    "headline": "ग्रेटर नोएडा: यमुना एक्सप्रेसवे पर स्लीपर बस बनी आग का गोला, 9 यात्रियों की दर्दनाक मौत",
+    "source_summary": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई, जिससे यात्रियों में अफरा तफरी मच गई. हादले में 9 यात्रियों की मौत हो गई है. वहीं कुछ यात्रियों ने कूदकर अपनी जान बचाई. बस में करीब 40 से 50 यात्री सवार थे.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-yamuna-expressway-sleeper-bus-fire-passengers-trapped-jewar-fire-department-ntc-agkp-rpti-2651484-2026-09-24?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-24T03:57:41+05:30",
-    "hook": "दस साल बाद अमेरिका की धरती पर उतरे शी जिनपिंग!",
-    "script_hi": "दस साल बाद अमेरिका की धरती पर उतरे चीनी राष्ट्रपति शी जिनपिंग, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रोटोकॉल तोड़कर किया जोरदार स्वागत। एंड्रयूज एयर बेस पर मेलानिया ट्रंप भी आईं नजर, व्हाइट हाउस में होगा स्पेशल डिनर।",
-    "tts_text_hi": "दस साल बाद अमेरिका की धरती पर उतरे चीनी राष्ट्रपति शी जिनपिंग, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रोटोकॉल तोड़कर किया जोरदार स्वागत। एंड्रयूज एयर बेस पर मेलानिया ट्रंप भी आईं नजर, व्हाइट हाउस में होगा स्पेशल डिनर।",
-    "title": "दस साल बाद अमेरिका पहुंचे शी जिनपिंग",
-    "caption": "दस साल के लंबे अंतराल के बाद चीनी राष्ट्रपति शी जिनपिंग अमेरिका पहुंचे हैं, जहां डोनाल्ड ट्रंप ने उनका विशेष स्वागत किया।",
+    "published": "2026-09-24T06:59:50+05:30",
+    "hook": "ग्रेटर नोएडा में यमुना एक्सप्रेसवे पर चलती बस बनी आग का गोला!",
+    "script_hi": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई। इस दर्दनाक हादसे में नौ यात्रियों की जलकर मौत हो गई है। बस में चालीस से पचास यात्री सवार थे, जिनमें से कुछ ने कूदकर अपनी जान बचाई।",
+    "tts_text_hi": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई। इस दर्दनाक हादसे में नौ यात्रियों की जलकर मौत हो गई है। बस में चालीस से पचास यात्री सवार थे, जिनमें से कुछ ने कूदकर अपनी जान बचाई।",
+    "title": "ग्रेटर नोएडा: यमुना एक्सप्रेसवे पर बस में आग, नौ यात्रियों की मौत",
+    "caption": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में आग लगने से नौ यात्रियों की दर्दनाक मौत हो गई। बस में चालीस से पचास लोग सवार थे।",
     "hashtags": [
-      "#XiJinping",
-      "#DonaldTrump",
-      "#USChina",
-      "#WhiteHouse",
-      "#NewsUpdate",
-      "#InternationalNews"
-    ],
-    "visual_queries": [],
-    "named_person": "Xi Jinping",
-    "named_person_hi": "शी जिनपिंग",
-    "secondary_persons": [
-      "Donald Trump",
-      "Melania Trump"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34735259/14724638_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "airport red carpet welcome",
-        "credit": "Abhishek  Shekhawat",
-        "source_duration_sec": 29,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10582083/10582083-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "white house official dinner",
-        "credit": "Nadin Sh",
-        "source_duration_sec": 22,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_ee4aab2796.jpg",
-        "source": "wikimedia",
-        "query": "Xi Jinping",
-        "credit": "Wikipedia",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_bdf284f68d.jpg",
-        "source": "wikimedia",
-        "query": "Donald Trump",
-        "credit": "Wikipedia",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_bdc62c84cb.jpg",
-        "source": "wikimedia",
-        "query": "Melania Trump",
-        "credit": "Wikipedia",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17836446/pexels-photo-17836446.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "state arrival red carpet",
-        "credit": "Plastic Lines",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30207172/pexels-photo-30207172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "american flag and us capitol",
-        "credit": "之吟 许",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "10 साल बाद अमेरिका पहुंचे जिनपिंग! ट्रंप ने तोड़ा प्रोटोकॉल 🇺🇸",
-        "caption": "दस साल में पहली बार जब शी जिनपिंग अमेरिकी जमीन पर उतरे, तो डोनाल्ड ट्रंप ने खुद आगे बढ़कर प्रोटोकॉल तोड़ दिया। 🤝\n\nदोनों नेताओं की यह मुलाकात दुनिया भर के कूटनीतिक समीकरणों को पूरी तरह बदल सकती है। पीछे चल रही खींचतान के बीच इस गर्मजोशी के मायने क्या हैं?\n\nपूरी कहानी वीडियो में देखें।\n\n#XiJinping #DonaldTrump #USChinaRelations #GlobalPolitics #InternationalNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "दस साल में पहली बार जब शी जिनपिंग अमेरिकी जमीन पर उतरे, तो डोनाल्ड ट्रंप ने खुद आगे बढ़कर प्रोटोकॉल तोड़ दिया। 🤝\n\nदोनों नेताओं की यह मुलाकात दुनिया भर के कूटनीतिक समीकरणों को पूरी तरह बदल सकती है। पूरी कहानी वीडियो में देखें।\n\n#XiJinping #DonaldTrump #USChinaRelations #GlobalPolitics #InternationalNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "दस साल में पहली बार जब शी जिनपिंग अमेरिकी जमीन पर उतरे, तो डोनाल्ड ट्रंप ने खुद आगे बढ़कर प्रोटोकॉल तोड़ दिया। 🤝\n\nग्लोबल पॉलिटिक्स में चल रही हलचल के बीच इस आमने-सामने की मुलाकात के मायने बहुत बड़े हैं। क्या यह किसी नए समझौते की शुरुआत है या कूटनीतिक चाल?\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#XiJinping #DonaldTrump #USChinaRelations #GlobalPolitics #InternationalNews"
-      },
-      "hashtags": [
-        "XiJinping",
-        "DonaldTrump",
-        "USChinaRelations",
-        "GlobalPolitics",
-        "InternationalNews"
-      ]
-    },
-    "audio_path": "audio/xi_jinping_us_visit_trump_welcome.wav",
-    "audio_duration_sec": 17.57,
-    "video_path": "videos/xi_jinping_us_visit_trump_welcome.mp4",
-    "video_duration_sec": 25.62
-  },
-  {
-    "topic_label": "xi_jinping_us_visit_trump_protocol_break",
-    "virality_score": 9,
-    "reason": "Global geo-political major event with Trump breaking protocol to receive Xi Jinping with the First Lady.",
-    "region": "india",
-    "headline": "शी जिनपिंग पहुंचे अमेरिका, ट्रंप ने प्रोटोकॉल तोड़कर फर्स्ट लेडी के साथ एयरपोर्ट पर किया स्वागत, बिछाया रेड कार्पेट",
-    "source_summary": "चीनी राष्ट्रपति जब मैरीलैंड में स्थिति मिलिट्री बेस पर विमान से उतरे तो उनके स्वागत के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप फर्स्ट लेडी मेलानिया के साथ मौजूद थे। आखिरी बार 2015 में मैरीलैंड के मिलिट्री बेस पर अमेरिकी राष्ट्रपति ने किसी विदेशी नेता का स्वागत किया था।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/america/xi-jinping-lands-in-washington-for-us-state-visit-trump-gives-rare-welcome-at-airport/articleshow/134448713.cms",
-    "source_name": "Navbharat Times",
-    "published": "Thu, 24 Sep 2026 05:50:00 +0530",
-    "hook": "शी जिनपिंग का अमेरिका में हुआ शाही स्वागत!",
-    "script_hi": "चीनी राष्ट्रपति शी जिनपिंग अमेरिका पहुंचे, जहाँ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रोटोकॉल तोड़कर फर्स्ट लेडी मेलानिया के साथ उनका एयरपोर्ट पर स्वागत किया और रेड कार्पेट बिछाया। आखिरी बार दो हजार पंद्रह में ऐसा स्वागत हुआ था।",
-    "tts_text_hi": "चीनी राष्ट्रपति शी जिनपिंग अमेरिका पहुंचे, जहाँ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रोटोकॉल तोड़कर फर्स्ट लेडी मेलानिया के साथ उनका एयरपोर्ट पर स्वागत किया और रेड कार्पेट बिछाया। आखिरी बार दो हजार पंद्रह में ऐसा स्वागत हुआ था।",
-    "title": "अमेरिका पहुंचे शी जिनपिंग, ट्रंप ने किया जोरदार स्वागत",
-    "caption": "चीनी राष्ट्रपति शी जिनपिंग के अमेरिका दौरे पर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रोटोकॉल तोड़कर किया स्वागत।",
-    "hashtags": [
-      "XiJinping",
-      "DonaldTrump",
-      "USChina",
-      "WorldNews",
-      "GlobalPolitics"
+      "GreaterNoida",
+      "YamunaExpressway",
+      "BusFire",
+      "UttarPradesh",
+      "BreakingNews",
+      "NewsUpdates"
     ],
     "visual_queries": [
-      "airplane landing military base United States",
-      "red carpet welcome airport United States",
-      "US military base Maryland"
+      "Yamuna Expressway India road",
+      "burning bus India highway",
+      "fire truck India highway"
     ],
-    "named_person": "Xi Jinping",
-    "named_person_hi": "शी जिनपिंग",
-    "secondary_persons": [
-      "Donald Trump",
-      "Melania Trump"
-    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
     "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "शी जिनपिंग",
-        "source": "fallback",
-        "query": "Xi Jinping",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37827044/16045192_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "airplane landing military base United States",
-        "credit": "Rohid Hossain",
-        "source_duration_sec": 23,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16739043/pexels-photo-16739043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "red carpet welcome airport United States",
-        "credit": "Josh Withers",
+        "query": "highway accident tragedy India",
+        "credit": "Aleksandar Rasic",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15922967/pexels-photo-15922967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "US military base Maryland",
-        "credit": "Giona Mason",
+        "query": "fire truck India highway",
+        "credit": "Rana Muskan",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शी जिनपिंग के स्वागत के लिए ट्रंप ने तोड़ा प्रोटोकॉल! 🇺🇸",
-        "caption": "ट्रंप ने प्रोटोकॉल तोड़कर खुद एयरपोर्ट पर किया शी जिनपिंग का स्वागत 🚨 अमेरिका दौरे पर पहुंचे चीनी राष्ट्रपति के लिए बिछाया गया रेड कार्पेट, दुनिया भर में चर्चा में है यह मुलाकात।\n\nआखिर इस अचानक हुए शाही स्वागत के पीछे क्या बड़ी कूटनीति छिपी है? पूरी कहानी वीडियो में देखें।\n\n#XiJinping #DonaldTrump #USChina #WorldNews #Geopolitics"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ट्रंप ने तोड़ा प्रोटोकॉल! 🛑 अमेरिका पहुंचे शी जिनपिंग का एयरपोर्ट पर हुआ शाही स्वागत।\n\nफर्स्ट लेडी के साथ खुद ट्रंप रेड कार्पेट पर अगवानी करने पहुंचे। इस बड़ी कूटनीतिक चाल के क्या मायने हैं? वीडियो देखकर जानिए पूरा सच। 🤝\n\n#XiJinping #DonaldTrump #USChina #WorldNews #Geopolitics"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "डोनाल्ड ट्रंप ने तोड़ा प्रोटोकॉल और अमेरिका पहुंचे शी जिनपिंग का हुआ कुछ ऐसा शाही स्वागत, जिसे देख दुनिया हैरान है! 🛬\n\nफर्स्ट लेडी के साथ खुद एयरपोर्ट पर पहुंचकर ट्रंप ने रेड कार्पेट बिछाया। ग्लोबल पॉलिटिक्स में इस मुलाकात के क्या बड़े मायने हो सकते हैं, आइए जानते हैं।\n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#XiJinping #DonaldTrump #USChina #WorldNews #Geopolitics"
-      },
-      "hashtags": [
-        "XiJinping",
-        "DonaldTrump",
-        "USChina",
-        "WorldNews",
-        "Geopolitics"
-      ]
-    },
-    "audio_path": "audio/xi_jinping_us_visit_trump_protocol_break.wav",
-    "audio_duration_sec": 15.44,
-    "video_path": "videos/xi_jinping_us_visit_trump_protocol_break.mp4",
-    "video_duration_sec": 23.49
-  },
-  {
-    "topic_label": "auto_driver_son_becomes_doctor_kgmu_success",
-    "virality_score": 8,
-    "reason": "Inspirational success story of an auto-driver's son cracking NEET and securing a seat in KGMU.",
-    "region": "india",
-    "headline": "Success Story : आटो चालक का बेटा अब बनेगा डॉक्टर, 25 साल की मेहनत लाई रंग",
-    "source_summary": "जौनपुर के प्रभात कुमार यादव ने NEET UG 2026 में 627 अंक और 3864वीं ऑल इंडिया रैंक हासिल कर KGMU में MBBS सीट पाई है. मुंबई में पिछले 25 साल से ऑटो चलाने वाले पिता, परिवार के सहयोग और अपनी मेहनत के दम पर उन्होंने यह मुकाम हासिल किया.",
-    "source_url": "https://ndtv.in/education/neet-2026-kgmu-mbbs-seat-prabhat-yadav-son-of-auto-driver-success-story-12081060#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Wed, 23 Sep 2026 18:16:58 +0530",
-    "hook": "एक ऑटो चालक के बेटे ने कर दिखाया कमाल!",
-    "script_hi": "उत्तर प्रदेश के जौनपुर के रहने वाले प्रभात कुमार यादव ने नीट परीक्षा में छह सौ सत्ताईस अंक हासिल कर केजीएमयू में एमबीबीएस की सीट पा ली है। उनके पिता पिछले पच्चीस साल से मुंबई में ऑटो चलाते हैं। परिवार के सहयोग और अपनी कड़ी मेहनत के दम पर प्रभात ने यह सफलता हासिल की है।",
-    "tts_text_hi": "उत्तर प्रदेश के जौनपुर के रहने वाले प्रभात कुमार यादव ने नीट परीक्षा में छह सौ सत्ताईस अंक हासिल कर केजीएमयू में एमबीबीएस की सीट पा ली है। उनके पिता पिछले पच्चीस साल से मुंबई में ऑटो चलाते हैं। परिवार के सहयोग और अपनी कड़ी मेहनत के दम पर प्रभात ने यह सफलता हासिल की है।",
-    "title": "ऑटो चालक का बेटा बना डॉक्टर",
-    "caption": "जौनपुर के प्रभात कुमार यादव ने नीट यूजी परीक्षा पास कर केजीएमयू में एमबीबीएस में दाखिला पाया है।",
-    "hashtags": [
-      "#SuccessStory",
-      "#NEET2026",
-      "#Jaunpur",
-      "#Inspiration",
-      "#Doctor",
-      "#IndianEducation"
-    ],
-    "visual_queries": [
-      "Indian auto rickshaw Mumbai",
-      "Indian medical student studying India",
-      "KGMU Lucknow campus India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8108913/8108913-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian medical student studying India",
-        "credit": "https://kaboompics.com/",
-        "source_duration_sec": 12,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8135652/8135652-hd_720_1280_50fps.mp4",
-        "source": "pexels",
-        "query": "happy family achieving success India",
-        "credit": "ANTONI SHKRABA production",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16928842/pexels-photo-16928842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian auto rickshaw Mumbai",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34459408/pexels-photo-34459408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "KGMU Lucknow campus India",
-        "credit": "momentsbymanan",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4384147/pexels-photo-4384147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hardworking student late night study",
-        "credit": "Kulik Stepan",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30184708/pexels-photo-30184708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "proud father son celebration India",
-        "credit": "Fotographiya Wedding Photography",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30787968/pexels-photo-30787968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical college campus India",
-        "credit": "Umang & Meet",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "25 साल की मेहनत! ऑटो चालक का बेटा बना डॉक्टर 🩺",
-        "caption": "25 साल की कड़ी मेहनत के बाद आखिरकार वो दिन आ ही गया!\n\nएक ऑटो चालक के बेटे ने वो कर दिखाया जो उसने और उसके परिवार ने कभी सपने में सोचा था। सीमित साधन और संघर्ष के बावजूद उसने अपनी लगन से मेडिकल की पढ़ाई पूरी कर ली और अब डॉक्टर बन गया है।\n\nपूरी कहानी देखें और इस संघर्ष को सलाम करें।\n\n#SuccessStory #Inspiration #AutoDriverSon #MotivationalStory #DoctorStory"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "25 साल की कड़ी मेहनत और संघर्ष ने आखिरकार रंग दिखा दिया! 🩺✨\n\nएक ऑटो चालक के बेटे ने तमाम मुश्किलों को मात देकर डॉक्टर बनने का अपना सपना सच कर दिखाया है। \n\nये कहानी है कभी हार ना मानने की। क्या आपने कभी इतनी मेहनत से किसी को मंजिल पाते देखा है? कमेंट में बताएं।\n\n#SuccessStory #Inspiration #AutoDriverSon #MotivationalStory #DoctorStory"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रात-दिन गाड़ी चलाना और हर मुश्किल का सामना करना... एक पिता का ये संघर्ष आज आखिरकार सफल हो गया। 🩺\n\nऑटो चालक के बेटे ने 25 साल की लंबी मेहनत और कभी हार ना मानने वाले जज्बे के दम पर मेडिकल की पढ़ाई पूरी कर ली है और अब वह डॉक्टर बन गया है। सीमित साधन इंसान के सपनों को नहीं रोक सकते, इस बात को इस बेटे ने सच साबित कर दिखाया है। \n\nइस शानदार कामयाबी के बारे में आपकी क्या राय है, हमें कमेंट में जरूर बताएं।\n\n#SuccessStory #Inspiration #AutoDriverSon #MotivationalStory #DoctorStory"
-      },
-      "hashtags": [
-        "SuccessStory",
-        "Inspiration",
-        "AutoDriverSon",
-        "MotivationalStory",
-        "DoctorStory"
-      ]
-    },
-    "audio_path": "audio/auto_driver_son_becomes_doctor_kgmu_success.wav",
-    "audio_duration_sec": 21.63,
-    "video_path": "videos/auto_driver_son_becomes_doctor_kgmu_success.mp4",
-    "video_duration_sec": 29.69
-  },
-  {
-    "topic_label": "vtr_bihar_tiger_attack_woman_fodder",
-    "virality_score": 8,
-    "reason": "Startling wildlife attack incident from Bihar where a tiger killed a woman cutting fodder in a field.",
-    "region": "india",
-    "headline": "खेत में गुनगुनाते हुए चारा काट रही थी महिला, अचानक पीछे से आया बाघ! फिर जो हुआ उसकी कल्पना किसी ने नहीं की थी",
-    "source_summary": "Tiger Attack VTR Bihar: बिहार के वाल्मीकि नगर टाइगर रिजर्व से एक सनसनीखेज खबर सामने आई है। वन विभाग मामले की जांच में जुटा हुआ है। हुआ यूं कि एक महिला खेत में चारा काट रही थी। इसी दौरान जंगल से निकले बाघ ने उसके ऊपर हमला कर दिया, जिससे उसकी मौत हो गई। वन विभाग मामले की जांच में जुटा है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/bihar/west-champaran/woman-cutting-fodder-dies-in-tiger-attack-at-valmiki-nagar-tiger-reserve-bagaha-bihar/articleshow/134443701.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 23 Sep 2026 23:23:00 +0530",
-    "hook": "खेत में चारा काट रही महिला पर अचानक बाघ ने किया हमला!",
-    "script_hi": "बिहार के वाल्मीकि नगर टाइगर रिजर्व से एक सनसनीखेज खबर सामने आई है। खेत में गुनगुनाते हुए चारा काट रही एक महिला पर अचानक जंगल से निकले बाघ ने हमला कर दिया। इस दर्दनाक घटना में महिला की मौत हो गई। वन विभाग मामले की जांच में जुटा है।",
-    "tts_text_hi": "बिहार के वाल्मीकि नगर टाइगर रिजर्व से एक सनसनीखेज खबर सामने आई है। खेत में गुनगुनाते हुए चारा काट रही एक महिला पर अचानक जंगल से निकले बाघ ने हमला कर दिया। इस दर्दनाक घटना में महिला की मौत हो गई। वन विभाग मामले की जांच में जुटा है।",
-    "title": "बिहार के वाल्मीकि टाइगर रिजर्व में बाघ का हमला, महिला की मौत",
-    "caption": "बिहार के वाल्मीकि नगर टाइगर रिजर्व में खेत में चारा काट रही महिला पर बाघ ने हमला कर दिया, जिससे उसकी मौत हो गई। वन विभाग मामले की जांच कर रहा है।",
-    "hashtags": [
-      "BiharNews",
-      "TigerAttack",
-      "ValmikiTigerReserve",
-      "WildlifeAttack",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Valmiki Tiger Reserve forest India",
-      "Indian agricultural farm field",
-      "Bengal tiger in forest India",
-      "forest department investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11996336/pexels-photo-11996336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Valmiki Tiger Reserve forest India",
-        "credit": "Somnath Lahiri",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29306768/pexels-photo-29306768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian agricultural farm field",
-        "credit": "Sri Dipak kumar Das",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15345428/pexels-photo-15345428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bengal tiger in forest India",
-        "credit": "GVN Santhosh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "govinda_wife_sunita_ahuja_controversial_statement",
-    "virality_score": 8,
-    "reason": "Spicy entertainment news featuring bold and controversial remarks by Govinda's wife Sunita Ahuja.",
+    "topic_label": "bengaluru_ceo_hiring_ban_north_indian_men",
+    "virality_score": 9,
+    "reason": "Controversial company hiring ban targeting specific states sparks massive viral debate on social media.",
     "region": "india",
-    "headline": "इस मर्द के साथ 'वन-नाइट स्टैंड' करना चाहती हैं Govinda की पत्नी सुनीता आहूजा, सरेआम बताया नाम, अब मचेगा हंगामा",
-    "source_summary": "Govinda Wife Sunita Ahuja: बॉलीवुड के फेमस एक्टर गोविंदा की पत्नी सुनीता आहूजा इन दिनों अपने बेबाक अंदाज और खुलकर अपनी बात रखने की वजह से लगातार सुर्खियों में छाई हुई हैं। लंबे समय तक ग्लैमर इंडस्ट्री से दूर रहने वाली",
-    "source_url": "https://hindi.oneindia.com/news/entertainment/govinda-wife-sunita-ahuja-wants-one-night-stand-with-this-man-publicly-revealing-his-name-1653835.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Wed, 23 Sep 2026 08:51:41 +0530",
-    "hook": "गोविंदा की पत्नी सुनीता आहूजा के एक बयान ने मचा दिया है बवाल!",
-    "script_hi": "गोविंदा की पत्नी सुनीता आहूजा अपने बेबाक अंदाज की वजह से सुर्खियों में हैं। हाल ही में उन्होंने एक बयान में कहा कि वह हॉलीवुड अभिनेता ब्रैड पिट के साथ एक रात का रिश्ता यानी वन-नाइट स्टैंड करना चाहती हैं। उनके इस खुलेआम दिए गए बयान से अब बॉलीवुड में नया हंगामा मच गया है।",
-    "tts_text_hi": "गोविंदा की पत्नी सुनीता आहूजा अपने बेबाक अंदाज की वजह से सुर्खियों में हैं। हाल ही में उन्होंने एक बयान में कहा कि वह हॉलीवुड अभिनेता ब्रैड पिट के साथ एक रात का रिश्ता यानी वन-नाइट स्टैंड करना चाहती हैं। उनके इस खुलेआम दिए गए बयान से अब बॉलीवुड में नया हंगामा मच गया है।",
-    "title": "Govinda Wife Sunita Ahuja: सुनीता आहूजा ने ब्रैड पिट को लेकर दिया चौंकाने वाला बयान",
-    "caption": "गोविंदा की पत्नी सुनीता आहूजा ने हॉलीवुड एक्टर ब्रैड पिट को लेकर दिया ऐसा बयान कि मच गया हंगामा! जानिए पूरी खबर।",
+    "headline": "बिहार समेत 4 राज्यों के पुरुषों को नौकरी नहीं देगा ये CEO, मचा बवाल",
+    "source_summary": "बेंगलुरु की एक कंपनी के सीईओ ने यूपी, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है. सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया. उनके इस फैसले के बाद सोशल मीडिया पर बहस छिड़ गई है.",
+    "source_url": "https://www.aajtak.in/trending/story/bengaluru-ceo-bans-male-hiring-from-up-bihar-rajasthan-madhya-pradesh-viral-x-post-rttw-dskc-2651489-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T07:19:03+05:30",
+    "hook": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा ये सीईओ!",
+    "script_hi": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने का ऐलान किया है। सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया है। इस अजीबोगरीब फैसले के बाद सोशल मीडिया पर भारी बवाल मच गया है और लोग तीखी प्रतिक्रिया दे रहे हैं।",
+    "tts_text_hi": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने का ऐलान किया है। सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया है। इस अजीबोगरीब फैसले के बाद सोशल मीडिया पर भारी बवाल मच गया है और लोग तीखी प्रतिक्रिया दे रहे हैं।",
+    "title": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा बेंगलुरु का सीईओ",
+    "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।",
     "hashtags": [
-      "Govinda",
-      "SunitaAhuja",
-      "BollywoodNews",
-      "BradPitt",
-      "EntertainmentNews",
-      "BollywoodGossips"
+      "Bihar",
+      "UttarPradesh",
+      "JobNews",
+      "Trending",
+      "Bengaluru",
+      "SocialMedia",
+      "NewsUpdates"
     ],
     "visual_queries": [
-      "Bollywood actor India",
-      "celebrity couple India",
-      "Hollywood actor portrait"
+      "corporate office India",
+      "angry social media user India",
+      "news debate India"
     ],
-    "named_person": "Sunita Ahuja",
-    "named_person_hi": "सुनीता आहूजा",
-    "secondary_persons": [
-      "Govinda",
-      "Brad Pitt"
-    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38914615/pexels-photo-38914615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "corporate office India",
+        "credit": "Sudhanshu Sharma",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8204031/pexels-photo-8204031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "angry social media user India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8847165/pexels-photo-8847165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "news debate India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "modern corporate office India",
+        "credit": "Jansher Chakkittammal",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "corporate office meeting India",
+        "credit": "Fahad Puthawala",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8369251/pexels-photo-8369251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "business professional working late",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12902942/pexels-photo-12902942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "office worker reading laptop",
+        "credit": "Mizuno K",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा बेंगलुरु का सीईओ",
+        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
+      },
+      "hashtags": [
+        "Bihar",
+        "UttarPradesh",
+        "JobNews",
+        "Trending",
+        "Bengaluru"
+      ]
+    },
+    "audio_path": "audio/bengaluru_ceo_hiring_ban_north_indian_men.wav",
+    "audio_duration_sec": 25.93,
+    "video_path": "videos/bengaluru_ceo_hiring_ban_north_indian_men.mp4",
+    "video_duration_sec": 33.98
+  },
+  {
+    "topic_label": "govinda_komal_rani_lalbagcha_raja_darshan",
+    "virality_score": 9,
+    "reason": "Celebrity controversy involving Govinda visiting Lalbagcha Raja with actress Komal Rani instead of his wife.",
+    "region": "india",
+    "headline": "गोविंदा ने एक्ट्रेस कोमल रानी के साथ किया बप्पा का दर्शन",
+    "source_summary": "गोविंदा लालबागचा राजा के दर्शन करने पत्नी सुनीता आहूजा के बजाय एक्ट्रेस कोमल रानी स्वर्णकार के साथ पहुंचे। दोनों का वीडियो सामने आने के बाद उनके रिश्ते को लेकर चल रही चर्चाओं ने फिर जोर पकड़ लिया।",
+    "source_url": "https://www.aajtak.in/short-videos/video/bollywood-govinda-wife-sunita-ahuja-rumered-girlfriend-komal-rani-lalbaugcha-raja-ganpati-mmtc-2651005-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T06:30:04+05:30",
+    "hook": "गोविंदा पहुंचे लालबागचा राजा के दर्शन करने!",
+    "script_hi": "अभिनेता गोविंदा अपनी पत्नी सुनीता आहूजा के बजाय अभिनेत्री कोमल रानी स्वर्णकार के साथ लालबागचा राजा के दर्शन करने पहुंचे। दोनों का यह वीडियो सामने आने के बाद उनके रिश्ते को लेकर सोशल मीडिया पर चर्चाएं तेज हो गईं हैं।",
+    "tts_text_hi": "अभिनेता गोविंदा अपनी पत्नी सुनीता आहूजा के बजाय अभिनेत्री कोमल रानी स्वर्णकार के साथ लालबागचा राजा के दर्शन करने पहुंचे। दोनों का यह वीडियो सामने आने के बाद उनके रिश्ते को लेकर सोशल मीडिया पर चर्चाएं तेज हो गईं हैं।",
+    "title": "गोविंदा ने एक्ट्रेस कोमल रानी के साथ किया बप्पा का दर्शन",
+    "caption": "गोविंदा अपनी पत्नी सुनीता के बजाय एक्ट्रेस कोमल रानी के साथ लालबागचा राजा के दर्शन करने पहुंचे, वीडियो वायरल होने के बाद चर्चाएं तेज।",
+    "hashtags": [
+      "Govinda",
+      "KomalRani",
+      "LalbaugchaRaja",
+      "BollywoodNews",
+      "MumbaiGanpati",
+      "ViralVideo"
+    ],
+    "visual_queries": [
+      "Bollywood actor India",
+      "Indian celebrity temple",
+      "Mumbai crowd street India"
+    ],
+    "named_person": "Govinda",
+    "named_person_hi": "गोविंदा",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific viral video of individuals, which generic stock B-roll cannot accurately represent and requires manual addition of the real footage.",
+    "assets": [
+      {
         "type": "text_card",
-        "text": "सुनीता आहूजा",
+        "text": "गोविंदा",
         "source": "fallback",
-        "query": "Sunita Ahuja",
+        "query": "Govinda",
         "duration_sec": 4.0
       },
       {
@@ -463,48 +229,476 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1589216/pexels-photo-1589216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34084334/pexels-photo-34084334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "celebrity couple India",
-        "credit": "Cinestyle  India",
+        "query": "Indian celebrity temple",
+        "credit": "Karan Ghadi",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/22738088/pexels-photo-22738088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13975198/pexels-photo-13975198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Hollywood actor portrait",
-        "credit": "Andres Idda Bianchi",
+        "query": "Mumbai crowd street India",
+        "credit": "Swapnil Sharma",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "roshibina_devi_asian_games_silver_medal",
+    "virality_score": 8,
+    "reason": "Inspiring sports milestone as Roshibina Devi wins her third consecutive Asian Games medal.",
+    "region": "india",
+    "headline": "रोश‍िब‍िना ने फिर जीता सिल्वर, गोल्ड से चूकीं, चीनी ख‍िलाड़ी ने हराया",
+    "source_summary": "भारत की वुशू खिलाड़ी रोश‍िब‍िना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक अपने नाम किया. महिलाओं के 60 किग्रा सांडा फाइनल में उन्हें चीन की झांग शियाओयू के खिलाफ 0-2 से हार मिली. झांग ने दोनों राउंड 5-0 से जीते और मुकाबला 10-0 से अपने नाम किया. रोश‍िब‍िना ने इससे पहले 2023 में सिल्वर और 2018 में ब्रॉन्ज जीता था.",
+    "source_url": "https://www.aajtak.in/sports/asian-games/story/rosibina-devi-wins-silver-asian-games-2026-wushu-60kg-sanda-final-tspok-dskc-2651488-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T07:10:29+05:30",
+    "hook": "रोशिबिना ने भारत के लिए फिर जीता सिल्वर मेडल!",
+    "script_hi": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक जीतकर इतिहास रच दिया है। महिलाओं के साठ किलोग्राम सांडा फाइनल में उन्हें चीन की खिलाड़ी के खिलाफ हार का सामना करना पड़ा और वह गोल्ड मेडल से चूक गईं। रोशिबिना ने इससे पहले दो हजार तेईस में सिल्वर और दो हजार अठारह में ब्रॉन्ज मेडल जीता था।",
+    "tts_text_hi": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक जीतकर इतिहास रच दिया है। महिलाओं के साठ किलोग्राम सांडा फाइनल में उन्हें चीन की खिलाड़ी के खिलाफ हार का सामना करना पड़ा और वह गोल्ड मेडल से चूक गईं। रोशिबिना ने इससे पहले दो हजार तेईस में सिल्वर और दो हजार अठारह में ब्रॉन्ज मेडल जीता था।",
+    "title": "रोशिबिना देवी ने एशियन गेम्स में जीता सिल्वर मेडल",
+    "caption": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में शानदार प्रदर्शन करते हुए सिल्वर मेडल अपने नाम किया।",
+    "hashtags": [
+      "RoshibinaDevi",
+      "AsianGames",
+      "Wushu",
+      "TeamIndia",
+      "SilverMedal",
+      "SportsNews",
+      "IndiaAtAsianGames"
+    ],
+    "visual_queries": [
+      "Indian athlete portrait India",
+      "wushu martial arts India",
+      "Asian Games stadium India",
+      "silver medal celebration India"
+    ],
+    "named_person": "Naorem Roshibina Devi",
+    "named_person_hi": "रोशिबिना देवी नाओरेम",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "रोशिबिना देवी नाओरेम",
+        "source": "fallback",
+        "query": "Naorem Roshibina Devi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7045201/7045201-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "wushu martial arts India",
+        "credit": "RDNE Stock project",
+        "source_duration_sec": 17,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30902345/pexels-photo-30902345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian athlete portrait India",
+        "credit": "Anil  Sharma",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Asian Games stadium India",
+        "credit": "Nihar Manyalli",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6827126/pexels-photo-6827126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "silver medal celebration India",
+        "credit": "Antoni Shkraba",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "सुनीता आहूजा का चौंकाने वाला बयान! इस हॉलीवुड एक्टर के साथ करना चाहती हैं वन-नाइट स्टैंड",
-        "caption": "गोविंदा की पत्नी सुनीता आहूजा के एक बयान ने सोशल मीडिया पर खलबली मचा दी है। 😲\n\nहाल ही में एक इंटरव्यू के दौरान जब उनसे पूछा गया कि वह किसके साथ वन-नाइट स्टैंड करना चाहती हैं, तो उन्होंने बिना झिझक के हॉलीवुड स्टार ब्रैड पिट का नाम ले लिया। उनके इस बेबाक अंदाज़ पर अब फैंस तरह-तरह की प्रतिक्रियाएं दे रहे हैं।\n\nपूरी कहानी क्या है, वीडियो में जानें।\n\n#SunitaAhuja #Govinda #BradPitt #BollywoodNews #ViralVideo"
+        "title": "रोशिबिना देवी ने एशियन गेम्स में फिर जीता सिल्वर मेडल! 🥈",
+        "caption": "आखिरी पल में चूका गोल्ड, फिर भी रोशिबिना ने देश का सिर गर्व से ऊंचा कर दिया। 🇮🇳\n\nचीन की खिलाड़ी के खिलाफ कड़े मुकाबले में उन्होंने शानदार प्रदर्शन करते हुए सिल्वर मेडल अपने नाम किया।\n\nक्या आपको लगता है कि इस बार गोल्ड आ सकता था? कमेंट में बताएं और पूरी कहानी देखें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
       },
       "instagram": {
         "title": null,
-        "caption": "गोविंदा की पत्नी सुनीता आहूजा के इस बयान ने सबको हैरान कर दिया है! 🤯\n\nउन्होंने सरेआम हॉलीवुड एक्टर ब्रैड पिट का नाम लेते हुए उनके साथ 'वन-नाइट स्टैंड' की इच्छा जताई। उनके इस खुलासे के बाद इंटरनेट पर चर्चाओं का बाजार गर्म है।\n\nक्या कहना है आपका इस पर? कमेंट में बताएं।\n\n#SunitaAhuja #Govinda #BradPitt #BollywoodNews #ViralVideo"
+        "caption": "गोल्ड से चूकीं, पर दिल जीत लिया! 🥈 रोशिबिना देवी ने एक बार फिर देश के लिए मेडल जीतकर इतिहास रच दिया है।\n\nचीनी खिलाड़ी के खिलाफ मुकाबले में उन्होंने अपनी पूरी ताकत झोंक दी थी।\n\nशेयर करें इस बेटी की शानदार उपलब्धि को और अपनी राय दें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
       },
       "facebook": {
         "title": null,
-        "caption": "बॉलीवुड एक्टर गोविंदा की पत्नी सुनीता आहूजा अक्सर अपने बयानों की वजह से सुर्खियों में रहती हैं, लेकिन इस बार उन्होंने कुछ ऐसा कह दिया जिसकी किसी को उम्मीद नहीं थी। 😳\n\nएक इंटरव्यू के दौरान जब उनसे पूछा गया कि वह किसके साथ वन-नाइट स्टैंड करना चाहती हैं, तो उन्होंने बिना किसी झिझक के मशहूर हॉलीवुड एक्टर ब्रैड पिट का नाम ले लिया। उनके इस बेबाक और बोल्ड खुलासे के बाद अब हर तरफ इसी की चर्चा हो रही है।\n\nपूरा मामला क्या है, जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें।\n\n#SunitaAhuja #Govinda #BradPitt #BollywoodNews #ViralVideo"
+        "caption": "रोशिबिना देवी ने एक बार फिर साबित कर दिया कि उनका मुकाबला करना आसान नहीं है। 🇮🇳\n\nभले ही वे गोल्ड मेडल से चूक गईं और उन्हें सिल्वर से संतोष करना पड़ा, लेकिन जिस जज्बे के साथ उन्होंने चीनी खिलाड़ी को टक्कर दी, वह वाकई काबिले तारीफ है।\n\nआपको उनकी यह परफॉरमेंस कैसी लगी? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
       },
       "hashtags": [
-        "SunitaAhuja",
-        "Govinda",
-        "BradPitt",
-        "BollywoodNews",
-        "ViralVideo"
+        "RoshibinaDevi",
+        "AsianGames",
+        "SilverMedal",
+        "TeamIndia",
+        "SportsNews"
       ]
     },
-    "audio_path": "audio/govinda_wife_sunita_ahuja_controversial_statement.wav",
-    "audio_duration_sec": 19.46,
-    "video_path": "videos/govinda_wife_sunita_ahuja_controversial_statement.mp4",
-    "video_duration_sec": 27.5
+    "audio_path": "audio/roshibina_devi_asian_games_silver_medal.wav",
+    "audio_duration_sec": 23.25,
+    "video_path": "videos/roshibina_devi_asian_games_silver_medal.mp4",
+    "video_duration_sec": 31.22
+  },
+  {
+    "topic_label": "us_navy_uss_lincoln_suicide_attempts",
+    "virality_score": 8,
+    "reason": "Shocking global military news involving suicide attempts by US sailors during extended deployment.",
+    "region": "india",
+    "headline": "US युद्धपोत पर 8 नौसैनिकों ने की सुसाइड की कोशिश, सीक्रेट खत से खलबली",
+    "source_summary": "अमेरिकी नेवी जहाज USS अब्राहम लिंकन पर तैनात आठ सैनिकों ने ईरान युद्ध के दौरान लंबी तैनाती के बीच आत्महत्या की कोशिश की. नेवी सेक्रेटरी हंग काओ ने सीनेटर गिलीब्रांड को भेजे पत्र में यह जानकारी दी. जहाज 286 दिन समुद्र में रहा और तय समय से ज्यादा देर तक तैनात रखा गया.",
+    "source_url": "https://www.aajtak.in/world/story/uss-abraham-lincoln-navy-suicide-attempts-iran-war-286-days-deployment-sailor-mental-health-hung-cao-us-navy-ntc-agkp-dskc-2651482-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T06:48:22+05:30",
+    "hook": "अमेरिका के सबसे ताकतवर युद्धपोत पर खौफनाक सच आया सामने!",
+    "script_hi": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की है। नेवी सेक्रेटरी हंग काओ ने सीनेटर को भेजे पत्र में यह खुलासा किया है। ईरान युद्ध के दौरान यह जहाज दो सौ छियासी दिनों तक समुद्र में रहा और तय समय से ज्यादा तैनात रहा।",
+    "tts_text_hi": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की है। नेवी सेक्रेटरी हंग काओ ने सीनेटर को भेजे पत्र में यह खुलासा किया है। ईरान युद्ध के दौरान यह जहाज दो सौ छियासी दिनों तक समुद्र में रहा और तय समय से ज्यादा तैनात रहा।",
+    "title": "US युद्धपोत पर सैनिकों की सुसाइड कोशिश",
+    "caption": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की। लंबी तैनाती और तनाव के चलते यह खौफनाक कदम उठाया गया।",
+    "hashtags": [
+      "USNavy",
+      "USWarship",
+      "BreakingNews",
+      "America",
+      "MilitaryNews"
+    ],
+    "visual_queries": [
+      "US Navy aircraft carrier",
+      "military letter document",
+      "ocean waves sea"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39597264/16878740_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "military letter document",
+        "credit": "Tolga deniz Aran",
+        "source_duration_sec": 19,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15922967/pexels-photo-15922967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "US Navy aircraft carrier",
+        "credit": "Giona Mason",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34701685/pexels-photo-34701685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ocean waves sea",
+        "credit": "Tuấn Vũ",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "akhilesh_yadav_pda_yatra_raebareli",
+    "virality_score": 8,
+    "reason": "Strategic political launch by Akhilesh Yadav in Congress bastion ahead of 2027 UP polls.",
+    "region": "india",
+    "headline": "कांग्रेस के गढ़ से अखिलेश की PDA यात्रा का आगाज, समझिए मायने",
+    "source_summary": "सपा अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष 'पीडीए रथ यात्रा' का आगाज कर 2027 के यूपी विधानसभा चुनाव का शंखनाद कर दिया है. कांग्रेस के इस अभेद्य गढ़ से यात्रा शुरू कर अखिलेश यादव ने जहां एक ओर लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, वहीं दूसरी ओर सहयोगी दलों पर मनोवैज्ञानिक दबाव बनाने का बड़ा दांव भी खेला है.",
+    "source_url": "https://www.aajtak.in/elections/assembly-chunav/story/akhilesh-yadav-pda-rath-yatra-congress-rahul-gandhi-raebareli-mission-2027-ntcpkb-dskc-2651203-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T06:54:03+05:30",
+    "hook": "कांग्रेस के गढ़ से अखिलेश यादव का बड़ा सियासी दांव!",
+    "script_hi": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष पीडीए रथ यात्रा का आगाज कर दो हजार सत्ताईस के उत्तर प्रदेश विधानसभा चुनाव का शंखनाद कर दिया है। कांग्रेस के इस गढ़ से यात्रा शुरू कर अखिलेश ने लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, साथ ही सहयोगी दलों पर मनोवैज्ञानिक दबाव भी बनाया है।",
+    "tts_text_hi": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष पीडीए रथ यात्रा का आगाज कर दो हजार सत्ताईस के उत्तर प्रदेश विधानसभा चुनाव का शंखनाद कर दिया है। कांग्रेस के इस गढ़ से यात्रा शुरू कर अखिलेश ने लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, साथ ही सहयोगी दलों पर मनोवैज्ञानिक दबाव भी बनाया है।",
+    "title": "अखिलेश यादव की पीडीए यात्रा",
+    "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।",
+    "hashtags": [
+      "AkhileshYadav",
+      "SamajwadiParty",
+      "UPPolitics",
+      "PDAYatra",
+      "Raebareli",
+      "UPElections"
+    ],
+    "visual_queries": [
+      "Indian politician speech India",
+      "political rally crowd India",
+      "election campaign vehicle India"
+    ],
+    "named_person": "Akhilesh Yadav",
+    "named_person_hi": "अखिलेश यादव",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "अखिलेश यादव",
+        "source": "fallback",
+        "query": "Akhilesh Yadav",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "political rally India",
+        "credit": "Aditya Jaiswal",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian politician speech India",
+        "credit": "Voters Party International",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087857/pexels-photo-39087857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "political rally crowd India",
+        "credit": "Satyam Pixels",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "अखिलेश यादव की पीडीए यात्रा",
+        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+      },
+      "hashtags": [
+        "AkhileshYadav",
+        "SamajwadiParty",
+        "UPPolitics",
+        "PDAYatra",
+        "Raebareli"
+      ]
+    },
+    "audio_path": "audio/akhilesh_yadav_pda_yatra_raebareli.wav",
+    "audio_duration_sec": 22.99,
+    "video_path": "videos/akhilesh_yadav_pda_yatra_raebareli.mp4",
+    "video_duration_sec": 31.03
+  },
+  {
+    "topic_label": "srikakulam_rajdhani_express_student_accident",
+    "virality_score": 8,
+    "reason": "Tragic railway accident in Andhra Pradesh claiming the lives of four intermediate students.",
+    "region": "india",
+    "headline": "दर्दनाक हादसा... राजधानी एक्सप्रेस की चपेट में 4 छात्र",
+    "source_summary": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पांच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए. हादसे में चार की मौत हो गई, जबकि एक गंभीर रूप से घायल है. मृतकों में चार इंटरमीडिएट छात्र बताए गए हैं. वीडियो में जानें मामला.",
+    "source_url": "https://www.aajtak.in/short-videos/video/railway-track-accident-srikakulam-andhra-pradesh-police-investigation-details-mmtm-2651244-2026-09-23?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-23T18:28:49+05:30",
+    "hook": "राजधानी एक्सप्रेस की चपेट में आने से चार छात्रों की दर्दनाक मौत!",
+    "script_hi": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पाँच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए। इस भीषण हादसे में चार छात्रों की मौके पर ही मौत हो गई, जबकि एक छात्र गंभीर रूप से घायल हो गया है। मृतकों में चार इंटरमीडिएट के छात्र शामिल हैं।",
+    "tts_text_hi": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पाँच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए। इस भीषण हादसे में चार छात्रों की मौके पर ही मौत हो गई, जबकि एक छात्र गंभीर रूप से घायल हो गया है। मृतकों में चार इंटरमीडिएट के छात्र शामिल हैं।",
+    "title": "राजधानी एक्सप्रेस की चपेट में आए छात्र",
+    "caption": "आंध्र प्रदेश के श्रीकाकुलम में रेलवे ट्रैक पार कर रहे चार छात्रों की राजधानी एक्सप्रेस ट्रेन की चपेट में आने से दर्दनाक मौत हो गई।",
+    "hashtags": [
+      "AndhraPradesh",
+      "TrainAccident",
+      "Srikakulam",
+      "BreakingNews",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "India flood water street",
+      "Indian railway track train",
+      "India ambulance emergency hospital"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38521937/pexels-photo-38521937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India flood water street",
+        "credit": "Trishik Bose",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian railway track train",
+        "credit": "Satvik Pandurangi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India ambulance emergency hospital",
+        "credit": "Chauhan Dixant",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "oman_coast_commercial_ship_attack_indian_death",
+    "virality_score": 8,
+    "reason": "Grave security incident off Oman coast resulting in the death of an Indian seafarer.",
+    "region": "india",
+    "headline": "ओमान तट के पास जहाज पर हमला, UP के सूरज यादव की मौत; 19 भारतीयों को बचाया गया",
+    "source_summary": "ओमान के तट के पास एक और कमर्शियल जहाज पर हमला हुआ है. इस हमले में एक भारतीय नाविक की मौत हो गई है.",
+    "source_url": "https://ndtv.in/world-news/oman-coast-mv-cape-dao-attack-indian-seafarer-suraj-yadav-deoria-up-dead-19-rescued-mea-condemns-12088754#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 23 Sep 2026 23:04:05 +0530",
+    "hook": "ओमान तट के पास कमर्शियल जहाज पर बड़ा हमला, उत्तर प्रदेश के सूरज यादव की मौत!",
+    "script_hi": "ओमान तट के पास एक कमर्शियल जहाज पर हुए हमले में उत्तर प्रदेश के सूरज यादव की मौत हो गई है। इस घातक हमले के बाद उन्नीस भारतीय नाविकों को सुरक्षित बचा लिया गया है।",
+    "tts_text_hi": "ओमान तट के पास एक कमर्शियल जहाज पर हुए हमले में उत्तर प्रदेश के सूरज यादव की मौत हो गई है। इस घातक हमले के बाद उन्नीस भारतीय नाविकों को सुरक्षित बचा लिया गया है।",
+    "title": "ओमान तट के पास जहाज पर हमला, भारतीय नाविक की मौत",
+    "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।",
+    "hashtags": [
+      "#OmanAttack",
+      "#IndianNavy",
+      "#BreakingNews",
+      "#UttarPradesh",
+      "#IndiaNews",
+      "#Oman"
+    ],
+    "visual_queries": [
+      "Oman coastal waters India",
+      "commercial cargo ship India",
+      "Indian rescue operation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/15739058/15739058-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cargo ship at sea",
+        "credit": "Natural sound",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36471616/pexels-photo-36471616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Oman coastal waters India",
+        "credit": "Siarhei Nester",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38724586/pexels-photo-38724586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial cargo ship India",
+        "credit": "Raj Bakshi",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30091584/pexels-photo-30091584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian rescue operation India",
+        "credit": "Kizhakke Vdu",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28195972/pexels-photo-28195972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian ocean waves",
+        "credit": "Saurabh  Kumar",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18518262/pexels-photo-18518262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sailor working on ship",
+        "credit": "Diego F. Parra",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37659737/pexels-photo-37659737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sea rescue operation",
+        "credit": "Anoop VS",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "ओमान तट के पास जहाज पर हमला, भारतीय नाविक की मौत",
+        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
+      },
+      "hashtags": [
+        "#OmanAttack",
+        "#IndianNavy",
+        "#BreakingNews",
+        "#UttarPradesh",
+        "#IndiaNews"
+      ]
+    },
+    "audio_path": "audio/oman_coast_commercial_ship_attack_indian_death.wav",
+    "audio_duration_sec": 11.71,
+    "video_path": "videos/oman_coast_commercial_ship_attack_indian_death.mp4",
+    "video_duration_sec": 19.76
   }
 ]
