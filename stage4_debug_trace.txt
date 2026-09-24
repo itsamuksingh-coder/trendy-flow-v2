@@ -1,8 +1,5 @@
-ready_labels: ['stock_market_crash_sensex_fall_september', 'trump_xi_jinping_us_visit_b1_bombers']
+ready_labels: ['uber_driver_turned_asian_games_medallist']
 
-greater_noida_yamuna_expressway_sleeper_bus_fire: SKIPPED (not in ready set)
-amroha_farmhouse_gangrape_cops_crpf_arrest: SKIPPED (not in ready set)
-stock_market_crash_sensex_fall_september: SUCCESS -> video_path=videos/stock_market_crash_sensex_fall_september.mp4 dur=29.524218
-trump_xi_jinping_us_visit_b1_bombers: SUCCESS -> video_path=videos/trump_xi_jinping_us_visit_b1_bombers.mp4 dur=24.021224
-delhi_durga_scheme_pink_e_autos_women: SKIPPED (not in ready set)
-food_oil_customs_duty_cut_festival_relief: SKIPPED (not in ready set)
+yamuna_expressway_sleeper_bus_fire_deaths: SKIPPED (not in ready set)
+uber_driver_turned_asian_games_medallist: SUCCESS -> video_path=videos/uber_driver_turned_asian_games_medallist.mp4 dur=26.134218
+amroha_farmhouse_gangrape_cops_arrested: SKIPPED (not in ready set)
