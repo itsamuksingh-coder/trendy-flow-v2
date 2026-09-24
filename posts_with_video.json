@@ -1,417 +1,62 @@
 [
   {
-    "topic_label": "greater_noida_yamuna_expressway_bus_fire",
+    "topic_label": "greater_noida_yamuna_expressway_sleeper_bus_fire",
     "virality_score": 9,
-    "reason": "Major tragic accident on Yamuna Expressway with 9 deaths has massive local and national audience impact.",
+    "reason": "Major tragic accident with 9 deaths on Yamuna Expressway has extremely high local and national engagement.",
     "region": "india",
-    "headline": "ग्रेटर नोएडा: यमुना एक्सप्रेसवे पर स्लीपर बस बनी आग का गोला, 9 यात्रियों की दर्दनाक मौत",
-    "source_summary": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई, जिससे यात्रियों में अफरा तफरी मच गई. हादले में 9 यात्रियों की मौत हो गई है. वहीं कुछ यात्रियों ने कूदकर अपनी जान बचाई. बस में करीब 40 से 50 यात्री सवार थे.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-yamuna-expressway-sleeper-bus-fire-passengers-trapped-jewar-fire-department-ntc-agkp-rpti-2651484-2026-09-24?utm_source=rssfeed",
+    "headline": "&#039;बदबू आ रही थी, ड्राइवर ने नहीं रोकी बस&#039;, यात्री ने बताया &#039;बर्निंग बस&#039; का खौफनाक मंजर",
+    "source_summary": "दिल्ली से महोबा जा रही स्लीपर बस में आग लगने से 9 यात्रियों की मौत हो गई.  ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर यात्रियों ने आग लगने से पहले धुआं और बदबू महसूस की थी. हालांकि आरोप है ड्राइवर ने बस रोकने से इंकार कर दिया. हादसे के बाद ड्राइवर और कंडक्टर मौके से फरार हो गए.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-yamuna-expressway-sleeper-bus-fire-incident-traveller-accussed-driver-negligence-ntc-aktw-rptc-2651600-2026-09-24?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-24T06:59:50+05:30",
-    "hook": "ग्रेटर नोएडा में यमुना एक्सप्रेसवे पर चलती बस बनी आग का गोला!",
-    "script_hi": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई। इस दर्दनाक हादसे में नौ यात्रियों की जलकर मौत हो गई है। बस में चालीस से पचास यात्री सवार थे, जिनमें से कुछ ने कूदकर अपनी जान बचाई।",
-    "tts_text_hi": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में अचानक भीषण आग लग गई। इस दर्दनाक हादसे में नौ यात्रियों की जलकर मौत हो गई है। बस में चालीस से पचास यात्री सवार थे, जिनमें से कुछ ने कूदकर अपनी जान बचाई।",
-    "title": "ग्रेटर नोएडा: यमुना एक्सप्रेसवे पर बस में आग, नौ यात्रियों की मौत",
-    "caption": "ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर एक चलती स्लीपर बस में आग लगने से नौ यात्रियों की दर्दनाक मौत हो गई। बस में चालीस से पचास लोग सवार थे।",
+    "published": "2026-09-24T09:31:38+05:30",
+    "hook": "बर्निंग बस का खौफनाक मंजर, बदबू के बावजूद नहीं रोकी बस!",
+    "script_hi": "दिल्ली से महोबा जा रही स्लीपर बस में आग लगने से नौ यात्रियों की मौत हो गई। ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर यात्रियों ने आग लगने से पहले धुआं और बदबू महसूस की थी। आरोप है कि ड्राइवर ने बस रोकने से इंकार कर दिया। हादसे के बाद ड्राइवर और कंडक्टर मौके से फरार हो गए।",
+    "tts_text_hi": "दिल्ली से महोबा जा रही स्लीपर बस में आग लगने से नौ यात्रियों की मौत हो गई। ग्रेटर नोएडा के यमुना एक्सप्रेसवे पर यात्रियों ने आग लगने से पहले धुआं और बदबू महसूस की थी। आरोप है कि ड्राइवर ने बस रोकने से इंकार कर दिया। हादसे के बाद ड्राइवर और कंडक्टर मौके से फरार हो गए।",
+    "title": "यमुना एक्सप्रेसवे पर बर्निंग बस हादसा",
+    "caption": "दिल्ली से महोबा जा रही स्लीपर बस में आग लगने से नौ यात्रियों की दर्दनाक मौत, ड्राइवर पर लगे गंभीर आरोप।",
     "hashtags": [
       "GreaterNoida",
       "YamunaExpressway",
-      "BusFire",
-      "UttarPradesh",
+      "BusAccident",
+      "DelhiNews",
       "BreakingNews",
-      "NewsUpdates"
+      "AccidentNews"
     ],
     "visual_queries": [
+      "burning bus India",
       "Yamuna Expressway India road",
-      "burning bus India highway",
-      "fire truck India highway"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27376203/pexels-photo-27376203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "highway accident tragedy India",
-        "credit": "Aleksandar Rasic",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fire truck India highway",
-        "credit": "Rana Muskan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 10,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "bengaluru_ceo_hiring_ban_north_indian_men",
-    "virality_score": 9,
-    "reason": "Controversial company hiring ban targeting specific states sparks massive viral debate on social media.",
-    "region": "india",
-    "headline": "बिहार समेत 4 राज्यों के पुरुषों को नौकरी नहीं देगा ये CEO, मचा बवाल",
-    "source_summary": "बेंगलुरु की एक कंपनी के सीईओ ने यूपी, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है. सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया. उनके इस फैसले के बाद सोशल मीडिया पर बहस छिड़ गई है.",
-    "source_url": "https://www.aajtak.in/trending/story/bengaluru-ceo-bans-male-hiring-from-up-bihar-rajasthan-madhya-pradesh-viral-x-post-rttw-dskc-2651489-2026-09-24?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-24T07:19:03+05:30",
-    "hook": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा ये सीईओ!",
-    "script_hi": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने का ऐलान किया है। सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया है। इस अजीबोगरीब फैसले के बाद सोशल मीडिया पर भारी बवाल मच गया है और लोग तीखी प्रतिक्रिया दे रहे हैं।",
-    "tts_text_hi": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने का ऐलान किया है। सीईओ ने इसके पीछे एक पूर्व कर्मचारी से जुड़ी घटना और महिला कर्मचारियों की सुरक्षा को वजह बताया है। इस अजीबोगरीब फैसले के बाद सोशल मीडिया पर भारी बवाल मच गया है और लोग तीखी प्रतिक्रिया दे रहे हैं।",
-    "title": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा बेंगलुरु का सीईओ",
-    "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।",
-    "hashtags": [
-      "Bihar",
-      "UttarPradesh",
-      "JobNews",
-      "Trending",
-      "Bengaluru",
-      "SocialMedia",
-      "NewsUpdates"
-    ],
-    "visual_queries": [
-      "corporate office India",
-      "angry social media user India",
-      "news debate India"
+      "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38914615/pexels-photo-38914615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "corporate office India",
-        "credit": "Sudhanshu Sharma",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8204031/pexels-photo-8204031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry social media user India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8847165/pexels-photo-8847165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "news debate India",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern corporate office India",
-        "credit": "Jansher Chakkittammal",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31786681/pexels-photo-31786681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "corporate office meeting India",
-        "credit": "Fahad Puthawala",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8369251/pexels-photo-8369251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "business professional working late",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12902942/pexels-photo-12902942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "office worker reading laptop",
-        "credit": "Mizuno K",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बिहार और यूपी के पुरुषों को नौकरी नहीं देगा बेंगलुरु का सीईओ",
-        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "बेंगलुरु की एक कंपनी के सीईओ ने उत्तर प्रदेश, बिहार, राजस्थान और मध्य प्रदेश के पुरुष उम्मीदवारों को नौकरी न देने की बात कही है, जिससे सोशल मीडिया पर बहस छिड़ गई है।\n\n#Bihar #UttarPradesh #JobNews #Trending #Bengaluru"
-      },
-      "hashtags": [
-        "Bihar",
-        "UttarPradesh",
-        "JobNews",
-        "Trending",
-        "Bengaluru"
-      ]
-    },
-    "audio_path": "audio/bengaluru_ceo_hiring_ban_north_indian_men.wav",
-    "audio_duration_sec": 25.93,
-    "video_path": "videos/bengaluru_ceo_hiring_ban_north_indian_men.mp4",
-    "video_duration_sec": 33.98
-  },
-  {
-    "topic_label": "govinda_komal_rani_lalbagcha_raja_darshan",
-    "virality_score": 9,
-    "reason": "Celebrity controversy involving Govinda visiting Lalbagcha Raja with actress Komal Rani instead of his wife.",
-    "region": "india",
-    "headline": "गोविंदा ने एक्ट्रेस कोमल रानी के साथ किया बप्पा का दर्शन",
-    "source_summary": "गोविंदा लालबागचा राजा के दर्शन करने पत्नी सुनीता आहूजा के बजाय एक्ट्रेस कोमल रानी स्वर्णकार के साथ पहुंचे। दोनों का वीडियो सामने आने के बाद उनके रिश्ते को लेकर चल रही चर्चाओं ने फिर जोर पकड़ लिया।",
-    "source_url": "https://www.aajtak.in/short-videos/video/bollywood-govinda-wife-sunita-ahuja-rumered-girlfriend-komal-rani-lalbaugcha-raja-ganpati-mmtc-2651005-2026-09-24?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-24T06:30:04+05:30",
-    "hook": "गोविंदा पहुंचे लालबागचा राजा के दर्शन करने!",
-    "script_hi": "अभिनेता गोविंदा अपनी पत्नी सुनीता आहूजा के बजाय अभिनेत्री कोमल रानी स्वर्णकार के साथ लालबागचा राजा के दर्शन करने पहुंचे। दोनों का यह वीडियो सामने आने के बाद उनके रिश्ते को लेकर सोशल मीडिया पर चर्चाएं तेज हो गईं हैं।",
-    "tts_text_hi": "अभिनेता गोविंदा अपनी पत्नी सुनीता आहूजा के बजाय अभिनेत्री कोमल रानी स्वर्णकार के साथ लालबागचा राजा के दर्शन करने पहुंचे। दोनों का यह वीडियो सामने आने के बाद उनके रिश्ते को लेकर सोशल मीडिया पर चर्चाएं तेज हो गईं हैं।",
-    "title": "गोविंदा ने एक्ट्रेस कोमल रानी के साथ किया बप्पा का दर्शन",
-    "caption": "गोविंदा अपनी पत्नी सुनीता के बजाय एक्ट्रेस कोमल रानी के साथ लालबागचा राजा के दर्शन करने पहुंचे, वीडियो वायरल होने के बाद चर्चाएं तेज।",
-    "hashtags": [
-      "Govinda",
-      "KomalRani",
-      "LalbaugchaRaja",
-      "BollywoodNews",
-      "MumbaiGanpati",
-      "ViralVideo"
-    ],
-    "visual_queries": [
-      "Bollywood actor India",
-      "Indian celebrity temple",
-      "Mumbai crowd street India"
-    ],
-    "named_person": "Govinda",
-    "named_person_hi": "गोविंदा",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of individuals, which generic stock B-roll cannot accurately represent and requires manual addition of the real footage.",
+    "flag_reason": "The story involves an unproven allegation against a specific named/implicated individual (the driver refusing to stop) and a specific fatal accident incident where generic stock footage will not capture the actual event.",
     "assets": [
-      {
-        "type": "text_card",
-        "text": "गोविंदा",
-        "source": "fallback",
-        "query": "Govinda",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34937345/pexels-photo-34937345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bollywood actor India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34084334/pexels-photo-34084334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian celebrity temple",
-        "credit": "Karan Ghadi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13975198/pexels-photo-13975198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai crowd street India",
-        "credit": "Swapnil Sharma",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "roshibina_devi_asian_games_silver_medal",
-    "virality_score": 8,
-    "reason": "Inspiring sports milestone as Roshibina Devi wins her third consecutive Asian Games medal.",
-    "region": "india",
-    "headline": "रोश‍िब‍िना ने फिर जीता सिल्वर, गोल्ड से चूकीं, चीनी ख‍िलाड़ी ने हराया",
-    "source_summary": "भारत की वुशू खिलाड़ी रोश‍िब‍िना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक अपने नाम किया. महिलाओं के 60 किग्रा सांडा फाइनल में उन्हें चीन की झांग शियाओयू के खिलाफ 0-2 से हार मिली. झांग ने दोनों राउंड 5-0 से जीते और मुकाबला 10-0 से अपने नाम किया. रोश‍िब‍िना ने इससे पहले 2023 में सिल्वर और 2018 में ब्रॉन्ज जीता था.",
-    "source_url": "https://www.aajtak.in/sports/asian-games/story/rosibina-devi-wins-silver-asian-games-2026-wushu-60kg-sanda-final-tspok-dskc-2651488-2026-09-24?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-24T07:10:29+05:30",
-    "hook": "रोशिबिना ने भारत के लिए फिर जीता सिल्वर मेडल!",
-    "script_hi": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक जीतकर इतिहास रच दिया है। महिलाओं के साठ किलोग्राम सांडा फाइनल में उन्हें चीन की खिलाड़ी के खिलाफ हार का सामना करना पड़ा और वह गोल्ड मेडल से चूक गईं। रोशिबिना ने इससे पहले दो हजार तेईस में सिल्वर और दो हजार अठारह में ब्रॉन्ज मेडल जीता था।",
-    "tts_text_hi": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में लगातार तीसरी बार पदक जीतकर इतिहास रच दिया है। महिलाओं के साठ किलोग्राम सांडा फाइनल में उन्हें चीन की खिलाड़ी के खिलाफ हार का सामना करना पड़ा और वह गोल्ड मेडल से चूक गईं। रोशिबिना ने इससे पहले दो हजार तेईस में सिल्वर और दो हजार अठारह में ब्रॉन्ज मेडल जीता था।",
-    "title": "रोशिबिना देवी ने एशियन गेम्स में जीता सिल्वर मेडल",
-    "caption": "भारत की वुशू खिलाड़ी रोशिबिना देवी नाओरेम ने एशियन गेम्स में शानदार प्रदर्शन करते हुए सिल्वर मेडल अपने नाम किया।",
-    "hashtags": [
-      "RoshibinaDevi",
-      "AsianGames",
-      "Wushu",
-      "TeamIndia",
-      "SilverMedal",
-      "SportsNews",
-      "IndiaAtAsianGames"
-    ],
-    "visual_queries": [
-      "Indian athlete portrait India",
-      "wushu martial arts India",
-      "Asian Games stadium India",
-      "silver medal celebration India"
-    ],
-    "named_person": "Naorem Roshibina Devi",
-    "named_person_hi": "रोशिबिना देवी नाओरेम",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "रोशिबिना देवी नाओरेम",
-        "source": "fallback",
-        "query": "Naorem Roshibina Devi",
-        "duration_sec": 4.0
-      },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/7045201/7045201-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "wushu martial arts India",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 17,
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30902345/pexels-photo-30902345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33895617/pexels-photo-33895617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian athlete portrait India",
-        "credit": "Anil  Sharma",
+        "query": "highway bus travel India",
+        "credit": "GOWTHAM AGM",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28146983/pexels-photo-28146983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Asian Games stadium India",
-        "credit": "Nihar Manyalli",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6827126/pexels-photo-6827126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "silver medal celebration India",
-        "credit": "Antoni Shkraba",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "रोशिबिना देवी ने एशियन गेम्स में फिर जीता सिल्वर मेडल! 🥈",
-        "caption": "आखिरी पल में चूका गोल्ड, फिर भी रोशिबिना ने देश का सिर गर्व से ऊंचा कर दिया। 🇮🇳\n\nचीन की खिलाड़ी के खिलाफ कड़े मुकाबले में उन्होंने शानदार प्रदर्शन करते हुए सिल्वर मेडल अपने नाम किया।\n\nक्या आपको लगता है कि इस बार गोल्ड आ सकता था? कमेंट में बताएं और पूरी कहानी देखें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "गोल्ड से चूकीं, पर दिल जीत लिया! 🥈 रोशिबिना देवी ने एक बार फिर देश के लिए मेडल जीतकर इतिहास रच दिया है।\n\nचीनी खिलाड़ी के खिलाफ मुकाबले में उन्होंने अपनी पूरी ताकत झोंक दी थी।\n\nशेयर करें इस बेटी की शानदार उपलब्धि को और अपनी राय दें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "रोशिबिना देवी ने एक बार फिर साबित कर दिया कि उनका मुकाबला करना आसान नहीं है। 🇮🇳\n\nभले ही वे गोल्ड मेडल से चूक गईं और उन्हें सिल्वर से संतोष करना पड़ा, लेकिन जिस जज्बे के साथ उन्होंने चीनी खिलाड़ी को टक्कर दी, वह वाकई काबिले तारीफ है।\n\nआपको उनकी यह परफॉरमेंस कैसी लगी? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#RoshibinaDevi #AsianGames #SilverMedal #TeamIndia #SportsNews"
-      },
-      "hashtags": [
-        "RoshibinaDevi",
-        "AsianGames",
-        "SilverMedal",
-        "TeamIndia",
-        "SportsNews"
-      ]
-    },
-    "audio_path": "audio/roshibina_devi_asian_games_silver_medal.wav",
-    "audio_duration_sec": 23.25,
-    "video_path": "videos/roshibina_devi_asian_games_silver_medal.mp4",
-    "video_duration_sec": 31.22
-  },
-  {
-    "topic_label": "us_navy_uss_lincoln_suicide_attempts",
-    "virality_score": 8,
-    "reason": "Shocking global military news involving suicide attempts by US sailors during extended deployment.",
-    "region": "india",
-    "headline": "US युद्धपोत पर 8 नौसैनिकों ने की सुसाइड की कोशिश, सीक्रेट खत से खलबली",
-    "source_summary": "अमेरिकी नेवी जहाज USS अब्राहम लिंकन पर तैनात आठ सैनिकों ने ईरान युद्ध के दौरान लंबी तैनाती के बीच आत्महत्या की कोशिश की. नेवी सेक्रेटरी हंग काओ ने सीनेटर गिलीब्रांड को भेजे पत्र में यह जानकारी दी. जहाज 286 दिन समुद्र में रहा और तय समय से ज्यादा देर तक तैनात रखा गया.",
-    "source_url": "https://www.aajtak.in/world/story/uss-abraham-lincoln-navy-suicide-attempts-iran-war-286-days-deployment-sailor-mental-health-hung-cao-us-navy-ntc-agkp-dskc-2651482-2026-09-24?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-24T06:48:22+05:30",
-    "hook": "अमेरिका के सबसे ताकतवर युद्धपोत पर खौफनाक सच आया सामने!",
-    "script_hi": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की है। नेवी सेक्रेटरी हंग काओ ने सीनेटर को भेजे पत्र में यह खुलासा किया है। ईरान युद्ध के दौरान यह जहाज दो सौ छियासी दिनों तक समुद्र में रहा और तय समय से ज्यादा तैनात रहा।",
-    "tts_text_hi": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की है। नेवी सेक्रेटरी हंग काओ ने सीनेटर को भेजे पत्र में यह खुलासा किया है। ईरान युद्ध के दौरान यह जहाज दो सौ छियासी दिनों तक समुद्र में रहा और तय समय से ज्यादा तैनात रहा।",
-    "title": "US युद्धपोत पर सैनिकों की सुसाइड कोशिश",
-    "caption": "अमेरिकी नेवी के युद्धपोत यू एस एस अब्राहम लिंकन पर तैनात आठ नौसैनिकों ने आत्महत्या की कोशिश की। लंबी तैनाती और तनाव के चलते यह खौफनाक कदम उठाया गया।",
-    "hashtags": [
-      "USNavy",
-      "USWarship",
-      "BreakingNews",
-      "America",
-      "MilitaryNews"
-    ],
-    "visual_queries": [
-      "US Navy aircraft carrier",
-      "military letter document",
-      "ocean waves sea"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/39597264/16878740_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "military letter document",
-        "credit": "Tolga deniz Aran",
-        "source_duration_sec": 19,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15922967/pexels-photo-15922967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "US Navy aircraft carrier",
-        "credit": "Giona Mason",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34701685/pexels-photo-34701685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "ocean waves sea",
-        "credit": "Tuấn Vũ",
+        "query": "Yamuna Expressway India road",
+        "credit": "Mahendra Meena",
         "duration_sec": 5
       }
     ],
@@ -420,70 +65,245 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "akhilesh_yadav_pda_yatra_raebareli",
-    "virality_score": 8,
-    "reason": "Strategic political launch by Akhilesh Yadav in Congress bastion ahead of 2027 UP polls.",
+    "topic_label": "amroha_farmhouse_gangrape_cops_crpf_arrest",
+    "virality_score": 9,
+    "reason": "Shocking gangrape case involving police and CRPF personnel in Amroha guarantees massive outrage and views.",
     "region": "india",
-    "headline": "कांग्रेस के गढ़ से अखिलेश की PDA यात्रा का आगाज, समझिए मायने",
-    "source_summary": "सपा अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष 'पीडीए रथ यात्रा' का आगाज कर 2027 के यूपी विधानसभा चुनाव का शंखनाद कर दिया है. कांग्रेस के इस अभेद्य गढ़ से यात्रा शुरू कर अखिलेश यादव ने जहां एक ओर लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, वहीं दूसरी ओर सहयोगी दलों पर मनोवैज्ञानिक दबाव बनाने का बड़ा दांव भी खेला है.",
-    "source_url": "https://www.aajtak.in/elections/assembly-chunav/story/akhilesh-yadav-pda-rath-yatra-congress-rahul-gandhi-raebareli-mission-2027-ntcpkb-dskc-2651203-2026-09-24?utm_source=rssfeed",
+    "headline": "दारोगा, सिपाही और CRPF जवानों ने किया गैंगरेप! 23 साल की युवती के आरोप",
+    "source_summary": "अमरोहा के एक फार्म हाउस में 23 साल की युवती से कथित गैंगरेप का मामला सामने आया है. पीड़िता की शिकायत पर पुलिस ने CRPF के एक इंस्पेक्टर और हेड कॉन्स्टेबल के साथ यूपी पुलिस के एक दारोगा और हेड कॉन्स्टेबल को गिरफ्तार किया है. पुलिस के मुताबिक, आरोपी युवती के परिचित थे और 22 सितंबर को उसके साथ हसनपुर इलाके में पहुंचे थे.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/amroha-farmhouse-gang-rape-case-crpf-up-police-personnel-four-arrested-lcla-strc-2651497-2026-09-24?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-24T06:54:03+05:30",
-    "hook": "कांग्रेस के गढ़ से अखिलेश यादव का बड़ा सियासी दांव!",
-    "script_hi": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष पीडीए रथ यात्रा का आगाज कर दो हजार सत्ताईस के उत्तर प्रदेश विधानसभा चुनाव का शंखनाद कर दिया है। कांग्रेस के इस गढ़ से यात्रा शुरू कर अखिलेश ने लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, साथ ही सहयोगी दलों पर मनोवैज्ञानिक दबाव भी बनाया है।",
-    "tts_text_hi": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव ने रायबरेली के बछरावां से विशेष पीडीए रथ यात्रा का आगाज कर दो हजार सत्ताईस के उत्तर प्रदेश विधानसभा चुनाव का शंखनाद कर दिया है। कांग्रेस के इस गढ़ से यात्रा शुरू कर अखिलेश ने लोधी और पासी वोट बैंक को साधने की रणनीति अपनाई है, साथ ही सहयोगी दलों पर मनोवैज्ञानिक दबाव भी बनाया है।",
-    "title": "अखिलेश यादव की पीडीए यात्रा",
-    "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।",
+    "published": "2026-09-24T08:08:06+05:30",
+    "hook": "अमरोहा से हैरान कर देने वाली खबर! खाकी पर लगा गैंगरेप का गंभीर आरोप।",
+    "script_hi": "उत्तर प्रदेश के अमरोहा से एक सनसनीखेज मामला सामने आया है, जहां तेईस साल की युवती ने सीआरपीएफ के एक इंस्पेक्टर और हेड कॉन्स्टेबल समेत यूपी पुलिस के एक दारोगा और हेड कॉन्स्टेबल पर गैंगरेप का आरोप लगाया है। पुलिस ने त्वरित कार्रवाई करते हुए चारों आरोपियों को गिरफ्तार कर लिया है। घटना बाईस सितंबर की है जब आरोपी पीड़िता को हसनपुर इलाके के एक फार्म हाउस ले गए थे। मामले की जांच जारी है।",
+    "tts_text_hi": "उत्तर प्रदेश के अमरोहा से एक सनसनीखेज मामला सामने आया है, जहां तेईस साल की युवती ने सीआरपीएफ के एक इंस्पेक्टर और हेड कॉन्स्टेबल समेत यूपी पुलिस के एक दारोगा और हेड कॉन्स्टेबल पर गैंगरेप का आरोप लगाया है। पुलिस ने त्वरित कार्रवाई करते हुए चारों आरोपियों को गिरफ्तार कर लिया है। घटना बाईस सितंबर की है जब आरोपी पीड़िता को हसनपुर इलाके के एक फार्म हाउस ले गए थे। मामले की जांच जारी है।",
+    "title": "अमरोहा में खाकी पर गैंगरेप का आरोप, सीआरपीएफ और यूपी पुलिस के चारकर्मी गिरफ्तार",
+    "caption": "अमरोहा के एक फार्म हाउस में तेईस साल की युवती से कथित गैंगरेप का मामला सामने आया है। पुलिस ने सीआरपीएफ और यूपी पुलिस के चार कर्मियों को गिरफ्तार कर लिया है।",
     "hashtags": [
-      "AkhileshYadav",
-      "SamajwadiParty",
-      "UPPolitics",
-      "PDAYatra",
-      "Raebareli",
-      "UPElections"
+      "AmrohaNews",
+      "UPPolice",
+      "CRPF",
+      "CrimeNews",
+      "UttarPradesh",
+      "BreakingNews"
     ],
     "visual_queries": [
-      "Indian politician speech India",
-      "political rally crowd India",
-      "election campaign vehicle India"
+      "police station India",
+      "UP police officers India",
+      "farmhouse exterior India"
     ],
-    "named_person": "Akhilesh Yadav",
-    "named_person_hi": "अखिलेश यादव",
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story involves serious criminal allegations against specific named/identified institutional personnel in a sensitive crime case, requiring manual review for reporting sensitivity.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police station India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35888613/pexels-photo-35888613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "farmhouse exterior India",
+        "credit": "Simranpreet  Singh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "stock_market_crash_sensex_fall_september",
+    "virality_score": 8,
+    "reason": "Sudden stock market crash hitting Sensex and Nifty draws massive interest from retail investors and the general public.",
+    "region": "india",
+    "headline": "खुलते ही मचा कोहराम, शेयर बाजार में क्रैश... अब NSE IPO का क्या होगा?",
+    "source_summary": "Stock Market Crash: शेयर बाजार निवेशकों के लिए गुरुवार की शुरुआत बेहद खराब रही. मार्केट में कारोबार ओपन होने के साथ ही सेंसेक्स-निफ्टी क्रैश हो गए. BSE Sensex तो खुलते ही 700 अंक से ज्यादा का गोता लगा गया.",
+    "source_url": "https://www.aajtak.in/business/news/story/stock-market-crash-sensex-nifty-plunges-know-big-reason-behind-fall-nse-ipo-tutc-dskc-2651639-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T09:39:29+05:30",
+    "hook": "गुरुवार की सुबह शेयर बाजार में हाहाकार मच गया!",
+    "script_hi": "गुरुवार की सुबह शेयर बाजार में निवेशकों के लिए बेहद खराब शुरुआत रही। कारोबार खुलते ही सेंसेक्स और निफ्टी में जोरदार क्रैश देखा गया। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स खुलते ही सात सौ से ज्यादा अंक लुढ़क गया। इस भारी गिरावट के बाद अब नेशनल स्टॉक एक्सचेंज के आईपीओ को लेकर निवेशकों की चिंताएं बढ़ गई हैं।",
+    "tts_text_hi": "गुरुवार की सुबह शेयर बाजार में निवेशकों के लिए बेहद खराब शुरुआत रही। कारोबार खुलते ही सेंसेक्स और निफ्टी में जोरदार क्रैश देखा गया। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स खुलते ही सात सौ से ज्यादा अंक लुढ़क गया। इस भारी गिरावट के बाद अब नेशनल स्टॉक एक्सचेंज के आईपीओ को लेकर निवेशकों की चिंताएं बढ़ गई हैं।",
+    "title": "शेयर बाजार में क्रैश, NSE IPO का क्या होगा?",
+    "caption": "गुरुवार को शेयर बाजार में भारी गिरावट दर्ज की गई। सेंसेक्स सात सौ से ज्यादा अंक टूट गया, जिससे निवेशकों में चिंता का माहौल है।",
+    "hashtags": [
+      "ShareMarket",
+      "StockMarketCrash",
+      "Sensex",
+      "Nifty",
+      "NSEIPO",
+      "BusinessNews",
+      "StockMarketIndia"
+    ],
+    "visual_queries": [
+      "Indian stock market building",
+      "stock market crash trading floor India",
+      "financial stock chart India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "text_card",
-        "text": "अखिलेश यादव",
-        "source": "fallback",
-        "query": "Akhilesh Yadav",
-        "duration_sec": 4.0
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39006630/16598105_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "financial stock chart India",
+        "credit": "Jakub Zerdzicki",
+        "source_duration_sec": 16,
+        "duration_sec": 6
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6120116/6120116-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "political rally India",
-        "credit": "Aditya Jaiswal",
-        "source_duration_sec": 14,
+        "query": "india stock market",
+        "credit": "Nataliya Vaitkevich",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38431825/16320065_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "stock exchange trading floor",
+        "credit": "Zulfugar Karimov",
+        "source_duration_sec": 15,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "stock market loss",
+        "credit": "Monstera Production",
+        "source_duration_sec": 16,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/34862859/pexels-photo-34862859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian politician speech India",
-        "credit": "Voters Party International",
+        "query": "Indian stock market building",
+        "credit": "Alexey K.",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stock market crash trading floor India",
+        "credit": "Vito Goričan",
+        "duration_sec": 3
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "गुरुवार सुबह शेयर बाजार में हाहाकार! NSE IPO पर मंडराया बड़ा खतरा 📉",
+        "caption": "गुरुवार की सुबह शेयर बाजार में हाहाकार मच गया! 📉\n\nतेज गिरावट के बाद अब निवेशकों के मन में सबसे बड़ा सवाल यही है कि इस क्रैश का सीधा असर आने वाले NSE के मेगा आईपीओ पर क्या पड़ेगा। \n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#ShareMarket #StockMarketCrash #NSEIPO #BusinessNews #ShareMarketIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "गुरुवार की सुबह शेयर बाजार में हाहाकार मच गया! 📉\n\nबाज़ार धड़ाम होने के बाद अब हर निवेशक की नजर इस बात पर है कि इसका असर बहुप्रतीक्षित NSE IPO पर क्या होगा। \n\nवीडियो पूरा देखें और शेयर करें इस बड़ी अपडेट को।\n\n#ShareMarket #StockMarketCrash #NSEIPO #BusinessNews #ShareMarketIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "गुरुवार की सुबह शेयर बाजार में हाहाकार मच गया! 📉\n\nअचानक आई इस जोरदार गिरावट ने मार्केट के तमाम समीकरण बिगाड़ कर रख दिए हैं। हालात ऐसे हैं कि अब निवेशक इस बात को लेकर बेहद चिंतित हैं कि इसका सीधा असर आने वाले NSE के बड़े आईपीओ पर कैसे पड़ेगा।\n\nपूरी खबर जानिए इस वीडियो में और नीचे कमेंट करके बताएं कि क्या आप भी इस बाजार में निवेश करते हैं?\n\n#ShareMarket #StockMarketCrash #NSEIPO #BusinessNews #ShareMarketIndia"
+      },
+      "hashtags": [
+        "ShareMarket",
+        "StockMarketCrash",
+        "NSEIPO",
+        "BusinessNews",
+        "ShareMarketIndia"
+      ]
+    },
+    "audio_path": "audio/stock_market_crash_sensex_fall_september.wav",
+    "audio_duration_sec": 21.48,
+    "video_path": "videos/stock_market_crash_sensex_fall_september.mp4",
+    "video_duration_sec": 29.52
+  },
+  {
+    "topic_label": "trump_xi_jinping_us_visit_b1_bombers",
+    "virality_score": 8,
+    "reason": "High-impact global geopolitics story featuring Donald Trump and Xi Jinping startled by B-1 bombers during state welcome.",
+    "region": "india",
+    "headline": "पुतिन की तरह जिनपिंग भी लड़ाकू जहाजों की गरज देख चौंके, मुस्कुराने लगे ट्रंप",
+    "source_summary": "अमेरिका पहुंचे चीनी राष्ट्रपति शी जिनपिंग के स्वागत समारोह के दौरान दो अमेरिकी B-1 बॉम्बर विमानों ने ऊपर से उड़ान भरी. तेज आवाज से जिनपिंग कुछ देर के लिए चौंकते नजर आए और पलटकर विमानों को देखते दिखाई दिए. इस बीच राष्ट्रपति ट्रंप मुस्कुराते नजर आए.",
+    "source_url": "https://www.aajtak.in/defence-news/story/xi-jinping-america-visit-meets-donald-trump-b1-bombers-trump-reaction-ntc-mnrd-smsr-2651530-2026-09-24?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-24T08:13:13+05:30",
+    "hook": "अमेरिका में जिनपिंग के ऊपर से गुजरे लड़ाकू विमान!",
+    "script_hi": "अमेरिका पहुंचे चीनी राष्ट्रपति शी जिनपिंग के स्वागत के दौरान आसमान में दो अमेरिकी बी वन बॉम्बर विमानों ने उड़ान भरी। विमानों की तेज आवाज से जिनपिंग चौंक गए और पलटकर देखने लगे, जिसे देखकर डोनाल्ड ट्रंप मुस्कुराते नजर आए।",
+    "tts_text_hi": "अमेरिका पहुंचे चीनी राष्ट्रपति शी जिनपिंग के स्वागत के दौरान आसमान में दो अमेरिकी बी वन बॉम्बर विमानों ने उड़ान भरी। विमानों की तेज आवाज से जिनपिंग चौंक गए और पलटकर देखने लगे, जिसे देखकर डोनाल्ड ट्रंप मुस्कुराते नजर आए।",
+    "title": "जिनपिंग के ऊपर से गुजरे अमेरिकी लड़ाकू विमान",
+    "caption": "अमेरिका यात्रा के दौरान शी जिनपिंग के स्वागत में उड़े अमेरिकी बॉम्बर विमान, आवाज सुनकर चौंके जिनपिंग तो मुस्कुराने लगे ट्रंप।",
+    "hashtags": [
+      "#XiJinping",
+      "#DonaldTrump",
+      "#USChina",
+      "#BreakingNews",
+      "#NewsShorts"
+    ],
+    "visual_queries": [
+      "White House arrival ceremony",
+      "military bomber jet flying",
+      "laughing political leader"
+    ],
+    "named_person": "Xi Jinping",
+    "named_person_hi": "शी जिनपिंग",
+    "secondary_persons": [
+      "Donald Trump"
+    ],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "शी जिनपिंग",
+        "source": "fallback",
+        "query": "Xi Jinping",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36594577/15515840_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "state visit welcome ceremony",
+        "credit": "Ranjit Patel",
+        "source_duration_sec": 6,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5241794/pexels-photo-5241794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "White House arrival ceremony",
+        "credit": "Zzel Ramirez",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087857/pexels-photo-39087857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6172591/pexels-photo-6172591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "political rally crowd India",
-        "credit": "Satyam Pixels",
+        "query": "laughing political leader",
+        "credit": "RDNE Stock project",
         "duration_sec": 5
       }
     ],
@@ -492,56 +312,58 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "अखिलेश यादव की पीडीए यात्रा",
-        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+        "title": "जिनपिंग के ऊपर से गुजरे अमेरिकी लड़ाकू विमान",
+        "caption": "अमेरिका यात्रा के दौरान शी जिनपिंग के स्वागत में उड़े अमेरिकी बॉम्बर विमान, आवाज सुनकर चौंके जिनपिंग तो मुस्कुराने लगे ट्रंप।\n\n##XiJinping ##DonaldTrump ##USChina ##BreakingNews ##NewsShorts"
       },
       "instagram": {
         "title": null,
-        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+        "caption": "अमेरिका यात्रा के दौरान शी जिनपिंग के स्वागत में उड़े अमेरिकी बॉम्बर विमान, आवाज सुनकर चौंके जिनपिंग तो मुस्कुराने लगे ट्रंप।\n\n##XiJinping ##DonaldTrump ##USChina ##BreakingNews ##NewsShorts"
       },
       "facebook": {
         "title": null,
-        "caption": "कांग्रेस के गढ़ रायबरेली से अखिलेश यादव ने शुरू की पीडीए रथ यात्रा, दो हजार सत्ताईस के चुनाव का किया शंखनाद।\n\n#AkhileshYadav #SamajwadiParty #UPPolitics #PDAYatra #Raebareli"
+        "caption": "अमेरिका यात्रा के दौरान शी जिनपिंग के स्वागत में उड़े अमेरिकी बॉम्बर विमान, आवाज सुनकर चौंके जिनपिंग तो मुस्कुराने लगे ट्रंप।\n\n##XiJinping ##DonaldTrump ##USChina ##BreakingNews ##NewsShorts"
       },
       "hashtags": [
-        "AkhileshYadav",
-        "SamajwadiParty",
-        "UPPolitics",
-        "PDAYatra",
-        "Raebareli"
+        "#XiJinping",
+        "#DonaldTrump",
+        "#USChina",
+        "#BreakingNews",
+        "#NewsShorts"
       ]
     },
-    "audio_path": "audio/akhilesh_yadav_pda_yatra_raebareli.wav",
-    "audio_duration_sec": 22.99,
-    "video_path": "videos/akhilesh_yadav_pda_yatra_raebareli.mp4",
-    "video_duration_sec": 31.03
+    "audio_path": "audio/trump_xi_jinping_us_visit_b1_bombers.wav",
+    "audio_duration_sec": 15.98,
+    "video_path": "videos/trump_xi_jinping_us_visit_b1_bombers.mp4",
+    "video_duration_sec": 24.02
   },
   {
-    "topic_label": "srikakulam_rajdhani_express_student_accident",
-    "virality_score": 8,
-    "reason": "Tragic railway accident in Andhra Pradesh claiming the lives of four intermediate students.",
+    "topic_label": "delhi_durga_scheme_pink_e_autos_women",
+    "virality_score": 7,
+    "reason": "Delhi government approving the DURGA scheme for women employment and pink e-autos has strong broad audience relevance.",
     "region": "india",
-    "headline": "दर्दनाक हादसा... राजधानी एक्सप्रेस की चपेट में 4 छात्र",
-    "source_summary": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पांच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए. हादसे में चार की मौत हो गई, जबकि एक गंभीर रूप से घायल है. मृतकों में चार इंटरमीडिएट छात्र बताए गए हैं. वीडियो में जानें मामला.",
-    "source_url": "https://www.aajtak.in/short-videos/video/railway-track-accident-srikakulam-andhra-pradesh-police-investigation-details-mmtm-2651244-2026-09-23?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-23T18:28:49+05:30",
-    "hook": "राजधानी एक्सप्रेस की चपेट में आने से चार छात्रों की दर्दनाक मौत!",
-    "script_hi": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पाँच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए। इस भीषण हादसे में चार छात्रों की मौके पर ही मौत हो गई, जबकि एक छात्र गंभीर रूप से घायल हो गया है। मृतकों में चार इंटरमीडिएट के छात्र शामिल हैं।",
-    "tts_text_hi": "आंध्र प्रदेश के श्रीकाकुलम में बाढ़ के पानी में मछली पकड़ने गए पाँच लड़के रेलवे ट्रैक पार करते समय राजधानी एक्सप्रेस की चपेट में आ गए। इस भीषण हादसे में चार छात्रों की मौके पर ही मौत हो गई, जबकि एक छात्र गंभीर रूप से घायल हो गया है। मृतकों में चार इंटरमीडिएट के छात्र शामिल हैं।",
-    "title": "राजधानी एक्सप्रेस की चपेट में आए छात्र",
-    "caption": "आंध्र प्रदेश के श्रीकाकुलम में रेलवे ट्रैक पार कर रहे चार छात्रों की राजधानी एक्सप्रेस ट्रेन की चपेट में आने से दर्दनाक मौत हो गई।",
+    "headline": "दिल्ली सरकार की DURGA योजना को कैबिनेट से मंजूरी; 1300 पिंक ई ऑटो, जानिए कौन कर सकेगा आवेदन",
+    "source_summary": "दिल्ली सरकार ने महिलाओं और ट्रांसजेंडर समुदाय को स्वरोजगार से जोड़ने के लिए DURGA योजना को मंजूरी दी है. सरकार का कहना है कि इस योजना से रोजगार के अवसर बढ़ेंगे, महिला सुरक्षा को मजबूती मिलेगी और राजधानी में लास्ट-माइल कनेक्टिविटी बेहतर होगी.",
+    "source_url": "https://ndtv.in/india/cabinet-decisions-delhi-government-durga-scheme-pink-e-auto-women-transgender-drivers-rules-eligibility-rekha-gupta-permits-how-to-apply-12089561#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Thu, 24 Sep 2026 07:22:31 +0530",
+    "hook": "दिल्ली की महिलाओं और ट्रांसजेंडर के लिए बड़ी खुशखबरी!",
+    "script_hi": "दिल्ली सरकार ने महिलाओं और ट्रांसजेंडर समुदाय को स्वरोजगार से जोड़ने के लिए दुर्गा योजना को मंजूरी दे दी है। इसके तहत एक हजार तीन सौ पिंक ई ऑटो चलाए जाएंगे। सरकार का कहना है कि इस योजना से रोजगार के नए अवसर बढ़ेंगे, महिला सुरक्षा को मजबूती मिलेगी और राजधानी में लास्ट माइल कनेक्टिविटी बेहतर होगी। जानिए कौन कर सकेगा इसके लिए आवेदन।",
+    "tts_text_hi": "दिल्ली सरकार ने महिलाओं और ट्रांसजेंडर समुदाय को स्वरोजगार से जोड़ने के लिए दुर्गा योजना को मंजूरी दे दी है। इसके तहत एक हजार तीन सौ पिंक ई ऑटो चलाए जाएंगे। सरकार का कहना है कि इस योजना से रोजगार के नए अवसर बढ़ेंगे, महिला सुरक्षा को मजबूती मिलेगी और राजधानी में लास्ट माइल कनेक्टिविटी बेहतर होगी। जानिए कौन कर सकेगा इसके लिए आवेदन।",
+    "title": "दिल्ली सरकार की DURGA योजना को मंजूरी",
+    "caption": "दिल्ली सरकार ने महिलाओं और ट्रांसजेंडर समुदाय के लिए DURGA योजना को मंजूरी दे दी है। इसके तहत एक हजार तीन सौ पिंक ई-ऑटो मिलेंगे, जिससे रोजगार और महिला सुरक्षा को बढ़ावा मिलेगा।",
     "hashtags": [
-      "AndhraPradesh",
-      "TrainAccident",
-      "Srikakulam",
-      "BreakingNews",
-      "HindiNews"
+      "#DelhiGovernment",
+      "#DurgaYojana",
+      "#PinkEAuto",
+      "#DelhiNews",
+      "#WomenSafety",
+      "#Empowerment",
+      "#BreakingNews"
     ],
     "visual_queries": [
-      "India flood water street",
-      "Indian railway track train",
-      "India ambulance emergency hospital"
+      "Delhi street India",
+      "electric auto rickshaw India",
+      "women safety India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -552,26 +374,26 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38521937/pexels-photo-38521937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India flood water street",
-        "credit": "Trishik Bose",
+        "query": "Delhi street India",
+        "credit": "Roman Saienko",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35671477/pexels-photo-35671477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian railway track train",
-        "credit": "Satvik Pandurangi",
+        "query": "electric auto rickshaw India",
+        "credit": "Cheese Burger",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/19927651/pexels-photo-19927651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India ambulance emergency hospital",
-        "credit": "Chauhan Dixant",
+        "query": "women safety India",
+        "credit": "Kalpit Visavadiya",
         "duration_sec": 5
       }
     ],
@@ -580,32 +402,31 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "oman_coast_commercial_ship_attack_indian_death",
-    "virality_score": 8,
-    "reason": "Grave security incident off Oman coast resulting in the death of an Indian seafarer.",
+    "topic_label": "food_oil_customs_duty_cut_festival_relief",
+    "virality_score": 7,
+    "reason": "Government cutting customs duty on edible oils right before the festival season directly impacts household budgets.",
     "region": "india",
-    "headline": "ओमान तट के पास जहाज पर हमला, UP के सूरज यादव की मौत; 19 भारतीयों को बचाया गया",
-    "source_summary": "ओमान के तट के पास एक और कमर्शियल जहाज पर हमला हुआ है. इस हमले में एक भारतीय नाविक की मौत हो गई है.",
-    "source_url": "https://ndtv.in/world-news/oman-coast-mv-cape-dao-attack-indian-seafarer-suraj-yadav-deoria-up-dead-19-rescued-mea-condemns-12088754#publisher=newsstand",
+    "headline": "खाने के तेल सस्‍ते होंगे! सरकार ने इतना घटा दिया टैक्‍स, सोयाबीन ऑयल, पाम ऑयल और सूरजमुखी के तेल पर बड़ी राहत",
+    "source_summary": "Food Oil Customs Duty Cut: सरकार ने त्‍यौहारों से पहले खाद्य तेलों पर बड़ी राहत दी है. केंद्र ने सोयाबीन, खजूर और सूरजमुखी के तेल पर बेसिक कस्‍टम्‍स ड्यूटी कितना कम किया और इससे क्‍या फायदे होंगे?",
+    "source_url": "https://ndtv.in/business-news/food-oil-to-be-cheaper-govt-cuts-customs-duty-on-soyabean-oil-palm-oil-and-sunflower-oil-from-24-september-festive-season-12089516#publisher=newsstand",
     "source_name": "NDTV Hindi",
-    "published": "Wed, 23 Sep 2026 23:04:05 +0530",
-    "hook": "ओमान तट के पास कमर्शियल जहाज पर बड़ा हमला, उत्तर प्रदेश के सूरज यादव की मौत!",
-    "script_hi": "ओमान तट के पास एक कमर्शियल जहाज पर हुए हमले में उत्तर प्रदेश के सूरज यादव की मौत हो गई है। इस घातक हमले के बाद उन्नीस भारतीय नाविकों को सुरक्षित बचा लिया गया है।",
-    "tts_text_hi": "ओमान तट के पास एक कमर्शियल जहाज पर हुए हमले में उत्तर प्रदेश के सूरज यादव की मौत हो गई है। इस घातक हमले के बाद उन्नीस भारतीय नाविकों को सुरक्षित बचा लिया गया है।",
-    "title": "ओमान तट के पास जहाज पर हमला, भारतीय नाविक की मौत",
-    "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।",
+    "published": "Thu, 24 Sep 2026 06:11:57 +0530",
+    "hook": "त्योहारों से पहले खाने के तेल पर बड़ी राहत!",
+    "script_hi": "त्योहारों से पहले सरकार ने खाने के तेल पर बड़ा फैसला लिया है। सोयाबीन, पाम और सूरजमुखी के तेल पर बेसिक कस्टम ड्यूटी घटा दी गई है। इस फैसले से बाजार में खाद्य तेल सस्ते होंगे और आम जनता को महंगाई से राहत मिलेगी।",
+    "tts_text_hi": "त्योहारों से पहले सरकार ने खाने के तेल पर बड़ा फैसला लिया है। सोयाबीन, पाम और सूरजमुखी के तेल पर बेसिक कस्टम ड्यूटी घटा दी गई है। इस फैसले से बाजार में खाद्य तेल सस्ते होंगे और आम जनता को महंगाई से राहत मिलेगी।",
+    "title": "खाने के तेल हुए सस्ते, सरकार ने घटाई कस्टम ड्यूटी",
+    "caption": "त्योहारों से पहले सरकार ने दी बड़ी राहत, सोयाबीन, पाम और सूरजमुखी के तेल पर घटाई कस्टम ड्यूटी।",
     "hashtags": [
-      "#OmanAttack",
-      "#IndianNavy",
-      "#BreakingNews",
-      "#UttarPradesh",
-      "#IndiaNews",
-      "#Oman"
+      "EdibleOil",
+      "FoodPrices",
+      "GovernmentUpdate",
+      "InflationRelief",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Oman coastal waters India",
-      "commercial cargo ship India",
-      "Indian rescue operation India"
+      "Indian grocery store cooking oil",
+      "cooking oil bottles India",
+      "Indian kitchen cooking oil"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -615,90 +436,32 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/15739058/15739058-hd_720_1280_60fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7990767/pexels-photo-7990767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cargo ship at sea",
-        "credit": "Natural sound",
-        "source_duration_sec": 16,
-        "duration_sec": 6
+        "query": "Indian grocery store cooking oil",
+        "credit": "Ivan S",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36471616/pexels-photo-36471616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8469437/pexels-photo-8469437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Oman coastal waters India",
-        "credit": "Siarhei Nester",
-        "duration_sec": 4.0
+        "query": "cooking oil bottles India",
+        "credit": "Tanner Barrott",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38724586/pexels-photo-38724586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35912068/pexels-photo-35912068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial cargo ship India",
-        "credit": "Raj Bakshi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30091584/pexels-photo-30091584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian rescue operation India",
-        "credit": "Kizhakke Vdu",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28195972/pexels-photo-28195972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian ocean waves",
-        "credit": "Saurabh  Kumar",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18518262/pexels-photo-18518262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sailor working on ship",
-        "credit": "Diego F. Parra",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37659737/pexels-photo-37659737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sea rescue operation",
-        "credit": "Anoop VS",
-        "duration_sec": 4.0
+        "query": "Indian kitchen cooking oil",
+        "credit": "musafirdost08",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ओमान तट के पास जहाज पर हमला, भारतीय नाविक की मौत",
-        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "ओमान तट के पास कमर्शियल जहाज पर हमला, उत्तर प्रदेश के सूरज यादव की मौत; उन्नीस भारतीय सुरक्षित बचाए गए।\n\n##OmanAttack ##IndianNavy ##BreakingNews ##UttarPradesh ##IndiaNews"
-      },
-      "hashtags": [
-        "#OmanAttack",
-        "#IndianNavy",
-        "#BreakingNews",
-        "#UttarPradesh",
-        "#IndiaNews"
-      ]
-    },
-    "audio_path": "audio/oman_coast_commercial_ship_attack_indian_death.wav",
-    "audio_duration_sec": 11.71,
-    "video_path": "videos/oman_coast_commercial_ship_attack_indian_death.mp4",
-    "video_duration_sec": 19.76
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   }
 ]
