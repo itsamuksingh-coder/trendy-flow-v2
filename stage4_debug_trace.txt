@@ -1,10 +1,9 @@
-ready_labels: ['cec_gyanesh_kumar_sir_row_opposition_protest', 'hurun_india_rich_list_shah_rukh_khan', 'iit_bombay_suicide_cctv_footage_exam_hall', 'mukherjee_nagar_du_student_eve_teasing_safari', 'trump_xi_jinping_b1_bombers_welcome']
+ready_labels: ['bahraich_pitbull_saves_owner_from_jackal', 'bengaluru_ceo_hiring_ban_four_states_row', 'greater_noida_bus_fire_nine_dead', 'hurun_india_rich_list_shah_rukh_khan_2026', 'parineeti_chopra_shaque_trust_no_one_netflix', 'rahul_gandhi_cec_gyanesh_kumar_resignation', 'stock_market_crash_4_lakh_crore_loss']
 
-trump_xi_jinping_b1_bombers_welcome: SUCCESS -> video_path=videos/trump_xi_jinping_b1_bombers_welcome.mp4 dur=36.089887
-greater_noida_sleeper_bus_fire_deaths: SKIPPED (not in ready set)
-hurun_india_rich_list_shah_rukh_khan: SUCCESS -> video_path=videos/hurun_india_rich_list_shah_rukh_khan.mp4 dur=29.556553
-cec_gyanesh_kumar_sir_row_opposition_protest: SUCCESS -> video_path=videos/cec_gyanesh_kumar_sir_row_opposition_protest.mp4 dur=31.089887
-mukherjee_nagar_du_student_eve_teasing_safari: SUCCESS -> video_path=videos/mukherjee_nagar_du_student_eve_teasing_safari.mp4 dur=25.740227
-iit_bombay_sahil_wakode_chatgpt_cctv: SKIPPED (not in ready set)
-iit_bombay_suicide_cctv_footage_exam_hall: SUCCESS -> video_path=videos/iit_bombay_suicide_cctv_footage_exam_hall.mp4 dur=32.056553
-nanny_blinkit_notes_viral_video: SKIPPED (not in ready set)
+rahul_gandhi_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/rahul_gandhi_cec_gyanesh_kumar_resignation.mp4 dur=25.507211
+hurun_india_rich_list_shah_rukh_khan_2026: SUCCESS -> video_path=videos/hurun_india_rich_list_shah_rukh_khan_2026.mp4 dur=33.189887
+greater_noida_bus_fire_nine_dead: SUCCESS -> video_path=videos/greater_noida_bus_fire_nine_dead.mp4 dur=25.189887
+bengaluru_ceo_hiring_ban_four_states_row: SUCCESS -> video_path=videos/bengaluru_ceo_hiring_ban_four_states_row.mp4 dur=25.889887
+stock_market_crash_4_lakh_crore_loss: SUCCESS -> video_path=videos/stock_market_crash_4_lakh_crore_loss.mp4 dur=21.72322
+parineeti_chopra_shaque_trust_no_one_netflix: SUCCESS -> video_path=videos/parineeti_chopra_shaque_trust_no_one_netflix.mp4 dur=27.156213
+bahraich_pitbull_saves_owner_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbull_saves_owner_from_jackal.mp4 dur=23.42322
