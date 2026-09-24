@@ -1,5 +1,8 @@
-ready_labels: ['uber_driver_turned_asian_games_medallist']
+ready_labels: ['asian_games_india_crushes_south_korea_hockey', 'govt_cuts_customs_duty_edible_oils_festive_season', 'hurun_india_rich_list_shah_rukh_khan_richest_actor']
 
-yamuna_expressway_sleeper_bus_fire_deaths: SKIPPED (not in ready set)
-uber_driver_turned_asian_games_medallist: SUCCESS -> video_path=videos/uber_driver_turned_asian_games_medallist.mp4 dur=26.134218
-amroha_farmhouse_gangrape_cops_arrested: SKIPPED (not in ready set)
+greater_noida_yamuna_expressway_bus_fire_9_dead: SKIPPED (not in ready set)
+amroha_gangrape_up_cops_crpf_arrested: SKIPPED (not in ready set)
+iit_bombay_sahil_wakode_suicide_chatgpt_footage: SKIPPED (not in ready set)
+asian_games_india_crushes_south_korea_hockey: SUCCESS -> video_path=videos/asian_games_india_crushes_south_korea_hockey.mp4 dur=32.520227
+hurun_india_rich_list_shah_rukh_khan_richest_actor: SUCCESS -> video_path=videos/hurun_india_rich_list_shah_rukh_khan_richest_actor.mp4 dur=32.389887
+govt_cuts_customs_duty_edible_oils_festive_season: SUCCESS -> video_path=videos/govt_cuts_customs_duty_edible_oils_festive_season.mp4 dur=26.668231
