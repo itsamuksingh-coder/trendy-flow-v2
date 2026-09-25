@@ -1,9 +1,8 @@
-ready_labels: ['amrit_bharat_express_bihar_gujarat_announcement', 'deepinder_goyal_temple_device_brain_blood_flow', 'mukherjee_nagar_du_students_harassment_arrest', 'trump_warning_xi_jinping_iran_support_global']
+ready_labels: ['buxar_train_hostage_murder_arrest', 'india_lpg_import_tender_shift_usa', 'jaishankar_un_pakistani_journalist_reply', 'pm_modi_bhajan_clubbing_khanjari']
 
-mukherjee_nagar_du_students_harassment_arrest: SUCCESS -> video_path=videos/mukherjee_nagar_du_students_harassment_arrest.mp4 dur=27.202222
-dehradun_woman_daylight_kidnapping_attempt: SKIPPED (not in ready set)
-amrit_bharat_express_bihar_gujarat_announcement: SUCCESS -> video_path=videos/amrit_bharat_express_bihar_gujarat_announcement.mp4 dur=26.22322
-suryakumar_yadav_fortuner_car_modification: SKIPPED (not in ready set)
-nri_boss_gifts_iphone_18_pro_employees: SKIPPED (not in ready set)
-deepinder_goyal_temple_device_brain_blood_flow: SUCCESS -> video_path=videos/deepinder_goyal_temple_device_brain_blood_flow.mp4 dur=27.156213
-trump_warning_xi_jinping_iran_support_global: SUCCESS -> video_path=videos/trump_warning_xi_jinping_iran_support_global.mp4 dur=28.82322
+delhi_kalkaji_aastha_kunj_park_gang_rape: SKIPPED (not in ready set)
+jaishankar_un_pakistani_journalist_reply: SUCCESS -> video_path=videos/jaishankar_un_pakistani_journalist_reply.mp4 dur=28.82322
+pm_modi_bhajan_clubbing_khanjari: SUCCESS -> video_path=videos/pm_modi_bhajan_clubbing_khanjari.mp4 dur=20.515215
+buxar_train_hostage_murder_arrest: SUCCESS -> video_path=videos/buxar_train_hostage_murder_arrest.mp4 dur=27.829229
+hisar_ celebratory_firing_delhi_police_cop_death: SKIPPED (not in ready set)
+india_lpg_import_tender_shift_usa: SUCCESS -> video_path=videos/india_lpg_import_tender_shift_usa.mp4 dur=29.756553
