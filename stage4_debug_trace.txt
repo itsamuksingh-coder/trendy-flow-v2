@@ -1,9 +1,8 @@
-ready_labels: ['ahmedabad_81_year_old_doctor_salary_fees', 'congress_nationwide_protest_cec_gyanesh_kumar', 'google_gemini_live_video_avatar_launch', 'jhajjar_gangster_cambodian_bride_marriage', 'varanasi_308_wheels_bahubali_truck']
+ready_labels: ['amit_shah_up_trade_show_katta_industry_remark', 'himachal_athlete_seema_asian_games_medal', 'jk_assembly_statehood_resolution_clash', 'noida_bus_fire_bjp_leader_son_mother_death', 'tata_aeris_compact_sedan_launch_price']
 
-varanasi_308_wheels_bahubali_truck: SUCCESS -> video_path=videos/varanasi_308_wheels_bahubali_truck.mp4 dur=28.02322
-sangurur_poisoned_sweets_children_murder: SKIPPED (not in ready set)
-jhajjar_gangster_cambodian_bride_marriage: SUCCESS -> video_path=videos/jhajjar_gangster_cambodian_bride_marriage.mp4 dur=35.489887
-congress_nationwide_protest_cec_gyanesh_kumar: SUCCESS -> video_path=videos/congress_nationwide_protest_cec_gyanesh_kumar.mp4 dur=30.689887
-ahmedabad_81_year_old_doctor_salary_fees: SUCCESS -> video_path=videos/ahmedabad_81_year_old_doctor_salary_fees.mp4 dur=27.249229
-meerut_bike_5_children_fine_viral: SKIPPED (not in ready set)
-google_gemini_live_video_avatar_launch: SUCCESS -> video_path=videos/google_gemini_live_video_avatar_launch.mp4 dur=25.289887
+noida_bus_fire_bjp_leader_son_mother_death: SUCCESS -> video_path=videos/noida_bus_fire_bjp_leader_son_mother_death.mp4 dur=26.552222
+jk_assembly_statehood_resolution_clash: SUCCESS -> video_path=videos/jk_assembly_statehood_resolution_clash.mp4 dur=29.589887
+tata_aeris_compact_sedan_launch_price: SUCCESS -> video_path=videos/tata_aeris_compact_sedan_launch_price.mp4 dur=33.19322
+amit_shah_up_trade_show_katta_industry_remark: SUCCESS -> video_path=videos/amit_shah_up_trade_show_katta_industry_remark.mp4 dur=27.289887
+himachal_athlete_seema_asian_games_medal: SUCCESS -> video_path=videos/himachal_athlete_seema_asian_games_medal.mp4 dur=23.67322
+meerut_bike_stunt_kids_heavy_fine: SKIPPED (not in ready set)
