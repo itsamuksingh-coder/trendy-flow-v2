@@ -1,9 +1,9 @@
-ready_labels: ['bahraich_pitbull_saves_owner_from_jackal', 'bengaluru_ceo_hiring_ban_four_states_row', 'greater_noida_bus_fire_nine_dead', 'hurun_india_rich_list_shah_rukh_khan_2026', 'parineeti_chopra_shaque_trust_no_one_netflix', 'rahul_gandhi_cec_gyanesh_kumar_resignation', 'stock_market_crash_4_lakh_crore_loss']
+ready_labels: ['australia_openai_hack_un_announcement', 'bahraich_pitbul_saves_woman_from_jackal', 'kanpur_vineeet_minocha_murder_son_arrest', 'mushtaq_khan_actor_demise_life_story', 'no_upi_day_merchant_protest_october', 'sourav_joshi_defender_suv_wife_gift']
 
-rahul_gandhi_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/rahul_gandhi_cec_gyanesh_kumar_resignation.mp4 dur=25.507211
-hurun_india_rich_list_shah_rukh_khan_2026: SUCCESS -> video_path=videos/hurun_india_rich_list_shah_rukh_khan_2026.mp4 dur=33.189887
-greater_noida_bus_fire_nine_dead: SUCCESS -> video_path=videos/greater_noida_bus_fire_nine_dead.mp4 dur=25.189887
-bengaluru_ceo_hiring_ban_four_states_row: SUCCESS -> video_path=videos/bengaluru_ceo_hiring_ban_four_states_row.mp4 dur=25.889887
-stock_market_crash_4_lakh_crore_loss: SUCCESS -> video_path=videos/stock_market_crash_4_lakh_crore_loss.mp4 dur=21.72322
-parineeti_chopra_shaque_trust_no_one_netflix: SUCCESS -> video_path=videos/parineeti_chopra_shaque_trust_no_one_netflix.mp4 dur=27.156213
-bahraich_pitbull_saves_owner_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbull_saves_owner_from_jackal.mp4 dur=23.42322
+bahraich_pitbul_saves_woman_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbul_saves_woman_from_jackal.mp4 dur=32.689887
+kanpur_vineeet_minocha_murder_son_arrest: SUCCESS -> video_path=videos/kanpur_vineeet_minocha_murder_son_arrest.mp4 dur=29.32322
+amroha_cops_crpf_gangrape_arrest: SKIPPED (not in ready set)
+sourav_joshi_defender_suv_wife_gift: SUCCESS -> video_path=videos/sourav_joshi_defender_suv_wife_gift.mp4 dur=23.32322
+mushtaq_khan_actor_demise_life_story: SUCCESS -> video_path=videos/mushtaq_khan_actor_demise_life_story.mp4 dur=25.205215
+no_upi_day_merchant_protest_october: SUCCESS -> video_path=videos/no_upi_day_merchant_protest_october.mp4 dur=27.504218
+australia_openai_hack_un_announcement: SUCCESS -> video_path=videos/australia_openai_hack_un_announcement.mp4 dur=26.42322
