@@ -1,9 +1,10 @@
-ready_labels: ['imd_heavy_rainfall_alert_multiple_states', 'italy_bans_burqa_niqab_schools_meloni', 'rahul_gandhi_opposition_protest_cec_gyanesh_kumar', 'trump_xi_jinping_white_house_summit_takeaways', 'veteran_actor_mushtaq_khan_passes_away', 'yamuna_expressway_bus_fire_horrific_details']
+ready_labels: ['asian_games_2026_shooting_gold_suruchi_kamaljit', 'australia_openai_hack_un_announcement_global', 'bahraich_pitbulls_save_woman_from_jackal', 'iit_bombay_student_suicide_iphone_lock_challenge', 'kanpur_vineeet_minocha_murder_son_confession', 'mumbai_angel_one_founder_711_crore_tower_deal', 'ujjain_cm_mohan_yadav_family_house_bulldozer']
 
-trump_xi_jinping_white_house_summit_takeaways: SUCCESS -> video_path=videos/trump_xi_jinping_white_house_summit_takeaways.mp4 dur=28.781224
-rahul_gandhi_opposition_protest_cec_gyanesh_kumar: SUCCESS -> video_path=videos/rahul_gandhi_opposition_protest_cec_gyanesh_kumar.mp4 dur=25.92322
-yamuna_expressway_bus_fire_horrific_details: SUCCESS -> video_path=videos/yamuna_expressway_bus_fire_horrific_details.mp4 dur=27.589887
-veteran_actor_mushtaq_khan_passes_away: SUCCESS -> video_path=videos/veteran_actor_mushtaq_khan_passes_away.mp4 dur=27.32322
-imd_heavy_rainfall_alert_multiple_states: SUCCESS -> video_path=videos/imd_heavy_rainfall_alert_multiple_states.mp4 dur=33.42322
-italy_bans_burqa_niqab_schools_meloni: SUCCESS -> video_path=videos/italy_bans_burqa_niqab_schools_meloni.mp4 dur=28.82322
-nirma_university_professor_student_clash_video: SKIPPED (not in ready set)
+asian_games_2026_shooting_gold_suruchi_kamaljit: SUCCESS -> video_path=videos/asian_games_2026_shooting_gold_suruchi_kamaljit.mp4 dur=33.82322
+junagadh_leopard_attacks_6_year_old_girl: SKIPPED (not in ready set)
+kanpur_vineeet_minocha_murder_son_confession: SUCCESS -> video_path=videos/kanpur_vineeet_minocha_murder_son_confession.mp4 dur=29.919229
+ujjain_cm_mohan_yadav_family_house_bulldozer: SUCCESS -> video_path=videos/ujjain_cm_mohan_yadav_family_house_bulldozer.mp4 dur=36.189229
+iit_bombay_student_suicide_iphone_lock_challenge: SUCCESS -> video_path=videos/iit_bombay_student_suicide_iphone_lock_challenge.mp4 dur=32.891224
+bahraich_pitbulls_save_woman_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbulls_save_woman_from_jackal.mp4 dur=32.056553
+mumbai_angel_one_founder_711_crore_tower_deal: SUCCESS -> video_path=videos/mumbai_angel_one_founder_711_crore_tower_deal.mp4 dur=33.389887
+australia_openai_hack_un_announcement_global: SUCCESS -> video_path=videos/australia_openai_hack_un_announcement_global.mp4 dur=23.162222
