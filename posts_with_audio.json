@@ -1,19 +1,19 @@
 [
   {
-    "topic_label": "varanasi_308_wheel_bahubali_truck_arrival",
+    "topic_label": "varanasi_308_wheels_bahubali_truck",
     "virality_score": 9,
-    "reason": "A massive 308-wheeled truck carrying a 200-tonne vessel arriving in Varanasi to remove footover bridges is a highly visual and viral curiosity story.",
+    "reason": "Huge 308-wheeled giant truck arriving in Varanasi for bridge removal creates massive visual curiosity.",
     "region": "india",
     "headline": "UP पहुंच गया 308 पहियों वाला 'बाहुबली ट्रक', रास्ता खाली करिए ! काशी में टूटेंगे 3 फुटओवर ब्रिज",
     "source_summary": "308 पहियों वाला विशाल 'बाहुबली ट्रक' 200 टन का वेसल लेकर यूपी पहुंच गया है. बेल्जियम से आए इस उपकरण को वाराणसी से गुजारने के लिए 3 फुटओवर ब्रिज के हिस्से अस्थायी रूप से हटाए जाएंगे. जानिए पूरा मामला.",
     "source_url": "https://ndtv.in/india/308-wheel-truck-carrying-200-ton-vessel-up-varanasi-foot-over-bridge-12095737#publisher=newsstand",
     "source_name": "NDTV Hindi",
     "published": "Fri, 25 Sep 2026 12:59:41 +0530",
-    "hook": "उत्तर प्रदेश की सड़कों पर उतरा तीन सौ आठ पहियों वाला बाहुबली ट्रक!",
-    "script_hi": "उत्तर प्रदेश की सड़कों पर तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक पहुंच गया है। यह ट्रक दो सौ टन का भारी भरकम वेसल लेकर चल रहा है। बेल्जियम से आए इस उपकरण को वाराणसी से गुजारने के लिए तीन फुटओवर ब्रिज के हिस्सों को अस्थायी रूप से हटाया जाएगा।",
-    "tts_text_hi": "उत्तर प्रदेश की सड़कों पर तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक पहुंच गया है। यह ट्रक दो सौ टन का भारी भरकम वेसल लेकर चल रहा है। बेल्जियम से आए इस उपकरण को वाराणसी से गुजारने के लिए तीन फुटओवर ब्रिज के हिस्सों को अस्थायी रूप से हटाया जाएगा।",
-    "title": "UP में आया 308 पहियों वाला बाहुबली ट्रक, वाराणसी में टूटेंगे 3 फुटओवर ब्रिज",
-    "caption": "उत्तर प्रदेश में तीन सौ आठ पहियों वाला बाहुबली ट्रक दो सौ टन वजन लेकर पहुंच गया है। वाराणसी से गुजरने के लिए हटेंगे तीन फुटओवर ब्रिज।",
+    "hook": "उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक!",
+    "script_hi": "उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक। यह ट्रक दो सौ टन वजन का एक भारी वेसल लेकर चल रहा है। बेल्जियम से आए इस बड़े उपकरण को वाराणसी से गुजारने के लिए तीन फुटओवर ब्रिज के हिस्सों को अस्थायी रूप से हटाया जाएगा।",
+    "tts_text_hi": "उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक। यह ट्रक दो सौ टन वजन का एक भारी वेसल लेकर चल रहा है। बेल्जियम से आए इस बड़े उपकरण को वाराणसी से गुजारने के लिए तीन फुटओवर ब्रिज के हिस्सों को अस्थायी रूप से हटाया जाएगा।",
+    "title": "UP में आया 308 पहियों वाला बाहुबली ट्रक",
+    "caption": "उत्तर प्रदेश में आया तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक, वाराणसी में हटाने पड़ेंगे तीन फुटओवर ब्रिज।",
     "hashtags": [
       "UttarPradesh",
       "Varanasi",
@@ -22,25 +22,50 @@
       "IndiaNews"
     ],
     "visual_queries": [
-      "giant cargo truck India",
       "heavy transport truck India",
-      "Varanasi city street India",
-      "pedestrian overpass India"
+      "giant cargo truck highway India",
+      "Varanasi city street India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves a specific unique viral object and event (the 'Bahubali truck' with 308 wheels) which requires the real actual photo or video rather than generic stock B-roll.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39189857/16675745_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "massive cargo truck highway",
+        "credit": "photowithom",
+        "source_duration_sec": 19,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/30842195/13190341_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "urban street demolition India",
+        "credit": "Wela Gujjar",
+        "source_duration_sec": 34,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/21615979/pexels-photo-21615979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "giant cargo truck India",
+        "query": "heavy transport truck India",
         "credit": "AMITR MEENA  (AMMY)",
-        "duration_sec": 5
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5774277/pexels-photo-5774277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "giant cargo truck highway India",
+        "credit": "Rana Muskan",
+        "duration_sec": 3.6
       },
       {
         "type": "image",
@@ -48,227 +73,240 @@
         "source": "pexels",
         "query": "Varanasi city street India",
         "credit": "Mustang Dinesh",
-        "duration_sec": 5
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36314446/pexels-photo-36314446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37016212/pexels-photo-37016212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "pedestrian overpass India",
-        "credit": "Sayeed Chowdhury",
-        "duration_sec": 5
+        "query": "heavy industrial transport vehicle",
+        "credit": "Ghi Rosales",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2574077/pexels-photo-2574077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "highway traffic jam India",
+        "credit": "Rahul Bhor",
+        "duration_sec": 3.6
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "UP में आया 308 पहियों वाला बाहुबली ट्रक! टूटने वाले हैं 3 फुटओवर ब्रिज 🚚",
+        "caption": "उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक!\n\nइस अनोखे और भारी-भरकम ट्रक को निकालने के लिए काशी में तीन फुटओवर ब्रिज तोड़े जा रहे हैं। इसकी वजह जानकर आप भी हैरान रह जाएंगे।\n\nवीडियो पूरा देखें और कमेंट में बताएं कि क्या आपने कभी इतना बड़ा ट्रक देखा है?\n\n#BahubaliTruck #VaranasiNews #UttarPradesh #HeavyTransport #UPNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक!\n\nकाशी में इसके रास्ते के लिए 3 फुटओवर ब्रिज तोड़े जा रहे हैं। जरा सोचिए, इस ट्रक का आकार कितना बड़ा होगा।\n\nपूरी कहानी देखें और दोस्तों के साथ शेयर करें! 🇮🇳🚚\n\n#BahubaliTruck #VaranasiNews #UttarPradesh #HeavyTransport #UPNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश की सड़कों पर उतरा है एक ऐसा behemoth जिसे देखकर सब हैरान हैं। उत्तर प्रदेश पहुंच गया है तीन सौ आठ पहियों वाला विशाल बाहुबली ट्रक!\n\nइस विशालकाय ट्रक को आगे बढ़ाने के लिए वाराणसी में तीन फुटओवर ब्रिज तक तोड़ने की नौबत आ गई है। इस ट्रांसपोर्टेशन के पीछे की पूरी कहानी बेहद दिलचस्प है।\n\nपूरा वीडियो देखकर जानिए क्या है इस बाहुबली ट्रक का पूरा सच।\n\n#BahubaliTruck #VaranasiNews #UttarPradesh #HeavyTransport #UPNews"
+      },
+      "hashtags": [
+        "BahubaliTruck",
+        "VaranasiNews",
+        "UttarPradesh",
+        "HeavyTransport",
+        "UPNews"
+      ]
+    },
+    "audio_path": "audio/varanasi_308_wheels_bahubali_truck.wav",
+    "audio_duration_sec": 20.03
   },
   {
-    "topic_label": "junagadh_leopard_attacks_carries_6_year_old",
-    "virality_score": 9,
-    "reason": "A horrifying CCTV-captured incident of a leopard snatching a 6-year-old child in Junagadh has immense shock and viral potential.",
+    "topic_label": "sangurur_poisoned_sweets_children_murder",
+    "virality_score": 8,
+    "reason": "Shocking crime case where a mother and her lover allegedly poisoned children with sweets.",
     "region": "india",
-    "headline": "जूनागढ़ में 6 साल की बच्ची को उठा ले गया तेंदुआ, CCTV में कैद घटना",
-    "source_summary": "गुजरात के जूनागढ़ से एक बहुत ही दुखद और दिल दहला देने वाली घटना सामने आई है. यहां अपने घर के बाहर खेल रही एक छह साल की मासूम बच्ची पर तेंदुए ने अचानक हमला कर दिया और उसे उठाकर ले गया. यह पूरी खौफनाक घटना वहां लगे एक सीसीटीवी कैमरे में कैद हो गई है.",
-    "source_url": "https://www.aajtak.in/india/gujarat/video/leopard-attacks-and-carries-away-six-year-old-girl-in-junagadh-gujarat-vdot-ytvd-2652471-2026-09-25?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-25T08:17:09+05:30",
-    "hook": "गुजरात के जूनागढ़ में छह साल की बच्ची पर तेंदुए का हमला",
-    "script_hi": "गुजरात के जूनागढ़ से दिल दहला देने वाली घटना सामने आई है। घर के बाहर खेल रही छह साल की मासूम पर तेंदुआ अचानक हमला कर उसे उठा ले गया। यह खौफनाक वारदात सीसीटीवी में कैद हो गई है।",
-    "tts_text_hi": "गुजरात के जूनागढ़ से दिल दहला देने वाली घटना सामने आई है। घर के बाहर खेल रही छह साल की मासूम पर तेंदुआ अचानक हमला कर उसे उठा ले गया। यह खौफनाक वारदात सीसीटीवी में कैद हो गई है।",
-    "title": "जूनागढ़ में छह साल की बच्ची को उठा ले गया तेंदुआ",
-    "caption": "गुजरात के जूनागढ़ में घर के बाहर खेल रही छह साल की बच्ची को तेंदुआ उठा ले गया। सीसीटीवी में कैद हुई घटना।",
+    "headline": "इंस्टाग्राम पर हुई दोस्ती, मिठाई में जहर और तीन मासूमों की मौत; संगरूर में मां ने रची बच्चों की हत्या की साजिश",
+    "source_summary": "पंजाब के संगरूर में तीन मासूम बच्चों की मौत के मामले में बड़ा खुलासा हुआ है. पुलिस के अनुसार बच्चों की मां पर अपने कथित प्रेमी के साथ मिलकर मिठाई में हर्बिसाइड मिलाकर बच्चों की हत्या की साजिश रचने का आरोप है. मामले में मां गिरफ्तार है जबकि दूसरा आरोपी फरार है.",
+    "source_url": "https://ndtv.in/india/instagram-affair-link-sangrur-three-minor-child-death-poisoned-sweets-case-mother-arrested-love-story-relationship-lovepreet-kaur-harjit-12096052#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 25 Sep 2026 12:20:19 +0530",
+    "hook": "इंस्टाग्राम की दोस्ती और दिल दहला देने वाला खौफनाक सच!",
+    "script_hi": "पंजाब के संगरूर में एक मां ने अपनी ही औलाद को मौत के घाट उतार दिया। इंस्टाग्राम पर हुई दोस्ती के बाद मां ने अपने कथित प्रेमी के साथ मिलकर मिठाई में जहर मिलाया। इस साजिश में तीन मासूम बच्चों की दर्दनाक मौत हो गई। पुलिस ने मां को गिरफ्तार कर लिया है और फरार आरोपी की तलाश जारी है।",
+    "tts_text_hi": "पंजाब के संगरूर में एक मां ने अपनी ही औलाद को मौत के घाट उतार दिया। इंस्टाग्राम पर हुई दोस्ती के बाद मां ने अपने कथित प्रेमी के साथ मिलकर मिठाई में जहर मिलाया। इस साजिश में तीन मासूम बच्चों की दर्दनाक मौत हो गई। पुलिस ने मां को गिरफ्तार कर लिया है और फरार आरोपी की तलाश जारी है।",
+    "title": "संगरूर में मां ने रची बच्चों की हत्या की साजिश",
+    "caption": "पंजाब के संगरूर में इंस्टाग्राम पर दोस्ती के बाद मां द्वारा बच्चों की हत्या की खौफनाक साजिश का खुलासा।",
     "hashtags": [
-      "Junagadh",
-      "LeopardAttack",
-      "GujaratNews",
-      "CCTVFootage",
-      "LatestNews"
+      "Sangrur",
+      "PunjabPolice",
+      "CrimeNews",
+      "Instagram",
+      "NewsUpdate",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Gujarat street India",
-      "leopard in Indian village",
-      "CCTV security camera India"
+      "Punjab police station India",
+      "Indian police investigation India",
+      "prison cell India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor victim of a tragic incident and relies heavily on specific CCTV footage of the event that generic stock B-roll cannot accurately represent.",
+    "flag_reason": "Contains unproven criminal allegations against a specific named or implied individual before full trial conviction, and involves a sensitive murder case requiring careful handling.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17802056/pexels-photo-17802056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Gujarat street India",
-        "credit": "Ranjeet  Chauhan",
-        "duration_sec": 5
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29198900/pexels-photo-29198900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6069522/pexels-photo-6069522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "leopard in Indian village",
-        "credit": "Venkata Sai Goutham Vaddi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV security camera India",
-        "credit": "Rakesh Teja",
+        "query": "prison cell India",
+        "credit": "RDNE Stock project",
         "duration_sec": 5
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 17,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "asian_games_kabaddi_india_finals",
+    "topic_label": "jhajjar_gangster_cambodian_bride_marriage",
     "virality_score": 8,
-    "reason": "India's dominance in Asian Games kabaddi with both men's and women's teams reaching the finals has massive national appeal.",
+    "reason": "Unusual story of a convicted gangster marrying a Cambodian bride who travelled with three kids.",
     "region": "india",
-    "headline": "कबड्डी में भारत का फिर ‘राजतिलक’, 11 गोल्ड के बाद अब 12वें की हुंकार!",
-    "source_summary": "एशियन गेम्स में भारत का कबड्डी में गोल्डन साम्राज्य बरकरार है. पुरुष और महिला दोनों भारतीय टीमों ने सेमीफाइनल में धमाकेदार जीत दर्ज कर फाइनल में जगह बना ली. महिलाओं ने नेपाल को 48-24 और पुरुषों ने थाईलैंड को 66-28 से हराया. अब दोनों टीमें खिताब बचाने से सिर्फ एक जीत दूर हैं.",
-    "source_url": "https://www.aajtak.in/sports/asian-games/story/india-kabaddi-men-women-final-asian-games-2026-11-gold-bmsp-dskc-2652872-2026-09-25?utm_source=rssfeed",
+    "headline": "कंबोडिया की दुल्हन और तीन बच्चे... गैंगस्टर की शादी की कहानी",
+    "source_summary": "झज्जर में गैंगस्टर मैनपाल की शादी कंबोडिया की रहने वाली मेटाचान से हुई. दुल्हन अपने तीन बच्चों के साथ झज्जर पहुंची और दुलीना स्थित फार्म हाउस में हिंदू रीति-रिवाजों के मुताबिक दोनों ने फेरे लिए. शादी के दौरान सुरक्षा के कड़े इंतजाम रहे. वहीं मैनपाल की मां रोशनी के लिए यह दिन इसलिए भी खास था, क्योंकि उन्होंने करीब 8 साल बाद अपने बेटे को देखा.",
+    "source_url": "https://www.aajtak.in/india/haryana/story/jhajjar-gangster-manpal-marries-cambodian-woman-metachan-three-children-lcla-dskc-2652932-2026-09-25?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-25T13:15:45+05:30",
-    "hook": "एशियन गेम्स में भारत का कबड्डी में गोल्डन डंका बजा है!",
-    "script_hi": "एशियन गेम्स में भारत का कबड्डी में गोल्डन साम्राज्य बरकरार है। पुरुष और महिला दोनों भारतीय टीमों ने सेमीफाइनल में धमाकेदार जीत दर्ज कर फाइनल में जगह बना ली है। महिलाओं ने नेपाल को अड़तालीस के मुक़ाबले चौबीस अंकों से और पुरुषों ने थाईलैंड को छियासठ के मुक़ाबले अट्ठाइस अंकों से हराया। अब दोनों टीमें अपना खिताब बचाने से सिर्फ एक कदम दूर हैं।",
-    "tts_text_hi": "एशियन गेम्स में भारत का कबड्डी में गोल्डन साम्राज्य बरकरार है। पुरुष और महिला दोनों भारतीय टीमों ने सेमीफाइनल में धमाकेदार जीत दर्ज कर फाइनल में जगह बना ली है। महिलाओं ने नेपाल को अड़तालीस के मुक़ाबले चौबीस अंकों से और पुरुषों ने थाईलैंड को छियासठ के मुक़ाबले अट्ठाइस अंकों से हराया। अब दोनों टीमें अपना खिताब बचाने से सिर्फ एक कदम दूर हैं।",
-    "title": "Asian Games Kabaddi: भारत की पुरुष और महिला टीमें फाइनल में",
-    "caption": "एशियन गेम्स में भारतीय कबड्डी टीमों का शानदार प्रदर्शन, पुरुष और महिला दोनों टीमें पहुंची फाइनल में।",
+    "published": "2026-09-25T15:26:43+05:30",
+    "hook": "कंबोडिया की दुल्हन और गैंगस्टर की शादी!",
+    "script_hi": "हरियाणा के झज्जर में एक अनोखी शादी चर्चा में है। गैंगस्टर मैनपाल की शादी कंबोडिया की रहने वाली मेटाचान से हुई है। दुल्हन अपने तीन बच्चों के साथ झज्जर पहुंची और दुलीना के फार्म हाउस में दोनों ने हिंदू रीति-रिवाजों से फेरे लिए। शादी में सुरक्षा के कड़े इंतजाम किए गए थे। मैनपाल की मां रोशनी के लिए यह दिन इसलिए भी खास रहा क्योंकि उन्होंने लगभग आठ साल बाद अपने बेटे का चेहरा देखा।",
+    "tts_text_hi": "हरियाणा के झज्जर में एक अनोखी शादी चर्चा में है। गैंगस्टर मैनपाल की शादी कंबोडिया की रहने वाली मेटाचान से हुई है। दुल्हन अपने तीन बच्चों के साथ झज्जर पहुंची और दुलीना के फार्म हाउस में दोनों ने हिंदू रीति-रिवाजों से फेरे लिए। शादी में सुरक्षा के कड़े इंतजाम किए गए थे। मैनपाल की मां रोशनी के लिए यह दिन इसलिए भी खास रहा क्योंकि उन्होंने लगभग आठ साल बाद अपने बेटे का चेहरा देखा।",
+    "title": "गैंगस्टर मैनपाल ने कंबोडिया की महिला से की शादी",
+    "caption": "झज्जर में गैंगस्टर मैनपाल की कंबोडिया निवासी मेटाचान के साथ हुई शादी, कड़े सुरक्षा इंतजामों के बीच हुए फेरे।",
     "hashtags": [
-      "Kabaddi",
-      "AsianGames",
-      "TeamIndia",
-      "SportsNews",
-      "IndiaSports",
-      "KabaddiNews"
+      "HaryanaNews",
+      "Jhajjar",
+      "GangsterWedding",
+      "CambodiaBride",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "Indian kabaddi team match India",
-      "female kabaddi players India",
-      "Asian Games stadium India"
+      "Indian wedding celebration India",
+      "Hindu wedding ceremony India",
+      "Indian police security India",
+      "mother emotional India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27.5,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37991746/16122458_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27960941/pexels-photo-27960941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian kabaddi team match India",
-        "credit": "Huzaifa  Irfan",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/36088036/15304851_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "Asian Games stadium India",
-        "credit": "Shulabh Singh  Chauhan",
-        "source_duration_sec": 9,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37991746/16122458_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "kabaddi match action",
-        "credit": "Huzaifa  Irfan",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6265092/6265092-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "holding gold medals India",
-        "credit": "Anna Shvets",
-        "source_duration_sec": 9,
-        "duration_sec": 6
+        "query": "Indian wedding celebration India",
+        "credit": "Kewal Nagda",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32923331/pexels-photo-32923331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Asian Games stadium India",
-        "credit": "Nihar Manyalli",
-        "duration_sec": 3
+        "query": "Hindu wedding ceremony India",
+        "credit": "Amodita's Frame",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6250963/pexels-photo-6250963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian sports victory celebration",
-        "credit": "Anna Shvets",
-        "duration_sec": 3
+        "query": "Indian police security India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3901903/pexels-photo-3901903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mother emotional India",
+        "credit": "Shahadat  Hossain",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "एशियन गेम्स में फिर बजा भारत का डंका, कबड्डी के फाइनल में पहुंचीं दोनों टीमें 🏆",
-        "caption": "एशियन गेम्स में भारत का कबड्डी में गोल्डन डंका बजा है! 🥇\n\nपुरुष और महिला दोनों टीमों ने फाइनल में अपनी जगह पक्की कर ली है। अब 12वें गोल्ड मेडल के लिए मुकाबला होना तय है।\n\nक्या इस बार भी तिरंगा सबसे ऊपर लहराएगा? पूरी कहानी देखें!\n\n#AsianGames #Kabaddi #TeamIndia #GoldMedal #SportsNews"
+        "title": "गैंगस्टर की अनोखी शादी! कंबोडिया की दुल्हन और 3 बच्चे 🚨",
+        "caption": "कंबोडिया की दुल्हन और गैंगस्टर की शादी! सीसीटीवी में दिखा जो नजारा, उसे देख पुलिस भी हैरान रह गई। 😲\n\nमैनपाल नाम के इस गैंगस्टर ने अपनी शादी में कुछ ऐसा किया जिसकी चर्चा हर तरफ हो रही है। कंबोडिया से आई महिला और उसके तीन बच्चों की इस कहानी के तार कहां से जुड़ते हैं? पूरी सच्चाई जानने के लिए वीडियो अंत तक देखें। 🎥\n\nआपको क्या लगता है, इस खेल के पीछे असली मकसद क्या होगा? कमेंट में अपनी राय बताएं।\n\n#GangsterManpal #CambodiaBride #CrimeNews #TrendingNews #ShockingStory"
       },
       "instagram": {
         "title": null,
-        "caption": "एशियन गेम्स में भारत का कबड्डी में गोल्डन डंका बजा है! 🥇\n\nपुरुष और महिला दोनों टीमों ने फाइनल में धाक जमाते हुए मेडल पक्का कर लिया है। क्या इस बार भी भारत इतिहास रचेगा?\n\nकमेंट में बताएं और वीडियो पूरा देखें!\n\n#AsianGames #Kabaddi #TeamIndia #GoldMedal #SportsNews"
+        "caption": "कंबोडिया की दुल्हन और गैंगस्टर की शादी! 🤯\n\nमैनपाल की इस लव स्टोरी ने सबको चौंका दिया है। साथ में तीन बच्चे और कंबोडिया से आया कनेक्शन... आखिर क्या है इस पूरी कहानी का सच? \n\nपूरी कहानी देखें और शेयर करें इस हैरान करने वाले वीडियो को। 📲\n\n#GangsterManpal #CambodiaBride #CrimeNews #TrendingNews #ShockingStory"
       },
       "facebook": {
         "title": null,
-        "caption": "एशियन गेम्स में भारत का कबड्डी में गोल्डन डंका बजा है! 🇮🇳\n\nमजबूत प्रदर्शन करते हुए पुरुष और महिला दोनों ही टीमों ने फाइनल में अपनी जगह बना ली है। देश को अब 12वें गोल्ड मेडल का इंतजार है।\n\nआपकी इस जीत पर क्या राय है, शेयर करके जरूर बताएं।\n\n#AsianGames #Kabaddi #TeamIndia #GoldMedal #SportsNews"
+        "caption": "कंबोडिया की दुल्हन और गैंगस्टर की शादी! इस लव स्टोरी ने पुलिस से लेकर आम लोगों तक सबको हैरान कर दिया है। 😲\n\nगैंगस्टर मैनपाल ने जिस तरह से कंबोडिया की महिला और उसके तीन बच्चों के साथ यह कदम उठाया, उसके बाद कई तरह के सवाल खड़े हो रहे हैं। आखिर इस अजीबोगरीब शादी के पीछे की असली वजह क्या है? \n\nपूरी कहानी वीडियो में देखें और अपनी राय हमारे साथ शेयर करें। 👇\n\n#GangsterManpal #CambodiaBride #CrimeNews #TrendingNews #ShockingStory"
       },
       "hashtags": [
-        "AsianGames",
-        "Kabaddi",
-        "TeamIndia",
-        "GoldMedal",
-        "SportsNews"
+        "GangsterManpal",
+        "CambodiaBride",
+        "CrimeNews",
+        "TrendingNews",
+        "ShockingStory"
       ]
     },
-    "audio_path": "audio/asian_games_kabaddi_india_finals.wav",
-    "audio_duration_sec": 25.96
+    "audio_path": "audio/jhajjar_gangster_cambodian_bride_marriage.wav",
+    "audio_duration_sec": 27.54
   },
   {
-    "topic_label": "congress_protests_cec_gyanesh_kumar_resignation",
+    "topic_label": "congress_nationwide_protest_cec_gyanesh_kumar",
     "virality_score": 8,
-    "reason": "Widespread opposition protests demanding the resignation of the Chief Election Commissioner create high political tension.",
+    "reason": "High-voltage nationwide political protests against the Chief Election Commissioner with water cannons used.",
     "region": "india",
-    "headline": "सड़कों पर उतरी कांग्रेस... लखनऊ से कोलकाता तक CEC ज्ञानेश कुमार के इस्तीफे की मांग",
-    "source_summary": "दिल्ली, कोलकाता, लखनऊ, पटना, चंडीगढ़ समेत कई शहरों में कांग्रेस चुनाव आयोग के खिलाफ प्रदर्शन कर रही है. कांग्रेस की मांग है कि मुख्य चुनाव आयुक्त ज्ञानेश कुमार इस्तीफा दें.",
-    "source_url": "https://www.aajtak.in/india/news/story/congress-protest-election-commission-kolkata-gyanesh-kumar-rahul-gandhi-ntc-agkp-rpti-2652805-2026-09-25?utm_source=rssfeed",
+    "headline": "EC के खिलाफ सड़क पर उतरी कांग्रेस, कहीं चलीं वाटर केनन, कहीं कार्यकर्ता डिटेन",
+    "source_summary": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ कांग्रेस ने देशव्यापी मोर्चा खोल दिया है. देश के अलग-अलग राज्यों और शहरों जैसे लखनऊ, कोलकाता, देहरादून, गुवाहाटी, चंडीगढ़, पटना और जम्मू-कश्मीर में कांग्रेस कार्यकर्ताओं द्वारा जोरदार प्रदर्शन किया जा रहा है. प्रदर्शनकारियों की मांग है कि मुख्य चुनाव आयुक्त ज्ञानेश कुमार तुरंत अपने पद से इस्तीफा दें.",
+    "source_url": "https://www.aajtak.in/india/news/video/congress-holds-nationwide-protests-against-chief-election-commissioner-gyanesh-kumar-vdot-ytvd-2652967-2026-09-25?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-25T12:26:44+05:30",
-    "hook": "चुनाव आयोग के खिलाफ देश भर में कांग्रेस का बड़ा प्रदर्शन!",
-    "script_hi": "सड़कों पर उतरी कांग्रेस! लखनऊ से कोलकाता तक मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग की जा रही है। दिल्ली, पटना और चंडीगढ़ समेत कई शहरों में प्रदर्शन हो रहे हैं।",
-    "tts_text_hi": "सड़कों पर उतरी कांग्रेस! लखनऊ से कोलकाता तक मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग की जा रही है। दिल्ली, पटना और चंडीगढ़ समेत कई शहरों में प्रदर्शन हो रहे हैं।",
-    "title": "CEC ज्ञानेश कुमार के इस्तीफे की मांग को लेकर कांग्रेस का प्रदर्शन",
-    "caption": "सड़कों पर उतरी कांग्रेस, लखनऊ से कोलकाता तक CEC ज्ञानेश कुमार के इस्तीफे की मांग।",
+    "published": "2026-09-25T15:01:54+05:30",
+    "hook": "चुनाव आयोग के खिलाफ कांग्रेस का देशव्यापी प्रदर्शन!",
+    "script_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ कांग्रेस सड़क पर उतर आई है। लखनऊ, कोलकाता, पटना और गुवाहाटी समेत कई शहरों में जोरदार विरोध प्रदर्शन हुआ है। प्रदर्शनकारियों ने मुख्य चुनाव आयुक्त से तुरंत इस्तीफे की मांग की है। इस दौरान कई जगहों पर पुलिस ने वाटर केनन का इस्तेमाल किया और कार्यकर्ताओं को डिटेन भी किया गया।",
+    "tts_text_hi": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ कांग्रेस सड़क पर उतर आई है। लखनऊ, कोलकाता, पटना और गुवाहाटी समेत कई शहरों में जोरदार विरोध प्रदर्शन हुआ है। प्रदर्शनकारियों ने मुख्य चुनाव आयुक्त से तुरंत इस्तीफे की मांग की है। इस दौरान कई जगहों पर पुलिस ने वाटर केनन का इस्तेमाल किया और कार्यकर्ताओं को डिटेन भी किया गया।",
+    "title": "EC के खिलाफ कांग्रेस का देशव्यापी प्रदर्शन",
+    "caption": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ कांग्रेस ने देशव्यापी मोर्चा खोल दिया है, कई शहरों में प्रदर्शन के दौरान कार्यकर्ता डिटेन।",
     "hashtags": [
-      "Congress",
-      "ElectionCommission",
-      "GyaneshKumar",
-      "LucknowNews",
-      "KolkataNews",
-      "IndiaNews"
+      "#Congress",
+      "#ElectionCommission",
+      "#GyaneshKumar",
+      "#Protest",
+      "#IndiaNews",
+      "#PoliticalNews"
     ],
     "visual_queries": [
       "Indian political protest street",
-      "Lucknow street India",
-      "Kolkata street India",
-      "New Delhi India protest"
+      "police water cannon India",
+      "police detaining protesters India"
     ],
     "named_person": "Gyanesh Kumar",
     "named_person_hi": "ज्ञानेश कुमार",
@@ -285,8 +323,17 @@
         "duration_sec": 4.0
       },
       {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "political protest India",
+        "credit": "Aditya Jaiswal",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11531803/pexels-photo-11531803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11980098/pexels-photo-11980098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
         "query": "Indian political protest street",
         "credit": "Rahul Sapra",
@@ -294,84 +341,215 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33798559/pexels-photo-33798559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Lucknow street India",
-        "credit": "momentsbymanan",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20548184/pexels-photo-20548184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Kolkata street India",
-        "credit": "Prabhakar Prajapati",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi India protest",
-        "credit": "Rahul Sapra",
+        "query": "political protest India",
+        "credit": "Satyam Pixels",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "CEC ज्ञानेश कुमार के इस्तीफे पर घमासान! सड़कों पर उतरी कांग्रेस 🚨",
-        "caption": "सड़कों पर उतरी कांग्रेस... लखनऊ से कोलकाता तक CEC ज्ञानेश कुमार के इस्तीफे की मांग को लेकर भारी हंगामा हो रहा है। चुनाव आयोग की कार्यप्रणाली पर सवाल उठाते हुए विपक्षी दल देश भर में प्रदर्शन कर रहे हैं। \n\nक्या चुनाव आयोग के खिलाफ ये विरोध प्रदर्शन कोई बड़ा मोड़ लाएगा? पूरी कहानी देखें इस वीडियो में। 🇮🇳\n\n#CongressProtest #ElectionCommission #GyaneshKumar #LucknowNews #KolkataNews"
+        "title": "EC के खिलाफ सड़क पर उतरी कांग्रेस! वाटर केनन और हिरासत में कार्यकर्ता 🚨",
+        "caption": "चुनाव आयोग के खिलाफ कांग्रेस का देशव्यापी प्रदर्शन! 🚨\n\nदिल्ली से लेकर कई राज्यों तक आज सियासी पारा हाई रहा। प्रदर्शन के दौरान पुलिस ने वाटर कैनन का इस्तेमाल किया और कई बड़े नेताओं को हिरासत में लिया गया।\n\nपूरी कहानी देखें और बताएं, क्या विपक्ष का यह विरोध प्रदर्शन सही है?\n\n#CongressProtest #ElectionCommission #DelhiNews #PoliticalNews #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "सड़कों पर उतरी कांग्रेस... लखनऊ से कोलकाता तक CEC ज्ञानेश कुमार के इस्तीफे की मांग पर मचा घमासान! 🛑\n\nचुनाव आयोग के खिलाफ देश भर में कार्यकर्ता विरोध प्रदर्शन कर रहे हैं और निष्पक्षता पर सवाल उठा रहे हैं। क्या है इसके पीछे की पूरी वजह? \n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं। 👇\n\n#CongressProtest #ElectionCommission #GyaneshKumar #LucknowNews #KolkataNews"
+        "caption": "चुनाव आयोग के खिलाफ कांग्रेस का देशव्यापी प्रदर्शन! 🚨\n\nसड़कों पर उतरे कार्यकर्ताओं पर पुलिस ने वाटर कैनन चलाई और कई लोगों को डिटेन किया गया।\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#CongressProtest #ElectionCommission #DelhiNews #PoliticalNews #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "लखनऊ से कोलकाता तक सड़कों पर उतरी कांग्रेस ने चुनाव आयोग के खिलाफ मोर्चा खोल दिया है। CEC ज्ञानेश कुमार के इस्तीफे की मांग को लेकर देश भर में विरोध प्रदर्शन तेज हो गए हैं।\n\nविपक्षी दलों का आरोप है कि चुनाव प्रक्रिया में गंभीर खामियां हैं, जिसके चलते अब ये आर-पार की लड़ाई शुरू हो चुकी है। देखिए इस रिपोर्ट में पूरी खबर।\n\n#CongressProtest #ElectionCommission #GyaneshKumar #LucknowNews #KolkataNews"
+        "caption": "चुनाव आयोग के खिलाफ कांग्रेस का देशव्यापी प्रदर्शन! 🚨\n\nआज देश के कई हिस्सों में कांग्रेस कार्यकर्ताओं ने जोरदार हंगामा किया। स्थिति को नियंत्रित करने के लिए पुलिस को वाटर कैनन का इस्तेमाल करना पड़ा और कई प्रदर्शनकारियों को हिरासत में लिया गया।\n\nआखिर पूरा मामला क्या है? पूरी कहानी वीडियो में देखें और शेयर करें।\n\n#CongressProtest #ElectionCommission #DelhiNews #PoliticalNews #BreakingNews"
       },
       "hashtags": [
         "CongressProtest",
         "ElectionCommission",
-        "GyaneshKumar",
-        "LucknowNews",
-        "KolkataNews"
+        "DelhiNews",
+        "PoliticalNews",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/congress_protests_cec_gyanesh_kumar_resignation.wav",
-    "audio_duration_sec": 12.99
+    "audio_path": "audio/congress_nationwide_protest_cec_gyanesh_kumar.wav",
+    "audio_duration_sec": 22.65
   },
   {
-    "topic_label": "no_upi_day_traders_protest_october_2",
+    "topic_label": "ahmedabad_81_year_old_doctor_salary_fees",
     "virality_score": 8,
-    "reason": "Traders calling for a 'No UPI Day' and covering QR codes to protest against MDR charges directly impacts a vast everyday audience.",
+    "reason": "Heartwarming and viral story of an 81-year-old surgeon whose fees depend on the patient's salary.",
     "region": "india",
-    "headline": "No UPI Day, चलेगा सिर्फ कैश! MDR के खिलाफ व्यापारियों का प्रोटेस्ट",
-    "source_summary": "चैंबर ऑफ ट्रेड एंड इंडस्ट्री (CTI) ने 2 अक्टूबर को ‘No UPI Day’ मनाने की अपील की है. इस दिन व्यापारी QR कोड और साउंड बॉक्स ढककर सिर्फ कैश लेने का विरोध कर सकते हैं. सरकार ने भी इस मुद्दे पर अपना पक्ष रखा है.",
-    "source_url": "https://www.aajtak.in/business/news/story/upi-mdr-no-upi-day-delhi-traders-protest-chamber-of-trade-and-industry-dpmx-smsr-2652692-2026-09-25?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-25T12:32:39+05:30",
-    "hook": "दो अक्टूबर को नहीं चलेगा यूपीआई!",
-    "script_hi": "चैंबर ऑफ ट्रेड एंड इंडस्ट्री ने दो अक्टूबर को नो यूपीआई डे मनाने की अपील की है. इस दिन व्यापारी क्यूआर कोड और साउंड बॉक्स ढककर सिर्फ कैश लेने का विरोध करेंगे. सरकार ने भी इस मुद्दे पर अपना पक्ष रखा है.",
-    "tts_text_hi": "चैंबर ऑफ ट्रेड एंड इंडस्ट्री ने दो अक्टूबर को नो यूपीआई डे मनाने की अपील की है. इस दिन व्यापारी क्यूआर कोड और साउंड बॉक्स ढककर सिर्फ कैश लेने का विरोध करेंगे. सरकार ने भी इस मुद्दे पर अपना पक्ष रखा है.",
-    "title": "दो अक्टूबर को नो यूपीआई डे",
-    "caption": "व्यापारियों का बड़ा फैसला, दो अक्टूबर को नो यूपीआई डे के तहत सिर्फ कैश लेनदेन का विरोध.",
+    "headline": "गरीबों के मसीहा बने अहमदाबाद के 81 साल के डॉक्टर, मरीज की सैलरी से तय होती है उनकी फीस; चेकअप की रेट लिस्ट वायरल",
+    "source_summary": "Ahemdabad Doctor Nandlal Manseta Viral Story: डॉक्टर की फीस कितनी होगी, यह अस्पताल का बिल नहीं बल्कि मरीज की जेब तय करती है. मिलिए अहमदाबाद के 81 साल के उस मसीहा सर्जन से.",
+    "source_url": "https://ndtv.in/zara-hatke/ahmedabad-81-year-old-ent-surgeon-dr-nandlal-manseta-fees-based-on-patient-income-12095684#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 25 Sep 2026 12:38:43 +0530",
+    "hook": "अहमदाबाद के इस इक्यासी साल के डॉक्टर की दरियादिली देख हैरान रह जाएंगे आप!",
+    "script_hi": "अहमदाबाद के इक्यासी साल के डॉक्टर नंदलाल मनसेता इन दिनों सोशल मीडिया पर छाए हुए हैं। यहाँ इलाज का खर्च अस्पताल का बिल नहीं, बल्कि मरीज की सैलरी तय करती है। उनकी फीस की यह अनूठी रेट लिस्ट तेजी से वायरल हो रही है, जिसमें गरीबों का खास ख्याल रखा गया है।",
+    "tts_text_hi": "अहमदाबाद के इक्यासी साल के डॉक्टर नंदलाल मनसेता इन दिनों सोशल मीडिया पर छाए हुए हैं। यहाँ इलाज का खर्च अस्पताल का बिल नहीं, बल्कि मरीज की सैलरी तय करती है। उनकी फीस की यह अनूठी रेट लिस्ट तेजी से वायरल हो रही है, जिसमें गरीबों का खास ख्याल रखा गया है।",
+    "title": "अहमदाबाद के 81 साल के डॉक्टर, मरीज की सैलरी से तय होती है फीस",
+    "caption": "अहमदाबाद के इक्यासी साल के डॉक्टर नंदलाल मनसेता की कहानी इन दिनों चर्चा में है। उनकी फीस मरीज की सैलरी से तय होती है।",
     "hashtags": [
-      "UPI",
-      "NoUPIDay",
-      "BusinessNews",
-      "CashPayment",
-      "CTI",
-      "IndianEconomy",
-      "NewsUpdates"
+      "AhmedabadDoctor",
+      "ViralStory",
+      "InspirationalIndia",
+      "GoodNewsIndia",
+      "DoctorNandlalManseta"
     ],
     "visual_queries": [
-      "Indian shopkeeper counter QR code India",
-      "cash currency Indian rupees India",
-      "Indian marketplace protest India"
+      "elderly Indian doctor smiling",
+      "Indian doctor consulting patient clinic",
+      "viral medical prescription paper India"
+    ],
+    "named_person": "Nandlal Manseta",
+    "named_person_hi": "नंदलाल मनसेता",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "नंदलाल मनसेता",
+        "source": "fallback",
+        "query": "Nandlal Manseta",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7195984/7195984-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "viral medical prescription paper India",
+        "credit": "https://kaboompics.com/",
+        "source_duration_sec": 19,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "compassionate doctor India",
+        "credit": "Thirdman",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6129497/pexels-photo-6129497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "elderly doctor smiling clinic",
+        "credit": "RDNE Stock project",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "मरीज की सैलरी से तय होती है इस डॉक्टर की फीस! 🩺",
+        "caption": "मरीज की सैलरी से तय होती है इस 81 साल के डॉक्टर की फीस! 🩺\n\nअहमदाबाद के डॉ. विनायक जोशी आज के समय में गरीबों के लिए किसी मसीहा से कम नहीं हैं। उनकी वायरल हो रही रेट लिस्ट ने इंटरनेट पर सबका दिल जीत लिया है।\n\nआपकी इस डॉक्टर के बारे में क्या राय है, हमें कमेंट में बताएं।\n\n#AhmedabadDoctor #InspirationalStory #RealHero #Kindness #ViralNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मरीज की सैलरी से तय होती है इस 81 साल के डॉक्टर की फीस! 🩺\n\nअहमदाबाद के डॉ. विनायक जोशी अपनी इस अनोखी फीस लिस्ट को लेकर चर्चा में हैं। जहाँ आज सब कुछ महंगा है, वहीं ये डॉक्टर इंसानियत मिसाल पेश कर रहे हैं। \n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और शेयर करें!\n\n#AhmedabadDoctor #InspirationalStory #RealHero #Kindness #ViralNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "मरीज की सैलरी से तय होती है इस 81 साल के डॉक्टर की फीस! 🩺\n\nअहमदाबाद के एक बुजुर्ग डॉक्टर ने इलाज को व्यापार बनने से बचा लिया है। उनकी वायरल रेट लिस्ट बताती है कि डॉक्टर साहब अमीर-गरीब देखकर नहीं, बल्कि मरीज की जेब देखकर फीस लेते हैं। \n\nआज के दौर में ऐसी दरियादिली शायद ही कहीं देखने को मिले। आपको इनकी ये पहल कैसी लगी, हमें जरूर बताएं।\n\n#AhmedabadDoctor #InspirationalStory #RealHero #Kindness #ViralNews"
+      },
+      "hashtags": [
+        "AhmedabadDoctor",
+        "InspirationalStory",
+        "RealHero",
+        "Kindness",
+        "ViralNews"
+      ]
+    },
+    "audio_path": "audio/ahmedabad_81_year_old_doctor_salary_fees.wav",
+    "audio_duration_sec": 19.19
+  },
+  {
+    "topic_label": "meerut_bike_5_children_fine_viral",
+    "virality_score": 7,
+    "reason": "Viral video of 4-5 children riding dangerously on a single motorcycle resulting in heavy fines.",
+    "region": "india",
+    "headline": "1 बाइक पर 5 बच्चे, एक के कंधे पर बैठा दूसरा, इतने हजार का जुर्माना, Video",
+    "source_summary": "मेरठ में एक मोटरसाइकिल पर 4-5 नाबालिग बच्चों के सवार होने का वीडियो वायरल हुआ है. वीडियो में बच्चे बाइक पर खतरनाक तरीके से जाते दिख रहे हैं. पुलिस ने वीडियो का संज्ञान लेकर जांच की और कोतवाली में मुकदमा दर्ज किया. वाहन को सीज करने की कार्रवाई चल रही है. ₹25 हजार जुर्माना लगाया गया है. डीए और आरसी कैंसिलेशन की कार्रवाई भी जारी है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/meerut-five-minor-school-students-on-one-bike-video-viral-police-case-fine-lclar-strc-2652969-2026-09-25?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-25T15:23:24+05:30",
+    "hook": "एक बाइक पर पाँच बच्चे! वीडियो देख पुलिस के भी उड़ गए होश!",
+    "script_hi": "मेरठ से हैरान कर देने वाला मामला सामने आया है जहाँ एक मोटरसाइकिल पर चार से पाँच नाबालिग बच्चे खतरनाक तरीके से सफर करते दिखे। वीडियो वायरल होने के बाद पुलिस ने तुरंत कार्रवाई की और वाहन मालिक पर पच्चीस हज़ार रुपये का जुर्माना लगाया। साथ ही वाहन को सीज करने और लाइसेंस तथा आरसी रद्द करने की कार्रवाई भी की जा रही है।",
+    "tts_text_hi": "मेरठ से हैरान कर देने वाला मामला सामने आया है जहाँ एक मोटरसाइकिल पर चार से पाँच नाबालिग बच्चे खतरनाक तरीके से सफर करते दिखे। वीडियो वायरल होने के बाद पुलिस ने तुरंत कार्रवाई की और वाहन मालिक पर पच्चीस हज़ार रुपये का जुर्माना लगाया। साथ ही वाहन को सीज करने और लाइसेंस तथा आरसी रद्द करने की कार्रवाई भी की जा रही है.",
+    "title": "मेरठ में एक बाइक पर पाँच बच्चे, पुलिस ने लगाया भारी जुर्माना",
+    "caption": "मेरठ में एक मोटरसाइकिल पर खतरनाक तरीके से सवार बच्चों का वीडियो वायरल होने के बाद पुलिस ने पच्चीस हज़ार रुपये का जुर्माना लगाया है और वाहन सीज करने की कार्रवाई शुरू कर दी है।",
+    "hashtags": [
+      "Meerut",
+      "ViralVideo",
+      "TrafficPolice",
+      "UttarPradesh",
+      "RoadSafety",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "Indian traffic police",
+      "India motorcycle street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story revolves around a specific viral video of children on a motorcycle; generic stock B-roll cannot replace the actual real footage of the incident.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian traffic police",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11091214/pexels-photo-11091214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India motorcycle street",
+        "credit": "Rupinder Singh",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "google_gemini_live_video_avatar_launch",
+    "virality_score": 7,
+    "reason": "Cutting-edge tech launch by Google introducing a realistic video call AI avatar supporting 97 languages.",
+    "region": "india",
+    "headline": "इंसान है या रोबोट? Google ने लॉन्च किया वीडियो कॉल पर बात करने वाला AI अवतार",
+    "source_summary": "Google ने Gemini Enterprise पर Gemini 3.8 Live with Live Avatar लॉन्च किया है. ये 97 भाषाओं के सपोर्ट, बैकग्राउंड में टास्क करने में कैपेबल है. आइए आपको इसके सभी फीचर्स के बारे में बताते हैं.",
+    "source_url": "https://ndtv.in/tech/google-gemini-3-8-live-avatar-launched-features-pricing-languages-12095572#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 25 Sep 2026 10:10:34 +0530",
+    "hook": "इंसान है या रोबोट? गूगल ने लॉन्च किया कमाल का एआई अवतार!",
+    "script_hi": "गूगल ने जेमिनी एंटरप्राइज पर जेमिनी तीन दशमलव आठ लाइव विथ लाइव अवतार लॉन्च कर दिया है. यह एआई अवतार वीडियो कॉल पर असली इंसान की तरह बात कर सकता है. यह तकनीक संतानवे भाषाओं को सपोर्ट करती है और बैकग्राउंड में कई काम करने में सक्षम है.",
+    "tts_text_hi": "गूगल ने जेमिनी एंटरप्राइज पर जेमिनी तीन दशमलव आठ लाइव विथ लाइव अवतार लॉन्च कर दिया है. यह एआई अवतार वीडियो कॉल पर असली इंसान की तरह बात कर सकता है. यह तकनीक संतानवे भाषाओं को सपोर्ट करती है और बैकग्राउंड में कई काम करने में सक्षम है.",
+    "title": "Google Gemini Live Avatar Launched",
+    "caption": "गूगल ने लॉन्च किया वीडियो कॉल पर बात करने वाला नया एआई अवतार, जानिए इसकी खासियत.",
+    "hashtags": [
+      "Google",
+      "GeminiAI",
+      "TechNews",
+      "ArtificialIntelligence",
+      "IndiaTech"
+    ],
+    "visual_queries": [
+      "India technology office",
+      "artificial intelligence concept India",
+      "video call screen India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -382,58 +560,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32667026/pexels-photo-32667026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36926207/pexels-photo-36926207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian shopkeeper counter QR code India",
-        "credit": "Prashant pacific",
+        "query": "India technology office",
+        "credit": "Deekshith Rao",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8566521/pexels-photo-8566521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cash currency Indian rupees India",
-        "credit": "Ravi Roshan",
+        "query": "artificial intelligence concept India",
+        "credit": "Kindel Media",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/22591327/pexels-photo-22591327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5956918/pexels-photo-5956918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian marketplace protest India",
-        "credit": "Umang & Meet",
+        "query": "video call screen India",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29911350/pexels-photo-29911350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33235949/pexels-photo-33235949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "busy Indian market street",
-        "credit": "Basit Manzoor",
+        "query": "person using smartphone india",
+        "credit": "Kewal Nagda",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12899190/pexels-photo-12899190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "indian market street crowd",
-        "credit": "Himanshu Singh",
+        "query": "modern office desk worker",
+        "credit": "Mizuno K",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/14933973/pexels-photo-14933973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/12903242/pexels-photo-12903242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "small business owner store",
-        "credit": "Zain Ali",
+        "query": "technology user looking at screen",
+        "credit": "Mizuno K",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8936887/pexels-photo-8936887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5853494/pexels-photo-5853494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian retail shop counter",
-        "credit": "Thirdman",
+        "query": "digital tablet user close up",
+        "credit": "Anna Baranova",
         "duration_sec": 4.3
       }
     ],
@@ -442,348 +620,26 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "दो अक्टूबर को नहीं चलेगा UPI! व्यापारियों का बड़ा प्रोटेस्ट 🚫",
-        "caption": "दो अक्टूबर को नहीं चलेगा यूपीआई! 🛑 व्यापारी एसोसिएशन के इस ऐलान ने सबकी टेंशन बढ़ा दी है।\n\nएमडीआर चार्जेस के विरोध में व्यापारी सड़क पर उतरने की तैयारी कर रहे हैं। इस दिन आपको सिर्फ कैश का इस्तेमाल करना पड़ सकता है।\n\nक्या आप डिजिटल पेमेंट की जगह फिर से कैश इस्तेमाल करने को तैयार हैं? पूरी कहानी देखें और अपनी राय बताएं।\n\n#NoUPIDay #UPIPayment #BusinessNews #DigitalPayments #CashOnly"
+        "title": "इंसान है या रोबोट? Google का नया AI अवतार! 🤖",
+        "caption": "इंसान है या रोबोट? गूगल ने वीडियो कॉल पर बात करने वाला ऐसा AI अवतार लॉन्च किया है जिसे देखकर आप भी धोखा खा जाएंगे। \n\nयह नया फीचर बिल्कुल असली इंसान की तरह बात करता है और आपके हर एक्सप्रेशन को समझ सकता है। तकनीक की दुनिया में यह बहुत बड़ा बदलाव माना जा रहा है।\n\nआपको क्या लगता है, क्या आने वाले समय में AI असली इंसानों की जगह ले लेगा? कमेंट में बताएं और पूरी कहानी देखें।\n\n#GoogleGemini #AIAvatar #TechNews #ArtificialIntelligence #FutureTech"
       },
       "instagram": {
         "title": null,
-        "caption": "दो अक्टूबर को नहीं चलेगा यूपीआई! 🛑\n\nएमडीआर के विरोध में व्यापारियों ने 'नो यूपीआई डे' का ऐलान किया है। अगर ये प्रोटेस्ट सफल रहा, तो दो अक्टूबर को डिजिटल पेमेंट बंद कर सिर्फ कैश चलेगा।\n\nक्या आप बिना यूपीआई के एक दिन बिता सकते हैं? दोस्तों के साथ शेयर करें जिन्हें इस बात की खबर नहीं है।\n\n#NoUPIDay #UPIPayment #BusinessNews #DigitalPayments #CashOnly"
+        "caption": "इंसान है या रोबोट? 🤖 गूगल के नए AI अवतार ने वीडियो कॉल पर बात करके सबको हैरान कर दिया है। \n\nशक्ल से लेकर बात करने के तरीके तक, यह हूबहू असली इंसान जैसा लगता है। \n\nवीडियो को शेयर करें और अपनी राय दें!\n\n#GoogleGemini #AIAvatar #TechNews #ArtificialIntelligence #FutureTech"
       },
       "facebook": {
         "title": null,
-        "caption": "दो अक्टूबर को नहीं चलेगा यूपीआई! 🛑\n\nशॉपिंग करने की सोच रहे हैं तो संभल जाइए। एमडीआर के खिलाफ व्यापारियों ने कड़ा रुख अपनाते हुए 'नो यूपीआई डे' का ऐलान कर दिया है। इस दिन ऑनलाइन पेमेंट की बजाय सिर्फ कैश ही चलेगा। \n\nव्यापारियों के इस कदम से आम जनता की मुश्किलें कितनी बढ़ेंगी? वीडियो देखकर पूरी सच्चाई समझें और कमेंट में बताएं कि आप इस प्रोटेस्ट के बारे में क्या सोचते हैं।\n\n#NoUPIDay #UPIPayment #BusinessNews #DigitalPayments #CashOnly"
+        "caption": "इंसान है या रोबोट? गूगल ने एक ऐसा वीडियो कॉल AI अवतार पेश किया है जिसकी तकनीक देखकर अच्छे-अच्छे एक्सपर्ट्स हैरान हैं। \n\nयह सिर्फ आवाज़ नहीं निकालता, बल्कि वीडियो कॉल पर बिल्कुल इंसानों की तरह रिएक्ट भी करता है। टेक्नोलॉजी किस तरफ जा रही है, यह उसका एक बहुत बड़ा उदाहरण है। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और हमें बताएं कि आपको यह तकनीक कैसी लगी।\n\n#GoogleGemini #AIAvatar #TechNews #ArtificialIntelligence #FutureTech"
       },
       "hashtags": [
-        "NoUPIDay",
-        "UPIPayment",
-        "BusinessNews",
-        "DigitalPayments",
-        "CashOnly"
+        "GoogleGemini",
+        "AIAvatar",
+        "TechNews",
+        "ArtificialIntelligence",
+        "FutureTech"
       ]
     },
-    "audio_path": "audio/no_upi_day_traders_protest_october_2.wav",
-    "audio_duration_sec": 15.14
-  },
-  {
-    "topic_label": "ips_mohibullah_ansari_usa_hero_award_failure_to_ips",
-    "virality_score": 8,
-    "reason": "An inspiring turnaround story of a student who failed 10th-12th pre-boards, became an IITian and IPS officer, and is now honored in the US.",
-    "region": "india",
-    "headline": "IIT द‍िल्‍ली में पढ़कर IPS बने मोहिबुल्लाह अंसारी, अब USA से क्‍यों आया बुलाया? 10-12वीं में हुए फेल",
-    "source_summary": "IIT दिल्ली में पढ़कर IPS बने मोहिबुल्लाह अंसारी को अमेरिका में द एशियन हीरो अवार्ड 2026 से सम्मानित किया जाएगा. कभी 10वीं और 12वीं के प्री-बोर्ड में असफल रहे अंसारी ने UPSC 2020 में 389वीं रैंक हासिल की और बिहार कैडर के आईपीएस बने.",
-    "source_url": "https://ndtv.in/education/ips-mohibullah-ansari-iit-delhi-to-america-asian-hero-award-2026-success-story-12096085#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Fri, 25 Sep 2026 12:47:35 +0530",
-    "hook": "दसवीं और बारहवीं में फेल होने वाले छात्र ने रचा इतिहास!",
-    "script_hi": "आईआईटी दिल्ली से पढ़ाई कर आईपीएस बने मोहिबुल्लाह अंसारी को अमेरिका में द एशियन हीरो अवार्ड दो हज़ार छब्बीस से सम्मानित किया जाएगा। कभी स्कूल की परीक्षाओं में असफल रहे अंसारी ने संघ लोक सेवा आयोग परीक्षा दो हज़ार बीस में तीन सौ निवासी रैंक हासिल कर बिहार कैडर चुना था। अब उन्हें अंतरराष्ट्रीय स्तर पर यह बड़ा सम्मान मिलने जा रहा है।",
-    "tts_text_hi": "आईआईटी दिल्ली से पढ़ाई कर आईपीएस बने मोहिबुल्लाह अंसारी को अमेरिका में द एशियन हीरो अवार्ड दो हज़ार छब्बीस से सम्मानित किया जाएगा। कभी स्कूल की परीक्षाओं में असफल रहे अंसारी ने संघ लोक सेवा आयोग परीक्षा दो हज़ार बीस में तीन सौ निवासी रैंक हासिल कर बिहार कैडर चुना था। अब उन्हें अंतरराष्ट्रीय स्तर पर यह बड़ा सम्मान मिलने जा रहा है।",
-    "title": "IIT से पढ़ाई कर IPS बने मोहिबुल्लाह अंसारी को USA से बुलावा",
-    "caption": "कभी 10वीं-12वीं में फेल होने वाले IPS मोहिबुल्लाह अंसारी को USA में 'द एशियन हीरो अवार्ड 2026' से सम्मानित किया जाएगा।",
-    "hashtags": [
-      "IPS",
-      "MohibullahAnsari",
-      "UPSC",
-      "IndianPolice",
-      "IITDelhi",
-      "SuccessStory",
-      "News"
-    ],
-    "visual_queries": [
-      "Indian college campus India",
-      "Indian police officer India",
-      "American flag building India",
-      "proud Indian achiever India"
-    ],
-    "named_person": "Mohibullah Ansari",
-    "named_person_hi": "मोहिबुल्लाह अंसारी",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "मोहिबुल्लाह अंसारी",
-        "source": "fallback",
-        "query": "Mohibullah Ansari",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36478243/pexels-photo-36478243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian college campus India",
-        "credit": "Ansh Yati",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police officer India",
-        "credit": "Frank van Dijk",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39650470/pexels-photo-39650470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police officer in uniform India",
-        "credit": "Tri Martono AS",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9345720/pexels-photo-9345720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "proud Indian achiever India",
-        "credit": "Anna Pou",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "IIT से पढ़ाई कर IPS बने मोहिबुल्लाह अंसारी को USA से बुलावा",
-        "caption": "कभी 10वीं-12वीं में फेल होने वाले IPS मोहिबुल्लाह अंसारी को USA में 'द एशियन हीरो अवार्ड 2026' से सम्मानित किया जाएगा।\n\n#IPS #MohibullahAnsari #UPSC #IndianPolice #IITDelhi"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कभी 10वीं-12वीं में फेल होने वाले IPS मोहिबुल्लाह अंसारी को USA में 'द एशियन हीरो अवार्ड 2026' से सम्मानित किया जाएगा।\n\n#IPS #MohibullahAnsari #UPSC #IndianPolice #IITDelhi"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "कभी 10वीं-12वीं में फेल होने वाले IPS मोहिबुल्लाह अंसारी को USA में 'द एशियन हीरो अवार्ड 2026' से सम्मानित किया जाएगा।\n\n#IPS #MohibullahAnsari #UPSC #IndianPolice #IITDelhi"
-      },
-      "hashtags": [
-        "IPS",
-        "MohibullahAnsari",
-        "UPSC",
-        "IndianPolice",
-        "IITDelhi"
-      ]
-    },
-    "audio_path": "audio/ips_mohibullah_ansari_usa_hero_award_failure_to_ips.wav",
-    "audio_duration_sec": 24.09
-  },
-  {
-    "topic_label": "google_project_suncatcher_ai_chip_space_test",
-    "virality_score": 8,
-    "reason": "Google testing AI chips in space via satellite under Project Suncatcher is a fascinating tech breakthrough story.",
-    "region": "india",
-    "headline": "प्रोजेक्ट सनकैचर: गूगल अंतरिक्ष में करेगा एआई चिप की टेस्टिंग, 1 अक्तूबर को रचने जा रहा इतिहास, क्या है प्लान?",
-    "source_summary": "गूगल अब एआई कंप्यूटिंग को अंतरिक्ष तक ले जाने की तैयारी कर रहा है। कंपनी प्रोजेक्ट सनकैचर के तहत अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट ऑर्बिट में भेजेगी। 1 अक्तूबर को होने वाले इस टेस्ट में देखा जाएगा कि एआई चिप",
-    "source_url": "https://www.amarujala.com/technology/tech-diary/google-project-suncatcher-space-tpu-ai-computing-satellite-launch-on-1-october-2026-09-25",
-    "source_name": "Amar Ujala",
-    "published": "Fri, 25 Sep 2026 11:19:38 +0530",
-    "hook": "अंतरिक्ष में गूंजेगा गूगल के एआई का दम!",
-    "script_hi": "गूगल अब एआई कंप्यूटिंग को अंतरिक्ष तक ले जाने की तैयारी कर रहा है। कंपनी प्रोजेक्ट सनकैचर के तहत अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट ऑर्बिट में भेजेगी। एक अक्तूबर को होने वाले इस टेस्ट में देखा जाएगा कि एआई चिप अंतरिक्ष में कैसे काम करती है।",
-    "tts_text_hi": "गूगल अब एआई कंप्यूटिंग को अंतरिक्ष तक ले जाने की तैयारी कर रहा है। कंपनी प्रोजेक्ट सनकैचर के तहत अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट ऑर्बिट में भेजेगी। एक अक्तूबर को होने वाले इस टेस्ट में देखा जाएगा कि एआई चिप अंतरिक्ष में कैसे काम करती है।",
-    "title": "गूगल का प्रोजेक्ट सनकैचर: अंतरिक्ष में होगी एआई चिप की टेस्टिंग",
-    "caption": "गूगल अंतरिक्ष में भेजने जा रहा है अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट। प्रोजेक्ट सनकैचर के तहत एक अक्तूबर को होगा बड़ा टेस्ट।",
-    "hashtags": [
-      "#Google",
-      "#ProjectSuncatcher",
-      "#ArtificialIntelligence",
-      "#SpaceTech",
-      "#TechNews",
-      "#AIChips"
-    ],
-    "visual_queries": [
-      "Google office building India",
-      "satellite in space India",
-      "advanced microchip India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.5,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/28760951/12470282_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "satellite in space India",
-        "credit": "Alejandro De Roa",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8033476/pexels-photo-8033476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "advanced microchip India",
-        "credit": "Robert Pügner",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern technology laboratory",
-        "credit": "Mikhail Nilov",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic computer circuit",
-        "credit": "Alexandre P. Junior",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38173710/pexels-photo-38173710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night sky with stars",
-        "credit": "Abbas Zaidi",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38770168/pexels-photo-38770168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "microchip manufacturing plant",
-        "credit": "Mariano Di Luch",
-        "duration_sec": 4.8
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अंतरिक्ष में एआई चिप की टेस्टिंग! गूगल का प्रोजेक्ट सनकैचर 🚀",
-        "caption": "अंतरिक्ष में गूंजेगा गूगल के एआई का दम! 🛰️\n\nगूगल 1 अक्टूबर को स्पेस में अपने सबसे बड़े प्रोजेक्ट सनकैचर की शुरुआत करने जा रहा है। इसके तहत पहली बार अंतरिक्ष में एआई चिप की टेस्टिंग होगी, जो टेक्नोलॉजी की दुनिया में एक नया इतिहास रचेगी।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#GoogleProjectSuncatcher #AI #SpaceTech #Google #TechNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "अंतरिक्ष में गूंजेगा गूगल के एआई का दम! 🛰️\n\n1 अक्टूबर को गूगल अंतरिक्ष में इतिहास रचने की तैयारी में है। 'प्रोजेक्ट सनकैचर' के तहत अब स्पेस में एआई चिप्स की टेस्टिंग की जाएगी।\n\nक्या ये कदम स्पेस टेक्नोलॉजी को बदल देगा? शेयर करें अपने दोस्तों के साथ! 🚀\n\n#GoogleProjectSuncatcher #AI #SpaceTech #Google #TechNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "अंतरिक्ष में गूंजेगा गूगल के एआई का दम! 🛰️\n\nटेक्नोलॉजी की दुनिया में एक बहुत बड़ा बदलाव होने जा रहा है। गूगल 1 अक्टूबर को अपने 'प्रोजेक्ट सनकैचर' के तहत अंतरिक्ष में एआई चिप की टेस्टिंग करने वाला है। अगर यह प्लान कामयाब होता है, तो स्पेस रिसर्च और आर्टिफिशियल इंटेलिजेंस की रफ्तार कई गुना बढ़ जाएगी।\n\nपूरी योजना क्या है, जानने के लिए वीडियो पूरा देखें।\n\n#GoogleProjectSuncatcher #AI #SpaceTech #Google #TechNews"
-      },
-      "hashtags": [
-        "GoogleProjectSuncatcher",
-        "AI",
-        "SpaceTech",
-        "Google",
-        "TechNews"
-      ]
-    },
-    "audio_path": "audio/google_project_suncatcher_ai_chip_space_test.wav",
-    "audio_duration_sec": 19.99
-  },
-  {
-    "topic_label": "trump_xi_jinping_white_house_helipad_b2_bomber",
-    "virality_score": 7,
-    "reason": "High-profile global diplomacy showcasing US military might and lavish hosting for Xi Jinping carries strong international interest.",
-    "region": "india",
-    "headline": "जिनपिंग को दिखाया 50 करोड़ का हेलीपैड, B2 बॉम्बर से सलामी... ट्रंप का शोऑफ!",
-    "source_summary": "ट्रंप ने शी जिनपिंग को व्हाइट हाउस के नए हेलीपैड का दौरा कराया. करीब 5 से 6 मिलियन डॉलर की लागत से बने इस हेलीपैड को काले ग्रेनाइट से तैयार किया गया है. शी के दौरे के दौरान व्हाइट हाउस के ऊपर B-2 बॉम्बर और F-22 फाइटर जेट्स का फ्लाईओवर भी हुआ.",
-    "source_url": "https://www.aajtak.in/world/story/white-house-new-granite-helipad-trump-xi-jinping-marine-one-cost-ntc-mnrd-dskc-2652830-2026-09-25?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-25T13:28:52+05:30",
-    "hook": "व्हाइट हाउस में ट्रंप ने जिनपिंग को दिखाया पचास करोड़ का हेलीपैड!",
-    "script_hi": "अमेरिकी राष्ट्रपति ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग को व्हाइट हाउस के नए हेलीपैड का दौरा कराया। करीब पांच से छह मिलियन डॉलर यानी लगभग पचास करोड़ रुपये की लागत से बने इस हेलीपैड को काले ग्रेनाइट से तैयार किया गया है। जिनपिंग के दौरे के दौरान व्हाइट हाउस के ऊपर बी टू बॉम्बर और एफ बाईस फाइटर जेट्स का भव्य फ्लाईओवर भी हुआ।",
-    "tts_text_hi": "अमेरिकी राष्ट्रपति ट्रंप ने चीनी राष्ट्रपति शी जिनपिंग को व्हाइट हाउस के नए हेलीपैड का दौरा कराया। करीब पांच से छह मिलियन डॉलर यानी लगभग पचास करोड़ रुपये की लागत से बने इस हेलीपैड को काले ग्रेनाइट से तैयार किया गया है। जिनपिंग के दौरे के दौरान व्हाइट हाउस के ऊपर बी टू बॉम्बर और एफ बाईस फाइटर जेट्स का भव्य फ्लाईओवर भी हुआ।",
-    "title": "ट्रंप ने जिनपिंग को दिखाया पचास करोड़ का हेलीपैड",
-    "caption": "व्हाइट हाउस में ट्रंप ने शी जिनपिंग को कराया नए हेलीपैड का दौरा, आसमान में गरजे बी-टू बॉम्बर और फाइटर जेट्स।",
-    "hashtags": [
-      "DonaldTrump",
-      "XiJinping",
-      "WhiteHouse",
-      "USChina",
-      "B2Bomber",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "White House exterior Washington",
-      "luxury helicopter landing pad",
-      "B2 bomber flying in sky",
-      "modern military fighter jet"
-    ],
-    "named_person": "Donald Trump",
-    "named_person_hi": "डोनाल्ड ट्रंप",
-    "secondary_persons": [
-      "Xi Jinping"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "डोनाल्ड ट्रंप",
-        "source": "fallback",
-        "query": "Donald Trump",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35697110/15128888_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "white house exterior architecture",
-        "credit": "Tatianaa Co",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32194038/pexels-photo-32194038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "White House exterior Washington",
-        "credit": "Ramaz Bluashvili",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4802538/pexels-photo-4802538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury helicopter landing pad",
-        "credit": "Suhail Suri",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "white house exterior architecture",
-        "credit": "Julia Kuzenkov",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "व्हाइट हाउस में ट्रंप का मेगा शोऑफ, जिनपिंग को दिखाया 50 करोड़ का हेलीपैड! 🚁",
-        "caption": "व्हाइट हाउस में ट्रंप ने जिनपिंग को दिखाया पचास करोड़ का हेलीपैड! 🚁\n\nअमेरिका आए चीनी राष्ट्रपति शी जिनपिंग के स्वागत में ट्रंप ने ऐसा शोऑफ किया कि दुनिया देखती रह गई। 50 करोड़ के हेलीपैड से लेकर आसमान में B2 बॉम्बर की गर्जना तक, हर तरफ इसी मुलाकात की चर्चा है।\n\nआपको क्या लगता है, इस पावर शो के पीछे ट्रंप का असली मकसद क्या होगा? कमेंट में बताएं और पूरी कहानी देखें!\n\n#DonaldTrump #XiJinping #WhiteHouse #B2Bomber #USChina"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "व्हाइट हाउस में ट्रंप ने जिनपिंग को दिखाया पचास करोड़ का हेलीपैड! 🚁\n\nअमेरिका पहुंचे जिनपिंग को ट्रंप ने अपनी ताकत दिखाने में कोई कसर नहीं छोड़ी। B2 बॉम्बर की सलामी और इस हाई-प्रोफाइल ड्रामे के क्या हैं मायने?\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और दोस्तों के साथ शेयर करें।\n\n#DonaldTrump #XiJinping #WhiteHouse #B2Bomber #USChina"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "व्हाइट हाउस में ट्रंप ने जिनपिंग को दिखाया पचास करोड़ का हेलीपैड! 🚁\n\nदुनिया के दो सबसे ताकतवर नेताओं की इस मुलाकात में ट्रंप ने अपने अंदाज में गजब का शक्ति प्रदर्शन किया। एक तरफ करोड़ों का खर्च और ऊपर से B2 बॉम्बर की खतरनाक सलामी, इस पूरे वाकये ने ग्लोबल पॉलिटिक्स में हलचल मचा दी है।\n\nआपको क्या लगता है, यह दोस्ती है या कोई नया पैतरा? अपनी राय जरूर शेयर करें और वीडियो पूरा देखें।\n\n#DonaldTrump #XiJinping #WhiteHouse #B2Bomber #USChina"
-      },
-      "hashtags": [
-        "DonaldTrump",
-        "XiJinping",
-        "WhiteHouse",
-        "B2Bomber",
-        "USChina"
-      ]
-    },
-    "audio_path": "audio/trump_xi_jinping_white_house_helipad_b2_bomber.wav",
-    "audio_duration_sec": 23.71
+    "audio_path": "audio/google_gemini_live_video_avatar_launch.wav",
+    "audio_duration_sec": 17.4
   }
 ]
