@@ -1,10 +1,10 @@
-ready_labels: ['asian_games_2026_shooting_gold_suruchi_kamaljit', 'australia_openai_hack_un_announcement_global', 'bahraich_pitbulls_save_woman_from_jackal', 'iit_bombay_student_suicide_iphone_lock_challenge', 'kanpur_vineeet_minocha_murder_son_confession', 'mumbai_angel_one_founder_711_crore_tower_deal', 'ujjain_cm_mohan_yadav_family_house_bulldozer']
+ready_labels: ['ahmedabad_81_year_old_doctor_patient_salary_fees', 'dehradun_women_cleaners_foil_kidnapping_attempt', 'netanyahu_unga_speech_starlink_pager_show', 'varanasi_bahubali_truck_308_wheels_over_200_tonnes', 'yamuna_expressway_bus_fire_driver_confession']
 
-asian_games_2026_shooting_gold_suruchi_kamaljit: SUCCESS -> video_path=videos/asian_games_2026_shooting_gold_suruchi_kamaljit.mp4 dur=33.82322
-junagadh_leopard_attacks_6_year_old_girl: SKIPPED (not in ready set)
-kanpur_vineeet_minocha_murder_son_confession: SUCCESS -> video_path=videos/kanpur_vineeet_minocha_murder_son_confession.mp4 dur=29.919229
-ujjain_cm_mohan_yadav_family_house_bulldozer: SUCCESS -> video_path=videos/ujjain_cm_mohan_yadav_family_house_bulldozer.mp4 dur=36.189229
-iit_bombay_student_suicide_iphone_lock_challenge: SUCCESS -> video_path=videos/iit_bombay_student_suicide_iphone_lock_challenge.mp4 dur=32.891224
-bahraich_pitbulls_save_woman_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbulls_save_woman_from_jackal.mp4 dur=32.056553
-mumbai_angel_one_founder_711_crore_tower_deal: SUCCESS -> video_path=videos/mumbai_angel_one_founder_711_crore_tower_deal.mp4 dur=33.389887
-australia_openai_hack_un_announcement_global: SUCCESS -> video_path=videos/australia_openai_hack_un_announcement_global.mp4 dur=23.162222
+delhi_kalkaji_park_minor_gangrape_arrest: SKIPPED (not in ready set)
+yamuna_expressway_bus_fire_driver_confession: SUCCESS -> video_path=videos/yamuna_expressway_bus_fire_driver_confession.mp4 dur=24.648231
+varanasi_bahubali_truck_308_wheels_over_200_tonnes: SUCCESS -> video_path=videos/varanasi_bahubali_truck_308_wheels_over_200_tonnes.mp4 dur=28.289887
+uae_company_surprise_iphone_gift_viral: SKIPPED (not in ready set)
+bihar_banka_mandar_parvat_girl_harassment_video: SKIPPED (not in ready set)
+dehradun_women_cleaners_foil_kidnapping_attempt: SUCCESS -> video_path=videos/dehradun_women_cleaners_foil_kidnapping_attempt.mp4 dur=34.958231
+ahmedabad_81_year_old_doctor_patient_salary_fees: SUCCESS -> video_path=videos/ahmedabad_81_year_old_doctor_patient_salary_fees.mp4 dur=25.995215
+netanyahu_unga_speech_starlink_pager_show: SUCCESS -> video_path=videos/netanyahu_unga_speech_starlink_pager_show.mp4 dur=38.255215
