@@ -1,9 +1,9 @@
-ready_labels: ['australia_openai_hack_un_announcement', 'bahraich_pitbul_saves_woman_from_jackal', 'kanpur_vineeet_minocha_murder_son_arrest', 'mushtaq_khan_actor_demise_life_story', 'no_upi_day_merchant_protest_october', 'sourav_joshi_defender_suv_wife_gift']
+ready_labels: ['imd_heavy_rainfall_alert_multiple_states', 'italy_bans_burqa_niqab_schools_meloni', 'rahul_gandhi_opposition_protest_cec_gyanesh_kumar', 'trump_xi_jinping_white_house_summit_takeaways', 'veteran_actor_mushtaq_khan_passes_away', 'yamuna_expressway_bus_fire_horrific_details']
 
-bahraich_pitbul_saves_woman_from_jackal: SUCCESS -> video_path=videos/bahraich_pitbul_saves_woman_from_jackal.mp4 dur=32.689887
-kanpur_vineeet_minocha_murder_son_arrest: SUCCESS -> video_path=videos/kanpur_vineeet_minocha_murder_son_arrest.mp4 dur=29.32322
-amroha_cops_crpf_gangrape_arrest: SKIPPED (not in ready set)
-sourav_joshi_defender_suv_wife_gift: SUCCESS -> video_path=videos/sourav_joshi_defender_suv_wife_gift.mp4 dur=23.32322
-mushtaq_khan_actor_demise_life_story: SUCCESS -> video_path=videos/mushtaq_khan_actor_demise_life_story.mp4 dur=25.205215
-no_upi_day_merchant_protest_october: SUCCESS -> video_path=videos/no_upi_day_merchant_protest_october.mp4 dur=27.504218
-australia_openai_hack_un_announcement: SUCCESS -> video_path=videos/australia_openai_hack_un_announcement.mp4 dur=26.42322
+trump_xi_jinping_white_house_summit_takeaways: SUCCESS -> video_path=videos/trump_xi_jinping_white_house_summit_takeaways.mp4 dur=28.781224
+rahul_gandhi_opposition_protest_cec_gyanesh_kumar: SUCCESS -> video_path=videos/rahul_gandhi_opposition_protest_cec_gyanesh_kumar.mp4 dur=25.92322
+yamuna_expressway_bus_fire_horrific_details: SUCCESS -> video_path=videos/yamuna_expressway_bus_fire_horrific_details.mp4 dur=27.589887
+veteran_actor_mushtaq_khan_passes_away: SUCCESS -> video_path=videos/veteran_actor_mushtaq_khan_passes_away.mp4 dur=27.32322
+imd_heavy_rainfall_alert_multiple_states: SUCCESS -> video_path=videos/imd_heavy_rainfall_alert_multiple_states.mp4 dur=33.42322
+italy_bans_burqa_niqab_schools_meloni: SUCCESS -> video_path=videos/italy_bans_burqa_niqab_schools_meloni.mp4 dur=28.82322
+nirma_university_professor_student_clash_video: SKIPPED (not in ready set)
