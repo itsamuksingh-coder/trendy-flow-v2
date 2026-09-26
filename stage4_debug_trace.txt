@@ -1,7 +1,9 @@
-ready_labels: ['hurricane_polo_category_5_pacific_mexico', 'kanpur_ganesh_visarjan_bombing_police_action', 'sawan_barwal_asian_games_marathon_silver', 'us_70_crore_fraud_call_center_ahmedabad_cbi']
+ready_labels: ['agra_lucknow_expressway_car_flip_accident_three_dead', 'iit_delhi_first_indigenous_micro_gpu_created', 'mumbai_airport_dri_gold_powder_smuggling_nutella', 'pm_modi_plays_khanjari_bhajan_clubbing', 'sbi_atm_cash_withdrawal_charges_waived_three_days', 'yaspal_sharma_brother_rajesh_arrested_bribe']
 
-sawan_barwal_asian_games_marathon_silver: SUCCESS -> video_path=videos/sawan_barwal_asian_games_marathon_silver.mp4 dur=29.556553
-us_70_crore_fraud_call_center_ahmedabad_cbi: SUCCESS -> video_path=videos/us_70_crore_fraud_call_center_ahmedabad_cbi.mp4 dur=28.956553
-kannauji_police_couple_rescues_car_accident: SKIPPED (not in ready set)
-kanpur_ganesh_visarjan_bombing_police_action: SUCCESS -> video_path=videos/kanpur_ganesh_visarjan_bombing_police_action.mp4 dur=31.614218
-hurricane_polo_category_5_pacific_mexico: SUCCESS -> video_path=videos/hurricane_polo_category_5_pacific_mexico.mp4 dur=23.656553
+mumbai_airport_dri_gold_powder_smuggling_nutella: SUCCESS -> video_path=videos/mumbai_airport_dri_gold_powder_smuggling_nutella.mp4 dur=32.356553
+ranchi_monkey_enters_wine_shop_gets_drunk: SKIPPED (not in ready set)
+iit_delhi_first_indigenous_micro_gpu_created: SUCCESS -> video_path=videos/iit_delhi_first_indigenous_micro_gpu_created.mp4 dur=29.339229
+pm_modi_plays_khanjari_bhajan_clubbing: SUCCESS -> video_path=videos/pm_modi_plays_khanjari_bhajan_clubbing.mp4 dur=24.555215
+sbi_atm_cash_withdrawal_charges_waived_three_days: SUCCESS -> video_path=videos/sbi_atm_cash_withdrawal_charges_waived_three_days.mp4 dur=31.956553
+agra_lucknow_expressway_car_flip_accident_three_dead: SUCCESS -> video_path=videos/agra_lucknow_expressway_car_flip_accident_three_dead.mp4 dur=27.189887
+yaspal_sharma_brother_rajesh_arrested_bribe: SUCCESS -> video_path=videos/yaspal_sharma_brother_rajesh_arrested_bribe.mp4 dur=23.67322
