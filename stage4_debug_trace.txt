@@ -1,9 +1,8 @@
-ready_labels: ['amritsar_police_encounter_asi_killer_karanbir', 'eleven_year_old_japanese_player_gold_asian_games', 'iran_offers_us_deal_strait_of_hormuz_trump', 'jaishankar_slams_pakistani_journalist_un']
+ready_labels: ['11_year_old_japanese_player_gold_asian_games', 'asian_games_mens_kabaddi_gold_iran']
 
+asian_games_mens_kabaddi_gold_iran: SUCCESS -> video_path=videos/asian_games_mens_kabaddi_gold_iran.mp4 dur=33.62322
 ranchi_monkey_enters_wine_shop_gets_drunk: SKIPPED (not in ready set)
-jaishankar_slams_pakistani_journalist_un: SUCCESS -> video_path=videos/jaishankar_slams_pakistani_journalist_un.mp4 dur=38.156553
-eleven_year_old_japanese_player_gold_asian_games: SUCCESS -> video_path=videos/eleven_year_old_japanese_player_gold_asian_games.mp4 dur=38.12322
-amritsar_police_encounter_asi_killer_karanbir: SUCCESS -> video_path=videos/amritsar_police_encounter_asi_killer_karanbir.mp4 dur=28.056553
-nagaland_spurious_liquor_deaths_sit: SKIPPED (not in ready set)
-kanpur_doctor_murder_son_arrest_betting_loss: SKIPPED (not in ready set)
-iran_offers_us_deal_strait_of_hormuz_trump: SUCCESS -> video_path=videos/iran_offers_us_deal_strait_of_hormuz_trump.mp4 dur=23.092222
+viral_308_wheel_truck_crowd_attraction: SKIPPED (not in ready set)
+tata_aeris_20_ton_stone_safety_test: SKIPPED (not in ready set)
+11_year_old_japanese_player_gold_asian_games: SUCCESS -> video_path=videos/11_year_old_japanese_player_gold_asian_games.mp4 dur=35.889887
+duronto_express_ac_coach_stone_pelting_viral: SKIPPED (not in ready set)
