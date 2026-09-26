@@ -1,9 +1,8 @@
-ready_labels: ['agra_lucknow_expressway_car_flip_accident_three_dead', 'iit_delhi_first_indigenous_micro_gpu_created', 'mumbai_airport_dri_gold_powder_smuggling_nutella', 'pm_modi_plays_khanjari_bhajan_clubbing', 'sbi_atm_cash_withdrawal_charges_waived_three_days', 'yaspal_sharma_brother_rajesh_arrested_bribe']
+ready_labels: ['agra_lucknow_expressway_police_couple_rescue', 'asian_games_womens_kabaddi_gold_iran', 'mumbai_airport_dri_nutella_gold_powder_smuggling', 'un_india_slams_pakistan_form_47']
 
-mumbai_airport_dri_gold_powder_smuggling_nutella: SUCCESS -> video_path=videos/mumbai_airport_dri_gold_powder_smuggling_nutella.mp4 dur=32.356553
+asian_games_womens_kabaddi_gold_iran: SUCCESS -> video_path=videos/asian_games_womens_kabaddi_gold_iran.mp4 dur=33.22322
+un_india_slams_pakistan_form_47: SUCCESS -> video_path=videos/un_india_slams_pakistan_form_47.mp4 dur=30.356553
 ranchi_monkey_enters_wine_shop_gets_drunk: SKIPPED (not in ready set)
-iit_delhi_first_indigenous_micro_gpu_created: SUCCESS -> video_path=videos/iit_delhi_first_indigenous_micro_gpu_created.mp4 dur=29.339229
-pm_modi_plays_khanjari_bhajan_clubbing: SUCCESS -> video_path=videos/pm_modi_plays_khanjari_bhajan_clubbing.mp4 dur=24.555215
-sbi_atm_cash_withdrawal_charges_waived_three_days: SUCCESS -> video_path=videos/sbi_atm_cash_withdrawal_charges_waived_three_days.mp4 dur=31.956553
-agra_lucknow_expressway_car_flip_accident_three_dead: SUCCESS -> video_path=videos/agra_lucknow_expressway_car_flip_accident_three_dead.mp4 dur=27.189887
-yaspal_sharma_brother_rajesh_arrested_bribe: SUCCESS -> video_path=videos/yaspal_sharma_brother_rajesh_arrested_bribe.mp4 dur=23.67322
+mumbai_airport_dri_nutella_gold_powder_smuggling: SUCCESS -> video_path=videos/mumbai_airport_dri_nutella_gold_powder_smuggling.mp4 dur=35.35322
+agra_lucknow_expressway_police_couple_rescue: SUCCESS -> video_path=videos/agra_lucknow_expressway_police_couple_rescue.mp4 dur=38.189887
+sbi_atm_cash_withdrawal_charges_waived_september: SKIPPED (not in ready set)
