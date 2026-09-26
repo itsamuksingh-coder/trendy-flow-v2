@@ -1,9 +1,7 @@
-ready_labels: ['italy_schools_ban_burqa_niqab_meloni', 'mumbai_airport_dri_gold_powder_smuggling', 'nda_allies_demand_ec_clarification_sir', 'sbi_atm_cash_withdrawal_charges_waived', 'shahbaz_sharif_flees_hafiz_saeed_question']
+ready_labels: ['hurricane_polo_category_5_pacific_mexico', 'kanpur_ganesh_visarjan_bombing_police_action', 'sawan_barwal_asian_games_marathon_silver', 'us_70_crore_fraud_call_center_ahmedabad_cbi']
 
-jaishankar_slams_pakistani_journalist_unga: SKIPPED (not in ready set)
-ludhiana_tiago_ev_car_accident_cctv: SKIPPED (not in ready set)
-mumbai_airport_dri_gold_powder_smuggling: SUCCESS -> video_path=videos/mumbai_airport_dri_gold_powder_smuggling.mp4 dur=30.42322
-sbi_atm_cash_withdrawal_charges_waived: SUCCESS -> video_path=videos/sbi_atm_cash_withdrawal_charges_waived.mp4 dur=28.556553
-shahbaz_sharif_flees_hafiz_saeed_question: SUCCESS -> video_path=videos/shahbaz_sharif_flees_hafiz_saeed_question.mp4 dur=31.356553
-nda_allies_demand_ec_clarification_sir: SUCCESS -> video_path=videos/nda_allies_demand_ec_clarification_sir.mp4 dur=35.840227
-italy_schools_ban_burqa_niqab_meloni: SUCCESS -> video_path=videos/italy_schools_ban_burqa_niqab_meloni.mp4 dur=26.134218
+sawan_barwal_asian_games_marathon_silver: SUCCESS -> video_path=videos/sawan_barwal_asian_games_marathon_silver.mp4 dur=29.556553
+us_70_crore_fraud_call_center_ahmedabad_cbi: SUCCESS -> video_path=videos/us_70_crore_fraud_call_center_ahmedabad_cbi.mp4 dur=28.956553
+kannauji_police_couple_rescues_car_accident: SKIPPED (not in ready set)
+kanpur_ganesh_visarjan_bombing_police_action: SUCCESS -> video_path=videos/kanpur_ganesh_visarjan_bombing_police_action.mp4 dur=31.614218
+hurricane_polo_category_5_pacific_mexico: SUCCESS -> video_path=videos/hurricane_polo_category_5_pacific_mexico.mp4 dur=23.656553
