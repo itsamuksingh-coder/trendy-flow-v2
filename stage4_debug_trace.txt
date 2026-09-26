@@ -1,8 +1,9 @@
-ready_labels: ['11_year_old_japanese_player_gold_asian_games', 'asian_games_mens_kabaddi_gold_iran']
+ready_labels: ['kanyakumar_influencer_gold_theft', 'pm_modi_bhajan_clubbing_delhi', 'raj_thackeray_uddhav_ce_protest_mumbai', 'telangana_ganesh_visarjan_tragedy', 'virat_kohli_last_world_cup_announcement']
 
-asian_games_mens_kabaddi_gold_iran: SUCCESS -> video_path=videos/asian_games_mens_kabaddi_gold_iran.mp4 dur=33.62322
-ranchi_monkey_enters_wine_shop_gets_drunk: SKIPPED (not in ready set)
-viral_308_wheel_truck_crowd_attraction: SKIPPED (not in ready set)
-tata_aeris_20_ton_stone_safety_test: SKIPPED (not in ready set)
-11_year_old_japanese_player_gold_asian_games: SUCCESS -> video_path=videos/11_year_old_japanese_player_gold_asian_games.mp4 dur=35.889887
-duronto_express_ac_coach_stone_pelting_viral: SKIPPED (not in ready set)
+telangana_ganesh_visarjan_tragedy: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy.mp4 dur=28.42322
+virat_kohli_last_world_cup_announcement: SUCCESS -> video_path=videos/virat_kohli_last_world_cup_announcement.mp4 dur=25.256553
+308_wheels_viral_truck_up: SKIPPED (not in ready set)
+ranchi_wine_shop_drunk_monkey: SKIPPED (not in ready set)
+pm_modi_bhajan_clubbing_delhi: SUCCESS -> video_path=videos/pm_modi_bhajan_clubbing_delhi.mp4 dur=23.889887
+kanyakumar_influencer_gold_theft: SUCCESS -> video_path=videos/kanyakumar_influencer_gold_theft.mp4 dur=25.089887
+raj_thackeray_uddhav_ce_protest_mumbai: SUCCESS -> video_path=videos/raj_thackeray_uddhav_ce_protest_mumbai.mp4 dur=27.342222
