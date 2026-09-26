@@ -1,8 +1,9 @@
-ready_labels: ['agra_lucknow_expressway_police_couple_rescue', 'asian_games_womens_kabaddi_gold_iran', 'mumbai_airport_dri_nutella_gold_powder_smuggling', 'un_india_slams_pakistan_form_47']
+ready_labels: ['amritsar_police_encounter_asi_killer_karanbir', 'eleven_year_old_japanese_player_gold_asian_games', 'iran_offers_us_deal_strait_of_hormuz_trump', 'jaishankar_slams_pakistani_journalist_un']
 
-asian_games_womens_kabaddi_gold_iran: SUCCESS -> video_path=videos/asian_games_womens_kabaddi_gold_iran.mp4 dur=33.22322
-un_india_slams_pakistan_form_47: SUCCESS -> video_path=videos/un_india_slams_pakistan_form_47.mp4 dur=30.356553
 ranchi_monkey_enters_wine_shop_gets_drunk: SKIPPED (not in ready set)
-mumbai_airport_dri_nutella_gold_powder_smuggling: SUCCESS -> video_path=videos/mumbai_airport_dri_nutella_gold_powder_smuggling.mp4 dur=35.35322
-agra_lucknow_expressway_police_couple_rescue: SUCCESS -> video_path=videos/agra_lucknow_expressway_police_couple_rescue.mp4 dur=38.189887
-sbi_atm_cash_withdrawal_charges_waived_september: SKIPPED (not in ready set)
+jaishankar_slams_pakistani_journalist_un: SUCCESS -> video_path=videos/jaishankar_slams_pakistani_journalist_un.mp4 dur=38.156553
+eleven_year_old_japanese_player_gold_asian_games: SUCCESS -> video_path=videos/eleven_year_old_japanese_player_gold_asian_games.mp4 dur=38.12322
+amritsar_police_encounter_asi_killer_karanbir: SUCCESS -> video_path=videos/amritsar_police_encounter_asi_killer_karanbir.mp4 dur=28.056553
+nagaland_spurious_liquor_deaths_sit: SKIPPED (not in ready set)
+kanpur_doctor_murder_son_arrest_betting_loss: SKIPPED (not in ready set)
+iran_offers_us_deal_strait_of_hormuz_trump: SUCCESS -> video_path=videos/iran_offers_us_deal_strait_of_hormuz_trump.mp4 dur=23.092222
