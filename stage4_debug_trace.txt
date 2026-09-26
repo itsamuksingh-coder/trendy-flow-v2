@@ -1,8 +1,9 @@
-ready_labels: ['buxar_train_hostage_murder_arrest', 'india_lpg_import_tender_shift_usa', 'jaishankar_un_pakistani_journalist_reply', 'pm_modi_bhajan_clubbing_khanjari']
+ready_labels: ['italy_schools_ban_burqa_niqab_meloni', 'mumbai_airport_dri_gold_powder_smuggling', 'nda_allies_demand_ec_clarification_sir', 'sbi_atm_cash_withdrawal_charges_waived', 'shahbaz_sharif_flees_hafiz_saeed_question']
 
-delhi_kalkaji_aastha_kunj_park_gang_rape: SKIPPED (not in ready set)
-jaishankar_un_pakistani_journalist_reply: SUCCESS -> video_path=videos/jaishankar_un_pakistani_journalist_reply.mp4 dur=28.82322
-pm_modi_bhajan_clubbing_khanjari: SUCCESS -> video_path=videos/pm_modi_bhajan_clubbing_khanjari.mp4 dur=20.515215
-buxar_train_hostage_murder_arrest: SUCCESS -> video_path=videos/buxar_train_hostage_murder_arrest.mp4 dur=27.829229
-hisar_ celebratory_firing_delhi_police_cop_death: SKIPPED (not in ready set)
-india_lpg_import_tender_shift_usa: SUCCESS -> video_path=videos/india_lpg_import_tender_shift_usa.mp4 dur=29.756553
+jaishankar_slams_pakistani_journalist_unga: SKIPPED (not in ready set)
+ludhiana_tiago_ev_car_accident_cctv: SKIPPED (not in ready set)
+mumbai_airport_dri_gold_powder_smuggling: SUCCESS -> video_path=videos/mumbai_airport_dri_gold_powder_smuggling.mp4 dur=30.42322
+sbi_atm_cash_withdrawal_charges_waived: SUCCESS -> video_path=videos/sbi_atm_cash_withdrawal_charges_waived.mp4 dur=28.556553
+shahbaz_sharif_flees_hafiz_saeed_question: SUCCESS -> video_path=videos/shahbaz_sharif_flees_hafiz_saeed_question.mp4 dur=31.356553
+nda_allies_demand_ec_clarification_sir: SUCCESS -> video_path=videos/nda_allies_demand_ec_clarification_sir.mp4 dur=35.840227
+italy_schools_ban_burqa_niqab_meloni: SUCCESS -> video_path=videos/italy_schools_ban_burqa_niqab_meloni.mp4 dur=26.134218

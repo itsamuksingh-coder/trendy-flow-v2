@@ -1,489 +1,200 @@
 [
   {
-    "topic_label": "delhi_kalkaji_aastha_kunj_park_gang_rape",
+    "topic_label": "jaishankar_slams_pakistani_journalist_unga",
     "virality_score": 9,
-    "reason": "Shocking gang-rape case in the capital with fake police guise has massive outrage and viral potential",
+    "reason": "External Affairs Minister S. Jaishankar's sharp and viral reply to a Pakistani journalist at the UN.",
     "region": "india",
-    "headline": "'नकली पुलिसवालों ने गर्दन पर चाकू रखकर दुष्कर्म किया', Aastha Kunj Park गैंगरेप की FIR में क्या हुआ?",
-    "source_summary": "Aastha Kunj Park Case: दक्षिण दिल्ली के आस्था कुंज पार्क में 17 साल की एक किशोरी के साथ कथित सामूहिक बलात्कार का मामला सामने आया है। FIR के मुताबिक, घटना के दौरान तीन आरोपियों ने खुद को पुलिसकर्मी बताया। उन्होंने किशोरी",
-    "source_url": "https://hindi.oneindia.com/news/india/aastha-kunj-park-case-victim-fir-says-fake-cops-held-knife-to-neck-and-misdeed-news-hindi-1655673.html",
-    "source_name": "Oneindia Hindi",
-    "published": "Fri, 25 Sep 2026 18:24:39 +0530",
-    "hook": "दक्षिण दिल्ली के आस्था कुंज पार्क में रूह कंपा देने वाली वारदात!",
-    "script_hi": "दक्षिण दिल्ली के आस्था कुंज पार्क में सत्रह साल की एक किशोरी के साथ कथित सामूहिक दुष्कर्म का मामला सामने आया है। एफआईआर के मुताबिक तीन आरोपियों ने खुद को पुलिसकर्मी बताकर इस घिनौनी वारदात को अंजाम दिया।",
-    "tts_text_hi": "दक्षिण दिल्ली के आस्था कुंज पार्क में सत्रह साल की एक किशोरी के साथ कथित सामूहिक दुष्कर्म का मामला सामने आया है। एफआईआर के मुताबिक तीन आरोपियों ने खुद को पुलिसकर्मी बताकर इस घिनौनी वारदात को अंजाम दिया।",
-    "title": "आस्था कुंज पार्क गैंगरेप मामला",
-    "caption": "दक्षिण दिल्ली के आस्था कुंज पार्क में सत्रह साल की किशोरी के साथ कथित सामूहिक बलात्कार, आरोपियों ने खुद को बताया था पुलिसवाला।",
-    "hashtags": [
-      "DelhiNews",
-      "AasthaKunjPark",
-      "CrimeNews",
-      "DelhiPolice",
-      "BreakingNews"
-    ],
-    "visual_queries": [
-      "New Delhi public park India",
-      "police investigation India",
-      "Delhi street crime India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content involves a minor as a victim of sexual violence and abuse, requiring manual review for ethical and safety standards.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12446161/pexels-photo-12446161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi public park India",
-        "credit": "Laura Barragán",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street crime India",
-        "credit": "Roman Saienko",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "jaishankar_un_pakistani_journalist_reply",
-    "virality_score": 9,
-    "reason": "EAM S Jaishankar's crushing response to a Pakistani journalist at the UN goes viral instantly",
-    "region": "india",
-    "headline": "'आतंकी देश मुझसे ये पूछ रहा है', UNGA में जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, पन्नू का नाम लेकर किया था सवाल",
-    "source_summary": "संयुक्त राष्ट्र महासभा का 81वां सत्र (UNGA81) इस महीने की 8 तारीख से न्यूयॉर्क में चल रहा है। इसी दौरान शुक्रवार को जयशंकर के कार्यक्रम में पाकिस्तानी पत्रकार ने सवाल किया।",
-    "source_url": "https://navbharattimes.indiatimes.com/world/america/unga-session-s-jaishankar-reply-pakistani-journalist-over-gurpatwant-singh-pannun-and-terrorism/articleshow/134488552.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 25 Sep 2026 21:14:00 +0530",
-    "hook": "यूएनजीए में एस जयशंकर ने पाकिस्तानी पत्रकार को करारा जवाब दिया!",
-    "script_hi": "संयुक्त राष्ट्र महासभा के दौरान भारतीय विदेश मंत्री एस जयशंकर ने एक पाकिस्तानी पत्रकार के सवाल पर ऐसा तीखा पलटवार किया कि सब देखते रह गए। पन्नू से जुड़े सवाल पर जयशंकर ने खरी-खरी सुनाते हुए कहा कि जिस देश ने खुद आतंकवाद फैलाया है, वह आज इस तरह के सवाल पूछ रहा है।",
-    "tts_text_hi": "संयुक्त राष्ट्र महासभा के दौरान भारतीय विदेश मंत्री एस जयशंकर ने एक पाकिस्तानी पत्रकार के सवाल पर ऐसा तीखा पलटवार किया कि सब देखते रह गए। पन्नू से जुड़े सवाल पर जयशंकर ने खरी-खरी सुनाते हुए कहा कि जिस देश ने खुद आतंकवाद फैलाया है, वह आज इस तरह के सवाल पूछ रहा है।",
-    "title": "UNGA में एस जयशंकर का पाकिस्तानी पत्रकार को करारा जवाब",
-    "caption": "संयुक्त राष्ट्र महासभा में विदेश मंत्री एस जयशंकर ने पाकिस्तानी पत्रकार के सवाल पर खरी-खरी सुनाई।",
+    "headline": "\"एक आतंकवादी देश मुझसे यह पूछ रहा है? हद है!\": जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, देखिए वीडियो",
+    "source_summary": "पाकिस्तान के एक पत्रकार ने भारतीय विदेश मंत्री एस जयशंकर को भी अपने ही प्रधानमंत्री शहबाज शरीफ की तरह समझकर सवाल दाग दिया. उसे उम्मीद थी कि कोई जवाब नहीं मिलेगा, मगर उसका ये आकलन बिल्कुल गलत साबित हुआ.",
+    "source_url": "https://ndtv.in/world-news/a-terrorist-nation-is-asking-me-this-indian-foreign-minister-s-jaishankar-reply-on-pakistani-journalist-question-see-video-12098868#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 25 Sep 2026 21:39:03 +0530",
+    "hook": "एक आतंकवादी देश मुझसे यह पूछ रहा है?",
+    "script_hi": "एक आतंकवादी देश मुझसे यह पूछ रहा है? हद है! विदेश मंत्री एस जयशंकर ने पाकिस्तानी पत्रकार को करारा जवाब दिया। पाकिस्तानी पत्रकार ने भारतीय विदेश मंत्री से तीखा सवाल पूछा था, लेकिन जयशंकर के बेबाक जवाब ने उसकी बोलती बंद कर दी।",
+    "tts_text_hi": "एक आतंकवादी देश मुझसे यह पूछ रहा है? हद है! विदेश मंत्री एस जयशंकर ने पाकिस्तानी पत्रकार को करारा जवाब दिया। पाकिस्तानी पत्रकार ने भारतीय विदेश मंत्री से तीखा सवाल पूछा था, लेकिन जयशंकर के बेबाक जवाब ने उसकी बोलती बंद कर दी।",
+    "title": "जयशंकर का पाकिस्तानी पत्रकार को मुंहतोड़ जवाब",
+    "caption": "विदेश मंत्री एस जयशंकर ने पाकिस्तानी पत्रकार के सवाल पर दिया खरी-खरी जवाब, वीडियो वायरल।",
     "hashtags": [
       "SJaishankar",
-      "UNGA",
       "India",
       "Pakistan",
-      "IndianForeignPolicy",
-      "NewYork"
+      "ForeignMinister",
+      "News",
+      "IndianPolitics",
+      "ViralVideo"
     ],
     "visual_queries": [
-      "United Nations headquarters India flag",
-      "Indian diplomat speaking India",
-      "press conference India microphone"
+      "Indian press conference India",
+      "microphone press India"
     ],
     "named_person": "S. Jaishankar",
     "named_person_hi": "एस जयशंकर",
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies heavily on a specific viral video interaction between a named official and a journalist which generic stock B-roll cannot adequately represent.",
     "assets": [
       {
-        "type": "text_card",
-        "text": "एस जयशंकर",
-        "source": "fallback",
+        "type": "image",
+        "url": "downloaded_assets/person_44bc5e1d21.jpg",
+        "source": "wikimedia",
         "query": "S. Jaishankar",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33984560/pexels-photo-33984560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "United Nations headquarters India flag",
-        "credit": "Sayed Masoumi",
+        "credit": "Wikipedia",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34954624/pexels-photo-34954624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31786663/pexels-photo-31786663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian diplomat speaking India",
-        "credit": "the Amritdev",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12303570/pexels-photo-12303570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "United Nations building New York",
-        "credit": "Airam Dato-on",
+        "query": "Indian press conference India",
+        "credit": "Fahad Puthawala",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "आतंकी देश मुझसे सवाल पूछ रहा है! जयशंकर ने पाकिस्तानी पत्रकार को धो डाला 🇮🇳",
-        "caption": "आतंकी देश मुझसे ये पूछ रहा है... जब UNGA में पाकिस्तानी पत्रकार ने पन्नू का नाम लेकर सवाल दागा, तो विदेश मंत्री एस जयशंकर के इस जवाब ने महफिल लूट ली।\n\nसरेआम मंच से पाकिस्तान को उसकी औकात याद दिलाते हुए जयशंकर ने बिना लाग-लपेट के जो कहा, वो हर भारतीय को सुनना चाहिए।\n\nपूरी कहानी देखें और बताएं, विदेश मंत्री का ये अंदाज़ आपको कैसा लगा?\n\n#SJaishankar #UNGA #Pakistan #IndiaNews #ForeignMinister"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "आतंकी देश मुझसे ये पूछ रहा है... UNGA में पाकिस्तानी पत्रकार के एक सवाल पर एस जयशंकर ने सरेआम ऐसी क्लास लगाई कि बोलती बंद हो गई! 🇮🇳🔥\n\nपन्नू का नाम लेकर उठे सवाल पर विदेश मंत्री का ये बेबाक जवाब हर भारतीय का सीना चौड़ा कर देगा।\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं!\n\n#SJaishankar #UNGA #Pakistan #IndiaNews #ForeignMinister"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "आतंकी देश मुझसे ये पूछ रहा है... संयुक्त राष्ट्र के मंच पर जब एक पाकिस्तानी पत्रकार ने पन्नू का नाम लेकर भारत को घेरने की कोशिश की, तो विदेश मंत्री एस जयशंकर ने एक झटके में ऐसा करारा जवाब दिया कि पूरी दुनिया देखती रह गई। \n\nजयशंकर का ये अंदाज़ और पाकिस्तान को आईना दिखाने वाला ये वीडियो सोशल मीडिया पर आग की तरह फैल रहा है।\n\nपूरी कहानी देखें और शेयर करें ताकि हर कोई सच जान सके।\n\n#SJaishankar #UNGA #Pakistan #IndiaNews #ForeignMinister"
-      },
-      "hashtags": [
-        "SJaishankar",
-        "UNGA",
-        "Pakistan",
-        "IndiaNews",
-        "ForeignMinister"
-      ]
-    },
-    "audio_path": "audio/jaishankar_un_pakistani_journalist_reply.wav",
-    "audio_duration_sec": 20.9,
-    "video_path": "videos/jaishankar_un_pakistani_journalist_reply.mp4",
-    "video_duration_sec": 28.82
+    "asset_count": 2,
+    "timeline_covered_sec": 10,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "pm_modi_bhajan_clubbing_khanjari",
+    "topic_label": "ludhiana_tiago_ev_car_accident_cctv",
     "virality_score": 8,
-    "reason": "PM Modi playing the khanjari during a bhajan event is high-engagement content for a broad audience",
+    "reason": "Shocking CCTV footage of a bike rider flying 15 feet in the air after a car crash.",
     "region": "india",
-    "headline": "हनुमान अंश के गानों पर झूमे PM Modi, पार्वती भजन सुन बजाई खंजरी",
-    "source_summary": "PM Modi ने दिल्ली में ‘हनुमान अंश’ का फेमस ‘पार्वती’ गाना सुना. सिंगर साधु तिवारी ने भजन पेश किया और पीएम खंजरी बजाते नजर आए. इनकी तस्वीरें वायरल हो रही हैं.",
-    "source_url": "https://www.aajtak.in/entertainment/bollywood-news/story/pm-narendra-modi-enjoyed-hanuman-ansh-parvati-bhajan-played-tambourine-sadhu-tiwari-vishal-chaturvedi-tmova-dskc-2653236-2026-09-25?utm_source=rssfeed",
+    "headline": "100 KM की रफ्तार में कार का कहर, बाइक सवार 15 फीट हवा में उछला, Video",
+    "source_summary": "लुधियाना में तेज रफ्तार Tiago EV कार ने एक के बाद एक कई वाहनों को टक्कर मार दी. हादसे में पांच लोग घायल हुए हैं. CCTV में बाइक सवार को टक्कर के बाद करीब 15 फीट हवा में उछलते और तीन गुलाटियां खाते हुए करीब 30 फीट दूर गिरते देखा गया. चश्मदीद ने कार की रफ्तार करीब 100 KM बताई है.",
+    "source_url": "https://www.aajtak.in/india/punjab/story/ludhiana-speeding-tiago-ev-car-accident-five-injured-cctv-lclar-strc-2653282-2026-09-25?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-25T20:41:11+05:30",
-    "hook": "पीएम मोदी ने बजाई खंजरी!",
-    "script_hi": "प्रधानमंत्री नरेंद्र मोदी दिल्ली में हनुमान अंश के लोकप्रिय पार्वती भजन पर झूमते नजर आए। सिंगर साधु तिवारी के भजन के दौरान पीएम मोदी ने खंजरी भी बजाई।",
-    "tts_text_hi": "प्रधानमंत्री नरेंद्र मोदी दिल्ली में हनुमान अंश के लोकप्रिय पार्वती भजन पर झूमते नजर आए। सिंगर साधु तिवारी के भजन के दौरान पीएम मोदी ने खंजरी भी बजाई।",
-    "title": "पीएम मोदी ने बजाई खंजरी",
-    "caption": "दिल्ली में हनुमान अंश के पार्वती भजन पर झूमते और खंजरी बजाते नजर आए पीएम मोदी।",
+    "published": "2026-09-25T23:16:26+05:30",
+    "hook": "एक सौ किलोमीटर प्रति घंटे की रफ्तार से आई कार, और बाइक सवार हवा में उछल गया!",
+    "script_hi": "लुधियाना में एक तेज रफ्तार कार ने कई वाहनों को टक्कर मार दी, जिससे पांच लोग घायल हो गए। सीसीटीवी फुटेज में एक बाइक सवार टक्कर के बाद पन्द्रह फीट हवा में उछलता हुआ दिखाई दिया। चश्मदीदों के मुताबिक कार की रफ्तार सौ किलोमीटर प्रति घंटा थी।",
+    "tts_text_hi": "लुधियाना में एक तेज रफ्तार कार ने कई वाहनों को टक्कर मार दी, जिससे पांच लोग घायल हो गए। सीसीटीवी फुटेज में एक बाइक सवार टक्कर के बाद पन्द्रह फीट हवा में उछलता हुआ दिखाई दिया। चश्मदीदों के मुताबिक कार की रफ्तार सौ किलोमीटर प्रति घंटा थी।",
+    "title": "लुधियाना में तेज रफ्तार कार का कहर",
+    "caption": "लुधियाना में तेज रफ्तार कार ने मचाया तांडव, बाइक सवार हवा में उछला। #Ludhiana #Accident #BreakingNews #India",
     "hashtags": [
-      "PMModi",
-      "HanumanAnsh",
-      "Bhajan",
-      "Delhi",
-      "Trending"
-    ],
-    "visual_queries": [
-      "Indian politician speaking India",
-      "Indian traditional music performance",
-      "traditional Indian musical instrument"
-    ],
-    "named_person": "Narendra Modi",
-    "named_person_hi": "नरेंद्र मोदी",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "नरेंद्र मोदी",
-        "source": "fallback",
-        "query": "Narendra Modi",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/13888959/13888959-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "traditional Indian musical instrument",
-        "credit": "Swastik Arora",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician speaking India",
-        "credit": "Voters Party International",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29400421/pexels-photo-29400421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian traditional music performance",
-        "credit": "Anjali Paarol",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पीएम मोदी ने बजाई खंजरी! पार्वती भजन पर यूं झूमे प्रधानमंत्री 🪘",
-        "caption": "पीएम मोदी का एक नया अंदाज सामने आया है। 🪘\n\nहनुमान अंश के गानों पर प्रधानमंत्री नरेंद्र मोदी मंत्रमुग्ध नजर आए। पार्वती भजन की धुन बजते ही उन्होंने अपने हाथ में खंजरी थाम ली और ताल से ताल मिलाने लगे। \n\nपूरा वीडियो देखकर बताइए, आपको पीएम का यह अंदाज कैसा लगा?\n\n#NarendraModi #PMModi #DevotionalSongs #TrendingNews #ViralVideo"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पीएम मोदी ने हाथ में थामी खंजरी! 🪘\n\nपार्वती भजन की स्वर लहरियों के बीच प्रधानमंत्री का यह अलग और सहज रूप देखकर वहां मौजूद हर कोई हैरान रह गया।\n\nवीडियो पसंद आया हो तो शेयर जरूर करें!\n\n#NarendraModi #PMModi #DevotionalSongs #TrendingNews #ViralVideo"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "क्या आपने प्रधानमंत्री नरेंद्र मोदी को खंजरी बजाते देखा है? 🪘\n\nहनुमान अंश के गानों और पार्वती भजन के दौरान पीएम मोदी का एक बिल्कुल अलग ही रूप देखने को मिला। भजन की धुन पर उन्होंने न सिर्फ खंजरी बजाई, बल्कि पूरी लय में नजर आए।\n\nआपकी इस पर क्या प्रतिक्रिया है, हमें कमेंट में बताएं।\n\n#NarendraModi #PMModi #DevotionalSongs #TrendingNews #ViralVideo"
-      },
-      "hashtags": [
-        "NarendraModi",
-        "PMModi",
-        "DevotionalSongs",
-        "TrendingNews",
-        "ViralVideo"
-      ]
-    },
-    "audio_path": "audio/pm_modi_bhajan_clubbing_khanjari.wav",
-    "audio_duration_sec": 12.46,
-    "video_path": "videos/pm_modi_bhajan_clubbing_khanjari.mp4",
-    "video_duration_sec": 20.52
-  },
-  {
-    "topic_label": "buxar_train_hostage_murder_arrest",
-    "virality_score": 8,
-    "reason": "Horrific crime story of a youth held hostage in a moving train and thrown out captures high public attention",
-    "region": "india",
-    "headline": "चलती ट्रेन में यात्री को बंधक बनाया, 10 हजार मांगे, हाथ-पैर बांधकर फेंका",
-    "source_summary": "बक्सर रेलखंड पर 21 वर्षीय नितिन कुमार की हत्या के मामले में पुलिस ने रोहित नाम के आरोपी को बनारस से गिरफ्तार किया है. पुलिस के मुताबिक आरोपी ने ट्रेन में नितिन को बंधक बनाया, परिवार से 10 हजार रुपये मांगे और हाथ-पैर बांधकर उसे चलती ट्रेन से फेंक दिया. पुलिस ने उसे आदतन अपराधी बताया है.",
-    "source_url": "https://www.aajtak.in/bihar/story/buxar-train-murder-nitin-kumar-accused-rohit-arrested-railway-crime-lclar-strc-2653251-2026-09-25?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-25T21:43:13+05:30",
-    "hook": "चलती ट्रेन में किडनैप, दस हजार की फिरौती और फिर चलती ट्रेन से नीचे फेंका!",
-    "script_hi": "बक्सर रेलखंड पर एकवीस वर्षीय नितिन कुमार की हत्या के मामले में पुलिस ने रोहित नाम के आरोपी को बनारस से गिरफ्तार कर लिया है। पुलिस के मुताबिक, आरोपी ने ट्रेन में नितिन को बंधक बनाया, परिवार से दस हजार रुपये मांगे और हाथ-पैर बांधकर उसे चलती ट्रेन से नीचे फेंक दिया था। पुलिस ने आरोपी को आदतन अपराधी बताया है।",
-    "tts_text_hi": "बक्सर रेलखंड पर एकवीस वर्षीय नितिन कुमार की हत्या के मामले में पुलिस ने रोहित नाम के आरोपी को बनारस से गिरफ्तार कर लिया है। पुलिस के मुताबिक, आरोपी ने ट्रेन में नितिन को बंधक बनाया, परिवार से दस हजार रुपये मांगे और हाथ-पैर बांधकर उसे चलती ट्रेन से नीचे फेंक दिया था। पुलिस ने आरोपी को आदतन अपराधी बताया है।",
-    "title": "चलती ट्रेन में यात्री को बंधक बनाकर फेंका",
-    "caption": "बक्सर रेलखंड पर नितिन कुमार की हत्या के मामले में बनारस से आरोपी गिरफ्तार। चलती ट्रेन में बंधक बनाकर और फिरौती मांगकर फेंका गया था नीचे।",
-    "hashtags": [
-      "Buxar",
-      "CrimeNews",
-      "IndianRailways",
-      "UttarPradesh",
-      "BiharNews",
-      "PoliceArrest"
-    ],
-    "visual_queries": [
-      "Indian railway station platform India",
-      "Indian railway train window India",
-      "police station India",
-      "police investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway station platform India",
-        "credit": "Satvik Pandurangi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39658424/pexels-photo-39658424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway train window India",
-        "credit": "Prashant pacific",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "चलती ट्रेन में बंधक बनाया, 10 हजार मांगे और फिर बाहर फेंक दिया! 🚆😱",
-        "caption": "चलती ट्रेन में किडनैप, दस हजार की फिरौती और फिर चलती ट्रेन से नीचे फेंका!\n\nसफर के दौरान एक यात्री को बदमाशों ने बंधक बनाया। पैसे न मिलने पर उसके हाथ-पैर बांधकर उसे चलती ट्रेन से ही नीचे फेंक दिया गया।\n\nपूरी कहानी जानिए इस वीडियो में।\n\n#traincrime #indianrailways #crimeupdate #breakingnews #yatri"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "चलती ट्रेन में किडनैप, दस हजार की फिरौती और फिर चलती ट्रेन से नीचे फेंका! 🚆\n\nसफर के दौरान एक यात्री को बदमाशों ने बंधक बना लिया। जब उसने पैसे देने से मना किया, तो उसके हाथ-पैर बांधकर चलती ट्रेन से नीचे फेंक दिया गया।\n\nक्या ऐसी ट्रेनों में अब सफर सुरक्षित है? अपनी राय कमेंट में बताएं।\n\n#traincrime #indianrailways #crimeupdate #breakingnews #yatri"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "चलती ट्रेन में किडनैप, दस हजार की फिरौती और फिर चलती ट्रेन से नीचे फेंका!\n\nट्रेन में सफर कर रहे एक शख्स के साथ जो हुआ, उसने सबको दहला दिया है। बदमाशों ने उसे पहले बंधक बनाया, फिर 10 हजार रुपये की मांग की और जब बात नहीं बनी तो उसके हाथ-पैर बांधकर उसे चलती ट्रेन से नीचे फेंक दिया।\n\nवीडियो पूरा देखें और सोचिए कि सफर के दौरान हमारी सुरक्षा कहां है।\n\n#traincrime #indianrailways #crimeupdate #breakingnews #yatri"
-      },
-      "hashtags": [
-        "traincrime",
-        "indianrailways",
-        "crimeupdate",
-        "breakingnews",
-        "yatri"
-      ]
-    },
-    "audio_path": "audio/buxar_train_hostage_murder_arrest.wav",
-    "audio_duration_sec": 19.77,
-    "video_path": "videos/buxar_train_hostage_murder_arrest.mp4",
-    "video_duration_sec": 27.83
-  },
-  {
-    "topic_label": "hisar_ celebratory_firing_delhi_police_cop_death",
-    "virality_score": 8,
-    "reason": "Tragic death of a Delhi police constable due to celebratory firing during a baby birth celebration in Hisar",
-    "region": "india",
-    "headline": "हिसार में बेटा पैदा होने पर डीजे पर डांस संग हर्ष फायरिंग, दिल्ली पुलिस के जवान की गोली लगने से मौत, मचा हड़कंप",
-    "source_summary": "Hisar Crime News: हरियाणा के हिसार जिले में हांसी क्षेत्र के गांव सिंघवा खास में लड़का होने की खुशी में जलवा कार्यक्रम हुआ। इस दौरान हर्ष फायरिंग हुई। इसमें दिल्ली पुलिस के जवान अमरजीत की मौत हो गई। फायरिंग करने का आरोप हरियाणा पुलिस में तैनात सुरेंद्र और उसके साथी मनोज पर लगा है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/hisar/delhi-police-constable-dies-after-hit-bullet-during-celebratory-firing-following-birth-of-son-in-hisar-know-all/articleshow/134488253.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 25 Sep 2026 20:44:00 +0530",
-    "hook": "खुशी का माहौल मातम में बदला, बेटे के जन्म पर हर्ष फायरिंग में दिल्ली पुलिस के जवान की मौत!",
-    "script_hi": "हरियाणा के हिसार में बेटा पैदा होने की खुशी में चल रहे जश्न के दौरान बड़ा हादसा हो गया। हांसी क्षेत्र के सिंघवा खास गांव में जलवा कार्यक्रम के दौरान डीजे पर डांस के बीच हर्ष फायरिंग की गई। इस गोलीबारी में दिल्ली पुलिस के जवान अमरजीत की मौके पर ही मौत हो गई, जिससे पूरे इलाके में हड़कंप मच गया है। फायरिंग करने का गंभीर आरोप हरियाणा पुलिस में तैनात सुरेंद्र और उसके साथी मनोज पर लगा है। पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "हरियाणा के हिसार में बेटा पैदा होने की खुशी में चल रहे जश्न के दौरान बड़ा हादसा हो गया। हांसी क्षेत्र के सिंघवा खास गांव में जलवा कार्यक्रम के दौरान डीजे पर डांस के बीच हर्ष फायरिंग की गई। इस गोलीबारी में दिल्ली पुलिस के जवान अमरजीत की मौके पर ही मौत हो गई, जिससे पूरे इलाके में हड़कंप मच गया है। फायरिंग करने का गंभीर आरोप हरियाणा पुलिस में तैनात सुरेंद्र और उसके साथी मनोज पर लगा है। पुलिस मामले की जांच कर रही है।",
-    "title": "हिसार में हर्ष फायरिंग: बेटे के जन्म की खुशी में दिल्ली पुलिस के जवान की मौत",
-    "caption": "हरियाणा के हिसार में बेटे के जन्म की खुशी मनाना उस वक्त भारी पड़ गया जब हर्ष फायरिंग के दौरान दिल्ली पुलिस के जवान की गोली लगने से मौत हो गई।",
-    "hashtags": [
-      "HisarNews",
-      "HaryanaCrime",
-      "DelhiPolice",
-      "Firing",
+      "Ludhiana",
+      "Accident",
       "BreakingNews",
-      "HindiNews"
+      "India",
+      "CarAccident",
+      "CCTV"
     ],
     "visual_queries": [
-      "Haryana village India",
-      "Indian police station investigation India",
-      "police uniform India"
+      "electric car India",
+      "India traffic accident street",
+      "injured people hospital India",
+      "CCTV camera India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The summary names specific individuals (Surender and Manoj) accused of a crime who have not been convicted, which falls under the unproven criminal allegation safety guideline.",
+    "flag_reason": "The story centers on a specific viral CCTV video clip showing the exact incident, which requires the real footage to be added manually rather than generic stock B-roll.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37154792/pexels-photo-37154792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34759745/14736138_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Haryana village India",
-        "credit": "Bharat  Kachave",
+        "query": "India traffic accident street",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 9,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35736786/pexels-photo-35736786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "electric car India",
+        "credit": "04iraq",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8819341/pexels-photo-8819341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6191532/pexels-photo-6191532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian celebratory party dancing",
-        "credit": "Yan Krukau",
+        "query": "injured people hospital India",
+        "credit": "cottonbro studio",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13282256/pexels-photo-13282256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police uniform India",
-        "credit": "Devansh Bose",
+        "query": "CCTV camera India",
+        "credit": "Rakesh Teja",
         "duration_sec": 5
       }
     ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "india_lpg_import_tender_shift_usa",
-    "virality_score": 7,
-    "reason": "Strategic shift in India's energy import policy moving from Middle East to the US has significant economic interest",
+    "topic_label": "mumbai_airport_dri_gold_powder_smuggling",
+    "virality_score": 8,
+    "reason": "Bizarre gold smuggling method where gold was mixed into milk powder, Nutella, and oats.",
     "region": "india",
-    "headline": "भारत की खरीद में बड़ा ट्विस्‍ट, मिडिल ईस्‍ट के बजाय अमेरिका का रुख, लाखों टन LPG इंपोर्ट का टेंडर",
-    "source_summary": "India LPG Import Tender: पश्चिम एशिया में जारी तनाव के बीच भारत ने एलपीजी इंपोर्ट का टेंडर जारी किया है। इसके तहत अमेरिका से 27.5 लाख टन एलपीजी मंगाई जानी है। सरकारी तेल कंपनियों ने 2027 में डिलीवरी के लिए इसे जारी किया है। अगले साल से हर महीने यह डिलीवरी की जाएगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/business/business-news/india-lpg-imports-major-twist-in-procurement-shifting-focus-from-middle-east-to-us/articleshow/134488921.cms",
-    "source_name": "Navbharat Times",
-    "published": "Fri, 25 Sep 2026 21:25:00 +0530",
-    "hook": "पश्चिम एशिया के तनाव के बीच भारत का बड़ा कदम!",
-    "script_hi": "पश्चिम एशिया में जारी तनाव के बीच भारत ने एलपीजी इंपोर्ट का नया टेंडर जारी किया है। इसके तहत अमेरिका से सत्ताईस दशमलव पांच लाख टन एलपीजी मंगाई जानी है। सरकारी तेल कंपनियों ने दो हजार सत्ताईस में डिलीवरी के लिए यह टेंडर जारी किया है, और अगले साल से हर महीने यह डिलीवरी की जाएगी।",
-    "tts_text_hi": "पश्चिम एशिया में जारी तनाव के बीच भारत ने एलपीजी इंपोर्ट का नया टेंडर जारी किया है। इसके तहत अमेरिका से सत्ताईस दशमलव पांच लाख टन एलपीजी मंगाई जानी है। सरकारी तेल कंपनियों ने दो हजार सत्ताईस में डिलीवरी के लिए यह टेंडर जारी किया है, और अगले साल से हर महीने यह डिलीवरी की जाएगी।",
-    "title": "भारत की खरीद में बड़ा ट्विस्‍ट, अमेरिका से होगी एलपीजी की सप्लाई",
-    "caption": "पश्चिम एशिया के तनाव के बीच भारत ने एलपीजी इंपोर्ट के लिए अमेरिका का रुख किया है।",
+    "headline": "न्यूटेला और मिल्क पाउडर में मिलाया सोने का पाउडर, मुंबई एयरपोर्ट पर DRI ने पकड़ी 14.81 करोड़ की 'गोल्डन' डाइट",
+    "source_summary": "मुंबई एयरपोर्ट पर DRI ने सोने की तस्करी के एक बेहद अनोखे तरीके का पर्दाफाश किया है. दुबई से आए तीन यात्रियों ने सोने को पाउडर में बदलकर मिल्क पाउडर, ओट्स, आटा, न्यूटेला और नारियल पाउडर में मिलाया हुआ था.",
+    "source_url": "https://ndtv.in/maharashtra-news/mumbai-airport-gold-smuggling-busted-dri-seizes-10-kg-gold-hidden-in-milk-powder-oats-and-nutella-worth-14-crore-12098917#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Fri, 25 Sep 2026 21:37:57 +0530",
+    "hook": "मुंबई एयरपोर्ट पर सोने की तस्करी का ऐसा अनोखा तरीका, जिसे देख अधिकारी भी हैरान रह गए!",
+    "script_hi": "मुंबई एयरपोर्ट पर राजस्व खुफिया निदेशालय यानी डीआरआइसी ने सोने की तस्करी का एक बेहद अनोखा तरीका पकड़ा है। दुबई से आए तीन यात्रियों ने सोने को पाउडर में बदलकर न्यूटेला, मिल्क पाउडर और ओट्स में मिलाया था। इस 'गोल्डन डाइट' से कुल चौदह दशमलव आठ एक करोड़ रुपये का सोना बरामद किया गया है।",
+    "tts_text_hi": "मुंबई एयरपोर्ट पर राजस्व खुफिया निदेशालय यानी डीआरआइसी ने सोने की तस्करी का एक बेहद अनोखा तरीका पकड़ा है। दुबई से आए तीन यात्रियों ने सोने को पाउडर में बदलकर न्यूटेला, मिल्क पाउडर और ओट्स में मिलाया था। इस गोल्डन डाइट से कुल चौदह दशमलव आठ एक करोड़ रुपये का सोना बरामद किया गया है।",
+    "title": "मुंबई एयरपोर्ट पर DRI ने पकड़ी 14.81 करोड़ की 'गोल्डन डाइट'",
+    "caption": "मुंबई एयरपोर्ट पर DRI ने सोने की तस्करी के एक अनोखे तरीके का पर्दाफाश किया है। दुबई से आए यात्रियों ने न्यूटेला और मिल्क पाउडर में सोना मिलाकर तस्करी की कोशिश की।",
     "hashtags": [
-      "IndiaNews",
-      "LPGImport",
-      "USAIndia",
-      "EnergyNews",
-      "BusinessNews",
-      "BreakingNews"
+      "MumbaiAirport",
+      "GoldSmuggling",
+      "DRI",
+      "MumbaiNews",
+      "GoldSeizure",
+      "CrimeNews"
     ],
     "visual_queries": [
-      "middle east tension India",
-      "cargo ship sea India",
-      "LPG gas cylinders India",
-      "oil refinery plant India"
+      "Mumbai airport terminal India",
+      "gold dust India",
+      "food powder jar India",
+      "Indian customs officers"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 27.5,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38020670/pexels-photo-38020670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15055913/pexels-photo-15055913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cargo ship ocean transit",
-        "credit": "Samet Kaplan 🇹🇷",
+        "query": "Mumbai airport terminal India",
+        "credit": "Parth Gajera",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32404473/pexels-photo-32404473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5594992/pexels-photo-5594992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cargo ship sea India",
-        "credit": "Ravi Roshan",
+        "query": "gold dust India",
+        "credit": "mohamed abdelghaffar",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12712893/pexels-photo-12712893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7925765/pexels-photo-7925765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "industrial shipping port India",
-        "credit": "Shreyas  Anchan Photography",
+        "query": "food powder jar India",
+        "credit": "Dhanjit Sharma",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30179843/pexels-photo-30179843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7658407/pexels-photo-7658407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "oil refinery plant India",
-        "credit": "Balotra News",
+        "query": "Indian customs officers",
+        "credit": "Pavel Danilyuk",
         "duration_sec": 5
       }
     ],
@@ -492,28 +203,459 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "पश्चिम एशिया का तनाव! भारत ने अमेरिका से मंगाई एलपीजी 🚨",
-        "caption": "पश्चिम एशिया के तनाव के बीच भारत का बड़ा कदम! 🚨\n\nमिडिल ईस्ट के संकट को देखते हुए भारत ने एलपीजी इंपोर्ट के लिए अमेरिका का रुख किया है। देश की ऊर्जा सुरक्षा को ध्यान में रखते हुए यह बड़ा फैसला लिया गया है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#LPGImport #IndiaUSRelations #MiddleEastCrisis #IndianEconomy #BreakingNews"
+        "title": "न्यूटेला और मिल्क पाउडर में सोना! मुंबई एयरपोर्ट पर पकड़ाया 14.81 करोड़ का खेल 🍫✨",
+        "caption": "मुंबई एयरपोर्ट पर सोने की तस्करी का ऐसा अनोखा तरीका, जिसे देख अधिकारी भी हैरान रह गए! 🛃\n\nDRI ने न्यूटेला के जार और मिल्क पाउडर के डिब्बों में छिपाकर लाया गया 14.81 करोड़ रुपये का सोना बरामद किया है। तस्करों का ये नायाब तरीका फेल हो गया।\n\nपूरी कहानी देखें और बताएं कि आपका इस पर क्या कहना है?\n\n#mumbaiairport #goldsmuggling #dri #mumbainews #viralvideo"
       },
       "instagram": {
         "title": null,
-        "caption": "पश्चिम एशिया के तनाव के बीच भारत का बड़ा कदम! 🚨\n\nमिडिल ईस्ट के संकट के चलते भारत ने मिडिल ईस्ट के बजाय अमेरिका से लाखों टन LPG इंपोर्ट करने का टेंडर फाइनल किया है।\n\nइस बड़े फैसले पर आपकी क्या राय है?\n\n#LPGImport #IndiaUSRelations #MiddleEastCrisis #IndianEconomy #BreakingNews"
+        "caption": "मुंबई एयरपोर्ट पर सोने की तस्करी का ऐसा अनोखा तरीका, जिसे देख अधिकारी भी हैरान रह गए! 🛃 न्यूटेला और मिल्क पाउडर में छिपाकर लाया जा रहा था 14.81 करोड़ का सोना।\n\nचौंकाने वाला सच सामने आया है। वीडियो पूरा देखें और दोस्तों के साथ शेयर करें! 🍫✨\n\n#mumbaiairport #goldsmuggling #dri #mumbainews #viralvideo"
       },
       "facebook": {
         "title": null,
-        "caption": "पश्चिम एशिया के तनाव के बीच भारत का बड़ा कदम! 🚨\n\nमिडिल ईस्ट में बढ़ते तनाव और अनिश्चितता के माहौल को देखते हुए भारत ने अपनी ऊर्जा जरूरतों के लिए एक अहम फैसला लिया है। भारत ने पारंपरिक रास्तों को छोड़कर अमेरिका से लाखों टन एलपीजी इंपोर्ट करने का टेंडर जारी किया है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और शेयर करें।\n\n#LPGImport #IndiaUSRelations #MiddleEastCrisis #IndianEconomy #BreakingNews"
+        "caption": "मुंबई एयरपोर्ट पर सोने की तस्करी का ऐसा अनोखा तरीका, जिसे देख अधिकारी भी हैरान रह गए! 🛃\n\nDRI ने चेकिंग के दौरान न्यूटेला के जार और मिल्क पाउडर के डिब्बों की जांच की, तो अंदर का सच देखकर सबके होश उड़ गए। तस्करों ने 14.81 करोड़ रुपये का सोना छिपाने के लिए ये नायाब तरीका निकाला था, जो फेल हो गया।\n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#mumbaiairport #goldsmuggling #dri #mumbainews #viralvideo"
       },
       "hashtags": [
-        "LPGImport",
-        "IndiaUSRelations",
-        "MiddleEastCrisis",
-        "IndianEconomy",
-        "BreakingNews"
+        "mumbaiairport",
+        "goldsmuggling",
+        "dri",
+        "mumbainews",
+        "viralvideo"
       ]
     },
-    "audio_path": "audio/india_lpg_import_tender_shift_usa.wav",
-    "audio_duration_sec": 21.83,
-    "video_path": "videos/india_lpg_import_tender_shift_usa.mp4",
-    "video_duration_sec": 29.76
+    "audio_path": "audio/mumbai_airport_dri_gold_powder_smuggling.wav",
+    "audio_duration_sec": 22.42,
+    "video_path": "videos/mumbai_airport_dri_gold_powder_smuggling.mp4",
+    "video_duration_sec": 30.42
+  },
+  {
+    "topic_label": "sbi_atm_cash_withdrawal_charges_waived",
+    "virality_score": 8,
+    "reason": "Important consumer news about SBI waiving ATM cash withdrawal charges for three days.",
+    "region": "india",
+    "headline": "SBI ATM Charge Waiver: 3 दिन नहीं नहीं लगेगा ATM शुल्क",
+    "source_summary": "SBI ने 28 से 30 सितंबर 2026 तक ATM से कैश निकालने पर ट्रांजेक्शन शुल्क माफ किया है. फ्री ट्रांजेक्शन की लिमिट पूरी होने के बाद भी इन तीन दिनों में शुल्क नहीं लगेगा। बैंक हड़ताल के दौरान ग्राहक ATM और डिजिटल बैंकिंग सेवाओं का इस्तेमाल कर सकेंगे. वीडियो में जानें डिटेल्स.",
+    "source_url": "https://www.aajtak.in/short-videos/video/sbi-atm-charge-waiver-september-2026-bank-strike-rbi-details-mmtm-2653266-2026-09-25?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-25T22:37:02+05:30",
+    "hook": "एटीएम से पैसे निकालने वालों के लिए बड़ी खबर!",
+    "script_hi": "भारतीय स्टेट बैंक ने अट्ठाईस से तीस सितंबर दो हजार छब्बीस तक एटीएम से कैश निकालने पर ट्रांजेक्शन शुल्क माफ कर दिया है। फ्री ट्रांजेक्शन की लिमिट पूरी होने के बाद भी इन तीन दिनों में कोई शुल्क नहीं लगेगा। बैंक हड़ताल के दौरान ग्राहक एटीएम और डिजिटल बैंकिंग सेवाओं का आसानी से इस्तेमाल कर सकेंगे।",
+    "tts_text_hi": "भारतीय स्टेट बैंक ने अट्ठाईस से तीस सितंबर दो हजार छब्बीस तक एटीएम से कैश निकालने पर ट्रांजेक्शन शुल्क माफ कर दिया है। फ्री ट्रांजेक्शन की लिमिट पूरी होने के बाद भी इन तीन दिनों में कोई शुल्क नहीं लगेगा। बैंक हड़ताल के दौरान ग्राहक एटीएम और डिजिटल बैंकिंग सेवाओं का आसानी से इस्तेमाल कर सकेंगे।",
+    "title": "SBI ATM Charge Waiver: तीन दिन नहीं लगेगा एटीएम शुल्क",
+    "caption": "एसबीआई ग्राहकों के लिए बड़ी राहत! अट्ठाईस से तीस सितंबर तक एटीएम से पैसे निकालने पर नहीं लगेगा कोई ट्रांजेक्शन शुल्क।",
+    "hashtags": [
+      "SBI",
+      "ATM",
+      "BankingNews",
+      "StateBankOfIndia",
+      "MoneyNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "State Bank of India branch India",
+      "ATM machine booth India",
+      "digital banking smartphone India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/34952982/14806168_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "State Bank of India branch India",
+        "credit": "Niihar Doshi",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6276983/6276983-hd_720_1280_24fps.mp4",
+        "source": "pexels",
+        "query": "person using atm machine",
+        "credit": "Uriel Mont",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6969809/pexels-photo-6969809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital banking smartphone India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/19013711/pexels-photo-19013711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "person withdrawing cash ATM",
+        "credit": "Joaquin Carfagna",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7620907/pexels-photo-7620907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian bank customer smartphone",
+        "credit": "Ivan S",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7621358/pexels-photo-7621358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital banking app India",
+        "credit": "Ivan S",
+        "duration_sec": 4.5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एटीएम से पैसे निकालने पर अगले 3 दिन नहीं कटेगा चार्ज! 🏧",
+        "caption": "सिर्फ 3 दिन के लिए एटीएम से कैश निकालना हुआ बिल्कुल मुफ्त! 💳\n\nएसबीआई ग्राहकों के लिए राहत भरी खबर सामने आई है। अगर आप भी अगले तीन दिनों में एटीएम का इस्तेमाल करने वाले हैं, तो आपको किसी तरह का चार्ज नहीं देना होगा।\n\nपूरी डिटेल वीडियो में देखें और शेयर करें।\n\n#sbi #atncharges #bankingnews #sbirupee #latestnews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सिर्फ 3 दिन के लिए एटीएम से कैश निकालना हुआ बिल्कुल मुफ्त! 💳\n\nएसबीआई ग्राहकों के लिए बड़ी राहत। अगले 3 दिनों तक एटीएम ट्रांजेक्शन पर कोई शुल्क नहीं कटेगा। \n\nये जानकारी अपने दोस्तों के साथ भी शेयर करें।\n\n#sbi #atncharges #bankingnews #sbirupee #latestnews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एटीएम से पैसे निकालने वालों के लिए बड़ी राहत की खबर सामने आई है! 🏧\n\nअगर आपका खाता भी एसबीआई में है, तो अगले तीन दिनों तक आपको एटीएम इस्तेमाल करने पर कोई एक्स्ट्रा चार्ज नहीं देना होगा। \n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपने दोस्तों के साथ भी शेयर करें।\n\n#sbi #atncharges #bankingnews #sbirupee #latestnews"
+      },
+      "hashtags": [
+        "sbi",
+        "atncharges",
+        "bankingnews",
+        "sbirupee",
+        "latestnews"
+      ]
+    },
+    "audio_path": "audio/sbi_atm_cash_withdrawal_charges_waived.wav",
+    "audio_duration_sec": 20.62,
+    "video_path": "videos/sbi_atm_cash_withdrawal_charges_waived.mp4",
+    "video_duration_sec": 28.56
+  },
+  {
+    "topic_label": "shahbaz_sharif_flees_hafiz_saeed_question",
+    "virality_score": 8,
+    "reason": "Embarrassing moment for Pakistan PM Shahbaz Sharif running away from questions on Hafiz Saeed.",
+    "region": "india",
+    "headline": "हाफिज सईद पर सवाल सुनते ही भागे शहबाज शरीफ, हुई फजीहत",
+    "source_summary": "UNGA की बैठक में शामिल होने के लिए न्यूयॉर्क पहुंचे पाकिस्तान के प्रधानमंत्री शाहबाज शरीफ को अंतरराष्ट्रीय मीडिया के सामने भारी फजीहत का सामना करना पड़ा है. संयुक्त राष्ट्र मुख्यालय से बाहर निकलते समय जब पत्रकारों ने शहबाज शरीफ को घेरा और आतंकवाद को लेकर तीखे सवाल पूछे, तो पाकिस्तानी प्रधानमंत्री के पास कहने के लिए कुछ नहीं था. वे सवालों से बचते हुए चुपचाप आगे बढ़ गए. पत्रकारों ने उनसे साफ शब्दों में पूछा कि पाकिस्तान आतंकवादियों को अपनी धरती पर पनाह देना कब बंद करेगा. इसके साथ ही लश्कर-ए-तैयबा के चीफ और मुंबई हमलों के मास्टरमाइंड हाफिज सईद पर मुकदमा चलाने को लेकर भी सवाल दागा गया. इन गंभीर सवालों को सुनते ही शहबाज शरीफ ने चुप्पी साध ली और बिना कोई जवाब दिए तेजी से वहां से निकल गए.",
+    "source_url": "https://www.aajtak.in/world/video/pakistan-pm-shehbaz-sharif-dodges-questions-on-hafiz-saeed-and-terrorism-at-un-ytvd-2652867-2026-09-25?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-25T13:14:20+05:30",
+    "hook": "न्यूयॉर्क में बुरी तरह फंसे पाकिस्तान के प्रधानमंत्री शहबाज शरीफ!",
+    "script_hi": "संयुक्त राष्ट्र महासभा की बैठक के दौरान न्यूयॉर्क में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को भारी फजीहत का सामना करना पड़ा। संयुक्त राष्ट्र मुख्यालय के बाहर पत्रकारों ने उन्हें घेरकर आतंकवाद और लश्करएतैयबा के सरगना हाफिज़ सईद पर कड़े सवाल पूछे। इन तीखे सवालों का जवाब देने के बजाय शहबाज शरीफ चुपचाप वहां से खिसक लिए।",
+    "tts_text_hi": "संयुक्त राष्ट्र महासभा की बैठक के दौरान न्यूयॉर्क में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ को भारी फजीहत का सामना करना पड़ा। संयुक्त राष्ट्र मुख्यालय के बाहर पत्रकारों ने उन्हें घेरकर आतंकवाद और लश्करएतैयबा के सरगना हाफिज़ सईद पर कड़े सवाल पूछे। इन तीखे सवालों का जवाब देने के बजाय शहबाज शरीफ चुपचाप वहां से खिसक लिए।",
+    "title": "शहबाज शरीफ पर हाफिज सईद को लेकर कड़े सवाल",
+    "caption": "न्यूयॉर्क में संयुक्त राष्ट्र मुख्यालय के बाहर पत्रकारों के आतंकवाद और हाफिज सईद से जुड़े तीखे सवालों पर चुपचाप निकल गए पाकिस्तान के प्रधानमंत्री शहबाज शरीफ।",
+    "hashtags": [
+      "ShehbazSharif",
+      "UNGA",
+      "PakistanTerrorism",
+      "HafizSaeed",
+      "NewYorkNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "United Nations headquarters New York",
+      "journalist microphone interview street",
+      "politician walking away avoiding press"
+    ],
+    "named_person": "Shehbaz Sharif",
+    "named_person_hi": "शहबाज शरीफ",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "शहबाज शरीफ",
+        "source": "fallback",
+        "query": "Shehbaz Sharif",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/39421371/16785015_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "journalist microphone interview street",
+        "credit": "Stephen Leonardi",
+        "source_duration_sec": 52,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12303570/pexels-photo-12303570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "United Nations headquarters New York",
+        "credit": "Airam Dato-on",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38489943/pexels-photo-38489943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "politician walking away avoiding press",
+        "credit": "Dr Photographer",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "हाफिज सईद पर सवाल सुनते ही भागे शहबाज शरीफ! 😱 न्यूयॉर्क में हुई फजीहत",
+        "caption": "न्यूयॉर्क में बुरी तरह फंसे पाकिस्तान के प्रधानमंत्री शहबाज शरीफ! 😱\n\nप्रेस कॉन्फ्रेंस के दौरान जब एक रिपोर्टर ने ग्लोबल आतंकी हाफिज सईद को लेकर कड़े सवाल पूछे, तो शहबाज साहब बिना जवाब दिए मंच से उठकर चलते बने। इस घटना का वीडियो अब सोशल मीडिया पर तेजी से वायरल हो रहा है।\n\nपूरी कहानी देखें और बताएं, इस तरह भागने से क्या सच छिप जाएगा? 👇\n\n#ShehbazSharif #HafizSaeed #PakistanNews #NewYork #UNGA"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "न्यूयॉर्क में बुरी तरह फंसे पाकिस्तान के प्रधानमंत्री शहबाज शरीफ! 😱\n\nहाफिज सईद का नाम सुनते ही ऐसा क्या हुआ कि शहबाज शरीफ बीच में ही प्रेस कॉन्फ्रेंस छोड़कर भाग खड़े हुए? कैमरे में कैद हुई यह शर्मनाक तस्वीर हर जगह चर्चा में है।\n\nक्या कहना है आपका इस पर? कमेंट में बताएं।\n\n#ShehbazSharif #HafizSaeed #PakistanNews #NewYork #UNGA"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "न्यूयॉर्क में बुरी तरह फंसे पाकिस्तान के प्रधानमंत्री शहबाज शरीफ! 😱\n\nअंतरराष्ट्रीय मंच पर पाकिस्तान की पोल एक बार फिर खुल गई है। प्रेस कॉन्फ्रेंस के दौरान जब शहबाज शरीफ से ग्लोबल आतंकी हाफिज सईद के बारे में सीधा सवाल पूछा गया, तो उनके पास कोई जवाब नहीं था। बचने के लिए वह तुरंत वहां से निकल लिए, लेकिन कैमरे ने उनकी यह घबराहट कैद कर ली।\n\nवीडियो पूरा देखें और अपनी राय साझा करें।\n\n#ShehbazSharif #HafizSaeed #PakistanNews #NewYork #UNGA"
+      },
+      "hashtags": [
+        "ShehbazSharif",
+        "HafizSaeed",
+        "PakistanNews",
+        "NewYork",
+        "UNGA"
+      ]
+    },
+    "audio_path": "audio/shahbaz_sharif_flees_hafiz_saeed_question.wav",
+    "audio_duration_sec": 23.31,
+    "video_path": "videos/shahbaz_sharif_flees_hafiz_saeed_question.mp4",
+    "video_duration_sec": 31.36
+  },
+  {
+    "topic_label": "nda_allies_demand_ec_clarification_sir",
+    "virality_score": 7,
+    "reason": "Political turbulence as NDA allies join opposition in questioning the Election Commission.",
+    "region": "india",
+    "headline": "ज्ञानेश कुमार पर NDA में भी उठी आवाज! अब 3 सहयोगियों ने EC से मांगी सफाई",
+    "source_summary": "चुनाव आयोग के भीतर विचारों के कथित मतभेद पर इस बार NDA के तीन सहयोगी दलों (LJP-R, RLM, TDP) ने इलेक्शन कमीशन से स्थिति स्पष्ट करने की मांग की है. बीजेपी के सहयोगी इन दलों ने कहा है कि चुनावी व्यवस्था पर जनता का भरोसा कमजोर होना लोकतंत्र के लिए ठीक नहीं है. और चुनाव आयोग को इन आरोपों पर जोरदार तरीके से अपनी बात रखनी चाहिए.",
+    "source_url": "https://www.aajtak.in/india/politics/story/nda-allies-chirag-upendra-kushwaha-tdp-clarification-cec-gyanesh-kumar-election-commission-sir-ntcppl-dskc-2653263-2026-09-25?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-25T22:28:24+05:30",
+    "hook": "चुनाव आयोग पर एनडीए के भीतर ही उठने लगे सवाल!",
+    "script_hi": "चुनाव आयोग के भीतर विचारों के कथित मतभेद पर अब एनडीए के तीन सहयोगी दलों, यानी लोक जनशक्ति पार्टी रामविलास, राष्ट्रीय लोक मोर्चा और तेलुगू देशम पार्टी ने चुनाव आयोग से स्थिति स्पष्ट करने की मांग की है। बीजेपी के इन सहयोगियों का कहना है कि चुनावी व्यवस्था पर जनता का भरोसा कमजोर होना लोकतंत्र के लिए ठीक नहीं है, और आयोग को इन आरोपों पर अपनी बात मजबूती से रखनी चाहिए।",
+    "tts_text_hi": "चुनाव आयोग के भीतर विचारों के कथित मतभेद पर अब एनडीए के तीन सहयोगी दलों, यानी लोक जनशक्ति पार्टी रामविलास, राष्ट्रीय लोक मोर्चा और तेलुगू देशम पार्टी ने चुनाव आयोग से स्थिति स्पष्ट करने की मांग की है। बीजेपी के इन सहयोगियों का कहना है कि चुनावी व्यवस्था पर जनता का भरोसा कमजोर होना लोकतंत्र के लिए ठीक नहीं है, और आयोग को इन आरोपों पर अपनी बात मजबूती से रखनी चाहिए।",
+    "title": "EC पर NDA सहयोगियों की मांग",
+    "caption": "चुनाव आयोग के भीतर विचारों के मतभेद पर एनडीए के तीन सहयोगियों ने मांगी सफाई।",
+    "hashtags": [
+      "ElectionCommission",
+      "NDA",
+      "PoliticalNews",
+      "IndiaNews",
+      "BreakingNews",
+      "LatestNews"
+    ],
+    "visual_queries": [
+      "Election Commission of India building",
+      "Indian political leaders meeting",
+      "press conference India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38773574/16474596_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Indian government office building",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 5,
+        "duration_sec": 5
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847881/8847881-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian politicians discussing",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 34,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/2529185/pexels-photo-2529185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Election Commission of India building",
+        "credit": "Guillaume Meurice",
+        "duration_sec": 3.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8847142/pexels-photo-8847142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian political leaders meeting",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 3.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8731034/pexels-photo-8731034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "press conference India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 3.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6172587/pexels-photo-6172587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "political press conference India",
+        "credit": "RDNE Stock project",
+        "duration_sec": 3.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38374914/pexels-photo-38374914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "newsroom debate India",
+        "credit": "Kacey Inkwell",
+        "duration_sec": 3.8
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "चुनाव आयोग पर NDA के भीतर ही उठे सवाल! तीन दलों ने मांग ली सफाई 🚨",
+        "caption": "चुनाव आयोग पर एनडीए के भीतर ही उठने लगे सवाल!\n\nजिन सहयोगियों के साथ मिलकर सरकार चल रही है, अब उन्होंने ही ज्ञानेश कुमार और चुनाव आयोग की कार्यप्रणाली पर गंभीर सवाल खड़े कर दिए हैं। तीन बड़े सहयोगियों का यह कदम सियासी हलकों में हलचल मचा रहा है।\n\nआखिर क्या है पूरा मामला और EC से क्या मांगा गया है? पूरी कहानी देखें। 👇\n\n#ElectionCommission #NDAGovt #GyaneshKumar #IndianPolitics #LatestNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चुनाव आयोग पर एनडीए के भीतर ही उठने लगे सवाल! 🚨\n\nजिन दलों के समर्थन से सरकार चल रही है, अब उन्हीं 3 सहयोगियों ने ज्ञानेश कुमार के सामने कड़े सवाल खड़े कर दिए हैं।\n\nआपकी इस पर क्या राय है? कॉमेंट में बताएं और वीडियो पूरा देखें।\n\n#ElectionCommission #NDAGovt #GyaneshKumar #IndianPolitics #LatestNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "चुनाव आयोग पर एनडीए के भीतर ही उठने लगे सवाल! 🚨\n\nराजनीतिक गलियारों से बड़ी खबर सामने आ रही है। जिन सहयोगियों के भरोसे एनडीए मजबूत है, अब उन्हीं में से 3 दलों ने चुनाव आयोग और ज्ञानेश कुमार से स्पष्टीकरण मांग लिया है।\n\nइस सियासी उठापटक के क्या मायने हैं? वीडियो में देखिए पूरी खबर।\n\n#ElectionCommission #NDAGovt #GyaneshKumar #IndianPolitics #LatestNews"
+      },
+      "hashtags": [
+        "ElectionCommission",
+        "NDAGovt",
+        "GyaneshKumar",
+        "IndianPolitics",
+        "LatestNews"
+      ]
+    },
+    "audio_path": "audio/nda_allies_demand_ec_clarification_sir.wav",
+    "audio_duration_sec": 27.78,
+    "video_path": "videos/nda_allies_demand_ec_clarification_sir.mp4",
+    "video_duration_sec": 35.84
+  },
+  {
+    "topic_label": "italy_schools_ban_burqa_niqab_meloni",
+    "virality_score": 7,
+    "reason": "Global policy update on Italy banning burqas and niqabs in schools under Giorgia Meloni.",
+    "region": "global",
+    "headline": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "source_summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+    "source_url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Thu, 24 Sep 2026 19:32:59 GMT",
+    "hook": "इटली के स्कूलों में बुर्का और नकाब पर बैन लगाने की तैयारी!",
+    "script_hi": "इटली के मंत्रियों ने स्कूलों में बुर्का और नकाब पर बैन लगाने पर सहमति जताई है। साथ ही कक्षाओं में विदेशियों की संख्या सीमित करने का फैसला किया है। प्रधानमंत्री जियोर्जिया मेलोनी ने इन उपायों को आम समझ वाले कदम बताया है जो एकीकरण में मदद करते हैं।",
+    "tts_text_hi": "इटली के मंत्रियों ने स्कूलों में बुर्का और नकाब पर बैन लगाने पर सहमति जताई है। साथ ही कक्षाओं में विदेशियों की संख्या सीमित करने का फैसला किया है। प्रधानमंत्री जियोर्जिया मेलोनी ने इन उपायों को आम समझ वाले कदम बताया है जो एकीकरण में मदद करते हैं।",
+    "title": "Italy School Ban",
+    "caption": "इटली में स्कूलों के लिए नए नियम, बुर्का और नकाब पर बैन की तैयारी।",
+    "hashtags": [
+      "ItalyNews",
+      "GiorgiaMeloni",
+      "SchoolBan",
+      "InternationalNews",
+      "BreakingNews",
+      "WorldNews"
+    ],
+    "visual_queries": [
+      "Italian school building exterior",
+      "European classroom students studying",
+      "government press conference Rome"
+    ],
+    "named_person": "Giorgia Meloni",
+    "named_person_hi": "जियोर्जिया मेलोनी",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "जियोर्जिया मेलोनी",
+        "source": "fallback",
+        "query": "Giorgia Meloni",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18538036/pexels-photo-18538036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Italian school building exterior",
+        "credit": "Dilek Yüksel",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37811262/pexels-photo-37811262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "European classroom students studying",
+        "credit": "Eduard Perez",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33739152/pexels-photo-33739152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "italian flag background",
+        "credit": "Valentin Ivantsov",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "इटली के स्कूलों में बुर्का और नकाब बैन! 🇮🇹",
+        "caption": "इटली के स्कूलों में बुर्का और नकाब पर बैन लगाने की तैयारी! 🧕❌\n\nजॉर्जिया मेलोनी सरकार ने एक नया प्रस्ताव तैयार किया है, जिसके तहत क्लासरूम में चेहरा ढकने वाले कपड़ों पर पूरी तरह रोक होगी। साथ ही स्कूलों में विदेशी छात्रों की संख्या भी सीमित की जाएगी।\n\nइस फैसले पर आपकी क्या राय है? पूरी कहानी देखें।\n\n#ItalyNews #BurqaBan #Meloni #WorldNews #SchoolNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "इटली के स्कूलों में बुर्का और नकाब पर बैन लगाने की तैयारी! 🧕❌\n\nमेलोनी सरकार के इस नए सख्त कदम से शिक्षा जगत में हलचल मच गई है। क्या क्लासरूम में ऐसा नियम होना चाहिए?\n\n#ItalyNews #BurqaBan #Meloni #WorldNews #SchoolNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "इटली के स्कूलों में बुर्का और नकाब पर बैन लगाने की तैयारी! 🧕❌\n\nजॉर्जिया मेलोनी की सरकार ने ऐसा प्रस्ताव रखा है जो सोशल मीडिया से लेकर संसद तक चर्चा का विषय बन गया है। इसके तहत स्कूलों में चेहरा पूरी तरह ढकने वाले कपड़ों पर रोक लगेगी और कक्षाओं में विदेशी छात्रों की संख्या भी तय की जाएगी।\n\nआपको क्या लगता है, क्या यह फैसला सही है या गलत? हमें कमेंट में बताएं और पूरी कहानी देखें।\n\n#ItalyNews #BurqaBan #Meloni #WorldNews #SchoolNews"
+      },
+      "hashtags": [
+        "ItalyNews",
+        "BurqaBan",
+        "Meloni",
+        "WorldNews",
+        "SchoolNews"
+      ]
+    },
+    "audio_path": "audio/italy_schools_ban_burqa_niqab_meloni.wav",
+    "audio_duration_sec": 18.08,
+    "video_path": "videos/italy_schools_ban_burqa_niqab_meloni.mp4",
+    "video_duration_sec": 26.13
   }
 ]
