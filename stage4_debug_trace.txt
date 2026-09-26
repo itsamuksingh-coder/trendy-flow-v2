@@ -1,9 +1,8 @@
-ready_labels: ['kanyakumar_influencer_gold_theft', 'pm_modi_bhajan_clubbing_delhi', 'raj_thackeray_uddhav_ce_protest_mumbai', 'telangana_ganesh_visarjan_tragedy', 'virat_kohli_last_world_cup_announcement']
+ready_labels: ['bangkok_roads_submerged_flood_disaster_global', 'telangana_ganesh_visarjan_tragedy_13_dead', 'upi_mdr_charges_october_rules', 'venus_transit_libra_september_zodiac_luck']
 
-telangana_ganesh_visarjan_tragedy: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy.mp4 dur=28.42322
-virat_kohli_last_world_cup_announcement: SUCCESS -> video_path=videos/virat_kohli_last_world_cup_announcement.mp4 dur=25.256553
-308_wheels_viral_truck_up: SKIPPED (not in ready set)
-ranchi_wine_shop_drunk_monkey: SKIPPED (not in ready set)
-pm_modi_bhajan_clubbing_delhi: SUCCESS -> video_path=videos/pm_modi_bhajan_clubbing_delhi.mp4 dur=23.889887
-kanyakumar_influencer_gold_theft: SUCCESS -> video_path=videos/kanyakumar_influencer_gold_theft.mp4 dur=25.089887
-raj_thackeray_uddhav_ce_protest_mumbai: SUCCESS -> video_path=videos/raj_thackeray_uddhav_ce_protest_mumbai.mp4 dur=27.342222
+telangana_ganesh_visarjan_tragedy_13_dead: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy_13_dead.mp4 dur=28.82322
+ranchi_monkey_alcohol_wine_shop_viral: SKIPPED (not in ready set)
+chandauli_308_wheels_giant_truck_viral: SKIPPED (not in ready set)
+upi_mdr_charges_october_rules: SUCCESS -> video_path=videos/upi_mdr_charges_october_rules.mp4 dur=28.056553
+venus_transit_libra_september_zodiac_luck: SUCCESS -> video_path=videos/venus_transit_libra_september_zodiac_luck.mp4 dur=28.712222
+bangkok_roads_submerged_flood_disaster_global: SUCCESS -> video_path=videos/bangkok_roads_submerged_flood_disaster_global.mp4 dur=25.289887
