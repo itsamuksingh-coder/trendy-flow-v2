@@ -1,8 +1,8 @@
-ready_labels: ['bangkok_roads_submerged_flood_disaster_global', 'telangana_ganesh_visarjan_tragedy_13_dead', 'upi_mdr_charges_october_rules', 'venus_transit_libra_september_zodiac_luck']
+ready_labels: ['arnab_cyclone_heavy_rain_14_states', 'asian_games_kabaddi_gold_india_iran', 'nitin_gadkari_100_percent_ethanol_car_25_rupees', 'telangana_ganesh_visarjan_tragedy_13_deaths', 'up_308_wheels_giant_truck_viral']
 
-telangana_ganesh_visarjan_tragedy_13_dead: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy_13_dead.mp4 dur=28.82322
-ranchi_monkey_alcohol_wine_shop_viral: SKIPPED (not in ready set)
-chandauli_308_wheels_giant_truck_viral: SKIPPED (not in ready set)
-upi_mdr_charges_october_rules: SUCCESS -> video_path=videos/upi_mdr_charges_october_rules.mp4 dur=28.056553
-venus_transit_libra_september_zodiac_luck: SUCCESS -> video_path=videos/venus_transit_libra_september_zodiac_luck.mp4 dur=28.712222
-bangkok_roads_submerged_flood_disaster_global: SUCCESS -> video_path=videos/bangkok_roads_submerged_flood_disaster_global.mp4 dur=25.289887
+ranbir_kapoor_mrbeast_jai_shri_ram_viral: SKIPPED (not in ready set)
+arnab_cyclone_heavy_rain_14_states: SUCCESS -> video_path=videos/arnab_cyclone_heavy_rain_14_states.mp4 dur=32.682222
+telangana_ganesh_visarjan_tragedy_13_deaths: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy_13_deaths.mp4 dur=30.825215
+asian_games_kabaddi_gold_india_iran: SUCCESS -> video_path=videos/asian_games_kabaddi_gold_india_iran.mp4 dur=25.82322
+nitin_gadkari_100_percent_ethanol_car_25_rupees: SUCCESS -> video_path=videos/nitin_gadkari_100_percent_ethanol_car_25_rupees.mp4 dur=29.189887
+up_308_wheels_giant_truck_viral: SUCCESS -> video_path=videos/up_308_wheels_giant_truck_viral.mp4 dur=31.889887
