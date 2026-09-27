@@ -1,8 +1,9 @@
-ready_labels: ['arnab_cyclone_heavy_rain_14_states', 'asian_games_kabaddi_gold_india_iran', 'nitin_gadkari_100_percent_ethanol_car_25_rupees', 'telangana_ganesh_visarjan_tragedy_13_deaths', 'up_308_wheels_giant_truck_viral']
+ready_labels: ['bengaluru_ai_traffic_camera_guitar_mistaken_helmetless_rider', 'rohit_sharma_2027_world_cup_statement']
 
-ranbir_kapoor_mrbeast_jai_shri_ram_viral: SKIPPED (not in ready set)
-arnab_cyclone_heavy_rain_14_states: SUCCESS -> video_path=videos/arnab_cyclone_heavy_rain_14_states.mp4 dur=32.682222
-telangana_ganesh_visarjan_tragedy_13_deaths: SUCCESS -> video_path=videos/telangana_ganesh_visarjan_tragedy_13_deaths.mp4 dur=30.825215
-asian_games_kabaddi_gold_india_iran: SUCCESS -> video_path=videos/asian_games_kabaddi_gold_india_iran.mp4 dur=25.82322
-nitin_gadkari_100_percent_ethanol_car_25_rupees: SUCCESS -> video_path=videos/nitin_gadkari_100_percent_ethanol_car_25_rupees.mp4 dur=29.189887
-up_308_wheels_giant_truck_viral: SUCCESS -> video_path=videos/up_308_wheels_giant_truck_viral.mp4 dur=31.889887
+aligarh_man_tied_to_tree_urine_forced_affair_suspicion: SKIPPED (not in ready set)
+chhattisgarh_mahanadi_flood_liquor_bottles_loot_viral: SKIPPED (not in ready set)
+bengaluru_ai_traffic_camera_guitar_mistaken_helmetless_rider: SUCCESS -> video_path=videos/bengaluru_ai_traffic_camera_guitar_mistaken_helmetless_rider.mp4 dur=23.356553
+rohit_sharma_2027_world_cup_statement: SUCCESS -> video_path=videos/rohit_sharma_2027_world_cup_statement.mp4 dur=20.289887
+gorakhpur_waterlogging_ravi_kishan_bjp_parson_sp_clash: SKIPPED (not in ready set)
+gujarat_principal_rapes_13_year_old_student_arrest: SKIPPED (not in ready set)
+shravasti_minor_rape_accused_police_encounter: SKIPPED (not in ready set)
