@@ -1,9 +1,9 @@
-ready_labels: ['bengaluru_ai_traffic_camera_guitar_challan_mistake', 'india_first_lng_train_launched_amit_shah', 'kanyakumar_youtuber_cash_reels_house_robbery', 'mobile_retailers_no_upi_day_protest_october_2', 'mp_cm_mohan_yadav_demolishes_own_ancestral_house', 'south_africa_mass_shootings_bar_store_27_dead']
+ready_labels: ['ambala_building_collapse_four_deaths', 'cm_mohan_yadav_demolishes_own_ancestral_home', 'south_africa_mass_shootings_27_dead', 'virat_kohli_15000_odi_runs_sachin_record']
 
-delhi_pwd_minister_parvesh_verma_slaps_man: SKIPPED (not in ready set)
-mp_cm_mohan_yadav_demolishes_own_ancestral_house: SUCCESS -> video_path=videos/mp_cm_mohan_yadav_demolishes_own_ancestral_house.mp4 dur=36.456553
-bengaluru_ai_traffic_camera_guitar_challan_mistake: SUCCESS -> video_path=videos/bengaluru_ai_traffic_camera_guitar_challan_mistake.mp4 dur=23.975215
-kanyakumar_youtuber_cash_reels_house_robbery: SUCCESS -> video_path=videos/kanyakumar_youtuber_cash_reels_house_robbery.mp4 dur=27.42322
-mobile_retailers_no_upi_day_protest_october_2: SUCCESS -> video_path=videos/mobile_retailers_no_upi_day_protest_october_2.mp4 dur=34.006213
-india_first_lng_train_launched_amit_shah: SUCCESS -> video_path=videos/india_first_lng_train_launched_amit_shah.mp4 dur=23.889887
-south_africa_mass_shootings_bar_store_27_dead: SUCCESS -> video_path=videos/south_africa_mass_shootings_bar_store_27_dead.mp4 dur=25.414218
+virat_kohli_15000_odi_runs_sachin_record: SUCCESS -> video_path=videos/virat_kohli_15000_odi_runs_sachin_record.mp4 dur=20.156553
+delhi_minister_parvesh_verma_slaps_man: SKIPPED (not in ready set)
+lpu_student_protest_clash_rumor: SKIPPED (not in ready set)
+ambala_building_collapse_four_deaths: SUCCESS -> video_path=videos/ambala_building_collapse_four_deaths.mp4 dur=38.02322
+premanand_maharaj_disciple_suspicious_death_postmortem: SKIPPED (not in ready set)
+cm_mohan_yadav_demolishes_own_ancestral_home: SUCCESS -> video_path=videos/cm_mohan_yadav_demolishes_own_ancestral_home.mp4 dur=35.86322
+south_africa_mass_shootings_27_dead: SUCCESS -> video_path=videos/south_africa_mass_shootings_27_dead.mp4 dur=24.689887
