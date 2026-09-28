@@ -1,9 +1,8 @@
-ready_labels: ['ambala_building_collapse_four_deaths', 'cm_mohan_yadav_demolishes_own_ancestral_home', 'south_africa_mass_shootings_27_dead', 'virat_kohli_15000_odi_runs_sachin_record']
+ready_labels: ['faridabad_3_year_child_borewell_death', 'mp_cm_mohan_yadav_demolishes_ancestral_home', 'pok_25000_people_rally_loc_removal', 'virat_kohli_15000_odi_runs_record']
 
-virat_kohli_15000_odi_runs_sachin_record: SUCCESS -> video_path=videos/virat_kohli_15000_odi_runs_sachin_record.mp4 dur=20.156553
-delhi_minister_parvesh_verma_slaps_man: SKIPPED (not in ready set)
-lpu_student_protest_clash_rumor: SKIPPED (not in ready set)
-ambala_building_collapse_four_deaths: SUCCESS -> video_path=videos/ambala_building_collapse_four_deaths.mp4 dur=38.02322
-premanand_maharaj_disciple_suspicious_death_postmortem: SKIPPED (not in ready set)
-cm_mohan_yadav_demolishes_own_ancestral_home: SUCCESS -> video_path=videos/cm_mohan_yadav_demolishes_own_ancestral_home.mp4 dur=35.86322
-south_africa_mass_shootings_27_dead: SUCCESS -> video_path=videos/south_africa_mass_shootings_27_dead.mp4 dur=24.689887
+pok_25000_people_rally_loc_removal: SUCCESS -> video_path=videos/pok_25000_people_rally_loc_removal.mp4 dur=23.356553
+virat_kohli_15000_odi_runs_record: SUCCESS -> video_path=videos/virat_kohli_15000_odi_runs_record.mp4 dur=37.419229
+mp_cm_mohan_yadav_demolishes_ancestral_home: SUCCESS -> video_path=videos/mp_cm_mohan_yadav_demolishes_ancestral_home.mp4 dur=38.12322
+faridabad_3_year_child_borewell_death: SUCCESS -> video_path=videos/faridabad_3_year_child_borewell_death.mp4 dur=25.345215
+lpu_phagwara_campus_violent_protest: SKIPPED (not in ready set)
+delhi_minister_parvesh_verma_slap_row: SKIPPED (not in ready set)
