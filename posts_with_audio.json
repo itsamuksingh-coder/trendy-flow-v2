@@ -1,442 +1,226 @@
 [
   {
-    "topic_label": "virat_kohli_15000_odi_runs_sachin_record",
+    "topic_label": "pok_25000_people_rally_loc_removal",
     "virality_score": 9,
-    "reason": "Virat Kohli breaks Sachin's record by reaching 15,000 ODI runs with a stellar century against West Indies.",
+    "reason": "Massive protest in PoK demanding LoC removal has immense geopolitical and viral interest.",
     "region": "india",
-    "headline": "कोहली ने तोड़ा सचिन का वर्ल्ड रिकॉर्ड, छक्का जड़ पूरा किया शतक",
-    "source_summary": "विराट कोहली ने एक बार फिर बल्ले से अपना दमखम दिखाते हुए कई रिकॉर्ड अपने नाम कर लिए हैं. विराट कोहली ने वनडे इंटरनेशनल क्रिकेट में अपने 15,000 रन पूरे कर कमाल कर दिया है.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/ind-vs-wi-1st-odi-virat-kohli-hit-55th-odi-century-also-completes-15000-runs-in-odi-cricket-aksp-dskc-2654798-2026-09-27?utm_source=rssfeed",
+    "headline": "&#039;LoC हटाओ, पुंछ-मेंढर के रास्ते खोलो...&#039;, PoK में सड़क पर 25000 लोग",
+    "source_summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर के मंधोल गांव में 25 हजार से ज्यादा लोगों ने रैली निकाली. JKJAAC नेता सरदार अमान खान ने पाकिस्तान के नियंत्रण को खत्म करने, LoC हटाने और पुंछ-मेंढर के पुराने रास्ते खोलने की मांग उठाई.",
+    "source_url": "https://www.aajtak.in/india/jammu-kashmir/story/pok-mandhole-rally-loc-removal-poonch-mendhar-routes-ntc-mnrd-smsr-2655050-2026-09-28?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-27T21:12:33+05:30",
-    "hook": "विराट कोहली ने रच दिया नया इतिहास!",
-    "script_hi": "विराट कोहली ने एक बार फिर बल्ले से अपना दमखम दिखाते हुए कई रिकॉर्ड अपने नाम कर लिए हैं। विराट कोहली ने वनडे इंटरनेशनल क्रिकेट में अपने पंद्रह हजार रन पूरे कर कमाल कर दिया है।",
-    "tts_text_hi": "विराट कोहली ने एक बार फिर बल्ले से अपना दमखम दिखाते हुए कई रिकॉर्ड अपने नाम कर लिए हैं। विराट कोहली ने वनडे इंटरनेशनल क्रिकेट में अपने पंद्रह हजार रन पूरे कर कमाल कर दिया है।",
-    "title": "Virat Kohli's Record-Breaking Achievement in India",
-    "caption": "विराट कोहली ने वनडे क्रिकेट में पंद्रह हजार रन पूरे कर नया इतिहास रच दिया है।",
+    "published": "2026-09-28T09:56:05+05:30",
+    "hook": "पीओके में बगावत, सड़क पर उतरे पच्चीस हजार लोग!",
+    "script_hi": "पाकिस्तान के कब्जे वाले कश्मीर के मंधोल गांव में पच्चीस हजार से ज्यादा लोगों ने विशाल रैली निकाली। जेकेजेएएसी नेता सरदार अमान खान ने नियंत्रण रेखा हटाने और पुंछ-मेंढर के पुराने रास्ते खोलने की मांग उठाई।",
+    "tts_text_hi": "पाकिस्तान के कब्जे वाले कश्मीर के मंधोल गांव में पच्चीस हजार से ज्यादा लोगों ने विशाल रैली निकाली। जेकेजेएएसी नेता सरदार अमान खान ने नियंत्रण रेखा हटाने और पुंछ-मेंढर के पुराने रास्ते खोलने की मांग उठाई।",
+    "title": "PoK में 25 हजार लोगों का प्रदर्शन, LoC हटाने और रास्ते खोलने की मांग",
+    "caption": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर के मंधोल गांव में 25 हजार से ज्यादा लोगों ने रैली निकालकर LoC हटाने और पुंछ-मेंढर के रास्ते खोलने की मांग की।",
     "hashtags": [
-      "#ViratKohli",
-      "#CricketNews",
-      "#TeamIndia",
-      "#WorldRecord",
-      "#ODI"
+      "PoK",
+      "JammuKashmir",
+      "Poonch",
+      "PakistanOccupiedKashmir",
+      "LoC",
+      "Protest"
     ],
     "visual_queries": [
-      "Virat Kohli batting India",
-      "cricket stadium India crowd"
+      "Pakistan Occupied Kashmir landscape",
+      "large crowd protest rally",
+      "mountain road Pakistan"
+    ],
+    "named_person": "Sardar Aman Khan",
+    "named_person_hi": "सरदार अमान खान",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "सरदार अमान खान",
+        "source": "fallback",
+        "query": "Sardar Aman Khan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15388314/pexels-photo-15388314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Pakistan Occupied Kashmir landscape",
+        "credit": "Raja Samad",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20286975/pexels-photo-20286975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "disputed border aerial view",
+        "credit": "Артем Дворецкий",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12611833/pexels-photo-12611833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "mountain road Pakistan",
+        "credit": "Mir Abdullah Shah",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "PoK में बगावत! LoC हटाने की मांग को लेकर सड़क पर उतरे 25 हजार लोग 🚨",
+        "caption": "पीओके में बगावत, सड़क पर उतरे पच्चीस हजार लोग!\n\nपाकिस्तान अधिकृत कश्मीर के पुंछ-मेंढर इलाके से सटे इलाकों में लोग एलओसी हटाने और रास्ते खोलने की मांग को लेकर सड़कों पर उतर आए हैं। प्रशासन के खिलाफ इस भारी विरोध प्रदर्शन का वीडियो तेजी से वायरल हो रहा है।\n\nआपकी इस पर क्या राय है, कमेंट में बताएं और पूरी कहानी देखें।\n\n#PoKProtest #LoC #KashmirNews #BreakingNews #PoKNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पीओके में बगावत, सड़क पर उतरे पच्चीस हजार लोग! 🔥\n\nLoC हटाने और पुंछ-मेंढर के रास्ते खोलने की मांग को लेकर PoK में हालात बेकाबू हो रहे हैं। हजारों की संख्या में लोग सड़क पर उतरकर विरोध जता रहे हैं।\n\nशेयर करें ताकि सच सबको पता चले।\n\n#PoKProtest #LoC #KashmirNews #BreakingNews #PoKNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पीओके में बगावत, सड़क पर उतरे पच्चीस हजार लोग!\n\nपाकिस्तान अधिकृत कश्मीर में लोगों का गुस्सा फूट पड़ा है। पुंछ-मेंढर के रास्ते खोलने और LoC हटाने की मांग को लेकर करीब 25 हजार लोग सड़कों पर उतर आए हैं। इस बड़े प्रदर्शन ने स्थानीय प्रशासन की नींद उड़ा दी है।\n\nपूरी खबर के लिए वीडियो देखें और अपनी राय कमेंट करें।\n\n#PoKProtest #LoC #KashmirNews #BreakingNews #PoKNews"
+      },
+      "hashtags": [
+        "PoKProtest",
+        "LoC",
+        "KashmirNews",
+        "BreakingNews",
+        "PoKNews"
+      ]
+    },
+    "audio_path": "audio/pok_25000_people_rally_loc_removal.wav",
+    "audio_duration_sec": 15.31
+  },
+  {
+    "topic_label": "virat_kohli_15000_odi_runs_record",
+    "virality_score": 9,
+    "reason": "Virat Kohli enters Sachin's exclusive club with 15,000 ODI runs, high cricket fan engagement.",
+    "region": "india",
+    "headline": "Virat ने रचा इतिहास, Sachin के खास क्लब में हुए शामिल!",
+    "source_summary": "विराट कोहली ने वेस्टइंडीज के खिलाफ पहले वनडे में 139 रनों की नाबाद पारी खेलकर वनडे क्रिकेट में 15 हजार रन पूरे किए. इस उपलब्धि के बाद कोहली ने कहा कि व्यक्तिगत रिकॉर्ड उनके लक्ष्य का हिस्सा नहीं रहे और उनका ध्यान हमेशा टीम के लिए योगदान देने पर रहा है. उन्होंने अपनी फिटनेस, मानसिक तैयारी और बल्लेबाजी में नया अंदाज अपनाने को लेकर भी बात की. कोहली ने आने वाले मुकाबलों में सकारात्मक क्रिकेट जारी रखने की बात कही.",
+    "source_url": "https://www.aajtak.in/short-videos/video/virat-kohli-15000-odi-runs-sachin-tendulkar-milestone-india-west-indies-century-139-runs-statement-mmta-2655062-2026-09-28?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-28T10:25:56+05:30",
+    "hook": "विराट कोहली ने रच दिया बड़ा इतिहास!",
+    "script_hi": "विराट कोहली ने वेस्टइंडीज के खिलाफ पहले वनडे मैच में एक सौ उनतालीस रनों की नाबाद पारी खेलकर इतिहास रच दिया है। इस शानदार पारी के साथ ही उन्होंने वनडे क्रिकेट में पन्द्रह हजार रन पूरे कर लिए हैं और सचिन तेंदुलकर के खास क्लब में शामिल हो गए हैं। इस बड़ी उपलब्धि के बाद कोहली ने कहा कि व्यक्तिगत रिकॉर्ड कभी उनके लक्ष्य का हिस्सा नहीं रहे, बल्कि उनका पूरा ध्यान हमेशा अपनी टीम के लिए योगदान देने पर ही केंद्रित रहा है।",
+    "tts_text_hi": "विराट कोहली ने वेस्टइंडीज के खिलाफ पहले वनडे मैच में एक सौ उनतालीस रनों की नाबाद पारी खेलकर इतिहास रच दिया है। इस शानदार पारी के साथ ही उन्होंने वनडे क्रिकेट में पन्द्रह हजार रन पूरे कर लिए हैं और सचिन तेंदुलकर के खास क्लब में शामिल हो गए हैं। इस बड़ी उपलब्धि के बाद कोहली ने कहा कि व्यक्तिगत रिकॉर्ड कभी उनके लक्ष्य का हिस्सा नहीं रहे, बल्कि उनका पूरा ध्यान हमेशा अपनी टीम के लिए योगदान देने पर ही केंद्रित रहा है।",
+    "title": "Virat Kohli Enters 15k ODI Runs Club",
+    "caption": "विराट कोहली ने वेस्टइंडीज के खिलाफ वनडे क्रिकेट में पन्द्रह हजार रन पूरे कर लिए हैं और सचिन तेंदुलकर के खास क्लब में शामिल हो गए हैं।",
+    "hashtags": [
+      "ViratKohli",
+      "CricketNews",
+      "TeamIndia",
+      "ODI",
+      "SachinTendulkar",
+      "Cricket"
+    ],
+    "visual_queries": [
+      "Indian cricket stadium India",
+      "cricket batsman batting India",
+      "cricket celebration India"
     ],
     "named_person": "Virat Kohli",
     "named_person_hi": "विराट कोहली",
     "secondary_persons": [
       "Sachin Tendulkar"
     ],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "downloaded_assets/person_83b1c167c5.jpg",
-        "source": "wikimedia",
+        "type": "text_card",
+        "text": "विराट कोहली",
+        "source": "fallback",
         "query": "Virat Kohli",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_68ef36ea3a.jpg",
-        "source": "wikimedia",
-        "query": "Sachin Tendulkar",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741130/pexels-photo-36741130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket stadium celebration india",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cricket stadium India crowd",
+        "query": "Indian cricket stadium India",
         "credit": "Ajay Parab",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket batsman batting India",
+        "credit": "Sandeep Singh",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket celebration India",
+        "credit": "Umang & Meet",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कोहली ने तोड़ा सचिन का महाकमान! जड़ा ऐतिहासिक शतक 🏏",
-        "caption": "विराट कोहली ने रच दिया नया इतिहास! 🇮🇳\n\nक्रिकेट के भगवान कहे जाने वाले सचिन तेंदुलकर का एक और बड़ा रिकॉर्ड अब किंग कोहली के नाम हो चुका है। मैदान पर छक्का जड़कर शतक पूरा करते ही पूरा स्टेडियम झूम उठा।\n\nआपको क्या लगता है, कोहली का यह रिकॉर्ड कौन तोड़ पाएगा? कमेंट में बताएं और पूरी कहानी देखें।\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #KohliRecord"
+        "title": "Virat Kohli ने रचा इतिहास! Sachin Tendulkar के इस खास क्लब में हुए शामिल 🏏🔥",
+        "caption": "सिर्फ 289 पारियों में वो कर दिखाया जो आज तक क्रिकेट इतिहास में किसी ने नहीं किया।\n\nविराट कोहली ने वनडे क्रिकेट में एक और महारिकॉर्ड अपने नाम कर लिया है। सचिन तेंदुलकर के बाद इस मुकाम तक पहुंचने वाले वो दुनिया के दूसरे बल्लेबाज बन गए हैं।\n\nक्या विराट आने वाले समय में सचिन का सबसे बड़ा रिकॉर्ड भी तोड़ पाएंगे? अपनी राय नीचे कमेंट्स में बताएं और पूरी कहानी देखें!\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #ODIHistory"
       },
       "instagram": {
         "title": null,
-        "caption": "विराट कोहली ने रच दिया नया इतिहास! 🚨\n\nसचिन का सबसे बड़ा वर्ल्ड रिकॉर्ड आखिरकार टूट गया। मैदान पर छक्का जड़कर शतक पूरा करते ही किंग कोहली ने इतिहास के पन्नों में अपना नाम फिर से दर्ज करा लिया।\n\nये पल किस-किस ने लाइव देखा था? वीडियो शेयर करें और अपनी राय दें!\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #KohliRecord"
+        "caption": "क्रिकेट जगत में फिर गूंजा विराट का नाम! 👑\n\nसचिन के बाद सिर्फ विराट ही वो बल्लेबाज हैं जिन्होंने वनडे में ये ऐतिहासिक मुकाम हासिल किया है। आंकड़े जानकर आप भी हैरान रह जाएंगे।\n\nक्रिकेट फैंस इस वीडियो को शेयर किए बिना नहीं रह पाएंगे। पूरी कहानी देखें और बताएं कौन है GOAT?\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #ODIHistory"
       },
       "facebook": {
         "title": null,
-        "caption": "विराट कोहली ने रच दिया नया इतिहास! 🇮🇳\n\nक्रिकेट जगत में एक बार फिर से इतिहास लिखा जा चुका है। सचिन तेंदुलकर के उस महा-रिकॉर्ड को पीछे छोड़ते हुए कोहली ने जैसे ही छक्का जड़कर अपना शतक पूरा किया, पूरा देश जश्न में डूब गया। इस शानदार पारी ने एक बार फिर साबित कर दिया कि उन्हें क्यों किंग कहा जाता है।\n\nआपकी इस ऐतिहासिक पारी पर क्या राय है? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #KohliRecord"
+        "caption": "क्रिकेट के मैदान पर एक बार फिर इतिहास लिखा गया है। विराट कोहली ने वनडे क्रिकेट में ऐसा मुकाम हासिल कर लिया है, जहां पहुंचना हर खिलाड़ी का सपना होता है। सचिन तेंदुलकर के खास क्लब में शामिल होकर विराट ने साबित कर दिया कि उन्हें क्यों रन मशीन कहा जाता है। पूरी कहानी देखिए और बताइए इस रिकॉर्ड पर आपका क्या कहना है।\n\n#ViratKohli #TeamIndia #CricketNews #SachinTendulkar #ODIHistory"
       },
       "hashtags": [
         "ViratKohli",
         "TeamIndia",
         "CricketNews",
         "SachinTendulkar",
-        "KohliRecord"
+        "ODIHistory"
       ]
     },
-    "audio_path": "audio/virat_kohli_15000_odi_runs_sachin_record.wav",
-    "audio_duration_sec": 12.12
+    "audio_path": "audio/virat_kohli_15000_odi_runs_record.wav",
+    "audio_duration_sec": 29.37
   },
   {
-    "topic_label": "delhi_minister_parvesh_verma_slaps_man",
-    "virality_score": 9,
-    "reason": "Viral video of Delhi PWD Minister Parvesh Verma allegedly slapping a youth during a road inspection sparks huge political row.",
-    "region": "india",
-    "headline": "प्रवेश वर्मा ने जिस शख्स को मारा थप्पड़, उस पर पहले से दर्ज हैं FIR",
-    "source_summary": "दिल्ली में सड़क निरीक्षण के दौरान PWD मंत्री प्रवेश वर्मा पर एक युवक को थप्पड़ मारने का आरोप लगा है. आरोप लगाने वाले युवक की पहचान साहिब सिंह के रूप में हुई है. बीजेपी ने युवक को 'AAP का गुंडा' बताया है.",
-    "source_url": "https://www.aajtak.in/india/delhi/story/parvesh-verma-sahib-singh-fir-tilak-nagar-delhi-jarnail-singh-ntc-amkr-rptc-2654803-2026-09-27?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-27T21:58:40+05:30",
-    "hook": "प्रवेश वर्मा के थप्पड़ कांड में नया मोड़, पीड़ित युवक पर पहले से ही दर्ज हैं कई मुकदमे!",
-    "script_hi": "दिल्ली में सड़क निरीक्षण के दौरान पीडब्ल्यूडी मंत्री प्रवेश वर्मा पर एक युवक को थप्पड़ मारने का आरोप लगा है। आरोप लगाने वाले युवक की पहचान साहिब सिंह के रूप में हुई है। इस बीच बीजेपी ने युवक को आम आदमी पार्टी का गुंडा बताया है।",
-    "tts_text_hi": "दिल्ली में सड़क निरीक्षण के दौरान पीडब्ल्यूडी मंत्री प्रवेश वर्मा पर एक युवक को थप्पड़ मारने का आरोप लगा है। आरोप लगाने वाले युवक की पहचान साहिब सिंह के रूप में हुई है। इस बीच बीजेपी ने युवक को आम आदमी पार्टी का गुंडा बताया है।",
-    "title": "प्रवेश वर्मा थप्पड़ कांड: साहिब सिंह पर पहले से दर्ज हैं एफआईआर",
-    "caption": "दिल्ली में सड़क निरीक्षण के दौरान प्रवेश वर्मा और साहिब सिंह के बीच विवाद। बीजेपी ने युवक को बताया आप का गुंडा।",
-    "hashtags": [
-      "ParveshVerma",
-      "DelhiNews",
-      "BJP",
-      "AAP",
-      "DelhiPolice",
-      "ViralVideo"
-    ],
-    "visual_queries": [
-      "New Delhi street India",
-      "Indian politician speech India"
-    ],
-    "named_person": "Parvesh Verma",
-    "named_person_hi": "प्रवेश वर्मा",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "Story involves an unproven allegation of assault by a named public figure and a viral incident where specific real footage or manual verification of the event is necessary.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "प्रवेश वर्मा",
-        "source": "fallback",
-        "query": "Parvesh Verma",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9672446/pexels-photo-9672446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "New Delhi street India",
-        "credit": "Navneet Dholariya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politician speech India",
-        "credit": "Voters Party International",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 14.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "lpu_student_protest_clash_rumor",
+    "topic_label": "mp_cm_mohan_yadav_demolishes_ancestral_home",
     "virality_score": 8,
-    "reason": "Major student protests, arson, and police lathicharge at Lovely Professional University over unverified rumors.",
+    "reason": "MP Chief Minister breaking his own ancestral home for road widening is a unique, widely discussed story.",
     "region": "india",
-    "headline": "LPU के बाहर बवाल! छात्रों ने NH जाम कर की तोड़फोड़ और आगजनी",
-    "source_summary": "लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से रेप की अफवाह फैलने के बाद शनिवार से छात्रों का प्रदर्शन जारी है. छात्रों की पुलिस से भी झड़प हुई है. SSP हरविंदर सिंह विर्क के मुताबिक, घटना में कुछ पुलिसकर्मी घायल हुए हैं.",
-    "source_url": "https://www.aajtak.in/india/punjab/story/lovely-professional-university-student-protest-blocks-national-highway-ntc-acwi-rpti-2654702-2026-09-27?utm_source=rssfeed",
+    "headline": "सड़क चौड़ीकरण के लिए सीएम मोहन यादव ने खुद अपना पैतृक घर तोड़ा",
+    "source_summary": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव ने उज्जैन में विकास की एक अनूठी मिसाल पेश की है. उज्जैन में साल 2028 में होने वाले सिंहस्थ महाकुंभ की तैयारियों के तहत सड़क चौड़ीकरण का काम किया जा रहा है. इस सड़क चौड़ीकरण की जद में मुख्यमंत्री डॉ. मोहन यादव का पैतृक निवास भी आ रहा था. आम तौर पर जहां वीआईपी कल्चर के तहत नियम बदल दिए जाते हैं, वहीं मुख्यमंत्री ने एक मिसाल पेश करते हुए खुद अपने पैतृक मकान पर पहला हथौड़ा और कुदाल चलाई.",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/video/mp-cm-mohan-yadav-initiates-demolition-of-his-ancestral-home-in-ujjain-for-road-widening-vdot-ytvd-2654374-2026-09-27?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-27T18:49:30+05:30",
-    "hook": "लवली प्रोफेशनल यूनिवर्सिटी के बाहर छात्रों का भयंकर बवाल!",
-    "script_hi": "लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से कथित घटना की अफवाह के बाद शनिवार से छात्रों का उग्र प्रदर्शन जारी है। प्रदर्शनकारी छात्रों ने राष्ट्रीय राजमार्ग जाम कर तोड़फोड़ और आगजनी की। पुलिस के साथ हुई झड़प में कुछ पुलिसकर्मी घायल हुए हैं। वरिष्ठ पुलिस अधीक्षक हरविंदर सिंह विर्क ने स्थिति नियंत्रण में होने की बात कही है।",
-    "tts_text_hi": "लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से कथित घटना की अफवाह के बाद शनिवार से छात्रों का उग्र प्रदर्शन जारी है। प्रदर्शनकारी छात्रों ने राष्ट्रीय राजमार्ग जाम कर तोड़फोड़ और आगजनी की। पुलिस के साथ हुई झड़प में कुछ पुलिसकर्मी घायल हुए हैं। वरिष्ठ पुलिस अधीक्षक हरविंदर सिंह विर्क ने स्थिति नियंत्रण में होने की बात कही है।",
-    "title": "LPU के बाहर छात्रों का उग्र प्रदर्शन, NH जाम और आगजनी",
-    "caption": "पंजाब की लवली प्रोफेशनल यूनिवर्सिटी के बाहर छात्रों ने किया जबरदस्त प्रदर्शन, पुलिस से झड़प और आगजनी की घटना आई सामने।",
+    "published": "2026-09-27T14:22:33+05:30",
+    "hook": "मुख्यमंत्री ने खुद तोड़ा अपना ही पैतृक घर!",
+    "script_hi": "मध्य प्रदेश के मुख्यमंत्री डॉक्टर मोहन यादव ने उज्जैन में विकास की अनूठी मिसाल पेश की है। उज्जैन में वर्ष दो हजार अटाइस में होने वाले सिंहस्थ महाकुंभ की तैयारियों के तहत सड़क चौड़ीकरण का काम किया जा रहा है। इस चौड़ीकरण की जद में मुख्यमंत्री का पैतृक निवास भी आ रहा था। जहां अक्सर वीआईपी नियमों में बदलाव करवा देते हैं, वहीं मुख्यमंत्री ने खुद अपने पैतृक मकान पर पहला हथौड़ा चलाकर बड़ी मिसाल पेश की है।",
+    "tts_text_hi": "मध्य प्रदेश के मुख्यमंत्री डॉक्टर मोहन यादव ने उज्जैन में विकास की अनूठी मिसाल पेश की है। उज्जैन में वर्ष दो हजार अटाइस में होने वाले सिंहस्थ महाकुंभ की तैयारियों के तहत सड़क चौड़ीकरण का काम किया जा रहा है। इस चौड़ीकरण की जद में मुख्यमंत्री का पैतृक निवास भी आ रहा था। जहां अक्सर वीआईपी नियमों में बदलाव करवा देते हैं, वहीं मुख्यमंत्री ने खुद अपने पैतृक मकान पर पहला हथौड़ा चलाकर बड़ी मिसाल पेश की है।",
+    "title": "सीएम मोहन यादव ने खुद तोड़ा अपना पैतृक घर",
+    "caption": "मध्य प्रदेश के सीएम मोहन यादव ने उज्जैन में सड़क चौड़ीकरण के लिए खुद अपने पैतृक घर पर हथौड़ा चलाया, देखें वीडियो।",
     "hashtags": [
-      "LPU",
-      "PunjabNews",
-      "StudentProtest",
-      "Phagwara",
-      "BreakingNews",
-      "HindiNews"
-    ],
-    "visual_queries": [
-      "university campus building India",
-      "angry student protest India",
-      "police barricade street India",
-      "smoke from fire India"
-    ],
-    "named_person": "Harvinder Singh Virk",
-    "named_person_hi": "हरविंदर सिंह विर्क",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": true,
-    "flag_reason": "Content touches upon an allegation of sexual assault involving rumors and a sensitive campus situation, requiring careful manual review to ensure balanced and accurate reporting.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "हरविंदर सिंह विर्क",
-        "source": "fallback",
-        "query": "Harvinder Singh Virk",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38550000/pexels-photo-38550000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "university campus building India",
-        "credit": "Adityan R",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39087855/pexels-photo-39087855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "angry student protest India",
-        "credit": "Satyam Pixels",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade street India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27583935/pexels-photo-27583935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smoke from fire India",
-        "credit": "Manish Jangid",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "ambala_building_collapse_four_deaths",
-    "virality_score": 8,
-    "reason": "Tragic collapse of a three-story under-construction building in Ambala results in 4 deaths and extensive rescue operations.",
-    "region": "india",
-    "headline": "अंबाला में 3 मंजिला बिल्डिंग गिरी, 4 की मौत, 13 लोग बचाए गए",
-    "source_summary": "हरियाणा के अंबाला शहर के धूलकोट गांव में रविवार को बड़ा हादसा हो गया. यहां तीन मंजिला निर्माणाधीन इमारत अचानक भरभराकर गिर गई. हादसे में 4 लोगों की मौत हो गई है, जबकि 13 लोग बचाए गए. घटना के बाद इलाके में हड़कंप मच गया और मलबे में फंसे लोगों को निकालने के लिए रेस्क्यू शुरू किया गया.",
-    "source_url": "https://www.aajtak.in/india/haryana/story/ambala-three-storey-under-construction-building-collapse-labourers-trapped-rescue-lclcn-strc-2654719-2026-09-27?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-27T19:29:24+05:30",
-    "hook": "हरियाणा के अंबाला में बड़ा हादसा, तीन मंजिला निर्माणाधीन इमारत गिरने से चार लोगों की मौत!",
-    "script_hi": "हरियाणा के अंबाला शहर के धूलकोट गांव में रविवार को एक बड़ा हादसा हुआ। यहाँ तीन मंजिला निर्माणाधीन इमारत अचानक भरभराकर गिर गई। इस दर्दनाक हादसे में चार लोगों की मौत हो गई है, जबकि तेरह लोगों को सुरक्षित बचा लिया गया है। घटना के बाद पूरे इलाके में हड़कंप मच गया और मलबे में फंसे लोगों को निकालने के लिए तुरंत रेस्क्यू ऑपरेशन शुरू किया गया।",
-    "tts_text_hi": "हरियाणा के अंबाला शहर के धूलकोट गांव में रविवार को एक बड़ा हादसा हुआ। यहाँ तीन मंजिला निर्माणाधीन इमारत अचानक भरभराकर गिर गई। इस दर्दनाक हादसे में चार लोगों की मौत हो गई है, जबकि तेरह लोगों को सुरक्षित बचा लिया गया है। घटना के बाद पूरे इलाके में हड़कंप मच गया और मलबे में फंसे लोगों को निकालने के लिए तुरंत रेस्क्यू ऑपरेशन शुरू किया गया।",
-    "title": "अंबाला में गिरी तीन मंजिला इमारत",
-    "caption": "हरियाणा के अंबाला में बड़ा हादसा, तीन मंजिला निर्माणाधीन इमारत गिरने से चार लोगों की मौत, तेरह सुरक्षित बचाए गए।",
-    "hashtags": [
-      "Ambala",
-      "HaryanaNews",
-      "BreakingNews",
-      "Accident",
-      "RescueOperation",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "India collapsed building rubble",
-      "Indian rescue operation debris",
-      "India emergency ambulance street"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/30892190/13207763_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "building collapse rescue workers",
-        "credit": "Wela Gujjar",
-        "source_duration_sec": 30,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India collapsed building rubble",
-        "credit": "Dhong Wang",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15822314/pexels-photo-15822314.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian rescue operation debris",
-        "credit": "Emirhan Emiroğlu",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India emergency ambulance street",
-        "credit": "Chauhan Dixant",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8961548/pexels-photo-8961548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "construction site accident india",
-        "credit": "Mikael Blomkvist",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital emergency ward india",
-        "credit": "Juan Moccagatta",
-        "duration_sec": 4.8
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "अंबाला में गिरी 3 मंजिला इमारत: 4 की मौत, मलबे से 13 लोग सुरक्षित बाहर निकाले गए 🚨",
-        "caption": "हरियाणा के अंबाला में अचानक भरभराकर गिरी तीन मंजिला इमारत! 🚨\n\nनिर्माणधीन इमारत का मलबा गिरने से अब तक 4 लोगों की मौत हो चुकी है, जबकि 13 लोगों को रेस्क्यू कर लिया गया है। राहत और बचाव कार्य अभी भी जारी है।\n\nपूरी कहानी देखें और बताएं कि इस लापरवाही का जिम्मेदार कौन है?\n\n#AmbalaNews #HaryanaAccident #AmbalaBuildingCollapse #BreakingNewsHindi #AccidentNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "हरियाणा के अंबाला में अचानक भरभराकर गिरी तीन मंजिला इमारत! 🚨\n\nमलबा गिरने से 4 लोगों की जान चली गई है, वहीं 13 लोगों को सुरक्षित बचा लिया गया है। प्रशासन की टीम मौके पर मौजूद है।\n\nआपकी नजर में इस हादसे का असली जिम्मेदार कौन है? कमेंट में बताएं।\n\n#AmbalaNews #HaryanaAccident #AmbalaBuildingCollapse #BreakingNewsHindi #AccidentNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "हरियाणा के अंबाला से एक दिल दहला देने वाली खबर सामने आ रही है, जहां अचानक एक तीन मंजिला निर्माणाधीन इमारत भरभराकर नीचे गिर गई। 🚨\n\nइस दर्दनाक हादसे में अब तक 4 लोगों की मौत की पुष्टि हो चुकी है, जबकि एनडीआरएफ और स्थानीय प्रशासन की मदद से 13 लोगों को सुरक्षित बाहर निकाल लिया गया है। मलबे में अभी भी कुछ और लोगों के दबे होने की आशंका जताई जा रही है, जिसके चलते रेस्क्यू ऑपरेशन युद्ध स्तर पर जारी है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय दें।\n\n#AmbalaNews #HaryanaAccident #AmbalaBuildingCollapse #BreakingNewsHindi #AccidentNews"
-      },
-      "hashtags": [
-        "AmbalaNews",
-        "HaryanaAccident",
-        "AmbalaBuildingCollapse",
-        "BreakingNewsHindi",
-        "AccidentNews"
-      ]
-    },
-    "audio_path": "audio/ambala_building_collapse_four_deaths.wav",
-    "audio_duration_sec": 29.98
-  },
-  {
-    "topic_label": "premanand_maharaj_disciple_suspicious_death_postmortem",
-    "virality_score": 8,
-    "reason": "Shocking postmortem report reveals severe bleeding and cut marks in the mysterious death case of Premanand Maharaj's disciple.",
-    "region": "india",
-    "headline": "प्राइवेट पार्ट से ब्लीडिंग और ग्राइंडर का रहस्य! प्रेमानंद के शिष्य की PM रिपोर्ट",
-    "source_summary": "प्रेमानंद महाराज के शिष्य दीपक लोधी की पोस्टमार्टम रिपोर्ट आ गई है. पोस्टमार्टम रिपोर्ट के मुताबिक, दीपक लोधी की मौत बहुत ज्यादा ब्लीडिंग होने की वजह से हुई है. उनका प्राइवेट पार्ट कटने के साक्ष्य भी सामने आए हैं. पुलिस को जांच में दीपक के कमरे से एक ग्राइंडर भी मिला है.",
-    "source_url": "https://www.aajtak.in/religion/news/story/premanand-maharaj-disciple-deepak-lodhi-suicide-cctv-video-postmortem-report-bleeding-grinder-private-part-injury-tvisu-rptc-2654662-2026-09-27?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-27T17:50:28+05:30",
-    "hook": "प्रेमानंद महाराज के शिष्य की मौत का रहस्य!",
-    "script_hi": "प्रेमानंद महाराज के शिष्य दीपक लोधी की पोस्टमार्टम रिपोर्ट सामने आ गई है। रिपोर्ट के मुताबिक उनकी मौत बहुत ज्यादा ब्लीडिंग होने से हुई थी। उनके शरीर पर गंभीर चोट के निशान मिले हैं और प्राइवेट पार्ट कटने के साक्ष्य भी मिले हैं। पुलिस को जांच के दौरान उनके कमरे से एक ग्राइंडर भी बरामद हुआ है। पुलिस इस मामले की गहराई से जांच कर रही है।",
-    "tts_text_hi": "प्रेमानंद महाराज के शिष्य दीपक लोधी की पोस्टमार्टम रिपोर्ट सामने आ गई है। रिपोर्ट के मुताबिक उनकी मौत बहुत ज्यादा ब्लीडिंग होने से हुई थी। उनके शरीर पर गंभीर चोट के निशान मिले हैं और प्राइवेट पार्ट कटने के साक्ष्य भी मिले हैं। पुलिस को जांच के दौरान उनके कमरे से एक ग्राइंडर भी बरामद हुआ है। पुलिस इस मामले की गहराई से जांच कर रही है।",
-    "title": "प्रेमानंद महाराज के शिष्य दीपक लोधी की पोस्टमार्टम रिपोर्ट",
-    "caption": "प्रेमानंद महाराज के शिष्य दीपक लोधी की पोस्टमार्टम रिपोर्ट में बड़ा खुलासा, अत्यधिक ब्लीडिंग से हुई मौत।",
-    "hashtags": [
-      "#PremanandJiMaharaj",
-      "#DeepakLodhi",
-      "#BreakingNews",
-      "#CrimeNews",
-      "#IndiaNews",
-      "#PoliceInvestigation"
-    ],
-    "visual_queries": [
-      "Indian spiritual guru crowd India",
-      "police investigation room India",
-      "forensic medical report India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves an unnatural death investigation with sensitive elements and a specific ongoing police case where details are still emerging.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7230788/7230788-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation room India",
-        "credit": "MART  PRODUCTION",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/2274055/pexels-photo-2274055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian spiritual guru crowd India",
-        "credit": "Bhavesh Jain",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 2,
-    "timeline_covered_sec": 11,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "cm_mohan_yadav_demolishes_own_ancestral_home",
-    "virality_score": 8,
-    "reason": "MP Chief Minister Mohan Yadav sets an example by breaking his own ancestral home for road widening ahead of Simhasth 2028.",
-    "region": "india",
-    "headline": "CM Mohan Yadav के घर पर चलेगा बुलडोजर",
-    "source_summary": "सिंहस्थ 2028 की तैयारियों के तहत उज्जैन में सड़क चौड़ीकरण का काम चल रहा है. अब्दालपुरा इलाके में खजूर वाली मस्जिद से गणेश चौक तक सड़क को चौड़ा किया जाना है. इसकी जद में करीब 272 ढांचे बताए गए हैं, जिनमें मुख्यमंत्री मोहन यादव का पैतृक मकान भी शामिल है. सड़क विस्तार के लिए मकान का करीब 2.90 मीटर हिस्सा हटाया जाएगा. आसपास के कई अन्य मकानों के हिस्से भी प्रभावित होंगे.",
-    "source_url": "https://www.aajtak.in/short-videos/video/mohan-yadav-ancestral-house-ujjain-road-widening-simhastha-2028-family-property-affected-development-project-mmta-2654326-2026-09-27?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-27T10:48:22+05:30",
-    "hook": "मुख्यमंत्री मोहन यादव के घर पर चलेगा बुलडोजर!",
-    "script_hi": "मध्य प्रदेश के उज्जैन में सिंहस्थ दो हजार अट्ठाइस की तैयारियों के तहत सड़क चौड़ीकरण का काम तेजी से चल रहा है। अब्दालपुरा इलाके में होने वाले इस विकास कार्य की जद में मुख्यमंत्री मोहन यादव का पैतृक मकान भी आ गया है। सड़क विस्तार के लिए उनके घर का करीब दो दशमलव नौ शून्य मीटर हिस्सा हटाया जाएगा। इस कार्रवाई की जद में कुल दो सौ बहत्तर ढांचे बताए जा रहे हैं।",
-    "tts_text_hi": "मध्य प्रदेश के उज्जैन में सिंहस्थ दो हजार अट्ठाइस की तैयारियों के तहत सड़क चौड़ीकरण का काम तेजी से चल रहा है। अब्दालपुरा इलाके में होने वाले इस विकास कार्य की जद में मुख्यमंत्री मोहन यादव का पैतृक मकान भी आ गया है। सड़क विस्तार के लिए उनके घर का करीब दो दशमलव नौ शून्य मीटर हिस्सा हटाया जाएगा। इस कार्रवाई की जद में कुल दो सौ बहत्तर ढांचे बताए जा रहे हैं।",
-    "title": "उज्जैन में सड़क चौड़ीकरण: सीएम मोहन यादव के पैतृक मकान का हिस्सा हटेगा",
-    "caption": "सिंहस्थ 2028 की तैयारियों के तहत उज्जैन में सड़क चौड़ीकरण के दौरान सीएम मोहन यादव के पैतृक मकान का हिस्सा भी हटाया जाएगा।",
-    "hashtags": [
-      "Ujjain",
-      "MohanYadav",
       "MadhyaPradesh",
+      "MohanYadav",
+      "Ujjain",
       "Simhastha2028",
-      "RoadWidening",
-      "NewsUpdates"
+      "IndianNews"
     ],
     "visual_queries": [
-      "India street construction",
-      "Ujjain street India",
-      "bulldozer demolition India"
+      "Indian politician portrait",
+      "Ujjain city street India",
+      "Indian old house demolition",
+      "construction road widening India"
     ],
     "named_person": "Mohan Yadav",
     "named_person_hi": "मोहन यादव",
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 28.0,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -449,123 +233,130 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/18287957/pexels-photo-18287957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38461572/pexels-photo-38461572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "India street construction",
-        "credit": "Ranjeet  Chauhan",
+        "query": "Indian politician portrait",
+        "credit": "Farman Ansari",
         "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36470475/pexels-photo-36470475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Ujjain street India",
+        "query": "Ujjain city street India",
         "credit": "Manish Jangid",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34891691/pexels-photo-34891691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5499194/pexels-photo-5499194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "bulldozer demolition India",
-        "credit": "El Jundi",
+        "query": "Indian old house demolition",
+        "credit": "Akhmad Chalandaroff",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35662656/pexels-photo-35662656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "construction road widening India",
+        "credit": "ÀniL",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
+    "asset_count": 5,
+    "timeline_covered_sec": 24.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "CM Mohan Yadav के घर पर चलेगा बुलडोजर? जानिए क्या है पूरा सच 🚜",
-        "caption": "मुख्यमंत्री मोहन यादव के घर पर ही चलेगा बुलडोजर! 🚜\n\nउज्जैन में सड़क चौड़ीकरण के काम के चलते खुद सीएम मोहन यादव के पैतृक मकान का हिस्सा तोड़ा जाएगा। विकास के इस फैसले पर आपकी क्या राय है?\n\nपूरी कहानी देखें और अपनी राय कमेंट करें।\n\n#CMMohanYadav #UjjainNews #BulldozerAction #MadhyaPradeshNews #RoadWidening"
+        "title": "सड़क चौड़ीकरण के लिए सीएम मोहन यादव ने खुद तोड़ा अपना पैतृक घर! 🏠",
+        "caption": "मुख्यमंत्री ने खुद तोड़ा अपना ही पैतृक घर! 😲\n\nउज्जैन में सड़क चौड़ीकरण के प्रोजेक्ट के रास्ते में सीएम मोहन यादव का खुद का पुश्तैनी मकान आ रहा था। बिना किसी वीआईपी ट्रीटमेंट के उन्होंने खुद आगे आकर इसे तोड़ने की अनुमति दी।\n\nक्या कोई और राजनेता ऐसा कदम उठा सकता है? अपनी राय कमेंट में बताएं और पूरी कहानी देखें।\n\n#MohanYadav #UjjainNews #MadhyaPradeshNews #IndianPolitics #RoadWidening"
       },
       "instagram": {
         "title": null,
-        "caption": "मुख्यमंत्री मोहन यादव के घर पर चलेगा बुलडोजर! 🚜\n\nउज्जैन में सड़क चौड़ीकरण के लिए प्रशासन ने बड़ा कदम उठाया है, जिसके तहत सीएम के पैतृक मकान का हिस्सा भी हटाया जाएगा। \n\nक्या विकास के आगे अपनों के लिए भी कोई छूट नहीं होनी चाहिए? शेयर करें अपनी राय।\n\n#CMMohanYadav #UjjainNews #BulldozerAction #MadhyaPradeshNews #RoadWidening"
+        "caption": "मुख्यमंत्री ने खुद तोड़ा अपना ही पैतृक घर! 😲\n\nउज्जैन में सड़क चौड़ीकरण के लिए सीएम मोहन यादव ने बिना किसी वीआईपी छूट के अपना पुश्तैनी घर खुद तुड़वा दिया।\n\nक्या ऐसा फैसला कोई और ले सकता है? वीडियो शेयर करें और अपनी राय दें।\n\n#MohanYadav #UjjainNews #MadhyaPradeshNews #IndianPolitics #RoadWidening"
       },
       "facebook": {
         "title": null,
-        "caption": "मुख्यमंत्री मोहन यादव के घर पर चलेगा बुलडोजर! 🚜\n\nउज्जैन में सड़क चौड़ीकरण का काम तेजी से चल रहा है। इस दौरान प्रशासन के नियमों के दायरे में खुद सीएम मोहन यादव का पैतृक मकान भी आ गया है, जिसका एक हिस्सा अब हटाया जाएगा। \n\nएक तरफ जहां लोग इसे प्रशासन की निष्पक्षता मान रहे हैं, वहीं इस बड़े फैसले पर आपकी क्या राय है? कमेंट में जरूर बताएं।\n\n#CMMohanYadav #UjjainNews #BulldozerAction #MadhyaPradeshNews #RoadWidening"
+        "caption": "मुख्यमंत्री ने खुद तोड़ा अपना ही पैतृक घर! 😲\n\nउज्जैन में विकास कार्यों के दौरान जब सड़क चौड़ीकरण की बात आई, तो सीएम मोहन यादव के पुश्तैनी मकान का एक हिस्सा रास्ते में आ रहा था। आम जनता के लिए मिसाल पेश करते हुए उन्होंने बिना किसी वीआईपी रोड़े के खुद अपना घर तोड़ने का फैसला लिया।\n\nजनता के लिए उठाया गया यह कदम वाकई हैरान करने वाला है। पूरी कहानी देखें और अपनी राय कमेंट में साझा करें।\n\n#MohanYadav #UjjainNews #MadhyaPradeshNews #IndianPolitics #RoadWidening"
       },
       "hashtags": [
-        "CMMohanYadav",
+        "MohanYadav",
         "UjjainNews",
-        "BulldozerAction",
         "MadhyaPradeshNews",
+        "IndianPolitics",
         "RoadWidening"
       ]
     },
-    "audio_path": "audio/cm_mohan_yadav_demolishes_own_ancestral_home.wav",
-    "audio_duration_sec": 27.81
+    "audio_path": "audio/mp_cm_mohan_yadav_demolishes_ancestral_home.wav",
+    "audio_duration_sec": 30.2
   },
   {
-    "topic_label": "south_africa_mass_shootings_27_dead",
-    "virality_score": 7,
-    "reason": "Horrific mass shooting incidents across two major cities in South Africa leave 27 people dead.",
+    "topic_label": "faridabad_3_year_child_borewell_death",
+    "virality_score": 8,
+    "reason": "Tragic borewell rescue operation of a 3-year-old child grips national emotional attention.",
     "region": "india",
-    "headline": "साउथ अफ्रीका में &#039;खूनी वीकेंड&#039;, अंधाधुंध फायरिंग में 27 लोगों की मौत",
-    "source_summary": "साउथ अफ्रीका में अंधाधुंध फायरिंग के बाद 27 लोगों की मौत की जानकारी मिली है. जोहान्सबर्ग में बंदूकधारियों ने फायरिंग कर 17 लोगों की जान ले ली, जबकि केपटाउन में 10 लोग मारे गए.",
-    "source_url": "https://www.aajtak.in/world/story/south-africa-cape-town-johannesburg-mass-shooting-attack-ntc-amkr-dskc-2654564-2026-09-27?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-27T16:15:44+05:30",
-    "hook": "साउथ अफ्रीका में खूनी वीकेंड! अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत!",
-    "script_hi": "साउथ अफ्रीका में खूनी वीकेंड के दौरान हुई अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत हो गई है। जोहान्सबर्ग में बंदूकधारियों ने फायरिंग कर सत्रह लोगों की जान ले ली, जबकि केपटाउन में दस लोग मारे गए। प्रशासन मामले की जांच कर रहा है।",
-    "tts_text_hi": "साउथ अफ्रीका में खूनी वीकेंड के दौरान हुई अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत हो गई है। जोहान्सबर्ग में बंदूकधारियों ने फायरिंग कर सत्रह लोगों की जान ले ली, जबकि केपटाउन में दस लोग मारे गए। प्रशासन मामले की जांच कर रहा है।",
-    "title": "साउथ अफ्रीका में अंधाधुंध फायरिंग, सत्ताईस की मौत",
-    "caption": "साउथ अफ्रीका के जोहान्सबर्ग और केपटाउन में अंधाधुंध फायरिंग से सत्ताईस लोगों की मौत, खूनी वीकेंड से फैली दहशत।",
+    "headline": "फरीदाबाद में 300 फीट गहरे बोरवेल से निकली नेहा जिंदगी की जंग हारी, 10 घंटे चला रेस्क्यू ऑपरेशन",
+    "source_summary": "फरीदाबाद के सीही गांव में खेलते समय 3 साल की एक बच्ची बोरवेल में गिर गई. पुलिस की टीम ने 10 घंटे की मशक्कत के बाद बच्ची को बोरवेल से निकाला गया, लेकिन तब तक बच्‍ची दम तोड़ चुकी थी.",
+    "source_url": "https://ndtv.in/haryana/neha-rescued-from-a-300-foot-deep-borewell-in-faridabad-lost-battle-for-her-life-rescue-operation-lasted-10-hours-12107183#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 28 Sep 2026 09:01:58 +0530",
+    "hook": "फरीदाबाद में बोरवेल में गिरी तीन साल की मासूम, दस घंटे चले रेस्क्यू के बाद भी नहीं बची जान!",
+    "script_hi": "हरियाणा के फरीदाबाद के सीही गांव में एक दर्दनाक हादसा हुआ। खेलते समय तीन साल की बच्ची नेहा तीन सौ फीट गहरे बोरवेल में गिर गई। दस घंटे तक चले रेस्क्यू ऑपरेशन के बाद बच्ची को बाहर निकाला गया, लेकिन तब तक उसकी मौत हो चुकी थी।",
+    "tts_text_hi": "हरियाणा के फरीदाबाद के सीही गांव में एक दर्दनाक हादसा हुआ। खेलते समय तीन साल की बच्ची नेहा तीन सौ फीट गहरे बोरवेल में गिर गई। दस घंटे तक चले रेस्क्यू ऑपरेशन के बाद बच्ची को बाहर निकाला गया, लेकिन तब तक उसकी मौत हो चुकी थी।",
+    "title": "फरीदाबाद में बोरवेल में गिरी बच्ची की मौत",
+    "caption": "फरीदाबाद के सीही गांव में बोरवेल में गिरी तीन साल की बच्ची नेहा की दस घंटे के रेस्क्यू के बाद मौत हो गई।",
     "hashtags": [
-      "SouthAfrica",
-      "Johannesburg",
-      "CapeTown",
-      "Firing",
+      "Faridabad",
+      "BorewellRescue",
+      "HaryanaNews",
       "BreakingNews",
-      "WorldNews"
+      "HindiNews"
     ],
     "visual_queries": [
-      "South Africa street scene",
-      "Johannesburg city architecture",
-      "police investigation crime scene",
-      "Cape Town cityscape"
+      "Indian village street India",
+      "deep borewell hole India",
+      "rescue operation crowd India",
+      "ambulance vehicle India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28,
+    "est_duration_sec": 26,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/16070107/16070107-hd_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "police investigation crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "rescue operation crowd India",
+        "credit": "Ankit",
+        "source_duration_sec": 40,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13408587/pexels-photo-13408587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/37467257/pexels-photo-37467257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "South Africa street scene",
-        "credit": "Yiğit  KARAALİOĞLU",
+        "query": "Indian village street India",
+        "credit": "DARKMODE CINEMA",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38839699/pexels-photo-38839699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Johannesburg city architecture",
-        "credit": "Tshegofatjo  Manabile",
+        "query": "rescue operation India",
+        "credit": "Arto Suraj",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36290127/pexels-photo-36290127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Cape Town cityscape",
-        "credit": "Israel Luvhimbi",
+        "query": "ambulance vehicle India",
+        "credit": "Chauhan Dixant",
         "duration_sec": 5
       }
     ],
@@ -574,26 +365,160 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "साउथ अफ्रीका में खूनी वीकेंड! अंधाधुंध फायरिंग में 27 की मौत 🚨",
-        "caption": "साउथ अफ्रीका में खूनी वीकेंड! अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत!\n\nवीकेंड की रात अचानक गोलियों की तड़तड़ाहट से दहल उठा इलाका। अलग-अलग जगहों पर हुई ताबड़तोड़ फायरिंग ने हर किसी को सहमा दिया है।\n\nआखिर इस खूनी तांडव के पीछे किसकी साजिश थी? पूरी कहानी जानें वीडियो में।\n\n#SouthAfricaNews #MassShooting #BreakingNews #WorldNews #CrimeNews"
+        "title": "फरीदाबाद: 300 फीट गहरे बोरवेल से निकली नेहा हारी जिंदगी की जंग 🚨",
+        "caption": "दस घंटे चले रेस्क्यू ऑपरेशन के बाद भी नहीं बचाई जा सकी तीन साल की मासूम नेहा की जान। 💔\n\nफरीदाबाद में 300 फीट गहरे बोरवेल में गिरने के बाद से लगातार राहत और बचाव कार्य चल रहा था, लेकिन तमाम कोशिशों के बावजूद उसे बचाया नहीं जा सका।\n\nपूरी कहानी देखें और अपनी राय दें।\n\n#FaridabadNews #BorewellRescue #BreakingNewsHindi #Heartbreaking #Faridabad"
       },
       "instagram": {
         "title": null,
-        "caption": "साउथ अफ्रीका में खूनी वीकेंड! अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत! 💔\n\nअचानक गोलियों की आवाज से गूंज उठा पूरा इलाका। इस अंधाधुंध फायरिंग ने कई घरों के चिराग बुझा दिए हैं। \n\nये दिल दहला देने वाली घटना कैसे हुई? शेयर करके दूसरों को भी बताएं।\n\n#SouthAfricaNews #MassShooting #BreakingNews #WorldNews #CrimeNews"
+        "caption": "दस घंटे चले रेस्क्यू के बाद भी नहीं बची मासूम नेहा की जान! 💔\n\nफरीदाबाद में 300 फीट गहरे बोरवेल में गिरी बच्ची को निकालने के लिए प्रशासन ने पूरी ताकत झोंक दी थी, पर किस्मत को कुछ और ही मंजूर था।\n\nअपनों का ध्यान रखें और ऐसे हादसों पर सतर्क रहें।\n\n#FaridabadNews #BorewellRescue #BreakingNewsHindi #Heartbreaking #Faridabad"
       },
       "facebook": {
         "title": null,
-        "caption": "साउथ अफ्रीका में खूनी वीकेंड! अंधाधुंध फायरिंग में सत्ताईस लोगों की मौत!\n\nछुट्टी का दिन था लेकिन गोलियों की गड़गड़ाहट ने सब कुछ बदल दिया। ताबड़तोड़ गोलियां बरसाने वाले कौन थे और क्यों इस खूनी खेल को अंजाम दिया गया, इसकी पूरी सच्चाई जानकर आपके भी रोंगटे खड़े हो जाएंगे।\n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#SouthAfricaNews #MassShooting #BreakingNews #WorldNews #CrimeNews"
+        "caption": "दस घंटे चले रेस्क्यू के बाद भी नहीं बची मासूम नेहा की जान!\n\nफरीदाबाद में 300 फीट गहरे बोरवेल में गिरी तीन साल की बच्ची को बचाने के लिए एनडीआरएफ और स्थानीय प्रशासन ने रातभर संघर्ष किया। हर कोई उसकी सलामती की दुआ मांग रहा था, लेकिन आखिरकार जिंदगी की यह जंग हार गई। 💔\n\nइस दुखद घटना पर आपकी क्या राय है? कमेंट में बताएं।\n\n#FaridabadNews #BorewellRescue #BreakingNewsHindi #Heartbreaking #Faridabad"
       },
       "hashtags": [
-        "SouthAfricaNews",
-        "MassShooting",
-        "BreakingNews",
-        "WorldNews",
-        "CrimeNews"
+        "FaridabadNews",
+        "BorewellRescue",
+        "BreakingNewsHindi",
+        "Heartbreaking",
+        "Faridabad"
       ]
     },
-    "audio_path": "audio/south_africa_mass_shootings_27_dead.wav",
-    "audio_duration_sec": 16.71
+    "audio_path": "audio/faridabad_3_year_child_borewell_death.wav",
+    "audio_duration_sec": 17.3
+  },
+  {
+    "topic_label": "lpu_phagwara_campus_violent_protest",
+    "virality_score": 8,
+    "reason": "Major student unrest, arson, and police clash at Lovely Professional University over viral rumors.",
+    "region": "india",
+    "headline": "LPU कैंपस में फिर बवाल: हिंसक छात्रों ने वाहनों में लगाई आग, 10 दिन के लिए यूनिवर्सिटी बंद, परीक्षा भी टली",
+    "source_summary": "पंजाब के फगवाड़ा स्थित लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से रेप की अफवाह को लेकर छात्रों का प्रदर्शन हिंसक हो गया. छात्रों और पुलिस के बीच झड़प में कई पुलिसकर्मी घायल हुए, जबकि सरकारी वाहनों को नुकसान पहुंचाया गया. देर रात तक विश्वविद्यालय के बाहर भारी पुलिस बल तैनात रहा.",
+    "source_url": "https://ndtv.in/india/lovely-professional-university-protest-turns-violent-students-police-clash-phagwara-punjab-12106353#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Mon, 28 Sep 2026 00:24:03 +0530",
+    "hook": "लवली प्रोफेशनल यूनिवर्सिटी में भड़का हिंसा का संग्राम",
+    "script_hi": "पंजाब के फगवाड़ा स्थित लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से दुष्कर्म की अफवाह के बाद छात्रों का प्रदर्शन हिंसक हो गया। छात्रों और पुलिस के बीच झड़प में कई पुलिसकर्मी घायल हो गए और सरकारी वाहनों को आग लगा दी गई। हालात को देखते हुए यूनिवर्सिटी को दस दिन के लिए बंद कर दिया गया है और परीक्षाएं भी टाल दी गई हैं।",
+    "tts_text_hi": "पंजाब के फगवाड़ा स्थित लवली प्रोफेशनल यूनिवर्सिटी में छात्रा से दुष्कर्म की अफवाह के बाद छात्रों का प्रदर्शन हिंसक हो गया। छात्रों और पुलिस के बीच झड़प में कई पुलिसकर्मी घायल हो गए और सरकारी वाहनों को आग लगा दी गई। हालात को देखते हुए यूनिवर्सिटी को दस दिन के लिए बंद कर दिया गया है और परीक्षाएं भी टाल दी गई हैं।",
+    "title": "LPU कैंपस में हिंसक प्रदर्शन और आगजनी",
+    "caption": "पंजाब के फगवाड़ा स्थित लवली प्रोफेशनल यूनिवर्सिटी में अफवाह के बाद हिंसक प्रदर्शन।",
+    "hashtags": [
+      "LPU",
+      "PunjabNews",
+      "Phagwara",
+      "BreakingNews",
+      "UniversityProtest"
+    ],
+    "visual_queries": [
+      "university campus India",
+      "police force India",
+      "burnt vehicle India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The news touches upon a sensitive allegation involving a minor/student rumor and localized campus unrest in India, requiring a manual review before broadcast.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38550000/pexels-photo-38550000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "university campus India",
+        "credit": "Adityan R",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police force India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12502067/pexels-photo-12502067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "burnt vehicle India",
+        "credit": "Vladyslav Huivyk",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "delhi_minister_parvesh_verma_slap_row",
+    "virality_score": 8,
+    "reason": "Delhi PWD Minister Parvesh Verma caught in a viral slapping controversy during inspection.",
+    "region": "india",
+    "headline": "निरीक्षण के दौरान प्रवेश वर्मा पर थप्पड़ जड़ने का आरोप",
+    "source_summary": "दिल्ली PWD मंत्री प्रवेश वर्मा पर सड़क निरीक्षण के दौरान एक युवक को थप्पड़ मारने का आरोप लगा है। पीड़ित साहेब सिंह का कहना है कि PWD की टीम ने सड़क की स्थिति देखने के लिए उन्हें बुलाया था और सड़क की खराब सतह दिखाने के बाद मंत्री ने कथित तौर पर हाथ उठाया।",
+    "source_url": "https://www.aajtak.in/short-videos/video/delhi-cabinet-minister-pravesh-varma-slapped-pwd-arvind-kejriwal-rekha-gupta-social-media-viral-video-mmtc-2654709-2026-09-27?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-27T19:03:39+05:30",
+    "hook": "दिल्ली में सड़क निरीक्षण के दौरान मंत्री पर थप्पड़ जड़ने का गंभीर आरोप!",
+    "script_hi": "दिल्ली के लोक निर्माण विभाग मंत्री प्रवेश वर्मा पर सड़क निरीक्षण के दौरान एक युवक को थप्पड़ मारने का आरोप लगा है। पीड़ित साहेब सिंह का कहना है कि विभाग की टीम ने उन्हें सड़क की स्थिति दिखाने के लिए बुलाया था। सड़क की खराब सतह दिखाने के बाद मंत्री ने कथित तौर पर उन पर हाथ उठाया।",
+    "tts_text_hi": "दिल्ली के लोक निर्माण विभाग मंत्री प्रवेश वर्मा पर सड़क निरीक्षण के दौरान एक युवक को थप्पड़ मारने का आरोप लगा है। पीड़ित साहेब सिंह का कहना है कि विभाग की टीम ने उन्हें सड़क की स्थिति दिखाने के लिए बुलाया था। सड़क की खराब सतह दिखाने के बाद मंत्री ने कथित तौर पर उन पर हाथ उठाया।",
+    "title": "दिल्ली PWD मंत्री प्रवेश वर्मा पर सड़क निरीक्षण के दौरान थप्पड़ मारने का आरोप",
+    "caption": "दिल्ली में सड़क निरीक्षण के दौरान PWD मंत्री प्रवेश वर्मा पर एक युवक को थप्पड़ मारने का आरोप लगा है। पीड़ित ने की कार्रवाई की मांग।",
+    "hashtags": [
+      "DelhiNews",
+      "ParveshVerma",
+      "DelhiPolice",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Delhi street India",
+      "Indian politician press conference",
+      "angry Indian citizen street"
+    ],
+    "named_person": "Parvesh Verma",
+    "named_person_hi": "प्रवेश वर्मा",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "An unproven criminal allegation of assault against a specific named individual who has not been convicted.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "प्रवेश वर्मा",
+        "source": "fallback",
+        "query": "Parvesh Verma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "Indian politician press conference",
+        "credit": "Mikhail Nilov",
+        "source_duration_sec": 25,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Delhi street India",
+        "credit": "Roman Saienko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16250082/pexels-photo-16250082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "angry Indian citizen street",
+        "credit": "A T Prakash",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "pending_review"
   }
 ]
