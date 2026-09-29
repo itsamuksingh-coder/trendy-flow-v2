@@ -1,10 +1,8 @@
-ready_labels: ['cisf_camp_katha_firing_four_deaths', 'epfo_wage_ceiling_25000_salary_impact', 'fastag_annual_pass_one_crore_users', 'hardoi_woman_shaves_third_husband_head', 'jackie_chan_death_rumour_debunked', 'new_york_times_executive_shot_by_inlaws', 'pok_mandhol_rally_loc_removal_demand']
+ready_labels: ['bhind_python_swallows_jackal', 'cisf_jawan_shoots_colleagues_kathua_jk', 'jamshedpur_bank_heist_gold_robbery', 'meerut_blue_drum_murder_case_verdict', 'pojk_mandhol_rally_loc_removal_demand']
 
-cisf_camp_katha_firing_four_deaths: SUCCESS -> video_path=videos/cisf_camp_katha_firing_four_deaths.mp4 dur=38.255215
-pok_mandhol_rally_loc_removal_demand: SUCCESS -> video_path=videos/pok_mandhol_rally_loc_removal_demand.mp4 dur=33.889887
-hardoi_woman_shaves_third_husband_head: SUCCESS -> video_path=videos/hardoi_woman_shaves_third_husband_head.mp4 dur=38.255215
-land_rover_bull_accident_two_deaths: SKIPPED (not in ready set)
-new_york_times_executive_shot_by_inlaws: SUCCESS -> video_path=videos/new_york_times_executive_shot_by_inlaws.mp4 dur=33.611224
-epfo_wage_ceiling_25000_salary_impact: SUCCESS -> video_path=videos/epfo_wage_ceiling_25000_salary_impact.mp4 dur=32.556553
-fastag_annual_pass_one_crore_users: SUCCESS -> video_path=videos/fastag_annual_pass_one_crore_users.mp4 dur=23.441224
-jackie_chan_death_rumour_debunked: SUCCESS -> video_path=videos/jackie_chan_death_rumour_debunked.mp4 dur=18.189887
+cisf_jawan_shoots_colleagues_kathua_jk: SUCCESS -> video_path=videos/cisf_jawan_shoots_colleagues_kathua_jk.mp4 dur=31.789887
+jamshedpur_bank_heist_gold_robbery: SUCCESS -> video_path=videos/jamshedpur_bank_heist_gold_robbery.mp4 dur=35.556553
+meerut_blue_drum_murder_case_verdict: SUCCESS -> video_path=videos/meerut_blue_drum_murder_case_verdict.mp4 dur=27.52322
+varanasi_bahubali_machine_stuck_road: SKIPPED (not in ready set)
+pojk_mandhol_rally_loc_removal_demand: SUCCESS -> video_path=videos/pojk_mandhol_rally_loc_removal_demand.mp4 dur=29.548231
+bhind_python_swallows_jackal: SUCCESS -> video_path=videos/bhind_python_swallows_jackal.mp4 dur=24.856553
