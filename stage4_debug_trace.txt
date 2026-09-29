@@ -1,10 +1,10 @@
-ready_labels: ['agra_lucknow_expressway_suv_collision_dfo_dead', 'asian_games_womens_4x400m_relay_gold', 'coimbatore_cop_car_roof_gutkha_smuggling', 'electronics_price_hike_tv_ac_fridge', 'jamshedpur_bank_heist_23kg_gold', 'nepal_landslide_flooding_up_bihar_alert']
+ready_labels: ['cisf_camp_katha_firing_four_deaths', 'epfo_wage_ceiling_25000_salary_impact', 'fastag_annual_pass_one_crore_users', 'hardoi_woman_shaves_third_husband_head', 'jackie_chan_death_rumour_debunked', 'new_york_times_executive_shot_by_inlaws', 'pok_mandhol_rally_loc_removal_demand']
 
-asian_games_womens_4x400m_relay_gold: SUCCESS -> video_path=videos/asian_games_womens_4x400m_relay_gold.mp4 dur=30.556553
-land_rover_bull_accident_video_viral: SKIPPED (not in ready set)
-mahabali_truck_308_wheels_varanasi: SKIPPED (not in ready set)
-jamshedpur_bank_heist_23kg_gold: SUCCESS -> video_path=videos/jamshedpur_bank_heist_23kg_gold.mp4 dur=33.681224
-coimbatore_cop_car_roof_gutkha_smuggling: SUCCESS -> video_path=videos/coimbatore_cop_car_roof_gutkha_smuggling.mp4 dur=33.089887
-agra_lucknow_expressway_suv_collision_dfo_dead: SUCCESS -> video_path=videos/agra_lucknow_expressway_suv_collision_dfo_dead.mp4 dur=33.62322
-nepal_landslide_flooding_up_bihar_alert: SUCCESS -> video_path=videos/nepal_landslide_flooding_up_bihar_alert.mp4 dur=35.190227
-electronics_price_hike_tv_ac_fridge: SUCCESS -> video_path=videos/electronics_price_hike_tv_ac_fridge.mp4 dur=31.52322
+cisf_camp_katha_firing_four_deaths: SUCCESS -> video_path=videos/cisf_camp_katha_firing_four_deaths.mp4 dur=38.255215
+pok_mandhol_rally_loc_removal_demand: SUCCESS -> video_path=videos/pok_mandhol_rally_loc_removal_demand.mp4 dur=33.889887
+hardoi_woman_shaves_third_husband_head: SUCCESS -> video_path=videos/hardoi_woman_shaves_third_husband_head.mp4 dur=38.255215
+land_rover_bull_accident_two_deaths: SKIPPED (not in ready set)
+new_york_times_executive_shot_by_inlaws: SUCCESS -> video_path=videos/new_york_times_executive_shot_by_inlaws.mp4 dur=33.611224
+epfo_wage_ceiling_25000_salary_impact: SUCCESS -> video_path=videos/epfo_wage_ceiling_25000_salary_impact.mp4 dur=32.556553
+fastag_annual_pass_one_crore_users: SUCCESS -> video_path=videos/fastag_annual_pass_one_crore_users.mp4 dur=23.441224
+jackie_chan_death_rumour_debunked: SUCCESS -> video_path=videos/jackie_chan_death_rumour_debunked.mp4 dur=18.189887
