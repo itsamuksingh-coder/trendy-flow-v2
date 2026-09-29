@@ -1,8 +1,10 @@
-ready_labels: ['faridabad_3_year_child_borewell_death', 'mp_cm_mohan_yadav_demolishes_ancestral_home', 'pok_25000_people_rally_loc_removal', 'virat_kohli_15000_odi_runs_record']
+ready_labels: ['agra_lucknow_expressway_suv_collision_dfo_dead', 'asian_games_womens_4x400m_relay_gold', 'coimbatore_cop_car_roof_gutkha_smuggling', 'electronics_price_hike_tv_ac_fridge', 'jamshedpur_bank_heist_23kg_gold', 'nepal_landslide_flooding_up_bihar_alert']
 
-pok_25000_people_rally_loc_removal: SUCCESS -> video_path=videos/pok_25000_people_rally_loc_removal.mp4 dur=23.356553
-virat_kohli_15000_odi_runs_record: SUCCESS -> video_path=videos/virat_kohli_15000_odi_runs_record.mp4 dur=37.419229
-mp_cm_mohan_yadav_demolishes_ancestral_home: SUCCESS -> video_path=videos/mp_cm_mohan_yadav_demolishes_ancestral_home.mp4 dur=38.12322
-faridabad_3_year_child_borewell_death: SUCCESS -> video_path=videos/faridabad_3_year_child_borewell_death.mp4 dur=25.345215
-lpu_phagwara_campus_violent_protest: SKIPPED (not in ready set)
-delhi_minister_parvesh_verma_slap_row: SKIPPED (not in ready set)
+asian_games_womens_4x400m_relay_gold: SUCCESS -> video_path=videos/asian_games_womens_4x400m_relay_gold.mp4 dur=30.556553
+land_rover_bull_accident_video_viral: SKIPPED (not in ready set)
+mahabali_truck_308_wheels_varanasi: SKIPPED (not in ready set)
+jamshedpur_bank_heist_23kg_gold: SUCCESS -> video_path=videos/jamshedpur_bank_heist_23kg_gold.mp4 dur=33.681224
+coimbatore_cop_car_roof_gutkha_smuggling: SUCCESS -> video_path=videos/coimbatore_cop_car_roof_gutkha_smuggling.mp4 dur=33.089887
+agra_lucknow_expressway_suv_collision_dfo_dead: SUCCESS -> video_path=videos/agra_lucknow_expressway_suv_collision_dfo_dead.mp4 dur=33.62322
+nepal_landslide_flooding_up_bihar_alert: SUCCESS -> video_path=videos/nepal_landslide_flooding_up_bihar_alert.mp4 dur=35.190227
+electronics_price_hike_tv_ac_fridge: SUCCESS -> video_path=videos/electronics_price_hike_tv_ac_fridge.mp4 dur=31.52322
