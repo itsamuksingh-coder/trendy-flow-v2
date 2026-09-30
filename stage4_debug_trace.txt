@@ -1,8 +1,9 @@
-ready_labels: ['india_west_indies_record_run_chase_gill_double_century', 'indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai', 'lalbaugcha_raja_1_kg_gold_brick_offerings', 'meerut_blue_drum_murder_case_verdict_muskan_sahil', 'rajkot_vegetable_vendor_prints_fake_notes_telegram']
+ready_labels: ['chinese_ai_tool_bioweapons_risk_global', 'india_bloc_protest_against_cec_gyanesh_kumar', 'indian_pilot_smit_machchhar_stops_israel_flight_hijack', 'october_1_rule_changes_lpg_puc_atm', 'shubman_gill_double_century_rohit_sharma_record']
 
-india_west_indies_record_run_chase_gill_double_century: SUCCESS -> video_path=videos/india_west_indies_record_run_chase_gill_double_century.mp4 dur=35.144218
-indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai: SUCCESS -> video_path=videos/indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai.mp4 dur=27.876213
-meerut_blue_drum_murder_case_verdict_muskan_sahil: SUCCESS -> video_path=videos/meerut_blue_drum_murder_case_verdict_muskan_sahil.mp4 dur=24.689887
-hyderabad_drunk_software_engineer_runs_over_pedestrians: SKIPPED (not in ready set)
-lalbaugcha_raja_1_kg_gold_brick_offerings: SUCCESS -> video_path=videos/lalbaugcha_raja_1_kg_gold_brick_offerings.mp4 dur=37.089887
-rajkot_vegetable_vendor_prints_fake_notes_telegram: SUCCESS -> video_path=videos/rajkot_vegetable_vendor_prints_fake_notes_telegram.mp4 dur=24.989887
+indian_pilot_smit_machchhar_stops_israel_flight_hijack: SUCCESS -> video_path=videos/indian_pilot_smit_machchhar_stops_israel_flight_hijack.mp4 dur=33.541224
+shubman_gill_double_century_rohit_sharma_record: SUCCESS -> video_path=videos/shubman_gill_double_century_rohit_sharma_record.mp4 dur=30.589887
+meerut_blue_drum_murder_muskan_sahil_guilty: SKIPPED (not in ready set)
+october_1_rule_changes_lpg_puc_atm: SUCCESS -> video_path=videos/october_1_rule_changes_lpg_puc_atm.mp4 dur=23.156553
+hyderabad_drunk_software_engineer_runs_over_seven: SKIPPED (not in ready set)
+india_bloc_protest_against_cec_gyanesh_kumar: SUCCESS -> video_path=videos/india_bloc_protest_against_cec_gyanesh_kumar.mp4 dur=22.42322
+chinese_ai_tool_bioweapons_risk_global: SUCCESS -> video_path=videos/chinese_ai_tool_bioweapons_risk_global.mp4 dur=23.42322
