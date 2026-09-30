@@ -1,285 +1,35 @@
 [
   {
-    "topic_label": "india_west_indies_record_run_chase_gill_double_century",
+    "topic_label": "indian_pilot_smit_machchhar_stops_israel_flight_hijack",
     "virality_score": 10,
-    "reason": "Shubman Gill's record double century and India's historic 400+ run chase against West Indies have massive cricket virality.",
-    "region": "india",
-    "headline": "406 का टारगेट, फिर भी नहीं मानी हार... गिल-रोहित ने मचाई तबाही, रचा इतिहास",
-    "source_summary": "गुवाहाटी में भारत ने वेस्टइंडीज के 405 रन के विशाल लक्ष्य को 43.3 ओवर में 2 विकेट खोकर हासिल कर लिया. कप्तान शुभमन गिल ने 117 गेंदों में रिकॉर्ड डबल सेंचुरी जड़ी, जबकि रोहित शर्मा ने 101 रन बनाए. दोनों ने पहले विकेट के लिए 255 रन जोड़े. इस जीत के साथ भारत ने तीन मैचों की सीरीज में 2-0 की अजेय बढ़त बना ली.",
-    "source_url": "https://www.aajtak.in/sports/cricket/story/shubman-gill-fastest-odi-double-century-rohit-sharma-101-ind-vs-wi-2nd-odi-2026-tspok-dskc-2657770-2026-09-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-30T23:24:35+05:30",
-    "hook": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!",
-    "script_hi": "गुवाहाटी में भारत ने वेस्टइंडीज के चार सौ पांच रन के विशाल लक्ष्य को तैंतालीस दशमलव तीन ओवर में दो विकेट खोकर हासिल कर लिया। कप्तान शुभमन गिल ने एक सौ सत्रह गेंदों में रिकॉर्ड डबल सेंचुरी जड़ी, जबकि रोहित शर्मा ने एक सौ एक रन बनाए। दोनों ने पहले विकेट के लिए दो सौ पचपन रन जोड़े। इस जीत के साथ भारत ने तीन मैचों की सीरीज में दो-शून्य की अजेय बढ़त बना ली।",
-    "tts_text_hi": "गुवाहाटी में भारत ने वेस्टइंडीज के चार सौ पांच रन के विशाल लक्ष्य को तैंतालीस दशमलव तीन ओवर में दो विकेट खोकर हासिल कर लिया। कप्तान शुभमन गिल ने एक सौ सत्रह गेंदों में रिकॉर्ड डबल सेंचुरी जड़ी, जबकि रोहित शर्मा ने एक सौ एक रन बनाए। दोनों ने पहले विकेट के लिए दो सौ पचपन रन जोड़े। इस जीत के साथ भारत ने तीन मैचों की सीरीज में दो-शून्य की अजेय बढ़त बना ली।",
-    "title": "गुवाहाटी में भारत की ऐतिहासिक जीत, गिल का दोहरा शतक",
-    "caption": "भारत ने गुवाहाटी में वेस्टइंडीज के खिलाफ रचा इतिहास, शुभमन गिल की डबल सेंचुरी और रोहित शर्मा की शानदार पारी के दम पर चार सौ छह रन का लक्ष्य आसानी से हासिल किया।",
-    "hashtags": [
-      "TeamIndia",
-      "ShubmanGill",
-      "RohitSharma",
-      "CricketNews",
-      "IndVsWi",
-      "Guwahati"
-    ],
-    "visual_queries": [
-      "Indian cricket stadium India",
-      "Indian cricket captain India",
-      "cricket opening batsman India",
-      "cricket victory celebration India"
-    ],
-    "named_person": "Shubman Gill",
-    "named_person_hi": "शुभमन गिल",
-    "secondary_persons": [
-      "Rohit Sharma"
-    ],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_bb599d6dd8.jpg",
-        "source": "wikimedia",
-        "query": "Shubman Gill",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/person_fe6bc5c722.jpg",
-        "source": "wikimedia",
-        "query": "Rohit Sharma",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket match stadium celebration",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket opening batsman India",
-        "credit": "Sandeep Singh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket victory celebration India",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "406 रन का टारगेट और ऐतिहासिक जीत! गिल-रोहित की तबाही 🇮🇳",
-        "caption": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!\n\nशुभमन गिल का तूफानी दोहरा शतक और रोहित शर्मा का साथ, क्रिकेट के मैदान पर जो दिखा उसे देखकर दुनिया हैरान रह गई। असंभव लगने वाले लक्ष्य को इतनी आसानी से हासिल कर नया रिकॉर्ड बना दिया।\n\nपूरी कहानी देखें और बताएं, इस पारी को आप ऑल-टाइम बेस्ट में कहां रखेंगे? 🏏\n\n#ShubmanGill #RohitSharma #TeamIndia #GuwahatiMatch #CricketRecords"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!\n\nगिल के दोहरे शतक और रोहित की आंधी ने नामुमकिन लक्ष्य को भी बौना साबित कर दिया। \n\nये पारी आपको कैसी लगी? कॉमेंट्स में बताओ 👇\n\n#ShubmanGill #RohitSharma #TeamIndia #GuwahatiMatch #CricketRecords"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!\n\nगुवाहाटी के मैदान पर जो हुआ उसने हर क्रिकेट फैन के होश उड़ा दिए। शुभमन गिल का दोहरा शतक और रोहित शर्मा की विस्फोटक पारी ने मिलकर रिकॉर्ड्स की किताबों को ही बदल डाला। जब स्कोरबोर्ड पर 406 रन टंगे हों, तो जीत की उम्मीद छोड़ दी जाती है - लेकिन टीम इंडिया ने कुछ और ही सोच रखा था।\n\nपूरी कहानी देखिए और बताइए, आपके हिसाब से मैच का टर्निंग पॉइंट क्या था?\n\n#ShubmanGill #RohitSharma #TeamIndia #GuwahatiMatch #CricketRecords"
-      },
-      "hashtags": [
-        "ShubmanGill",
-        "RohitSharma",
-        "TeamIndia",
-        "GuwahatiMatch",
-        "CricketRecords"
-      ]
-    },
-    "audio_path": "audio/india_west_indies_record_run_chase_gill_double_century.wav",
-    "audio_duration_sec": 27.1,
-    "video_path": "videos/india_west_indies_record_run_chase_gill_double_century.mp4",
-    "video_duration_sec": 35.14,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-30T18:57:26.628786+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd5bb038e7cc3841b16bb0",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!\n\nगुवाहाटी के मैदान पर जो हुआ उसने हर क्रिकेट फैन के होश उड़ा दिए। शुभमन गिल का दोहरा शतक और रोहित शर्मा की विस्फोटक पारी ने मिलकर रिकॉर्ड्स की किताबों को ही बदल डाला। जब स्कोरबोर्ड पर 406 रन टंगे हों, तो जीत की उम्मीद छोड़ दी जाती है - लेकिन टीम इंडिया ने कुछ और ही सोच रखा था।\n\nपूरी कहानी देखिए और बताइए, आपके हिसाब से मैच का टर्निंग पॉइंट क्या था?\n\n#ShubmanGill #RohitSharma #TeamIndia #GuwahatiMatch #CricketRecords",
-            "mediaItems": [
-              {
-                "_id": "6abd5bb038e7cc3841b16bb2",
-                "url": "https://media.zernio.com/media/1790794669762_hyp12g5h_india_west_indies_record_run_chase_gill_double_century.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T18:57:51.471Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T18:57:52.490Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-09-30T18:57:52.440Z",
-            "updatedAt": "2026-09-30T18:57:58.775Z",
-            "platforms": [
-              {
-                "_id": "6abd5bb038e7cc3841b16baf",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T18:57:51.471Z",
-                "status": "published",
-                "publishedAt": "2026-09-30T18:57:58.637Z",
-                "platformPostId": "1598805518400408",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1598805518400408",
-                "publishAttempts": 0,
-                "contentHash": "a6f4637838ad03bc96596ce70746b27b"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T18:57:58.867744+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd5bd038e7cc3841b16bec",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "चार सौ छह रन का विशाल टारगेट और सिर्फ दो विकेट... भारत ने गुवाहाटी में रचा इतिहास!\n\nगिल के दोहरे शतक और रोहित की आंधी ने नामुमकिन लक्ष्य को भी बौना साबित कर दिया। \n\nये पारी आपको कैसी लगी? कॉमेंट्स में बताओ 👇\n\n#ShubmanGill #RohitSharma #TeamIndia #GuwahatiMatch #CricketRecords",
-            "mediaItems": [
-              {
-                "_id": "6abd5bd038e7cc3841b16bee",
-                "url": "https://media.zernio.com/media/1790794702026_8r14iq3p_india_west_indies_record_run_chase_gill_double_century.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T18:58:22.916Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T18:58:24.142Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-09-30T18:58:24.089Z",
-            "updatedAt": "2026-09-30T18:58:26.353Z",
-            "platforms": [
-              {
-                "_id": "6abd5bd038e7cc3841b16beb",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T18:58:22.916Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "50ea62332bba31b170a92d93ac919a9a"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T18:58:26.639441+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai",
-    "virality_score": 10,
-    "reason": "An Indian captain bravely fights off a co-pilot attempting to sabotage an Israel-bound flight, making global headlines.",
+    "reason": "An Indian pilot heroically thwarted a hijack and stabbing attempt on an Israel-bound flight, gaining international acclaim.",
     "region": "india",
     "headline": "इजरायल जा रहे प्लेन को उड़ा रहे थे भारत के स्मित, जांबाजी से बने हीरो!",
     "source_summary": "इजरायल जा रहे विमान को उड़ा रहे स्मित मछार गुजरात मूल के हैं. स्मित को उनके सह पायलट ने चाकू मारकर कर प्लेन को अपने कब्जे में लेने की कोशिश की है. लेकिन स्मित ने उसके इरादे को नाकाम कर दिया. इजरायल सरकार के अनुसार दूसरा पायलट विमान को क्रैश करवाना चाहता था.",
     "source_url": "https://www.aajtak.in/world/story/flydubai-israel-uae-flight-indian-origin-pliot-smit-machchhar-ntcppl-rpti-2657694-2026-09-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-30T20:10:53+05:30",
-    "hook": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला!",
-    "script_hi": "इजरायल जा रहे विमान को उड़ा रहे गुजरात मूल के भारतीय पायलट स्मित मछार ने अपनी जांबाजी से बड़ा हादसा टाल दिया। सह पायलट ने चाकू मारकर विमान को अपने कब्जे में लेने और क्रैश करने की कोशिश की थी, लेकिन स्मित ने उसके नापाक इरादों को नाकाम कर दिया।",
-    "tts_text_hi": "इजरायल जा रहे विमान को उड़ा रहे गुजरात मूल के भारतीय पायलट स्मित मछार ने अपनी जांबाजी से बड़ा हादसा टाल दिया। सह पायलट ने चाकू मारकर विमान को अपने कब्जे में लेने और क्रैश करने की कोशिश की थी, लेकिन स्मित ने उसके नापाक इरादों को नाकाम कर दिया।",
-    "title": "इजरायल जा रहे प्लेन को उड़ा रहे थे भारत के स्मित",
-    "caption": "इजरायल जा रहे विमान को उड़ा रहे भारतीय पायलट स्मित मछार ने सह पायलट के हमले को नाकाम कर बड़ी टाल दी अनहोनी।",
+    "hook": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान!",
+    "script_hi": "इजरायल जा रहे विमान को उड़ा रहे गुजरात के स्मित मछार ने अपनी जांबाजी से बड़ा हादसा टाल दिया। उड़ान के दौरान सह पायलट ने चाकू से हमला कर प्लेन हाईजैक करने की कोशिश की। लेकिन स्मित ने सूझबूझ से उसके नापाक इरादे नाकाम कर दिए। इजरायल सरकार के मुताबिक सह पायलट विमान को क्रैश करना चाहता था। स्मित की इस बहादुरी पर हर भारतीय को गर्व है।",
+    "tts_text_hi": "इजरायल जा रहे विमान को उड़ा रहे गुजरात के स्मित मछार ने अपनी जांबाजी से बड़ा हादसा टाल दिया। उड़ान के दौरान सह पायलट ने चाकू से हमला कर प्लेन हाईजैक करने की कोशिश की। लेकिन स्मित ने सूझबूझ से उसके नापाक इरादे नाकाम कर दिए। इजरायल सरकार के मुताबिक सह पायलट विमान को क्रैश करना चाहता था। स्मित की इस बहादुरी पर हर भारतीय को गर्व है।",
+    "title": "भारतीय पायलट स्मित की जांबाजी",
+    "caption": "इजरायल जा रहे विमान में को-पायलट ने चाकू से हमला कर प्लेन हाईजैक करने की कोशिश की, जिसे भारतीय मूल के पायलट स्मित मछार ने अपनी सूझबूझ से नाकाम कर दिया।",
     "hashtags": [
-      "#IsraelNews",
-      "#IndianPilot",
-      "#GujaratNews",
-      "#BreakingNews",
-      "#HindiNews"
+      "India",
+      "Israel",
+      "BreakingNews",
+      "HeroicPilot",
+      "GujaratiPride",
+      "NewsShorts",
+      "HindiNews"
     ],
     "visual_queries": [
-      "commercial airplane flight India",
-      "cockpit control panel India",
-      "brave Indian pilot portrait",
-      "airport runway India"
+      "commercial airplane cockpit India",
+      "airplane flight in sky India",
+      "brave pilot portrait India",
+      "airplane landing safely India"
     ],
-    "named_person": "Smith Machar",
+    "named_person": "Smith Machhar",
     "named_person_hi": "स्मित मछार",
     "secondary_persons": [],
     "est_duration_sec": 28,
@@ -290,93 +40,93 @@
         "type": "text_card",
         "text": "स्मित मछार",
         "source": "fallback",
-        "query": "Smith Machar",
+        "query": "Smith Machhar",
         "duration_sec": 4.0
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10419525/10419525-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/17797031/17797031-hd_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "commercial airplane cockpit",
-        "credit": "Osman Başkurt",
-        "source_duration_sec": 7,
-        "duration_sec": 6
+        "query": "brave pilot portrait India",
+        "credit": "Balljinder Singh",
+        "source_duration_sec": 4,
+        "duration_sec": 4
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38746544/pexels-photo-38746544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16572374/pexels-photo-16572374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane flight India",
-        "credit": "Karthick s",
+        "query": "commercial airplane cockpit India",
+        "credit": "Kenneth  Christopher",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8949801/pexels-photo-8949801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31714222/pexels-photo-31714222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cockpit control panel India",
-        "credit": "Darya Sheydel",
+        "query": "airplane flight in sky India",
+        "credit": "Jaison Jacob Samuel",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38652992/pexels-photo-38652992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38865292/pexels-photo-38865292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airport runway India",
+        "query": "airplane landing safely India",
         "credit": "Karthick s",
         "duration_sec": 5
       }
     ],
     "asset_count": 5,
-    "timeline_covered_sec": 25.0,
+    "timeline_covered_sec": 23.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "इजरायल जा रहे विमान में सह-पायलट का खौफनाक हमला! 🇮🇱✈️",
-        "caption": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला! ✈️\n\nजब कॉकपिट के अंदर अचानक जानलेवा हमला हुआ, तब भारतीय पायलट स्मित ने अपनी सूझबूझ और जांबाजी से सैकड़ों यात्रियों की जान बचाई। \n\nपूरी कहानी देखें और बताएं, ऐसी स्थिति में आप क्या करते?\n\n#SmitIndianPilot #IsraelFlightAttack #IndianHeroes #AviationNews #BreakingNews"
+        "title": "भारतीय पायलट स्मित की जांबाजी: इजरायल जा रहे प्लेन में हवा में मची खलबली! ✈️",
+        "caption": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान! 🚨\n\nआसमान में जब विमान किसी खतरे में घिर गया, तब कैप्टन स्मित ने अपनी जान की परवाह किए बिना सूझबूझ से काम लिया। उनकी इस जांबाजी ने सैकड़ों यात्रियों की जिंदगियां बचा लीं और उन्हें आज हर तरफ हीरो कहा जा रहा है।\n\nपूरी कहानी वीडियो में देखें और इस पर आपकी क्या राय है, कमेंट में बताएं।\n\n#IndianPilot #SmitPatel #IsraelFlight #BravePilot #NewsUpdate"
       },
       "instagram": {
         "title": null,
-        "caption": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला! 😱\n\nकॉकपिट के भीतर अचानक शुरू हुई खूनी झड़प के बीच भारतीय पायलट स्मित ने दिखाई ऐसी बहादुरी कि टल गया बड़ा विमान हादसा। \n\nवीडियो पूरा देखें और शेयर करें इस जांबाज की कहानी। ✈️🇮🇱\n\n#SmitIndianPilot #IsraelFlightAttack #IndianHeroes #AviationNews #BreakingNews"
+        "caption": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान! 🚨\n\nआसमान में अचानक आई आफत और फिर भारतीय पायलट स्मित की वह जांबाजी, जिसने पलभर में बड़ा हादसा टाल दिया। \n\nयह वीडियो देखकर आप भी गर्व महसूस करेंगे। शेयर करें और अपनी राय दें! 👇\n\n#IndianPilot #SmitPatel #IsraelFlight #BravePilot #NewsUpdate"
       },
       "facebook": {
         "title": null,
-        "caption": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला! 🚨\n\nआसमान में उड़ते प्लेन के अंदर जब मौत सामने खड़ी थी, तब भारत के स्मित ने अपनी जान की परवाह किए बिना जो किया, उसने सबको हैरान कर दिया। उनकी इस जांबाजी ने एक बड़े हादसे को टाल दिया और आज उन्हें पूरी दुनिया हीरो मान रही है।\n\nपूरी घटना जानिए इस वीडियो में। ✈️🇮🇱\n\n#SmitIndianPilot #IsraelFlightAttack #IndianHeroes #AviationNews #BreakingNews"
+        "caption": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान! 🚨\n\nजब आसमान में संकट गहराया और हर कोई घबरा गया, तब भारतीय पायलट स्मित ने अपनी असाधारण सूझबूझ और बहादुरी का परिचय दिया। उनकी इस एक गलती न सुधारने वाली फुर्ती ने सैकड़ों लोगों की जान बचा ली।\n\nपूरी घटना के बारे में जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया साझा करें।\n\n#IndianPilot #SmitPatel #IsraelFlight #BravePilot #NewsUpdate"
       },
       "hashtags": [
-        "SmitIndianPilot",
-        "IsraelFlightAttack",
-        "IndianHeroes",
-        "AviationNews",
-        "BreakingNews"
+        "IndianPilot",
+        "SmitPatel",
+        "IsraelFlight",
+        "BravePilot",
+        "NewsUpdate"
       ]
     },
-    "audio_path": "audio/indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai.wav",
-    "audio_duration_sec": 19.83,
-    "video_path": "videos/indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai.mp4",
-    "video_duration_sec": 27.88,
+    "audio_path": "audio/indian_pilot_smit_machchhar_stops_israel_flight_hijack.wav",
+    "audio_duration_sec": 25.5,
+    "video_path": "videos/indian_pilot_smit_machchhar_stops_israel_flight_hijack.mp4",
+    "video_duration_sec": 33.54,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-30T19:03:53.794730+00:00"
+        "attempted_at": "2026-09-30T20:31:05.150670+00:00"
       },
       "facebook": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abd5d3664ddaf35ddaed846",
+            "_id": "6abd71a0142a329e55e1bfaa",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला! 🚨\n\nआसमान में उड़ते प्लेन के अंदर जब मौत सामने खड़ी थी, तब भारत के स्मित ने अपनी जान की परवाह किए बिना जो किया, उसने सबको हैरान कर दिया। उनकी इस जांबाजी ने एक बड़े हादसे को टाल दिया और आज उन्हें पूरी दुनिया हीरो मान रही है।\n\nपूरी घटना जानिए इस वीडियो में। ✈️🇮🇱\n\n#SmitIndianPilot #IsraelFlightAttack #IndianHeroes #AviationNews #BreakingNews",
+            "content": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान! 🚨\n\nजब आसमान में संकट गहराया और हर कोई घबरा गया, तब भारतीय पायलट स्मित ने अपनी असाधारण सूझबूझ और बहादुरी का परिचय दिया। उनकी इस एक गलती न सुधारने वाली फुर्ती ने सैकड़ों लोगों की जान बचा ली।\n\nपूरी घटना के बारे में जानने के लिए वीडियो पूरा देखें और अपनी प्रतिक्रिया साझा करें।\n\n#IndianPilot #SmitPatel #IsraelFlight #BravePilot #NewsUpdate",
             "mediaItems": [
               {
-                "_id": "6abd5d3664ddaf35ddaed848",
-                "url": "https://media.zernio.com/media/1790795059038_thygdf31_indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai.mp4",
+                "_id": "6abd71a0142a329e55e1bfac",
+                "url": "https://media.zernio.com/media/1790800286367_ohbzihs4_indian_pilot_smit_machchhar_stops_israel_flight_hijack.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-09-30T19:04:20.851Z",
+            "scheduledFor": "2026-09-30T20:31:27.491Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -387,7 +137,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-09-30T19:04:22.371Z",
+            "publishingClaimedAt": "2026-09-30T20:31:28.902Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -396,11 +146,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-09-30T19:04:22.349Z",
-            "updatedAt": "2026-09-30T19:04:28.899Z",
+            "createdAt": "2026-09-30T20:31:28.803Z",
+            "updatedAt": "2026-09-30T20:31:35.961Z",
             "platforms": [
               {
-                "_id": "6abd5d3664ddaf35ddaed845",
+                "_id": "6abd71a0142a329e55e1bfa9",
                 "platform": "facebook",
                 "accountId": {
                   "_id": "6a8efc6777555aae01af802c",
@@ -413,36 +163,36 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-30T19:04:20.851Z",
+                "scheduledFor": "2026-09-30T20:31:27.491Z",
                 "status": "published",
-                "publishedAt": "2026-09-30T19:04:28.844Z",
-                "platformPostId": "2149275869304261",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2149275869304261",
+                "publishedAt": "2026-09-30T20:31:35.909Z",
+                "platformPostId": "1095410632900345",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1095410632900345",
                 "publishAttempts": 0,
-                "contentHash": "29994f978d47fc7c99c717094c1855fc"
+                "contentHash": "0e7c59dd2e3bb4150bddfce680d12995"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-30T19:04:28.995432+00:00"
+        "attempted_at": "2026-09-30T20:31:36.085865+00:00"
       },
       "instagram": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abd5d5e64ddaf35ddaed908",
+            "_id": "6abd71bb142a329e55e1bffd",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "इजरायल जा रहे विमान में सह पायलट ने चाकू से किया हमला! 😱\n\nकॉकपिट के भीतर अचानक शुरू हुई खूनी झड़प के बीच भारतीय पायलट स्मित ने दिखाई ऐसी बहादुरी कि टल गया बड़ा विमान हादसा। \n\nवीडियो पूरा देखें और शेयर करें इस जांबाज की कहानी। ✈️🇮🇱\n\n#SmitIndianPilot #IsraelFlightAttack #IndianHeroes #AviationNews #BreakingNews",
+            "content": "इजरायल जा रहे प्लेन में हवा में मची खलबली, भारतीय पायलट ने बचाई जान! 🚨\n\nआसमान में अचानक आई आफत और फिर भारतीय पायलट स्मित की वह जांबाजी, जिसने पलभर में बड़ा हादसा टाल दिया। \n\nयह वीडियो देखकर आप भी गर्व महसूस करेंगे। शेयर करें और अपनी राय दें! 👇\n\n#IndianPilot #SmitPatel #IsraelFlight #BravePilot #NewsUpdate",
             "mediaItems": [
               {
-                "_id": "6abd5d5e64ddaf35ddaed90a",
-                "url": "https://media.zernio.com/media/1790795099205_2lj5s731_indian_pilot_smit_machhhar_foils_cockpit_attack_flydubai.mp4",
+                "_id": "6abd71bb142a329e55e1bfff",
+                "url": "https://media.zernio.com/media/1790800313219_ezsu6awi_indian_pilot_smit_machchhar_stops_israel_flight_hijack.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-09-30T19:05:00.843Z",
+            "scheduledFor": "2026-09-30T20:31:54.425Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -453,7 +203,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-09-30T19:05:02.363Z",
+            "publishingClaimedAt": "2026-09-30T20:31:55.874Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -462,11 +212,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-09-30T19:05:02.232Z",
-            "updatedAt": "2026-09-30T19:05:04.045Z",
+            "createdAt": "2026-09-30T20:31:55.805Z",
+            "updatedAt": "2026-09-30T20:31:57.622Z",
             "platforms": [
               {
-                "_id": "6abd5d5e64ddaf35ddaed907",
+                "_id": "6abd71bb142a329e55e1bffc",
                 "platform": "instagram",
                 "accountId": {
                   "_id": "6a8f021a77555aae01b1179f",
@@ -479,336 +229,311 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-30T19:05:00.843Z",
+                "scheduledFor": "2026-09-30T20:31:54.425Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "1a92b198149aad793a16f24bb1575667"
+                "contentHash": "4bfb03d049339a7e7dba55ef5edfcb44"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-30T19:05:04.250033+00:00"
+        "attempted_at": "2026-09-30T20:31:57.878691+00:00"
       }
     }
   },
   {
-    "topic_label": "meerut_blue_drum_murder_case_verdict_muskan_sahil",
+    "topic_label": "shubman_gill_double_century_rohit_sharma_record",
     "virality_score": 9,
-    "reason": "High-profile sensational crime verdict where Muskan and Sahil are convicted for the chilling blue drum murder.",
+    "reason": "Shubman Gill scored a record-breaking double century and India successfully chased 406 against West Indies.",
+    "region": "india",
+    "headline": "406 का टारगेट, फिर भी नहीं मानी हार... गिल-रोहित ने मचाई तबाही, रचा इतिहास",
+    "source_summary": "गुवाहाटी में भारत ने वेस्टइंडीज के 405 रन के विशाल लक्ष्य को 43.3 ओवर में 2 विकेट खोकर हासिल कर लिया. कप्तान शुभमन गिल ने 117 गेंदों में रिकॉर्ड डबल सेंचुरी जड़ी, जबकि रोहित शर्मा ने 101 रन बनाए. दोनों ने पहले विकेट के लिए 255 रन जोड़े. इस जीत के साथ भारत ने तीन मैचों की सीरीज में 2-0 की अजेय बढ़त बना ली.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/shubman-gill-fastest-odi-double-century-rohit-sharma-101-ind-vs-wi-2nd-odi-2026-tspok-dskc-2657770-2026-09-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-30T23:24:35+05:30",
+    "hook": "चार सौ छह रन का विशाल लक्ष्य और आसान जीत!",
+    "script_hi": "गुवाहाटी में भारत ने वेस्टइंडीज के चार सौ पांच रन के विशाल लक्ष्य को तैंतालीस दशमलव तीन ओवर में हासिल कर लिया। कप्तान शुभमन गिल ने एक सौ सत्रह गेंदों में रिकॉर्ड दोहरे शतक जड़ा, जबकि रोहित शर्मा ने एक सौ एक रन बनाए। इस ऐतिहासिक जीत के साथ भारत ने सीरीज में दो शून्य की अजेय बढ़त बना ली है।",
+    "tts_text_hi": "गुवाहाटी में भारत ने वेस्टइंडीज के चार सौ पांच रन के विशाल लक्ष्य को तैंतालीस दशमलव तीन ओवर में हासिल कर लिया। कप्तान शुभमन गिल ने एक सौ सत्रह गेंदों में रिकॉर्ड दोहरे शतक जड़ा, जबकि रोहित शर्मा ने एक सौ एक रन बनाए। इस ऐतिहासिक जीत के साथ भारत ने सीरीज में दो शून्य की अजेय बढ़त बना ली है।",
+    "title": "गिल और रोहित का ऐतिहासिक प्रदर्शन, भारत ने वेस्टइंडीज को हराया",
+    "caption": "गुवाहाटी में भारत ने रचा इतिहास, शुभमन गिल की डबल सेंचुरी और रोहित शर्मा के शानदार प्रदर्शन से वेस्टइंडीज को रौंदा।",
+    "hashtags": [
+      "ShubmanGill",
+      "RohitSharma",
+      "TeamIndia",
+      "CricketNews",
+      "IndiaVsWestIndies",
+      "CricketHistory"
+    ],
+    "visual_queries": [
+      "India cricket stadium Guwahati",
+      "Indian cricket captain batting India",
+      "Indian cricket player celebration India"
+    ],
+    "named_person": "Shubman Gill",
+    "named_person_hi": "शुभमन गिल",
+    "secondary_persons": [
+      "Rohit Sharma"
+    ],
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "शुभमन गिल",
+        "source": "fallback",
+        "query": "Shubman Gill",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36088029/15304808_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "Indian cricket player celebration India",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30678437/pexels-photo-30678437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India cricket stadium Guwahati",
+        "credit": "Pritam Sarker  Apurbo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723744/pexels-photo-31723744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket captain batting India",
+        "credit": "Princeton dsouza",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "406 रन का टारगेट... गिल और रोहित ने रच दिया इतिहास! 🏏",
+        "caption": "चार सौ छह रन का विशाल लक्ष्य और ऐतिहासिक जीत! 🤯\n\nवेस्टइंडीज के खिलाफ मैदान पर उतरी भारतीय टीम ने वो कर दिखाया जिसकी किसी को उम्मीद नहीं थी। रोहित शर्मा और शुभमन गिल की तूफानी पारियों ने गेंदबाजों के होश उड़ा दिए और स्कोरबोर्ड पर रनों का अंबार लगा दिया।\n\nपूरी कहानी देखें और बताएं आपकी नजर में इस जीत का असली हीरो कौन है?\n\n#ShubmanGill #RohitSharma #TeamIndia #CricketNews #IndiaVsWindies"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चार सौ छह रन का विशाल लक्ष्य और ऐतिहासिक जीत! 🤯\n\nरोहित और गिल की आंधी में उड़ा वेस्टइंडीज। मैदान पर दिखा ऐसा नजारा जिसने क्रिकेट इतिहास के कई पुराने रिकॉर्ड तोड़ दिए।\n\nक्या आपने ये मुकाबला देखा? कमेंट में बताओ! 👇\n\n#ShubmanGill #RohitSharma #TeamIndia #CricketNews #IndiaVsWindies"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "चार सौ छह रन का विशाल लक्ष्य और आसान जीत! 🤯\n\nक्रिकेट के मैदान पर जब रोहित शर्मा और शुभमन गिल उतरे, तो किसी ने नहीं सोचा था कि रिकॉर्ड्स की ऐसी सुनामी आएगी। वेस्टइंडीज के खिलाफ इस ऐतिहासिक मुकाबले में दोनों बल्लेबाजों ने मिलकर तबाही मचा दी और असंभव दिखने वाले लक्ष्य को भी छोटा कर दिखाया।\n\nवीडियो में देखिए पूरी दास्तान कि कैसे बना ये नया इतिहास।\n\n#ShubmanGill #RohitSharma #TeamIndia #CricketNews #IndiaVsWindies"
+      },
+      "hashtags": [
+        "ShubmanGill",
+        "RohitSharma",
+        "TeamIndia",
+        "CricketNews",
+        "IndiaVsWindies"
+      ]
+    },
+    "audio_path": "audio/shubman_gill_double_century_rohit_sharma_record.wav",
+    "audio_duration_sec": 22.6,
+    "video_path": "videos/shubman_gill_double_century_rohit_sharma_record.mp4",
+    "video_duration_sec": 30.59,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-30T20:36:14.956061+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd72d3f7bad7584b8d57ff",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चार सौ छह रन का विशाल लक्ष्य और आसान जीत! 🤯\n\nक्रिकेट के मैदान पर जब रोहित शर्मा और शुभमन गिल उतरे, तो किसी ने नहीं सोचा था कि रिकॉर्ड्स की ऐसी सुनामी आएगी। वेस्टइंडीज के खिलाफ इस ऐतिहासिक मुकाबले में दोनों बल्लेबाजों ने मिलकर तबाही मचा दी और असंभव दिखने वाले लक्ष्य को भी छोटा कर दिखाया।\n\nवीडियो में देखिए पूरी दास्तान कि कैसे बना ये नया इतिहास।\n\n#ShubmanGill #RohitSharma #TeamIndia #CricketNews #IndiaVsWindies",
+            "mediaItems": [
+              {
+                "_id": "6abd72d3f7bad7584b8d5801",
+                "url": "https://media.zernio.com/media/1790800593210_53anv2v6_shubman_gill_double_century_rohit_sharma_record.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:36:34.560Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:36:35.532Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:36:35.499Z",
+            "updatedAt": "2026-09-30T20:36:42.610Z",
+            "platforms": [
+              {
+                "_id": "6abd72d3f7bad7584b8d57fe",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:36:34.560Z",
+                "status": "published",
+                "publishedAt": "2026-09-30T20:36:42.575Z",
+                "platformPostId": "983155314849132",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=983155314849132",
+                "publishAttempts": 0,
+                "contentHash": "700f5eb32df851ff1b2807f3763f60aa"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:36:42.707121+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd72f1f7bad7584b8d5814",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चार सौ छह रन का विशाल लक्ष्य और ऐतिहासिक जीत! 🤯\n\nरोहित और गिल की आंधी में उड़ा वेस्टइंडीज। मैदान पर दिखा ऐसा नजारा जिसने क्रिकेट इतिहास के कई पुराने रिकॉर्ड तोड़ दिए।\n\nक्या आपने ये मुकाबला देखा? कमेंट में बताओ! 👇\n\n#ShubmanGill #RohitSharma #TeamIndia #CricketNews #IndiaVsWindies",
+            "mediaItems": [
+              {
+                "_id": "6abd72f1f7bad7584b8d5816",
+                "url": "https://media.zernio.com/media/1790800621914_cssft888_shubman_gill_double_century_rohit_sharma_record.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:37:03.034Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:37:05.119Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:37:05.090Z",
+            "updatedAt": "2026-09-30T20:37:06.920Z",
+            "platforms": [
+              {
+                "_id": "6abd72f1f7bad7584b8d5813",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:37:03.034Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "4aced94800615851c6ffba1a946237a1"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:37:07.098314+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "meerut_blue_drum_murder_muskan_sahil_guilty",
+    "virality_score": 8,
+    "reason": "Court pronounced the high-profile 'Blue Drum' murder verdict, finding Muskan and Sahil guilty of killing Saurabh Rajput.",
     "region": "india",
     "headline": "नीला ड्रम हत्याकांड: मुस्कान और साहिल दोषी करार",
     "source_summary": "मेरठ के ब्लू ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है. दोनों को अभी सजा नहीं सुनाई गई है. 14 अक्टूबर को सजा के बिंदु पर सुनवाई होगी. अभियोजन पक्ष ने मृत्युदंड की मांग की है. वीडियो में जानें मामला.",
     "source_url": "https://www.aajtak.in/short-videos/video/meerut-blue-drum-case-muskan-sahil-convicted-up-police-investigation-details-mmtm-2657706-2026-09-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-09-30T20:32:40+05:30",
-    "hook": "मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत का बड़ा फैसला सामने आया है!",
-    "script_hi": "मेरठ के बहुचर्चित नीले ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है। चौदह अक्टूबर को सजा के बिंदु पर सुनवाई होगी। अभियोजन पक्ष ने दोनों के लिए मृत्युदंड की मांग की है।",
-    "tts_text_hi": "मेरठ के बहुचर्चित नीले ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है। चौदह अक्टूबर को सजा के बिंदु पर सुनवाई होगी। अभियोजन पक्ष ने दोनों के लिए मृत्युदंड की मांग की है।",
+    "hook": "मेरठ के बहुचर्चित ब्लू ड्रम हत्याकांड में अदालत का बड़ा फैसला!",
+    "script_hi": "मेरठ के बहुचर्चित ब्लू ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है। चौदह अक्टूबर को सजा के बिंदु पर सुनवाई होगी। अभियोजन पक्ष ने दोषियों के लिए मृत्युदंड की मांग की है।",
+    "tts_text_hi": "मेरठ के बहुचर्चित ब्लू ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है। चौदह अक्टूबर को सजा के बिंदु पर सुनवाई होगी। अभियोजन पक्ष ने दोषियों के लिए मृत्युदंड की मांग की है।",
     "title": "मेरठ ब्लू ड्रम हत्याकांड: मुस्कान और साहिल दोषी करार",
-    "caption": "मेरठ के चर्चित ब्लू ड्रम हत्याकांड में कोर्ट ने मुस्कान और साहिल को हत्या का दोषी माना है। चौदह अक्टूबर को सजा पर सुनवाई होगी।",
+    "caption": "मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत ने मुस्कान रस्तोगी और साहिल को सौरभ राजपूत की हत्या का दोषी करार दिया है। चौदह अक्टूबर को सजा पर सुनवाई होगी।",
     "hashtags": [
       "MeerutNews",
       "BlueDrumMurder",
       "CrimeNews",
+      "CourtVerdict",
       "UttarPradesh",
-      "CourtUpdate",
       "HindiNews"
     ],
     "visual_queries": [
       "Indian court building exterior",
       "police investigation India",
-      "lawyer arguing in court India"
+      "legal gavel courtroom India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/34550101/14640396_720_1280_50fps.mp4",
-        "source": "pexels",
-        "query": "courtroom trial India",
-        "credit": "khezez  | خزاز",
-        "source_duration_sec": 56,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35325600/14966990_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "criminal court hallway India",
-        "credit": "Niihar Doshi",
-        "source_duration_sec": 7,
-        "duration_sec": 6
-      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/39758327/pexels-photo-39758327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
         "query": "Indian court building exterior",
         "credit": "Jayant V Nath",
-        "duration_sec": 3
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "courtroom gavel and scales",
-        "credit": "Sora Shimazaki",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation India",
+        "query": "police investigation India",
         "credit": "cottonbro studio",
-        "duration_sec": 3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "handcuffed prisoner India",
-        "credit": "Kindel Media",
-        "duration_sec": 3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "मेरठ ब्लू ड्रम हत्याकांड: मुस्कान और साहिल दोषी करार 🚨",
-        "caption": "कोर्ट ने माना साहिल और मुस्कान को कातिल! 🛑\n\nमेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत ने आखिरकार फैसला सुना दिया है। मुस्कान और उसके प्रेमी साहिल को हत्या का दोषी करार दिया गया है।\n\nपूरी कहानी देखें और बताएं, ऐसे अपराध के लिए क्या सजा होनी चाहिए?\n\n#MeerutNews #BlueDrumMurder #CrimeNews #CourtUpdate #UPNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कोर्ट ने माना साहिल और मुस्कान को कातिल! 🛑 मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत ने आखिरकार फैसला सुना दिया है। मुस्कान और साहिल को हत्या का दोषी करार दिया गया है। पूरी कहानी देखें। 👇\n\n#MeerutNews #BlueDrumMurder #CrimeNews #CourtUpdate #UPNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत का बड़ा फैसला सामने आया है! 🛑\n\nकोर्ट ने मुस्कान और उसके प्रेमी साहिल को हत्या का दोषी करार दे दिया है। इस सनसनीखेज मामले ने पूरे देश को झकझोर कर रख दिया था। \n\nपूरी कहानी वीडियो में देखें।\n\n#MeerutNews #BlueDrumMurder #CrimeNews #CourtUpdate #UPNews"
-      },
-      "hashtags": [
-        "MeerutNews",
-        "BlueDrumMurder",
-        "CrimeNews",
-        "CourtUpdate",
-        "UPNews"
-      ]
-    },
-    "audio_path": "audio/meerut_blue_drum_murder_case_verdict_muskan_sahil.wav",
-    "audio_duration_sec": 16.66,
-    "video_path": "videos/meerut_blue_drum_murder_case_verdict_muskan_sahil.mp4",
-    "video_duration_sec": 24.69,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-30T19:08:45.388029+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd5e58fb650c991fabc68e",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत का बड़ा फैसला सामने आया है! 🛑\n\nकोर्ट ने मुस्कान और उसके प्रेमी साहिल को हत्या का दोषी करार दे दिया है। इस सनसनीखेज मामले ने पूरे देश को झकझोर कर रख दिया था। \n\nपूरी कहानी वीडियो में देखें।\n\n#MeerutNews #BlueDrumMurder #CrimeNews #CourtUpdate #UPNews",
-            "mediaItems": [
-              {
-                "_id": "6abd5e58fb650c991fabc690",
-                "url": "https://media.zernio.com/media/1790795349233_7cv767p5_meerut_blue_drum_murder_case_verdict_muskan_sahil.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T19:09:10.622Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T19:09:12.710Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-09-30T19:09:12.634Z",
-            "updatedAt": "2026-09-30T19:09:18.405Z",
-            "platforms": [
-              {
-                "_id": "6abd5e58fb650c991fabc68d",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T19:09:10.622Z",
-                "status": "published",
-                "publishedAt": "2026-09-30T19:09:18.295Z",
-                "platformPostId": "1414129384259695",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1414129384259695",
-                "publishAttempts": 0,
-                "contentHash": "73942fe148b2205d9611cf7e25ecdfb4"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T19:09:18.498509+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd5e7c454a38cb8bb799f2",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "कोर्ट ने माना साहिल और मुस्कान को कातिल! 🛑 मेरठ के चर्चित ब्लू ड्रम हत्याकांड में अदालत ने आखिरकार फैसला सुना दिया है। मुस्कान और साहिल को हत्या का दोषी करार दिया गया है। पूरी कहानी देखें। 👇\n\n#MeerutNews #BlueDrumMurder #CrimeNews #CourtUpdate #UPNews",
-            "mediaItems": [
-              {
-                "_id": "6abd5e7c454a38cb8bb799fe",
-                "url": "https://media.zernio.com/media/1790795385628_tv7asnhv_meerut_blue_drum_murder_case_verdict_muskan_sahil.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T19:09:46.816Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T19:09:48.428Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "lastEnqueuedAt": "2026-09-30T19:09:49.474Z",
-            "createdAt": "2026-09-30T19:09:48.265Z",
-            "updatedAt": "2026-09-30T19:09:51.412Z",
-            "platforms": [
-              {
-                "_id": "6abd5e7c454a38cb8bb799f1",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T19:09:46.816Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "7528dfe9e86cf3fdef4dced1a9ead7bb"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T19:09:51.709933+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "hyderabad_drunk_software_engineer_runs_over_pedestrians",
-    "virality_score": 8,
-    "reason": "Shocking CCTV footage and details of a drunk software engineer ramming his car into pedestrians in Hyderabad.",
-    "region": "india",
-    "headline": "VIDEO: शराब के नशे में कार चला रहे सॉफ्टवेयर इंजीनियर ने 7 लोगों को कुचला",
-    "source_summary": "हैदराबाद के ECIL इलाके में मंगलवार तड़के एक कार ने सड़क किनारे पैदल जा रहे लोगों को टक्कर मार दी. हादसे में सात लोग घायल हुए, जिनमें तीन की हालत गंभीर बताई गई है. पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथ मौजूद एक अन्य व्यक्ति को गिरफ्तार किया है. हादसे का CCTV फुटेज भी सामने आया है.",
-    "source_url": "https://www.aajtak.in/india/news/story/hyderabad-drunk-driving-car-accident-software-engineer-arrested-lclcn-rptc-2657742-2026-09-30?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-09-30T22:24:38+05:30",
-    "hook": "हैदराबाद में नशे में धुत सॉफ्टवेयर इंजीनियर का खौफनाक कारनामा!",
-    "script_hi": "हैदराबाद के ईसीआईएल इलाके में मंगलवार तड़के एक तेज रफ्तार कार ने सड़क किनारे चल रहे सात लोगों को कुचल दिया। हादसे में सभी लोग घायल हो गए, जिनमें से तीन की हालत गंभीर बनी हुई है। पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथी को गिरफ्तार कर लिया है। इस पूरी घटना का सीसीटीवी फुटेज भी सामने आया है।",
-    "tts_text_hi": "हैदराबाद के ईसीआईएल इलाके में मंगलवार तड़के एक तेज रफ्तार कार ने सड़क किनारे चल रहे सात लोगों को कुचल दिया। हादसे में सभी लोग घायल हो गए, जिनमें से तीन की हालत गंभीर बनी हुई है। पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथी को गिरफ्तार कर लिया है। इस पूरी घटना का सीसीटीवी फुटेज भी सामने आया है।",
-    "title": "हैदराबाद में नशे में धुत कार चालक ने सात को कुचला",
-    "caption": "हैदराबाद के ईसीआईएल में शराब के नशे में धुत सॉफ्टवेयर इंजीनियर ने पैदल चल रहे सात लोगों को टक्कर मार दी। पुलिस ने आरोपी को गिरफ्तार कर लिया है।",
-    "hashtags": [
-      "Hyderabad",
-      "CarAccident",
-      "DrinkAndDrive",
-      "TelanganaNews",
-      "CCTVFootage"
-    ],
-    "visual_queries": [
-      "Hyderabad street India",
-      "police station India",
-      "CCTV camera India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral CCTV footage of the accident which generic stock B-roll cannot replace.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32659031/pexels-photo-32659031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hyderabad street India",
-        "credit": "Nandhakishor P",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6077189/pexels-photo-6077189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera India",
-        "credit": "Rakesh Teja",
+        "query": "legal gavel courtroom India",
+        "credit": "KATRIN  BOLOVTSOVA",
         "duration_sec": 5
       }
     ],
@@ -817,268 +542,33 @@
     "review_status": "pending_review"
   },
   {
-    "topic_label": "lalbaugcha_raja_1_kg_gold_brick_offerings",
+    "topic_label": "october_1_rule_changes_lpg_puc_atm",
     "virality_score": 8,
-    "reason": "An anonymous devotee offering a 1-kg gold brick worth nearly 1.5 crores to Lalbaugcha Raja generates immense public curiosity.",
+    "reason": "Multiple crucial rule changes taking effect from October 1 impacting everyday citizens, including PUC and ATM rules.",
     "region": "india",
-    "headline": "लालबागचा राजा को मूल्यवान आभूषणों के साथ चढ़ाई 1 किलो सोने की ईंट, गदाएं, सोने की चैन, चांदी के हार भी चढ़ाए",
-    "source_summary": "Lalbaugcha Raja 2026 News: गणेशोत्सव के दौरान लालबागचा राजा को बढ़ा चढ़ाया आया है। बप्पा के भक्तों ने गए सोने-चांदी के आभूषण चढ़ाए हैं। इस सबकी नीलामी में 1 किलो वजन की 24 कैरेट सोने की ईंट सबसे खास आकर्षणों में शामिल रही। एक अज्ञात भक्त की ओर से अर्पित इस सोने की ईंट की कीमत करीब 1 करोड़ 48 लाख रुपये बताई गई।",
-    "source_url": "https://navbharattimes.indiatimes.com/metro/mumbai/other-news/lalbaugcha-raja-2026-offered-one-kg-gold-brick-maces-gold-chains-and-silver-necklace-know-all/articleshow/134599777.cms",
-    "source_name": "Navbharat Times",
-    "published": "Wed, 30 Sep 2026 23:13:00 +0530",
-    "hook": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट!",
-    "script_hi": "मुंबई के प्रसिद्ध लालबागचा राजा को गणेशोत्सव के दौरान एक अज्ञात भक्त ने एक किलो वजन की चौबीस कैरेट सोने की ईंट अर्पित की है। इस सोने की ईंट की कीमत लगभग एक करोड़ अड़तालीस लाख रुपये बताई जा रही है। बप्पा के दरबार में इसके अलावा सोने के आभूषण, गदाएं, सोने की चैन और चांदी के हार भी चढ़ाए गए हैं।",
-    "tts_text_hi": "मुंबई के प्रसिद्ध लालबागचा राजा को गणेशोत्सव के दौरान एक अज्ञात भक्त ने एक किलो वजन की चौबीस कैरेट सोने की ईंट अर्पित की है। इस सोने की ईंट की कीमत लगभग एक करोड़ अड़तालीस लाख रुपये बताई जा रही है। बप्पा के दरबार में इसके अलावा सोने के आभूषण, गदाएं, सोने की चैन और चांदी के हार भी चढ़ाए गए हैं।",
-    "title": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट",
-    "caption": "लालबागचा राजा के दरबार में भक्तों ने दिल खोलकर चढ़ाया सोना और चांदी, एक किलो सोने की ईंट बनी मुख्य आकर्षण।",
-    "hashtags": [
-      "#LalbaugchaRaja",
-      "#Ganeshotsav",
-      "#MumbaiGanpati",
-      "#GoldBrick",
-      "#Bappa",
-      "#GaneshFestival"
-    ],
-    "visual_queries": [
-      "Indian Ganesha idol temple",
-      "gold brick India",
-      "gold jewellery India",
-      "Hindu temple celebration India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28206212/pexels-photo-28206212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian Ganesha idol temple",
-        "credit": "Ritesh Sahoo",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28524442/pexels-photo-28524442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "ganesh festival crowd Mumbai",
-        "credit": "Divyanshu  Pandey",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32780784/pexels-photo-32780784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gold jewellery India",
-        "credit": "M Kamran Arvi",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15798145/pexels-photo-15798145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hindu temple celebration India",
-        "credit": "Bhupesh Pal",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "लालबागचा राजा के चरणों में चढ़ी 1 किलो सोने की ईंट! 🪙",
-        "caption": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट! 🪙\n\nमुंबई के सबसे प्रसिद्ध गणेशोत्सव में इस साल बप्पा पर दिल खोलकर भक्तों ने चढ़ावा चढ़ाया है। सोने की ईंट के अलावा कई किलो चांदी और बेशकीमती गहने भी दान में मिले हैं।\n\nपूरी कहानी देखें और बताएं कि आपका इस पर क्या कहना है।\n\n#LalbaugchaRaja #MumbaiGanpati #Ganeshotsav #GanpatiBappa #GoldOffering"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट! 🪙\n\nमुंबई के राजा के दरबार में इस बार भक्तों ने सारे रिकॉर्ड तोड़ दिए। सोने की ईंट से लेकर सोने की गदा और चांदी के हार तक, बप्पा को क्या कुछ नहीं मिला। \n\nवीडियो शेयर करें और बप्पा के भक्तों तक ये खबर पहुंचाएं!\n\n#LalbaugchaRaja #MumbaiGanpati #Ganeshotsav #GanpatiBappa #GoldOffering"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट! 🪙\n\nमुंबई के प्रसिद्ध लालबागचा राजा के दरबार में इस बार भक्तों ने आस्था की सारी हदें पार कर दीं। बप्पा को एक किलो सोने की ईंट के साथ-साथ सोने की गदा, चैन और चांदी के कई हार चढ़ाए गए हैं। हर साल की तरह इस बार भी बप्पा का दरबार भक्तों के दान से चर्चा में है।\n\nपूरी कहानी वीडियो में देखें और कमेंट में बप्पा के दर्शन कर जयकारा लगाएं। 🙏✨\n\n#LalbaugchaRaja #MumbaiGanpati #Ganeshotsav #GanpatiBappa #GoldOffering"
-      },
-      "hashtags": [
-        "LalbaugchaRaja",
-        "MumbaiGanpati",
-        "Ganeshotsav",
-        "GanpatiBappa",
-        "GoldOffering"
-      ]
-    },
-    "audio_path": "audio/lalbaugcha_raja_1_kg_gold_brick_offerings.wav",
-    "audio_duration_sec": 29.06,
-    "video_path": "videos/lalbaugcha_raja_1_kg_gold_brick_offerings.mp4",
-    "video_duration_sec": 37.09,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-30T19:15:42.839378+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd60115b926dd28baa947d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट! 🪙\n\nमुंबई के प्रसिद्ध लालबागचा राजा के दरबार में इस बार भक्तों ने आस्था की सारी हदें पार कर दीं। बप्पा को एक किलो सोने की ईंट के साथ-साथ सोने की गदा, चैन और चांदी के कई हार चढ़ाए गए हैं। हर साल की तरह इस बार भी बप्पा का दरबार भक्तों के दान से चर्चा में है।\n\nपूरी कहानी वीडियो में देखें और कमेंट में बप्पा के दर्शन कर जयकारा लगाएं। 🙏✨\n\n#LalbaugchaRaja #MumbaiGanpati #Ganeshotsav #GanpatiBappa #GoldOffering",
-            "mediaItems": [
-              {
-                "_id": "6abd60115b926dd28baa947f",
-                "url": "https://media.zernio.com/media/1790795760113_nb43k74l_lalbaugcha_raja_1_kg_gold_brick_offerings.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T19:16:01.185Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T19:16:33.435Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-09-30T19:16:33.405Z",
-            "updatedAt": "2026-09-30T19:16:38.575Z",
-            "platforms": [
-              {
-                "_id": "6abd60115b926dd28baa947c",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T19:16:01.185Z",
-                "status": "published",
-                "publishedAt": "2026-09-30T19:16:38.525Z",
-                "platformPostId": "1642259400891681",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1642259400891681",
-                "publishAttempts": 0,
-                "contentHash": "3e05feb1871897f4dd665098c3980744"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T19:16:38.658955+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abd6034b908b9cd7e72d715",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "लालबागचा राजा को चढ़ी एक किलो सोने की ईंट! 🪙\n\nमुंबई के राजा के दरबार में इस बार भक्तों ने सारे रिकॉर्ड तोड़ दिए। सोने की ईंट से लेकर सोने की गदा और चांदी के हार तक, बप्पा को क्या कुछ नहीं मिला। \n\nवीडियो शेयर करें और बप्पा के भक्तों तक ये खबर पहुंचाएं!\n\n#LalbaugchaRaja #MumbaiGanpati #Ganeshotsav #GanpatiBappa #GoldOffering",
-            "mediaItems": [
-              {
-                "_id": "6abd6034b908b9cd7e72d717",
-                "url": "https://media.zernio.com/media/1790795825869_hb3mo22z_lalbaugcha_raja_1_kg_gold_brick_offerings.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-09-30T19:17:07.576Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-09-30T19:17:08.741Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-09-30T19:17:08.695Z",
-            "updatedAt": "2026-09-30T19:17:10.921Z",
-            "platforms": [
-              {
-                "_id": "6abd6034b908b9cd7e72d714",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-09-30T19:17:07.576Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "5a472d03c048a411536da8a8da540244"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-09-30T19:17:11.151709+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "rajkot_vegetable_vendor_prints_fake_notes_telegram",
-    "virality_score": 8,
-    "reason": "A bizarre criminal case where a vegetable vendor learned to print counterfeit currency via Instagram and Telegram.",
-    "region": "india",
-    "headline": "सब्जी वाले ने चुना शॉर्टकट, टेलीग्राम पर सीखा नोट छापना, खपा भी दिए",
-    "source_summary": "Rajkot News: राजकोट में इंस्टाग्राम और टेलीग्राम से ट्रेनिंग लेकर घर पर नकली नोट छापने वाले सब्जी विक्रेता को SOG ने पकड़ा. 100-500 के जाली नोट और प्रिंटर जब्त. पढ़ें पूरी रिपोर्ट.",
-    "source_url": "https://www.aajtak.in/india/gujarat/story/after-watching-insta-reel-and-taking-training-on-telegram-vegetable-vendor-started-printing-fake-notes-lcln-strc-2657748-2026-09-30?utm_source=rssfeed",
+    "headline": "NPS, LPG, FD से ATM तक... आज से बदल रहे ये 10 बड़े नियम",
+    "source_summary": "LPG की कीमतों से लेकर एफडी के नियम तक 1 अक्‍टूबर से कई बड़े बदलाव हो रहे हैं, जो आपकी जेब पर असर डाल सकते हैं. इसमें एसबीआई बैंक के एटीएम ट्रांजेक्‍शन और लाइफ स‍र्टिफिकेट जमा करने के भी नियम हैं.",
+    "source_url": "https://www.aajtak.in/business/utility/story/nps-lpg-fd-sbi-among-ten-rules-changes-from-1st-october-tutd-dskc-2657723-2026-09-30?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-09-30T22:44:07+05:30",
-    "hook": "सब्जी बेचने वाले ने निकाला नकली नोट छापने का खतरनाक शॉर्टकट!",
-    "script_hi": "राजकोट में एक सब्जी वाले ने टेलीग्राम से सीखकर घर पर ही नकली नोट छापने शुरू कर दिए। आरोपी ने बाजार में सौ और पाँच सौ रुपये के जाली नोट खपा भी दिए। एसओजी की टीम ने आरोपी को गिरफ्तार कर प्रिंटर और जाली नोट बरामद कर लिए हैं।",
-    "tts_text_hi": "राजकोट में एक सब्जी वाले ने टेलीग्राम से सीखकर घर पर ही नकली नोट छापने शुरू कर दिए। आरोपी ने बाजार में सौ और पाँच सौ रुपये के जाली नोट खपा भी दिए। एसओजी की टीम ने आरोपी को गिरफ्तार कर प्रिंटर और जाली नोट बरामद कर लिए हैं।",
-    "title": "राजकोट में सब्जी वाले ने छापे नकली नोट",
-    "caption": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।",
+    "published": "2026-09-30T21:26:09+05:30",
+    "hook": "आज से बदल गए देश के ये दस बड़े नियम!",
+    "script_hi": "आज से बदल गए देश के ये दस बड़े नियम! एलपीजी सिलेंडर की कीमतों से लेकर एसबीआई एटीएम ट्रांजेक्शन तक, कई बदलाव सीधे आपकी जेब पर असर डालेंगे। एक अक्टूबर से लाइफ सर्टिफिकेट जमा करने के नियम भी बदल चुके हैं।",
+    "tts_text_hi": "आज से बदल गए देश के ये दस बड़े नियम! एलपीजी सिलेंडर की कीमतों से लेकर एसबीआई एटीएम ट्रांजेक्शन तक, कई बदलाव सीधे आपकी जेब पर असर डालेंगे। एक अक्टूबर से लाइफ सर्टिफिकेट जमा करने के नियम भी बदल चुके हैं।",
+    "title": "NPS, LPG, FD to ATM: आज से बदल गए 10 बड़े नियम",
+    "caption": "एक अक्टूबर से देश में एलपीजी, एटीएम ट्रांजेक्शन और एफडी समेत दस बड़े नियम बदल गए हैं। जानिए आपकी जेब पर इसका क्या असर होगा।",
     "hashtags": [
-      "RajkotNews",
-      "FakeCurrency",
-      "CrimeNews",
-      "GujaratPolice",
-      "TelegramCrime",
-      "NewsShorts",
-      "IndiaNews"
+      "NPS",
+      "LPG",
+      "ATM",
+      "BankingRules",
+      "IndiaNews",
+      "BreakingNews",
+      "OctoberRules"
     ],
     "visual_queries": [
-      "Indian vegetable market street",
-      "mobile phone telegram app India",
-      "fake Indian currency notes",
-      "police station India investigation"
+      "Indian LPG gas cylinder India",
+      "State Bank of India ATM India",
+      "Indian currency banknotes India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -1089,88 +579,105 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/6276983/6276983-hd_720_1280_24fps.mp4",
         "source": "pexels",
-        "query": "police station India investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
+        "query": "person using atm machine",
+        "credit": "Uriel Mont",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7579667/7579667-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "indian financial market news",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 9,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16747112/pexels-photo-16747112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/11181242/pexels-photo-11181242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian vegetable market street",
-        "credit": "Stijn Dijkstra",
-        "duration_sec": 5
+        "query": "Indian LPG gas cylinder India",
+        "credit": "saikat ghosh",
+        "duration_sec": 4.5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16841808/pexels-photo-16841808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38607872/pexels-photo-38607872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "mobile phone telegram app India",
-        "credit": "Viralyft",
-        "duration_sec": 5
+        "query": "Indian bank customer",
+        "credit": "Mohd Atir",
+        "duration_sec": 4.5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8139402/pexels-photo-8139402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "fake Indian currency notes",
-        "credit": "DEV ROY",
-        "duration_sec": 5
+        "query": "Indian currency banknotes India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5680152/pexels-photo-5680152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian kitchen cooking gas",
+        "credit": "Partha Pratim Duwarah",
+        "duration_sec": 4.5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "राजकोट में सब्जी वाले ने छापे नकली नोट",
-        "caption": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।\n\n#RajkotNews #FakeCurrency #CrimeNews #GujaratPolice #TelegramCrime"
+        "title": "⚠️ जेब पर सीधा असर! आज से बदल गए देश के ये 10 बड़े नियम",
+        "caption": "क्या आपकी जेब पर भी पड़ने वाला है आज से भारी असर? NPS और एलपीजी से लेकर एटीएम और एफडी तक, देश में आज से 10 बड़े वित्तीय नियम बदल चुके हैं जिनका सीधा असर आम आदमी पर पड़ेगा।\n\nकौन सा बदलाव आपके लिए सबसे जरूरी है? वीडियो में पूरा हिसाब देखें और शेयर करें।\n\n#NewRules2024 #FinancialNews #LPGUpdate #AamAadmi #MoneyMatters"
       },
       "instagram": {
         "title": null,
-        "caption": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।\n\n#RajkotNews #FakeCurrency #CrimeNews #GujaratPolice #TelegramCrime"
+        "caption": "⚠️ आपकी जेब पर सीधा असर! आज से देश में बदल चुके हैं ये 10 बड़े नियम।\n\nLPG सिलेंडर, NPS, FD और एटीएम से जुड़े इन बदलावों के बारे में अगर नहीं जानते, तो बाद में पछताना पड़ सकता है।\n\nपूरी लिस्ट देखिए और अपने दोस्तों को भी अलर्ट कीजिए।\n\n#NewRules2024 #FinancialNews #LPGUpdate #AamAadmi #MoneyMatters"
       },
       "facebook": {
         "title": null,
-        "caption": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।\n\n#RajkotNews #FakeCurrency #CrimeNews #GujaratPolice #TelegramCrime"
+        "caption": "आज से देश में बदल चुके हैं ये 10 बड़े नियम, जिनका सीधा असर आपकी रोजमर्रा की जिंदगी और बजट पर पड़ने वाला है। एलपीजी गैस सिलेंडर के दाम से लेकर एनपीएस, एफडी और एटीएम से जुड़े वित्तीय नियमों में बड़ा फेरबदल हुआ है।\n\nकिस नियम से आपको फायदा होगा और किससे नुकसान? पूरी कहानी वीडियो में देखिए और समझदारी से काम लें।\n\n#NewRules2024 #FinancialNews #LPGUpdate #AamAadmi #MoneyMatters"
       },
       "hashtags": [
-        "RajkotNews",
-        "FakeCurrency",
-        "CrimeNews",
-        "GujaratPolice",
-        "TelegramCrime"
+        "NewRules2024",
+        "FinancialNews",
+        "LPGUpdate",
+        "AamAadmi",
+        "MoneyMatters"
       ]
     },
-    "audio_path": "audio/rajkot_vegetable_vendor_prints_fake_notes_telegram.wav",
-    "audio_duration_sec": 17.01,
-    "video_path": "videos/rajkot_vegetable_vendor_prints_fake_notes_telegram.mp4",
-    "video_duration_sec": 24.99,
+    "audio_path": "audio/october_1_rule_changes_lpg_puc_atm.wav",
+    "audio_duration_sec": 15.16,
+    "video_path": "videos/october_1_rule_changes_lpg_puc_atm.mp4",
+    "video_duration_sec": 23.16,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-09-30T19:21:05.276549+00:00"
+        "attempted_at": "2026-09-30T20:40:22.192162+00:00"
       },
       "facebook": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abd61381adedfa7ff69bb19",
+            "_id": "6abd73ced6fff2ef4b6d3ff5",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।\n\n#RajkotNews #FakeCurrency #CrimeNews #GujaratPolice #TelegramCrime",
+            "content": "आज से देश में बदल चुके हैं ये 10 बड़े नियम, जिनका सीधा असर आपकी रोजमर्रा की जिंदगी और बजट पर पड़ने वाला है। एलपीजी गैस सिलेंडर के दाम से लेकर एनपीएस, एफडी और एटीएम से जुड़े वित्तीय नियमों में बड़ा फेरबदल हुआ है।\n\nकिस नियम से आपको फायदा होगा और किससे नुकसान? पूरी कहानी वीडियो में देखिए और समझदारी से काम लें।\n\n#NewRules2024 #FinancialNews #LPGUpdate #AamAadmi #MoneyMatters",
             "mediaItems": [
               {
-                "_id": "6abd61381adedfa7ff69bb1b",
-                "url": "https://media.zernio.com/media/1790796086531_0za4dlqg_rajkot_vegetable_vendor_prints_fake_notes_telegram.mp4",
+                "_id": "6abd73ced6fff2ef4b6d3ffa",
+                "url": "https://media.zernio.com/media/1790800843430_u0z76gtr_october_1_rule_changes_lpg_puc_atm.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-09-30T19:21:27.827Z",
+            "scheduledFor": "2026-09-30T20:40:44.783Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1181,7 +688,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-09-30T19:21:28.915Z",
+            "publishingClaimedAt": "2026-09-30T20:40:47.187Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1190,11 +697,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-09-30T19:21:28.850Z",
-            "updatedAt": "2026-09-30T19:21:33.318Z",
+            "createdAt": "2026-09-30T20:40:46.830Z",
+            "updatedAt": "2026-09-30T20:40:53.655Z",
             "platforms": [
               {
-                "_id": "6abd61381adedfa7ff69bb18",
+                "_id": "6abd73ced6fff2ef4b6d3ff4",
                 "platform": "facebook",
                 "accountId": {
                   "_id": "6a8efc6777555aae01af802c",
@@ -1207,36 +714,36 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-30T19:21:27.827Z",
+                "scheduledFor": "2026-09-30T20:40:44.783Z",
                 "status": "published",
-                "publishedAt": "2026-09-30T19:21:33.222Z",
-                "platformPostId": "2216370928940397",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2216370928940397",
+                "publishedAt": "2026-09-30T20:40:53.590Z",
+                "platformPostId": "964290176719107",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=964290176719107",
                 "publishAttempts": 0,
-                "contentHash": "f1abe76cae4b0a6484baa6bf8edd363e"
+                "contentHash": "460bdc56a8aae599d39ffbbd728c1262"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-30T19:21:33.433499+00:00"
+        "attempted_at": "2026-09-30T20:40:53.789832+00:00"
       },
       "instagram": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abd61536de678827cb1c1f4",
+            "_id": "6abd73f4406efde48b2c4439",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "राजकोट में टेलीग्राम से सीखकर नकली नोट छापने वाले सब्जी विक्रेता को एसओजी ने किया गिरफ्तार। सौ और पाँच सौ के जाली नोट हुए बरामद।\n\n#RajkotNews #FakeCurrency #CrimeNews #GujaratPolice #TelegramCrime",
+            "content": "⚠️ आपकी जेब पर सीधा असर! आज से देश में बदल चुके हैं ये 10 बड़े नियम।\n\nLPG सिलेंडर, NPS, FD और एटीएम से जुड़े इन बदलावों के बारे में अगर नहीं जानते, तो बाद में पछताना पड़ सकता है।\n\nपूरी लिस्ट देखिए और अपने दोस्तों को भी अलर्ट कीजिए।\n\n#NewRules2024 #FinancialNews #LPGUpdate #AamAadmi #MoneyMatters",
             "mediaItems": [
               {
-                "_id": "6abd61536de678827cb1c1f6",
-                "url": "https://media.zernio.com/media/1790796112568_69lkjlss_rajkot_vegetable_vendor_prints_fake_notes_telegram.mp4",
+                "_id": "6abd73f4406efde48b2c443b",
+                "url": "https://media.zernio.com/media/1790800881993_3z49gg9y_october_1_rule_changes_lpg_puc_atm.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-09-30T19:21:54.284Z",
+            "scheduledFor": "2026-09-30T20:41:23.162Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1247,7 +754,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-09-30T19:21:55.249Z",
+            "publishingClaimedAt": "2026-09-30T20:41:24.837Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1256,11 +763,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-09-30T19:21:55.200Z",
-            "updatedAt": "2026-09-30T19:21:57.122Z",
+            "createdAt": "2026-09-30T20:41:24.753Z",
+            "updatedAt": "2026-09-30T20:41:26.810Z",
             "platforms": [
               {
-                "_id": "6abd61536de678827cb1c1f3",
+                "_id": "6abd73f4406efde48b2c4438",
                 "platform": "instagram",
                 "accountId": {
                   "_id": "6a8f021a77555aae01b1179f",
@@ -1273,16 +780,579 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-09-30T19:21:54.284Z",
+                "scheduledFor": "2026-09-30T20:41:23.162Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "edfbab95b8f38fab1f205d33540ad7c7"
+                "contentHash": "125a354a91e23cf3b8f80b2dde2cd953"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-09-30T19:21:57.414467+00:00"
+        "attempted_at": "2026-09-30T20:41:26.988750+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "hyderabad_drunk_software_engineer_runs_over_seven",
+    "virality_score": 8,
+    "reason": "Shocking CCTV footage of a drunk software engineer ramming his car into pedestrians in Hyderabad.",
+    "region": "india",
+    "headline": "VIDEO: शराब के नशे में कार चला रहे सॉफ्टवेयर इंजीनियर ने 7 लोगों को कुचला",
+    "source_summary": "हैदराबाद के ECIL इलाके में मंगलवार तड़के एक कार ने सड़क किनारे पैदल जा रहे लोगों को टक्कर मार दी. हादसे में सात लोग घायल हुए, जिनमें तीन की हालत गंभीर बताई गई है. पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथ मौजूद एक अन्य व्यक्ति को गिरफ्तार किया है. हादसे का CCTV फुटेज भी सामने आया है.",
+    "source_url": "https://www.aajtak.in/india/news/story/hyderabad-drunk-driving-car-accident-software-engineer-arrested-lclcn-rptc-2657742-2026-09-30?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-09-30T22:24:38+05:30",
+    "hook": "हैदराबाद में नशे में धुत सॉफ्टवेयर इंजीनियर का खौफ!",
+    "script_hi": "हैदराबाद के ईसीआईएल इलाके में मंगलवार तड़के एक तेज रफ्तार कार ने सड़क किनारे पैदल जा रहे सात लोगों को कुचल दिया। हादसे में सभी घायल हो गए, जिनमें से तीन की हालत गंभीर बनी हुई है। पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथी को गिरफ्तार कर लिया है। इस भयानक हादसे का सीसीटीवी फुटेज भी सामने आया है।",
+    "tts_text_hi": "हैदराबाद के ईसीआईएल इलाके में मंगलवार तड़के एक तेज रफ्तार कार ने सड़क किनारे पैदल जा रहे सात लोगों को कुचल दिया। हादसे में सभी घायल हो गए, जिनमें से तीन की हालत गंभीर बनी हुई है। पुलिस ने कार चला रहे सॉफ्टवेयर इंजीनियर पवन और उसके साथी को गिरफ्तार कर लिया है। इस भयानक हादसे का सीसीटीवी फुटेज भी सामने आया है।",
+    "title": "हैदराबाद में नशे में धुत ड्राइवर का कहर, सात लोग घायल",
+    "caption": "हैदराबाद के ईसीआईएल में नशे में कार चला रहे सॉफ्टवेयर इंजीनियर ने सात लोगों को कुचला, आरोपी गिरफ्तार।",
+    "hashtags": [
+      "HyderabadNews",
+      "CarAccident",
+      "DrinkAndDrive",
+      "HyderabadPolice",
+      "CrimeNews"
+    ],
+    "visual_queries": [
+      "India police station night",
+      "police investigation India street",
+      "India traffic accident street"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific viral CCTV footage of the accident which cannot be represented accurately by generic stock B-roll.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9025814/pexels-photo-9025814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hyderabad street night",
+        "credit": "Trimurthy",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India street",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33978437/pexels-photo-33978437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "India traffic accident street",
+        "credit": "Muhammad Shamaoon Malik",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "india_bloc_protest_against_cec_gyanesh_kumar",
+    "virality_score": 7,
+    "reason": "Opposition INDIA bloc announced a major nationwide agitation and march against the Chief Election Commissioner.",
+    "region": "india",
+    "headline": "इंडिया गठबंधन की बैठक में ज्ञानेश कुमार के खिलाफ क्या रणनीति बनी? समझिए पूरा प्लान",
+    "source_summary": "इंडिया ब्लॉक की मीटिंग में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ अगले तीन महीने के आंदोलन का प्लान बनाया गया है. 6 अक्टूबर को विपक्ष चुनाव आयोग के खिलाफ मार्च करेगा. मल्लिकार्जुन खरगे और राहुल गांधी राष्ट्रपति से भी मुलाकात करेंगे.",
+    "source_url": "https://ndtv.in/india/india-alliance-strategy-against-cec-gyanesh-kumar-march-to-election-commission-rahul-kharge-to-meet-president-12122084#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Wed, 30 Sep 2026 23:25:59 +0530",
+    "hook": "इंडिया गठबंधन का चुनाव आयोग के खिलाफ बड़ा ऐलान!",
+    "script_hi": "इंडिया ब्लॉक की मीटिंग में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ अगले तीन महीने के आंदोलन का प्लान बनाया गया है। छह अक्टूबर को विपक्ष चुनाव आयोग के खिलाफ मार्च करेगा। मल्लिकार्जुन खरगे और राहुल गांधी राष्ट्रपति से भी मुलाकात करेंगे।",
+    "tts_text_hi": "इंडिया ब्लॉक की मीटिंग में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ अगले तीन महीने के आंदोलन का प्लान बनाया गया है। छह अक्टूबर को विपक्ष चुनाव आयोग के खिलाफ मार्च करेगा। मल्लिकार्जुन खरगे और राहुल गांधी राष्ट्रपति से भी मुलाकात करेंगे।",
+    "title": "इंडिया गठबंधन का चुनाव आयोग के खिलाफ बड़ा ऐलान",
+    "caption": "इंडिया ब्लॉक की मीटिंग में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ अगले तीन महीने के आंदोलन का प्लान बनाया गया है। छह अक्टूबर को विपक्ष चुनाव आयोग के खिलाफ मार्च करेगा।",
+    "hashtags": [
+      "IndiaAlliance",
+      "ElectionCommission",
+      "MallikarjunKharge",
+      "RahulGandhi",
+      "IndianPolitics",
+      "NewsUpdates"
+    ],
+    "visual_queries": [
+      "Indian political meeting India",
+      "Election Commission India building",
+      "Indian political protest India",
+      "New Delhi President House India"
+    ],
+    "named_person": "Mallikarjun Kharge",
+    "named_person_hi": "मल्लिकार्जुन खरगे",
+    "secondary_persons": [
+      "Rahul Gandhi"
+    ],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "मल्लिकार्जुन खरगे",
+        "source": "fallback",
+        "query": "Mallikarjun Kharge",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35491368/15035321_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Indian political protest India",
+        "credit": "Aditya Jaiswal",
+        "source_duration_sec": 14,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian political meeting India",
+        "credit": "Satyam Pixels",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "political protest delhi",
+        "credit": "Rahul Sapra",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39119983/pexels-photo-39119983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "New Delhi President House India",
+        "credit": "Nishant Malik",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 5,
+    "timeline_covered_sec": 25.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा प्लान! 🚨",
+        "caption": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा ऐलान! 🚨\n\nज्ञानेश कुमार के खिलाफ विपक्ष ने एक नई रणनीति तैयार की है, जो सियासी गलियारों में हलचल मचा रही है। बैठक में क्या फैसले लिए गए और क्या है पूरा प्लान, जानिए इस वीडियो में।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#IndiaAlliance #ElectionCommission #GyaneshKumar #IndianPolitics #PoliticalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा ऐलान! 🚨\n\nज्ञानेश कुमार के खिलाफ विपक्ष ने एक नई रणनीति तैयार की है। बैठक के अंदर क्या खिचड़ी पकी और क्या है पूरा प्लान, जानने के लिए वीडियो पूरा देखें।\n\nशेयर करें और अपनी राय दें!\n\n#IndiaAlliance #ElectionCommission #GyaneshKumar #IndianPolitics #PoliticalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा ऐलान! 🚨\n\nज्ञानेश कुमार के खिलाफ विपक्ष ने एक खास रणनीति पर काम करना शुरू कर दिया है। इस बैठक में लिए गए फैसलों से आने वाले दिनों में सियासी पारा चढ़ना तय माना जा रहा है।\n\nवीडियो देखकर समझिए पूरा प्लान और हमें बताइए कि इस कदम से क्या बदलेगा।\n\n#IndiaAlliance #ElectionCommission #GyaneshKumar #IndianPolitics #PoliticalNews"
+      },
+      "hashtags": [
+        "IndiaAlliance",
+        "ElectionCommission",
+        "GyaneshKumar",
+        "IndianPolitics",
+        "PoliticalNews"
+      ]
+    },
+    "audio_path": "audio/india_bloc_protest_against_cec_gyanesh_kumar.wav",
+    "audio_duration_sec": 14.48,
+    "video_path": "videos/india_bloc_protest_against_cec_gyanesh_kumar.mp4",
+    "video_duration_sec": 22.42,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-30T20:44:47.076990+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd74d5470a79a4703c2389",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा ऐलान! 🚨\n\nज्ञानेश कुमार के खिलाफ विपक्ष ने एक खास रणनीति पर काम करना शुरू कर दिया है। इस बैठक में लिए गए फैसलों से आने वाले दिनों में सियासी पारा चढ़ना तय माना जा रहा है।\n\nवीडियो देखकर समझिए पूरा प्लान और हमें बताइए कि इस कदम से क्या बदलेगा।\n\n#IndiaAlliance #ElectionCommission #GyaneshKumar #IndianPolitics #PoliticalNews",
+            "mediaItems": [
+              {
+                "_id": "6abd74d5470a79a4703c238b",
+                "url": "https://media.zernio.com/media/1790801105244_5zd3l905_india_bloc_protest_against_cec_gyanesh_kumar.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:45:07.696Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:45:09.638Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:45:09.535Z",
+            "updatedAt": "2026-09-30T20:45:16.065Z",
+            "platforms": [
+              {
+                "_id": "6abd74d5470a79a4703c2388",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:45:07.696Z",
+                "status": "published",
+                "publishedAt": "2026-09-30T20:45:15.968Z",
+                "platformPostId": "1877349287007760",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1877349287007760",
+                "publishAttempts": 0,
+                "contentHash": "9fa19e2432d0ed8045f7bf5fd7540714"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:45:16.189262+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd74f0470a79a4703c23cb",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "चुनाव आयोग के खिलाफ इंडिया गठबंधन का बड़ा ऐलान! 🚨\n\nज्ञानेश कुमार के खिलाफ विपक्ष ने एक नई रणनीति तैयार की है। बैठक के अंदर क्या खिचड़ी पकी और क्या है पूरा प्लान, जानने के लिए वीडियो पूरा देखें।\n\nशेयर करें और अपनी राय दें!\n\n#IndiaAlliance #ElectionCommission #GyaneshKumar #IndianPolitics #PoliticalNews",
+            "mediaItems": [
+              {
+                "_id": "6abd74f0470a79a4703c23cd",
+                "url": "https://media.zernio.com/media/1790801133411_doeueavi_india_bloc_protest_against_cec_gyanesh_kumar.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:45:34.437Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:45:36.187Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:45:36.151Z",
+            "updatedAt": "2026-09-30T20:45:37.840Z",
+            "platforms": [
+              {
+                "_id": "6abd74f0470a79a4703c23ca",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:45:34.437Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "f07a5b4aaed5301ef228f14936dd58e5"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:45:38.009341+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "chinese_ai_tool_bioweapons_risk_global",
+    "virality_score": 7,
+    "reason": "Global tech shock as a Chinese AI model allegedly instructed researchers on creating bioweapons, bypassing safety limits.",
+    "region": "global",
+    "headline": "Chinese AI tool told researchers how to make bioweapons",
+    "source_summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Tue, 29 Sep 2026 23:15:29 GMT",
+    "hook": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला?",
+    "script_hi": "माइण्डगार्ड की रिपोर्ट के मुताबिक चीनी एआई मॉडल कीमी ने डेवलपर्स के सुरक्षा नियमों को चकमा देकर शोधकर्ताओं को खतरनाक बायोहैथियार बनाने के तरीके बताए। जुलाई में हुए इस खुलासे ने एआई सुरक्षा पर बड़े सवाल खड़े कर दिए हैं।",
+    "tts_text_hi": "माइण्डगार्ड की रिपोर्ट के मुताबिक चीनी एआई मॉडल कीमी ने डेवलपर्स के सुरक्षा नियमों को चकमा देकर शोधकर्ताओं को खतरनाक बायोहैथियार बनाने के तरीके बताए। जुलाई में हुए इस खुलासे ने एआई सुरक्षा पर बड़े सवाल खड़े कर दिए हैं।",
+    "title": "चीनी एआई टूल ने बताए बायोहैथियार बनाने के तरीके",
+    "caption": "चीनी एआई मॉडल कीमी ने सुरक्षा सुरक्षा मानकों को तोड़कर शोधकर्ताओं को बायोहैथियार बनाने की जानकारी दी।",
+    "hashtags": [
+      "#ArtificialIntelligence",
+      "#ChinaAI",
+      "#TechNews",
+      "#CyberSecurity",
+      "#HindiNews"
+    ],
+    "visual_queries": [
+      "artificial intelligence concept graphic",
+      "futuristic server room technology",
+      "cyber security digital threat"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37911538/pexels-photo-37911538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "artificial intelligence concept graphic",
+        "credit": "Shubham Dhage",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "futuristic server room technology",
+        "credit": "Brett Sayles",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5483240/pexels-photo-5483240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cyber security digital threat",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hacker typing on laptop",
+        "credit": "Sora Shimazaki",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8134609/pexels-photo-8134609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital code background",
+        "credit": "Beyza Kaplan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36040448/pexels-photo-36040448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "data center hallway",
+        "credit": "Oktay Köseoğlu",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "computer warning screen",
+        "credit": "Ron Lach",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "चीनी AI टूल ने बता दिया बायोहैथियार बनाने का खतरनाक तरीका? 🧬",
+        "caption": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला? 🧬\n\nजब रिसर्चर्स ने चीन के इस एडवांस्ड AI मॉडल से खतरनाक वायरस और बैक्टीरिया बनाने के बारे में पूछा, तो उसने बिना किसी रुकावट के पूरी गाइडलाइन समझा दी। इस खुलासे के बाद से टेक और डिफेंस वर्ल्ड में हड़कंप मच गया है।\n\nआपकी क्या राय है, क्या AI पर लगाम कसने का वक्त आ गया है? कमेंट में बताएं। पूरी कहानी देखें।\n\n#ChineseAI #Bioweapons #ArtificialIntelligence #TechNews #WorldNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला? 🧬\n\nरिसर्चर्स के सवाल पूछते ही चीनी AI ने बायो-वेपन्स बनाने के ऐसे तरीके बताए कि एक्सपर्ट्स के भी होश उड़ गए। \n\nये टेक्नोलॉजी इंसानियत के लिए कितनी खतरनाक साबित हो सकती है? सेव करें और दोस्तों के साथ शेयर करें।\n\n#ChineseAI #Bioweapons #ArtificialIntelligence #TechNews #WorldNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला? 🧬\n\nआर्टिफिशियल इंटेलिजेंस इंसानों की मदद के लिए है या तबाही का नया रास्ता खोलने के लिए? हाल ही में जब कुछ रिसर्चर्स ने चीन के एक पॉपुलर AI टूल से बायोहैथियार बनाने को लेकर सवाल किए, तो उसने जो जवाब दिए उसने पूरी दुनिया के वैज्ञानिकों को चिंता में डाल दिया है। बिना किसी रोक-टोक के खतरनाक पैथोजन तैयार करने के तरीके बताना सुरक्षा पर बड़ा सवाल खड़ा करता है। \n\nवीडियो में देखिए पूरी सच्चाई और बताइए कि क्या AI पर सख्त पाबंदियां लगनी चाहिए?\n\n#ChineseAI #Bioweapons #ArtificialIntelligence #TechNews #WorldNews"
+      },
+      "hashtags": [
+        "ChineseAI",
+        "Bioweapons",
+        "ArtificialIntelligence",
+        "TechNews",
+        "WorldNews"
+      ]
+    },
+    "audio_path": "audio/chinese_ai_tool_bioweapons_risk_global.wav",
+    "audio_duration_sec": 15.39,
+    "video_path": "videos/chinese_ai_tool_bioweapons_risk_global.mp4",
+    "video_duration_sec": 23.42,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-09-30T20:49:42.089406+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd7606be70e578ec94f503",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला? 🧬\n\nआर्टिफिशियल इंटेलिजेंस इंसानों की मदद के लिए है या तबाही का नया रास्ता खोलने के लिए? हाल ही में जब कुछ रिसर्चर्स ने चीन के एक पॉपुलर AI टूल से बायोहैथियार बनाने को लेकर सवाल किए, तो उसने जो जवाब दिए उसने पूरी दुनिया के वैज्ञानिकों को चिंता में डाल दिया है। बिना किसी रोक-टोक के खतरनाक पैथोजन तैयार करने के तरीके बताना सुरक्षा पर बड़ा सवाल खड़ा करता है। \n\nवीडियो में देखिए पूरी सच्चाई और बताइए कि क्या AI पर सख्त पाबंदियां लगनी चाहिए?\n\n#ChineseAI #Bioweapons #ArtificialIntelligence #TechNews #WorldNews",
+            "mediaItems": [
+              {
+                "_id": "6abd7606be70e578ec94f505",
+                "url": "https://media.zernio.com/media/1790801412240_j74dchzl_chinese_ai_tool_bioweapons_risk_global.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:50:13.552Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:50:14.841Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:50:14.782Z",
+            "updatedAt": "2026-09-30T20:50:20.627Z",
+            "platforms": [
+              {
+                "_id": "6abd7606be70e578ec94f502",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwEO-NnS&_nc_oc=AdqDZFzU6y6JK3jlhtZ94YBvlTx1bcNSsYqMbAv2ZSPNtL87ABYhGcVW-O5wb95P9tY&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=Jy2a2KRLVZCt8nKZmW0GZQ&_nc_tpa=Q5bMBQJlG5w_1GAfWRiNwC6iagS5YQwr40roU2Cssn2GLNuqc9ghho-kr-SY7EbUwUn1pYSmTNVpAdc4&oh=00_AQO1-asznERWe7eoL_ndjsYVc3ztUuc3ZYe6FYgoLR0z0g&oe=6AC26094",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:50:13.552Z",
+                "status": "published",
+                "publishedAt": "2026-09-30T20:50:20.576Z",
+                "platformPostId": "2062049387806171",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2062049387806171",
+                "publishAttempts": 0,
+                "contentHash": "acecabf74ead546a4f4748cc72c6afaf"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:50:20.715541+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abd7620be70e578ec94f53b",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "क्या चीनी एआई टूल ने दे दिया बायोहैथियार बनाने का खतरनाक फॉर्मूला? 🧬\n\nरिसर्चर्स के सवाल पूछते ही चीनी AI ने बायो-वेपन्स बनाने के ऐसे तरीके बताए कि एक्सपर्ट्स के भी होश उड़ गए। \n\nये टेक्नोलॉजी इंसानियत के लिए कितनी खतरनाक साबित हो सकती है? सेव करें और दोस्तों के साथ शेयर करें।\n\n#ChineseAI #Bioweapons #ArtificialIntelligence #TechNews #WorldNews",
+            "mediaItems": [
+              {
+                "_id": "6abd7620be70e578ec94f53d",
+                "url": "https://media.zernio.com/media/1790801438873_3vxrudyl_chinese_ai_tool_bioweapons_risk_global.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-09-30T20:50:39.734Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-09-30T20:50:41.061Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-09-30T20:50:40.953Z",
+            "updatedAt": "2026-09-30T20:50:42.941Z",
+            "platforms": [
+              {
+                "_id": "6abd7620be70e578ec94f53a",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwFLZdx3&_nc_oc=Ado6pTSfBHJWVZrdFZrVODfcNYKcauogAKKmpjRJ9y1Ouitorn2w6-T-QW-ooKAu7Y4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0a-6twokHkzQqvDcR-QILQ&_nc_tpa=Q5bMBQLitAf2N1dyO93CawiSH8g0q2nJ4MHzpISUdTd9UuJbLiFarynyjwzMma3URx6pHsmggoRw0iEyBg&oh=00_AQNC5K_btgswwwaH2JczRC-wuf1xArlysICgJdFDTfeIHA&oe=6AC2543B",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-09-30T20:50:39.734Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "f7c097fa26a5686a38fb6a4d64de4e8c"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-09-30T20:50:43.253542+00:00"
       }
     }
   }
