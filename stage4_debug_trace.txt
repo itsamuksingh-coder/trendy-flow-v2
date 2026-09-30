@@ -1,8 +1,9 @@
-ready_labels: ['bhind_python_swallows_jackal', 'cisf_jawan_shoots_colleagues_kathua_jk', 'jamshedpur_bank_heist_gold_robbery', 'meerut_blue_drum_murder_case_verdict', 'pojk_mandhol_rally_loc_removal_demand']
+ready_labels: ['apple_pay_launch_india_without_otp', 'asian_games_compound_archery_gold_olympic_quota', 'baghpat_plant_theft_police_car_viral', 'gujarat_ats_coast_guard_3000_crore_drugs_seizure', 'hapur_wife_catches_husband_chole_bhature_romance', 'trump_renames_ai_to_super_intelligence_si']
 
-cisf_jawan_shoots_colleagues_kathua_jk: SUCCESS -> video_path=videos/cisf_jawan_shoots_colleagues_kathua_jk.mp4 dur=31.789887
-jamshedpur_bank_heist_gold_robbery: SUCCESS -> video_path=videos/jamshedpur_bank_heist_gold_robbery.mp4 dur=35.556553
-meerut_blue_drum_murder_case_verdict: SUCCESS -> video_path=videos/meerut_blue_drum_murder_case_verdict.mp4 dur=27.52322
-varanasi_bahubali_machine_stuck_road: SKIPPED (not in ready set)
-pojk_mandhol_rally_loc_removal_demand: SUCCESS -> video_path=videos/pojk_mandhol_rally_loc_removal_demand.mp4 dur=29.548231
-bhind_python_swallows_jackal: SUCCESS -> video_path=videos/bhind_python_swallows_jackal.mp4 dur=24.856553
+gujarat_ats_coast_guard_3000_crore_drugs_seizure: SUCCESS -> video_path=videos/gujarat_ats_coast_guard_3000_crore_drugs_seizure.mp4 dur=25.82322
+hapur_wife_catches_husband_chole_bhature_romance: SUCCESS -> video_path=videos/hapur_wife_catches_husband_chole_bhature_romance.mp4 dur=28.642222
+asian_games_compound_archery_gold_olympic_quota: SUCCESS -> video_path=videos/asian_games_compound_archery_gold_olympic_quota.mp4 dur=24.230227
+baghpat_plant_theft_police_car_viral: SUCCESS -> video_path=videos/baghpat_plant_theft_police_car_viral.mp4 dur=32.72322
+apple_pay_launch_india_without_otp: SUCCESS -> video_path=videos/apple_pay_launch_india_without_otp.mp4 dur=25.656553
+trump_renames_ai_to_super_intelligence_si: SUCCESS -> video_path=videos/trump_renames_ai_to_super_intelligence_si.mp4 dur=26.99322
+us_fake_weight_loss_medicine_smuggling_indians: SKIPPED (not in ready set)
