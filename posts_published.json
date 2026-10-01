@@ -1,264 +1,32 @@
 [
   {
-    "topic_label": "indian_pilot_smit_machchhar_saves_flydubai_flight",
-    "virality_score": 10,
-    "reason": "Indian pilot Smit Machchhar saved 174 lives after a mid-air cockpit attack, becoming a massive national hero.",
-    "region": "india",
-    "headline": "33 हजार फीट पर रियल हीरो बने स्मित, मुंबई में लगे पोस्टर, दुनिया भर में चर्चा",
-    "source_summary": "फ्लाईदुबई के कैप्टन स्मित मच्छार ने 33 हजार फीट की ऊंचाई पर पैदा हुए संकट के बीच विमान को सुरक्षित रखने में अहम भूमिका निभाई. फ्लाईदुबई के कैप्टन स्मित मच्छार ने 33 हजार फीट की ऊंचाई पर पैदा हुए संकट के बीच विमान को सुरक्षित रखने में अहम भूमिका निभाई. घायल स्मित का सऊदी अरब के तबुक में इलाज हुआ है. मुंबई स्थित उनके परिवार से स्थानीय भाजपा पार्षद सुषम सावंत ने मुलाकात कर हर संभव मदद का भरोसा दिया और उनकी वापसी पर स्वागत की बात कही.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/story/captain-smit-machchhar-family-meets-bjp-councillor-susham-sawant-offers-help-lclar-rptc-2658436-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T17:08:45+05:30",
-    "hook": "पैंतीस हजार फीट की ऊंचाई पर आया संकट!",
-    "script_hi": "पैंतीस हजार फीट की ऊंचाई पर जब विमान में संकट आया, तब कैप्टन स्मित मच्छार ने अपनी जान पर खेलकर यात्रियों की जान बचाई। सऊदी अरब के तबुक में घायल स्मित का इलाज चल रहा है। मुंबई में उनके परिवार से मिलने पहुंचे नेताओं ने हरसंभव मदद का भरोसा दिया है। पूरी दुनिया में इस भारतीय पायलट की बहादुरी के चर्चे हो रहे हैं।",
-    "tts_text_hi": "पैंतीस हजार फीट की ऊंचाई पर जब विमान में संकट आया, तब कैप्टन स्मित मच्छार ने अपनी जान पर खेलकर यात्रियों की जान बचाई। सऊदी अरब के तबुक में घायल स्मित का इलाज चल रहा है। मुंबई में उनके परिवार से मिलने पहुंचे नेताओं ने हरसंभव मदद का भरोसा दिया है। पूरी दुनिया में इस भारतीय पायलट की बहादुरी के चर्चे हो रहे हैं।",
-    "title": "33 हजार फीट पर हीरो बने स्मित",
-    "caption": "फ्लाईदुबई के कैप्टन स्मित मच्छार ने आसमान में दिखाया अदम्य साहस, मुंबई में लगे पोस्टर।",
-    "hashtags": [
-      "CaptainSmitMachhar",
-      "FlyDubai",
-      "IndianHero",
-      "MumbaiNews",
-      "BravePilot",
-      "TrendingNews",
-      "India"
-    ],
-    "visual_queries": [
-      "commercial airplane flying sky India",
-      "hospital building Saudi Arabia India",
-      "Mumbai local street India"
-    ],
-    "named_person": "Smit Machhar",
-    "named_person_hi": "स्मित मच्छार",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "स्मित मच्छार",
-        "source": "fallback",
-        "query": "Smit Machhar",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31714222/pexels-photo-31714222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airplane flying sky India",
-        "credit": "Jaison Jacob Samuel",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8949801/pexels-photo-8949801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airplane cockpit",
-        "credit": "Darya Sheydel",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19764951/pexels-photo-19764951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai local street India",
-        "credit": "Keith Lobo",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "35 हजार फीट की ऊंचाई पर आया संकट! फ्लाइट में क्या हुआ? ✈️",
-        "caption": "पैंतीस हजार फीट की ऊंचाई पर जब अचानक संकट आया, तब कैप्टन स्मित ने कुछ ऐसा किया कि हर कोई हैरान रह गया। 🚨\n\nमुंबई से उड़ान भरने वाली फ्लाइट में आई इस बड़ी तकनीकी खराबी को जिस सूझबूझ से संभाला गया, उसकी चर्चा आज पूरी दुनिया में हो रही है। स्मित की बहादुरी के चर्चे अब हर तरफ हैं और मुंबई में उनके स्वागत में पोस्टर भी लग गए हैं। 👏\n\nपूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#SmitRealHero #FlightEmergency #BravePilot #MumbaiNews #ViralStory"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "पैंतीस हजार फीट की ऊंचाई पर आया संकट! 🚨\n\n33 हजार फीट की आसमान की बुलंदी पर जब मौत सामने खड़ी थी, तब स्मित ने अपनी जान की परवाह किए बिना यात्रियों की रक्षा की। उनकी इस बहादुरी ने उन्हें रातों-रात रियल हीरो बना दिया है। ✈️\n\nक्या आपने कभी ऐसी किसी घटना के बारे में सुना है? कमेंट में बताएं।\n\n#SmitRealHero #FlightEmergency #BravePilot #MumbaiNews #ViralStory"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "पैंतीस हजार फीट की ऊंचाई पर आया संकट! 🚨\n\nआसमान में जब विमान किसी बड़ी तकनीकी खराबी में फंस गया, तब कैप्टन स्मित ने जो किया उसने सबको हैरान कर दिया। बिना घबराए लिए गए उनके एक फैसले ने सैकड़ों लोगों की जान बचा ली। आज उनकी इसी बहादुरी के चर्चे पूरी दुनिया में हो रहे हैं और मुंबई की सड़कों पर उनके पोस्टर लग चुके हैं। ✈️\n\nऐसी सूझबूझ और जांबाजी पर आपका क्या कहना है? वीडियो देखकर अपनी राय जरूर साझा करें।\n\n#SmitRealHero #FlightEmergency #BravePilot #MumbaiNews #ViralStory"
-      },
-      "hashtags": [
-        "SmitRealHero",
-        "FlightEmergency",
-        "BravePilot",
-        "MumbaiNews",
-        "ViralStory"
-      ]
-    },
-    "audio_path": "audio/indian_pilot_smit_machchhar_saves_flydubai_flight.wav",
-    "audio_duration_sec": 23.53,
-    "video_path": "videos/indian_pilot_smit_machchhar_saves_flydubai_flight.mp4",
-    "video_duration_sec": 31.59,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T13:47:11.340989+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe647496c179356ef7c9bb",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "पैंतीस हजार फीट की ऊंचाई पर आया संकट! 🚨\n\nआसमान में जब विमान किसी बड़ी तकनीकी खराबी में फंस गया, तब कैप्टन स्मित ने जो किया उसने सबको हैरान कर दिया। बिना घबराए लिए गए उनके एक फैसले ने सैकड़ों लोगों की जान बचा ली। आज उनकी इसी बहादुरी के चर्चे पूरी दुनिया में हो रहे हैं और मुंबई की सड़कों पर उनके पोस्टर लग चुके हैं। ✈️\n\nऐसी सूझबूझ और जांबाजी पर आपका क्या कहना है? वीडियो देखकर अपनी राय जरूर साझा करें।\n\n#SmitRealHero #FlightEmergency #BravePilot #MumbaiNews #ViralStory",
-            "mediaItems": [
-              {
-                "_id": "6abe647496c179356ef7c9bd",
-                "url": "https://media.zernio.com/media/1790862450462_xu8y01ph_indian_pilot_smit_machchhar_saves_flydubai_flight.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T13:47:31.681Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T13:47:33.038Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T13:47:32.952Z",
-            "updatedAt": "2026-10-01T13:47:42.099Z",
-            "platforms": [
-              {
-                "_id": "6abe647496c179356ef7c9ba",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T13:47:31.681Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T13:47:41.980Z",
-                "platformPostId": "1692191671846248",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1692191671846248",
-                "publishAttempts": 0,
-                "contentHash": "3326581f888bec70e4e20b220a88f1e4"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T13:47:42.234558+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe6490852a9f7d9e375ef1",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "पैंतीस हजार फीट की ऊंचाई पर आया संकट! 🚨\n\n33 हजार फीट की आसमान की बुलंदी पर जब मौत सामने खड़ी थी, तब स्मित ने अपनी जान की परवाह किए बिना यात्रियों की रक्षा की। उनकी इस बहादुरी ने उन्हें रातों-रात रियल हीरो बना दिया है। ✈️\n\nक्या आपने कभी ऐसी किसी घटना के बारे में सुना है? कमेंट में बताएं।\n\n#SmitRealHero #FlightEmergency #BravePilot #MumbaiNews #ViralStory",
-            "mediaItems": [
-              {
-                "_id": "6abe6490852a9f7d9e375ef3",
-                "url": "https://media.zernio.com/media/1790862478450_9i0l0fzq_indian_pilot_smit_machchhar_saves_flydubai_flight.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T13:47:59.816Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T13:48:01.028Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T13:48:00.988Z",
-            "updatedAt": "2026-10-01T13:48:02.481Z",
-            "platforms": [
-              {
-                "_id": "6abe6490852a9f7d9e375ef0",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T13:47:59.816Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "6b565413b05be5a88baeb5bc5c3b5eaf"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T13:48:02.716734+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "stock_market_crash_sensex_nifty_october",
+    "topic_label": "odi_world_cup_2027_schedule_india_pakistan",
     "virality_score": 9,
-    "reason": "Massive stock market crash wiping out thousands of crores has direct, widespread financial relevance to Indian viewers.",
+    "reason": "High-interest cricket news revealing the 2027 World Cup schedule and India-Pakistan clash.",
     "region": "india",
-    "headline": "शेयर बाजार में तबाही, निवेशकों में हाहाकार... निफ्टी 22300 के पास",
-    "source_summary": "Stock Market Crash: शेयर बाजार में गुरुवार को अचानक बड़ी गिरावट आई. सेंसेक्स-निफ्टी दोनों इंडेक्स बुरी तरह फिसल गए. BSE Sensex 950 अंक का गोता लगा गया.",
-    "source_url": "https://www.aajtak.in/business/news/story/stock-market-crash-sensex-nifty-fall-tata-to-mahindra-these-share-scattered-like-playing-cards-tutc-dskc-2658208-2026-10-01?utm_source=rssfeed",
+    "headline": "वर्ल्ड कप 2027 का शेड्यूल जारी, 10 अक्टूबर को भारत-PAK मैच",
+    "source_summary": "ICC ने 2027 पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है. दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले 14 टीमों के टूर्नामेंट में भारत अपना पहला मैच 7 अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा. भारत-पाकिस्तान का महामुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा. टूर्नामेंट का पहला सेमीफाइनल 17 नवंबर और दूसरा 18 नवंबर को होगा, जबकि फाइनल 21 नवंबर को जोहान्सबर्ग में खेला जाएगा.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/icc-odi-world-cup-2027-schedule-india-vs-australia-pakistan-match-date-ntc-rlch-dskc-2658668-2026-10-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-01T13:14:09+05:30",
-    "hook": "शेयर बाजार में आई भारी तबाही, निवेशकों के डूबे रुपये!",
-    "script_hi": "शेयर बाजार में गुरुवार को अचानक बड़ी गिरावट आई। सेंसेक्स और निफ्टी दोनों इंडेक्स बुरी तरह फिसल गए। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स नौ सौ पचास अंक का गोता लगा गया, जिससे निवेशकों में हाहाकार मच गया। निफ्टी भी बाईस हजार तीन सौ के पास आ पहुंचा है।",
-    "tts_text_hi": "शेयर बाजार में गुरुवार को अचानक बड़ी गिरावट आई। सेंसेक्स और निफ्टी दोनों इंडेक्स बुरी तरह फिसल गए। बॉम्बे स्टॉक एक्सचेंज का सेंसेक्स नौ सौ पचास अंक का गोता लगा गया, जिससे निवेशकों में हाहाकार मच गया। निफ्टी भी बाईस हजार तीन सौ के पास आ पहुंचा है।",
-    "title": "Share Market Crash: शेयर बाजार में भारी गिरावट, सेंसेक्स-निफ्टी धड़ाम",
-    "caption": "शेयर बाजार में गुरुवार को अचानक बड़ी गिरावट, सेंसेक्स नौ सौ पचास अंक टूटा, निफ्टी बाईस हजार तीन सौ के पास पहुंचा।",
+    "published": "2026-10-01T21:56:21+05:30",
+    "hook": "वर्ल्ड कप सत्ताईस का शेड्यूल आया सामने!",
+    "script_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को जोहान्सबर्ग में होगा।",
+    "tts_text_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को जोहान्सबर्ग में होगा।",
+    "title": "वर्ल्ड कप सत्ताईस का शेड्यूल जारी",
+    "caption": "आईसीसी पुरुष वनडे वर्ल्ड कप दो हजार सत्ताईस का पूरा शेड्यूल आ गया है सामने।",
     "hashtags": [
-      "ShareMarket",
-      "Sensex",
-      "Nifty",
-      "StockMarketCrash",
-      "BusinessNews",
-      "IndianEconomy"
+      "Cricket",
+      "WorldCup",
+      "TeamIndia",
+      "IndVsPak",
+      "ICC",
+      "SportsNews"
     ],
     "visual_queries": [
-      "Indian stock market building India",
-      "Mumbai stock exchange trading floor India",
-      "worried investor watching stock chart India"
+      "Cricket stadium India",
+      "South Africa cricket stadium",
+      "Cricket trophy India",
+      "Johannesburg cricket stadium"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -269,763 +37,816 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7567429/pexels-photo-7567429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "stock market traders panic",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.3
+        "query": "Cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Mumbai stock exchange trading floor India",
-        "credit": "Vito Goričan",
-        "duration_sec": 4.3
+        "query": "cricket match stadium crowd",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6771900/pexels-photo-6771900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "worried investor watching stock chart India",
-        "credit": "Alesia  Kozik",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6801646/pexels-photo-6801646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stock market crash India",
-        "credit": "Hanna Pad",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6383268/pexels-photo-6383268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "worried person looking at phone",
-        "credit": "Liza Summer",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7163945/pexels-photo-7163945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "financial loss business failure",
-        "credit": "Leeloo The First",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stock exchange trading screen",
-        "credit": "Vito Goričan",
-        "duration_sec": 4.3
+        "query": "Cricket trophy India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शेयर बाजार में तबाही! निवेशकों के डूबे ₹4 लाख करोड़ | Sensex Nifty Crash",
-        "caption": "निवेशकों के डूबे रुपये! शेयर बाजार में आज अचानक ऐसा क्या हुआ कि सेंसेक्स और निफ्टी दोनों धड़ाम हो गए? 📉\n\nबाजार में आई इस भारी गिरावट से निवेशकों में हाहाकार मचा है और हर कोई अपने पोर्टफोलियो को लेकर टेंशन में है। क्या आपके भी शेयर इसमें फंसे हैं?\n\nपूरी कहानी देखें और समझें बाजार का हाल।\n\n#sharemarket #sensex #nifty #stockmarketcrash #businessnews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "शेयर बाजार में आई भारी तबाही, निवेशकों के डूबे रुपये! 📉\n\nसेंसेक्स और निफ्टी में अचानक आई इस बड़ी गिरावट ने सबको हैरान कर दिया है। निवेशकों की गाढ़ी कमाई पलभर में डूब गई। क्या आगे और गिरेगा बाजार?\n\nपूरी कहानी के लिए वीडियो देखें। 💸\n\n#sharemarket #sensex #nifty #stockmarketcrash #businessnews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "शेयर बाजार में अचानक मचे हाहाकार से निवेशकों के होश उड़ गए हैं! 📉 सेंसेक्स और निफ्टी में आई भारी गिरावट से लाखों-करोड़ों रुपये डूब चुके हैं। बाजार में मची इस तबाही के पीछे आखिर असली वजह क्या है, यह जानना हर निवेशक के लिए बेहद जरूरी है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#sharemarket #sensex #nifty #stockmarketcrash #businessnews"
-      },
-      "hashtags": [
-        "sharemarket",
-        "sensex",
-        "nifty",
-        "stockmarketcrash",
-        "businessnews"
-      ]
-    },
-    "audio_path": "audio/stock_market_crash_sensex_nifty_october.wav",
-    "audio_duration_sec": 17.1,
-    "video_path": "videos/stock_market_crash_sensex_nifty_october.mp4",
-    "video_duration_sec": 25.06,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T13:52:42.812390+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe65cbcf5fe76971b15c07",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "शेयर बाजार में अचानक मचे हाहाकार से निवेशकों के होश उड़ गए हैं! 📉 सेंसेक्स और निफ्टी में आई भारी गिरावट से लाखों-करोड़ों रुपये डूब चुके हैं। बाजार में मची इस तबाही के पीछे आखिर असली वजह क्या है, यह जानना हर निवेशक के लिए बेहद जरूरी है।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#sharemarket #sensex #nifty #stockmarketcrash #businessnews",
-            "mediaItems": [
-              {
-                "_id": "6abe65cbcf5fe76971b15c0b",
-                "url": "https://media.zernio.com/media/1790862793018_4v78yzn9_stock_market_crash_sensex_nifty_october.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T13:53:14.217Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T13:53:15.908Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T13:53:15.856Z",
-            "updatedAt": "2026-10-01T13:53:22.374Z",
-            "platforms": [
-              {
-                "_id": "6abe65cbcf5fe76971b15c06",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T13:53:14.217Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T13:53:22.317Z",
-                "platformPostId": "1092577636821342",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1092577636821342",
-                "publishAttempts": 0,
-                "contentHash": "e76da560b746752baa2897ecf352a133"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T13:53:22.491469+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe65e5828c27fb1a4d3901",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "शेयर बाजार में आई भारी तबाही, निवेशकों के डूबे रुपये! 📉\n\nसेंसेक्स और निफ्टी में अचानक आई इस बड़ी गिरावट ने सबको हैरान कर दिया है। निवेशकों की गाढ़ी कमाई पलभर में डूब गई। क्या आगे और गिरेगा बाजार?\n\nपूरी कहानी के लिए वीडियो देखें। 💸\n\n#sharemarket #sensex #nifty #stockmarketcrash #businessnews",
-            "mediaItems": [
-              {
-                "_id": "6abe65e5828c27fb1a4d390e",
-                "url": "https://media.zernio.com/media/1790862818707_a2ruxl1e_stock_market_crash_sensex_nifty_october.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T13:53:39.940Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T13:53:41.772Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T13:53:41.590Z",
-            "updatedAt": "2026-10-01T13:53:44.068Z",
-            "platforms": [
-              {
-                "_id": "6abe65e5828c27fb1a4d3900",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T13:53:39.940Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "fb8e4a68f42abccee9ef06ad42816ec0"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T13:53:44.368886+00:00"
-      }
-    }
+    "asset_count": 3,
+    "timeline_covered_sec": 15,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "prayagraj_woman_marries_rakhi_brother",
-    "virality_score": 9,
-    "reason": "Shocking Prayagraj story of a woman marrying her rakhi brother and her father performing her symbolic funeral has high shock value.",
-    "region": "india",
-    "headline": "प्रयागराज में बहन ने भाई को ही बना लिया पति!",
-    "source_summary": "प्रयागराज में शादी से जुड़ा एक मामला चर्चा में है, जहां 20 साल की युवती ने उस युवक से शादी की, जिसे परिवार के मुताबिक वह करीब 15 साल से भाई मानकर राखी बांधती थी. शादी की जानकारी मिलने के बाद पिता ने बेटी को मृत मानते हुए प्रतीकात्मक अंतिम संस्कार किया. वहीं युवती का दावा है कि उसने अपनी मर्जी से शादी की है और वह पति के साथ खुश है. दोनों पक्षों के अलग-अलग दावे सामने आए हैं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/prayagraj-woman-marries-rakhi-brother-family-performs-symbolic-funeral-marriage-dispute-shashwat-nandini-mmtc-2657420-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T13:40:52+05:30",
-    "hook": "प्रयागराज में बहन ने भाई को ही बना लिया पति!",
-    "script_hi": "प्रयागराज में शादी का एक अजीब मामला सामने आया है, जहां बीस साल की युवती ने उस युवक से शादी कर ली जिसे वह पिछले पंद्रह साल से भाई मानकर राखी बांधती थी। शादी की खबर मिलते ही पिता ने बेटी को मृत मानकर उसका प्रतीकात्मक अंतिम संस्कार कर दिया। वहीं युवती का कहना है कि उसने अपनी मर्जी से शादी की है और वह अपने पति के साथ बहुत खुश है।",
-    "tts_text_hi": "प्रयागराज में शादी का एक अजीब मामला सामने आया है, जहां बीस साल की युवती ने उस युवक से शादी कर ली जिसे वह पिछले पंद्रह साल से भाई मानकर राखी बांधती थी। शादी की खबर मिलते ही पिता ने बेटी को मृत मानकर उसका प्रतीकात्मक अंतिम संस्कार कर दिया। वहीं युवती का कहना है कि उसने अपनी मर्जी से शादी की है और वह अपने पति के साथ बहुत खुश है।",
-    "title": "प्रयागराज में बहन ने भाई को बनाया पति",
-    "caption": "प्रयागराज में हैरान करने वाला मामला, बहन ने भाई मानकर राखी बांधने वाले युवक से की शादी, पिता ने किया प्रतीकात्मक अंतिम संस्कार।",
-    "hashtags": [
-      "Prayagraj",
-      "UttarPradesh",
-      "ViralNews",
-      "IndiaNews",
-      "AjabGajab",
-      "NewsShorts"
-    ],
-    "visual_queries": [
-      "Prayagraj city street India",
-      "Indian family house exterior",
-      "Indian wedding celebration India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4053538/pexels-photo-4053538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Prayagraj city street India",
-        "credit": "Kishore Singh",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19609201/pexels-photo-19609201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian wedding couple portrait",
-        "credit": "Fotographiya Wedding Photography",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27960941/pexels-photo-27960941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian wedding celebration India",
-        "credit": "Kewal Nagda",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7876290/pexels-photo-7876290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian court legal dispute",
-        "credit": "https://kaboompics.com/",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28210865/pexels-photo-28210865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian temple wedding ritual",
-        "credit": "Legacy Shots by Sharan Sathya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/28042397/pexels-photo-28042397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India crowd",
-        "credit": "Candid Baba",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "प्रयागराज में बहन ने भाई को ही बना लिया पति! 😱 कोर्ट मैरिज का सच आया सामने",
-        "caption": "सीसीटीवी में दिखा जो सच, उसने पुलिस वालों के भी होश उड़ा दिए। 🤯\n\nप्रयागराज से एक ऐसा मामला सामने आया है जहाँ भाई-बहन का रिश्ता तार-तार हो गया। दोनों ने घर से भागकर मंदिर में शादी की और कोर्ट मैरिज के कागजात भी तैयार करवा लिए। जब परिवार को सच्चाई पता चली तो उनके पैरों तले जमीन खिसक गई।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#PrayagrajNews #ShockingStory #UttarPradesh #ViralNews #CrimeNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो सच, उसने पुलिस वालों के भी होश उड़ा दिए। 🤯\n\nप्रयागराज में सगी बहन ने अपने ही भाई को अपना पति बना लिया। मंदिर में सात फेरे लेने के बाद दोनों ने कोर्ट मैरिज भी कर ली।\n\nक्या ऐसा रिश्ता समाज स्वीकार कर सकता है? शेयर करें अपनी राय। 👇\n\n#PrayagrajNews #ShockingStory #UttarPradesh #ViralNews #CrimeNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "प्रयागराज से एक बेहद चौंकाने वाला मामला सामने आया है जिसे सुनकर हर कोई हैरान है। यहाँ एक बहन ने किसी और से नहीं बल्कि अपने ही सगी भाई से शादी रचा ली। 😳\n\nशुरुआत में परिवार को लगा कि वे किसी काम से बाहर गए हैं, लेकिन जब सच सामने आया तो होश उड़ गए। दोनों ने मंदिर में शादी करने के बाद कानूनी दस्तावेज भी तैयार करवा लिए थे। \n\nसमाज और कानून की नजर में यह क्या है? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय जरूर साझा करें।\n\n#PrayagrajNews #ShockingStory #UttarPradesh #ViralNews #CrimeNews"
-      },
-      "hashtags": [
-        "PrayagrajNews",
-        "ShockingStory",
-        "UttarPradesh",
-        "ViralNews",
-        "CrimeNews"
-      ]
-    },
-    "audio_path": "audio/prayagraj_woman_marries_rakhi_brother.wav",
-    "audio_duration_sec": 26.25,
-    "video_path": "videos/prayagraj_woman_marries_rakhi_brother.mp4",
-    "video_duration_sec": 34.22,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T13:59:35.469579+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe675c756cb25ea8a092ab",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "प्रयागराज से एक बेहद चौंकाने वाला मामला सामने आया है जिसे सुनकर हर कोई हैरान है। यहाँ एक बहन ने किसी और से नहीं बल्कि अपने ही सगी भाई से शादी रचा ली। 😳\n\nशुरुआत में परिवार को लगा कि वे किसी काम से बाहर गए हैं, लेकिन जब सच सामने आया तो होश उड़ गए। दोनों ने मंदिर में शादी करने के बाद कानूनी दस्तावेज भी तैयार करवा लिए थे। \n\nसमाज और कानून की नजर में यह क्या है? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें और अपनी राय जरूर साझा करें।\n\n#PrayagrajNews #ShockingStory #UttarPradesh #ViralNews #CrimeNews",
-            "mediaItems": [
-              {
-                "_id": "6abe675c756cb25ea8a092ad",
-                "url": "https://media.zernio.com/media/1790863193699_3uvn9d7z_prayagraj_woman_marries_rakhi_brother.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T13:59:54.701Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T13:59:56.375Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T13:59:56.350Z",
-            "updatedAt": "2026-10-01T14:00:05.218Z",
-            "platforms": [
-              {
-                "_id": "6abe675c756cb25ea8a092aa",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T13:59:54.701Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T14:00:04.550Z",
-                "platformPostId": "2145392692851703",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2145392692851703",
-                "publishAttempts": 0,
-                "contentHash": "3201fb935d202e1e58ca104c2cae6cb6"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:00:06.180327+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe677eeb31f8505d92a56e",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "सीसीटीवी में दिखा जो सच, उसने पुलिस वालों के भी होश उड़ा दिए। 🤯\n\nप्रयागराज में सगी बहन ने अपने ही भाई को अपना पति बना लिया। मंदिर में सात फेरे लेने के बाद दोनों ने कोर्ट मैरिज भी कर ली।\n\nक्या ऐसा रिश्ता समाज स्वीकार कर सकता है? शेयर करें अपनी राय। 👇\n\n#PrayagrajNews #ShockingStory #UttarPradesh #ViralNews #CrimeNews",
-            "mediaItems": [
-              {
-                "_id": "6abe677eeb31f8505d92a571",
-                "url": "https://media.zernio.com/media/1790863225397_oz6pjhu7_prayagraj_woman_marries_rakhi_brother.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:00:27.657Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:00:31.203Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:00:30.868Z",
-            "updatedAt": "2026-10-01T14:00:33.899Z",
-            "platforms": [
-              {
-                "_id": "6abe677eeb31f8505d92a56d",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:00:27.657Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "49f154afea3435d3783deb1b0644082b"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:00:34.250586+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "commercial_lpg_cylinder_price_hike_october",
+    "topic_label": "maharashtra_raigad_diveagar_beach_students_drown",
     "virality_score": 8,
-    "reason": "Commercial LPG cylinder price hike right before the festive season directly impacts everyday household budgets and inflation.",
+    "reason": "Tragic drowning of 8 students on a school picnic at Diveagar beach has high emotional and viral reach.",
     "region": "india",
-    "headline": "त्योहारों से पहले बड़ा झटका, इतना महंगा हुआ कमर्शियल LPG सिलेंडर",
-    "source_summary": "आज यानी 1 अक्टूबर से देश में महंगाई का एक और बड़ा झटका लगा है. त्योहारी सीजन के शुरू होने से ठीक पहले कमर्शियल एलपीजी सिलेंडर की कीमतों में बढ़ोतरी कर दी गई है. सरकारी तेल कंपनियों ने 19 किलोग्राम वाले कमर्शियल एलपीजी सिलेंडर के दाम में 62.50 रुपये का इजाफा कर दिया है. इस बढ़ोतरी के बाद अब देश की राजधानी दिल्ली में 19 किलो वाले कमर्शियल सिलेंडर की नई कीमत 2,810 रुपये हो गई है. देखें...",
-    "source_url": "https://www.aajtak.in/business/news/video/commercial-lpg-cylinder-price-hiked-from-october-1-know-latest-price-vdop-ytvd-2657855-2026-10-01?utm_source=rssfeed",
+    "headline": "महाराष्ट्र: बीच पर पिकनिक मनाने आए 8 छात्रों की डूबने से मौत",
+    "source_summary": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर 11वीं और 12वीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया. पुणे के आलंदी स्थित विनर्स एकेडमी के 48 सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए. सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित किया गया है. सभी मृतक छात्र 16 साल के थे.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/raigad-diveagar-beach-eight-students-drowned-pune-alandi-picnic-accident-lclar-rptc-2658567-2026-10-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-01T08:28:57+05:30",
-    "hook": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है!",
-    "script_hi": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है। एक अक्टूबर से उन्नीस किलोग्राम वाले कमर्शियल एलपीजी सिलेंडर के दाम बासठ रुपये पचास पैसे बढ़ा दिए गए हैं। राजधानी दिल्ली में अब कमर्शियल सिलेंडर की नई कीमत दो हजार आठ सौ दस रुपये हो गई है।",
-    "tts_text_hi": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है। एक अक्टूबर से उन्नीस किलोग्राम वाले कमर्शियल एलपीजी सिलेंडर के दाम बासठ रुपये पचास पैसे बढ़ा दिए गए हैं। राजधानी दिल्ली में अब कमर्शियल सिलेंडर की नई कीमत दो हजार आठ सौ दस रुपये हो गई है।",
-    "title": "कमर्शियल एलपीजी सिलेंडर महंगा",
-    "caption": "त्योहारों से ठीक पहले कमर्शियल एलपीजी सिलेंडर के दाम में बढ़ोतरी, जानिए नई कीमतें।",
+    "published": "2026-10-01T19:26:19+05:30",
+    "hook": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने आए आठ छात्रों की डूबने से मौत!",
+    "script_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
+    "tts_text_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
+    "title": "महाराष्ट्र के बीच पर बड़ा हादसा, आठ छात्रों की डूबने से मौत",
+    "caption": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर पिकनिक मनाने गए आठ छात्रों की समुद्र में डूबने से मौत हो गई। सभी छात्र पुणे के एक कॉलेज के टूर पर गए थे।",
     "hashtags": [
-      "LPGcylinder",
-      "Inflation",
-      "IndiaNews",
-      "CommercialLPG",
-      "NewsUpdate"
-    ],
-    "visual_queries": [
-      "commercial gas cylinder India",
-      "Indian market festive season",
-      "Delhi street view India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29848733/pexels-photo-29848733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial gas cylinder India",
-        "credit": "Marina Zvada",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34625778/pexels-photo-34625778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian market festive season",
-        "credit": "Sreejan Sarkar",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi street view India",
-        "credit": "Roman Saienko",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32659031/pexels-photo-32659031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy Indian market crowd",
-        "credit": "Nandhakishor P",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13632420/pexels-photo-13632420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian street food vendor",
-        "credit": "Swastik Arora",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12436185/pexels-photo-12436185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "restaurant kitchen India",
-        "credit": "Rahul Sapra",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34346366/pexels-photo-34346366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "shopping festival India",
-        "credit": "ÀniL",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "त्योहारों से ठीक पहले कमर्शियल एलपीजी सिलेंडर हुआ महंगा! 🚨",
-        "caption": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है!\n\nकमर्शियल एलपीजी सिलेंडर के दाम अचानक बढ़ा दिए गए हैं, जिसका असर सीधे तौर पर बाहर खाने-पीने और कारोबार पर पड़ेगा।\n\nपूरी कहानी देखें और जानें आपके शहर में अब क्या है नई कीमत।\n\n#CommercialLPG #LPGPriceHike #InflationNews #FestiveSeason #BusinessNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है! 🚨\n\nकमर्शियल एलपीजी सिलेंडर के दाम अचानक बढ़ने से रेस्टोरेंट और बाहर का खाना-पीना महंगा होना तय है।\n\nआपकी जेब पर कितना असर पड़ेगा? पूरी कहानी देखें।\n\n#CommercialLPG #LPGPriceHike #InflationNews #FestiveSeason #BusinessNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है! 🚨\n\nकमर्शियल एलपीजी सिलेंडर के दाम अचानक बढ़ा दिए गए हैं। इस बढ़ोतरी से होटल, ढाबे और रेस्टोरेंट का खर्च बढ़ना तय है, जिसका सीधा असर आम आदमी की जेब पर पड़ेगा।\n\nजानिए क्या हैं नई कीमतें और इस फैसले से क्या-क्या महंगा होने वाला है। पूरी कहानी देखें।\n\n#CommercialLPG #LPGPriceHike #InflationNews #FestiveSeason #BusinessNews"
-      },
-      "hashtags": [
-        "CommercialLPG",
-        "LPGPriceHike",
-        "InflationNews",
-        "FestiveSeason",
-        "BusinessNews"
-      ]
-    },
-    "audio_path": "audio/commercial_lpg_cylinder_price_hike_october.wav",
-    "audio_duration_sec": 19.42,
-    "video_path": "videos/commercial_lpg_cylinder_price_hike_october.mp4",
-    "video_duration_sec": 27.39,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T14:06:18.346865+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe68efad51cae1f9239335",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है! 🚨\n\nकमर्शियल एलपीजी सिलेंडर के दाम अचानक बढ़ा दिए गए हैं। इस बढ़ोतरी से होटल, ढाबे और रेस्टोरेंट का खर्च बढ़ना तय है, जिसका सीधा असर आम आदमी की जेब पर पड़ेगा।\n\nजानिए क्या हैं नई कीमतें और इस फैसले से क्या-क्या महंगा होने वाला है। पूरी कहानी देखें।\n\n#CommercialLPG #LPGPriceHike #InflationNews #FestiveSeason #BusinessNews",
-            "mediaItems": [
-              {
-                "_id": "6abe68efad51cae1f9239337",
-                "url": "https://media.zernio.com/media/1790863596632_huj2aliv_commercial_lpg_cylinder_price_hike_october.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:06:37.706Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:06:39.114Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:06:39.081Z",
-            "updatedAt": "2026-10-01T14:06:48.231Z",
-            "platforms": [
-              {
-                "_id": "6abe68efad51cae1f9239334",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:06:37.706Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T14:06:48.039Z",
-                "platformPostId": "1088086086964792",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1088086086964792",
-                "publishAttempts": 0,
-                "contentHash": "36002d8e756fcb9e822a628ec4b075ff"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:06:48.307501+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe690d922efc0dbda6b540",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "त्योहारों से ठीक पहले आम जनता को महंगाई का बड़ा झटका लगा है! 🚨\n\nकमर्शियल एलपीजी सिलेंडर के दाम अचानक बढ़ने से रेस्टोरेंट और बाहर का खाना-पीना महंगा होना तय है।\n\nआपकी जेब पर कितना असर पड़ेगा? पूरी कहानी देखें।\n\n#CommercialLPG #LPGPriceHike #InflationNews #FestiveSeason #BusinessNews",
-            "mediaItems": [
-              {
-                "_id": "6abe690d922efc0dbda6b542",
-                "url": "https://media.zernio.com/media/1790863626471_fzsf86ey_commercial_lpg_cylinder_price_hike_october.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:07:07.704Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:07:09.203Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:07:09.136Z",
-            "updatedAt": "2026-10-01T14:07:10.773Z",
-            "platforms": [
-              {
-                "_id": "6abe690d922efc0dbda6b53f",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:07:07.704Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "d8d300bb3c60971e0d6456e983e90e98"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:07:11.052304+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "jaipur_rado_showroom_3_crore_theft",
-    "virality_score": 8,
-    "reason": "Fلمی अंदाज में Jaipur के Rado शोरूम में 3 करोड़ की चोरी का CCTV फुटेज उच्च वायरल पोटेंशियल रखता है।",
-    "region": "india",
-    "headline": "जयपुर: Rado शोरूम में फिल्मी अंदाज में चोरी, रॉड से शटर उठाया और बोरों में भर ले गए महंगी घड़ियां",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/10/jaipur-news.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"जयपुर: Rado शोरूम में फिल्मी अंदाज में चोरी, रॉड से शटर उठाया और बोरों में भर ले गए महंगी घड़ियां\" /></figure>जयपुर में Rado के लग्जरी घड़ी शोरूम में बड़ी चोरी हुई. 5 से 7 बदमाशों ने गुरुवार सुबह करीब 4 बजे लोहे की रॉड से शटर उठाकर शोरूम में प्रवेश किया. लाखों-करोड़ों रुपए की कीमत की घड़ियां लेकर फरार हो गए.",
-    "source_url": "https://www.tv9hindi.com/state/rajasthan/jaipur-rado-showroom-theft-tonk-road-luxury-watches-stolen-3922569.html",
-    "source_name": "TV9 Hindi",
-    "published": "Thu, 01 Oct 2026 17:19:06 +0530",
-    "hook": "जयपुर के पॉश शोरूम में फिल्मी स्टाइल में डाका!",
-    "script_hi": "जयपुर में राडो के लग्जरी घड़ी शोरूम में हुई बड़ी चोरी। पांच से सात बदमाशों ने सुबह चार बजे लोहे की रॉड से शटर उठाया और लाखों-करोड़ों की घड़ियां बोरों में भरकर फरार हो गए। पुलिस सीसीटीवी फुटेज खंगाल रही है।",
-    "tts_text_hi": "जयपुर में राडो के लग्जरी घड़ी शोरूम में हुई बड़ी चोरी। पांच से सात बदमाशों ने सुबह चार बजे लोहे की रॉड से शटर उठाया और लाखों-करोड़ों की घड़ियां बोरों में भरकर फरार हो गए। पुलिस सीसीटीवी फुटेज खंगाल रही है।",
-    "title": "जयपुर के Rado शोरूम में चोरी",
-    "caption": "जयपुर में राडो के लग्जरी घड़ी शोरूम में बड़ी चोरी, लाखों की घड़ियां लेकर फरार हुए बदमाश।",
-    "hashtags": [
-      "JaipurNews",
-      "CrimeNews",
-      "RajasthanNews",
-      "RadoWatch",
+      "MaharashtraNews",
+      "Raigad",
+      "DiveagarBeach",
+      "Tragedy",
       "BreakingNews",
       "IndiaNews"
     ],
     "visual_queries": [
-      "luxury watch showroom India",
-      "police investigation crime scene India",
-      "CCTV camera security India"
+      "Maharashtra beach India",
+      "sea waves India",
+      "rescue operation India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 27,
+    "est_duration_sec": 28.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15308442/pexels-photo-15308442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Maharashtra beach India",
+        "credit": "Saurabh Parange",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36670574/pexels-photo-36670574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sea waves India",
+        "credit": "Haroon Syed",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "rescue operation India",
+        "credit": "Arto Suraj",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/1895114/pexels-photo-1895114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "group of students india",
+        "credit": "Balljinder Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39006535/pexels-photo-39006535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian college friends group",
+        "credit": "Arto Suraj",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37328504/pexels-photo-37328504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "empty beach coastline india",
+        "credit": "Faheema  Farooque",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29548655/pexels-photo-29548655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "coastal area waves india",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "महाराष्ट्र बीच हादसा: पिकनिक मनाने आए 8 छात्रों की डूबने से मौत 🌊",
+        "caption": "महाराष्ट्र के दिवेआगर बीच पर जश्न पलभर में मातम में बदल गया। 🌊 पिकनिक मनाने आए 8 छात्र समुद्र की तेज लहरों की चपेट में आ गए।\n\nदोस्तों के साथ मस्ती करने आए इन युवाओं की अचानक हुई इस मौत से पूरे इलाके में कोहराम मच गया है।\n\nपूरी कहानी देखें और अपनों को सतर्क रखें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा! पिकनिक मनाने आए 8 छात्रों की लहरों में डूबने से मौत। 🌊\n\nखुशियों भरा दिन कैसे चंद लम्हों में मातम में बदल गया? जानिए पूरी खबर। वीडियो को शेयर कर दूसरों को भी सतर्क करें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पिकनिक मनाने गए थे छात्र, लेकिन समुद्र की एक लहर ने सब कुछ छीन लिया... 🌊 महाराष्ट्र के दिवेआगर बीच पर हुए इस दर्दनाक हादसे में 8 छात्रों की जान चली गई है।\n\nखुशी का माहौल अचानक कैसे चीख-पुकार में बदल गया? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें और सतर्क रहें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+      },
+      "hashtags": [
+        "MaharashtraNews",
+        "DiveagarBeach",
+        "BreakingNews",
+        "StudentTragedy",
+        "LocalNews"
+      ]
+    },
+    "audio_path": "audio/maharashtra_raigad_diveagar_beach_students_drown.wav",
+    "audio_duration_sec": 14.47,
+    "video_path": "videos/maharashtra_raigad_diveagar_beach_students_drown.mp4",
+    "video_duration_sec": 22.49,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-01T17:26:55.477354+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe97f33dfbd6d8d5da377f",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पिकनिक मनाने गए थे छात्र, लेकिन समुद्र की एक लहर ने सब कुछ छीन लिया... 🌊 महाराष्ट्र के दिवेआगर बीच पर हुए इस दर्दनाक हादसे में 8 छात्रों की जान चली गई है।\n\nखुशी का माहौल अचानक कैसे चीख-पुकार में बदल गया? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें और सतर्क रहें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews",
+            "mediaItems": [
+              {
+                "_id": "6abe97f33dfbd6d8d5da3781",
+                "url": "https://media.zernio.com/media/1790875632674_uhwewesv_maharashtra_raigad_diveagar_beach_students_drown.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:27:14.044Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:27:15.358Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:27:15.312Z",
+            "updatedAt": "2026-10-01T17:27:20.622Z",
+            "platforms": [
+              {
+                "_id": "6abe97f33dfbd6d8d5da377e",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:27:14.044Z",
+                "status": "published",
+                "publishedAt": "2026-10-01T17:27:20.542Z",
+                "platformPostId": "1824331548572983",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1824331548572983",
+                "publishAttempts": 0,
+                "contentHash": "44bf0aed68c493630dc990b36c0836b2"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:27:20.747794+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe98183dfbd6d8d5da37f9",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा! पिकनिक मनाने आए 8 छात्रों की लहरों में डूबने से मौत। 🌊\n\nखुशियों भरा दिन कैसे चंद लम्हों में मातम में बदल गया? जानिए पूरी खबर। वीडियो को शेयर कर दूसरों को भी सतर्क करें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews",
+            "mediaItems": [
+              {
+                "_id": "6abe98183dfbd6d8d5da37fb",
+                "url": "https://media.zernio.com/media/1790875668904_c2o1qmjf_maharashtra_raigad_diveagar_beach_students_drown.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:27:51.167Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:27:52.380Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:27:52.356Z",
+            "updatedAt": "2026-10-01T17:27:53.847Z",
+            "platforms": [
+              {
+                "_id": "6abe98183dfbd6d8d5da37f8",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:27:51.167Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "b51b3c2db59b37fa1dfbb396c78cfddb"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:27:54.070502+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "stock_market_crash_nifty_8_weeks_decline",
+    "virality_score": 8,
+    "reason": "Historic 8-week stock market decline creates widespread financial anxiety among retail investors.",
+    "region": "india",
+    "headline": "25 सालों में भी इतनी लंबी गिरावट नहीं... बाजार हुआ क्रैश, अभी और फैला डर!",
+    "source_summary": "भारतीय शेयर बाजार लगातार 8 हफ्ते से गिर रहा है. ऐसा 25 सालों में भी नहीं हुआ था कि निफ्टी लगातार 8 हफ्ते गिरा हो. इस गिरावट में सबसे ज्‍यादा योगदान टाटा मोटर्स पैसेंजर व्‍हीकल्‍स ने दिया है.",
+    "source_url": "https://www.aajtak.in/business/news/story/stock-market-sensex-nifty-slide-to-eighth-straight-week-longest-in-25-years-tutd-dskc-2658524-2026-10-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-01T18:35:09+05:30",
+    "hook": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार में भयंकर गिरावट से निवेशकों में खौफ!",
+    "script_hi": "पच्चीस सालों में भी कभी ऐसा नहीं हुआ था! भारतीय शेयर बाजार लगातार आठ हफ्ते से गिर रहा है। निफ्टी में आई इस ऐतिहासिक गिरावट ने निवेशकों की चिंता बढ़ा दी है। इस गिरावट में सबसे ज्यादा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। बाजार के एक्सपर्ट्स का मानना है कि डर अभी और फैल सकता है।",
+    "tts_text_hi": "पच्चीस सालों में भी कभी ऐसा नहीं हुआ था! भारतीय शेयर बाजार लगातार आठ हफ्ते से गिर रहा है। निफ्टी में आई इस ऐतिहासिक गिरावट ने निवेशकों की चिंता बढ़ा दी है। इस गिरावट में सबसे ज्यादा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। बाजार के एक्सपर्ट्स का मानना है कि डर अभी और फैल सकता है।",
+    "title": "शेयर बाजार में पच्चीस साल का रिकॉर्ड टूटा, निफ्टी लगातार आठ हफ्ते गिरा",
+    "caption": "भारतीय शेयर बाजार में लगातार आठ हफ्ते की गिरावट से निवेशकों में डर का माहौल है। पच्चीस सालों में ऐसा पहली बार हुआ है।",
+    "hashtags": [
+      "ShareMarket",
+      "StockMarketIndia",
+      "Nifty",
+      "TataMotors",
+      "BusinessNews",
+      "MarketCrash"
+    ],
+    "visual_queries": [
+      "Indian stock exchange building",
+      "stock market graph down India",
+      "worried investor India",
+      "Tata Motors India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/37684920/15977923_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "stock market graph down India",
+        "credit": "Jakub Zerdzicki",
+        "source_duration_sec": 17,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "stock market crash India",
+        "credit": "Monstera Production",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stock market crash India",
+        "credit": "Vito Goričan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37841463/pexels-photo-37841463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tata Motors India",
+        "credit": "Abhishek  Royal",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 22,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "25 साल का रिकॉर्ड टूटा! शेयर बाजार में भयंकर गिरावट 📉",
+        "caption": "पच्चीस सालों का रिकॉर्ड टूट गया! शेयर बाजार में मची तबाही से निवेशकों के होश उड़े हुए हैं। 📉\n\nनिफ्टी लगातार आठ हफ्तों से नीचे गिर रहा है और डर है कि यह गिरावट अभी और गहरी होगी। क्या आपके निवेश भी इस क्रैश की चपेट में आ गए हैं?\n\nपूरी कहानी देखें और समझें बाजार का यह हाल।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "पच्चीस सालों का रिकॉर्ड टूटा! 📉 शेयर बाजार में ऐसी भयंकर गिरावट पहले कभी नहीं देखी गई।\n\nनिफ्टी लगातार 8 हफ्ते से गोता लगा रहा है और डर है कि खेल अभी खत्म नहीं हुआ। क्या आपका पोर्टफोलियो भी सेफ है? कमेंट में बताएं।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "पच्चीस सालों का रिकॉर्ड टूट गया! शेयर बाजार में ऐसी भयंकर गिरावट आई है कि निवेशकों में खौफ का माहौल है। 📉\n\nनिफ्टी लगातार आठ हफ्तों से गिर रहा है और मार्केट एक्सपर्ट्स का मानना है कि डर का यह सिलसिला अभी थमा नहीं है। आपके निवेश पर इसका क्या असर पड़ा है? पूरी कहानी वीडियो में देखें।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+      },
+      "hashtags": [
+        "ShareMarket",
+        "StockMarketCrash",
+        "Nifty",
+        "Sensex",
+        "BusinessNews"
+      ]
+    },
+    "audio_path": "audio/stock_market_crash_nifty_8_weeks_decline.wav",
+    "audio_duration_sec": 20.6,
+    "video_path": "videos/stock_market_crash_nifty_8_weeks_decline.mp4",
+    "video_duration_sec": 28.62,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-01T17:33:25.331580+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe997bb383ad436a0b2c14",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पच्चीस सालों का रिकॉर्ड टूट गया! शेयर बाजार में ऐसी भयंकर गिरावट आई है कि निवेशकों में खौफ का माहौल है। 📉\n\nनिफ्टी लगातार आठ हफ्तों से गिर रहा है और मार्केट एक्सपर्ट्स का मानना है कि डर का यह सिलसिला अभी थमा नहीं है। आपके निवेश पर इसका क्या असर पड़ा है? पूरी कहानी वीडियो में देखें।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews",
+            "mediaItems": [
+              {
+                "_id": "6abe997bb383ad436a0b2c16",
+                "url": "https://media.zernio.com/media/1790876025544_lkrma8fj_stock_market_crash_nifty_8_weeks_decline.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:33:46.788Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:33:47.855Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:33:47.816Z",
+            "updatedAt": "2026-10-01T17:33:54.390Z",
+            "platforms": [
+              {
+                "_id": "6abe997bb383ad436a0b2c13",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:33:46.788Z",
+                "status": "published",
+                "publishedAt": "2026-10-01T17:33:54.308Z",
+                "platformPostId": "2597519660689488",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2597519660689488",
+                "publishAttempts": 0,
+                "contentHash": "425907c8f9ed7c6b7267b893313ec787"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:33:54.525689+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe999b83f5b70fe356c213",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "पच्चीस सालों का रिकॉर्ड टूटा! 📉 शेयर बाजार में ऐसी भयंकर गिरावट पहले कभी नहीं देखी गई।\n\nनिफ्टी लगातार 8 हफ्ते से गोता लगा रहा है और डर है कि खेल अभी खत्म नहीं हुआ। क्या आपका पोर्टफोलियो भी सेफ है? कमेंट में बताएं।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews",
+            "mediaItems": [
+              {
+                "_id": "6abe999b83f5b70fe356c215",
+                "url": "https://media.zernio.com/media/1790876056684_6jbaz6pm_stock_market_crash_nifty_8_weeks_decline.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:34:18.442Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:34:19.760Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:34:19.657Z",
+            "updatedAt": "2026-10-01T17:34:21.819Z",
+            "platforms": [
+              {
+                "_id": "6abe999b83f5b70fe356c212",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:34:18.442Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "95dba425d3ac869b1cf671b639028bdb"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:34:22.125677+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "shahjahanpur_two_ascetics_murdered_temple_burnt",
+    "virality_score": 8,
+    "reason": "Brutal murder and burning of two elderly sadhus inside a temple in UP is a high-impact crime story.",
+    "region": "india",
+    "headline": "शाहजहांपुर में 2 साधुओं की न‍िर्मम हत्या, मंदिर परिसर में ही शवों को जलाया",
+    "source_summary": "उत्तर प्रदेश के शाहजहांपुर से एक बेहद सनसनीखेज और दिल दहला देने वाला मामला सामने आया है. यहाँ के खुटार थाना क्षेत्र के सुता गांव में दो बुजुर्ग साधुओं की बेरहमी से हत्या कर दी गई. मृतकों की पहचान बाबा गोपाल दास और बाबा बिहारी दास के रूप में हुई है, जो लंबे समय से गाँव के बाहर बने देवीस्थान में रह रहे थे. हैरान करने वाली बात यह है कि हत्या के बाद आरोपियों ने सबूत मिटाने के लिए मंदिर परिसर के भीतर ही दोनों साधुओं के शवों को जलाने की कोशिश भी की.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/video/two-sadhus-murdered-and-bodies-set-on-fire-inside-temple-premises-in-shahjahanpur-vdoj-ytvd-2658447-2026-10-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-01T17:34:19+05:30",
+    "hook": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या!",
+    "script_hi": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या से सनसनी फैल गई है. खुटार थाना क्षेत्र के सुता गांव में बाबा गोपाल दास और बाबा बिहारी दास के शव मंदिर परिसर में मिले. आरोप है कि हत्या के बाद साक्ष्य मिटाने के लिए शवों को जलाने की कोशिश की गई. पुलिस मामले की जांच में जुटी है।",
+    "tts_text_hi": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या से सनसनी फैल गई है. खुटार थाना क्षेत्र के सुता गांव में बाबा गोपाल दास और बाबा बिहारी दास के शव मंदिर परिसर में मिले. आरोप है कि हत्या के बाद साक्ष्य मिटाने के लिए शवों को जलाने की कोशिश की गई. पुलिस मामले की जांच में जुटी है।",
+    "title": "शाहजहांपुर में दो साधुओं की निर्मम हत्या",
+    "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की बेरहमी से हत्या, मंदिर परिसर में शव जलाने की कोशिश।",
+    "hashtags": [
+      "Shahjahanpur",
+      "UttarPradesh",
+      "CrimeNews",
+      "IndiaNews",
+      "BreakingNews",
+      "SadhuMurder"
+    ],
+    "visual_queries": [
+      "Uttar Pradesh police station India",
+      "Hindu temple courtyard India",
+      "crime scene investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/18323869/18323869-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "rural village India morning",
+        "credit": "Gobin Barman",
+        "source_duration_sec": 52,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8649666/pexels-photo-8649666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Uttar Pradesh police station India",
+        "credit": "Amit Sharma",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39043377/pexels-photo-39043377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Hindu temple courtyard India",
+        "credit": "Ajinkya Arun  Bhosale",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crime scene investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6182743/pexels-photo-6182743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "smoke rising outdoors India",
+        "credit": "Nikhil Manan",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37847246/pexels-photo-37847246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian village pathway drone",
+        "credit": "Huyn Nguyen",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33892233/pexels-photo-33892233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "holy man meditation India",
+        "credit": "Aman Jain",
+        "duration_sec": 4.0
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या, मंदिर में जलाए गए शव 🚨",
+        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nमंदिर परिसर के अंदर दोनों साधुओं के शव मिलने से हड़कंप मच गया है। बदमाशों ने हत्या के बाद सबूत मिटाने के लिए शवों को भी वहीं जला दिया। पुलिस मौके पर पहुंचकर जांच में जुटी है।\n\nपूरी कहानी वीडियो में देखें।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nमंदिर परिसर में ही दोनों साधुओं के शव जलाए जाने से इलाके में सनसनी फैल गई है। क्या है इस खौफनाक वारदात के पीछे की सच्चाई?\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nघटना शाहजहांपुर के एक मंदिर परिसर की है, जहां दो साधुओं के शव मिलने से पूरे इलाके में कोहराम मच गया। शुरुआती जांच में सामने आया है कि हत्या के बाद उनके शवों को मंदिर में ही जला दिया गया था। पुलिस और फॉरेंसिक टीम मामले की गहराई से जांच कर रही है।\n\nपूरी कहानी क्या है, जानने के लिए वीडियो पूरा देखें।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
+      },
+      "hashtags": [
+        "ShahjahanpurNews",
+        "UPPolice",
+        "CrimeNews",
+        "UttarPradesh",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/shahjahanpur_two_ascetics_murdered_temple_burnt.wav",
+    "audio_duration_sec": 21.21,
+    "video_path": "videos/shahjahanpur_two_ascetics_murdered_temple_burnt.mp4",
+    "video_duration_sec": 29.26,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-01T17:39:42.316710+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe9af298d730cb748b0c66",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nघटना शाहजहांपुर के एक मंदिर परिसर की है, जहां दो साधुओं के शव मिलने से पूरे इलाके में कोहराम मच गया। शुरुआती जांच में सामने आया है कि हत्या के बाद उनके शवों को मंदिर में ही जला दिया गया था। पुलिस और फॉरेंसिक टीम मामले की गहराई से जांच कर रही है।\n\nपूरी कहानी क्या है, जानने के लिए वीडियो पूरा देखें।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews",
+            "mediaItems": [
+              {
+                "_id": "6abe9af298d730cb748b0c68",
+                "url": "https://media.zernio.com/media/1790876399539_5zjgsjrp_shahjahanpur_two_ascetics_murdered_temple_burnt.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:40:01.207Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:40:02.955Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:40:02.842Z",
+            "updatedAt": "2026-10-01T17:40:08.753Z",
+            "platforms": [
+              {
+                "_id": "6abe9af298d730cb748b0c65",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:40:01.207Z",
+                "status": "published",
+                "publishedAt": "2026-10-01T17:40:08.552Z",
+                "platformPostId": "2656994154763602",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=2656994154763602",
+                "publishAttempts": 0,
+                "contentHash": "c7195a478f80b1e20bf00f641db7e563"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:40:09.007638+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe9b17d695543764d86200",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nमंदिर परिसर में ही दोनों साधुओं के शव जलाए जाने से इलाके में सनसनी फैल गई है। क्या है इस खौफनाक वारदात के पीछे की सच्चाई?\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews",
+            "mediaItems": [
+              {
+                "_id": "6abe9b17d695543764d86207",
+                "url": "https://media.zernio.com/media/1790876435207_z6wdbvqm_shahjahanpur_two_ascetics_murdered_temple_burnt.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:40:36.758Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:40:39.533Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:40:39.441Z",
+            "updatedAt": "2026-10-01T17:40:42.680Z",
+            "platforms": [
+              {
+                "_id": "6abe9b17d695543764d861ff",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:40:36.758Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "aa91c6d9627235ef9504a2dc196b45e6"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:40:42.977290+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "gujarat_kosamba_triple_murder_body_in_drum",
+    "virality_score": 8,
+    "reason": "Bizarre and chilling cold-case discovery of three murders with a body hidden in a drum and cement.",
+    "region": "india",
+    "headline": "ड्रम में शव, ऊपर सीमेंट और आंगन में कब्र... ऐसे खुला 3 हत्याओं का राज",
+    "source_summary": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला. पुलिस के मुताबिक, माधवदास ने अपनी पत्नी को हत्या के मामले में फंसाने के लिए पुलिस को सूचना दी थी, लेकिन पूछताछ आगे बढ़ी तो उसकी ही भूमिका सामने आ गई. जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और बाद में घर के आंगन में दफना दिया गया.",
+    "source_url": "https://www.aajtak.in/india/gujarat/story/surat-kosamba-triple-murder-cement-drum-body-wife-husband-arrested-lclcn-strc-2658579-2026-10-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-01T19:41:07+05:30",
+    "hook": "गुजरात के कोसंबा से तीनहरे हत्याकांड का दहला देने वाला सच आया सामने!",
+    "script_hi": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला है। आरोपी माधवदास ने अपनी पत्नी को फंसाने के लिए पुलिस को झूठी सूचना दी थी, लेकिन पूछताछ में उसी की करतूत सामने आ गई। पुलिस जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और घर के आंगन में दफना दिया गया था।",
+    "tts_text_hi": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला है। आरोपी माधवदास ने अपनी पत्नी को फंसाने के लिए पुलिस को झूठी सूचना दी थी, लेकिन पूछताछ में उसी की करतूत सामने आ गई। पुलिस जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और घर के आंगन में दफना दिया गया था।",
+    "title": "ड्रम में शव, आंगन में कब्र: गुजरात में तीनहरे हत्याकांड का खुलासा",
+    "caption": "गुजरात के कोसंबा में चार साल पुराने मामले की जांच में हुआ सनसनीखेज खुलासा, पत्नी को फंसाने की कोशिश में खुद फंसा आरोपी।",
+    "hashtags": [
+      "GujaratNews",
+      "Kosamba",
+      "CrimeNews",
+      "PoliceInvestigation",
+      "IndiaCrime"
+    ],
+    "visual_queries": [
+      "police station India",
+      "Indian police investigation crime scene",
+      "cement drum container India",
+      "courtyard house India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
@@ -1033,701 +854,86 @@
         "type": "video",
         "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "police investigation crime scene India",
+        "query": "Indian police investigation crime scene",
         "credit": "cottonbro studio",
         "source_duration_sec": 11,
         "duration_sec": 6
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/15365449/15365449-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "empty shopping mall corridor",
-        "credit": "Matthias Groeneveld",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7452040/pexels-photo-7452040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "retail shop break in security camera",
-        "credit": "Nothing Ahead",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "CCTV camera security India",
-        "credit": "Rakesh Teja",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29602606/pexels-photo-29602606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "retail shop shutter locked",
-        "credit": "Renee B",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11832470/pexels-photo-11832470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night city street India",
-        "credit": "Adhwaith Chandran",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/24181595/pexels-photo-24181595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "night time closed shop street",
-        "credit": "Alex Quezada",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "जयपुर के Rado शोरूम में फिल्मी स्टाइल में डाका! चोरों ने साफ कर दीं महंगी घड़ियां 😱",
-        "caption": "जयपुर के पॉश शोरूम में फिल्मी स्टाइल में डाका! 🚨\n\nराजधानी जयपुर के एक बड़े Rado शोरूम में चोरों ने शटर तोड़कर करोड़ों की महंगी घड़ियां बोरों में भर लीं। वारदात का तरीका इतना शातिर था कि पुलिस भी हैरान रह गई।\n\nपूरी कहानी वीडियो में देखें और बताएं, ऐसी चोरी रोकने के लिए क्या होना चाहिए? ⌚\n\n#JaipurNews #RadoShowroomRobbery #CrimeNewsHindi #JaipurPolice #LatestHindiNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "जयपुर के पॉश शोरूम में फिल्मी स्टाइल में डाका! 🚨\n\nरॉड से शटर उठाया और बोरों में महंगी घड़ियां भरकर फरार हो गए चोर। सीसीटीवी फुटेज देख पुलिस के भी होश उड़ गए।\n\nपूरी घटना जानने के लिए वीडियो पूरा देखें और दोस्तों के साथ शेयर करें। ⌚👇\n\n#JaipurNews #RadoShowroomRobbery #CrimeNewsHindi #JaipurPolice #LatestHindiNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "जयपुर के पॉश इलाके में स्थित एक बड़े Rado शोरूम में चोरों ने फिल्मी अंदाज में धावा बोल दिया। 🚨\n\nबदमाशों ने रॉड से शटर उठाया और देखते ही देखते बोरों में भरकर करोड़ों की महंगी घड़ियां ले उड़े। सुबह जब शोरूम खुला तब जाकर इस दुस्साहसिक चोरी का पता चला। सीसीटीवी में कैद हुई इस वारदात ने सबको हैरान कर दिया है। \n\nपूरी खबर के लिए वीडियो देखें। ⌚\n\n#JaipurNews #RadoShowroomRobbery #CrimeNewsHindi #JaipurPolice #LatestHindiNews"
-      },
-      "hashtags": [
-        "JaipurNews",
-        "RadoShowroomRobbery",
-        "CrimeNewsHindi",
-        "JaipurPolice",
-        "LatestHindiNews"
-      ]
-    },
-    "audio_path": "audio/jaipur_rado_showroom_3_crore_theft.wav",
-    "audio_duration_sec": 14.81,
-    "video_path": "videos/jaipur_rado_showroom_3_crore_theft.mp4",
-    "video_duration_sec": 22.79,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T14:12:38.155367+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe6a6efef6026e6f6dc77a",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "जयपुर के पॉश इलाके में स्थित एक बड़े Rado शोरूम में चोरों ने फिल्मी अंदाज में धावा बोल दिया। 🚨\n\nबदमाशों ने रॉड से शटर उठाया और देखते ही देखते बोरों में भरकर करोड़ों की महंगी घड़ियां ले उड़े। सुबह जब शोरूम खुला तब जाकर इस दुस्साहसिक चोरी का पता चला। सीसीटीवी में कैद हुई इस वारदात ने सबको हैरान कर दिया है। \n\nपूरी खबर के लिए वीडियो देखें। ⌚\n\n#JaipurNews #RadoShowroomRobbery #CrimeNewsHindi #JaipurPolice #LatestHindiNews",
-            "mediaItems": [
-              {
-                "_id": "6abe6a6efef6026e6f6dc77c",
-                "url": "https://media.zernio.com/media/1790863979367_uffsvp9u_jaipur_rado_showroom_3_crore_theft.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:13:00.804Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:13:02.745Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:13:02.692Z",
-            "updatedAt": "2026-10-01T14:13:08.383Z",
-            "platforms": [
-              {
-                "_id": "6abe6a6efef6026e6f6dc779",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:13:00.804Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T14:13:08.341Z",
-                "platformPostId": "1983737772291031",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1983737772291031",
-                "publishAttempts": 0,
-                "contentHash": "1d30c9c0b124980035facd6f9616bbd6"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:13:08.475136+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe6a8c5ba915308965c159",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "जयपुर के पॉश शोरूम में फिल्मी स्टाइल में डाका! 🚨\n\nरॉड से शटर उठाया और बोरों में महंगी घड़ियां भरकर फरार हो गए चोर। सीसीटीवी फुटेज देख पुलिस के भी होश उड़ गए।\n\nपूरी घटना जानने के लिए वीडियो पूरा देखें और दोस्तों के साथ शेयर करें। ⌚👇\n\n#JaipurNews #RadoShowroomRobbery #CrimeNewsHindi #JaipurPolice #LatestHindiNews",
-            "mediaItems": [
-              {
-                "_id": "6abe6a8c5ba915308965c15b",
-                "url": "https://media.zernio.com/media/1790864009656_sgwvatli_jaipur_rado_showroom_3_crore_theft.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:13:30.761Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:13:32.334Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:13:32.276Z",
-            "updatedAt": "2026-10-01T14:13:34.243Z",
-            "platforms": [
-              {
-                "_id": "6abe6a8c5ba915308965c158",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:13:30.761Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "b109d8058b0aebdcc265889a3c41a4c6"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:13:34.538903+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "noida_no_puc_no_fuel_rule_enforcement",
-    "virality_score": 8,
-    "reason": "Strict enforcement of 'No PUC No Fuel' rule in Noida causing major commuter chaos has immediate local public utility value.",
-    "region": "india",
-    "headline": "1 अक्टूबर से नोएडा में सख्ती, बिना PUC लौटाए गए वाहन",
-    "source_summary": "नोएडा और गौतमबुद्धनगर में 1 अक्टूबर से बिना वैध PUCC वाले वाहनों को पेट्रोल-डीजल नहीं दिया जा रहा है. पेट्रोल पंपों पर मोबाइल ऐप से PUC की जांच हुई. कई वाहन चालक नियम से अनजान मिले, वहीं ऐप में सर्वर की दिक्कत भी सामने आई. वीडियो में जानें फ्यूल को लेकर लोगों को क्या दिक्कतें हुईं.",
-    "source_url": "https://www.aajtak.in/short-videos/video/no-fuel-without-puc-october-2026-noida-pucc-rule-petrol-pump-verification-process-mmtm-2658421-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T16:33:52+05:30",
-    "hook": "एक अक्टूबर से नोएडा के पेट्रोल पंपों पर बिना पीयूसी सर्टिफिकेट के पेट्रोल और डीजल नहीं मिलने से वाहन चालकों को भारी परेशानी का सामना करना पड़ा है।",
-    "script_hi": "एक अक्टूबर से नोएडा और गौतमबुद्धनगर में बिना वैध पीयूसी यानी प्रदूषण नियंत्रण प्रमाण पत्र के वाहनों को पेट्रोल और डीजल देना बंद कर दिया गया है। पेट्रोल पंपों पर मोबाइल ऐप के जरिए पीयूसी की सख्ती से जांच की जा रही है। कई वाहन चालक इस नए नियम से अनजान नजर आए, तो वहीं ऐप में सर्वर की तकनीकी दिक्कतें भी सामने आईं, जिससे लोगों को लंबी कतारों में खड़ा होना पड़ा।",
-    "tts_text_hi": "एक अक्टूबर से नोएडा और गौतमबुद्धनगर में बिना वैध पीयूसी यानी प्रदूषण नियंत्रण प्रमाण पत्र के वाहनों को पेट्रोल और डीजल देना बंद कर दिया गया है। पेट्रोल पंपों पर मोबाइल ऐप के जरिए पीयूसी की सख्ती से जांच की जा रही है। कई वाहन चालक इस नए नियम से अनजान नजर आए, तो वहीं ऐप में सर्वर की तकनीकी दिक्कतें भी सामने आईं, जिससे लोगों को लंबी कतारों में खड़ा होना पड़ा।",
-    "title": "नोएडा में एक अक्टूबर से बिना PUC नहीं मिला पेट्रोल-डीजल",
-    "caption": "नोएडा और गौतमबुद्धनगर में एक अक्टूबर से बिना वैध PUC वाले वाहनों को पेट्रोल-डीजल देना बंद कर दिया गया है। मोबाइल ऐप से जांच के दौरान सर्वर की दिक्कत और चालकों की लापरवाही से मुश्किलें बढ़ीं।",
-    "hashtags": [
-      "NoidaNews",
-      "PUCCertificate",
-      "PetrolDiesel",
-      "NoidaTraffic",
-      "UttarPradesh",
-      "FuelRules",
-      "Noida"
-    ],
-    "visual_queries": [
-      "petrol pump India",
-      "car queue petrol pump India",
-      "traffic police checking India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35262216/14938791_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "car queue petrol pump India",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/32075935/13672900_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "gas station line India",
-        "credit": "thel0stkidd .",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "petrol pump India",
-        "credit": "Jibin Yesudasan",
-        "duration_sec": 3.6
-      },
-      {
         "type": "image",
         "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "traffic police checking India",
+        "query": "police station India",
         "credit": "GOWTHAM AGM",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gas station India queue",
-        "credit": "Mehul",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37702876/pexels-photo-37702876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car traffic India road",
-        "credit": "Votso Sothu",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19525696/pexels-photo-19525696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "frustrated drivers India",
-        "credit": "Basit Manzoor",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "नोएडा में बिना PUC पेट्रोल-डीजल बैन: पहले ही दिन अटके वाहन! ⛽",
-        "caption": "नोएडा के पेट्रोल पंपों पर 1 अक्टूबर से अचानक ऐसा क्या बदला कि चालकों की लंबी कतारें लग गईं?\n\nप्रदूषण नियंत्रण बोर्ड के नए आदेश के तहत अब बिना वैध पीयूसी सर्टिफिकेट के गाड़ियों में ईंधन नहीं डाला जा रहा है। पहले ही दिन नियम लागू होने से कई वाहन चालकों को बिना पेट्रोल-डीजल लिए ही वापस लौटना पड़ा।\n\nक्या आपके पास भी नहीं है PUC? कमेंट में बताएं। पूरी कहानी देखें।\n\n#NoidaTraffic #PUCCertificate #NoidaNews #PollutionControl #PetrolDiesel"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "1 अक्टूबर से नोएडा के पेट्रोल पंपों पर अचानक ये क्या हो गया? 🚨 बिना PUC वाले हर वाहन को बैरंग लौटना पड़ा।\n\nप्रदूषण पर लगाम कसने के लिए प्रशासन अब सख्त हो गया है। अगर आपके पास भी सर्टिफिकेट नहीं है, तो गाड़ी निकालने से पहले दो बार सोच लें।\n\nक्या ये नियम पूरे देश में लागू होना चाहिए?\n\n#NoidaTraffic #PUCCertificate #NoidaNews #PollutionControl #PetrolDiesel"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एक अक्टूबर से नोएडा के पेट्रोल पंपों पर पसरा सन्नाटा और लगी गाड़ाइयों की कतारें, वजह जानकर आप भी चौंक जाएंगे। 🛑\n\nप्रशासन की सख्ती के बाद अब बिना वैध PUC (प्रदूषण सर्टिफिकेट) के पेट्रोल और डीजल मिलना पूरी तरह बंद कर दिया गया है। पहले ही दिन नियमों की जानकारी न होने की वजह से कई चालकों को भारी परेशानी का सामना करना पड़ा और वाहन वापस लौटाए गए।\n\nआपके शहर में क्या स्थिति है? अपनी राय साझा करें और पूरी कहानी देखें।\n\n#NoidaTraffic #PUCCertificate #NoidaNews #PollutionControl #PetrolDiesel"
-      },
-      "hashtags": [
-        "NoidaTraffic",
-        "PUCCertificate",
-        "NoidaNews",
-        "PollutionControl",
-        "PetrolDiesel"
-      ]
-    },
-    "audio_path": "audio/noida_no_puc_no_fuel_rule_enforcement.wav",
-    "audio_duration_sec": 25.91,
-    "video_path": "videos/noida_no_puc_no_fuel_rule_enforcement.mp4",
-    "video_duration_sec": 33.96,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T14:17:43.627967+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe6ba5ecbeba69eb413a2f",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एक अक्टूबर से नोएडा के पेट्रोल पंपों पर पसरा सन्नाटा और लगी गाड़ाइयों की कतारें, वजह जानकर आप भी चौंक जाएंगे। 🛑\n\nप्रशासन की सख्ती के बाद अब बिना वैध PUC (प्रदूषण सर्टिफिकेट) के पेट्रोल और डीजल मिलना पूरी तरह बंद कर दिया गया है। पहले ही दिन नियमों की जानकारी न होने की वजह से कई चालकों को भारी परेशानी का सामना करना पड़ा और वाहन वापस लौटाए गए।\n\nआपके शहर में क्या स्थिति है? अपनी राय साझा करें और पूरी कहानी देखें।\n\n#NoidaTraffic #PUCCertificate #NoidaNews #PollutionControl #PetrolDiesel",
-            "mediaItems": [
-              {
-                "_id": "6abe6ba5ecbeba69eb413a31",
-                "url": "https://media.zernio.com/media/1790864290814_p32alu3n_noida_no_puc_no_fuel_rule_enforcement.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:18:12.099Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:18:13.803Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:18:13.733Z",
-            "updatedAt": "2026-10-01T14:18:19.291Z",
-            "platforms": [
-              {
-                "_id": "6abe6ba5ecbeba69eb413a2e",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:18:12.099Z",
-                "status": "published",
-                "publishedAt": "2026-10-01T14:18:19.206Z",
-                "platformPostId": "917617187841601",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=917617187841601",
-                "publishAttempts": 0,
-                "contentHash": "c72ce7c119eeae678d6fa808fd9bd093"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:18:19.389301+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6abe6bbfb9d65e848fac526a",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "1 अक्टूबर से नोएडा के पेट्रोल पंपों पर अचानक ये क्या हो गया? 🚨 बिना PUC वाले हर वाहन को बैरंग लौटना पड़ा।\n\nप्रदूषण पर लगाम कसने के लिए प्रशासन अब सख्त हो गया है। अगर आपके पास भी सर्टिफिकेट नहीं है, तो गाड़ी निकालने से पहले दो बार सोच लें।\n\nक्या ये नियम पूरे देश में लागू होना चाहिए?\n\n#NoidaTraffic #PUCCertificate #NoidaNews #PollutionControl #PetrolDiesel",
-            "mediaItems": [
-              {
-                "_id": "6abe6bbfb9d65e848fac526c",
-                "url": "https://media.zernio.com/media/1790864316575_paif79m7_noida_no_puc_no_fuel_rule_enforcement.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-01T14:18:37.991Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-01T14:18:39.900Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-01T14:18:39.805Z",
-            "updatedAt": "2026-10-01T14:18:41.388Z",
-            "platforms": [
-              {
-                "_id": "6abe6bbfb9d65e848fac5269",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-01T14:18:37.991Z",
-                "status": "processing",
-                "publishAttempts": 0,
-                "contentHash": "ac7f229a74f2af1caa34e73003267e74"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-01T14:18:41.691205+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "ghaziabad_indirapuram_delivery_marten_fire",
-    "virality_score": 7,
-    "reason": "Bhishm aag in Indirapuram online delivery mart with cylinder blasts is a high-impact visual disaster story.",
-    "region": "india",
-    "headline": "इंदिरापुरम में डिलीवरी मार्ट में लगी भीषण आग, CM योगी ने लिया संज्ञान",
-    "source_summary": "गाजियाबाद के इंदिरापुरम में काला पत्थर रोड स्थित ऑनलाइन शॉपिंग डिलीवरी मार्ट में अचानक भीषण आग लग गई. देखते ही देखते लपटों ने पूरे गोदाम को अपनी चपेट में ले लिया. सिलेंडर में ब्लास्ट की सूचना से आसपास के इलाके में हड़कंप मच गया. मुख्यमंत्री योगी आदित्यनाथ ने घटना का संज्ञान लेते हुए अधिकारियों को राहत-बचाव तेज करने के निर्देश दिए हैं.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/ghaziabad-indirapuram-delivery-mart-fire-cm-yogi-takes-cognizance-lclcn-strc-2658504-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T17:48:37+05:30",
-    "hook": "गाजियाबाद के डिलीवरी मार्ट में लगी भीषण आग!",
-    "script_hi": "गाजियाबाद के इंदिरापुरम में काला पत्थर रोड स्थित ऑनलाइन शॉपिंग डिलीवरी मार्ट में अचानक भीषण आग लग गई। लपटों ने पूरे गोदाम को अपनी चपेट में ले लिया। सिलेंडर में ब्लास्ट की सूचना से इलाके में हड़कंप मच गया। मुख्यमंत्री योगी आदित्यनाथ ने घटना का संज्ञान लेते हुए अधिकारियों को राहत और बचाव कार्य तेज करने के निर्देश दिए हैं।",
-    "tts_text_hi": "गाजियाबाद के इंदिरापुरम में काला पत्थर रोड स्थित ऑनलाइन शॉपिंग डिलीवरी मार्ट में अचानक भीषण आग लग गई। लपटों ने पूरे गोदाम को अपनी चपेट में ले लिया। सिलेंडर में ब्लास्ट की सूचना से इलाके में हड़कंप मच गया। मुख्यमंत्री योगी आदित्यनाथ ने घटना का संज्ञान लेते हुए अधिकारियों को राहत और बचाव कार्य तेज करने के निर्देश दिए हैं।",
-    "title": "गाजियाबाद के डिलीवरी मार्ट में भीषण आग",
-    "caption": "गाजियाबाद के इंदिरापुरम में ऑनलाइन शॉपिंग डिलीवरी मार्ट में लगी भीषण आग, सीएम योगी ने लिया संज्ञान।",
-    "hashtags": [
-      "#Ghaziabad",
-      "#Indirapuram",
-      "#FireAccident",
-      "#UPNews",
-      "#BreakingNews",
-      "#YogiAdityanath"
-    ],
-    "visual_queries": [
-      "commercial building fire India",
-      "firefighting operation India",
-      "burnt warehouse India"
-    ],
-    "named_person": "Yogi Adityanath",
-    "named_person_hi": "योगी आदित्यनाथ",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story is about a specific local fire incident in Indirapuram, Ghaziabad, which requires the actual real footage or photos of this specific event rather than generic stock B-roll.",
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "योगी आदित्यनाथ",
-        "source": "fallback",
-        "query": "Yogi Adityanath",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5930433/5930433-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "firefighting operation India",
-        "credit": "Anna Shvets",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38365291/pexels-photo-38365291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial building fire India",
-        "credit": "Vikesh zen",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38143081/pexels-photo-38143081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/5531644/pexels-photo-5531644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial warehouse fire",
-        "credit": "panumas nikhomkhai",
+        "query": "cement drum container India",
+        "credit": "Rachel Claire",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/38794776/pexels-photo-38794776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "courtyard house India",
+        "credit": "Gowri Manoj",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20.0,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "maruti_suzuki_september_sales_record_2026",
-    "virality_score": 7,
-    "reason": "Maruti Suzuki's record-breaking monthly sales surge highlights strong automotive growth trends popular among auto enthusiasts.",
-    "region": "india",
-    "headline": "Maruti की इन कारों ने मचाया गदर! 30 दिन में बिकीं 2.36 लाख गाड़ियां",
-    "source_summary": "Maruti Suzuki की सितंबर बिक्री के आंकड़ों से साफ है कि कंपनी की यूटिलिटी व्हीकल सेगमेंट ने सबसे बड़ी रफ्तार दी है. इस सेगमेंट में कंपनी ने कुल 78,911 वाहनों की बिक्री की है, जो पिछले साल के सितंबर के मुकाबले 62 प्रतिशत ज्यादा है.",
-    "source_url": "https://www.aajtak.in/auto/news/story/maruti-suzuki-sales-september-2026-wagon-r-brezza-auaw-dskc-2658403-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T17:55:01+05:30",
-    "hook": "मारुति सुजुकी ने बनाया बिक्री का नया रिकॉर्ड!",
-    "script_hi": "मारुति सुजुकी ने सितंबर महीने में शानदार प्रदर्शन किया है। कंपनी ने तीस दिनों में कुल दो लाख छत्तीस हजार गाड़ियां बेची हैं। यूटिलिटी व्हीकल सेगमेंट में सबसे बड़ी रफ्तार देखने को मिली, जहां कंपनी ने अडसठ हजार नौ सौ ग्यारह वाहन बेचे। यह पिछले साल के मुकाबले बासठ प्रतिशत ज्यादा है।",
-    "tts_text_hi": "मारुति सुजुकी ने सितंबर महीने में शानदार प्रदर्शन किया है। कंपनी ने तीस दिनों में कुल दो लाख छत्तीस हजार गाड़ियां बेची हैं। यूटिलिटी व्हीकल सेगमेंट में सबसे बड़ी रफ्तार देखने को मिली, जहां कंपनी ने उन्यासी हजार नौ सौ ग्यारह वाहन बेचे। यह पिछले साल के मुकाबले बासठ प्रतिशत ज्यादा है।",
-    "title": "Maruti Suzuki September Sales Record",
-    "caption": "मारुति सुजुकी ने सितंबर में मचाया गदर, तीस दिनों में बिकीं दो लाख से ज्यादा गाड़ियां।",
-    "hashtags": [
-      "MarutiSuzuki",
-      "CarSales",
-      "AutoNews",
-      "BusinessNews",
-      "India"
-    ],
-    "visual_queries": [
-      "Maruti Suzuki car showroom India",
-      "modern car factory India",
-      "busy Indian highway traffic"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35246683/14932174_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "new car delivery India",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7154231/7154231-hd_720_1298_50fps.mp4",
-        "source": "pexels",
-        "query": "busy car dealership India",
-        "credit": "Antoni Shkraba",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30703628/pexels-photo-30703628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Maruti Suzuki car showroom India",
-        "credit": "Janmesh Shah",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern car factory India",
-        "credit": "Tom Fisk",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37702876/pexels-photo-37702876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "busy Indian highway traffic",
-        "credit": "Votso Sothu",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car dealership interior India",
-        "credit": "Akshay Shende",
-        "duration_sec": 3.6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/12565887/pexels-photo-12565887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "family buying new car",
-        "credit": "Jacob Moore",
-        "duration_sec": 3.6
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 21,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "30 दिन में बिकीं 2.36 लाख गाड़ियां! Maruti ने तोड़े सभी रिकॉर्ड 🚗",
-        "caption": "30 दिन में 2.36 लाख गाड़ियां बिक गईं! 😲\n\nमारुति सुजुकी ने सितंबर के महीने में देश में बिक्री का एक नया ही इतिहास रच दिया है। कंपनी की इन धांसू कारों ने ग्राहकों के दिलों पर ऐसा कब्जा जमाया कि हर तरफ बस इन्हीं की चर्चा हो रही है।\n\nआपके पास इनमें से कौन सी गाड़ी है? कमेंट में बताएं और पूरी डिटेल के लिए वीडियो पूरा देखें!\n\n#MarutiSuzuki #CarSales #AutoNews #MarutiCars #BusinessNews"
+        "title": "ड्रम में सीमेंट, आंगन में कब्र: गुजरात में तीनहरे हत्याकांड से सनसनी 😱",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा से एक ऐसा मामला सामने आया है जिसने सबको दहला दिया है। एक घर के आंगन में कब्र और ड्रम में छिपाए गए शवों ने दिल दहला देने वाले सच से पर्दा उठाया है। \n\nपूरी कहानी वीडियो में देखें।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
       },
       "instagram": {
         "title": null,
-        "caption": "30 दिन में 2.36 लाख गाड़ियां! 😲 मारुति ने बना दिया बिक्री का नया रिकॉर्ड। \n\nकंपनी की इन गाड़ियों ने ऐसा गदर मचाया कि हर कोई हैरान रह गया। कौन सा मॉडल है आपका फेवरेट? दोस्तों के साथ शेयर करें जो गाड़ी खरीदने की सोच रहे हैं! 🚗💨\n\n#MarutiSuzuki #CarSales #AutoNews #MarutiCars #BusinessNews"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा में ड्रम के अंदर शव और आंगन में बनी कब्र से तीनहरे हत्याकांड का पर्दाफाश हुआ है। इस खौफनाक राज को जानने के लिए वीडियो पूरा देखें।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
       },
       "facebook": {
         "title": null,
-        "caption": "महज 30 दिन के अंदर 2.36 लाख गाड़ियां बिक जाना कोई आम बात नहीं है! 😲\n\nमारुति सुजुकी ने इस बार ऐसा भौकाल काटा है कि ऑटो मार्केट के सारे पुराने रिकॉर्ड पीछे छूट गए हैं। लोगों के सिर चढ़कर बोल रहा है इस कंपनी का जादू। आखिर किस मॉडल ने सबसे ज्यादा गदर मचाया है, आइए जानते हैं इस वीडियो में।\n\nवीडियो को लाइक और शेयर करना न भूलें!\n\n#MarutiSuzuki #CarSales #AutoNews #MarutiCars #BusinessNews"
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा से एक बेहद डरावना मामला सामने आया है, जहां पुलिस ने जब जांच की तो एक के बाद एक तीन लाशों का राज खुला। ड्रम के अंदर शव और आंगन में दबी कब्र देखकर हर कोई सन्न रह गया।\n\nपूरी घटना को विस्तार से जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
       },
       "hashtags": [
-        "MarutiSuzuki",
-        "CarSales",
-        "AutoNews",
-        "MarutiCars",
-        "BusinessNews"
+        "GujaratCrime",
+        "KosambaNews",
+        "CrimeInvestigation",
+        "BreakingNewsHindi",
+        "TrueCrimeIndia"
       ]
     },
-    "audio_path": "audio/maruti_suzuki_september_sales_record_2026.wav",
-    "audio_duration_sec": 21.36,
-    "video_path": "videos/maruti_suzuki_september_sales_record_2026.mp4",
-    "video_duration_sec": 29.39,
+    "audio_path": "audio/gujarat_kosamba_triple_murder_body_in_drum.wav",
+    "audio_duration_sec": 23.67,
+    "video_path": "videos/gujarat_kosamba_triple_murder_body_in_drum.mp4",
+    "video_duration_sec": 31.69,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-01T14:21:45.794873+00:00"
+        "attempted_at": "2026-10-01T17:44:30.155701+00:00"
       },
       "facebook": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abe6c8d93e71e6eb8f9c505",
+            "_id": "6abe9c12533914eca65ce921",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "महज 30 दिन के अंदर 2.36 लाख गाड़ियां बिक जाना कोई आम बात नहीं है! 😲\n\nमारुति सुजुकी ने इस बार ऐसा भौकाल काटा है कि ऑटो मार्केट के सारे पुराने रिकॉर्ड पीछे छूट गए हैं। लोगों के सिर चढ़कर बोल रहा है इस कंपनी का जादू। आखिर किस मॉडल ने सबसे ज्यादा गदर मचाया है, आइए जानते हैं इस वीडियो में।\n\nवीडियो को लाइक और शेयर करना न भूलें!\n\n#MarutiSuzuki #CarSales #AutoNews #MarutiCars #BusinessNews",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा से एक बेहद डरावना मामला सामने आया है, जहां पुलिस ने जब जांच की तो एक के बाद एक तीन लाशों का राज खुला। ड्रम के अंदर शव और आंगन में दबी कब्र देखकर हर कोई सन्न रह गया।\n\nपूरी घटना को विस्तार से जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia",
             "mediaItems": [
               {
-                "_id": "6abe6c8d93e71e6eb8f9c507",
-                "url": "https://media.zernio.com/media/1790864523141_y1b3mbnd_maruti_suzuki_september_sales_record_2026.mp4",
+                "_id": "6abe9c12533914eca65ce923",
+                "url": "https://media.zernio.com/media/1790876688379_ruaiwdy4_gujarat_kosamba_triple_murder_body_in_drum.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-01T14:22:04.334Z",
+            "scheduledFor": "2026-10-01T17:44:49.692Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1738,7 +944,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-01T14:22:05.871Z",
+            "publishingClaimedAt": "2026-10-01T17:44:51.050Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1747,11 +953,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-01T14:22:05.807Z",
-            "updatedAt": "2026-10-01T14:22:15.009Z",
+            "createdAt": "2026-10-01T17:44:50.974Z",
+            "updatedAt": "2026-10-01T17:44:56.880Z",
             "platforms": [
               {
-                "_id": "6abe6c8d93e71e6eb8f9c504",
+                "_id": "6abe9c12533914eca65ce920",
                 "platform": "facebook",
                 "accountId": {
                   "_id": "6a8efc6777555aae01af802c",
@@ -1764,36 +970,36 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-01T14:22:04.334Z",
+                "scheduledFor": "2026-10-01T17:44:49.692Z",
                 "status": "published",
-                "publishedAt": "2026-10-01T14:22:14.952Z",
-                "platformPostId": "1590138618697064",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1590138618697064",
+                "publishedAt": "2026-10-01T17:44:56.791Z",
+                "platformPostId": "1574234080608214",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1574234080608214",
                 "publishAttempts": 0,
-                "contentHash": "01b97adf605e47f9fe1bb1d889794bde"
+                "contentHash": "0db9edd78957edde8a316e60b595ac09"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-01T14:22:15.087333+00:00"
+        "attempted_at": "2026-10-01T17:44:57.042174+00:00"
       },
       "instagram": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6abe6cb093e71e6eb8f9c88f",
+            "_id": "6abe9c341f3b2c2dce300381",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "30 दिन में 2.36 लाख गाड़ियां! 😲 मारुति ने बना दिया बिक्री का नया रिकॉर्ड। \n\nकंपनी की इन गाड़ियों ने ऐसा गदर मचाया कि हर कोई हैरान रह गया। कौन सा मॉडल है आपका फेवरेट? दोस्तों के साथ शेयर करें जो गाड़ी खरीदने की सोच रहे हैं! 🚗💨\n\n#MarutiSuzuki #CarSales #AutoNews #MarutiCars #BusinessNews",
+            "content": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा में ड्रम के अंदर शव और आंगन में बनी कब्र से तीनहरे हत्याकांड का पर्दाफाश हुआ है। इस खौफनाक राज को जानने के लिए वीडियो पूरा देखें।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia",
             "mediaItems": [
               {
-                "_id": "6abe6cb093e71e6eb8f9c898",
-                "url": "https://media.zernio.com/media/1790864557251_4ob1mypc_maruti_suzuki_september_sales_record_2026.mp4",
+                "_id": "6abe9c341f3b2c2dce300383",
+                "url": "https://media.zernio.com/media/1790876722199_8rfzvq3w_gujarat_kosamba_triple_murder_body_in_drum.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-01T14:22:38.598Z",
+            "scheduledFor": "2026-10-01T17:45:23.461Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1804,7 +1010,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-01T14:22:40.203Z",
+            "publishingClaimedAt": "2026-10-01T17:45:25.007Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1813,11 +1019,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-01T14:22:40.103Z",
-            "updatedAt": "2026-10-01T14:22:42.070Z",
+            "createdAt": "2026-10-01T17:45:24.892Z",
+            "updatedAt": "2026-10-01T17:45:26.774Z",
             "platforms": [
               {
-                "_id": "6abe6cb093e71e6eb8f9c88e",
+                "_id": "6abe9c341f3b2c2dce300380",
                 "platform": "instagram",
                 "accountId": {
                   "_id": "6a8f021a77555aae01b1179f",
@@ -1830,16 +1036,265 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-01T14:22:38.598Z",
+                "scheduledFor": "2026-10-01T17:45:23.461Z",
                 "status": "processing",
                 "publishAttempts": 0,
-                "contentHash": "20a3f6e1a115df3f36d39df9439e885a"
+                "contentHash": "f0c4a16c487d2df5d18c6887bfa5faf5"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-01T14:22:42.297506+00:00"
+        "attempted_at": "2026-10-01T17:45:27.041670+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "japan_raises_permanent_residency_fee_20_times",
+    "virality_score": 7,
+    "reason": "Global news about Japan massively increasing permanent residency fees impacts foreign nationals.",
+    "region": "global",
+    "headline": "Japan raises permanent residency fee by 20 times",
+    "source_summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+    "source_name": "BBC World",
+    "published": "Thu, 01 Oct 2026 02:57:43 GMT",
+    "hook": "जापान में रहना हुआ बीस गुना महंगा!",
+    "script_hi": "जापान सरकार ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस यानी स्थायी निवास शुल्क में भारी बढ़ोतरी कर दी है। यह फीस अब मौजूदा शुल्क से बीस गुना तक बढ़ा दी गई है। यह कदम देश में लगातार बढ़ रही विदेशी आबादी को मैनेज करने के लिए किए गए नई आव्रजन नीति के बदलावों का हिस्सा है।",
+    "tts_text_hi": "जापान सरकार ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस यानी स्थायी निवास शुल्क में भारी बढ़ोतरी कर दी है। यह फीस अब मौजूदा शुल्क से बीस गुना तक बढ़ा दी गई है। यह कदम देश में लगातार बढ़ रही विदेशी आबादी को मैनेज करने के लिए किए गए नई आव्रजन नीति के बदलावों का हिस्सा है।",
+    "title": "Japan Permanent Residency Fee Hike",
+    "caption": "जापान ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस बीस गुना तक बढ़ा दी है।",
+    "hashtags": [
+      "JapanNews",
+      "Immigration",
+      "ForeignersInJapan",
+      "NewsUpdate",
+      "GlobalNews"
+    ],
+    "visual_queries": [
+      "Japan immigration office",
+      "Tokyo city street",
+      "foreign workers Japan"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/7815146/7815146-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "immigration passport control",
+        "credit": "George Pak",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16454564/pexels-photo-16454564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Japan immigration office",
+        "credit": "Aleksandra Zadiraka",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30641513/pexels-photo-30641513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tokyo city street",
+        "credit": "John One",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31001269/pexels-photo-31001269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "foreign workers Japan",
+        "credit": "Julias  Torten und Törtchen",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35074673/pexels-photo-35074673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Japan government office",
+        "credit": "Bensu Günay",
+        "duration_sec": 4.8
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30276892/pexels-photo-30276892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tokyo business district",
+        "credit": "Nicolas Vignot",
+        "duration_sec": 4.8
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "जापान में परमानेंट रेजिडेंसी अब 20 गुना महंगी! 😱",
+        "caption": "जापान में रहना हुआ बीस गुना महंगा! 🛑\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस में भारी बढ़ोतरी कर दी है। अब प्रवासियों को पहले के मुकाबले कई गुना ज्यादा रकम चुकानी होगी, जिससे वहां बसने का सपना देख रहे लोगों को बड़ा झटका लगा है।\n\nक्या आप जानते हैं यह फैसला क्यों लिया गया? पूरी कहानी देखें। 👇\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "जापान में रहना हुआ बीस गुना महंगा! 😱\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस में अचानक 20 गुना बढ़ोतरी कर दी है। इस बड़े फैसले से विदेशियों के बीच हड़कंप मच गया है।\n\nयह नियम किस पर लागू होगा? शेयर करके दूसरों को भी बताएं! 🔄\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जापान में रहना हुआ बीस गुना महंगा! 🛑\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस को सीधे 20 गुना बढ़ा दिया है। इस चौंकाने वाले कदम के बाद जापान में लंबे समय तक रहने की योजना बना रहे लोगों की मुश्किलें काफी बढ़ गई हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+      },
+      "hashtags": [
+        "JapanNews",
+        "PermanentResidency",
+        "JapanVisa",
+        "ImmigrationNews",
+        "GlobalNews"
+      ]
+    },
+    "audio_path": "audio/japan_raises_permanent_residency_fee_20_times.wav",
+    "audio_duration_sec": 22.34,
+    "video_path": "videos/japan_raises_permanent_residency_fee_20_times.mp4",
+    "video_duration_sec": 30.32,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-01T17:49:06.229750+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe9d32d9a1fff954645124",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जापान में रहना हुआ बीस गुना महंगा! 🛑\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस को सीधे 20 गुना बढ़ा दिया है। इस चौंकाने वाले कदम के बाद जापान में लंबे समय तक रहने की योजना बना रहे लोगों की मुश्किलें काफी बढ़ गई हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews",
+            "mediaItems": [
+              {
+                "_id": "6abe9d32d9a1fff954645126",
+                "url": "https://media.zernio.com/media/1790876976404_gqzu9nfi_japan_raises_permanent_residency_fee_20_times.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:49:37.661Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:49:38.918Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:49:38.874Z",
+            "updatedAt": "2026-10-01T17:49:45.285Z",
+            "platforms": [
+              {
+                "_id": "6abe9d32d9a1fff954645123",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=0oAB2C_7xpUQ7kNvwETXp32&_nc_oc=AdrqDKEd-mQT8N9584Z2Nyp9-UhuLt4Jok-oOsrYY6EJZEVaY2fMdJh08DS9rdltSLE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=3894xlWJxYQEZn-9cbZqUg&_nc_tpa=Q5bMBQJkJ75WoC6Bz3ycqZaShalI7wEiLNXcwn2E9-BjTyxR96OrkjY17ytuNZWRm5IQ34ny1_5_5_BC&oh=00_AQOnWh9tg6LC1-VaBWNzzHsmNv31syXZu9JhM8WfW2wC2w&oe=6AC3B214",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:49:37.661Z",
+                "status": "published",
+                "publishedAt": "2026-10-01T17:49:45.238Z",
+                "platformPostId": "1112713724648049",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1112713724648049",
+                "publishAttempts": 0,
+                "contentHash": "866e509d2693e05aaefd1f18df880535"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:49:45.394499+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6abe9d5083b3dcc4c098ed69",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "जापान में रहना हुआ बीस गुना महंगा! 😱\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस में अचानक 20 गुना बढ़ोतरी कर दी है। इस बड़े फैसले से विदेशियों के बीच हड़कंप मच गया है।\n\nयह नियम किस पर लागू होगा? शेयर करके दूसरों को भी बताएं! 🔄\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews",
+            "mediaItems": [
+              {
+                "_id": "6abe9d5083b3dcc4c098ed6b",
+                "url": "https://media.zernio.com/media/1790877005573_53o6o4c2_japan_raises_permanent_residency_fee_20_times.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-01T17:50:06.954Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-01T17:50:08.850Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-01T17:50:08.690Z",
+            "updatedAt": "2026-10-01T17:50:10.958Z",
+            "platforms": [
+              {
+                "_id": "6abe9d5083b3dcc4c098ed68",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IXVexZKPuCAQ7kNvwG8264u&_nc_oc=AdpRdfSxOIUIR3PiiXFUAZx2pEOAzVlmftuspJc9qBxHtiw6c54t6809dFomNr6BJaA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P9PZr2-bHGMk46BVdVe0TQ&_nc_tpa=Q5bMBQKCgPZCTpcv_Jx1mS3NehuflK_049CLF3gKQ-GY0JVUiix-Bep8syN5VwcGMCjp-x1En3eg7biW6w&oh=00_AQOK5FcbBDRe5BO3z7IKygltsFNta9sJv7HUM-Xd-7YdCQ&oe=6AC3A5BB",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-01T17:50:06.954Z",
+                "status": "processing",
+                "publishAttempts": 0,
+                "contentHash": "52a11a79ec808915ab98ac9621633597"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-01T17:50:11.161363+00:00"
       }
     }
   }
