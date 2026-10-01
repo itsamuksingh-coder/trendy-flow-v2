@@ -1,8 +1,8 @@
 [
   {
-    "topic_label": "odi_world_cup_2027_schedule_india_pakistan",
+    "topic_label": "icc_mens_odi_world_cup_2027_schedule_india_pakistan",
     "virality_score": 9,
-    "reason": "High-interest cricket news revealing the 2027 World Cup schedule and India-Pakistan clash.",
+    "reason": "Massive sports news regarding the 2027 ODI World Cup schedule, specifically highlighting the high-voltage India-Pakistan clash.",
     "region": "india",
     "headline": "वर्ल्ड कप 2027 का शेड्यूल जारी, 10 अक्टूबर को भारत-PAK मैच",
     "source_summary": "ICC ने 2027 पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है. दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले 14 टीमों के टूर्नामेंट में भारत अपना पहला मैच 7 अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा. भारत-पाकिस्तान का महामुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा. टूर्नामेंट का पहला सेमीफाइनल 17 नवंबर और दूसरा 18 नवंबर को होगा, जबकि फाइनल 21 नवंबर को जोहान्सबर्ग में खेला जाएगा.",
@@ -10,23 +10,215 @@
     "source_name": "Aaj Tak",
     "published": "2026-10-01T21:56:21+05:30",
     "hook": "वर्ल्ड कप सत्ताईस का शेड्यूल आया सामने!",
-    "script_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को जोहान्सबर्ग में होगा।",
-    "tts_text_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को जोहान्सबर्ग में होगा।",
-    "title": "वर्ल्ड कप सत्ताईस का शेड्यूल जारी",
-    "caption": "आईसीसी पुरुष वनडे वर्ल्ड कप दो हजार सत्ताईस का पूरा शेड्यूल आ गया है सामने।",
+    "script_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को होगा।",
+    "tts_text_hi": "आईसीसी ने दो हजार सत्ताईस पुरुष वनडे वर्ल्ड कप का पूरा शेड्यूल जारी कर दिया है। दक्षिण अफ्रीका, जिम्बाब्वे और नामीबिया में होने वाले चौदह टीमों के इस टूर्नामेंट में भारत अपना पहला मैच सात अक्टूबर को ऑस्ट्रेलिया के खिलाफ खेलेगा। भारत और पाकिस्तान का महामुकाबला दस अक्टूबर को जोहान्सबर्ग में खेला जाएगा। टूर्नामेंट का फाइनल मुकाबला इक्कीस नवंबर को होगा।",
+    "title": "वर्ल्ड कप 2027 शेड्यूल: भारत-पाक महामुकाबला 10 अक्टूबर को",
+    "caption": "आईसीसी ने 2027 वनडे वर्ल्ड कप का शेड्यूल जारी कर दिया है। भारत और पाकिस्तान का मुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा।",
     "hashtags": [
-      "Cricket",
-      "WorldCup",
-      "TeamIndia",
-      "IndVsPak",
+      "WorldCup2027",
+      "CricketNews",
+      "IndiaVsPakistan",
       "ICC",
-      "SportsNews"
+      "Cricket"
     ],
     "visual_queries": [
-      "Cricket stadium India",
-      "South Africa cricket stadium",
-      "Cricket trophy India",
-      "Johannesburg cricket stadium"
+      "cricket stadium South Africa India",
+      "cricket trophy India",
+      "cricket match stadium India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/36088031/15304811_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cricket match stadium India",
+        "credit": "Shulabh Singh  Chauhan",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/12478623/12478623-hd_720_1280_60fps.mp4",
+        "source": "pexels",
+        "query": "cricket match aerial view",
+        "credit": "Altaf Shah",
+        "source_duration_sec": 10,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/31723741/pexels-photo-31723741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket match stadium",
+        "credit": "Princeton dsouza",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket trophy India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket fans cheering stadium",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7005050/pexels-photo-7005050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports trophy celebration",
+        "credit": "RDNE Stock project",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9420724/pexels-photo-9420724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket bat and ball",
+        "credit": "Mahafuzur Rahman",
+        "duration_sec": 3.6
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "वर्ल्ड कप 2027 शेड्यूल: भारत-पाक महामुकाबला 10 अक्टूबर को",
+        "caption": "आईसीसी ने 2027 वनडे वर्ल्ड कप का शेड्यूल जारी कर दिया है। भारत और पाकिस्तान का मुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा।\n\n#WorldCup2027 #CricketNews #IndiaVsPakistan #ICC #Cricket"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "आईसीसी ने 2027 वनडे वर्ल्ड कप का शेड्यूल जारी कर दिया है। भारत और पाकिस्तान का मुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा।\n\n#WorldCup2027 #CricketNews #IndiaVsPakistan #ICC #Cricket"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "आईसीसी ने 2027 वनडे वर्ल्ड कप का शेड्यूल जारी कर दिया है। भारत और पाकिस्तान का मुकाबला 10 अक्टूबर को जोहान्सबर्ग में होगा।\n\n#WorldCup2027 #CricketNews #IndiaVsPakistan #ICC #Cricket"
+      },
+      "hashtags": [
+        "WorldCup2027",
+        "CricketNews",
+        "IndiaVsPakistan",
+        "ICC",
+        "Cricket"
+      ]
+    },
+    "audio_path": "audio/icc_mens_odi_world_cup_2027_schedule_india_pakistan.wav",
+    "audio_duration_sec": 23.55
+  },
+  {
+    "topic_label": "mumbai_delivery_boy_lift_urination_viral_video",
+    "virality_score": 8,
+    "reason": "Deeply shocking and viral CCTV footage incident from Mumbai capturing disgraceful behavior inside a housing society lift.",
+    "region": "india",
+    "headline": "लिफ्ट में पेशाब किया और पी गया, डिलीवरी बॉय की शर्मनाक हरकत, Video",
+    "source_summary": "मुंबई के चेंबूर स्थित तिलक नगर की अक्षय को-ऑपरेटिव हाउसिंग सोसाइटी में एक डिलीवरी बॉय की कथित हरकत का CCTV फुटेज सामने आया है. लिफ्ट में बदबू आने के बाद निवासियों ने कैमरे की रिकॉर्डिंग देखी. आरोप है कि डिलीवरी कर्मी ने लिफ्ट में पेशाब किया और फिर अपने हाथ में पेशाब कर लिया. सोसाइटी ने सफाई कराई और पुलिस शिकायत की तैयारी शुरू की.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/mumbai-chembur-delivery-boy-lift-cctv-viral-society-complaint-lclar-strc-2658656-2026-10-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-01T21:36:21+05:30",
+    "hook": "मुंबई से एक बेहद शर्मनाक मामला सामने आया है!",
+    "script_hi": "मुंबई के चेंबूर इलाके में एक डिलीवरी बॉय की घिनौनी हरकत कैमरे में कैद हुई है। सोसाइटी की लिफ्ट से बदबू आने पर जब सीसीटीवी फुटेज देखा गया, तो पता चला कि डिलीवरी कर्मी ने लिफ्ट के अंदर पेशाब किया। हद तो तब हो गई जब उसने अपने ही हाथ में पेशाब कर लिया। इस घटना के बाद स्थानीय लोगों में भारी गुस्सा है। सोसाइटी ने सफाई करवाने के साथ ही पुलिस में शिकायत दर्ज कराने की तैयारी शुरू कर दी है।",
+    "tts_text_hi": "मुंबई के चेंबूर इलाके में एक डिलीवरी बॉय की घिनौनी हरकत कैमरे में कैद हुई है। सोसाइटी की लिफ्ट से बदबू आने पर जब सीसीटीवी फुटेज देखा गया, तो पता चला कि डिलीवरी कर्मी ने लिफ्ट के अंदर पेशाब किया। हद तो तब हो गई जब उसने अपने ही हाथ में पेशाब कर लिया। इस घटना के बाद स्थानीय लोगों में भारी गुस्सा है। सोसाइटी ने सफाई करवाने के साथ ही पुलिस में शिकायत दर्ज कराने की तैयारी शुरू कर दी है।",
+    "title": "मुंबई में डिलीवरी बॉय की शर्मनाक हरकत",
+    "caption": "मुंबई के चेंबूर में एक डिलीवरी बॉय की शर्मनाक हरकत का सीसीटीवी फुटेज सामने आया है। लिफ्ट में पेशाब करने का यह मामला सोशल मीडिया पर वायरल हो रहा है।",
+    "hashtags": [
+      "MumbaiNews",
+      "ViralVideo",
+      "Chembur",
+      "DeliveryBoy",
+      "ShamefulIncidents",
+      "MumbaiPolice"
+    ],
+    "visual_queries": [
+      "Mumbai residential building India",
+      "apartment elevator interior India",
+      "CCTV camera security footage India",
+      "police station building India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "The story relies on a specific viral CCTV video from a particular incident which generic stock footage cannot replace.",
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30368780/pexels-photo-30368780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Mumbai residential building India",
+        "credit": "aksinfo7 universe",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18197634/pexels-photo-18197634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "apartment elevator interior India",
+        "credit": "Fatih Turan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14845202/pexels-photo-14845202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV camera security footage India",
+        "credit": "Florian Süß",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police station building India",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "maharashtra_diveagar_beach_students_drowning_tragedy",
+    "virality_score": 8,
+    "reason": "Tragic mass drowning incident involving school students on a picnic at Diveagar beach, generating massive regional and national sorrow.",
+    "region": "india",
+    "headline": "महाराष्ट्र: बीच पर पिकनिक मनाने आए 8 छात्रों की डूबने से मौत",
+    "source_summary": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर 11वीं और 12वीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया. पुणे के आलंदी स्थित विनर्स एकेडमी के 48 सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए. सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित किया गया है. सभी मृतक छात्र 16 साल के थे.",
+    "source_url": "https://www.aajtak.in/india/maharashtra/story/raigad-diveagar-beach-eight-students-drowned-pune-alandi-picnic-accident-lclar-rptc-2658567-2026-10-01?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-01T19:26:19+05:30",
+    "hook": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने गए आठ छात्र डूबे!",
+    "script_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हुआ है। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
+    "tts_text_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हुआ है। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
+    "title": "महाराष्ट्र: बीच पर पिकनिक मनाने आए आठ छात्रों की डूबने से मौत",
+    "caption": "महाराष्ट्र के रायगढ़ में दिवेआगर बीच पर बड़ा हादसा, पुणे से पिकनिक मनाने आए आठ छात्रों की समुद्र में डूबने से मौत।",
+    "hashtags": [
+      "MaharashtraNews",
+      "Raigad",
+      "BreakingNews",
+      "Accident",
+      "DiveagarBeach",
+      "HindiNews"
+    ],
+    "visual_queries": [
+      "Indian sea beach India",
+      "coastal rescue operation India",
+      "mourning grieving people India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -37,122 +229,58 @@
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/28840873/pexels-photo-28840873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Cricket stadium India",
-        "credit": "Ajay Parab",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cricket match stadium crowd",
-        "credit": "Raunaq Sachdev",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Cricket trophy India",
-        "credit": "Yogendra  Singh",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "maharashtra_raigad_diveagar_beach_students_drown",
-    "virality_score": 8,
-    "reason": "Tragic drowning of 8 students on a school picnic at Diveagar beach has high emotional and viral reach.",
-    "region": "india",
-    "headline": "महाराष्ट्र: बीच पर पिकनिक मनाने आए 8 छात्रों की डूबने से मौत",
-    "source_summary": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर 11वीं और 12वीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया. पुणे के आलंदी स्थित विनर्स एकेडमी के 48 सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए. सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित किया गया है. सभी मृतक छात्र 16 साल के थे.",
-    "source_url": "https://www.aajtak.in/india/maharashtra/story/raigad-diveagar-beach-eight-students-drowned-pune-alandi-picnic-accident-lclar-rptc-2658567-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T19:26:19+05:30",
-    "hook": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने आए आठ छात्रों की डूबने से मौत!",
-    "script_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
-    "tts_text_hi": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर ग्यारहवीं और बारहवीं के छात्रों के टूर के दौरान बड़ा हादसा हो गया। पुणे के आलंदी स्थित विनर्स एकेडमी के अड़तालीस सदस्यीय दल में शामिल आठ छात्र समुद्र में नहाते समय डूब गए। सभी आठों के शव बरामद कर लिए गए हैं और उन्हें मृत घोषित कर दिया गया है। सभी मृतक छात्र सोलह साल के थे।",
-    "title": "महाराष्ट्र के बीच पर बड़ा हादसा, आठ छात्रों की डूबने से मौत",
-    "caption": "महाराष्ट्र के रायगढ़ जिले के दिवेआगर बीच पर पिकनिक मनाने गए आठ छात्रों की समुद्र में डूबने से मौत हो गई। सभी छात्र पुणे के एक कॉलेज के टूर पर गए थे।",
-    "hashtags": [
-      "MaharashtraNews",
-      "Raigad",
-      "DiveagarBeach",
-      "Tragedy",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Maharashtra beach India",
-      "sea waves India",
-      "rescue operation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15308442/pexels-photo-15308442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Maharashtra beach India",
-        "credit": "Saurabh Parange",
+        "query": "Indian sea beach India",
+        "credit": "Samuel Jerome",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36670574/pexels-photo-36670574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/30091584/pexels-photo-30091584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "sea waves India",
-        "credit": "Haroon Syed",
+        "query": "coastal rescue operation India",
+        "credit": "Kizhakke Vdu",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33329474/pexels-photo-33329474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35625315/pexels-photo-35625315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "rescue operation India",
-        "credit": "Arto Suraj",
+        "query": "mourning grieving people India",
+        "credit": "Abhishek Mishra",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/1895114/pexels-photo-1895114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13693387/pexels-photo-13693387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "group of students india",
-        "credit": "Balljinder Singh",
+        "query": "crowded Indian beach",
+        "credit": "Nandhu Kumar",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39006535/pexels-photo-39006535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/22616343/pexels-photo-22616343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "indian college friends group",
-        "credit": "Arto Suraj",
+        "query": "students school trip India",
+        "credit": "Fahad Puthawala",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37328504/pexels-photo-37328504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "empty beach coastline india",
-        "credit": "Faheema  Farooque",
+        "query": "ambulance hospital India",
+        "credit": "Chauhan Dixant",
         "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/29548655/pexels-photo-29548655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4080650/pexels-photo-4080650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "coastal area waves india",
-        "credit": "Ravi Roshan",
+        "query": "sad family crying India",
+        "credit": "Sergi Montaner",
         "duration_sec": 4.3
       }
     ],
@@ -161,46 +289,47 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "महाराष्ट्र बीच हादसा: पिकनिक मनाने आए 8 छात्रों की डूबने से मौत 🌊",
-        "caption": "महाराष्ट्र के दिवेआगर बीच पर जश्न पलभर में मातम में बदल गया। 🌊 पिकनिक मनाने आए 8 छात्र समुद्र की तेज लहरों की चपेट में आ गए।\n\nदोस्तों के साथ मस्ती करने आए इन युवाओं की अचानक हुई इस मौत से पूरे इलाके में कोहराम मच गया है।\n\nपूरी कहानी देखें और अपनों को सतर्क रखें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+        "title": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा: पिकनिक मनाने गए 8 छात्र डूबे 🌊",
+        "caption": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने गए आठ छात्र डूबे! 🌊\n\nकॉलेज के दोस्तों ने साथ में जश्न मनाने की सोची थी, लेकिन एक लापरवाही ने हंसते-खेलते परिवार की खुशियां छीन लीं। समुद्र की लहरों में उतरे ये छात्र शायद ही जानते थे कि यह उनका आखिरी सफर होगा। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#maharashtra #diveagarbeach #breakingnews #studenttragedy #maharashtranews"
       },
       "instagram": {
         "title": null,
-        "caption": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा! पिकनिक मनाने आए 8 छात्रों की लहरों में डूबने से मौत। 🌊\n\nखुशियों भरा दिन कैसे चंद लम्हों में मातम में बदल गया? जानिए पूरी खबर। वीडियो को शेयर कर दूसरों को भी सतर्क करें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+        "caption": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने गए आठ छात्र डूबे! 🌊\n\nखुशी का माहौल पलभर में मातम में बदल गया। समुद्र की तेज लहरों का अंदाजा न लगा पाना इन छात्रों पर भारी पड़ गया।\n\nक्या बीच पर सुरक्षा के इंतजाम नाकाफी हैं? अपनी राय कमेंट में बताएं।\n\n#maharashtra #diveagarbeach #breakingnews #studenttragedy #maharashtranews"
       },
       "facebook": {
         "title": null,
-        "caption": "पिकनिक मनाने गए थे छात्र, लेकिन समुद्र की एक लहर ने सब कुछ छीन लिया... 🌊 महाराष्ट्र के दिवेआगर बीच पर हुए इस दर्दनाक हादसे में 8 छात्रों की जान चली गई है।\n\nखुशी का माहौल अचानक कैसे चीख-पुकार में बदल गया? पूरी सच्चाई जानने के लिए वीडियो पूरा देखें और सतर्क रहें।\n\n#MaharashtraNews #DiveagarBeach #BreakingNews #StudentTragedy #LocalNews"
+        "caption": "महाराष्ट्र के दिवेआगर बीच पर बड़ा हादसा, पिकनिक मनाने गए आठ छात्र डूबे! 🌊\n\nदोस्तों के साथ पिकनिक का प्लान हर किसी के लिए सुहाना होता है, लेकिन महाराष्ट्र के दिवेआगर बीच पर जो हुआ उसने सबको झकझोर कर रख दिया। मस्ती करने गए आठ छात्र गहरे पानी में जाने के बाद वापस नहीं लौट सके। प्रशासन और सुरक्षा को लेकर अब कई बड़े सवाल खड़े हो रहे हैं।\n\nपूरी घटना को विस्तार से जानने के लिए वीडियो पूरा देखें और दूसरों को भी सतर्क करें।\n\n#maharashtra #diveagarbeach #breakingnews #studenttragedy #maharashtranews"
       },
       "hashtags": [
-        "MaharashtraNews",
-        "DiveagarBeach",
-        "BreakingNews",
-        "StudentTragedy",
-        "LocalNews"
+        "maharashtra",
+        "diveagarbeach",
+        "breakingnews",
+        "studenttragedy",
+        "maharashtranews"
       ]
     },
-    "audio_path": "audio/maharashtra_raigad_diveagar_beach_students_drown.wav",
-    "audio_duration_sec": 14.47
+    "audio_path": "audio/maharashtra_diveagar_beach_students_drowning_tragedy.wav",
+    "audio_duration_sec": 25.84
   },
   {
-    "topic_label": "stock_market_crash_nifty_8_weeks_decline",
+    "topic_label": "indian_stock_market_8_weeks_consecutive_crash",
     "virality_score": 8,
-    "reason": "Historic 8-week stock market decline creates widespread financial anxiety among retail investors.",
+    "reason": "Major financial news impacting everyday investors as the Indian stock market suffers a historic 8-week consecutive crash.",
     "region": "india",
     "headline": "25 सालों में भी इतनी लंबी गिरावट नहीं... बाजार हुआ क्रैश, अभी और फैला डर!",
     "source_summary": "भारतीय शेयर बाजार लगातार 8 हफ्ते से गिर रहा है. ऐसा 25 सालों में भी नहीं हुआ था कि निफ्टी लगातार 8 हफ्ते गिरा हो. इस गिरावट में सबसे ज्‍यादा योगदान टाटा मोटर्स पैसेंजर व्‍हीकल्‍स ने दिया है.",
     "source_url": "https://www.aajtak.in/business/news/story/stock-market-sensex-nifty-slide-to-eighth-straight-week-longest-in-25-years-tutd-dskc-2658524-2026-10-01?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-10-01T18:35:09+05:30",
-    "hook": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार में भयंकर गिरावट से निवेशकों में खौफ!",
-    "script_hi": "पच्चीस सालों में भी कभी ऐसा नहीं हुआ था! भारतीय शेयर बाजार लगातार आठ हफ्ते से गिर रहा है। निफ्टी में आई इस ऐतिहासिक गिरावट ने निवेशकों की चिंता बढ़ा दी है। इस गिरावट में सबसे ज्यादा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। बाजार के एक्सपर्ट्स का मानना है कि डर अभी और फैल सकता है।",
-    "tts_text_hi": "पच्चीस सालों में भी कभी ऐसा नहीं हुआ था! भारतीय शेयर बाजार लगातार आठ हफ्ते से गिर रहा है। निफ्टी में आई इस ऐतिहासिक गिरावट ने निवेशकों की चिंता बढ़ा दी है। इस गिरावट में सबसे ज्यादा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। बाजार के एक्सपर्ट्स का मानना है कि डर अभी और फैल सकता है।",
-    "title": "शेयर बाजार में पच्चीस साल का रिकॉर्ड टूटा, निफ्टी लगातार आठ हफ्ते गिरा",
-    "caption": "भारतीय शेयर बाजार में लगातार आठ हफ्ते की गिरावट से निवेशकों में डर का माहौल है। पच्चीस सालों में ऐसा पहली बार हुआ है।",
+    "hook": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार धड़ाम!",
+    "script_hi": "भारतीय शेयर बाजार में पच्चीस सालों का सबसे बड़ा रिकॉर्ड टूट गया है। बाजार लगातार आठ हफ्ते से गिर रहा है, जो अपने आप में एक इतिहास है। इस भारी गिरावट में सबसे बड़ा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। निवेशकों की चिंताएं अब और ज्यादा बढ़ गई हैं।",
+    "tts_text_hi": "भारतीय शेयर बाजार में पच्चीस सालों का सबसे बड़ा रिकॉर्ड टूट गया है। बाजार लगातार आठ हफ्ते से गिर रहा है, जो अपने आप में एक इतिहास है। इस भारी गिरावट में सबसे बड़ा योगदान टाटा मोटर्स पैसेंजर व्हीकल्स का रहा है। निवेशकों की चिंताएं अब और ज्यादा बढ़ गई हैं।",
+    "title": "शेयर बाजार में पच्चीस सालों की सबसे बड़ी गिरावट",
+    "caption": "भारतीय शेयर बाजार लगातार आठ हफ्ते से गिर रहा है, जिससे निवेशकों में भारी डर फैल गया है।",
     "hashtags": [
       "ShareMarket",
       "StockMarketIndia",
+      "Sensex",
       "Nifty",
       "TataMotors",
       "BusinessNews",
@@ -208,9 +337,9 @@
     ],
     "visual_queries": [
       "Indian stock exchange building",
-      "stock market graph down India",
+      "financial stock market chart India",
       "worried investor India",
-      "Tata Motors India"
+      "Tata Motors vehicle India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -219,24 +348,6 @@
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37684920/15977923_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "stock market graph down India",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/5849632/5849632-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "stock market crash India",
-        "credit": "Monstera Production",
-        "source_duration_sec": 16,
-        "duration_sec": 6
-      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -247,282 +358,82 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37841463/pexels-photo-37841463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Tata Motors India",
-        "credit": "Abhishek  Royal",
+        "query": "financial stock market chart India",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7925798/pexels-photo-7925798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "worried investor India",
+        "credit": "Nicola Barts",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37816732/pexels-photo-37816732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tata Motors vehicle India",
+        "credit": "Vaguspuer",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "25 साल का रिकॉर्ड टूटा! शेयर बाजार में भयंकर गिरावट 📉",
-        "caption": "पच्चीस सालों का रिकॉर्ड टूट गया! शेयर बाजार में मची तबाही से निवेशकों के होश उड़े हुए हैं। 📉\n\nनिफ्टी लगातार आठ हफ्तों से नीचे गिर रहा है और डर है कि यह गिरावट अभी और गहरी होगी। क्या आपके निवेश भी इस क्रैश की चपेट में आ गए हैं?\n\nपूरी कहानी देखें और समझें बाजार का यह हाल।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+        "title": "25 सालों में पहली बार! शेयर बाजार में भयंकर क्रैश 📉",
+        "caption": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार धड़ाम! 📉\n\nइतनी बड़ी गिरावट पिछले ढाई दशकों में नहीं देखी गई थी। निवेशकों के करोड़ों रुपये डूब चुके हैं और बाजार में अभी और डर का माहौल बना हुआ है।\n\nक्या आपका पोर्टफोलियो भी इस क्रैश की चपेट में आया है? कमेंट में बताएं और पूरी कहानी देखें।\n\n#ShareMarket #StockMarketCrash #BusinessNews #Sensex #Nifty"
       },
       "instagram": {
         "title": null,
-        "caption": "पच्चीस सालों का रिकॉर्ड टूटा! 📉 शेयर बाजार में ऐसी भयंकर गिरावट पहले कभी नहीं देखी गई।\n\nनिफ्टी लगातार 8 हफ्ते से गोता लगा रहा है और डर है कि खेल अभी खत्म नहीं हुआ। क्या आपका पोर्टफोलियो भी सेफ है? कमेंट में बताएं।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+        "caption": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार धड़ाम! 📉\n\nपिछले 25 सालों में ऐसी लंबी गिरावट कभी नहीं आई थी। अचानक हुए इस भयंकर क्रैश से निवेशकों में दहशत फैल गई है और अभी हालात सुधरने के आसार नहीं दिख रहे।\n\nइसे अपने ट्रेडर दोस्तों के साथ शेयर करें और पूरी कहानी देखें।\n\n#ShareMarket #StockMarketCrash #BusinessNews #Sensex #Nifty"
       },
       "facebook": {
         "title": null,
-        "caption": "पच्चीस सालों का रिकॉर्ड टूट गया! शेयर बाजार में ऐसी भयंकर गिरावट आई है कि निवेशकों में खौफ का माहौल है। 📉\n\nनिफ्टी लगातार आठ हफ्तों से गिर रहा है और मार्केट एक्सपर्ट्स का मानना है कि डर का यह सिलसिला अभी थमा नहीं है। आपके निवेश पर इसका क्या असर पड़ा है? पूरी कहानी वीडियो में देखें।\n\n#ShareMarket #StockMarketCrash #Nifty #Sensex #BusinessNews"
+        "caption": "पच्चीस सालों का रिकॉर्ड टूटा! शेयर बाजार धड़ाम! 📉\n\nइतिहास में ऐसा पहली बार हुआ है जब बाजार में इस तरह की लंबी और खतरनाक गिरावट दर्ज की गई है। एक्सपर्ट्स का मानना है कि डर का यह माहौल अभी और गहरा सकता है, जिससे आम निवेशकों की चिंताएं काफी बढ़ गई हैं।\n\nपूरी कहानी देखें और अपनी राय हमें कमेंट में जरूर बताएं।\n\n#ShareMarket #StockMarketCrash #BusinessNews #Sensex #Nifty"
       },
       "hashtags": [
         "ShareMarket",
         "StockMarketCrash",
-        "Nifty",
+        "BusinessNews",
         "Sensex",
-        "BusinessNews"
+        "Nifty"
       ]
     },
-    "audio_path": "audio/stock_market_crash_nifty_8_weeks_decline.wav",
-    "audio_duration_sec": 20.6
+    "audio_path": "audio/indian_stock_market_8_weeks_consecutive_crash.wav",
+    "audio_duration_sec": 17.89
   },
   {
-    "topic_label": "shahjahanpur_two_ascetics_murdered_temple_burnt",
-    "virality_score": 8,
-    "reason": "Brutal murder and burning of two elderly sadhus inside a temple in UP is a high-impact crime story.",
-    "region": "india",
-    "headline": "शाहजहांपुर में 2 साधुओं की न‍िर्मम हत्या, मंदिर परिसर में ही शवों को जलाया",
-    "source_summary": "उत्तर प्रदेश के शाहजहांपुर से एक बेहद सनसनीखेज और दिल दहला देने वाला मामला सामने आया है. यहाँ के खुटार थाना क्षेत्र के सुता गांव में दो बुजुर्ग साधुओं की बेरहमी से हत्या कर दी गई. मृतकों की पहचान बाबा गोपाल दास और बाबा बिहारी दास के रूप में हुई है, जो लंबे समय से गाँव के बाहर बने देवीस्थान में रह रहे थे. हैरान करने वाली बात यह है कि हत्या के बाद आरोपियों ने सबूत मिटाने के लिए मंदिर परिसर के भीतर ही दोनों साधुओं के शवों को जलाने की कोशिश भी की.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/video/two-sadhus-murdered-and-bodies-set-on-fire-inside-temple-premises-in-shahjahanpur-vdoj-ytvd-2658447-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T17:34:19+05:30",
-    "hook": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या!",
-    "script_hi": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या से सनसनी फैल गई है. खुटार थाना क्षेत्र के सुता गांव में बाबा गोपाल दास और बाबा बिहारी दास के शव मंदिर परिसर में मिले. आरोप है कि हत्या के बाद साक्ष्य मिटाने के लिए शवों को जलाने की कोशिश की गई. पुलिस मामले की जांच में जुटी है।",
-    "tts_text_hi": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या से सनसनी फैल गई है. खुटार थाना क्षेत्र के सुता गांव में बाबा गोपाल दास और बाबा बिहारी दास के शव मंदिर परिसर में मिले. आरोप है कि हत्या के बाद साक्ष्य मिटाने के लिए शवों को जलाने की कोशिश की गई. पुलिस मामले की जांच में जुटी है।",
-    "title": "शाहजहांपुर में दो साधुओं की निर्मम हत्या",
-    "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की बेरहमी से हत्या, मंदिर परिसर में शव जलाने की कोशिश।",
-    "hashtags": [
-      "Shahjahanpur",
-      "UttarPradesh",
-      "CrimeNews",
-      "IndiaNews",
-      "BreakingNews",
-      "SadhuMurder"
-    ],
-    "visual_queries": [
-      "Uttar Pradesh police station India",
-      "Hindu temple courtyard India",
-      "crime scene investigation India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/18323869/18323869-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "rural village India morning",
-        "credit": "Gobin Barman",
-        "source_duration_sec": 52,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8649666/pexels-photo-8649666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Uttar Pradesh police station India",
-        "credit": "Amit Sharma",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39043377/pexels-photo-39043377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Hindu temple courtyard India",
-        "credit": "Ajinkya Arun  Bhosale",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation India",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6182743/pexels-photo-6182743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smoke rising outdoors India",
-        "credit": "Nikhil Manan",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37847246/pexels-photo-37847246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village pathway drone",
-        "credit": "Huyn Nguyen",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33892233/pexels-photo-33892233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "holy man meditation India",
-        "credit": "Aman Jain",
-        "duration_sec": 4.0
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या, मंदिर में जलाए गए शव 🚨",
-        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nमंदिर परिसर के अंदर दोनों साधुओं के शव मिलने से हड़कंप मच गया है। बदमाशों ने हत्या के बाद सबूत मिटाने के लिए शवों को भी वहीं जला दिया। पुलिस मौके पर पहुंचकर जांच में जुटी है।\n\nपूरी कहानी वीडियो में देखें।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nमंदिर परिसर में ही दोनों साधुओं के शव जलाए जाने से इलाके में सनसनी फैल गई है। क्या है इस खौफनाक वारदात के पीछे की सच्चाई?\n\nवीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "उत्तर प्रदेश के शाहजहांपुर में दो बुजुर्ग साधुओं की निर्मम हत्या! 🚨\n\nघटना शाहजहांपुर के एक मंदिर परिसर की है, जहां दो साधुओं के शव मिलने से पूरे इलाके में कोहराम मच गया। शुरुआती जांच में सामने आया है कि हत्या के बाद उनके शवों को मंदिर में ही जला दिया गया था। पुलिस और फॉरेंसिक टीम मामले की गहराई से जांच कर रही है।\n\nपूरी कहानी क्या है, जानने के लिए वीडियो पूरा देखें।\n\n#ShahjahanpurNews #UPPolice #CrimeNews #UttarPradesh #BreakingNews"
-      },
-      "hashtags": [
-        "ShahjahanpurNews",
-        "UPPolice",
-        "CrimeNews",
-        "UttarPradesh",
-        "BreakingNews"
-      ]
-    },
-    "audio_path": "audio/shahjahanpur_two_ascetics_murdered_temple_burnt.wav",
-    "audio_duration_sec": 21.21
-  },
-  {
-    "topic_label": "gujarat_kosamba_triple_murder_body_in_drum",
-    "virality_score": 8,
-    "reason": "Bizarre and chilling cold-case discovery of three murders with a body hidden in a drum and cement.",
-    "region": "india",
-    "headline": "ड्रम में शव, ऊपर सीमेंट और आंगन में कब्र... ऐसे खुला 3 हत्याओं का राज",
-    "source_summary": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला. पुलिस के मुताबिक, माधवदास ने अपनी पत्नी को हत्या के मामले में फंसाने के लिए पुलिस को सूचना दी थी, लेकिन पूछताछ आगे बढ़ी तो उसकी ही भूमिका सामने आ गई. जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और बाद में घर के आंगन में दफना दिया गया.",
-    "source_url": "https://www.aajtak.in/india/gujarat/story/surat-kosamba-triple-murder-cement-drum-body-wife-husband-arrested-lclcn-strc-2658579-2026-10-01?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-01T19:41:07+05:30",
-    "hook": "गुजरात के कोसंबा से तीनहरे हत्याकांड का दहला देने वाला सच आया सामने!",
-    "script_hi": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला है। आरोपी माधवदास ने अपनी पत्नी को फंसाने के लिए पुलिस को झूठी सूचना दी थी, लेकिन पूछताछ में उसी की करतूत सामने आ गई। पुलिस जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और घर के आंगन में दफना दिया गया था।",
-    "tts_text_hi": "गुजरात के कोसंबा में चार साल पुराने हत्याकांड की जांच के दौरान तीन हत्याओं का राज खुला है। आरोपी माधवदास ने अपनी पत्नी को फंसाने के लिए पुलिस को झूठी सूचना दी थी, लेकिन पूछताछ में उसी की करतूत सामने आ गई। पुलिस जांच में पता चला कि एक महिला के शव को ड्रम में रखकर सीमेंट से सील किया गया और घर के आंगन में दफना दिया गया था।",
-    "title": "ड्रम में शव, आंगन में कब्र: गुजरात में तीनहरे हत्याकांड का खुलासा",
-    "caption": "गुजरात के कोसंबा में चार साल पुराने मामले की जांच में हुआ सनसनीखेज खुलासा, पत्नी को फंसाने की कोशिश में खुद फंसा आरोपी।",
-    "hashtags": [
-      "GujaratNews",
-      "Kosamba",
-      "CrimeNews",
-      "PoliceInvestigation",
-      "IndiaCrime"
-    ],
-    "visual_queries": [
-      "police station India",
-      "Indian police investigation crime scene",
-      "cement drum container India",
-      "courtyard house India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police investigation crime scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5531644/pexels-photo-5531644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cement drum container India",
-        "credit": "Rachel Claire",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38794776/pexels-photo-38794776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "courtyard house India",
-        "credit": "Gowri Manoj",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "ड्रम में सीमेंट, आंगन में कब्र: गुजरात में तीनहरे हत्याकांड से सनसनी 😱",
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा से एक ऐसा मामला सामने आया है जिसने सबको दहला दिया है। एक घर के आंगन में कब्र और ड्रम में छिपाए गए शवों ने दिल दहला देने वाले सच से पर्दा उठाया है। \n\nपूरी कहानी वीडियो में देखें।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा में ड्रम के अंदर शव और आंगन में बनी कब्र से तीनहरे हत्याकांड का पर्दाफाश हुआ है। इस खौफनाक राज को जानने के लिए वीडियो पूरा देखें।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nगुजरात के कोसंबा से एक बेहद डरावना मामला सामने आया है, जहां पुलिस ने जब जांच की तो एक के बाद एक तीन लाशों का राज खुला। ड्रम के अंदर शव और आंगन में दबी कब्र देखकर हर कोई सन्न रह गया।\n\nपूरी घटना को विस्तार से जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#GujaratCrime #KosambaNews #CrimeInvestigation #BreakingNewsHindi #TrueCrimeIndia"
-      },
-      "hashtags": [
-        "GujaratCrime",
-        "KosambaNews",
-        "CrimeInvestigation",
-        "BreakingNewsHindi",
-        "TrueCrimeIndia"
-      ]
-    },
-    "audio_path": "audio/gujarat_kosamba_triple_murder_body_in_drum.wav",
-    "audio_duration_sec": 23.67
-  },
-  {
-    "topic_label": "japan_raises_permanent_residency_fee_20_times",
-    "virality_score": 7,
-    "reason": "Global news about Japan massively increasing permanent residency fees impacts foreign nationals.",
+    "topic_label": "japan_permanent_residency_fee_hike_global",
+    "virality_score": 6,
+    "reason": "Fascinating global policy shift as Japan drastically raises permanent residency fees to manage its foreign population.",
     "region": "global",
     "headline": "Japan raises permanent residency fee by 20 times",
     "source_summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
     "source_url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
     "source_name": "BBC World",
     "published": "Thu, 01 Oct 2026 02:57:43 GMT",
-    "hook": "जापान में रहना हुआ बीस गुना महंगा!",
-    "script_hi": "जापान सरकार ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस यानी स्थायी निवास शुल्क में भारी बढ़ोतरी कर दी है। यह फीस अब मौजूदा शुल्क से बीस गुना तक बढ़ा दी गई है। यह कदम देश में लगातार बढ़ रही विदेशी आबादी को मैनेज करने के लिए किए गए नई आव्रजन नीति के बदलावों का हिस्सा है।",
-    "tts_text_hi": "जापान सरकार ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस यानी स्थायी निवास शुल्क में भारी बढ़ोतरी कर दी है। यह फीस अब मौजूदा शुल्क से बीस गुना तक बढ़ा दी गई है। यह कदम देश में लगातार बढ़ रही विदेशी आबादी को मैनेज करने के लिए किए गए नई आव्रजन नीति के बदलावों का हिस्सा है।",
-    "title": "Japan Permanent Residency Fee Hike",
-    "caption": "जापान ने विदेशी नागरिकों के लिए परमानेंट रेजिडेंसी फीस बीस गुना तक बढ़ा दी है।",
+    "hook": "जापान में रहना हुआ अब बेहद महंगा",
+    "script_hi": "जापान ने स्थायी निवास शुल्क में बीस गुना की भारी बढ़ोतरी कर दी है। यह फैसला बढ़ते विदेशी नागरिकों की संख्या को प्रबंधित करने के लिए आव्रजन नीति में किए गए बदलावों के तहत लिया गया है।",
+    "tts_text_hi": "जापान ने स्थायी निवास शुल्क में बीस गुना की भारी बढ़ोतरी कर दी है। यह फैसला बढ़ते विदेशी नागरिकों की संख्या को प्रबंधित करने के लिए आव्रजन नीति में किए गए बदलावों के तहत लिया गया है।",
+    "title": "जापान में स्थायी निवास शुल्क में बीस गुना बढ़ोतरी",
+    "caption": "जापान ने विदेशी नागरिकों को नियंत्रित करने के लिए स्थायी निवास शुल्क में बीस गुना की भारी बढ़ोतरी की है।",
     "hashtags": [
-      "JapanNews",
+      "Japan",
       "Immigration",
-      "ForeignersInJapan",
-      "NewsUpdate",
+      "News",
+      "Foreigners",
       "GlobalNews"
     ],
     "visual_queries": [
       "Japan immigration office",
-      "Tokyo city street",
-      "foreign workers Japan"
+      "Tokyo cityscape Japan",
+      "Japanese passport document"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -532,37 +443,20 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7815146/7815146-hd_720_1280_60fps.mp4",
-        "source": "pexels",
-        "query": "immigration passport control",
-        "credit": "George Pak",
-        "source_duration_sec": 10,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
         "url": "https://images.pexels.com/photos/16454564/pexels-photo-16454564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
         "query": "Japan immigration office",
         "credit": "Aleksandra Zadiraka",
-        "duration_sec": 4.8
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30641513/pexels-photo-30641513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38947971/pexels-photo-38947971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Tokyo city street",
-        "credit": "John One",
-        "duration_sec": 4.8
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31001269/pexels-photo-31001269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "foreign workers Japan",
-        "credit": "Julias  Torten und Törtchen",
-        "duration_sec": 4.8
+        "query": "Tokyo cityscape Japan",
+        "credit": "Hoàng Minh",
+        "duration_sec": 5
       },
       {
         "type": "image",
@@ -570,42 +464,58 @@
         "source": "pexels",
         "query": "Japan government office",
         "credit": "Bensu Günay",
-        "duration_sec": 4.8
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/30276892/pexels-photo-30276892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31001269/pexels-photo-31001269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Tokyo business district",
-        "credit": "Nicolas Vignot",
-        "duration_sec": 4.8
+        "query": "foreign workers in Japan",
+        "credit": "Julias  Torten und Törtchen",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/33090037/pexels-photo-33090037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Tokyo street crowd",
+        "credit": "Talha Resitoglu",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13404727/pexels-photo-13404727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "immigration queue airport",
+        "credit": "Pew Nguyen",
+        "duration_sec": 5
       }
     ],
     "asset_count": 6,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "जापान में परमानेंट रेजिडेंसी अब 20 गुना महंगी! 😱",
-        "caption": "जापान में रहना हुआ बीस गुना महंगा! 🛑\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस में भारी बढ़ोतरी कर दी है। अब प्रवासियों को पहले के मुकाबले कई गुना ज्यादा रकम चुकानी होगी, जिससे वहां बसने का सपना देख रहे लोगों को बड़ा झटका लगा है।\n\nक्या आप जानते हैं यह फैसला क्यों लिया गया? पूरी कहानी देखें। 👇\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+        "title": "जापान में रहना हुआ 20 गुना महंगा! परमानेंट रेजिडेंसी फीस बढ़ी 🇯🇵",
+        "caption": "जापान में रहना हुआ अब बेहद महंगा 💸\n\nजापान सरकार ने परमानेंट रेजिडेंसी यानी पीआर के नियमों को कड़ा करते हुए इसके आवेदन शुल्क में सीधे 20 गुना की भारी बढ़ोतरी कर दी है। जो फीस पहले बहुत कम थी, वह अब काफी ज्यादा हो गई है।\n\nक्या इस फैसले से भारतीयों पर भी पड़ेगा असर? पूरी बात जानने के लिए वीडियो अंत तक देखें।\n\n#JapanNews #PermanentResidency #JapanPR #GlobalNews #VisaUpdate"
       },
       "instagram": {
         "title": null,
-        "caption": "जापान में रहना हुआ बीस गुना महंगा! 😱\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस में अचानक 20 गुना बढ़ोतरी कर दी है। इस बड़े फैसले से विदेशियों के बीच हड़कंप मच गया है।\n\nयह नियम किस पर लागू होगा? शेयर करके दूसरों को भी बताएं! 🔄\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+        "caption": "जापान में रहना हुआ अब बेहद महंगा 🇯🇵\n\nपरमानेंट रेजिडेंसी का आवेदन शुल्क अचानक 20 गुना बढ़ा दिया गया है। अचानक हुए इस बड़े बदलाव से वहां रहने वाले प्रवासियों की मुश्किलें बढ़ गई हैं।\n\nआपको क्या लगता है, सरकार का यह फैसला कितना सही है? कमेंट में बताएं और वीडियो दोस्तों के साथ शेयर करें।\n\n#JapanNews #PermanentResidency #JapanPR #GlobalNews #VisaUpdate"
       },
       "facebook": {
         "title": null,
-        "caption": "जापान में रहना हुआ बीस गुना महंगा! 🛑\n\nजापान सरकार ने परमानेंट रेजिडेंसी फीस को सीधे 20 गुना बढ़ा दिया है। इस चौंकाने वाले कदम के बाद जापान में लंबे समय तक रहने की योजना बना रहे लोगों की मुश्किलें काफी बढ़ गई हैं।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#JapanNews #PermanentResidency #JapanVisa #ImmigrationNews #GlobalNews"
+        "caption": "जापान में रहना हुआ अब बेहद महंगा 🇯🇵\n\nअगर आप भी जापान में परमानेंट रेजिडेंसी लेने की सोच रहे हैं, तो यह खबर आपके लिए झटके वाली है। जापानी सरकार ने पीआर प्रोसेस की फीस में सीधे 20 गुना की बढ़ोतरी कर दी है। इस अचानक हुए फैसले से वहां बसने का सपना देख रहे लोगों को तगड़ा आर्थिक झटका लगा है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#JapanNews #PermanentResidency #JapanPR #GlobalNews #VisaUpdate"
       },
       "hashtags": [
         "JapanNews",
         "PermanentResidency",
-        "JapanVisa",
-        "ImmigrationNews",
-        "GlobalNews"
+        "JapanPR",
+        "GlobalNews",
+        "VisaUpdate"
       ]
     },
-    "audio_path": "audio/japan_raises_permanent_residency_fee_20_times.wav",
-    "audio_duration_sec": 22.34
+    "audio_path": "audio/japan_permanent_residency_fee_hike_global.wav",
+    "audio_duration_sec": 14.32
   }
 ]
