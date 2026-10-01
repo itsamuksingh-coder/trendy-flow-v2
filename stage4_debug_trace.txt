@@ -1,9 +1,8 @@
-ready_labels: ['chinese_ai_tool_bioweapons_risk_global', 'india_bloc_protest_against_cec_gyanesh_kumar', 'indian_pilot_smit_machchhar_stops_israel_flight_hijack', 'october_1_rule_changes_lpg_puc_atm', 'shubman_gill_double_century_rohit_sharma_record']
+ready_labels: ['commercial_lpg_cylinder_price_hike_october_1', 'delhi_no_puc_no_fuel_rule_petrol_pumps', 'india_vs_west_indies_odi_record_run_chase', 'indian_coast_guard_3000_crore_drug_bust_iranian_boat', 'pm_modi_speaks_to_hero_indian_pilot_smit_machchhar_family']
 
-indian_pilot_smit_machchhar_stops_israel_flight_hijack: SUCCESS -> video_path=videos/indian_pilot_smit_machchhar_stops_israel_flight_hijack.mp4 dur=33.541224
-shubman_gill_double_century_rohit_sharma_record: SUCCESS -> video_path=videos/shubman_gill_double_century_rohit_sharma_record.mp4 dur=30.589887
-meerut_blue_drum_murder_muskan_sahil_guilty: SKIPPED (not in ready set)
-october_1_rule_changes_lpg_puc_atm: SUCCESS -> video_path=videos/october_1_rule_changes_lpg_puc_atm.mp4 dur=23.156553
-hyderabad_drunk_software_engineer_runs_over_seven: SKIPPED (not in ready set)
-india_bloc_protest_against_cec_gyanesh_kumar: SUCCESS -> video_path=videos/india_bloc_protest_against_cec_gyanesh_kumar.mp4 dur=22.42322
-chinese_ai_tool_bioweapons_risk_global: SUCCESS -> video_path=videos/chinese_ai_tool_bioweapons_risk_global.mp4 dur=23.42322
+pm_modi_speaks_to_hero_indian_pilot_smit_machchhar_family: SUCCESS -> video_path=videos/pm_modi_speaks_to_hero_indian_pilot_smit_machchhar_family.mp4 dur=26.622222
+india_vs_west_indies_odi_record_run_chase: SUCCESS -> video_path=videos/india_vs_west_indies_odi_record_run_chase.mp4 dur=35.189887
+shahjahanpur_two_sadhus_murdered_temple_cremation: SKIPPED (not in ready set)
+delhi_no_puc_no_fuel_rule_petrol_pumps: SUCCESS -> video_path=videos/delhi_no_puc_no_fuel_rule_petrol_pumps.mp4 dur=31.196213
+indian_coast_guard_3000_crore_drug_bust_iranian_boat: SUCCESS -> video_path=videos/indian_coast_guard_3000_crore_drug_bust_iranian_boat.mp4 dur=24.556553
+commercial_lpg_cylinder_price_hike_october_1: SUCCESS -> video_path=videos/commercial_lpg_cylinder_price_hike_october_1.mp4 dur=35.556553
