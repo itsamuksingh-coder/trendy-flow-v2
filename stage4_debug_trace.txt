@@ -1,10 +1,8 @@
-ready_labels: ['commercial_lpg_cylinder_price_hike_october', 'indian_pilot_smit_machchhar_saves_flydubai_flight', 'jaipur_rado_showroom_3_crore_theft', 'maruti_suzuki_september_sales_record_2026', 'noida_no_puc_no_fuel_rule_enforcement', 'prayagraj_woman_marries_rakhi_brother', 'stock_market_crash_sensex_nifty_october']
+ready_labels: ['gujarat_kosamba_triple_murder_body_in_drum', 'japan_raises_permanent_residency_fee_20_times', 'maharashtra_raigad_diveagar_beach_students_drown', 'shahjahanpur_two_ascetics_murdered_temple_burnt', 'stock_market_crash_nifty_8_weeks_decline']
 
-indian_pilot_smit_machchhar_saves_flydubai_flight: SUCCESS -> video_path=videos/indian_pilot_smit_machchhar_saves_flydubai_flight.mp4 dur=31.589887
-stock_market_crash_sensex_nifty_october: SUCCESS -> video_path=videos/stock_market_crash_sensex_nifty_october.mp4 dur=25.056553
-prayagraj_woman_marries_rakhi_brother: SUCCESS -> video_path=videos/prayagraj_woman_marries_rakhi_brother.mp4 dur=34.22322
-commercial_lpg_cylinder_price_hike_october: SUCCESS -> video_path=videos/commercial_lpg_cylinder_price_hike_october.mp4 dur=27.389887
-jaipur_rado_showroom_3_crore_theft: SUCCESS -> video_path=videos/jaipur_rado_showroom_3_crore_theft.mp4 dur=22.789887
-noida_no_puc_no_fuel_rule_enforcement: SUCCESS -> video_path=videos/noida_no_puc_no_fuel_rule_enforcement.mp4 dur=33.959229
-ghaziabad_indirapuram_delivery_marten_fire: SKIPPED (not in ready set)
-maruti_suzuki_september_sales_record_2026: SUCCESS -> video_path=videos/maruti_suzuki_september_sales_record_2026.mp4 dur=29.389887
+odi_world_cup_2027_schedule_india_pakistan: SKIPPED (not in ready set)
+maharashtra_raigad_diveagar_beach_students_drown: SUCCESS -> video_path=videos/maharashtra_raigad_diveagar_beach_students_drown.mp4 dur=22.489887
+stock_market_crash_nifty_8_weeks_decline: SUCCESS -> video_path=videos/stock_market_crash_nifty_8_weeks_decline.mp4 dur=28.62322
+shahjahanpur_two_ascetics_murdered_temple_burnt: SUCCESS -> video_path=videos/shahjahanpur_two_ascetics_murdered_temple_burnt.mp4 dur=29.256553
+gujarat_kosamba_triple_murder_body_in_drum: SUCCESS -> video_path=videos/gujarat_kosamba_triple_murder_body_in_drum.mp4 dur=31.689887
+japan_raises_permanent_residency_fee_20_times: SUCCESS -> video_path=videos/japan_raises_permanent_residency_fee_20_times.mp4 dur=30.32322
