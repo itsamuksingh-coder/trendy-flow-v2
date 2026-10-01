@@ -1,8 +1,7 @@
-ready_labels: ['gujarat_kosamba_triple_murder_body_in_drum', 'japan_raises_permanent_residency_fee_20_times', 'maharashtra_raigad_diveagar_beach_students_drown', 'shahjahanpur_two_ascetics_murdered_temple_burnt', 'stock_market_crash_nifty_8_weeks_decline']
+ready_labels: ['icc_mens_odi_world_cup_2027_schedule_india_pakistan', 'indian_stock_market_8_weeks_consecutive_crash', 'japan_permanent_residency_fee_hike_global', 'maharashtra_diveagar_beach_students_drowning_tragedy']
 
-odi_world_cup_2027_schedule_india_pakistan: SKIPPED (not in ready set)
-maharashtra_raigad_diveagar_beach_students_drown: SUCCESS -> video_path=videos/maharashtra_raigad_diveagar_beach_students_drown.mp4 dur=22.489887
-stock_market_crash_nifty_8_weeks_decline: SUCCESS -> video_path=videos/stock_market_crash_nifty_8_weeks_decline.mp4 dur=28.62322
-shahjahanpur_two_ascetics_murdered_temple_burnt: SUCCESS -> video_path=videos/shahjahanpur_two_ascetics_murdered_temple_burnt.mp4 dur=29.256553
-gujarat_kosamba_triple_murder_body_in_drum: SUCCESS -> video_path=videos/gujarat_kosamba_triple_murder_body_in_drum.mp4 dur=31.689887
-japan_raises_permanent_residency_fee_20_times: SUCCESS -> video_path=videos/japan_raises_permanent_residency_fee_20_times.mp4 dur=30.32322
+icc_mens_odi_world_cup_2027_schedule_india_pakistan: SUCCESS -> video_path=videos/icc_mens_odi_world_cup_2027_schedule_india_pakistan.mp4 dur=31.589887
+mumbai_delivery_boy_lift_urination_viral_video: SKIPPED (not in ready set)
+maharashtra_diveagar_beach_students_drowning_tragedy: SUCCESS -> video_path=videos/maharashtra_diveagar_beach_students_drowning_tragedy.mp4 dur=33.689887
+indian_stock_market_8_weeks_consecutive_crash: SUCCESS -> video_path=videos/indian_stock_market_8_weeks_consecutive_crash.mp4 dur=25.889887
+japan_permanent_residency_fee_hike_global: SUCCESS -> video_path=videos/japan_permanent_residency_fee_hike_global.mp4 dur=22.37322
