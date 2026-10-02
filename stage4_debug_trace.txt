@@ -1,7 +1,9 @@
-ready_labels: ['icc_mens_odi_world_cup_2027_schedule_india_pakistan', 'indian_stock_market_8_weeks_consecutive_crash', 'japan_permanent_residency_fee_hike_global', 'maharashtra_diveagar_beach_students_drowning_tragedy']
+ready_labels: ['deeria_rss_worker_murder_breaker_dispute', 'delhi_mumbai_protests_against_cec_gyanesh_kumar', 'indian_womens_recurve_archery_asian_games_gold', 'jaipur_hospital_28kg_tumor_removed', 'lovelina_borgohain_asian_games_gold']
 
-icc_mens_odi_world_cup_2027_schedule_india_pakistan: SUCCESS -> video_path=videos/icc_mens_odi_world_cup_2027_schedule_india_pakistan.mp4 dur=31.589887
-mumbai_delivery_boy_lift_urination_viral_video: SKIPPED (not in ready set)
-maharashtra_diveagar_beach_students_drowning_tragedy: SUCCESS -> video_path=videos/maharashtra_diveagar_beach_students_drowning_tragedy.mp4 dur=33.689887
-indian_stock_market_8_weeks_consecutive_crash: SUCCESS -> video_path=videos/indian_stock_market_8_weeks_consecutive_crash.mp4 dur=25.889887
-japan_permanent_residency_fee_hike_global: SUCCESS -> video_path=videos/japan_permanent_residency_fee_hike_global.mp4 dur=22.37322
+flydubai_flight_indian_pilot_smit_machchhar_attack: SKIPPED (not in ready set)
+lovelina_borgohain_asian_games_gold: SUCCESS -> video_path=videos/lovelina_borgohain_asian_games_gold.mp4 dur=14.456553
+indian_womens_recurve_archery_asian_games_gold: SUCCESS -> video_path=videos/indian_womens_recurve_archery_asian_games_gold.mp4 dur=32.195215
+jaipur_hospital_28kg_tumor_removed: SUCCESS -> video_path=videos/jaipur_hospital_28kg_tumor_removed.mp4 dur=28.889887
+deeria_rss_worker_murder_breaker_dispute: SUCCESS -> video_path=videos/deeria_rss_worker_murder_breaker_dispute.mp4 dur=24.289887
+delhi_mumbai_protests_against_cec_gyanesh_kumar: SUCCESS -> video_path=videos/delhi_mumbai_protests_against_cec_gyanesh_kumar.mp4 dur=30.089887
+ajay_devgn_luxurious_shivshakti_bungalow: SKIPPED (not in ready set)
