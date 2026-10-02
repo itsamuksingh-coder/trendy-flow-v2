@@ -1,10 +1,10 @@
-ready_labels: ['asian_games_womens_hockey_gold_china', 'bihar_truck_accident_locals_loot_liquor', 'captain_smit_machchhar_flydubai_pm_modi_call', 'france_student_protests_school_closures_global', 'opposition_protests_cec_gyanesh_kumar_resignation', 'vande_bharat_chinab_bridge_100_kmph_trial']
+ready_labels: ['asian_games_india_6_gold_medals_day_13', 'congress_appoints_aradhana_mishra_up_chief', 'jaipur_100_crore_digital_coin_crypto_scam', 'opposition_protests_cec_gyanesh_kumar_resignation', 'pargat_singh_appointed_punjab_congress_chief', 'smit_machchhar_flydubai_pm_modi_video_call']
 
-captain_smit_machchhar_flydubai_pm_modi_call: SUCCESS -> video_path=videos/captain_smit_machchhar_flydubai_pm_modi_call.mp4 dur=32.556553
-asian_games_womens_hockey_gold_china: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold_china.mp4 dur=34.377211
-vande_bharat_chinab_bridge_100_kmph_trial: SUCCESS -> video_path=videos/vande_bharat_chinab_bridge_100_kmph_trial.mp4 dur=32.54322
-opposition_protests_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/opposition_protests_cec_gyanesh_kumar_resignation.mp4 dur=37.189887
-lucknow_teen_murders_mother_gender_identity: SKIPPED (not in ready set)
-bihar_truck_accident_locals_loot_liquor: SUCCESS -> video_path=videos/bihar_truck_accident_locals_loot_liquor.mp4 dur=22.651224
-dholpur_4_feet_long_bottle_gourd_viral: SKIPPED (not in ready set)
-france_student_protests_school_closures_global: SUCCESS -> video_path=videos/france_student_protests_school_closures_global.mp4 dur=25.989887
+smit_machchhar_flydubai_pm_modi_video_call: SUCCESS -> video_path=videos/smit_machchhar_flydubai_pm_modi_video_call.mp4 dur=23.882222
+asian_games_india_6_gold_medals_day_13: SUCCESS -> video_path=videos/asian_games_india_6_gold_medals_day_13.mp4 dur=23.60322
+lucknow_teen_murders_mother_gender_change_motive: SKIPPED (not in ready set)
+opposition_protests_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/opposition_protests_cec_gyanesh_kumar_resignation.mp4 dur=26.456553
+jaipur_100_crore_digital_coin_crypto_scam: SUCCESS -> video_path=videos/jaipur_100_crore_digital_coin_crypto_scam.mp4 dur=27.504218
+congress_appoints_aradhana_mishra_up_chief: SUCCESS -> video_path=videos/congress_appoints_aradhana_mishra_up_chief.mp4 dur=32.689887
+pargat_singh_appointed_punjab_congress_chief: SUCCESS -> video_path=videos/pargat_singh_appointed_punjab_congress_chief.mp4 dur=32.356553
+dholpur_4_feet_long_bottle_gourd_laukki: SKIPPED (not in ready set)
