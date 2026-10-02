@@ -1,9 +1,10 @@
-ready_labels: ['deeria_rss_worker_murder_breaker_dispute', 'delhi_mumbai_protests_against_cec_gyanesh_kumar', 'indian_womens_recurve_archery_asian_games_gold', 'jaipur_hospital_28kg_tumor_removed', 'lovelina_borgohain_asian_games_gold']
+ready_labels: ['asian_games_womens_hockey_gold_china', 'bihar_truck_accident_locals_loot_liquor', 'captain_smit_machchhar_flydubai_pm_modi_call', 'france_student_protests_school_closures_global', 'opposition_protests_cec_gyanesh_kumar_resignation', 'vande_bharat_chinab_bridge_100_kmph_trial']
 
-flydubai_flight_indian_pilot_smit_machchhar_attack: SKIPPED (not in ready set)
-lovelina_borgohain_asian_games_gold: SUCCESS -> video_path=videos/lovelina_borgohain_asian_games_gold.mp4 dur=14.456553
-indian_womens_recurve_archery_asian_games_gold: SUCCESS -> video_path=videos/indian_womens_recurve_archery_asian_games_gold.mp4 dur=32.195215
-jaipur_hospital_28kg_tumor_removed: SUCCESS -> video_path=videos/jaipur_hospital_28kg_tumor_removed.mp4 dur=28.889887
-deeria_rss_worker_murder_breaker_dispute: SUCCESS -> video_path=videos/deeria_rss_worker_murder_breaker_dispute.mp4 dur=24.289887
-delhi_mumbai_protests_against_cec_gyanesh_kumar: SUCCESS -> video_path=videos/delhi_mumbai_protests_against_cec_gyanesh_kumar.mp4 dur=30.089887
-ajay_devgn_luxurious_shivshakti_bungalow: SKIPPED (not in ready set)
+captain_smit_machchhar_flydubai_pm_modi_call: SUCCESS -> video_path=videos/captain_smit_machchhar_flydubai_pm_modi_call.mp4 dur=32.556553
+asian_games_womens_hockey_gold_china: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold_china.mp4 dur=34.377211
+vande_bharat_chinab_bridge_100_kmph_trial: SUCCESS -> video_path=videos/vande_bharat_chinab_bridge_100_kmph_trial.mp4 dur=32.54322
+opposition_protests_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/opposition_protests_cec_gyanesh_kumar_resignation.mp4 dur=37.189887
+lucknow_teen_murders_mother_gender_identity: SKIPPED (not in ready set)
+bihar_truck_accident_locals_loot_liquor: SUCCESS -> video_path=videos/bihar_truck_accident_locals_loot_liquor.mp4 dur=22.651224
+dholpur_4_feet_long_bottle_gourd_viral: SKIPPED (not in ready set)
+france_student_protests_school_closures_global: SUCCESS -> video_path=videos/france_student_protests_school_closures_global.mp4 dur=25.989887
