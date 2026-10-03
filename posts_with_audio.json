@@ -1,31 +1,222 @@
 [
   {
-    "topic_label": "flydubai_co_pilot_attack_israel_crash",
-    "virality_score": 9,
-    "reason": "High-stakes mid-air cockpit attack averted by hero Indian pilot with global and national interest.",
+    "topic_label": "flydubai_co_pilot_axe_attack_captain_smit",
+    "virality_score": 10,
+    "reason": "Terrifying mid-air cockpit axe attack foiled by Indian captain Smit Machchhar is a globally trending viral story.",
     "region": "india",
-    "headline": "इजरायल में प्लेन क्रैश कराने का था इरादा! को-पायलट के खौफनाक मंसूबे",
-    "source_summary": "फ्लाईदुबई की फ्लाइट 1073 में को-पायलट हमाम अल-हम्मामी ने विमान को इजरायल में क्रैश करने की कोशिश की. यात्रियों और क्रू ने उसे काबू में किया और विमान को सऊदी अरब में सुरक्षित लैंड कराया गया.",
-    "source_url": "https://www.aajtak.in/world/story/flydubai-flight-1073-co-pilot-attempted-crash-israel-extremist-ideology-investigation-ntc-pvp-dskc-2659742-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T08:55:25+05:30",
-    "hook": "इजरायल में विमान क्रैश कराने की खौफनाक साजिश!",
-    "script_hi": "फ्लाईदुबई की उड़ान में एक को-पायलट ने विमान को इजरायल में क्रैश करने की कोशिश की। यात्रियों और क्रू ने सूझबूझ दिखाते हुए उसे काबू में किया, जिसके बाद विमान को सऊदी अरब में सुरक्षित उतार लिया गया।",
-    "tts_text_hi": "फ्लाईदुबई की उड़ान में एक को-पायलट ने विमान को इजरायल में क्रैश करने की कोशिश की। यात्रियों और क्रू ने सूझबूझ दिखाते हुए उसे काबू में किया, जिसके बाद विमान को सऊदी अरब में सुरक्षित उतार लिया गया।",
-    "title": "इजरायल में विमान क्रैश कराने की साजिश नाकाम",
-    "caption": "फ्लाईदुबई के विमान को क्रैश करने की साजिश को यात्रियों और क्रू ने नाकाम कर दिया।",
+    "headline": "फ्लाईदुबई हमला: चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे",
+    "source_summary": "फ्लाईदुबई हमला: चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे---FlyDubai FZ1073 Attack: UAE Calls Incident Terrorist Attack, Co-Pilot Attacked Captain Smit With Axe",
+    "source_url": "https://www.amarujala.com/world/flydubai-fz1073-attack-uae-calls-co-pilot-assault-a-terrorist-attack-2026-10-03",
+    "source_name": "Amar Ujala",
+    "published": "Sat, 03 Oct 2026 12:49:41 +0530",
+    "hook": "फ्लाईदुबई विमान पर कुल्हाड़ी से जानलेवा हमला!",
+    "script_hi": "फ्लाईदुबई के विमान पर हुए हमले को लेकर बड़ा खुलासा हुआ है। जांच में सामने आया है कि को-पायलट ने चाकू से नहीं बल्कि कुल्हाड़ी से कैप्टन स्मित पर वार किया था। इस भयानक हमले के बावजूद कैप्टन ने बहादुरी दिखाते हुए एक सौ अस्सी यात्रियों की जान बचा ली। यूएई ने इस घटना को आतंकवादी हमला करार दिया है।",
+    "tts_text_hi": "फ्लाईदुबई के विमान पर हुए हमले को लेकर बड़ा खुलासा हुआ है। जांच में सामने आया है कि को-पायलट ने चाकू से नहीं बल्कि कुल्हाड़ी से कैप्टन स्मित पर वार किया था। इस भयानक हमले के बावजूद कैप्टन ने बहादुरी दिखाते हुए एक सौ अस्सी यात्रियों की जान बचा ली। यूएई ने इस घटना को आतंकवादी हमला करार दिया है।",
+    "title": "फ्लाईदुबई हमले में नया खुलासा",
+    "caption": "फ्लाईदुबई विमान हमले में हुआ बड़ा खुलासा, कुल्हाड़ी से हुआ था कैप्टन पर वार।",
     "hashtags": [
-      "Flydubai",
-      "Israel",
-      "SaudiArabia",
+      "FlyDubai",
+      "BreakingNews",
       "AviationNews",
-      "BreakingNews"
+      "NewsUpdate",
+      "WorldNews",
+      "Trending"
     ],
     "visual_queries": [
-      "commercial airplane in flight",
-      "cockpit control panel",
-      "airplane passengers inside cabin",
-      "airplane landing safely airport"
+      "commercial airplane cockpit",
+      "airplane in flight",
+      "pilot in cockpit",
+      "security investigation office"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 27.0,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10419525/10419525-hd_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "commercial airplane cockpit",
+        "credit": "Osman Başkurt",
+        "source_duration_sec": 7,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8949801/pexels-photo-8949801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane cockpit",
+        "credit": "Darya Sheydel",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/3374249/pexels-photo-3374249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane in flight",
+        "credit": "Brady Knoll",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30943345/pexels-photo-30943345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pilot in cockpit",
+        "credit": "Mariya Eskina",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फ्लाईदुबई विमान पर कुल्हाड़ी से हमला! कैप्टन की सूझबूझ से बचीं 180 जानें 🪓✈️",
+        "caption": "फ्लाईदुबई विमान पर कुल्हाड़ी से जानलेवा हमला! 🪓\n\nजांच में चौंकाने वाला खुलासा हुआ है कि कॉकपिट में चाकू से नहीं बल्कि कुल्हाड़ी से हमला किया गया था। बावजूद इसके, पायलट ने गजब का साहस दिखाते हुए 180 यात्रियों की जान बचा ली।\n\nपूरी कहानी देखें और बताएं, ऐसी स्थिति में आप क्या करते?\n\n#flydubai #aviationnews #breakingnews #pilot #flightsafety"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "फ्लाईदुबई विमान पर कुल्हाड़ी से जानलेवा हमला! 🪓\n\nकॉकपिट के अंदर जो हुआ उसने सुरक्षा एजेंसियों के भी होश उड़ा दिए। जान पर खेलकर कैप्टन ने 180 यात्रियों की जान बचाई।\n\nपूरी कहानी वीडियो में देखें। शेयर करें इस साहसी पायलट की कहानी। ✈️\n\n#flydubai #aviationnews #breakingnews #pilot #flightsafety"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "फ्लाईदुबई विमान पर कुल्हाड़ी से जानलेवा हमला! 🪓\n\nजांच में सामने आया है कि कैप्टन स्मित पर किसी साधारण हथियार से नहीं, बल्कि कुल्हाड़ी से हमला किया गया था। गंभीर हालात के बावजूद पायलट ने अपनी सूझबूझ और हिम्मत से 180 लोगों की जिंदगी बचा ली। \n\nआखिर कॉकपिट में ऐसा क्या हुआ था? पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#flydubai #aviationnews #breakingnews #pilot #flightsafety"
+      },
+      "hashtags": [
+        "flydubai",
+        "aviationnews",
+        "breakingnews",
+        "pilot",
+        "flightsafety"
+      ]
+    },
+    "audio_path": "audio/flydubai_co_pilot_axe_attack_captain_smit.wav",
+    "audio_duration_sec": 22.24
+  },
+  {
+    "topic_label": "asian_games_cricket_india_gold_jay_shah",
+    "virality_score": 9,
+    "reason": "India defeating Pakistan for Asian Games cricket gold with Jay Shah present has massive viewer appeal.",
+    "region": "india",
+    "headline": "जय शाह ने टीम इंडिया को पहनाए GOLD मेडल, PAK को किसने द‍िया SILVER?",
+    "source_summary": "भारत-पाकिस्तान एशियन गेम्स क्रिकेट फाइनल के बाद मेडल सेरेमनी में ICC चेयरमैन जय शाह मौजूद रहे, लेकिन मेडल उन्होंने नहीं पहनाए. न‍िश‍िन सिटी के मेयर हिरोकी कोंडो ने खिलाड़ियों को मेडल दिए, जबकि सलमान नसीर ने मस्कट दिए. भारत ने पाकिस्तान को 19 रन से हराकर लगातार दूसरी बार गोल्ड जीता. पाकिस्तान को सिल्वर और श्रीलंका को ब्रॉन्ज मिला.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/india-pakistan-asian-games-final-jay-shah-hiroki-kondo-salman-naseer-medal-ceremony-tspok-dskc-2660119-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T15:16:54+05:30",
+    "hook": "एशियन गेम्स क्रिकेट फाइनल में भारत ने पाकिस्तान को हराकार जीता गोल्ड मेडल!",
+    "script_hi": "एशियन गेम्स के रोमांचक क्रिकेट फाइनल में भारत ने पाकिस्तान को उन्नीस रन से हरा दिया है। भारत ने लगातार दूसरी बार गोल्ड मेडल अपने नाम किया है। मैच के बाद हुई मेडल सेरेमनी में आईसीसी चेयरमैन जय शाह भी मौजूद रहे। हालांकि खिलाड़ियों को मेडल निशिन सिटी के मेयर हिरोकी कोंडो ने पहनाए। इस मुकाबले में पाकिस्तान को सिल्वर और श्रीलंका को ब्रॉन्ज मेडल से संतोष करना पड़ा।",
+    "tts_text_hi": "एशियन गेम्स के रोमांचक क्रिकेट फाइनल में भारत ने पाकिस्तान को उन्नीस रन से हरा दिया है। भारत ने लगातार दूसरी बार गोल्ड मेडल अपने नाम किया है। मैच के बाद हुई मेडल सेरेमनी में आईसीसी चेयरमैन जय शाह भी मौजूद रहे। हालांकि खिलाड़ियों को मेडल निशिन सिटी के मेयर हिरोकी कोंडो ने पहनाए। इस मुकाबले में पाकिस्तान को सिल्वर और श्रीलंका को ब्रॉन्ज मेडल से संतोष करना पड़ा।",
+    "title": "भारत ने पाकिस्तान को हराकर जीता एशियन गेम्स गोल्ड",
+    "caption": "भारत ने एशियन गेम्स क्रिकेट फाइनल में पाकिस्तान को हराकर लगातार दूसरी बार गोल्ड मेडल जीत लिया है।",
+    "hashtags": [
+      "AsianGames",
+      "TeamIndia",
+      "IndVsPak",
+      "GoldMedal",
+      "CricketNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Asian Games cricket stadium India",
+      "cricket gold medal India",
+      "cricket trophy ceremony India"
+    ],
+    "named_person": "Jay Shah",
+    "named_person_hi": "जय शाह",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "जय शाह",
+        "source": "fallback",
+        "query": "Jay Shah",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Asian Games cricket stadium India",
+        "credit": "Nihar Manyalli",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6250937/pexels-photo-6250937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket gold medal India",
+        "credit": "Anna Shvets",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket trophy ceremony India",
+        "credit": "Monojit Dutta",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "भारत ने पाकिस्तान को हराकर जीता एशियन गेम्स गोल्ड",
+        "caption": "भारत ने एशियन गेम्स क्रिकेट फाइनल में पाकिस्तान को हराकर लगातार दूसरी बार गोल्ड मेडल जीत लिया है।\n\n#AsianGames #TeamIndia #IndVsPak #GoldMedal #CricketNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "भारत ने एशियन गेम्स क्रिकेट फाइनल में पाकिस्तान को हराकर लगातार दूसरी बार गोल्ड मेडल जीत लिया है।\n\n#AsianGames #TeamIndia #IndVsPak #GoldMedal #CricketNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "भारत ने एशियन गेम्स क्रिकेट फाइनल में पाकिस्तान को हराकर लगातार दूसरी बार गोल्ड मेडल जीत लिया है।\n\n#AsianGames #TeamIndia #IndVsPak #GoldMedal #CricketNews"
+      },
+      "hashtags": [
+        "AsianGames",
+        "TeamIndia",
+        "IndVsPak",
+        "GoldMedal",
+        "CricketNews"
+      ]
+    },
+    "audio_path": "audio/asian_games_cricket_india_gold_jay_shah.wav",
+    "audio_duration_sec": 26.19
+  },
+  {
+    "topic_label": "noida_supernova_43rd_floor_suicide_video",
+    "virality_score": 9,
+    "reason": "High-rise tragic suicide with dramatic rescue attempt and viral video elements drives high engagement.",
+    "region": "india",
+    "headline": "&#039;नहीं गिर रहा&#039; बोलकर 43वीं मंजिल से कूदा... सुपरनोवा का नया VIDEO",
+    "source_summary": "नोएडा के सुपरनोवा में 29 वर्षीय युवक ने 43वीं मंजिल से छलांग लगा दी, जिससे उसकी मौत हो गई. घटना के वक्त AC रिपेयरिंग कर रहे लोगों ने उसे बचाने की कोशिश की, लेकिन कामयाब नहीं हो सके. युवक ने पिता को WhatsApp पर आखिरी मैसेज भी भेजा था. पुलिस कर्ज की परेशानी समेत सभी पहलुओं की जांच कर रही है.",
+    "source_url": "https://www.aajtak.in/uttar-pradesh/story/noida-supernova-43rd-floor-sambhav-jain-suicide-viral-video-lclcn-strc-2660165-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T16:22:46+05:30",
+    "hook": "नोएडा के सुपरनोवा में दिल दहला देने वाला हादसा!",
+    "script_hi": "नोएडा के सुपरनोवा में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से छलांग लगाकर जान दे दी। कूदने से पहले उसने कहा कि नहीं गिर रहा। एसी ठीक कर रहे लोगों ने बचाने की कोशिश की लेकिन नाकाम रहे। पुलिस कर्ज के एंगल से मामले की जांच कर रही है।",
+    "tts_text_hi": "नोएडा के सुपरनोवा में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से छलांग लगाकर जान दे दी। कूदने से पहले उसने कहा कि नहीं गिर रहा। एसी ठीक कर रहे लोगों ने बचाने की कोशिश की लेकिन नाकाम रहे। पुलिस कर्ज के एंगल से मामले की जांच कर रही है।",
+    "title": "नोएडा सुपरनोवा में तैंतालीसवीं मंजिल से कूदा युवक",
+    "caption": "नोएडा के सुपरनोवा प्रोजेक्ट में एक दर्दनाक हादसे में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से कूदकर जान दे दी।",
+    "hashtags": [
+      "Noida",
+      "Supernova",
+      "BreakingNews",
+      "NoidaNews",
+      "UttarPradesh"
+    ],
+    "visual_queries": [
+      "Noida city skyline India",
+      "high rise building India",
+      "air conditioner repair India",
+      "police investigation India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -35,92 +226,95 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/27670208/pexels-photo-27670208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31474528/13420234_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "commercial airplane in flight",
-        "credit": "Büşra  Taşkın",
+        "query": "Noida city skyline India",
+        "credit": "Amit Rohilla",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28606365/pexels-photo-28606365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high rise building India",
+        "credit": "Ratnesh Tiwari",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8949801/pexels-photo-8949801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13718935/pexels-photo-13718935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cockpit control panel",
-        "credit": "Darya Sheydel",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11105400/pexels-photo-11105400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane passengers inside cabin",
-        "credit": "Евгений Шухман",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/13831861/pexels-photo-13831861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "airplane landing safely airport",
-        "credit": "Diego Alexander",
+        "query": "air conditioner repair India",
+        "credit": "The Vanity Photography  Co.",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 20,
+    "timeline_covered_sec": 22,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "इजरायल में विमान क्रैश कराने की साजिश! को-पायलट का खौफनाक सच ✈️",
-        "caption": "कॉकपिट में बैठे शख्स ने विमान को जानबूझकर गिराने की साजिश रची थी। 🚨\n\nइजरायल में एक फ्लाइट के दौरान को-पायलट के इन खतरनाक मंसूबों ने सबको हैरान कर दिया। समय रहते इस बड़ी साजिश को कैसे नाकाम किया गया? \n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#IsraelNews #PlaneCrashPlot #AviationSafety #BreakingNews #WorldNews"
+        "title": "नोएडा सुपरनोवा में तैंतालीसवीं मंजिल से कूदा युवक",
+        "caption": "नोएडा के सुपरनोवा प्रोजेक्ट में एक दर्दनाक हादसे में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से कूदकर जान दे दी।\n\n#Noida #Supernova #BreakingNews #NoidaNews #UttarPradesh"
       },
       "instagram": {
         "title": null,
-        "caption": "इजरायल में विमान क्रैश कराने की खौफनाक साजिश! ✈️\n\nकॉकपिट के अंदर जो हुआ, उसने एयरलाइंस सुरक्षा पर सवाल खड़े कर दिए हैं। को-पायलट का यह कदम तबाही ला सकता था। \n\nक्या आप सोचते हैं कि ऐसे मामलों में सुरक्षा और सख्त होनी चाहिए? कमेंट में बताएं।\n\n#IsraelNews #PlaneCrashPlot #AviationSafety #BreakingNews #WorldNews"
+        "caption": "नोएडा के सुपरनोवा प्रोजेक्ट में एक दर्दनाक हादसे में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से कूदकर जान दे दी।\n\n#Noida #Supernova #BreakingNews #NoidaNews #UttarPradesh"
       },
       "facebook": {
         "title": null,
-        "caption": "इजरायल में विमान क्रैश कराने की खौफनाक साजिश! 🚨\n\nकॉकपिट में बैठे को-पायलट के इरादे इतने खतरनाक थे कि जानकर आपके रोंगटे खड़े हो जाएंगे। विमान को जानबूझकर दुर्घटनाग्रस्त करने का यह पूरा प्लान वक्त रहते कैसे फेल हुआ, जानिए इस वीडियो में। \n\nपूरी खबर के लिए वीडियो अंत तक देखें और शेयर करें।\n\n#IsraelNews #PlaneCrashPlot #AviationSafety #BreakingNews #WorldNews"
+        "caption": "नोएडा के सुपरनोवा प्रोजेक्ट में एक दर्दनाक हादसे में उनतीस वर्षीय युवक ने तैंतालीसवीं मंजिल से कूदकर जान दे दी।\n\n#Noida #Supernova #BreakingNews #NoidaNews #UttarPradesh"
       },
       "hashtags": [
-        "IsraelNews",
-        "PlaneCrashPlot",
-        "AviationSafety",
+        "Noida",
+        "Supernova",
         "BreakingNews",
-        "WorldNews"
+        "NoidaNews",
+        "UttarPradesh"
       ]
     },
-    "audio_path": "audio/flydubai_co_pilot_attack_israel_crash.wav",
-    "audio_duration_sec": 14.25
+    "audio_path": "audio/noida_supernova_43rd_floor_suicide_video.wav",
+    "audio_duration_sec": 18.38
   },
   {
-    "topic_label": "asian_games_womens_hockey_gold",
+    "topic_label": "asian_games_womens_hockey_gold_44_years",
     "virality_score": 9,
-    "reason": "India wins historic Asian Games gold in women's hockey after 44 years against China.",
+    "reason": "Historic 44-year wait ending with an Indian women's hockey gold medal win over China builds immense national pride.",
     "region": "india",
     "headline": "एशियन गेम्स में भारत की महिला हॉकी टीम बनी चैंपियन",
     "source_summary": "भारतीय महिला हॉकी टीम ने एशियन गेम्स 2026 के फाइनल में चीन को 1-0 से हराकर 44 साल बाद गोल्ड मेडल जीता. लालरेमसियामी ने निर्णायक गोल किया, जबकि सविता पूनिया और भारतीय डिफेंस ने चीन के हमलों को रोकते हुए भारत की जीत पक्की की. वीडियो में जानें क्या रहा स्कोर.",
     "source_url": "https://www.aajtak.in/short-videos/video/indian-womens-hockey-asian-games-2026-gold-china-la-2028-score-board-details-mmtm-2659500-2026-10-02?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-10-02T21:00:51+05:30",
-    "hook": "चौवालीस साल का इंतजार खत्म! भारतीय महिला हॉकी टीम ने रचा इतिहास!",
-    "script_hi": "चौवालीस साल का लंबा इंतजार खत्म हो गया है! भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में चीन को एक-शून्य से हरा दिया है। लालरेमसियामी ने निर्णायक गोल दागा, जबकि कप्तान सविता पूनिया और डिफेंस ने शानदार खेल दिखाते हुए भारत के नाम ऐतिहासिक गोल्ड मेडल कर लिया!",
-    "tts_text_hi": "चौवालीस साल का लंबा इंतजार खत्म हो गया है! भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में चीन को एक-शून्य से हरा दिया है। लालरेमसियामी ने निर्णायक गोल दागा, जबकि कप्तान सविता पूनिया और डिफेंस ने शानदार खेल दिखाते हुए भारत के नाम ऐतिहासिक गोल्ड मेडल कर लिया!",
-    "title": "एशियन गेम्स में भारतीय महिला हॉकी टीम बनी चैंपियन",
-    "caption": "भारतीय महिला हॉकी टीम ने एशियन गेम्स के फाइनल में चीन को हराकर चौवालीस साल बाद जीता गोल्ड मेडल।",
+    "hook": "चौवालीस साल का सूखा खत्म, भारतीय महिला हॉकी टीम ने रचा इतिहास!",
+    "script_hi": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में चीन को एक-शून्य से हराकर चौवालीस साल बाद गोल्ड मेडल अपने नाम किया है। लालरेमसियामी ने मैच का निर्णायक गोल दागा। वहीं कप्तान सविता पूनिया और भारतीय डिफेंस ने चीन के हर हमले को नाकाम करते हुए भारत की ऐतिहासिक जीत पक्की कर दी।",
+    "tts_text_hi": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में चीन को एक-शून्य से हराकर चौवालीस साल बाद गोल्ड मेडल अपने नाम किया है। लालरेमसियामी ने मैच का निर्णायक गोल दागा। वहीं कप्तान सविता पूनिया और भारतीय डिफेंस ने चीन के हर हमले को नाकाम करते हुए भारत की ऐतिहासिक जीत पक्की कर दी।",
+    "title": "भारतीय महिला हॉकी टीम ने जीता एशियन गेम्स गोल्ड",
+    "caption": "भारतीय महिला हॉकी टीम ने एशियन गेम्स दो हजार छब्बीस के फाइनल में चीन को हराकर चौवालीस साल बाद ऐतिहासिक गोल्ड मेडल जीता है।",
     "hashtags": [
-      "AsianGames",
       "IndianHockey",
+      "AsianGames",
       "GoldMedal",
+      "WomenHockey",
       "TeamIndia",
       "SportsNews",
-      "WomenHockey"
+      "India"
     ],
     "visual_queries": [
-      "Indian hockey team India",
-      "Asian games stadium India",
-      "hockey match celebration India"
+      "Indian women hockey team India",
+      "hockey match stadium India",
+      "Indian hockey player celebration India"
     ],
     "named_person": "Savita Punia",
     "named_person_hi": "सविता पूनिया",
@@ -140,154 +334,104 @@
       },
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/6848143/6848143-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/39079075/16629321_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "Indian hockey team India",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 13,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Asian games stadium India",
-        "credit": "Nihar Manyalli",
+        "query": "hockey match stadium India",
+        "credit": "Shahrukh Dawar Khan",
+        "source_duration_sec": 5,
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/38172421/pexels-photo-38172421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38774810/pexels-photo-38774810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "hockey match celebration India",
-        "credit": "Luis  Baez",
+        "query": "women field hockey match",
+        "credit": "Lucas Gramatica",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9501965/pexels-photo-9501965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian female athletes celebration",
+        "credit": "Anastasia  Shuraeva",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6250937/pexels-photo-6250937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "gold medal victory stadium",
+        "credit": "Anna Shvets",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13387393/pexels-photo-13387393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "hockey stick and ball sports",
+        "credit": "Kuiyibo Campos",
         "duration_sec": 5
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20.0,
+    "asset_count": 6,
+    "timeline_covered_sec": 29.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "44 साल का सूखा खत्म! एशियन गेम्स में चैंपियन बनी भारतीय महिला हॉकी टीम 🏑🇮🇳",
-        "caption": "चौवालीस साल का इंतजार खत्म! भारतीय महिला हॉकी टीम ने रचा इतिहास!\n\nएशियन गेम्स के फाइनल में दमदार प्रदर्शन करते हुए भारत की बेटियों ने गोल्ड मेडल अपने नाम कर लिया है और देश का सिर गर्व से ऊंचा कर दिया है।\n\nपूरी कहानी देखें कि कैसे टीम ने यह ऐतिहासिक जीत हासिल की।\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #TeamIndia #HockeyIndia"
+        "title": "44 साल का सूखा खत्म! भारतीय महिला हॉकी टीम ने जीता गोल्ड 🏑🥇",
+        "caption": "44 साल का लंबा इंतजार आखिरकार खत्म हो गया है! भारतीय महिला हॉकी टीम ने एशियन गेम्स में इतिहास रचते हुए गोल्ड मेडल अपने नाम कर लिया है। 🏑\n\nफाइनल मुकाबले में टीम ने शानदार प्रदर्शन किया और हर भारतीय का सिर गर्व से ऊंचा कर दिया। इस ऐतिहासिक जीत की पूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\nपूरी कहानी देखें और बताएं, इस जीत पर आपकी क्या प्रतिक्रिया है?\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #IndianHockey #SportsNews"
       },
       "instagram": {
         "title": null,
-        "caption": "चौवालीस साल का इंतजार खत्म! भारतीय महिला हॉकी टीम ने रचा इतिहास! 🏑🏆\n\nएशियन गेम्स के महामुकाबले में भारतीय टीम ने ऐसा कमाल किया कि पूरा देश झूम उठा।\n\nशेयर करें इस ऐतिहासिक जीत को हर भारतीय के साथ!\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #TeamIndia #HockeyIndia"
+        "caption": "44 साल का सूखा खत्म, भारतीय महिला हॉकी टीम ने रचा इतिहास! 🇮🇳🏑\n\nलंबी मेहनत के बाद आखिरकार भारत की बेटियों ने एशियन गेम्स में गोल्ड मेडल जीतकर तिरंगा लहरा दिया है। फाइनल मुकाबले का रोमांच ऐसा था कि हर किसी की सांसें थम गईं थीं।\n\nवीडियो को लाइक करें और इस ऐतिहासिक जीत को अपने दोस्तों के साथ जरूर शेयर करें!\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #IndianHockey #SportsNews"
       },
       "facebook": {
         "title": null,
-        "caption": "चौवालीस साल का इंतजार खत्म! भारतीय महिला हॉकी टीम ने रचा इतिहास! 🏑🇮🇳\n\nजिस मुकाम को हासिल करने के लिए दशकों का वक्त लग गया, उसे आज हमारी बेटियों ने सच कर दिखाया। एशियन गेम्स के फाइनल में शानदार खेल दिखाते हुए भारत ने गोल्ड मेडल पर कब्जा जमा लिया है।\n\nआपकी इस ऐतिहासिक जीत पर क्या राय है, हमें कमेंट्स में बताएं और वीडियो पूरा देखें।\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #TeamIndia #HockeyIndia"
+        "caption": "44 साल का सूखा खत्म! भारतीय महिला हॉकी टीम ने एशियन गेम्स में रचा इतिहास 🏑🇮🇳\n\nजितनी मुश्किल यह डगर थी, उतनी ही शानदार यह जीत है। भारत की बेटियों ने एशियन गेम्स के फाइनल में बेहतरीन खेल दिखाते हुए गोल्ड मेडल अपने नाम किया है और देश का नाम पूरी दुनिया में रोशन कर दिया है।\n\nक्या आपको भी इस ऐतिहासिक जीत पर गर्व है? कमेंट में जरूर बताएं और वीडियो पूरा देखें।\n\n#AsianGames2023 #IndianWomensHockey #AsianGamesGold #IndianHockey #SportsNews"
       },
       "hashtags": [
         "AsianGames2023",
         "IndianWomensHockey",
         "AsianGamesGold",
-        "TeamIndia",
-        "HockeyIndia"
+        "IndianHockey",
+        "SportsNews"
       ]
     },
-    "audio_path": "audio/asian_games_womens_hockey_gold.wav",
-    "audio_duration_sec": 21.64
+    "audio_path": "audio/asian_games_womens_hockey_gold_44_years.wav",
+    "audio_duration_sec": 21.14
   },
   {
-    "topic_label": "ohio_hindu_temple_attack_bricks",
+    "topic_label": "turkey_deports_narco_kingpin_navpreet_singh",
     "virality_score": 8,
-    "reason": "Hate crime attack on a Hindu temple in Ohio, US, sparks widespread emotional outrage.",
+    "reason": "Major international criminal deportation praised by Amit Shah creates strong national security interest.",
     "region": "india",
-    "headline": "अमेरिका के ओहायो में हिंदू मंदिर पर हमला, खिड़कियां और दरवाजे तोड़े",
-    "source_summary": "ओहायो के रिकमंड हाइट्स स्थित श्री स्वामीनारायण वड़ताल धाम हिंदू मंदिर पर अज्ञात व्यक्तियों ने ईंटें फेंककर नुकसान पहुंचाया. हिंदू अमेरिकन फाउंडेशन (HAF) ने इस घटना को संभावित हेट क्राइम बताया है और आरोपियों की जल्द गिरफ्तारी की मांग की है.",
-    "source_url": "https://www.aajtak.in/world/story/america-ohio-hindu-temple-attack-hate-crime-fbi-investigation-ntc-pvp-dskc-2659782-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T10:08:56+05:30",
-    "hook": "अमेरिका में हिंदू मंदिर पर बड़ा हमला!",
-    "script_hi": "अमेरिका के ओहायो राज्य में एक हिंदू मंदिर को निशाना बनाया गया है। रिकमंड हाइट्स स्थित श्री स्वामीनारायण वड़ताल धाम मंदिर पर अज्ञात लोगों ने ईंटें फेंककर खिड़कियां और दरवाजे तोड़ दिए। हिंदू अमेरिकन फाउंडेशन ने इस घटना को संभावित हेट क्राइम करार दिया है और आरोपियों की जल्द गिरफ्तारी की मांग की है। स्थानीय पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "अमेरिका के ओहायो राज्य में एक हिंदू मंदिर को निशाना बनाया गया है। रिकमंड हाइट्स स्थित श्री स्वामीनारायण वड़ताल धाम मंदिर पर अज्ञात लोगों ने ईंटें फेंककर खिड़कियां और दरवाजे तोड़ दिए। हिंदू अमेरिकन फाउंडेशन ने इस घटना को संभावित हेट क्राइम करार दिया है और आरोपियों की जल्द गिरफ्तारी की मांग की है। स्थानीय पुलिस मामले की जांच कर रही है।",
-    "title": "अमेरिका के ओहायो में हिंदू मंदिर पर हमला, खिड़कियां और दरवाजे तोड़े",
-    "caption": "अमेरिका के ओहायो में हिंदू मंदिर पर अज्ञात हमलावरों ने हमला किया। खिड़कियां और दरवाजे तोड़े गए। हिंदू अमेरिकन फाउंडेशन ने इसे हेट क्राइम बताया है।",
+    "headline": "तुर्की से नार्को ट्रैफिकिंग सरगना नवप्रीत सिंह का डिपोर्टेशन, राउज एवेन्यू कोर्ट में पेशी, अमित शाह बोले- ऐतिहासिक उपलब्धि",
+    "source_summary": "Narco Kingpin Navpreet Singh: नशीले पदार्थों की तस्करी के सरगना नवप्रीत सिंह को तुर्की से भारत डिपोर्ट किया गया है। उसे दिल्ली के राउज एवेन्यू कोर्ट में पेश किया गया। नवप्रीत को डिपोर्टेशन पर अमित शाह ने इसे ऐतिहासिक उपलब्धि करार दिया है।",
+    "source_url": "https://navbharattimes.indiatimes.com/india/narco-kingpin-navpreet-singh-deportation-from-trkiye-amit-shah-says-historic-milestone/articleshow/134656956.cms",
+    "source_name": "Navbharat Times",
+    "published": "Sat, 03 Oct 2026 16:07:00 +0530",
+    "hook": "नार्को तस्कर नवप्रीत सिंह तुर्की से भारत डिपोर्ट!",
+    "script_hi": "नार्को ट्रैफिकिंग का बड़ा सरगना नवप्रीत सिंह तुर्की से भारत डिपोर्ट कर लाया गया है। दिल्ली के राउज एवेन्यू कोर्ट में उसकी पेशी हुई है। केंद्रीय गृह मंत्री अमित शाह ने इस कार्रवाई को एक ऐतिहासिक उपलब्धि बताया है।",
+    "tts_text_hi": "नार्को ट्रैफिकिंग का बड़ा सरगना नवप्रीत सिंह तुर्की से भारत डिपोर्ट कर लाया गया है। दिल्ली के राउज एवेन्यू कोर्ट में उसकी पेशी हुई है। केंद्रीय गृह मंत्री अमित शाह ने इस कार्रवाई को एक ऐतिहासिक उपलब्धि बताया है।",
+    "title": "नार्को तस्कर नवप्रीत सिंह तुर्की से डिपोर्ट",
+    "caption": "तुर्की से नार्को ट्रैफिकिंग सरगना नवप्रीत सिंह का डिपोर्टेशन, राउज एवेन्यू कोर्ट में पेशी, अमित शाह बोले- ऐतिहासिक उपलब्धि",
     "hashtags": [
-      "USA",
-      "HinduTemple",
-      "Ohio",
-      "HateCrime",
-      "NewsUpdate"
+      "NavpreetSingh",
+      "AmitShah",
+      "NarcoKingpin",
+      "DelhiCourt",
+      "IndiaNews"
     ],
     "visual_queries": [
-      "american city street",
-      "hindu temple exterior",
-      "police investigation scene"
+      "Turkish airport exterior",
+      "Delhi Rouse Avenue court building India",
+      "Indian home ministry building Delhi"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story involves an interfaith or hate crime allegation against a religious institution abroad, requiring careful handling and accurate context.",
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation scene",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/2290554/pexels-photo-2290554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "american city street",
-        "credit": "Ricky Esquivel",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15588351/pexels-photo-15588351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hindu temple exterior",
-        "credit": "Harsh limbachiya",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 16,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "up_congress_leadership_change_aradhana_mishra",
-    "virality_score": 7,
-    "reason": "Major political shakeup in UP Congress with Aradhana Mishra appointed as new state chief.",
-    "region": "india",
-    "headline": "आराधना मिश्रा बनीं यूपी कांग्रेस अध्यक्ष, इमरान को ये जिम्मेदारी",
-    "source_summary": "उत्तर प्रदेश कांग्रेस में बड़ा संगठनात्मक बदलाव हुआ है। आराधना मिश्रा ‘मोना’ को नया प्रदेश अध्यक्ष बनाया गया है, जबकि सहारनपुर सांसद इमरान मसूद कार्यकारी अध्यक्ष नियुक्त हुए हैं। देवेंद्र निषाद और आलोक प्रसाद को वरिष्ठ उपाध्यक्ष की जिम्मेदारी मिली है।",
-    "source_url": "https://www.aajtak.in/short-videos/video/up-upcoming-election-2027-aradhana-mishra-congress-president-imran-masood-india-alliance-rahul-gandhi-ajay-rai-mmtc-2659725-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T08:10:06+05:30",
-    "hook": "उत्तर प्रदेश कांग्रेस में हुआ बड़ा बदलाव!",
-    "script_hi": "उत्तर प्रदेश कांग्रेस में बड़ा संगठनात्मक बदलाव किया गया है। आराधना मिश्रा मोना को नया प्रदेश अध्यक्ष बनाया गया है, जबकि सहारनपुर सांसद इमरान मसूद कार्यकारी अध्यक्ष नियुक्त हुए हैं। इसके अलावा देवेंद्र निषाद और आलोक प्रसाद को वरिष्ठ उपाध्यक्ष की जिम्मेदारी सौंपी गई है।",
-    "tts_text_hi": "उत्तर प्रदेश कांग्रेस में बड़ा संगठनात्मक बदलाव किया गया है। आराधना मिश्रा मोना को नया प्रदेश अध्यक्ष बनाया गया है, जबकि सहारनपुर सांसद इमरान मसूद कार्यकारी अध्यक्ष नियुक्त हुए हैं। इसके अलावा देवेंद्र निषाद और आलोक प्रसाद को वरिष्ठ उपाध्यक्ष की जिम्मेदारी सौंपी गई है।",
-    "title": "उत्तर प्रदेश कांग्रेस में बड़ा बदलाव, आराधना मिश्रा बनीं नई प्रदेश अध्यक्ष",
-    "caption": "उत्तर प्रदेश कांग्रेस में बड़ा संगठनात्मक फेरबदल हुआ है। आराधना मिश्रा 'मोना' को नया प्रदेश अध्यक्ष बनाया गया है, वहीं इमरान मसूद कार्यकारी अध्यक्ष बने हैं।",
-    "hashtags": [
-      "#UPCongress",
-      "#AradhanaMishra",
-      "#ImranMasood",
-      "#Congress",
-      "#UttarPradesh",
-      "#PoliticalNews",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian political meeting India",
-      "Indian parliamentarian India",
-      "Indian political party office India"
-    ],
-    "named_person": "Aradhana Mishra",
-    "named_person_hi": "आराधना मिश्रा",
+    "named_person": "Navpreet Singh",
+    "named_person_hi": "नवप्रीत सिंह",
     "secondary_persons": [
-      "Imran Masood"
+      "Amit Shah"
     ],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
@@ -295,124 +439,184 @@
     "assets": [
       {
         "type": "text_card",
-        "text": "आराधना मिश्रा",
+        "text": "नवप्रीत सिंह",
         "source": "fallback",
-        "query": "Aradhana Mishra",
+        "query": "Navpreet Singh",
         "duration_sec": 4.0
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/8847882/8847882-hd_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian politicians press conference",
-        "credit": "Mikhail Nilov",
-        "source_duration_sec": 25,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/7581228/7581228-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "Indian politicians meeting",
-        "credit": "RDNE Stock project",
-        "source_duration_sec": 8,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087854/pexels-photo-39087854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/18850249/pexels-photo-18850249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian political meeting India",
-        "credit": "Satyam Pixels",
+        "query": "Turkish airport exterior",
+        "credit": "Cihat Dede",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/8850623/pexels-photo-8850623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35616896/pexels-photo-35616896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian political party office",
-        "credit": "Tara Winstead",
+        "query": "Delhi Rouse Avenue court building India",
+        "credit": "Saksham Vikram",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18347328/pexels-photo-18347328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian home ministry building Delhi",
+        "credit": "Sahil Captures",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 26.0,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "यूपी कांग्रेस में बड़ा बदलाव! आराधना मिश्रा बनीं नई अध्यक्ष 🚨",
-        "caption": "यूपी कांग्रेस में हुआ बड़ा बदलाव! आराधना मिश्रा 'मोना' को मिली उत्तर प्रदेश कांग्रेस की कमान।\n\nपार्टी ने बदलाव करते हुए उन्हें नई प्रदेश अध्यक्ष बनाया है, जबकि इमरान मसूद को भी अहम जिम्मेदारी सौंपी गई है। 2027 के विधानसभा चुनावों से पहले पार्टी का यह दांव कितना असरदार साबित होगा?\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#AradhanaMishra #UPCongress #UttarPradeshNews #CongressNews #UPPolitics"
+        "title": "तुर्की से दबोचा गया नार्को किंग नवप्रीत सिंह! राउज एवेन्यू कोर्ट में पेशी 🚨",
+        "caption": "नार्को तस्कर नवप्रीत सिंह तुर्की से भारत डिपोर्ट! 🇮🇳\n\nगृह मंत्री अमित शाह ने इसे देश के लिए एक ऐतिहासिक उपलब्धि बताया है। तुर्की से शिकंजा कसने के बाद अब राउज एवेन्यू कोर्ट में उसकी पेशी हुई है, जिससे ड्रग्स सिंडिकेट से जुड़े कई बड़े राज़ खुलने की उम्मीद है।\n\nपूरी कहानी वीडियो में देखें और शेयर करें।\n\n#NavpreetSingh #NarcoKing #TurkeyDeportation #AmitShah #RouseAvenueCourt"
       },
       "instagram": {
         "title": null,
-        "caption": "यूपी कांग्रेस में हुआ बड़ा बदलाव! आराधना मिश्रा 'मोना' को मिली उत्तर प्रदेश कांग्रेस की कमान।\n\nपार्टी ने बड़ा फेरबदल करते हुए उन्हें नई जिम्मेदारी सौंपी है, जिससे सियासी गलियारों में हलचल तेज हो गई है। क्या यह फैसला पार्टी की किस्मत बदल पाएगा?\n\nअपनी राय शेयर करें और पूरी बात जानें।\n\n#AradhanaMishra #UPCongress #UttarPradeshNews #CongressNews #UPPolitics"
+        "caption": "नार्को तस्कर नवप्रीत सिंह तुर्की से भारत डिपोर्ट! 🚨 अमित शाह ने इसे ऐतिहासिक उपलब्धि कहा है। राउज एवेन्यू कोर्ट में पेशी के बाद अब इस इंटरनेशनल ड्रग सिंडिकेट के कई और चेहरों से नकाब उठना तय माना जा रहा है। 📉\n\nक्या लगता है, इस नेटवर्क के पीछे कौन है? कमेंट में बताएं।\n\n#NavpreetSingh #NarcoKing #TurkeyDeportation #AmitShah #RouseAvenueCourt"
       },
       "facebook": {
         "title": null,
-        "caption": "उत्तर प्रदेश की राजनीति में एक बड़ा मोड़ आ गया है! कांग्रेस ने बड़ा दांव चलते हुए आराधना मिश्रा 'मोना' को प्रदेश अध्यक्ष की कमान सौंप दी है।\n\nइसके साथ ही इमरान मसूद को भी पार्टी में अहम जिम्मेदारी दी गई है। आने वाले चुनावों के मद्देनजर कांग्रेस का यह फैसला कितना मजबूत साबित होगा, यह तो वक्त ही बताएगा।\n\nआपको क्या लगता है, इस बदलाव से पार्टी को कितना फायदा होगा? कमेंट में जरूर बताएं।\n\n#AradhanaMishra #UPCongress #UttarPradeshNews #CongressNews #UPPolitics"
+        "caption": "तुर्की से ऐसा शिकंजा कसा कि भारत आते ही सीधे कोर्ट पहुंच गया इंटरनेशनल नार्को किंग!\n\nनार्को तस्कर नवप्रीत सिंह को तुर्की से भारत डिपोर्ट कर दिया गया है। गृह मंत्री अमित शाह ने इस बड़ी कामयाबी को देश के लिए ऐतिहासिक उपलब्धि बताया है। राउज एवेन्यू कोर्ट में पेशी के बाद अब इस ड्रग्स रैकेट के कई और बड़े चेहरों के बेनकाब होने की बारी है।\n\nपूरी जानकारी के लिए पूरा वीडियो देखें और अपनी राय साझा करें।\n\n#NavpreetSingh #NarcoKing #TurkeyDeportation #AmitShah #RouseAvenueCourt"
       },
       "hashtags": [
-        "AradhanaMishra",
-        "UPCongress",
-        "UttarPradeshNews",
-        "CongressNews",
-        "UPPolitics"
+        "NavpreetSingh",
+        "NarcoKing",
+        "TurkeyDeportation",
+        "AmitShah",
+        "RouseAvenueCourt"
       ]
     },
-    "audio_path": "audio/up_congress_leadership_change_aradhana_mishra.wav",
-    "audio_duration_sec": 21.82
+    "audio_path": "audio/turkey_deports_narco_kingpin_navpreet_singh.wav",
+    "audio_duration_sec": 15.26
   },
   {
-    "topic_label": "jaipur_digital_coin_100_crore_scam",
-    "virality_score": 7,
-    "reason": "Massive cryptocurrency investment fraud worth 100 crores uncovered in Jaipur with luxury cars seized.",
+    "topic_label": "bhopal_retired_ias_murder_male_nurse_suspect",
+    "virality_score": 8,
+    "reason": "Bizarre murder mystery involving a retired IAS officer and a absconding male nurse captivates true-crime audiences.",
     "region": "india",
-    "headline": "डिजिटल कॉइन में निवेश... 100 करोड़ की ठगी का आरोप",
-    "source_summary": "जयपुर में डिजिटल कॉइन में निवेश पर भारी मुनाफे का झांसा देकर करीब 100 करोड़ रुपये की कथित ठगी का मामला सामने आया है. सोडाला पुलिस ने मोहित कालिया और धनश्याम कंवले को गिरफ्तार किया है. आरोपियों से मर्सिडीज कार और Triumph Street Triple बाइक बरामद हुई है.",
-    "source_url": "https://www.aajtak.in/short-videos/video/digital-coin-fraud-100-crore-two-arrested-jaipur-police-investigation-details-mmtm-2659383-2026-10-02?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-02T16:11:00+05:30",
-    "hook": "डिजिटल कॉइन में निवेश के नाम पर सौ करोड़ रुपये की ठगी!",
-    "script_hi": "जयपुर में डिजिटल कॉइन में निवेश पर भारी मुनाफे का झांसा देकर लगभग सौ करोड़ रुपये की ठगी का मामला सामने आया है। सोडाला पुलिस ने मोहित कालिया और धनश्याम कंवले को गिरफ्तार कर लिया है। आरोपियों के पास से एक मर्सिडीज कार और ट्रायम्फ स्ट्रीट ट्रिपल बाइक भी बरामद की गई है।",
-    "tts_text_hi": "जयपुर में डिजिटल कॉइन में निवेश पर भारी मुनाफे का झांसा देकर लगभग सौ करोड़ रुपये की ठगी का मामला सामने आया है। सोडाला पुलिस ने मोहित कालिया और धनश्याम कंवले को गिरफ्तार कर लिया है। आरोपियों के पास से एक मर्सिडीज कार और ट्रायम्फ स्ट्रीट ट्रिपल बाइक भी बरामद की गई है।",
-    "title": "जयपुर में डिजिटल कॉइन के नाम पर सौ करोड़ की ठगी",
-    "caption": "जयपुर में डिजिटल कॉइन में निवेश का झांसा देकर सौ करोड़ की ठगी करने वाले दो आरोपी गिरफ्तार। पुलिस ने मर्सिडीज और बाइक की बरामद।",
+    "headline": "IAS ने जिसे दर्द से राहत के लिए रखा वही गला रेत कर भागा ! 3 दिन बाद 524 किमी दूर मिला मोबाइल, आरोपी अब भी फरार",
+    "source_summary": "भोपाल में रिटायर्ड IAS अधिकारी राकेश अग्रवाल की हत्या मामले में पुलिस का शक 72 घंटे पहले रखे गए मेल नर्स वरुण कुमार पर है. आगरा से मोबाइल बरामद हुआ है, जबकि 5 करोड़ रुपये के निवेश विवाद के एंगल की भी जांच चल रही है.",
+    "source_url": "https://ndtv.in/india/bhopal-retired-ias-murder-mobile-found-agra-male-nurse-varun-suspect-12132770#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sat, 03 Oct 2026 11:37:53 +0530",
+    "hook": "भोपाल में रिटायर्ड आईएएस अधिकारी की सनसनीखेज हत्या!",
+    "script_hi": "भोपाल में रिटायर्ड आईएएस अधिकारी राकेश अग्रवाल की हत्या के मामले में सनसनीखेज खुलासा हुआ है। पुलिस का शक तीन दिन पहले रखे गए मेल नर्स वरुण कुमार पर है। आरोपी की तलाश जारी है और आगरा से उसका मोबाइल बरामद हुआ है। पुलिस पांच करोड़ रुपये के निवेश विवाद के एंगल से भी जांच कर रही है।",
+    "tts_text_hi": "भोपाल में रिटायर्ड आईएएस अधिकारी राकेश अग्रवाल की हत्या के मामले में सनसनीखेज खुलासा हुआ है। पुलिस का शक तीन दिन पहले रखे गए मेल नर्स वरुण कुमार पर है। आरोपी की तलाश जारी है और आगरा से उसका मोबाइल बरामद हुआ है। पुलिस पांच करोड़ रुपये के निवेश विवाद के एंगल से भी जांच कर रही है।",
+    "title": "भोपाल में रिटायर्ड IAS अधिकारी की हत्या, मेल नर्स पर शक",
+    "caption": "भोपाल में रिटायर्ड आईएएस अधिकारी राकेश अग्रवाल की हत्या, मेल नर्स वरुण कुमार पर हत्या का शक। आगरा से मिला मोबाइल, पांच करोड़ के निवेश विवाद की भी जांच जारी।",
     "hashtags": [
-      "#JaipurNews",
-      "#CyberCrime",
-      "#Fraud",
-      "#RajasthanPolice",
-      "#CryptoScam",
-      "#BreakingNews"
+      "BhopalNews",
+      "IASOfficer",
+      "CrimeNews",
+      "MadhyaPradesh",
+      "Investigation",
+      "Police"
     ],
     "visual_queries": [
-      "Jaipur city street India",
-      "digital cryptocurrency concept India",
-      "police station India",
-      "luxury Mercedes car India",
-      "sports motorcycle India"
+      "police investigation India",
+      "Agra street India",
+      "Indian police station"
+    ],
+    "named_person": "Rakesh Agrawal",
+    "named_person_hi": "राकेश अग्रवाल",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": true,
+    "flag_reason": "Unproven criminal allegation against a specific named individual (Varun Kumar) who has not been convicted yet.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "राकेश अग्रवाल",
+        "source": "fallback",
+        "query": "Rakesh Agrawal",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/37256105/pexels-photo-37256105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Agra street India",
+        "credit": "Noor Ul Huda",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian police station",
+        "credit": "GOWTHAM AGM",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "ratlam_hotel_husband_caught_with_girlfriend",
+    "virality_score": 8,
+    "reason": "Classic public cheating confrontation video has guaranteed high viral traction on short-form platforms.",
+    "region": "india",
+    "headline": "&#039;तूने तो मुझसे लव मैरिज की थी&#039;, गर्लफ्रेंड संग पकड़ा पति, रो पड़ी पत्नी",
+    "source_summary": "Husband Cheating Wife Viral Video: रतलाम के प्रेसिडेंट होटल में पति को दूसरी महिला संग रंगे हाथों पकड़ पत्नी ने की पिटाई. पुलिस के सामने जड़े थप्पड़. जानिए क्या है पूरा मामला...",
+    "source_url": "https://www.aajtak.in/madhya-pradesh/story/ratlam-jaora-hotel-president-wife-catches-husband-with-another-girl-viral-video-lcln-strc-2660161-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T16:18:03+05:30",
+    "hook": "रतनलाम के होटल में पति को प्रेमिका के साथ रंगे हाथों पकड़ने का सनसनीखेज मामला सामने आया है",
+    "script_hi": "मध्य प्रदेश के रतलाम में एक पति को उसकी पत्नी ने प्रेमिका के साथ होटल में रंगे हाथों पकड़ लिया। पत्नी ने होटल के कमरे में जमकर हंगामा किया और पुलिस के सामने ही पति को थप्पड़ जड़ दिए। वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "tts_text_hi": "मध्य प्रदेश के रतलाम में एक पति को उसकी पत्नी ने प्रेमिका के साथ होटल में रंगे हाथों पकड़ लिया। पत्नी ने होटल के कमरे में जमकर हंगामा किया और पुलिस के सामने ही पति को थप्पड़ जड़ दिए। वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है।",
+    "title": "रतलाम में पति को प्रेमिका संग पकड़ा",
+    "caption": "रतलाम के होटल में पति को दूसरी महिला के साथ रंगे हाथों पकड़ने का वीडियो वायरल, पत्नी ने की पिटाई।",
+    "hashtags": [
+      "Ratlam",
+      "ViralVideo",
+      "MPNews",
+      "HusbandWife",
+      "Trending",
+      "NewsShorts"
+    ],
+    "visual_queries": [
+      "hotel building India",
+      "angry wife India",
+      "police station India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Involves specific named individuals arrested on fraud charges; requires verification of the ongoing investigation details.",
+    "flag_reason": "The story relies on a specific viral video from Ratlam which cannot be accurately represented by generic stock footage.",
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/15242546/pexels-photo-15242546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/8135610/8135610-hd_720_1280_50fps.mp4",
         "source": "pexels",
-        "query": "Jaipur city street India",
-        "credit": "Kashvi Shah",
-        "duration_sec": 5
+        "query": "angry wife India",
+        "credit": "ANTONI SHKRABA production",
+        "source_duration_sec": 12,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6765364/pexels-photo-6765364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36557921/pexels-photo-36557921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "digital cryptocurrency concept India",
-        "credit": "Alesia  Kozik",
+        "query": "hotel building India",
+        "credit": "Saifee Art",
         "duration_sec": 5
       },
       {
@@ -422,150 +626,39 @@
         "query": "police station India",
         "credit": "GOWTHAM AGM",
         "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20123558/pexels-photo-20123558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "luxury Mercedes car India",
-        "credit": "Mohit Hambiria",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33136604/pexels-photo-33136604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "sports motorcycle India",
-        "credit": "Shrinidhi Holla",
-        "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "asset_count": 3,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "bengaluru_mumbai_vande_bharat_sleeper",
+    "topic_label": "nayara_energy_hikes_petrol_diesel_prices",
     "virality_score": 7,
-    "reason": "Launch of Vande Bharat Sleeper between Bengaluru and Mumbai cutting travel time drastically.",
+    "reason": "Sudden fuel price hike by private retailer directly impacts common man's daily budgeting and concerns.",
     "region": "india",
-    "headline": "16 घंटे में 1137 KM, किराया ₹3000! अब इस रूट पर वंदे भारत स्लीपर",
-    "source_summary": "बेंगलुरु से मुंबई जाने के लिए ट्रेन में 22 से 24 घंटे बिताने पड़ते हैं, लेकिन अब यह सफर 16 घंटे में पूरा करने का विकल्प मिल सकता है. दोनों शहरों के बीच वंदे भारत स्लीपर ट्रेन इसी महीने शुरू होने की संभावना है. करीब 1,137 किलोमीटर के इस रूट पर ट्रेन चलने से यात्रियों के 6 से 8 घंटे तक बच सकते हैं.",
-    "source_url": "https://www.aajtak.in/business/utility/story/vande-bharat-sleeper-bengaluru-mumbai-train-fare-route-timing-stoppage-dpmx-smsr-2659784-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T10:18:24+05:30",
-    "hook": "बेंगलुरु से मुंबई का सफर अब होगा और भी आसान और तेज!",
-    "script_hi": "बेंगलुरु से मुंबई जाने के लिए अब ट्रेन में बाईस से चौबीस घंटे बिताने की जरूरत नहीं है। इसी महीने दोनों शहरों के बीच वंदे भारत स्लीपर ट्रेन शुरू होने की संभावना है। करीब एक हजार एक सौ सैंतीस किलोमीटर के इस रूट पर यह ट्रेन लगभग सोलह घंटे में सफर पूरा करेगी, जिससे यात्रियों के छह से आठ घंटे बच जाएंगे। इस सफर का अनुमानित किराया तीन हजार रुपये तक हो सकता है।",
-    "tts_text_hi": "बेंगलुरु से मुंबई जाने के लिए अब ट्रेन में बाईस से चौबीस घंटे बिताने की जरूरत नहीं है। इसी महीने दोनों शहरों के बीच वंदे भारत स्लीपर ट्रेन शुरू होने की संभावना है। करीब एक हजार एक सौ सैंतीस किलोमीटर के इस रूट पर यह ट्रेन लगभग सोलह घंटे में सफर पूरा करेगी, जिससे यात्रियों के छह से आठ घंटे बच जाएंगे। इस सफर का अनुमानित किराया तीन हजार रुपये तक हो सकता है।",
-    "title": "वंदे भारत स्लीपर ट्रेन से बेंगलुरु से मुंबई का सफर",
-    "caption": "बेंगलुरु से मुंबई के बीच जल्द शुरू होगी वंदे भारत स्लीपर ट्रेन, सोलह घंटे में पूरा होगा सफर।",
+    "headline": "Petrol Diesel Price Hike: पेट्रोल 5 रुपये और डीजल 3 रुपये महंगा, कच्चे तेल की बढ़ती कीमत ने बढ़ाया जेब पर बोझ",
+    "source_summary": "Petrol Diesel Price Hike: पेट्रोल-डीजल की कीमतों को लेकर शनिवार (03 अक्टूबर) को बड़ा अपडेट आया है। नायरा एनर्जी ने पेट्रोल 5 रुपये और डीजल 3 रुपये प्रति लीटर महंगा कर दिया है। नए रेट 3 अक्टूबर की सुबह से कंपनी",
+    "source_url": "https://hindi.oneindia.com/news/business/petrol-diesel-price-hike-nayara-energy-petrol-5-rupees-diesel-3-rupees-crude-oil-price-october-2026-1660913.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Sat, 03 Oct 2026 16:34:03 +0530",
+    "hook": "आम जनता को बड़ा झटका! पेट्रोल पांच रुपये और डीजल तीन रुपये हुआ महंगा।",
+    "script_hi": "आम जनता को बड़ा झटका! नायरा एनर्जी ने पेट्रोल पाँच रुपये और डीजल तीन रुपये प्रति लीटर महँगा कर दिया है। कच्चे तेल की बढ़ती कीमतों के कारण यह फैसला लिया गया है, जिससे आम आदमी की जेब पर और बोझ बढ़ गया है। नई दरें तीन अक्टूबर की सुबह से लागू हो चुकी हैं।",
+    "tts_text_hi": "आम जनता को बड़ा झटका! नायरा एनर्जी ने पेट्रोल पाँच रुपये और डीजल तीन रुपये प्रति लीटर महँगा कर दिया है। कच्चे तेल की बढ़ती कीमतों के कारण यह फैसला लिया गया है, जिससे आम आदमी की जेब पर और बोझ बढ़ गया है। नई दरें तीन अक्टूबर की सुबह से लागू हो चुकी हैं।",
+    "title": "Petrol Diesel Price Hike: पेट्रोल और डीजल की कीमतें बढ़ीं",
+    "caption": "नायरा एनर्जी ने पेट्रोल पाँच रुपये और डीजल तीन रुपये प्रति लीटर महँगा कर दिया है, जानें क्या हैं नए रेट।",
     "hashtags": [
-      "VandeBharatSleeper",
-      "BangaloreToMumbai",
-      "IndianRailways",
-      "TrainTravel",
-      "NewsUpdates"
-    ],
-    "visual_queries": [
-      "Bangalore city India",
-      "Mumbai city India",
-      "modern Indian train",
-      "Indian railway station"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/30169644/pexels-photo-30169644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Bangalore city India",
-        "credit": "abshky .",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9305033/pexels-photo-9305033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai city India",
-        "credit": "Deepak Bhandari",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38188887/pexels-photo-38188887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern Indian train",
-        "credit": "abshky .",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10662882/pexels-photo-10662882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian railway station",
-        "credit": "Satvik Pandurangi",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बेंगलुरु से मुंबई सिर्फ 16 घंटे में! वंदे भारत स्लीपर ट्रेन 🚄",
-        "caption": "16 घंटे में 1137 किलोमीटर का सफर और किराया सिर्फ 3000 रुपये! 🚆\n\nबेंगलुरु से मुंबई के बीच शुरू होने जा रही वंदे भारत स्लीपर ट्रेन ने रफ्तार और सुविधा दोनों के मामले में बड़ा बदलाव कर दिया है। अब लंबी दूरी का यह सफर रातभर में तय होगा।\n\nआपको यह ट्रेन कैसी लगी? कमेंट में बताएं।\n\n#VandeBharatSleeper #BengaluruToMumbai #IndianRailways #TrainTravel #VandeBharatExpress"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "16 घंटे में 1137 KM का सफर! 🛝\n\nबेंगलुरु से मुंबई का रास्ता अब वंदे भारत स्लीपर ट्रेन से और भी आसान हो गया है। सिर्फ ₹3000 के किराए में एसी स्लीपर का मज़ा और तेज रफ्तार।\n\nक्या आप इस रूट पर सफर करना चाहेंगे? दोस्तों के साथ शेयर करें!\n\n#VandeBharatSleeper #BengaluruToMumbai #IndianRailways #TrainTravel #VandeBharatExpress"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "सिर्फ 16 घंटे में 1137 किलोमीटर का सफर और वो भी महज ₹3000 किराए में! 🚆\n\nबेंगलुरु से मुंबई के बीच चलने वाली नई वंदे भारत स्लीपर ट्रेन ने रेल यात्रियों का सफर बेहद आरामदायक और तेज बना दिया है। रात में ट्रेन पकड़ो और अगली सुबह सीधे अपनी मंजिल पर उतरो। \n\nपूरी जानकारी के लिए वीडियो पूरा देखें और अपनी राय हमें कमेंट में बताएं।\n\n#VandeBharatSleeper #BengaluruToMumbai #IndianRailways #TrainTravel #VandeBharatExpress"
-      },
-      "hashtags": [
-        "VandeBharatSleeper",
-        "BengaluruToMumbai",
-        "IndianRailways",
-        "TrainTravel",
-        "VandeBharatExpress"
-      ]
-    },
-    "audio_path": "audio/bengaluru_mumbai_vande_bharat_sleeper.wav",
-    "audio_duration_sec": 25.55
-  },
-  {
-    "topic_label": "muzaffarpur_lady_doctor_chain_snatching",
-    "virality_score": 6,
-    "reason": "Brazen daylight gold chain snatching from a female doctor outside a hostel in Bihar.",
-    "region": "india",
-    "headline": "डॉक्टर हॉस्टल से निकलीं, बदमाश बाइक से आए और झपट ले गए चेन",
-    "source_summary": "बिहार के मुजफ्फरपुर में महिला डॉक्टर हॉस्टल से गायनेकोलॉजी विभाग जा रही थीं. रास्ते में बाइक पर सवार दो लोग पहुंचे और कुछ सेकंड में करीब एक लाख रुपये की सोने की चेन झपटकर फरार हो गए. डॉक्टर को संभलने का मौका मिलता, उससे पहले बदमाश आंखों से ओझल हो चुके थे. पुलिस इस पूरे मामले की जांच में जुटी है.",
-    "source_url": "https://www.aajtak.in/bihar/story/skmch-muzaffarpur-female-doctor-gold-chain-snatched-cctv-suspects-lcla-strc-2659775-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T09:50:57+05:30",
-    "hook": "बिहार के मुजफ्फरपुर में दिनदहाड़े महिला डॉक्टर के गले से सोने की चेन झपट ली गई!",
-    "script_hi": "बिहार के मुजफ्फरपुर में गायनेकोलॉजी विभाग जा रही एक महिला डॉक्टर के हॉस्टल के पास से बाइक सवार बदमाशों ने करीब एक लाख रुपये की सोने की चेन झपट ली। डॉक्टर को संभलने का मौका तक नहीं मिला और बदमाश फरार हो गए। पुलिस मामले की जांच कर रही है।",
-    "tts_text_hi": "बिहार के मुजफ्फरपुर में गायनेकोलॉजी विभाग जा रही एक महिला डॉक्टर के हॉस्टल के पास से बाइक सवार बदमाशों ने करीब एक लाख रुपये की सोने की चेन झपट ली। डॉक्टर को संभलने का मौका तक नहीं मिला और बदमाश फरार हो गए। पुलिस मामले की जांच कर रही है।",
-    "title": "मुजफ्फरपुर में महिला डॉक्टर से चेन झपटमारी",
-    "caption": "बिहार के मुजफ्फरपुर में हॉस्टल से विभाग जा रही महिला डॉक्टर से बाइक सवार बदमाशों ने करीब एक लाख रुपये की सोने की चेन झपट ली। पुलिस जांच में जुटी।",
-    "hashtags": [
-      "Muzaffarpur",
-      "BiharNews",
-      "ChainSnatching",
-      "CrimeNews",
+      "PetrolPrice",
+      "DieselPrice",
+      "NayaraEnergy",
+      "FuelPriceHike",
+      "Inflation",
       "IndiaNews"
     ],
     "visual_queries": [
-      "Muzaffarpur India street",
-      "Indian woman doctor walking",
-      "motorcycle criminals India",
-      "police investigation India"
+      "Indian petrol pump fuel station",
+      "petrol price board India",
+      "Indian city traffic street"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -576,64 +669,87 @@
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/30031066/12884466_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34583663/14654872_720_1280_25fps.mp4",
         "source": "pexels",
-        "query": "motorcycle criminals India",
-        "credit": "Manish Khandagale",
-        "source_duration_sec": 60,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 11,
+        "query": "money and wallet close up",
+        "credit": "Jakub Zerdzicki",
+        "source_duration_sec": 17,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5191671/pexels-photo-5191671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Muzaffarpur India street",
-        "credit": "Afzal Khan",
-        "duration_sec": 5
+        "query": "Indian petrol pump fuel station",
+        "credit": "Jibin Yesudasan",
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/4740157/pexels-photo-4740157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "street crime India CCTV",
-        "credit": "Paul Oor",
-        "duration_sec": 5
+        "query": "fuel station India",
+        "credit": "Mehul",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/18887175/pexels-photo-18887175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian city traffic street",
+        "credit": "Mustang Dinesh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "fuel station india",
+        "credit": "Mehul",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/11876186/pexels-photo-11876186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "car at gas station pump",
+        "credit": "Louis Gys",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39437839/pexels-photo-39437839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "india economic inflation crisis",
+        "credit": "Sergei Starostin",
+        "duration_sec": 4.0
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 22,
+    "asset_count": 7,
+    "timeline_covered_sec": 30.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "बिहार: दिनदहाड़े महिला डॉक्टर से चेन झपटमारी 🚨",
-        "caption": "बिहार के मुजफ्फरपुर में दिनदहाड़े महिला डॉक्टर के गले से सोने की चेन झपट ली गई! 😱\n\nहॉस्टल से बाहर निकलते ही बाइक सवार बदमाश वारदात को अंजाम देकर फरार हो गए। पुलिस अब सीसीटीवी फुटेज खंगाल रही है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#MuzaffarpurNews #BiharCrime #ChainSnatching #DoctorNews #CrimeUpdate"
+        "title": "पेट्रोल 5 और डीजल 3 रुपये महंगा! जेब पर बड़ा बोझ ⛽",
+        "caption": "आम जनता को बड़ा झटका! पेट्रोल पांच रुपये और डीजल तीन रुपये हुआ महंगा। ⛽\n\nकच्चे तेल की बढ़ती कीमतों का असर अब सीधे आपकी जेब पर पड़ने लगा है। ट्रांसपोर्ट और रोजमर्रा की चीजों के दाम भी इसके साथ बढ़ने की पूरी आशंका है।\n\nक्या इस महंगाई से आम आदमी की कमर टूट जाएगी? अपनी राय नीचे कमेंट में बताएं और पूरी बात जानने के लिए वीडियो पूरा देखें।\n\n#PetrolDieselPrice #FuelPriceHike #Inflation #PetrolPrice #IndianEconomy"
       },
       "instagram": {
         "title": null,
-        "caption": "बिहार के मुजफ्फरपुर में दिनदहाड़े महिला डॉक्टर के गले से सोने की चेन झपट ली गई! 😱\n\nहॉस्टल के पास हुई इस घटना से इलाके में हड़कंप मच गया है। बदमाशों की तलाश जारी है।\n\nक्या कहना है आपका? कमेंट में बताएं। 👇\n\n#MuzaffarpurNews #BiharCrime #ChainSnatching #DoctorNews #CrimeUpdate"
+        "caption": "आम जनता को बड़ा झटका! पेट्रोल पांच रुपये और डीजल तीन रुपये हुआ महंगा। ⛽\n\nकच्चे तेल की बढ़ती अंतरराष्ट्रीय कीमतों के कारण सरकार ने यह कड़ा कदम उठाया है, जिससे रोजमर्रा का सफर और महंगा हो गया है।\n\nइस महंगाई पर आपका क्या सोचना है? शेयर करें इस वीडियो को अपने दोस्तों के साथ।\n\n#PetrolDieselPrice #FuelPriceHike #Inflation #PetrolPrice #IndianEconomy"
       },
       "facebook": {
         "title": null,
-        "caption": "बिहार के मुजफ्फरपुर में दिनदहाड़े महिला डॉक्टर के गले से सोने की चेन झपट ली गई! 😱\n\nघटना उस वक्त हुई जब डॉक्टर अपने हॉस्टल से बाहर निकल रही थीं। बाइक सवार बदमाश पलक झपकते ही वारदात को अंजाम देकर फरार हो गए। दिनदहाड़े इस तरह की घटना ने सुरक्षा व्यवस्था पर बड़े सवाल खड़े कर दिए हैं। पुलिस सीसीटीवी फुटेज के जरिए आरोपियों की पहचान करने में जुटी है।\n\nपूरी कहानी वीडियो में देखें।\n\n#MuzaffarpurNews #BiharCrime #ChainSnatching #DoctorNews #CrimeUpdate"
+        "caption": "आम जनता को बड़ा झटका! पेट्रोल पांच रुपये और डीजल तीन रुपये हुआ महंगा। ⛽\n\nअंतरराष्ट्रीय बाजार में कच्चे तेल के दाम बढ़ने का असर अब भारत में भी दिखने लगा है। इस बढ़ोतरी से सिर्फ गाड़ी चलाना ही नहीं, बल्कि हर तरह के ट्रांसपोर्ट और सामान की ढुलाई भी महंगी हो जाएगी। \n\nऐसी महंगाई से आम आदमी कैसे निपटेगा? वीडियो देखकर जानिए पूरी रिपोर्ट और अपनी राय जरूर साझा करें।\n\n#PetrolDieselPrice #FuelPriceHike #Inflation #PetrolPrice #IndianEconomy"
       },
       "hashtags": [
-        "MuzaffarpurNews",
-        "BiharCrime",
-        "ChainSnatching",
-        "DoctorNews",
-        "CrimeUpdate"
+        "PetrolDieselPrice",
+        "FuelPriceHike",
+        "Inflation",
+        "PetrolPrice",
+        "IndianEconomy"
       ]
     },
-    "audio_path": "audio/muzaffarpur_lady_doctor_chain_snatching.wav",
-    "audio_duration_sec": 18.33
+    "audio_path": "audio/nayara_energy_hikes_petrol_diesel_prices.wav",
+    "audio_duration_sec": 19.66
   }
 ]
