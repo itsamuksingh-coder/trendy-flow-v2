@@ -1,32 +1,150 @@
 [
   {
-    "topic_label": "drishyam_3_box_office_collection_record",
+    "topic_label": "asian_games_2026_india_85_medals_gold_finish",
     "virality_score": 9,
-    "reason": "Ajay Devgn's Drishyam 3 has registered a massive box office opening, crossing major milestones quickly.",
+    "reason": "India finishes Asian Games 2026 with a massive haul of 85 medals including 21 golds, high national pride.",
+    "region": "india",
+    "headline": "&#039;गोल्डन पंच&#039; से भारत का शानदार फिनिश! Asian Games 2026 में आए 21 गोल्ड समेत 85 मेडल",
+    "source_summary": "एशियन गेम्स में मेंस क्रिकेट की टीम ने दमदार प्रदर्शन करते हुए शनिवार को गोल्ड मेडल जीतने में कामयाबी हासिल की. क्रिकेट के अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत गोल्ड जीतने में सफलता हासिल की.",
+    "source_url": "https://www.aajtak.in/sports/asian-games/story/asian-games-2026-highlihts-october-3-india-finish-with-85-medals-after-mens-hockey-gold-aksp-dskc-2660272-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T19:47:28+05:30",
+    "hook": "एशियन गेम्स में भारत का ऐतिहासिक प्रदर्शन!",
+    "script_hi": "एशियन गेम्स में भारत ने शानदार फिनिश करते हुए कुल पचासी मेडल अपने नाम किए हैं। मेंस क्रिकेट टीम ने शनिवार को शानदार प्रदर्शन कर गोल्ड मेडल जीता। क्रिकेट के अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत ने स्वर्ण पदक अपने नाम किए, जिससे देश का नाम रोशन हुआ।",
+    "tts_text_hi": "एशियन गेम्स में भारत ने शानदार फिनिश करते हुए कुल पचासी मेडल अपने नाम किए हैं। मेंस क्रिकेट टीम ने शनिवार को शानदार प्रदर्शन कर गोल्ड मेडल जीता। क्रिकेट के अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत ने स्वर्ण पदक अपने नाम किए, जिससे देश का नाम रोशन हुआ।",
+    "title": "Asian Games में भारत का शानदार प्रदर्शन",
+    "caption": "एशियन गेम्स में भारत ने शानदार प्रदर्शन करते हुए कुल पचासी मेडल जीते, जिसमें इक्कीस गोल्ड मेडल शामिल हैं।",
+    "hashtags": [
+      "AsianGames",
+      "TeamIndia",
+      "GoldMedal",
+      "IndianSports",
+      "NewsUpdates"
+    ],
+    "visual_queries": [
+      "Indian cricket team celebration India",
+      "Indian hockey team stadium India",
+      "golfer celebrating victory India",
+      "archery player focus India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket team celebration India",
+        "credit": "Umang & Meet",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6370113/pexels-photo-6370113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "golfer celebrating victory India",
+        "credit": "Anna Tarazevich",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6540679/pexels-photo-6540679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "archery player focus India",
+        "credit": "Kampus Production",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28571788/pexels-photo-28571788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Asian Games stadium crowd",
+        "credit": "Ruben Sukatendel",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6250937/pexels-photo-6250937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian athletes winning medals",
+        "credit": "Anna Shvets",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "sports victory celebration India",
+        "credit": "Yogendra  Singh",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36728008/pexels-photo-36728008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "stadium gold medal ceremony",
+        "credit": "ENIO ENGENHEIRO",
+        "duration_sec": 4.3
+      }
+    ],
+    "asset_count": 7,
+    "timeline_covered_sec": 30.1,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "Asian Games 2026: भारत ने जीते 21 गोल्ड समेत 85 मेडल!",
+        "caption": "सिर्फ 21 गोल्ड और कुल 85 मेडल... एशियन गेम्स के इस ऐतिहासिक सफर ने इतिहास रच दिया है 🇮🇳\n\nभारतीय खिलाड़ियों ने हर खेल में अपनी धाक जमाई और देश का सिर गर्व से ऊंचा कर दिया। इस धमाकेदार फिनिश के बारे में आपकी क्या राय है?\n\nपूरी कहानी देखें\n\n#AsianGames2026 #TeamIndia #IndianSports #AsianGamesMedals #SportsNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "21 गोल्ड मेडल और कुल 85 पदकों के साथ भारत का ऐतिहासिक फिनिश 🔥\n\nएशियन गेम्स में इस बार खिलाड़ियों ने अपनी मेहनत से जो रिकॉर्ड तोड़े हैं, उसने हर भारतीय को झूमने पर मजबूर कर दिया है। कौन सा मेडल आपका सबसे पसंदीदा रहा? कमेंट में बताएं।\n\n#AsianGames2026 #TeamIndia #IndianSports #AsianGamesMedals #SportsNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एशियन गेम्स में भारत का अब तक का सबसे दमदार प्रदर्शन देखने को मिला है 🏅\n\nइस बार खिलाड़ियों ने शानदार खेल दिखाते हुए 21 गोल्ड समेत कुल 85 मेडल अपने नाम किए। इस ऐतिहासिक जीत पर आपका क्या कहना है?\n\n#AsianGames2026 #TeamIndia #IndianSports #AsianGamesMedals #SportsNews"
+      },
+      "hashtags": [
+        "AsianGames2026",
+        "TeamIndia",
+        "IndianSports",
+        "AsianGamesMedals",
+        "SportsNews"
+      ]
+    },
+    "audio_path": "audio/asian_games_2026_india_85_medals_gold_finish.wav",
+    "audio_duration_sec": 19.77
+  },
+  {
+    "topic_label": "drishyam_3_box_office_record_opening",
+    "virality_score": 9,
+    "reason": "Ajay Devgn's Drishyam 3 breaks box office records with massive opening collections.",
     "region": "india",
     "headline": "Drishyam 3 ने तोड़े बॉक्स ऑफिस के सभी रिकॉर्ड!",
     "source_summary": "2 अक्टूबर को रिलीज हुई अजय देवगन की फिल्म दृश्यम 3 ने बॉक्स ऑफिस पर जबरदस्त शुरुआत की है. फिल्म ने पहले दिन भारत में 66.75 करोड़ रुपये का नेट कलेक्शन किया, जबकि दुनियाभर में इसकी कमाई 95.10 करोड़ रुपये पहुंच गई. इस शानदार ओपनिंग के साथ अजय देवगन ने अपने करियर की सबसे बड़ी शुरुआत दर्ज की और हिंदी में शाहरुख खान की जवान का पहले दिन का आंकड़ा भी पार कर दिया.",
     "source_url": "https://www.aajtak.in/short-videos/video/drishyam-3-ajay-devgn-first-day-box-office-collection-beats-shah-rukh-khan-jawan-opening-mmta-2660287-2026-10-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-10-03T20:33:30+05:30",
-    "hook": "दृश्यम तीन ने तोड़े बॉक्स ऑफिस के सारे रिकॉर्ड!",
-    "script_hi": "दृश्यम तीन ने बॉक्स ऑफिस पर मचाया धमाल! दो अक्टूबर को रिलीज हुई अजय देवगन की इस फिल्म ने पहले दिन भारत में छियासठ दशमलव सात पांच करोड़ रुपये का नेट कलेक्शन किया। दुनियाभर में कमाई पंचांग्वे दशमलव दस करोड़ रुपये पहुंच गई। इसके साथ ही अजय देवगन ने अपने करियर की सबसे बड़ी ओपनिंग दर्ज की है।",
-    "tts_text_hi": "दृश्यम तीन ने बॉक्स ऑफिस पर मचाया धमाल! दो अक्टूबर को रिलीज हुई अजय देवगन की इस फिल्म ने पहले दिन भारत में छियासठ दशमलव सात पांच करोड़ रुपये का नेट कलेक्शन किया। दुनियाभर में कमाई पंचांग्वे दशमलव दस करोड़ रुपये पहुंच गई। इसके साथ ही अजय देवगन ने अपने करियर की सबसे बड़ी ओपनिंग दर्ज की है।",
-    "title": "Drishyam 3 Box Office Collection",
-    "caption": "अजय देवगन की फिल्म दृश्यम तीन ने बॉक्स ऑफिस पर पहले दिन तोड़े सभी रिकॉर्ड, कमाए छियासठ करोड़ से ज्यादा।",
+    "hook": "दृश्यम तीन ने तोड़ डाले सारे बॉक्स ऑफिस रिकॉर्ड!",
+    "script_hi": "दो अक्टूबर को रिलीज हुई अजय देवगन की फिल्म दृश्यम तीन ने बॉक्स ऑफिस पर इतिहास रच दिया है! फिल्म ने पहले दिन भारत में छाड़सठ दशमलव सात पांच करोड़ रुपये का नेट कलेक्शन किया, जबकि दुनियाभर में कमाई पचानवे दशमलव एक शून्य करोड़ रुपये पहुंच गई। इस रिकॉर्ड ओपनिंग के साथ अजय देवगन ने अपने करियर की सबसे बड़ी शुरुआत दर्ज की है, और शाहरुख खान की जवान का रिकॉर्ड भी पीछे छोड़ दिया है!",
+    "tts_text_hi": "दो अक्टूबर को रिलीज हुई अजय देवगन की फिल्म दृश्यम तीन ने बॉक्स ऑफिस पर इतिहास रच दिया है! फिल्म ने पहले दिन भारत में छाड़सठ दशमलव सात पांच करोड़ रुपये का नेट कलेक्शन किया, जबकि दुनियाभर में कमाई पचानवे दशमलव एक शून्य करोड़ रुपये पहुंच गई। इस रिकॉर्ड ओपनिंग के साथ अजय देवगन ने अपने करियर की सबसे बड़ी शुरुआत दर्ज की है, और शाहरुख खान की जवान का रिकॉर्ड भी पीछे छोड़ दिया है!",
+    "title": "Drishyam 3 Box Office Record",
+    "caption": "अजय देवगन की फिल्म दृश्यम तीन ने बॉक्स ऑफिस पर तोड़े सभी रिकॉर्ड, पहले दिन की बंपर कमाई।",
     "hashtags": [
       "Drishyam3",
       "AjayDevgn",
       "BoxOffice",
       "BollywoodNews",
-      "FilmCollection",
-      "TrendingNews",
-      "NewsShorts"
+      "ShahRukhKhan",
+      "MovieNews"
     ],
     "visual_queries": [
-      "Bollywood actor India",
-      "cinema hall crowd India",
-      "film award celebration India"
+      "Bollywood cinema hall India",
+      "Indian movie box office collection India",
+      "celebration success India"
     ],
     "named_person": "Ajay Devgn",
     "named_person_hi": "अजय देवगन",
@@ -38,203 +156,424 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "downloaded_assets/person_438b386eec.jpg",
-        "source": "wikimedia",
+        "type": "text_card",
+        "text": "अजय देवगन",
+        "source": "fallback",
         "query": "Ajay Devgn",
-        "credit": "Wikipedia",
-        "duration_sec": 5
+        "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "downloaded_assets/person_585c6a5905.jpg",
-        "source": "wikimedia",
-        "query": "Shah Rukh Khan",
-        "credit": "Wikipedia",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "downloaded_assets/commons_af82143427.jpg",
-        "source": "wikimedia_commons",
-        "query": "Bollywood actor India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14120221/pexels-photo-14120221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/31361935/pexels-photo-31361935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cinema hall crowd India",
-        "credit": "Keith Lobo",
+        "query": "Bollywood cinema hall India",
+        "credit": "Mehul",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6565248/pexels-photo-6565248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/9227574/pexels-photo-9227574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "film award celebration India",
-        "credit": "cottonbro studio",
+        "query": "Indian movie box office collection India",
+        "credit": "DS stories",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/30735351/pexels-photo-30735351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "celebration success India",
+        "credit": "Monojit Dutta",
         "duration_sec": 5
       }
     ],
-    "asset_count": 5,
-    "timeline_covered_sec": 25,
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Drishyam 3 ने तोड़े बॉक्स ऑफिस के सभी रिकॉर्ड! 🤯",
-        "caption": "सिनेमाघरों में आते ही इस फिल्म ने कमाई के सारे पुराने रिकॉर्ड तोड़ दिए हैं। अजय देवगन की इस थ्रिलर ने पहले दिन ही ऐसा जादू चलाया कि ट्रेड एनालिस्ट भी हैरान हैं। क्या आपने ये फिल्म देखी? पूरी कहानी जानने के लिए वीडियो देखें।\n\n#Drishyam3 #AjayDevgn #BoxOfficeCollection #BollywoodNews #Drishyam"
+        "title": "Drishyam 3 ने तोड़े बॉक्स ऑफिस के सारे रिकॉर्ड! 🎬🔥",
+        "caption": "सिनेमाघरों में ऐसा भूचाल आया कि सारे पुराने रिकॉर्ड धरे के धरे रह गए। 🍿\n\nमोहनलाल और अजय देवगन की इस फ्रेंचाइजी ने कमाई के मामले में सबको पीछे छोड़ दिया है। पहले दिन से ही दर्शकों की ऐसी भीड़ उमड़ी कि ट्रेड एनालिस्ट्स के भी होश उड़ गए।\n\nपूरी कहानी और कलेक्शन के आंकड़े जानने के लिए वीडियो पूरा देखें।\n\n#Drishyam3 #BoxOffice #BollywoodNews #Mohanlal #AjayDevgn"
       },
       "instagram": {
         "title": null,
-        "caption": "दृश्यम 3 ने बॉक्स ऑफिस पर मचाया ऐसा गदर कि हर कोई हैरान है! 🎬 पहले ही दिन बंपर कमाई कर सभी पुराने रिकॉर्ड तोड़ दिए। शेयर करें अपने उस दोस्त के साथ जो इसका इंतज़ार कर रहा था।\n\n#Drishyam3 #AjayDevgn #BoxOfficeCollection #BollywoodNews #Drishyam"
+        "caption": "सिनेमाघरों में ऐसा भूचाल आया कि सारे पुराने रिकॉर्ड धरे के धरे रह गए। 🍿\n\nदृश्यम 3 ने बॉक्स ऑफिस पर सुनामी ला दी है। पहले ही दिन से दर्शकों का जो सैलाब उमड़ा, उसने ट्रेड एक्सपर्ट्स को भी हैरान कर दिया।\n\nक्या आपने यह फिल्म देखी? कमेंट में बताएं कैसी लगी! 👇\n\n#Drishyam3 #BoxOffice #BollywoodNews #Mohanlal #AjayDevgn"
       },
       "facebook": {
         "title": null,
-        "caption": "दृश्यम 3 को लेकर दर्शकों में ऐसा क्रेज पहले कभी नहीं देखा गया। फिल्म ने रिलीज होते ही बॉक्स ऑफिस पर सारे रिकॉर्ड तोड़ दिए हैं और कमाई के मामले में सबको पीछे छोड़ दिया है। देखिए वीडियो में पूरी खबर।\n\n#Drishyam3 #AjayDevgn #BoxOfficeCollection #BollywoodNews #Drishyam"
+        "caption": "सिनेमाघरों में ऐसा भूचाल आया कि कमाई के सारे पुराने रिकॉर्ड धरे के धरे रह गए। 🍿\n\nदृश्यम 3 को लेकर फैंस के बीच दीवानगी ऐसी छाई कि एडवांस बुकिंग के सारे आंकड़े टूट गए। हर तरफ बस इसी फिल्म की चर्चा हो रही है।\n\nक्या इस बार भी सस्पेंस ने सभी को चौंका दिया? पूरी कहानी जानने के लिए वीडियो देखें और शेयर करें।\n\n#Drishyam3 #BoxOffice #BollywoodNews #Mohanlal #AjayDevgn"
       },
       "hashtags": [
         "Drishyam3",
-        "AjayDevgn",
-        "BoxOfficeCollection",
+        "BoxOffice",
         "BollywoodNews",
-        "Drishyam"
+        "Mohanlal",
+        "AjayDevgn"
       ]
     },
-    "audio_path": "audio/drishyam_3_box_office_collection_record.wav",
-    "audio_duration_sec": 25.07
+    "audio_path": "audio/drishyam_3_box_office_record_opening.wav",
+    "audio_duration_sec": 28.21
   },
   {
-    "topic_label": "asian_games_super_saturday_gold_medals",
+    "topic_label": "asian_games_mens_hockey_gold_malaysia",
     "virality_score": 9,
-    "reason": "India's phenomenal performance on Super Saturday at the Asian Games with multiple golds creates immense national pride.",
+    "reason": "Indian men's hockey team wins gold and secures 2028 LA Olympics spot by crushing Malaysia.",
     "region": "india",
-    "headline": "Asian Games में भारत का &#039;सुपर शनिवार&#039;... 9 मेडल जीतकर रचा इतिहास",
-    "source_summary": "एशियन गेम्स में मेंस क्रिकेट की टीम ने दमदार प्रदर्शन करते हुए शनिवार को गोल्ड मेडल जीतने में कामयाबी हासिल की. क्रिकेट के अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत गोल्ड जीतने में सफलता हासिल की.",
-    "source_url": "https://www.aajtak.in/sports/asian-games/story/asian-games-2026-highlihts-october-3-india-finish-with-85-medals-after-mens-hockey-gold-aksp-dskc-2660272-2026-10-03?utm_source=rssfeed",
+    "headline": "एशियन गेम्स 2026: भारतीय मेंस हॉकी टीम ने जीता गोल्ड मेडल",
+    "source_summary": "एशियन गेम्स 2026 के पुरुष हॉकी फाइनल में भारत ने मलेशिया को 5-1 से हराकर स्वर्ण पदक जीत लिया. कप्तान हरमनप्रीत सिंह ने दो गोल दागे, जबकि जुगराज सिंह, हार्दिक सिंह और शिलानंद लाकड़ा ने एक-एक गोल किया. इस जीत के साथ भारतीय टीम ने लगातार दूसरी बार एशियन गेम्स में स्वर्ण पदक अपने नाम किया और लॉस एंजेलिस ओलंपिक 2028 के लिए भी क्वालिफाई कर लिया.",
+    "source_url": "https://www.aajtak.in/short-videos/video/india-beats-malaysia-5-1-asian-games-hockey-final-gold-medal-qualifies-for-los-angeles-olympics-mmta-2660329-2026-10-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-03T19:47:28+05:30",
-    "hook": "एशियन गेम्स में भारत का सुपर शनिवार!",
-    "script_hi": "एशियन गेम्स में भारत ने शनिवार को नौ मेडल जीतकर इतिहास रच दिया। मेंस क्रिकेट टीम ने गोल्ड मेडल जीता। इसके अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत को गोल्ड मेडल मिला।",
-    "tts_text_hi": "एशियन गेम्स में भारत ने शनिवार को नौ मेडल जीतकर इतिहास रच दिया। मेंस क्रिकेट टीम ने गोल्ड मेडल जीता। इसके अलावा हॉकी, गोल्फ और तीरंदाजी में भी भारत को गोल्ड मेडल मिला।",
-    "title": "Asian Games: भारत का सुपर शनिवार, जीते नौ मेडल",
-    "caption": "एशियन गेम्स में भारत का शानदार प्रदर्शन, नौ मेडल जीतकर रचा इतिहास।",
+    "published": "2026-10-03T22:38:36+05:30",
+    "hook": "भारतीय हॉकी टीम का ऐतिहासिक प्रदर्शन! एशियन गेम्स में फिर जीता गोल्ड मेडल!",
+    "script_hi": "एशियन गेम्स दो हज़ार छब्बीस के पुरुष हॉकी फाइनल में भारत ने मलेशिया को पांच के मुकाबले एक गोल से हराकर स्वर्ण पदक जीत लिया है। कप्तान हरमनप्रीत सिंह ने दो गोल दागे। इस शानदार जीत के साथ भारतीय टीम ने लॉस एंजेलिस ओलंपिक दो हज़ार अट्ठाइस के लिए भी क्वालिफाई कर लिया है।",
+    "tts_text_hi": "एशियन गेम्स दो हज़ार छब्बीस के पुरुष हॉकी फाइनल में भारत ने मलेशिया को पांच के मुकाबले एक गोल से हराकर स्वर्ण पदक जीत लिया है। कप्तान हरमनप्रीत सिंह ने दो गोल दागे। इस शानदार जीत के साथ भारतीय टीम ने लॉस एंजेलिस ओलंपिक दो हज़ार अट्ठाइस के लिए भी क्वालिफाई कर लिया है।",
+    "title": "Asian Games 2026: भारतीय हॉकी टीम ने जीता गोल्ड मेडल",
+    "caption": "एशियन गेम्स 2026 के पुरुष हॉकी फाइनल में भारत ने मलेशिया को 5-1 से हराकर स्वर्ण पदक अपने नाम किया और ओलंपिक के लिए क्वालिफाई किया।",
     "hashtags": [
-      "AsianGames",
-      "TeamIndia",
+      "AsianGames2026",
+      "IndianHockey",
       "GoldMedal",
-      "IndianSports",
-      "NewsUpdates"
+      "TeamIndia",
+      "SportsNews",
+      "HockeyIndia"
     ],
     "visual_queries": [
-      "Indian cricket team celebration India",
-      "Indian hockey team India",
-      "golf tournament India",
-      "archery competition India"
+      "Indian hockey team India celebration",
+      "Harmanpreet Singh hockey India",
+      "Asian Games hockey stadium India"
+    ],
+    "named_person": "Harmanpreet Singh",
+    "named_person_hi": "हरमनप्रीत सिंह",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "हरमनप्रीत सिंह",
+        "source": "fallback",
+        "query": "Harmanpreet Singh",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/27273074/pexels-photo-27273074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Asian sports stadium crowd celebration",
+        "credit": "Cristiano Junior",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/35588059/pexels-photo-35588059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Asian sports stadium crowd",
+        "credit": "Spaxido Spaxido",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/6668821/pexels-photo-6668821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "gold medal victory celebration",
+        "credit": "Nataliya Vaitkevich",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/29356316/pexels-photo-29356316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "field hockey match action",
+        "credit": "Franco Monsalvo",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15862398/pexels-photo-15862398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian sports fans cheering",
+        "credit": "Raunaq Sachdev",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 6,
+    "timeline_covered_sec": 29.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "एशियन गेम्स 2026: भारतीय हॉकी टीम ने रचा इतिहास, जीता गोल्ड मेडल 🥇",
+        "caption": "एशियन गेम्स के फाइनल में टीम इंडिया का ऐसा जलवा दिखा कि देखने वाले दंग रह गए। मैदान पर खिलाड़ियों की पसीना और मेहनत आखिरकार रंग लाई और तिरंगा सबसे ऊपर लहराया। इस ऐतिहासिक जीत की पूरी कहानी जानने के लिए वीडियो पूरा देखें। 🏑🇮🇳\n\n#AsianGames2026 #IndianHockeyTeam #GoldMedal #SportsNews #TeamIndia"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "मैदान पर चली ऐसी आंधी कि എതിरियों के होश उड़ गए! 🏑 भारतीय हॉकी टीम ने एशियन गेम्स में एक बार फिर गोल्ड मेडल अपने नाम कर लिया है। देश का सिर गर्व से ऊंचा करने वाले इस ऐतिहासिक पल को शेयर करना न भूलें। 🇮🇳✨\n\n#AsianGames2026 #IndianHockeyTeam #GoldMedal #SportsNews #TeamIndia"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "जब मैदान पर भारतीय हॉकी टीम उतरी, तो हर किसी की निगाहें सिर्फ जीत पर थीं। एशियन गेम्स के इस रोमांचक मुकाबले में टीम ने अपने बेहतरीन खेल से सबको हैरान करते हुए गोल्ड मेडल पर कब्जा जमा लिया। खिलाड़ियों के इस शानदार प्रदर्शन ने एक बार फिर देश का नाम रोशन कर दिया है। पूरी कहानी जानने के लिए वीडियो देखें और अपनी प्रतिक्रिया जरूर दें। 🏑🏆🇮🇳\n\n#AsianGames2026 #IndianHockeyTeam #GoldMedal #SportsNews #TeamIndia"
+      },
+      "hashtags": [
+        "AsianGames2026",
+        "IndianHockeyTeam",
+        "GoldMedal",
+        "SportsNews",
+        "TeamIndia"
+      ]
+    },
+    "audio_path": "audio/asian_games_mens_hockey_gold_malaysia.wav",
+    "audio_duration_sec": 20.24
+  },
+  {
+    "topic_label": "netanyahu_video_call_captain_smit_machchhar_hero",
+    "virality_score": 8,
+    "reason": "Israeli PM Netanyahu video-calls and praises Indian pilot Smit Machchhar as a global hero.",
+    "region": "india",
+    "headline": "कॉकपिट में उन मिनटों में क्या हुआ? कैप्टन मच्छार ने नेतन्याहू को बताया",
+    "source_summary": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने शनिवार शाम को दुबई वाली फ्लाइट के भारतीय पायलट कैप्टन स्मित मच्छार से वीडियो कॉल पर बात की. उन्होंने कैप्टन को इजरायल, भारत और पूरी दुनिया के लिए हीरो बताया और इजरायल के स्वतंत्रता दिवस समारोह में मशाल जलाने का न्योता दिया.",
+    "source_url": "https://www.aajtak.in/world/story/netanyahu-smit-machchhar-video-call-flydubai-cockpit-attack-israel-hero-ntc-agkp-dskc-2660601-2026-10-04?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-04T00:16:21+05:30",
+    "hook": "कॉकपिट में आखिर उन मिनटों में क्या हुआ था?",
+    "script_hi": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने भारतीय पायलट कैप्टन स्मित मच्छार से वीडियो कॉल पर बात की। नेतन्याहू ने कैप्टन को इजरायल, भारत और दुनिया के लिए हीरो बताया और उन्हें इजरायल के स्वतंत्रता दिवस पर मशाल जलाने का न्योता दिया।",
+    "tts_text_hi": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने भारतीय पायलट कैप्टन स्मित मच्छार से वीडियो कॉल पर बात की। नेतन्याहू ने कैप्टन को इजरायल, भारत और दुनिया के लिए हीरो बताया और उन्हें इजरायल के स्वतंत्रता दिवस पर मशाल जलाने का न्योता दिया।",
+    "title": "नेतन्याहू ने भारतीय पायलट को कहा हीरो",
+    "caption": "इजरायल के पीएम बेंजामिन नेतन्याहू ने भारतीय पायलट कैप्टन स्मित मच्छार से बात की और उन्हें स्वतंत्रता दिवस समारोह में शामिल होने का न्योता दिया।",
+    "hashtags": [
+      "BenjaminNetanyahu",
+      "IndianPilot",
+      "IsraelIndia",
+      "NewsShorts",
+      "BreakingNews"
+    ],
+    "visual_queries": [
+      "commercial airplane cockpit India",
+      "video call conference screen",
+      "celebration torch lighting event"
+    ],
+    "named_person": "Benjamin Netanyahu",
+    "named_person_hi": "बेंजामिन नेतन्याहू",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "बेंजामिन नेतन्याहू",
+        "source": "fallback",
+        "query": "Benjamin Netanyahu",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16572374/pexels-photo-16572374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane cockpit India",
+        "credit": "Kenneth  Christopher",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/5486096/pexels-photo-5486096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "video call conference screen",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8590432/pexels-photo-8590432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "celebration torch lighting event",
+        "credit": "Alexey Wineman",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "कॉकपिट में उन मिनटों में क्या हुआ? नेतन्याहू ने भारतीय पायलट को कहा हीरो 🇮🇳",
+        "caption": "कॉकपिट में आखिर उन मिनटों में क्या हुआ था? ✈️\n\nजब इस भारतीय पायलट ने अपनी सूझबूझ से सबको हैरान कर दिया, तो इजराइल के पीएम बेंजामिन नेतन्याहू खुद तारीफ किए बिना नहीं रह सके। कैप्टन मच्छार की इस कहानी ने देश का सिर गर्व से ऊंचा कर दिया है।\n\nपूरी कहानी देखें और बताएं, इस जांबाजी पर आपका क्या कहना है?\n\n#CaptainMacchar #Netanyahu #IndianPilot #ProudIndian #AviationNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "कॉकपिट में आखिर उन मिनटों में क्या हुआ था? 🛩️\n\nइजराइल के पीएम नेतन्याहू ने जिस भारतीय पायलट को 'हीरो' कहा, उनकी इस कहानी के बारे में जानकर आप भी हैरान रह जाएंगे। कैप्टन मच्छार का वो कमाल का लम्हा।\n\nकमेंट में बताएं कैसा लगा यह वीडियो और शेयर करें अपने दोस्तों के साथ! 🇮🇳\n\n#CaptainMacchar #Netanyahu #IndianPilot #ProudIndian #AviationNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "कॉकपिट में आखिर उन मिनटों में क्या हुआ था?\n\nजब इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू ने भारतीय पायलट कैप्टन मच्छार को 'हीरो' कहकर बुलाया, तो हर भारतीय का सीना गर्व से चौड़ा हो गया। आखिर उस उड़ान के दौरान आसमान में ऐसा क्या हुआ था जो पूरी दुनिया में चर्चा का विषय बन गया?\n\nपूरी बात जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट बॉक्स में जरूर साझा करें।\n\n#CaptainMacchar #Netanyahu #IndianPilot #ProudIndian #AviationNews"
+      },
+      "hashtags": [
+        "CaptainMacchar",
+        "Netanyahu",
+        "IndianPilot",
+        "ProudIndian",
+        "AviationNews"
+      ]
+    },
+    "audio_path": "audio/netanyahu_video_call_captain_smit_machchhar_hero.wav",
+    "audio_duration_sec": 15.66
+  },
+  {
+    "topic_label": "amritsar_influencer_mad_sandhu_shot_dead",
+    "virality_score": 8,
+    "reason": "Popular social media influencer Mad Sandhu shot dead in Amritsar, sparking massive online shock.",
+    "region": "india",
+    "headline": "अमृतसर में इन्फ्लुएंसर की मारकर हत्या, UK में बैठे गैंगस्टर ने ली जिम्मेदारी",
+    "source_summary": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर मैड संधू की गोली मारकर हत्या कर दी गई. लोहारका रोड पर मोटरसाइकिल सवार दो हमलावरों ने उन पर फायरिंग की. इस हत्या की जिम्मेदारी गोल्डी ढिल्लों और जग्गा तरनतारन ने सोशल मीडिया पोस्ट के जरिए लेने का दावा किया है.",
+    "source_url": "https://www.aajtak.in/india/punjab/story/amritsar-makeup-artist-influencer-mad-sandhu-shot-dead-murder-ntc-apdy-rptc-2660290-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T20:02:31+05:30",
+    "hook": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर की सरेआम गोली मारकर हत्या!",
+    "script_hi": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर मैड संधू की गोली मारकर हत्या कर दी गई है। लोहारका रोड पर मोटरसाइकिल सवार दो हमलावरों ने उन पर अंधाधुंध फायरिंग की। इस सनसनीखेज हत्या की जिम्मेदारी यूके में बैठे गैंगस्टर गोल्डी ढिल्लों और जग्गा तरनतारन ने सोशल मीडिया पोस्ट के जरिए ली है। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर मैड संधू की गोली मारकर हत्या कर दी गई है। लोहारका रोड पर मोटरसाइकिल सवार दो हमलावरों ने उन पर अंधाधुंध फायरिंग की। इस सनसनीखेज हत्या की जिम्मेदारी यूके में बैठे गैंगस्टर गोल्डी ढिल्लों और जग्गा तरनतारन ने सोशल मीडिया पोस्ट के जरिए ली है। पुलिस मामले की जांच कर रही है।",
+    "title": "अमृतसर में इन्फ्लुएंसर की हत्या",
+    "caption": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर मैड संधू की गोली मारकर हत्या, यूके में बैठे गैंगस्टर ने ली जिम्मेदारी।",
+    "hashtags": [
+      "#AmritsarNews",
+      "#CrimeNews",
+      "#PunjabPolice",
+      "#BreakingNews",
+      "#SocialMediaInfluencer",
+      "#IndiaNews"
+    ],
+    "visual_queries": [
+      "Amritsar India street",
+      "police investigation India",
+      "smartphone social media India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/6848143/6848143-hd_720_1280_25fps.mp4",
+        "url": "https://videos.pexels.com/video-files/10466489/10466489-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "Indian hockey team India",
-        "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 13,
+        "query": "crime scene police tape India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 23,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/5195174/5195174-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "motorcycle riders on road",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 20,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/35183015/14905214_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "punjab street crime",
+        "credit": "Abdul Wali Khan",
+        "source_duration_sec": 20,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36535328/pexels-photo-36535328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket team celebration India",
-        "credit": "Umang & Meet",
-        "duration_sec": 5
+        "query": "Amritsar India street",
+        "credit": "Amanjot  Singh",
+        "duration_sec": 3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36818362/pexels-photo-36818362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "golf tournament India",
-        "credit": "Chimango Hara",
-        "duration_sec": 5
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36365330/pexels-photo-36365330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16349245/pexels-photo-16349245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "archery competition India",
-        "credit": "hidayah taufiq",
-        "duration_sec": 5
+        "query": "smartphone social media India",
+        "credit": "Ravi Roshan",
+        "duration_sec": 3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/21701714/pexels-photo-21701714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Punjab street view India",
+        "credit": "Anurag Jamwal",
+        "duration_sec": 3
       }
     ],
-    "asset_count": 4,
-    "timeline_covered_sec": 21,
+    "asset_count": 7,
+    "timeline_covered_sec": 30,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "Asian Games: एक दिन में 9 मेडल! भारत के 'सुपर शनिवार' का इतिहास 🇮🇳",
-        "caption": "सिर्फ एक दिन और भारत की झोली में आ गए 9 धमाकेदार मेडल! 🥇\n\nएशियन गेम्स के इतिहास में इस शनिवार ने सारे रिकॉर्ड तोड़ दिए। शूटर्स से लेकर ट्रैक तक, तिरंगा हर तरफ शान से लहराया।\n\nपूरी कहानी देखें और बताएं कौन सा मेडल सबसे खास लगा?\n\n#AsianGames2023 #TeamIndia #AsianGamesHistory #IndianSports #SuperSaturday"
+        "title": "अमृतसर में इन्फ्लुएंसर की सरेआम हत्या! UK के गैंगस्टर ने ली जिम्मेदारी 🚨",
+        "caption": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर की सरेआम गोली मारकर हत्या! 🚨\n\nदिनदहाड़े हुई इस सनसनीखेज वारदात ने सबको दहला दिया है। आरोपी कोई और नहीं बल्कि ब्रिटेन में बैठा एक कुख्यात गैंगस्टर निकला है जिसने खुद इस हत्या की जिम्मेदारी ली है। आखिर सोशल मीडिया स्टार्स क्यों बन रहे हैं गैंग्स के निशाने पर?\n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें।\n\n#AmritsarNews #SocialMediaInfluencer #PunjabCrime #GangsterUpdate #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "एक दिन में 9 मेडल! 🤯 एशियन गेम्स के इस 'सुपर शनिवार' ने इतिहास रच दिया है।\n\nजब एक के बाद एक गोल्ड और सिल्वर आने लगे, तो पूरा देश खुशी से झूम उठा। क्या आपने देखे आज के मुकाबले?\n\nकमेंट में अपनी खुशी शेयर करें और पूरी कहानी देखें! 👇\n\n#AsianGames2023 #TeamIndia #AsianGamesHistory #IndianSports #SuperSaturday"
+        "caption": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर की सरेआम गोली मारकर हत्या! 🚨\n\nब्रिटेन में बैठे गैंगस्टर ने इस कत्ल की जिम्मेदारी ली है। आखिर क्या थी असली वजह?\n\nवीडियो शेयर करें और अपनी राय कमेंट में बताएं।\n\n#AmritsarNews #SocialMediaInfluencer #PunjabCrime #GangsterUpdate #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "एशियन गेम्स का वो शनिवार, जिसे भारत कभी नहीं भूल पाएगा! 🇮🇳\n\nसिर्फ एक ही दिन में देश के खिलाड़ियों ने 9 शानदार मेडल जीतकर तहलका मचा दिया। मैदान से लेकर पोडियम तक, हर तरफ बस भारत का ही जलवा दिखा।\n\nपूरी कहानी देखिए और गर्व महसूस कीजिए इस ऐतिहासिक पल पर।\n\n#AsianGames2023 #TeamIndia #AsianGamesHistory #IndianSports #SuperSaturday"
+        "caption": "अमृतसर में सोशल मीडिया इन्फ्लुएंसर की सरेआम गोली मारकर हत्या! 🚨\n\nइस सनसनीखेज वारदात ने पूरे इलाके में सनसनी फैला दी है। हैरानी की बात यह है कि यूके (UK) में बैठे एक गैंगस्टर ने सोशल मीडिया पर पोस्ट करके इस मर्डर की जिम्मेदारी ली है। \n\nआखिर क्या है इसके पीछे की पूरी साजिश और क्यों टारगेट पर आ रहे हैं इन्फ्लुएंसर? जानिए पूरी कहानी इस वीडियो में।\n\n#AmritsarNews #SocialMediaInfluencer #PunjabCrime #GangsterUpdate #BreakingNews"
       },
       "hashtags": [
-        "AsianGames2023",
-        "TeamIndia",
-        "AsianGamesHistory",
-        "IndianSports",
-        "SuperSaturday"
+        "AmritsarNews",
+        "SocialMediaInfluencer",
+        "PunjabCrime",
+        "GangsterUpdate",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/asian_games_super_saturday_gold_medals.wav",
-    "audio_duration_sec": 12.92
+    "audio_path": "audio/amritsar_influencer_mad_sandhu_shot_dead.wav",
+    "audio_duration_sec": 24.83
   },
   {
-    "topic_label": "delhi_kirti_nagar_creta_hit_and_run_elderly",
+    "topic_label": "delhi_kirti_nagar_suv_hit_and_run_elderly",
     "virality_score": 8,
-    "reason": "A shocking CCTV-captured hit-and-run incident in Delhi involving an elderly couple has high viral outrage potential.",
+    "reason": "Shocking CCTV footage of an SUV ruthlessly mowing down an elderly couple in Delhi.",
     "region": "india",
-    "headline": "टक्कर मारी, उतरी और फिर भागी... दिल्ली में महिला ने कार से कपल को उड़ाया",
-    "source_summary": "Delhi Kirti Nagar News: दिल्ली के कीर्ति नगर में 2 अक्टूबर की सुबह तेज रफ्तार क्रेटा कार ने 79 वर्षीय बुजुर्ग दंपत्ति को मारी टक्कर. पूरी घटना CCTV में कैद. आरोपी 49 वर्षीय महिला चालक नवलीन गिरफ्तार, कार जब्त. देखें वीडियो और पढ़ें पूरी खबर...",
-    "source_url": "https://www.aajtak.in/india/delhi/story/delhi-kirti-nagar-woman-driving-speeding-car-hits-elderly-couple-both-seriously-injured-lcln-strc-2660261-2026-10-03?utm_source=rssfeed",
+    "headline": "Delhi में तेज रफ्तार क्रेटा कार का खौफनाक कहर!",
+    "source_summary": "दिल्ली के कीर्ति नगर इलाके में गांधी जयंती की सुबह दर्दनाक सड़क हादसा हुआ. धार्मिक स्थल से पूजा कर घर लौट रहे 79 वर्षीय बुजुर्ग दंपत्ति को तेज रफ्तार क्रेटा ने पीछे से टक्कर मार दी. हादसे में दोनों सड़क पर दूर जा गिरे और घायल हो गए. घटना सीसीटीवी में कैद हुई है. पुलिस ने कार चला रही 49 वर्षीय महिला नवलीन को गिरफ्तार कर वाहन जब्त कर लिया है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/delhi-kirti-nagar-road-accident-elderly-couple-hit-by-speeding-creta-woman-arrested-after-cctv-footage-mmta-2660292-2026-10-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-03T19:17:48+05:30",
-    "hook": "दिल्ली में दिल दहला देने वाला हादसा! तेज रफ्तार क्रेटा ने बुजुर्ग दंपत्ति को उड़ाया।",
-    "script_hi": "दिल्ली के कीर्ति नगर इलाके में दो अक्टूबर की सुबह एक तेज रफ्तार कार ने सड़क पार कर रहे उनहत्तर वर्षीय बुजुर्ग दंपत्ति को टक्कर मार दी। पूरी घटना सीसीटीवी कैमरे में कैद हो गई है। टक्कर मारने के बाद महिला चालक मौके से फरार हो गई। पुलिस ने उनचास वर्षीय आरोपी महिला नवलीन को गिरफ्तार कर लिया है और कार को जब्त कर लिया है।",
-    "tts_text_hi": "दिल्ली के कीर्ति नगर इलाके में दो अक्टूबर की सुबह एक तेज रफ्तार कार ने सड़क पार कर रहे उनहत्तर वर्षीय बुजुर्ग दंपत्ति को टक्कर मार दी। पूरी घटना सीसीटीवी कैमरे में कैद हो गई है। टक्कर मारने के बाद महिला चालक मौके से फरार हो गई। पुलिस ने उनचास वर्षीय आरोपी महिला नवलीन को गिरफ्तार कर लिया है और कार को जब्त कर लिया है।",
-    "title": "दिल्ली के कीर्ति नगर में क्रेटा कार ने बुजुर्ग दंपत्ति को उड़ाया",
-    "caption": "दिल्ली के कीर्ति नगर में तेज रफ्तार क्रेटा कार ने बुजुर्ग दंपत्ति को मारी टक्कर। घटना सीसीटीवी में कैद, महिला आरोपी गिरफ्तार।",
+    "published": "2026-10-03T21:03:22+05:30",
+    "hook": "दिल्ली में तेज रफ्तार क्रेटा का कहर!",
+    "script_hi": "दिल्ली के कीर्ति नगर में गांधी जयंती की सुबह एक दर्दनाक हादसा हुआ। धार्मिक स्थल से पूजा कर लौट रहे उन्यासी वर्षीय बुजुर्ग दंपत्ति को एक तेज रफ्तार क्रेटा कार ने पीछे से टक्कर मार दी। हादसे में दोनों घायल हो गए। पुलिस ने कार चला रही उनचास वर्षीय महिला नवलीन को गिरफ्तार कर वाहन जब्त कर लिया है।",
+    "tts_text_hi": "दिल्ली के कीर्ति नगर में गांधी जयंती की सुबह एक दर्दनाक हादसा हुआ। धार्मिक स्थल से पूजा कर लौट रहे उन्यासी वर्षीय बुजुर्ग दंपत्ति को एक तेज रफ्तार क्रेटा कार ने पीछे से टक्कर मार दी। हादसे में दोनों घायल हो गए। पुलिस ने कार चला रही उनचास वर्षीय महिला नवलीन को गिरफ्तार कर वाहन जब्त कर लिया है।",
+    "title": "Delhi Kirti Nagar Accident",
+    "caption": "दिल्ली के कीर्ति नगर में तेज रफ्तार क्रेटा कार ने बुजुर्ग दंपत्ति को मारी टक्कर, सीसीटीवी में कैद हुई घटना।",
     "hashtags": [
       "#DelhiNews",
       "#KirtiNagar",
-      "#Accident",
+      "#CarAccident",
       "#DelhiPolice",
-      "#HitAndRun",
-      "#BreakingNews"
+      "#RoadSafety",
+      "#NewsShorts"
     ],
     "visual_queries": [
       "Delhi street India",
-      "police station India",
-      "CCTV camera security India"
+      "Hindu temple India",
+      "white Hyundai Creta India",
+      "Delhi traffic police India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 28.0,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story centers on a specific viral CCTV video clip of the accident which generic stock footage cannot replace; manual insertion of the real footage is required.",
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
         "type": "image",
@@ -246,164 +585,216 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38122489/pexels-photo-38122489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "police station India",
-        "credit": "GOWTHAM AGM",
+        "query": "Hindu temple India",
+        "credit": "Nalam Team",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/17183439/pexels-photo-17183439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "CCTV camera security India",
-        "credit": "Rakesh Teja",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "hapur_man_climbs_80ft_tower_wife_dispute",
-    "virality_score": 8,
-    "reason": "A dramatic viral video of a man climbing an 80-foot mobile tower demanding his wife return from her maternal home.",
-    "region": "india",
-    "headline": "VIDEO: पत्नी मायके गई तो 80 फीट ऊंचे टावर पर चढ़ा पति, बोला- उसे बुलाओ",
-    "source_summary": "हापुड़ में पत्नी के मायके जाने से नाराज एक युवक ने ऐसा कदम उठा लिया कि मौके पर लोगों की भीड़ जुट गई. पत्नी को वापस बुलाने की जिद में वह Jio कंपनी के करीब 80 फुट ऊंचे टावर के टॉप पर चढ़ गया. सूचना और वायरल वीडियो के बाद पुलिस व दमकल विभाग की टीम पहुंची और काफी समझाने के बाद युवक को सुरक्षित नीचे उतारा.",
-    "source_url": "https://www.aajtak.in/uttar-pradesh/story/hapur-husband-climbs-80-feet-jio-tower-wife-went-to-maika-viral-video-lclcn-strc-2660291-2026-10-03?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-03T20:03:58+05:30",
-    "hook": "पत्नी मायके गई तो पति अस्सी फीट ऊंचे टावर पर चढ़ गया!",
-    "script_hi": "उत्तर प्रदेश के हापुड़ में एक अनोखा मामला सामने आया जहां पत्नी के मायके जाने से नाराज युवक जियो कंपनी के अस्सी फीट ऊंचे टावर पर चढ़ गया। वह पत्नी को वापस बुलाने की जिद कर रहा था। वायरल वीडियो के बाद पुलिस और दमकल विभाग मौके पर पहुंचे और काफी मशक्कत के बाद उसे सुरक्षित नीचे उतारा।",
-    "tts_text_hi": "उत्तर प्रदेश के हापुड़ में एक अनोखा मामला सामने आया जहां पत्नी के मायके जाने से नाराज युवक जियो कंपनी के अस्सी फीट ऊंचे टावर पर चढ़ गया। वह पत्नी को वापस बुलाने की जिद कर रहा था। वायरल वीडियो के बाद पुलिस और दमकल विभाग मौके पर पहुंचे और काफी मशक्कत के बाद उसे सुरक्षित नीचे उतारा।",
-    "title": "पत्नी मायके गई तो टावर पर चढ़ा पति",
-    "caption": "हापुड़ में पत्नी के मायके जाने से नाराज युवक अस्सी फीट ऊंचे मोबाइल टावर पर चढ़ा, पुलिस और दमकल विभाग ने सुरक्षित नीचे उतारा।",
-    "hashtags": [
-      "#Hapur",
-      "#ViralVideo",
-      "#UttarPradesh",
-      "#NewsShorts",
-      "#IndiaNews"
-    ],
-    "visual_queries": [
-      "Indian village crowd gathering",
-      "mobile phone tower India",
-      "Indian police and fire brigade",
-      "rescued man India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a man climbing a tower in Hapur which generic stock B-roll cannot accurately represent; needs manual addition of the real footage.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/19270853/pexels-photo-19270853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian village crowd gathering",
-        "credit": "Deepak  Deshwal",
+        "query": "white Hyundai Creta India",
+        "credit": "Akshay Shende",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/12571183/pexels-photo-12571183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10977893/pexels-photo-10977893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "mobile phone tower India",
-        "credit": "Umang & Meet",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32437423/pexels-photo-32437423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian police and fire brigade",
-        "credit": "Ann H",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/25841474/pexels-photo-25841474.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "rescued man India",
-        "credit": "SRIPADA STUDIOS",
+        "query": "Delhi traffic police India",
+        "credit": "saikat ghosh",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
     "timeline_covered_sec": 20,
-    "review_status": "pending_review"
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "दिल्ली में क्रेटा का खौफनाक कहर! कीर्ति नगर हादसे का सच 😱🚗",
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nदिल्ली के कीर्ति नगर में तेज रफ्तार क्रेटा कार ने सड़क पर ऐसा कोहराम मचाया कि देखने वालों की रूह कांप गई। चंद सेकंड में क्या से क्या हो गया, पूरी सच्चाई वीडियो में देखिए।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#DelhiAccident #KirtiNagar #CretaAccident #DelhiNews #RoadSafety"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nदिल्ली के कीर्ति नगर में तेज रफ्तार क्रेटा का ऐसा कहर टूटा कि सब सन्न रह गए। लापरवाही की ये हदें झकझोर देने वाली हैं।\n\nक्या ऐसे ड्राइवरों पर उम्रकैद की सजा होनी चाहिए? अपनी राय दें और वीडियो शेयर करें।\n\n#DelhiAccident #KirtiNagar #CretaAccident #DelhiNews #RoadSafety"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सीसीटीवी में दिखा जो हुआ, उसने पुलिस को भी चौंका दिया 🚨\n\nदिल्ली के कीर्ति नगर इलाके में तेज रफ्तार क्रेटा कार का खौफनाक रूप देखने को मिला। सड़क पर बेकाबू हुई इस गाड़ी ने सबको दहशत में डाल दिया। चंद सेकंड के इस हादसे ने कई सवाल खड़े कर दिए हैं।\n\nपूरी घटना को जानिए और वीडियो को ज्यादा से ज्यादा शेयर करें ताकि दूसरों तक भी ये चेतावनी पहुंचे।\n\n#DelhiAccident #KirtiNagar #CretaAccident #DelhiNews #RoadSafety"
+      },
+      "hashtags": [
+        "DelhiAccident",
+        "KirtiNagar",
+        "CretaAccident",
+        "DelhiNews",
+        "RoadSafety"
+      ]
+    },
+    "audio_path": "audio/delhi_kirti_nagar_suv_hit_and_run_elderly.wav",
+    "audio_duration_sec": 21.71
   },
   {
-    "topic_label": "vaibhav_suryavanshi_touches_jay_shah_feet_asian_games",
+    "topic_label": "noida_supernova_43rd_floor_suicide",
     "virality_score": 8,
-    "reason": "15-year-old cricketer Vaibhav Suryavanshi touching ICC chairman Jay Shah's feet after winning the Asian Games gold is trending.",
+    "reason": "Tragic high-profile suicide as a man jumps from the 43rd floor of Noida's Supernova society.",
     "region": "india",
-    "headline": "एशियन गेम्स 2026: वैभव सूर्यवंशी के संस्कार ने जीता दिल",
-    "source_summary": "एशियन गेम्स 2026 के क्रिकेट फाइनल में भारत ने पाकिस्तान को 19 रनों से हराकर स्वर्ण पदक जीत लिया. जीत के बाद भारतीय खिलाड़ियों को बधाई देने पहुंचे जय शाह के सामने 15 वर्षीय वैभव सूर्यवंशी ने झुककर पैर छुए और आशीर्वाद लिया. कैमरे में कैद हुआ यह पल सोशल मीडिया पर चर्चा का विषय बन गया. वैभव फाइनल में 9 गेंदों पर 15 रन बनाकर भारत की जीत का हिस्सा बने.",
-    "source_url": "https://www.aajtak.in/short-videos/video/vaibhav-sooryavanshi-touches-jay-shah-feet-after-india-wins-asian-games-cricket-gold-medal-against-pakistan-mmta-2660229-2026-10-03?utm_source=rssfeed",
+    "headline": "नोएडा में एक  युवक ने 43वीं मंजिल गिरकर दी जान",
+    "source_summary": "नोएडा के सेक्टर-94 स्थित सुपरनोवा सोसाइटी में एक युवक की ऊंचाई से गिरने के बाद मौत हो गई। रिपोर्ट के मुताबिक, युवक ने एक दिन पहले कमरा बुक किया था और घटना से पहले वहां मौजूद एसी मैकेनिक से अपनी मानसिक परेशानी की बात कही थी।",
+    "source_url": "https://www.aajtak.in/short-videos/video/noida-sector-9-suicide-supernova-society-43rd-floor-depression-youth-accidental-death-ac-mechanic-tragic-mmtc-2660077-2026-10-03?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-03T19:40:05+05:30",
-    "hook": "एशियन गेम्स में भारत की ऐतिहासिक जीत और वैभव सूर्यवंशी का यह अंदाज़!",
-    "script_hi": "एशियन गेम्स दो हज़ार छब्बीस के क्रिकेट फाइनल में भारत ने पाकिस्तान को उन्नीस रनों से हराकर स्वर्ण पदक जीत लिया। जीत के बाद पंद्रह वर्षीय वैभव सूर्यवंशी ने जय शाह के पैर छूकर आशीर्वाद लिया। वैभव ने फाइनल में नौ गेंदों पर पंद्रह रन बनाए।",
-    "tts_text_hi": "एशियन गेम्स दो हज़ार छब्बीस के क्रिकेट फाइनल में भारत ने पाकिस्तान को उन्नीस रनों से हराकर स्वर्ण पदक जीत लिया। जीत के बाद पंद्रह वर्षीय वैभव सूर्यवंशी ने जय शाह के पैर छूकर आशीर्वाद लिया। वैभव ने फाइनल में नौ गेंदों पर पंद्रह रन बनाए।",
-    "title": "वैभव सूर्यवंशी ने जीते दिल",
-    "caption": "एशियन गेम्स में भारत की जीत और वैभव सूर्यवंशी का यह संस्कारी अंदाज़ सोशल मीडिया पर छाया हुआ है।",
+    "published": "2026-10-03T14:41:26+05:30",
+    "hook": "नोएडा की ऊंची इमारत से गिरकर युवक की मौत!",
+    "script_hi": "नोएडा के सेक्टर चौदह स्थित सुपरनोवा सोसाइटी में एक युवक की ऊंचाई से गिरने से मौत हो गई। घटना से पहले युवक ने एसी मैकेनिक से अपनी मानसिक परेशानी का जिक्र किया था। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "नोएडा के सेक्टर चौदह स्थित सुपरनोवा सोसाइटी में एक युवक की ऊंचाई से गिरने से मौत हो गई। घटना से पहले युवक ने एसी मैकेनिक से अपनी मानसिक परेशानी का जिक्र किया था। पुलिस मामले की जांच कर रही है।",
+    "title": "नोएडा में युवक ने इमारत से कूदकर दी जान",
+    "caption": "नोएडा के सुपरनोवा सोसाइटी में एक युवक की ऊंचाई से गिरने से मौत, एसी मैकेनिक से की थी बात।",
     "hashtags": [
-      "AsianGames",
-      "VaibhavSuryavanshi",
-      "TeamIndia",
-      "Cricket",
-      "GoldMedal",
-      "BCCI",
-      "JayShah"
+      "NoidaNews",
+      "BreakingNews",
+      "UttarPradesh",
+      "PoliceInvestigation",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian cricket team celebration India",
-      "Asian Games stadium India",
-      "young Indian cricketer celebration India"
+      "Noida skyline India",
+      "high rise building India",
+      "air conditioner repair India",
+      "police investigation India"
     ],
-    "named_person": "Vaibhav Suryavanshi",
-    "named_person_hi": "वैभव सूर्यवंशी",
-    "secondary_persons": [
-      "Jay Shah"
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31474528/13420234_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "Noida skyline India",
+        "credit": "Amit Rohilla",
+        "source_duration_sec": 16,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28606365/pexels-photo-28606365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "high rise building India",
+        "credit": "Ratnesh Tiwari",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/13718935/pexels-photo-13718935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "air conditioner repair India",
+        "credit": "The Vanity Photography  Co.",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10464479/pexels-photo-10464479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "duration_sec": 5
+      }
     ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "नोएडा की 43वीं मंजिल से गिरे युवक की मौत 🚨",
+        "caption": "सीसीटीवी में कैद हुआ खौफनाक मंजर, 43वीं मंजिल से छलांग लगाकर दी जान!\n\nनोएडा की एक हाई-राइज सोसाइटी से बेहद चौंकाने वाला मामला सामने आया है। शुरुआती जांच में आत्महत्या की बात सामने आ रही है, लेकिन पुलिस हर पहलू की बारीकी से जांच कर रही है।\n\nपूरी कहानी वीडियो में देखें।\n\n#NoidaNews #NoidaSuicide #BreakingNewsHindi #NoidaPolice #CrimeNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "सीसीटीवी में कैद हुआ खौफनाक मंजर, 43वीं मंजिल से छलांग लगाकर दी जान! 🚨\n\nनोएडा की एक हाई-राइज सोसाइटी से बेहद चौंकाने वाला मामला सामने आया है। शुरुआती जांच में आत्महत्या की बात सामने आ रही है, लेकिन पुलिस हर पहलू की बारीकी से जांच कर रही है।\n\nक्या इसके पीछे की असली वजह सामने आ पाएगी? पूरी कहानी देखें।\n\n#NoidaNews #NoidaSuicide #BreakingNewsHindi #NoidaPolice #CrimeNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "सीसीटीवी में कैद हुआ खौफनाक मंजर, 43वीं मंजिल से छलांग लगाकर दी जान! 🚨\n\nनोएडा की एक हाई-राइज सोसाइटी से यह हैरान कर देने वाला मामला सामने आया है, जहां एक युवक ने टावर की 43वीं मंजिल से नीचे गिरकर जान दे दी। शुरुआती जांच में मामला आत्महत्या का लग रहा है, पर पुलिस इस बात की गहराई से पड़ताल कर रही है कि आखिर ऐसा क्या हुआ था।\n\nपूरी कहानी देखें और अपनी राय साझा करें।\n\n#NoidaNews #NoidaSuicide #BreakingNewsHindi #NoidaPolice #CrimeNews"
+      },
+      "hashtags": [
+        "NoidaNews",
+        "NoidaSuicide",
+        "BreakingNewsHindi",
+        "NoidaPolice",
+        "CrimeNews"
+      ]
+    },
+    "audio_path": "audio/noida_supernova_43rd_floor_suicide.wav",
+    "audio_duration_sec": 15.19
+  },
+  {
+    "topic_label": "india_west_indies_3rd_odi_shocking_defeat",
+    "virality_score": 8,
+    "reason": "Team India suffers a stunning defeat despite scoring 351 runs, courtesy of Shai Hope's stellar ton.",
+    "region": "india",
+    "headline": "351 रन बनाने के बाद भी हारी टीम इंडिया! शाई होप ने खेली शतकीय पारी",
+    "source_summary": "IND vs WL 3rd ODI Highlights: वेस्टइंडीज ने भारत को आखिरी वनडे मुकाबले में पांच विकेट से हराकर सभी को चौंका दिया है. वेस्टइंडीज के लिए जीत के हीरो टीम के कप्तान शाई होप रहे.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/india-vs-west-indies-live-score-3rd-odi-ind-wi-match-virat-kohli-rohit-sharma-tspoa-tspok-aksp-dskc-2659978-2026-10-03?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-03T12:59:08+05:30",
+    "hook": "तीन सौ इक्यावन रन बनाने के बाद भी हारी टीम इंडिया!",
+    "script_hi": "तीन सौ इक्यावन रन बनाने के बाद भी हारी टीम इंडिया! शाई होप ने खेली शतकीय पारी। वेस्टइंडीज ने भारत को आखिरी वनडे मुकाबले में पांच विकेट से हराकर सभी को चौंका दिया। वेस्टइंडीज के लिए जीत के हीरो कप्तान शाई होप रहे।",
+    "tts_text_hi": "तीन सौ इक्यावन रन बनाने के बाद भी हारी टीम इंडिया! शाई होप ने खेली शतकीय पारी। वेस्टइंडीज ने भारत को आखिरी वनडे मुकाबले में पांच विकेट से हराकर सभी को चौंका दिया। वेस्टइंडीज के लिए जीत के हीरो कप्तान शाई होप रहे।",
+    "title": "IND vs WI 3rd ODI: 351 रन बनाकर भी हारी टीम इंडिया",
+    "caption": "वेस्टइंडीज ने भारत को आखिरी वनडे मुकाबले में पांच विकेट से हराकर सभी को चौंका दिया. कप्तान शाई होप रहे जीत के हीरो.",
+    "hashtags": [
+      "TeamIndia",
+      "INDvsWI",
+      "CricketNews",
+      "ShaiHope",
+      "CricketHighlights",
+      "IndianCricket"
+    ],
+    "visual_queries": [
+      "Indian cricket team stadium India",
+      "West Indies cricket team India",
+      "cricket captain celebrating India"
+    ],
+    "named_person": "Shai Hope",
+    "named_person_hi": "शाई होप",
+    "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "text_card",
-        "text": "वैभव सूर्यवंशी",
+        "text": "शाई होप",
         "source": "fallback",
-        "query": "Vaibhav Suryavanshi",
+        "query": "Shai Hope",
         "duration_sec": 4.0
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/34273724/pexels-photo-34273724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian cricket team celebration India",
-        "credit": "Umang & Meet",
+        "query": "Indian cricket team stadium India",
+        "credit": "Ajay Parab",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36950379/pexels-photo-36950379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20015824/pexels-photo-20015824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Asian Games stadium India",
-        "credit": "Nihar Manyalli",
+        "query": "West Indies cricket team India",
+        "credit": "Rohit Sharma",
         "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/13509635/pexels-photo-13509635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10987827/pexels-photo-10987827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "young Indian cricketer celebration India",
-        "credit": "Sandeep Singh",
+        "query": "cricket captain celebrating India",
+        "credit": "Yogendra  Singh",
         "duration_sec": 5
       }
     ],
@@ -412,139 +803,26 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "एशियन गेम्स में वैभव सूर्यवंशी के इस अंदाज़ ने जीते करोड़ों दिल! 🇮🇳",
-        "caption": "एशियन गेम्स में वैभव सूर्यवंशी के इस संस्कार ने मैदान पर ही नहीं, करोड़ों दिलों में जगह बना ली। 🏏\n\nभारत की इस ऐतिहासिक जीत के बाद हर कोई इस युवा खिलाड़ी की सादगी की चर्चा कर रहा है।\n\nपूरी कहानी देखें और बताएं, आपको वैभव का यह अंदाज़ कैसा लगा?\n\n#VaibhavSuryavanshi #AsianGames2026 #TeamIndia #CricketNews #ViralVideo"
+        "title": "351 रन बनाने के बाद भी कैसे हार गई टीम इंडिया? 🏏",
+        "caption": "351 रन बनाने के बाद भी हार गई टीम इंडिया! 😱\n\nविंडीज के खिलाफ बड़ा स्कोर खड़ा करने के बावजूद गेंदबाजों का खराब प्रदर्शन भारी पड़ा। शाई होप की शानदार शतकीय पारी ने मैच का पासा पूरी तरह पलट दिया।\n\nपूरी कहानी देखें कि आखिर कहां चूकी टीम.\n\n#TeamIndia #INDvsWI #ShaiHope #CricketNews #IndianCricket"
       },
       "instagram": {
         "title": null,
-        "caption": "मैच जीतना तो बड़ी बात है ही, लेकिन वैभव सूर्यवंशी ने जो किया उसने सबका दिल जीत लिया। ❤️\n\nएशियन गेम्स के दौरान इस युवा खिलाड़ी के संस्कारों की चर्चा हर तरफ हो रही है।\n\nक्या आपने इनका यह वीडियो देखा? कमेंट में अपनी राय बताएं!\n\n#VaibhavSuryavanshi #AsianGames2026 #TeamIndia #CricketNews #ViralVideo"
+        "caption": "351 रन बनाने के बाद भी हार गई टीम इंडिया! 😱\n\nबोर्ड पर विशाल स्कोर होने के बावजूद गेंदबाजों ने निराश किया और शाई होप ने शतकीय पारी खेल कर मैच छीन लिया।\n\nआपकी नजर में इस हार का सबसे बड़ा गुनहगार कौन है? कमेंट में बताएं! 👇\n\n#TeamIndia #INDvsWI #ShaiHope #CricketNews #IndianCricket"
       },
       "facebook": {
         "title": null,
-        "caption": "एशियन गेम्स में भारत की ऐतिहासिक जीत के बीच एक ऐसी तस्वीर सामने आई जिसने सबका ध्यान खींच लिया। वैभव सूर्यवंशी ने खेल के साथ-साथ अपने संस्कारों से सबका दिल जीत लिया है। 🇮🇳✨\n\nयुवा खिलाड़ी का यह अंदाज़ सोशल मीडिया पर तेजी से वायरल हो रहा है। पूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\nआपको वैभव की यह बात कैसी लगी? हमें कमेंट करके जरूर बताएं।\n\n#VaibhavSuryavanshi #AsianGames2026 #TeamIndia #CricketNews #ViralVideo"
+        "caption": "351 रन बनाने के बाद भी हार गई टीम इंडिया! 😱\n\nक्रिकेट फैंस के लिए यह किसी बड़े झटके से कम नहीं था। बोर्ड पर विशाल स्कोर लगाने के बाद भी टीम जीत दर्ज नहीं कर पाई, जिसकी मुख्य वजह शाई होप की बेहतरीन शतकीय पारी और कमजोर गेंदबाजी रही। \n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें और अपनी राय साझा करें।\n\n#TeamIndia #INDvsWI #ShaiHope #CricketNews #IndianCricket"
       },
       "hashtags": [
-        "VaibhavSuryavanshi",
-        "AsianGames2026",
         "TeamIndia",
+        "INDvsWI",
+        "ShaiHope",
         "CricketNews",
-        "ViralVideo"
+        "IndianCricket"
       ]
     },
-    "audio_path": "audio/vaibhav_suryavanshi_touches_jay_shah_feet_asian_games.wav",
-    "audio_duration_sec": 17.97
-  },
-  {
-    "topic_label": "petrol_diesel_price_hike_nayara_energy",
-    "virality_score": 8,
-    "reason": "A sudden hike in petrol and diesel prices by up to 5 rupees per liter directly impacts the common man.",
-    "region": "india",
-    "headline": "पेट्रोल के दाम 5 रुपये बढ़े, डीजल हो गया इतने रुपये महंगा, सबसे बड़ी प्राइवेट तेल कंपनी ने दिया महंगाई का झटका, चेक करें ताजा भाव",
-    "source_summary": "Petrol Diesel Rates Hike: कच्‍चे तेल की कीमतों में बढ़ोतरी के बाद देश में पेट्रोल-डीजल महंगा हो गया है. भारत की सबसे बड़ी प्राइवेट तेल कंपनी ने पेट्रोल और डीजल के दाम 3 से 5 रुपये प्रति लीटर तक बढ़ा दिए हैं. पूरी डिटेल अंदर पढ़ें.",
-    "source_url": "https://ndtv.in/business-news/petrol-diesel-price-hikes-by-3-to-5-rupees-in-india-by-nayara-energy-check-latest-oil-price-petrol-diesel-rates-today-3-october-saturday-12133333#publisher=newsstand",
-    "source_name": "NDTV Hindi",
-    "published": "Sat, 03 Oct 2026 14:05:33 +0530",
-    "hook": "महंगाई का बड़ा झटका! पेट्रोल और डीजल के दाम भारी बढ़ गए हैं।",
-    "script_hi": "महंगाई का बड़ा झटका! देश में पेट्रोल और डीजल के दाम भारी बढ़ गए हैं। भारत की सबसे बड़ी प्राइवेट तेल कंपनी ने पेट्रोल और डीजल के दाम तीन से पांच रुपये प्रति लीटर तक बढ़ा दिए हैं। कच्चे तेल की कीमतों में बढ़ोतरी के बाद यह नया रेट लागू हुआ है। तुरंत चेक करें अपने शहर के ताजा भाव।",
-    "tts_text_hi": "महंगाई का बड़ा झटका! देश में पेट्रोल और डीजल के दाम भारी बढ़ गए हैं। भारत की सबसे बड़ी प्राइवेट तेल कंपनी ने पेट्रोल और डीजल के दाम तीन से पांच रुपये प्रति लीटर तक बढ़ा दिए हैं। कच्चे तेल की कीमतों में बढ़ोतरी के बाद यह नया रेट लागू हुआ है। तुरंत चेक करें अपने शहर के ताजा भाव।",
-    "title": "पेट्रोल और डीजल हुए महंगे",
-    "caption": "कच्चे तेल की कीमतों में बढ़ोतरी के बाद देश में पेट्रोल और डीजल के दाम बढ़ गए हैं। प्राइवेट तेल कंपनी ने तीन से पांच रुपये तक की बढ़ोतरी की है।",
-    "hashtags": [
-      "PetrolPrice",
-      "DieselPrice",
-      "Inflation",
-      "IndiaNews",
-      "FuelPrices",
-      "BusinessNews"
-    ],
-    "visual_queries": [
-      "Indian petrol pump fuel station",
-      "fuel price hike India",
-      "gas station sign India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/28178813/12319446_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "fuel price hike India",
-        "credit": "Ömer  BÜLBÜL",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/37615808/15942787_720_1280_25fps.mp4",
-        "source": "pexels",
-        "query": "fuel price increase concept",
-        "credit": "Jakub Zerdzicki",
-        "source_duration_sec": 15,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/35610980/pexels-photo-35610980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian petrol pump fuel station",
-        "credit": "Jibin Yesudasan",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/14113687/pexels-photo-14113687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gas station sign India",
-        "credit": "Subhro Vision",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/29583979/pexels-photo-29583979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gas station pump India",
-        "credit": "Mehul",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11876186/pexels-photo-11876186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "car filling fuel station",
-        "credit": "Louis Gys",
-        "duration_sec": 4.5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "पेट्रोल और डीजल हुए महंगे",
-        "caption": "कच्चे तेल की कीमतों में बढ़ोतरी के बाद देश में पेट्रोल और डीजल के दाम बढ़ गए हैं। प्राइवेट तेल कंपनी ने तीन से पांच रुपये तक की बढ़ोतरी की है।\n\n#PetrolPrice #DieselPrice #Inflation #IndiaNews #FuelPrices"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "कच्चे तेल की कीमतों में बढ़ोतरी के बाद देश में पेट्रोल और डीजल के दाम बढ़ गए हैं। प्राइवेट तेल कंपनी ने तीन से पांच रुपये तक की बढ़ोतरी की है।\n\n#PetrolPrice #DieselPrice #Inflation #IndiaNews #FuelPrices"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "कच्चे तेल की कीमतों में बढ़ोतरी के बाद देश में पेट्रोल और डीजल के दाम बढ़ गए हैं। प्राइवेट तेल कंपनी ने तीन से पांच रुपये तक की बढ़ोतरी की है।\n\n#PetrolPrice #DieselPrice #Inflation #IndiaNews #FuelPrices"
-      },
-      "hashtags": [
-        "PetrolPrice",
-        "DieselPrice",
-        "Inflation",
-        "IndiaNews",
-        "FuelPrices"
-      ]
-    },
-    "audio_path": "audio/petrol_diesel_price_hike_nayara_energy.wav",
-    "audio_duration_sec": 17.96
+    "audio_path": "audio/india_west_indies_3rd_odi_shocking_defeat.wav",
+    "audio_duration_sec": 15.93
   }
 ]
