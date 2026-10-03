@@ -1,8 +1,10 @@
-ready_labels: ['asian_games_super_saturday_gold_medals', 'drishyam_3_box_office_collection_record', 'petrol_diesel_price_hike_nayara_energy', 'vaibhav_suryavanshi_touches_jay_shah_feet_asian_games']
+ready_labels: ['amritsar_influencer_mad_sandhu_shot_dead', 'asian_games_2026_india_85_medals_gold_finish', 'asian_games_mens_hockey_gold_malaysia', 'delhi_kirti_nagar_suv_hit_and_run_elderly', 'drishyam_3_box_office_record_opening', 'india_west_indies_3rd_odi_shocking_defeat', 'netanyahu_video_call_captain_smit_machchhar_hero', 'noida_supernova_43rd_floor_suicide']
 
-drishyam_3_box_office_collection_record: SUCCESS -> video_path=videos/drishyam_3_box_office_collection_record.mp4 dur=33.02322
-asian_games_super_saturday_gold_medals: SUCCESS -> video_path=videos/asian_games_super_saturday_gold_medals.mp4 dur=20.92322
-delhi_kirti_nagar_creta_hit_and_run_elderly: SKIPPED (not in ready set)
-hapur_man_climbs_80ft_tower_wife_dispute: SKIPPED (not in ready set)
-vaibhav_suryavanshi_touches_jay_shah_feet_asian_games: SUCCESS -> video_path=videos/vaibhav_suryavanshi_touches_jay_shah_feet_asian_games.mp4 dur=26.018231
-petrol_diesel_price_hike_nayara_energy: SUCCESS -> video_path=videos/petrol_diesel_price_hike_nayara_energy.mp4 dur=25.889887
+asian_games_2026_india_85_medals_gold_finish: SUCCESS -> video_path=videos/asian_games_2026_india_85_medals_gold_finish.mp4 dur=27.829229
+drishyam_3_box_office_record_opening: SUCCESS -> video_path=videos/drishyam_3_box_office_record_opening.mp4 dur=36.258231
+asian_games_mens_hockey_gold_malaysia: SUCCESS -> video_path=videos/asian_games_mens_hockey_gold_malaysia.mp4 dur=28.156553
+netanyahu_video_call_captain_smit_machchhar_hero: SUCCESS -> video_path=videos/netanyahu_video_call_captain_smit_machchhar_hero.mp4 dur=23.719229
+amritsar_influencer_mad_sandhu_shot_dead: SUCCESS -> video_path=videos/amritsar_influencer_mad_sandhu_shot_dead.mp4 dur=32.789887
+delhi_kirti_nagar_suv_hit_and_run_elderly: SUCCESS -> video_path=videos/delhi_kirti_nagar_suv_hit_and_run_elderly.mp4 dur=29.756553
+noida_supernova_43rd_floor_suicide: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide.mp4 dur=23.156553
+india_west_indies_3rd_odi_shocking_defeat: SUCCESS -> video_path=videos/india_west_indies_3rd_odi_shocking_defeat.mp4 dur=23.975215
