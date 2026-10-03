@@ -1,10 +1,10 @@
-ready_labels: ['asian_games_cricket_india_gold_jay_shah', 'asian_games_womens_hockey_gold_44_years', 'flydubai_co_pilot_axe_attack_captain_smit', 'nayara_energy_hikes_petrol_diesel_prices', 'noida_supernova_43rd_floor_suicide_video', 'turkey_deports_narco_kingpin_navpreet_singh']
+ready_labels: ['asian_games_super_saturday_9_medals_india', 'dausa_rajवीर_gurjar_both_hands_lost_ras_success', 'jitiya_vrat_bihar_two_friends_road_accident_death', 'noida_supernova_43rd_floor_suicide_case', 'salman_khan_praises_flydubai_hero_pilot_smit']
 
-flydubai_co_pilot_axe_attack_captain_smit: SUCCESS -> video_path=videos/flydubai_co_pilot_axe_attack_captain_smit.mp4 dur=30.189887
-asian_games_cricket_india_gold_jay_shah: SUCCESS -> video_path=videos/asian_games_cricket_india_gold_jay_shah.mp4 dur=34.156553
-noida_supernova_43rd_floor_suicide_video: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide_video.mp4 dur=26.356553
-asian_games_womens_hockey_gold_44_years: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold_44_years.mp4 dur=29.12322
-turkey_deports_narco_kingpin_navpreet_singh: SUCCESS -> video_path=videos/turkey_deports_narco_kingpin_navpreet_singh.mp4 dur=23.256553
-bhopal_retired_ias_murder_male_nurse_suspect: SKIPPED (not in ready set)
-ratlam_hotel_husband_caught_with_girlfriend: SKIPPED (not in ready set)
-nayara_energy_hikes_petrol_diesel_prices: SUCCESS -> video_path=videos/nayara_energy_hikes_petrol_diesel_prices.mp4 dur=27.71322
+asian_games_super_saturday_9_medals_india: SUCCESS -> video_path=videos/asian_games_super_saturday_9_medals_india.mp4 dur=24.156553
+noida_supernova_43rd_floor_suicide_case: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide_case.mp4 dur=28.02322
+dausa_rajवीर_gurjar_both_hands_lost_ras_success: SUCCESS -> video_path=videos/dausa_raj____gurjar_both_hands_lost_ras_success.mp4 dur=36.289887
+delhi_kirti_nagar_creta_hit_and_run_elderly_couple: SKIPPED (not in ready set)
+hapur_husband_climbs_80ft_tower_wife_leaves: SKIPPED (not in ready set)
+bihar_electric_wire_wild_boar_trap_triple_death: SKIPPED (not in ready set)
+jitiya_vrat_bihar_two_friends_road_accident_death: SUCCESS -> video_path=videos/jitiya_vrat_bihar_two_friends_road_accident_death.mp4 dur=34.156553
+salman_khan_praises_flydubai_hero_pilot_smit: SUCCESS -> video_path=videos/salman_khan_praises_flydubai_hero_pilot_smit.mp4 dur=37.350227
