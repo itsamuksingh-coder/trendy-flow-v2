@@ -1,9 +1,10 @@
-ready_labels: ['asian_games_womens_hockey_gold', 'bengaluru_mumbai_vande_bharat_sleeper', 'flydubai_co_pilot_attack_israel_crash', 'muzaffarpur_lady_doctor_chain_snatching', 'up_congress_leadership_change_aradhana_mishra']
+ready_labels: ['asian_games_cricket_india_gold_jay_shah', 'asian_games_womens_hockey_gold_44_years', 'flydubai_co_pilot_axe_attack_captain_smit', 'nayara_energy_hikes_petrol_diesel_prices', 'noida_supernova_43rd_floor_suicide_video', 'turkey_deports_narco_kingpin_navpreet_singh']
 
-flydubai_co_pilot_attack_israel_crash: SUCCESS -> video_path=videos/flydubai_co_pilot_attack_israel_crash.mp4 dur=22.289887
-asian_games_womens_hockey_gold: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold.mp4 dur=29.656553
-ohio_hindu_temple_attack_bricks: SKIPPED (not in ready set)
-up_congress_leadership_change_aradhana_mishra: SUCCESS -> video_path=videos/up_congress_leadership_change_aradhana_mishra.mp4 dur=29.856553
-jaipur_digital_coin_100_crore_scam: SKIPPED (not in ready set)
-bengaluru_mumbai_vande_bharat_sleeper: SUCCESS -> video_path=videos/bengaluru_mumbai_vande_bharat_sleeper.mp4 dur=33.611224
-muzaffarpur_lady_doctor_chain_snatching: SUCCESS -> video_path=videos/muzaffarpur_lady_doctor_chain_snatching.mp4 dur=26.356553
+flydubai_co_pilot_axe_attack_captain_smit: SUCCESS -> video_path=videos/flydubai_co_pilot_axe_attack_captain_smit.mp4 dur=30.189887
+asian_games_cricket_india_gold_jay_shah: SUCCESS -> video_path=videos/asian_games_cricket_india_gold_jay_shah.mp4 dur=34.156553
+noida_supernova_43rd_floor_suicide_video: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide_video.mp4 dur=26.356553
+asian_games_womens_hockey_gold_44_years: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold_44_years.mp4 dur=29.12322
+turkey_deports_narco_kingpin_navpreet_singh: SUCCESS -> video_path=videos/turkey_deports_narco_kingpin_navpreet_singh.mp4 dur=23.256553
+bhopal_retired_ias_murder_male_nurse_suspect: SKIPPED (not in ready set)
+ratlam_hotel_husband_caught_with_girlfriend: SKIPPED (not in ready set)
+nayara_energy_hikes_petrol_diesel_prices: SUCCESS -> video_path=videos/nayara_energy_hikes_petrol_diesel_prices.mp4 dur=27.71322
