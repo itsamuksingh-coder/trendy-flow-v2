@@ -1,10 +1,8 @@
-ready_labels: ['asian_games_super_saturday_9_medals_india', 'dausa_rajवीर_gurjar_both_hands_lost_ras_success', 'jitiya_vrat_bihar_two_friends_road_accident_death', 'noida_supernova_43rd_floor_suicide_case', 'salman_khan_praises_flydubai_hero_pilot_smit']
+ready_labels: ['asian_games_super_saturday_gold_medals', 'drishyam_3_box_office_collection_record', 'petrol_diesel_price_hike_nayara_energy', 'vaibhav_suryavanshi_touches_jay_shah_feet_asian_games']
 
-asian_games_super_saturday_9_medals_india: SUCCESS -> video_path=videos/asian_games_super_saturday_9_medals_india.mp4 dur=24.156553
-noida_supernova_43rd_floor_suicide_case: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide_case.mp4 dur=28.02322
-dausa_rajवीर_gurjar_both_hands_lost_ras_success: SUCCESS -> video_path=videos/dausa_raj____gurjar_both_hands_lost_ras_success.mp4 dur=36.289887
-delhi_kirti_nagar_creta_hit_and_run_elderly_couple: SKIPPED (not in ready set)
-hapur_husband_climbs_80ft_tower_wife_leaves: SKIPPED (not in ready set)
-bihar_electric_wire_wild_boar_trap_triple_death: SKIPPED (not in ready set)
-jitiya_vrat_bihar_two_friends_road_accident_death: SUCCESS -> video_path=videos/jitiya_vrat_bihar_two_friends_road_accident_death.mp4 dur=34.156553
-salman_khan_praises_flydubai_hero_pilot_smit: SUCCESS -> video_path=videos/salman_khan_praises_flydubai_hero_pilot_smit.mp4 dur=37.350227
+drishyam_3_box_office_collection_record: SUCCESS -> video_path=videos/drishyam_3_box_office_collection_record.mp4 dur=33.02322
+asian_games_super_saturday_gold_medals: SUCCESS -> video_path=videos/asian_games_super_saturday_gold_medals.mp4 dur=20.92322
+delhi_kirti_nagar_creta_hit_and_run_elderly: SKIPPED (not in ready set)
+hapur_man_climbs_80ft_tower_wife_dispute: SKIPPED (not in ready set)
+vaibhav_suryavanshi_touches_jay_shah_feet_asian_games: SUCCESS -> video_path=videos/vaibhav_suryavanshi_touches_jay_shah_feet_asian_games.mp4 dur=26.018231
+petrol_diesel_price_hike_nayara_energy: SUCCESS -> video_path=videos/petrol_diesel_price_hike_nayara_energy.mp4 dur=25.889887
