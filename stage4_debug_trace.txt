@@ -1,10 +1,9 @@
-ready_labels: ['asian_games_india_6_gold_medals_day_13', 'congress_appoints_aradhana_mishra_up_chief', 'jaipur_100_crore_digital_coin_crypto_scam', 'opposition_protests_cec_gyanesh_kumar_resignation', 'pargat_singh_appointed_punjab_congress_chief', 'smit_machchhar_flydubai_pm_modi_video_call']
+ready_labels: ['asian_games_womens_hockey_gold', 'bengaluru_mumbai_vande_bharat_sleeper', 'flydubai_co_pilot_attack_israel_crash', 'muzaffarpur_lady_doctor_chain_snatching', 'up_congress_leadership_change_aradhana_mishra']
 
-smit_machchhar_flydubai_pm_modi_video_call: SUCCESS -> video_path=videos/smit_machchhar_flydubai_pm_modi_video_call.mp4 dur=23.882222
-asian_games_india_6_gold_medals_day_13: SUCCESS -> video_path=videos/asian_games_india_6_gold_medals_day_13.mp4 dur=23.60322
-lucknow_teen_murders_mother_gender_change_motive: SKIPPED (not in ready set)
-opposition_protests_cec_gyanesh_kumar_resignation: SUCCESS -> video_path=videos/opposition_protests_cec_gyanesh_kumar_resignation.mp4 dur=26.456553
-jaipur_100_crore_digital_coin_crypto_scam: SUCCESS -> video_path=videos/jaipur_100_crore_digital_coin_crypto_scam.mp4 dur=27.504218
-congress_appoints_aradhana_mishra_up_chief: SUCCESS -> video_path=videos/congress_appoints_aradhana_mishra_up_chief.mp4 dur=32.689887
-pargat_singh_appointed_punjab_congress_chief: SUCCESS -> video_path=videos/pargat_singh_appointed_punjab_congress_chief.mp4 dur=32.356553
-dholpur_4_feet_long_bottle_gourd_laukki: SKIPPED (not in ready set)
+flydubai_co_pilot_attack_israel_crash: SUCCESS -> video_path=videos/flydubai_co_pilot_attack_israel_crash.mp4 dur=22.289887
+asian_games_womens_hockey_gold: SUCCESS -> video_path=videos/asian_games_womens_hockey_gold.mp4 dur=29.656553
+ohio_hindu_temple_attack_bricks: SKIPPED (not in ready set)
+up_congress_leadership_change_aradhana_mishra: SUCCESS -> video_path=videos/up_congress_leadership_change_aradhana_mishra.mp4 dur=29.856553
+jaipur_digital_coin_100_crore_scam: SKIPPED (not in ready set)
+bengaluru_mumbai_vande_bharat_sleeper: SUCCESS -> video_path=videos/bengaluru_mumbai_vande_bharat_sleeper.mp4 dur=33.611224
+muzaffarpur_lady_doctor_chain_snatching: SUCCESS -> video_path=videos/muzaffarpur_lady_doctor_chain_snatching.mp4 dur=26.356553
