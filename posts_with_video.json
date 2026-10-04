@@ -1,28 +1,98 @@
 [
   {
-    "topic_label": "meerut_husband_car_bonnet_wife_dragging",
+    "topic_label": "flydubai_pilot_smit_machchhar_cockpit_attack_details",
+    "virality_score": 10,
+    "reason": "Dramatic new revelations by brave Indian pilot Captain Smit Machchhar about the mid-air cockpit attack.",
+    "region": "india",
+    "headline": "'को-पायलट ने नमाज के बहाने कुल्हाड़ी मारी',भारतीय कैप्टन स्मित ने किया नया खुलासा, कॉकपिट का सच भी आय सामने",
+    "source_summary": "दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट FZ1073 में 34,000 फीट की ऊंचाई पर हुए खौफनाक हादसे को लेकर भारतीय पायलट कैप्टन स्मित मच्छर ने सबसे बड़ा खुलासा किया है। 174 जिंदगियां बचाने वाले जांबाज कैप्टन स्मित ने इजराइल",
+    "source_url": "https://hindi.oneindia.com/news/international/smit-machchhar-says-co-pilot-got-up-to-pray-then-hit-me-on-the-head-new-details-of-flydubai-fz1073-1661231.html",
+    "source_name": "Oneindia Hindi",
+    "published": "Sun, 04 Oct 2026 10:32:01 +0530",
+    "hook": "पैंतीस हजार फीट की ऊंचाई पर कॉकपिट के अंदर चली कुल्हाड़ी!",
+    "script_hi": "दुबई से तेल अवीव जा रही फ्लाईदुबई की उड़ान में पैंतीस हजार फीट की ऊंचाई पर खौफनाक हादसा टल गया। भारतीय कैप्टन स्मित मच्छर ने खुलासा किया कि सह-पायलट ने नमाज पढ़ने के बहाने कुल्हाड़ी से हमला किया। कैप्टन स्मित ने एक सौ चौहत्तर यात्रियों की जान बचाई।",
+    "tts_text_hi": "दुबई से तेल अवीव जा रही फ्लाईदुबई की उड़ान में पैंतीस हजार फीट की ऊंचाई पर खौफनाक हादसा टल गया। भारतीय कैप्टन स्मित मच्छर ने खुलासा किया कि सह-पायलट ने नमाज पढ़ने के बहाने कुल्हाड़ी से हमला किया। कैप्टन स्मित ने एक सौ चौहत्तर यात्रियों की जान बचाई।",
+    "title": "कॉकपिट में कुल्हाड़ी कांड का सच",
+    "caption": "फ्लाईदुबई की उड़ान में पैंतीस हजार फीट की ऊंचाई पर हुए हादसे पर भारतीय कैप्टन स्मित मच्छर का बड़ा खुलासा।",
+    "hashtags": [
+      "Flydubai",
+      "CaptainSmitMachhar",
+      "AviationNews",
+      "BreakingNews",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "commercial airplane cockpit India",
+      "pilot flying airplane India",
+      "airplane in sky India"
+    ],
+    "named_person": "Smit Machhar",
+    "named_person_hi": "स्मित मच्छर",
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": true,
+    "flag_reason": "Communal or religious context mentioned in connection with an attack/incident (नमाज के बहाने कुल्हाड़ी), which requires careful review under communal sensitivity guidelines.",
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "स्मित मच्छर",
+        "source": "fallback",
+        "query": "Smit Machhar",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16572374/pexels-photo-16572374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airplane cockpit India",
+        "credit": "Kenneth  Christopher",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/20051146/pexels-photo-20051146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "pilot flying airplane India",
+        "credit": "Mykyta Barko",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14694761/pexels-photo-14694761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "airplane in sky India",
+        "credit": "shyam mishra",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "pending_review"
+  },
+  {
+    "topic_label": "meerut_wife_drags_on_car_bonnet_girlfriend",
     "virality_score": 9,
-    "reason": "Dramatic viral video of a wife dragged on a car bonnet after catching her husband with another woman.",
+    "reason": "Viral shocking video of a wife hanging onto the bonnet after catching her husband with his girlfriend in Meerut.",
     "region": "india",
     "headline": "मेरठ में पति की खौफनाक हरकत! कार के बोनट पर लटकी पत्नी!",
     "source_summary": "मेरठ में पति को दूसरी महिला के साथ कार में देखकर पत्नी ने विरोध किया तो सड़क पर हंगामा हो गया. आरोप है कि पति ने अचानक कार दौड़ा दी, जिससे पत्नी बोनट पर लटक गई. इसके बावजूद वह कई किलोमीटर तक गाड़ी चलाता रहा. महिला ने जान से मारने की कोशिश का भी आरोप लगाया है. पुलिस ने शिकायत पर पति मयंक और महिला माही को गिरफ्तार कर कार सीज कर दी है",
     "source_url": "https://www.aajtak.in/short-videos/video/meerut-husband-drives-car-with-wife-hanging-on-bonnet-after-dispute-over-another-woman-viral-video-mmta-2661162-2026-10-04?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-10-04T17:00:40+05:30",
-    "hook": "मेरठ में पति की खौफनाक हरकत! कार के बोनट पर लटकी पत्नी!",
-    "script_hi": "मेरठ में पति की खौफनाक हरकत सामने आई है जहाँ पति को दूसरी महिला के साथ कार में देखने पर पत्नी ने विरोध किया। आरोप है कि पति ने अचानक कार दौड़ा दी जिससे पत्नी बोनट पर लटक गई और वह कई किलोमीटर तक गाड़ी चलाता रहा। पुलिस ने मयंक और माही नाम के आरोपियों को गिरफ्तार कर कार सीज कर दी है।",
-    "tts_text_hi": "मेरठ में पति की खौफनाक हरकत सामने आई है जहाँ पति को दूसरी महिला के साथ कार में देखने पर पत्नी ने विरोध किया। आरोप है कि पति ने अचानक कार दौड़ा दी जिससे पत्नी बोनट पर लटक गई और वह कई किलोमीटर तक गाड़ी चलाता रहा। पुलिस ने मयंक और माही नाम के आरोपियों को गिरफ्तार कर कार सीज कर दी है।",
-    "title": "मेरठ में कार के बोनट पर लटकी पत्नी",
-    "caption": "मेरठ में पति की शर्मनाक करतूत, कार के बोनट पर लटकी पत्नी को कई किलोमीटर तक घसीटा। पुलिस ने दोनों आरोपियों को किया गिरफ्तार।",
+    "hook": "मेरठ से आई हैरान करने वाली खबर! पति की कार के बोनट पर लटकी रही पत्नी!",
+    "script_hi": "मेरठ में पति को दूसरी महिला के साथ कार में देखकर पत्नी ने विरोध किया तो सड़क पर हाई वोल्टेज ड्रामा शुरू हो गया। आरोप है कि पति ने अचानक कार दौड़ा दी, जिससे पत्नी बोनट पर लटक गई और वह कई किलोमीटर तक गाड़ी चलाता रहा। महिला ने जान से मारने की कोशिश का गंभीर आरोप लगाया है। पुलिस ने कार्रवाई करते हुए आरोपी पति मयंक और माही को गिरफ्तार कर लिया है और कार को भी सीज कर दिया है।",
+    "tts_text_hi": "मेरठ में पति को दूसरी महिला के साथ कार में देखकर पत्नी ने विरोध किया तो सड़क पर हाई वोल्टेज ड्रामा शुरू हो गया। आरोप है कि पति ने अचानक कार दौड़ा दी, जिससे पत्नी बोनट पर लटक गई और वह कई किलोमीटर तक गाड़ी चलाता रहा। महिला ने जान से मारने की कोशिश का गंभीर आरोप लगाया है। पुलिस ने कार्रवाई करते हुए आरोपी पति मयंक और माही को गिरफ्तार कर लिया है और कार को भी सीज कर दिया है।",
+    "title": "मेरठ में पति की खौफनाक हरकत, कार के बोनट पर लटकी पत्नी",
+    "caption": "मेरठ में पति की खौफनाक हरकत! कार के बोनट पर लटकी पत्नी, कई किलोमीटर तक गाड़ी चलाता रहा पति। पुलिस ने दोनों आरोपियों को किया गिरफ्तार।",
     "hashtags": [
-      "Meerut",
+      "MeerutNews",
       "CrimeNews",
       "UttarPradesh",
-      "ViralVideo",
-      "IndiaNews"
+      "BreakingNews",
+      "ViralVideo"
     ],
     "visual_queries": [
-      "Meerut city street India",
+      "Meerut street India",
       "car bonnet India",
       "Indian police station"
     ],
@@ -31,22 +101,23 @@
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video of a woman hanging on a car bonnet in Meerut; generic stock B-roll cannot accurately represent this specific unique incident.",
+    "flag_reason": "The story centers on a specific viral incident (wife hanging on car bonnet) which requires the real footage/images rather than generic stock B-roll to avoid misrepresentation.",
     "assets": [
       {
-        "type": "image",
-        "url": "downloaded_assets/commons_845d1be68e.jpg",
-        "source": "wikimedia_commons",
-        "query": "Meerut city street India",
-        "credit": "Wikimedia Commons",
-        "duration_sec": 5
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/31561072/13450765_720_1280_30fps.mp4",
+        "source": "pexels",
+        "query": "car bonnet India",
+        "credit": "Javed Shaikh",
+        "source_duration_sec": 10,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "downloaded_assets/commons_e60a694a2c.jpg",
-        "source": "wikimedia_commons",
-        "query": "car bonnet India",
-        "credit": "Wikimedia Commons",
+        "url": "https://images.pexels.com/photos/39626345/pexels-photo-39626345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Meerut street India",
+        "credit": "Motilal Rapria",
         "duration_sec": 5
       },
       {
@@ -59,36 +130,37 @@
       }
     ],
     "asset_count": 3,
-    "timeline_covered_sec": 15,
+    "timeline_covered_sec": 16,
     "review_status": "pending_review"
   },
   {
-    "topic_label": "purvanchal_expressway_ambulance_accident_four_dead",
-    "virality_score": 8,
-    "reason": "Tragic road accident involving an ambulance carrying a soldier's body, wiping out multiple family members.",
+    "topic_label": "gujarat_cop_hangs_to_car_gold_robbery",
+    "virality_score": 9,
+    "reason": "Incredible cinematic bravery by a police inspector hanging onto a speeding car to foil a Rs 3.75 crore gold heist.",
     "region": "india",
-    "headline": "Army Ambulance Carrying Soldier's Body Crashes Into Truck In UP, 4 Killed",
-    "source_summary": "The last remains was being brought to his native village in Deoria district in Uttar Pradesh from Chandigarh when the accident took place around 8 am near 79.6 km-mark of the expressway in the Haliyapur",
-    "source_url": "https://www.ndtv.com/india-news/army-ambulance-carrying-soldiers-body-crashes-into-truck-in-up-4-killed-12136746#publisher=newsstand",
-    "source_name": "NDTV English - Top Stories",
-    "published": "Sun, 04 Oct 2026 14:33:21 +0530",
-    "hook": "उत्तर प्रदेश में बड़ा सड़क हादसा!",
-    "script_hi": "उत्तर प्रदेश के सुल्तानपुर में सेना के जवान के पार्थिव शरीर को ले जा रही एम्बुलेंस ट्रक से टकरा गई। इस भीषण हादसे में चार लोगों की मौत हो गई। हादसा हलियापुर के पास एक्सप्रेसवे पर हुआ, जब जवान का शव चंडीगढ़ से उनके पैतृक गांव देवरिया ले जाया जा रहा था।",
-    "tts_text_hi": "उत्तर प्रदेश के सुल्तानपुर में सेना के जवान के पार्थिव शरीर को ले जा रही एम्बुलेंस ट्रक से टकरा गई। इस भीषण हादसे में चार लोगों की मौत हो गई। हादसा हलियापुर के पास एक्सप्रेसवे पर हुआ, जब जवान का शव चंडीगढ़ से उनके पैतृक गांव देवरिया ले जाया जा रहा था।",
-    "title": "UP News: सेना के जवान का शव ले जा रही एम्बुलेंस दुर्घटनाग्रस्त, चार की मौत",
-    "caption": "उत्तर प्रदेश में सेना के जवान का शव ले जा रही एम्बुलेंस और ट्रक की टक्कर में चार लोगों की मौत।",
+    "headline": "3.75 करोड़ का सोना लूटकर भागे थे बदमाश, इंस्पेक्टर ने ऐसे रोकी चलती कार",
+    "source_summary": "गुजरात में 3.75 करोड़ रुपये का सोना लूटकर भाग रहे बदमाशों को पकड़ने के दौरान पुलिस इंस्पेक्टर ने अदम्य साहस दिखाया. चलती टियागो कार के दरवाजे से लटकने के बावजूद उन्होंने करीब 500 मीटर तक बदमाशों का सामना किया और स्टीयरिंग संभालकर इमरजेंसी हैंडब्रेक खींच दिया. पुलिस ने चार आरोपियों को गिरफ्तार कर पूरा लूटा हुआ सोना बरामद कर लिया.",
+    "source_url": "https://www.aajtak.in/india/gujarat/story/ahmedabad-nadiad-railway-station-375-crore-gold-loot-lclcn-rptc-2661295-2026-10-04?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-04T20:26:13+05:30",
+    "hook": "চলती कार से लटक गए इंस्पेक्टर, साढ़े तीन करोड़ से ज्यादा का सोना बरामद!",
+    "script_hi": "गुजरात में तीन दशमलव पचहत्तर करोड़ रुपये का सोना लूटकर भाग रहे बदमाशों को पकड़ने के दौरान एक पुलिस इंस्पेक्टर ने अदम्य साहस दिखाया। चलती टियागो कार के दरवाजे से लटकने के बावजूद उन्होंने करीब पाँच सौ मीटर तक बदमाशों का सामना किया और स्टीयरिंग संभालकर इमरजेंसी हैंडब्रेक खींच दिया। पुलिस ने चार आरोपियों को गिरफ्तार कर पूरा लूटा हुआ सोना बरामद कर लिया है।",
+    "tts_text_hi": "गुजरात में तीन दशमलव पचहत्तर करोड़ रुपये का सोना लूटकर भाग रहे बदमाशों को पकड़ने के दौरान एक पुलिस इंस्पेक्टर ने अदम्य साहस दिखाया। चलती टियागो कार के दरवाजे से लटकने के बावजूद उन्होंने करीब पाँच सौ मीटर तक बदमाशों का सामना किया और स्टीयरिंग संभालकर इमरजेंसी हैंडब्रेक खींच दिया। पुलिस ने चार आरोपियों को गिरफ्तार कर पूरा लूटा हुआ सोना बरामद कर लिया है।",
+    "title": "चलتی कार से लटक गए इंस्पेक्टर, साढ़े तीन करोड़ का सोना बरामद",
+    "caption": "गुजरात में तीन दशमलव पचहत्तर करोड़ रुपये का सोना लूटकर भाग रहे बदमाशों को पकड़ने के दौरान पुलिस इंस्पेक्टर ने दिखाया अदम्य साहस।",
     "hashtags": [
-      "UttarPradesh",
-      "RoadAccident",
-      "IndianArmy",
-      "Deoria",
-      "UPNews",
+      "GujaratPolice",
+      "GoldRobbery",
+      "BravePolice",
+      "CrimeNews",
+      "IndiaNews",
       "BreakingNews"
     ],
     "visual_queries": [
-      "Indian army ambulance",
-      "accident scene India expressway",
-      "Uttar Pradesh police India"
+      "India police car pursuit",
+      "Gujarat police station India",
+      "gold jewelry India recovered",
+      "police handcuffs India arrest"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -98,185 +170,192 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35659522/15111442_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "military vehicle road accident",
-        "credit": "Alex Dos Santos",
-        "source_duration_sec": 5,
-        "duration_sec": 5
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/35492066/15035726_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "highway traffic accident India",
-        "credit": "md Jahangir alam",
-        "source_duration_sec": 12,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476418/10476418-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "police investigation road India",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 17,
-        "duration_sec": 6
-      },
-      {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32764724/pexels-photo-32764724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/13268079/pexels-photo-13268079.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "accident scene India expressway",
-        "credit": "Ayush Shakya",
-        "duration_sec": 3.2
+        "query": "India police car pursuit",
+        "credit": "Madvortex",
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/13282256/pexels-photo-13282256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Uttar Pradesh police India",
+        "query": "Gujarat police station India",
         "credit": "Devansh Bose",
-        "duration_sec": 3.2
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/36782648/pexels-photo-36782648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32780784/pexels-photo-32780784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "ambulance on Indian highway",
-        "credit": "Rohan",
-        "duration_sec": 3.2
+        "query": "gold jewelry India recovered",
+        "credit": "M Kamran Arvi",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32764724/pexels-photo-32764724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "expressway traffic night India",
-        "credit": "Ayush Shakya",
-        "duration_sec": 3.2
+        "query": "police handcuffs India arrest",
+        "credit": "Kindel Media",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 29.8,
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "UP में बड़ा हादसा: जवान का शव ला रही एम्बुलेंस ट्रक से भिड़ी, 4 की मौत 🚨",
-        "caption": "सड़क हादसे में चार की दर्दनाक मौत! 💔\n\nउत्तर प्रदेश के उन्नाव में सेना के जवान का पार्थिव शरीर लेकर जा रही एम्बुलेंस एक खड़े ट्रक से जा टकराई। इस भयानक टक्कर में एम्बुलेंस के परखच्चे उड़ गए और वाहन में सवार चार लोगों की मौके पर ही जान चली गई।\n\nपूरी खबर जानने के लिए वीडियो अंत तक देखें।\n\n#UPNews #RoadAccident #IndianArmy #UnnaoNews #BreakingNews"
+        "title": "चलती कार से लटक गए इंस्पेक्टर! 3.75 करोड़ का सोना बरामद 🚗💨",
+        "caption": "चलती कार के दरवाजे से लटक गए इंस्पेक्टर और फिर जो हुआ... 🤯\n\nबदमाश 3.75 करोड़ रुपए का सोना लूटकर भाग रहे थे। पुलिस ने फिल्मी अंदाज में पीछा किया और आरोपियों को दबोच लिया।\n\nपूरी कहानी वीडियो में देखें।\n\n#goldloot #policeaction #crimestory #bravepolice #breakingnews"
       },
       "instagram": {
         "title": null,
-        "caption": "सड़क हादसे में चार की दर्दनाक मौत! 💔\n\nउत्तर प्रदेश में सेना के जवान का पार्थिव शरीर ला रही एम्बुलेंस एक ट्रक से टकरा गई। टक्कर इतनी भीषण थी कि चार लोगों की जान चली गई।\n\nअपनों की रक्षा करने वाले के लिए ऐसा अंत... सोचकर ही रूह कांप जाए। पूरी कहानी वीडियो में देखें।\n\n#UPNews #RoadAccident #IndianArmy #UnnaoNews #BreakingNews"
+        "caption": "चलती कार से लटक गए इंस्पेक्टर! 🤯\n\nसाढ़े तीन करोड़ से ज्यादा का सोना लूटकर भाग रहे बदमाशों का ऐसा फिल्मी पीछा शायद ही कभी देखा होगा। पुलिस ने कार रोककर सारा सोना बरामद कर लिया।\n\nपूरी कहानी देखें और शेयर करें! 🔄\n\n#goldloot #policeaction #crimestory #bravepolice #breakingnews"
       },
       "facebook": {
         "title": null,
-        "caption": "उत्तर प्रदेश से एक बेहद झकझोर देने वाली खबर सामने आई है। 💔\n\nसेना के एक जवान का पार्थिव शरीर घर लेकर जा रही एम्बुलेंस रास्ते में भीषण सड़क हादसे का शिकार हो गई। गाड़ी एक ट्रक से जा टकराई, जिससे एम्बुलेंस में सवार चार लोगों की दर्दनाक मौत हो गई। एक तरफ जवान की शहादत का गम और दूसरी तरफ इस बेदर्द हादसे ने सबको झकझोर कर रख दिया है।\n\nपूरी घटना को जानने के लिए वीडियो पूरा देखें।\n\n#UPNews #RoadAccident #IndianArmy #UnnaoNews #BreakingNews"
+        "caption": "चलती गाड़ी से लटक गए इंस्पेक्टर और बदमाशों के उड़ गए होश! 🚨\n\n3.75 करोड़ रुपए का सोना लूटकर भाग रहे बदमाशों को पकड़ने के लिए पुलिस ने जान की बाजी लगा दी। फिल्मी स्टाइल में हुए इस खतरनाक पीछा का पूरा सच जानिए।\n\nपूरी कहानी देखें और अपनी राय बताएं।\n\n#goldloot #policeaction #crimestory #bravepolice #breakingnews"
       },
       "hashtags": [
-        "UPNews",
-        "RoadAccident",
-        "IndianArmy",
-        "UnnaoNews",
-        "BreakingNews"
+        "goldloot",
+        "policeaction",
+        "crimestory",
+        "bravepolice",
+        "breakingnews"
       ]
     },
-    "audio_path": "audio/purvanchal_expressway_ambulance_accident_four_dead.wav",
-    "audio_duration_sec": 18.69,
-    "video_path": "videos/purvanchal_expressway_ambulance_accident_four_dead.mp4",
-    "video_duration_sec": 26.69
+    "audio_path": "audio/gujarat_cop_hangs_to_car_gold_robbery.wav",
+    "audio_duration_sec": 25.4,
+    "video_path": "videos/gujarat_cop_hangs_to_car_gold_robbery.mp4",
+    "video_duration_sec": 33.45
   },
   {
-    "topic_label": "guna_hospital_sister_carries_disabled_brother",
-    "virality_score": 8,
-    "reason": "Heartbreaking viral visual of a sister carrying her disabled brother on her shoulder due to lack of stretchers.",
+    "topic_label": "purvanchal_expressway_ambulance_accident_soldier_family",
+    "virality_score": 9,
+    "reason": "Tragic and heartbreaking accident on Purvanchal Expressway wiping out male members of a soldier's family.",
     "region": "india",
-    "headline": "स्ट्रेचर नहीं मिला तो दिव्यांग भाई को कंधे पर लादकर भटकती रही बहन!",
-    "source_summary": "मध्य प्रदेश के गुना जिला अस्पताल का एक वीडियो वायरल है. इसमें एक महिला अपने दिव्यांग भाई को कंधे पर लादे अस्पताल के अंदर जाती दिख रही है. महिला का कहना है कि स्ट्रेचर नहीं मिला. मजबूरी में उसे अपने बीमार भाई को पीठ पर उठाकर ले जाना पड़ा. वहीं अस्पताल प्रबंधन का कहना है कि पर्याप्त संख्या में स्ट्रेचर हैं. कई बार मरीज जल्दबाजी में मरीजों को खुद उठा लेते हैं.",
-    "source_url": "https://www.aajtak.in/madhya-pradesh/story/guna-district-hospital-sister-carries-disabled-brother-shoulder-no-stretcher-lcla-strc-2661095-2026-10-04?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-04T15:47:11+05:30",
-    "hook": "क्या मध्य प्रदेश के अस्पतालों में इंसानीियत खत्म हो गई है?",
-    "script_hi": "मध्य प्रदेश के गुना जिला अस्पताल से एक दिल दहला देने वाली तस्वीर सामने आई है। यहाँ एक बहन को स्ट्रेचर न मिलने पर अपने दिव्यांग भाई को कंधे पर लादकर भटकना पड़ा। वीडियो वायरल होने के बाद अस्पताल प्रबंधन का कहना है कि पर्याप्त स्ट्रेचर हैं, लेकिन इस लाचारी ने स्वास्थ्य व्यवस्था पर बड़े सवाल खड़े कर दिए हैं।",
-    "tts_text_hi": "मध्य प्रदेश के गुना जिला अस्पताल से एक दिल दहला देने वाली तस्वीर सामने आई है। यहाँ एक बहन को स्ट्रेचर न मिलने पर अपने दिव्यांग भाई को कंधे पर लादकर भटकना पड़ा। वीडियो वायरल होने के बाद अस्पताल प्रबंधन का कहना है कि पर्याप्त स्ट्रेचर हैं, लेकिन इस लाचारी ने स्वास्थ्य व्यवस्था पर बड़े सवाल खड़े कर दिए हैं।",
-    "title": "गुना अस्पताल में बहन ने भाई को कंधे पर उठाया",
-    "caption": "मध्य प्रदेश के गुना जिला अस्पताल में स्ट्रेचर न मिलने पर बहन को अपने दिव्यांग भाई को कंधे पर लादकर ले जाना पड़ा।",
+    "headline": "परिवार में कोई पुरुष नहीं बचा! फौजी का शव लाते हुए हादसे में बेटा-भाई-भतीजा की मौत, रोते-रोते पत्नी-बेटी बेसुध",
+    "source_summary": "सेना के एक जवान की मौत के बाद उसके पार्थिव शरीर को ले जा रही एंबुलेंस पूर्वांचल एक्सप्रेसवे पर हादसे की शिकार हो गई. इस हादसे एंबुलेंस में उनके बेटे, भाई, भतीजे और एंबुलेंस ड्राइवर की मौत हो गई.",
+    "source_url": "https://ndtv.in/india/purvanchal-expressway-accident-deoria-army-jawan-satyavan-singh-family-12136971#publisher=newsstand",
+    "source_name": "NDTV Hindi",
+    "published": "Sun, 04 Oct 2026 15:41:14 +0530",
+    "hook": "पूर्वांचल एक्सप्रेसवे पर दिल दहला देने वाला हादसा!",
+    "script_hi": "पूर्वांचल एक्सप्रेसवे पर सेना के जवान का पार्थिव शरीर ला रही एंबुलेंस हादसे का शिकार हो गई। इस भीषण दुर्घटना में जवान के बेटे, भाई और भतीजे सहित चार लोगों की मौके पर मौत हो गई। परिवार में अब कोई पुरुष नहीं बचा है।",
+    "tts_text_hi": "पूर्वांचल एक्सप्रेसवे पर सेना के जवान का पार्थिव शरीर ला रही एंबुलेंस हादसे का शिकार हो गई। इस भीषण दुर्घटना में जवान के बेटे, भाई और भतीजे सहित चार लोगों की मौके पर मौत हो गई। परिवार में अब कोई पुरुष नहीं बचा है।",
+    "title": "पूर्वांचल एक्सप्रेसवे पर दर्दनाक हादसा",
+    "caption": "सेना के जवान का शव ला रही एंबुलेंस का हुआ एक्सीडेंट, एक ही परिवार के कई लोगों की मौत।",
     "hashtags": [
-      "MadhyaPradesh",
-      "Guna",
-      "HospitalNegligence",
-      "ViralVideo",
-      "IndiaNews",
+      "PurvanchalExpressway",
+      "RoadAccident",
+      "IndianArmy",
+      "BreakingNews",
+      "UttarPradesh",
+      "NewsUpdates"
+    ],
+    "visual_queries": [
+      "Purvanchal Expressway India",
+      "ambulance accident India",
+      "crying family India",
+      "Indian military funeral"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28146983/pexels-photo-28146983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Purvanchal Expressway India",
+        "credit": "Mahendra Meena",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28123701/pexels-photo-28123701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "ambulance accident India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/12069228/pexels-photo-12069228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "crying family India",
+        "credit": "Kuldeep Rajora",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10253814/pexels-photo-10253814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian military funeral",
+        "credit": "Rohan Dewangan",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 20,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "फौजी की अर्थी के साथ उठी 3 और अर्थियां! पूर्वांचल एक्सप्रेसवे पर दर्दनाक हादसा 🚨",
+        "caption": "परिवार में अब कोई पुरुष नहीं बचा... फौजी का शव घर ला रहे बेटे, भाई और भतीजे की भी सड़क हादसे में मौत हो गई। घर की महिलाओं की चीखें कलेजा चीर देंगी। 💔\n\nपूरी कहानी वीडियो में देखें।\n\n#PurvanchalExpressway #RoadAccident #TragicNews #IndianArmy #Heartbreaking"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "परिवार में अब कोई पुरुष नहीं बचा... फौजी का शव घर ला रहे बेटे, भाई और भतीजे की भी सड़क हादसे में दर्दनाक मौत। रो-रोकर बेसुध हुईं मां-बेटियां। 💔\n\nक्या किस्मत का ऐसा भी खेल होता है? पूरी कहानी देखें।\n\n#PurvanchalExpressway #RoadAccident #TragicNews #IndianArmy #Heartbreaking"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "एक घर से चार अर्थियां उठेंगी, किसी ने सपने में भी नहीं सोचा था। देश के लिए जान गंवाने वाले फौजी का शव घर लाया जा रहा था, तभी रास्ते में हुए एक भयंकर हादसे ने फौजी के बेटे, भाई और भतीजे की भी जान ले ली। इस दिल दहला देने वाली घटना के बाद परिवार में अब कोई भी पुरुष नहीं बचा है। रोती-बिलखती महिलाओं का यह मंजर देखकर पत्थर दिल भी पिघल जाएगा। 💔\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#PurvanchalExpressway #RoadAccident #TragicNews #IndianArmy #Heartbreaking"
+      },
+      "hashtags": [
+        "PurvanchalExpressway",
+        "RoadAccident",
+        "TragicNews",
+        "IndianArmy",
+        "Heartbreaking"
+      ]
+    },
+    "audio_path": "audio/purvanchal_expressway_ambulance_accident_soldier_family.wav",
+    "audio_duration_sec": 16.87,
+    "video_path": "videos/purvanchal_expressway_ambulance_accident_soldier_family.mp4",
+    "video_duration_sec": 24.82
+  },
+  {
+    "topic_label": "gst_council_meeting_arrest_powers_relief",
+    "virality_score": 8,
+    "reason": "Major upcoming GST rule change proposing to remove arrest powers for tax officials and provide relief to small businesses.",
+    "region": "india",
+    "headline": "फिर बदलेगा GST कानून! अधिकारियों की गिरफ्तारी वाली ताकत पर लग सकती है रोक",
+    "source_summary": "जीएसटी काउंसिल की 7 अक्टूबर की बैठक में अधिकारियों की गिरफ्तारी की ताकत खत्म करने और आपराधिक मुकदमे की सीमा 5 करोड़ रुपये करने के प्रस्ताव पर चर्चा हो सकती है. इसके अलावा छोटे कारोबारियों को राहत देने के लिए कई नियमों में बदलाव की तैयारी है.",
+    "source_url": "https://www.aajtak.in/business/news/story/gst-law-changes-tax-officers-arrest-power-prosecution-limit-5-crore-ntc-dhrj-dskc-2661288-2026-10-04?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-04T20:07:02+05:30",
+    "hook": "जीएसटी नियमों में होने जा रहा है बड़ा बदलाव!",
+    "script_hi": "जीएसटी काउंसिल की सात अक्टूबर की बैठक में अधिकारियों की गिरफ्तारी की ताकत खत्म करने पर चर्चा हो सकती है। आपराधिक मुकदमे की सीमा पांच करोड़ रुपये करने का प्रस्ताव है। छोटे कारोबारियों को राहत देने के लिए कई नियमों में बदलाव की तैयारी की जा रही है।",
+    "tts_text_hi": "जीएसटी काउंसिल की सात अक्टूबर की बैठक में अधिकारियों की गिरफ्तारी की ताकत खत्म करने पर चर्चा हो सकती है। आपराधिक मुकदमे की सीमा पांच करोड़ रुपये करने का प्रस्ताव है। छोटे कारोबारियों को राहत देने के लिए कई नियमों में बदलाव की तैयारी की जा रही है।",
+    "title": "जीएसटी कानून में बदलाव की तैयारी",
+    "caption": "जीएसटी काउंसिल की बैठक में अधिकारियों की गिरफ्तारी की ताकत खत्म करने और आपराधिक मुकदमे की सीमा बढ़ाने पर हो सकती है चर्चा।",
+    "hashtags": [
+      "GST",
+      "GSTCouncil",
+      "BusinessNews",
+      "IndianEconomy",
+      "GSTUpdate",
       "NewsShorts"
     ],
     "visual_queries": [
-      "Madhya Pradesh government hospital India",
-      "wheelchair empty corridor India",
-      "medical emergency hospital India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on a specific viral video from Guna district hospital showing the exact incident; generic stock B-roll cannot stand in for this specific real footage and it needs manual addition.",
-    "assets": [
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8638155/pexels-photo-8638155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Madhya Pradesh government hospital India",
-        "credit": "Bhavesh  Solanki 007",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20272747/pexels-photo-20272747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "wheelchair empty corridor India",
-        "credit": "Sonny Vermeer",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/32768190/pexels-photo-32768190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical emergency hospital India",
-        "credit": "Chauhan Dixant",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "flydubai_captain_smit_machchhar_israel_pm_details",
-    "virality_score": 8,
-    "reason": "Heroic Indian pilot Captain Smit Machchhar shares detailed cockpit assault account with Israeli PM.",
-    "region": "india",
-    "headline": "कैप्टन स्मित ने इजरायली PM को बताई कॉकपिट हुई हिंसा की हर डिटेल",
-    "source_summary": "फ्लाईदुबई के कैप्टन स्मित मछार ने इजरायली प्रधानमंत्री को बताया कि को-पायलट ने प्रार्थना के बाद अचानक उन पर हमला कर दिया. सिर पर चोटों से उन्हें दिखना बंद हो रहा था. विमान तेजी से नीचे की ओर गिर रहा था लेकिन अंत में नियंत्रण वापस लिया गया.",
-    "source_url": "https://www.aajtak.in/defence-news/story/captain-smit-machchar-told-untold-story-of-cockpit-attack-to-israeli-prime-minister-benjamin-netanyahu-dskc-2661127-2026-10-04?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-04T15:58:25+05:30",
-    "hook": "कॉकपिट में खौफनाक हमला! पायलट पर को-पायलट ने किया जानलेवा वार!",
-    "script_hi": "फ्लाईदुबई के कैप्टन स्मित मछार ने इजरायली प्रधानमंत्री को को-पायलट की हिंसा की खौफनाक दास्तान सुनाई है। कैप्टन ने बताया कि प्रार्थना के तुरंत बाद को-पायलट ने उन पर अचानक हमला कर दिया। सिर पर गंभीर चोटों के कारण उन्हें दिखना बंद हो गया था और विमान तेजी से नीचे गिरने लगा था। हालांकि, आखिरी वक्त में उन्होंने सूझबूझ दिखाते हुए विमान पर नियंत्रण वापस पा लिया।",
-    "tts_text_hi": "फ्लाईदुबई के कैप्टन स्मित मछार ने इजरायली प्रधानमंत्री को को-पायलट की हिंसा की खौफनाक दास्तान सुनाई है। कैप्टन ने बताया कि प्रार्थना के तुरंत बाद को-पायलट ने उन पर अचानक हमला कर दिया। सिर पर गंभीर चोटों के कारण उन्हें दिखना बंद हो गया था और विमान तेजी से नीचे गिरने लगा था। हालांकि, आखिरी वक्त में उन्होंने सूझबूझ दिखाते हुए विमान पर नियंत्रण वापस पा लिया।",
-    "title": "कॉकपिट में पायलट पर हमला",
-    "caption": "फ्लाईदुबई के कैप्टन स्मित मछार ने इजरायली प्रधानमंत्री को को-पायलट के हमले की पूरी जानकारी दी।",
-    "hashtags": [
-      "Flydubai",
-      "CockpitAttack",
-      "BreakingNews",
-      "AviationNews",
-      "Israel"
-    ],
-    "visual_queries": [
-      "commercial airplane cockpit interior",
-      "airplane pilot injured head",
-      "airplane falling down emergency",
-      "airplane cockpit controls india"
+      "Indian tax office building",
+      "Indian business meeting room",
+      "small business owner India"
     ],
     "named_person": null,
     "named_person_hi": null,
@@ -286,242 +365,333 @@
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10419525/10419525-hd_720_1280_30fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/28655718/pexels-photo-28655718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane cockpit interior",
-        "credit": "Osman Başkurt",
-        "source_duration_sec": 7,
-        "duration_sec": 6
+        "query": "Indian tax office building",
+        "credit": "sights_clicked",
+        "duration_sec": 4.3
       },
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6520252/6520252-hd_720_1280_24fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7581122/pexels-photo-7581122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "injured man holding head",
+        "query": "Indian business meeting room",
         "credit": "RDNE Stock project",
-        "source_duration_sec": 16,
-        "duration_sec": 6
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32649172/pexels-photo-32649172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35317008/pexels-photo-35317008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane cockpit interior",
-        "credit": "Anne-Cécile Robert",
-        "duration_sec": 3.6
+        "query": "small business owner India",
+        "credit": "Mahmut Yılmaz",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/37756471/pexels-photo-37756471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35167360/pexels-photo-35167360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airplane cockpit controls india",
-        "credit": "Mariya Eskina",
-        "duration_sec": 3.6
+        "query": "Indian market street crowd",
+        "credit": "Himanshu Singh",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/32649172/pexels-photo-32649172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/8112186/pexels-photo-8112186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "commercial airplane flight deck",
-        "credit": "Anne-Cécile Robert",
-        "duration_sec": 3.6
+        "query": "business people handshake India",
+        "credit": "Pavel Danilyuk",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35983223/pexels-photo-35983223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/29911350/pexels-photo-29911350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "pilot flying commercial aircraft",
-        "credit": "Nikita  Grishin",
-        "duration_sec": 3.6
+        "query": "busy Indian marketplace",
+        "credit": "Basit Manzoor",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/19576659/pexels-photo-19576659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/20776189/pexels-photo-20776189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airplane emergency landing cockpit",
-        "credit": "Mariya Eskina",
-        "duration_sec": 3.6
+        "query": "corporate office India",
+        "credit": "Jansher Chakkittammal",
+        "duration_sec": 4.3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "कॉकपिट में खौफनाक हमला! पायलट पर co-pilot ने किया जानलेवा वार ✈️",
-        "caption": "कॉकपिट में खौफनाक हमला! पायलट पर को-पायलट ने किया जानलेवा वार!\n\nइजरायली पीएम के सामने जब इस खौफनाक घटना की एक-एक डिटेल खुली, तो हर कोई सन्न रह गया। उड़ान के दौरान विमान के अंदर क्या हुआ था, जिसे सुनकर सुरक्षा एजेंसियां भी हैरान हैं।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट करें।\n\n#CockpitAssault #PilotNews #AviationSafety #BreakingNewsHindi #IsraelPM"
+        "title": "अब GST अधिकारियों की गिरफ्तारी पर लगेगी रोक? जानिए बड़े बदलाव की सच्चाई 🚨",
+        "caption": "क्या अब GST अधिकारियों की मनमानी पर लगेगी लगाम? 🚨\n\nसरकार जल्द ही टैक्स कानूनों में बड़ा बदलाव करने की तैयारी में है। इसके तहत कारोबारियों को परेशान करने वाली अधिकारियों की गिरफ्तारी की ताकतों पर बड़ी रोक लग सकती है।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#GSTupdate #GSTlaw #IndianBusiness #TaxNews #ModiGovernment"
       },
       "instagram": {
         "title": null,
-        "caption": "कॉकपिट में खौफनाक हमला! पायलट पर को-पायलट ने किया जानलेवा वार! ✈️\n\nउड़ान के दौरान कॉकपिट के अंदर जो खूनी संघर्ष हुआ, उसकी हर एक डरावनी डिटेल अब सामने आ चुकी है। \n\nये पूरा सच जानने के लिए वीडियो आखिर तक देखें।\n\n#CockpitAssault #PilotNews #AviationSafety #BreakingNewsHindi #IsraelPM"
+        "caption": "अब GST अधिकारियों की गिरफ्तारी वाली ताकत पर लग सकती है रोक! 🚨\n\nव्यापारियों को बड़ी राहत देने के लिए सरकार नियमों में बदलाव की तैयारी कर रही है। जानिए क्या बदलने वाला है आपके लिए।\n\nपूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#GSTupdate #GSTlaw #IndianBusiness #TaxNews #ModiGovernment"
       },
       "facebook": {
         "title": null,
-        "caption": "कॉकपिट में खौफनाक हमला! पायलट पर को-पायलट ने किया जानलेवा वार!\n\nआपने अक्सर हवा में विमानों की सुरक्षा के बड़े-बड़े दावे सुने होंगे, लेकिन इजरायली प्रधानमंत्री के सामने जब कैप्टन स्मित ने कॉकपिट के अंदर हुई हिंसा का सच रखा, तो सुरक्षा व्यवस्था पर बड़े सवाल खड़े हो गए। पायलट की सूझबूझ ने कैसे जान बचाई, पूरी बात जानें इस वीडियो में।\n\nवीडियो को लाइक करें और दोस्तों के साथ शेयर जरूर करें।\n\n#CockpitAssault #PilotNews #AviationSafety #BreakingNewsHindi #IsraelPM"
+        "caption": "क्या टैक्स अधिकारियों की मनमानी अब रुकने वाली है? 🚨\n\nजीएसटी कानूनों में एक बहुत बड़ा बदलाव होने जा रहा है, जिससे सीधे तौर पर कारोबारियों को राहत मिलने की उम्मीद है। अधिकारियों के पास मौजूद गिरफ्तारी के कड़े अधिकारों पर अब लगाम लग सकती है।\n\nदेखिए वीडियो और जानिए क्या हैं ये नए बदलाव।\n\n#GSTupdate #GSTlaw #IndianBusiness #TaxNews #ModiGovernment"
       },
       "hashtags": [
-        "CockpitAssault",
-        "PilotNews",
-        "AviationSafety",
-        "BreakingNewsHindi",
-        "IsraelPM"
+        "GSTupdate",
+        "GSTlaw",
+        "IndianBusiness",
+        "TaxNews",
+        "ModiGovernment"
       ]
     },
-    "audio_path": "audio/flydubai_captain_smit_machchhar_israel_pm_details.wav",
-    "audio_duration_sec": 29.09,
-    "video_path": "videos/flydubai_captain_smit_machchhar_israel_pm_details.mp4",
-    "video_duration_sec": 37.02
+    "audio_path": "audio/gst_council_meeting_arrest_powers_relief.wav",
+    "audio_duration_sec": 17.32,
+    "video_path": "videos/gst_council_meeting_arrest_powers_relief.mp4",
+    "video_duration_sec": 25.29
   },
   {
-    "topic_label": "india_vedic_kavach_quantum_security_tech",
-    "virality_score": 7,
-    "reason": "Major technological milestone with India testing the breakthrough 'Vedic Kavach' quantum distribution tech.",
+    "topic_label": "silver_gold_price_sharp_fall_mcx",
+    "virality_score": 8,
+    "reason": "Major relief for consumers as silver and gold prices witness a massive continuous crash from all-time highs.",
     "region": "india",
-    "headline": "भारत की 'वैदिक कवच' तकनीक ने रचा इतिहास, हवा में बना अभेद्य सुरक्षा घेरा, क्वांटम कंप्यूटर भी होंगे फेल",
-    "source_summary": "<b>Free Space QDK Link:</b> भारत ने एक ऐसी तकनीक का सफल परीक्षण कर लिया है, जिससे देश की डिजिटल सुरक्षा अभेद्य हो जाएगी। दरअसल आने वाले क्वांटम कंप्यूटर्स के दौर में जब पासवर्ड और मौजूदा सुरक्षा सिस्टम फीके पड़ जाएंगे, तो यह QKD यानी कि फ्री-स्पेस क्वांटम की डिस्ट्रीब्यूशन तकनीक हमारे बैंकों, सेना और जरूरी डेटा को सुरक्षित रखने के काम आएगी।",
-    "source_url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/india-first-free-space-quantum-key-distribution-link-vedic-kavach-qkd-trial-success/articleshow/134672069.cms",
-    "source_name": "Navbharat Times",
-    "published": "Sun, 04 Oct 2026 15:57:00 +0530",
-    "hook": "क्या क्वांटम कंप्यूटर भी नहीं तोड़ पाएंगे भारत का यह नया सुरक्षा कवच?",
-    "script_hi": "भारत ने 'वैदिक कवच' यानी फ्री स्पेस क्वांटम की डिस्ट्रीब्यूशन तकनीक का सफल परीक्षण कर लिया है। आने वाले क्वांटम कंप्यूटर्स के दौर में जब मौजूदा पासवर्ड और सुरक्षा सिस्टम फीके पड़ जाएंगे, तब यह तकनीक हमारे बैंकों, सेना और जरूरी डेटा को पूरी तरह सुरक्षित रखेगी। इस स्वदेशी तकनीक से देश की डिजिटल सुरक्षा अब अभेद्य हो गई है।",
-    "tts_text_hi": "भारत ने वैदिक कवच यानी फ्री स्पेस क्वांटम की डिस्ट्रीब्यूशन तकनीक का सफल परीक्षण कर लिया है। आने वाले क्वांटम कंप्यूटर्स के दौर में जब मौजूदा पासवर्ड और सुरक्षा सिस्टम फीके पड़ जाएंगे, तब यह तकनीक हमारे बैंकों, सेना और जरूरी डेटा को पूरी तरह सुरक्षित रखेगी। इस स्वदेशी तकनीक से देश की डिजिटल सुरक्षा अब अभेद्य हो गई है।",
-    "title": "भारत का नया 'वैदिक कवच', क्वांटम कंप्यूटर भी होंगे फेल",
-    "caption": "भारत ने 'वैदिक कवच' (Free Space QKD) तकनीक का सफल परीक्षण किया है, जो आने वाले क्वांटम कंप्यूटर्स के दौर में देश के बैंकों, सेना और डिजिटल डेटा को पूरी तरह सुरक्षित रखेगी।",
+    "headline": "चांदी हाई से ₹1.94 लाख सस्ती, 5 दिन में 11000 टूटी, सोना धड़ाम",
+    "source_summary": "Silver Price More Crash From High: चांदी की कीमत अपने लाइफ टाइम हाई लेवल से लगातार गिरती जा रही है. बीते सप्ताह के पांच कारोबारी दिनों में वायादा कारोबार में आई गिरावट के बाद अब 1 Kg Silver Price इस लेवल से 1.94 लाख रुपये से ज्यादा कम हो गया है.",
+    "source_url": "https://www.aajtak.in/business/utility/photo/silver-price-more-crash-from-high-last-week-check-10-gram-24-karat-gold-rate-tutc-2660903-2026-10-04?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-04T11:00:21+05:30",
+    "hook": "चांदी के दाम में आई ऐतिहासिक धड़ाम, क्या आपने भी खरीदा?",
+    "script_hi": "चांदी की कीमतों में भारी गिरावट दर्ज की गई है। चांदी अपने जीवनकाल के सबसे ऊंचे स्तर से एक लाख चौरानवे हजार रुपये से ज्यादा सस्ती हो गई है। पिछले पांच कारोबारी दिनों में चांदी की कीमत में ग्यारह हजार रुपये की बड़ी टूट आई है, जिससे निवेशकों की चिंता बढ़ गई है।",
+    "tts_text_hi": "चांदी की कीमतों में भारी गिरावट दर्ज की गई है। चांदी अपने जीवनकाल के सबसे ऊंचे स्तर से एक लाख चौरानवे हजार रुपये से ज्यादा सस्ती हो गई है। पिछले पांच कारोबारी दिनों में चांदी की कीमत में ग्यारह हजार रुपये की बड़ी टूट आई है, जिससे निवेशकों की चिंता बढ़ गई है।",
+    "title": "चांदी हुई धड़ाम, रिकॉर्ड स्तर से एक लाख चौरानवे हजार रुपये सस्ती",
+    "caption": "चांदी की कीमतों में भारी गिरावट! अपने लाइफ टाइम हाई से चांदी हुई एक लाख चौरानवे हजार रुपये सस्ती। पांच दिन में ग्यारह हजार रुपये टूटे दाम।",
     "hashtags": [
-      "IndiaNews",
-      "QuantumTechnology",
-      "CyberSecurity",
-      "MakeInIndia",
-      "DefenseNews",
-      "TechNews",
-      "DigitalIndia"
+      "SilverPrice",
+      "GoldSilver",
+      "SilverCrash",
+      "BusinessNews",
+      "MarketUpdate",
+      "HindiNews"
     ],
     "visual_queries": [
-      "Indian quantum technology lab",
-      "advanced cyber security India",
-      "Indian military communication control"
+      "Indian silver bars market",
+      "stock market graph India down",
+      "Indian commodity market trading"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
-    "est_duration_sec": 26,
+    "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6266760/6266760-hd_720_1280_25fps.mp4",
+        "type": "image",
+        "url": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cyber security concept",
+        "query": "falling stock market India",
         "credit": "Tima Miroshnichenko",
-        "source_duration_sec": 9,
-        "duration_sec": 6
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35216547/pexels-photo-35216547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian quantum technology lab",
-        "credit": "Multitech Institute",
-        "duration_sec": 4.0
+        "query": "stock market graph India down",
+        "credit": "Vito Goričan",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/33349204/pexels-photo-33349204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/32851822/pexels-photo-32851822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "advanced cyber security India",
-        "credit": "Jakub Zerdzicki",
-        "duration_sec": 4.0
+        "query": "Indian commodity market trading",
+        "credit": "Dptc India",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35928389/pexels-photo-35928389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "Indian military communication control",
-        "credit": "Max Drew",
-        "duration_sec": 4.0
+        "query": "falling market chart",
+        "credit": "Tima Miroshnichenko",
+        "duration_sec": 4.3
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5473953/pexels-photo-5473953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/4246844/pexels-photo-4246844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "futuristic digital security",
+        "query": "bank notes currency india",
+        "credit": "Subhankar  kumar Mahato",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14907337/pexels-photo-14907337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "indian financial news",
+        "credit": "Ravi Roshan",
+        "duration_sec": 4.3
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/8453936/pexels-photo-8453936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "business people working",
         "credit": "cottonbro studio",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4497197/pexels-photo-4497197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "fiber optic cables server",
-        "credit": "Brett Sayles",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/34866774/pexels-photo-34866774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "modern technology abstract",
-        "credit": "Landiva  Weber",
-        "duration_sec": 4.0
+        "duration_sec": 4.3
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30.1,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "भारत का नया 'वैदिक कवच'! क्वांटम कंप्यूटर भी होंगे फेल 🛡️",
-        "caption": "क्या क्वांटम कंप्यूटर भी नहीं तोड़ पाएंगे भारत का यह नया सुरक्षा कवच? 🤯\n\nभारत की 'वैदिक कवच' तकनीक ने इतिहास रच दिया है। हवा में एक ऐसा अभेद्य सुरक्षा घेरा तैयार किया गया है जिसे भेदना नामुमकिन बताया जा रहा है। \n\nपूरी कहानी देखें और बताएं कि देश की सुरक्षा को लेकर आपकी क्या राय है?\n\n#VedicKavach #IndianDefense #QuantumComputing #MakeInIndia #DefenseTech"
+        "title": "चांदी में रिकॉर्ड धड़ाम: 5 दिन में 11,000 टूटे दाम, क्या अब खरीदना सही है? 📉",
+        "caption": "चांदी के दाम में आई ऐतिहासिक धड़ाम, क्या आपने भी खरीदा? 📉\n\nअपने ऑल-टाइम हाई से चांदी अब ₹1,94,000 सस्ती मिल रही है। सिर्फ पिछले 5 दिनों में ही कीमतों में 11,000 रुपये से ज्यादा की भारी गिरावट दर्ज की गई है, जबकि सोना भी धड़ाम हो गया है।\n\nपूरी कहानी देखें और समझें कि बाजार में अचानक यह बड़ा बदलाव क्यों आया है।\n\n#SilverPriceDrop #GoldRateToday #SilverRateFall #MarketUpdate #BusinessNews"
       },
       "instagram": {
         "title": null,
-        "caption": "क्या क्वांटम कंप्यूटर भी नहीं तोड़ पाएंगे भारत का यह नया सुरक्षा कवच? 🤯\n\nहवा में बना ऐसा अभेद्य सुरक्षा घेरा, जिससे हर दुश्मन की चाल नाकाम हो जाएगी। भारत की 'वैदिक कवच' तकनीक ने वाकई इतिहास रच दिया है। \n\nशेयर करें और अपनी राय दें!\n\n#VedicKavach #IndianDefense #QuantumComputing #MakeInIndia #DefenseTech"
+        "caption": "चांदी के दाम में आई ऐतिहासिक धड़ाम, क्या आपने भी खरीदा? 📉\n\nरिकॉर्ड स्तर से चांदी ₹1.94 लाख सस्ती हो चुकी है और सिर्फ 5 दिन में 11,000 रुपये टूट गए हैं। सोने के भाव भी नीचे आए हैं। \n\nक्या यह खरीदारी का सही मौका है या दाम और गिरेंगे? कमेंट में बताएं।\n\n#SilverPriceDrop #GoldRateToday #SilverRateFall #MarketUpdate #BusinessNews"
       },
       "facebook": {
         "title": null,
-        "caption": "क्या क्वांटम कंप्यूटर भी नहीं तोड़ पाएंगे भारत का यह नया सुरक्षा कवच? 🤯\n\nभारत की 'वैदिक कवच' तकनीक ने इतिहास रच दिया है। अब हवा में एक ऐसा अभेद्य सुरक्षा घेरा तैयार किया गया है जो देश की रक्षा प्रणाली को एक अलग ही स्तर पर ले जाएगा। \n\nपूरी खबर जानिए और वीडियो को अपने दोस्तों के साथ शेयर जरूर करें।\n\n#VedicKavach #IndianDefense #QuantumComputing #MakeInIndia #DefenseTech"
+        "caption": "चांदी के दाम में आई ऐतिहासिक धड़ाम, क्या आपने भी खरीदा? 📉\n\nसोने और चांदी के बाजार में पिछले कुछ दिनों से भारी उथल-पुथल मची हुई है। अपने रिकॉर्ड हाई से चांदी अब पूरे ₹1,94,000 सस्ती हो चुकी है, और सिर्फ 5 दिनों के भीतर दाम 11,000 रुपये तक नीचे आ गए हैं। \n\nसोना भी इस गिरावट से अछूता नहीं रहा है। क्या आम خریदार के लिए यह बाजार में उतरने का सही समय है या अभी और इंतजार करना चाहिए? पूरी खबर जानने के लिए वीडियो पूरा देखें।\n\n#SilverPriceDrop #GoldRateToday #SilverRateFall #MarketUpdate #BusinessNews"
       },
       "hashtags": [
-        "VedicKavach",
-        "IndianDefense",
-        "QuantumComputing",
-        "MakeInIndia",
-        "DefenseTech"
+        "SilverPriceDrop",
+        "GoldRateToday",
+        "SilverRateFall",
+        "MarketUpdate",
+        "BusinessNews"
       ]
     },
-    "audio_path": "audio/india_vedic_kavach_quantum_security_tech.wav",
-    "audio_duration_sec": 23.15,
-    "video_path": "videos/india_vedic_kavach_quantum_security_tech.mp4",
-    "video_duration_sec": 31.06
+    "audio_path": "audio/silver_gold_price_sharp_fall_mcx.wav",
+    "audio_duration_sec": 17.95,
+    "video_path": "videos/silver_gold_price_sharp_fall_mcx.mp4",
+    "video_duration_sec": 25.99
   },
   {
-    "topic_label": "bhadohi_renamed_sant_ravidas_nagar_yogi",
-    "virality_score": 7,
-    "reason": "Major political decision by CM Yogi Adityanath to rename Bhadohi district as Sant रविदास Nagar.",
+    "topic_label": "hardik_pandya_injured_again_australia_a",
+    "virality_score": 8,
+    "reason": "Star all-rounder Hardik Pandya suffers yet another injury setback ahead of the Australia A series.",
     "region": "india",
-    "headline": "&#039;भदोही अब कहलाएगा संत रविदास नगर&#039;, CM योगी बोले- जिले को मिलेगी नई पहचान",
-    "source_summary": "भदोही में CM योगी ने जिले का नाम संत रविदास नगर करने का ऐलान किया. इस दौरान उन्होंने 2017 से पहले के यूपी के हालात पर विपक्ष को घेरा. साथ ही प्रदेश में 50 लाख करोड़ रुपये के निवेश प्रस्ताव मिलने की बात कही.",
-    "source_url": "https://www.aajtak.in/elections/assembly-chunav/story/yogi-adityanath-bhadohi-sant-ravidas-nagar-announcement-utrat-ntc-dhrj-rpti-2661182-2026-10-04?utm_source=rssfeed",
+    "headline": "फिर चोटिल हुए पंड्या, धांसू ऑलराउंडर की हुई टीम में एंट्री!",
+    "source_summary": "हार्दिक पंड्या लंबे समय से टीम इंडिया से बाहर चल रहे हैं. इंडिया A के लिए खेलकर उन्हें अपनी फिटनेस साबित करनी थी. लेकिन ऑस्ट्रेलिया A के खिलाफ होने वाली अनौपचारिक वनडे सीरीज से ठीक पहले हार्दिक पंड्या एक बार फिर चोटिल हो गए हैं.",
+    "source_url": "https://www.aajtak.in/sports/cricket/story/india-a-squad-for-3-one-dayers-against-australia-a-suryansh-shedge-replaces-hardik-pandya-aksp-dskc-2661242-2026-10-04?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-04T16:54:22+05:30",
-    "hook": "भदोही का नाम बदलने का ऐलान!",
-    "script_hi": "भदोही अब संत रविदास नगर कहलाएगा। मुख्यमंत्री योगी आदित्यनाथ ने जिले को नई पहचान देने का ऐलान किया है। इस दौरान उन्होंने दो हजार सत्रह से पहले के उत्तर प्रदेश के हालात पर विपक्ष को घेरा और प्रदेश में पचास लाख करोड़ रुपये के निवेश प्रस्ताव मिलने की बात भी कही।",
-    "tts_text_hi": "भदोही अब संत रविदास नगर कहलाएगा। मुख्यमंत्री योगी आदित्यनाथ ने जिले को नई पहचान देने का ऐलान किया है। इस दौरान उन्होंने दो हजार सत्रह से पहले के उत्तर प्रदेश के हालात पर विपक्ष को घेरा और प्रदेश में पचास लाख करोड़ रुपये के निवेश प्रस्ताव मिलने की बात भी कही।",
-    "title": "भदोही का नाम बदलने का ऐलान",
-    "caption": "भदोही जिले का नाम बदलकर संत रविदास नगर करने का ऐलान किया गया है। सीएम योगी आदित्यनाथ ने एक कार्यक्रम के दौरान यह घोषणा की।",
+    "published": "2026-10-04T18:18:08+05:30",
+    "hook": "टीम इंडिया को लगा बड़ा झटका!",
+    "script_hi": "टीम इंडिया के स्टार ऑलराउंडर हार्दिक पंड्या एक बार फिर चोटिल हो गए हैं। ऑस्ट्रेलिया ए के खिलाफ सीरीज से पहले उनकी फिटनेस पर संकट गहरा गया है।",
+    "tts_text_hi": "टीम इंडिया के स्टार ऑलराउंडर हार्दिक पंड्या एक बार फिर चोटिल हो गए हैं। ऑस्ट्रेलिया ए के खिलाफ सीरीज से पहले उनकी फिटनेस पर संकट गहरा गया है.",
+    "title": "फिर चोटिल हुए हार्दिक पंड्या",
+    "caption": "टीम इंडिया के स्टार ऑलराउंडर हार्दिक पंड्या ऑस्ट्रेलिया ए के खिलाफ सीरीज से पहले एक बार फिर चोटिल हो गए हैं।",
+    "hashtags": [
+      "HardikPandya",
+      "TeamIndia",
+      "CricketNews",
+      "BCCI",
+      "CricketUpdates"
+    ],
+    "visual_queries": [
+      "Indian cricket player batting India",
+      "injured cricket player India",
+      "cricket stadium India"
+    ],
+    "named_person": "Hardik Pandya",
+    "named_person_hi": "हार्दिक पंड्या",
+    "secondary_persons": [],
+    "est_duration_sec": 25,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "हार्दिक पंड्या",
+        "source": "fallback",
+        "query": "Hardik Pandya",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/9559761/pexels-photo-9559761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian cricket player batting India",
+        "credit": "Steward Masweneng",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/15347613/pexels-photo-15347613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "injured cricket player India",
+        "credit": "Dhruv Khichi",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/36741131/pexels-photo-36741131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "cricket stadium India",
+        "credit": "Ajay Parab",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "टीम इंडिया को बड़ा झटका! फिर चोटिल हुए हार्दिक पंड्या 🚨",
+        "caption": "टीम इंडिया को लगा बड़ा झटका! हार्दिक पंड्या एक बार फिर चोटिल होकर मैदान से बाहर हो गए हैं।\n\nइस खतरनाक ऑलराउंडर के बाहर होने से टीम का कॉम्बिनेशन पूरी तरह हिल गया है, और अब उनकी जगह एक नए खिलाड़ी की अचानक एंट्री हुई है।\n\nपूरी कहानी देखें और बताएं, क्या ये नया खिलाड़ी उनकी कमी पूरी कर पाएगा?\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #BCCI"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "टीम इंडिया को लगा बड़ा झटका! 🚨 हार्दिक पंड्या फिर चोटिल, क्या वर्ल्ड कप से पहले टीम के लिए बढ़ गई हैं मुश्किलें? पूरी कहानी जानें और वीडियो शेयर करें।\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #BCCI"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "टीम इंडिया को लगा बड़ा झटका! 🚨\n\nस्टार ऑलराउंडर हार्दिक पंड्या एक बार फिर चोटिल हो गए हैं, जिससे टीम मैनेजमेंट की टेंशन काफी बढ़ गई है। उनकी जगह अब एक नए खिलाड़ी को स्क्वाड में शामिल किया गया है जो इस कमी को पूरा करने उतरेगा।\n\nपूरी खबर जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#HardikPandya #TeamIndia #CricketNews #IndianCricket #BCCI"
+      },
+      "hashtags": [
+        "HardikPandya",
+        "TeamIndia",
+        "CricketNews",
+        "IndianCricket",
+        "BCCI"
+      ]
+    },
+    "audio_path": "audio/hardik_pandya_injured_again_australia_a.wav",
+    "audio_duration_sec": 10.5,
+    "video_path": "videos/hardik_pandya_injured_again_australia_a.mp4",
+    "video_duration_sec": 18.54
+  },
+  {
+    "topic_label": "bhadohi_district_renamed_sant_ravidas_nagar",
+    "virality_score": 7,
+    "reason": "Yogi government officially announces renaming of Bhadohi district to Sant Ravidas Nagar.",
+    "region": "india",
+    "headline": "उत्तर प्रदेश: भदोही जिले का नाम बदला, अब कहलाएगा संत रविदास नगर भदोही",
+    "source_summary": "उत्तर प्रदेश के भदोही जिले का नाम अब संत रविदास नगर भदोही करने का ऐलान हुआ है. मुख्यमंत्री योगी आदित्यनाथ ने इसकी घोषणा की. नाम बदलने के फैसले के बाद जिले की नई पहचान होगी.",
+    "source_url": "https://www.tv9hindi.com/videos/bhadohi-district-in-uttar-pradesh-renamed-sant-ravidas-nagar-by-cm-yogi-adityanath-3925574.html",
+    "source_name": "TV9 Hindi",
+    "published": "Sun, 04 Oct 2026 20:11:30 +0530",
+    "hook": "उत्तर प्रदेश के भदोही जिले का नाम बदल दिया गया है!",
+    "script_hi": "उत्तर प्रदेश के भदोही जिले का नाम अब संत रविदास नगर भदोही कर दिया गया है। मुख्यमंत्री योगी आदित्यनाथ ने इसकी घोषणा की है। इस फैसले के बाद अब जिले की एक नई पहचान होगी।",
+    "tts_text_hi": "उत्तर प्रदेश के भदोही जिले का नाम अब संत रविदास नगर भदोही कर दिया गया है। मुख्यमंत्री योगी आदित्यनाथ ने इसकी घोषणा की है। इस फैसले के बाद अब जिले की एक नई पहचान होगी।",
+    "title": "भदोही जिले का बदला नाम",
+    "caption": "उत्तर प्रदेश के भदोही जिले का नाम बदलकर अब संत रविदास नगर भदोही कर दिया गया है। मुख्यमंत्री योगी आदित्यनाथ ने इसकी घोषणा की।",
     "hashtags": [
       "Bhadohi",
-      "YogiAdityanath",
       "UttarPradesh",
-      "NewsUpdate",
-      "UPNews"
+      "YogiAdityanath",
+      "News",
+      "India"
     ],
     "visual_queries": [
-      "Yogi Adityanath India press conference",
-      "Uttar Pradesh government secretariat India",
-      "Indian city street sign Bhadohi"
+      "Uttar Pradesh map India",
+      "Indian government building",
+      "Yogi Adityanath India"
     ],
     "named_person": "Yogi Adityanath",
     "named_person_hi": "योगी आदित्यनाथ",
@@ -538,298 +708,83 @@
         "duration_sec": 4.0
       },
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33892233/pexels-photo-33892233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/38773574/16474596_720_1280_60fps.mp4",
         "source": "pexels",
-        "query": "Yogi Adityanath India press conference",
-        "credit": "Aman Jain",
+        "query": "Indian government building",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 5,
         "duration_sec": 5
       },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18683073/pexels-photo-18683073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Uttar Pradesh government secretariat India",
-        "credit": "Prashant pacific",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16747094/pexels-photo-16747094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian city street sign Bhadohi",
-        "credit": "Stijn Dijkstra",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "भदोही का नाम बदलने का ऐलान! सीएम योगी बोले- मिलेगी नई पहचान 🚨",
-        "caption": "भदोही का नाम बदलने का ऐलान! सीएम योगी के इस फैसले से इलाके की राजनीति गरमा गई है। 🛑\n\nसीएम योगी आदित्यनाथ ने साफ कर दिया है कि अब भदोही को 'संत रविदास नगर' के नाम से जाना जाएगा। सरकार का दावा है कि इस बदलाव से जिले को एक नई सांस्कृतिक पहचान मिलेगी।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट करें।\n\n#BhadohiNews #YogiAdityanath #SantRavidasNagar #UPNews #Bhadohi"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "भदोही का नाम बदलने का ऐलान! 🚨 सीएम योगी के इस बड़े फैसले ने सबको चौंका दिया है। अब इस जिले को 'संत रविदास नगर' के नाम से जाना जाएगा। \n\nआखिर क्यों लिया गया यह फैसला? पूरी जानकारी के लिए वीडियो अंत तक देखें। \n\nआप इस बदलाव पर क्या सोचते हैं? नीचे कमेंट्स में बताएं। 👇\n\n#BhadohiNews #YogiAdityanath #SantRavidasNagar #UPNews #Bhadohi"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "भदोही का नाम बदलने का ऐलान! 🛑 सीएम योगी आदित्यनाथ ने एक बड़ा फैसला लेते हुए घोषणा की है कि अब भदोही जिले को 'संत रविदास नगर' के नाम से जाना जाएगा। \n\nसरकार का मानना है कि इस नाम परिवर्तन से क्षेत्र को एक नई और खास पहचान मिलेगी। स्थानीय स्तर पर इस फैसले के क्या मायने हैं और इसके पीछे क्या वजह है, यह जानने के लिए पूरा वीडियो देखें। \n\nआपको क्या लगता है, क्या नाम बदलना सही कदम है? हमें कमेंट करके जरूर बताएं।\n\n#BhadohiNews #YogiAdityanath #SantRavidasNagar #UPNews #Bhadohi"
-      },
-      "hashtags": [
-        "BhadohiNews",
-        "YogiAdityanath",
-        "SantRavidasNagar",
-        "UPNews",
-        "Bhadohi"
-      ]
-    },
-    "audio_path": "audio/bhadohi_renamed_sant_ravidas_nagar_yogi.wav",
-    "audio_duration_sec": 19.21,
-    "video_path": "videos/bhadohi_renamed_sant_ravidas_nagar_yogi.mp4",
-    "video_duration_sec": 27.19
-  },
-  {
-    "topic_label": "silver_gold_price_sharp_crash",
-    "virality_score": 7,
-    "reason": "Massive market update on the significant price drop of silver and gold impacting retail buyers.",
-    "region": "india",
-    "headline": "चांदी हाई से ₹1.94 लाख सस्ती, 5 दिन में 11000 टूटी, सोना धड़ाम",
-    "source_summary": "Silver Price More Crash From High: चांदी की कीमत अपने लाइफ टाइम हाई लेवल से लगातार गिरती जा रही है. बीते सप्ताह के पांच कारोबारी दिनों में वायादा कारोबार में आई गिरावट के बाद अब 1 Kg Silver Price इस लेवल से 1.94 लाख रुपये से ज्यादा कम हो गया है.",
-    "source_url": "https://www.aajtak.in/business/utility/photo/silver-price-more-crash-from-high-last-week-check-10-gram-24-karat-gold-rate-tutc-2660903-2026-10-04?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-04T11:00:21+05:30",
-    "hook": "चांदी खरीदने का मौका या बड़ा झटका?",
-    "script_hi": "चांदी की कीमतों में भारी गिरावट दर्ज की गई है! चांदी अपने ऑल टाइम हाई से एक लाख चौरानवे हजार रुपये से ज्यादा सस्ती हो गई है। पिछले पांच दिनों में ही वायदा कारोबार में चांदी की कीमत ग्यारह हजार रुपये तक टूट चुकी है, जिससे निवेशकों की चिंता बढ़ गई है।",
-    "tts_text_hi": "चांदी की कीमतों में भारी गिरावट दर्ज की गई है! चांदी अपने ऑल टाइम हाई से एक लाख चौरानवे हजार रुपये से ज्यादा सस्ती हो गई है। पिछले पांच दिनों में ही वायदा कारोबार में चांदी की कीमत ग्यारह हजार रुपये तक टूट चुकी है, जिससे निवेशकों की चिंता बढ़ गई है।",
-    "title": "चांदी में भारी गिरावट, एक लाख चौरानवे हजार रुपये सस्ती",
-    "caption": "चांदी की कीमतों में भारी गिरावट! अपने ऑल टाइम हाई से एक लाख चौरानवे हजार रुपये से ज्यादा सस्ती हुई चांदी। पांच दिनों में ग्यारह हजार रुपये की आई बड़ी गिरावट।",
-    "hashtags": [
-      "SilverPrice",
-      "SilverCrash",
-      "GoldSilverRate",
-      "MarketNews",
-      "BusinessNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "silver bullion bars India",
-      "indian stock market exchange",
-      "downward financial chart India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
       {
         "type": "video",
-        "url": "https://videos.pexels.com/video-files/15283163/15283163-hd_720_1280_30fps.mp4",
+        "url": "https://videos.pexels.com/video-files/34631477/14677301_720_1280_30fps.mp4",
         "source": "pexels",
-        "query": "silver bullion bars India",
-        "credit": "Pachon in Motion",
-        "source_duration_sec": 17,
+        "query": "Government office building India",
+        "credit": "Raaj Ugar",
+        "source_duration_sec": 15,
         "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/10628030/pexels-photo-10628030.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/35027627/pexels-photo-35027627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "indian stock market exchange",
-        "credit": "Vito Goričan",
-        "duration_sec": 4.0
+        "query": "Uttar Pradesh map India",
+        "credit": "Anshu Kumar",
+        "duration_sec": 3.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6203470/pexels-photo-6203470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/16747119/pexels-photo-16747119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "downward financial chart India",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.0
+        "query": "Uttar Pradesh cityscape India",
+        "credit": "Stijn Dijkstra",
+        "duration_sec": 3.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6203470/pexels-photo-6203470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/15470133/pexels-photo-15470133.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "falling market graph background",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.0
+        "query": "Indian politician speech stage",
+        "credit": "Voters Party International",
+        "duration_sec": 3.8
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/38043942/pexels-photo-38043942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "falling stock market chart",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5561917/pexels-photo-5561917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "stock market crisis chart",
-        "credit": "Leeloo The First",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/31301818/pexels-photo-31301818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "gold and silver jewelry store",
-        "credit": "Robert So",
-        "duration_sec": 4.0
+        "query": "North Indian street view",
+        "credit": "Roman Saienko",
+        "duration_sec": 3.8
       }
     ],
     "asset_count": 7,
-    "timeline_covered_sec": 30.0,
+    "timeline_covered_sec": 30.2,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "चांदी में ऐतिहासिक गिरावट! रिकॉर्ड हाई से 1.94 लाख रुपये तक टूटी कीमतें 📉",
-        "caption": "157 लोगों की मौत या चांदी खरीदने का मौका? चांदी रिकॉर्ड हाई से ₹1.94 लाख सस्ती हो गई है और सिर्फ 5 दिन में दाम ₹11,000 गिर चुके हैं। सोने में भी बड़ी गिरावट दर्ज की गई है।\n\nक्या अभी सोना-चांदी खरीदना सही रहेगा या कीमतें और गिरेंगी? पूरी कहानी देखें और अपनी राय कमेंट में बताएं।\n\n#silver price drop #gold rate today #chandi ka bhav #business news #market crash"
+        "title": "भदोही जिले का बदला गया नाम! जानिए अब क्या है नया नाम 🚨",
+        "caption": "उत्तर प्रदेश के एक और जिले का नाम बदल दिया गया है! 🛑\n\nभदोही जिले का नाम अब आधिकारिक तौर पर बदलकर संत रविदास नगर भदोही कर दिया गया है। सरकार के इस फैसले की चर्चा हर तरफ हो रही है।\n\nपूरी कहानी देखें और अपनी राय हमें कमेंट में बताएं।\n\n#BhadohiNews #UPNews #SantRavidasNagar #UttarPradesh #DistrictRenamed"
       },
       "instagram": {
         "title": null,
-        "caption": "चांदी खरीदने का मौका या बड़ा झटका? 📉\n\nरिकॉर्ड हाई से चांदी ₹1.94 लाख सस्ती हो गई है। सिर्फ 5 दिन के भीतर दाम ₹11,000 टूटे हैं और सोना भी धड़ाम हो गया है। \n\nक्या बाजार में और गिरेगी कीमत? वीडियो देखकर पूरी बात समझें और शेयर करें।\n\n#silver price drop #gold rate today #chandi ka bhav #business news #market crash"
+        "caption": "उत्तर प्रदेश के भदोही जिले का नाम बदल चुका है! 🛑 अब इसे किस नए नाम से जाना जाएगा? जानिए पूरी बात इस वीडियो में। \n\nशेयर करें ताकि दूसरों तक भी पहुंचे यह जानकारी।\n\n#BhadohiNews #UPNews #SantRavidasNagar #UttarPradesh #DistrictRenamed"
       },
       "facebook": {
         "title": null,
-        "caption": "चांदी खरीदने का मौका या बड़ा झटका? 📉\n\nपिछले कुछ दिनों से बाजार में हलचल मची हुई है। चांदी अपने रिकॉर्ड हाई से 1 लाख 94 हजार रुपये सस्ती हो चुकी है, और सिर्फ 5 दिनों के भीतर दाम 11,000 रुपये तक टूट चुके हैं। इसके साथ ही सोना भी धड़ाम हो गया है।\n\nक्या इस गिरावट के बाद अब आपको खरीदारी करनी चाहिए या अभी और इंतज़ार करना बेहतर होगा? वीडियो पूरा देखें और अपनी राय जरूर साझा करें।\n\n#silver price drop #gold rate today #chandi ka bhav #business news #market crash"
+        "caption": "उत्तर प्रदेश में एक और बड़े प्रशासनिक बदलाव के तहत भदोही जिले का नाम बदल दिया गया है। 🛑 अब यह जिला आधिकारिक तौर पर 'संत रविदास नगर भदोही' के नाम से जाना जाएगा। सरकार के इस फैसले के पीछे की वजह और पूरी डिटेल जानिए इस वीडियो में।\n\nपूरी कहानी देखें और कमेंट में बताएं कि आपको यह बदलाव कैसा लगा।\n\n#BhadohiNews #UPNews #SantRavidasNagar #UttarPradesh #DistrictRenamed"
       },
       "hashtags": [
-        "silver price drop",
-        "gold rate today",
-        "chandi ka bhav",
-        "business news",
-        "market crash"
+        "BhadohiNews",
+        "UPNews",
+        "SantRavidasNagar",
+        "UttarPradesh",
+        "DistrictRenamed"
       ]
     },
-    "audio_path": "audio/silver_gold_price_sharp_crash.wav",
-    "audio_duration_sec": 8.77,
-    "video_path": "videos/silver_gold_price_sharp_crash.mp4",
-    "video_duration_sec": 16.79
-  },
-  {
-    "topic_label": "tennessee_inmate_survives_lethal_injection_global",
-    "virality_score": 7,
-    "reason": "Chilling global story of a Tennessee inmate who survived two lethal injection execution attempts.",
-    "region": "global",
-    "headline": "Tennessee prison chief to resign after Christa Pike's failed execution",
-    "source_summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-    "source_url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-    "source_name": "BBC World",
-    "published": "Sat, 03 Oct 2026 17:48:42 GMT",
-    "hook": "अमेरिका के टेनेसी में कैदी की फांसी का नाटक! जेल प्रमुख ने दिया इस्तीफा।",
-    "script_hi": "अमेरिका के टेनेसी में कैदी क्रिस्ता पाइक को दी जाने वाली मौत की सजा असफल होने के बाद प्रिजन चीफ ने इस्तीफा दे दिया है। पाइक के वकीलों का कहना है कि यह लापरवाही किसी एक व्यक्ति से बहुत आगे की है। पाइक को दो बार घातक इंजेक्शन दिए जाने के बाद उनकी हालत गंभीर बनी हुई है।",
-    "tts_text_hi": "अमेरिका के टेनेसी में कैदी क्रिस्ता पाइक को दी जाने वाली मौत की सजा असफल होने के बाद प्रिजन चीफ ने इस्तीफा दे दिया है। पाइक के वकीलों का कहना है कि यह लापरवाही किसी एक व्यक्ति से बहुत आगे की है। पाइक को दो बार घातक इंजेक्शन दिए जाने के बाद उनकी हालत गंभीर बनी हुई है।",
-    "title": "टेनेसी जेल प्रमुख का इस्तीफा",
-    "caption": "अमेरिका के टेनेसी में क्रिस्ता पाइक की फांसी असफल होने के बाद प्रिजन चीफ ने इस्तीफा दे दिया है।",
-    "hashtags": [
-      "Tennessee",
-      "PrisonChief",
-      "WorldNews",
-      "USA",
-      "CrimeNews"
-    ],
-    "visual_queries": [
-      "prison building exterior",
-      "prison warden office",
-      "medical emergency hospital bed"
-    ],
-    "named_person": "Christa Pike",
-    "named_person_hi": "क्रिस्ता पाइक",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "क्रिस्ता पाइक",
-        "source": "fallback",
-        "query": "Christa Pike",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33978980/pexels-photo-33978980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "prison building exterior",
-        "credit": "Halil Cihat Darıcıoğlu",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical emergency hospital bed",
-        "credit": "Maxx Sas",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38115991/pexels-photo-38115991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "prison security gate",
-        "credit": "Cetin Kaya",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/11251655/pexels-photo-11251655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police headquarters building",
-        "credit": "Erik Mclean",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38322598/pexels-photo-38322598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "medical rescue stretcher",
-        "credit": "Juan Moccagatta",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36595246/pexels-photo-36595246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hospital emergency ward",
-        "credit": "Juan Moccagatta",
-        "duration_sec": 4.3
-      }
-    ],
-    "asset_count": 7,
-    "timeline_covered_sec": 29.8,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "कैदी की फांसी का नाटक! जेल प्रमुख को देना पड़ा इस्तीफा 🚨",
-        "caption": "अमेरिका के टेनेसी में कैदी की फांसी के दौरान ऐसा क्या हुआ कि जेल प्रमुख को अपनी कुर्सी गंवानी पड़ी? 😳\n\nकुख्यात कातिल क्रिस्टा पाइक की फांसी की सजा अचानक टलने के बाद मचा बवाल। जेल प्रशासन की बड़ी लापरवाही आई सामने।\n\nपूरी कहानी देखें और बताएं, क्या ये महज़ लापरवाही थी या कुछ और?\n\n#TennesseePrison #ChristaPike #USNews #PrisonScandal #WorldNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "अमेरिका के टेनेसी में कैदी की फांसी का नाटक! जेल प्रमुख को क्यों देना पड़ा इस्तीफा? 🚨\n\nक्रिस्टा पाइक की फांसी की प्रक्रिया में ऐसी क्या चूक हुई जिसने अधिकारियों के होश उड़ा दिए? जानिए पूरी इनसाइड स्टोरी।\n\nक्या लगता है, इसके पीछे किसकी साजिश थी? कमेंट में बताएं और वीडियो शेयर करें! 📲\n\n#TennesseePrison #ChristaPike #USNews #PrisonScandal #WorldNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "अमेरिका के टेनेसी जेल में कैदी की फांसी के दौरान हुआ कुछ ऐसा, जिसे देखकर हर कोई हैरान रह गया। 😳\n\nकुख्यात कैदी क्रिस्टा पाइक की फांसी ऐन वक्त पर क्यों टालनी पड़ी? इस पूरे हाई-प्रोफाइल ड्रामे के बाद अब जेल प्रमुख ने अपना इस्तीफा सौंप दिया है। आखिर पर्दे के पीछे क्या चल रहा था?\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें और अपनी राय हमारे साथ शेयर करें। 👇\n\n#TennesseePrison #ChristaPike #USNews #PrisonScandal #WorldNews"
-      },
-      "hashtags": [
-        "TennesseePrison",
-        "ChristaPike",
-        "USNews",
-        "PrisonScandal",
-        "WorldNews"
-      ]
-    },
-    "audio_path": "audio/tennessee_inmate_survives_lethal_injection_global.wav",
-    "audio_duration_sec": 20.57,
-    "video_path": "videos/tennessee_inmate_survives_lethal_injection_global.mp4",
-    "video_duration_sec": 28.59
+    "audio_path": "audio/bhadohi_district_renamed_sant_ravidas_nagar.wav",
+    "audio_duration_sec": 12.38,
+    "video_path": "videos/bhadohi_district_renamed_sant_ravidas_nagar.mp4",
+    "video_duration_sec": 20.42
   }
 ]

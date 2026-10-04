@@ -1,10 +1,10 @@
-ready_labels: ['bhadohi_renamed_sant_ravidas_nagar_yogi', 'flydubai_captain_smit_machchhar_israel_pm_details', 'india_vedic_kavach_quantum_security_tech', 'purvanchal_expressway_ambulance_accident_four_dead', 'silver_gold_price_sharp_crash', 'tennessee_inmate_survives_lethal_injection_global']
+ready_labels: ['bhadohi_district_renamed_sant_ravidas_nagar', 'gst_council_meeting_arrest_powers_relief', 'gujarat_cop_hangs_to_car_gold_robbery', 'hardik_pandya_injured_again_australia_a', 'purvanchal_expressway_ambulance_accident_soldier_family', 'silver_gold_price_sharp_fall_mcx']
 
-meerut_husband_car_bonnet_wife_dragging: SKIPPED (not in ready set)
-purvanchal_expressway_ambulance_accident_four_dead: SUCCESS -> video_path=videos/purvanchal_expressway_ambulance_accident_four_dead.mp4 dur=26.689887
-guna_hospital_sister_carries_disabled_brother: SKIPPED (not in ready set)
-flydubai_captain_smit_machchhar_israel_pm_details: SUCCESS -> video_path=videos/flydubai_captain_smit_machchhar_israel_pm_details.mp4 dur=37.02322
-india_vedic_kavach_quantum_security_tech: SUCCESS -> video_path=videos/india_vedic_kavach_quantum_security_tech.mp4 dur=31.056553
-bhadohi_renamed_sant_ravidas_nagar_yogi: SUCCESS -> video_path=videos/bhadohi_renamed_sant_ravidas_nagar_yogi.mp4 dur=27.189887
-silver_gold_price_sharp_crash: SUCCESS -> video_path=videos/silver_gold_price_sharp_crash.mp4 dur=16.789887
-tennessee_inmate_survives_lethal_injection_global: SUCCESS -> video_path=videos/tennessee_inmate_survives_lethal_injection_global.mp4 dur=28.589887
+flydubai_pilot_smit_machchhar_cockpit_attack_details: SKIPPED (not in ready set)
+meerut_wife_drags_on_car_bonnet_girlfriend: SKIPPED (not in ready set)
+gujarat_cop_hangs_to_car_gold_robbery: SUCCESS -> video_path=videos/gujarat_cop_hangs_to_car_gold_robbery.mp4 dur=33.449229
+purvanchal_expressway_ambulance_accident_soldier_family: SUCCESS -> video_path=videos/purvanchal_expressway_ambulance_accident_soldier_family.mp4 dur=24.82322
+gst_council_meeting_arrest_powers_relief: SUCCESS -> video_path=videos/gst_council_meeting_arrest_powers_relief.mp4 dur=25.289887
+silver_gold_price_sharp_fall_mcx: SUCCESS -> video_path=videos/silver_gold_price_sharp_fall_mcx.mp4 dur=25.989887
+hardik_pandya_injured_again_australia_a: SUCCESS -> video_path=videos/hardik_pandya_injured_again_australia_a.mp4 dur=18.541224
+bhadohi_district_renamed_sant_ravidas_nagar: SUCCESS -> video_path=videos/bhadohi_district_renamed_sant_ravidas_nagar.mp4 dur=20.422222
