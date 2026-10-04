@@ -1,9 +1,10 @@
-ready_labels: ['kia_surpassing_maruti_ev_sales', 'samastipur_son_murders_father_drishyam_style', 'silver_price_sharp_decline_mcx', 'sultanpur_purvanchal_expressway_ambulance_accident', 'tennessee_inmate_survives_lethal_injection']
+ready_labels: ['bhadohi_renamed_sant_ravidas_nagar_yogi', 'flydubai_captain_smit_machchhar_israel_pm_details', 'india_vedic_kavach_quantum_security_tech', 'purvanchal_expressway_ambulance_accident_four_dead', 'silver_gold_price_sharp_crash', 'tennessee_inmate_survives_lethal_injection_global']
 
-samastipur_son_murders_father_drishyam_style: SUCCESS -> video_path=videos/samastipur_son_murders_father_drishyam_style.mp4 dur=36.82322
-kirti_nagar_suv_hit_and_run_elderly: SKIPPED (not in ready set)
-kia_surpassing_maruti_ev_sales: SUCCESS -> video_path=videos/kia_surpassing_maruti_ev_sales.mp4 dur=31.82322
-sultanpur_purvanchal_expressway_ambulance_accident: SUCCESS -> video_path=videos/sultanpur_purvanchal_expressway_ambulance_accident.mp4 dur=20.52322
-tennessee_inmate_survives_lethal_injection: SUCCESS -> video_path=videos/tennessee_inmate_survives_lethal_injection.mp4 dur=30.058231
-silver_price_sharp_decline_mcx: SUCCESS -> video_path=videos/silver_price_sharp_decline_mcx.mp4 dur=28.056553
-kerala_vigilance_probe_cec_gyanesh_kumar: SKIPPED (not in ready set)
+meerut_husband_car_bonnet_wife_dragging: SKIPPED (not in ready set)
+purvanchal_expressway_ambulance_accident_four_dead: SUCCESS -> video_path=videos/purvanchal_expressway_ambulance_accident_four_dead.mp4 dur=26.689887
+guna_hospital_sister_carries_disabled_brother: SKIPPED (not in ready set)
+flydubai_captain_smit_machchhar_israel_pm_details: SUCCESS -> video_path=videos/flydubai_captain_smit_machchhar_israel_pm_details.mp4 dur=37.02322
+india_vedic_kavach_quantum_security_tech: SUCCESS -> video_path=videos/india_vedic_kavach_quantum_security_tech.mp4 dur=31.056553
+bhadohi_renamed_sant_ravidas_nagar_yogi: SUCCESS -> video_path=videos/bhadohi_renamed_sant_ravidas_nagar_yogi.mp4 dur=27.189887
+silver_gold_price_sharp_crash: SUCCESS -> video_path=videos/silver_gold_price_sharp_crash.mp4 dur=16.789887
+tennessee_inmate_survives_lethal_injection_global: SUCCESS -> video_path=videos/tennessee_inmate_survives_lethal_injection_global.mp4 dur=28.589887
