@@ -1,10 +1,9 @@
-ready_labels: ['amritsar_influencer_mad_sandhu_shot_dead', 'asian_games_2026_india_85_medals_gold_finish', 'asian_games_mens_hockey_gold_malaysia', 'delhi_kirti_nagar_suv_hit_and_run_elderly', 'drishyam_3_box_office_record_opening', 'india_west_indies_3rd_odi_shocking_defeat', 'netanyahu_video_call_captain_smit_machchhar_hero', 'noida_supernova_43rd_floor_suicide']
+ready_labels: ['kia_surpassing_maruti_ev_sales', 'samastipur_son_murders_father_drishyam_style', 'silver_price_sharp_decline_mcx', 'sultanpur_purvanchal_expressway_ambulance_accident', 'tennessee_inmate_survives_lethal_injection']
 
-asian_games_2026_india_85_medals_gold_finish: SUCCESS -> video_path=videos/asian_games_2026_india_85_medals_gold_finish.mp4 dur=27.829229
-drishyam_3_box_office_record_opening: SUCCESS -> video_path=videos/drishyam_3_box_office_record_opening.mp4 dur=36.258231
-asian_games_mens_hockey_gold_malaysia: SUCCESS -> video_path=videos/asian_games_mens_hockey_gold_malaysia.mp4 dur=28.156553
-netanyahu_video_call_captain_smit_machchhar_hero: SUCCESS -> video_path=videos/netanyahu_video_call_captain_smit_machchhar_hero.mp4 dur=23.719229
-amritsar_influencer_mad_sandhu_shot_dead: SUCCESS -> video_path=videos/amritsar_influencer_mad_sandhu_shot_dead.mp4 dur=32.789887
-delhi_kirti_nagar_suv_hit_and_run_elderly: SUCCESS -> video_path=videos/delhi_kirti_nagar_suv_hit_and_run_elderly.mp4 dur=29.756553
-noida_supernova_43rd_floor_suicide: SUCCESS -> video_path=videos/noida_supernova_43rd_floor_suicide.mp4 dur=23.156553
-india_west_indies_3rd_odi_shocking_defeat: SUCCESS -> video_path=videos/india_west_indies_3rd_odi_shocking_defeat.mp4 dur=23.975215
+samastipur_son_murders_father_drishyam_style: SUCCESS -> video_path=videos/samastipur_son_murders_father_drishyam_style.mp4 dur=36.82322
+kirti_nagar_suv_hit_and_run_elderly: SKIPPED (not in ready set)
+kia_surpassing_maruti_ev_sales: SUCCESS -> video_path=videos/kia_surpassing_maruti_ev_sales.mp4 dur=31.82322
+sultanpur_purvanchal_expressway_ambulance_accident: SUCCESS -> video_path=videos/sultanpur_purvanchal_expressway_ambulance_accident.mp4 dur=20.52322
+tennessee_inmate_survives_lethal_injection: SUCCESS -> video_path=videos/tennessee_inmate_survives_lethal_injection.mp4 dur=30.058231
+silver_price_sharp_decline_mcx: SUCCESS -> video_path=videos/silver_price_sharp_decline_mcx.mp4 dur=28.056553
+kerala_vigilance_probe_cec_gyanesh_kumar: SKIPPED (not in ready set)
