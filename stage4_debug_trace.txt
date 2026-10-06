@@ -1,8 +1,7 @@
-ready_labels: ['bhuvneshwar_kumar_team_india_return_nz_series', 'francis_halzen_wins_physics_nobel_prize', 'india_100_percent_indigenous_smartphone_2028', 'rahul_gandhi_india_block_cec_protest_detained', 'smriti_mandhana_appointed_india_womens_captain']
+ready_labels: ['black Sea_ship_sinks_drone_attack_global', 'delhi_ncr_uttarakhand_4_9_earthquake', 'drdo_high_altitude_platform_haps_successful_test', 'india_vs_west_indies_1st_t20i_shreyas_iyer_century']
 
-rahul_gandhi_india_block_cec_protest_detained: SUCCESS -> video_path=videos/rahul_gandhi_india_block_cec_protest_detained.mp4 dur=28.967211
-bhuvneshwar_kumar_team_india_return_nz_series: SUCCESS -> video_path=videos/bhuvneshwar_kumar_team_india_return_nz_series.mp4 dur=23.162222
-smriti_mandhana_appointed_india_womens_captain: SUCCESS -> video_path=videos/smriti_mandhana_appointed_india_womens_captain.mp4 dur=36.189887
-india_100_percent_indigenous_smartphone_2028: SUCCESS -> video_path=videos/india_100_percent_indigenous_smartphone_2028.mp4 dur=24.089887
-francis_halzen_wins_physics_nobel_prize: SUCCESS -> video_path=videos/francis_halzen_wins_physics_nobel_prize.mp4 dur=28.82322
-former_german_spy_chief_arrested_espionage: SKIPPED (not in ready set)
+india_vs_west_indies_1st_t20i_shreyas_iyer_century: SUCCESS -> video_path=videos/india_vs_west_indies_1st_t20i_shreyas_iyer_century.mp4 dur=37.889887
+delhi_ncr_uttarakhand_4_9_earthquake: SUCCESS -> video_path=videos/delhi_ncr_uttarakhand_4_9_earthquake.mp4 dur=26.556553
+youtuber_anurag_dobhal_arrested_dehradun_assault: SKIPPED (not in ready set)
+drdo_high_altitude_platform_haps_successful_test: SUCCESS -> video_path=videos/drdo_high_altitude_platform_haps_successful_test.mp4 dur=28.42322
+black Sea_ship_sinks_drone_attack_global: SUCCESS -> video_path=videos/black_Sea_ship_sinks_drone_attack_global.mp4 dur=26.274218
