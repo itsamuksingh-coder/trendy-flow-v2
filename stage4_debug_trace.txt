@@ -1,9 +1,7 @@
-ready_labels: ['balod_acid_attack_police_daughter', 'india_bloc_protest_cec_gyanesh_kumar', 'indore_software_developer_cyber_fraud_apk', 'nigeria_military_plane_crash_32_dead', 'zomato_founder_deepinder_goyal_temple_device']
+ready_labels: ['bengaluru_triple_murder_ai_search_history', 'deoghar_sbi_atm_stolen_gas_cutter', 'rahul_gandhi_priyanka_detained_cec_protest', 'us_parliament_honours_indian_pilot_smit_machchhar']
 
-india_bloc_protest_cec_gyanesh_kumar: SUCCESS -> video_path=videos/india_bloc_protest_cec_gyanesh_kumar.mp4 dur=22.489887
-bareilly_honor_killing_police_chita_shav: SKIPPED (not in ready set)
-indore_software_developer_cyber_fraud_apk: SUCCESS -> video_path=videos/indore_software_developer_cyber_fraud_apk.mp4 dur=31.196213
-zomato_founder_deepinder_goyal_temple_device: SUCCESS -> video_path=videos/zomato_founder_deepinder_goyal_temple_device.mp4 dur=25.322222
-balod_acid_attack_police_daughter: SUCCESS -> video_path=videos/balod_acid_attack_police_daughter.mp4 dur=35.422222
-katihar_lawyer_daylight_murder_cctv: SKIPPED (not in ready set)
-nigeria_military_plane_crash_32_dead: SUCCESS -> video_path=videos/nigeria_military_plane_crash_32_dead.mp4 dur=30.789887
+rahul_gandhi_priyanka_detained_cec_protest: SUCCESS -> video_path=videos/rahul_gandhi_priyanka_detained_cec_protest.mp4 dur=29.189887
+us_parliament_honours_indian_pilot_smit_machchhar: SUCCESS -> video_path=videos/us_parliament_honours_indian_pilot_smit_machchhar.mp4 dur=22.466213
+youtuber_anurag_dobhal_arrested_assault: SKIPPED (not in ready set)
+bengaluru_triple_murder_ai_search_history: SUCCESS -> video_path=videos/bengaluru_triple_murder_ai_search_history.mp4 dur=26.656553
+deoghar_sbi_atm_stolen_gas_cutter: SUCCESS -> video_path=videos/deoghar_sbi_atm_stolen_gas_cutter.mp4 dur=26.784218
