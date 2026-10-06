@@ -1,10 +1,9 @@
-ready_labels: ['akash_anand_bsp_return_national_coordinator', 'flydubai_copilot_crash_conspiracy_indian_pilot', 'kuno_national_park_5_cheetah_cubs_born', 'oppo_f35_series_8000mah_battery_launch', 'tukaram_munde_nyt_rockstar_fda']
+ready_labels: ['balod_acid_attack_police_daughter', 'india_bloc_protest_cec_gyanesh_kumar', 'indore_software_developer_cyber_fraud_apk', 'nigeria_military_plane_crash_32_dead', 'zomato_founder_deepinder_goyal_temple_device']
 
-kuno_national_park_5_cheetah_cubs_born: SUCCESS -> video_path=videos/kuno_national_park_5_cheetah_cubs_born.mp4 dur=30.894218
-flydubai_copilot_crash_conspiracy_indian_pilot: SUCCESS -> video_path=videos/flydubai_copilot_crash_conspiracy_indian_pilot.mp4 dur=28.50322
-akash_anand_bsp_return_national_coordinator: SUCCESS -> video_path=videos/akash_anand_bsp_return_national_coordinator.mp4 dur=25.289887
-india_u17_women_crush_iraq_14_0: SKIPPED (not in ready set)
-tukaram_munde_nyt_rockstar_fda: SUCCESS -> video_path=videos/tukaram_munde_nyt_rockstar_fda.mp4 dur=25.956553
-kuno_national_park_five_cheetah_cubs: SKIPPED (not in ready set)
-rajpal_yadav_supreme_court_jail_warning: SKIPPED (not in ready set)
-oppo_f35_series_8000mah_battery_launch: SUCCESS -> video_path=videos/oppo_f35_series_8000mah_battery_launch.mp4 dur=35.956213
+india_bloc_protest_cec_gyanesh_kumar: SUCCESS -> video_path=videos/india_bloc_protest_cec_gyanesh_kumar.mp4 dur=22.489887
+bareilly_honor_killing_police_chita_shav: SKIPPED (not in ready set)
+indore_software_developer_cyber_fraud_apk: SUCCESS -> video_path=videos/indore_software_developer_cyber_fraud_apk.mp4 dur=31.196213
+zomato_founder_deepinder_goyal_temple_device: SUCCESS -> video_path=videos/zomato_founder_deepinder_goyal_temple_device.mp4 dur=25.322222
+balod_acid_attack_police_daughter: SUCCESS -> video_path=videos/balod_acid_attack_police_daughter.mp4 dur=35.422222
+katihar_lawyer_daylight_murder_cctv: SKIPPED (not in ready set)
+nigeria_military_plane_crash_32_dead: SUCCESS -> video_path=videos/nigeria_military_plane_crash_32_dead.mp4 dur=30.789887
