@@ -1,146 +1,133 @@
 [
   {
-    "topic_label": "india_bloc_protest_cec_gyanesh_kumar",
+    "topic_label": "rahul_gandhi_priyanka_detained_cec_protest",
     "virality_score": 9,
-    "reason": "Massive political showdown with opposition leaders on the streets and heavy police deployment.",
+    "reason": "High-profile political drama with Rahul and Priyanka Gandhi being detained during the EC protest.",
     "region": "india",
-    "headline": "LIVE: बैरिकेड पर चढ़े सपा नेता, धरने पर बैठे राहुल-प्रियंका-अखिलेश! EC दफ्तर के पास RAF तैनात",
-    "source_summary": "INDIA ब्लॉक के 140 से अधिक सांसदों ने चुनाव आयोग और SIR के खिलाफ संसद भवन से निर्वाचन सदन तक विरोध मार्च शुरू कर दिया है. दिल्ली पुलिस ने सुरक्षा कड़ी कर दी है और 3000 से अधिक पुलिसकर्मी तैनात किए गए हैं.",
+    "headline": "LIVE: राहुल-प्रियंका हिरासत में लिए गए, आकाशवाणी भवन के बाहर जोरदार हंगामा",
+    "source_summary": "INDIA ब्लॉक के 140 से ज्यादा सांसद चुनाव आयोग और SIR के खिलाफ आकाशवाणी भवन के बाहर धरने पर बैठे थे. दिल्ली पुलिस ने अब एक-एक करके वहां से नेताओं को हटा दिया है. इसी कड़ी में पुलिस ने राहुल गांधी, प्रियंका गांधी समेत कई नेताओं को हिरासत में ले लिया है.",
     "source_url": "https://www.aajtak.in/india/delhi/story/india-bloc-protest-march-live-updates-cec-gyanesh-kumar-election-commission-sir-row-ntc-acwi-dskc-2662331-2026-10-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
     "published": "2026-10-06T07:20:13+05:30",
-    "hook": "संसद से चुनाव आयोग तक इंडिया गठबंधन का महामार्च!",
-    "script_hi": "संसद भवन से निर्वाचन सदन तक इंडिया गठबंधन के एक सौ चालीस से अधिक सांसदों ने विरोध मार्च निकाला है। दिल्ली में सुरक्षा के कड़े इंतजाम किए गए हैं और तीन हजार से अधिक पुलिसकर्मी तैनात किए गए हैं।",
-    "tts_text_hi": "संसद भवन से निर्वाचन सदन तक इंडिया गठबंधन के एक सौ चालीस से अधिक सांसदों ने विरोध मार्च निकाला है। दिल्ली में सुरक्षा के कड़े इंतजाम किए गए हैं और तीन हजार से अधिक पुलिसकर्मी तैनात किए गए हैं.",
-    "title": "संसद से चुनाव आयोग तक इंडिया गठबंधन का महामार्च",
-    "caption": "संसद भवन से निर्वाचन सदन तक इंडिया गठबंधन के सांसदों ने निकाला विरोध मार्च, दिल्ली में भारी पुलिस बल तैनात।",
+    "hook": "राहुल और प्रियंका गांधी दिल्ली में हिरासत में!",
+    "script_hi": "दिल्ली में आकाशवाणी भवन के बाहर भारी हंगामा हुआ है। चुनाव आयोग और एसआईआर के खिलाफ प्रदर्शन कर रहे इंडिया ब्लॉक के चौदह सौ से ज्यादा सांसदों को पुलिस ने हटा दिया है। इसी कार्रवाई के दौरान राहुल गांधी और प्रियंका गांधी वाड्रा समेत कई बड़े नेताओं को हिरासत में ले लिया गया है। सभी सांसद धरने पर बैठे थे।",
+    "tts_text_hi": "दिल्ली में आकाशवाणी भवन के बाहर भारी हंगामा हुआ है। चुनाव आयोग और एसआईआर के खिलाफ प्रदर्शन कर रहे इंडिया ब्लॉक के चौदह सौ से ज्यादा सांसदों को पुलिस ने हटा दिया है। इसी कार्रवाई के दौरान राहुल गांधी और प्रियंका गांधी वाड्रा समेत कई बड़े नेताओं को हिरासत में ले लिया गया है। सभी सांसद धरने पर बैठे थे।",
+    "title": "राहुल और प्रियंका गांधी हिरासत में लिए गए",
+    "caption": "दिल्ली में आकाशवाणी भवन के बाहर प्रदर्शन के दौरान राहुल गांधी और प्रियंका गांधी को पुलिस ने हिरासत में लिया।",
     "hashtags": [
-      "IndiaAlliance",
-      "ElectionCommission",
+      "RahulGandhi",
+      "PriyankaGandhi",
       "DelhiNews",
-      "ParliamentMarch",
+      "IndiaAlliance",
       "BreakingNews",
-      "IndiaNews"
+      "ElectionCommission",
+      "NewsShorts"
     ],
     "visual_queries": [
-      "parliament building India",
-      "Indian politicians protest",
-      "Delhi police security India"
+      "Delhi protest crowd India",
+      "police barricade India street",
+      "Indian politicians protest"
     ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
+    "named_person": "Rahul Gandhi",
+    "named_person_hi": "राहुल गांधी",
+    "secondary_persons": [
+      "Priyanka Gandhi Vadra"
+    ],
     "est_duration_sec": 28,
     "flag_for_manual_review": false,
     "flag_reason": null,
     "assets": [
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade protest India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 4.3
+        "url": "downloaded_assets/person_89187252c2.png",
+        "source": "wikimedia",
+        "query": "Rahul Gandhi",
+        "credit": "Wikipedia",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/39087853/pexels-photo-39087853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian politicians protest",
-        "credit": "Satyam Pixels",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37956315/pexels-photo-37956315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Delhi police security India",
-        "credit": "Frank van Dijk",
-        "duration_sec": 4.3
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/5877195/pexels-photo-5877195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police barricade street India",
-        "credit": "Sonika Agarwal",
-        "duration_sec": 4.3
+        "url": "downloaded_assets/person_97dafe2351.jpg",
+        "source": "wikimedia",
+        "query": "Priyanka Gandhi Vadra",
+        "credit": "Wikipedia",
+        "duration_sec": 5
       },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/11646794/pexels-photo-11646794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "political protest New Delhi",
+        "query": "Delhi protest crowd India",
         "credit": "Rahul Sapra",
-        "duration_sec": 4.3
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/11033448/pexels-photo-11033448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "security forces on street",
-        "credit": "Nishant Sharma",
-        "duration_sec": 4.3
+        "url": "downloaded_assets/commons_82b46e29c8.jpg",
+        "source": "wikimedia_commons",
+        "query": "police barricade India street",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/6172614/pexels-photo-6172614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "politicians addressing press",
-        "credit": "RDNE Stock project",
-        "duration_sec": 4.3
+        "url": "downloaded_assets/commons_213e7e745a.jpg",
+        "source": "wikimedia_commons",
+        "query": "Indian politicians protest",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
       }
     ],
-    "asset_count": 7,
-    "timeline_covered_sec": 30.1,
+    "asset_count": 5,
+    "timeline_covered_sec": 25,
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "EC दफ्तर के पास महामार्च! राहुल-प्रियंका और अखिलेश सड़क पर उतरे 🚨",
-        "caption": "संसद से चुनाव आयोग तक इंडिया गठबंधन का महामार्च! 🚨\n\nबैरिकेड पर चढ़े सपा नेता और धरने पर बैठे बड़े दिग्गज। मौके की नजाकत को देखते हुए EC दफ्तर के बाहर भारी फोर्स तैनात कर दी गई है।\n\nपूरी कहानी वीडियो में देखें और अपनी राय कमेंट में बताएं।\n\n#IndiaAlliance #RahulGandhi #AkhileshYadav #ElectionCommission #DelhiNews"
+        "title": "राहुल और प्रियंका गांधी हिरासत में! आकाशवाणी भवन के बाहर हंगामा 🚨",
+        "caption": "दिल्ली में राहुल और प्रियंका गांधी को पुलिस ने लिया हिरासत में! आकाशवाणी भवन के बाहर अचानक ऐसा क्या हुआ कि भारी हंगामा खड़ा हो गया।\n\nमौके पर भारी पुलिस बल तैनात है और सियासी सरगर्मी अपने चरम पर है।\n\nपूरा मामला जानने के लिए वीडियो पूरा देखें और अपनी राय कमेंट में बताएं।\n\n#RahulGandhi #PriyankaGandhi #DelhiNews #Congress #BreakingNews"
       },
       "instagram": {
         "title": null,
-        "caption": "संसद से चुनाव आयोग तक इंडिया गठबंधन का महामार्च! 🚨\n\nबैरिकेड्स पर चढ़े सपा नेता और धरने पर बैठे राहुल-प्रियंका और अखिलेश। सुरक्षा इतनी कड़ी कि RAF तक तैनात करनी पड़ी।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#IndiaAlliance #RahulGandhi #AkhileshYadav #ElectionCommission #DelhiNews"
+        "caption": "दिल्ली में राहुल और प्रियंका गांधी हिरासत में! 🚨 आकाशवाणी भवन के बाहर अचानक ऐसा क्या हुआ कि मच गया बवाल।\n\nमौके की हर बड़ी अपडेट के लिए वीडियो अंत तक देखें। क्या कहना है आपका इस पर? 👇\n\n#RahulGandhi #PriyankaGandhi #DelhiNews #Congress #BreakingNews"
       },
       "facebook": {
         "title": null,
-        "caption": "संसद से लेकर चुनाव आयोग के दफ्तर तक आज सियासी पारा सातवें आसमान पर है। इंडिया गठबंधन के इस महामार्च में राहुल गांधी, प्रियंका गांधी और अखिलेश यादव सड़क पर उतर आए और धरने पर बैठ गए।\n\nहालात इतने तनावपूर्ण हो गए कि बैरिकेड्स पर कार्यकर्ता चढ़ गए और EC दफ्तर के बाहर भारी तादाद में RAF तैनात करनी पड़ी।\n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#IndiaAlliance #RahulGandhi #AkhileshYadav #ElectionCommission #DelhiNews"
+        "caption": "दिल्ली में अचानक बड़ा सियासी घटनाक्रम सामने आया है। आकाशवाणी भवन के बाहर प्रदर्शन के दौरान राहुल गांधी और प्रियंका गांधी को पुलिस ने हिरासत में ले लिया है, जिसके बाद वहां जोरदार हंगामा देखने को मिला।\n\nमौके पर तनाव और गहमागहमी का माहौल बना हुआ है। पूरी खबर जानने के लिए वीडियो देखें और शेयर करें।\n\n#RahulGandhi #PriyankaGandhi #DelhiNews #Congress #BreakingNews"
       },
       "hashtags": [
-        "IndiaAlliance",
         "RahulGandhi",
-        "AkhileshYadav",
-        "ElectionCommission",
-        "DelhiNews"
+        "PriyankaGandhi",
+        "DelhiNews",
+        "Congress",
+        "BreakingNews"
       ]
     },
-    "audio_path": "audio/india_bloc_protest_cec_gyanesh_kumar.wav",
-    "audio_duration_sec": 14.68,
-    "video_path": "videos/india_bloc_protest_cec_gyanesh_kumar.mp4",
-    "video_duration_sec": 22.49,
+    "audio_path": "audio/rahul_gandhi_priyanka_detained_cec_protest.wav",
+    "audio_duration_sec": 21.26,
+    "video_path": "videos/rahul_gandhi_priyanka_detained_cec_protest.mp4",
+    "video_duration_sec": 29.19,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-06T06:35:48.171917+00:00"
+        "attempted_at": "2026-10-06T15:27:14.998234+00:00"
       },
       "facebook": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6ac496e37c9d470197a56323",
+            "_id": "6ac513670452d40788c906d0",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "संसद से लेकर चुनाव आयोग के दफ्तर तक आज सियासी पारा सातवें आसमान पर है। इंडिया गठबंधन के इस महामार्च में राहुल गांधी, प्रियंका गांधी और अखिलेश यादव सड़क पर उतर आए और धरने पर बैठ गए।\n\nहालात इतने तनावपूर्ण हो गए कि बैरिकेड्स पर कार्यकर्ता चढ़ गए और EC दफ्तर के बाहर भारी तादाद में RAF तैनात करनी पड़ी।\n\nपूरी खबर के लिए वीडियो अंत तक देखें।\n\n#IndiaAlliance #RahulGandhi #AkhileshYadav #ElectionCommission #DelhiNews",
+            "content": "दिल्ली में अचानक बड़ा सियासी घटनाक्रम सामने आया है। आकाशवाणी भवन के बाहर प्रदर्शन के दौरान राहुल गांधी और प्रियंका गांधी को पुलिस ने हिरासत में ले लिया है, जिसके बाद वहां जोरदार हंगामा देखने को मिला।\n\nमौके पर तनाव और गहमागहमी का माहौल बना हुआ है। पूरी खबर जानने के लिए वीडियो देखें और शेयर करें।\n\n#RahulGandhi #PriyankaGandhi #DelhiNews #Congress #BreakingNews",
             "mediaItems": [
               {
-                "_id": "6ac496e37c9d470197a56325",
-                "url": "https://media.zernio.com/media/1791268576690_vq9ud2oi_india_bloc_protest_cec_gyanesh_kumar.mp4",
+                "_id": "6ac513670452d40788c906d2",
+                "url": "https://media.zernio.com/media/1791300453143_ehbjg6i9_rahul_gandhi_priyanka_detained_cec_protest.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-06T06:36:18.109Z",
+            "scheduledFor": "2026-10-06T15:27:34.491Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -151,7 +138,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-06T06:36:19.598Z",
+            "publishingClaimedAt": "2026-10-06T15:27:35.647Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -160,11 +147,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-06T06:36:19.561Z",
-            "updatedAt": "2026-10-06T06:36:26.169Z",
+            "createdAt": "2026-10-06T15:27:35.581Z",
+            "updatedAt": "2026-10-06T15:27:41.389Z",
             "platforms": [
               {
-                "_id": "6ac496e37c9d470197a56322",
+                "_id": "6ac513670452d40788c906cf",
                 "platform": "facebook",
                 "accountId": {
                   "_id": "6a8efc6777555aae01af802c",
@@ -177,36 +164,36 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-06T06:36:18.109Z",
+                "scheduledFor": "2026-10-06T15:27:34.491Z",
                 "status": "published",
-                "publishedAt": "2026-10-06T06:36:26.103Z",
-                "platformPostId": "1776683830301916",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1776683830301916",
+                "publishedAt": "2026-10-06T15:27:41.313Z",
+                "platformPostId": "28521653374128102",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=28521653374128102",
                 "publishAttempts": 1,
-                "contentHash": "bb42d08e4515f0b36729ccc299154c26"
+                "contentHash": "c6acae495b0acfa90550c067a152e67b"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-06T06:36:26.308386+00:00"
+        "attempted_at": "2026-10-06T15:27:41.494505+00:00"
       },
       "instagram": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6ac497047c9d470197a57dd1",
+            "_id": "6ac513860452d40788c906e9",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "संसद से चुनाव आयोग तक इंडिया गठबंधन का महामार्च! 🚨\n\nबैरिकेड्स पर चढ़े सपा नेता और धरने पर बैठे राहुल-प्रियंका और अखिलेश। सुरक्षा इतनी कड़ी कि RAF तक तैनात करनी पड़ी।\n\nवीडियो पूरा देखें और शेयर करें।\n\n#IndiaAlliance #RahulGandhi #AkhileshYadav #ElectionCommission #DelhiNews",
+            "content": "दिल्ली में राहुल और प्रियंका गांधी हिरासत में! 🚨 आकाशवाणी भवन के बाहर अचानक ऐसा क्या हुआ कि मच गया बवाल।\n\nमौके की हर बड़ी अपडेट के लिए वीडियो अंत तक देखें। क्या कहना है आपका इस पर? 👇\n\n#RahulGandhi #PriyankaGandhi #DelhiNews #Congress #BreakingNews",
             "mediaItems": [
               {
-                "_id": "6ac497047c9d470197a57dd5",
-                "url": "https://media.zernio.com/media/1791268609484_bolkl8hh_india_bloc_protest_cec_gyanesh_kumar.mp4",
+                "_id": "6ac513870452d40788c906eb",
+                "url": "https://media.zernio.com/media/1791300484621_ki0ga18i_rahul_gandhi_priyanka_detained_cec_protest.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-06T06:36:50.597Z",
+            "scheduledFor": "2026-10-06T15:28:05.848Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -217,7 +204,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-06T06:36:52.186Z",
+            "publishingClaimedAt": "2026-10-06T15:28:07.032Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -226,11 +213,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-06T06:36:52.090Z",
-            "updatedAt": "2026-10-06T06:36:54.403Z",
+            "createdAt": "2026-10-06T15:28:07.000Z",
+            "updatedAt": "2026-10-06T15:28:08.893Z",
             "platforms": [
               {
-                "_id": "6ac497047c9d470197a57dd0",
+                "_id": "6ac513860452d40788c906e8",
                 "platform": "instagram",
                 "accountId": {
                   "_id": "6a8f021a77555aae01b1179f",
@@ -243,53 +230,300 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-06T06:36:50.597Z",
+                "scheduledFor": "2026-10-06T15:28:05.848Z",
                 "status": "processing",
                 "publishAttempts": 1,
-                "contentHash": "bb5994f6486d52c5a082a060cff103c9"
+                "contentHash": "1cb59a4b6696ba371ea1b8a9f22441c6"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-06T06:36:54.539079+00:00"
+        "attempted_at": "2026-10-06T15:28:09.280884+00:00"
       }
     }
   },
   {
-    "topic_label": "bareilly_honor_killing_police_chita_shav",
-    "virality_score": 9,
-    "reason": "Chilling honor killing case where police rushed to cremation ground and pulled the body out from the pyre.",
+    "topic_label": "us_parliament_honours_indian_pilot_smit_machchhar",
+    "virality_score": 8,
+    "reason": "Proud moment for India as US parliament honors Indian pilot Captain Smit Machchhar.",
     "region": "india",
-    "headline": "लड़की की ऑनर किलिंग की मिली खबर, श्मशान जाकर पुलिस ने चिता से उतारा शव; 4 महीने बाद होनी थी लव मैरिज",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/10/news-99.jpeg\" class=\"attachment-large size-large wp-post-image\" alt=\"लड़की की ऑनर किलिंग की मिली खबर, श्मशान जाकर पुलिस ने चिता से उतारा शव; 4 महीने बाद होनी थी लव मैरिज\" /></figure>बरेली में सुधा की मौत के मामले में पुलिस अब उसके परिवार और निजी जीवन से जुड़े पहलुओं की पड़ताल कर रही है. पुलिस सुधा के मोबाइल की कॉल डिटेल और चैट खंगालने की तैयारी में है.",
-    "source_url": "https://www.tv9hindi.com/state/uttar-pradesh/bareilly-sudha-death-honor-killing-suspicion-love-marriage-postmortem-3926911.html",
-    "source_name": "TV9 Hindi",
-    "published": "Tue, 06 Oct 2026 11:25:19 +0530",
-    "hook": "श्मशान से पुलिस ने उतारी जलती हुई चिता से लाश!",
-    "script_hi": "बरेली में ऑनर किलिंग के शक में पुलिस ने श्मशान जाकर चिता से युवती सुधा का शव बाहर निकाला। चार महीने बाद सुधा की लव मैरिज होनी थी। अब पुलिस सुधा के मोबाइल की कॉल डिटेल और चैट की जांच कर रही है।",
-    "tts_text_hi": "बरेली में ऑनर किलिंग के शक में पुलिस ने श्मशान जाकर चिता से युवती सुधा का शव बाहर निकाला। चार महीने बाद सुधा की लव मैरिज होनी थी। अब पुलिस सुधा के मोबाइल की कॉल डिटेल और चैट की जांच कर रही है।",
-    "title": "Bareilly Honor Killing: श्मशान से निकाली चिता",
-    "caption": "बरेली में ऑनर किलिंग के शक में पुलिस ने श्मशान जाकर चिता से युवती सुधा का शव बाहर निकाला। चार महीने बाद होनी थी लव मैरिज।",
+    "headline": "US संसद में गूंजा भारतीय पायलट का नाम, स्मित मछार को मिला खास सम्मान",
+    "source_summary": "अमेरिकी संसद में कैप्टन स्मित मछार के सम्मान में एक प्रस्ताव पेश किया गया है. इसमें आतंकी हमले को नाकाम करने के दौरान उनकी भूमिका का जिक्र किया गया है.",
+    "source_url": "https://www.aajtak.in/world/story/us-congress-resolution-honors-captain-smit-machchar-ntc-dhrj-rpti-2663193-2026-10-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-06T19:57:14+05:30",
+    "hook": "अमेविकी संसद में गूंजा एक भारतीय पायलट का नाम!",
+    "script_hi": "अमेरिकी संसद में कैप्टन स्मित मछार के सम्मान में एक विशेष प्रस्ताव पेश किया गया है। यह सम्मान उन्हें एक आतंकी हमले को बहादुरी से नाकाम करने के दौरान निभाई गई उनकी महत्वपूर्ण भूमिका के लिए मिला है।",
+    "tts_text_hi": "अमेरिकी संसद में कैप्टन स्मित मछार के सम्मान में एक विशेष प्रस्ताव पेश किया गया है। यह सम्मान उन्हें एक आतंकी हमले को बहादुरी से नाकाम करने के दौरान निभाई गई उनकी महत्वपूर्ण भूमिका के लिए मिला है।",
+    "title": "US संसद में गूंजा भारतीय पायलट का नाम",
+    "caption": "अमेरिकी संसद में भारतीय पायलट कैप्टन स्मित मछार को मिला खास सम्मान, आतंकी हमले को नाकाम करने में निभाई थी अहम भूमिका।",
     "hashtags": [
-      "BareillyNews",
-      "HonorKilling",
-      "UPPolice",
-      "CrimeNews",
+      "IndianPilot",
+      "USCongress",
+      "SmitMachhar",
+      "ProudIndian",
+      "NewsUpdate"
+    ],
+    "visual_queries": [
+      "United States Capitol building",
+      "commercial airline pilot cockpit",
+      "Indian flag celebration"
+    ],
+    "named_person": "Smit Machhar",
+    "named_person_hi": "स्मित मछार",
+    "secondary_persons": [],
+    "est_duration_sec": 26,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "text_card",
+        "text": "स्मित मछार",
+        "source": "fallback",
+        "query": "Smit Machhar",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "image",
+        "url": "downloaded_assets/commons_aace1ad897.jpg",
+        "source": "wikimedia_commons",
+        "query": "United States Capitol building",
+        "credit": "Wikimedia Commons",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10180160/pexels-photo-10180160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "commercial airline pilot cockpit",
+        "credit": "Nikita  Grishin",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/39071062/pexels-photo-39071062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Indian flag celebration",
+        "credit": "Manoo Media",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 19.0,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "US संसद में गूंजा भारतीय पायलट का नाम! मिला खास सम्मान 🇮🇳",
+        "caption": "अमेरिकी संसद में जब भारतीय पायलट स्मित मछार का नाम गूंजा, तो हर भारतीय का सीना गर्व से चौड़ा हो गया। 🇺🇸✈️\n\nउन्होंने अपनी सूझबूझ और बहादुरी से जो कर दिखाया, उसकी चर्चा आज पूरी दुनिया में हो रही है। अमेरिकी संसद में उन्हें यह खास सम्मान क्यों मिला? \n\nपूरी कहानी जानने के लिए वीडियो अंत तक देखें।\n\n#IndianPilot #USCongress #SmitMachhar #ProudIndian #BreakingNews"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "अमेरिकी संसद में गूंजा एक भारतीय पायलट का नाम! 🇺🇸✈️ स्मित मछार की बहादुरी ने अमेरिका में भी भारत का मान बढ़ा दिया। जानिए क्या है पूरी कहानी। \n\nपूरी बात जानने के लिए वीडियो देखें और शेयर करें!\n\n#IndianPilot #USCongress #SmitMachhar #ProudIndian #BreakingNews"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "अमेरिकी संसद में जब एक भारतीय पायलट का नाम गूंजा, तो वहां मौजूद हर शख्स हैरान रह गया। 🇮🇳🇺🇸\n\nपायलट स्मित मछार ने अपनी असाधारण सूझबूझ और साहस से ऐसा कारनामा कर दिखाया, जिसके बाद अमेरिकी संसद में उन्हें खास सम्मान से नवाजा गया। \n\nदेखिए वीडियो और जानिए क्या है यह पूरी गौरवशाली कहानी।\n\n#IndianPilot #USCongress #SmitMachhar #ProudIndian #BreakingNews"
+      },
+      "hashtags": [
+        "IndianPilot",
+        "USCongress",
+        "SmitMachhar",
+        "ProudIndian",
+        "BreakingNews"
+      ]
+    },
+    "audio_path": "audio/us_parliament_honours_indian_pilot_smit_machchhar.wav",
+    "audio_duration_sec": 14.41,
+    "video_path": "videos/us_parliament_honours_indian_pilot_smit_machchhar.mp4",
+    "video_duration_sec": 22.47,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-06T15:33:14.363170+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6ac514d5f5cd1761a4e526e5",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अमेरिकी संसद में जब एक भारतीय पायलट का नाम गूंजा, तो वहां मौजूद हर शख्स हैरान रह गया। 🇮🇳🇺🇸\n\nपायलट स्मित मछार ने अपनी असाधारण सूझबूझ और साहस से ऐसा कारनामा कर दिखाया, जिसके बाद अमेरिकी संसद में उन्हें खास सम्मान से नवाजा गया। \n\nदेखिए वीडियो और जानिए क्या है यह पूरी गौरवशाली कहानी।\n\n#IndianPilot #USCongress #SmitMachhar #ProudIndian #BreakingNews",
+            "mediaItems": [
+              {
+                "_id": "6ac514d5f5cd1761a4e526e7",
+                "url": "https://media.zernio.com/media/1791300818620_ov51nxtz_us_parliament_honours_indian_pilot_smit_machchhar.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-06T15:33:40.077Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-06T15:33:41.644Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-06T15:33:41.624Z",
+            "updatedAt": "2026-10-06T15:33:46.431Z",
+            "platforms": [
+              {
+                "_id": "6ac514d5f5cd1761a4e526e4",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=W58Tf6EHDA8Q7kNvwF9ymYx&_nc_oc=Adovy66ILTg7l8cwLfr6ywoA4UcryMbGsbIrw-pfsGZpYQQ--M0bZDIX2wuQc_5pPYE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=zgTK6IWNON2IhJYpLlV5Gw&_nc_tpa=Q5bMBQIqNNbmEiuE2DZr51qD-3-aj0GNaZZJvZ1HTl7yGPiCEXid9tVVYZN6NuiSa1N1RtLycKpc8h5L&oh=00_AQPex4Xpy9BumhFIdBiLQe_dl9dUUQ59mvd1kjAH4Gm7Gw&oe=6ACA4994",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-06T15:33:40.077Z",
+                "status": "published",
+                "publishedAt": "2026-10-06T15:33:46.370Z",
+                "platformPostId": "4641952852708990",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=4641952852708990",
+                "publishAttempts": 1,
+                "contentHash": "423ace5abbd976f28a25dbd9ca7e240e"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-06T15:33:46.547932+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6ac514f0c7b4c6e4331972df",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "अमेरिकी संसद में गूंजा एक भारतीय पायलट का नाम! 🇺🇸✈️ स्मित मछार की बहादुरी ने अमेरिका में भी भारत का मान बढ़ा दिया। जानिए क्या है पूरी कहानी। \n\nपूरी बात जानने के लिए वीडियो देखें और शेयर करें!\n\n#IndianPilot #USCongress #SmitMachhar #ProudIndian #BreakingNews",
+            "mediaItems": [
+              {
+                "_id": "6ac514f0c7b4c6e4331972e1",
+                "url": "https://media.zernio.com/media/1791300846704_2jbazru8_us_parliament_honours_indian_pilot_smit_machchhar.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-06T15:34:07.864Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-06T15:34:08.870Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-06T15:34:08.779Z",
+            "updatedAt": "2026-10-06T15:34:11.206Z",
+            "platforms": [
+              {
+                "_id": "6ac514f0c7b4c6e4331972de",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DhieA37EVO8Q7kNvwHUdEhj&_nc_oc=AdrK_zBcGD1GKZZG9pxf0P9wFtoaRsUZCwrzSnNrCSRu_g-2eMDlAq-kiCJinobU8tU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nZkdGOOeLOyj8E1xboHbbg&_nc_tpa=Q5bMBQLfeadYOshYOCiLbXIbQQzlUgOjw_8EAg4RfMKu7FgxNl-NwMhvVMw0JFEVsZSkw3E3sTEnf23bCw&oh=00_AQN-1nhauHWzCYVKTpkmPO0ZJ8VKFGdWGalasYhyF1eayA&oe=6ACA3D3B",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-06T15:34:07.864Z",
+                "status": "processing",
+                "publishAttempts": 1,
+                "contentHash": "9570eab5362422d1b8001556c830f1ad"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-06T15:34:11.511598+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "youtuber_anurag_dobhal_arrested_assault",
+    "virality_score": 8,
+    "reason": "Popular YouTuber Anurag Dobhal's arrest over an alleged assault on his wife's cousin.",
+    "region": "india",
+    "headline": "साले पर किया जानलेवा हमला! यूट्यूबर अनुराग डोभाल पर भड़की पत्नी",
+    "source_summary": "अनुराग डोभाल के ऊपर अपनी पत्नी के कजिन पर जानलेवा हमला करने का आरोप है. उन्हें इसके लिए पुलिस ने गिरफ्तार किया. अनुराग का कहना है कि उनपर हमला कराया गया है, जबकि उनकी पत्नी का दावा है कि यूट्यूबर झूठा है.",
+    "source_url": "https://www.aajtak.in/entertainment/ott/story/uk07rider-anurag-dobhal-arrested-wife-ritika-chauhan-calls-youtuber-liar-new-allegations-tmovj-dskc-2663184-2026-10-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-06T19:56:02+05:30",
+    "hook": "मशहूर यूट्यूबर अनुराग डोभाल गिरफ्तार!",
+    "script_hi": "मशहूर यूट्यूबर अनुराग डोभाल को पुलिस ने गिरफ्तार कर लिया है। उन पर अपनी पत्नी के साले पर जानलेवा हमला करने का गंभीर आरोप है। अनुराग का दावा है कि उन पर खुद हमला हुआ था, जबकि उनकी पत्नी ने यूट्यूबर के सभी दावों को झूठा बताया है। पुलिस मामले की जांच कर रही है।",
+    "tts_text_hi": "मशहूर यूट्यूबर अनुराग डोभाल को पुलिस ने गिरफ्तार कर लिया है। उन पर अपनी पत्नी के साले पर जानलेवा हमला करने का गंभीर आरोप है। अनुराग का दावा है कि उन पर खुद हमला हुआ था, जबकि उनकी पत्नी ने यूट्यूबर के सभी दावों को झूठा बताया है। पुलिस मामले की जांच कर रही है।",
+    "title": "यूट्यूबर अनुराग डोभाल गिरफ्तार",
+    "caption": "मशहूर यूट्यूबर अनुराग डोभाल को पुलिस ने गिरफ्तार कर लिया है। उन पर अपनी पत्नी के कजिन पर जानलेवा हमला करने का आरोप है।",
+    "hashtags": [
+      "AnuragDobhal",
+      "YouTuber",
+      "PoliceArrest",
+      "NewsUpdate",
       "IndiaNews"
     ],
     "visual_queries": [
       "Indian police station India",
-      "cremation ground India",
-      "smartphone mobile chat India"
+      "person in handcuffs India",
+      "police investigation India"
     ],
-    "named_person": null,
-    "named_person_hi": null,
+    "named_person": "Anurag Dobhal",
+    "named_person_hi": "अनुराग डोभाल",
     "secondary_persons": [],
     "est_duration_sec": 28,
     "flag_for_manual_review": true,
-    "flag_reason": "Content involves a sensitive crime investigation (honor killing allegation) and unproven allegations against family members before formal judicial conviction.",
+    "flag_reason": "Criminal allegation against a named individual based on unproven accusations, requiring manual review for defamation risk.",
     "assets": [
+      {
+        "type": "text_card",
+        "text": "अनुराग डोभाल",
+        "source": "fallback",
+        "query": "Anurag Dobhal",
+        "duration_sec": 4.0
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
       {
         "type": "image",
         "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -300,808 +534,84 @@
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/35625312/pexels-photo-35625312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10475160/pexels-photo-10475160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "cremation ground India",
-        "credit": "Abhishek Mishra",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/8204031/pexels-photo-8204031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "smartphone mobile chat India",
-        "credit": "Ravi Roshan",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 3,
-    "timeline_covered_sec": 15,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "indore_software_developer_cyber_fraud_apk",
-    "virality_score": 8,
-    "reason": "Indore techie arrested for creating 2800 apps and masterminding nationwide cyber fraud worth crores.",
-    "region": "india",
-    "headline": "कौन है पंकज अवधेश गुप्ता, जिसने 2800 App बनाकर पूरे देश में साइबर ठगों का जाल बिछा दिया, 150 करोड़ की लगाई चपत",
-    "source_summary": "Pankaj Awdesh Gupta Indore: इंदौर के एक 36 वर्षीय सॉफ्टवेयर डेवलपर पंकज अवधेश गुप्ता को मुंबई क्राइम ब्रांच ने गिरफ्तार किया है, जो देशभर के साइबर ठगों को खतरनाक एपीके (APK) फाइलें बनाकर बेचता था। आरोपी ने अब तक 2,805 ऐसी फाइलें बेची हैं, जिससे देशभर में 15.75 करोड़ रुपये से ज्यादा की चपत लग चुकी है।",
-    "source_url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/indore/indore-software-developer-pankaj-awdesh-gupta-arrested-for-creating-2805-malicious-apk-files/articleshow/134723229.cms",
-    "source_name": "Navbharat Times",
-    "published": "Tue, 06 Oct 2026 10:54:00 +0530",
-    "hook": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल!",
-    "script_hi": "इंदौर के छत्तीस वर्षीय सॉफ्टवेयर डेवलपर पंकज अवधेश गुप्ता को मुंबई क्राइम ब्रांच ने गिरफ्तार किया है। आरोपी देश भर के साइबर ठगों को खतरनाक एपीके फाइलें बनाकर बेचता था। पंकज ने अब तक दो हजार आठ सौ पांच ऐसी फाइलें बेची हैं, जिससे देश भर में पंद्रह करोड़ पचहत्तर लाख रुपये से ज्यादा की ठगी हो चुकी है।",
-    "tts_text_hi": "इंदौर के छत्तीस वर्षीय सॉफ्टवेयर डेवलपर पंकज अवधेश गुप्ता को मुंबई क्राइम ब्रांच ने गिरफ्तार किया है। आरोपी देश भर के साइबर ठगों को खतरनाक एपीके फाइलें बनाकर बेचता था। पंकज ने अब तक दो हजार आठ सौ पांच ऐसी फाइलें बेची हैं, जिससे देश भर में पंद्रह करोड़ पचहत्तर लाख रुपये से ज्यादा की ठगी हो चुकी है।",
-    "title": "दो हजार आठ सौ ऐप बनाकर साइबर ठगी करने वाला गिरफ्तार",
-    "caption": "इंदौर के सॉफ्टवेयर डेवलपर पंकज अवधेश गुप्ता को मुंबई क्राइम ब्रांच ने गिरफ्तार किया है, जो साइबर ठगों को खतरनाक एपीके फाइलें बेचता था।",
-    "hashtags": [
-      "IndoreNews",
-      "CyberCrime",
-      "MumbaiPolice",
-      "CyberFraud",
-      "CrimeNews",
-      "BreakingNews",
-      "IndiaNews"
-    ],
-    "visual_queries": [
-      "Indore city street India",
-      "Mumbai police station building India",
-      "cyber crime investigation India",
-      "hacker computer screen India"
-    ],
-    "named_person": "Pankaj Awdesh Gupta",
-    "named_person_hi": "पंकज अवधेश गुप्ता",
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "पंकज अवधेश गुप्ता",
-        "source": "fallback",
-        "query": "Pankaj Awdesh Gupta",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/33658287/pexels-photo-33658287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indore city street India",
-        "credit": "Vijay Richhiya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/38618775/pexels-photo-38618775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Mumbai police station building India",
-        "credit": "Harsh  Kukadiya",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/6266308/pexels-photo-6266308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "cyber crime investigation India",
-        "credit": "Tima Miroshnichenko",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "hacker computer screen India",
-        "credit": "Atlantic Ambience",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 5,
-    "timeline_covered_sec": 24.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "2800 फर्जी ऐप्स बनाकर देश को लूटा! गिरफ्तार मास्टरमाइंड पंकज गुप्ता का पर्दाफाश 🚨",
-        "caption": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल! 🛑\n\nपंकज अवधेश गुप्ता नाम के इस शख्स ने अकेले डेढ़ सौ करोड़ रुपये का चूना लगाया है। कैसे चलाता था ये पूरा सिंडिकेट और पुलिस के शिकंजे में कैसे फंसा, जानिए पूरी कहानी।\n\nपूरी कहानी देखें और सुरक्षित रहें।\n\n#CyberCrime #CyberFraud #PankajGupta #ScamAlert #CyberSecurity"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल! 🛑\n\n150 करोड़ की चपत लगाने वाले पंकज गुप्ता का खेल आखिरकार खत्म हो गया है। क्या आप भी इस्तेमाल करते हैं ऐसी अनजान ऐप्स? \n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और दोस्तों के साथ शेयर करें।\n\n#CyberCrime #CyberFraud #PankajGupta #ScamAlert #CyberSecurity"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल! 🛑\n\nदेशभर में साइबर ठगों का ऐसा नेटवर्क शायद ही कभी देखा गया हो। पंकज अवधेश गुप्ता ने एक के बाद एक 2800 से ज्यादा फर्जी ऐप्स तैयार किए और लोगों की गाढ़ी कमाई के 150 करोड़ डकार गया। पुलिस ने जब इसका कच्चा चिट्ठा खंगाला तो सब हैरान रह गए।\n\nदेखिए इस शातिर ठग के काले कारनामों की पूरी कहानी।\n\n#CyberCrime #CyberFraud #PankajGupta #ScamAlert #CyberSecurity"
-      },
-      "hashtags": [
-        "CyberCrime",
-        "CyberFraud",
-        "PankajGupta",
-        "ScamAlert",
-        "CyberSecurity"
-      ]
-    },
-    "audio_path": "audio/indore_software_developer_cyber_fraud_apk.wav",
-    "audio_duration_sec": 23.15,
-    "video_path": "videos/indore_software_developer_cyber_fraud_apk.mp4",
-    "video_duration_sec": 31.2,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-06T06:42:45.611128+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac49882e5333d341c5d8bd1",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल! 🛑\n\nदेशभर में साइबर ठगों का ऐसा नेटवर्क शायद ही कभी देखा गया हो। पंकज अवधेश गुप्ता ने एक के बाद एक 2800 से ज्यादा फर्जी ऐप्स तैयार किए और लोगों की गाढ़ी कमाई के 150 करोड़ डकार गया। पुलिस ने जब इसका कच्चा चिट्ठा खंगाला तो सब हैरान रह गए।\n\nदेखिए इस शातिर ठग के काले कारनामों की पूरी कहानी।\n\n#CyberCrime #CyberFraud #PankajGupta #ScamAlert #CyberSecurity",
-            "mediaItems": [
-              {
-                "_id": "6ac49882e5333d341c5d8bd3",
-                "url": "https://media.zernio.com/media/1791268991798_9lkszt5o_indore_software_developer_cyber_fraud_apk.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:43:12.953Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:43:14.379Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:43:14.317Z",
-            "updatedAt": "2026-10-06T06:43:19.668Z",
-            "platforms": [
-              {
-                "_id": "6ac49882e5333d341c5d8bd0",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=W58Tf6EHDA8Q7kNvwF9ymYx&_nc_oc=Adovy66ILTg7l8cwLfr6ywoA4UcryMbGsbIrw-pfsGZpYQQ--M0bZDIX2wuQc_5pPYE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=zgTK6IWNON2IhJYpLlV5Gw&_nc_tpa=Q5bMBQIqNNbmEiuE2DZr51qD-3-aj0GNaZZJvZ1HTl7yGPiCEXid9tVVYZN6NuiSa1N1RtLycKpc8h5L&oh=00_AQPex4Xpy9BumhFIdBiLQe_dl9dUUQ59mvd1kjAH4Gm7Gw&oe=6ACA4994",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:43:12.953Z",
-                "status": "published",
-                "publishedAt": "2026-10-06T06:43:19.614Z",
-                "platformPostId": "1354921413224834",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1354921413224834",
-                "publishAttempts": 1,
-                "contentHash": "b4b0d59125f55f863892c78ebf291b2d"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:43:19.788595+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac498a6d7790ab937a4f93d",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "एक सॉफ्टवेयर डेवलपर ने बना डाली दो हजार आठ सौ से ज्यादा खतरनाक ऐप, और देश भर में बिछा दिया साइबर ठगी का जाल! 🛑\n\n150 करोड़ की चपत लगाने वाले पंकज गुप्ता का खेल आखिरकार खत्म हो गया है। क्या आप भी इस्तेमाल करते हैं ऐसी अनजान ऐप्स? \n\nपूरी सच्चाई जानने के लिए वीडियो पूरा देखें और दोस्तों के साथ शेयर करें।\n\n#CyberCrime #CyberFraud #PankajGupta #ScamAlert #CyberSecurity",
-            "mediaItems": [
-              {
-                "_id": "6ac498a6d7790ab937a4f93f",
-                "url": "https://media.zernio.com/media/1791269027898_a9e29y5h_indore_software_developer_cyber_fraud_apk.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:43:49.725Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:43:51.026Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:43:50.970Z",
-            "updatedAt": "2026-10-06T06:43:53.011Z",
-            "platforms": [
-              {
-                "_id": "6ac498a6d7790ab937a4f93c",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DhieA37EVO8Q7kNvwHUdEhj&_nc_oc=AdrK_zBcGD1GKZZG9pxf0P9wFtoaRsUZCwrzSnNrCSRu_g-2eMDlAq-kiCJinobU8tU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nZkdGOOeLOyj8E1xboHbbg&_nc_tpa=Q5bMBQLfeadYOshYOCiLbXIbQQzlUgOjw_8EAg4RfMKu7FgxNl-NwMhvVMw0JFEVsZSkw3E3sTEnf23bCw&oh=00_AQN-1nhauHWzCYVKTpkmPO0ZJ8VKFGdWGalasYhyF1eayA&oe=6ACA3D3B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:43:49.725Z",
-                "status": "processing",
-                "publishAttempts": 1,
-                "contentHash": "0b68a108e14bf13a1dc79a7cdabb48ec"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:43:53.185670+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "zomato_founder_deepinder_goyal_temple_device",
-    "virality_score": 8,
-    "reason": "Zomato founder Deepinder Goyal is launching a 1-lakh-rupee head-worn tech device called Temple.",
-    "region": "india",
-    "headline": "आ रहा माथे पर चिपकाने वाला डिवाइस Temple, होश उड़ा देगा ये गैजेट",
-    "source_summary": "Zomato फाउंडर दीपिंदर गोयल एक खास डिवाइस तैयार कर चुके हैं, जिसका नाम टेम्पल है और उसको माथे पर चिपकाया जाता है. कई रिपोर्ट्स में दावा किया है कि जल्द ही इसको लॉन्च किया जाएगा और इसकी कीमत 1 लाख रुपये होगी. आइए इसके बारे में डिटेल्स में जानते हैं.",
-    "source_url": "https://www.aajtak.in/technology/tech-news/story/deepinder-goyal-temple-device-how-it-works-brain-blood-flow-ttecr-dskc-2661092-2026-10-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-06T06:57:08+05:30",
-    "hook": "माथे पर चिपकाने वाला ऐसा गैजेट जो उड़ा देगा आपके होश!",
-    "script_hi": "जोमैटो के संस्थापक दीपिंदर गोयल एक नया और अनोखा डिवाइस लेकर आ रहे हैं, जिसका नाम टेम्पल है। इस डिवाइस को माथे पर चिपकाया जाएगा। रिपोर्ट्स के मुताबिक, इसे जल्द ही लॉन्च किया जाएगा और इसकी कीमत एक लाख रुपये तक हो सकती है।",
-    "tts_text_hi": "जोमैटो के संस्थापक दीपिंदर गोयल एक नया और अनोखा डिवाइस लेकर आ रहे हैं, जिसका नाम टेम्पल है। इस डिवाइस को माथे पर चिपकाया जाएगा। रिपोर्ट्स के मुताबिक, इसे जल्द ही लॉन्च किया जाएगा और इसकी कीमत एक लाख रुपये तक हो सकती है।",
-    "title": "माथे पर चिपकाने वाला डिवाइस Temple, कीमत एक लाख रुपये",
-    "caption": "जोमैटो फाउंडर दीपिंदर गोयल जल्द ही एक नया गैजेट 'Temple' लॉन्च करने वाले हैं, जिसे माथे पर चिपकाया जाएगा। जानिए इसकी खास बातें।",
-    "hashtags": [
-      "Zomato",
-      "DeepinderGoyal",
-      "TempleGadget",
-      "TechNews",
-      "GadgetsIndia",
-      "LatestTech"
-    ],
-    "visual_queries": [
-      "Indian tech CEO portrait",
-      "futuristic wearable device India",
-      "smart forehead gadget India"
-    ],
-    "named_person": "Deepinder Goyal",
-    "named_person_hi": "दीपिंदर गोयल",
-    "secondary_persons": [],
-    "est_duration_sec": 26,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "text_card",
-        "text": "दीपिंदर गोयल",
-        "source": "fallback",
-        "query": "Deepinder Goyal",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/37894130/pexels-photo-37894130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "Indian tech CEO portrait",
-        "credit": "Vishal Kampani",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9068992/pexels-photo-9068992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic wearable device India",
-        "credit": "Yan Krukau",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/4389740/pexels-photo-4389740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "futuristic wearable tech",
-        "credit": "Darlene Alderson",
+        "query": "person in handcuffs India",
+        "credit": "Ron Lach",
         "duration_sec": 5
       }
     ],
     "asset_count": 4,
-    "timeline_covered_sec": 19.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "माथे पर चिपकाओ और सो जाओ! 1 लाख का ये गैजेट क्या करेगा? 🤯",
-        "caption": "माथे पर चिपकाने वाला ऐसा गैजेट 😲 जो आपके होश उड़ा देगा!\n\nटेक्नोलॉजी की दुनिया में एक ऐसा अनोखा डिवाइस आया है जिसे माथे पर चिपकाया जाता है। इसकी कीमत करीब एक लाख रुपये है और दावा किया जा रहा है कि यह दिमाग को पूरी तरह रिलैक्स कर सकता है।\n\nक्या आप कभी ऐसा गैजेट इस्तेमाल करना चाहेंगे? कमेंट में बताएं और पूरी कहानी देखें। 👇\n\n#TempleGadget #TechNews #FutureTech #GadgetsIndia #Inventions"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "माथे पर चिपकाने वाला ऐसा गैजेट 🤯 जो आपके होश उड़ा देगा!\n\nटेंशन भगाने के लिए अब आ गया है एक लाख रुपये का यह खास डिवाइस। माथे पर चिपकते ही यह दिमाग पर असर दिखाता है।\n\nक्या यह वाकई किसी काम का है या सिर्फ दिखावा? अपने दोस्तों के साथ शेयर करें और राय दें। 🔄\n\n#TempleGadget #TechNews #FutureTech #GadgetsIndia #Inventions"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "माथे पर चिपकाने वाला ऐसा गैजेट 🤯 जो आपके होश उड़ा देगा!\n\nआजकल टेक्नोलॉजी में ऐसे-ऐसे आविष्कार हो रहे हैं जिन पर यकीन करना मुश्किल होता है। ऐसा ही एक डिवाइस आया है जिसे सीधे माथे पर चिपकाया जाता है। इसकी कीमत करीब एक लाख रुपये बताई जा रही है और यह दिमाग से जुड़े कई काम चुटकियों में करने का दावा करता है।\n\nक्या आप एक लाख खर्च करके ऐसा गैजेट खरीदना चाहेंगे? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#TempleGadget #TechNews #FutureTech #GadgetsIndia #Inventions"
-      },
-      "hashtags": [
-        "TempleGadget",
-        "TechNews",
-        "FutureTech",
-        "GadgetsIndia",
-        "Inventions"
-      ]
-    },
-    "audio_path": "audio/zomato_founder_deepinder_goyal_temple_device.wav",
-    "audio_duration_sec": 17.26,
-    "video_path": "videos/zomato_founder_deepinder_goyal_temple_device.mp4",
-    "video_duration_sec": 25.32,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-06T06:47:11.272425+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac49984885a92a4b42d3550",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "माथे पर चिपकाने वाला ऐसा गैजेट 🤯 जो आपके होश उड़ा देगा!\n\nआजकल टेक्नोलॉजी में ऐसे-ऐसे आविष्कार हो रहे हैं जिन पर यकीन करना मुश्किल होता है। ऐसा ही एक डिवाइस आया है जिसे सीधे माथे पर चिपकाया जाता है। इसकी कीमत करीब एक लाख रुपये बताई जा रही है और यह दिमाग से जुड़े कई काम चुटकियों में करने का दावा करता है।\n\nक्या आप एक लाख खर्च करके ऐसा गैजेट खरीदना चाहेंगे? हमें कमेंट करके जरूर बताएं और वीडियो पूरा देखें।\n\n#TempleGadget #TechNews #FutureTech #GadgetsIndia #Inventions",
-            "mediaItems": [
-              {
-                "_id": "6ac49984885a92a4b42d3552",
-                "url": "https://media.zernio.com/media/1791269249567_pg8yg8sm_zomato_founder_deepinder_goyal_temple_device.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:47:30.699Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:47:32.233Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:47:32.180Z",
-            "updatedAt": "2026-10-06T06:47:37.890Z",
-            "platforms": [
-              {
-                "_id": "6ac49984885a92a4b42d354f",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=W58Tf6EHDA8Q7kNvwF9ymYx&_nc_oc=Adovy66ILTg7l8cwLfr6ywoA4UcryMbGsbIrw-pfsGZpYQQ--M0bZDIX2wuQc_5pPYE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=zgTK6IWNON2IhJYpLlV5Gw&_nc_tpa=Q5bMBQIqNNbmEiuE2DZr51qD-3-aj0GNaZZJvZ1HTl7yGPiCEXid9tVVYZN6NuiSa1N1RtLycKpc8h5L&oh=00_AQPex4Xpy9BumhFIdBiLQe_dl9dUUQ59mvd1kjAH4Gm7Gw&oe=6ACA4994",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:47:30.699Z",
-                "status": "published",
-                "publishedAt": "2026-10-06T06:47:37.664Z",
-                "platformPostId": "1116109200948739",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1116109200948739",
-                "publishAttempts": 1,
-                "contentHash": "95ad912bc26ab0324c51463743f6344e"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:47:37.982067+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac499a9e3fdadf511ed7000",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "माथे पर चिपकाने वाला ऐसा गैजेट 🤯 जो आपके होश उड़ा देगा!\n\nटेंशन भगाने के लिए अब आ गया है एक लाख रुपये का यह खास डिवाइस। माथे पर चिपकते ही यह दिमाग पर असर दिखाता है।\n\nक्या यह वाकई किसी काम का है या सिर्फ दिखावा? अपने दोस्तों के साथ शेयर करें और राय दें। 🔄\n\n#TempleGadget #TechNews #FutureTech #GadgetsIndia #Inventions",
-            "mediaItems": [
-              {
-                "_id": "6ac499a9e3fdadf511ed7002",
-                "url": "https://media.zernio.com/media/1791269287103_ygpx2ih6_zomato_founder_deepinder_goyal_temple_device.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:48:08.124Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:48:09.394Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:48:09.334Z",
-            "updatedAt": "2026-10-06T06:48:12.318Z",
-            "platforms": [
-              {
-                "_id": "6ac499a9e3fdadf511ed6fff",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DhieA37EVO8Q7kNvwHUdEhj&_nc_oc=AdrK_zBcGD1GKZZG9pxf0P9wFtoaRsUZCwrzSnNrCSRu_g-2eMDlAq-kiCJinobU8tU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nZkdGOOeLOyj8E1xboHbbg&_nc_tpa=Q5bMBQLfeadYOshYOCiLbXIbQQzlUgOjw_8EAg4RfMKu7FgxNl-NwMhvVMw0JFEVsZSkw3E3sTEnf23bCw&oh=00_AQN-1nhauHWzCYVKTpkmPO0ZJ8VKFGdWGalasYhyF1eayA&oe=6ACA3D3B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:48:08.124Z",
-                "status": "processing",
-                "publishAttempts": 1,
-                "contentHash": "3c781d6706801cc7be96588c2b51c97e"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:48:12.577727+00:00"
-      }
-    }
+    "timeline_covered_sec": 20.0,
+    "review_status": "pending_review"
   },
   {
-    "topic_label": "balod_acid_attack_police_daughter",
+    "topic_label": "bengaluru_triple_murder_ai_search_history",
     "virality_score": 8,
-    "reason": "Shocking acid attack on a police officer's daughter by a one-sided stalker in Chhattisgarh.",
+    "reason": "Chilling crime detail where the accused used AI to search for murder methods.",
     "region": "india",
-    "headline": "बालोद में सिपाही की बेटी पर एसिड अटैक… एकतरफा प्यार करने वाले सनकी आशिक ने दोस्त से करवाया हमला, 2 अरेस्ट",
-    "source_summary": "<figure><img width=\"1280\" height=\"720\" src=\"https://images.tv9hindi.com/wp-content/uploads/2026/09/chhattisgarh-woman-suicide.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"बालोद में सिपाही की बेटी पर एसिड अटैक… एकतरफा प्यार करने वाले सनकी आशिक ने दोस्त से करवाया हमला, 2 अरेस्ट\" /></figure>छत्तीसगढ़: बालोद जिले में 22 वर्षीय छात्रा पर एसिड अटैक का सनसनीखेज मामला सामने आया है. पुलिसकर्मी की बेटी लाइब्रेरी से घर लौट रही थी, तभी उस पर एसिड फेंक दिया गया, जिससे वो बुरी तरह झुलस गई.",
-    "source_url": "https://www.tv9hindi.com/state/chhattisgarh/balod-policeman-daughter-acid-attack-two-accused-arrested-3926811.html",
-    "source_name": "TV9 Hindi",
-    "published": "Tue, 06 Oct 2026 09:32:29 +0530",
-    "hook": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक!",
-    "script_hi": "छत्तीसगढ़ के बालोद जिले में एक सिपाही की बाईस साल की बेटी पर एसिड अटैक का सनसनीखेज मामला सामने आया है। पीड़िता जब लाइब्रेरी से घर लौट रही थी, तब एकतरफा प्यार करने वाले सनकी आशिक ने अपने दोस्त से मिलकर उस पर तेजाब फिंकवा दिया। इस गंभीर मामले में पुलिस ने दो आरोपियों को गिरफ्तार कर लिया है, और आगे की कार्रवाई जारी है।",
-    "tts_text_hi": "छत्तीसगढ़ के बालोद जिले में एक सिपाही की बाईस साल की बेटी पर एसिड अटैक का सनसनीखेज मामला सामने आया है। पीड़िता जब लाइब्रेरी से घर लौट रही थी, तब एकतरफा प्यार करने वाले सनकी आशिक ने अपने दोस्त से मिलकर उस पर तेजाब फिंकवा दिया। इस गंभीर मामले में पुलिस ने दो आरोपियों को गिरफ्तार कर लिया है, और आगे की कार्रवाई जारी है।",
-    "title": "बालोद में सिपाही की बेटी पर एसिड अटैक",
-    "caption": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।",
-    "hashtags": [
-      "ChhattisgarhNews",
-      "BalodNews",
-      "AcidAttack",
-      "CrimeNews",
-      "IndiaNews",
-      "Police"
-    ],
-    "visual_queries": [
-      "police station India building",
-      "Indian police investigation",
-      "police handcuffs arrest India"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 27.5,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/10476429/10476429-hd_720_1366_25fps.mp4",
-        "source": "pexels",
-        "query": "Indian police investigation",
-        "credit": "cottonbro studio",
-        "source_duration_sec": 20,
-        "duration_sec": 6
-      },
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/6083362/6083362-hd_720_1280_24fps.mp4",
-        "source": "pexels",
-        "query": "female student walking street",
-        "credit": "Keira Burton",
-        "source_duration_sec": 11,
-        "duration_sec": 6
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/36076854/pexels-photo-36076854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police station India building",
-        "credit": "GOWTHAM AGM",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/7785045/pexels-photo-7785045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "police handcuffs arrest India",
-        "credit": "Kindel Media",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481263/pexels-photo-10481263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "crime scene investigation india",
-        "credit": "cottonbro studio",
-        "duration_sec": 4.5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/39128512/pexels-photo-39128512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "indian hospital emergency ward",
-        "credit": "Maxx Sas",
-        "duration_sec": 4.5
-      }
-    ],
-    "asset_count": 6,
-    "timeline_covered_sec": 30.0,
-    "review_status": "approved",
-    "platform_copy": {
-      "youtube": {
-        "title": "बालोद में सिपाही की बेटी पर एसिड अटैक",
-        "caption": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।\n\n#ChhattisgarhNews #BalodNews #AcidAttack #CrimeNews #IndiaNews"
-      },
-      "instagram": {
-        "title": null,
-        "caption": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।\n\n#ChhattisgarhNews #BalodNews #AcidAttack #CrimeNews #IndiaNews"
-      },
-      "facebook": {
-        "title": null,
-        "caption": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।\n\n#ChhattisgarhNews #BalodNews #AcidAttack #CrimeNews #IndiaNews"
-      },
-      "hashtags": [
-        "ChhattisgarhNews",
-        "BalodNews",
-        "AcidAttack",
-        "CrimeNews",
-        "IndiaNews"
-      ]
-    },
-    "audio_path": "audio/balod_acid_attack_police_daughter.wav",
-    "audio_duration_sec": 27.36,
-    "video_path": "videos/balod_acid_attack_police_daughter.mp4",
-    "video_duration_sec": 35.42,
-    "publish_results": {
-      "youtube": {
-        "success": false,
-        "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-06T06:51:41.662057+00:00"
-      },
-      "facebook": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac49a930a2126e79d3fd474",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।\n\n#ChhattisgarhNews #BalodNews #AcidAttack #CrimeNews #IndiaNews",
-            "mediaItems": [
-              {
-                "_id": "6ac49a930a2126e79d3fd476",
-                "url": "https://media.zernio.com/media/1791269520842_dljcpqs1_balod_acid_attack_police_daughter.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:52:02.096Z",
-            "timezone": "UTC",
-            "status": "published",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:52:03.542Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:52:03.490Z",
-            "updatedAt": "2026-10-06T06:52:10.878Z",
-            "platforms": [
-              {
-                "_id": "6ac49a930a2126e79d3fd473",
-                "platform": "facebook",
-                "accountId": {
-                  "_id": "6a8efc6777555aae01af802c",
-                  "platform": "facebook",
-                  "username": "lets.quote.up",
-                  "displayName": "Ssd News",
-                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=W58Tf6EHDA8Q7kNvwF9ymYx&_nc_oc=Adovy66ILTg7l8cwLfr6ywoA4UcryMbGsbIrw-pfsGZpYQQ--M0bZDIX2wuQc_5pPYE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=zgTK6IWNON2IhJYpLlV5Gw&_nc_tpa=Q5bMBQIqNNbmEiuE2DZr51qD-3-aj0GNaZZJvZ1HTl7yGPiCEXid9tVVYZN6NuiSa1N1RtLycKpc8h5L&oh=00_AQPex4Xpy9BumhFIdBiLQe_dl9dUUQ59mvd1kjAH4Gm7Gw&oe=6ACA4994",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:52:02.096Z",
-                "status": "published",
-                "publishedAt": "2026-10-06T06:52:10.823Z",
-                "platformPostId": "1584122700065439",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=1584122700065439",
-                "publishAttempts": 1,
-                "contentHash": "2d31c94941dd9a9232fbe656d66a6897"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:52:10.995146+00:00"
-      },
-      "instagram": {
-        "success": true,
-        "result": {
-          "post": {
-            "_id": "6ac49ab905349cf3cd867605",
-            "userId": "6a8efb7a7e175e4c6ccd78ee",
-            "title": "",
-            "content": "छत्तीसगढ़ के बालोद में सिपाही की बेटी पर एसिड अटैक का मामला सामने आया है। पुलिस ने दो आरोपियों को गिरफ्तार किया है।\n\n#ChhattisgarhNews #BalodNews #AcidAttack #CrimeNews #IndiaNews",
-            "mediaItems": [
-              {
-                "_id": "6ac49ab905349cf3cd867607",
-                "url": "https://media.zernio.com/media/1791269558270_2l33thhv_balod_acid_attack_police_daughter.mp4",
-                "type": "video"
-              }
-            ],
-            "scheduledFor": "2026-10-06T06:52:39.793Z",
-            "timezone": "UTC",
-            "status": "publishing",
-            "tags": [],
-            "hashtags": [],
-            "mentions": [],
-            "visibility": "public",
-            "crosspostingEnabled": true,
-            "metadata": {
-              "usageCounted": true
-            },
-            "publishingClaimedAt": "2026-10-06T06:52:41.436Z",
-            "publishAttempts": 0,
-            "recycling": {
-              "enabled": false,
-              "gapFreq": "month",
-              "recycleCount": 0,
-              "contentVariations": [],
-              "contentVariationIndex": 0
-            },
-            "createdAt": "2026-10-06T06:52:41.373Z",
-            "updatedAt": "2026-10-06T06:52:43.548Z",
-            "platforms": [
-              {
-                "_id": "6ac49ab905349cf3cd867604",
-                "platform": "instagram",
-                "accountId": {
-                  "_id": "6a8f021a77555aae01b1179f",
-                  "platform": "instagram",
-                  "username": "ssdnewsdaily",
-                  "displayName": "SSD News",
-                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DhieA37EVO8Q7kNvwHUdEhj&_nc_oc=AdrK_zBcGD1GKZZG9pxf0P9wFtoaRsUZCwrzSnNrCSRu_g-2eMDlAq-kiCJinobU8tU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nZkdGOOeLOyj8E1xboHbbg&_nc_tpa=Q5bMBQLfeadYOshYOCiLbXIbQQzlUgOjw_8EAg4RfMKu7FgxNl-NwMhvVMw0JFEVsZSkw3E3sTEnf23bCw&oh=00_AQN-1nhauHWzCYVKTpkmPO0ZJ8VKFGdWGalasYhyF1eayA&oe=6ACA3D3B",
-                  "isActive": true,
-                  "profileId": "6a8efb7ab8c42db6c3e1415e"
-                },
-                "profileId": "6a8efb7ab8c42db6c3e1415e",
-                "customMedia": [],
-                "scheduledFor": "2026-10-06T06:52:39.793Z",
-                "status": "processing",
-                "publishAttempts": 1,
-                "contentHash": "9c331cd4d4368dd4433c4475a6dcaf45"
-              }
-            ]
-          },
-          "message": "Post published successfully"
-        },
-        "attempted_at": "2026-10-06T06:52:43.883500+00:00"
-      }
-    }
-  },
-  {
-    "topic_label": "katihar_lawyer_daylight_murder_cctv",
-    "virality_score": 8,
-    "reason": "Horrific daylight murder of an advocate caught on CCTV camera in Katihar, sparking outrage.",
-    "region": "india",
-    "headline": "कटिहार में दिनदहाड़े वारदात, गोली मारकर वकील को उतारा मौत के घाट",
-    "source_summary": "कटिहार में दिनदहाड़े अधिवक्ता की बेरहमी से हत्या का CCTV फुटेज सामने आया है. चार हमलावरों ने पहले स्कूटी सवार वकील को गिराया फिर चाकू और बेल्ट से हमला किया. इसके बाद एक आरोपी ने पिस्टल निकालकर गोली मार दी.  वारदात के बाद सभी आरोपी मौके से पैदल फरार हो गए.  अधिवक्ता को हॉस्पिटल पहुंचाया गया वहां डॉक्टरों ने उन्हे मृत घोषित कर दिया. पुलिस CCTV के आधार पर आरोपियों की तलाश में जुटी है.",
-    "source_url": "https://www.aajtak.in/bihar/story/katihar-advocate-guddu-ansari-murder-cctv-footag-knife-attack-shooting-lclg-strc-2662409-2026-10-06?utm_source=rssfeed",
+    "headline": "बेंगलुरु ट्रिपल मर्डर: आरोपी ने AI से पूछे थे हमले के ये तरीके",
+    "source_summary": "बेंगलुरु के सीगेहल्ली ट्रिपल मर्डर केस में टेकी जे. केनेथ के लैपटॉप से AI से हमले के तरीके पूछने की सर्च हिस्ट्री मिली है. पुलिस डिजिटल सबूतों की जांच कर रही है. उसके लैपटॉप से मिली सर्च हिस्ट्री हैरान करने वाली है. पढ़ें पूरी कहानी.",
+    "source_url": "https://www.aajtak.in/crime/big-crime/story/bengaluru-seegehalli-triple-murder-ai-search-history-kenneth-shwetha-case-pvzs-dskc-2663083-2026-10-06?utm_source=rssfeed",
     "source_name": "Aaj Tak",
-    "published": "2026-10-06T09:18:05+05:30",
-    "hook": "कटिहार में दिनदहाड़े वकील की सरेआम हत्या!",
-    "script_hi": "कटिहार में दिनदहाड़े एक अधिवक्ता की बेरहमी से हत्या का सनसनीखेज मामला सामने आया है। चार हमलावरों ने स्कूटी सवार वकील को गिराकर चाकू, बेल्ट और फिर गोली से हमला किया। अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया। पुलिस सीसीटीवी फुटेज के आधार पर आरोपियों की तलाश कर रही है।",
-    "tts_text_hi": "कटिहार में दिनदहाड़े एक अधिवक्ता की बेरहमी से हत्या का सनसनीखेज मामला सामने आया है। चार हमलावरों ने स्कूटी सवार वकील को गिराकर चाकू, बेल्ट और फिर गोली से हमला किया। अस्पताल ले जाने पर डॉक्टरों ने उन्हें मृत घोषित कर दिया। पुलिस सीसीटीवी फुटेज के आधार पर आरोपियों की तलाश कर रही है।",
-    "title": "कटिहार में वकील की दिनदहाड़े हत्या",
-    "caption": "कटिहार में दिनदहाड़े वकील की गोली मारकर हत्या, सीसीटीवी फुटेज आया सामने। पुलिस आरोपियों की तलाश में जुटी।",
+    "published": "2026-10-06T19:12:20+05:30",
+    "hook": "बेंगलुरु ट्रिपल मर्डर केस में हुआ ऐसा हैरान करने वाला खुलासा!",
+    "script_hi": "बेंगलुरु के सीगेहल्ली ट्रिपल मर्डर केस में पुलिस की जांच में एक चौंकाने वाला सच सामने आया है. आरोपी जे. केनेथ के लैपटॉप से ए आई यानी आर्टिफिशियल इंटेलिजेंस से हमले के तरीके पूछने की सर्च हिस्ट्री मिली है. पुलिस अब इन डिजिटल सबूतों की गहराई से जांच कर रही है.",
+    "tts_text_hi": "बेंगलुरु के सीगेहल्ली ट्रिपल मर्डर केस में पुलिस की जांच में एक चौंकाने वाला सच सामने आया है. आरोपी जे केनेथ के लैपटॉप से ए आई यानी आर्टिफिशियल इंटेलिजेंस से हमले के तरीके पूछने की सर्च हिस्ट्री मिली है. पुलिस अब इन डिजिटल सबूतों की गहराई से जांच कर रही है.",
+    "title": "बेंगलुरु ट्रिपल मर्डर: आरोपी ने AI से पूछे थे हमले के तरीके",
+    "caption": "बेंगलुरु के सीगेहल्ली ट्रिपल मर्डर केस में आरोपी जे. केनेथ के लैपटॉप से एआई से हमले के तरीके पूछने की सर्च हिस्ट्री मिली है।",
     "hashtags": [
-      "KatiharNews",
+      "BengaluruCrime",
+      "TripleMurder",
+      "IndiaNews",
       "CrimeNews",
-      "BiharNews",
-      "LawyerMurder",
-      "BreakingNews"
+      "ArtificialIntelligence"
     ],
     "visual_queries": [
-      "India court building exterior",
-      "India police investigation crime scene",
-      "CCTV camera recording security footage",
-      "India police station exterior"
+      "police investigation Bengaluru India",
+      "laptop computer screen India",
+      "digital forensic lab India"
     ],
     "named_person": null,
     "named_person_hi": null,
     "secondary_persons": [],
     "est_duration_sec": 28,
-    "flag_for_manual_review": true,
-    "flag_reason": "The story relies on specific CCTV footage of the incident which generic stock footage cannot replace; manual review and addition of local reporting visuals is required.",
+    "flag_for_manual_review": false,
+    "flag_reason": null,
     "assets": [
       {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10854546/pexels-photo-10854546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
         "source": "pexels",
-        "query": "India court building exterior",
-        "credit": "Hossain Takir",
-        "duration_sec": 5
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/10481327/pexels-photo-10481327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "India police investigation crime scene",
+        "query": "police investigation Bengaluru India",
         "credit": "cottonbro studio",
-        "duration_sec": 5
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/6237879/6237879-hd_720_1280_25fps.mp4",
+        "source": "pexels",
+        "query": "police digital forensics lab",
+        "credit": "Tima Miroshnichenko",
+        "source_duration_sec": 15,
+        "duration_sec": 6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/25786187/pexels-photo-25786187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/6968164/pexels-photo-6968164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "CCTV camera recording security footage",
-        "credit": "ᛟᛞᚨᛚᚹ ᚨᚱᚲᛟᚾᛊᚲᛁ",
-        "duration_sec": 5
+        "query": "laptop computer screen India",
+        "credit": "Mikhail Nilov",
+        "duration_sec": 3.6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/10481300/pexels-photo-10481300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "digital forensic lab India",
+        "credit": "cottonbro studio",
+        "duration_sec": 3.6
       },
       {
         "type": "image",
@@ -1109,104 +619,23 @@
         "source": "pexels",
         "query": "crime scene investigation India",
         "credit": "cottonbro studio",
-        "duration_sec": 5
-      }
-    ],
-    "asset_count": 4,
-    "timeline_covered_sec": 20,
-    "review_status": "pending_review"
-  },
-  {
-    "topic_label": "nigeria_military_plane_crash_32_dead",
-    "virality_score": 7,
-    "reason": "Tragic military plane crash in Nigeria killing all 32 people on board.",
-    "region": "india",
-    "headline": "नाइजीरिया में बड़ा हादसा, सैन्य विमान क्रैश में सभी 32 लोगों की मौत",
-    "source_summary": "नाइजीरिया में एक बेहद दर्दनाक और बड़ा विमान हादसा सामने आया है. बेन सिटी से लागोस की ओर जा रहा नाइजीरियाई वायुसेना का एक सैन्य विमान दक्षिण पश्चिमी ओडो स्टेट में अचानक दुर्घटनाग्रस्त हो गया. इस दुखद हादसे में विमान में सवार सभी 32 लोगों की मौत हो गई है, जिनमें 25 यात्री और चालक दल के 7 सदस्य शामिल थे. स्थानीय मीडिया रिपोर्ट के अनुसार, यह एटीआर 42 विमान अपने एक नियमित मिशन पर जा रहा था. उड़ान भरने के कुछ ही समय बाद एयर ट्रैफिक कंट्रोल से इस विमान का संपर्क पूरी तरह टूट गया. इसके बाद तटीय शहर डग बोगोटा के पास इस विमान का मलबा बरामद हुआ.",
-    "source_url": "https://www.aajtak.in/world/video/nigerian-military-plane-crash-kills-all-32-on-board-ytvd-2662322-2026-10-06?utm_source=rssfeed",
-    "source_name": "Aaj Tak",
-    "published": "2026-10-06T11:10:14+05:30",
-    "hook": "नाइजीरिया में दिल दहला देने वाला विमान हादसा!",
-    "script_hi": "नाइजीरिया में एक बड़ा सैन्य विमान क्रैश हो गया है, जिसमें सभी बत्तीस लोगों की मौत हो गई है। यह विमान बेन सिटी से लागोस जा रहा था और ओडो स्टेट में दुर्घटनाग्रस्त हो गया। मृतकों में पच्चीस यात्री और चालक दल के सात सदस्य शामिल थे। उड़ान के दौरान एयर ट्रैफिक कंट्रोल से संपर्क टूटने के बाद विमान का मलबा बरामद किया गया।",
-    "tts_text_hi": "नाइजीरिया में एक बड़ा सैन्य विमान क्रैश हो गया है, जिसमें सभी बत्तीस लोगों की मौत हो गई है। यह विमान बेन सिटी से लागोस जा रहा था और ओडो स्टेट में दुर्घटनाग्रस्त हो गया। मृतकों में पच्चीस यात्री और चालक दल के सात सदस्य शामिल थे। उड़ान के दौरान एयर ट्रैफिक कंट्रोल से संपर्क टूटने के बाद विमान का मलबा बरामद किया गया।",
-    "title": "नाइजीरिया में सैन्य विमान क्रैश, बत्तीस लोगों की मौत",
-    "caption": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।",
-    "hashtags": [
-      "NigeriaPlaneCrash",
-      "MilitaryAircraft",
-      "BreakingNews",
-      "WorldNews",
-      "AccidentNews",
-      "Nigeria"
-    ],
-    "visual_queries": [
-      "military airplane flight",
-      "airplane wreckage disaster site",
-      "emergency rescue operation"
-    ],
-    "named_person": null,
-    "named_person_hi": null,
-    "secondary_persons": [],
-    "est_duration_sec": 28,
-    "flag_for_manual_review": false,
-    "flag_reason": null,
-    "assets": [
-      {
-        "type": "video",
-        "url": "https://videos.pexels.com/video-files/12954782/12954782-hd_720_1280_30fps.mp4",
-        "source": "pexels",
-        "query": "military airplane flight",
-        "credit": "Rachel Lustiva",
-        "source_duration_sec": 6,
-        "duration_sec": 6
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/26731368/pexels-photo-26731368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/10148457/pexels-photo-10148457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "airplane wreckage disaster site",
-        "credit": "Wolf  Art",
-        "duration_sec": 4.0
+        "query": "modern tech workspace India",
+        "credit": "Milind Shah",
+        "duration_sec": 3.6
       },
       {
         "type": "image",
-        "url": "https://images.pexels.com/photos/9424560/pexels-photo-9424560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url": "https://images.pexels.com/photos/33988300/pexels-photo-33988300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "source": "pexels",
-        "query": "emergency rescue operation",
-        "credit": "Roman Apaza",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/9861441/pexels-photo-9861441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "commercial airplane flying sky",
-        "credit": "Anton Kudryashov",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/18556687/pexels-photo-18556687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "air traffic control tower",
-        "credit": "Zyla Rohly",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/20721091/pexels-photo-20721091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "military airplane flying sky",
-        "credit": "Enes Çelik",
-        "duration_sec": 4.0
-      },
-      {
-        "type": "image",
-        "url": "https://images.pexels.com/photos/16159072/pexels-photo-16159072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "source": "pexels",
-        "query": "aerial view forest landscape",
-        "credit": "Luis Flores",
-        "duration_sec": 4.0
+        "query": "digital security background",
+        "credit": "Evolunshy .",
+        "duration_sec": 3.6
       }
     ],
     "asset_count": 7,
@@ -1214,51 +643,51 @@
     "review_status": "approved",
     "platform_copy": {
       "youtube": {
-        "title": "नाइजीरिया में सैन्य विमान क्रैश, बत्तीस लोगों की मौत",
-        "caption": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।\n\n#NigeriaPlaneCrash #MilitaryAircraft #BreakingNews #WorldNews #AccidentNews"
+        "title": "AI से पूछे थे मर्डर के तरीके! बेंगलुरु ट्रिपल मर्डर में चौंकाने वाला सच 🚨",
+        "caption": "पुलिस ने जब आरोपी का सर्च इतिहास खंगाला, तो सबके होश उड़ गए। 🛑\n\nबेंगलुरु ट्रिपल मर्डर केस में बड़ा खुलासा हुआ है। आरोपी ने वारदात को अंजाम देने से पहले AI टूल्स से इंसानी शरीर के कमजोर हिस्सों और हमले के तरीकों की सर्च की थी।\n\nपूरी कहानी वीडियो में देखें।\n\n#BengaluruMurderCase #AIBasedCrime #CrimeNewsHindi #BengaluruNews #Investigation"
       },
       "instagram": {
         "title": null,
-        "caption": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।\n\n#NigeriaPlaneCrash #MilitaryAircraft #BreakingNews #WorldNews #AccidentNews"
+        "caption": "पुलिस ने जब आरोपी का फोन चेक किया, तो उड़ गए होश! 🤯\n\nबेंगलुरु ट्रिपल मर्डर केस में खुलासा हुआ है कि आरोपी ने मर्डर से पहले AI की मदद ली थी। आखिर क्या थी पूरी साजिश? \n\nपूरी कहानी देखें और शेयर करें।\n\n#BengaluruMurderCase #AIBasedCrime #CrimeNewsHindi #BengaluruNews #Investigation"
       },
       "facebook": {
         "title": null,
-        "caption": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।\n\n#NigeriaPlaneCrash #MilitaryAircraft #BreakingNews #WorldNews #AccidentNews"
+        "caption": "पुलिस ने जब आरोपी का सर्च इतिहास खंगाला, तो उनके भी होश उड़ गए। 🛑\n\nबेंगलुरु ट्रिपल मर्डर केस की जांच में सामने आया है कि शातिर आरोपी ने वारदात को अंजाम देने से पहले AI टूल्स से हमले के तरीके पूछे थे। तकनीक का ऐसा खौफनाक इस्तेमाल देख हर कोई हैरान है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#BengaluruMurderCase #AIBasedCrime #CrimeNewsHindi #BengaluruNews #Investigation"
       },
       "hashtags": [
-        "NigeriaPlaneCrash",
-        "MilitaryAircraft",
-        "BreakingNews",
-        "WorldNews",
-        "AccidentNews"
+        "BengaluruMurderCase",
+        "AIBasedCrime",
+        "CrimeNewsHindi",
+        "BengaluruNews",
+        "Investigation"
       ]
     },
-    "audio_path": "audio/nigeria_military_plane_crash_32_dead.wav",
-    "audio_duration_sec": 22.87,
-    "video_path": "videos/nigeria_military_plane_crash_32_dead.mp4",
-    "video_duration_sec": 30.79,
+    "audio_path": "audio/bengaluru_triple_murder_ai_search_history.wav",
+    "audio_duration_sec": 18.67,
+    "video_path": "videos/bengaluru_triple_murder_ai_search_history.mp4",
+    "video_duration_sec": 26.66,
     "publish_results": {
       "youtube": {
         "success": false,
         "error": "could not obtain access token from refresh token",
-        "attempted_at": "2026-10-06T06:58:15.956146+00:00"
+        "attempted_at": "2026-10-06T15:40:02.595919+00:00"
       },
       "facebook": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6ac49c20d7d183ae0fc12313",
+            "_id": "6ac5166f94696ebc6c803448",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।\n\n#NigeriaPlaneCrash #MilitaryAircraft #BreakingNews #WorldNews #AccidentNews",
+            "content": "पुलिस ने जब आरोपी का सर्च इतिहास खंगाला, तो उनके भी होश उड़ गए। 🛑\n\nबेंगलुरु ट्रिपल मर्डर केस की जांच में सामने आया है कि शातिर आरोपी ने वारदात को अंजाम देने से पहले AI टूल्स से हमले के तरीके पूछे थे। तकनीक का ऐसा खौफनाक इस्तेमाल देख हर कोई हैरान है।\n\nपूरी कहानी जानने के लिए वीडियो पूरा देखें।\n\n#BengaluruMurderCase #AIBasedCrime #CrimeNewsHindi #BengaluruNews #Investigation",
             "mediaItems": [
               {
-                "_id": "6ac49c20d7d183ae0fc12315",
-                "url": "https://media.zernio.com/media/1791269918105_cv8no7ww_nigeria_military_plane_crash_32_dead.mp4",
+                "_id": "6ac5166f94696ebc6c80344a",
+                "url": "https://media.zernio.com/media/1791301228937_88wglsfj_bengaluru_triple_murder_ai_search_history.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-06T06:58:39.161Z",
+            "scheduledFor": "2026-10-06T15:40:30.115Z",
             "timezone": "UTC",
             "status": "published",
             "tags": [],
@@ -1269,7 +698,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-06T06:58:40.860Z",
+            "publishingClaimedAt": "2026-10-06T15:40:31.570Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1278,11 +707,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-06T06:58:40.829Z",
-            "updatedAt": "2026-10-06T06:58:46.316Z",
+            "createdAt": "2026-10-06T15:40:31.503Z",
+            "updatedAt": "2026-10-06T15:40:37.895Z",
             "platforms": [
               {
-                "_id": "6ac49c20d7d183ae0fc12312",
+                "_id": "6ac5166f94696ebc6c803447",
                 "platform": "facebook",
                 "accountId": {
                   "_id": "6a8efc6777555aae01af802c",
@@ -1295,36 +724,36 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-06T06:58:39.161Z",
+                "scheduledFor": "2026-10-06T15:40:30.115Z",
                 "status": "published",
-                "publishedAt": "2026-10-06T06:58:46.280Z",
-                "platformPostId": "2534616200379103",
-                "platformPostUrl": "https://www.facebook.com/watch/?v=2534616200379103",
+                "publishedAt": "2026-10-06T15:40:37.825Z",
+                "platformPostId": "1420535329464746",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1420535329464746",
                 "publishAttempts": 1,
-                "contentHash": "8fdc1986d7e6fba7ab9604c1199e4355"
+                "contentHash": "eb29d025b0ce5ba43876b3124ba8712c"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-06T06:58:46.720320+00:00"
+        "attempted_at": "2026-10-06T15:40:38.042655+00:00"
       },
       "instagram": {
         "success": true,
         "result": {
           "post": {
-            "_id": "6ac49c409c27eee2770fca9f",
+            "_id": "6ac5169315fea363a5a7df42",
             "userId": "6a8efb7a7e175e4c6ccd78ee",
             "title": "",
-            "content": "नाइजीरिया में एक दर्दनाक सैन्य विमान हादसे में बत्तीस लोगों की जान चली गई है। बेन सिटी से लागोस जा रहा विमान ओडो स्टेट के पास दुर्घटनाग्रस्त हुआ।\n\n#NigeriaPlaneCrash #MilitaryAircraft #BreakingNews #WorldNews #AccidentNews",
+            "content": "पुलिस ने जब आरोपी का फोन चेक किया, तो उड़ गए होश! 🤯\n\nबेंगलुरु ट्रिपल मर्डर केस में खुलासा हुआ है कि आरोपी ने मर्डर से पहले AI की मदद ली थी। आखिर क्या थी पूरी साजिश? \n\nपूरी कहानी देखें और शेयर करें।\n\n#BengaluruMurderCase #AIBasedCrime #CrimeNewsHindi #BengaluruNews #Investigation",
             "mediaItems": [
               {
-                "_id": "6ac49c409c27eee2770fcaa1",
-                "url": "https://media.zernio.com/media/1791269949853_7tkftppa_nigeria_military_plane_crash_32_dead.mp4",
+                "_id": "6ac5169315fea363a5a7df44",
+                "url": "https://media.zernio.com/media/1791301265287_e76oembk_bengaluru_triple_murder_ai_search_history.mp4",
                 "type": "video"
               }
             ],
-            "scheduledFor": "2026-10-06T06:59:10.936Z",
+            "scheduledFor": "2026-10-06T15:41:06.836Z",
             "timezone": "UTC",
             "status": "publishing",
             "tags": [],
@@ -1335,7 +764,7 @@
             "metadata": {
               "usageCounted": true
             },
-            "publishingClaimedAt": "2026-10-06T06:59:12.524Z",
+            "publishingClaimedAt": "2026-10-06T15:41:07.986Z",
             "publishAttempts": 0,
             "recycling": {
               "enabled": false,
@@ -1344,11 +773,11 @@
               "contentVariations": [],
               "contentVariationIndex": 0
             },
-            "createdAt": "2026-10-06T06:59:12.488Z",
-            "updatedAt": "2026-10-06T06:59:14.119Z",
+            "createdAt": "2026-10-06T15:41:07.930Z",
+            "updatedAt": "2026-10-06T15:41:09.647Z",
             "platforms": [
               {
-                "_id": "6ac49c409c27eee2770fca9e",
+                "_id": "6ac5169315fea363a5a7df41",
                 "platform": "instagram",
                 "accountId": {
                   "_id": "6a8f021a77555aae01b1179f",
@@ -1361,16 +790,251 @@
                 },
                 "profileId": "6a8efb7ab8c42db6c3e1415e",
                 "customMedia": [],
-                "scheduledFor": "2026-10-06T06:59:10.936Z",
+                "scheduledFor": "2026-10-06T15:41:06.836Z",
                 "status": "processing",
                 "publishAttempts": 1,
-                "contentHash": "ddf6fe95940f81af597ec1e107a46098"
+                "contentHash": "631f4b1cbcc26ca87a6b8afbc6d58a93"
               }
             ]
           },
           "message": "Post published successfully"
         },
-        "attempted_at": "2026-10-06T06:59:14.362435+00:00"
+        "attempted_at": "2026-10-06T15:41:09.918966+00:00"
+      }
+    }
+  },
+  {
+    "topic_label": "deoghar_sbi_atm_stolen_gas_cutter",
+    "virality_score": 7,
+    "reason": "Audacious theft where thieves uprooted and dragged an entire ATM machine.",
+    "region": "india",
+    "headline": "पहले शटर तोड़ा, फिर ATM काटा... मशीन लेकर फरार हुए चोर",
+    "source_summary": "झारखंड के देवघर में नंदन पहाड़ के पास बदमाश SBI का पूरा ATM उखाड़कर ले गए. शटर तोड़ने के बाद गैस कटर से मशीन निकाली और करीब 500 मीटर तक सड़क पर घसीटकर कार में लादकर फरार हो गए. CCTV फुटेज के आधार पर पुलिस आरोपियों की पहचान में जुटी है.",
+    "source_url": "https://www.aajtak.in/short-videos/video/sbi-atm-machine-theft-cctv-video-deoghar-police-investigation-details-mmtm-2663020-2026-10-06?utm_source=rssfeed",
+    "source_name": "Aaj Tak",
+    "published": "2026-10-06T18:20:31+05:30",
+    "hook": "झारखंड में फिल्मी अंदाज में एटीएम चोरी!",
+    "script_hi": "झारखंड के देवघर में नंदन पहाड़ के पास बदमाशों ने एसबीआई का पूरा एटीएम उखाड़ लिया। चोर शटर तोड़कर अंदर घुसे, गैस कटर से मशीन निकाली और सड़क पर घसीटते हुए कार में लादकर फरार हो गए। पुलिस सीसीटीवी फुटेज के आधार पर आरोपियों की तलाश कर रही है।",
+    "tts_text_hi": "झारखंड के देवघर में नंदन पहाड़ के पास बदमाशों ने एसबीआई का पूरा एटीएम उखाड़ लिया। चोर शटर तोड़कर अंदर घुसे, गैस कटर से मशीन निकाली और सड़क पर घसीटते हुए कार में लादकर फरार हो गए। पुलिस सीसीटीवी फुटेज के आधार पर आरोपियों की तलाश कर रही है।",
+    "title": "झारखंड के देवघर में एटीएम चोरी",
+    "caption": "झारखंड के देवघर में बदमाशों ने एसबीआई का पूरा एटीएम उखाड़ लिया। गैस कटर से मशीन काटकर कार में ले उड़े चोर।",
+    "hashtags": [
+      "JharkhandNews",
+      "Deoghar",
+      "ATMTheft",
+      "CrimeNews",
+      "PoliceInvestigation",
+      "IndiaNews"
+    ],
+    "visual_queries": [
+      "Deoghar India street",
+      "broken ATM machine India",
+      "CCTV camera India",
+      "police investigation India"
+    ],
+    "named_person": null,
+    "named_person_hi": null,
+    "secondary_persons": [],
+    "est_duration_sec": 28,
+    "flag_for_manual_review": false,
+    "flag_reason": null,
+    "assets": [
+      {
+        "type": "video",
+        "url": "https://videos.pexels.com/video-files/10482312/10482312-hd_720_1366_25fps.mp4",
+        "source": "pexels",
+        "query": "police investigation India",
+        "credit": "cottonbro studio",
+        "source_duration_sec": 11,
+        "duration_sec": 6
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/17802056/pexels-photo-17802056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "Deoghar India street",
+        "credit": "Ranjeet  Chauhan",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/14644782/pexels-photo-14644782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "broken ATM machine India",
+        "credit": "Dom Sch-veg-man",
+        "duration_sec": 5
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/16560413/pexels-photo-16560413.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "source": "pexels",
+        "query": "CCTV camera India",
+        "credit": "Rakesh Teja",
+        "duration_sec": 5
+      }
+    ],
+    "asset_count": 4,
+    "timeline_covered_sec": 21,
+    "review_status": "approved",
+    "platform_copy": {
+      "youtube": {
+        "title": "झारखंड में फिल्मी अंदाज में उखाड़ा ATM! 🤯",
+        "caption": "झारखंड में फिल्मी अंदाज में एटीएम चोरी! 🤯\n\nदेवघर में चोरों ने पहले दुकान का शटर तोड़ा और फिर गैस कटर से पूरा एटीएम मशीन ही काटकर उठा ले गए। इस दुस्साहस भरी वारदात से पूरे इलाके में सनसनी फैल गई है।\n\nपूरी कहानी देखें और बताएं, ऐसी सुरक्षा के बीच कैसे बचेंगे पैसे?\n\n#JharkhandNews #DeogharNews #ATMRobbery #CrimeNews #JharkhandPolice"
+      },
+      "instagram": {
+        "title": null,
+        "caption": "झारखंड में फिल्मी अंदाज में एटीएम चोरी! 🤯 देवघर में चोरों ने पहले दुकान का शटर तोड़ा और फिर गैस कटर से पूरा एटीएम मशीन ही काटकर उठा ले गए। पूरी कहानी देखें।\n\n#JharkhandNews #DeogharNews #ATMRobbery #CrimeNews #JharkhandPolice"
+      },
+      "facebook": {
+        "title": null,
+        "caption": "झारखंड में फिल्मी अंदाज में एटीएम चोरी! 🤯\n\nदेवघर के एक इलाके में चोरों ने जो किया, उसे देखकर हर कोई हैरान है। अपराधियों ने पहले दुकान का शटर तोड़ा और फिर बड़ी सफाई से पूरा एटीएम मशीन ही काटकर अपने साथ ले उड़े। पुलिस अब सीसीटीवी फुटेज खंगाल रही है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#JharkhandNews #DeogharNews #ATMRobbery #CrimeNews #JharkhandPolice"
+      },
+      "hashtags": [
+        "JharkhandNews",
+        "DeogharNews",
+        "ATMRobbery",
+        "CrimeNews",
+        "JharkhandPolice"
+      ]
+    },
+    "audio_path": "audio/deoghar_sbi_atm_stolen_gas_cutter.wav",
+    "audio_duration_sec": 18.74,
+    "video_path": "videos/deoghar_sbi_atm_stolen_gas_cutter.mp4",
+    "video_duration_sec": 26.78,
+    "publish_results": {
+      "youtube": {
+        "success": false,
+        "error": "could not obtain access token from refresh token",
+        "attempted_at": "2026-10-06T15:46:32.010620+00:00"
+      },
+      "facebook": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6ac517ee8b3914ef670711c5",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "झारखंड में फिल्मी अंदाज में एटीएम चोरी! 🤯\n\nदेवघर के एक इलाके में चोरों ने जो किया, उसे देखकर हर कोई हैरान है। अपराधियों ने पहले दुकान का शटर तोड़ा और फिर बड़ी सफाई से पूरा एटीएम मशीन ही काटकर अपने साथ ले उड़े। पुलिस अब सीसीटीवी फुटेज खंगाल रही है।\n\nपूरी कहानी देखें और शेयर करें।\n\n#JharkhandNews #DeogharNews #ATMRobbery #CrimeNews #JharkhandPolice",
+            "mediaItems": [
+              {
+                "_id": "6ac517ee8b3914ef670711c7",
+                "url": "https://media.zernio.com/media/1791301612268_3jtrhrxf_deoghar_sbi_atm_stolen_gas_cutter.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-06T15:46:53.465Z",
+            "timezone": "UTC",
+            "status": "published",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-06T15:46:54.700Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-06T15:46:54.594Z",
+            "updatedAt": "2026-10-06T15:47:00.781Z",
+            "platforms": [
+              {
+                "_id": "6ac517ee8b3914ef670711c4",
+                "platform": "facebook",
+                "accountId": {
+                  "_id": "6a8efc6777555aae01af802c",
+                  "platform": "facebook",
+                  "username": "lets.quote.up",
+                  "displayName": "Ssd News",
+                  "profilePicture": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-1/768370402_1084568660591758_5891467265849711284_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=W58Tf6EHDA8Q7kNvwF9ymYx&_nc_oc=Adovy66ILTg7l8cwLfr6ywoA4UcryMbGsbIrw-pfsGZpYQQ--M0bZDIX2wuQc_5pPYE&_nc_zt=24&_nc_ht=scontent-lhr11-1.xx&edm=AJdBtusEAAAA&_nc_gid=zgTK6IWNON2IhJYpLlV5Gw&_nc_tpa=Q5bMBQIqNNbmEiuE2DZr51qD-3-aj0GNaZZJvZ1HTl7yGPiCEXid9tVVYZN6NuiSa1N1RtLycKpc8h5L&oh=00_AQPex4Xpy9BumhFIdBiLQe_dl9dUUQ59mvd1kjAH4Gm7Gw&oe=6ACA4994",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-06T15:46:53.465Z",
+                "status": "published",
+                "publishedAt": "2026-10-06T15:47:00.702Z",
+                "platformPostId": "1470684821626202",
+                "platformPostUrl": "https://www.facebook.com/watch/?v=1470684821626202",
+                "publishAttempts": 1,
+                "contentHash": "377d21da4956ce803b7e6c88075b4835"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-06T15:47:00.899584+00:00"
+      },
+      "instagram": {
+        "success": true,
+        "result": {
+          "post": {
+            "_id": "6ac5181218f2fdeecf1dd50a",
+            "userId": "6a8efb7a7e175e4c6ccd78ee",
+            "title": "",
+            "content": "झारखंड में फिल्मी अंदाज में एटीएम चोरी! 🤯 देवघर में चोरों ने पहले दुकान का शटर तोड़ा और फिर गैस कटर से पूरा एटीएम मशीन ही काटकर उठा ले गए। पूरी कहानी देखें।\n\n#JharkhandNews #DeogharNews #ATMRobbery #CrimeNews #JharkhandPolice",
+            "mediaItems": [
+              {
+                "_id": "6ac5181218f2fdeecf1dd50f",
+                "url": "https://media.zernio.com/media/1791301648069_7m5h0rsg_deoghar_sbi_atm_stolen_gas_cutter.mp4",
+                "type": "video"
+              }
+            ],
+            "scheduledFor": "2026-10-06T15:47:29.075Z",
+            "timezone": "UTC",
+            "status": "publishing",
+            "tags": [],
+            "hashtags": [],
+            "mentions": [],
+            "visibility": "public",
+            "crosspostingEnabled": true,
+            "metadata": {
+              "usageCounted": true
+            },
+            "publishingClaimedAt": "2026-10-06T15:47:30.311Z",
+            "publishAttempts": 0,
+            "recycling": {
+              "enabled": false,
+              "gapFreq": "month",
+              "recycleCount": 0,
+              "contentVariations": [],
+              "contentVariationIndex": 0
+            },
+            "createdAt": "2026-10-06T15:47:30.269Z",
+            "updatedAt": "2026-10-06T15:47:32.455Z",
+            "platforms": [
+              {
+                "_id": "6ac5181218f2fdeecf1dd509",
+                "platform": "instagram",
+                "accountId": {
+                  "_id": "6a8f021a77555aae01b1179f",
+                  "platform": "instagram",
+                  "username": "ssdnewsdaily",
+                  "displayName": "SSD News",
+                  "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/771820979_18096274460529878_5512362397771413795_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DhieA37EVO8Q7kNvwHUdEhj&_nc_oc=AdrK_zBcGD1GKZZG9pxf0P9wFtoaRsUZCwrzSnNrCSRu_g-2eMDlAq-kiCJinobU8tU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nZkdGOOeLOyj8E1xboHbbg&_nc_tpa=Q5bMBQLfeadYOshYOCiLbXIbQQzlUgOjw_8EAg4RfMKu7FgxNl-NwMhvVMw0JFEVsZSkw3E3sTEnf23bCw&oh=00_AQN-1nhauHWzCYVKTpkmPO0ZJ8VKFGdWGalasYhyF1eayA&oe=6ACA3D3B",
+                  "isActive": true,
+                  "profileId": "6a8efb7ab8c42db6c3e1415e"
+                },
+                "profileId": "6a8efb7ab8c42db6c3e1415e",
+                "customMedia": [],
+                "scheduledFor": "2026-10-06T15:47:29.075Z",
+                "status": "processing",
+                "publishAttempts": 1,
+                "contentHash": "e6ab5f65f4e47ddead31404667355d6f"
+              }
+            ]
+          },
+          "message": "Post published successfully"
+        },
+        "attempted_at": "2026-10-06T15:47:32.750421+00:00"
       }
     }
   }
